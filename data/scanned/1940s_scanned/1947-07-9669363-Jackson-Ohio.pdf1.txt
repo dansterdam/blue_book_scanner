@@ -1,0 +1,36 @@
+The image does not contain a photograph; it is a document page. The text on the document reads as follows:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP    2. LOC "ION
+   21 JULY 47 /1700Z       Jackson, Ohio
+
+3. SOURCE                    10. CONCLUSION
+   Civilian                   Other (U S ARMY RADIOSOUND TRANSMITTER)
+
+4. NUMBER OF OBJECTS    11. BRIEF SUMMARY AND ANALYSIS
+   One                          Object was found on private pro;erty by a resident of that
+                                 area who turned the object over to the sheriff's of'ice.
+5. LENGTH OF OBSERVATION       For description of object SEE CASE FILE.
+   N/A
+
+6. TYPE OF OBSERVATION
+   Ground-Visual
+
+7. COURSE
+   Landed
+
+8. PHOTOS
+   [] Yes
+   [X] No
+
+9. PHYSICAL EVIDENCE
+   [X] Yes
+   [] No       MOT IN FILE
+
+                           FORM
+FTD SEP 63 0-329 (TDE) Previous editions of this form may be used.
+```
+
+Please note a few possible errors in transcription due to unclear or fuzzy text, particularly where some letters or punctuation may appear as symbols, such as "pro;erty" which likely should be "property".

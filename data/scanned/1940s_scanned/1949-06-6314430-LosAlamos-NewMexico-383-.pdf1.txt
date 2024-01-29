@@ -1,0 +1,34 @@
+There are no photographs present in this image. The text in the document is as follows:
+
+```
+PROJECT 10073 RECORD
+1. DATE - TIME GROUP               2. 'C'ATION
+11 June 1949 12/0357Z              Los Alamos, New Mexico
+                                   383
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+4 - 5 Seconds
+6. TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+NE
+8. PHOTOS
+o Yes
+X No
+9. PHYSICAL EVIDENCE
+o Yes
+X No
+10. CONCLUSION
+Astro (METEOR)
+11. BRIEF SUMMARY AND ANALYSIS
+Object appeared as a star or light. Object green then red at
+end of flight, with short, red tail. Appeared to climb 
+sharply then fell almost straight down.
+
+FTD SFP 63 0.329 (TDE)              Previous editions of this form may be used.
+```
+
+Please note that some parts of the text, such as section labels, are truncated or obscured due to the image quality and alignment.

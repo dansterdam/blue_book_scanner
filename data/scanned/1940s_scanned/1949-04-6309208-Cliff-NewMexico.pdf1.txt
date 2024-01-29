@@ -1,0 +1,43 @@
+There are no photographs present on this page.
+
+Here is all the text found in the document:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP         2 LOCATION
+22 April 49                  Cliff, New Mexico
+                    22/1502
+
+3. SOURCE                    10. CONCLUSION
+Civilian                     AIRCRAFT
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+Two minutes
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+East
+
+8. PHOTOS
+  [ ] Yes
+  [x] No
+
+9. PHYSICAL EVIDENCE
+  [ ] Yes
+  [x] No
+
+11. BRIEF SUMMARY AND ANALYSIS
+Observer sighted an aluminum-colored object which appeared
+to be a round, flat, thin-disc-shaped object. It was
+heading East and was in view for two minutes before dis-
+appearing behind some mountains.
+
+FORM
+FTD SEP 63 329 (TDE)                  Previous editions of this form may be used.
+```

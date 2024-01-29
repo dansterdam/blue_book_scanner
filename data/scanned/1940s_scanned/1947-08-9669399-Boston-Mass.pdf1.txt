@@ -1,0 +1,43 @@
+There is no photograph present in the image you've provided; it's a page of text within a form.
+
+Here is the text from the document:
+
+```
+PROJECT #10073 RECORD CARD
+-----------------------------------------
+1. DATE                  4 August 1947
+2. LOCATION             Boston, Mass
+-----------------------------------------
+3. DATE-TIME G.M.T.         1600
+4. TYPE OF OBSERVATION  [] Ground-Visual     [] Ground-Radar     [X] Air-Visual     [] Air-Intercept Radar
+5. PHOTOS              [] Yes  [] No
+6. SOURCE              Civilian Pilot
+-----------------------------------------
+7. LENGTH OF OBSERVATION       30 Seconds
+8. NUMBER OF OBJECTS  Two
+9. COURSE  East
+-----------------------------------------
+10. BRIEF SUMMARY OF SIGHTING
+   Elliptical, deep gold, 15 ft long, two to
+   three feet in depth, blunt at both ends.
+   The object had a definite shape and there
+   was no suggestion of gaseous dissipation.
+   Traveling at approx 350 MPH.
+-----------------------------------------
+11. COMMENTS
+   Probably ice crystals.(SUN DOG)
+-----------------------------------------
+12. CONCLUSIONS
+   [] Probably Balloon
+   [] Possibly Balloon
+   [] Was Aircraft
+   [] Possibly Aircraft
+   [] Was Astronomical
+   [] Probably Astronomical
+   [] Possibly Phenomena
+   [X] Unknown
+   [] Insufficient Data for Evaluation
+   [] Other
+-----------------------------------------
+AFTC FORM 112 (REV 3-52) 5337
+```

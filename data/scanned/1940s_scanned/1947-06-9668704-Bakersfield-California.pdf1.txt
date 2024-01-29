@@ -1,0 +1,45 @@
+There are no photographs present in this image.
+
+The text from the document reads as follows:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP                                 2. LOCATION
+    24 Jun 47                                          1. Bakersfield, California
+
+3. SOURCE                                           10. CONCLUSION
+   Civilian                                           Other (BIRDS)
+
+4. NUMBER OF OBJECTS
+
+    17
+
+5. LENGTH OF OBSERVATION
+
+    Not reported
+
+6. TYPE OF OBSERVATION
+
+    Ground Visual
+
+7. COURSE
+      1. East 2. 100 deg
+
+8. PHOTOS
+     1 Yes
+     2 No [X]
+
+9. PHYSICAL EVIDENCE
+     1 Yes
+     2 No [X]
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+     Observer first sighted ten objects flying in V formation 
+     to the east, with one straggler. Later saw seven object 
+     flying in a V.
+
+FORM
+FTD SPC 63-0-329 (TDE)                  Previous editions of this form may be used.
+```
