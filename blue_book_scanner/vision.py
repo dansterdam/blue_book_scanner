@@ -37,31 +37,35 @@ def main():
     client = OpenAI(api_key=key)
     # OpenAI API Key
 
-    dir = args.input
-    for file in os.listdir(dir):
-        pages_in_pdf = get_pdf_page_count(dir + file)
+    process_fileset(args.input, args.output, client)
+
+
+def process_fileset(input, output, client):
+    for file in os.listdir(input):
+        pages_in_pdf = get_pdf_page_count(input + file)
         # Getting the base64 string
         counter = 0
-        if file + str(pages_in_pdf) + ".txt" not in os.listdir(args.output):
-            pages_done = len([i for i in os.listdir(args.output) if file in i])
+        if file + str(pages_in_pdf) + ".txt" not in os.listdir(output):
+            pages_done = len([i for i in os.listdir(output) if file in i])
             counter = pages_done
             for i in range(counter, pages_in_pdf, 20):
                 end_page = min(pages_in_pdf, counter + i + 20)
                 start_page = counter + i
                 pages = convert_from_path(
-                    dir + file, first_page=start_page, last_page=end_page
+                    input + file, first_page=start_page, last_page=end_page
                 )
                 for page in pages:
                     counter += 1
                     image = encode_pdf_page_to_base64_image(page)
-                    output = args.output + file + str(counter) + ".txt"
+                    output = output + file + str(counter) + ".txt"
                     print(f"processing {output}")
 
                     response = gpt_ocr(image, client)
 
                     try:
+                        gpt_output_text = response.choices[0].message.content
                         with open(output, "w") as f:
-                            f.write(response.choices[0].message.content)
+                            f.write(gpt_output_text)
                     except KeyError:
                         os.remove(output)
                         print(response.json())
