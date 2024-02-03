@@ -60,7 +60,17 @@ mkdir -p data/orig/1950s
 unzip 1950s.zip -d data/orig/1950s/
 ```
 
+### OpenAI API key
 
+Save a file called api_key.json with your OpenAI API credentials in this format and pass it to the python script with the argument `--keyfile api_key.json` 
+
+Find or create your key here: https://platform.openai.com/api-keys
+
+```
+{
+'api_key': "your api key"
+}
+```
 ### Scan PDFs
 The below command will scan all the original pdfs in the directory `data/orig/1950s` and output the data to `data/scanned/1950s_scanned`. It will make the output directory for you if not found
 

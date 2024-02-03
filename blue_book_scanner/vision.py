@@ -57,17 +57,17 @@ def process_fileset(input, output, client):
                 for page in pages:
                     counter += 1
                     image = encode_pdf_page_to_base64_image(page)
-                    output = output + file + str(counter) + ".txt"
-                    print(f"processing {output}")
+                    output_filename = output + file + str(counter) + ".txt"
+                    print(f"processing {output_filename}")
 
                     response = gpt_ocr(image, client)
 
                     try:
                         gpt_output_text = response.choices[0].message.content
-                        with open(output, "w") as f:
+                        with open(output_filename, "w") as f:
                             f.write(gpt_output_text)
                     except KeyError:
-                        os.remove(output)
+                        os.remove(output_filename)
                         print(response.json())
                         exit()
 
