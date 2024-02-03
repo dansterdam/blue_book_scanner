@@ -60,7 +60,7 @@ def process_fileset(input, output, client):
                     output_filename = output + file + str(counter) + ".txt"
                     print(f"processing {output_filename}")
 
-                    response = gpt_ocr(image, client)
+                    response = gpt_ocr(image, output_filename, client)
 
                     try:
                         gpt_output_text = response.choices[0].message.content
@@ -88,7 +88,7 @@ def encode_pdf_page_to_base64_image(page):
     return base64.b64encode(img_byte_arr).decode("utf-8")
 
 
-def gpt_ocr(image, client):
+def gpt_ocr(image, filename, client):
     response = client.chat.completions.create(
         model="gpt-4-vision-preview",
         messages=[
@@ -97,7 +97,7 @@ def gpt_ocr(image, client):
                 "content": [
                     {
                         "type": "text",
-                        "text": "This is a page in an old UFO report document from project blue book. Please describe any photograph that is present. Not every image will contain a photograph. Then, please write down and output all the text found in the document and nothing else",
+                        "text": f'This is a page in an old UFO report document from project blue book. Please describe any photograph that is present. Not every image will contain a photograph. Then, please act as an OCR system and produce and output all the text found in the document and nothing else. For context: the filename including page number is {filename}',
                     },
                     {
                         "type": "image_url",
