@@ -48,44 +48,6 @@ FTD 529 C-3 (TDE) Previous editions of this form may be used.
 
 - page 1 -
 
-The provided image doesn't contain a photograph, but it does include a diagram and handwritten text. The diagram is a graphical representation of an observation with axes marked with distances, an observation point, and a dashed line leading to a marked position labeled "OBJECT". Here is the text extracted from the document:
-
----
-the sighting also lasted for thirty (30) minutes of flight (ascension) at a rate of 1400 ft/min). I calculated the speed of the object as follows:
-
-(Y) TO STATION
-X (1ST DETECT)
------
-40000
------
-40000 x = 4.8 miles
------
-40000
------
-40000 y = 8.6 miles
-
-40000 x
------
-2131
-40000 y
------
-9463
-
-4.8 + 8.6 = 13.4 miles/minute x 60 = Approx 800 miles/HR
-
-4. The shape of the object appeared to be triangular and was greyish-brown in color. It is the belief of the undersigned that the object could have been an aircraft similar to the Convair XF-92A delta wing interceptor which is undergoing tests at Muroc Air Force Base, California.
-
-UNCLASSIFIED
-
------
-
-[Signature]
-Major, USAF
-Blue Book Officer
----
-
-- page 10 -
-
 The image you provided does not contain any photographs. It is a text document. Here is the text as requested:
 
 ```
@@ -489,4 +451,42 @@ UNCLASSIFIED
 Please note that due to the quality of the scan and the presence of handwritten markings, there may be slight inaccuracies or omissions in the text transcription.
 
 - page 9 -
+
+The provided image doesn't contain a photograph, but it does include a diagram and handwritten text. The diagram is a graphical representation of an observation with axes marked with distances, an observation point, and a dashed line leading to a marked position labeled "OBJECT". Here is the text extracted from the document:
+
+---
+the sighting also lasted for thirty (30) minutes of flight (ascension) at a rate of 1400 ft/min). I calculated the speed of the object as follows:
+
+(Y) TO STATION
+X (1ST DETECT)
+-----
+40000
+-----
+40000 x = 4.8 miles
+-----
+40000
+-----
+40000 y = 8.6 miles
+
+40000 x
+-----
+2131
+40000 y
+-----
+9463
+
+4.8 + 8.6 = 13.4 miles/minute x 60 = Approx 800 miles/HR
+
+4. The shape of the object appeared to be triangular and was greyish-brown in color. It is the belief of the undersigned that the object could have been an aircraft similar to the Convair XF-92A delta wing interceptor which is undergoing tests at Muroc Air Force Base, California.
+
+UNCLASSIFIED
+
+-----
+
+[Signature]
+Major, USAF
+Blue Book Officer
+---
+
+- page 10 -
 

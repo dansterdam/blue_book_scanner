@@ -24,46 +24,6 @@ The quality of the image is poor, so some text might be obscured or illegible. E
 
 - page 1 -
 
-There are no photographs present in this document. 
-
-Here is the output of all the text found in the document:
-
-```
-C O P Y
-
-UNCLASSIFIED
-WAR DEPARTMENT 
-CLASSIFIED MESSAGE CENTER
-
-INCOMING CLEAR MESSAGE
-
-From: CGAGENMRYFORT Fort Sam Houston Texas from AC of S G-2 
-To: Chief of Staff US Army Washington DC 
-Info: CG AAF Fort Monroe Va for Director of Intelligence 
-FM: AKAAD 10-1313 
-15 October 1947 
-
-Reference, previous unverified reports of aerial objects 
-landing in Mexico opposite town of Fabers Tex, report 
-received this data from CG AAM and CGC and Brahan Intelligence O 
-Officer Ft Bliss Tex to the effect Mexican Garrison of Juarez 
-still searching suspected area of impact. No results reported. 
-No verification of report. Investigation continuing. 
-
-End 
-
-ACTION: ID 
-INFO: AF, ACP L1 Cp, PO, PD, PID 
-NC IN 56375 
-(15 Oct '47) DTG 151042 
-
-UNCLASSIFIED 
-
-C O P Y
-```
-
-- page 10 -
-
 The image provided does not contain any photographs. It is a text document. Below is the text extracted from the document as an OCR system:
 
 ```
@@ -323,4 +283,44 @@ DECLASSIFIED
 UNCLASSIFIED
 
 - page 9 -
+
+There are no photographs present in this document. 
+
+Here is the output of all the text found in the document:
+
+```
+C O P Y
+
+UNCLASSIFIED
+WAR DEPARTMENT 
+CLASSIFIED MESSAGE CENTER
+
+INCOMING CLEAR MESSAGE
+
+From: CGAGENMRYFORT Fort Sam Houston Texas from AC of S G-2 
+To: Chief of Staff US Army Washington DC 
+Info: CG AAF Fort Monroe Va for Director of Intelligence 
+FM: AKAAD 10-1313 
+15 October 1947 
+
+Reference, previous unverified reports of aerial objects 
+landing in Mexico opposite town of Fabers Tex, report 
+received this data from CG AAM and CGC and Brahan Intelligence O 
+Officer Ft Bliss Tex to the effect Mexican Garrison of Juarez 
+still searching suspected area of impact. No results reported. 
+No verification of report. Investigation continuing. 
+
+End 
+
+ACTION: ID 
+INFO: AF, ACP L1 Cp, PO, PD, PID 
+NC IN 56375 
+(15 Oct '47) DTG 151042 
+
+UNCLASSIFIED 
+
+C O P Y
+```
+
+- page 10 -
 

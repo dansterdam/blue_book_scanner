@@ -29,40 +29,6 @@ Please note, the document is too faint to make out much of the text and some par
 
 - page 1 -
 
-The image you have provided is a scanned document and does not appear to contain any photographs within it. As requested, I will now act as an OCR system and output the text content from the provided document:
-
-```
-AF-SIQ-33 (3 May 44)
-ROUTING AND RECORD SHEET
-
-UNITED STATES AIR FORCE
-
-SUBJECT: Flying Object Reported
-
-TO: Air Technical Intelligence Center
-    Wright Patterson AFB, Dayton, Ohio
-
-FROM: Processing Branch, Dissemination Control
-      Division, Directorate of Intelligence
-
-The attached correspondence is forwarded for your information and necessary action.
-
-ALLEN G. DUNKEN
-Major, USAF
-
-1 Incl
-Directorate of Intelligence
-Moberly, Missouri, dtd 5 Jun 53
-
-PAGE ________
-
-U. S. GOVERNMENT PRINTING OFFICE: 1951 O - 9772952 10M-9/1/51
-```
-
-Please note, some parts of the document, including the TALLY NO., FILE NO., DATE, COMMENT NO., Major Dunkin's initials and the correction, and the handwritten notes near the bottom right, are either obscured or not fully legible in this image and thus have not been transcribed.
-
-- page 10 -
-
 The image provided does not contain a photograph. It is a scanned image of a document with handwritten text. The document appears to relate to a sighting evaluated by the U.S. Air Force's Project Blue Book, which was a series of systematic studies of unidentified flying objects (UFOs) conducted by the United States Air Force.
 
 Now, acting as an OCR, I will provide the output of the text found in the document:
@@ -328,4 +294,38 @@ DR. HYNEK'S EVALUATIONS EXTRACTED FROM PROJECT GRUDGE REPORT.
 ```
 
 - page 9 -
+
+The image you have provided is a scanned document and does not appear to contain any photographs within it. As requested, I will now act as an OCR system and output the text content from the provided document:
+
+```
+AF-SIQ-33 (3 May 44)
+ROUTING AND RECORD SHEET
+
+UNITED STATES AIR FORCE
+
+SUBJECT: Flying Object Reported
+
+TO: Air Technical Intelligence Center
+    Wright Patterson AFB, Dayton, Ohio
+
+FROM: Processing Branch, Dissemination Control
+      Division, Directorate of Intelligence
+
+The attached correspondence is forwarded for your information and necessary action.
+
+ALLEN G. DUNKEN
+Major, USAF
+
+1 Incl
+Directorate of Intelligence
+Moberly, Missouri, dtd 5 Jun 53
+
+PAGE ________
+
+U. S. GOVERNMENT PRINTING OFFICE: 1951 O - 9772952 10M-9/1/51
+```
+
+Please note, some parts of the document, including the TALLY NO., FILE NO., DATE, COMMENT NO., Major Dunkin's initials and the correction, and the handwritten notes near the bottom right, are either obscured or not fully legible in this image and thus have not been transcribed.
+
+- page 10 -
 

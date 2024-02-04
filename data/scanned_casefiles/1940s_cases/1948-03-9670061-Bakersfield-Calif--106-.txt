@@ -31,36 +31,6 @@ The text is faded and challenging to read; this is the most I can discern from t
 
 - page 1 -
 
-There are no photographs present on this page.
-
-Here is the text output from the document:
-
-```
-UNCLASSIFIED
-
-A-2 COMMENT:
-
-Although there is no evidence to substantiate the following, it is
-the opinion of this Headquarters that this activity could be attributed
-to natural causes. Any further developments, or evidence obtained, will be
-forwarded this headquarters from the Sheriff's Office, Bakersfield, California.
-
-EVALUATION
-
-OF Sources
-C
-OF Information
-3
-
-DOWNGRADED AT 3 YEAR INTERVALS
-DECLASSIFIED AFTER 12 YEARS
-DOD DIR 5200.10
-
-UNCLASSIFIED
-```
-
-- page 10 -
-
 The image provided does not contain a photograph. It is a scanned document page with text. Here is the text from the page:
 
 ```
@@ -378,4 +348,34 @@ DOD DIR 5200 10
 ```
 
 - page 9 -
+
+There are no photographs present on this page.
+
+Here is the text output from the document:
+
+```
+UNCLASSIFIED
+
+A-2 COMMENT:
+
+Although there is no evidence to substantiate the following, it is
+the opinion of this Headquarters that this activity could be attributed
+to natural causes. Any further developments, or evidence obtained, will be
+forwarded this headquarters from the Sheriff's Office, Bakersfield, California.
+
+EVALUATION
+
+OF Sources
+C
+OF Information
+3
+
+DOWNGRADED AT 3 YEAR INTERVALS
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10
+
+UNCLASSIFIED
+```
+
+- page 10 -
 

@@ -32,186 +32,6 @@ Please note that the text in the template form contains several dashed lines whi
 
 - page 1 -
 
-The image provided is a scanned document page, which does not contain any photographs. It appears to be a standard administrative form from a historical context. Here is the text as requested:
-
-```
-TRANSMITTAL
-RESTRICTED AMC FORM NO 9 (9 FEB. 51) SUPERCEDS AMC PRTA AND E-300
-FP M 92 DATE 1/25/459 HOUR________ IDENTIFICATION NUMBER________
-INCOMING SYMBOL INTER._____________ OUTGOING COMPLETE________
-FROM SNYDER OFFICE FILE COPY________ INCOM. FILE COPY________ OUTG. FILE COPY________
-FROM P 4DABW TO OUAD HQ AAF 3-5425
-REG. NO.
-DESCRIPTION, DATES AND SUBJECT: LTR. DTD. 3/2/45 (R-221),
-Unusual Lights
-
-INCLOSURE MARY OF INFO. 3/2/45 (6:00) -ZICHALT
-SUM W/S Exhibit, (unclasi) 5 19:32
-G. P. O. 16-1043 799959
-
-TO: (OFFICE SYMBOL) COPY NO. REC'D BY (FULL SIGNATURE) DATE REC'D HOUR
-1 LAGCX-____
-2 C/S_______ COPY NO. REC'D BY________ DATE REC'D________ HOUR________
-3 AXO_______ COPY NO. REC'D BY ________ DATE REC'D________ HOUR________
-TO:
-4___________ COPY NO. REC'D BY________ DATE REC'D________ HOUR________
-RESTRICTED
-```
-
-- page 10 -
-
-There are no photographs contained in this document page. Below is the text content present in the image:
-
-```
-HAND RECEIPT        SPACE FORM NO. 9    Ed. 8-1-45
-                    SUPERSIDING AF FORM 600A
-
-FROM (AGENCY)      3/28      IDENTIFICATION3-          7
-INCOMING NO.       INTER-                                 
-FROM AGCY WITH NAME OF ST 3/30
-                   OF AGENCY
-                   4TH ARMY AC OF S, G2
-REG. NO.           14652
-DESCRIPTION, DATES AND SUBJECT: Texas
-
-Sealed env. (Uncopied)
-
-INCLOSURES:        3
-
-T. G. O. D. FORM 1947-179939
-TO (OFFICE SYMBOL) COPY NO. REC'D BY (FULL SIGNATURE)           DATE REC'D     HOUR
-1                  MC1                                               
-TO                 COPY NO. REC'D BY                                           DATE REC'D     HOUR
-2
-TO                 COPY NO. REC'D BY                              DATE REC'D             HOUR
-3
-TO                 COPY NO. REC'D BY                              DATE REC'D             HOUR
-4
-RESTRICTED
-```
-
-- page 11 -
-
-The image appears to be a poorly scanned document page with no photograph present. Only a few markings or text are visible. The discernible text reads:
-
-```
-92000
-870.00
-```
-
-The rest of the document is not visible due to the quality of the scan, which obscures any additional details that may have been present on the page.
-
-- page 12 -
-
-The image does not contain a photograph. It appears to be a document or a page with text and symbols.
-
-Here's the text from the document:
-
-```
-38 4
-
-12 11
-
-905.00
-850.00
-
-TANK DESTROYER CENTER CAMP HOOD, TEXAS
-SCALE 1:62,500 FIRST EDITION 1943 [Redacted]
-UNCLAS
-```
-
-- page 13 -
-
-There is no photograph present in this image.
-
-Here is the text output from the document:
-
-```
-UNCLASSIFIED INCIDENT NO. 284
-
-1. Date of Observation 18 March 19____ Date of Interview _______________________
-
-2. Exact Time (local) 1930
-
-3. Place of Observation Camp Hood, Texas
-
-4. Position of observer Ground
-
-5. What attracted attention to object Light
-
-6. Number of objects One
-
-7. Apparent size _______________________
-
-8. Color of object Yellow
-
-9. Shape _______________________
-
-10. Altitude _______________________
-
-11. Direction from observer _______________________
-
-12. Distance from observer _______________________
-
-13. Direction of flight of object(s) _______________________
-
-14. Time in sight _______________________
-
-15. Speed _______________________
-
-16. Sound and odor None
-
-17. Trail _______________________
-
-18. Luminosity _______________________
-
-19. Projections _______________________
-
-20. Manoeuvres _______________________
-
-21. Manner of disappearance _______________________
-
-22. Effect on Clouds _______________________
-
-23. Additional information concerning object _______________________
-
-24. Weather Conditions _______________________
-
-(over)
-```
-
-- page 14 -
-
-There are no photographs present on this page.
-
-Here is the text from the document:
-
-```
-UNCLASSIFIED
-
-Incident_____________________25l______
-
-Page 2
-
-Name and address of observer: Camp Hood, Texas
-
-Occupation and hobbies: Soldier
-
-Comments of Interrogator relative to intelligence and character of observer(s):
-
-NARRATIVE SUMMARY:
-
-At 181930 March 1949, another yellow light was seen in the approximate
-vicinity of 910.1 - 555.10. This light was reportedly seen by only one man.
-There was no indication from reports that these lights were moving, there was
-no noise, and the persons reporting were unable to make an estimate of the
-height. (B-3) (see Exhibit I, Point #2)
-```
-
-Please note that due to the quality of the scan and the nature of the document, elements such as formatting and potential marks or annotations might not be preserved perfectly in the transcription.
-
-- page 15 -
-
 The image does not contain any photographs. It's a scan of a text document. Here is the text output from the document:
 
 ```
@@ -513,4 +333,184 @@ UNCLASSIFIED
 00280
 
 - page 9 -
+
+The image provided is a scanned document page, which does not contain any photographs. It appears to be a standard administrative form from a historical context. Here is the text as requested:
+
+```
+TRANSMITTAL
+RESTRICTED AMC FORM NO 9 (9 FEB. 51) SUPERCEDS AMC PRTA AND E-300
+FP M 92 DATE 1/25/459 HOUR________ IDENTIFICATION NUMBER________
+INCOMING SYMBOL INTER._____________ OUTGOING COMPLETE________
+FROM SNYDER OFFICE FILE COPY________ INCOM. FILE COPY________ OUTG. FILE COPY________
+FROM P 4DABW TO OUAD HQ AAF 3-5425
+REG. NO.
+DESCRIPTION, DATES AND SUBJECT: LTR. DTD. 3/2/45 (R-221),
+Unusual Lights
+
+INCLOSURE MARY OF INFO. 3/2/45 (6:00) -ZICHALT
+SUM W/S Exhibit, (unclasi) 5 19:32
+G. P. O. 16-1043 799959
+
+TO: (OFFICE SYMBOL) COPY NO. REC'D BY (FULL SIGNATURE) DATE REC'D HOUR
+1 LAGCX-____
+2 C/S_______ COPY NO. REC'D BY________ DATE REC'D________ HOUR________
+3 AXO_______ COPY NO. REC'D BY ________ DATE REC'D________ HOUR________
+TO:
+4___________ COPY NO. REC'D BY________ DATE REC'D________ HOUR________
+RESTRICTED
+```
+
+- page 10 -
+
+There are no photographs contained in this document page. Below is the text content present in the image:
+
+```
+HAND RECEIPT        SPACE FORM NO. 9    Ed. 8-1-45
+                    SUPERSIDING AF FORM 600A
+
+FROM (AGENCY)      3/28      IDENTIFICATION3-          7
+INCOMING NO.       INTER-                                 
+FROM AGCY WITH NAME OF ST 3/30
+                   OF AGENCY
+                   4TH ARMY AC OF S, G2
+REG. NO.           14652
+DESCRIPTION, DATES AND SUBJECT: Texas
+
+Sealed env. (Uncopied)
+
+INCLOSURES:        3
+
+T. G. O. D. FORM 1947-179939
+TO (OFFICE SYMBOL) COPY NO. REC'D BY (FULL SIGNATURE)           DATE REC'D     HOUR
+1                  MC1                                               
+TO                 COPY NO. REC'D BY                                           DATE REC'D     HOUR
+2
+TO                 COPY NO. REC'D BY                              DATE REC'D             HOUR
+3
+TO                 COPY NO. REC'D BY                              DATE REC'D             HOUR
+4
+RESTRICTED
+```
+
+- page 11 -
+
+The image appears to be a poorly scanned document page with no photograph present. Only a few markings or text are visible. The discernible text reads:
+
+```
+92000
+870.00
+```
+
+The rest of the document is not visible due to the quality of the scan, which obscures any additional details that may have been present on the page.
+
+- page 12 -
+
+The image does not contain a photograph. It appears to be a document or a page with text and symbols.
+
+Here's the text from the document:
+
+```
+38 4
+
+12 11
+
+905.00
+850.00
+
+TANK DESTROYER CENTER CAMP HOOD, TEXAS
+SCALE 1:62,500 FIRST EDITION 1943 [Redacted]
+UNCLAS
+```
+
+- page 13 -
+
+There is no photograph present in this image.
+
+Here is the text output from the document:
+
+```
+UNCLASSIFIED INCIDENT NO. 284
+
+1. Date of Observation 18 March 19____ Date of Interview _______________________
+
+2. Exact Time (local) 1930
+
+3. Place of Observation Camp Hood, Texas
+
+4. Position of observer Ground
+
+5. What attracted attention to object Light
+
+6. Number of objects One
+
+7. Apparent size _______________________
+
+8. Color of object Yellow
+
+9. Shape _______________________
+
+10. Altitude _______________________
+
+11. Direction from observer _______________________
+
+12. Distance from observer _______________________
+
+13. Direction of flight of object(s) _______________________
+
+14. Time in sight _______________________
+
+15. Speed _______________________
+
+16. Sound and odor None
+
+17. Trail _______________________
+
+18. Luminosity _______________________
+
+19. Projections _______________________
+
+20. Manoeuvres _______________________
+
+21. Manner of disappearance _______________________
+
+22. Effect on Clouds _______________________
+
+23. Additional information concerning object _______________________
+
+24. Weather Conditions _______________________
+
+(over)
+```
+
+- page 14 -
+
+There are no photographs present on this page.
+
+Here is the text from the document:
+
+```
+UNCLASSIFIED
+
+Incident_____________________25l______
+
+Page 2
+
+Name and address of observer: Camp Hood, Texas
+
+Occupation and hobbies: Soldier
+
+Comments of Interrogator relative to intelligence and character of observer(s):
+
+NARRATIVE SUMMARY:
+
+At 181930 March 1949, another yellow light was seen in the approximate
+vicinity of 910.1 - 555.10. This light was reportedly seen by only one man.
+There was no indication from reports that these lights were moving, there was
+no noise, and the persons reporting were unable to make an estimate of the
+height. (B-3) (see Exhibit I, Point #2)
+```
+
+Please note that due to the quality of the scan and the nature of the document, elements such as formatting and potential marks or annotations might not be preserved perfectly in the transcription.
+
+- page 15 -
 

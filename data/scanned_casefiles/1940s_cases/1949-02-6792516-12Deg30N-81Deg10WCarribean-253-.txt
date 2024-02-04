@@ -29,46 +29,6 @@ Please note that some text is unclear due to the quality of the scan, and OCR mi
 
 - page 1 -
 
-The image shows a map with various lines and annotations plotted on it, but there is no clear photograph of any object or phenomenon that can be described as a photograph of an actual scene or event. Instead, it appears to be a graphic representation or schematic and is not a photograph in the conventional sense.
-
-The text on the document is faded and barely legible due to the quality of the scan or the condition of the original document. As a result, it is extremely difficult to accurately reproduce the text as an Optical Character Recognition (OCR) system would. Therefore, I am unable to provide a text output of the document.
-
-- page 10 -
-
-The image presented is a monochrome map displaying various geographical features. There are no photographs present within this image.
-
-Here is the text extracted from the document:
-
----
-STREAM DRIFT
-
-RED LINES INDICATE WARM STREAMS
-BLUE LINES INDICATE COLD STREAMS
-
-UNION OF SOVIET SOCIALIST REPUBLICS
----
-
-Please note that due to the resolution and quality of the image, certain parts of the text might not be legible and therefore are not included in the transcribed output.
-
-- page 11 -
-
-The image does not contain a photograph. It is a map. As per your request, I will provide the OCR output of the text found in the document:
-
-```
-OF THE WORLD
-
-DAVIS OF
-UNITED STATES TERRITORIES
-
-GREENLAND
-
-ICELAND
-
-UNION OF SOVIET SOCIALIST REPUBLICS
-```
-
-- page 12 -
-
 The image does not contain a photograph but rather a map. It appears to be a historical maritime map showing parts of the Indian Ocean, Australia, and the South Pacific Ocean, with lines that may represent ocean currents, wind patterns, shipping routes, or another form of nautical information.
 
 However, given the low resolution and quality of the image, it is not possible to accurately perform an OCR (Optical Character Recognition) analysis and transcribe the text contained within the document. The text is not clear enough to be read or transcribed accurately. If a higher quality image or additional context about the text you need was provided, I might be able to assist further.
@@ -287,4 +247,44 @@ CARIBBEAN SEA 8"X10"
 ```
 
 - page 9 -
+
+The image shows a map with various lines and annotations plotted on it, but there is no clear photograph of any object or phenomenon that can be described as a photograph of an actual scene or event. Instead, it appears to be a graphic representation or schematic and is not a photograph in the conventional sense.
+
+The text on the document is faded and barely legible due to the quality of the scan or the condition of the original document. As a result, it is extremely difficult to accurately reproduce the text as an Optical Character Recognition (OCR) system would. Therefore, I am unable to provide a text output of the document.
+
+- page 10 -
+
+The image presented is a monochrome map displaying various geographical features. There are no photographs present within this image.
+
+Here is the text extracted from the document:
+
+---
+STREAM DRIFT
+
+RED LINES INDICATE WARM STREAMS
+BLUE LINES INDICATE COLD STREAMS
+
+UNION OF SOVIET SOCIALIST REPUBLICS
+---
+
+Please note that due to the resolution and quality of the image, certain parts of the text might not be legible and therefore are not included in the transcribed output.
+
+- page 11 -
+
+The image does not contain a photograph. It is a map. As per your request, I will provide the OCR output of the text found in the document:
+
+```
+OF THE WORLD
+
+DAVIS OF
+UNITED STATES TERRITORIES
+
+GREENLAND
+
+ICELAND
+
+UNION OF SOVIET SOCIALIST REPUBLICS
+```
+
+- page 12 -
 

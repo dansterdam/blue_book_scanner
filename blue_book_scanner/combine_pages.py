@@ -1,5 +1,6 @@
 import os
 import argparse
+import shutil 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Process some files.")
@@ -31,9 +32,11 @@ if __name__ == '__main__':
     
     for file, pages in combined_file_contents.items():
         ordered_content = ''
-        ordered_pages = sorted(pages, key=lambda x: x[1])
+        ordered_pages = sorted(pages, key=lambda x: int(x[1].strip('.txt')))
         for page in ordered_pages:
             ordered_content += page[0]
 
         with open(args.output+file+'.txt', 'w') as f:
             f.write(ordered_content) 
+
+shutil.make_archive('data/scanned_casefiles/1940s_cases', 'zip', 'data/scanned_casefiles/1940s_cases/' )

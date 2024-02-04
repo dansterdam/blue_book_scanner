@@ -63,58 +63,6 @@ FOR OFFICE USE ONLY
 
 - page 1 -
 
-There is no photograph present in this document.
-
-Here is the text output from the document:
-
----
-
-* 3  393
-
-Page 2 Incident
-
-Name and address of observer:
-
-Occupation and hobbies:
-
-Comments of Interrogator relative to intelligence and character of observer(s):
-
-was no apparent attempt for notoriety, as the story was not published by any newspaper. ----------- attested only the Federal Bureau of Investigation of his observations. No one in the surrounding area, including their fellow workers, had any knowledge of these observations. On & June 1949, it was learned that there had been no reports in Beaverton, Oregon, of anyone having seen any unidentified aircraft or objects in the air.
-
----
-
-- page 10 -
-
-The image shown does not contain any actual photographs, but rather it is a page from an old document.
-
-Below is the text reproduced as an OCR system would:
-
-```
-PROJECT BLUE BOOK - US
-DATE OF INVO 5 June 49
-LOCATION Van Wert, Ohio
-SOURCE: civilians
-NAT NO TO ATIC ———
-TYPE OF SITTING Daylight
-COLOR Silver
-SHAPE Ball
-SIZE 21" dia.
-COUNTY NO
-NO. IN GROUP 1
-SOUND
-SKETCHES
-Photography ATIC Form 329
-(2 Jan 52)
-Ins. Data
-Object was viewed through binoculars.
-Evidentally seen for several minutes or
-longer.
-```
-
-Please note that due to the quality of the document, some parts of the text may not be perfectly accurate or legible.
-
-- page 11 -
-
 The image does not contain any photographs. It is a scanned page of a document with typed and handwritten text. Here is the transcription of the text from the document:
 
 ---
@@ -493,4 +441,56 @@ they are employed by the Wolf Creek Highway Water District, Cedar Mills, Oregon.
 Please note that some words are not clear due to redaction in the original document or potential typos, and I have indicated these ambiguities with ________ where text is redacted or removed, and by replicating other special characters or formatting found in the document.
 
 - page 9 -
+
+There is no photograph present in this document.
+
+Here is the text output from the document:
+
+---
+
+* 3  393
+
+Page 2 Incident
+
+Name and address of observer:
+
+Occupation and hobbies:
+
+Comments of Interrogator relative to intelligence and character of observer(s):
+
+was no apparent attempt for notoriety, as the story was not published by any newspaper. ----------- attested only the Federal Bureau of Investigation of his observations. No one in the surrounding area, including their fellow workers, had any knowledge of these observations. On & June 1949, it was learned that there had been no reports in Beaverton, Oregon, of anyone having seen any unidentified aircraft or objects in the air.
+
+---
+
+- page 10 -
+
+The image shown does not contain any actual photographs, but rather it is a page from an old document.
+
+Below is the text reproduced as an OCR system would:
+
+```
+PROJECT BLUE BOOK - US
+DATE OF INVO 5 June 49
+LOCATION Van Wert, Ohio
+SOURCE: civilians
+NAT NO TO ATIC ———
+TYPE OF SITTING Daylight
+COLOR Silver
+SHAPE Ball
+SIZE 21" dia.
+COUNTY NO
+NO. IN GROUP 1
+SOUND
+SKETCHES
+Photography ATIC Form 329
+(2 Jan 52)
+Ins. Data
+Object was viewed through binoculars.
+Evidentally seen for several minutes or
+longer.
+```
+
+Please note that due to the quality of the document, some parts of the text may not be perfectly accurate or legible.
+
+- page 11 -
 
