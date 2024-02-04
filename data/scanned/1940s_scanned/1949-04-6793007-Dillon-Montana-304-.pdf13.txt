@@ -1,0 +1,26 @@
+There is no photograph in this image. The image shows a document with some text fields and information. Here is the text as it appears on the document:
+
+```
+CONTROL NO. SUBJECT                      DECIMAL FILE NO.          FOLLOW UP ON
+679306        TT-255 GRAN LIBRIS 7                   4-7       DATE
+
+FROM          DATES                              DATE
+AIR           5/4/52
+
+TO            DATES                              DATE
+RECORDING
+
+DATE
+5/4/52          DESK                   RECORDED                 HOUR         1100
+
+ROUTED TO      SUSPENSE DATE          ESTABLISHED BY INITIALS     DATE
+1. DETAILS                                                    2
+2. 14 M                             HARRIS
+3.
+
+TRANSMITTAL                                DISPOSITION
+                                      DATED AND SIGNED                  OTHER DISPOSITION
+SEE REVERSE SIDE
+FOR DETAILS OF
+TRANSMITTAL
+```

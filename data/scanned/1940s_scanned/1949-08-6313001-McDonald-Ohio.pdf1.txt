@@ -1,0 +1,63 @@
+The image is a scanned document page, and there are no photographs present in the visible section of the page.
+
+The text on the document reads as follows:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE 
+25 August 1949
+
+2. LOCATION 
+McDonald, Ohio
+
+3. DATE-TIME GROUP
+Local-----------Day.--------------- 
+
+4. TYPE OF OBSERVATION 
+[X] Ground-Visual           [] Ground-Radar 
+[] Air-Visual                 [] Air-Intercept Radar
+
+5. PHOTOS 
+[] Yes 
+[X] No 
+
+6. SOURCE 
+CIV
+
+7. LENGTH OF OBSERVATION 
+5.5
+
+8. NUMBER OF OBJECTS 
+9, COURSE
+
+9. BRIEF SUMMARY OF SIGHTING
+OBJ was glittering and flopping in the sun.
+It then split into 4 or 5 pieces and floated 
+upward.
+
+10. COMMENTS
+E.W.L. Took two of the Carnegie-Illinois
+Steel Plant were cleaning cu (sic) an old
+building and burned some silver paper
+(trash) FLT into the air.
+
+11. CONCLUSIONS
+[] Was Balloon 
+[] Probably Balloon 
+[] Possibly Balloon 
+[X] Was Aircraft 
+[] Possibly Aircraft 
+[] Was Astronomical 
+[] Probably Astronomical 
+[] Possibly Astronomical 
+[] Freak Weather 
+[] Insufficient data for Evaluation 
+[] Unknown
+
+12. OTHER (Paper in wind)
+
+AFW 339 REV 26 SEP 52
+``` 
+
+Note: The document contains checkboxes, some of which are marked with an "X" to indicate the selected option. The transcribed text includes these indications as well. Some text, such as parts of date-time group under section 3 and course under section 8, are not legible in the image provided.

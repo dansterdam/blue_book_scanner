@@ -1,0 +1,43 @@
+The image contains a page from an old documented report related to unidentified flying objects (UFOs), specifically from Project Blue Book. There is no evident photograph present in this image, but there is:
+
+1. A blurred black and white image at the top possibly pertaining to the document's header or a redaction.
+2. Two black smudges or marks in the section labeled "Exhaust trails" and just beneath it.
+
+Now acting as an OCR system, here is the output of all the text found in the document:
+
+```
+CHECK-LIST - UNIDENTIFIED FLYING OBJECTS                                              Incident # 122 b
+
+1. Date 5 April 1948
+2. Time N/S
+3. Location Holloman Air Force Base
+4. Name of observer [REDACTED]
+5. Occupation of observer Trained balloon observer, Geophysics Lab Section
+6. Address of observer N/S
+7. Place of observation From the ground
+8. Number of objects Two
+9. Distance of object from observer N/S
+10. Time in sight 30 seconds
+11. Altitude Very high
+12. Speed Very high, faster than any known aircraft
+13. Direction of flight straight up, 1 disappeared in the west
+    First one veered to the right, started down and was lost to view. 
+    Second one made into the west at a terrific speed and 
+    disappeared suddenly.
+14. Sound N/S
+15. Size N/S
+16. Color Golden hue
+17. Shape Had appearance of a major's insignia, that is, irregularly 
+    rounded and slightly concave on top
+18. Odor detected N/S
+19. Apparent construction N/S
+20. Exhaust trails N/S
+21. Weather conditions N/S
+22. Effect on clouds N/S
+23. Sketches or photographs None
+24. Manner of disappearance Disappeared suddenly
+25. Remarks: ---------- was the only one of the three technicians who 
+    saw two objects. When he first perceived them, they were going
+``` 
+
+Due to the incomplete text at the bottom of the page, the last sentence is cut off and not fully available.

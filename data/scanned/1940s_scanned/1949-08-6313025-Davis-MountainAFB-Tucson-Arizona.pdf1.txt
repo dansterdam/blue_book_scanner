@@ -1,0 +1,47 @@
+There is no photograph in this image. Here is the output of the text found in the document:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP
+26 Aug 49    26/2145Z
+
+2. LOCATION
+Davis-Monthan AFB, Tucson, Arizona
+
+6. SOURCE
+Military
+
+8. NUMBER OF OBJECTS
+ONE
+
+5. LENGTH OF OBSERVATION
+60 seconds
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+Northwest
+
+9. PHOTOS
+O Yes
+/X/ No
+
+10. CONCLUSION
+AIRCRAFT
+
+11. BRIEF SUMMARY AND ANALYSIS
+Observer sighted an object which appeared to be triangular with 
+rounded edges. It had a brownish-hazy color and it was heading 
+NW. It followed a level path, no trail, no sound. The object 
+flew at a high speed. Observer believed the object to be an 
+aircraft.
+
+9. PHYSICAL EVIDENCE
+O Yes
+/X/ No
+
+FORM
+FTD 529 C-3 (TDE) Previous editions of this form may be used.
+```

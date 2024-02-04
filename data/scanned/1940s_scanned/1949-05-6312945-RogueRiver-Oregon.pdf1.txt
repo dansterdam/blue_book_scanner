@@ -1,0 +1,28 @@
+There are no photographs present in this image.
+
+Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP 2. OCATION
+24 MAY 1949 25/0100Z Rogue River, Oregon
+3. SOURCE 10. CONCLUSION
+Civilian AIRCRAFT
+4. NUMBER OF OBJECTS 
+One No data presented to indiCate object could NOT have been an A/C.
+5. LENGTH OF OBSERVATION 
+Not Reported 11. BRIEF SUMMARY AND ANALAYSIS
+6. TYPE OF OBSERVATION Object was round, silver in color and about the size of a
+Ground-Visual C-47. Object flew in a straight flight. Object was coming
+7. COURSE from the East but later turned to the SW.
+SW
+8. PHOTOS
+O Yes.
+XX No
+9. PHYSICAL EVIDENCE
+O Yes.
+XXK No
+FORM
+FTD SEP 63 0-329 (TDE). Previous editions of this form may be used.
+```

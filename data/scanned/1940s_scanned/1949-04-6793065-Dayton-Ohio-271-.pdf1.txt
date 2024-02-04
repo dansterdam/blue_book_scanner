@@ -1,0 +1,25 @@
+The image depicts a page from a document with several fields of typed data and a hand-drawn illustration. The illustration in the document appears to be a simple line drawing of a waveform-like shape with two humps, perhaps intended to represent the motion or shape of an object referred to in the report. Below the drawing, the text "Probable Aircraft" is written, presumably as a conclusion or interpretation of the observation.
+
+Here is the text extracted from the document as per your OCR request:
+
+```
+INCIDENT #271
+DATE OF OBS. 4 April 1949
+LOCALITY Dayton, Ohio
+SOURCE Civilian
+DATE TO ATIC ----
+TIME OF OBS. 0725 & 0730
+NUMBER 1
+SHAPE Parachute
+SIZE 1/4 size of moon
+COLOR White
+COURSE 90°
+ALTITUDE 500 - 600
+LENGTH OF OBSERV. 2 Min.
+TYPE OF OBSERVATION Ground
+MOVEMENTS Straight Flight
+PROJECT SIGN INVESTIGATORS ----
+Preliminary AMC Form 329
+(5 Jan 52)
+Probable Aircraft
+```

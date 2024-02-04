@@ -1,0 +1,35 @@
+The image is a scanned page from an old newspaper with a headline about unidentified flying objects. The upper part of the page features a representation of three "flying saucer" images. It includes side, bottom, and end views of a classic flying saucer shape. The depicted UFO has a central dome on top of a disc-shaped body, with annotations indicating dimensions (10 ft. and 20 ft.).
+
+Now, as requested, I will act as an OCR system and produce the output of all visible text from the document:
+
+```
+imes
+
+...New...
+...Independent...
+
+TWIN FALLS IDAHO FRIDAY AUGUST 15 19...
+---------
+Heads Up, Folks! The Discs Are Flying Again
+---------
+SIDE VIEW BOTTOM VIEW END VIEW
+---------
+Flying Saucer Reported Flashing Down Canyon
+At 1,000 Miles Per Hour; Two Others Are Seen
+
+By JOHN BROCKMAN
+TIMES-NEWS Reporter
+     TWIN FALLS, ID - The flying saucer scare popped up again 
+in southern Idaho Thursday afternoon.
+     Three separate and distinct observers reported 
+what appeared to be three different saucers in the 
+span of two hours and within a radius of a hundred miles 
+of Twin Falls.
+     Description of the objects varied with each report.
+     A Pocatello truck driver frankly admitted his might not 
+have been a saucer, but it was different than any- thing
+he usually sees on his route.
+     A Buhl resident claimed one was so close that ...
+```
+
+The scan is not in the best condition, and there is some text obscured or partially cut off, hence there are gaps and incomplete words in the transcription.

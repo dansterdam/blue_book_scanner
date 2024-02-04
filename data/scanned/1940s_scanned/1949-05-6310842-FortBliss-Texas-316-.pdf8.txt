@@ -1,0 +1,63 @@
+The image is a scanned page of a document and does not contain any photographs. The text in the document is as follows:
+
+```plaintext
+TRANSMITTAL                                           RESTRICTED        ATSC FORM NO. 89-6 (JAN 47)
+FROM:                                  DATE:                               IDENTIFICATION
+(INCOMING)    (OFFICE)                                                                                          (FILE NO.)
+                                                  OUTGOING
+                                                  OFFICE
+REG. NO.                                                                                                        TO:
+FROM:                                                                                                           FILE NO.
+DESCRIPTION, DATES AND SUBJECT:
+                                                          (INCLUDING CLASSIFICATION)
+                  
+ENCLOSURES:
+
+______________________________  DATE REC'D       HOUR
+TO: (OFFICE SYMBOL)    COPY NO.    REC'D BY (FULL SIGNATURE)      DATE REC'D       HOUR
+1                                                                                                                                 
+2     //A                                                                                                                                 
+3     /I\Y\S                                                                                                                                 
+4                                                                        
+
+                                                               RESTRICTED
+___________________________________________
+CONTROL NO.      SUBJECT      DECIMAL FILE NO.         FOLLOW UP ON                                                                                  
+[L] 5-1597       Lttr. "Unimportant" ltr.
+
+FROM:                                                                                  DATE:   [/] 0           
+Lt. Col. J/Todd?                                     
+TO:                                                                                                    
+Fort Houston, Texas                                                                  
+
+RECORDING      REC'D BY       DATE     No. INCLS                /|\
+DESK           (SIGNATURE)    REC'D                   HOUR                  
+ROUTED TO:     SUSPENSE DATE                         ESTABLISHED BY INITIALS     DATE
+                                                                                                    
+                                                                                                [INITIALS]    
+                                                                                                MEW
+
+DATE OF REPLY     OTHER DISPOSITION
+
+___________________    TRANSMITTAL        ATSC FORM NO. 99-9
+                      SEE OTHER SIDE      FOR REMARKS
+
+CONTROL NO      SUBJECT     DECIMAL FILE NO.        FOLLOW UP ON
+Q - 818         Unconventional rft
+                Secret              322AI
+FROM:    VIth ARMY FT Sam Houston TexasBRD
+TO:              IAXS
+RECORDING   REC'D BY       DATE     No. INCLS                /|\
+DATE        (SIGNATURE)    REC'D                    HOUR
+5/18/49     AR JYJ         5/18/49       1300
+
+DESK         ROUTED TO:    SUSPENSE DATE                         ESTABLISHED BY INITIALS     DATE
+                             \\AS
+                         N/K          |/|/
+                                                                                                    
+DATE OF REPLY     OTHER DISPOSITION
+
+                                           TRANSMITTAL        ATSC FORM NO. 99-9
+```
+
+Some elements are challenging to decipher due to the quality of the scan and the format of the original document, such as signatures, initials, and handwritten notes. These have been represented as accurately as possible within the constraints of the information available.

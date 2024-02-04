@@ -1,0 +1,33 @@
+There are no photographs present in this image.
+
+Here is the text output from the document:
+
+```
+1. DATE - TIME GROUP     2. LOCATION
+26 Jul 49                Aug. _, Kent.
+27/c...0_2
+3. SOURCE                10. CONCLUSION
+Civilian                 Other (GROUND/SEARCH LIGHTS)
+                         
+4. NUMBER OF OBJECTS     11. BRIEF SUMMARY AND ANALYSIS
+N/A                      Observer sighted a shaft of light in the sky at regular
+                         intervals during a one hour period at night.
+                         
+5. LENGTH OF OBSERVATION
+1 Houz                   
+6. TYPE OF OBSERVATION   7. COURSE
+Ground-Visual            N/A                           
+                         
+8. PHOTOS
+0 Yes                    
+____ No                  
+                         
+9. PHYSICAL EVIDENCE
+0 Yes                    
+_X_ No                   
+
+FORM
+FTD SEP 3 0-392 (TDE)    Previous editions of this form may be used.
+```
+
+Note: Some parts of the text are unclear due to obfuscation or obscured characters, marked with "...". The transcription reflects the visible parts as accurately as possible.

@@ -1,0 +1,39 @@
+The photograph present at the bottom of the document is quite unclear. It appears to be a black and white grainy image with indistinct features. There is a faint, irregular vertical line or mark towards the left side of the image that stands out slightly from the noisy background. The rest of the picture is too obscured to make out specific details.
+
+Below is the output text from the document as if processed by OCR:
+
+```plaintext
+2. DATE 
+3. LOCAL TIME 
+4. LOCATION OF OBJECT 
+5. NUMBER OF OBJECTS 
+6. TYPE OF OBSERVATION 
+7. COURSE 
+8. PHOTOS 
+9. PHYSICAL EVIDENCE 
+
+Los Alamos, New Mexico
+
+10. CONCLUSION 
+
+(Same REPORT) 
+
+AERO (Summer Storm) 
+
+PROJECT 10073 RECORD CARD 
+
+7-5 5:37 sure
+G-Coundoll
+X Yes
+___ No
+X Yes
+___ No
+
+11. BRIEF SUMMARY AND ANALYSIS 
+
+Sighted inland over-takes rockets sustain on May 4. 
+
+Observers sighted a white light heading at a very fast rate of speed. Objects were passing by constantly. They were heading to the North. No object was in view for more than seven seconds.
+```
+
+Please note that the quality of the original document might affect OCR accuracy, and some words might have been misinterpreted.

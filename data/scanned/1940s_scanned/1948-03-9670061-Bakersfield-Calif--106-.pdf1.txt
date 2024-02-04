@@ -1,0 +1,30 @@
+The image does not contain a photograph. It appears to be a scanned document from Project Blue Book with text relating to an incident report. I will now act as an OCR system and produce the text output from the document:
+
+```
+Incident #206
+
+DATE OF OBS. -------------------------------------------------- 5 Mar 48
+TIME OF OBS.---------------------------------------------------
+LOCATION ------------------------------------------------------ Bakersfield, Calif.
+SOURCE -------------------------------------------------------- male civilian
+HOW RPTD TO AFO ------------------------------------------------
+TYPE OF OBS. EQUIP---------------------------------------------
+TIME OBS. (G.M.T.) ----------------------------------- 1510-1555
+DURATION OF OBS.-----------------------------------------------
+DESCRIPTION OF OBJECTS AND actions ------------------------- Object seemingly on fire, black and red 
+"similar to falling aircraft. ------------------------------------------------------ smoke trailing on it. ------------------
+ATTITUDE --------------------------------------------------------
+ALTITUDE -------------------------------------------------------
+REACTION OF OBSERVER -------------------------------------
+NO. OF OBSERVATIONS ----------------------------------------2
+OF. OF OBJECTS -------------------------------------------------2
+THE WEATHER ---------------------------------------------------
+CLOUD CEILING --------------------------------------------------
+CLOUD COVERAGE ---------------------------------------------
+VISIBILITY ------------------------------------------------------
+WIND --------------------------------------------------------------
+REPORT SENT TO A/C NORAD ------------------------------
+(continue on FORM 159)
+```
+
+The text is faded and challenging to read; this is the most I can discern from the document as an automated OCR.

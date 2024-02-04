@@ -1,0 +1,31 @@
+There is no photograph present on this document page.
+
+Acting as an OCR, here is the text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                2. LOCATION            12. CONCLUSIONS
+                       LADD AFB, Alaska          [] Was Balloon
+                                                  [] Probably Balloon
+                                                  [] Possibly Balloon
+3. DATE-TIME GROUP     4. TYPE OF OBSERVATION   [] Was Aircraft B-29
+                                                  [] Possibly Aircraft
+    290002               [] Ground-Visual         [] Probably Astronomical
+                         [] Ground-Radar       ✓  [] Possibly Astronomical
+                         [] Air-Visual         []  [] Was Astronomical
+                         [] Air-Intercept Radar   [] Other
+                                                  [] Insufficient Data for Evaluation
+                                                  [] Unknown
+5. PHOTOS              6. SOURCE  
+    [] Yes                MIL
+    × No                 
+7. LENGTH OF OBSERVATION  8. NUMBER OF OBJECTS  9. COURSE
+                            1                    N to E
+10. BRIEF SUMMARY OF SIGHTING                    11. COMMENTS
+Definite contrail which seemed to have a         P-29 in area at 23007 hrs at 16,000'
+phosphorescent glow and intermittent flashes     Practicing instrument flying.
+at point of origin.
+  
+ATRG FORM 329 (REV 26 SEPT 52)
+```

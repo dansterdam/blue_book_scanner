@@ -1,0 +1,30 @@
+The image provided does not contain any photographs. It appears to be a page with handwritten tabular data. Here's the OCR output of the text in the document:
+
+```
+Time to first  observati_  Elevat_  Speed C   Direct
+Minutes 0r    on meters      _Hour      MPH        Frim Stati_
+seconds       _nautic_
+                 miles
+(1)  2 sec             418
+(2) 5 sec        .50          1456           15              150.7
+(3) 12 sec       x             2753           77             160.7
+                                            21             170.6
+(4)  17 sec      1.1          3537           21             180.7
+                                            21             190.7
+(5) 2 min        1.4          4621           22             200.7
+(6) 2"40"        1.7          5405           21             211.1
+                                            24             221.6x
+(7) 4 20         2.2          6410           35             230.7
+(8) 5 00         2.6          7940           20             240.7
+                                            32             250.7
+(9)  5 30        3.0          9274           53             260.7
+(9)  5 30        3.0          9274           53             261.6
+(9)  6 30        4.5          9941           60             270.7
+(9)    7 30      5.3          11958          60             280.7
+(10) 6 30        5.5          11775          60             290.7x
+(11) 7-30        7.3          12797          68             300.7
+(12) 8 30        8.0          13916          67             310.7
+(13) 9-30        9.0          14616          68             320.7
+(14) 10 30      10.1         14616                          330.7
+(15) 11 00      11.25       14798                          340.x
+```

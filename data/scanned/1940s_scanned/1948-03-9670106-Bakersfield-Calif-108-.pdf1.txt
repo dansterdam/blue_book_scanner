@@ -1,0 +1,29 @@
+The image is of a document page, and there are no photographs present within this page.
+
+However, I can extract and output the text from the document:
+
+```
+Incident/#108
+
+DATE OF INFO.       8 Mar 48
+LOCATION:               Bakersfield, Calif.
+SOURCE:                 Male civilian
+NARR. IN TO NICAP
+TIME OF OBSERV.   0230
+SHAPE:                     ball
+larger than small plane
+COURSE:                   eastward
+NO. IN GROUP:         1
+COLOR:                    
+ORANGE-red ball of fire static for approx. 30 seconds
+then drifting
+ALTITUDE:                
+LENGTH OF TIME OBSERV. 30 seconds
+TYPE OF OBSERVATION ground
+NARRATIVE:
+
+Precedency NICAP Form 329
+(2 Jun 52)
+```
+
+Please note that due to the quality of the scan, some words or parts of the text may be unclear or missing. The redacted or missing information in the document has been represented by blank lines in the output text.

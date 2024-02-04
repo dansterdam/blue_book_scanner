@@ -1,0 +1,56 @@
+The image does not contain a photograph; it is a scanned document page.
+
+Here's the OCR output of the text in the document:
+
+```
+UNCLASSIFIED SUMMARY OF INFORMATION
+
+DATE 29 October 1949
+PROJECT CIC Pat? f8, P.O. Box 379. Knoxville, Tennessee CODE FOR USE IN INDIVIDUAL PARAGRAPH EVALUATION
+OF SOURCE OF INFORMATION CURRENTLY RELIABLE : A
+FORMERLY RELIABLE : B
+USUALLY RELIABLE : C
+FAIRLY RELIABLE : D
+NOT USUALLY RELIABLE : E
+UNRELIABLE : F
+RELIABILITY UNKNOWN : G
+
+SUMMARY OF INFORMATION
+Unidentified Flying Objects CONFIDENCE IN INFORMATION
+sighted near Knoxville, Tenn. CONFIRMED BY OTHER SOURCES : 1
+POSSIBLE : 2
+PROBABLY TRUE : 3
+DOUBTFULLY TRUE : 4
+IMPOSSIBLE : 5
+TRUTH CANNOT BE JUDGED : 6
+
+Altitude (feet) Direction (degrees) Knots per hour
+1502 hrs 210 17
+8000 220 18
+10000 230 25
+12000 220 30
+14000 220 30
+
+2203 hrs:
+Altitude (feet) Direction (degree) Knots per hour
+surface 150 7
+2000 Calm -
+3000 160 6
+4000 160 7
+5000 190 10
+6000 190 17
+7000 190 19
+8000 190 17
+
+"TT"S NOTE: a report of the release of weather balloons and other meteorological
+instruments on 27 October 1949, by the Weather section of Plant "K-103", Oak Ridge,
+Tennessee, is forthcoming.
+
+DISTRIBUTION
+CO, Hq. Third Army - 2 cys
+CO, Tenn ill Dis, Knox Sub-dis - 1 cy
+rile - 1 cy
+WD AGO Form 568 U.S. GOVERNMENT PRINTING OFFICE 16—33401-1
+UNCLASSIFIED
+
+```

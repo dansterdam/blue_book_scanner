@@ -1,0 +1,33 @@
+There is no photograph visible in this image. It contains text only.
+
+Here's the text output from the document:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE - TIME GRPUP        2. CATION
+23 April 49  05/0100Z        Sarasota, Florida
+3. SOURCE                   10. CONCLUSION
+Civilian                    INSUFFICIENT DATA FOR EVALUATION
+
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+60 seconds
+6. TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+Not Reported
+
+8. PHOTOS
+    9. PHYSICAL EVIDENCE
+    [] Yes        [] Yes
+    [] No         [] No
+
+11. BRIEF SUMMARY AND ANALYSIS
+Observer sighted a frosty white light in the sky which
+vanished after a few seconds.
+
+FTD FEB 63-3329 (TDE)
+Previous editions of this form may be used.
+```

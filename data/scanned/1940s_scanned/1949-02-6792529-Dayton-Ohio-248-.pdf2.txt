@@ -1,0 +1,41 @@
+There is no photograph depicted in the document.
+
+Acting as an OCR (Optical Character Recognition) system to reproduce the text, here is the output:
+
+```
+Page 3
+Guide to Investigation
+
+Incident No. 2 UU
+
+Relative to Radar Sightings
+
+1. Radars now operating on ground:
+
+   a. Observations of direction, range, speed, altitude, and size
+      of target:
+
+   b. Did targets execute any turns? If so, what angle (>90°), etc.,
+      and what radius of turn. If radius of turn was not observable,
+      how long did the target stay in the turn and what was its speed:
+
+   c. Note particularly any separation of distant target into several
+      targets upon approach:
+
+   d. Was radar blip on cathode ray tube well defined and consistent with
+      size of object; faint; fading, pulsating at regular rate:
+
+   e. Did radar echo signal disappear suddenly or gradually?
+
+2. If airborne, when object was sighted
+
+   a. Were there any radar indications or erraticness on radio circuits:
+
+   b. Give estimates of size, speed, maneuvers, etc.
+
+ATMOSPHERE
+
+1. Give sequence of local weather conditions.
+
+2. Winds aloft report:
+```

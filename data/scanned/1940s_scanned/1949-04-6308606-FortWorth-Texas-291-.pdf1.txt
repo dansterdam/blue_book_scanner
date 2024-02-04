@@ -1,0 +1,38 @@
+There is no photograph present in the provided image of the document.
+
+Here is the text extracted from the document:
+
+```
+FTD SEP 63 O-329 (11E2)         Previous editions of this form may be used.
+
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP          LOCATION
+   8 April 49/14/0305Z         Fort Worth, Texas
+
+2. SOURCE                     10. CONCLUSION
+   Military                    Astro (METEOR)
+
+3. NUMBER OF OBJECTS          11. BRIEF SUMMARY AND ANALYSIS
+   One                         Observer sighted a bright silver round ball. It looked like
+                                a pinpoint of light heading SSE. It was traveling much faster 
+5. LENGTH OF OBSERVATION       than a jet leaving a long trail. It followed a straight
+   8 seconds                   path disappearing suddenly.
+
+6. TYPE OF OBSERVATION        
+   Ground-Visual
+
+7. COURSE
+   SSE
+
+8. PHOTOS
+   o Yes
+   x No
+
+9. PHYSICAL EVIDENCE
+   o Yes
+   x No
+
+FORM 
+FTD SEP 63 O-329 (TDE)         Previous editions of this form may be used.
+```

@@ -1,0 +1,73 @@
+The image displays a page from a document with text but contains no photographs.
+
+Here is the text output from the document:
+
+```
+AF FORM 112—PART I
+APPROVED 1 JUNE 1948
+(REPORT CONTROL SYMBOL SAIR-5)
+
+COUNTRY                       | REPORT NO.                                       | (LEAVE BLANK)
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+SUBJECT                       | AREA REPORTED ON (FROM (Agency))                 | DATE OF REPORT
+
+CONVENTIONAL AIRCRAFT         | LARSON A/F BASE WASH, info                    | 4 May 49
+
+                               | DATE OF INFORMATION                               | EVALUATION
+
+                              |                                                  | (Secret)
+
+PREPARED BY (Officer)         | SOURCE                                           | REFERENCES (Serial number, directive, previous report, etc., as applicable)
+
+(SIGNATURE) John R. S******   |                                                  |
+                              |                                                  |
+SUMMARY: (Enter concise summary of report. Give significance in one sentence paragraph. List enclosures at lower left. Begin text of report on AF Form 112—(Part III))
+
+                                                                          | ENCLOSURES: NONE
+Following is information of conventional aircraft which have crashed, probably
+crashed, or become lost or missing in this area. Classification of aircraft, and their
+type, has been checked and verified, as have the circumstances, and details of each
+crash of missing status and are covered in detail in this report.
+
+         REPORT BEGINS ON "PAGE 3".
+                                                              |Continued on Form 112—PART III
+remain on safe side of 200 ft.
+
+        At about 1500Z on 02 Wrecks physical
+WAF, transport was empty and loaded upon
+departure, reported that shortly before he reached a point southwest of dropping zone at about
+the time he was at an altitude of 1350 ft., he saw a solid object crash into hill less than 1/2
+mile east of Balloons River with 1/2 PLP.
+        Nothing further has been reported and no searches conducted in immediate area.
+No wreck or parachutes sighted from hilltops. Aircraft from jet training field and
+air ground team in photo planes.
+        All observation stations for Surface
+Weather and GCI radar with no physical search
+on safe side of 200 ft.
+
+        At about 1520Z on 03 May Wrecks physical
+WAF, transport was empty and loaded before
+departure, reported that shortly before he reached a point southwest of dropping zone at about
+the time he was at an altitude of 1350 ft., he saw a solid object crash into a hill less than 1/2
+mile east of Balloons River with 1/2 PLP.
+        Nothing further has been reported and no searches conducted in immediate area.
+No wreck or parachutes sighted from hilltops. Aircraft from jet training field and
+air ground team in photo planes.
+        All observation stations for Surface
+Weather and GCI radar with no physical search
+
+TRANSMISSION OF ORIGINATOR
+2 cpys CG, ATC/Wright-Patterson A/F Base,     |DOWNGRADED AT 3 YEAR INTERVALS; 
+1 cpy D/I, HQ USAP, Washington, D.C.           |DECLASSIFIED AFTER 12 YEARS.
+1 cpy Ofc, Comdr, Fifteenth A/F, Colorado      |DoD DIR 5200.10
+   Sps, Colorado                                                           |
+1 cpy A2 All Weather Flying Training Squadron, |
+   Fairfield-Suisan A/F Base, Calif.           |
+
+NOTE THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C. 31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, OR BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+
+UNCLASSIFIED
+(18-91480-1)
+```

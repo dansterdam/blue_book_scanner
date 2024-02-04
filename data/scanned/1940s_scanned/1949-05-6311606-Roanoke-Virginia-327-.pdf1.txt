@@ -1,0 +1,47 @@
+There is no photograph present in the image provided.
+
+Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP           LOCATION
+12 May 49                     Roanoke, Virginia
+13/0100Z
+
+2. CONCLUSION
+
+3. SOURCE
+Civilian
+
+4. NUMBER OF OBJECTS
+one
+
+5. LENGTH OF OBSERVATION
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+West
+
+8. PHOTOS
+☐ Yes
+☑ No
+
+9. PHYSICAL EVIDENCE
+☐ Yes
+☑ No
+
+10. CONCLUSION
+
+11. BRIEF SUMMARY AND ANALYSIS
+Observer sighted what appeared to be an amber light. It was
+moving slowly and it appeared as an airplane with landing
+lights. No light was turned off and a sound, like the
+drone of B-29 motors, was heard. Sparks were seen trailing
+the object.
+
+FORM
+FTD SEP 63-0-329 (TDE)          Previous editions of this form may be used.
+```
