@@ -3,6 +3,16 @@ Welcome to the Project Blue Book UFO casefile scanning repository: Blue Book Sca
 
 <br/>
 
+# Data
+
+The easiest way to access the data is to navigate to https://github.com/dansterdam/blue_book_scanner/tree/main/data/scanned_casefiles and click on a .zip file and look for the download button on the top right side.
+
+Inside this zip you will have text files that are the output of the GPT model. This is scanned text with some commentary at the top. In the case that there are photos, the model attempts to describe them. 
+
+Accuracy is not guaranteed and we encourage readers to look for the original casefiles on archive.org until we have a way to make a side-by-side view easier.
+
+We are still working on 1940s data and then will move on to 1950s soon, etc.
+
 # Donate!
 
 
@@ -25,6 +35,7 @@ For more details, check out our Reddit post that showcases our progress and dedi
 See our [terms and conditions.](https://github.com/dansterdam/blue_book_scanner/blob/main/terms_and_conditions.md)
 
 <br/>
+
 
 
 # Usage
