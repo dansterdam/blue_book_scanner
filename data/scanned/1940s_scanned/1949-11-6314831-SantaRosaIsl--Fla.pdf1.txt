@@ -1,0 +1,68 @@
+There is no photograph present in the image, only a scanned document with text. Here is the text output from the document:
+
+```
+...
+
+ATTC HC.
+
+AF HC.
+
+PROJECT NO.
+
+DATE OF INFO 23 Nov 49
+
+...
+
+LOCATION: Santa Rosa Isl., Fla.
+
+SOURCE. Radar Personnel
+
+...
+
+DATE OF REPORT 15 Dec 49
+
+NAT ILL INTL.
+
+TIME OF SIGHTING 1200
+
+COLOR Shiny
+
+...
+
+SHAPE: Sphere
+
+...
+
+SPEED
+
+...
+
+ALTITUDE
+
+...
+
+NO. IN GROUP 1
+
+...
+
+LENGTH OF THE OBSERVATION 5 hr. 17 min.
+
+...
+
+TYPE OF OBSERVATION: ground
+
+...
+
+REMARKS
+definitely established by report--
+authority that object was planet Venus.
+
+...
+
+...
+
+Yes
+
+summary ATIC Form 329
+(2 Jan 52)
+```

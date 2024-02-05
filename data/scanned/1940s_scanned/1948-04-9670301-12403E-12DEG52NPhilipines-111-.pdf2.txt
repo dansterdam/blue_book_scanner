@@ -1,0 +1,17 @@
+There is no photograph present in the image you provided. It's a text document. I will proceed to output the text as OCR:
+
+```plaintext
+Incident No. 111 = 1 April 1947, 0955 Hours, Central Philippines.
+An F-47 pilot leading three other aircraft at 1500 ft saw an object
+approximately three miles away at 1000 ft. Object appeared to be a
+flying wing thirty by twenty feet, silver in color. The pilot turned
+to intercept the object and in five seconds on nearly the same course
+and disappeared from sight. The object turned on approximately a 
+dorsal fin but distance was too great to note any other features. The
+report does not reveal whether any of the other pilots saw the object.
+
+A/C Opinion: No definite explanation. However, every pilot has
+experienced the sensation of seeing an aircraft obliquely at nearly the
+limit of vision and then losing sight at the same range when the air-
+craft presented, in storm view, a smaller surface.
+```
