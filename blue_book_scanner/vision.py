@@ -4,6 +4,7 @@ import json
 import io
 import PyPDF2
 import argparse
+from time import sleep
 from pdf2image import convert_from_path
 from openai import OpenAI
 
@@ -39,12 +40,16 @@ def main():
 
     process_fileset(args.input, args.output, client)
 
+def retry():
+    sleep(5)
+    main()
 
 def process_fileset(input, output, client):
     for file in os.listdir(input):
         pages_in_pdf = get_pdf_page_count(input + file)
         # Getting the base64 string
         counter = 0
+        failures = 0
         if file + str(pages_in_pdf) + ".txt" not in os.listdir(output):
             pages_done = len([i for i in os.listdir(output) if file in i])
             counter = pages_done
@@ -69,7 +74,11 @@ def process_fileset(input, output, client):
                     except KeyError:
                         os.remove(output_filename)
                         print(response.json())
-                        exit()
+                        failures += 1
+                        if failures > 3:
+                            exit()
+                        else:
+                            retry()
 
 
 def get_pdf_page_count(pdf_path):
