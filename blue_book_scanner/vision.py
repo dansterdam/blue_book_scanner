@@ -4,6 +4,7 @@ import json
 import io
 import PyPDF2
 import argparse
+import concurrent.futures
 from time import sleep
 from pdf2image import convert_from_path
 from openai import OpenAI
@@ -50,11 +51,26 @@ def process_single_file(file, input_dir, output_dir, client):
     file_path = os.path.join(input_dir, file)
     pages_in_pdf = get_pdf_page_count(file_path)
 
+    # Retrieve pages already processed to avoid reprocessing
     pages_done = len([f for f in os.listdir(output_dir) if file in f])
-    for page_number in range(pages_done + 1, pages_in_pdf + 1):
-        process_single_page(
-            file_path, page_number, file, output_dir, client
-        )
+
+    max_workers = 5
+
+    # Using ThreadPoolExecutor to parallelize page processing
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # Submit all pages yet to be processed to the executor
+        futures = [
+            executor.submit(
+                process_single_page, file_path, page_number, file, output_dir, client
+            )
+            for page_number in range(pages_done + 1, pages_in_pdf + 1)
+        ]
+
+        for future in concurrent.futures.as_completed(futures):
+            try:
+                result = future.result()
+            except Exception as e:
+                print(f"An error occurred: {e}")
 
 
 def process_single_page(file_path, page_number, output_file_prefix, output_dir, client):
