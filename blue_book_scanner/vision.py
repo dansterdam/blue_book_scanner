@@ -40,45 +40,68 @@ def main():
 
     process_fileset(args.input, args.output, client)
 
-def retry():
-    sleep(5)
-    main()
 
-def process_fileset(input, output, client):
-    for file in os.listdir(input):
-        pages_in_pdf = get_pdf_page_count(input + file)
-        # Getting the base64 string
-        counter = 0
-        failures = 0
-        if file + str(pages_in_pdf) + ".txt" not in os.listdir(output):
-            pages_done = len([i for i in os.listdir(output) if file in i])
-            counter = pages_done
-            for i in range(counter, pages_in_pdf, 20):
-                end_page = min(pages_in_pdf, counter + i + 20)
-                start_page = counter + i
-                pages = convert_from_path(
-                    input + file, first_page=start_page, last_page=end_page
-                )
-                for page in pages:
-                    counter += 1
-                    image = encode_pdf_page_to_base64_image(page)
-                    output_filename = output + file + str(counter) + ".txt"
-                    print(f"processing {output_filename}")
+def process_fileset(input_dir, output_dir, client):
+    for file in os.listdir(input_dir):
+        process_single_file(file, input_dir, output_dir, client)
 
-                    response = gpt_ocr(image, output_filename, client)
 
-                    try:
-                        gpt_output_text = response.choices[0].message.content
-                        with open(output_filename, "w") as f:
-                            f.write(gpt_output_text)
-                    except KeyError:
-                        os.remove(output_filename)
-                        print(response.json())
-                        failures += 1
-                        if failures > 3:
-                            exit()
-                        else:
-                            retry()
+def process_single_file(file, input_dir, output_dir, client):
+    file_path = os.path.join(input_dir, file)
+    pages_in_pdf = get_pdf_page_count(file_path)
+
+    pages_done = len([f for f in os.listdir(output_dir) if file in f])
+    for page_number in range(pages_done + 1, pages_in_pdf + 1):
+        process_single_page(
+            file_path, page_number, file, output_dir, client
+        )
+
+
+def process_single_page(file_path, page_number, output_file_prefix, output_dir, client):
+    image = convert_page_to_image(file_path, page_number)
+    base64_image = encode_image_to_base64(image)
+    output_filename = f"{output_file_prefix}{page_number}.txt"
+    print(f"processing file {output_filename}")
+    output_filepath = os.path.join(output_dir, output_filename)
+
+    if not os.path.exists(output_filepath):  # Avoid re-processing if already done
+        process_image_and_extract_text(
+            base64_image, output_filepath, client
+        )  # Include retry parameters if necessary
+
+
+def convert_page_to_image(pdf_path, page_number):
+    pages = convert_from_path(pdf_path, first_page=page_number, last_page=page_number)
+    return pages[0]  # Assuming convert_from_path returns a list of images
+
+
+def encode_image_to_base64(image):
+    img_byte_arr = io.BytesIO()
+    image.save(img_byte_arr, format="PNG")
+    return base64.b64encode(img_byte_arr.getvalue()).decode("utf-8")
+
+
+def process_image_and_extract_text(
+    base64_image, output_filepath, client, max_retries=3, retry_delay=5
+):
+    retries = 0
+    while retries < max_retries:
+        try:
+            response = gpt_ocr(base64_image, output_filepath, client)
+            gpt_output_text = response.choices[0].message.content
+            with open(output_filepath, "w") as f:
+                f.write(gpt_output_text)
+            break  # Success, break out of the retry loop
+        except KeyError as e:
+            print(f"Error processing {output_filepath}: {e}")
+            retries += 1
+            sleep(retry_delay)  # Wait before retrying
+        except Exception as e:
+            print(f"Unexpected error: {e}")
+            break  # Break on unexpected errors
+
+    if retries == max_retries:
+        print(f"Failed to process {output_filepath} after {max_retries} retries.")
 
 
 def get_pdf_page_count(pdf_path):
@@ -106,7 +129,7 @@ def gpt_ocr(image, filename, client):
                 "content": [
                     {
                         "type": "text",
-                        "text": f'This is a page in an old UFO report document from project blue book. Please describe any photograph that is present. Not every image will contain a photograph. Then, please act as an OCR system and produce and output all the text found in the document and nothing else. For context: the filename including page number is {filename}',
+                        "text": f"This is a page in an old UFO report document from project blue book. Please describe any photograph that is present. Not every image will contain a photograph. Then, please act as an OCR system and produce and output all the text found in the document and nothing else. For context: the filename including page number is {filename}",
                     },
                     {
                         "type": "image_url",
