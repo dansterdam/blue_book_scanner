@@ -894,3 +894,119 @@ CCC..., IN LINE 9 & 3 SP SHD READ COMMENTS RPT COMMENTS
 
 - page 20 -
 
+There are no photographs present in this image.
+
+Here is the text output from the document:
+
+```
+CONTROL NO. Ltr             DECIMAL FILE NO.          FOLLOW UP ON
+Q - 186       Unconventional "Aircraft 8/3
+SUBJECT
+                             DATED          DATE
+FROM  3575th Pilot Training Wg           5/2/49
+READING CK                                             NO. INCLS
+TO                                                        DATE
+COMMAND AT-1                                       5/5/49         1300
+                                                  RECORDED  MAY       4
+DESIGN          ROUTED TO        SUSPENSE DATE    ESTABLISHED BY INITIATION    DATE
+1        IAIS                        N/R                    LWW                           M4y
+2
+3
+
+DATE OF REPLY   OTHER DISPOSITION
+                                                TRANSMITTAL
+                                                INITIALS, DATE
+                                                AND OFFICE
+                                                FOR REMARKS
+```
+
+- page 21 -
+
+The image provided does not contain a photograph. It is a document with printed and handwritten text. Here's the OCRed text from the document:
+
+```plaintext
+CONTROL NO SUBJECT DECIMAL FILE NO FOLLOW UP ON
+SPOT INTELLIGENCE REPORTS
+"Unconventional Aircraft”
+FROM: ENID AFB, ENID, OKLA’A DATED 5/2/49
+To CG AMC, ATTN: Intell Div NO. INCLS 3
+RECORDING
+OFFICER ROUTED TO: DATE 5/2/49 HOUR 0950
+DIK ROUTED TO: SUSPENSE DATE ESTABLISHED BY INITIALS DATE
+1 MCIA 5/4/
+2 NCIA
+3 NCIA
+
+DATE OF REPLY OTHER DISPOSITION. TRANSMITTAL
+AST ONE SIDE
+OF CONDENSED 
+RPO REMARKS
+```
+
+Please note that the quality of the OCR text depends on the clarity of the original image, and it can sometimes contain inaccuracies due to the quality of the print, handwriting, or scanning process.
+
+The numbers are not a part of the actual text but are used to number the points in the form. The bottom of the page is not fully visible and some portions of text might be cut off, it seems to instruct to use one side of a condensed form for remarks, although this part is not entirely clear.
+
+- page 22 -
+
+There are no photographs present in this image.
+
+Here is the text output from the document:
+
+```
+UNCLASSIFIED
+HEADQUARTERS
+3575TH PILOT TRAINING WING (AMB)
+ENID AIR FORCE BASE
+Enid, Oklahoma
+
+0000.9
+
+SUBJECT: Unconventional Aircraft
+
+TO: Commanding General
+    Air Material Command
+    Wright-Patterson Air Force Base
+    Dayton, Ohio
+    Attn: Intelligence Department
+
+1. Forwarded herewith is the supplementary report con-
+cerning an Unconventional Aircraft sighted at this station on
+21 April 1949. This Incident was initially reported by teletype
+on 26 April 1949 to the Director of Intelligence, USAF. This
+report is submitted in accordance with Air Intelligence Require-
+ments Memorandum No. 4, Department of the Air Force, dated 15
+February 1949, Subject; "Unconventional Aircraft."
+
+2. Your attention is invited to answer seven (7) page
+two (2) of the attached reports. This is a compilation of the
+initial teletype submitted to the Director of Intelligence USAF,
+in which the "Time of sight" was given as five (5) seconds.
+
+3. This report is not submitted on AP Form 112 due to the
+fact this form is  not available at this station. Subject form
+was unobtainable from the Tinker Air Material Area and from
+Intelligence Division, Flying Division, Air Training Command,
+Randolph Field.
+
+FOR THE COMMANDING OFFICER;
+
+[Signature]
+
+CARL E. DAVIS
+Captain, USAF
+3 Incl:
+1. Report Unconventional Aircraft
+2. Initial Teletype report
+3. [Redacted] Statement [Redacted]
+
+DOWNGRADED
+DECLASSIFIED
+DD FORM 1972 12 SEPT 82
+BY AUTHORITY OF
+DOD DIR 5200.10
+```
+
+
+- page 23 -
+

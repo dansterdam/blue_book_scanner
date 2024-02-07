@@ -1,0 +1,43 @@
+The image provided is a scanned page of text; it does not contain any photographs.
+
+Here is the text extracted from the image:
+
+---
+be given a small acceleration - a theorem well understood by helicopter
+designers.
+
+The beams or rays mentioned do the contrary - a small mass is given
+a very high velocity - consequently enormous powers - greater than the total
+world's power capacity - would be needed to support even the smallest object
+by such means.
+
+METHOD II. Direct use of Earth's Magnetic Field.
+
+One observer (incident #x) noticed a violent motion of a hand-held
+compass. If we assume from this that the objects produced a magnetic
+field, comparable with the Earth's field, namely 0.1 gauss, and that the
+observer found that the object subtended an angle at his position, then
+the ampereturns of the required electromagnet is given by
+
+   nI = 30 R
+   --        where R is the range of the object.
+   Q2
+
+For instance, if R is one kilometer and the object is 40 meters in diameter,
+then nI = 1 billion ampereturns.
+
+Now if the object were actually only 10 meters away and were correspond-
+ingly smaller, namely 10 cm in diameter, it would still require 10 million
+ampereturns.
+
+These figures are a little in excess of what can be conveniently done
+on the ground. They make it seem unlikely that the effect was actually
+observed.
+
+Now the Earth's magnetic field would react on such a magnet to produce
+not only a torque but also a force. This force depends not directly on
+the Earth's field intensity but on its irregularity or gradient. This
+force is obviously minute since the change in field over a distance of
+10 meters (assumed diameter of the object) is scarcely measurable - more-
+over the gradient is not predictable but changes due to local ore deposits.
+---

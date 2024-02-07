@@ -1,0 +1,84 @@
+The image contains no photographs. It is a text document with a table format. Below is the text as an output from an OCR system:
+
+```
+WORK SHEET
+
+Observer's
+Data
+Sheet
+Question
+Punched
+Card
+Column
+Code
+Description
+
+1*
+2
+3
+Serial No. Incident serial
+number
+4
+5
+6
+Serial No. Insertion
+7
+8  
+9 ✓ 
+10 ✓  
+11 ✓  
+12 ✓  
+13 ✓  
+14
+15 ✓  
+16 ✓  
+17 ✓  
+18 
+19
+20 ✓  
+21  
+22  
+23 ✓  
+24 ✓  
+25  
+26  
+27  
+28*
+29  
+30  
+31  
+32*
+33  
+34  
+35  
+36  
+37  
+38  
+39  
+40  
+
+Day
+Month
+Year Observed
+
+Day
+Month Reported
+
+Day
+Month Rec'd 4TIC
+
+Hrs. Time of observa-
+Min. tion Greenwich C.T.
+Time units Duration of 
+Duration observation
+
+Latitude
+
+Location
+
+Longitude
+
+Cosine latitude
+
+* Denotes separate code key is needed.
+```

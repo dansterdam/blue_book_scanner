@@ -1,0 +1,24 @@
+There are no photographs present in this image. Here is the text output from the document:
+
+s (distance object traveled) - 2 times the distance from point of observation 
+to the object times the sin of ½ the angle 
+subtended.
+There are times involved which involves variables exact two of which must
+be known to solve for a third. In the case of this observation only one 
+known value was available, i. e. the angle subtended. The observers had no
+possible way to determine either the speed of the object nor its distance from 
+them.
+
+The observers arbitrarily selected 2500 ft. per second (1700 mph) and 
+solved the equation. This is how the altitude of 30,000 ft was obtained.
+We may just as easily select 70 mph for the speed of the object and 
+find that it would have been at 800ft. of size in the first instance equals 
+105 ft. in length; in the latter an object of less than one foot length.
+
+These values can be calculated using the following formulae:
+
+2
+350 x .020 = .00035 radians
+
+.00035 radians times the distance of object from point of observation 
+equals the length of the object.

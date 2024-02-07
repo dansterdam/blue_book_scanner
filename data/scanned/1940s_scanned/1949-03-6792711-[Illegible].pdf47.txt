@@ -1,0 +1,51 @@
+The image displays a page from a document with typed and handwritten text. There is a small sketch in the middle-right section of the document that appears to portray the shape of an unidentified object as described in the report. The sketch resembles a classic "flying saucer" shape with a dome on top and is accompanied by handwritten annotations indicating colors ("Reddish yellow at leading edge, blue trailing edge"). No photographs are present, only this sketch.
+
+Now, acting as an OCR system, I will output all the text from the document:
+
+```
+UNCLASSIFIED
+
+ESSENTIAL ELEMENTS OF INFORMATION
+(Re: Sightings of Unidentified Aerial Objects)
+
+PROJECT "SIGN"
+
+1. Date of sighting: 12 March 1949
+
+2. Time of sighting: 1950-1955 CST
+
+3. Where sighted:
+   a. Air
+      (1) Aircraft DC-3, speed 150 mph, altitude 3,000 MSL, direction 225°.
+      (2) Had just passed Chariton, Iowa and was approximately forty (40)
+          miles S-30°E of Desmoines' Municipal Airport.
+      (3) Clock position of object from observers aircraft was eleven (11)
+          o'clock.
+
+4. One object was sighted.
+
+5. Distance of object from observer:
+   a. Definitely a considerable distance, perhaps fifty (50) miles possibly
+      more at an elevation angle.
+   b. Angle of elevation from horizon approximately 35°.
+   c. No accurate estimate of altitude given.
+
+6. Time in sight: approximately five (5) seconds.
+
+7. Appearance of object:
+   a. Color was reddish yellow at leading edge with blue trailing area.
+   b. Shape:   Reported #s a Ball with leading Edge Straight.
+   c. Apparent construction: Fiery
+   d. Size:
+      (1) Quite large, appeared six or eight times larger than a falling
+          star.
+
+8. Direction of flight: 
+   a. Descending from East to West.
+
+DOWNGRADED AT 3 YEAR INTERVALS
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR. 5200.10
+```
+
+Please note that some words are difficult to read due to the quality of the document and some marks on the paper.

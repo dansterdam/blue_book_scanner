@@ -1,0 +1,61 @@
+There is one photograph indicated in the document. It is related to the sighting in Birmingham, Alabama, and contains the annotation "(PHOTO) (NOT IN FILE)" suggesting that a photograph was taken but is not included in the file.
+
+As an OCR system, here's the output of all the text found in the document:
+
+```
+JULY 1947 SIGHTINGS
+
+DATE        LOCATION                          OBSERVER              EVALUATION
+July
+3           Tempe, Arizona (CASE MISSING)     Civilian              Insufficient Data
+July
+3           Oak Ridge, Tennesse               (PHOTO)               Other (Development
+             (FOLDER) *                                              UNIDENTIFIED
+5           S. Porroville, Maine              (PHOTO)               Other (Chaff?)
+             Mt Jefferson, Washington                               Insufficient Data
+4           Portland, Oregon Area             Multiple              Other (Chaff?)
+4           Portland, Oregon                                        Insufficient Data
+4           Portland, Oregon                                        Insufficient Data
+4           Portland, Oregon                                        Insufficient Data
+4           Portland, Oregon                                        Insufficient Data
+4           Seattle, Washington              (FOOTER)              Balloon
+5           West Trenton, New Jersey                                Astro (Meteor)
+5,5         Fairfield-Suisan AFB, California                       UNIDENTIFIED
+6,7         Hollywood, California                                  Insufficient Data
+5           Maxwell, Ohio (CASE MISSING)     Civilian              Insufficient Data
+6           Clay Center, Kansas                                     Astro (Solar reflect
+7           Birmingham, Alabama              (PHOTO) (NOT IN FILE)  Other (FLOATERS)
+                                                                  Insufficient Data
+7           Shreveport, Louisiana                                  Other (Hoax)
+7           East Troy, Wisconsin (CASE MISSING) Military And Civil  Other (Projector)
+7           Mateo and Fillard              (AIR VISUAL) (HOAX).    Insufficient Data
+             Inn, California
+7           Litchfield, CIA Radar Station                          Balloon
+             Hickam AFB, Hawaii                                     
+7           Phoenix, Arizona (FOLDER)       (PHOTO)                Other (Hoax)
+7           Ojai, California (CASE MISSING) Civilian               Insufficient Data
+7           Arlington, Virginia                                    Astro (Meteor)
+7           Omaha, Nebraska                (PARTIAL S) Other (Ashes)
+             Minco AAF, California
+7             Goose AFB, California                                UNIDENTIFIED
+7             Rogers Dry Lake, California                          Balloon
+7             Boise-Meridian, Idaho                                Balloon
+8           Milford, Michigan              (PHOTO) (NOT IN FILE)  Other (Fireworks)
+9           Grand Falls, Newfoundland(FOLDER)                      Astro (Auroral Strea
+20          Nova Scotia & Newfoundland(FOLDER)                     "
+23          Harmon AFB, Newfoundland(FOLDER)                       "
+25          Between Nova Scotia & Newfoundland                     " 
+
+19          Morristown, New Jersey                                 Astro (Meteor)
+20          Rosary, Newfoundland(FOLDER)                           Astro (Meteor)
+20          Colorado AFB, Colorado         (PHOTO)                 Insufficient Data
+11          Shemya AAF, Aleut's                                   "
+11          Shemya AAF, Aleut's                                   Balloon
+             Fairbanks, Alaska
+             Seattle, Washington                                  Balloon
+21          Fresno Field, California(CASE MISSING) Civilian        Insufficient Data
+22          Tuscon, Arizona (CASE MISSING)                         Balloon (Optical)
+23          Rogers, AAF, Gar              (PARTIAL S)              Balloon (Reflection
+```
+
+Please note that the text quality is not optimal (some words are partially obscured or covered) due to redacted or blurred parts, which may have affected the accuracy of the transcription.

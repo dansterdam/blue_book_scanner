@@ -1,0 +1,54 @@
+The image presented is a textual report page; there is no photograph included in this page.
+
+Now acting as an OCR, here is the text output from the document:
+
+```
+WPAFB JAN 49 1800
+
+WRIGHT-PATTERSON FLIGHT SERVICE CENTER
+WRIGHT-PATTERSON AIR FORCE BASE
+DAYTON, OHIO
+20. June 1949
+
+SUBJECT: Report of Unidentified Aerial Object
+
+TO : Commanding General
+AIR MATERIAL COMMAND
+Wright-Patterson Air Base, Ohio
+ATTN: TADC-2B
+
+1. The following report of an unidentified aerial object is submitted
+in compliance with AFR 200-2.
+
+a. LOCATION AND DATE OF OBSERVATION: 1750J - 1755J, 20 June 1949,
+Fairfield, Ohio.
+
+b. OBSERVER (S): (1) T/Sgt.  {}, 3500th maint sq, Patterson Field, lime
+temperature 92, dew point 69, wind northwest, lt, 12 mph.
+20,000.
+
+c. WEATHER/CONDITIONS, ALTITUDE AND SPEED OF OBSERVATIONS:
+(1)
+(2) Unidentified Civilian, resident of Urbana, Ohio.
+PHOTOS/TAKEN? NO YES. AVAILABLE: Non available.
+
+e. STATUS OF OBSERVER (DEMONSTRATE): None.
+
+f. OBJECT SIGHTED:
+(1) NUMBER: 1.
+
+(2) SHAPE: Long tail of flame accompanied by a long tail
+of smoke.
+
+(3) SIZE: Undetermined.
+
+(4) COLOR: Flame and smoke.
+
+(5) SPEED: High rate.
+
+(6) HEADING: West to East
+
+UNCLASSIFIED
+```
+
+The personal information has been redacted from the document, represented here by {} which denotes the omitted content in the original text.

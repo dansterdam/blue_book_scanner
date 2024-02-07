@@ -1,0 +1,47 @@
+There are no photographs present in the image you provided.
+
+Here is the text output from the document as an OCR system would produce:
+
+```
+Page 3 UNCLASSIFIED Incident No. ______
+Guide to Investigation
+Relative to Radar Sightings
+
+1. Re radars now operating on ground
+
+    a. Observations of direction, range, speed, altitude and size
+       of target:
+    
+    b. Did target execute any turns? If so, what angle (180°), etc.,
+       and what radius of turn. If radius of turn was not obscr-
+       vable, how long did the target stay in the turn and what was
+       its speed?
+
+    c. Note particularly any separation of distant target into
+       several targets upon approach:
+
+    d. Was radar blip on cathode ray tube well defined and consis-
+       tent with size of object; faint; fading, pulsating at regu-
+       lar rate:
+    
+    e. Did radar echo signal disappear suddenly or gradually?
+
+2. If airbourne, when object was sighted
+
+    a. Were there any radar indications or extra noise on radio cir-
+       cults:
+    
+    b. Give estimates of size, speed, maneuvers, etc.:
+
+GENERAL
+
+1. Teletype sequences of local weather conditions:
+
+   O /OM/, 73°F
+
+2. Winds aloft report:
+
+   NOT Avlb.
+
+UNCLASSIFIED
+```

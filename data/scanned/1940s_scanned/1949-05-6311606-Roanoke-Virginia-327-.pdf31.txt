@@ -1,0 +1,58 @@
+The image you've provided does not contain any photographs. It appears to be a text-based document with a list of items. Here is the text output from the document:
+
+```
+-2-
+
+Observer's 
+Data
+Sheet
+Question.  Punched
+                Card
+                Column.  Code   Description
+_______________________________________
+6.                      41*             /          Where observer was
+7, 8.                42*            
+10.                    43*            \          Moving - Stopped
+                                  44*          X          How observed
+                                  45*                       Sound
+                                  46*                       Color
+12.                    47*                       Number
+                        48*                       Light-color     Appearance
+12a.                  49*                       Speed               Description
+      12b.            50*                       Shape                
+      12c.            51*                       Size
+      12d.            52*                       Light brightness
+      13.              53*                       Angular velocity
+      14.              54*                       Angular acceleration
+      15.              55*                        Lotion           Motion
+      16.              56*                       Describe appearance
+      57*                       Describe disappearance
+17.                    58*                       Initial elevation
+                        59                        Final elevation
+12i.  21.             50                        Elevation
+          18, 19.    51*                       Object orientation
+
+24.                    62*             /          Civilian occupation
+                        63                         Observer
+                        64                         Service occupation
+                        65*            \
+                        66*            /
+
+24.                    67*                       Service
+
+                        68            
+                        69
+                        70
+                        71
+                        72
+                        73
+                        74
+                        75
+                        76*            2          Observer
+                        77*            /           Reporter          Evaluation
+                        78*                      Preliminary      Identification
+                        79*                      Final
+                        80*
+
+* Denotes separate code key is needed
+```
