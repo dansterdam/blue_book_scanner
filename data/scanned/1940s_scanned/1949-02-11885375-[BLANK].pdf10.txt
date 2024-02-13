@@ -1,0 +1,63 @@
+The image does not contain any photographs; it is a page of text from a document. I will proceed to output the text as an OCR would:
+
+```
+UNCLASSIFIED
+
+apparently be excessively high, since the aspect ratio of a cir-
+cular planform is only 1.27. Extension of the Prandtl theory,
+has also shown that the maximum possible lift coefficient to be
+expected from such low aspect ratio platforms should also be 
+poor. In addition, the relatively large mean aerodynamic chord
+would present difficult design problems, to achieve static longit-
+udinal stability for aircraft sections having a significant center-
+of-pressure travel, or for foil sections of some filled "camber"
+type, when equipped with ailerons at the trailing edge.
+
+In the very low aspect ratio range, the Prandtl theory is
+probably very inaccurate. Wind-tunnel tests of very low aspect
+ratio airfoils indicate much less induced drag increases than ex-
+pected from theory and also demonstrate very high maximum lift
+coefficient accompanied by extremely high stalling angles. How-
+ever, in general the induced drag of very low aspect ratio wings
+is much larger than the induced drag of conventional aircraft
+wings, a condition which would adversely affect all performance
+values in flight conditions which require medium and high lift
+coefficients. Thus, performance in climb, at altitude, and for
+long-range conditions would be relatively poor, although high
+speed would be little affected.
+
+Notwithstanding the predicated aerodynamic disadvantages of 
+circular planform wings, quite a number of experimental efforts
+have been made to use this configuration on and move at temps
+by persons important or aerodynamic fundamentals. Experimental
+wind-tunnel work at the NACA (1933) showed both maximum lift co-
+efficients and stall characteristics much more favorable than
+could be anticipated.
+
+The problem of static longitudinal stability could possibly
+be solved by the use of a stable airfoil section of the reflexed,
+trailing edge type with wing tip ailerons (perhaps floating) aero-
+dynamically independent of the wing.
+
+At supersonic speeds, where the induced drag is small,
+the circular planform offers the probability of reduced drag,
+characteristic of low aspect ratio airfoils in the supersonic
+range. Also the circular planform presents a swept-back leading
+edge (of variable sweep angle the span), which should result in
+a reduced effective Mach Number, with attendant reduced drag for
+a certain supersonic speed range.
+
+No definite information has been received on the method of
+propulsion used on flying disks which have been sighted. However,
+because of distance factors involved in the sightings it is quite
+possible that other propulsions or Jet propulsion could have been
+employed without being noted by the observer.
+
+Flying Fuselages (Torpedo or Cigar-Shaped Body)
+
+While the cigar or torpedo-shaped body represents an efficient
+form for the fuselage of an airplane or the body of a guided missile,
+     
+     - 7 -                                     S-11750
+UNCLASSIFIED
+```

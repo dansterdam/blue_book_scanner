@@ -1,0 +1,64 @@
+The image you have provided is a typewritten page from a document and does not contain any photographs. Here is the text as an OCR system would output it:
+
+```
+UNCLASSIFIED
+
+Method I -- Propulsion and support by means of "rays"
+or "beams".
+
+By "rays" or "beams" are meant either purely electro-
+magnetic radiation or else radiation which is largely
+corpusculous like cathode-rays or cosmic-rays or cyclotron-
+beams.
+
+Now, it is obvious that any device propelled or supported
+by such means is fundamentally a reaction device. It is fund-
+amentally the theory of such devices that a given amount of
+energy is most efficiently spent in the momentum thrown back
+or down as large. This means that a large mass should be given
+a small acceleration -- a theorem well understood by helicopter
+designers.
+
+The beams or rays mentioned do the contrary, a small mass
+is given a very high velocity, consequently enormous powers,
+greater than the total world's power capacity, would be needed
+to support even the smallest object by such means.
+
+Method II -- Direct use of Earth's Magnetic Field
+
+One observer (Incident 58) noticed a violent motion of a
+hand-held compass. If we assume from this that the objects
+produced a magnetic field, coimparable with the Earth's fiUeld;
+namely, 0.1 gauss, and that the observer found that the object
+settled in angle o at his position, then the ampere-turns of
+the required electromagnet is given by:
+
+                                  30R
+                     where R is the range of the object.
+                                  o2
+For instance, if R is cne kilometer and the object is 10 meters
+in diameter, then # of 1 billion ampere-turns.
+
+Now, if the object were actually only 10 meters away and
+were correspondingly smaller, namely, 0.1 m in diameter, it
+would still require 10 million ampere-turns.
+
+These figures are a little in excess of what can be con-
+veniently done on the ground. They make it seem unlikely that
+the effect was actually observed.
+
+Now, the Earth's magnetic field would react on such a
+moment to produce not only a torque but also a force. This
+force depends not directly on the Earth's field intensity but
+on its irregularity or gradient. This force is obviously
+minute since the change in field over a distance of 10 meters
+(assumed diameter of the object) is scarcely measureable,
+moreover the gradient is not predictable but changes due to
+local ore deposits. Thus, even if the effect were large
+enough to use, it would still be unreliable and unpredictable.
+
+                                    UNCLASSIFIED
+
+S-11750
+22
+```

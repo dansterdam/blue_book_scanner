@@ -1,0 +1,44 @@
+The image you provided is a text document, there are no photographs present. Here is the OCR text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                     2. LOCATION
+28 Nov 1949                 Mt. Palomar, California
+
+3. DATE-TIME GROUP          4. TYPE OF OBSERVATION
+Local                       O Ground-Visual    QGround-Radar
+GMT                         O AirVisual        O Air-Intercept Radar 
+
+5. PHOTOS                   6. SOURCE
+O Yes                       Civ
+P No
+
+7. LENGTH OF OBSERVATION    8. NUMBER OF OBJECTS      9. COURSE
+Varied                      Varied                    Varied
+
+10. BRIEF SUMMARY OF SIGHTING
+Flying discs first observed near the observatory at Mt. Palomar, California. A 
+recording geiger counter was so activated at the time of these sightings, that it went 
+completely off scale.
+
+11. COMMENTS
+EVAL: Equipment malfunction. 
+A complete re-check of the counter was accomplished and a faulty fuse clip was found.
+
+12. CONCLUSIONS
+O Was Balloon
+O Probably Balloon
+O Possibly Balloon
+O Was Aircraft
+O Probably Aircraft
+O Possibly Aircraft
+O Was Astronomical
+O Probably Astronomical
+O Possibly Astronomical
+O Chg. Equip, malfunction 
+O Insufficient Data for Evaluation 
+O Unknown
+```
+
+Please note that due to the quality of the image, the OCR process may not be perfect and some parts might be misinterpreted. I've matched the output as closely as possible to the content of the image.

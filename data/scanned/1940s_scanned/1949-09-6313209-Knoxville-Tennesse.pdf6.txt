@@ -1,0 +1,57 @@
+The image does not contain any photographs, it is a text document. Here is the text output:
+
+```
+UNCLASSIFIED
+
+2. There were no instruments attached to the balloons released by
+the Knoxville Weather Station.
+
+AT CHATTANOOGA, TENN
+
+3. On 21 September 1949 a check of the Winds Aloft Reports of the
+Weather Records Processing Center, Federal Building, Chattanooga, Tennessee,
+revealed the following:
+
+AT ROANOKE VA, 1 Sep 49 (Balloon)
+Altitude (feet) 0400 hrs1 Direction Knots Per Hr
+2000                                    WNW                             20
+4000                                    WNW                             50
+6000                                    W                                   59
+8000                                    W                                   40
+10000                                  WSW                             56
+
+                                  1000 hrs
+2000                                    NW                                16
+4000                                    NW                                12
+6000                                    NW                                24
+8000                                    NW                                26
+10000                                  WNW                             36
+                                1600 hrs
+2000                                    NW                                10
+4000                                    NW                                15
+6000                                    NW                                18
+8000                                    NW                                17
+10000                                  WNW                             32
+
+                                2200 hrs
+2000                                    N                                  6
+4000                                    N                                  15
+6000                                    N                                   5
+8000                                    N                                   6
+10000                                  WNW                              22
+
+AT SPARTANBURG, S. C. (Balloon)
+0400 hrs (1 Sep 49) Direction
+2000 feet                                    WNW                             23
+4000 feet                                    NW                                 16
+6000 feet                                    W                                   12
+8000 feet                                    WSW                             16
+10000 feet                                  WNW                             25
+
+                                  1000 hrs
+No Record
+
+3
+
+UNCLASSIFIED
+```

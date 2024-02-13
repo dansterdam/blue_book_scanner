@@ -1,0 +1,36 @@
+There are no photographs present in the provided image.
+
+Output of text found in the document:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE-TIME-GROUP 2. LOCATION
+18 Jul 49 18/1600Z Fairfield Suisun AFB, California 4 0 4
+
+3. SOURCE 10. CONCLUSION
+Military AIRCRAFT
+
+4. NUMBER OF OBJECTS
+TWO
+
+5. LENGTH OF OBSERVATION 11. BRIEF SUMMARY AND ANALYSIS
+4-5 seconds The objects were dull white or silver in color. They were
+traveling as fast or faster than the C-82 which was overhead
+6. TYPE OF OBSERVATION at the time of the sighting and also was observed. No sound,
+Ground-Visual smoke, exhaust, or trail was observed.
+
+7. COURSE
+Easterly
+
+8. PHOTOS
+O Yes
+/Internal Page. O No
+
+9. PHYSICAL EVIDENCE
+O Yes
+O No
+
+FORM
+TD SEP 63 0-329 (TDE) Previous editions of this form may be used.
+```

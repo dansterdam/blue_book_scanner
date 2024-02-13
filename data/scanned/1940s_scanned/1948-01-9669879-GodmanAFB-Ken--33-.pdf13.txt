@@ -1,0 +1,72 @@
+There are no photographs in this image. The image contains a scanned document with text. Below is the text as an output of an OCR system:
+
+```
+ROUTING AND RECORD SHEET
+
+MATERIAL COMMAND
+Use this form for inter-office correspondence
+I've authorized office symbol to designate
+this headquarters.
+Place initials of dictator and typist/telephone
+number and branch below left of front.
+Note warning signal at lower left of form.
+Separate pieces of worksheet only for
+removing a space to be written signature.
+Routing and Record Sheet for documents.
+
+SUBJECT Request for Information
+
+TO MCIAXO-3 ATTN: Capt. Beebout FROM DATE 20 Oct 48 COMMENT NO. 1.
+
+1. Reference is made to recent telephone conversation between Capt. Beebout and Mr.
+Collins, concerning the location of the planet Venus on 7 January 1948 between the hours
+of 1330 and 1515 when viewed from the vicinity of Godman Field, Kentucky.
+
+2. It is requested that the following information be submitted hereon as comment 2:
+
+a. Position of planet at half-hour intervals during time mentioned.
+
+b. Opinion as to whether or not planet could be seen from aircraft at
+15,000 ft. or from the ground.
+
+c. Was any other major planet in sighting distance at the time?
+
+By direction of Major General, in charge
+R.L. CLINGANF
+Colonel, USAF
+Colonel, Tech Intelligence Division
+Intelligence Department
+P 2202
+B 288
+653104/P
+RECONSTRUCTED
+TO: NICAIXO-3 FROM: MXERH DATE: 27 Oct 48 COMMENT NO. 2
+AL73
+
+The following information is submitted as requested in the above comment:
+
+a. The position of the planet Venus, at half-hour intervals, to nearest degree;
+
+Body Local Azimuth
+Venus Time Altitude
+10:30 11,000' 122°
+10:30 15,000' 127°
+11:00 21,000' 130°
+11:30 21,000' 117°
+12:00 24,000' 114°
+12:30 31,000' 112°
+13:00 53,000' 158°
+13:30 33,000' 151°
+15:00 35,000' 171°
+15:00 35,000' 180°
+1, 70 31,000' 157°
+1, 70 34,000' 179°
+15:00 53,000' 197°
+21:15 32,000' 203°
+
+UNCLASSIFIED
+RESTRICTED
+W-10-30 APP AM 6 290 M
+
+(CONTINUE ON OTHER SIDE)
+```

@@ -1,0 +1,33 @@
+No photograph is present in the image. Now, I will perform OCR on the text in the document:
+
+```
+5D 24-21 O UNCLASSIFIED
+                         
+PROJECT "GRUDGE" (Incident -
+Boise, Idaho, 13 May 1949)
+
+UNDEVELOPED LEADS
+
+DISTRICT OFFICE #20, McCHORD AFB:
+
+AT BOISE, IDAHO
+
+Will interview Mr. *{redacted}* Building, Boise, Idaho, and other person or persons having knowledge
+of this incident or any similar incident, using the inclosed letter
+for reference.
+
+PENDING
+
+*{text markings indicative of removed or redacted text}*
+
+DOWNGRADED AT 3 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10
+
+UNCLASSIFIED 
+
+3
+*{unreadable text or markings}*
+```
+
+Please note that redactions or markings in the text have been denoted with *{description of affected text}*.

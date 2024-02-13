@@ -1,0 +1,43 @@
+The image includes a scanned document with text and a small table but does not contain a photograph. Below is the output of the text found in the document as if it were processed by an OCR system:
+
+```plaintext
+UNCLASSIFIED
+
+Incident #33, 4-6 -- page 3
+
+intervals of more than half an hour, would be incredible.
+
+Incident #33 is the only case of the four that includes
+the daytime observation of presumably this same object. The im-
+portance of the incident is, however, paramount, for it was in 
+tracking down the mysterious object that Lieutenant Mantell lost
+his life. Again it is possible that the object observed was the
+planet Venus, although the evidence is by no means as definitive
+as that for the sightings made later that day. First, the bearings
+of the object as reported by various witnesses differ considerably,
+where one says southwest, another says south, for the same instant.
+However, integrating all the evidence, one is again struck with the
+coincidence of the object's positions with that of Venus. The fol-
+lowing short table of sightings vs the position of Venus shows the
+general agreement of the two in azimuth:
+
+CSF                      Object                               Venus
+
+1330 (WAC Oliver)    8th or field   almost due S   174°
+1345 (Sgt. Blackwell)   South., of field   178°
+(PFC Oliver)            SW
+1400 (Lt. Umstot)        S                from due S (130°), at
+                                      1403, moving westward
+                                     195°
+1445 (Capt. Mantell)     210°
+       (Col. Hix)           2105                 215°
+
+A more pertinent question is that of whether it would have
+been possible to see Venus in the daytime or that day. All that can
+be said here is that it was not impossible to see the planet under
+these conditions, It is well known that when Venus is at its'greatest
+brilliance, it is possible to see it during the daytime when one knows
+exactly where to look, but on January 7, 1948 Venus was less than half
+``` 
+
+Please note that due to the quality of the scanned document, there may be inaccuracies or missing text in the OCR output.

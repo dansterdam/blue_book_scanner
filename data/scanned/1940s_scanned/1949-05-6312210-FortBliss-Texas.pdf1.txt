@@ -1,0 +1,40 @@
+This image does not contain a photograph. 
+
+Here's the text output as requested:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE - TIME GROUP                       2. LOCATION
+19 May 49 19/u430-1500Z                    Fort Bliss, Texar.
+
+3. SOURCE                                 10. CONCLUSION
+Military                                  AIRCRAFT
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION                  11. BRIEF SUMMARY AND ANALYSIS
+5 Minutes                                 Observers saw a flashing light 30 degree ;above the horizon. It moved away at
+                                          approximately 100 de;re:s and descending. Irregular rolling
+                                          and tilting. Military aircraft reported in the area at that tim;.
+
+6. TYPE OF OBSERVATION
+Ground visual
+
+7. COURSE
+100 Deg descending
+
+8. PHOTOS'
+☐ Yes.
+☑ No
+
+9. PHYSICAL EVIDENCE
+☐ Yes.
+☑ No
+
+FORM
+FTD SEP 63 0-329 (TDE)                         Previous editions of this form may be used.
+```
+
+Note: There are some characters that are not clear due to the quality of the scan or potential typographical errors in the original document—represented by `;` in the transcription.

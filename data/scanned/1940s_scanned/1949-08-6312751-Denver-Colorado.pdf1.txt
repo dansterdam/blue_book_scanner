@@ -1,0 +1,40 @@
+The image you provided is of a text-based document and does not contain any photographs.
+
+Here is the OCR output of the text in the document:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP 2. LOCATION
+20 Aug 49 20/2031Z Denver, Colorado
+
+3. SOURCE 10. CONCLUSION
+Civilian AIRCRAFT
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION 11. BRIEF SUMMARY AND ANALYSIS
+20 seconds Object was reported heading 260 deg, altitude 40,000 ft,
+speed 17,000 mph. Was shaped like a flying wing with heat waves
+emanating from the trailing edge. Object was estimated to be
+about the size of a B029 and was the color of aluminum. Object
+flew in a straight line with no unusual maneuvers.
+
+6. TYPE OF OBSERVATION 7. COURSE
+Ground-Visual West
+
+8. PHOTOS
+
+☐ Yes
+☒ No
+
+9. PHYSICAL EVIDENCE
+
+☐ Yes
+☒ No
+
+FORM
+FTD SEP 63 0362 (TD2)
+Previous editions of this form may be used.
+```

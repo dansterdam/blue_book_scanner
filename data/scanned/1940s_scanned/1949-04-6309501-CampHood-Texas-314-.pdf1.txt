@@ -1,0 +1,49 @@
+The image provided does not contain any photographs. It displays a page from an old document, possibly pertaining to a UFO sighting report from Project Blue Book.
+
+Here is the output of all the text found in the document:
+
+```
+FORM
+FTD.  FORM 298 (REVISED)
+PROJECT 10073 RECORD
+1. DATE - TIME GROUP                    LOCATION                             3/4
+.27 April 49____23/0320Z____               Camp Hood, Texas__________
+
+2. SOURCE  10. CONCLUSION
+
+Military             Other (BIRDS)
+
+3. NUMBER OF OBJECTS
+
+One
+
+4. LENGTH OF OBSERVATION
+
+60 seconds
+
+5. TYPE OF OBSERVATION
+
+Ground-Visual
+
+6. COURSE
+
+West
+
+7. PHOTOS
+
+   Yes
+   No
+
+8. PHYSICAL EVIDENCE
+
+   Yes
+   No
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+Observer sighted a large dull violet object. It was round
+heading West. The light went on and off at regular intervals.
+It was seen for about 60 seconds.
+
+FORM 214
+```

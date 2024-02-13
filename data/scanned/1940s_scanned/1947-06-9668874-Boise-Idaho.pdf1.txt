@@ -1,0 +1,32 @@
+There are no photographs present in this image.
+
+Here is the text output:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP              2. LOC "ION
+                                    Boise, Idaho
+3. SOURCE
+                                   10. CONCLUSION
+Civilian
+                                   ASTRO (SUN DOG)
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION           11. BRIEF SUMMARY AND ANALYSIS
+A few minutes                      Observer sighted a halo circle object which was stationary.
+                                   It was bright & silvery and seemed to be clinging to a 
+6. TYPE OF OBSERVATION             cloud.
+Ground-Visual                           
+7. COURSE
+Stationary
+8. PHOTOS
+    ☑ Yes
+    ☐ No
+9. PHYSICAL EVIDENCE
+    ☐ Yes
+    ☑ No
+
+FORM
+FTD SEP 63 0-329 (TDE)   Previous editions of this form may be used.
+```

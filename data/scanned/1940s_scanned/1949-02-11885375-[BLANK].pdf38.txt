@@ -1,0 +1,19 @@
+The image does not contain a photograph. It is a page from a document with typewritten text. Here is the extracted text:
+
+UNCLASSIFIED
+
+To summarize the discussion thus far: the chance of space travelers existing at planets attached to neighboring stars is very much greater than the chance of space-traveling Martians. The one can be viewed almost as a certainty (if the assumptions are accepted), whereas the other is very slight indeed.
+
+In order to estimate the relative chances that visitors from Mars or star X could come to the Earth and act like "flying objects", some discussion of characteristics of space ships is necessary.
+
+To handle the simple case first, a trip from Mars to Earth should be feasible using a rocket-powered vehicle. Once here, the rocket would probably use more fuel in slowing down for a landing than it did in initial takeoff, due to Earth's higher gravitational force.
+
+A rough estimate of one-way performance can be found by adding the so-called "escape velocity" of Mars to that of the Earth plus the total energy change (kinetic and potential) used in changing from one planetary orbit to the other. These are 3.1, 7.0, and 10.7 miles per second, respectively, giving a total required performance of 20.8 miles per second for a one-way flight. Barring a suicide mission, the vehicle would have to land and replenish or else carry a 100% reserve for the trip home.
+
+Let us assume the Martians have developed a nuclear, hydrogen-propelled vehicle (the most efficient best arrangement that has been conceived here on Earth) which uses half its stages to get home and the remaining stages to return to Mars, thus committing a round trip without refueling (but slowing down enough in our atmosphere to be easily visible, i.e., practically making a landing). Since it is not clear powered (as opposed to materials will be limiting to maximum operating temperatures the materials can withstand (heat transfer from the pile to the gas, so cooling can't the used in the pile). The highest melting point compound of unranium which we can find is uranium carbide. It has a melting point of 4560°R. Assume the Martians are capable of realizing a gas temperature of 4500°R (= 2500°K), and that they also have alloys which make high temperature oxides economical. Then the specific Impulse will be I = 1035 seconds and the exhaust velocity will be e = 33,400 ft/sec (reference 5). Calculation shows that using a single stage for each leg of the journey would require a fuel/gross weight ratio of 0%.96 (for e0oh stage) too high to be practical. Using two stages each way (four altogether) brings the required fuel ratio down to 0.91, a value that can be realized.
+
+If, by the development of strong alloys, the basic weight could be kept to 10% of the total weight for each stage, a residue of 9% could be used for payload. A four stage vehicle would then have a gross weight (100%) = 15,000 times as great as the payload: thus, if the payload were 2,000 pounds, the gross weight would be 30 million pounds at initial takeoff (Earth pounds).
+
+UNCLASSIFIED
+
+S-11750

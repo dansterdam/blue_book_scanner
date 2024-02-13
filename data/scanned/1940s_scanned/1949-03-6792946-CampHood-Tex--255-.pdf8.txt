@@ -1,0 +1,48 @@
+There is no photograph present in this image. The image contains a document with text fields and various annotations. Here is the text output from the document:
+
+```
+RESTRICTED
+
+FROM COPIES TO:
+INTER 
+G-3 
+INCOMING MESSAGE
+OUTGOING MESSAGE
+FROM: 
+TO:
+FILE COPY
+RES. NO. IN 
+3
+4
+5
+
+DESCRIPTION, DATES AND SUBJECT:
+INC MSG DTG 071200A (Msg made 10 ea)
+CWTS MC DC AST 47      Action c7
+
+ENCLOSURES:
+
+TO: SYMBOL
+...
+TO: SYMBOL
+...
+COPY NO. 
+COPY NO. 
+COPY NO. 
+
+COPY NO. REC’D BY
+COPY NO. REC’D BY
+COPY NO. REC’D BY
+
+DATE REC’D 
+DATE REC’D 
+DATE REC’D 
+
+HOUR
+HOUR
+HOUR
+
+RESTRICTED
+```
+
+Some parts of the text are blurry or incomplete, so I've included ellipses (...) where the text is not clearly readable. The form contains timestamps, symbol entries, copy numbers, and various fields related to classification and message direction. It appears to be an administrative form used for logging and tracking messages and actions.

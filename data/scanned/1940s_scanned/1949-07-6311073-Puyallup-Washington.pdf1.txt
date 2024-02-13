@@ -1,0 +1,44 @@
+There are no photographs in the image provided. Here is all the text found in the document:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE + TIME GROUP            2. LOCATION
+27 JUL 49                            Puyallup, Washington
+28/0542Z
+
+3. SOURCE
+Military
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+Few Seconds
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+Northerly
+
+8. PHOTOS
+o Yes
+[X] No
+
+9. PHYSICAL EVIDENCE
+o Yes
+[X] No
+
+10. CONCLUSION
+Astro (METEOR)
+
+11. BRIEF SUMMARY AND ANALYSIS
+Object appeared as a long streak across the sky traveling
+parallel to the horizon. The streak appeared in a line of
+vision running from East to West for a few seconds, appeared
+to explode or accelerate, then narrowed out again, having the
+appearance somewhat like a pip levelling out on a radar scope.
+
+FORM STD SEP 63 0.329 (TDE)           Previous editions of this form may be used.
+```

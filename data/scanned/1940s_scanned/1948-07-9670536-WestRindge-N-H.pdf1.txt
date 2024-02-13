@@ -1,0 +1,44 @@
+The image does not contain a photograph. It is a page of a document with text and tables. Here is the text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE           7 July 1948
+2. LOCATION       West Rindge, N. H.
+
+3. DATE-TIME GROUP                7 July 1500
+
+4. GMT
+
+5. PHOTOS         No
+
+6. TYPE OF OBSERVATION
+   C Ground-Visual           G Ground-Radar
+   E Air-Visual              H Air-Intercept Radar
+
+7. SOURCES        Male Civilian
+
+8. LENGTH OF OBSERVATION
+
+9. NUMBER OF OBJECTS     9. COURSE
+
+10. BRIEF SUMMARY OF SIGHTING
+Several people noticed little curls of smoke on a lawn. Upon investigation small burned spots about 1½ inches in diameter were found. Fires were apparently caused by metallic fragments similar to the lining of V-2 bombs.
+
+11. COMMENTS
+Investigation not completed, possibly the lining from a jet turbo plane.
+
+12. CONCLUSIONS
+   A Balloon
+   B Aircraft
+   C Astronomical
+   D Other
+   E Possibly Balloon
+   F Possibly Aircraft
+   G Possibly Astronomical
+   H Possibly Other
+   J Insufficient Data for Evaluation
+   K Unknown
+
+ATTC FORM 117 REV (25 SEP 52)
+```
