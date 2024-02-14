@@ -30,7 +30,7 @@ Your generosity fuels progress, accelerating our quest to make this data accessi
 
 ### Join the Mission:
 
-For more details, check out our Reddit post that showcases our progress and dedication. Then, take the plunge and click the link above to become a UFO Data Hero. Your contribution will make a significant impact, and together, we can uncover the truth behind these enigmatic files. Don't miss the chance to be part of history!
+For more details, check out our [reddit post](https://www.reddit.com/r/UFOs/comments/1ah3hat/scanning_project_blue_book_and_a_cool_case_we/) that showcases our progress and dedication. Then, take the plunge and click the link above to become a UFO Data Hero. Your contribution will make a significant impact, and together, we can uncover the truth behind these enigmatic files. Don't miss the chance to be part of history!
 
 See our [terms and conditions.](https://github.com/dansterdam/blue_book_scanner/blob/main/terms_and_conditions.md)
 
