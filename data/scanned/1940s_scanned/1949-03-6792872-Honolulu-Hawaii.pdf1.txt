@@ -1,0 +1,28 @@
+The image does not contain any photographs; it is a scanned page of a document. Below is the text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE  2. LOCATION  12. CONCLUSIONS
+14 Mar 1949 Honolulu, Hawaii ☐ Was Balloon
+                              ☐ Probably Balloon
+                              ☐ Was Aircraft
+                              ☐ Possibly Aircraft
+DATE-TIME GROUP
+Local ☐ ☐ Possibly Astronomical
+GMT ☒ ☐ Other (Specify)
+                              ☐ Insufficient Data for Evaluation
+                              ☐ Unknown
+3. TYPE OF OBSERVATION ☐ Ground-Visual ☐ Ground-Radar
+                       ☒ Air-Visual ☐ Air-Intercept Radar
+4. SOURCE Civil
+5. PHOTOS ☐ Yes 
+           ☒ No 
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS 9. COURSE
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Source feels obj was definitely a
+celestial 'body.' No details available.
+
+                    Astro (meteor)
+```
+*Please note that not all checkboxes are clearly marked and have been represented with an "☐" or "☒", and there is handwriting that reads "Astro (meteor)" at the bottom right of the page.

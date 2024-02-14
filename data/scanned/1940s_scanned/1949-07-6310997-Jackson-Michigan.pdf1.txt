@@ -1,0 +1,31 @@
+There is no photograph on this page. Here is the text as an OCR system would output:
+
+```
+PROJECT 10073 RECORD
+
+l. DATE + TIME GROUP     | 7. LOCATION
+27 Jul 49                | Jackson, Michigan
+3. SOURCE                | 10. CONCLUSION
+Civilian                 | Other (FLARE)
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+N/A
+6. TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+N/A
+8. PHOTOS
+Yes  X
+No
+9. PHYSICAL EVIDENCE
+Yes  X
+No          In FILE
+11. BRIEF SUMMARY AND ANALYSIS
+An object fell on the ground and burnt a hole. The object
+glowed without a flame for about three minutes. Residue
+was analyzed and it was determined to have been from a flare.
+See:'specimen 7-37845-H62
+
+FTD SEP 63 0-332 (TDE)     Previous editions of this form may be used.
+```

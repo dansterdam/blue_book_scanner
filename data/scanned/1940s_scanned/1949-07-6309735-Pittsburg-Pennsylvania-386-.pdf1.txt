@@ -1,0 +1,43 @@
+There are no photographs present in this image. The image shows a page from an old document.
+
+Here is the text output from the document as if from an OCR system:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE: TIME GROUP               2. LOCATION
+3 Jul 49      04/03z                   ttsburg, Pennsylvania        33 6
+
+3. SOURCE                                            10. CONCLUSION
+Civilian                                                      Astro (METEOR)
+
+4. NUMBER OF OBJECTS
+
+5. LENGTH OF OBSERVATION
+10-15 seconds
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+Not stated
+
+8. PHOTOS
+o Yes
+o No
+X
+
+9. PHYSICAL EVIDENCE
+o Yes
+o No
+X
+
+11. BRIEF SUMMARY AND ANALYSIS
+Object was described as being 500 ft long and 50 ft high.
+It had 3 or 4 windows which emitted a very bright light and
+trailed a cherry-red tail of fire 100 ft long. Traveled
+at a very great rate of speed.
+
+FORM
+FTD SEP 63 0-3329 (TDE)   Previous editions of this form may be used.
+```

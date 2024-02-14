@@ -1,0 +1,39 @@
+There is no photograph present in the document.
+
+Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP
+18 Jan 49 18/0022 Z
+2. STATION
+Indian House Lake, Canada
+3. SOURCE
+Military
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+Not stated
+6. TYPE OF OBSERVATION
+Ground Visual
+7. COURSE
+
+8. PHOTOS
+☐ Yes
+☒ No
+9. PHYSICAL EVIDENCE
+☐ Yes
+☒ No
+
+10. CONCLUSION
+Astro (Meteor)
+
+11. BRIEF SUMMARY AND ANALYSIS
+A bright light traveling very fast. The object was not sighted
+only the light. It was thought to be a shooting star or a
+meteor.
+
+FORM 
+FTD SEP 63 0-329 (TDE) Previous editions of this form may be used.
+```

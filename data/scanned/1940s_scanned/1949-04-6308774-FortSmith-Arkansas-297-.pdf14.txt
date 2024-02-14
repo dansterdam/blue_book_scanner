@@ -1,0 +1,34 @@
+There are no photographs present in this image. The image only contains a document with text and form elements. Here is the text extracted from the document:
+
+```plaintext
+TRANSMITTAL
+FROM: CHANNEL (SAME AS ABOVE) TO: NORMAL CHANNELS
+RECORD: 5
+NAVY | 53 | X
+FROM: DATE TIME GROUP ORIGINATOR MESSAGE NUMBER MESSAGE DATE
+PRIORITY Z 125246Z SUPINFO
+FROM: TO
+FILE | TSPG | HOUR | NUMBER COLLECTION
+1 1 7 1 7 INFO
+FROm I | DUE | I ACTION REQUIRED I SOME ANSWER
+E | X
+PROJ NO | SUSPENSE ACT
+DESCRIPTION, DATES AND SUBJECT:
+
+NO. INFO (24HR) FINAL RESPONSE
+
+INCLUSIONS:
+
+1. TYPE FORM (24HR) | 5
+TO: | OFFICE/SYMBOL SYMB NO. (IF ANY) OF FULL SIGNATURE DATE REQ'D TO
+A | 
+TO. | COPY NO. RECD BY DATE RECD HOUR
+TO.
+TO: | COPY NO. RECD BY DATE RECD HOUR
+TO. | COPY NO. RECD BY DATE RECD HOUR
+4
+
+RESTRICTED
+```
+
+This appears to be a transmittal form with various fields for information related to message transmission, including dates, priority, project number, and information on the final response.

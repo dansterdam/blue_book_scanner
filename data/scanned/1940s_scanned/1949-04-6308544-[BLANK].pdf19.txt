@@ -1,0 +1,41 @@
+There is a diagram in the document comprised of a vertical line labeled "C" at one end and a horizontal line with ends labeled "A" and "B." There is a diagonal line connecting "C" to a midpoint between "A" and "B" labeled "D."
+
+Here is the text output from that page:
+
+```
+Engineering Division.
+Memorandum Report No.: [REDACTED] UNCLASSIFIED
+26 April 1949
+the autokinetic illusion (see Guilford, J. P., 1932). In the accom-
+panying figure the line AD looks approximately as long as the line CD, 
+but when you measure them the two will be found to be of quite different 
+lengths.
+
+DOWNGRADED AT 12 YEAR 
+INTERVALS; NOT AUTOMATICALLY
+DECLASSIFIED. DOD DIR 5200.10 
+
+Visual stimuli originating within the eye itself also give rise 
+to mistaken observations. Muscae volitantes or "flying gnats" are small 
+solid particles that float aínat in the fluids of the eye and cast 
+shadows on the retina. They often can be seen when you look up at 
+the clear sky, or when you are reading. They move as your eyes move. 
+It is sometimes possible also to see corpuscles or other objects that 
+are circulating within the fluids in the ret;ia of the eye.
+
+Then, of course, everyone from time to time mistakes some more 
+or less familiar object for another object. A probable explanation 
+for many reports of unidentified aerial phenomena is that the object 
+is really something quite familiar, such as an aircraft, a light, or a 
+bird. The observer simply fails to identify it correctly. These 
+errors arise chiefly as a result of inability to estimate speed and 
+distance.
+
+(2) Mistaking Imaginary for Real Events: This error of 
+observation is usually made only by children, by individuals of low 
+intelligence (people who are very suggestible), by people who see 
+visions, or by the mentally ill. It usually is not difficult for an
+UNCLASSIFIED
+``` 
+
+Please note that there is a redaction in the document's header where a number or identifier was blacked out.

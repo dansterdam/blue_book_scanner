@@ -1,0 +1,28 @@
+No photograph is present in the image. The text in the document reads as follows:
+
+```
+UNCLASSIFIED
+
+Incident #197 
+
+ATC 110.
+APRO. ---
+NICAP ---
+DATE OF OBS. 5 Nov 48
+LOCATION Richmond, Indiana
+SOURCE ------ 
+TYPE OF OBSERVER -----
+GRADE OF SOURCE. OI-5,OI-5,SI,CPT 
+SHAPE Round 
+COLOR White 
+ALTITUDE Very high 
+COURSE ----- 
+SPEED Movement --------
+NO. TO GROUP 1 
+DURATION OF OBSERVATION 20 Minutes 
+NO. OF OBJECTS -------
+POSITION OF OBSERVER Ground 
+CONDITIONS Remained stationary
+```
+
+Note that some information seems to have been redacted or left blank. My output is a transcription of the visible and legible text on the document.

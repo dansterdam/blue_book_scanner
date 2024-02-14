@@ -1,0 +1,44 @@
+There are no photographs present on this page. Below is the text output as requested:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE : TIME GROUP      2. LOCATION
+7 Jul. 49               U8/03002             Alexandria, Louisiana
+
+3. SOURCE               10. CONCLUSION
+Civilian                                    AIRCRAFT
+
+4. NUMBER OF OBJECTS
+
+One
+
+5. LENGTH OF OBSERVATION
+5 minutes
+
+6. TYPE OF OBSERVATION
+Groun~ Visual
+
+7. COURSE
+West and North
+
+8. PHOTOS
+[ ] Yes
+[X] No
+
+9. PHYSICAL EVIDENCE
+[ ] Yes
+[X] No
+
+11. BRIEF SUMMARY AND ANALYSIS
+Object appeared as a round light in the sky approx
+35 deg elevation. The object was orange in color with
+no visible means of support, it seemed to fall a certain
+distance then move from North to West for about 2½ minutes,
+and then reversed its course and flew back in a Northerly
+direction for about 2½ minutes when it disappeared from
+view by gradually moving out of sight.
+
+FORM
+F.T.D 5290 63-329 (TDES)         Previous editions of this form may be used.
+```

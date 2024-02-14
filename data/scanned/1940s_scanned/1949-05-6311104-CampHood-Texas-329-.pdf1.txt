@@ -1,0 +1,24 @@
+The image does not contain a photograph; it is a text document. Below is the text extracted from the document:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE-TIME GROUP 7 May 49 c503/01/02
+2. STATION Camp Hood, Texas
+3. SOURCE
+4. NUMBER OF OBJECTS Two
+5. LENGTH OF OBSERVATION 1. 57 sec 2. 10 min
+6. TYPE OBSERVATION Ground-Visual (GV)
+7. COURSE 1. NW-SE 2. SE
+8. Prioroc 🞔 Yes 🞔 No
+9. PHYSICAL EVIDENCE 🞔 Yes 🞔 No
+10. CONCLUSION 1. Aircraft 2. Astro (suns/planets) Probably Betelgeuse
+11. BRIEF SUMMARY AND ANALYSIS
+   1. Observer sighted a diamond-shaped object. It was red to greenish-white. It was heading North and dropped in altitude.
+It was in view for about 57 seconds and then it went out.
+   2. Observer sighted a diamond-shaped object. It also was colored red to greenish-white. It was stationary slowly
+losing altitude. Binoculars were used, this object was in the west.
+
+FORM
+FTD FOP A-329 (TD5) Previous editions of this form may be used.
+```

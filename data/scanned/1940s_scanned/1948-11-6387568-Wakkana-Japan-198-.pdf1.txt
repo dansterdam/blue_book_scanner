@@ -1,0 +1,28 @@
+The image you have provided does not contain any photographs. It appears to be a textual document page. I will now perform an OCR function and produce the text output:
+
+```
+UNCLASSIFIED
+
+[...]
+Incident #128
+[...]
+DATE OF OBS. --- 6 Nov 45
+PLACE OF OBS. --- Wakkanai, Japan.
+SOURCE --- Radar Operator
+TIME OF OBS. --- 1157
+SHAPE ---
+SIZE ---
+SPEED --- Normal for a/c
+COLOUR ---
+NO. IN GROUP --- 2
+SOUND ---
+DURATION --- Minutes of the incident --- 65 Minutes
+TYPE OF OBSERVATION: Radar-scope
+SUMMARY: Target at times gave impression
+of 2 fighter a/c dogfighting. Continually
+changed course 
+
+UNCLASSIFIED
+``` 
+
+The document is faded and certain sections are not clearly visible, hence they are represented by blank spaces.

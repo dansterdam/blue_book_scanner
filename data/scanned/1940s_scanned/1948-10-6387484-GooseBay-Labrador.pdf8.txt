@@ -1,0 +1,51 @@
+There are no photographs present on this page. It is a text document.
+
+Below is the output of the text as an OCR system would provide:
+
+```
+Page 3
+0215152
+
+RADAR
+
+1. Rb radars now operating on ground
+
+   a. Range - approximately 3 3/4 miles from the station.
+      Speed - estimated at 60 MPH.
+      Altitude - could not be determined.
+      Size - at first observation the object appeared to 
+             be the same size as an aircraft. When it 
+             disappeared from the 75 mile scope it appear-
+             ed too small to be an aircraft and too large
+             to be a bird.
+
+   b. Object did not turn.
+
+GENERAL
+
+1. Teleptype sequences of local weather conditions.
+
+November 1, 1948
+
+17002 - High scattered clr, lower scattered cun at 3,500
+        ft, visibility 30 miles, pressure 1021.4 milli-
+        bars, temperature 36 degrees F, dew point 23 de-
+        grees F, wind WNW 10 MPH.
+
+18002 - High scattered clr, lower scattered cun at 3,500
+        ft, visibility 20 miles, pressure 1021.0 milli-
+        bars, temperature 35 degrees F, dew point 25 de-
+        grees F, wind WNW 14 MPH.
+
+19002 - Clear 30 miles, pressure 1020.9 millibars, temp-
+        erature 35 degrees F, dew point 25 degrees F
+        wind WN 10 MPH.
+
+20002 - 8,000 scattered, visibility 30 miles, pressure
+        1021.5 millibars, temperature 32 degrees F, dew
+        point 21 degrees F, wind WNW 11 MPH. Also C L 7/10.
+
+21002 - 6,000 scattered visibility 30 miles, pressure
+        1021.3 millibars, temperature 29 degrees F, dew
+        point 15 degrees F, wind W 6 MPH. Also C L 6/10.
+```

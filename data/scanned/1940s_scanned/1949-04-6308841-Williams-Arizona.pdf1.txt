@@ -1,0 +1,44 @@
+There are no photographs present in this document. 
+
+As an OCR (Optical Character Recognition) system, here's the output of the text found in the document:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP
+19 Apr 49 19/0900Z
+
+7. LOCATION
+Williams, Arizona
+
+3. SOURCE
+Civilian
+
+10. CONCLUSION
+Astro (FIREBALL)
+
+4. NUMBER OF OBJECTS
+One
+
+11. BRIEF SUMMARY AND ANALYSIS
+Observer sighted a greenish-blue flash of light. It appeared to be a fireball or meteor heading to the NE. The object traveled in a straight line and disappeared behind an obstacle.
+
+5. LENGTH OF OBSERVATION
+1-2 seconds
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+COURSE
+NE
+
+8. PHOTOS
+[] Yes
+[X] No
+
+9. PHYSICAL EVIDENCE
+[] Yes
+[X] No
+
+FTD SEP 53-0329 (TDE) Previous editions of this form may be used.
+```
