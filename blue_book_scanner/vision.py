@@ -46,7 +46,7 @@ def process_fileset(input_dir, output_dir, client):
     files = os.listdir(input_dir)
 
     # Define the maximum number of threads based on your system's capability and the nature of the task
-    max_workers = 3  # Adjust this based on your needs and system's capabilities
+    max_workers = 2  # Adjust this based on your needs and system's capabilities
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         # Submit each file to be processed in parallel
@@ -86,10 +86,12 @@ def process_single_page(file_path, page_number, output_file_prefix, output_dir, 
     image = convert_page_to_image(file_path, page_number)
     base64_image = encode_image_to_base64(image)
     output_filename = f"{output_file_prefix}{page_number}.txt"
-    print(f"processing file {output_filename}")
     output_filepath = os.path.join(output_dir, output_filename)
 
-    if not os.path.exists(output_filepath):  # Avoid re-processing if already done
+    if not os.path.exists(output_filepath):
+        print(
+            f"processing file {output_filename}"
+        )  # Avoid re-processing if already done
         process_image_and_extract_text(
             base64_image, output_filepath, client
         )  # Include retry parameters if necessary
