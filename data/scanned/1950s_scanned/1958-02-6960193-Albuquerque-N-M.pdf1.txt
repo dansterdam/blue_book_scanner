@@ -1,0 +1,51 @@
+The document does not contain any photographs.
+
+Here is the OCR output of the text presented in the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                    2. LOCATION
+2 Feb 58                                  Albuquerque, N.M.
+
+3. DATE-TIME GROUP           4. TYPE OF OBSERVATION
+Local
+CMT 02/1336Z                ☐ Ground-Visual       ☐ Ground-Radar
+                             ☐ Air-Visual             ☐ Air-Intercept Radar
+5. PHOTOS                    6. SOURCE 
+☐ Yes
+☒ No                       ☒ Military
+                            ☐ 
+
+7. LENGTH OF OBSERVATION       8. NUMBER OF OBJECTS             9. COURSE
+7 secs                                        one                                   SE to NW
+
+10. BRIEF SUMMARY OF SIGHTING
+White circular obj, size of pea.
+In sight for 7 secs, traveled fm SE
+to NW, disappearing behind terrain.
+Initial observation at 45 degs elev
+020 AZ, Disappearance 20 deg elev
+320 deg AZ. observer looking North.
+
+11. COMMENTS
+Obj viewed for 7 secs apparently
+moving good distance. Consistant
+with meteor however obj viewed at
+dawn & possessed sharp outline
+insufficient data to conclude
+analysis.
+
+12. CONCLUSIONS
+☐ Balloon                                  ☐ Was Aircraft
+☐ Probably Balloon                      ☐ Probably Aircraft
+☐ Possibly Balloon                      ☒ Possibly Astronomical
+☐ Was Missile                            ☐ Probably Astronomical
+☐ Probably Missile                       ☐ Other
+☐ Possibly Missile                       ☐ Insufficient Data for Evaluation
+                                                             ☐ Unknown
+
+ATSC FORM 329 (REV 26 SEP 52)
+```
+
+Please note that the checkboxes (☐) in the original text have been replaced with appropriate marks (☒) to indicate selected options based on the visual representation in the document.

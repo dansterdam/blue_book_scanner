@@ -1,0 +1,25 @@
+The image provided does not contain a photograph; it is a scanned document. Below is the text output from the document shown:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                   2. LOCATION                         12. CONCLUSIONS
+      6 July 1954                                  Victoria, San Antonio, Edna, Texas         [ ] Balloon
+                                                                                                                [ ] Probably Balloon
+3. DATE-TIME GROUP                  4. TYPE OF OBSERVATION              [ ] Possibly Balloon
+      Local__20:00CST__                         [ ] Ground-Visual                      [ ] Was Aircraft
+      GMT___2/02/02Z__+ -                          [ ] Ground-Radar                        [ ] Probably Aircraft
+5. PHOTOS                               [ ] Air-Visual                                 [ ] Possibly Aircraft
+      [ ] Yes                                [ ] Air-Intercept Radar                  [ ] Was Astronomical
+      [X] No                                                                         [ ] Probably Astronomical
+6. SOURCE                                                                    [ ] Possibly Astronomical
+      [ ] Civilian                                                        [ ] Other
+      [X] Military                                                                 [X] Insufficient Data for Evaluation
+                                                                                         Unknown
+7. LENGTH OF OBSERVATION               8. NUMBER OF OBJECTS            9. COURSE
+      10-15 Seconds                                 1                                           NE & E
+10. BRIEF SUMMARY OF SIGHTING        11. COMMENTS
+      Rocket type. Blue flames trailing.
+```
+
+Please note the checkmarks denoting selections made on the form ([X] denotes a selected option). In the bottom left of the document, there is a form code that reads: "ATIC FORM 329 (REV 26 SEPT 52)"

@@ -1,0 +1,59 @@
+There are no photographs present in this document.
+
+Below is the text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+5 September 1956
+
+2. LOCATION
+Flint, Michigan
+
+3. DATE-TIME GROUP
+Local__________
+GMT 05/0540Z
+
+4. TYPE OF OBSERVATION
+XQ Ground-Visual [] Ground-Radar
+[] Air-Visual [] Air-Intercept Radar
+
+5. PHOTOS
+O Yes
+XQ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+one hour
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+N to S
+
+10. BRIEF SUMMARY OF SIGHTING
+One object with shape from triangle to umbrella. Size of baseball, color green. Object had a tail.
+
+11. COMMENTS
+Poor rpt but does indicate possible balloon from time observed. Wind data not included and case considered insufficient Data.
+
+12. CONCLUSIONS
+[] Was Balloon
+[] Probably Balloon
+[] Possibly Balloon
+[] Was Aircraft
+[] Probably Aircraft
+[] Possibly Aircraft
+[] Was Astronomical
+[] Probably Astronomical
+[] Possibly Astronomical
+[] Other
+X[] Insufficient Data for Evaluation
+[] Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

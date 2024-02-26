@@ -1,0 +1,54 @@
+There is no photograph present in this document. Here is the text output as requested:
+
+PROJECT 10073 RECORD CARD
+
+1. DATE
+12 December 1954
+
+2. LOCATION
+70-00N 156-20' Alaska
+
+3. DATE-TIME GROUP
+Local12/1602
+GMT 12/1602
+
+4. TYPE OF OBSERVATION
+D Ground-Visual
+D Ground-Radar
+D Air-Visuoi
+D Air-Intercept Radar
+
+5. PHOTOS
+O Yes
+X No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+15 Minutes
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+
+10. BRIEF SUMMARY OF SIGHTING
+Oval. Blinking pinkish-red for 15 minutes; turning suddenly white for 15 minutes, then dissipating with day light.
+
+11. COMMENTS
+Probably astro—star/planet.
+
+12. CONCLUSIONS
+O Was Balloon
+O Probably Balloon
+O Possibly Balloon
+O Was Aircraft
+O Possibly Aircraft
+O Was Astronomical ST
+X Probably Astronomical
+O Other
+O Insufficient Data for Evaluation
+O Unknown
+
+ATIC FORM 329 (REV 25 SEP 52)

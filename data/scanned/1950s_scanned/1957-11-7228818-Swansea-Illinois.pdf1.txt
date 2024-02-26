@@ -1,0 +1,49 @@
+There are no photographs on this page.
+
+The text on the document reads:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                    2. LOCATION
+   November 1957                            Swansea, Illinois
+
+3. DATE-TIME-GROUP                         4. TYPE OF OBSERVATION
+   GMT_02/03:52                            xD Ground-Visual                    D Ground-Radar
+                                                      D Air-Visual                             D Air-Intercept Radar
+5. PHOTOS
+   xNo
+6. SOURCE
+   Civilian
+7. LENGTH OF OBSERVATION            8. NUMBER OF OBJECTS         9. COURSE
+   5 seconds                                  one                                      descending
+10. BRIEF SUMMARY OF SIGHTING      
+    Round, reddish object, size of base
+    ball at arm's length. A distinct spark
+    shot out of the burning object during
+    its flight. Object burned out.
+
+11. COMMENTS
+    The description is of a meteor.
+
+(In #1 Nov 57 Folder as #26)
+ 
+12. CONCLUSIONS
+    [] Was Balloon
+    [] Probably Balloon
+    [] Possibly Balloon
+    [] Was Aircraft
+    [] Probably Aircraft
+    [] Possibly Aircraft
+    xWas Astronomical Meteor
+    [] Probably Astronomical
+    [] Possibly Astronomical
+
+    Other.
+    [] Insufficient Data for Evaluation
+    [] Unknown
+
+ATIC FORM 329 (REV 16 SEP 52)
+``` 
+
+Note: The "x" marks and checkboxes indicate choices that were selected or filled in on the form.

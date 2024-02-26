@@ -1,0 +1,44 @@
+The image is a scanned document and does not contain any photographs.
+
+The text on the document reads:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE 7 Jun 59
+2. LOCATION South of Macao, China 7-3745-2387
+3. DATE-TIME GROUP
+Local ____-_____
+GMT 0733/2232
+4. TYPE OF OBSERVATION
+    [] Ground-Visual          [] Ground-Radar
+    [X] Air-Visual            [] Air-Intercept Radar
+5. PHOTOS Yes X No
+6. SOURCE Military
+7. LENGTH OF OBSERVATION 6-8 minutes visually
+8. NUMBER OF OBJECTS 8
+9. COURSE SW
+10. BRIEF SUMMARY OF SIGHTING
+    Flight, spherical obs jn in pairs about 15 min between each pair. Each obj about 25 ft diameter. Objs were of dark color of unidentified size. A ship was visible at either end of the formation, about 5 NM nearest pair. Obj s appeared to be airborne at between 2000 to 5000 ft alt. No wake visible & shadow indicated airborne.
+    See Also: FLIR T________ 7-3745-2387
+
+(FILM IN SPECIAL FILE)
+
+ATC FORM 329 (REV 26 SEP 52)
+
+11. COMMENTS
+    ATIC radar analysis states objs could be submarine activity, fishing craft, or giant manta rays.
+12. CONCLUSIONS
+    [] Was Balloon
+    [] Probably Balloon
+    [] Possibly Balloon
+    [] Was Aircraft
+    [] Probably Aircraft
+    [] Possibly Aircraft
+    [] Was Astronomical
+    [] Probably Astronomical
+    [] Possibly Astronomical
+    [] Other S______________________
+    [] Insufficient Data for Evaluation
+    [] Unknown
+```

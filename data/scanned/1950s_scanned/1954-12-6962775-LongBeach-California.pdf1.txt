@@ -1,0 +1,44 @@
+The image does not contain a photograph. It is an image of a document which is labeled 'PROJECT 10073 RECORD CARD'. Below is the text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                      2. LOCATION
+1 December 1954                      Long Beach, California
+
+3. DATE-TIME GROUP               4. TYPE OF OBSERVATION
+Local        02/0500Z                          ☐Ground-Visual       ☐Ground-Radar
+GMT                                            ☐Air-Visual              ☐Air-Intercept Radar
+
+5. PHOTOS                                  6. SOURCE
+☐Yes                                          ☐Civilian
+☐No 
+
+7. LENGTH OF OBSERVATION         8. NUMBER OF OBJECTS              9. COURSE
+5 minutes                                    2                                                   W
+
+10. BRIEF SUMMARY OF SIGHTING
+Long object, 2 ft. wide, 10 ft long. Red. 
+
+11. COMMENTS
+Could possibly be jet aircraft. Too
+little info for accurate evaluation.
+Case considered as insufficient data.
+
+12. CONCLUSIONS
+☐ Balloon
+☐ Possible Balloon
+☐ Probable Balloon
+☐ Possibly Aircraft
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Astronomical
+☐ Probably Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 25 SEP 52)
+```
+
+Please note that the checkboxes (☐) on the form are empty and have not been marked, indicating that no specific conclusions were drawn on the checkboxes provided.

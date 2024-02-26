@@ -1,0 +1,41 @@
+The image provided is a scanned document of a Project 10073 Record Card. There are no photographs within this document. Below is the text from the document as an OCR system would produce:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                   2. LOCATION
+27 June 1954              Norton, Kansas
+
+3. DATE-TIME GROUP        TYPE OF OBSERVATION
+Local   _________         ☐ Ground-Visual    ☐ Ground-Radar
+GMT   25/0722             ☐ Air-Visual       ☐ Air-Intercept Radar
+
+4. PHOTOS                 SOURCE
+☐ Yes                     ☐ Civilian
+☐ No 
+
+5. LENGTH OF OBSERVATION  6. NUMBER OF OBJECTS 7. COURSE
+________________________  1                    /
+
+8. BRIEF SUMMARY OF SIGHTING             11. COMMENTS
+Orange object moving west.               Insufficient Data for analysis
+
+9.            _____         12. CONCLUSIONS
+              _____         ☐ Probably Balloon
+                            ☐ Possibly Balloon
+                            ☐ Was Balloon
+                            ☐ Was Aircraft
+                            ☐ Possibly Aircraft
+                            ☐ Probably Aircraft
+                            ☐ Was Astronomical
+                            ☐ Probably Astronomical
+                            ☐ Possibly Astronomical
+                            ☐ Other:
+                            ☐ Insufficient Data for Evaluation
+                            ☐ Unknown
+
+ATC FORM 329 (REV 8-53) 52
+```
+
+- page 1 -
+

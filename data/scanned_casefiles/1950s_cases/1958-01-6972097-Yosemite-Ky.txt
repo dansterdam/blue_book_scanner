@@ -1,0 +1,151 @@
+There are no photographs present on this page.
+
+Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                     2. LOCATION
+   2 Jan 58                 Yosemite, Ky.
+3. DATE-TIME GROUP          4. TYPE OF OBSERVATION
+   GMT 0703/03? Jan 58          x Ground-Visual       o Ground-Radar
+   Local                          o Air-Visual         o Air-Intercept Radar
+5. PHOTOS                   6. SOURCE
+   o Yes                        Civilian (GOC)
+   x No
+7. LENGTH OF OBSERVATION     8. NUMBER OF OBJECTS     9. COURSE
+   3 secs                        one                     NW
+10. BRIEF SUMMARY OF SIGHTING
+   One rnd white ball, smaller than a 
+   dime, Obj. was seen moving NW & was 
+   in sight three secs.
+12. CONCLUSIONS
+   o Balloon
+   o Possibly Balloon
+   o Possibly Meteor
+   x Was Aircraft
+   o Probably Aircraft
+   o Was Astronomical Meteor
+   o Probably Astronomical
+   o Other
+   x Insufficient Data for Evaluation
+   o Unknown
+11. COMMENTS
+   Description, duration, flight path 
+   indicate probability of meteor.
+
+ATTC FORM 97 (REV 8 SEP 52)
+```
+
+Please note that some parts of the text are obscured or not entirely clear, like the date-time group (GMT). The "?" character represents an unclear digit or character.
+
+- page 1 -
+
+The image does not contain a photograph; it is a page with typed text and some handwritten annotations.
+
+Here is the text as an OCR output:
+
+```
+RBB29
+
+SOA332 YMB82 5FLA29S
+RR RJEDDN RJEDSO RJEPHO RJEPNB
+DE RJEDFL 2
+R 031502
+FM 56TH AIR DIV WPAFB
+TO RJEDNN/COMDR ADC
+RJEPHO/DIR OF INTEL HQ USAF
+RJEDSO/COMDR AIR TECH INTEL CEN WPAFB
+INFO RJEPNB/COMDR EADF STEWART AFB
+BT
+/UNCLAS/ OAD3-21 ATTN: PI UFOB
+
+1. DLSCRIPTION:
+A. ROUND BALL
+B. SMALLER THAN A DIME.
+C. WHITE>
+D. 1 (ONE)
+E. NONE
+F. TRAIL OF FIRE THAT APPEARED AND DISAPPEARED
+G. NONE
+H. NONE
+I. NCNE
+
+2. DESCRIPTION OF COURSE:
+A. SKY WATCHING
+B. 75DEG TO 83 DEG
+C. 53 DEG TO 55 DEG
+D. DIRECTLY OVERHEAD-DISAPPEARED IN NORTHEAST DIRECTION
+E. JUST DISAPPEARED
+```
+
+- page 2 -
+
+The image does not contain any photographs. It appears to be a mostly blank page with some text in the top left corner and a handwritten checkmark or similar a mark in the upper right corner. 
+
+The text reads:
+
+```
+BT
+03/02532 JAN RJE DFL
+
+U
+```
+
+- page 3 -
+
+There is no photograph present in the image provided. 
+
+Here is the text output from the document image:
+
+```
+F/3 SECONDS>
+3. MANNER OF OBSERVATION:
+A. GROUND-VISUAL
+B. NONE
+C. N/A
+
+4. TIME AND DATE OF SIGHTING:
+A. 23/23322  cc.32-5- = /9332 Locql
+B. NIGHT-CLEAR
+
+5. LOCATION OF OBSERVER(S).
+FH 1022
+YOSENITE, KENTUCKY.
+
+6. IDENTIFYING INFORMATION of ALL OBSERVERS
+A. JAMES COLEMAN: POST SUPERVISOR
+B. LIBERTY 3354 (WORKING PHONE) NO HOME ADDRESS
+
+7. WEATHER & WINDS-ALOFT CONDITION AT TIME & PLACE OF SIGHTING:
+A. CLEAR 10 MILES
+B. SURFACE- CALM DEG XT
+6,223  262 
+       DEG 32 KT
+12,223- 323
+       DEG 52 KT
+16,233  342
+       DEG 62 KT
+22,223- 532
+       DEG 92 KT
+30,223- 592
+       DEG 92 KT
+39,223- 282
+       DEG 42 KT
+83,233-
+       DEG KT
+
+C. CLEAR SKY
+D. 10 MILES
+E. NONE
+F. NONE
+
+8. NONE
+9. NONE
+10 NONE
+
+11
+```
+
+- page 4 -
+

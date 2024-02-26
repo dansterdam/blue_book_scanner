@@ -1,0 +1,47 @@
+There are no photographs present in this image. The image consists of a document with text. Here is the text as an OCR reproduction:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                           2. LOCATION
+13 Dec 55                        Caddo Lake, Louisiana
+
+3. DATE-TIME GROUP               4. TYPE OF OBSERVATION
+Local                            [] Ground-Visual     [] Ground-Radar
+GMT 14/0252Z                     [] Air-Visual        [] Air-Intercept Radar
+
+5. PHOTOS                        6. SOURCE
+[] Yes                           [] Ground-Radar
+[] No                            [] Air-Visual
+                                  [] military (radar)
+
+7. LENGTH OF OBSERVATION         8. NUMBER OF OBJECTS
+Five Mins                        one
+
+9. COURSE                        10. BRIEF SUMMARY OF SIGHTING
+northeast                        One obj, oblong in shape, giving size of
+                                 a normal a/c return radar, spppeared to be
+                                 drifting northeast under the a/c.
+
+11. COMMENTS
+Obj drifting northeasterly. Winds at
+6,000 ft were from 250 deg blowing
+easterly. Possible balloon sighting.
+
+12. CONCLUSIONS
+[] Was Balloon
+[] Possibly Balloon
+[] Probably Balloon
+[] Was Aircraft
+[] Possibly Aircraft
+[] Probably Aircraft
+[] Was Astronomical
+[] Possibly Astronomical
+[] Probably Astronomical
+[] Other
+[] Insufficient Data for Evalution
+[] Unknown
+
+
+ATTC FORM 329 (REV 26 SEP 52)
+```

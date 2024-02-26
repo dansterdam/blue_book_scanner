@@ -1,0 +1,30 @@
+The image contains no photographs, only text within a structured document. Here is the text as an output:
+
+```
+1. DATE -TIME GROUP                           2. LOCATION
+26 Oct 53 0250Z                               Tinker A.F.B., Oklahoma
+
+3. SOURCE                                     10. CONCLUSION
+1114th                                    AIRCRAFT
+
+4. NUMBER OF OBJECTS                          11. BRIEF SUMMARY AND ANALYSIS
+None                                        Possibly aircraft in area.
+
+5. LENGTH OF OBSERVATION                     12. 
+0 - 10 minutes
+
+6. TYPE OF OBSERVATION                       13.
+Ground-Visual
+
+7. COURSE                                    14.
+
+8. PHOTOS                                    15.
+
+NO
+
+9. PHYSICAL EVIDENCE
+
+NO
+
+FTD SEP 63-32 (TDE)          Previous editions of this form may be used.
+```

@@ -1,0 +1,28 @@
+The image does not contain any photographs.
+
+Here is the text extracted from the image:
+
+```
+PROJECT 10073 RECORD CARD
+
+1 DATE 7 Aug 52 6 LOCATION WASHINGTON D. C. 12 CONCLUSIONS
+    Balloon
+    Possibly Balloon
+2 CAT-INV GROUP 3 TYPE OF OBSERVATION                                                     13 ANALYSIS
+    97[?] 99[?]    XGround-Visual      Ground-Radar     X Prob. Aircraft
+                   X Air-Visual     X Air-Intercept Radar      Possibly Aircraft
+                                                                    Was Astronomical
+4 SOURCE           Ground-Visual                                Probably Astronomical
+                                                                    Possibly Astronomical
+    Civilian                                                                      Insufficient Data for Evaluation
+    XKnown                                                               Unknown
+5 PHOTOS
+    Yes                                                         10 LENGTH OF OBSERVATION
+    X No
+7No.X                                                            11 NUMBER OF OBJECTS  [?] COURSE
+8 BRIEF SUMMARY OF SIGHTING                                    11. COMMENTS
+    Object about the si-e of the moon
+    circled several times, disappeared into clouds.
+
+ATC FORM 112 (REV 16 SEP 52)
+```

@@ -1,0 +1,47 @@
+There is no photograph in the document. Here is the text as an OCR system would output it:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+                            2. LOCATION
+12 Aug 59
+                            Elburn, Ill
+3. DATE-TIME GROUP
+                            4. TYPE OF OBSERVATION
+Local
+                            ❑ Ground-Visual            ❑ Ground-Radar
+GM T20/0230Z
+                            ☑ Air-Visual               ❑ Air-Intercept Radar
+5. PHOTOS
+                            6. SOURCE
+❑ Yes
+                            Civilian Pilot
+❑No
+7. LENGTH OF OBSERVATION
+                            8. NUMBER OF OBJECTS       9. COURSE
+3-5 secs
+                            3 or 4                      not given
+10. BRIEF SUMMARY OF SIGHTING
+                            11. COMMENTS
+Objects appeared as a string of three or
+two in the lights, prior to disappearing,                 TIME is very limited, precluding a
+they seemed to form into one obj. They               valid conclusion.
+appeared the size of a pea at arm's length.
+
+12. CONCLUSIONS
+☑ Was Balloon
+☐ Possibly Balloon
+☐ Probably Balloon
+☐ Was Aircraft
+☐ Possibly Aircraft
+☐ Probably Aircraft
+☐ Was Astronomical
+☐ Possibly Astronomical
+☐ Probably Astronomical
+☐ Other...
+☑ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 20 SEP 53)
+```

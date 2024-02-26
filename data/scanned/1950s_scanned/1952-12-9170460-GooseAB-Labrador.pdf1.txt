@@ -1,0 +1,49 @@
+The image does not contain a photograph. It appears to be a scanned page from a document with text and form fields.
+
+Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE + TIME GROUP
+15 Dec 52      16/0315Z
+
+2. LOCA TION
+Goose AB, Labrador
+
+3. SOURCE
+AF Pilots
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+25 Minutes
+
+6. TYPE OF OBSERVATION
+Air-Visual, Gmnd-Radar
+
+7. COURSE 
+
+8. PHOTOS
+☐ Yes
+☒ No
+
+9. PHYSICAL EVIDENCE
+☐ Yes
+☒ No
+
+10. CONCLUSION
+Visual: Astro (VENUS)
+Radar: Probable (RADAR MALFUNCTION).
+
+11. BRIEF SUMMARY AND ANALYSIS
+Bright red and white object observed by T-33 and F-94B
+aircrews at an estimated altitude of 18,000-20,000'. Ground
+radar unit reports momentary contact with object. Two other
+a/c were in the area at the time of the sighting.
+
+FTD SEP 63 O-329 (TDE)           Previous editions of this form may be used.
+``` 
+
+Please note, due to the image quality and stylization, some characters may have been misinterpreted.

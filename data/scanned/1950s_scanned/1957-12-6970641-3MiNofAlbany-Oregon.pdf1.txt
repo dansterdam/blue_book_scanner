@@ -1,0 +1,27 @@
+The image does not contain a photograph. It is a form with text and various checkboxes. Here is the text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                       2. LOCATION                      12. CONCLUSIONS
+    14 December 1957             3 MI N of Albany, Oregon          ☐ Was Balloon
+3. DATE-TIME GROUP               ☐ Probably Balloon                ☐ Possibly Balloon
+    Local                           ☑ Ground-Visual                  ☐ Was Aircraft
+    GMT 14/1359Z                  ☐ Ground-Radar                   ☐ Probably Aircraft
+5. PHOTOS                        ☐ AI Intercept? Radar             ☐ Possibly Aircraft
+    ☑ Yes                        ☑ SOURCE                          ☐ Was Astronomical
+    ☐ No                           Civilian                         ☐ Probably Astronomical
+4. TYPE OF OBSERVATION                                 ☐ Possibly Astronomical
+          ☐ Binoculars                         6. LENGTH OF OBSERVATION        9. COURSE
+          ☐ Rig                         two hrs 28 mins                    one stationary
+7. NUMBER OF OBJECTS       10. BRIEF SUMMARY OF SIGHTING           11. COMMENTS
+   one                         Red hazy, round object, brightening then      Intercept was requested. Pilot
+                                    dimming. Brighter on one side. Two        Scoured area - nothing there
+                                    bars 25 ft below object resembling wing   except bright full moon on
+                                    span.                                     horizon. Possible mirage. Insuf-
+                                                                              ficient data for analysis.
+
+ATIC FORM 329 (REV 26 SEP 52)
+```
+
+Please note that the checkboxes in the form have been represented with ☐ (unchecked) or ☑ (checked).

@@ -1,0 +1,65 @@
+There are no photographs present on this page of the document.
+
+Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+7 Jan 54
+
+2. LOCATION
+GATE CITY, VIRGINIA
+
+3. DATE-TIME GROUP
+GMT 08/01302
+
+4. TYPE OF OBSERVATION
+x Ground-Visual
+O Air-Visual
+O Ground-Radar
+O Air-Intercept Radar
+
+5. PHOTOS
+O Yes
+x No
+
+6. SOURCE
+civilian
+
+7. LENGTH OF OBSERVATION
+not reported
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+Straight NNW
+
+10. BRIEF SUMMARY OF SIGHTING
+Circular obj with yellow and red flames from
+both ends. On straight course to NNW at
+low speed. Estimated altitude 10,000 ft.
+Civilian Observers.
+
+11. COMMENTS
+Possible a/c, possible meteor. No evaluation
+without duration. Insufficient data.
+
+12. CONCLUSIONS
+O Was Balloon
+O Possibly Balloon
+O Was Aircraft
+O Probably Aircraft
+O Possibly Aircraft
+O Was Astronomical
+O Possibly Astronomical
+O Was Balloon/Aircraft
+O Other:____
+x Insufficient Data for Evaluation
+Unknown
+
+ATRC FORM 329 (REV 16 SEP 52)
+```
+
+The document appears to be a template with certain options marked by an "x" and with hand-written entries, including the word "civilian" and the details of the sighting in section 10.

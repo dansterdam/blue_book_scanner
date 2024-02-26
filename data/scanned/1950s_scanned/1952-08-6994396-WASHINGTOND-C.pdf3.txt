@@ -1,0 +1,45 @@
+The image does not contain any photographs, only text within structured fields.
+
+Here is the text extracted from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE          5 Aug 52              7. LOCATION          WASHINGTON D.C.
+                                                             
+2. DATE-TIME GROUP                      8. TYPE OF OBSERVATION
+     Local 05/2205 EDT                                       GroundVisual   GroundRadar 
+     Zulu 06/0205Z                                           AirVisual      AirInterceptRadar
+                                                            
+3. METHOD OF OBSERVATION                9. SOURCE
+      Visual  Yes                                                SAILOR
+      Electronics
+                                                            
+4. LENGTH OF OBSERVATION                10. NUMBER OF OBJECTS
+                                                           
+5. BRIEF SUMMARY OF SIGHTING            11. COMMENTS
+
+Large orange object remained motionless
+over Washington then disappeared. Object
+was seen by a yeoman third class and 
+others.
+
+6. ACTION TAKEN
+
+12. CONCLUSIONS
+    Weather Balloon
+    Possibly Balloon
+    Definitely Balloon
+    Weather or Aerological
+    Possibly Aircraft
+    Possibly Astronomical
+    Probably Astronomical
+    Hoax
+    Insufficient Data for Evaluation
+    Unknown
+
+                                                
+                                                
+                                                
+            AFR 200-2                    ATIC FORM 329 (REV 10 SEP 52)
+```

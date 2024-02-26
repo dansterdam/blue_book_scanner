@@ -1,0 +1,46 @@
+There is no photograph present in the image you've provided. 
+
+Here is the OCR output of the text found in the document:
+
+```
+IV. BALLOON DATA
+
+21. WERE BALLOONS RELEASED IN AREA? ❑Yes ❑No
+22. TIME SINCE SCHEDULED BALLOON RELEASE ____ Minutes
+
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING
+
+              Location                                  Type              Launching Agency               Lighted?           Describe
+                                             a.
+                                             b.
+                                             c.
+                                             d.
+
+(Attach overlay)
+
+V. EVALUATION
+
+21. EVALUATION OF SOURCE:          22. DETAILS OF REPORT:
+
+❑ Excellent                          ❑ Good
+❑ Good                               ❑ Fair
+❑ Fair                               ❑ Poor
+❑ Poor                               ❑ Insufficient to Evaluate
+❑ Unreliable
+❑ Extremely Doubtful                
+❑ Hoax
+
+25. FINAL EVALUATION
+
+❑ Was Balloon                           ❑ Was Astronomical
+❑ Probably Balloon                       ❑ Probably Astronomical
+❑ Possibly Balloon                       ❑ Possibly Astronomical
+❑ Was Aircraft                                 
+❑ Probably Aircraft                      ❑ Other: _________ Lay____
+❑ Possibly Aircraft                                 
+                                                   ❑ Insufficient Data For Evaluation                  
+❑ Unknown
+
+COMMENTS:
+
+```

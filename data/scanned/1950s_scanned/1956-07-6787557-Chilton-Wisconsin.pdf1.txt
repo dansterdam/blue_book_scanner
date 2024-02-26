@@ -1,0 +1,46 @@
+There are no photographs present on this page.
+
+Here is the text output from the document:
+
+PROJECT 10073 RECORD CARD
+
+1. DATE                           2. LOCATION
+28 July 1956                   Chilton, Wisconsin
+
+3. DATE-TIME GROUP      4. TYPE OF OBSERVATION
+Local                                       X Ground-Visual           O Ground-Radar
+GMT _ 23/0745Z                       O Air-Visual                  O Air-Intercept Radar
+
+5. PHOTOS                       6. SOURCE
+O Yes                                       Civilian
+X No
+
+7. LENGTH OF OBSERVATION      8. NUMBER OF OBJECTS   9. COURSE
+3 and 1/4 hour                          NONE                                       ascending
+
+10. BRIEF SUMMARY OF SIGHTING                  11. COMMENTS
+One solid object with arm protruding           There is no doubt that this
+rear, white in color, red at one end.          sighting was caused by the
+First seen at 90 degrs fm observer,            planet Venus. This analyst
+very low. Object appeared to ascend            observed the planet Venus
+during the time of the sighting.               at exactly the same time and
+Binoculars used.                               on the same date. All points
+                                               of this sighting fit the above
+                                               hypothesis.
+
+12. CONCLUSIONS
+O Was Balloon
+O Probably Balloon
+X Possibly Balloon
+O Was Aircraft
+O Probably Aircraft
+O Possibly Aircraft
+X Was Astronomical                             Venus
+O Possibly Astronomical
+O Other                                              ________
+O Insufficient Data for Evaluation
+O Unknown
+
+No Report in File.
+
+ATIC FORM 329 (REV 26 SEP 52)

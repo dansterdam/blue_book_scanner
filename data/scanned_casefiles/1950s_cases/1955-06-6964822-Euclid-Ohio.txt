@@ -1,0 +1,55 @@
+There are no photographs present on this page.
+
+The text present in the document is as follows:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                      2. LOCATION
+    3 June 1955                 Euclid, Ohio
+
+3. DATE-TIME GROUP            4. TYPE OF OBSERVATION
+   Local                         Ground-Visual
+   GMT 04/0310Z June 1955          Air-Visual
+5. PHOTOS                           Air-Intercept Radar
+   ☐ Yes                      6. SOURCE
+   ☒ No                            Civilian (GOC Observer)
+
+7. LENGTH OF OBSERVATION     8. NUMBER OF OBJECTS  9. COURSE
+   Twenty (20) min                 one (1)                 SW
+10. BRIEF SUMMARY OF SIGHTING
+   One (1) round, white object, estimated to be the size of the head of a pin held at arm's
+   length, was observed at an estimated altitude of 10,000 to 15,000 feet for a period of
+   twenty (20) minutes.
+
+   No report in file.
+   
+                                11. COMMENTS
+                                Due to the time of sighting, the des-
+                                cription of the object, the possi-
+                                bility of two sightings in 33031,
+                                and the improbability of further in-
+                                vestigation uncovering data of signi-
+                                ficant value, no further investigation
+                                authorized by this headquarters (4502A
+                                AISS).
+
+12. CONCLUSIONS
+    ☐ Was Balloon
+    ☒ Probably Balloon
+    ☐ Possibly Balloon
+    ☐ Was Aircraft
+    ☐ Probably Aircraft
+    ☐ Possibly Aircraft
+    ☐ Was Astronomical
+    ☐ Probably Astronomical
+    ☐ Possibly Astronomical
+    ☐ Other...
+    ☐ Insufficient Data for Evaluation
+    ☐ Unknown
+
+ATIC FORM 329 (REV 26 SEPT 52)
+```
+
+- page 1 -
+

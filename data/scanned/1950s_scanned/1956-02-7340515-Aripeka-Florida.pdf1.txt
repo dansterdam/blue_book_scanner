@@ -1,0 +1,53 @@
+The image does not contain a photograph; it is a page from a document.
+
+The text from the document reads as follows:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE              2. LOCATION
+12 February 1956     Aripeka, Florida
+
+3. DATE-TIME GROUP   4. TYPE OF OBSERVATION
+Local                ☑Ground-Visual
+GMT___13/0210Z       ☐ Ground-Radar
+                      ☐ Air-Visual
+                      ☐ Air-Intercept Radar
+
+5. PHOTOS            6. SOURCE
+☐ Yes.               ☑ Civilian (GOC)
+
+7. LENGTH OF OBSERVATION    8. NUMBER OF OBJECTS   9. COURSE
+approx 10 min                one                    unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+One round object like a tire or hub-
+cap, red and yellow rotating lights.
+Seemed to land or pass over horizon.
+Seen thru binoculars.
+
+11. COMMENTS
+Called hq SAC for possible info
+on this sighting. We were informed
+that there was a B-47 and a KC-97
+in the area of the sighting at
+the time of the sighting. They
+were not carrying out refueling
+operations. Observer probably
+saw one of the above a/c.
+
+12. CONCLUSIONS
+☐ Was Balloon 
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEPT 52)
+```

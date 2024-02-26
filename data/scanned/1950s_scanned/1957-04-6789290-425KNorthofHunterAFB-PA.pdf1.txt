@@ -1,0 +1,32 @@
+No photograph is present on this page.
+
+Here is the text extracted from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE            2. LOCATION             12. CONCLUSIONS
+22 April 1957      425 K North of Hunter AFB,  ❑ Was Balloon
+                   Ga.                       ❑ Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OBSERVATION      ❑ Possibly Balloon
+GMT                                         ❑ Was Aircraft
+0110 --0128X       ❑ Ground-Visual          ❑ Probably Aircraft
+Local:2010         ❑ Ground-Radar           ❑ Possibly Aircraft
+                   ❑ Air-Visual             ❑ Was Astronomical Comet
+5. PHOTOS          ❑ Air-Intercept Radar    ❑ Probably Astronomical
+❑ Yes              6. SOURCE                ❑ Possibly Astronomical
+❑ No               ❑ military               ❑ Other
+                                         ❑ Insufficient Data for Evaluation
+                                         ❑ Unknown
+7. LENGTH OBSERVATION  8. NUMBER OBJECTS   9. COURSE
+18 minutes            one               NW
+10. BRIEF SUMMARY OF SIGHTING           11. COMMENTS
+One object described as a pencil shape  Probably Orend Leland comet.
+5 inches long, bright star color. Obj
+had trail of light at 20 dgr angle of
+actual object. Object on a NW heading
+traveling at a very high speed hovered
+with trail of light.
+
+ATCC FORM 329 (REV 16 SEP 52)
+```

@@ -1,0 +1,53 @@
+There is no photograph present on the page of the document.
+
+Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+7 October 1957
+
+2. LOCATION
+Overland, Missouri
+
+3. DATE-TIME GROUP
+
+     Local 2005
+     GMT 08/02057
+
+4. TYPE OF OBSERVATION
+
+    Ground-Visual X
+    Ground-Radar
+    Air-Visual
+    Air Intercept-Radar
+
+5. PHOTOS             7. LENGTH OF OBSERVATION
+    Yes                    ONE minute
+
+6. SOURCE             8. NUMBER OF OBJECTS        9. COURSE
+    Civilian                                      one          East
+
+10. BRIEF SUMMARY OF SIGHTING                   11. COMMENTS
+Round object, size of head of pin.
+Reddish orange, turning to white. No sound.     Probably a/c at high altitude
+                                                reflecting the sun's rays.
+12. CONCLUSIONS
+
+        Balloon    
+    Was Balloon
+    Possibly Balloon
+        Aircraft/spacecraft
+    Was Aircraft
+    Possibly Aircraft
+        Astronomical
+    Was Astronomical
+    Probably Atronomical
+    Possibly Astronomical
+    Other
+    Insufficient Data for Evaluation
+    Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

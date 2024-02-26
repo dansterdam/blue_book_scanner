@@ -1,0 +1,48 @@
+The image shows a page from a document with three hand-drawn sketches or diagrams.
+
+Here is the text from the document:
+
+```
+Page 6
+
+SECTION D
+
+22. In the following sketch, imagine your eye at the point shown. Place an 
+"A" on the curved line to show how high the object was above the horizon 
+when you first saw it. Place a "B" to show where it was when you last saw it.
+
+Overhead
+
+            B
+             \  
+              \
+Your eye       A            Horizon
+
+23. In the following sketch place an "A" at the position the object was 
+when you first saw it, and a "B" at its position when you last saw it.
+
+Overhead
+            B
+            |
+         TREES |
+            | Horizon
+             O
+           /   |
+Your eye /_____| A            Horizon
+
+24. Draw a picture that will show the motion that the object made. Place 
+an "A" at the beginning of its path and a "B" at the end of its path.
+
+(It traveled on a slight arc)            EAST
+
+NORTH "B"_______________________________________"A" SOUTH
+
+                                  EYE         
+                                  WEST
+``` 
+
+The first sketch shows a curved line representing the trajectory of an object with points "A" and "B" to mark the starting and ending positions above a horizontal line labeled "Horizon," with "Your eye" indicated as the observation point.
+
+The second sketch also shows the trajectory of an object from "A" to "B," but this time the trajectory is a straight vertical line descending behind a representation of trees and the horizon, again with "Your eye" observing from the left.
+
+The third sketch illustrates a path marked by "A" and "B," with a text note stating it traveled on a slight arc, laid out over a compass-like representation with "EAST" at the top, "WEST" at the bottom, and the end points of the arc labeled "SOUTH" and "NORTH" respectively.

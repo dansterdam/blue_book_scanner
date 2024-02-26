@@ -1,0 +1,70 @@
+The image does not contain any photographs, it is a document. Here is the text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+       NOV 23 1957
+
+2. LOCATION
+       WASHINGTON ISLAND WISCONSIN
+
+3. DATE-TIME GROUP
+       
+       Local
+       GM T 24 0300Z
+       
+4. TYPE OF OBSERVATION
+       
+       ☐ Ground-Visual      ☐ Ground-Radar
+       ☐ Air-Visual         ☐ Air-Intercept Radar
+
+5. PHOTOS
+      
+       ☐ Yes
+       ☑ No
+
+6. SOURCE
+       
+       GOC OBSERVER
+        
+7. LENGTH OF OBSERVATION
+       
+        5 mins
+
+8. NUMBER OF OBJECTS
+       
+       1
+ 
+9. COURSE
+        
+       NE   
+        
+10. BRIEF SUMMARY OF SIGHTING
+       
+       One round object that a
+       jet aircraft could not catch-
+       up to. No color. unless other than
+       white.
+        
+11. COMMENTS
+       
+       Possibly military jet, etc.   
+
+12. CONCLUSIONS
+       
+       ☐ Was Balloon
+       ☐ Probably Balloon
+       ☐ Possibly Balloon
+       ☐ Was Aircraft
+       ☐ Probably Aircraft
+       ☐ Possibly Aircraft
+       ☐ Was Astronomical
+       ☐ Probably Astronomical
+       ☐ Possibly Astronomical
+       ☐ Other
+       ☑ Insufficient Data for Evaluation
+       ☐ Unknown
+
+ATTC FORM 329 (REV 26 SEP 52)
+```

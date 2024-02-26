@@ -1,0 +1,42 @@
+There is no photograph present in this image. As requested, I will now provide an OCR output of the text found in the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                              2. LOCATION 
+10 November 1957                    Bellefontaine AFB, Ohio
+
+3. DATE-TIME GROUP                  4. TYPE OF OBSERVATION
+GMT 10/22/152                       [x] Ground-Visual    [] Ground-Radar
+                                     [] Air Visual       [] Air-Intercept Radar
+5. PHOTOS                           6. SOURCE
+[] Yes                               Military
+[x] No
+7. LENGTH OF OBSERVATION            8. NUMBER OF OBJECTS   9. COURSE
+1 hr & 15 minutes                   one                    descending  
+
+10. BRIEF SUMMARY OF SIGHTING       11. COMMENTS
+One round bright white light the size 
+of a dime. Object was seen descending
+in the west for 1 hour 15 minutes.   Description, duration, flight path 
+                                     indicate that this sighting was 
+                                     Venus.
+
+12. CONCLUSIONS
+[] Probably Balloon                  [] Weather Phenomena
+[] Possibly Balloon                  [] Other Atmospheric
+[x] Was Balloon                       [] Possibly Aircraft
+                                     [] Probably Aircraft
+[] Was Aircraft                      [] Was Astronomical Venus
+[] Probably Astronautical            [] Possibly Astronomical 
+[] Insufficient Data for Evaluation
+[] Unknown                           Other,
+                                     No report in file.
+
+ATC FORM 329 (REV 25 SEP 52)
+```
+
+Note: The checked and unchecked boxes have been represented with [x] and [] respectively, to reflect their status in the document.
+
+- page 1 -
+

@@ -1,0 +1,36 @@
+There is no photograph present in this document. Here is the text output of the document as an OCR system:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                      2. LOCATION                    12. CONCLUSIONS
+  27 April 1956                Greensboro, North Carolina      ❏ Was Balloon
+                                                              ❏ Possibly Balloon
+                                                              ❏ Possibly Aircraft
+3. DATE-TIME GROUP            TYPE OF OBSERVATION            ❏ Known Aircraft   
+  Local                        ❏ Ground-Visual                ❏ Possibly Aircraft
+  28/0220Z                     ❏ Air-Visual                   ❏ Known Aircraft
+  GM                           ❏ Ground-Radar                 ❏ Possible Aircraft
+  _                            ❏ Air-Interceptor Radar        ❏ Knowns Astronomical Meteor
+5. PHOTOS                                                                       ❏ Probably Astronomical
+  ❏ Yes                        SOURCE                        ❏ Possibly Astronomical
+  ❏ No                         ❏ Civilian                     ❏ Other
+                                ❏
+7. LENGTH OF OBSERVATION      NUMBER OF OBJECTS              9. COURSE
+  2.5 minutes                 1. one                         1. not reported
+  __ minutes_seconds          2. two                         2. " "
+8. BRIEF SUMMARY OF SIGHTING                               10. COMMENTS
+  1. Bright silver object without sound                     1. Meteor sighting. Absence of
+     or tail flashed across sky. Thought at                  tail & nearness does not rule
+     first to be shooting star except too                    out meteor. Rptd because of
+     close, no tail & bigger. Believed to                    closeness.
+     land nearby.                                           2. Nothnig conflicting with
+  2. Two copper colored objects in sight                     analysis as a/c. Duration &
+     in parallel flight maintaining the                      flight are consistent with
+     same relative position throughout                       this evaluation.
+     sighting. No red & green lights asso-
+     ciated with a/c. Large and assumed to be at
+     g^p^at altitude.
+
+ATTC FORM 399 (REV 16 SEP 52)
+```

@@ -1,0 +1,39 @@
+There is no photograph present in the image you've provided.
+
+The text contained in the document is as follows:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                 2. LOCATION
+14 May 1955                             Syracuse, New York
+3. DATE-TIME GROUP                      4. TYPE OF OBSERVATION
+Local ___________                       ☐ Ground-Visual      ☐ Ground-Radar
+GMT 15/0250Z                            ☐ Air-Visual         ☐ Air-Intercept Radar
+5. PHOTOS                               6. SOURCE
+☐ Yes
+☑ No                                   ☐ Civilian  ☑ (AF Reserve)
+7. LENGTH OF OBSERVATION                8. NUMBER OF OBJECTS            9. COURSE
+few minutes/still visible               one                             Southwest
+10. BRIEF SUMMARY OF SIGHTING           11. COMMENTS
+One small reddish object observed       Possibly balloon. Description
+for several minutes to drift towards    of sighting in conjunction with
+the Southwest. Undulating. Initial      indicated wind conditions and
+observation at zenith.                  known times for release of
+                                        weather balloons strongly sug-
+                                        gests that sighting caused by
+                                        a balloon.
+12. CONCLUSIONS
+☐ Was Balloon
+☑ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATTC FORM 339 (REV 26 SEPT 52)
+```

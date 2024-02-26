@@ -1,0 +1,50 @@
+The image does not contain a photograph, it is a scanned page from a document.
+
+I will now act as an OCR (Optical Character Recognition) system and provide the text output from the document:
+
+```
+TENTATIVE
+OBSERVERS QUESTIONNAIRE
+
+__________________________
+
+SECTION A
+
+1. When did you see the object?
+   1.1 Date: __3_/__9__/__1952_
+             Day   Month  Year
+   1.2 Time of day: __10__35__A.M. or (P.M.) (Circle One)
+                             Hrs.  Min.
+   1.3 Time Zone! (Circle One):
+       a. Eastern               d. Pacific
+       b. Central               e. Other ______
+       c. Mountain
+          (Circle One): a. Daylight Saving
+                        b. Standard
+   1.4 Circle one of the following to indicate how certain you are
+       of your answer to the above question 1.2!
+       a. Certain
+       b. Fairly certain
+       c. Not very sure
+       d. Just a guess
+
+2. Where did you see the object?
+     San Antonio     Texas     USA
+   Mailing Address            City or Town    State   Country
+
+3. Where were you located when you saw the object.
+   (Circle One): a. Inside a building     d. In an airplane
+                  b. In a car             e. At sea
+                  c. Outdoors             f. Others ______________
+
+   3.1 Were you:
+   (Circle One): a. In the business section of a city? Military reservation
+                  b. In the residential section of a city? ______
+                  c. In open countryside?
+                  d. Flying near an airfield?
+                  e. Flying over a city?
+                  f. Flying over open country?
+                  g. Other __________ __________________
+```
+
+The handwritten marks and annotations (for example, the circling of P.M., Central, Standard, certain options, and the written location) indicate the respondent's choices but are not reproduced here verbatim as OCR output typically does not include such annotations.

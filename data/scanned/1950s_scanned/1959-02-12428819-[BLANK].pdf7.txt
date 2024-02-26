@@ -1,0 +1,25 @@
+The image does not contain any photographs. It is a tabular chart with text and numbers. Below is the OCR output of the text found in the document:
+
+```
+1947-1952 1953 1954 1955 1956 1957 1958 TOTALS %
+
+ASTRONOMICAL 21.6% 25.0% 21.0% 26.3% 27.7% 34.6% 24.8%
+          479 214 65 205 326 176 1485
+
+AIRCRAFT 21.5% 20.0% 26.7% 24.6% 44.2% 21.0% 22.6%
+         474 170 108 192 266 120 1350
+
+BALLOONS 15.5% 16.0% 27.0% 26.0% 17.7% 11.0% 17.7%
+         339 137 109 203 209 63 1060
+
+INSUFFICIENT INFORMATION 10.9% 17.0% 0.2% 14.1% 14.4% 17.2% 13.3%
+                        240 145 33 109 169 99 795
+
+OTHER 10.3% 13.0% 14.7% 6.6% 14.3% 18.7% 12.2%
+      253 111 59 52 168 108 731
+
+UNKNOWN 19.7%  8.0%  2.7%  2.2%  1.7%  1.3%  9.4%
+       434  77  10   17  20   7   565
+
+Totals   2199 854 384 778 1178 573 5786
+```

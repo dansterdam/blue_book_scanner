@@ -1,0 +1,26 @@
+The image does not contain any photographs. It is a scanned image of a Project 10073 Record Card. Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                     2. LOCATION                               12. CONCLUSIONS
+31 Dec 55                  Charleston, South Carolina                [] Probably Ballon
+3. DATE-TIME GROUP         TYPE OF OBSERVATION                       [] Possibly Ballon
+Local                      [] Ground-Visual                          [] Was Aircraft
+GMT_31/22302              [] Air-Visual                             [] Probably Aircraft
+4. SOURCE                  [] Ground-Radar                           [] Possibly Aircraft
+[] Civilian               [] Air-Intercept Radar                    [] Was Astronomical
+5. PHOTOS                  SOURCE                                   [] Possibly Astronomical
+[] Yes                    civilian                                  [] Insufficient Data for Evaluation
+[] No                     NUMBER OF OBJECTS                         Other_Unknown
+7. LENGTH OF OBSERVATION  9. COURSE                                 []X
+20-25 min                 N_Vert_S
+10. BRIEF SUMMARY OF SIGHTING                                       11. COMMENTS
+1 Yellow, red flaming obj, elongated in                             Venus not visible, possible balloon or
+shape, no sound, appeared to be exhaust                             astro sighting. INSUFFICIENT DATA FOR
+trail, obj appeared high & slow.                                    EVALUATION.
+
+ATTC FORM 329 (REV 26 SEP 52)
+``` 
+
+Please note that this is a transcription to the best of the text's legibility and some characters or sections may not be fully clear, especially considering the last line which seems to contain standard form information and might not be perfectly accurate.

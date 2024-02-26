@@ -1,0 +1,31 @@
+No photograph is present on the image provided.
+
+Here is the text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE            2. LOCATION             12. CONCLUSIONS
+27 DEC 54          LONG BEACH, CALIFORNIA  ☐ Was Balloon
+                                          ☐ Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION   ☐ Possibly Balloon
+GMT 28/0255Z      ☐ DK Ground-Visual       ☐ Was Aircraft
+                  ☐ Ground-Radar           ☐ Probably Aircraft
+5. PHOTOS          ☐ Air-Vi9ual            ☐ Possibly Aircraft
+☒ Yes             ☐ Air-Intercept Radar   ☐ Was Astronomical
+☐ No                                        ☐ Probably Astronomical
+6. SOURCE         7. LENGTH OF OBSERVATION ☐ Possibly Astronomical
+civilian          8. NUMBER OF OBJECTS     ☐ Other,
+                  ☐ MINUTES                ☐ Insufficient Data for Evaluation
+                  one                      ☐ Unknown
+9. COURSE
+NE to E
+10. BRIEF SUMMARY OF SIGHTING                 11. COMMENTS
+Round then cigar shape, yellow, occasionally  LITTLE OR NO SPEED, ROUND, RELATIVELY 
+changed shape and brightness. From NE to East LIGHT WINDS, NOT MUCH INFORMATION
+estimated 25,000 ft. No speed reported.      TO GO ON. PROBABLY A BALLOON.
+
+ATCC FORM 329 (REV 25 SEP 52)
+```
+
+Please note that where the text is not clear or may be incorrect (like "Air-Vi9ual" which is likely a misreading of "Air-Visual"), I have transcribed it as it appears in the document.

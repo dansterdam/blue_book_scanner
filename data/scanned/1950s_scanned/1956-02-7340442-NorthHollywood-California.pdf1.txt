@@ -1,0 +1,32 @@
+The provided image does not contain any photographs, only textual content and checkboxes. Here is the textual content output:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                2. LOCATION
+2 February 1956                        North Hollywood, California
+3. DATE-TIME GROUP                     4. TYPE OF OBSERVATION
+Local                                  ☒Ground-Visual  ☐Ground-Radar
+GMT___03/0405Z                          ☐Air-Visual    ☐Air-Intercept Radar
+5. PHOTOS                              6. SOURCE
+☐Yes                                   Civilian
+☐No
+7. LENGTH OF OBSERVATION               8. NUMBER OF OBJECTS        9. COURSE
+UNKNOWN                                one                         stationary
+10. BRIEF SUMMARY OF SIGHTING          11. COMMENTS
+Round, size of pea, white with red     Airways beacon light.
+ring on edge.
+12. CONCLUSIONS
+☐Balloon
+☐Possibly Balloon
+☐Was Balloon
+☐Possibly Aircraft
+☐Was Aircraft
+☐Possibly Astronomical
+☐Probably Astronomical
+☐Other
+☐Insufficient Data for Evaluation
+☐Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

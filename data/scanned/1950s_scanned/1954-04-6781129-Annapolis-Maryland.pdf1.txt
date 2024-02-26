@@ -1,0 +1,35 @@
+The image presented does not contain a photograph. It is an image of a text document. Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE-TIME GROUP             2. LOCATION
+13/150Z (Day)                 Annapolis, Maryland
+13 Apr 54
+
+3. SOURCE                      10. CONCLUSION
+civilian                       ARC WELDER FLASHES
+
+4. NUMBER OF OBJECTS           11. BRIEF SUMMARY AND ANALYSIS
+ground-visual, three (3)
+                              Objects appeared to be in formation, tree top level. Formed
+5. LENGTH OF OBSERVATION       blinding flash and exploded. Also, observed by a/c pilot over
+10-15 minutes                 area.
+
+                              Radio transmission tower being erected in same area with welding
+6. TYPE OF OBSERVATION         in progress at top of tower.
+ground-visual
+air-v-1 course
+
+7. COURSE
+
+PHOTOS
+o Yes 
+x No
+
+PHYSICAL EVIDENCE
+o Yes
+x No
+FORM
+FTD SEP 63 332 (TDE)            Previous editions of this form may be used.
+```

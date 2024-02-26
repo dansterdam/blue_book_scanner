@@ -1,0 +1,42 @@
+The image does not contain a photograph.
+
+The text from the document is reproduced below:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                  2. LOCATION
+   25 APR 58                               Between Fresno-Merced, Calif
+3. DATE-TIME GROUP                       4. TYPE OF OBSERVATION
+   Local                                    Ground-Visual
+   GMT 25/1725Z                             Air-Visual
+   PHOTOS   No                             Ground-Radar
+5.                                  6. SOURCE
+   Length of Observation                   Military
+   4-5 SECS
+7. LENGTH OBSERVATION                     8. NUMBER OF OBJECTS   9. COURSE
+                                           one                     SW
+10. BRIEF SUMMARY OF SIGHTING
+    Circular obj., size of pea at arms length. White, obj far above balloon
+    which was at 150,000ft. 180 degrees of turn was soon, then obj. streaked
+    toward Pacific.
+11. COMMENTS
+    A U-2 a/c on classified project was in the general area on date
+    and time indicated. A balloon was sighted by the pilot. The U-2 a/c
+    did make a turn in that general area.
+12. CONCLUSIONS
+   ☐ Was Balloon
+   ☒ Probably Balloon
+   ☐ Possibly Balloon
+   ☐ Was Aircraft
+   ☒ Probably Aircraft
+   ☐ Possibly Aircraft
+   ☐ Was Astronomical
+   ☐ Probably Astronomical
+   ☐ Possibly Astronomical
+   ☐ Other
+   ☐ Insufficient Data for Evaluation
+   ☐ Unknown
+
+ATSC FORM 329 (REV 25 SEP 52)
+```

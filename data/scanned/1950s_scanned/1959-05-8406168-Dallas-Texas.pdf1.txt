@@ -1,0 +1,52 @@
+There are no photographs present in the image provided. The image shows a document with text and some checkboxes. Here is the text output from the document as requested:
+
+PROJECT 10073 RECORD CARD
+
+1. DATE
+2. LOCATION
+
+3. DATE-TIME GROUP
+4. TYPE OF OBSERVATION
+Local
+2315
+[ ] Ground-Visual
+[ ] Ground-Radar
+[ ] Air-Visual
+[ ] Air-Intercept Radar
+3. PHOTOS
+[ ] Yes
+[ ] No
+5. SOURCE
+SV?1?11?
+
+7. LENGTH OF OBSERVATION
+8. NUMBER OF OBJECTS
+9. COURSE
+
+10. BRIEF SUMMARY OF SIGHTING
+One hour & eight minutes in longest formation, high
+flight toward north initial sighting, mnighty-eight
+lights began to transmit red color. Obj- 
+ing at estamatic rate of speed.
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+G0 E
+11. COMMENTS
+Coloured orange/white poltey aermmating
+course on and thobric of shorts incoy-
+-fidential questidodares, white are
+clasified "inteligent evidence".
+
+ATSC FORM 329 (REV 26 12P 52)

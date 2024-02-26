@@ -1,0 +1,37 @@
+The image does not contain a photograph, it is a page from a document with forms and text on it. Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                2. LOCATION
+   27 Apr 52                            Selfridge AFB, Michigan
+
+3. DATE-TIME GROUP                     4. TYPE OF OBSERVATION
+   Local 2000 PST                           X Ground-Visual               Ground-Radar
+   GMT 0100                               O Air-Visual                     Air-Intercept Radar
+
+5. PHOTOS                              6. SOURCE
+   O Yes                                   AF Captain
+   X No
+
+7. LENGTH OF OBSERVATION               8. NUMBER OF OBJECTS              9. COURSE
+   3+ seconds                               1
+
+10. BRIEF SUMMARY OF SIGHTING          11. COMMENTS
+
+   Kelly green color. Ball shape.
+
+12. CONCLUSIONS
+   O Was Balloon
+   O Possibly Balloon
+   O Possibly Hoax
+   O Was Aircraft
+   O Possibly Aircraft
+   O Was Astronomical
+   O Possibly Astronomical
+   X Other
+   O Insufficient Data for Evaluation
+   O Unknown
+
+ATIC FORM 329 (REV 26 SEPT 52)
+```
