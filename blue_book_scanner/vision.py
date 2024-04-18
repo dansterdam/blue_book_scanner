@@ -2,6 +2,7 @@ import base64
 import os
 import json
 import io
+import re
 import PyPDF2
 import argparse
 import concurrent.futures
@@ -43,8 +44,8 @@ def main():
 
 
 def process_fileset(input_dir, output_dir, client):
-    files = os.listdir(input_dir)
-
+    files = [i for i in os.listdir(input_dir) if 'athens-ohio' in i.lower()]
+    print(files)
     # Define the maximum number of threads based on your system's capability and the nature of the task
     max_workers = 2  # Adjust this based on your needs and system's capabilities
 
@@ -61,10 +62,9 @@ def process_single_file(file, input_dir, output_dir, client):
     pages_in_pdf = get_pdf_page_count(file_path)
 
     # Retrieve pages already processed to avoid reprocessing
-    pages_done = len([f for f in os.listdir(output_dir) if file in f])
-
-    max_workers = 5
-
+    pages_done = [int(re.search(r'pdf(\d+).txt', filename).group(1)) for filename in [i for i in os.listdir(output_dir) if file in i] if re.search(r'pdf(\d+).txt', filename)]
+    max_workers = 1
+    pages_not_done = [i for i in range(1, pages_in_pdf + 1) if i not in pages_done]
     # Using ThreadPoolExecutor to parallelize page processing
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         # Submit all pages yet to be processed to the executor
@@ -72,7 +72,7 @@ def process_single_file(file, input_dir, output_dir, client):
             executor.submit(
                 process_single_page, file_path, page_number, file, output_dir, client
             )
-            for page_number in range(pages_done + 1, pages_in_pdf + 1)
+            for page_number in pages_not_done
         ]
 
         for future in concurrent.futures.as_completed(futures):
@@ -87,7 +87,6 @@ def process_single_page(file_path, page_number, output_file_prefix, output_dir, 
     base64_image = encode_image_to_base64(image)
     output_filename = f"{output_file_prefix}{page_number}.txt"
     output_filepath = os.path.join(output_dir, output_filename)
-
     if not os.path.exists(output_filepath):
         print(
             f"processing file {output_filename}"
