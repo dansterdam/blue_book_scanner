@@ -1,0 +1,28 @@
+There are no photographs present in the image. Here is the text output from the page:
+
+```
+39. Do you think you can estimate the speed of the object? 
+    (Circle One) Yes        No
+    IF you answered YES, then what speed would you estimate? _______ m.p.h.
+
+40. Do you think you can estimate how far away from you the object was?
+    (Circle One) Yes        No
+    IF you answered YES, then how far away would you say it was? _______ feet.
+
+41. Please give the following information about yourself:
+    NAME _______________________________________________________________
+    ADDRESS ______________________________City___________Zone____State_____
+    TELEPHONE NUMBER ________-___________
+    What is your present job? _______________
+    Age_____ Sex _____
+    Please indicate any special educational training that you have had.
+        a. Grade school ______
+        b. High school ______
+        c. College ______
+        d. Post graduate ______
+        e. Technical school __________ (Type)
+        f. Other special training ____________
+
+42. Date you completed this questionnaire:
+                                   Day______ Month______ Year______
+```

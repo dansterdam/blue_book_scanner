@@ -1,0 +1,42 @@
+There is no photograph present on this page.
+
+**Text from the document:**
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                             2. LOCATION
+   11 August 1958                        SE of Breknridge, Texas
+
+3. DATE-TIME GROUP              4. TYPE OF OBSERVATION
+   GMT 12/0327Z                     Ground-Visual
+
+5. PHOTOS                         6. SOURCE
+   No                                 Airlines Pilot
+
+7. LENGTH OF OBSERVATION       8. NUMBER OF OBJECTS   9. COURSE
+   2 seconds                         one
+
+10. BRIEF SUMMARY OF SIGHTING
+    Oblong, fire orange obj, size of golf ball, had motion like a snake,
+    went out like a light.
+
+11. COMMENTS
+    Probably a meteor sighting.
+    Snake-like motion attributed to atmospheric conditions.
+
+12. CONCLUSIONS
+    Was Balloon
+    Probably Balloon
+    Possibly Balloon
+    Was Aircraft
+    Probably Aircraft
+    Possibly Aircraft
+    Was Astronomical
+    Probably Astronomical
+    Possibly Astronomical
+    Insufficient Data for Evaluation
+    Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

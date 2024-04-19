@@ -1,0 +1,36 @@
+There are no photographs present in the image. Here is the text extracted from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                       2. LOCATION                                   12. CONCLUSIONS
+17 July 1956                 Westover AFB, Massachusetts                  Was Balloon
+                                                                               Possibly Balloon
+3. DATE-TIME GROUP       4. TYPE OF OBSERVATION                       Was Aircraft
+                               Local                                     0 Ground-Visual              Possibly Aircraft
+                               GMT_18/0230Z                         XGround-Radar                 Was Celestial
+                                                                   0 Air-Visual                       Possibly Celestial
+                                                                   0 Air-Intercept Radar       Was Astronomical
+5. PHOTOS                                                                                  Possibly Astronomical
+0 Yes
+  X No                                                                                  OK
+7. LENGTH OF OBSERVATION       6. NUMBER OF OBJECTS             9. COURSE       Insufficient Data for Evaluation
+4 minutes                                   1                                    SW                        Unknown
+                                      Military                                                           
+
+10. BRIEF SUMMARY OF SIGHTING
+Regular target (radar sighting) but
+larger than ordinary radar target.
+Fast acceleration of speed. Was able
+to make 180 dgr turn in less than 
+6 seconds. Increased and decreased 
+speed in a matter of seconds. All
+other traffic accounted for.
+
+11. COMMENTS
+Insufficient data for analysis.
+Altitude not reported.
+
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

@@ -1,0 +1,36 @@
+There are no photographs present in the image.
+
+Here is the text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                      2. LOCATION                                 12. CONCLUSIONS
+     21 Oct. 59                                  WARSAW, N.Y.                                 ⦿ Was Balloon
+                                                                                                      ⦿ Probably Balloon
+3. DATE-TIME GROUP                   4. TYPE OF OBSERVATION                        ⦿ Possibly Balloon
+     Local _________________                   ⦿ Ground-Visual                            ⦿ Was Aircraft
+     GMT__21/1002Z__                             ⦿ Ground-Radar                             ⦿ Probably Aircraft
+5. PHOTOS                                    ⦿ Air-Visual                                  ⦿ Possibly Aircraft
+     ⦿ Yes                                      ⦿ Air-Intercept Radar                      ⦿ Probably Astronomical
+     ⦿ No                                                                                       ⦿ Was Astronomical
+7. LENGTH OF OBSERVATION             6. SOURCE                                      ⦿ Possibly Astronomical
+     30 mins                                    Civilian                                      ⦿ Other/Inversion Refl./Act.
+8. NUMBER OF OBJECTS                  9. COURSE                                       ⦿ Insufficient Data for Evaluation
+     Four                                          Stationary                                  ⦿ Unknown
+10. BRIEF SUMMARY OF SIGHTING                                              
+    Four star-shaped bright lights, size of a half                                   
+    dollar, white & red. Two formed as a pair,
+    the other two scattered. Red color appeared 
+    as a tail appearing & disappearing.                  
+
+    COMMENTS
+    Atmospheric conditions were such as
+    to cause a superior mirage. Soundings
+    indicated that there was a sharp inv
+    at the 4,000 ft level. Source unknown 
+    however lights attributed to a superior
+    mirage due to the inversion.
+
+ATC FORM 339 (REV 26 SEP 52)
+```

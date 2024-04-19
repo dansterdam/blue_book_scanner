@@ -1,0 +1,29 @@
+There is no photograph in the image provided.
+
+Here is the text extracted from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                      2. LOCATION                 12. CONCLUSIONS
+   26 Aug 52                   Silver Lake, Calif.         ☐ Was Balloon
+                                                      ☐ Possibly Balloon
+                                                      ☐ Probably Balloon
+3. DATE-TIME GROUP           TYPE OF OBSERVATION          ☐ Was Aircraft
+ 0200 PCT                    ☐ Ground-Visual               ☐ Possibly Aircraft
+                             ☐ Ground-Radar                ☐ Probably Aircraft
+4. GMT                       ☐ Air-Visual                 ☐ Was Astronomical
+3-5 seconds                  ☐ Air-Intercept Radar        ☐ Possibly Astronomical
+                                                       ☐ Probably Astronomical       
+5. PHOTOS                    6. SOURCE                    ☐ Other
+☐ Yes                        ☐ Citizen                     Insufficient Data for Evaluation
+☒ No                         ☐ Military                 
+                             ☐ Other        
+7. LENGTH OF OBSERVATION    8. NUMBER OF OBJECTS      9. COURSE
+3-5 seconds                  1                        N/A
+
+10. BRIEF SUMMARY OF SIGHTING                          11. COMMENTS
+Spherical. Erratic.                                   AR 112 being forwarded.
+
+ATCC FORM 329 (REV 26 SEP 52)
+```

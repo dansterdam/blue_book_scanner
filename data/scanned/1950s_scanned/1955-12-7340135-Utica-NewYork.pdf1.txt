@@ -1,0 +1,27 @@
+This document does not contain any photographs.
+
+Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                  2. LOCATION                          12. CONCLUSIONS
+27 Dec 55               Utica, New York                      ☐ Probably Ballon
+                                                            ☐ Was Ballon
+3. DATE-TIME GROUP      TYPE OF OBSERVATION                  ☐ Possibly Ballon
+Local                   ☑ Ground-Visual                      ☐ Was Aircraft 
+GMT 27/1110Z to 1145Z   ☐ Air-Visual                         ☐ Probably Aircraft
+                        ☐ Ground-Rader                       ☐ Possibly Aircraft
+                        ☐ Air-Intercept Rador                ☑ Was Astronomical/Star/Planet
+4. SOURCE                                                        Possibly Astronomical
+                         ☑ Civilian                                      Other
+5. PHOTOS               7. LENGTH OF OBSERVATION             Insufficient Data for Evaluation
+☐ Yes                   40 min                               Unknown
+☒ No                    8. NUMBER OF OBJECTS
+                        1
+6. COURSE               10. BRIEF SUMMARY OF SIGHTING        11. COMMENTS
+Stationary              Shaped like a star, round, no sound, obj was     Star/Planet sighting.
+                        sighted for 40 min and gradually turned red.
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

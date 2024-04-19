@@ -1,0 +1,42 @@
+The image does not contain any photographs.
+
+Here is the OCR output of the text found in the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+DATE                        LOCATION                        
+17 Jul 55                   Newfoundland                     
+                                                                 
+DATE-TIME GROUP             TYPE OF OBSERVATION              
+Local                        Ground-Visual                    
+GMT                          Air-Visual                       
+18/0155Z                                                
+PHOTOS                      SOURCE                           
+O No                         Military                         
+                                                                 
+LENGTH OF OBSERVATION        NUMBER OF OBJECTS               
+unk                          1                               
+COURSE                      COMMENTS                         
+N/A                         Check revealed WX balloon released at
+                            same time obj was observed.       
+                                                                 
+BRIEF SUMMARY OF SIGHTING                                        
+Bright light. Dropped close to ground then                    
+quickly up to 5 or 6 thousand feet. Color                     
+yellow.                                                      
+                                                                 
+CONCLUSIONS                                                   
+                              Balloon                        
+P             Possibly Balloon                                 
+                              Aircraft                       
+                              Fireball                       
+                              Other                          
+P             Possibly Aircraft                               
+                              Astronomical                   
+                              Astrogeophysical               
+                              Insufficient Data for Evaluation
+                              Unknown                        
+                                                                 
+ATTC FORM 329 (REV 26 SEP 52)                                  
+```

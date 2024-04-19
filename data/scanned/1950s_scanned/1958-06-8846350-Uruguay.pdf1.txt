@@ -1,0 +1,31 @@
+There is no photograph visible on the displayed page of the document. Here is the text output as an OCR would generate:
+
+---
+PROJECT 10073 RECORD CARD
+
+1. DATE                5. LOCATION              13. CONCLUSIONS
+   5 Jan 58            Uruguay                      06 Balloon
+                                                x 07 Possibly Balloon
+2. DATE-TIME GROUP                                08 Possibly Ices
+   2200                                           09 Possibly Birds
+                                                x 10 Possibly Aircraft
+3. CAT               6. TYPE OF OBSERVATION          11 Possibly Astronomerical
+   06 01 0107          x Ground-Visual                12 Possibly Anamolous
+                         Air Visual                    13 Other
+                         Interceptor Rept               14 Insufficient Data for Evaluation
+                         Radar
+7. LENGTH OF OBSERVATION    CLOUD                    
+   Dk                        I                         COMMENTS
+8. NUMBER OF OBJECTS     COURSE                     Although duration is not rptd the
+   one                     EAST                       general characteristics of color,
+                                                          speed, flight & manner of disap-
+9. BRIEF SUMMARY OF SIGHTING                                      pearance are in accord w/the
+Red obj moved so fast it could not.                    analysis of a meteor observation.
+be described. Appeared to be cold,
+Rd ball. Observed in East. Flight in
+straight line. Single obj very fast
+no acceleration. Believ'd to be
+experimental vehicle for Satellite or
+related activity.
+
+ATC FORM 30A REV 6-53 EFF 30 NOV 53

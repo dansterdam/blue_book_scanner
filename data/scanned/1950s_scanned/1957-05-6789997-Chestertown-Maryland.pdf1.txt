@@ -1,0 +1,38 @@
+There are no photographs present in the document. Here is the text output:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                   2. LOCATION
+24 May 1957                            Chestertown, Maryland
+3. DATE-TIME GROUP                4. TYPE OF OBSERVATION
+GMT 25/0240:47                        R -Ground-Visual
+                                              U Air-Visual
+                                              D Ground-Radar
+                                             U Air-Intercept Radar
+5. PHOTOS                              6. SOURCE
+O-No                                  R Civilian E. Military
+7. LENGTH OF OBSERVATION    9. COURSE
+4-5 minutes                         Bunch 20#
+8. NUMBER OF OBJECTS            9. COURSE
+                                             falling
+10. BRIEF SUMMARY OF SIGHTING
+Multi-object report observed by Asst. Secy of Army and others. Field in-
+vestigation made. See case file.
+11. COMMENTS
+Investigation revealed that flares were being tested at
+Aberdeen Proving Ground at the time indicated and were the
+cause of the sighting.
+12. CONCLUSIONS
+X Was Balloon
+   Possibly Balloon
+X Was Aircraft
+   Possibly Aircraft
+X Was Astronomical
+   Possibly Astronomical
+O Other______
+X Insufficient Data for Evaluation
+O Unknown
+
+ATIC FORM 329 (REV 25 SEPT 52)
+```

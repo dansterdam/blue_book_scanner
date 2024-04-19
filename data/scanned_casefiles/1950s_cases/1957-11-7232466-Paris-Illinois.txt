@@ -1,0 +1,36 @@
+The image does not contain any photographs, only textual information.
+
+Text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                    2. LOCATION                     12. CONCLUSIONS
+   November 1957             Paris, Illinois              [] Was Balloon
+                                                        [] Probably Balloon
+3. DATE-TIME GROUP        4. TYPE OF OBSERVATION        [] Possibly Balloon
+   Local                      [] Ground-Visual            [] Was Aircraft
+   GMT 06/0325Z              [] Air-Visual                [] Probably Aircraft
+                             [] Ground-Radar             [] Possibly Aircraft
+5. PHOTOS                   [] Air-Intercept Radar       [] Was Astronomical
+   [] Yes                                             [] Probably Astronomical
+   [X] No                                              [] Possibly Astronomical
+                                                         [] Insufficient Data for Evaluation
+6. SOURCE                    Civilian                      [] Unknown
+                                                       
+7. LENGTH OF OBSERVATION      8. NUMBER OF OBJECTS      9. COURSE
+   five minutes                   three                 W to E
+                                                        
+10. BRIEF SUMMARY OF SIGHTING                         11. COMMENTS
+   Three objects with a slightly red                     Description, duration, flight
+   cast were seen moving W to E and                     path indicate probability of a/c.
+   were in sight for 5 minutes.
+                                                         
+                                                      No report in file.
+
+ATIC FORM 329 (REV 26 SEP 52)
+```
+
+
+- page 1 -
+

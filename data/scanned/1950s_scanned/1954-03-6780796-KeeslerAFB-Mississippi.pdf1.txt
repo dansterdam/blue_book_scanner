@@ -1,0 +1,31 @@
+There are no photographs present in the image. Here is the text output:
+
+```
+PROJECT BLUE BOOK RECORD CARD
+
+1. DATE             LOCATION                                    12. CONCLUSIONS
+11 MAY 54           MISSISSIPPI,                                o Balloon
+                    Keesler AFB, Biloxi                         o Possibly Balloon
+                                                                o Aircraft
+                                                                o Possibly Aircraft
+                                                                o Astronomical
+2. TYPE OF OBSERVATION                                         o Possibly Astronomical
+  Land 12/00/52  (hours)     o Visual                           o Other           
+  Land                  (date)  o Ground-Visual  o Ground-Radar o Insufficient Data for Evaluation
+  Air                   (hours) o Air-Visual o Air-Intercept Radar o Unknown
+
+3. OBS                  6. LENGTH of OBSERVATION
+   o Yes           2 seconds                     7. NUMBER of OBJECTS & COURSE
+   o No                                              7 - 9 (Total)
+                                           
+8. IR SUMMERY OF OBSERVATION
+Round objects, pale orange, V formation.
+Sound of low pitched flutter. Diffused
+configuration at rear. Flew in arc from
+45 deg slew at 200 deg to point overhead.
+
+11. COMMENTS
+Solid observation.
+
+AFMC FORM 112 MAY 46 A4 X 10
+```

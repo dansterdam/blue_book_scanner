@@ -1,0 +1,50 @@
+There is no photograph present in the image provided.
+
+Here is the transcribed text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                        2. LOCATION
+23 November 1954                          Los Alamos, New Mexico
+
+3. DATE-TIME GROUP                   4. TYPE OF OBSERVATION
+Local                                       ⬜ Ground-Visual
+GMT 22/15552                           ⬜ Air-Visual                     ⬜ Ground-Radar
+                                                   ⬜ Air-Intercept Radar
+
+5. PHOTOS
+       ⬜ Yes
+       ☑ No
+
+6. SOURCE
+       ⬜ Civilian
+
+7. LENGTH OF OBSERVATION        8. NUMBER OF OBJECTS           9. COURSE 
+10 minutes                                      1                                         3SE
+
+10. BRIEF SUMMARY OF SIGHTING
+Silver color. No sound. Traveling very slow.
+Two F-84s were diverted to look for object.
+Negative results. Temperature inversion
+caused reflection of civilian type transport
+taking off from Santa Fe Airport.
+
+11. COMMENTS
+Insufficient Data for evaluation.
+
+12. CONCLUSIONS
+       ⬜ Was Balloon
+       ⬜ Probably Balloon
+       ⬜ Possibly Balloon
+       ⬜ Was Aircraft
+       ⬜ Probably Aircraft
+       ⬜ Possibly Aircraft
+       ⬜ Was Astronomical
+       ⬜ Possibly Astronomical
+       ☑ Other:
+           Insufficient Data for Evaluation
+       ⬜ Unknown
+
+ATIC FORM 329 REV 26 SEP 52
+```

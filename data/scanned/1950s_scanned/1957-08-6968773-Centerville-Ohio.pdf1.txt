@@ -1,0 +1,25 @@
+The image does not contain any photographs, only text and form entries. Here is the OCR text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                     2. LOCATION                               12. CONCLUSIONS
+   21 August 1957                             Centerville, Ohio                         o Was Balloon
+                                                                                         o Probably Balloon
+3. DATE-TIME GROUP                         4. TYPE OF OBSERVATION                      o Possibly Balloon
+   Local_2130 EST                         o KGrouncI-Visual                             o Was Aircraft
+   GMT_0223Z/                                   o Ground-Radar                           o Probably Aircraft
+                                                  o Air-Visual                               o Possibly Aircraft
+5. PHOTOS                                  o Air-Intercept Radar                       o Was Astronomical
+   o Yes                                                                                   o Probably Astronomical
+   o%No                                   5. SOURCE                                       o Possibly Astronomical
+                                               Civilian                                      o Other
+7. LENGTH OF OBSERVATION              9. NUMBER OF OBJECTS                            o Insufficient Data for Evaluation
+   10 minutes                                 two                                              o Unknown
+
+10. BRIEF SUMMARY OF SIGHTING    11. COMMENTS
+   Two star-like objects.                    jo7rerg,
+                                                        Venus & maeWas, very bright at
+                                                        this time and disappear rather
+                                                        rapidly after sunset.
+```

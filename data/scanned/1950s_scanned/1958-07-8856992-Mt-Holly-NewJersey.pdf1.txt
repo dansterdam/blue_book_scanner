@@ -1,0 +1,30 @@
+There is no photograph in the displayed image.
+
+Text content from the document:
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                          2. LOCATION                         12. CONCLUSIONS
+25 Jul 58                       Mt. Holly, New Jersey               ☐ Was Balloon
+                                 Riverside, New Jersey              ☑ Probably Balloon
+                                                               ☐ Possibly Balloon
+3. DATE-TIME GROUP         4. TYPE OF OBSERVATION            ☐ Was Aircraft  
+Local                                                  ☐ Probably Aircraft
+GMT 25/23557-26/0020Z ☑ Ground-Visual                        ☐ Possibly Aircraft
+   ☐ Air-View                          ☐ Ground-Radar       ☐ Was Astronomical
+   ☐ Air-Intercept Radar ☐ Air-Intercept ☐ Possibly Astronomical
+
+5. PHOTOS              7. LENGTH OF OBSERVATION                        ☐ Other
+☐ Yes                          25 mins                                         ☐ Insufficient Data for Evaluation
+☑ No                                                                       ☐ Unknown
+
+6. SOURCE              9. NUMBER OF OBJECTS                  10. COURSE
+Civilian & Military    One                             NW to SE
+
+10. BRIEF SUMMARY OF SIGHTING                                    11. COMMENTS
+Rnd, shiny obj on NW to SE track.                  There was a balloon actually
+                                                                       observed heading SE at same
+                                                                         time. Definitely balloon.
+```
+
+ATCC FORM 329 REV 6/52 SP

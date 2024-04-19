@@ -1,0 +1,14 @@
+There is no photograph on this page of the document. The image appears to be a diagram or illustration depicting a spherical projection with various angular measurements and reference directions (such as East, West, North, South). The dome-like structure is marked with degrees, while the horizon line includes compass points and angular measurements. There are handwritten annotations on the diagram.
+
+Below, I will produce the OCR output of the text found in the diagram:
+
+```
+90°
+Zenith
+60°
+30°
+9:55 PM
+4/24/59
+⌖
+180 S 135 SE 90 E 45 NE 0 315 NW 270 W 225 SW
+```

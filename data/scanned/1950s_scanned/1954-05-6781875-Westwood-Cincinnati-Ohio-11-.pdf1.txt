@@ -1,0 +1,50 @@
+There are no photographs present in the image.
+
+Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD
+
+1. DATE : TIME GROUP
+31 May/0500Z
+
+2. LOCATION
+Westwood, Cincinnati, Ohio (1)
+
+3. SOURCE
+civilian
+
+4. NUMBER OF OBJECTS
+one
+
+5. LENGTH OF OBSERVATION
+not reported
+
+6. TYPE OF OBSERVATION
+ground visual
+
+7. COURSE
+stationary
+
+8. PHOTOS
+o Yes
+x No
+
+9. PHYSICAL EVIDENCE
+o Yes
+x No
+
+10. CONCLUSION WAS ASTRONOMICAL: STAR
+Sighting characteristic of Astro Body observation. Star
+Deneb at 45 deg elev, Vega at 60 deg in NE. Possibly one
+of these stars.
+
+11. BRIEF SUMMARY AND ANALYSIS
+Bright light observed between two trees. Seemed to pulsate and
+as a result, moved from L to R. Motion slower than setting
+sun. Observation through trees. Just prior to storm. Object
+finally observed by storm clouds. Object observed to be in
+NR through window. Motion to the South.
+
+FTD SEP 63 O-329 (TDE) Previous editions of this form may be used.
+```

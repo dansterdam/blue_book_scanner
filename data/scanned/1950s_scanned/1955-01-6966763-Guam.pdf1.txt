@@ -1,0 +1,53 @@
+The document does not contain any photographs. 
+
+Here is the text from the document:
+
+```
+PROJECT 100/3 RECORD CARD
+
+1. DATE                                   2. LOCATION
+   29 January 1955                         Guam
+
+3. DATE-TIME GROUP                4. TYPE OF OBSERVATION
+   GMT 29/1500Z                             ❍ Ground-Visual
+   Local                                                     ❍ Ground-Radar
+                                                               ❍ Air-Visual
+                                                               ❍ Air-Intercept Radar
+
+5. PHOTOS                              6. SOURCE
+   ❍Yes                                    Civilian
+   ✔No
+
+7. LENGTH OF OBSERVATION      8. NUMBER OF OBJECTS       9. COURSE
+   3-5 seconds                          two                               straight
+
+10. BRIEF SUMMARY OF SIGHTING
+   Appeared rectangular when viewed
+   at 90 dgr cylindrical when viewed
+   fm rear. length 12-15 feet; width
+   5 feet. Leading portion of object
+   was the color of bright light,
+   changing to orange towards rear.
+   No sound. Appeared as trail or
+   exhaust. No maneuvers. Straight
+   flight path.
+
+11. COMMENTS
+  Possible meteor.
+
+12. CONCLUSIONS
+   ❍ Was Balloon
+   ❍ Possibly Balloon
+   ❍ Was Aircraft
+   ❍ Possibly Aircraft
+   ❍ Probably Aircraft
+   ❍ Was Astronomical
+   ❍ Probably Astronomical
+   ♥︎ Was Astronomical Meteor
+   ❍ Possibly Astronomical
+   ❍ Other...
+   ❍ Insufficient Data for Evaluation
+   ❍ Unknown
+
+ATTC FORM 339 (REV 26 SEP 52)
+```

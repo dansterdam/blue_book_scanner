@@ -1,0 +1,29 @@
+There is no photograph present on this page of the document.
+
+Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                 2. STATION                                         CONCLUSIONS
+   25 May 1952                     Randolph AFB, Texas               Was Balloon
+                                                                                      Possibly Balloon
+3. DATE-TIME GROUP             4. TYPE OF OBSERVATION                            Was Aircraft
+   Local 2127 CST                X Ground-Visual                                  Possibly Aircraft
+   GW 26/0327 Z                   G Ground-Radar                                   Was Astronomical
+5. PHOTO                          O Air-Visual                                      Possibly Astronomical
+   X No                             O Air-Intercept Radar                          Other:
+7. LENGTH OF OBSERVATION  8. NUMBER OF OBJECTS                           Insufficient Data For Evaluation
+   3 Seconds                      12                                                          COMMENTS
+10. BRIEF SUMMARY OF SIGHTING:
+   Balloon launcied at 0300 Z (
+   Source saw objects in tight V-formation,
+   3 groups of 4 objects each. Estimated
+   larger than B-29 at 10,000' Subtended
+   angle at 1/8" to 1/4" at arm's length.
+   Made intermittent "turn".
+   Passed through 180° arc at elevation
+   of 70° No A/C in area
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

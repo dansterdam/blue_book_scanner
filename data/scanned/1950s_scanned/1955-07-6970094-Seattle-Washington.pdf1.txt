@@ -1,0 +1,24 @@
+This image does not contain any photographs; it features the format of a form titled "PROJECT 10073 RECORD CARD".
+
+Here is the text extracted from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                 2. LOCATION                    12. CONCLUSIONS
+18 JUL 55               Seattle, Washington
+                        O Was Balloon
+3. DATE-TIME GROUP      4. TYPE OF OBSERVATION         O Probably Balloon
+GMT 19/0605Z            O Ground-Visual                O Was Aircraft
+                        O Ground-Radar                 O Probably Aircraft
+5. PHOTOS               O Air-Visual                   O Possible Aircraft
+O Yes                   O Air-Intercept Radar          O Was Astronomical Star/Planet
+O No                                                X Probably Astronomical
+                        SOURCE                         O Possibly Astronomical
+                        civilian
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS 9. COURSE  11.  COMMENTS
+30 min Still in sight   3                      n/a      Possible star/Planet. Positional data
+                                                        not included so that specific astro
+                                                        body can be noted.
+ATIO FORM 329 (REV 16 SEPT 52)
+```

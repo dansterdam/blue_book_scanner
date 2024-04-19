@@ -1,0 +1,28 @@
+This image does not contain any photographs. It is a form with text entries. Below is the reproduction of the text found in the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                2. LOCATION               12. CONCLUSIONS
+25 Aug 55              Plattilion, Nebr          ☐ Was Balloon
+                                                ☐ Possibly Balloon
+3. DATE-TIME GROUP     4. TYPE OF OBSERVATION   ☐ Was Aircraft
+GMT_25/0153Z           ☐ Ground-Visual           ☐ Possibly Aircraft
+                       ☐ Ground-Radar
+                       ☒ Air-Visual             ☐ Was Astronomical
+                       ☐ Air-Intercept Radar    ☐ Possibly Astronomical     
+                       ☐ Other                  ☐ Other
+                                               ☐ Insufficient Data for Evaluation
+5. PHOTOS              6. SOURCE                ☐ Unknown
+☒ No                   ☒ civilian
+                                               11. COMMENTS
+7. LENGTH OF OBSERVATION                        Positional data etc., missing. Insufficient
+9 No                                           Data for Evaluation.
+8. NUMBER OF OBJECTS   9. COURSE
+One                    Stationary
+
+10. BRIEF SUMMARY OF SIGHTING 
+Round, white stationary.
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

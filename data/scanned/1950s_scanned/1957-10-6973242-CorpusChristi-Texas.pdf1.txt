@@ -1,0 +1,27 @@
+The image does not contain any photographs.
+
+Here is the text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1 DATE                        2 LOCATION                       12. CONCLUSIONS
+    23 October 1957           Corpus Christi, Texas          ☐ Was Balloon
+                                                           ☐ Possibly Balloon
+3. DATE-TIME GROUP            4. TYPE OF OBSERVATION        ☐ Was Aircraft
+    GMT/24/02352              ☐ Ground-Visual                ☐ Possibly Aircraft
+                              ☐ Ground-Radar                ☐ Was Astro/AeroMeteor
+                              ☑ Air-Visual                   ☑ Possibly AstroMeteor
+                              ☐ Air-Intercept Radar          ☐ Insufficient Data for Ewaluation
+5. PHOTOS                     6. SOURCE                      11. COMMENTS
+    ☑ Yes                      Civilian                      Description conforms to bolide
+                                                            observation after breaking up.
+                                                            Case evaluated as meteor sighting.
+7. LENGTH OF OBSERVATION      8. NUMBER OF OBJECTS          9. COURSE
+    3 - 5 seconds              three                        not given
+10. BRIEF SUMMARY OF SIGHTING
+    Round object, size of a car, yellow,
+    three in "V" formation, luminous
+    trail, traveling in a straight line.
+ATTC FORM 329 REV. 20 SEP 52
+```

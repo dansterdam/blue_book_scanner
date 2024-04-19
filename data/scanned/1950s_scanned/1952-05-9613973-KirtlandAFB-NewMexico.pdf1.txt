@@ -1,0 +1,58 @@
+There is no photograph present in the image of the document. Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE        23 May 1952
+2. LOCATION        Kirtland AFB, New Mexico
+3. DATE-TIME GROUP
+     Local 1600 MST
+     GM 2300 Z
+4. TYPE OF OBSERVATION
+     ☑ Ground-Visual (☐)
+     ☐ Ground-Radar
+     ☐ Air-Visual
+     ☐ Air-Intercept Radr
+5. PHOTOS  ☐ Yes
+          ☑ No
+6. SOURCE        Several AF Officers
+7. LENGTH OF OBSERVATION        45 Min
+8. NUMBER OF OBJECTS 1
+9. COURSE
+
+10. BRIEF SUMMARY OF SIGHTING
+   Generally hovering--very little change in
+   position
+   One source thinks it was paper in an updraft?
+   No definite conclusions
+   Color: Silver
+   Shape: Circular w/dome
+
+11. COMMENTS
+   Detailed Re port--Visual sighting with
+   a telescope, theodolite, binoculars.
+   Attempted radar and airborne
+   interception.
+   (Description, details, and metrics
+   consistent with a balloon, suggesting
+   without wind data of def. evaluation
+   is impossible. However, it is un-
+   settled, did not have a radar re
+   flection & visuals explain only
+   Random Constant obj. moving w/out err.)
+
+12. CONCLUSIONS
+     ☐ Possibly Balloon
+     ☐ Maybe Balloon
+     ☐ Was Balloon
+     ☐ Possibly Aircraft
+     ☐ Was Aircraft
+     ☐ Probably Aircraft
+     ☐ Possibly Astronomical
+     ☑ Probably Astronomical
+     ☐ Other poss. paper in their
+     ☐ Insufficient Data for Evaluation
+       Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

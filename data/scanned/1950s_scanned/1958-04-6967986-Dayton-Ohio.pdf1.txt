@@ -1,0 +1,39 @@
+There is no photograph on this page of the document. The text reads:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                      2. LOCATION
+    17 Apr 58                                   Dayton, Ohio
+3. DATE-TIME GROUP                    4. TYPE OF OBSERVATION
+    Local 1850                                   Ground-Visual
+    GMT_17/23507.                                 Ground-Radar  
+3. PHOTOS                                        Air-Visual
+    No                                                Air-Intercept Radar
+6. SOURCE                                    7. LENGTH OF OBSERVATION
+    Civilian                                       0-10
+8. NUMBER OF OBJECTS                  9. COURSE
+    One                                           Stationary
+10. BRIEF SUMMARY OF SIGHTING
+    Silvery colored obj, stationary circu-
+    lar size of head of pin.
+11. COMMENTS
+    A check w/weather station esta-
+    blished a balloon was released
+    at 1827 on date of sighting. The 
+    wind direction & velocity would
+    carry the balloon to the spot 
+    sighted by the observer.
+12. CONCLUSIONS
+     Was Balloon
+     Probably Balloon
+     Was Aircraft
+     Possibly Aircraft
+     Was Astronomical
+     Possibly Astronomical
+     Other
+     Insufficient Data for Evaluation
+     Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```
