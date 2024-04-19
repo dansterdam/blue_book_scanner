@@ -44,10 +44,9 @@ def main():
 
 
 def process_fileset(input_dir, output_dir, client):
-    files = [i for i in os.listdir(input_dir) if 'athens-ohio' in i.lower()]
-    print(files)
+    files = [i for i in os.listdir(input_dir)]
     # Define the maximum number of threads based on your system's capability and the nature of the task
-    max_workers = 2  # Adjust this based on your needs and system's capabilities
+    max_workers = 3  # Adjust this based on your needs and system's capabilities
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         # Submit each file to be processed in parallel
