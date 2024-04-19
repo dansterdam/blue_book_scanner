@@ -411,6 +411,70 @@ UNCLASSIFIED
 
 - page 6 -
 
+The image provided does not contain a photograph but appears to be a scanned page of a document with text and tabulated data.
+
+Here is the text extracted from the document:
+
+```
+Spartanburg, S. C. (Continued)               UNCLASSIFIED
+
+1600 hrs
+2000                              NB                                  7
+4000                              ENE                               7 
+6000                              WNW                             6 
+8000                              NE                                4 
+10000                            NE                                10  
+18000                            W                                   13
+
+2200 hrs
+2000                              ENE                               5 
+4000                              ENE                               6 
+6000                              S                                    9 
+8000                              SE                                  6 
+10000                            SSE                                5 
+18000                            W                                    4
+
+AT GREENSBORO (Radio Sonde)
+0400 hrs    1 Sep 49
+No Record
+
+1000 hrs
+2000                              WNW                              7 
+4000                              NNW                             21  
+6000                              NNW                             24  
+8000                              NW                               23  
+10000                            W                                   25 
+18000                            W                                   26
+
+1600 hrs
+2000                              E                                    17 
+4000                              NW                                10 
+6000                              WNW                             10 
+8000                              WNW                             14 
+10000                            NNW                              10 
+18000                            W                                   10 
+
+2200 hrs
+2000                              NE                                  14 
+4000                              N                                    5 
+6000                              N                                    4  
+8000                              NS                                  7 
+10000                            SSW                               2 
+18000                            WSW                              18 
+
+AT ATLANTA, GA (Radio Sonde)
+0400 hrs    1 Sep 49
+2000 Feet                        NNW                             20 
+4000                              NNW                             16 
+6000                              W                                  11
+8000                              W                                  15 
+10000                            W                                  18  
+
+UNCLASSIFIED
+```
+
+- page 7 -
+
 There are no photographs present in this image. This is a page with typewritten text and tabulated data. Here is the text as an OCR output:
 
 ```
