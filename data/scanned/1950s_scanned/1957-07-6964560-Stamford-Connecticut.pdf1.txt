@@ -1,0 +1,56 @@
+There are no photographs present on this page.
+
+Here is the OCR output of the text on the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+2 July 1957
+ 
+2. LOCATION
+Stamford, Connecticut
+
+3. DATE-TIME GROUP
+ Local-2040 GMT-29/0240Z
+
+4. TYPE OF OBSERVATION
+☑ Ground-Visual ☐ Ground-Radar ☐ Air-Visual ☐ Air-intercept Radar
+
+5. PHOTOS
+☐ Yes ☑ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+25 minutes
+
+8. NUMBER OF OBJECTS
+three
+
+9. COURSE
+stationary
+
+10. BRIEF SUMMARY OF SIGHTING
+White light with colors of red, green and blue. Appearing intermittantly dimming, going out and repaearing.
+
+11. COMMENTS
+Insufficient data.
+
+12. CONCLUSIONS
+☐ Was Balloon 
+☐ Probably Balloon 
+☐ Possibly Balloon 
+☑ Was Aircraft 
+☐ Probably Aircraft 
+☐ Possibly Aircraft 
+☐ Was Astronomical 
+☐ Probably Astronomical 
+☐ Possibly Astronomical 
+☐ Other 
+☐ Insufficient Data for Evaluation 
+☐ Unknown
+
+ATIC FORM 329 (REV 24 SEP 52)
+```

@@ -1,0 +1,47 @@
+There are no photographs present on this document page.
+
+The text from the document is as follows:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE __(             )
+   
+            Aug 20          2. LOCATION ----------
+                                        Spokane, Washington
+
+3. DATE-TIME-GROUP
+    hical         2. 255 PMZ               4. TYPE OF OBSERVATION
+                                     ⑧ Ground-Visual  ● Air. Instrument  
+
+5. PHOTOS
+                  ⑧ Yes   ② No 
+  
+6. SOURCE
+                Control Power Operator
+
+7. LENGTH OF OBSERVATION  8. NUMBER OF OBJECTS  9. COURSE
+                10 seconds                                           10                                        SW
+
+10. BRIEF SUMMARY OF SIGHTING
+
+        White color. "Lights" shape.
+        Normal - in formation.
+
+11. COMMENTS
+
+12. CONCLUSIONS
+                     ⑧ Was Balloon   
+                     ② Probably Balloon 
+                     ② Possibly Balloon
+                    ② Was Aircraft
+                    ② Probably Aircraft
+                    ② Possibly Aircraft
+                    ② Was Astronomical
+                    ② Probably Astronomical
+                    ② Possibly Astronomical
+                     ② Other
+                     ② Insufficient Data for Evaluation
+                     ② Unknown
+ATIC FORM 329 (REV 26 SEP 52)
+```

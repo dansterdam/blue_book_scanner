@@ -1,0 +1,56 @@
+No photograph is present on the scanned document page.
+
+Here is the OCR text from the document:
+
+```
+IV. BALLOON DATA
+
+21. WERE BALLOONS RELEASED IN AREA? [ ] Yes [X] No
+22. TIME SINCE SCHEDULED BALLOON RELEASE: 1 1/2 Minutes
+
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+    Location      Type    Launching Agency    Lighted?   Describe  
+                                              Yes | No   Lighting
+    a.
+    b.
+    c.
+    d.
+    
+    (attach overlay)
+
+V. EVALUATION
+
+21. EVALUATION OF SOURCE:
+   [ ] Excellent
+   [ ] Good
+   [X] Fair
+   [ ] Poor
+   [ ] Unreliable
+   [ ] Extremely Doubtful
+   [ ] Hoax
+
+22. DETAILS OF REPORT:
+   [ ] Good
+   [X] Fair
+   [ ] Poor
+   [ ] Insufficient to Evaluate
+
+23. FINAL EVALUATION:
+   [ ] Was Balloon
+   [ ] Probably Balloon
+   [ ] Possibly Balloon
+   [ ] Was Aircraft
+   [ ] Probably Aircraft
+   [ ] Possibly Aircraft
+   [ ] Was Astronomical
+   [ ] Probably Astronomical
+   [ ] Possibly Astronomical
+   [ ] Other:
+   [ ] Insufficient Data For Evaluation
+   [X] Unknown
+
+24. COMMENTS:
+   Special balloons were being released at unknown times from Tillamook.
+
+ ATIC Test Form 334, (13 Aug 52)
+```

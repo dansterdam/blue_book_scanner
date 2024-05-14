@@ -1,0 +1,63 @@
+There is no photograph present on this page.
+
+Here is the text found in the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+8 January 1956
+
+2. LOCATION
+Battlecreek, Michigan
+
+3. DATE-TIME GROUP
+   Local
+   GMT 09/0215z (N)
+
+4. TYPE OF OBSERVATION
+XXX Ground-Visual BX Ground-Radar
+
+□□□□ Air-Visual □□ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+XXX No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+20 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+southeast
+
+10. BRIEF SUMMARY OF SIGHTING
+One round reddish white object, flew straight level flight. Sighted at 40° elevation 150° azimuth.
+
+11. COMMENTS
+Possible balloon; however, no direction of movement reported. Case listed as insufficient data.
+
+12. CONCLUSIONS
+Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+
+□□ Other 
+XXX Insufficient Data for Evaluation
+□□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

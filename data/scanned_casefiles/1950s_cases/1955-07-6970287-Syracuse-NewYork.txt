@@ -1,0 +1,157 @@
+There is no photograph present on this page.
+
+Outputting text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE 
+21 Jul 55
+
+2. LOCATION
+Syracuse, New York
+
+3. DATE-TIME GROUP
+Local 
+GM 22/0133Z
+
+4. TYPE OF OBSERVATION 
+Ground-Visual      Ground-Radar 
+Air-Visual        Air-Intercept Radar
+
+5. PHOTOS
+Yes
+X No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+35 - 40 seconds
+
+8. NUMBER OF OBJECTS
+two
+
+9. COURSE
+W to E
+
+10. BRIEF SUMMARY OF SIGHTING
+Two objs., round, red and green appeared to change colors and were purportedly larger than navigational lights.
+
+11. COMMENTS
+The flashing red and green lights suggested the possibility of a/c. The local GOC plotted two a/c in area of sighting at time of sighting. Evaluation A/c.
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+X Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation 
+Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```
+
+- page 1 -
+
+There is a photograph present on the document page you provided.
+
+The OCR output for the text in the document is as follows:
+
+```
+IN
+
+WPFS35 YDB015 TYEO07 TMB805 ITB0535NA051
+
+MM RJEDEN RJEHQ RJEPNB RJEDWP
+
+DE RJEPSN 52
+
+M 2521808Z ACTION
+
+FM COMDR 32ND AIR DIV (DEF) SYR AF STA SYR 6 NY
+
+TO RJEDEN/COMDR ADC ENT AFB COLORADO
+
+RJEDWP/COMDR ATIC WRIGHT-PATTERSON AFB OHIO
+
+RJEHQ/DIRECTOR OF INTEL HEADQUARTERS USAF WASHINGTON 25 DC
+
+INFO RJEPNB/EADF ATTN CIC STEWART AFB NY
+
+BT
+
+/UNCLASSIFIED/ ACF01N: 07150, UFOB. THE FOLG REPT IS SUBMITTED IN
+
+ACCORDANCE WITH AFR 2002, PARA 7D: ONE ALFA CIRCULAR PD ONE BRAVO
+LARGER THAN NAVIGATIONAL LIGHT PD ONE COCA RED AND GREEN PD ONE
+DELTA TWO PD ONE ECHO NEGATIVE PD ONE FOXTROT NEGATIVE PD ONE
+GOLF NEGATIVE PD ONE HOTEL NEGATIVE PD ONE INDIA CHANGED COLORS PD
+TWO ALFA GOC OBSERVERS PD TWO BRAVO FIVE MILES NORTH OF POST,
+5,000 FT TO 10,000 FT PD TWO COCA WENT INTO FOG BANK TO THE EAST
+PD TWO DELTA HEADING WEST TO EAST PD TWO ECHO FADED INTO FOG BANK
+PD TWO FOXTROT 35 TO 40 SECONDS PD THREE ALFA GROUND VISUAL PD
+THREE BRAVO NEGATIVE PD THREE COCA NEGATIVE PD FOUR ALFA 22/0313Z
+
+
+PAGE TWO RJEPSN 52
+
+SYRACUSE NIGHT PD FIVE GOLF JULIETT PAPA NECTAR 525B, 7608W
+```
+
+
+- page 2 -
+
+The document does not contain any photograph.
+
+Transcribed text:
+
+```
+4258N PD SIX ALFA ------------------ 19 YEARS, -------------------------- SYRACUSE 7, NY, STUDENT. MISS --------------------, 20 YEARS, -------------------, SYRACUSE 5, NY STUDENT NURSE AT SYRACUSE UNIVERSITY PD SEVEN ALFA GOOD PD SEVEN BRAVO SURGACE: UNK, 6,000 FT: 310 DEGREES AT 20 KTS, 19,000 FT: 310 DEGREES AT 20 KTS, 16,000 FT: 320 DEGREES AT 20 KTS 28,000 FT: 35 DEGREES AT 20 KTN 38,000 FT: 320 DEGREES AT 25 KTS, 50,000 FT: 350 DEGREES AT 18 KTS, 62,000 FT: UNKNOWN PD SEVEN COCA 250 SCATTERED PD SEVEN DELTA SIX MILES PD SEVEN ECHO SCATTERED PD SEVEN FOXTROT NONE PD EIGHT NONE PD NINE NONE PD TEN TWO GOC TRACKS POSSIBLE CORRELATION, FLT PLAN ONE ACFT WATERTOWN TO SYRACUSE PD ELEVEN DIRECTOR OF INTEL POSSIBLE LOCAL ACFT PD TWELVE NONE PD BT
+
+25/2152Z JUL RJEPSN
+```
+
+- page 3 -
+
+There are no photographs present on this page.
+
+```
+UFIB INDEX CARD AISS-UFOS-238-8
+1. DATE            2. LOCATION                 12. CONCLUSIONS 
+24 July 1955        Syracuse, New York            Balloon  
+                                                      Prob Balloon
+                                                      Possibly Balloon
+3. DATE-TIME GROUP      4. TYPE OF OBSERVATION        Yes Aircraft
+    Local  27 @ 2332  July 1955    0 Ground-Visual      Possibly Aircraft
+    GMT                          0 Ground-Radar    Possibly Aircraft    
+                          Air-Visual            Possibly Astronomical 
+                    0 Air-Intercept Radar     Probably Astronomical 
+5. PHOTOS       6. SOURCE            Other 
+      Yes   0No        Civilian                   Insufficient Data for Evaluation
+                                          Unknown
+7. LENGTH OF OBSERVATION   8. NUMBER OF OBJECTS       9. COURSE 
+     (35-40)Seconds             Two (2)                         W to E
+    Thirty-five to forty Sec
+
+10. BRIEF SUMMARY OF SIGHTING                    11. COMMENTS 
+Two (2) objects, round, red and green, appeared     The flashing red and green lights sug-
+to change colors and were purportedly larger        gest the possibility of aircraft.The 
+than navigational lights.                           local GOC plotted two a/c in the area 
+                                                    of sighting at the time of the sighting. 
+                                                    In all probability the observers saw the 
+                                                    aircraft plotted by the GOC.
+
+
+AISOP Form 5 (15 Oct 54)
+
+```
+
+- page 4 -
+

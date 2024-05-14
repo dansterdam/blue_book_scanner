@@ -1,0 +1,44 @@
+The page does not contain any photographs.
+
+OCR output of the text on the document:
+```
+1. DATE-TIME GROUP
+29 April 53
+
+3. SOURCE
+Military
+
+4. NUMBER OF OBJECTS
+1
+
+5. LENGTH OF OBSERVATION
+60 Seconds
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+Southwest
+
+8. PHOTOS
+[ ] Yes
+[X ] None
+
+9. PHYSICAL EVIDENCE
+[ ] Yes
+[X ] None
+
+2. LOCATION
+Position: 28.14 N 166.05 W W/N of Hawaiian Islands
+
+10. CONCLUSION
+AIRCRAFT
+
+11. BRIEF SUMMARY AND ANALYSIS
+One object traveling at a speed estimated as faster than jet a/c was observed traveling from NW to SW at 2,000 ft. altitude. It was metallic silver in color, round, and about the size of an F-80.
+
+COMMENT: Position of the ship was NW of the Hawaiian Islands within range of jet fighter a/c. Observers say "object appears to remain stationary for a few seconds". An a/c at a distance making a sharp turn could appear stationary. Also a/c at a distance frequently appear round.
+
+form
+FTD SEP 63 0-329 (TDIE) Previous editions of this form may be used.
+```

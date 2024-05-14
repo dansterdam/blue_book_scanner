@@ -1,0 +1,51 @@
+There is no photograph present on this page.
+
+Text output:
+
+```
+10 - 15 DECEMBER 1957 SIGHTINGS
+
+DATE    LOCATION               OBSERVER                       EVALUATION
+10      - Los Angeles, California                     Astro (METEOR)
+10      - Portland, Maine                             Military Air                Satellite (SPUTNIK)
+10      - Konona, Wisconsin                    State Police                Balloon
+10      - Estacada, Oregon                           Insufficient Data
+10      - Oceanside, Long Island, New York           Astro (METEOR)
+10-12   - Duncansville, Texas                Multi (PHOTOS)        Astro (VENUS)
+11      - Quincy, Ohio (CASE MISSING)                Civilian                 Aircraft
+11      - Miles City, Montana                        Military                 Aircraft
+11      - Lake City AFS, Tennessee            Military RADAR         Balloon
+11      - Wayne, Michigan                                         Aircraft
+11      - Continental Divide AFS, New Mexico Military                 Astro (METEOR)
+11      - Parkersburg, West Virginia               Military Air                1. Astro (MOON)
+           and Guthrie, Pa.                            & Radar                 2. Radar (INVERSION)
+11      -                                          Military Air                1. Mirage
+           and Guthrie, Pennsylvania                 & Radar                 2. Radar (INVERSION)
+                                                                                       Astro (METEOR)
+11-12 - Ellsworth AFB, South Dakota            Military                 Astro (METEOR)
+12      - Great Neck, Long Island, New York   Multi (PHOTO/ N.R.)    Insufficient Data
+12-15 - Misawa, Hokkaido, Japan                Military Air                1. Astro (VENUS)
+                                                  Military RADAR               2. Radar (ANOMALOUS PROP)
+                                                  Photo Analysis              3. Insufficient Data
+                                                                              Astro (METEOR)
+13      - Canton, Ohio (CASE MISSING)                 Military
+13      - English, Indiana (CASE MISSING)        Civilian                 Insufficient Data
+13      - Col Anahuac, Mexico                                               UNIDENTIFIED
+13      - Chase Field, Beeville, Texas                   Military Air                Astro (METEOR)
+13      - S. Weymouth, New Jersey                    Military Air                Astro (METEOR)
+13      - Oak Harbor, Washington                                                Aircraft
+13      - St. Louis, Missouri                      Astro (METEOR)
+13-14 - Catalgazi/Kimil, Turkey            5-6 Fishermen                Astro (METEOR)
+14      - Albany, Oregon                                                 Insufficient Data
+14      - Dayton, Ohio                            Civilian                 Astro (VENUS)
+15      - Englewood, Colorado (CASE MISSING) Civilian                 Insufficient Data
+15      - Elmendorf AFB, Alaska                    Military                 Astro (METEOR)
+
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+
+DATE    LOCATION                        SOURCE                                  EVALUATION
+------  ------------                    ------------------------                -----------------
+Dec   - Universe                         Science News Ltr                        No Evaluation
+12    - Chatham, Canada              Newsclipping                             No Evaluation
+13    - Collinsville, Illinois              Newsclipping                             No Evaluation
+```

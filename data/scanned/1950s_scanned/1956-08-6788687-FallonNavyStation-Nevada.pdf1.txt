@@ -1,0 +1,67 @@
+The document contains no photographs.
+
+Here is the OCR output of the text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+6 August 1956
+
+2. LOCATION
+Fallon Navy Station, Nevada
+
+3. DATE-TIME GROUP
+Local
+GMT 052108Z
+
+4. TYPE OF OBSERVATION
+☑ Ground-Visual
+☐ Ground-Radar
+☑ Binoculars
+☐ Air-Intercept Radar
+☐ Air-Visual
+
+5. PHOTOS
+☐ Yes
+☑ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+25 seconds
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+225 to 260 degs
+
+10. BRIEF SUMMARY OF SIGHTING
+White and silver, object with oblong
+shape appeared to have knobs on its
+surface and two ragged bumps in front.
+Estimated altitude and speed 20,000 ft
+at 1,000 mph. Flew out of sight.
+
+11. COMMENTS
+Observation indicates a/c in dive.
+Possible new configuration undergoing test.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☑ Probably Aircraft
+☑ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 25 SEP 52)
+```

@@ -1,0 +1,79 @@
+There are no photographs present on this page.
+
+The OCR output text from the document is:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+  4 Jan 53
+
+2. LOCATION
+
+  Mankato, Kansas
+
+3. DATE-TIME GROUP
+
+  Local   dawn
+
+  GMT     *
+
+4. TYPE OF OBSERVATION
+
+    X Ground-Visual     Ground-Radar
+      Air-Visual        Air-Intercept Radar
+
+5. PHOTOS
+
+    Yes
+    No
+
+6. SOURCE
+
+  Civilian
+
+7. LENGTH OF OBSERVATION
+
+  5 mins
+
+8. NUMBER OF OBJECTS
+
+  one
+
+
+9. COURSE
+
+  - - 
+
+10. BRIEF SUMMARY OF SIGHTING
+
+  Rpt of strange a/c w/aerials about
+  shape & size of strato-cruiser. Obser
+  ved at dawn.
+
+11. COMMENTS
+
+  Observation of one of the new
+  WR-2 type a/c w/radar search
+  aerials. A/C has same general
+  configuration as a strato-cruiser.
+
+12. CONCLUSIONS
+
+    Was Balloon
+    Probably Balloon
+    Possibly Balloon
+    Was Aircraft
+    Probably Aircraft
+X Possibly Aircraft
+    Was Astronomical
+    Probably Astronomical
+    Possibly Astronomical
+    Other
+    Insufficient Data for Evaluation
+    Unknown
+
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

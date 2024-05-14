@@ -1,0 +1,56 @@
+There is no photograph present on this page.
+
+Here's the OCR-produced text from the document:
+
+```
+bar at intervals of 2°C, and run diagonally upward from right left to right left. The Dry Adiabats for the average position of the pressure camp are lines that enter the moist (150m. See below.) 
+SATURATION ADIABATS are the curved lines which enter the moist (150m. See below.) 
+ at intervals of 27C, directing upward and tending to become parallel to the dry adiabat. 
+
+SATURATION MIXING RATIO (in gm. per kg.) is represented by dashed green lines always appear between the 1050 and 1000 lines. 
+
+THICKNESS (in hundreds of geopotential feet and meters) of the layers (1000-1000. 500. 700-300, 500-300, 200-800, 250-150, 300-100, and 150-50) The thicknesses are obtained from the virtual temperature curve by the equal area method, using any standard mean of axis. 
+
+HEIGHTS in deportmental feet or meters above mean sea level, ft) station level, of any pressure surface is obtained from the margins on the left or the labeled X and by drawing a straight line to the appropriate isobar or isobatic lines. Heights are given amsen sea level or station pressure) on the pressure scale, and read pressure height on the approsite height scale. 
+
+ICAO STANDARD ATMOSPHERE SOUNDING is indicated by a thick brouse line
+The saturated adiabats and isopleths of saturation mixing ratio are compute by use of vaper pressures ever a plane wafer surface at all tempteratures. 
+ Extension chart or 25 mb. has been accomplished by overlay with pressure indicated in brackets [100] at 400 mb. and [25] at 100 mb. Dry adiabits for the overlap are labeled in parentheses.) 
+
+APPROXIMATE VIRTUAL TEMPERATURE may be obtained from the formula Tv 1 + 6
+ where T, is virtual temperature in °C, T is the air temperature in °C, and w is mixing ratio in grams/kilogram, For purposes of thickness computation, the value of Tv is obtained from the lay of and see the mean mixing line of the layer for each level. 
+  Black dots along wind scale indicate the levels for which wind data is reported and plotted. The open circles co indicate the mandatory pressure levels at which wind data is also entered. 
+
+ALL heights used in this diagram are en geopolitical feet and meters.
+
+SKEW T - LOG P ANALYSIS
+
+TIME \
+      \
+     ____
+      \
+
+
+- ***
+                   \
+TIME \
+            AIRMASS ANALYSIS TYPE \
+         BOUNDARY \
+         TYPE                                  \
+         BOUNDARY \
+         TYPE                                  \
+   ____
+ *\
+TYPE                               \
+FLURRIES \
+\
+FRONTAL \
+      ________
+RADIATION \
+          +
+                         
+
+STABILITY INVERSION
+   TOPOGRAPHIC  \
+ ```
+

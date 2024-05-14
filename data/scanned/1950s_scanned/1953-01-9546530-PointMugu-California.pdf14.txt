@@ -1,0 +1,30 @@
+There is no photograph present on this page. Below is the extracted text from the document.
+
+```
+V.H.F. OMNI-RANGE (VOR)
+The V.H.F. omni-range operates within the 112-118 megacycle band. In this band it is relatively free from atmospheric and precipitation static and interference from other radio stations. Furthermore, it is not limited to four courses as is the A-N range, but provides definite guidance on any course to or from the station, the pilot may elect. That is why it is called the Omni (Directional) Range. At minimum instrument altitudes the VOR gives reliable indications up to about 50 statute miles (43 nautical miles), depending on enroute terrain.
+In flying by the V.H.F. omni-range, the pilot uses three basic instruments. The first is the Flight Path Deviation Indicator (cross pointer instrument), the same type used for the visual-aural range (VAI.) and the ILS localizer. The vertical needle of this instrument tells the pilot whether he is right or left of the desired course. The second is an Omni-bearing Selector, manually operated by the rotation of a small knob, by which the pilot selects the course he desires to fly. When the cross-pointer needle is centered, the omni-bearing selector indicates the magnetic bearing of the aircraft either to or from the station. The third is a "TO-FROM" Indicator which shows whether the bearing indicated by the Omni-bearing Selector is from or to the station. Furthermore, the "TO-FROM" needle can tell a flier when his aircraft is too far from the VOR or is otherwise receiving a weak signal. In this case the needle points to a red sector instead of TO or FROM.*
+In operation, the pilot selects a course by adjusting the omni-bearing selector to the desired magnetic bearing, and then maintains it by keeping the cross-pointer needle centered. If the aircraft is correctly aligned with the TO-FROM indication, when the reetle swinas to the riaht. for exammle. it indicates that the course selected lies to the riaht.
+For example, an aircraft is due south of a VOR station. If it is pilot desires to fly to the station, he sets the omni-bearing selector to indicate 0°. The "TO-FROM" indicator will then point to the word "TO". As the aircraft passes over the station the "TO-FROM" indicator will point to the word "FROM". If a turn of 180° is made north of the station, although the vertical cross-pointer needle will again become centered, the "TO-FROM" indicator will still point to "FROM". The pilot, however, will now find that he must fly "Away from the needle" to stay on course. This shows him that the "TO-FROM" indicator is inverted. So, the pilot now rotates his omni-bearing selector to 180°. After he has done this, the "TO-FROM" indicator shifts to the "TO" position, and flying "Toward the needle" will keep him on course.
+
+TABLE OF V.H.F. RECEPTION DISTANCES
+With the increasing use of VHF and UHF frequencies for communication and navigation it appears desirable to publicize reception distances for these frequencies. They, therefore, are tabulated below:
+ Feet Above Ground                  Reception Distance
+  Station*                            Statute Miles         Nautical Miles
+    500                                      30                         25
+  1,000                                      45                        40
+  3,000                                      80                        70
+  5,000                                    100                        85
+10,000                                    140                       120
+15,000                                    175                       150
+20,000                                    200                       175 *No physical obstruction intervening.
+**Based on zero elevation of the facility. (Distances to nearest even 5 miles).
+If you are using a VHF transmitter, remember that its effective range increases with your altitude. Don't attempt to connect
+a station unless you are within "line of sight". 
+
+U.S. WEATHER BROADCASTS AND TRANSMISSIONS
+All continuously operated CAA radio range and radio beacon stations having voice facilities on the range or radio beacon frequencies broadcast weather reports and airway information at 15 and 45 minutes past each hour. The 15-minutes past-the-hour broadcast is an "airway" broadcast consisting of weather reports from important terminals located on airways (?) within approximately 400 statute miles (360 nautical miles) of the station. The 45-minutes-past-the-hour broadcast is an "area broadcast consisting of weather reports from locations within the flight information area of the station.
+The broadcast consists of the local weather report and the latest available surface reports from other locations. Reports more than one hour old are not broadcast. Local winds aloft are broadcast 4 times after the broadcast at 6:15 and 12:15 A.M., and 8 P.M., E.S.T. The velocities of winds aloft are broadcast in knots.
+At selected stations the Weather Bureau provides a local terminal forecast covering the next two hours. This forecast is broadcast, when available, immediately following the local weather report.
+Pilots enroute are requested to avoid, if possible, calling airway communications stations at or about 15 and 45 minutes past the hour (which are the scheduled broadcast times) to request weather information, as such calls may delay .siitt'!, of scheduled broadcasts and cause incony venience to other persons who are dependent on the broadcasts for weather repo 
+```

@@ -1,0 +1,26 @@
+The page contains a photograph of a navigational chart. The chart includes various identifiers such as caution areas, danger areas, and geographical landmarks. There are specific coordinates and navigational lines denoted on the map. 
+
+Here is the OCR text output from the document:
+
+```
+PRICE 25 CENTS
+BOSTON (UV-10)
+COMPILED AND PRINTED AT WASHINGTON, D.C
+BY THE U.S. COAST AND GEODETIC SURVEY
+UNDER AUTHORITY OF THE SECRETARY OF COMMERCE
+Principal Sources: U.S. Geological Survey, U.S. Army
+Corps of Engineers, U.S. Air Force, U.S. Dept. of Agriculture, Civil
+Aeronautics Administration, and the U.S. Coast and Geodetic Survey.
+4mits: Edition of Jan. 1945, Revised Dec. 1951
+NOTE: It is requested that users of this chart indicate corrections and additions
+which come to their attention and notify
+"THE DIRECTOR, U.S. COAST AND GEODETIC SURVEY, WASHINGTON 25, D.C."
+TO REFERENCE BY THE GEOREF (SHOWN IN BLUE) TO MINUTES 
+(Select nearest intersection south and west of point)
+Sample Point: BRADFORD
+1. HJ identifies basic 15° quadrangle
+2. CL identifies 1° quadrangle
+3. DL identifies Georef minute of longitude
+4. 24 identifies Georef minute of latitude
+5. Sample reference: HJDL24
+```

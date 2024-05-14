@@ -1,0 +1,61 @@
+There is no photograph present on this page.
+
+Here is the OCR output of the text found in the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+8 August 1958
+DATE-TIME GROUP
+local           
+GMT 09/0424Z
+
+PHOTOS
+  Yes
+  No
+
+2. LOCATION
+Flat Rock, Michigan
+
+4. TYPE OF OBSERVATION
+  Ground-Visual
+  Ground-Radar
+  Air-Visual
+  Air-Intercept Radar
+
+5. SOURCE
+Unknown
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+unknown
+
+10. LENGTH OF OBSERVATION
+ unknown
+
+11. BRIEF SUMMARY OF SIGHTING
+obj, rising & falling, leaving major trail, traveling E to W.
+
+11. COMMENTS
+Insufficient data.
+
+12. CONCLUSIONS
+  Was Balloon
+  Probably Balloon
+  Possibly Balloon
+
+  Was Aircraft
+  Probably Aircraft
+  Possibly Aircraft
+  Was Astronomical
+  Probably Astronomical
+  Possibly Astronomical
+  Other
+Insufficient Data for Evaluation
+  Unknown
+
+FORM 329 (REV 26 SEP 52)
+```

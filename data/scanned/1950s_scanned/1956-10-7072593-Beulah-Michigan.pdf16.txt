@@ -1,0 +1,7 @@
+The document contains a photograph. It appears to be a black and white image featuring an object with some annotations. There is a note written on the image that reads: "Cabling on slender rod?"
+
+Now, extracting and outputting all text found in the document, here it is:
+
+```
+Cabling on slender rod?
+```

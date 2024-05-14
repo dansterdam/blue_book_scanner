@@ -1,0 +1,60 @@
+The document contains no relevant photographs, only the printed record card.
+
+**Extracted Text:**
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+16 May 1956
+
+2. LOCATION
+Palm Desert, California
+
+3. DATE-TIME GROUP
+Local
+GMT 17/0715Z
+
+4. TYPE OF OBSERVATION
+XX Ground-Visual
+    Air-Visual 
+    Ground-Radar
+    Air-Intercept Radar
+
+5. PHOTOS
+    0 Yes
+XX No
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+two minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+westerly
+
+10. BRIEF SUMMARY OF SIGHTING
+One round object, the size of a pea held at arm’s length, yellow, in level flight heading west.
+
+11. COMMENTS
+Concur with the opinion of the reporting officer that this sighting was possibly caused by an aircraft.
+
+12. CONCLUSIONS
+  0 Was Balloon
+  0 Probably Balloon
+  O Possibly Balloon
+  O Was Aircraft
+  0 Probably Aircraft
+XX Possibly Aircraft
+  O Was Astronomical
+  O Probably Astronomical
+  O Possibly Astronomical
+  O Other
+  0 Insufficient Data for Evaluation
+  O Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

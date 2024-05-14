@@ -1,0 +1,62 @@
+There is no photograph present on this page.
+
+OCR Text Output:
+
+```
+PROJECT 10073 RECORD CARD 
+
+1. DATE
+15-17 November 1958
+3. DATE-TIME GROUP
+Local
+GMT 1815Z
+
+5. PHOTOS
+Yes
+No
+
+2. LOCATION
+Loa, Utah
+4. TYPE OF OBSERVATION
+Ground-Visual
+Ground-Radar
+Air-Visual
+Air-Intercept Radar
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+10 minutes
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+Circular
+
+10. BRIEF SUMMARY OF SIGHTING
+Cylindrical, dark color, circled in the SW, observed for 10 mins or longer; a contrail was observed far behind obj.
+
+11. COMMENTS
+Description indicates a/c. Contrail present. Clear weather?.
+
+12. CONCLUSION
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Other
+Insufficient Data for Evaluation
+Unknown
+
+ATIC FORM 329 (REV 25 SEP 52)
+```

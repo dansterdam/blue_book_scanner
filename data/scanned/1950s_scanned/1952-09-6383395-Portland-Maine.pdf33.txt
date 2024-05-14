@@ -1,0 +1,41 @@
+There are no photographs present on this page. 
+
+Below is the extracted text from the image:
+
+```
+BASELINE CHECK READINGS
+
+        Temperature                                Relative Humidity
+ Time  
+  G.C.T.    Observed   Dry   Wet   Observed   Bulb   Corr.   Psychrometer (Ice)
+            °C
+
+9 Km. 
+-40°
+8 Km.
+-30°
+7 Km.
+-20°
+6 Km.
+-10°
+
+CONSTANT PRESSURE DATA
+
+400
+450
+500
+550
+600
+650
+700
+
+0°C
+-2
+15
+
+% Slight Inversion
+ 500-2
+
+3
+17
+```

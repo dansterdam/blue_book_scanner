@@ -1,0 +1,47 @@
+There is no photograph present on this page of the document.
+
+Here is the OCR output of the text from the document:
+
+```
+DATE                  LOCATION                                           OBSERVER                               EVALUATION
+
+1                        Harrisville, Michigan                                                             Insufficient Data
+2                        Capitol Heights, Maryland                                                    -------                           A/C
+3                        Tinker AFB, Oklahoma                                                           Military                            A/C
+4                        North Rome, Pennsylvania                                                    --------                         Astro (ARCHTURUS)
+5                        Kanzel (AMS 2330) Meteor (INFO)                                        ------------                 (AMS 2330)
+6                        Philadelphia, Pennsylvania (American Meteor Society-Fireball Report)(INFO)    ----------
+7                        Hobbs, New Mexico                                                                      -----------                      Balloon
+8                        Scott AFB, Illinois                                                                              Military                             Balloon
+9                        Long Beach, California                                                                   Sheriff’s Office                  Insufficient Data
+10                      Sampson AFB, New York                                                              -------                          A/C
+11                      Wabun, Minnesota                                                                       Military                             Other (UNSTABLE AF
+12                      Albuquerque, New Mexico                                                            Military                            Other (BIRDS)
+13                      Arabian Sea (EO Bulletin) Report of Abnormal Refraction (INFO)                       --------                            --------
+14                      Waterville, Maine                                                                             -------                          A/C
+15                      Yakima, Washington                                                                       Military Air                     Astro (SUN DOG)
+16                      Offutt AFB, Nebraska                                                                       Ground\[RADAR\]              Balloon
+17                      Dobbins AFB, Georgia                                                                      Tower Personnel             Other (Searchlights)
+18                     Cincinnati, Ohio (CRIFO)(INFO)                                                    --------                            --------------
+19                     Philadelphia, Pennsylvania (INFO)(?)New winning                               -------------                   --------
+20                     Windsor, Newfoundland                                                                  -------                          Balloon
+21                     Westport, Mississippi                                                                        -------                          Astro (METEOR)
+22                     Lowry AFB, Colorado                                                                      Military                             Balloon
+23                     Bolling AFB, Washington                                                                 -------                            UNIDENTIFIED
+24                     Norfolk, Virginia                                                                              -------                            Balloon
+25-31               Lubbock, Texas (CSI)(INFO)                                                             --------                            Astro (JUPITER)
+25                     Concord, California (CSI)(INFO)                                                      -------                            Astro (JUPITER)
+25                     Concord, California (CSI)(INFO)                                                      -------                            Astro (OTHERS)
+32                     Simutak, Greenland                                                                        -------                            Astro (MARS/LAPETURUS)
+34                     Baltimore, Maryland                                                                         -------                            A/C
+26                      135.25° 34. 48N (Pacific)                                                                   Control Tower, Air Vis     Astro (MISTOR)
+27                      Melbourne, Florida                                                                         --------                           Astro (METEOR)
+28                      Pepperrell AFB, Newfoundland                                                    --------                            Astro (JUPITER)
+29                      Hampton, Virginia                                                                        -------                            Astro (METEOR)
+29                      Mapleton, Maine                                                                          Military & Others            UNIDENTIFIED
+29                      Presque Isle, Maine                                                                       -------                            Astro (VENUS)
+29                      Norton AFB, California                                                                     Air Visual                          Insufficient Data
+30                      Annapolis, Maryland                                                                    -------                            Balloon
+31                      Lovansville, Ohio                                                                        Military & Others            Astro (MISTOR)
+31                      Union Lake, Michigan                                                                  -------                            Insufficient Data
+```

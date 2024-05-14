@@ -1,0 +1,56 @@
+There is no photograph present on this page.
+
+Here is the text extracted from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE: 7 Aug 52
+
+2. LOCATION: DULUTH, MINN.
+
+3. DATE-TIME GROUP
+ Local: 071250 CST
+ GMT: 071206 Z
+
+4. TYPE OF OBSERVATION  
+ XX Ground-Visual  
+◻ Ground-Radar  
+◻ Air-Visual  
+◻ Air-Intercept Radar
+
+5. SOURCE 
+ XX Weather Observer
+
+6. LENGTH OF OBSERVATION
+2 Min.
+
+7. NUMBER OF OBJECTS
+1
+
+8. COURSE
+
+9. CONCLUSIONS
+◻ Was Balloon
+◻ Probably Balloon
+ Possibly Balloon
+◻ Was Aircraft
+ Probably Aircraft
+◻ Possibly Aircraft 
+◻ Was Astronomical
+ Possibly Astronomical
+◻ Other
+◻ Insufficient Data for Evaluation
+ Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Observer was tracking balloon by theodolite when he discovered a small object
+in the sky which he observed for two minutes. Observer could not locate the object again
+after adjusting theodolite to check on pilot balloon. Object was not moving. Had
+appearance of bright spot of sunlight.
+
+11. COMMENTS
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

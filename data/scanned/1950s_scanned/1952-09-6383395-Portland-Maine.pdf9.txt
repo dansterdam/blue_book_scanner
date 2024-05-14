@@ -1,0 +1,137 @@
+The page contains a diagram labeled "VHF OMNI-DIRECTIONAL RADIO RANGE DESCRIPTION" along with aeronautical symbols, navigation lights data, and radio facilities information. Specific sections are defined, including aerodrome data, air navigation lights, radio facilities, miscellaneous information, and very high frequencies (VHF). 
+
+Here's the OCR text output from the document:
+
+---
+AERONAUTICAL SYMBOLS
+
+AERODROMES
+LANDPLANE          SEAPLANE
+Military base
+Civil
+Joint civil and military base
+Military
+Civil
+Joint civil and military
+Landing area or anchorage
+Of major aeronautical importance
+OO Major aeronautical importance
+Offering services that include repairs
+for normal traffic and/or refueling
+No public services available
+
+AERODROME DATA
+LANDPLANE
+Elevation in feet
+Minimum lighting
+Hard surfaced runway
+Length of longest runway
+To nearest hundred feet
+
+HARMON FIELD
+L.H. 1 H. 48
+Airport System
+GCA SYSTEM
+278 12.18
+46
+
+Elevation in feet
+Minimum lighting
+Normally sheltered take-off area
+Length of longest runway
+To nearest hundred feet
+
+NAS ANACOSTIA
+00 L 5 62
+2780
+
+Civil
+2870  Control tower transmitting frequencies
+
+When information is lacking, the respective character will be replaced by a ' x '
+VALLEY
+5750  L 32
+
+AIR NAVIGATION LIGHTS
+Rotating light
+Rotating light (With flashing code)
+Rotating light (With course lights)
+Flashing light
+Flashing light (With code)
+Flashing light (With course lights)
+Marine light
+Lightship
+
+F-flxed FL-flashing FA-alternating Alt-streaming Group-red-white Green-Red-White Green Blue (U)-uncolored  SEC-sectr wn=secon
+Marine alternating group and white unless otherwise indicated. Marine lights are white unless colors are stated.
+
+RADIO FACILITIES
+Use of the word "Radio" within the box indicates voice facilities
+
+Radio range
+(Without voice)
+
+Marine radiobeacon
+(Without voice)
+
+Miscellaneous
+Isogonic line or isogonal
+(values    E 1955)
+Mooring mast
+Prominent transmission line
+Obstruction
+(European include elevation above sea level as 123 as 123)
+WOODY RANGE
+291 P.M.
+SEA F.M.
+
+EVERETT RANGE
+294 P.M.
+2149 A 299 3023
+
+Radio broadcasting station
+Radio radiobeacon. nondirectional
+(BS)
+1260
+
+BEDFORD RADIO
+522 QBM.
+
+Restricted areas are numbered, and are
+indicated on the charts as follows:
+Prohibited area
+(AR-78)
+Danger or warning area
+(D-32)
+(W-46)
+Caution area
+(C-64)
+Civil airways Control zone
+Blue tint indicates extent
+Of all controlled areas
+
+NEWTON
+(Reporting ponit)
+AU RAL RANGE
+N
+N
+(bearings are magnetic at the station)
+(Note:--directlo is 16 duester od small trt)
+
+VERY HIGH FREQUENCIES (VHF) PRINTED IN BLUE
+VHF FOUR-COURSE VISUAL-AURAL RADIO RANGE
+The Blue and Yellow Visual Sectors are indicated by A and Y; the Aural Sectors by A and N
+Letter preceeding frequency in box indicates channel
+
+VHF OMNI-DIRECTIONAL RADIO RANGE DESCRIPTION
+The VHF omni-directional range provides visual track guidance along any
+selected radial from the station out to a  distance of  of approximately 50. miles
+when flying at the minimum instrument altitude. These ranges operate in 
+the frequencies between 112  and 118 megacycles and require a special omni
+range type recelver to make use of the navigational features. Also provided
+are simultaneous voice communication and 3-letter (coded) identification. In
+operation, the pilot selects a course by setting the pointer on a course or radial
+selector to the desired magnetic bearing and then flies that course by refer-
+ence to a cross pointer instrument.
+7/12/51
+

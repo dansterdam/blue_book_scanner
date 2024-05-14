@@ -1,0 +1,59 @@
+There is no photograph present on this page.
+
+Here is the OCR-transcribed text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+   9 June 1951
+
+2. LOCATION
+   Thule, Greenland
+
+3. DATE-TIME GROUP
+   Local __
+   GMT 10/0100Z
+
+4. TYPE OF OBSERVATION
+   [ ] Ground-Visual    [ ] Ground-Radar
+   [X] Air-Visual         [ ] Air-Intercept Radar
+
+5. PHOTOS
+   [ ] Yes
+   [X] No
+
+6. SOURCE
+   Military
+
+7. LENGTH OF OBSERVATION
+   UNK
+
+8. NUMBER OF OBJECTS
+   2
+
+9. COURSE
+   Unk
+
+10. BRIEF SUMMARY OF SIGHTING
+    2 ## contrails observed by MATS A/C
+
+11. COMMENTS
+    (Contrails)
+
+12. CONCLUSIONS
+    [ ] Was Balloon
+    [ ] Probably Balloon
+    [ ] Possibly Balloon
+    [ ] Was Aircraft
+    [ ] Probably Aircraft
+    [ ] Possibly Aircraft
+    [ ] Was Astronomical
+    [ ] Probably Astronomical
+    [ ] Possibly Astronomical
+    [X] Other __POSS WX PHEN___
+    [ ] Insufficient Data for Evaluation
+    [ ] Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

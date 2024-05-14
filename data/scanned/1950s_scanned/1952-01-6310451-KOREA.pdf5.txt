@@ -1,0 +1,21 @@
+The document does contain a photograph. The photograph is a black and white image that is captioned "Detail of 13942 sight." 
+
+Now, I will proceed with the OCR text extraction from the document:
+
+```
+This mag delayed due to servicing
+operational deadline
+
+The 19th bomber Cmd Voket Japan
+
+To 1 AC USAF Cmd, For Chief Air Tech Intel Center
+
+Info 5th AB Cmd For CG ATF
+
+Info GS USAF Wash DC, For Director of Intel
+
+Subj is report on info on unidentified flying objects: (1) observed 1 globe shaped object with a slight tear drop effect noted on lower side. Estimated size to be 3 feet across then at its nearest point to B-29. The size was not definitely established as the distance from the observer was not known. The color of the object resembled the sun, a light source, and it occasionally changed to a bluish tint. The outer edge of the object appeared to be fuzzy and it seemed to have an internal churning movement like flame or fiery gases when it was at its nearest point to the B-29. The object was first observed parallel on course at a 8 o'clock lever, where it seemed to be about the size of a saucer, gradually becoming larger as it approached the B-29. It came in on the same level as the B-29 and remained in the same relative position to the B-29 for approximately 1 min and then receded on the same path, fading away in the distance.
+(2) Sighted on Jan 29 13 21/2 for a period of approximately 1 min. (3) the left gunner and tail gunner observed the object without the use of any optical or electronic equipment. The B-29 was at 22257 feet and ground speed 125 knots. (4) the 2 observers were airborne on the B-29 in the crew positions of left gunner and tail gunner. Object was observed at 10 3/49 and level with the B-29. (5) the observers are veterans of world war 2 combat and have flown several combat missions over Korea and are thoroughly familiar with flak, tracers and rockets. The observers stated very emphatically that the object observed bore no resemblance whatsoever to anything they had previously seen. This sighting is almost the same as sighting reported in Nov 1951. This report came from a different squadron and interrogation was conducted at different times.
+
+UNCLASSIFIED
+```

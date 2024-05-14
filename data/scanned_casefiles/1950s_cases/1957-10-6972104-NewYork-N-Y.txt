@@ -1,0 +1,191 @@
+There is no photograph present in the provided document page.
+
+**Extracted Text:**
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                           
+13 October 1957                     
+3. DATE-TIME GROUP                  
+Local                               
+GMT 13/2100Z
+
+5. PHOTOS
+□ Yes 
+□ No
+
+2. LOCATION
+New York, N.Y.
+
+4.TYPE OF OBSERVATION
+□ Ground-Visual
+□ Ground-Radar
+□ Air-Visual
+□ Air-Intercept Radar
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+30 seconds
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+East
+
+10. BRIEF SUMMARY OF SIGHTING
+Irregular shaped object, size of grapefruit, bright steel bluish color, vey high altitude on straight course west to east.
+
+11.COMMENTS
+Object sighted in area where there is heavy air traffic. Probably a/c.
+
+
+12.CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```
+
+- page 1 -
+
+There is no photograph present in this document.
+
+Text from the document:
+
+```
+NNNN                                                    13/2/007    Called 00. 07:08 am
+                                                        35                     
+A Witness
+RF051                                         ____
+WPB068 YDD053 TYA074 TMB787NYA013             15Oct57 0909              Oct 15  06 47 '57
+00 RJEDEN RJEDWP RJEPNB RJEPHQ
+
+ZDK
+NYA944
+
+00 RJEDEN RJEDWP RJEPNB RJEPHQ
+DE RJEPNY 53
+
+O 142915Z
+
+FM COC 26TH ADIV DEF ROSLYN AFS NY
+
+TO RJEDEN/COMDR ADC ENT ADB COLO
+
+RJEDWP/COMDR ATIC WRIGHT PATTERSON AFB OHIO
+
+RJEPHQ/COMDR DIR INTEL HQ USAF WASX 25 DC
+
+RJEPNB/COMDR DET 3 100674 AISS STEWART AFB NY
+
+INFO-RJEPNB/COMDR EADF STEWART AFB NY
+
+BT
+
+/UNCLASS/UFOB. ATTN: CIC
+
+1. DESCRIPTION:
+   A. IRREGULAR 
+               shape
+               
+   B. GRAPEFRUIT
+
+      C. BRIGHT STEEL OXORCD, BLUSH SILVER
+
+   D. ONE
+
+   E. N/A
+
+   F. VERY HIGH
+   
+   G. NONE
+
+   H. NONE
+
+      I. NONE
+
+2. DESCRIPTION OF COURSE
+
+    A. BRIGHTNESS OF OBJECT
+
+    B. STRAIGHT OVERHEAD - 090
+
+   C. 20 DEGREE 295
+    
+```
+
+- page 2 -
+
+There is no photograph present on this page.
+
+OCR Text Output:
+
+```plaintext
+D. STRAIGHT|COURSE WEST TO EAST
+E. OVER HARIYEN                                                                      
+F. HALF A MIN               
+
+3. MANNER OF OBSERVATION:
+
+A. GROUND VISUAL
+B. NONE 
+C. NONE       
+
+4. TIME AND DATE OF SIGHTING 
+A. 2108 Z 13 OCT 57 DAY        2100-5-1600 Local
+5. 7330 W 4110 N
+6. IDENTIFYING INFO OF ALL OBSERVERS
+A. [REDACTED] (56) [REDACTED] NEW YORK 14 CHEISEA
+[REDACTED]LANDLORD               
+B. N/A   
+
+7 WEATHER
+A. CLEAR  
+B. SURFACE WNW DEG-11-KT
+6,000 (342) DEG 16 KT
+10,00(332) DEG 17 KT
+16,000 (322) DEG 22 KT
+20,000 (320) DEG 24 KT
+30,000 320 DEG 22 KT 
+50,000 280 DEG 23 KT 
+
+C. NONE
+D. 15 M
+E. CLEAR
+F. NOEN
+8. NONE
+9. NONE
+10. 2100Z SKYWRITING REPORTED BY LGA
+11. INTHEL OPS 3PHC. POSSIBLE JET A/C. 
+12. NONE
+BT
+```
+
+- page 3 -
+
+There is no photograph present in this image.
+
+OCR text output:
+
+14/2316Z OCT. RJEPNY
+owing to the amount of
+air traffic in this area, it
+probably one of numerous
+A/C flying over the N.Y. area.
+
+- page 4 -
+

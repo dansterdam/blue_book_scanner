@@ -1,0 +1,61 @@
+There is no photograph present in the document.
+
+Here is the extracted text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE 
+  2 Sep 55
+
+2. LOCATION
+  Spencer, Wisc
+
+3. DATE-TIME GROUP
+  Local 
+  GMT 03/0040/z
+
+4. TYPE OF OBSERVATION
+  x Ground-Visual
+  Ground-Radar
+  Air-Visual
+  Air-Intercept Radar
+
+5. PHOTOS
+  Yes
+  x No
+
+6. SOURCE
+  civilian
+
+7. LENGTH OF OBSERVATION
+  1 hr 50 min
+
+8. NUMBER OF OBJECTS 
+  1
+
+9. COURSE 
+  unk
+
+10. BRIEF SUMMARY OF SIGHTING
+  Round, white, turned bright orange as it disappeared. Appeared to be suspended from balloon. Winds SSW at 25 knots at 5,000 ft.
+
+11. COMMENTS
+  Winds would blow balloon out of sight at low alt reported. Positional data not included. Duration suggestive of astro body. Star Spica sets at reported time of disappearance, however, it is unlikely that this body would be visible and bright enough to be reported at 1800 local with the sun just on the horizon. Insufficient data for evaluation. Positional data missing.
+
+12. CONCLUSIONS
+  Was Balloon
+  Probably Balloon
+  Possibly Balloon
+  Was Aircraft
+  Probably Aircraft
+  Possibly Aircraft
+  Was Astronomical
+  Probably Astronomical
+  Possibly Astronomical
+  Other 
+  Insufficient Data for Evaluation
+  Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

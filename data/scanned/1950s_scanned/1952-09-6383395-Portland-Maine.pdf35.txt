@@ -1,0 +1,48 @@
+There is no photograph present on the page.
+
+Here is the text from the document:
+
+```
+ADIABATIC CHART
+WBAN-31A
+
+5 Km             4 Km
+0°(C.)              10°
+
+DATA BLOCK A
+       PRESSURE                   TEMPER-                    RELATIVE           DEW
+Code Check    Level M.SL  mb         ATURE                   HUMIDITY       POINT      
+                                                               Ascent      Descent                  Including               °c
+                                                               °C             Observer’s            Correction
+                                                                             Check                       off 
+                                                                                                             g               °c          REMARKS
+                               SIGNIFICANT LEVELS
+                               1
+                               2
+                               3
+                               4
+                               5
+                               6
+                               7
+                               8
+                               9
+                              10
+                              11
+                              12
+                              13
+                              14
+                              15
+                              16
+                              17
+                              18
+                              19
+                              20
+                             CODED MESSAGE FOR TRANSMISSION
+                              400
+                              450
+                              500
+                              550
+                              600
+                              650
+                              700
+```

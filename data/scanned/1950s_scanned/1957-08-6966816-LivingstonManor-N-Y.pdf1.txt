@@ -1,0 +1,60 @@
+There is no photograph present on this page.
+
+Outputting all the text found in the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE 
+7 August 1957 
+
+2. LOCATION 
+Livingston Manor, N.Y.
+
+3. DATE-TIME GROUP 
+Local 
+GMT 07/1943, 1955, 2200Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+Ground-Radar
+Air-Visual
+Air-Intercept Radar
+
+5. PHOTOS
+Yes
+No
+
+6. SOURCE
+Three Civilians
+
+7. LENGTH OF OBSERVATION
+1 hr., still in sight
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+
+10. BRIEF SUMMARY OF SIGHTING
+One object round, size of basketball, color transparent.
+
+11. COMMENTS
+Reporting officer & one observer believed object to be WX balloon.
+
+12. CONCLUSIONS
+was balloon
+probably balloon
+possibly balloon
+was aircraft
+probably aircraft
+possibly aircraft
+was astronomical
+probably astronomical
+possibly astronomical
+other
+insufficient data for evaluation
+unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

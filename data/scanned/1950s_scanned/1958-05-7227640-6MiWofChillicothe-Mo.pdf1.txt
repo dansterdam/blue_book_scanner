@@ -1,0 +1,92 @@
+The document does not contain a photograph.
+
+Below is the output of all the text found in the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+12. CONCLUSIONS
+1. DATE
+
+11 May 58
+
+2. LOCATION
+
+6 Mi W of Chillicothe, Mo.
+
+3. DATE-TIME GROUP
+
+Local
+GMT
+
+11/1535Z
+
+4. TYPE OF OBSERVATION
+
+D Ground-Visual
+Air-Visual
+
+5. PHOTOS
+Flight
+
+D Ground-Radar
+D Air-Intercept Radar
+
+6. SOURCE
+
+Military
+
+D Yes
+No
+
+7. LENGTH OF OBSERVATION
+
+1 min
+
+8. NUMBER OF OBJECTS
+
+one
+
+9. COURSE
+
+stationary
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Oblong obj. brownish color, looked like collapsed balloon w/particles hanging from mainbody. Pilot passed obj in view for 1 min.
+
+D XWas Balloon
+D Probably Balloon
+Possibly Balloon
+D Was Aircraft
+Probably Aircraft
+D Possibly Aircraft
+D Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+D Other
+Insufficient Data for Evaluation
+Unknown
+
+11. COMMENTS
+
+Was balloon w/radiosonde equipment.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
+RA 8 28
+
+M SQE195 YM8729KFA47KFG447GKO04
+
+PP RJEDDN RJEDSO RJEPHQ
+
+DE RJEDKF IGK
+P 111745Z
+
+FM COMDR 788TH ACWON WAVERLY AFSTA IOWA
+            
+TO RJEDDN/COMDR ADC
+
+RJEDKF/ COMDR 2° AIR DIV
+
+RJEDSQ/COMDR AIR TECH INTELL CENTER WPAFB

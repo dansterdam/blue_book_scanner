@@ -1,0 +1,61 @@
+There is no photograph present in the provided document page.
+
+**Extracted Text:**
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                           
+13 October 1957                     
+3. DATE-TIME GROUP                  
+Local                               
+GMT 13/2100Z
+
+5. PHOTOS
+□ Yes 
+□ No
+
+2. LOCATION
+New York, N.Y.
+
+4.TYPE OF OBSERVATION
+□ Ground-Visual
+□ Ground-Radar
+□ Air-Visual
+□ Air-Intercept Radar
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+30 seconds
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+East
+
+10. BRIEF SUMMARY OF SIGHTING
+Irregular shaped object, size of grapefruit, bright steel bluish color, vey high altitude on straight course west to east.
+
+11.COMMENTS
+Object sighted in area where there is heavy air traffic. Probably a/c.
+
+
+12.CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

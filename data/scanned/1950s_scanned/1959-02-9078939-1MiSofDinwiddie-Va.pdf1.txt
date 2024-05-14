@@ -1,0 +1,64 @@
+There is no photograph present on this page of the document.
+
+**OCR Output:**
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+6 Feb 1959
+
+3. DATE-TIME GROUP
+Local
+06/2045Z 
+
+5. PHOTOS
+■ Yes □ No
+
+7. LENGTH OF OBSERVATION
+1 1/2 min
+
+2. LOCATION
+1 1/2 Mi S of Dinwiddie, Va.
+
+4. TYPE OF OBSERVATION
+■ Ground-Visual □ Ground-Radar 
+□ Air-Visual □ Air-Intercept Radar 
+
+6. SOURCE
+Civilian
+
+8. NUMBER OF OBJECTS
+two
+
+9. COURSE
+hovering
+
+10. BRIEF SUMMARY OF SIGHTING
+First observed high flying aircraft, then
+noticed two very bright objects which looked
+like silver mirrors and seemed to be hover-
+ing and far away, yet closer than jet con-
+trails.
+
+11. COMMENTS
+It is possible the observer saw a
+reflection. However, insufficient
+information to form a valid conclusion.
+
+12. CONCLUSIONS
+□ Was Balloon 
+□ Probably Balloon 
+□ Possibly Balloon
+□ Was Aircraft 
+□ Probably Aircraft 
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical 
+□ Possibly Astronomical
+□ Other
+■ Insufficient Data for Evaluation 
+□ Unknown
+
+ATIC FORM 329 (REV 20 SEP 52)
+```

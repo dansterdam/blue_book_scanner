@@ -1,0 +1,44 @@
+There are no photographs present on this page.
+
+Here is the OCR of the text from the document:
+
+```
+PROJECT 10073 WEATHER DATA SHEET
+
+1. DATE OF OBSERVATION  2. TIME OF OBSERVATION  3. STATION OBSERVING
+
+Aug 4 52                    2115d EST         Langley AFB
+
+4. WINDS ALOFT  
+   ALTITUDE   VELOCITY  DIRECTION  ALTITUDE  VELOCITY  DIRECTION
+   (feet)       (knots)  (degrees)  (feet)      (knots)  (degrees)
+   
+        0                  5                           25,000
+    1,000                                            30,000
+    2,000                                            35,000
+    3,000                                            40,000
+    4,000                                            45,000
+    5,000                                            50,000
+    6,000                                            55,000
+    7,000                                            60,000
+    8,000                                            65,000
+    9,000                                            70,000
+   10,000                                            75,000
+   12,000                                            80,000
+   14,000                                            85,000
+   16,000                                            90,000
+   18,000                                            95,000
+   20,000                                          100,000
+
+5. WAS AN INVERSION LAYER NOTED? YES  If yes, at what altitude? 5,600'
+
+6. WERE ANY THUNDERSTORMS NOTED IN AREA? No  If yes, at what quadrant? 
+
+7. CLOUD COVER:
+   3 tenths at 15,000 feet         tenths at        feet.
+     tenths at        feet.         tenths at        feet.
+
+9. COMMENTS:
+
+AF1C Test Form 333 (13 Aug 52)
+```

@@ -1,0 +1,66 @@
+There are no photographs present on this page of the document.
+
+```plaintext
+IV. BALLOON DATA
+
+21. WERE BALLOONS RELEASED IN AREA? [X]Yes [] No
+
+22. TIME SINCE SCHEDULED BALLOON RELEASE: _____ Minutes
+
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+
+   Location           Type                    Launching Agency    Lighted?    Describe
+                                                                       Yes  No     Lighting
+   a. Lake Charles, La.  radiosonde/rawinsonde      USAF tactical unit X
+
+   b. 
+
+   c. 
+
+   d. 
+
+(Attach overlay)
+
+V. EVALUATION
+
+21. EVALUATION OF SOURCE:
+   [] Excellent
+   [X] Good
+   [] Fair
+   [X] Poor
+   [] Unreliable
+   [] Extremely Doubtful
+   [] Hoax
+
+22. DETAILS OF REPORT:
+   [] Good
+   [] Fair
+   [X] Poor
+   [] Insufficient to Evaluate
+
+23. FINAL EVALUATION:
+   [] Was Balloon
+   [] Probably Balloon
+   [] Possibly Balloon
+   
+   [] Was Aircraft
+   [] Probably Aircraft
+   [] Possibly Aircraft
+   
+   [] Was Astronomical
+   [] Probably Astronomical 
+   [] Possibly Astronomical 
+   
+   [] Other: _________________
+   
+   [] Insufficient Data For Evaluation
+   
+   [X] Unknown
+
+24. COMMENTS:
+   Poor report to read - could be condensed
+   Maximums negate possibility of a balloon.
+   Unknown.
+
+ATIC Test Form 334, (13 Aug 52)
+```

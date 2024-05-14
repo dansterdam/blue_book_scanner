@@ -1,0 +1,17 @@
+The image is a photograph of an envelope addressed to the "Aeronautical Technical Intelligence Center" of the U.S. Air Force at Wright-Patterson Air Force Base in Ohio, USA. The envelope has a postmark from "Escondido, Calif."
+
+OCR text output:
+
+```
+Escondido, Calif.
+	
+		Sept
+			29AM
+				1951
+CALIF.
+
+Aeropare Technical Intelligence Center 
+U.S. Air Force 
+Wright-Patterson Air Force Base 
+Ohio, U.S.A.
+```

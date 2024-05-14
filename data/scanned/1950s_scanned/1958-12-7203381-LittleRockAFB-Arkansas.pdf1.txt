@@ -1,0 +1,38 @@
+There is no photograph present in the document.
+
+Here is the extracted text from the document:
+
+```
+	PROJECT 10073 RECORD CARD
+
+1.DATE					  2. LOCATION
+	  December 1953			Little Rock AFB, Arkansas
+3. DATE-TIME GROUP	 					 4. TYPE OF OBSERVATION
+	Local										   	R. Ground-Visual	  	Ground-Rador     
+	GMT. 06/0:517							 Air-Visual	  	Air-Intercept Radar
+5. PHOTOS 					  6. SOURCE		 
+	Yes							Military  
+	x No
+7. LENGTH OF OBSERVATION	8. NUMBER OF OBJECTS 	9. COURSE
+	2 seconds					one    					falling
+10. BRIEF SUMMARY OF SIGHTING
+	Round obj, diameter of lead pencil,                11.COMMENTS
+	yellow w/reddish fringes becoming                  The description, time duration
+	dull red glow just before disappear-               & flight path is characteristic
+	ance, Obj fell straight down.                      of a meteor.
+
+											12. CONCLUSIONS
+										      Was Balloon
+										      Probably Balloon
+										     Possibly Balloon
+										      Was Aircraft
+										      Probably Aircraft
+										     Possibly Aircraft
+										      Was Astronomical Meteor
+										x  Probably Astronomical
+										     Possibly Astronomical
+										      Other
+										      Insufficient Data for Evaluation
+										      Unknown
+ATIC FORM 329 (REV 26 SEP 52)
+```

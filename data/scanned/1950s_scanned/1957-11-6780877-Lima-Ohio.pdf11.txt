@@ -1,0 +1,42 @@
+There is no photograph present on the page.
+
+Here is the text extracted from the document:
+
+```
+Page 8
+
+39. Do you think you can estimate the speed of the object?
+    (Circle One)  Yes   No
+    IF you answered YES, then what speed would you estimate?
+   
+    Appeared Slow
+    ___________ m.p.h.
+
+40. Do you think you can estimate how far away from you the object was?
+    (Circle One)  Yes   No
+    IF you answered YES, then how far away would you say it was?
+    
+    VERY HIGH
+    _____________  feet.
+
+41. Please give the following information about yourself:
+    NAME __________________          First Name _____________               Middle Name _____________
+            Last Name          
+
+    ADDRESS _______________         ______  __________       _______        _____________
+                   Street                 City                 Zone                    State
+
+    TELEPHONE NUMBER ____________________________
+
+    What is your present job? Reporter
+    Age ____________     Sex ____________
+
+    Please indicate any special educational training that you have had.
+       a. Grade school _____________          e. Technical school _________________
+       b. High school _____________          (Type) ____________________________
+       c. College _____________               f. Other special training _________________
+       d. Post graduate _____________
+
+42. Date you completed this questionnaire: __________ ______ ____ ____
+         Day              Month      Year
+```

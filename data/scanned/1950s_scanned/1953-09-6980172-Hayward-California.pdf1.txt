@@ -1,0 +1,47 @@
+It looks like there are no photographs present on this page.
+
+Here is the OCR output of the text found in the document:
+
+```
+1. DATE - TIME GROUP
+22 September 53
+
+2. LOCATION
+Hayward, California
+
+3. SOURCE
+Civilian
+
+4. NUMBER OF OBJECTS
+
+5. LENGTH OF OBSERVATION
+
+6. TYPE OF OBSERVATION
+Ground-visual
+
+7. COURSE
+
+8. PHOTOS
+□ Yes
+XX No
+
+9. PHYSICAL EVIDENCE
+□ Yes
+XX No
+
+10. CONCLUSION
+UNIDENTIFIED
+
+11. BRIEF SUMMARY AND ANALYSIS
+Triangular object, first observed trailing fog or clouds, changing course against high wind
+```
+
+And the formatted text below the table:
+```
+Physical Evidence
+
+|22 Sep       | Hayward, Cal.    |
+
+ FORM
+FTD SEP 53 0-329 (TDE)
+```

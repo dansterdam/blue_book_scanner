@@ -1,0 +1,23 @@
+There is no photograph present on this page of the document.
+
+Here is the OCR output of the text found in the document:
+
+```
+UPPER AIR DATA
+26 Oct 0300Z
+
+(5000 ft)     Temp.             Wind Direction
+Stewart, N.Y.  850 MB       +7°C               340/41     
+Portland, Me.  850 MB       +6°C               320/20     
+Otis, Mass.     850 MB       +6°C                310/37
+
+(10000)     Temp.                Wind Direction
+Stewart, N.Y.  700 MB      +2°C                 310/40
+Portland, Me.  700 MB      +1°C                 320/35
+Otis, Mass.     700 MB      apprx. 3°C       300/44
+
+(15000 ft)     Temp.                Wind Direction
+Stewart, N.Y.  500 MB       -13°C                300/37
+Portland, Me.  500 MB       -14°C                310/54
+Otis, Mass.     500 MB       apprx -14°C      300/55
+```

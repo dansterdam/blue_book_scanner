@@ -1,0 +1,59 @@
+There is no photograph present on this page.
+
+Outputting text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE 
+21 Jul 55
+
+2. LOCATION
+Syracuse, New York
+
+3. DATE-TIME GROUP
+Local 
+GM 22/0133Z
+
+4. TYPE OF OBSERVATION 
+Ground-Visual      Ground-Radar 
+Air-Visual        Air-Intercept Radar
+
+5. PHOTOS
+Yes
+X No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+35 - 40 seconds
+
+8. NUMBER OF OBJECTS
+two
+
+9. COURSE
+W to E
+
+10. BRIEF SUMMARY OF SIGHTING
+Two objs., round, red and green appeared to change colors and were purportedly larger than navigational lights.
+
+11. COMMENTS
+The flashing red and green lights suggested the possibility of a/c. The local GOC plotted two a/c in area of sighting at time of sighting. Evaluation A/c.
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+X Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation 
+Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

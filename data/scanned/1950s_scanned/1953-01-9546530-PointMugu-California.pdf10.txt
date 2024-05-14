@@ -1,0 +1,67 @@
+There is no photograph present on this page.
+   
+Here is the text from the document:
+
+```
+PILOTS GUIDE FOR COMMUNICATING WITH AIRWAY STATIONS
+PILOTS - never hesitate to use your radio. Remember that talking by radio is almost the same as talking on your home telephone.
+
+The following are typical examples of the way communication with airway stations.
+
+IDENTIFICATION OF AIRWAY STATIONS: CAA Airways Communications Stations are identified by the name of the station followed by the word "RADIO".
+Example: "CLEVELAND RADIO".
+
+IDENTIFICATION OF AIRCRAFT: Your aircraft is identified by the make of aircraft followed by the certificate number and letter suffix, if any.
+Example: "STINSON ONE THREE SIX FIVE".
+"STINSON ONE THREE SIX FIVE - Y".
+Identification of aircraft.
+
+Example of pilot calling an airway station:
+"CLEVELAND RADIO, THIS IS - STINSON ONE THREE SIX FIVE - OVER".
+After communication has been established, an abbreviated form of identification may be used, if desired - using the last three units of the certificate number only.
+
+The airway station will normally answer on the radio range or radiotelephone frequency. If reply is desired on other than the radio range or radiotelephone frequency, pilots should indicate the frequency on which the station reply is expected.
+Example: "CLEVELAND RADIO - THIS IS - STINSON ONE THREE SIX FIVE - REPLY ON ONE ELEVEN POINT ONE MEGACYCLES.- OVER".
+
+After the airway station has answered your call, proceed with your message without further call up other than preceding the message with the aircraft identification. Your message may consist of your position report, a request for weather data or other information that may be required to assist you to your destination.
+Example: "STINSON ONE THREE SIX FIVE - OVER CLEVELAND AT ELEVEN TWENTY - FOUR THOUSAND. FEET ON VFR FLIGHT PLAN FROM YOUNGSTOWN TO TOLEDO - WHAT IS THE WEATHER AT TOLEDO - OVER".
+If you are flying VFR, a position report is not required, however, it is to your advantage that the stations along your route of flight know your position at all times in order that assistance can be rendered should you encounter difficulty. Position reports will assist all stations in maintaining a constant check on your progress.
+
+Flight plans may be filed while in flight with a CAA Airway Communications Station, if your departure was from an airport not served by such a station.
+
+The word "ROGER" is used to acknowledge receipt of a message.
+
+The word "OUT” is used when a conversation is ended and no response is expected.
+Example: "STINSON ONE THREE SIX FIVE - ROGER, OUT".
+
+The words "SAY AGAIN" are used if a message was not understood and a repetition is desired.
+
+The words "STAND BY" are used to indicate that a return call will be made as soon as practicable.
+Examples: "STINSON ONE THREE SIX FIVE - SAY AGAIN, OVER".
+"STINSON ONE THREE SIX FIVE - STAND BY".
+
+ENROUTE FLIGHT SERVICE
+
+All airways communications stations are ready to provide pilots with enroute flight information or assistance at any time. You may call any CAA RADIO for latest weather your route of flight, upper wind velocities, airport conditions, and other flight information. If you become lost or uncertain of your position, call any CAA radio. Personnel at CAA airway communications stations are trained to assist pilots in establishing position by any of the following methods: (a) Visual reference to terrain features; (b) Low frequency radio range orientation; (c) VHF omni-range indications (triangulations).
+
+RADOTELEGRAPH CODE AND PHONETIC ALPHABETS
+
+U.S.           INT'L.            U.S.        INT'L.
+U.S.         	(INT'L.)           .S.
+A--ABLE  	ALFA		 N--NAN       	NECTAR 
+B--BAKER  	BRAVO	 O--OBE	OSCAR
+C--CHARLIE	COCA 	P--PETER	PAPA
+D--DOG	DELTA	 Q--QUEEN QUEBEC
+E--EASY 	ECHO	 R--ROGER ROMEO
+F--FOX	FOXTROT	S--SUGAR	SIERRA
+G--GEORGE	GOLF	 T--TARE	TANGO
+H--HOW	HOTEL	 U--UNCLE	UNION
+I--ITEM	INDIA	 V--VICTOR	VICTOR
+J--JIG	JULIETT	W--WILLIAM	WHISKEY
+K--KING	KILO	 X--X-RAY	X-RAY
+L--LIMA	LIMA    	Y--YOKE	YANKEE
+M--MIKE	METRO  Z--ZEBRA  ZULU
+
+The U.S. phonetic alphabet (Able, Baker, Charlie, etc.) has been supplanted by the international (ICAO) phonetic alphabet at all CAA communication stations as of April 1, 1952. However, the U.S phonetic alphabet will continue to used upon request at the stations.
+CAA facilities will continue to use normal English pronunciation instead of the international pronunciation of the numbers.
+```

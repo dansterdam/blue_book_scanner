@@ -1,0 +1,62 @@
+The document page contains no photograph. 
+
+Here is the OCR-transcribed text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+  
+1. DATE
+27 Feb 59
+  
+2. LOCATION
+29 MI W of Oceanside, Calif.
+
+3. DATE-TIME GROUP
+Local
+27/1857
+
+  
+4. TYPE OF OBSERVATION
+[ ] Ground-Visual    [ ] Ground-Radar
+[X] Air-Visual          [ ] Air-Intercept Radar
+
+5. PHOTOS
+[X] Yes   [ ] No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+10 mins
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+Stationary
+
+  
+10. BRIEF SUMMARY OF SIGHTING 
+Heart-shaped, white-buff obj, size of dime. First seen on radar, then visually. Obj at such high alt without apparent forward speed was undoubtedly a weather balloon.
+estimated to be over 60,000 feet altitude.
+
+11. COMMENTS
+Zero
+  
+12. CONCLUSIONS
+[ ] Was Balloon
+[ X ] Probably Balloon
+[  ] Possibly Balloon
+[  ] Was Aircraft
+[ ] Probably Aircraft [ ] Possibly Aircraft
+[  ] Was Astronomical
+[  ] Probably Astronomical
+[  ] Possibly Astronomical
+[  ] Other
+[ ] Insufficient Data for Evaluation
+[  ] Unknown
+ 
+ATIC FORM 329 (REV 26 SEP 52)
+```
+
+Note: The 'X' marks within checkboxes (`[X]` or `[ x ]`) indicate selected options.

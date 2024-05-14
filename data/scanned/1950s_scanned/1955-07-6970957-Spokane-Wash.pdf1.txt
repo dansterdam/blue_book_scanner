@@ -1,0 +1,65 @@
+There is no photograph present on this page.
+
+---
+The OCR output of the text from the document is as follows:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+30 Jul 55
+
+2. LOCATION
+Spokane, Wash
+
+3. DATE-TIME GROUP
+Local
+GMT 31/0330Z
+
+4. TYPE OF OBSERVATION
+[ ] Air-Visual
+[X] Ground-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+civilian
+
+7. LENGTH OF OBSERVATION
+fifteen minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+drifting
+
+10. BRIEF SUMMARY OF SIGHTING
+One round, shiny obj, size of baseball held at arms length, appeared to drift slowly.
+
+11. COMMENTS
+Concur with reporting officer. WX balloon was released from Spokane 31/0315Z.
+
+12. CONCLUSIONS
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

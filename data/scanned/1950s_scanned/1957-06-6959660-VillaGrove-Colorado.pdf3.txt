@@ -1,0 +1,70 @@
+This page contains a Skew-T log-P diagram, which is a graphical representation of temperature and pressure in the atmosphere used for weather analysis and forecasting. There is no photograph present on this page.
+
+OCR Output:
+```
+od: I M-UFOB-1-57
+
+ Form: AWS WPC 9-16
+
+USAF SKEW T, log p DIAG
+TEMPERATURE IN DEGREES FAHRENHEIT AND CELSI
+
+CoN
+
+1000 1000
+
+995 1005
+990 1010
+985 1015
+980 1020
+150/100
+(g}i-}^}^}^}
+
+570
+
+75
+24 40
+20
+95 1015
+100
+
+970 1030
+966
+965 1035
+960 1040
+960 1045
+1955 1050 1
+
+PRESSURE in millibars
+
+less than 1000 mb
+
+FEET
+25
+15
+50/25
+'29. 15GE
+70
+
+135
+130
+
+125
+55
+15
+200/150 43
+30
+
+»-u>.530
+45 350
+
+16
+
+60 2
+15. 50.
+
+Q
+150
+
+40 
+```

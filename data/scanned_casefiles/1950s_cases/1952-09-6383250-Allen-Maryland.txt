@@ -1,0 +1,472 @@
+There are no photographs present on this page of the document.
+
+Below is the OCR extraction of the text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE:
+12 Jan 52
+
+2. LOCATION:
+Allen, Maryland
+
+3. DATE-TIME GROUP:
+Local
+GMT 0230
+
+4. TYPE OF OBSERVATION:
+Ground-Visual
+Ground-Radar
+Air-Visual
+Air-Intercept Radar
+
+5. PHOTOS
+Yes
+No
+
+6. SOURCE:
+CDC observer
+
+7. LENGTH OF OBSERVATION:
+35 minutes
+
+8. NUMBER OF OBJECTS:
+1
+
+9. COURSE:
+
+10. BRIEF SUMMARY OF SIGHTING:
+Greenish-white, red rim. Round shape.
+
+11. COMMENTS:
+Does not coincide with regular releases in area.
+
+12. CONCLUSIONS:
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+
+ATIC FORM 329 (REV 29 SEP 53)
+```
+
+- page 1 -
+
+This document does not contain any photographs.
+
+```
+PROJECT 10073 WORKSHEET
+I. GENERAL
+1. DATE
+12 SEP 52
+2. LOCATION
+ALLEN MARYLAND
+3. Time Local  223011  
+Zebra   02(?
+4. WAS OBJECT OBSERVED FROM THE GROUND?
+[ ]Yes
+[X]Mixed Eye
+[X]Binoculars
+[ ]Telescope
+[ ]Theodolite
+[X]No
+
+5. WAS OBJECT OBSERVED BY GROUND RADAR?
+[ ]Yes
+[ ]By One Set
+[ ]By Two Sets
+[ ]By Three Sets
+[X]No
+
+6. WAS OBJECT OBSERVED FROM THE AIR?
+[ ]Yes
+[ ]A/C Observed Object
+[ ]Interception Attemped
+[X]No Intercept Attempted
+
+7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT?
+[ ]Yes
+[ ]A/C Scrambled
+[ ]Visual Contact Made
+[ ]A/C Contact Made
+[X]No Contact Made
+
+8. DID OBJECT CHANGE DIRECTION AT ANY TIME?
+[ ]Yes
+[X]Normal 
+[X]Violent
+
+9. IF OBJECT WAS A "LIGHT", WAS IT?
+[X]Blinking
+[ ]Steady
+
+10. LENGTH OF TIME IN SIGHT:
+[ ]1-15 Seconds
+[ ]1-5 Minutes
+[ ]Over 10 Minutes
+
+11. REPORTING AGENCY (Unit Number and Mailing Address)
+647 ACW
+MANASSAS, VA.
+
+II. ASTRONOMICAL DATA
+
+12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED?
+_____________________________________________________________________
+
+13. DID OBJECT APPEAR TO ARCH DOWNWARD?
+[ ]Yes
+[ ]No
+
+14. DID OBJECT HAVE A TAIL?
+[ ]Yes
+[ ]No
+
+15. DID OBJECT APPEAR TO DISINTEGRATE?
+[ ]Yes 
+[ ]No
+
+16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (Data From Air Almanac)
+[ ]Night
+[ ]Day
+[ ]Sunrise
+[ ]Sunset
+_____________________________________________________________________
+
+III. AIRCRAFT DATA
+
+17. WERE AIRCRAFT NOTED IN AREA?
+[ ]Yes 
+[ ]No
+
+_____________________________________________________________________
+[ ]One Aircraft
+_____________________________________________________________________
+[ ]More Than One Aircraft
+
+18. WAS THERE AN ESTIMATE OF GROUND SPEED?
+[ ]Yes
+[ ]No
+
+19. WAS THERE ANY TAILS OR TRAILS WHICH MIGHT INDICATE POWER?
+[ ]Yes
+[ ]No
+
+20. DISTANCE JUDGED BY TIME TO DISAPPEAR IN BACKGROUND NOTED BY
+[ ]YES
+[ ]NO
+
+21. LAGGED BEHIND OBSCURING A SMALL ANGLE AND 350° ELEVATION
+[ ]Yes
+[ ]No
+
+_____________________________________________________________________
+ATIC Test Form 334 (13 Aug 52) 
+```
+
+- page 2 -
+
+The provided image of the document page does not contain any photographs. 
+
+Here is the OCR text extraction:
+
+```
+IV. BALLOON DATA
+
+21. WERE BALLOONS RELEASED IN AREA?     Yes   No
+22. TIME SINCE SCHEDULED BALLOON RELEASE: Minutes
+
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+
+     Location         Type     Launching Agency     Lighted?     Describe
+                                                       Yes  No       Lighting
+a.
+b.
+c.
+d.
+                             (attach overlay)
+
+V. EVALUATION
+
+21. EVALUATION OF SOURCE:                                             22. DETAILS OF REPORT:
+        Excellent     Good                                                                          Good
+        Fair             Poor                                                                          Fair
+        Poor            Insufficient to Evaluate                                            Poor
+        Unreliable                                                                                   Insufficient to Evaluate
+        Extremely Doubtful
+        Hoax
+
+23. FINAL EVALUATION:
+         Was Balloon         Was Astronomical
+         Probably Balloon     Probably Astronomical
+         Possibly Balloon     Possibly Astronomical
+
+         Was Aircraft            Other:
+         Probably Aircraft     Insufficient Data for Evaluation
+         Possibly Aircraft     Unknown
+
+24. COMMENTS
+
+AIR Inst Form 344 (13 Aug 52)
+```
+
+- page 3 -
+
+There is no photograph present on this page.
+
+Here is the OCR text from the document:
+
+```
+PROJECT 10073 WEATHER DATA SI   
+1. DATE OF OBSERVATION
+   12 Sep 57
+
+2. TIME OF OBSERVATION
+   0Z-30Z
+
+3. STATION OBSERVING
+
+4. WINDS ALOFT
+    ALTITUDE              VELOCITY -                DIRECTION -                 ALTITUDE               VELOCITY               DIRECTION
+    (feet)                  (knots)                    (degrees)                   (feet)                    (knots)                  (degrees)
+
+    0                          25,000
+    1,000                                                                            30,000                   15                       620
+    2,000                                                                            35,000                   15                       360
+    3,000                                                                            40,000                   20                       340
+    4,000                                                                            45,000
+    5,000            20                        090                              50,000
+    6,000                                                                            55,000
+    7,000                                                                            60,000
+    8,000                                                                            65,000
+    9,000                                                                            70,000
+    10,000           20                        090                              75,000
+    12,000                                                                          80,000
+    14,000                                                                          85,000
+    16,000                                                                          90,000
+    18,000                                                                          95,000
+    20,000          -20                        030                            100,000
+
+5. WAS AN INVERSION LAYER NOTED?
+   □Yes   ☑No
+   (If yes, at what altitude?                 )
+
+6. WERE ANY THUNDERSTORMS NOTED IN AREA?
+   □Yes   ☑No
+   (If yes, at what quadrant?                )
+
+7. CLOUD COVER:
+    tenths at            feet .      tenths at          feet.      tenths at            feet.      tenths at           feet.
+
+8. VISIBILITY WAS
+   10 MILES.
+
+9. COMMENTS:
+
+AF1C Test Form 33 (13 Aug 52)
+```
+
+- page 4 -
+
+The document does not contain a photograph. Here is the OCR-transcribed text from the document:
+
+```
+Hq. 617th Acd Squadron
+                          14 Cep 52
+THRL
+
+TO: Chief Air Technical Intelligence Center 
+    Wright Patterson, A.F.B.
+    Dayton, Ohio
+    
+FOR THE COMMANDING OFFICER:  (C bar don
+                              L.L. GORDON
+                              Capt., USAF
+                              Adjutant
+```
+
+- page 5 -
+
+There are no photographs present on this page.
+
+Below is the OCR transcription of the text found in the document:
+
+```
+AF FORM 112 
+APPROVED 1 JUNE 1949
+REPORT NO. (LEAVE BLANK)
+
+COUNTRY 
+United States
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+Unconventional Flying Object (FLYING SAUCER)
+AREA REPORTED ON
+Baltimore, Maryland
+FROM (Name)
+67th AC&W Squadron
+DATE OF REPORT
+15 September 1952 
+DATE OF INFORMATION
+12 September 1952
+EVALUATION
+F-3
+PREPARED BY (Origin)
+Alexander G. Scales, 1st Lt, USAF and crew
+SOURCE
+N/A
+REFERENCES (Control number, Libraries, previous report, etc. as applicable)
+AF Form Letter 200-5 , dated 29 April 1949
+
+SUMMARY (Limit entire summary of report. Give significant data to fill one-sentence paragraph. List indicators in lower left. Begin text of report on AF Form 112—Part II)
+
+The report was received at 0252 , 12 September 1952, from the Baltimore Ground
+Observer Corps Filter Center statins that an unconventional flying object had been sighted at 0230L, 12 September 1952. Object was round with a stationary,
+clear and green light with white rings moving northeast at approximately
+2,000 feet. Object was observed through field glasses for a period of thirty
+five (35) minutes during which time the red ring around object grew fainter
+and object turned skyward. a check of the area of reported sighting was made
+by this station using all electronic equipment available and no targets were
+detected.
+
+STEND Encls.
+
+DISTRIBUTION BY ORIGINATOR
+
+1 cy: Director of Intelligence 
+2u cy: Director of Operations, UGS, USAF 
+1 cy: Chief, AC&W and Center
+1 cy: Chief, Air Technical Intelligence Center
+```
+
+- page 6 -
+
+No photographs are present on the page.
+
+OCR Text:
+
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+AIR INTELLIGENCE INFORMATION REPORT
+
+FROM (Init)
+617th AC&W Squadron
+REPORT NO.
+PAGE 2 OF 2 PAGES
+
+1. Object was round with streamers and was flashing greenish white light, with red rim moving in a northeasterly direction at approximately 2,000 feet.
+
+2. Object was sighted at 02002, 12 September 1952, and was under observation approximately thirty five (35) minutes.
+
+3. Observation was made visually through field glasses.
+
+4. observer was located at thirty eight (38) degrees fifteen (15) minutes north latitude and seventy five (75) degrees forty five (45) minutes west longitude.
+
+5. Observation was made by David Solb, civilian ground observer volunteer, and his wife whose address is Allen, Maryland. Telephone: Salisbury, Maryland 21078. Observer's occupation is reported as salesman in grocery store. Reliability and experience of observer unknown.
+
+6. Sky condition was clear with ten (10) miles visibility in the general area of the sighting, Winds aloft: 
+ 5,000       030    20 knots	    25,000    020    15 knots
+ 10,000	030    15 knots	    30,000    360    15 knots
+ 15,000	070    20 knots	    35,000    340    20 knots
+ 20,000	030    20 knots	    40,000    020    25 knots
+
+7. Possibly low level missions being conducted in area by 26th Air Division (Defense).
+
+8. None.
+
+ 9. No interception was attempted. Upon recipt of report at 0212Z, 12 September 1952, a check was made on all electronic equipment available and no targets were detected in area of reported sighting. Ground Observation Corps reports at 0318Z did not indicate that object was still in sight. Ground Observation Corps was requested to ascertain whether or not object was still in sight. At 0325Z Ground Observation Corps reported that observer had had object in view for thirty five (35) minutes from time of original sighting.
+
+10. No aircraft were being detected by electronic equipment at this station in area of observation at time of sighting, however, low level missions were being conducted in 26th Air Division (Defense) area at time of sighting.
+
+Alexander M. Adams III
+Alexander M. Adams III JR.
+1st LIB. USAF
+
+- page 7 -
+
+There are no photographs present on this page.
+
+Here is the OCR-transcribed text from the document:
+
+```
+ACTION
+
+RE394
+WPA125LYDC112
+YIAI31
+- TDB114
+JEPAW A365
+
+PP JEPHQ JEDWP JEDEN 333
+DE ROSLYN NY 263/JEQW 19D
+P 1223322
+FM CO 647 AC AND W SQ MANASSAS VA
+
+TO JEPHQ/DIR OF INTEL HQ USAF WASH DC
+
+JEDWP/AIR TECH INTEL DIR WRIGHT PATTERSON AFB OHIO
+JEDEN/CC ENT AFB COLO SPGS COLO
+
+CC 319 PD ATTN JEDWP/ATIAA-2C PD FLYOBRPT PD
+
+REF AF 200-5 PD
+1. ROUND CMA WITH STREAMERS CMA FLASHING GREENISH WHITE LIGHT CMA
+WITH RED RIM AND MOVING NORTHEAST AT APPROXIMATELY TWO (2) THOUSAND FT
+2. SIGHTED AT 0232 CMA 12 SEPT 32 PD UNDER OBSERVATION APPROX THIRTY
+FIVE (35) MIN PD
+
+3. VISUAL OBSERVATION FROM SURFACE NO ELECTRONIC EQUIP USED PD FIELD
+GLASSES USED PD
+4. THIRTY EIGHT DEGREES FIFTEEN MIN NORTH CMA SEVENTY FIVE DEGREES
+FORTY FIVE MIN WEST PD OBJECT SIGHTED AT QUEEN JIG ONE ONE EIGHT CMA
+-EI+"-! MILLS EAST OF OBSERVER PD
+5. OBSERVATION MADE BY DAVID KOLS AND WIFE CMA CIVILIAN GROUND
+OBSERVER VOLUNTEER PD ADDRESS CMA ALLEN CMA MARYLAND PD PHONE CMA
+```
+
+- page 8 -
+
+The document contains a photograph that illustrates a circular shape and some lines, which could indicate a location or a sighting in relation to this report.
+
+Here is the OCR output of the text found in the document:
+
+```
+PAGE TWO JROSLYN 223/JEPQW 19D
+
+SALISBURY CMA MD CHA TWO ONE ZERO SEVEN EIGHT PD OCCUPATION CMA
+SALESMAN CMA GROCERY STORE PD RELIABILITY AND EXPERIENCE OF OBSERVER
+UNKNOWN PD
+
+6. WEATHER CMA CLEAR CMA VISIBILITY TEN MILES CMA TEMPERATURE SIXTY
+SEVEN CMA DEW POINT FIFTY FOUR CMA ALTIMETER THREE ZERO TWO ONE PD
+
+WINDS ALOFT CMA
+5000 FT FROM 090 DEGREES AT TWENTY KNOTS
+10000 FT FROM 090 DEGREES AT TWENTY KNOTS
+15000 FT FROM 330 DEGREES AT TWENTY FIVE KNOTS
+20000 FT FROM 330 DEGREES AT TWENTY KNOTS
+25000 FT FROM 330 DEGREES AT FIFTEEN KNOTS
+30000 FT FROM 360 DEGREES AT FIFTEEN KNOTS
+35000 FT FROM 360 DEGREES AT TWENTY KNOTS
+40000 FT FROM 320 DEGREES AT TWENTY KNOTS
+7. POSSIBLY LOW LEVEL MISSIONS BEING CONDUCTED IN AREAOF 26 TH ADIV
+8. NONE PD
+9. NO INTERCEPTION ATTEMPTED PD
+10. NO AIRCRAFT WERE BEING DETECTED BY ELECTRONIC EQUIP AT THIS STATION
+11. AREA OF OBSERVATION AT TIME OF SIGHTING PD HOWEVER LOW LEVEL MISSIONS
+WERE BEING CONDUCTED IN 26TH ADIV AT TIME OF SIGHTING PD
+12/363 P SEP JEPQW
+```
+
+- page 9 -
+

@@ -1,0 +1,63 @@
+There is no photograph present in this document. 
+
+Here is the OCR transcription of the text:
+
+---
+
+NAUTICAL MILES
+
+The CAA is adopting, for all air-ground communication within the continental United States and Alaska, the nautical mile as the unit of horizontal distance, and the knot as the unit of horizontal speed. 
+
+The United States nautical mile is defined as equal to one-sixtieth of a degree (one minute) of a great circle on a sphere whose surface is equal to the surface of the earth. The value of a nautical mile is calculated on this basis as 1853.25 meters or 6080.20 feet. Since the common or statute mile is equal to 5280 feet, one nautical mile equals approximately 1.152 statute miles, and one statute mile equals approximately 0.868 nautical mile. For quick calculation the nautical mile may be considered approximately one-seventh longer than the statute mile, and the statute mile approximately one-eighth shorter than the nautical mile. 
+
+In the lower margins of the sectional charts is provided a convenient conversion scale by which values in statute miles may be readily converted to nautical miles and vice versa. Distances expressed in either unit may thus be scaled directly on the charts. 
+
+The length of one minute of latitude measured along a meridian on the surface of the earth at latitude 48°15' is equal to a United States nautical mile. North or south of 48°15' the length of a minute is slightly longer or shorter, since the earth is not a perfect sphere. However, for practical purposes, the nautical mile is considered equivalent to a minute of latitude at any point on the earth's surface. Therefor, the one-minute subdivisions of the meridian lines on the face of charts may also be used for scaling distances. 
+
+The knot is a unit of speed only. One knot is equal to one nautical mile per hour; as, when an aircraft is travelling 200 nautical miles per hour, its speed is 200 knots.
+
+CONVERSION TABLES
+
+STATUTE MILES TO NAUTICAL MILES      NAUTICAL MILES TO STATUTE MILES
+STATUTE     NAUTICAL                     NAUTICAL  STATUTE             NAUTICAL STATUTE
+MILES           MILES      FEET                MILES         STATUTE           FEET           MILES MILES 
+                                                                                            MILES
+0.1               0.087          528                100              '86.8      0.1           0.115  608.0   100    115.2
+0.2               0.174         1056               110              '95.5      0.2           '0.230  1216.0    110   126.7
+0.3               0.261         1584               120             104.2      0.3           '0.345  1824.1    120   138.8
+0.4               0.347         2112               130             112.9      0.4           '0.461  2432.1    130   149.7
+0.5               0.434         2640               140             121.6      0.5           '0.576  3040.1    140   161.2
+0.6               0.521         3168               150             130.3      0.6           '0.691  3648.1    150   172.7
+0.7               0.608         3696               160             138.9      0.7           '0.806  4256.1    160   184.2
+0.8               0.695         4224               170             147.6      0.8           '0.921  4864.2    170   195.8
+0.9               0.782         4752               180             156.3      0.9           '1.036  5472.2    180   207.3
+1.0               0.868         5280               190             165.0      1.0           '1.152  6080.2    190   218.8
+                                                                                            200   230.3
+2                 1.74           210              132.4          2.0           2.30            210   241.8
+3                 2.61            19              191.0          3              3.45            220   253.4
+4                 3.47           299              199.7          4              4.61            230   265.0
+5                 4.34           478              208.4          5              5.76            240   276.5
+6                 5.2            617              217.1          6              6.91            250   297.9
+7                 6.08           735              225.6          7              8.06            260   319.4
+8                 6.95           844              234.1          8              9.21            270   340.9
+9                 7.82           951              242.7          9           10.36            280   362.4
+10               8.68         1056              250.1         10           11.52            290   383.9
+11               9.55         1161              259.8         11           12.67            300   405.5
+12              10.42       1266              269.5         12           13.82            310   427.1
+13              11.29       1371              279.2         13           14.97            320   448.6
+14              12.16       1476              288.9         14           16.12            330   470.2
+15              13.03       1580              298.6         15           17.27            340   491.5
+16              13.89       1684              308.4         16           18.42            350   403.0
+17              14.76       1788              312.8         17           19.58            360   414.6
+18              15.63       1892              327.2         18           20.73            370   426.1
+19              16.50       1995              336.9         19           21.88            380   437.6
+20              17.37       2099              346.7         20           23.03            390   449.1
+                                                       400   460.5
+
+30              26.05       3000              434.2         30           34.55            500   575.8
+40              34.74       4000              521.0         40           46.06            500   739.9
+50              43.42       5000              607.9         50           57.58            600   864.1
+60              52.10       6000              694.7         60           69.09            600   921.2
+70              60.79       7000              781.5         70           80.61            700 1038.4 
+80              69.47       8000              868.4         90           92.12            900 1151.6
+90              78.15       9000                                     00 103.64       1000 1151.6

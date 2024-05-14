@@ -1,0 +1,43 @@
+There are no photographs present in the document.
+
+**OCR Output:**
+
+```
+        PROJECT 10073 RECORD CARD
+
+1. DATE                2. LOCATION                                    12. CONCLUSIONS
+                                                                   0  Was Balloon
+20 June 1956              Waterloo, Iowa                           0  Probably Balloon
+                                                                   C Possibly Balloon
+3. DATE-TIME GROUP    4. TYPE OF OBSERVATION                       0 Was Aircraft
+                                                                    0 Probably Aircraft
+GMT 21/0255Z          Local Ground-Visual                           X Possibly Aircraft
+                                                  Ground-Radar
+                                    O  Air-VisualO Air-Intercept Radar
+                                                                    O  Was Astronomical
+                                                                    O Probably Astronomical
+5. PHOTO              6. SOURCE                                      0 Possibly Astronomical.
+          Yes                             Civilian & GOC(AF)          O Insufficient Data for Evaluation
+    No
+
+
+7. LENGTH OF OBSERVATION_8. NUMBER OF OBJECTS 9. COURSE
+thirty minutes                 one                erratic in SE
+
+10. BRIEF SUMMARY OF SIGHTING
+One round object, size of dime held
+at arms length, white in color with
+ red dot in middle. Seen at elevation
+ of 30 deg in SE. Observed through
+6X binoculars.
+
+                                             11. COMMENTS
+       Possibly caused by the planet
+        Saturn which was located in the
+
+SE at an approximate elevation of
+30 degrees.
+
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

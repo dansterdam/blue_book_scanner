@@ -1,0 +1,47 @@
+The provided document page contains no photographs.
+
+Here is the text extracted from the document:
+
+```
+IV. BALLOON DATA 
+
+21. WERE BALLOONS RELEASED IN AREA?      0
+                                         Yes        No 0 
+22. TIME SINCE SCHEDULED BALLOON RELEASE:              82 Minutes or 440   
+
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING 
+
+    Location                              Type             Launching Agency          Sighted?           Describe
+                                                                                     Yes    No          Lighting
+a. Portland ME                       P               W. B.                v
+b.     "     "                       Red             "  "           v
+c.
+d.
+                                   (attach overlay)
+
+V. EVALUATION 
+
+21. EVALUATION OF SOURCE:                  22. DETAILS OF REPORT: 
+
+      Excellent                                     O Good 
+      Good                                          0 Fair
+      Fair                                          O Poor
+      Poor                                            0 Insufficient to Evaluate
+      Unreliable 
+      Extremely Doubtful 
+      Hoax
+
+23. FINAL EVALUATION: 
+     O Was Balloon                               O Was Astronomical 
+     O Probably Balloon                          O Probably Astronomical 
+     O Possibly Balloon                          O Possibly Astronomical 
+     O Was Aircraft 
+00 Probably Aircraft                             O Other:- ------- 
+     O Possibly Aircraft                         00 Insufficient Data For Evaluation 
+                                                 O Unknown
+24. COMMENTS:
+          Possibilities: SAC refueling operations 
+                                             Unfortunate!
+
+     -   Project Form 344 (13 Aug 52)
+ ```

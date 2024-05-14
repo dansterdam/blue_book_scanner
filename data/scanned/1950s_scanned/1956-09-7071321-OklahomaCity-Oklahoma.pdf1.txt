@@ -1,0 +1,55 @@
+There is no photograph present on the page.
+
+Here is the OCR output of the text found in the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION
+
+28 September 1956 Oklahoma City, Oklahoma
+
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+
+Local □ Ground-Visual  □ Ground-Radar
+
+GMT 29/00032 □ Air-Visual  □ Air-Intercept Radar
+
+5. PHOTOS 6. SOURCE
+
+□ Yes Civilian
+
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS 9. COURSE 
+
+50 mins plus one southwest
+
+10. BRIEF SUMMARY OF SIGHTING
+One round oval white or luminous
+yellow object, size unknown. Object
+was sighted in SW & left a tail to
+the SW. Object was noted in an
+ascending course to West.
+
+11. COMMENTS
+Rpting officer states that obj was definitely identified as a WX balloon. However, it is the opinion that this rpt does not contain sufficient evidence to warrant full concurrence with the rpting officer. Evaluation is therefore, probably balloon.
+
+12. CONCLUSIONS
+
+□ Was Balloon
+□ X Probably Balloon
+□ Possibly Balloon
+
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+
+□ Other 
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIG FORM 329 (REVISED SEP 52)
+```

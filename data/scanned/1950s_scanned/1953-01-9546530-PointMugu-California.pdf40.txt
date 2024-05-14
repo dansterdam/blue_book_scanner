@@ -1,0 +1,20 @@
+The page contains a photograph of a grid or chart. The grid has various numerical labels and coordinates. There are additional boxes with various other details on the right side of the grid. At the bottom of the chart, there are names, and dates, and other additional information.
+
+Below is the OCR output of the text found in this document:
+
+```
+KM-4
+
+FALUES FG 108
+
+DINOZETTA A. 108
+
+CORRECT FG 98
+0    2    4     6    0
+3 km 2 km   1 km
+3     2     1
+
+SURFACE
+
+DATE AND RELATIVE TIME
+```

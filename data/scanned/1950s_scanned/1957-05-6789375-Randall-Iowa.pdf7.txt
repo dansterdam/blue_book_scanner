@@ -1,0 +1,40 @@
+This page contains a photograph. The photograph is located in the bottom center section of the page. 
+
+Below is the OCR output of the text found on the document:
+
+---
+
+In these preliminary orbit calculations, it is assumed that the path around the sun is a parabola—always a good approximation for the whole long. The parabola can be specified exactly by five constants, which may be illustrated by Comet Kenna-Kwee 1963d: 
+
+1. This object was closest to the sun on October 28, 1963, at a distance of 2.5 astronomical units. Its orbit is in a plane inclined 9.◦ to that of the earth's orbit. The intersection line of these two planes points toward heliocentric longitude 324◦, 
+
+marking the ascending node, or passage of the comet northward across the eliptic. Finally, the angle in the comet's orbital plane is 113◦ from the ascending node to perihelion.
+
+Nowadays, it is common for a comet to remain under observation for several months before it becomes too faint to follow. (Comet Stearns 1927 IV was tracked for four years before it was lost.) It is then possible to compute a definitive orbit, which utilizes all the positional measurements. In this calculation the shape of the orbit is determined, instead of being assumed parabolic.
+
+Almost always, the orbit is highly elongated, with only a small arc covered by our observations. Halley's Comet, for instance, has a period of 76 years, but during its last return (perihelion was on April 19, 1910) it could be observed only from September, 1909, to July, 1911. The path of Halley's Comet is an ellipse of eccentricity 0.967, its distance from the sun ranges from 0.590 to 35.3 astronomical units. At present, this famous object is till outside Neptune's orbit, and will not be imaged on its next return to the sun’s vicinity in 1979.
+
+Encke's Comet is notable for its short period of 3.3 years. Its perihelion point
+
+The main tail of a comet points away from the sun. Radiation pressure of sunlight, as well as the solar wind, drives gas and dust outward from the head. Diagram from "Astronomie," by L. Kuduan and G. de Vaucouleurs.
+---
+is near the orbit of Mercury, while at aphelion it is nearly as distant as Jupiter from the sun. It just attains naked-eye visibility at favorable returns. Often Encke's Comet is said to have the shortest known period. However, the faint object 1949 III (Wilson-Harrington) has been assigned a period of 2.5 years. This poorly observed comet has never been seen since its discovery 15 years ago.
+
+Cometary orbital motions are greatly disturbed by the gravitational attractions of the planets, especially Jupiter. We may visualize a comet orbit as an ellipse that is constantly changing slightly in size, shape, and orientation; or the occasion of an near approach to Jupiter the perihelion can be large and rapid. Very lengthy calculations are needed to follow the course of some objects for more than a few years.
+
+Nowadays electronic computers have made the large-scale calculation of comet 
+perturbations a much less formidable task. It is now feaisble to trace the motion of a comet during many revolutions and through complex transformations. The results of one such study are reported on page 16 of this issue.
+
+An important question is whether the comets that we observe are actually original within the solar system, or whether some are interlopers from interstellar space. There are, indeed, a small fraction of comet whose orbits appear to be hyperbolic rather than closed curves, but in any particular instance it is conceivable that the observed hyperbolic shape could have been imparted by planetary perturbations.
+
+Hence it is necessary to compute backwards, step by step, the path along which the comet approached the sun, taking accurate account of planetary perturbations. At a distance of, say, 100 astronomical units, before planetary perturbations have had an opportinuty to act appreciably, the original shape of the orbit is found. Without any significant exceptions, it turns out that the original orbits are ellipses. Thus, all comets, or nearly all, are permanent members of our solar system.
+
+An earlier attempt to test this question failed for an interesting reason. Since the sun is slowly moving 12 miles a second toward Hercules, then more interstellar comets should tend to approach us from that direction than the opposite. More discoveries should take place in that half of the sky.
+
+The catch to this idea is the non-random nature of comet discoveries. There are many more astronomers in the Northern Hemisphere than the Southern; comets often favor warning nights to winter ones; and the evening sky is better patrolled than the morning. In fact, the distribution of discovery points over the sky is almost entirely determined by these accidental factors.
+
+The head of Halley's Comet, in a four-minute exposure with the Mount Wilson 60-inch reflector on May 5, 1910. In this large-scale view, the small, bright nucleus is surrounded by several diffuse asy.
+
+(To be continued) 
+
+January, 1954 Sky and Telescope 23

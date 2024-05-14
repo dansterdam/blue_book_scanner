@@ -1,0 +1,34 @@
+There is no photograph present on this page.
+
+OCR Text Output:
+
+```
+PROJECT 10073 RECORD CARD
+1. DATE                                2. LOCATION                                             12. CONCLUSIONS
+                                                                                                O  Was Balloon
+2 Apr 52                                Lake Meade, Nevada                                     O  Probably Balloon
+                                                                                                O  Possibly Balloon
+3. DATE-TIME GROUP                     4. TYPE OF OBSERVATION                                 O  Was Aircraft
+Local _______ 0900 MST                  xx Ground Visual       O Ground-Radar                 O  Probably Aircraft
+GMT _______ 1600                        O Air Visual           O Air-Intercept Radar          O  Possibly Aircraft
+
+5. PHOTOS                               6. SOURCE                                              O  Was Astronomical
+O Yes                                   AF M/Sgt.                                               O  Probably Astronomical
+xxx No                                                                                         O  Possibly Astronomical
+                                                                                                O  Other ____________
+                                                                                                xx  Insufficient Data for Evaluation
+                                                                                                O  Unknown
+7. LENGTH OF OBSERVATION               8. NUMBER OF OBJECTS    9. COURSE           
+                                                                                               
+1 hour                                  1                                  
+
+10. BRIEF SUMMARY OF SIGHTING                                                             
+Silver color. Hovered.
+
+11. COMMENTS
+Attention attracted by flight of a/c CAVU weather.
+
+                                                                                              
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

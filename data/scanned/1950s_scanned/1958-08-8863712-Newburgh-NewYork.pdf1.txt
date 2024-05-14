@@ -1,0 +1,59 @@
+There are no photographs present on the page. 
+
+The text on the document is as follows:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+14 August 1958
+
+2. LOCATION
+Newburgh, New York
+
+3. DATE-TIME GROUP
+Local ______________
+GMT __15/0100Z______
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual    [ ] Ground-Radar
+[ ] Air-Visual       [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+10 secs
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+E to W then N
+
+10. BRIEF SUMMARY OF SIGHTING
+Star shaped, blue-white obj, size of dime, traveled East to West w/a sharp right angle turn to North. Rose abruptly & disappeared. Observer states that he has reptd other phenomena previously.
+
+11. COMMENTS
+Probably an a/c indicated by rpting officer. Duration rather short however consist-tant w/WX listed as visibility 4 mi w/haze. .6 cloud cover and thunderstorms.
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[X] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

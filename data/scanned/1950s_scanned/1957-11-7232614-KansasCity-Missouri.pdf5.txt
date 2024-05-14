@@ -1,0 +1,51 @@
+The document does not contain any photographs. Below is the extracted text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+  20 November 1957
+3. DATE-TIME GROUP 
+  Local
+  GMT 20/0612Z
+4. TYPE OF OBSERVATION
+  Ground-Visual  
+  Air-Visual  
+  Ground-Radar  
+  Air-Intercept Radar
+5. PHOTOS  
+  Yes
+  No
+6. SOURCE 
+  Civilian
+7. LENGTH OF OBSERVATION 
+  10 minutes
+8. NUMBER OF OBJECTS 
+  one
+9. COURSE
+  stationary
+10. BRIEF SUMMARY OF SIGHTING 
+  Star-like object, size of pea, white illuminating red and green shadow. Seemed to have a tail.
+  
+11. COMMENTS 
+  Probably a star with atmospheric conditions producing unusual appearance.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
+2. LOCATION
+  Kansas City, Missouri
+
+12. CONCLUSIONS
+  Was Balloon
+  Probably Balloon
+  Possibly Balloon
+  Was Aircraft
+  Probably Aircraft
+  Possibly Aircraft
+  Was Astronomical (Venus)
+  Probably Astronomical
+  Possibly Astronomical
+  Other
+  Insufficient Data for Evaluation
+  Unknown
+```

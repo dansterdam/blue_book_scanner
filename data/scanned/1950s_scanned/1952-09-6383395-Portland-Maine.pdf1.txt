@@ -1,0 +1,49 @@
+No photograph is present on this page.
+
+**Text OCR:**
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE		2. LOCATION
+16 SEP 52		Portland, Maine
+
+3. DATE-TIME GROUP	4. TYPE OF OBSERVATION
+
+Local		1620 EST	 VISUAL
+GMT
+
+5. PHOTOS
+
+N Yes	 Ground-Radar
+
+6. SOURCE
+
+Navy pilot and crew
+7. LENGTH OF OBSERVATION	8. NUMBER OF OBJECTS	9. COURSE
+20	 minutes	2		S
+
+10. BRIEF SUMMARY OF SIGHTING
+
+11. COMMENTS
+
+12. CONCLUSIONS
+
+	(  ) Balloon
+	(  ) Probably Balloon
+	(  ) Possibly Balloon
+
+	(  ) Aircraft
+	(  ) Probably Aircraft
+	(  ) Possibly Aircraft
+
+	(  ) Astronomical
+	(  ) Possibly Astronomical
+	(  ) Possibly Astronomical
+
+	(  ) Other (Insufficient Data for Evaluation)
+	(  ) Unknown
+
+
+ATIC FORM 329 (REV 28 SEP 52)
+```

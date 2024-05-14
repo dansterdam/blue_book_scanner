@@ -1,0 +1,35 @@
+There is no photograph present on this page.
+
+Output of all the text found in the document:
+
+```plaintext
+b. NEG
+c. NEG
+IV A. 13 71952 AUG 0100-5=:2000
+B. NIGHT
+V A. 442817:743200
+1. NEWBURGH NY
+VI A. XI LABORER, 
+NEWBURGH, NY
+VII A. CLEAR NO CLOUDS
+b. 1. 233 3 KTS
+2. 240 5 KTS
+w
+3. 250 25 KT
+4. 260 25 KTS
+5. 277 4 KT* inconsistent
+
+PAGE THREE RFPNFB 5
+6. 253 63 KT
+w
+7. 263 35 KTS
+c. 8. 999 13 KTS
+c. 31,233 BROKEN
+D. 4 MILES WITH HAZE NOTE: HAZE
+F. F TEMP.
+F. YES Thunderstorms in area at time of sighting
+VIII A. NEG
+B. NEG
+C. NEG
+IV NONE
+```

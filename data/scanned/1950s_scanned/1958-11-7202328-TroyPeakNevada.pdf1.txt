@@ -1,0 +1,65 @@
+There are no photographs present on this page.
+
+OCR Text Output:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+12 November 19th
+
+2. LOCATION
+Troy Peak & 
+Tonopah Airport, Nevada
+
+3. DATE-TIME GROUP
+Local
+GMT 13/16292Z (lst)
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+Air-Visual
+Ground-Radar
+Air-Intercept Radar
+
+5. PHOTOS
+Yes
+No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+4 sightings in 1 day
+
+8. NUMBER OF OBJECTS
+
+9. COURSE
+10. BRIEF SUMMARY OF SIGHTING
+Four different sightings on radar in
+a day. All in same area at same alt.
+Fairly stationary. 20° temperature
+inversion at 60,000. WX balloon 
+observed visually. Winds fm West.
+
+11. COMMENTS
+Could be weather balloons
+because of flight characteristics
+as if drifting in winds aloft.
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```

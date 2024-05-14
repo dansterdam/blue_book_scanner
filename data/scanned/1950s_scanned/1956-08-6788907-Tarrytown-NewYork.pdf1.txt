@@ -1,0 +1,45 @@
+There is no photograph present on this page.
+
+The text from the document is as follows:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+8 August 1956
+2. LOCATION
+Tarrytown, New York
+3. DATE-TIME GROUP 
+Local                                 GMT 09/0415Z
+4. TYPE OF OBSERVATION
+[x] Ground-Visual  [ ] Ground-Radar 
+[ ] Air-Visual    [ ] Air-Intercept Radar
+5. PHOTOS 
+[ ] Yes  [x] No
+6. SOURCE
+Police Sgt
+7. LENGTH OF OBSERVATION
+Indefinite
+8. NUMBER OF OBJECTS
+one
+9. COURSE
+appeared SE
+10. BRIEF SUMMARY OF SIGHTING
+Large, yellow object that appeared 5 to 6 times larger than North Star. Observed at very high altitude. Remained in sight for an indefinite period. Appeared to move very slowly to SE.
+11. COMMENTS
+Mars in position reported.
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical     Mars
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[x] Other: Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 25 SEP 52)
+```

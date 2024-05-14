@@ -1,0 +1,61 @@
+There is no photograph present on this page of the document.
+
+Here is the OCR output of the text present in the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+24 May 1957
+
+2. LOCATION
+Kings Park, Long Island, NY
+
+3. DATE-TIME GROUP
+Local 1033
+GMT 24/1533Z
+
+5. PHOTOS
+  ☐ Yes
+  ☑ No
+
+4. TYPE OF OBSERVATION
+  ☑ Ground-Visual
+  ☐ Ground-Radar
+  ☐ Air-Visual
+  ☐ Air-Intercept Radar
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+1 1/2 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+South
+
+10. BRIEF SUMMARY OF SIGHTING
+Object about an inch long with diameter 1/7 the length, leaving no exhaust or vapor trail. Traveling slowly. Disappeared as if suddenly gaining altitude.
+
+11. COMMENTS
+Since info somewhat conflicting, placed in inconsistent info classification
+
+12. CONCLUSIONS
+  ☐ Was Balloon
+  ☐ Probably Balloon
+  ☐ Possibly Balloon
+  ☐ Was Aircraft
+  ☐ Probably Aircraft
+  ☐ Possibly Aircraft
+  ☐ Was Astronomical
+  ☐ Probably Astronomical
+  ☐ Possibly Astronomical
+  ☑ Other Inconsistent info
+  ☐ Insufficient Data for Evaluation
+  ☐ Unknown
+
+ATIC FORM 329 (REV 25 SEP 52)
+```

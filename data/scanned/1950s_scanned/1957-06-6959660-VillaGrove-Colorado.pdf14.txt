@@ -1,0 +1,31 @@
+The document does not contain any photographs. It contains graphs, charts, and explanatory text.
+
+Here is the OCR of the text present in the document:
+
+---
+EXPLANATION
+
+ISOBARS are straight, horizontal brown lines. The heights of the pressure surfaces which in the ICAO Standard Atmosphere, below the pressure values on the left, are in parenthesis] in feet values in feet and brackets] [ ] for meter values.
+
+ISOTHERMS (°C) are the straight, equidistant brown lines running diagonally upward from left to right.
+
+DRY ADIABATS are the slightly curved brown lines that intersect the 1000 mb. isobar at intervals of 2°C, and run diagonally upward from left to right, The Dry Adiabats for the overlap portion of the pressure range are labeled with two(2) values (See below.)
+
+SATURATION ADIABATS are the curved green lines that intersect the 1000 mb. isobar at intervals of 2°C, diverging upward and tending to become parallel to the dry adiabats.
+
+SATURATION MIXING RATIO (in gm. per kg.) is represented by dashed green lines. Their values appear between the 1050 and 1000 mb. levels.
+
+THICKNESS (in hundreds of geopotential feet and meters) of the layers 1000-1050, 1000-950, 1000-900, 500-300,300-200,200-150,150-100; 100-50, and 50-25 mb. is represented by numbers and a graduation along the right edge of the diagram. Thickness are obtained from the virtual temperature curves by the equal-area method, using any straight line as a dividing base.
+
+HEIGHT (in geopotential feet or meters above mean sea level, or station level for the 1000 mb. surface is obtained from the nomogram in the upper left-hand corner by drawing a straight line from the temperature scale (°C) or (° F) through the point (mean sea level station pressure) on the pressure scale, and reading height on the appropriate height scale.
+
+ICAO STANDARD ATMOSPHERE SOUNDING is indicated by a thick brown line. We tabulated adiabats and isopleths of saturation mixing ratio are computed by use of vapor pressure over a plane water surface at all temperatures.
+
+Extension of chart to 25 mb. has been accomplished by overlap with pressure indicated in brackets [100] at 400 mb. and [25] at 100 mb. Dry adiabats for the overlap are labeled in parentheses ( ).
+
+APPROXIMATE VIRTUAL TEMPERATURE may be obtained from the formula Tv = T + 6/ approximation.
+where Tv is virtual temperature in °C, T is free air temperature in °C, and w is mixing ratio in gm/kg. For purpose of thickness computations, use the average temperature of the layer T and use the mean mixing ratio of the layer for w.
+
+Black dots along the wind lines indicate the levels at which wind data is reported and plotted. The open circles () indicate the mandatory pressure levels. Wind data is also entered.
+
+All heights used in this diagram are in geopotential feet and meters.

@@ -1,0 +1,43 @@
+The provided image of the document page does not contain any photographs. 
+
+Here is the OCR text extraction:
+
+```
+IV. BALLOON DATA
+
+21. WERE BALLOONS RELEASED IN AREA?     Yes   No
+22. TIME SINCE SCHEDULED BALLOON RELEASE: Minutes
+
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+
+     Location         Type     Launching Agency     Lighted?     Describe
+                                                       Yes  No       Lighting
+a.
+b.
+c.
+d.
+                             (attach overlay)
+
+V. EVALUATION
+
+21. EVALUATION OF SOURCE:                                             22. DETAILS OF REPORT:
+        Excellent     Good                                                                          Good
+        Fair             Poor                                                                          Fair
+        Poor            Insufficient to Evaluate                                            Poor
+        Unreliable                                                                                   Insufficient to Evaluate
+        Extremely Doubtful
+        Hoax
+
+23. FINAL EVALUATION:
+         Was Balloon         Was Astronomical
+         Probably Balloon     Probably Astronomical
+         Possibly Balloon     Possibly Astronomical
+
+         Was Aircraft            Other:
+         Probably Aircraft     Insufficient Data for Evaluation
+         Possibly Aircraft     Unknown
+
+24. COMMENTS
+
+AIR Inst Form 344 (13 Aug 52)
+```
