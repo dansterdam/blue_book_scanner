@@ -1,0 +1,22 @@
+There is no photograph present in this image. It appears to be a table containing data on the Chi Square Test of Knowns versus Unknowns on the Basis of Speed.
+
+TABLE VI  CHI SQUARE TEST OF KNOWNS VERSUS 
+UNKNOWNS ON THE BASIS OF SPEED
+
+Speed              Adjusted    Number of    X2
+                   Number of   UNKNOWNS (n)  (K-n)2
+                   KNOWNS (K)               K
+
+Stationary        249        61           53    1.05
+Less than 100 mph  154        38           26    3.79
+100 to 400 mph     181        45           58    3.76
+Over 400 mph       403        99          145   21.37
+Meteor-like         83        20           16    0.80
+Not stated         695       171          136    7.16
+
+Total             1765       434          434   37.93
+
+Degrees of freedom
+5%                  
+1%                 11.1
+                    15.1

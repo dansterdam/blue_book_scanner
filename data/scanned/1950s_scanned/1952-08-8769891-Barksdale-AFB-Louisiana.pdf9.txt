@@ -1,0 +1,46 @@
+There is no photograph present in the provided image. The image appears to be a page from a Project Blue Book report, containing a filled out form with various fields and checkboxes.
+
+As requested, I will now act as an OCR system and produce the text found in the document:
+
+PROJECT 10073 WORK-SHEET
+
+I. GENERAL
+1. DATE: 
+2. LOCATION:
+3. TIME: Local:
+4. WAS OBJECT OBSERVED FROM THE GROUND? [X] Yes  [] No
+   [] Binocular  [] Telescope
+5. WAS OBJECT OBSERVED BY GROUND RADAR? [] Yes [] No
+   [] By Gas Sub  [] By Airfone
+   [] By Two Seater [] By Three Seater
+6. WAS OBJECT OBSERVED FROM THE AIR? [] Yes [] No
+   [] A/c Observed Object  [] Interception Attempted
+   [] No Intercept Attempted
+7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT? [] Yes [] No
+   [] Scrambled  [] Visual Contact Made
+   [] A/c Contact Made  [] No Contact Made
+8. DID OBJECT CHANGE DIRECTION AT ANY TIME? [] Yes [] Normal
+                                            [] Violent
+9. IF OBJECT WAS A "LIGHT", WAS IT? [] Blinking
+                                   [] Steady
+10. LENGTH OF TIME IN SIGHT: [] 1-5 seconds [] 1-2 minutes
+                             [] 1-10 seconds [] Over 20 minutes
+
+11. REPORTING AGENCY (Unit Number and Mailing Address)
+
+II. ASTRONOMICAL DATA
+12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED? ___
+
+13. DID OBJECT APPEAR TO ARCH DOWNWARD? [] Yes [] No
+14. DID OBJECT LEAVE A TRAIL? [] Yes [] No
+15. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (Est. from Air Almanac) [X] Night
+                                                        [] Day 
+                                                        [] Sunrise
+                                                        [] Sunset
+
+III. AIRCRAFT DATA
+17. WERE AIRCRAFT NOTED IN AREA? [] Yes
+                                  [] More Than One Aircraft
+18. WAS ANY SOUND HEARD? [] Yes [] No  
+19. WERE AIRCRAFT LIGHTS OBSERVED? [] Yes [] No
+20. WAS THE OBJECT SIGHTED ABOVE THE ELEVATION? [] Yes [] No

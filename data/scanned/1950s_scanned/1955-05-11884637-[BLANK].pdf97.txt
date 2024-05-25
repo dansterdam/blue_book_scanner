@@ -1,0 +1,11 @@
+The image does not contain any photographs, only a table with numerical data organized in rows and columns.
+
+Table 4: Condition, observed, total sightings by type of object
+Evaluation, Contact, Dist., Total, Aerial, Balloon, Fireball/Meteor, Light, Unusual, Total
+Astronomical, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Balloon, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Aircraft, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Insufficient data, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Miscellaneous, 0, 0, 2, 0.66, 0.66, 0.0, 0.0, 1.0, 2.0
+Unidentified, 0, 0, 0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Total, 0, 0, 2, 0.66, 0.66, 0.0, 0.0, 1.0, 2.0

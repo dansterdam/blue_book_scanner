@@ -1,0 +1,15 @@
+The image does not contain a photograph. It appears to be a computation sheet for atmospheric index of refraction.
+
+RADAR SITE Claysburg, Pa.
+RAOB STATION Pittsburgh, Pa. 
+DATE 20 SEPT 57 TIME 16002
+FORECASTER _________________
+
+P T T4 H1 B
+975 20 19 1152 365
+850 14 13 4980 353
+
+COMPUTATION SHEET
+FOR 
+ATMOSPHERIC INDEX OF REFRACTION
+3 WG FORM 29-1 SEPT 55

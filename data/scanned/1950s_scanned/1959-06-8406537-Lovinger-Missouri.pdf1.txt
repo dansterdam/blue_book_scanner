@@ -1,0 +1,33 @@
+There is no photograph present in this image. It appears to be a Project Blue Book record card containing information about an observation, including the date, location, type of observation, number of objects, course, and comments.
+
+PROJECT 10875 RECORD CARD
+1. DATE
+3. DATE-TIME GROUP
+5. PHOTOS
+7. LENGTH OF OBSERVATION
+9. BRIEF SUMMARY OF SIGHTING
+
+2. LOCATION  
+4. TYPE OF OBSERVATION
+6. SOURCES
+8. NUMBERS OF OBJECTS
+10. COURSE
+
+12. CONCLUSIONS
+1. Was Balloon
+2. Probably Balloon 
+3. Possibly Balloon
+4. Was Aircraft
+5. Probably Aircraft
+6. Possibly Aircraft
+7. Unidentified
+8. WAS Astronomical
+9. Probably Astronomical
+10. Possibly Astronomical
+OTHER:
+Further Data for Evaluation
+
+11. COMMENTS
+Flight path was on a southerly course and passed over obs location
+sight was considered to be an a/c in flight by obs. Obs reported to weather
+station nearby.

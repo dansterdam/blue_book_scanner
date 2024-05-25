@@ -1,0 +1,39 @@
+The image provided does not contain any photographs. It appears to be a page from an old report document, possibly related to Project Blue Book, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs).
+
+The text output from the OCR process is as follows:
+
+Table 2 - classification of air sightings for the month of april 1955
+
+Duration:
+1. Insufficient data 41  40  36 32  30   30  28  26  25  22  21  15  13
+2. 1-10 sec 97  92  83 72  79   78  70  64  60  49  47  37  35
+3. 11-60 sec 71  66  61 55  57   57  52  49  48  40  36  29  27
+4. 1-10 min 34  34  30 29  27   26  24  23  22  20  19  15  15 
+5. 11-60 min 8   8   6  6   6    6   6   6   5   4   4   3   3
+6. Over 1 hour 3   3   2  2   2    2   2   2   2   2   2   2   2
+
+Total 254 243 218 196 201 199 182 170 162 137 129 101 95
+
+Table 3 - classification of air sightings for the month of march 1955
+
+Duration:
+1. Insufficient data 46  41  38 34  33   33  31  29  28  25  23  17  15
+2. 1-10 sec 103 97  90 77  83   82  75  69  64  54  50  40  37
+3. 11-60 sec 78  69  64 58  60   60  56  53  51  43  39  32  29
+4. 1-10 min 38  38  33 32  30   28  26  26  24  21  20  16  16
+5. 11-60 min 9   9   7  7   7    7   7   6   6   4   4   3   3
+6. Over 1 hour 4   4   3  2   2    2   2   2   2   2   2   2   2
+
+Total 278 258 235 210 215 212 197 185 175 149 138 110 102
+
+Table 4 - classification of air sightings for the month of february 1955
+
+Duration:
+1. Insufficient data 56  50  44 41  40   40  37  35  34  30  28  21  18
+2. 1-10 sec 126 118 104 93  101  99  92  84  77  65  61  49  44
+3. 11-60 sec 95  85  78 70  73   73  68  64  62  52  47  38  35
+4. 1-10 min 46  46  41 39  37   34  32  31  29  25  24  19  19
+5. 11-60 min 11  11  8  8   8    8   8   7   7   5   5   3   3
+6. Over 1 hour 5   5   4  3   3    3   3   2   2   2   2   2   2
+
+Total 339 315 279 254 262 257 240 223 211 179 167 132 121

@@ -1,0 +1,39 @@
+The image does not contain any photographs, but rather appears to be a scanned page from a Project Blue Book document consisting of multiple tables with numerical data. As an OCR system, I will output the text from the document:
+
+TABLE 642 UNIDENTIFIED
+Explanation Observers Total Color No Color Total
+1.Astronomical 9 7 3 10
+2.Aircraft 75 58 17 75
+3.Balloon 66 54 12 66
+4.Bird, Kite, etc. 6 5 1 6
+5.Fireball 35 31 4 35
+6.Searchlight, Flare, etc. 11 11 0 11
+7.Star, Planet 36 36 0 36
+8.Unexplained 44 33 11 44
+Total 282 235 48 283
+
+TABLE 643 UNIDENTIFIED
+Explanation Observers Total Color No Color Total
+1.Astronomical 5 5 0 5
+2.Aircraft 79 60 19 79
+3.Balloon 1 1 0 1
+4.Bird, Kite, etc. 1 1 0 1
+5.Fireball 21 20 1 21
+6.Searchlight, Flare, etc. 0 0 0 0 
+7.Star, Planet 29 29 0 29
+8.Unexplained 77 56 21 77
+Total 213 172 41 213
+
+TABLE 644 UNIDENTIFIED
+Explanation Observers Total Color No Color Total
+1.Astronomical 4 4 0 4
+2.Aircraft 6 6 0 6
+3.Balloon 0 0 0 0
+4.Bird, Kite, etc. 0 0 0 0
+5.Fireball 0 0 0 0
+6.Searchlight, Flare, etc. 0 0 0 0
+7.Star, Planet 2 2 0 2
+8.Unexplained 8 8 0 8
+Total 20 20 0 20
+
+144

@@ -1,0 +1,20 @@
+The image does not contain a photograph, but rather a table titled "CHI SQUARE TEST OF REVISED KNOWNS VERSUS UNKNOWNS ON THE BASIS OF SPEED". The table presents various speed categories and the corresponding number of "knowns" and "unknowns" along with calculated values for adjusted number of unknowns and a statistical measure represented by "X^2".
+
+TEXT OUTPUT:
+
+TABLE XII  CHI SQUARE TEST OF REVISED KNOWNS VERSUS UNKNOWNS ON THE BASIS OF SPEED
+Speed          Number of    Adjusted      Number of    
+               KNOWNS       Number of     UNKNOWNS (x)  X^2
+                           KNOWNS (C)                  
+Stationary      196         66           53           2.56
+Less than 100 mph  128       43           24           0.72  
+100 to 400 mph   156        53           58           0.47
+400 to 600 mph   291        98          145          28.54
+Meteor-like      24          8           16           5.42
+Not stated      491        166          136
+Total          1286        434          434          43.71
+
+Degrees of freedom
+5%
+1%                        9.5
+                         13.3

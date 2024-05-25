@@ -1,0 +1,14 @@
+There is no photograph present in this image. This appears to be a page from an old UFO report document that contains a tabular data grid with various columns and rows of information.
+
+Table, (Account Name), (D-Ordinary), (D-Extraordinary), (D-Total), (V-Ordinary), (V-Extraordinary), (V-Total), (Z-Ordinary), (Z-Extraordinary), (Z-Total), (T-Ordinary), (T-Extraordinary), (T-Total)
+Account Name, Acct 1. Airframe, 5, 0, 5.00, 2.14, 1.56, 3.70, 0, 2, 2.00, 7.14, 3.56, 10.70
+Acct 2. Engines, 2, 0, 2.00, 1.89, 0.25, 2.14, 0, 1, 1.00, 3.89, 1.25, 5.14
+Acct 3. Propeller & Acces, 1, 0, 1.00, 0.44, 0.46, 0.90, 0, 0, 0.00, 1.44, 0.46, 1.90
+Acct 4. Landing Gear, 2, 0, 2.00, 0.32, 0.11, 0.43, 0, 0, 0.00, 0.32, 0.11, 0.43
+Acct 5. Instruments, 1, 0, 1.00, 0.88, 0.12, 1.00, 0, 0, 0.00, 0.88, 0.12, 1.00
+Acct 6. Hydraulic System, 2, 0, 2.00, 0.66, 0.04, 0.70, 0, 0, 0.00, 0.66, 0.04, 0.70
+Acct 7. Fuel System, 2, 0, 2.00, 0.23, 0.02, 0.25, 0, 0, 0.00, 0.23, 0.02, 0.25
+Acct 8. Electrical System, 3, 0, 3.00, 1.14, 0.06, 1.20, 0, 0, 0.00, 1.14, 0.06, 1.20
+Acct 9. Armament, 0, 0, 0.00, 0.00, 0.00, 0.00, 0, 0, 0.00, 0.00, 0.00, 0.00
+Acct 10. Misc, 4, 0, 4.00, 1.94, 0.19, 2.13, 0, 0, 0.00, 1.94, 0.19, 2.13
+Total, 22, 0, 22.00, 8.64, 2.81, 11.45, 0, 3, 3.00, 31.64, 5.81, 37.45

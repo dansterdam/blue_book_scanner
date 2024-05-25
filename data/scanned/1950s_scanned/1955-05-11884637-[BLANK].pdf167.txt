@@ -1,0 +1,19 @@
+This image does not contain any photograph. It appears to be a page from a Project Blue Book document, likely a report or analysis of UFO sightings or related data.
+
+The document contains a table with various columns such as "Evaluation", "Category", "Total", "Probable", "Possible", "Insufficient Data", and others. The table seems to be tracking some kind of numerical data, potentially related to UFO sightings or investigations.
+
+As an OCR (Optical Character Recognition) system, I will now produce the text found in the document:
+
+Evaluation Category Total Probable Possible Insufficient Data Not Explained Grand Total
+Astronomical Astronomical 27 2 2 22 1 27
+Balloon Balloon 17 1 4 12 17
+Bird Bird 8 2 1 5 8
+Hoax Hoax 5 1 2 2 5
+Inconclusive Inconclusive 23 1 1 21 23
+IFO IFO 25 3 7 15 25
+Insufficient Data Insufficient Data 73 73 73
+Meteorological Meteorological 34 3 6 25 34
+Miscellaneous Miscellaneous 9 1 2 6 9
+Satellite Satellite 7 1 3 3 7
+Unidentified Unidentified 10 10 10
+Total 242 11 29 202 242

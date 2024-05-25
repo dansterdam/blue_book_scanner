@@ -1,0 +1,13 @@
+The image does not contain any photograph. It appears to be a page from an old report document, likely related to Project Blue Book, discussing a coding system and work sheet.
+
+The text in the document is as follows:
+
+Coding System and Work Sheet
+
+The reduction of non-numerical data to numerical form is mandatory in the machine handling of data. Since it was impracticable to transfer detailed data of an exact nature from the questionnaire to the IBM punched-card plan, Since it was impracticable to transfer detailed data of an exact nature from the questionnaire to the IBM punched-card plan. The master coding plan was evolved during the early stages of the preliminary analysis of data, and was reviewed by the panel of consultants before use. It was recognized that this system of coding would be the heart of the analysis, that is, the completeness of the facility for translation of data could make or break the study. Accordingly, every conceivable factor that might influence the identification of unidentified aerial objects was included, together with a wide range of variations within each factor. The original coding system (with minor corrections) was used throughout the translation of the original data with marked success. A copy of this system, called CODES, is enclosed as Exhibit B4, Appendix B.
+
+To facilitate the preparation of the punched-card abstract, an intermediate form called the WORK SHEET (later, the CARD BIBLE) was developed. Referenced to both the data from the questionnaire and the system of report identification, the WORK SHEET permitted an orderly transcription of data simultaneously by several people. In conjunction with the CODES, the WORK SHEET was used during the reduction of the original data to code form necessary for transfer to punched cards. A sample is included as Exhibit B5, Appendix B.
+
+After the analysis was under way, it became apparent that the mechanics of machine processing could be improved by incorporating in the IBM card system certain factors requiring more than one column for discrete expression. In addition, the inclusion of certain data relating to the evaluation bearing of the sun with respect to the observer was considered necessary. Finally, a critical examination of certain segments of the master data list for the definition of a limitation of data was accomplished. 
+
+All these additions have been incorporated in a revised set of CODES and CARD BIBLE that are illustrated as Exhibits B6 and B7, Appendix B. However, at the time that the maneuver factor was determined to be critical, it was physically impracticable to make the required definitions and re-evaluate the original data. Therefore, no code for maneuverability has been included in the CODES, CARD BIBLE, or IBM cards.

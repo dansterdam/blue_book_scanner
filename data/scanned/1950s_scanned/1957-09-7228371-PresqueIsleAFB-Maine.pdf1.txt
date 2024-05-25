@@ -1,0 +1,15 @@
+There is no photograph present in the image. The image appears to be a scanned document from Project Blue Book, an Air Force investigation of UFO reports. The document is a Project 10073 Record Card that provides details about a reported UFO sighting at Presque Isle AFB, Maine on September 3, 1957.
+
+Text output from the document:
+
+1. DATE 3 September 1957
+2. LOCATION Presque Isle AFB, Maine
+3. DATE-TIME GROUP 04/0043Z
+4. TYPE OF OBSERVATION Ground-Visual
+5. PHOTOS G-Yes
+6. LENGTH OF OBSERVATION 2 minutes
+7. COURSE 8. MILITARY PROJECTS I-course up
+9. BRIEF SUMMARY OF SIGHTING: Round object, silver dollar, spinning, to be zig-zagging.
+10. CONCLUSIONS Was Balloon, Astronomical, Insufficient Data for Evaluation
+
+The observers probably saw a light attached to a balloon launched to record upper winds, but the information is insufficient for a definitive conclusion.

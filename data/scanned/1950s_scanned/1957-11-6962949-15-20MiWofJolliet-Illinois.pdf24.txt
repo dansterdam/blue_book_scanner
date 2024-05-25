@@ -1,0 +1,35 @@
+The image does not contain any photographs. It appears to be a page from an old aeronautical chart or navigation manual, showing various aeronautical symbols and data.
+
+Now, acting as an OCR system, I will output all the text found in the document:
+
+AERONAUTICAL SYMBOLS
+AERODROMES
+Aerodromes with facilities WATER
+Aerodromes with emergency or no facilities WATER
+Landing Area Scattered Aerodromes
+Civil Join Civil and Military
+Military
+
+AND LANDING STRIP INFORMATION
+Land/Land or Water Minimum Lighting
+Minimum lighting Minimum lighting
+Minimum lighting Minimum lighting
+Restricted area Conditions unfavorable take-off area
+In hundreds of feet In hundreds of feet
+
+AIR NAVIGATION LIGHTS
+Rotating Light Flashing Light (with code)
+Rotating Light (with flashing code lights) Lighthouse
+Rotating Light (with steady lights) Marine Light
+Flashing Light G=Green Y=Yellow W=White R=Red
+
+MISCELLANEOUS
+Obstruction, less than 200 feet above ground Reporting Point (compass")
+Obstruction, 200 feet or higher above ground Reporting Point (non-compulsory)
+Group Obstruction Ocean Station Vessel (Normal position)
+Prominent Transmission Line International Boundary
+Mooring Mast
+Intermittent Flashing Prohibited Area - Flight of aircraft prohibited except by specific authority or under
+Restricted areas are numbered, and are indicated on the charts at this location specific conditions
+Restricted or Warning Area - Invisible hazards to air navigation
+Caution Area - Visible hazards to air navigation

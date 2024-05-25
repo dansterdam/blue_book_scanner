@@ -1,0 +1,18 @@
+The image does not contain any photographs. It appears to be a page from a World Aeronautical Chart Index, which is a navigational chart used for aviation. The page displays a large grid with various coordinates, symbols, and text labels related to aeronautical facilities, radio communication stations, and other navigational information.
+
+Output of all text found in the document:
+
+WORLD AERONAUTICAL CHART INDEX
+Scale of Series 1:1.000,000
+
+AERONAUTICAL SYMBOLS
+All radio facility data are revised to 1/1/51. Indicated is service not given. Frequencies are given in kilocycles.
+
+RADIO FACILITIES
+Radio Range  
+Radio Communication Station
+Nondirectional Radiobeacon
+Visual Omni Range (Vor)
+Airway Radiobeacon
+Radio Broadcasting Station
+Radar Beacon (Racon)

@@ -1,0 +1,39 @@
+There is no photograph present in this image. This appears to be a Project 10073 record card from the Project Blue Book archives, containing various details about a reported UFO sighting.
+
+TEXT OUTPUT:
+
+PROJECT 10073 RECORD CARD
+
+1. DATE
+12 July 1954
+
+2. LOCATION 
+Dallas, Texas
+
+3. DATE-TIME GROUP 
+Local 2350 CST  
+
+4. TYPE OF OBSERVATION 
+Ground-Visual
+
+5. PHOTOS
+O Yes
+
+7. LENGTH OF OBSERVATION
+Not Reported
+
+10. BRIEF SUMMARY OF SIGHTING
+Round, dull rose color. High speed, 360 deg orbit.
+
+12. CONCLUSIONS
+[] Was Balloon
+[] Probably Balloon
+[] Possibly Balloon
+[] Astronomical
+[] Probably Aircraft  
+[] Possibly Aircraft
+[] Insufficient Data for Evaluation
+[X] Unknown
+
+11. COMMENTS
+Not Reported. Insufficient data for analysis.

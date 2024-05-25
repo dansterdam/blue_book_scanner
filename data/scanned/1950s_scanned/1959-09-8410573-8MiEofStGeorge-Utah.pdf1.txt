@@ -1,0 +1,55 @@
+There is no photograph present in this image. This appears to be a page from a Project Blue Book record card, which is a document used by the U.S. Air Force to record details of reported unidentified flying object (UFO) sightings.
+
+TEXT OUTPUT:
+
+PROJECT 10073 RECORD CARD
+
+1. DATE
+2 Sep 60
+
+2. LOCATION
+3 mi. E of St. George, Utah
+
+3. DATE-TIME GROUP
+Local
+
+4. TYPE OF OBSERVATION
+O Ground-Visual
+
+5. PHOTOS
+o Yes
+o No
+
+6. SOURCE
+GMT  0332 to 0309
+
+7. LENGTH OF OBSERVATION
+1 hr. 37 min.
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+una
+
+10. BRIEF SUMMARY OF SIGHTING
+Witness observed what is estimated about the size
+of a large tire stationary just about 60 to 80
+horizontal feet at traveling very fast.
+
+12. CONCLUSIONS
+o Was Balloon
+o Probably Balloon
+o Possibly Balloon
+o Was Aircraft
+o Probably Aircraft
+o Possibly Aircraft
+o Was Astronomical
+o Probably Astronomical
+o Possibly Astronomical
+o Other
+Insufficient Data for Evaluation
+undetermined
+
+11. COMMENTS
+Apparently an a/c anti-collision light

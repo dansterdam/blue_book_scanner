@@ -1,0 +1,84 @@
+The image appears to be a page from an old UFO report document from Project Blue Book. It contains a table with numerical data, but there is no photograph present in this particular page.
+
+Performing OCR (Optical Character Recognition) on the text in the image:
+
+TABLE 2.D-5 SIGHTING INFORMATION FOR UNIDENTIFIED AERIAL PHENOMENA BY SIGHTING
+Explanation   Data   Total
+Arlington   5   5
+Bethesda,Md.   6   6
+Andrews AFB,MD.   5   5
+Quantico,VA.   9   9
+Langley AFB,VA.   4   4
+Ft. Belvoir,VA   5   5
+Ft. Lee,VA   6   6
+Ft. Eustis,VA.   8   8
+Yorktown,VA   5   5
+Oceana,VA.   8   8
+Ft. Bragg,N.C.   7   7
+Cherry Point,N.C.   5   5
+Camp Lejeune,N.C.   6   6
+Seymour-Johnson AFB,N.C.   6   6
+Pope AFB,N.C.   5   5
+Eglin AFB,FLA.   7   7
+Pensacola,FLA.   9   9
+Key West,FLA.   4   4
+Maxwell AFB,ALA.   7   7
+Ft. Benning,GA.   5   5
+Ft. Stewart,GA.   6   6
+Camp Gordon,GA.   7   7
+Redstone Arsenal,ALA.   6   6
+Total   174   174
+
+TABLE 2.D-6 SIGHTING INFORMATION FOR UNIDENTIFIED AERIAL PHENOMENA BY SIGHTING
+Explanation   Data   Total
+Arlington   5   5
+Bethesda,Md.   6   6
+Andrews AFB,MD.   4   4
+Quantico,VA.   5   5
+Langley AFB,VA.   3   3
+Ft. Belvoir,VA   4   4
+Ft. Lee,VA   5   5
+Ft. Eustis,VA.   8   8
+Yorktown,VA   5   5
+Oceana,VA.   8   8
+Ft. Bragg,N.C.   7   7
+Cherry Point,N.C.   5   5
+Camp Lejeune,N.C.   6   6
+Seymour-Johnson AFB,N.C.   6   6
+Pope AFB,N.C.   5   5
+Eglin AFB,FLA.   7   7
+Pensacola,FLA.   9   9
+Key West,FLA.   4   4
+Maxwell AFB,ALA.   7   7
+Ft. Benning,GA.   5   5
+Ft. Stewart,GA.   6   6
+Camp Gordon,GA.   7   7
+Redstone Arsenal,ALA.   6   6
+Total   172   172
+
+TABLE 2.D-7 SIGHTING INFORMATION FOR UNIDENTIFIED AERIAL PHENOMENA BY SIGHTING
+Explanation   Data   Total
+Arlington   4   4
+Bethesda,Md.   6   6
+Andrews AFB,MD.   5   5
+Quantico,VA.   5   5
+Langley AFB,VA.   4   4
+Ft. Belvoir,VA   4   4
+Ft. Lee,VA   5   5
+Ft. Eustis,VA.   8   8
+Yorktown,VA   5   5
+Oceana,VA.   8   8
+Ft. Bragg,N.C.   7   7
+Cherry Point,N.C.   5   5
+Camp Lejeune,N.C.   6   6
+Seymour-Johnson AFB,N.C.   6   6
+Pope AFB,N.C.   5   5
+Eglin AFB,FLA.   7   7
+Pensacola,FLA.   9   9
+Key West,FLA.   4   4
+Maxwell AFB,ALA.   7   7
+Ft. Benning,GA.   5   5
+Ft. Stewart,GA.   6   6
+Camp Gordon,GA.   7   7
+Redstone Arsenal,ALA.   6   6
+Total   170   170

@@ -1,0 +1,67 @@
+The image does not contain a photograph, but rather consists of tabular data with various columns and rows of numerical information. The text that can be extracted from the image is as follows:
+
+TABLE DAY VARIATION OF SIGHTING FOR THE YEARS 1947 - 1955
+Date, Total, Sun, Moon, Eve, Morn, Night, Total
+1947, 99, 40, 24, 15, 12, 8, 99
+1948, 158, 56, 35, 33, 17, 17, 158
+1949, 134, 48, 34, 22, 18, 12, 134
+1950, 206, 74, 36, 49, 28, 19, 206 
+1951, 343, 102, 67, 81, 52, 41, 343
+1952, 324, 92, 59, 86, 49, 38, 324
+1953, 299, 97, 59, 57, 52, 34, 299
+1954, 172, 48, 37, 39, 29, 19, 172
+1955, 87, 18, 16, 24, 19, 10, 87
+Total, 1822, 575, 367, 406, 275, 198, 1822
+
+EXPLANATION AND NATURE OF SIGHTING
+Space, Grand Total, Sun, Moon, Eve, Morn, Night, Total
+Astronomical, 248, 74, 29, 63, 46, 36, 248
+Balloon, 194, 77, 26, 63, 14, 14, 194
+Bird, 9, 5, 0, 3, 1, 0, 9
+Cloud, 72, 24, 8, 13, 17, 10, 72
+Comet, 15, 4, 3, 5, 1, 2, 15
+Distant Airpl, 78, 24, 15, 20, 12, 7, 78
+Distant Obj, 49, 19, 9, 12, 7, 2, 49
+Firebal, 99, 32, 16, 28, 13, 10, 99
+Flare, 3, 0, 2, 1, 0, 0, 3
+Geophysical, 15, 3, 4, 6, 1, 1, 15
+Helicopter, 9, 2, 2, 2, 2, 1, 9
+Lamp, 57, 18, 12, 11, 10, 6, 57
+Light, 151, 59, 29, 29, 18, 16, 151
+Lighted Obj, 84, 22, 15, 23, 14, 10, 84
+Luminous Obj, 103, 36, 19, 20, 18, 10, 103
+Meteor, 150, 54, 27, 28, 22, 19, 150
+Missle, 11, 4, 0, 5, 0, 2, 11
+Observation, 107, 28, 20, 33, 13, 13, 107
+Parachute, 17, 3, 4, 7, 1, 2, 17
+Reflection, 111, 28, 23, 34, 12, 14, 111
+Satellite, 10, 2, 1, 3, 3, 1, 10
+Star, 201, 80, 40, 38, 26, 17, 201
+Vehicle, 28, 4, 5, 7, 5, 7, 28
+Unknown, 189, 44, 32, 46, 27, 40, 189
+Total, 1822, 575, 367, 406, 275, 198, 1822
+
+NATURE OF SIGHTING AND PROBABLE EXPLANATIONS
+Nature of Sighting, Astronomical, Balloon, Bird, Cloud, Comet, Distant Airpl, Distant Obj
+Finitial C/n Entry No., 30, 69, 150, 76, 134, 43, 150
+Total Cases, 30, 69, 9, 76, 15, 43, 49
+Conclusion, Astronomical, Balloon, Bird, Cloud, Comet, Airplane, Unident
+Probable Explanations, A, B, X, C, C, A, U
+
+NATURE OF SIGHTING AND PROBABLE EXPLANATIONS
+Finitial C/n Entry No., Firebal, Flare, Geophysical, Helicopter, Lamp, Light, Lighted Obj 
+Total Cases, 99, 3, 15, 9, 57, 151, 84
+Conclusion, Firebal, Flare, Geophysical, Helicopter, Lamp, Light, Lighted Obj
+Probable Explanations, Fb, Flare, Geophysical, Helicopter, Lamp, Light, Lighted Obj
+
+NATURE OF SIGHTING AND PROBABLE EXPLANATIONS
+Finitial C/n Entry No., Luminous Obj, Meteor, Missle, Observation, Parachute, Reflection, Satellite 
+Total Cases, 103, 150, 11, 107, 17, 111, 10
+Conclusion, Luminous Obj, Meteor, Missle, Observation, Parachute, Reflection, Satellite
+Probable Explanations, Luminous Obj, Meteor, Missle, Observation, Parachute, Reflection, Satellite
+
+NATURE OF SIGHTING AND PROBABLE EXPLANATIONS
+Finitial C/n Entry No., Star, Vehicle, Unknown
+Total Cases, 201, 28, 189
+Conclusion, Star, Vehicle, Unknown 
+Probable Explanations, Star, Vehicle, Unknown

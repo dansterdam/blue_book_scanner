@@ -1,0 +1,6 @@
+The image appears to be a graph showing the frequency of object sightings by angle of elevation of the sun, in intervals of 10 degrees of angle. The graph displays three distinct profiles - "Sun rise", "All object sightings", and "Unknown object sightings". The x-axis represents the angle of elevation of the sun, ranging from -90 to +90 degrees, while the y-axis shows the number of object sightings.
+
+The text below the image states: "FIGURE 40 FREQUENCY OF OBJECT SIGHTINGS BY ANGLE OF ELEVATION OF THE SUN, INTERVALS OF 10 DEGREES OF ANGLE".
+
+OCR Output:
+FIGURE 40 FREQUENCY OF OBJECT SIGHTINGS BY ANGLE OF ELEVATION OF THE SUN, INTERVALS OF 10 DEGREES OF ANGLE

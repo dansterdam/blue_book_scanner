@@ -1,0 +1,27 @@
+There is no photograph present in this image. The image appears to be a page from a Project Blue Book UFO report document, displaying a U.S. Air Force Technical Information Sheet with various fields and codes related to the observation and classification of unidentified flying objects.
+
+U. S. Air Force Technical Information Sheet Question
+Punched Card Column Code Description
+38 39 LQ Hour Angle
+40 41 Angle of Elevation of the Sun
+41 45 Group Classification
+46 49 Sun Bearing Angle
+52 53 Time Units Duration of Observation
+54 55 Group Classification How Observed
+56 57 Sound
+58 59 Light Color
+59 60 Light Color Color Group Classification
+61 62 Number
+63 64 Speed
+64 65 Shape
+65 66 Description
+66 Light Brightness
+67 68 Angular Velocity Motion
+68 69 Angular Acceleration Appearance Bearing
+69 70 Disappearance Bearing 
+70 71 Initial Elevation Description
+71 72 Orientation Maneuver
+74 75 Observer Occupation
+75 76 Observer Rating
+76 77 Reliability Group Classification
+78 Final Identification

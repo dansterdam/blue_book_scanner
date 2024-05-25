@@ -1,0 +1,33 @@
+The image does not contain any photographs. It appears to be a scanned page from a document containing tables with data related to Project Blue Book, a U.S. Air Force project that investigated reports of unidentified flying objects.
+
+TABLE ANALYSIS OF FIELD SIGHTINGS REPORTS
+Evaluation	Condition Total	Probable Cause	Probable Cause
+Astronomical	6 1 1	7	Astronomical
+Light Phenomena	5 5 5	15	Light Phenomena
+Aircraft	9 9 9	27	Aircraft
+Balloon	3 3 3	9	Balloon
+Miscellaneous	5 5 5	15	Miscellaneous
+Insufficient Data	1 1 1	3	Insufficient Data
+Total	29 24 24	77	Total
+
+TABLE AMS EVALUATION OF FIELD SIGHTINGS REPORTS
+Evaluation	Condition Total	Probable Cause	Probable Cause
+Astronomical	6 6 6	18	Astronomical
+Light Phenomena	5 5 5	15	Light Phenomena
+Aircraft	9 9 9	27	Aircraft
+Balloon	3 3 3	9	Balloon
+Miscellaneous	5 5 5	15	Miscellaneous
+Insufficient Data	1 1 1	3	Insufficient Data
+Total	29 29 29	87	Total
+
+TABLE ANALYSIS OF FIELD SIGHTINGS AS REPORTED
+Evaluation	Condition Total	Probable Cause	Probable Cause
+Astronomical	6 6 6	18	Astronomical
+Light Phenomena	5 5 5	15	Light Phenomena
+Aircraft	9 9 9	27	Aircraft
+Balloon	3 3 3	9	Balloon
+Miscellaneous	5 5 5	15	Miscellaneous
+Insufficient Data	1 1 1	3	Insufficient Data
+Total	29 29 29	87	Total
+
+190

@@ -1,0 +1,23 @@
+The image does not contain any photographs, but rather appears to be a table or spreadsheet filled with text. As an OCR (Optical Character Recognition) system, I will extract all the text found in the document:
+
+TABLE AND POPULATION OF SIX AREAS OF OPERATION 
+Location   Civ.Cas.   Mil.Cas.   All Cas.   Hosp.   Amb.   Total   Total Cas.   Amb.   Hosp.   Amb.   Hosp.   Amb.   Hosp.   
+Hiroshima  70,000    20,000    90,000    17,000   20,000  37,000  90,000        
+Nagasaki   27,778    5,922     33,700    2,800    10,982  13,782  33,700        
+1st ARS    2        2         2         2        
+1st TACW   9        9          9         9        
+4th ARS    2        2          2         2        
+8th ARS    1        1          1         1        
+Total      97,792    25,922    123,714   19,800   30,982  50,782  123,714       
+
+SUMMARY BY TYPES OF INJURIES
+Injuries   Hiroshima   Nagasaki   1st ARS   1st TACW   4th ARS   8th ARS   Total
+Burns        5,471     4,541     1        2        2        1       13,017  
+Radiation   40,000     6,365     -        -        -        -       46,365
+Blast        44,529    22,794     1        7        -        -       67,331
+Total        90,000    33,700     2        9        2        1      123,714
+
+WEIGHT AND CALORIES PER RATION
+Ration   Weight(gm.)   Calories
+Bulk     1,100         3,234
+Indiv.   440           1,573

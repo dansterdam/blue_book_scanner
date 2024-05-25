@@ -1,0 +1,76 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book document that contains various codes and classification schemes related to UFO sightings and observations.
+
+CODE 47 GROUP CLASSIFICATION (Derived from the angle of elevation)
+X Y 0 -79.99° to + 79.99°
+1 2 +80.00° to +89.99°
+3 +90.00° to +100.00°
+4 +100.01° to 130.00°
+5 +130.01° to +180.00° and -180.00° to -100.01°
+6 -90.00° to -80.00°
+
+CODE 52 DURATION TIME UNITS
+X Y
+0 Days
+1 Hours
+2 Minutes
+3 Seconds
+4
+5
+6
+7
+8
+9
+
+CODE 55 DURATION GROUP CLASSIFICATION
+X Y
+0 5 second and less
+1 6 - 10 seconds
+2 11 - 30 seconds
+3 31 - 60 seconds
+4 61 seconds - 5 minutes
+5 6 - 30 minutes
+6 Over 30 minutes
+7
+8
+9
+
+CODE 56 OBSERVATION METHOD
+X Variable
+0 Naked eye
+1 Eye glasses
+2 Binoculars
+3 Theodolite
+4 Telescope
+5 Telescape
+6 Radar
+7 Photographic
+8
+9 Other
+
+CODE 57 SOUND
+X Variable
+0 Motors
+1 Jets or rockets
+2 Explosions
+3 Hiss, swishing, whining
+4 Rumbling
+5 Humming or buzzing
+6 None
+7
+8
+9 Other
+
+CODE 58 OBJECT COLOR
+X Variable
+0 Metallic
+1 Light, glow, luminous
+2 Red
+3 Orange
+4 Yellow
+5 Green
+6 Blue
+7 Violet
+8 Black
+9 White
+
+305

@@ -1,0 +1,38 @@
+There is no photograph present in this image. This appears to be a page from a document containing information in the form of a tabular data structure.
+
+Conducting OCR on the text in the document:
+
+6/3 cases - 5 NATIONAL
+Sightings Observers Year Conclusions
+Astronomical 4 4 4 4
+Balloon 3 4 4 4
+Aircraft 2 2 2 2
+Light Phen 2 2 2 4
+Bird-Insect 4 4 4 4 
+U-Identified 3 4 3 3
+Insufficient 2 2 2 2  
+Total 20 22 21 23
+
+6/10 cases - 6 SCATTERED
+Sightings Observers Year Conclusions
+Astronomical 2 2 4 2
+Balloon 2 2 2 2 
+Aircraft 3 3 3 3
+Light Phen 4 4 4 4
+Bird-Insect 3 3 3 3
+U-Identified 2 2 2 2
+Insufficient 2 2 2 2
+Total 18 18 20 18
+
+6/17 cases - 6 SCATTERED
+Sightings Observers Year Conclusions
+Astronomical 2 2 2 2
+Balloon 2 2 2 2
+Aircraft 2 2 2 2
+Light Phen 2 2 2 2
+Bird-Insect 2 2 2 2
+U-Identified 2 2 3 3
+Insufficient 2 2 2 2 
+Total 14 14 15 15
+
+231

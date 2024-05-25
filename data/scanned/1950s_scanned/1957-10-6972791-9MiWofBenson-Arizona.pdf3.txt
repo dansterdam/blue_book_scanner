@@ -1,0 +1,15 @@
+The image contains a photograph that appears to be an excerpt from a technical report or document. The photograph shows a diagram or sketch that is labeled "The circle represents the 33rd parallel, viewed from the top (north)." It also includes various calculations and measurements related to the size and height of an unidentified object.
+
+The text extracted from the document is as follows:
+
+The circle represents the 33rd parallel, viewed from the top (north). Assuming triangle A B D is a right triangle, the angle at D is 45°.
+A C = 1000
+A D = 1000
+We may now calculate the hypotinuse A C of triangle A B C:
+A C = \/ (1000)^2 + (1000)^2 = 1414.2 m.
+
+Since line A D is 1000 m, line C D is 39.3 m. This is the minimum height of the object above the earth.
+
+This calculation is based on an object directly over our location and reflecting the sun's rays thirty-three minutes after sunset. This is a consideration of the actual case. If the distortion of the sun's rays by our atmosphere causes sunset to occur three minutes later (at 17:52), then the distance C D is reduced to about thirty-five miles. However, the object was to be illuminated when it was three thousand yards (1827 m) from the minimum height for reflection of sunlight should be increased. The above calculation was intended only to give a rough estimate of the heights involved.
+
+If the object was illuminated by sunlight the calculate minimum height appears to be 38.2 yards.

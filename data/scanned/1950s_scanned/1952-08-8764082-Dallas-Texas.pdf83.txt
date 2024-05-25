@@ -1,0 +1,48 @@
+The image does not contain any photographs, but rather a form with information about balloon data. As an OCR (Optical Character Recognition) system, I will output the text found in the document:
+
+IV. BALLOON DATA
+
+21. WERE BALLOONS RELEASED IN AREA?
+( ) YES (X) UNKNOWN BALLOON RELEASE
+22. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+
+Location | Type | Launching Agency | Date | Indicating
+a. | Waco "Twin' |Govt. | 1952 | 
+b. | California (possible area) | | 4/25 | 
+c. |  |  |  |  
+d. |  |  |  |  
+
+(ATTACH OVERLAY)
+
+V. EVALUATION
+
+21. EVALUATION OF SOURCE:
+(  ) Excellent
+(  ) Good
+(  ) Fair
+(  ) Poor
+(  ) Unreliable
+(  ) Extremely Doubtful
+(  ) None
+
+22. DETAILS OF REPORT:
+(  ) Good
+(  ) Fair
+(  ) Poor
+(  ) Insufficient to Evaluate
+
+23. FINAL EVALUATION:
+(  ) Was Balloon
+(  ) Probably Balloon
+(  ) Possibly Balloon
+(  ) Was Aircraft
+(  ) Probably Aircraft
+(  ) Possibly Aircraft
+(  ) Was Astronomical
+(  ) Probably Astronomical
+(  ) Possibly Astronomical
+(  ) Other: ________
+(  ) Insufficient Data For Evaluation
+(X) Unknown
+
+24. COMMENTS:

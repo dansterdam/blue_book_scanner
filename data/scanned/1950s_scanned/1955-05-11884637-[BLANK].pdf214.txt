@@ -1,0 +1,98 @@
+There is no photograph present in this image. It appears to be a page from a Project Blue Book report that contains various codes and their descriptions related to UFO observation methods, sounds, colors, speeds, and shapes.
+
+CODE 43 OBSERVATION METHOD
+X Variable
+0 Naked eye
+1 Eye glasses
+2 Window
+3 Field glasses
+4 Binocular
+5 Telescope
+6 Theodolite 
+7 Radar
+8 Photographic
+9 Other
+
+CODE 44 SOUND
+X Variable
+0 Motors
+1 Jet or rockets
+2 Explosion
+3 Hum
+4 Hiss, swishing, whining
+5 Rumbling
+6 Humming or buzzing
+7 None
+8 Not stated
+9 Other
+
+CODE 45 COLOR
+X Variable 
+0 Metallic
+1 Light-glow-luminous
+2 Red
+3 Orange
+4 Yellow
+5 Green
+6 Blue
+7 Violet
+8 Black
+9 White
+
+CODE 46 NUMBER
+X
+Y
+0 - 1
+1 - 2
+2 - 3 
+3 - 4
+4 - 5
+5 - 6
+6 - 7 - 10
+7 - 11 - 20
+8 - 20 - 30 or more
+9 - 30 or more
+
+CODE 47 LIGHT-COLOR 
+X Variable
+Y
+0 White
+1 Black
+2 Gray
+3 Red
+4 Orange
+5 Yellow
+6 Green
+7 Blue
+8 Violet
+9 Other
+
+CODE 48 SPEED
+X Variable
+Y
+0 Hovering, stationary
+1 Less than 100 m.p.h.
+2 100-400 m.p.h.
+3 400-600 m.p.h.
+4 Meteor like
+5 Not stated
+6 
+7
+8
+9 Other
+
+CODE 49 SHAPE
+X Variable
+Y
+0 Ellipse
+1 Rocket 
+2 Conventional aircraft
+3 Unconventional aircraft
+4 Meteor, comet 
+5 Lenticular
+6 Conical
+7 Tear drop
+8 Flame, tails, fire
+9 Other
+
+292

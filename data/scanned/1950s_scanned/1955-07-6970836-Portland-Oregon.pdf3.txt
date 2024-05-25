@@ -1,0 +1,16 @@
+The provided image contains a photograph of what appears to be a UFO sighting report document. The document is an UFOB INDEX CARD from Project Blue Book, dated July 30, 1955, and detailing a sighting that occurred in Portland, Oregon.
+
+Performing optical character recognition on the text in the document, the output is as follows:
+
+UFOB INDEX CARD AIS-UFOB-254-55
+1. DATE 30 July 1955
+2. LOCATION Portland, Oregon
+3. DATE-TIME GROUP 30/22/32 Jul 55
+4. TYPE OF OBSERVATION
+Ground-Visual
+Air Visual
+Other
+5. SOURCE Civilian and Military (GOC)
+7. LENGTH OF OBSERVATION Three Minutes (3)
+10. BRIEF SUMMARY OF SIGHTING One (1) silver object, size unknown, was seen for a period of three (3) minutes.
+11. COMMENTS From description of the object, the fact that the object seemed to stand still, seem to indicate that the possibility of a balloon causing the sighting. NO RECOMMENDATION AUTHORIZED.

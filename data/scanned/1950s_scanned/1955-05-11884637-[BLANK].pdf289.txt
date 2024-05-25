@@ -1,0 +1,17 @@
+The image does not contain any photographs, only a table with text. Based on the context provided, this appears to be a page from an old UFO report document from Project Blue Book.
+
+The OCR output of the text found in the document is as follows:
+
+TABLE X CHI SQUARE TEST OF REVISED KNOWS VERSUS UNKNOWNS ON THE BASIS OF SHAPE
+Shape,Number of KNOWS,Adjusted Number of KNOWS (K),Number of UNKNOWNS (n),X^2 (K-n)^2/K
+Elliptical aircraft,632,213,195,1.52
+Rocket or aircraft,72,24,33,3.37
+Meteor or comet,9,4,41,1.32
+Flame,47,16,101,1.32
+Teardrop, lenticular, or conical,79,27,22,0.93
+Other,151,51,54,1.76
+Not stated,296,100,116,2.56
+Total,1286,434,434,11.46
+Degrees of freedom,5
+5%,11.1
+1%,15.1

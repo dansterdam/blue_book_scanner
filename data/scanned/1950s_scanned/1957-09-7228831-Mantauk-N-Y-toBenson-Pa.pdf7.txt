@@ -1,0 +1,29 @@
+The image does not contain any photographs, only text. Here is the text output from the document:
+
+is maintaining a constant track. UNCLASSIFIED
+The target intensity of track BB-6 remained constant
+throughout the entire tracking period. Normal target returns
+fluctuate in intensity to such a degree that the condition is
+visually obvious to the operator.
+
+Tracking was continuous and the blip/scan ratio was 1.0
+over the entire track. A 1.0 blip/scan ratio on conventional and
+jet aircraft without beacon or Mark X is a rare occurrence under
+normal operation. 
+
+The fact that this target was of such size to sustain
+a 1.0 blip/scan ratio at Montauk AFS would indicate that other stations within detection distances certainly should have received some
+indication of this track.
+
+Mutual interference, that is, interference of one
+rotating radar with another rotating radar operating at or fairly
+close to the same operational parameters will normally produce
+"spikes" occurring at the outer edge of the PPI scope and spiraling
+into the center of the scope along with extremely high background
+noise levels. The noise level on the scope, of course, is proportional to the power transmitted by the interfering radar. It was
+impossible to associate track BB-6 with previously experienced
+mutual interference patterns of two rotating radars. It would be
+possible, however, to ascertain a condition of this sort with a fixedantenna type radar operating at or close to the frequency and PRF of
+the rotating radar. The team was unable to ascertain the location
+of any fixed radar stations in that area that could produce such a
+condition of interference.

@@ -1,0 +1,12 @@
+This image appears to contain a pie chart or graph that shows the "Distribution of Evaluations of Object, Unit, and All Sightings for All Years" based on data from Project Blue Book. The chart is labeled "FIGURE 2 DISTRIBUTION OF EVALUATIONS OF OBJECT, UNIT, AND ALL SIGHTINGS FOR ALL YEARS A-47480". It includes various percentages and categories such as "Astronomical", "Aircraft", "Balloon", "Insuf. info", and "Unknown". The image does not contain any human faces.
+
+Object sightings: 2199=100%
+All sightings: 3201=100% 
+Unit sightings: 2554=100%
+
+Astronomical: 479=21.8%
+Aircraft: 774=21.5%
+Balloon: 339=15.4%
+Insuf. info: 240=10.9% 
+Unknown: 434=19.7%
+Other: 233=10.3%

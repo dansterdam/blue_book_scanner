@@ -1,0 +1,32 @@
+There is no photograph present in this image. This appears to be a table of weather data from Project 10079, likely a report from the U.S. Air Force's Project Blue Book investigation of unidentified flying objects.
+
+The text in the document is as follows:
+
+DATE OF OBSERVATION
+1. TIME OF OBSERVATION 2. TYPE OF OBSERVATION 3. STATION OBSERVING
+4. WIND  
+ALTITUDE  VELOCITY  DIRECTION
+(KNOTS) (DEGREES)
+0  25,000  
+1,000   30,000  
+2,000   35,000  
+3,000   40,000  
+4,000   45,000  
+5,000   50,000  
+6,000   55,000  
+7,000   60,000  
+8,000   65,000  
+9,000   70,000  
+10,000   75,000  
+12,000   80,000  
+14,000   85,000  
+16,000   90,000  
+18,000   95,000  
+20,000   100,000  
+5. WAS AN INVERSION LAYER NOTED? (IF YES, AT WHAT ALTITUDE?)   Yes  No
+6. WERE ANY THUNDERSTORMS NOTED IN AREA? (IF YES, AT WHAT ALTITUDE?)   Yes  No
+7. CLOUD COVER       tenths at     feet.       tenths at     feet.
+8. VISIBILITY WAS      MILES.
+9. COMMENTS:
+
+The table contains wind speed and direction data at various altitudes from 0 to 20,000 feet. The form also asks a few questions related to weather conditions during the observation.

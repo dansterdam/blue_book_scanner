@@ -1,0 +1,16 @@
+The shared image does not contain a photograph. It appears to be a page from an old UFO report document, specifically from Project Blue Book, with a table that contains information about an observed UFO sighting.
+
+Observer's Data Sheet Question,Punched Card Column,Code,Description
+6. r. s,1b*,4zb*,Where observed was - Moving - Stopped
+10,1b.,43b*,How observed - Slow
+12,124. 11b.,46b*,Sound - Color,Number 
+12b. 15,49b*,Shape
+12b. 15,50b*,Size
+13,14, 15,56b*,Initial elevation
+17.,77,Elevation
+12r. 21.,59,Altitude, 1,000 ft. Altitude
+13. 19.,61b*,Object orientation
+24.,64,Civilian occupation
+24.,66b*,Service occupation
+77*,Observer Report - Preliminary
+79b*,Final Identification

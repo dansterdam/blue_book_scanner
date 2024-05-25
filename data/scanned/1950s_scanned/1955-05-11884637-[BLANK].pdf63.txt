@@ -1,0 +1,40 @@
+The provided image does not contain any photographs. It appears to be a table or spreadsheet containing numerical data and text related to some kind of evaluation or analysis. I will now proceed to perform optical character recognition (OCR) on the text within the image and provide the output.
+
+TABULATION OF SIGHTINGE OF UNIDENTIFIED AERIAL OBJECTS 
+INVESTIGATION OF UNIDENTIFIED AERIAL OBJECTS
+Evaluation	Contact	Duration	Distance	Size	Shape	Speed	Maneuver	 Color	Light	Sound	Weather	Total
+1. Astronomical	51	77	17	17	22	5	3	1	21	51	10	275
+2. Aircraft	89	91	61	62	73	40	41	9	91	89	9	655
+3. Balloons	7	10	7	7	7	5	4	2	10	7	1	67
+4. Birds, Kites, etc.	13	12	4	3	4	2	2	0	12	13	1	66
+5. Insufficient Data	30	25	15	21	7	4	6	1	25	30	5	169
+6. Probable Explanation	33	29	15	19	10	6	5	1	29	33	4	151 
+7. Possible Explanation	17	19	13	14	7	5	2	0	19	17	1	94
+8. Unknown	10	17	8	7	2	3	1	0	17	10	0	75
+Total	250	280	140	150	132	70	64	14	224	250	31	1552
+
+TABULATION OF SIGHTINGS OF UNIDENTIFIED AERIAL OBJECTS
+Evaluation	Contact	Duration	Distance	Size	Shape	Speed	Maneuver	Color	Light	Sound	Weather	Total
+1. Astronomical	56	87	14	14	26	3	2	2	19	56	8	287
+2. Aircraft	107	104	71	72	87	44	46	6	104	107	7	755
+3. Balloons	6	8	5	5	5	4	3	1	8	6	0	51
+4. Birds, Kites, etc.	17	15	4	3	5	2	2	1	15	17	0	81
+5. Insufficient Data	27	26	12	17	10	7	9	0	26	27	4	165
+6. Probable Explanation	32	30	14	16	10	8	4	1	30	32	5	152
+7. Possible Explanation	12	13	9	11	4	3	1	0	13	12	1	79
+8. Unknown	13	17	11	12	5	4	2	1	17	13	1	96
+Total	270	300	140	150	152	75	69	12	232	270	26	1666
+
+TABULATION OF SIGHTINGE OF UNIDENTIFIED AERIAL OBJECTS
+Evaluation	Contact	Duration	Distance	Size	Shape	Speed	Maneuver	 Color	Light	Sound	Weather	Total
+1. Astronomical	45	60	16	16	20	4	2	1	16	45	10	235
+2. Aircraft	80	88	54	58	73	38	39	11	88	80	11	620
+3. Balloons	8	13	9	9	9	5	4	2	13	8	1	81
+4. Birds, Kites, etc.	9	9	4	4	4	2	2	1	9	9	1	54
+5. Insufficient Data	33	22	13	18	3	4	4	0	22	33	3	155
+6. Probable Explanation	27	26	14	16	9	5	5	1	26	27	3	139
+7. Possible Explanation	22	21	12	12	6	4	1	1	21	22	1	100
+8. Unknown	6	9	8	7	8	3	1	0	9	6	0	57
+Total	230	248	130	140	132	65	58	17	204	230	30	1451
+
+148

@@ -1,0 +1,21 @@
+The image appears to contain a graph and a table, but no photograph. The graph is labeled "STATION-REFRACTIVE INDEX" and appears to show a computation sheet for atmospheric index of refraction. The table contains numerical data with column headers P, T, T4, H1, and B.
+
+LOCKPORT, N.Y.
+RADAR SITE
+ROAD STATION	BUFFALO, N.Y.
+DATE	20 SEPT 57	TIME	1800Z
+FORECASTER	-
+
+P	T	T4	H1	B
+991	22	20	706	966
+850	14	13	4940	553
+
+M - - - - - 
+N - - - - -
+AB - - - - -
+
+CASE NO.	PAGE
+COMPUTATION SHEET
+FOR
+ATMOSPHERIC INDEX OF REFRACTION
+WG FORM 29-1 SEPT 55

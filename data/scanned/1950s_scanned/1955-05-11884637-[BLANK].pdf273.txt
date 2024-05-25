@@ -1,0 +1,22 @@
+The image does not contain a photograph. It appears to be a page from a document discussing observations of the sun and related sightings.
+
+The following text is transcribed from the document:
+
+The following points should be carefully noted about these histograms:
+
+(1) The negligible number of sightings when the sun is within 10° of the horizon and radio: (angle of elevation of the sun = ±90°) of the observer is due to the fact that the southern-most latitude of the U. S. is greater than the declination of the sun at the summer solstice, so that it would be impossible for the sun to reach the zenith or nadir of any observer in the U. S. (where most of the sightings were made).
+
+(2) The time of day at which a particular angle of elevation of the sun occurs does not remain fixed but varies from day to day. Consider, for example, the variation in sunrise and sunset times over the course of a year.
+
+Thus, there are only two inferences to be made from this histogram: (1) the high peak of sightings after sunset, and (2) the lack of increase in the UNKNOWNS relative to the KNOWNS near either sunset or sunrise. This would seem to discount the possibility that atmospheric phenomena such as mirages or refractions of light could account for such phenomena usually occur when the sun is near the horizon.
+
+The Local Sun Time was computed as a step in the calculation of the angle of elevation of the sun. It is related to the hour angle by the equation: Local Sun Time (L.S.T.) = HA/15 + 12.00, where L.S.T. is in hours and HA in degrees.
+
+The cards were grouped on the basis of L.S.T. in intervals of one hour, and the number of cards in each interval was counted. Again the UNKNOWNS were sorted out and similar treated. Histograms were constructed with the results of these tabulations of OBJECT SIGHTINGS (Figure 41). Here, again, there is a peak in the early evening hours.
+
+The cards were then broken up into seven groups on the basis of the angle of elevation of the sun, as follows:
+
+Group 1 - Daylight sightings for which the sun was more than 10° above the horizon.
+Group 2 - Sunset sightings for which the sun was between 0° and 10° above the horizon. 
+Group 3 - Sunset sightings for which the sun was between 0° and 10° below the horizon.
+Group 4 - Evening sightings for which the sun was between 10° and 40° below the horizon.

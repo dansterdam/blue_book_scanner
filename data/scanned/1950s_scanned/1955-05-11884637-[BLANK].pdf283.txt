@@ -1,0 +1,24 @@
+The image does not contain any photograph, it is a table showing a "Chi Square Test of Knowns versus Unknowns on the Basis of Light Brightness". The table contains information about different light brightness measurements, the number of "Knowns", the number of "Unknowns", and calculated values for each row.
+
+TEXT EXTRACTED FROM THE IMAGE:
+
+TABLE VII  CHI SQUARE TEST OF KNOWNS VERSUS UNKNOWNS
+ON THE BASIS OF LIGHT BRIGHTNESS
+
+Light Brightness   Number of   Adjusted   Number of
+                   KNOWNS    Number of   UNKNOWNS (n)    x²=(K-n)²
+                             KNOWNS (K)                    K
+Sunlight on mirror  47        11         14             0.82
+Sunlight on aluminum 151      37         28             2.19 
+Sunlight on plaster, 
+stone, or soil      76        19         16             0.47
+Brighter than moon  273       67         61             0.55
+Like moon or duller 68        17         22             1.47
+than moon
+Not stated         1150      283        293             0.35
+
+Total              1765      434        434             5.85
+
+Degrees of freedom                                     5
+5%                                                    11.1
+1%                                                    15.1

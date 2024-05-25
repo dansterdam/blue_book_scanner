@@ -1,0 +1,8 @@
+The image contains three black and white photographic images. The first image shows a landscape with a large object in the sky, which appears to be a UFO based on the context provided. The second image shows a landscape with a sailboat or ship in the distance. The third image shows a landscape with no apparent unusual objects.
+
+As an OCR system, I will now output the text found in the document:
+
+t 100°
+t 280° 
+@ 
+@

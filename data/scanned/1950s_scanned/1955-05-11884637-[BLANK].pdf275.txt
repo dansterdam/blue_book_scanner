@@ -1,0 +1,7 @@
+The image does not contain any photographs. However, it does include a table with data on "Object Sightings" which categorizes various sightings into different groups based on the angle of elevation and the type of object observed (balloon, astronomical, aircraft, light phenomena, unidentified information, and other). The table provides numerical counts for each category across the different angle of elevation groups. Additionally, the text provides context around the purpose of the groups and the coding system used in the table.
+
+Group 5 - Night sightings for which the sun was more than 10° below the horizon and which were not included in Group 4.
+Group 6 - Sunrise sightings for which the sun was between 0° and 10° below the horizon.
+Group 7 - Sunrise sightings for which the sun was between 0° and 10° above the horizon.
+
+These group numbers were punched on the cards and incorporated into the coding system. The number of OBJECT SIGHTINGS in each group for each identification was then tabulated and is given in Table I.

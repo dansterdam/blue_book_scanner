@@ -1,0 +1,41 @@
+The image does not contain any photograph, only text and a table. As requested, I will act as an OCR system and produce the output of all the text found in the document:
+
+RESTRICTED
+SECURITY INFORMATION UNCLASSIFIED
+
+Q. 7 Were you moving (in a vehicle) at any time while you saw
+the object?
+a. Yes 17.9%
+b. No 82.1%
+
+Q. 8 and 8.1 What direction were you facing when you first saw
+the object, and what direction were you facing
+when you last saw the object?
+
+First saw (percentage)
+N NE E SE S SW W NW
+5.9 2.4 3.2 2.6 0.6 0.6 1.2 1.2
+NE 2.4 5.3 1.8 0 0 0.6 0.6 1.2
+E 1.2 0 7.2 0 0 0.6 0.6 0
+SE 1.8 0.6 2.4 7.2 1.2 0.6 1.2 0.6
+S 0 1.2 1.2 1.2 4.8 0 2.4 0.6
+SW 0.6 1.2 1.2 1.2 0.6 4.1 0 0
+W 1.2 0 1.2 0 1.8 7.7 1.2
+NW 0.6 0 1.8 0 0.6 1.2 1.2 1.8
+Incompletes 10.7%
+
+Q. 8.2 Certainty ratings:
+a. Certain 80.5%
+b. Fairly certain 16.1%
+c. Not very sure 1.2%
+d. Just a guess 0.2%
+e. No response 2.4%
+
+Q. 9
+Were you wearing eye glasses?
+a. Yes 31.6%
+b. No 63.7%
+c. No response 4.7%
+
+RESTRICTED UNCLASSIFIED
+SECURITY INFORMATION

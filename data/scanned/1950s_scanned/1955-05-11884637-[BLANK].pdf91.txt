@@ -1,0 +1,52 @@
+The image does not contain any photographs, only a table of numerical data. As an OCR system, I will output the text found in the document:
+
+TABLE SHOWING EXPLANATION OF DATA SHOWN FOR ALL YEARS BY MONTH OF STARTING 
+A. Number C. Duration Months  
+B. Sightings D. Total Days
+
+Total 5 10 15 19 44 4096 4 8
+
+9. Air Force 3 5 5 5 18 4096 4 2
+
+2. Project Blue Book 2 5 10 14 31 3488 3 10
+
+3. Aircraft (Other) 0 0 0 0 0 0 0 0
+
+4. Searchlights, etc. 0 0 0 0 0 0 0 0
+
+5. Venus 0 0 0 0 0 0 0 0
+
+6. Unknowns 0 0 0 0 0 0 0 0
+
+Total 3 7 11 13 34 2528 3 2
+
+1. Astronomical 2 5 8 9 24 1440 2 0 
+
+2. Unidentified 1 2 3 4 10 1088 1 2
+
+3. Light Phenomenon 0 0 0 0 0 0 0 0
+
+4. Balloon, Aircraft, etc. 0 0 0 0 0 0 0 0
+
+5. Searchlights, etc. 0 0 0 0 0 0 0 0
+
+6. Meteors, etc. 0 0 0 0 0 0 0 0
+
+7. Fireworks, etc. 0 0 0 0 0 0 0 0
+
+8. Unknowns 0 0 0 0 0 0 0 0
+
+September October November December
+
+1. Astronomical 5 3 2 0
+2. Unidentified 1 2 2 2
+3. Light Phenomenon 0 0 0 0
+4. Balloon, Aircraft, etc. 0 0 0 0
+5. Searchlights, etc. 0 0 0 0
+6. Meteors, etc. 0 0 0 0
+7. Fireworks, etc. 0 0 0 0
+8. Unknowns 0 0 0 0
+
+Total 6 5 4 2
+
+173

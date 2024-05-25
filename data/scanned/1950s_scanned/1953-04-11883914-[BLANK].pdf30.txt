@@ -1,0 +1,59 @@
+The image does not contain any photographs. It appears to be a document from Project Blue Book containing security information and code definitions.
+
+SECRET SECURITY INFORMATION
+EXHIBIT II CODES 
+CODE 1. GENERAL
+a. Every column must have at least one entry. If no data are available for any column, the word "none" should be used.
+b. If a number in any column is used to enter data, then X qualifies the data as indicated in the Code for the specific column.
+
+CODE 25 DURATION UNITS
+X
+0 Days
+1 Hours 
+2 Minutes
+3 Seconds
+
+CODE 28 LATITUDE
+X South latitude
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+CODE 32 LONGITUDE
+X East longitude
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+CODE 41 POSITION
+X Variable
+0
+1 in car
+2 Outdoors
+3 in plane
+4 in building
+5
+6
+7
+8
+9 Other
+
+CODE 42 MOVEMENT OF OBSERVER
+X
+0 Wasn't moving
+1 Was moving - stopped
+2 Was moving - didn't stop

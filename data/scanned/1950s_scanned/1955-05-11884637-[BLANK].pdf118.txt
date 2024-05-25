@@ -1,0 +1,20 @@
+The image does not contain any photographs. It appears to be a table with various rows and columns of numerical data, likely representing some kind of statistical information.
+
+TABLE ANALYSIS OF OBJECT SIGHTINGS FOR THE YEAR'S
+EXPLANATION      CONTACT  CONT.  TOTAL  SIGHTED  OBJECT  TOTAL  VELOCITY  VELOCITY  VELOCITY  ALTITUDE  ALTITUDE  ALTITUDE
+Airbome            4        5       9       174        174      174      C/F        M/F       L/F        C/F       M/F       L/F
+Aircraft           21       19      40       1275       1275     1275      C          M          L           C          M          L
+Astronomical        8        6       14       325        325      325      C/F        M/F       L/F        C/F       M/F       L/F
+Bird                8        4       12       227        227      227      C          M          L           C          M          L
+Balloon             7        5       12       165        165      165      C          M          L           C          M          L
+Cigar, Oval, etc.   25       16      41       744        744      744      C          M          L           C          M          L
+Cloud, Haze, etc.   11       16      27       451        451      451      C          M          L           C          M          L
+Distant Light       8        7       15       253        253      253      C/F        M/F       L/F        C/F       M/F       L/F
+Flare               0        1       1         4          4        4        C          M          L           C          M          L
+Light, Nocturnal    18       14      32       402        402      402      C          M          L           C          M          L
+Light, Reflected    5        4       9        147        147      147      C          M          L           C          M          L
+Light, Searchlight   0        1       1         32         32       32       C          M          L           C          M          L
+Light, Weird         7        4       11       170        170      170      C          M          L           C          M          L
+Other              36       33      69       1273       1273     1273      C          M          L           C          M          L
+Unknown            52       42      94       1339       1339     1339      C          M          L           C          M          L
+Total              210      201     411       7255       7255     7255

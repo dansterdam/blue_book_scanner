@@ -1,0 +1,39 @@
+The image does not contain any photographs, but rather appears to be a table or spreadsheet containing textual information. As an OCR (Optical Character Recognition) system, I will extract and output all the text present in the document:
+
+"Evaluation	Cause	Orig Report	Time	Wind Dir	Wind Vel	Cloud Cover	Visibility	Shape	Color	Size	Duration	Distance	Movement	Altitude	Remarks	Total
+1. Astronomical	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+2. Balloon	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3. Aircraft	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+4. Searchlight	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+5. Flare	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+6. Fireball	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+7. Known Sat.	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+8. Other	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+9. Insufficient	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+Total	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+
+Evaluation	Cause	Orig Report	Time	Wind Dir	Wind Vel	Cloud Cover	Visibility	Shape	Color	Size	Duration	Distance	Movement	Altitude	Remarks	Total
+1. Astronomical	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+2. Balloon	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3. Aircraft	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+4. Searchlight	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+5. Flare	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+6. Fireball	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+7. Known Sat.	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+8. Other	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+9. Insufficient	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+Total	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+
+Evaluation	Cause	Orig Report	Time	Wind Dir	Wind Vel	Cloud Cover	Visibility	Shape	Color	Size	Duration	Distance	Movement	Altitude	Remarks	Total
+1. Astronomical	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+2. Balloon	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3. Aircraft	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+4. Searchlight	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+5. Flare	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+6. Fireball	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+7. Known Sat.	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+8. Other	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+9. Insufficient	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+Total	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+
+236"

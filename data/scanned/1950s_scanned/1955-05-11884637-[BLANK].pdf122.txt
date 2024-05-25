@@ -1,0 +1,27 @@
+The image does not contain any photographs. It appears to be a tabular statistical report or data sheet, likely from Project Blue Book, a historical United States Air Force program that investigated unidentified flying objects (UFOs).
+
+The text output from the OCR (optical character recognition) of the document is as follows:
+
+TAKE UP EVALUATION & ALL STATISTICS FOR THE YEAR BY REPORTING STATION
+
+'T Number Sighting DURATION AMT. OBSERVED Per Cent Observed Per Cent Sightings CATE.IDENTIFICATION RATE 
+
+'3 92 35.95 29 77.99 31.52 - 1.49 
+'4 93 36.33 30 24.40 32.37 - 1.30  
+'5 94 36.72 31 6.35 33.23 - 1.15
+'6 95 37.11 32 2.85 34.09 - 1.03
+'7 96 37.51 33 4.75 34.95 - 0.92
+'8 97 37.91 34 1.99 35.81 - 0.84
+'9 98 38.32 35 0.77 36.67 - 0.77
+
+Evaluation Number Par Cent Number Per Cent Number Per Cent Total Per Cent 
+Astronomical 4 0.78 4 2.27 6 3.28 14 1.48
+Balloon 2 0.39 1 0.57 1 0.55 4 0.42
+Aircraft  5 0.97 3 1.70 3 1.64 11 1.16
+Miscellaneous 20 3.90 7 3.98 6 3.28 33 3.48
+Insufficient Data 29 5.64 15 8.52 14 7.65 58 6.12
+Unidentified 463 90.32 146 83.00 154 84.60 763 80.34
+
+Total 523 100.00 176 100.00 183 100.00 882 100.00
+
+201

@@ -1,0 +1,31 @@
+There is no photograph present in this image. This appears to be a page from a Project Blue Book report, containing tables of data with various entries and numerical values.
+
+TABLE - CLASSIFICATION OF REPORTS
+Evaluation  Explanation  Total
+------ ------------- -------
+Astronomical      44         44
+Aircraft          45         45
+Balloon           49         49
+Unknown           45         45
+Other             13         13
+Total            196        196
+
+TABLE - EVALUATION OF REPORTS
+Evaluation  Number  Pct  Astronomical  Aircraft  Balloon  Celestial  Military Unidentified  Other  Total  
+----------  ------  ---  ------------  --------  -------  ---------  -------  ------------  -----  -----
+Astronomical   44    22.4%  44.0         0.0       0.0      0.0         0.0     0.0           0.0    44.0
+Aircraft        45    22.9%  0.0          45.0      0.0      0.0         0.0     0.0           0.0    45.0
+Balloon         49    25.0%  0.0          0.0       49.0     0.0         0.0     0.0           0.0    49.0 
+Unknown         45    23.0%  0.0          0.0       0.0      0.0         0.0     45.0          0.0    45.0
+Other           13     6.7%  0.0          0.0       0.0      0.0         0.0     0.0           13.0   13.0
+Total          196   100.0%  44.0         45.0      49.0     0.0         0.0     45.0          13.0   196.0
+
+TABLE - EVALUATION OF ORIGIN
+Evaluation  Celestial  Military  Industrial  Scientific  Paranormal  Unknown  Other  Total
+----------  ---------  --------  ----------  ----------  ----------  -------  -----  -----
+A-Aeial        0          7          2           0             0           5       0      14
+B-Balloon       0          2          0           0             0           0       0       2
+C-Celestial    27          0          0           0             0           0       0      27
+D-Meteor-Type   0          0          0           0             0           3       0       3
+E-UnIdentified  0          0          0           0             2           0       0       2
+Total         27          9          2           0             2           8       0      48

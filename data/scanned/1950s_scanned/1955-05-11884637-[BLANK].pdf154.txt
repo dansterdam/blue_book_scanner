@@ -1,0 +1,32 @@
+The shared image does not contain any photographs. It appears to be a page from an old Project Blue Book report, containing various data tables and numerical information. As an OCR (Optical Character Recognition) system, I will output the text found in the document:
+
+UNCLASSIFIED
+Evaluation S-5 S-4 S-3 S-2 S-1 U No Data Total 
+Object Unidentified, Insufficient Information 1 0 0 0 0 0 0 1
+Astronomical 2 1 1 0 0 1 0 5
+Aircraft 0 0 0 0 0 0 0 0
+Other Military 0 0 0 0 0 0 0 0
+Baloon 0 0 0 0 0 0 0 0
+Psychological 0 0 0 0 0 0 0 0
+Other 0 0 0 0 0 0 0 0
+Total 3 1 1 0 0 1 0 6
+
+Evaluation S-5 S-4 S-3 S-2 S-1 U No Data Total
+Aircraft 0 0 0 0 0 0 0 0
+Baloon 0 0 0 0 0 0 0 0
+Astronomical 0 0 0 0 0 0 0 0
+Other Military 0 0 0 0 0 0 0 0
+Other 0 0 0 0 0 0 0 1 1
+Insufficient Information 1 0 0 0 0 0 0 1
+Total 1 0 0 0 0 0 0 1 2
+
+Evaluation S-5 S-4 S-3 S-2 S-1 U No Data Total
+Aircraft 0 0 0 0 0 0 0 0
+Baloon 0 0 0 0 0 0 0 0 
+Astronomical 0 0 0 0 0 0 0 0
+Other Military 0 0 0 0 0 0 0 0
+Other 0 0 0 0 0 0 0 0
+Insufficient Information 0 0 0 0 0 0 0 0
+Total 0 0 0 0 0 0 0 0
+
+230

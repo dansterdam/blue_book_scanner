@@ -1,0 +1,31 @@
+The image does not contain any photographs, only tables with numerical data and text. I will now proceed to extract all the text found in the document:
+
+Table 273 Evaluation of Unit Sightings by Date of Sighting
+Evaluation, Type Sighting, 1954 Total, 1955 Total, Total
+1. Astronomical 14 23 37
+2. Aircraft 66 76 142
+3. Satellite, Missile 2 2 4
+4. Balloon 5 6 11
+5. Ground (lights, etc.) 25 19 44
+6. Insufficient Information 73 53 126
+Total 185 179 364
+
+Table 274 Evaluation of Unit Sightings by Location of Sighting 
+Evaluation, Type Sighting, 1954 Total, 1955 Total, Total
+1. Continental U.S. 161 138 299
+2. Alaska 4 8 12
+3. Far East 6 12 18
+4. Europe, Canada, others 14 21 35
+Total 185 179 364
+
+Table 273a Evaluation of Unit Sightings by Date of Sighting
+Evaluation, Type Sighting, 1954 Total, 1955 Total, Total
+1. Astronomical 3 8 11
+2. Aircraft 7 18 25
+3. Satellite, Missile 0 0 0
+4. Balloon 0 1 1
+5. Ground (lights, etc.) 5 4 9
+6. Insufficient Information 12 17 29
+Total 27 48 75
+
+157

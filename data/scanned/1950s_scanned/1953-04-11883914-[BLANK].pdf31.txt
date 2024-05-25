@@ -1,0 +1,48 @@
+The image appears to contain a scanned document page from Project Blue Book, a historical U.S. Air Force program that investigated reported UFO sightings. The page is titled "SECRET SECURITY INFORMATION" and is marked as "UNCLASSIFIED". 
+
+The document contains a table titled "EXHIBIT II. CODES (Continued)" which lists various codes and their corresponding variables related to UFO sightings, such as visual characteristics, motion, and other attributes.
+
+As an OCR system, I will now output the full text found in the document:
+
+SECRET SECURITY INFORMATION UNCLASSIFIED
+EXHIBIT II. CODES (Continued)
+CODE 43 OBSERVATION METHOD CODE 44 SOUND
+X Variable X Variable
+0 Naked eye 0 Motors
+1 Eye glasses 1 Jet or rockets
+2 Window 2 Explosion
+3 Windshield 3 Whistle aircraft
+4 Binocular 4 Hiss, swishing, whining
+5 Theodolite 5 Humming
+6 Telescope 6 Rumbling or buzzing
+7 Radar 7 None
+8 Photographic 8 Not stated
+9 Other 9 Other
+
+CODE 45 COLOR CODE 46 NUMBER
+X Variable X Variable
+0 Metallic 1 - 2
+1 Light-glow-luminous 3 - 4
+2 Red 5 - 6
+3 Orange 7 - 10
+4 Yellow 11 - 20
+5 Green 21 - 30
+6 Blue 31 or more
+7 Violet
+8 Black
+9 White
+
+CODE 48 SPEED CODE 49 SHAPE
+X Variable X Variable
+0 Hovering, stationary 0 Ellipse
+1 Less than 100 m.p.h. 1 Rocket
+2 100-400 m.p.h. 2 Conventional aircraft
+3 More than 400 m.p.h. 3 Unconventional aircraft
+4 Meteor like 4 Meteor, comet
+5 Not stated 5 Lenticular
+6 Not stated 6 Conical
+7 Not stated 7 Tear drop
+8 Not stated 8 Flame, balls, fire
+9 Other 9 Other
+
+UNCLASSIFIED

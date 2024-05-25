@@ -1,0 +1,46 @@
+The image does not contain any photographs, but rather appears to be a tabular data from a Project Blue Book document. As an OCR (Optical Character Recognition) system, I will output all the text found in the document as follows:
+
+143
+
+NATIONAL MILITARY ESTABLISHMENTS
+
+USA USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF
+1 Aeronautical 55 5 3 18 11 6 6 4 2 10 5 5 3 3 5 5 2 10 5 5 3 3 5 5 2 0
+2 Aircraft, propeller 98 8 2 21 13 8 7 4 3 11 6 7 4 4 6 6 3 11 6 7 4 4 6 6 3 0
+3 Aircraft, jet 61 12 2 13 12 13 13 4 3 11 7 11 6 4 7 12 4 11 7 11 6 4 7 12 4 0
+4 Ballons 57 3 1 10 10 5 5 2 1 6 5 3 3 3 5 3 2 6 5 3 3 3 5 3 2 0
+5 Candles, flares, fireworks 6 0 0 2 0 1 1 0 0 0 0 1 1 1 0 1 0 0 0 1 1 1 0 1 0 0
+6 Celestial bodies 97 7 2 14 17 9 11 4 2 12 6 11 5 4 7 9 4 12 6 11 5 4 7 9 4 0
+7 Helicopters 5 1 0 1 1 1 1 0 1 1 1 0 0 0 1 1 0 1 1 0 0 0 1 1 0 0
+8 Missiles 27 1 1 6 7 4 3 1 1 3 2 3 1 1 3 4 1 3 2 3 1 1 3 4 1 0
+9 Photographic 74 5 2 13 11 7 7 3 2 9 5 7 3 3 6 7 3 9 5 7 3 3 6 7 3 0
+
+Total 480 42 13 98 84 54 54 22 15 63 37 48 26 23 40 48 20 58 37 48 26 23 40 48 20 0
+
+COMMERCIAL, INDUSTRIAL, CIVIL, ETC.
+
+USA USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF
+1 Aeronautical 61 6 3 16 12 6 7 4 3 9 7 7 4 3 6 6 3 9 7 7 4 3 6 6 3 0 
+2 Aircraft, propeller 93 6 2 20 13 9 8 4 3 11 7 6 4 4 6 6 3 11 7 6 4 4 6 6 3 0
+3 Aircraft, jet 58 10 2 10 12 12 12 4 4 10 9 10 7 4 7 10 4 10 9 10 7 4 7 10 4 0
+4 Balloons 49 2 1 8 9 4 4 2 2 5 4 3 3 3 4 3 1 5 4 3 3 3 4 3 1 0
+5 Candles, flares, fireworks 6 0 0 2 0 1 1 0 0 0 0 1 1 1 0 1 0 0 0 1 1 1 0 1 0 0
+6 Celestial bodies 91 6 2 12 16 8 11 4 3 11 7 10 6 4 7 8 4 11 7 10 6 4 7 8 4 0
+7 Helicopters 5 1 0 1 1 1 1 0 1 1 1 0 0 0 1 1 0 1 1 0 0 0 1 1 0 0
+8 Missiles 24 1 1 5 7 3 4 1 1 3 3 3 1 2 3 3 2 3 3 3 1 2 3 3 2 0
+9 Photographic 70 5 2 12 11 7 7 3 3 8 6 7 3 3 6 7 3 8 6 7 3 3 6 7 3 0
+
+Total 457 37 13 86 80 51 55 22 20 58 44 47 29 24 40 47 20 58 44 47 29 24 40 47 20 0
+
+FOREIGN GOVERNMENTS 
+
+USA USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF USAF 
+1 Aeronautical 72 6 4 15 13 7 8 4 3 10 7 7 4 4 7 7 3 10 7 7 4 4 7 7 3 0
+2 Aircraft, propeller 89 7 2 18 13 9 8 4 3 10 7 7 4 4 6 7 3 10 7 7 4 4 6 7 3 0 
+3 Aircraft, jet 54 10 2 9 12 12 12 4 4 10 10 10 7 4 7 10 4 10 10 10 7 4 7 10 4 0
+4 Balloons 48 2 1 7 9 4 4 2 2 4 4 3 3 3 4 3 2 4 4 3 3 3 4 3 2 0
+5 Candles, flares, fireworks 6 0 0 2 0 1 1 0 0 0 0 1 1 1 0 1 0 0 0 1 1 1 0 1 0 0
+6 Celestial bodies 87 6 3 11 15 8 11 4 3 11 7 10 6 4 7 8 4 11 7 10 6 4 7 8 4 0
+7 Helicopters 5 1 0 1 1 1 1 0 1 1 1 0 0 0 1 1 0 1 1 0 0 0 1 1 0 0
+8 Missiles 22 1 1 5 6 4 4 1 1 3 3 3 2 1 3 3 1 3 3 3 2 1 3 3 1 0
+9 Photographic 66 5 3 11 11 7 7 3 3 8 7 7 3 3 6 7 3 8 7 7 3 

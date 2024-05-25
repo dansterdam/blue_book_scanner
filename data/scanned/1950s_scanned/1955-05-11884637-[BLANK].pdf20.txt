@@ -1,0 +1,31 @@
+There is no photograph present in this image. It appears to be a table or spreadsheet containing various numerical data. 
+
+TAKE AT LOCATION OF THE SIGHTINGS ON MONTH & DATE
+Evaluation      July.    Aug.     Sept.
+A-Airplane      6.75     6.75    7.0
+B-Balloon      1.1      0.1      2.0
+C-Celestial     3.6      3.0     2.0
+D-Other         1.7      6.0     0.0
+E-Insufficient  8.5      8.0     6.0 
+F-Psychological 0.3      0.25    0.0
+Total          19.95    23.0    17.0
+
+MAY        June       July     Aug.
+Evaluation
+A-Airplane      4.3       3.0     3.75  
+B-Balloon       0.4       0.0     0.5
+C-Celestial     3.4       3.0     2.75
+D-Other         0.4       4.0     0.5
+E-Insufficient  1.7       1.0     1.25
+F-Psychological 0.3       0.0     0.25
+Total          10.5       11.0    9.0
+
+SEPTEMBER    CAREER    NOVEMB
+Evaluation 
+A-Airplane      3.0      1.75    3.8
+B-Balloon       1.5      1.75    2.0
+C-Celestial     2.0      1.0     0.5
+D-Other         0.5      0.75    0.0
+E-Insufficient  6.0      7.5     1.0
+F-Psychological 0.0      0.5     0.4
+Total          13.0     13.25    7.7

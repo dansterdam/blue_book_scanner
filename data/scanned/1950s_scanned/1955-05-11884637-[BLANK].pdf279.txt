@@ -1,0 +1,20 @@
+The image does not contain any photographs, only a table titled "TABLE III CHI SQUARE TEST OF KNOWNS VERSUS UNKNOWNS ON THE BASIS OF NUMBER". The table presents data related to the number of objects per sighting, the number of knowns, the adjusted number of unknowns, and the number of unknowns, along with the chi-square (x2) value.
+
+TEXT OUTPUT:
+
+TABLE III CHI SQUARE TEST OF KNOWNS VERSUS UNKNOWNS ON THE BASIS OF NUMBER
+Number of  Adjusted   Number of    
+Objects Per Number of KNOWNS (K) UNKNOWNS (n)   x2
+Sighting KNOWNS (K)                (K-n)2
+                                      K
+1        1339       329          297      3.11
+2        159        39           37       3.10
+3-10     185        46           70      12.52
+11 or more 41        10           25      22.50
+Not stated 41        10            5       2.50
+Total    1765       434          434      40.73
+
+Degrees of freedom
+5%                             4
+1%                             9.5
+13.3

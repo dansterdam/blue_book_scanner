@@ -1,0 +1,45 @@
+The image does not contain any photograph. It appears to be a page from a document or report, possibly related to Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
+
+The text in the document is as follows:
+
+DE 75 EVALUATION OF OBSERVER RELIABILITY
+X
+0 Complete
+1 Quite
+2 Fair
+3 Doubtful
+4 Poor
+5 Not
+
+CODE 76 EVALUATION OF REPORT RELIABILITY
+X
+0 Complete
+1 Quite
+2 Fair
+3 Doubtful
+4 Poor
+5 Not
+7 Cannot be judged
+
+CODE 77 RELIABILITY GROUP CLASSIFICATION
+(Based on observer and report rating)
+Excellent (Observer 0 or 1 and Report 0 or 1)
+Good (Observer 0 or 1, Report 2, 3 or 4)
+Doubtful (Observer 2, Report 2)
+Doubtful (Observer 0 or 1, Report 5 or 9)
+Poor (Observer 2, Report 3, 4, 5, or 9; Observer 5
+or 6, Report 2, 3, 4, 5, or 9; Observer 5
+or 6, Report 5, 9, or X)
+
+CODE 78 FINAL IDENTIFICATION
+X Probably
+0 Balloon
+1 Astronomical
+2 Aircraft
+3 Light phenomenon
+4 Birds
+5 Clouds, dust, etc.
+6 Insufficient information
+7 Psychological manifestations
+8 Unknown
+9 Other

@@ -1,0 +1,22 @@
+The image provided appears to be a computation sheet for calculating the atmospheric index of refraction. There is no photograph present in this image. 
+
+The text output is as follows:
+
+RADAR SITE Palermo, N.J.
+RAOB STATION Albany, N.Y. 
+DATE 20 Sept 57 TIME 1800Z
+FORECASTER
+
+P T T4 H1 B
+004 23 17 288 349
+964 19 13 1500 538 
+884 16 12 3910 344
+863 17 11 4550 341
+850 16 19 4980 336
+
+COMPUTATION SHEET
+FOR
+ATMOSPHERIC INDEX OF REFRACTION
+3 WG FORM 29-SEPT 55
+
+ATTACHMENT 2

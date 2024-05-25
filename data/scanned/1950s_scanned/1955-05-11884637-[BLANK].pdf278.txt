@@ -1,0 +1,23 @@
+The image contains a table titled "TABLE II CHI SQUARE TEST OF KNOWNS VERSUS UNKNOWNS ON THE BASIS OF COLOR". The table lists various colors, the number of "KNOWNS", the "Adjusted number of KNOWNS (k)", the "Number of UNKNOWNS (n)", and the "X^2 (K-n)^2/K". There is no photograph in this image.
+
+TABLE II
+CHI SQUARE TEST OF KNOWNS VERSUS UNKNOWNS ON THE BASIS OF COLOR
+
+Color                   Number of    Adjusted    Number of    X^2 
+                        KNOWNS       number of   UNKNOWNS     (K-n)^2/K
+                                     KNOWNS (k)  (n)          
+White                   405          100          76           0.44
+Metallic                313          77           62           2.37
+Not stated              209          51           62           2.37
+Orange                  172          42           49           1.17
+Red                     146          36           33           0.25
+Yellow                  128          31           31           0.0
+Green                   130          32           14           10.13
+Blue                    67           17           26           4.76
+Other                   195          48           31           6.02
+
+Total                   1765         434          434          26.15
+
+Degrees of freedom                               8
+5%                                              15.5 
+1%                                              20.1

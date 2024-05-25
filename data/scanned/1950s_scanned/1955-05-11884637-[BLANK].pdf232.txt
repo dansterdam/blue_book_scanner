@@ -1,0 +1,28 @@
+The image does not contain any photograph. It appears to be a page from a Project Blue Book document, specifically a U.S. Air Force Technical Information Sheet Question. The document contains various codes and descriptions related to the observation of unidentified flying objects, including details such as hour angle, angle of elevation, sun bearing angle, duration of observation, sound, light color, angular velocity, angular acceleration, appearance bearing, disappearance bearing, final elevation, and observer occupation.
+
+U. S. Air Force Technical Information Sheet Question
+Punched Card Code Description
+38 Hour Angle
+19 Angle of Elevation
+40 Angle of Elevation of the Sun
+43 Group Classification
+49 Sun Bearing Angle
+53 Duration of Observation
+55 Group Classification 
+56 How Observed
+57 Sound Color
+58 Light Color
+60 Color Group Classification
+61 Number
+6/2 Speed
+11. 17. 21. 22. 24. Description Size
+13. 23. 30. 31. 2. Angular Velocity
+29. 31. 1. Angular Acceleration
+31. 32. Appearance Bearing, Disappearance Bearing, Final Elevation Orientation
+74 Maneuvers
+75 Observer Occupation
+75 Observer Rating
+76 Report Rating
+78 Final Identification Classification
+* Denotes that separate code key is needed.
+312

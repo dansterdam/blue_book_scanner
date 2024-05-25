@@ -1,0 +1,22 @@
+The image contains a Project 10073 Record Card with information about an observation made on July 7, 1951 in Newport News, Virginia. The Type of Observation field indicates that it was a Ground-Radar observation. The Number of Objects field shows a count of 1. The Description of Objects field states "Gaseous Glow, Shape Spherical, Object appeared to suddenly black out and plunge earthward, Object in NW at 45 deg elevation." The Conclusions field notes that the object was "stationary until disappearance", and that it "Disappeared attributed to probable disappearance in cloud condition. Case evaluated as ARCTURUS."
+
+PROJECT 10073 RECORD CARD
+1. DATE
+July 7, 1951
+3. DATE-TIME GROUP
+2205Z
+4. TYPE OF OBSERVATION
+[] Ground-Visual
+[] Ground-Radar
+[] Air-Visual
+[] Air-Intercept Radar
+5. SOURCE 
+Military
+6. NUMBER OF OBJECTS
+1
+8. COURSE
+N/A
+9. CONCLUSIONS
+Object stationary until disappearance. Disappeared attributed to probable disappearance in cloud condition. Case evaluated as ARCTURUS.
+10. BRIEF SUMMARY OF SIGHTING
+Gaseous Glow, Shape Spherical. Object appeared to suddenly black out and plunge earthward. Object in NW at 45 deg elevation.

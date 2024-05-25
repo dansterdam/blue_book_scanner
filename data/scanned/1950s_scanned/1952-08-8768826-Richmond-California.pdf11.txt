@@ -1,0 +1,53 @@
+The provided image does not contain any photographs. It appears to be a page from a Project Blue Book document, specifically a worksheet with various checkboxes and fields to be filled out.
+
+TEXT FROM THE DOCUMENT:
+
+PROJECT 10073 WORKSHEET
+1. DATE   
+2. LOCATION
+3. TIME
+Local: 2030
+4. WAS OBJECT OBSERVED FROM THE GROUND?
+   Naked Eye
+   Binoculars
+   Telescope 
+   Theodolite
+5. WAS OBJECT OBSERVED BY GROUND RADAR? 
+   Yes
+   Fly Gas Set
+   By Arc Radar
+   By Trig Set
+6. WAS OBJECT OBSERVED FROM THE AIR?
+   Yes
+7. WAS AIRCRAFT SCRAMBLED TO INTERCEPT?
+   A/C Scrambled
+   Visual Contact Made
+   V/C Contact Made
+   No Contact Made
+8. DID OBJECT CHANGE DIRECTION AT ANY TIME?
+   Yes
+9. IF OBJECT WAS A "LIGHT", WAS IT: 
+   Blinking
+   Steady
+10. LENGTH OF TIME IN SIGHT: 
+   1-5 Minutes
+   5-10 Minutes
+   Over 10 Minutes
+11. REPORTING AGENCY (Unit Number and Mailing Address):
+
+II. ASTRONOMICAL DATA
+12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED? N.S
+13. DID OBJECT APPEAR TO ALIGN DIRECTLY?
+   Yes
+   No
+14. DID OBJECT APPEAR TO DISINTERGRATE?
+15. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (OPTIONAL FROM AIR SIGHTING):
+   Right
+   Day
+   Sunrise
+   Sunset
+
+III. AIRCRAFT DATA 
+   Yes
+   One Aircraft
+   More Than One Aircraft

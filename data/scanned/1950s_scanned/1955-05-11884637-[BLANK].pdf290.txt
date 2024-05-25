@@ -1,0 +1,20 @@
+The image does not contain any photographs. It appears to be a table titled "CHI SQUARE TEST OF REVISED KNOWNS VERSUS UNKNOWNS ON THE BASIS OF DURATION OF OBSERVATION". The table shows various durations of observation, the number of KNOWNS, the adjusted number of KNOWNS (K), the number of UNKNOWNS (n), and the value of (K-n)^2/K. The table also lists the degrees of freedom as 7, 5%, and 1%.
+
+TABLE XI  CHI SQUARE TEST OF REVISED KNOWNS VERSUS UNKNOWNS
+ON THE BASIS OF DURATION OF OBSERVATION
+
+Duration of      Number of        Adjusted       Number of      (K-n)^2
+Observation     KNOWNS          KNOWNS (K)      UNKNOWNS (n)      K
+5 sec or less     92                31              27            0.52
+6-10 sec          47                16              21            1.56
+11-30 sec        118                40              33            1.23
+31-60 sec         92                31              42            3.90
+61 sec--5 min    252                85              99            2.31
+6 min--30 min    259                87              71            2.94
+Over 30 min       51                17             184            1.16
+Not stated      3335               113             184            0.72
+Total           1286               434             434           14.34
+
+Degrees of freedom  7
+5%                                                            14.1
+1%                                                            18.5

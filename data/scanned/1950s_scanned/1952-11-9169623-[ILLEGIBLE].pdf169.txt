@@ -1,0 +1,11 @@
+The image contains two sketches. The first sketch depicts a curved line representing the horizon, and an object above the horizon line with rays or a trail of some kind extending outwards. The text below this sketch states "NO CURVE IN MOVEMENT!".
+
+The second sketch shows a larger panoramic view with a person standing on a road, and two smaller inset sketches - one showing a curved road leading up to a mountain, and the other showing a person standing and looking at an object in the sky.
+
+As an OCR system, the text I can extract from the document is:
+
+32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
+
+33. In the following larger sketch place an "A" at the position where you first saw the object, and a "B" at its position when you last saw it. Refer to smaller sketch as an example of how to complete the larger sketch.
+
+NO CURVE IN MOVEMENT!

@@ -1,0 +1,69 @@
+There is no photograph present in this image. This appears to be a page from a document containing text and numerical codes related to various parameters used in Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs).
+
+CODE 50 SHAPE PARAMETER 8/b
+X - Variable
+0 - 0.05
+1 - 0.1
+2 - 0.2
+3 - 0.3
+4 - 0.5
+5 - 0.7
+6 - 0.9
+7 - 0.95
+8 - 1.0
+9 - Other
+
+CODE 52 LIGHT BRIGHTNESS (Intensity)
+X Decreased
+0 Sunlight on mirror
+1 Sunlight on aluminum
+2 Sunlight on plaster
+3 Sunlight on stone
+4 Sunlight on soil
+5 Brighter than moon
+6 Brighter than sun
+7 Duller than moon
+8 Barely visible
+9 Other
+
+CODE 53 ANGULAR VELOCITY
+X Variable
+0 Zero
+1 Very slow, 1° per second
+2 Slow, 3° per second
+3 Moderate, 60 per second
+4 Rapid, 120 per second
+5 Very fast, 300 per second
+6 Extremely fast, 900 per second
+7 More than 900 per second
+8
+9 Other
+
+CODE 54 ANGULAR ACCELERATION
+(Change in Angular Velocity)
+X Variable
+0 Zero, V=Constant
+1 Increasing slowly
+2 Decreasing slowly
+3 Increasing fast
+4 Decreasing fast
+5 Increasing very fast
+6 Decreasing very fast
+7
+8
+9
+
+CODE 55 APPEARANCE BEARING
+X
+0 - N
+1 - NE
+2 - E
+3 - SE
+4 - S
+5 - SW
+6 - W
+7 - NW
+8
+9
+
+293

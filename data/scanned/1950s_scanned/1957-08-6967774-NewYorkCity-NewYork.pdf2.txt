@@ -1,0 +1,28 @@
+The image contains a handwritten document with detailed descriptions of an unidentified flying object (UFO) sighting. There is a sketch or diagram showing the trajectory of the object. The text describes the object as having a "steady bright white light" and making a "like loud thunder" sound. No human faces or identities are visible in the image.
+
+The output of the OCR (Optical Character Recognition) system is as follows:
+
+RA 15s
+WPB131 YDA139 TYA16SMB184 FF8 13LOWA 135
+PP RJEDEN RJEDWP RJEPHQ RJEPNY
+DE RJEPOW 106 
+P 1419202
+FM COMDR 2502 ABWG MITCHEL AFB NY
+TO RJEDEN/COMDR ADC ENT AFB COLO
+RJEPNY/COMDR 26 AIR DIV ADC ROSLYN AFB NY
+RJEDWP/COMDR AIR TECHNICAL INTEL CEN WPAFB OHIO
+RJEPHQ/DIR OF INTEL HQ USAF WASHDC
+
+UNCLAS ABOAB-B- UFOB
+(A) SIMILAR TO MEDIUM TRANSPORT TYPE AIRPLANE
+(B) PPA
+(C) NEGATIVE
+(D) 3 OR 5 
+(E) FILED TWO ABREAST
+(F) EACH OBJECT POSSESSED A STEADY BRIGHT WHITE LIGHT
+(G) NEGATIVE
+(H) LIKE LOUD THUNDER
+(I) NEGATIVE
+
+PAGE TWO RJEPOW 106
+(2A) (A) BRIGHT LIGHT OF EACH OBJECT

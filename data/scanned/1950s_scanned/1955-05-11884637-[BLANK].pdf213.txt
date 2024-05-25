@@ -1,0 +1,77 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book document that outlines various codes and their meanings for categorizing UFO sightings and observations.
+
+CODES
+
+CODE 1. GENERAL
+a. Every column must have at least one entry. If no data are available for any column, the X should be used.
+b. If a number in any column is used to enter data, then X qualifies the data as indicated in the Code for the specific column.
+
+CODE 25 DURATION UNITS
+X
+Y
+0 Days
+1 Hours
+2 Minutes
+3 Seconds
+4
+5
+6
+7
+8
+9
+
+CODE 28 LATITUDE
+X South latitude
+Y
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+CODE 32 LONGITUDE
+X East longitude
+Y
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+CODE 41 POSITION
+X Variable
+Y
+0 In car
+1 Outdoors
+2 In plane
+3 In building
+4
+5
+6
+7
+9 Other
+
+CODE 42 MOVEMENT OF OBSERVER
+X
+Y
+0 Wasn't moving
+1 Was moving - stopped
+2 Was moving - didn't stop
+3
+4
+5
+6
+7
+9
+
+291

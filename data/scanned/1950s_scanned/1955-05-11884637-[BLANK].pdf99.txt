@@ -1,0 +1,65 @@
+The image does not contain a photograph. It appears to be a table or spreadsheet with various columns and rows of data, likely related to some kind of reporting or record-keeping.
+
+JANUARY 
+EVALUATION CENTER NAME TOTAL
+A-28 Aiken, S.C. 6    
+A-29 Florence, Ala. 3    
+A-30 Houma, La. 1    
+A-31 Baton Rouge, La. 1    
+A-32 Lafayette, La. 1    
+A-33 Shreveport, La. 5    
+A-34 Mobile, Ala. 10    
+A-35 Birmingham, Ala. 6    
+A-36 Jackson, Miss. 2    
+A-37 Vicksburg, Miss. 1    
+A-38 Hattiesburg, Miss. 3    
+A-39 Gulfport, Miss. 3    
+Total 42
+
+FEBRUARY
+EVALUATION CENTER NAME TOTAL
+A-28 Aiken, S.C. 4
+A-29 Florence, Ala. 1
+A-30 Houma, La. 2
+A-31 Baton Rouge, La. 2
+A-32 Lafayette, La. 1
+A-33 Shreveport, La. 5
+A-34 Mobile, Ala. 15
+A-35 Birmingham, Ala. 1
+A-36 Jackson, Miss. 7
+A-37 Vicksburg, Miss. 1
+A-38 Hattiesburg, Miss. 4
+A-39 Gulfport, Miss. 2
+Total 45
+
+MARCH
+EVALUATION CENTER NAME TOTAL
+A-28 Aiken, S.C. 3
+A-29 Florence, Ala. 4
+A-30 Houma, La. 1
+A-31 Baton Rouge, La. 1
+A-32 Lafayette, La. 4
+A-33 Shreveport, La. 6
+A-34 Mobile, Ala. 10
+A-35 Birmingham, Ala. 1
+A-36 Jackson, Miss. 5
+A-37 Vicksburg, Miss. 3
+A-38 Hattiesburg, Miss. 2
+A-39 Gulfport, Miss. 7
+Total 47
+
+APRIL
+EVALUATION CENTER NAME TOTAL
+A-28 Aiken, S.C. 1
+A-29 Florence, Ala. 1
+A-30 Houma, La. 1
+A-31 Baton Rouge, La. 3
+A-32 Lafayette, La. 1
+A-33 Shreveport, La. 3
+A-34 Mobile, Ala. 1
+A-35 Birmingham, Ala. 1
+A-36 Jackson, Miss. 5
+A-37 Vicksburg, Miss. 3
+A-38 Hattiesburg, Miss. 4
+A-39 Gulfport, Miss. 2
+Total 26

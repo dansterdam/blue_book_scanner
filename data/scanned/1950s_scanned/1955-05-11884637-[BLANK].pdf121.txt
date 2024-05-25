@@ -1,0 +1,47 @@
+The image does not contain any photographs. It appears to be a tabular data table with various fields and numerical values.
+
+Table 1.
+Location Color
+Desc.   H
+G C
+I   Horiz. Vert.
+1. Amarillo, Tex.                      4   9 6 7
+2. Arizona                             45  97  95 99
+3. Arkansas                            48  97  96 99
+4. California                          49  97  97  99
+5. Colorado                            49  97  97  99
+6. Florida                             45  93  92  98
+7. Georgia                             46  95  95  98
+8. Idaho                               49  97  97  99
+9. Illinois                            46  95  95  98
+10. Indiana                             46  95  95  98
+11. Iowa                                46  95  95  98
+12. Kansas                              49  97  97  99
+13. Kentucky                            46  95  95  98
+14. Louisiana                           45  93  92  98
+15. Maryland                            47  96  96  99
+16. Michigan                            46  95  95  98
+17. Minnesota                           46  95  95  98
+18. Mississippi                         45  93  92  98
+19. Missouri                            47  96  96  99
+20. Montana                             49  97  97  99
+21. Nevada                              49  97  97  99
+22. New Mexico                          49  97  97  99
+23. New York                            47  96  96  99
+24. North Carolina                      46  95  95  98
+25. North Dakota                        46  95  95  98
+26. Ohio                                46  95  95  98
+27. Oklahoma                            49  97  97  99
+28. Oregon                              49  97  97  99
+29. Pennsylvania                        46  95  95  98
+30. South Carolina                      46  95  95  98
+31. South Dakota                        46  95  95  98
+32. Tennessee                           46  95  95  98
+33. Texas                               45  93  92  98
+34. Utah                                49  97  97  99
+35. Virginia                            46  95  95  98
+36. Washington                          49  97  97  99
+37. West Virginia                       46  95  95  98
+38. Wisconsin                           46  95  95  98
+39. Wyoming                             49  97  97  99
+Total                                 1,761 1,683 1,661 1,748

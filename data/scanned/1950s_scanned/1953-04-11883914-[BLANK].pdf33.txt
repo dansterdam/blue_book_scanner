@@ -1,0 +1,50 @@
+The image does not contain any photographs. It appears to be a page from an old project Blue Book report containing various codes and information related to UFO sightings.
+
+SECRET SECURITY INFORMATION UNCLASSIFIED
+
+EXHIBIT II. CODES (Continued)
+
+CODE 57-58 ELEVATION WITH RESPECT TO GROUND, DEGREES
+X = Variable 
+Y = Variable
+0 = 0-9
+1 = 10-19
+2 = 20-29
+3 = 30-39
+4 = 40-49
+5 = 50-59
+6 = 60-69
+7 = 70-79
+8 = 80-89
+
+CODE 61 OBJECT ORIENTATION
+Apparent orientation of principal axis. From horizontal clockwise.
+
+CODE 62-63-64 CIVILIAN OCCUPATION
+Dictionary of Occupational Titles, Vol. II, 2nd edition, pp. 914-917. 
+U.S. Department of Labor, Bureau of Employment Security. U.S. Government Printing Office, Washington, D.C., 1949.
+
+CODE 65 SERVICE
+0 = Army
+1 = Navy 
+2 = Marine
+3 = Air Force
+4 = Coast Guard
+5 = Merchant
+6 = Commercial air
+7 = CAA
+8 = Government contractor
+9 = Other
+
+CODE 66 DUTY
+0 = Pilot
+1 = Weather tech.
+2 = Radar tech.
+3 = Tower op.
+4 = Balloon ops.
+5 = Guards, lookouts
+6 = Ground or deck crews
+7 = Nvg. or bombardier
+8 = Other
+
+SECRET SECURITY INFORMATION UNCLASSIFIED

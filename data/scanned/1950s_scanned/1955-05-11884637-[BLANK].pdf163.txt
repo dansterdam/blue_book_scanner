@@ -1,0 +1,44 @@
+The image does not contain any photographs, but rather appears to be a page from a Project Blue Book document containing tables of data and text.
+
+As an OCR system, the text found in the document is as follows:
+
+TABLE
+7.50 WT. OF ANIMALS INVOLVED FOR THE WEEKS OF DECEMBER 28, 1952 TO JANUARY 24, 1953
+Evaluation Aircraft Radar Ground Radar Instrument Visual Total
+1. Airplanes 6.5 4.4 6.5 33.1 50.5 
+2. Balloons 3.5 2.5 0.5 13.5 20.0
+3. Astronomical 5.0 1.0 2.0 51.0 59.0
+4. Aircraft, Bird, Other 0.5 0.5 0.0 14.5 15.5
+5. Clouds, Dust, Etc. 0.0 0.0 0.0 25.0 25.0
+6. Insufficient Data 0.5 0.5 0.0 1.5 2.5
+Total 16.0 8.9 9.0 138.6 172.5
+
+AVERAGE DURATION OF SIGHTINGS IN MINUTES
+Evaluation Aircraft Radar Ground Radar Instrument Visual Total
+1. Airplanes 4.0 3.0 3.0 6.0 5.0
+2. Balloons 7.0 4.0 3.0 9.0 8.0
+3. Astronomical 4.0 5.0 5.0 17.0 15.0
+4. Aircraft, Bird, Other 3.0 2.0 0.0 5.0 5.0
+5. Clouds, Dust, Etc. 0.0 0.0 0.0 3.0 3.0
+6. Insufficient Data 3.0 3.0 0.0 3.0 3.0
+Total 5.0 4.0 3.0 9.0 8.0
+
+TABLE A. DISTRIBUTION OF SIGHTINGS BY HOUR - 24 HR. CLOCK
+Evaluation I II III IV V VI VII VIII IX X XI XII Total
+1. Airplanes 0 1 4 19 8 9 4 3 1 1 0 0 50
+2. Balloons 0 0 0 4 2 8 5 1 0 0 0 0 20
+3. Astronomical 0 0 0 10 13 13 14 5 2 1 1 0 59
+4. Aircraft, Bird, Other 0 0 3 5 2 3 1 1 0 0 0 0 15
+5. Clouds, Dust, Etc. 0 0 4 9 6 5 1 0 0 0 0 0 25
+6. Insufficient Data 0 0 1 0 0 1 0 0 0 0 0 0 2
+Total 0 1 12 47 31 39 25 10 3 2 1 0 171
+
+TABLE B. DISTRIBUTION OF SIGHTINGS BY DAY OF WEEK 
+Evaluation Sun Mon Tue Wed Thu Fri Sat Total
+1. Airplanes 10 9 8 6 5 5 7 50
+2. Balloons 3 4 3 2 4 2 2 20
+3. Astronomical 8 11 15 11 5 6 3 59
+4. Aircraft, Bird, Other 2 4 3 2 2 1 1 15
+5. Clouds, Dust, Etc. 3 4 4 4 5 2 3 25
+6. Insufficient Data 0 0 1 0 1 0 0 2
+Total 26 32 34 25 22 16 16 171

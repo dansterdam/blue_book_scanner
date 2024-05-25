@@ -1,0 +1,40 @@
+The image does not contain any photographs, only a table with numerical data. As an optical character recognition (OCR) system, I will output the text found in the document:
+
+JANUARY FEBRUARY MARCH APRIL
+
+Evaluation T Const Days Sighted Days Sighted Days Sighted Days Sighted
+1. Aeroplane 9 9 6 6 7 7 6 6
+2. Balloon 0 0 0 0 0 0 0 0
+3. Stars & Planets 0 0 0 0 0 0 0 0
+4. Birds 0 0 0 0 0 0 0 0
+5. Meteors 5 5 0 0 0 0 9 9
+6. Satellites 0 0 0 0 0 0 0 0
+7. Fireball 0 0 1 1 0 0 0 0
+8. Unknown 1 1 0 0 0 0 0 0
+Total 15 15 7 7 7 7 15 15
+
+MAY JUNE JULY AUGUST
+
+Evaluation Days Sighted Days Sighted Days Sighted Days Sighted
+1. Aeroplane 9 9 3 3 18 18 17 17
+2. Balloon 0 0 1 1 0 0 0 0
+3. Stars & Planets 0 0 0 0 0 0 0 0
+4. Birds 0 0 0 0 0 0 0 0
+5. Meteors 18 18 3 3 0 0 4 4
+6. Satellites 0 0 0 0 0 0 0 0
+7. Fireball 0 0 0 0 0 0 1 1
+8. Unknown 0 0 0 0 0 0 0 0
+Total 27 27 7 7 18 18 22 22
+
+SEPTEMBER OCTOBER NOVEMBER DECEMBER
+
+Evaluation Days Sighted Days Sighted Days Sighted Days Sighted 
+1. Aeroplane 14 14 21 21 23 23 21 21
+2. Balloon 1 1 0 0 2 2 0 0
+3. Stars & Planets 0 0 0 0 0 0 0 0
+4. Birds 0 0 0 0 0 0 0 0
+5. Meteors 4 4 1 1 2 2 2 2
+6. Satellites 0 0 0 0 0 0 0 0
+7. Fireball 0 0 0 0 1 1 2 2
+8. Unknown 2 2 0 0 1 1 2 2
+Total 21 21 22 22 29 29 27 27

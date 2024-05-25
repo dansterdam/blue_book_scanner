@@ -1,0 +1,8 @@
+The image appears to contain a graph that depicts the relationship between target size and altitude. The graph shows the estimated altitude range for targets of various sizes, ranging from -4 to 10 db. No human faces are visible in this image.
+
+UNCLASSIFIED
+must be considered an extra track which correlates with neither of the other segments.
+
+3. Characteristics of Airborne Objects: The ADC Range Coverage Indicator was used in an attempt to determine the characteristics of an airborne object which could produce tracks similar to the ones observed at Benton. 
+
+Using an average range based on the range at which the target was last observed on the VU lobe and the range of initial detection on the VC lobe, an estimate of target size and altitude was made. It was found that a plus 10 db target at 135,000 feet is the smallest object that could be lost on the VU lobe and be detected on the VC lobe at approximately this range. Applying the same procedure to the range at which the target disappeared from the VC team, it was determined that the smallest object which could produce this effect would be a minus 2 db target at 230,000 feet. This information is shown graphically in the following figure:

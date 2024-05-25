@@ -1,0 +1,28 @@
+The image does not contain a photograph, but rather a weather data sheet from Project Blue Book. The sheet provides detailed information about an observation, including the date, time, location, altitude, velocity, and direction of the observed object, as well as various other related details.
+
+ATIC Tent Form 333 (13 Aug 52)
+1. DATE OF OBSERVATION: 25 Aug 52
+2. TIME OF OBSERVATION: 0453 Z
+3. STATION OBSERVING: Warminister, Va.
+4. WINDS ALOFT:
+ALTITUDE  VELOCITY  DIRECTION
+0           23,000        5
+1,000        - 
+2,000        - 
+3,000        - 
+4,000        - 
+5,000        20           120
+6,000        - 
+7,000        - 
+8,000        - 
+9,000        - 
+10,000       25           90
+12,000       - 
+14,000       - 
+16,000       15           110
+18,000       - 
+20,000       16           150
+5. WAS AN INVERSION LAYER NOTED?   Yes
+6. WERE ANY THUNDERSTORMS NOTED IN AREA?   No
+7. CLOUD COVER: Overcast at 7o,000' W 0o9'W
+8. VISIBILITY WAS 3.7 MILES.

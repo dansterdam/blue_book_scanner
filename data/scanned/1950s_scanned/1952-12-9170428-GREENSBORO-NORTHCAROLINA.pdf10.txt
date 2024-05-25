@@ -1,0 +1,30 @@
+The image appears to be a geological or topographical map, containing a legend that describes various "Drainage Features" such as "Jagged Lines", "Dots and Splotches", "Coral Reefs & Ledges", "Marshes & Sand Bars", and so on. There is no photograph present in this image.
+
+OCR TEXT OUTPUT:
+DRAINAGE FEATURES
+[Jagged Lines]
+ROCKY
+[Dots and Splotches]
+PHYSICAL FLATS
+[Wavy Lines]
+CORAL REEFS & LEDGES
+[Small Bumps]
+MARSHES & SAND BARS
+[Diagonal Lines]
+SHADED ROCK
+[Two Parallel Wavy Lines]
+OVERFLOWED LANDS
+[Vertical Lines]
+HILLS & VALLEYS
+[Hatch Marks]
+RAPIDS & FALLS
+[Horizontal Lines]
+CANALS
+[Crosshatched Lines]
+LAKES AND PONDS
+[Small Dots]
+GLACIERS
+[Irregular Blotches]
+EAST PONDS
+[Short Vertical Lines]
+SWAMPS

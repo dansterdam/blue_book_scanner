@@ -1,0 +1,35 @@
+The image does not contain any photographs. It appears to be a tabular data sheet with various columns and rows of numerical and textual information.
+
+Full text found in the document:
+
+FULL AIR EVALUATION OF UNIDENTIFIED SIGHTINGS FOR ALL YEAR  
+SQUADRON OR ACTIVITY TIME OF REPORT DURATION OF SIGHTING ALTITUDE  WEATHER   SIGHTINGS REPORTED AZIMUTH  ELEVATION  ACTIVITY KNOWN OR SUSPECTED  OTHER REMARKS 
+5.2....  5.0 10.0 0.33 4.6 7.3 7.3 9.3 2.6 0.33 9.3 -.33  
+2.5.... 17.15 3.0 5.0 4.6 7.3 9.7 5.3 6.6 4.6 0.33 9.7 -3.0 
+1.15... 22.10 3.0 2.5 2.6 3.3 7.7 1.4 1.0 2.6 6.0 7.7 -5.0
+0.3.... 18.15 6.0 5.0 4.6 7.3 7.3 9.3 2.6 4.6 2.0 7.3 -7.0
+12.10.. 21.15 1.0 1.0 2.6 3.3 7.7 1.4 1.0 2.6 4.0 7.7 -9.0 
+20.30.. 17.25 5.0 3.0 4.6 7.3 9.7 5.3 6.6 4.6 0.33 9.7 -11.0
+
+WEATHER CODE   DURATION OF SIGHTING
+1 = Clear       1 = 1-5 min 
+2 = Cloudy      2 = 5-60 min
+3 = Fog        3 = 1-24 hrs
+4 = Rain       ALTITUDE           
+5 = Snow       1 = Ground level
+6 = Thunder-   2 = Below 1,000'
+   storm      3 = 1,000-10,000'
+7 = Overcast  4 = 10,000-30,000'
+             5 = Over 30,000' 
+
+ACTIVITY KNOWN OR SUSPECTED
+0 = No contact
+1 = Aircraft 
+2 = Balloon
+3 = Bird
+4 = Astronomical
+5 = Satellite
+6 = Missile
+7 = Other
+
+211

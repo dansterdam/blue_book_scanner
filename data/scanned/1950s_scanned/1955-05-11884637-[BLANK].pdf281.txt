@@ -1,0 +1,20 @@
+The image provided does not contain any photographs, but rather a table titled "TABLE V CHI SQUARE TEST OF KNOWNS VERSUS UNKNOWNS ON THE BASIS OF DURATION OF OBSERVATION". This table presents statistical data on the duration of observed "unknowns" versus "knowns" in a study, along with the calculated chi-square values.
+
+The text contained in the image is as follows:
+
+TABLE V CHI SQUARE TEST OF KNOWNS VERSUS UNKNOWNS ON THE BASIS OF DURATION OF OBSERVATION
+Duration of Observation  Number of KNOWNS (K) Adjusted Number of UNKNOWNS (K)  Number of UNKNOWNS (n)  X2 (K-n)2/K
+5 sec or less	259	64	27	21.39
+6-10 sec	92	23	21	0.17
+11-30 sec	153	38	33	0.66
+31-60 sec	108	26	42	0.85
+61 sec-5 min	269	66	99	16.50
+6-30 min	305	75	71	0.21
+Over 30 min	135	33	37	0.48
+Not stated	444	109	104	0.23
+Total	1765	434	434	49.49
+
+Degrees of freedom
+5%	7
+1%	14.1
+18.5

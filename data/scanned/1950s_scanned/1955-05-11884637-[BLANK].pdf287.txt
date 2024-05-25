@@ -1,0 +1,24 @@
+The image does not contain any photograph. It appears to be a table with data related to a Chi Square test of revised knowns versus unknowns on the basis of number. The table includes information such as the number of objects per sighting, the number of knowns, the adjusted number of knowns, the number of unknowns, and the calculation of (K-n)^2/K. The table also includes the degrees of freedom for the 5% and 1% significance levels.
+
+TABLE IX
+CHI SQUARE TEST OF REVISED KNOWNS VERSUS UNKNOWNS ON THE BASIS OF NUMBER
+
+Number of
+Objects Per
+Sighting    Number of
+KNOWNS    Adjusted
+Number of
+KNOWNS (K)    Number of
+UNKNOWNS (n)    (K-n)^2/K
+
+1         913        308        297        0.39
+2-10      1142        48         37         2.52
+11 or more 94         57         70         2.96
+Not stated 29         10         5          13.36
+
+Total     1286       434        434        23.73
+
+Degrees of freedom
+ 5%                             4
+ 1%                             9.5
+13.3

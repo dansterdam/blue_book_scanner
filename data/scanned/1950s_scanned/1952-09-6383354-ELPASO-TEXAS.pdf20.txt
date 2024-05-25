@@ -1,0 +1,14 @@
+There does not appear to be any photograph present in this image. This appears to be a page from a Project Blue Book report, specifically a "WEATHER DATA SHEET" form.
+
+1. DATE OF OBSERVATION
+2. TIME OF OBSERVATION
+3. STATION OF OBSERVATION
+4. WINDS ALOFT:
+   ALTITUDE (FEET)  VELOCITY (KNOTS)  DIRECTION (DEGREES)
+5. WAS AN INVERSION LAYER NOTED? (YES/NO)
+6. IF YES, WAS A THUNDERSTORM NOTED IN AREA? (YES/NO)
+7. CLOUD COVER: TENTHS AT ___ FEET, TENTHS AT ___ FEET.
+8. VISIBILITY: ______ MILES.
+9. COMMENTS:
+
+The text and tabular data provided on this form appear to be the only relevant information to extract from this image.

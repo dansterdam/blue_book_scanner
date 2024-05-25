@@ -1,0 +1,56 @@
+The image does not contain any photographs, only text.
+
+CODE 67 RANK EQUIVALENT
+0 Lt. 2nd
+1 Pvt, 1st Cls.
+2 Capt.
+3 Lt. Col.
+4 Col.
+5 Brig. Gen.
+6 Maj. Gen.
+7 Lt. Gen.
+8 Gen.
+
+CODE 76 EVALUATION OF OBSERVER RELIABILITY
+0 Complete
+1 Quite
+2 Reliable
+3 Doubtful
+4 Poor
+5 Not
+
+CODE 77 EVALUATION OF REPORT RELIABILITY
+0 Complete
+1 Quite
+2 Fair
+3 Doubtful
+4 Poor
+5 Not
+8 Can't be judged
+
+CODE 78 PRELIMINARY IDENTIFICATION
+0 Possibly
+1 Balloon
+2 Astronomical
+3 Aircraft
+4 Light phenomenon
+5 Birds
+6 Clouds, dust, etc.
+7 Rocket or missile
+8 Psychological manifestations
+9 Electromagnetic phenomenon
+Other
+
+CODE 79-80 FINAL IDENTIFICATION
+0 Balloon
+1 Astronomical
+2 Aircraft
+3 Light Phenomenon
+4 Birds
+5 Clouds, dust, etc.
+6 Rocket-or-missile Insufficient information
+7 Psychological manifestations
+8 Electromagnetic phenomenon Unknown
+9 Other
+
+295 and 296

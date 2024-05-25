@@ -1,0 +1,64 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book document titled "SECURITY INFORMATION" that discusses codes and classifications for evaluating the reliability of UFO sighting reports.
+
+Text extracted from the document:
+
+SECURITY INFORMATION UNCLASSIFIED
+
+EXHIBIT II. CODES (Continued)
+
+CODE 67 RANK RELIABILITY
+X Officer
+Y Lt. 2nd
+1 Lt. 1st
+2 Capt.
+3 Maj.
+4 Lt. Col.
+5 Col.
+6 Brig. Gen.
+7 Maj. Gen.
+8 Lt. Gen.
+9 General
+
+CODE 76 EVALUATION OF OBSERVER RELIABILITY
+X Complete
+Y Quite
+1 Pair
+2 Doubtful
+3 Poor
+4 Not
+
+CODE 77 EVALUATION OF REPORT RELIABILITY
+X Probably
+Y Complete 
+1 Quite
+2 Doubtful
+3 Doubtful
+4 Poor
+5 Not
+
+CODE 78 PRELIMINARY IDENTIFICATION
+X Possibly
+1 Balloon
+2 Astronomical
+3 Aircraft
+4 Light phenomenon
+5 Birds, dust, etc.
+6 Rocket or missile
+7 Psychological manifestations
+8 Electromagnetic phenomenon
+9 Other
+
+CODE 79-80 FINAL IDENTIFICATION
+X Probably
+1 Balloon
+2 Astronomical
+3 Aircraft
+4 Light phenomenon
+5 Birds
+6 Clouds, dust, etc.
+7 Rocket or missile
+8 Psychological manifestations
+9 Electromagnetic phenomenon
+0 Other
+
+SECRET SECURITY INFORMATION UNCLASSIFIED
