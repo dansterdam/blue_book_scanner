@@ -1,0 +1,35 @@
+There is no photograph present in this image. This appears to be a page from an old document containing information and symbols related to aeronautical symbols, aerodromes, air navigation lights, and miscellaneous information.
+
+AERONAUTICAL SYMBOLS
+AERODROMES
+LAND   WATER
+Aerodrome with facilities    Aerodrome with emergency or no facilities 
+LAND   WATER
+Civil    Military
+AERODROME DATA AND LANDING FACILITIES INFORMATION
+LAND   WATER
+Elevation in feet
+Minimum lighting
+Runway length and surface
+Length of longer runway
+WATER
+Elevation in feet
+Minimum lighting
+Length of normal take-off area
+Length of longer runway
+In meters or feet
+
+AIR NAVIGATION LIGHTS
+Rotating Light (with note)   Flashing Light (with note)
+Rotating Light (with arrow)   Lightship
+Rotating Light (with arrow showing)   Marine Light
+
+MISCELLANEOUS
+Obstruction, less than 500 feet above ground
+Obstruction, 500 feet or higher
+Group Obstruction, less than 500 feet in height
+Prominent Transmission Line
+Mooring Mast
+International Boundary
+Prohibited Area - Flight of aircraft prohibited except as authorized by competent authority
+Caution Area - Visual hazards to air operations

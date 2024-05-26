@@ -1,0 +1,15 @@
+The image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book, specifically the record card for an incident that occurred on 5 June 1955 in Santa Margarita, California.
+
+OUTPUT:
+
+1. DATE: 5 June 1955
+2. LOCATION: Santa Margarita, Calif.
+3. DATE-TIME GROUP: 2304 PST (DAY)
+4. TYPE OF OBSERVATION: D Ground-Radar
+5. PHOTOS: NONE
+6. SOURCE: Civilian
+7. LENGTH OF OBSERVATION: 2-3 minutes
+8. NUMBER OF OBJECTS: 1
+9. COURSE: Straight-away
+10. BRIEF SUMMARY OF SIGHTING: Round, White
+11. COMMENTS: Insufficient data. Might possibly have been a balloon.

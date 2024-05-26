@@ -1,0 +1,66 @@
+There is no photograph present in this image. This appears to be a page from a Project Blue Book report, which includes a section titled "IV. BALLOON DATA" and other sections related to the evaluation of a reported sighting.
+
+IV. BALLOON DATA
+21. WERE BALLOONS RELEASED IN AREA? 
+22. TIME SINCE SCHEDULED BALLOON RELEASE: 
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+Location | Type | Launching Agency | Sighted? | Describe
+
+V. EVALUATION
+21. EVALUATION OF SOURCES
+22. DETAILS OF REPORT
+23. FINAL EVALUATION:
+Was Balloon, Probably Balloon, Possibly Balloon
+Was Aircraft, Probably Aircraft, Possibly Aircraft
+Was Astronomical, Probably Astronomical, Possibly Astronomical
+Other:
+Insufficient Data For Evaluation
+Unknown
+
+24. COMMENTS:
+
+The text output from the document is as follows:
+
+IV. BALLOON DATA
+21. WERE BALLOONS RELEASED IN AREA?
+22. TIME SINCE SCHEDULED BALLOON RELEASE: Minutes
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+Location | Type | Launching Agency | Sighted? | Describe
+a. 
+b.
+c.
+d.
+
+(attach overlay)
+
+V. EVALUATION
+21. EVALUATION OF SOURCES
+Excellent
+Good
+Fair
+Poor
+Unrelibable
+Extremely Doubtful
+Hoax
+
+22. DETAILS OF REPORT
+Good
+Fair
+Poor
+Insufficient to Evaluate
+
+23. FINAL EVALUATION:
+Was Balloon
+Probably Balloon 
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other: 
+Insufficient Data For Evaluation
+Unknown
+
+24. COMMENTS:

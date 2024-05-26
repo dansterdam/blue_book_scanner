@@ -1,0 +1,19 @@
+The image does not contain any photographs, it appears to be a scanned page from a document with text and technical diagrams. 
+
+Transcription of the text in the document:
+
+So that the bearing displayed on the ALA-6 will correspond to the antenna dish in use.
+
+The same toggle switch that applies, or removes, the +28 volts from relay K-701 to the synchronous motor in the receiver, to give SYNCHRONOUS TORQUE, SHOULD FAIL TO ACTUATE WHEN THE BEARING-TO-THE-RADAR-PASSES-THE RADAR, THE INDICATED HEARING THEN WILL MOVE UP-SCOPE INSTEAD OF DOWN-SCOPE.
+
+The switch toggle is not only the means of connecting or disconnecting the CPS-6B radar at BORESIGT, but also determines the direction in which the bearing displayed on the ALA-6 will move.
+
+According to McClure's recent recollection, the displayed bearing movement did coincide with the ALA-6 antenna dish movement. This would be the angular movement expected if the RR-47 was within approximately 20 miles of the sited radar.
+
+In the mid-1950s, at the time the ALA-6 was built, the two primary components comprising the unit were the basic ALA-6 system and the CPS-6B radar. The unit's purpose was for a missile tracking mission, to be discussed shortly, suggests that the malfunction of K-301 intermixed the temporary one and that it later caused the anomalous bearing.
+
+This could have resulted from an imperfect, cold-solder connection, to explain a +300 termination, or within the solenoidal call -- another possibility is that moisture accumulated in the K-301 relay, causing a humidity-related malfunction.
+
+The same sort of 180° ambiguity could also result if relay K-301 functioned properly, but the antenna dish of the opposite rotation had been connected. This condition, it would be operating from an antenna dish of the opposite rotation as designated by the incidence, should be readily observable. However, because the RR-47 was so close to the powerful CPS-6B at Bison1, the distortion in the ALA-6 strength might be detectable.
+
+Beyond the possibility of an 180° ambiguity caused by a malfunction of relay K-701, there are other sources, such as an intermittent malfunction in the synchronization. McClure says that he abandoned the anomalous bearing signal after about 5 minutes, without noticing the aircraft commander or the other two-limit (IGO) operators. Some remained unaccounted for.

@@ -1,0 +1,9 @@
+The image contains an electrical schematic diagram with various components labeled, including an ALA-6 detection finder, an ASA-656 antenna assembly, and other related parts and connections. There is no photograph present in this image.
+
+McClure decided that there must be a malfunction in his ALA-6, but he did not report it to the aircraft commander at the time. (It was not until later, following the installation of the electronic counter-measure devices on the RB-47 at greater than the RB-47's 500 mph speed.)
+
+Analysis of circuite diagram from the ALA-6 instruction books suggests several possible malfunctions that could cause an anomalous up-down movement, one of which is considered more probable, i.e. the ALA-6 antenna is moved from the optimum signal when the signal is horizontally polarized, while the other is used when the signal is vertically polarized.
+
+The ALA-6 operator selects the proper antenna dish by means of a toggle switch on the ALA-6 control panel. If the incorrect one is selected, the signals received will not be properly processed and the optimum signal may not be obtained.
+
+When selecting the appropriate antenna dish, care must be exercised to insure that the relay KPOL will be operated to obtain correct polarization to the APR-9 receiver. The spring-loaded relay then connects the horizontally polarized dish to the APR-9.

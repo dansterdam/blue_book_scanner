@@ -1,0 +1,19 @@
+The image does not contain any photograph. It appears to be a page from a report document, possibly related to Project Blue Book, discussing radar observations and the behavior of an object detected by radar.
+
+As an OCR system, the text found in the document is as follows:
+
+Because the PPI of the ALA-6 display corresponds to a bearing of 175° of the aircraft indicator, this indícates the azimuth of the aircraft was 175°. If the radar was dead-ahead of the aircraft, then the radar would be astern of the airplane, on its right-hand side.
+
+As the aircraft files along, unless the radar is dead-ahead or astern, the radar set scanning cone is moving in a circle around the aircraft. If the airplane is turning toward the radar, then the bearing will move.
+
+As the RB-47 approached the coast in the predawn hours of July 17, 1957, the scope pictures decided to change out his equipment. Beginning at the high end of the APR-9 frequency range (5,000 me), he found an alarming signal on the radar, one of several models then in use. (A slightly later version of the RB-47 aircraft was the ANF/PS-10, with identical signal characteristics.)
+
+It is important to note that McClure did not write down the precise frequency of the S-band signal so we are not certain of the precise frequency of the S-band signal line incident.
+
+The S-band signal even showed that the source was a scanning C-band radar. This is manifested by the brief appearance, then disappearance, of the signal bearing display on the airplane's B-scan indicator. As the antenna rotates to where it no longer illuminates the airplane, the signal disappears.
+
+McClure was not surprised to see a signal with the characteristics described to me, for such a radar was installed near Mirlox, near the RB-47 position. Signals from this radar were also monitored with an APN force in the vicinity.
+
+The signal was "mighty strong," according to McClure, as would be expected if it came from the 630-68 radar. However, the ALA-6 showed the radar to be on the RIGHT-HAND SIDE of the RB-47, not roughly the FRONT as would be expected from the Mirlox radar. McClure knew there were no such shipboard radars.
+
+As the RB-47 continued toward Victorville, McClure noted another anomalous characteristic. Instead of the displayed bearing moving down-scope, it moved up-scope. McClure knew that such behavior could occur if the airplane were in a climbing maneuver. (This would confirm the fact that the incident happened near the coast rather than at Healdton.)

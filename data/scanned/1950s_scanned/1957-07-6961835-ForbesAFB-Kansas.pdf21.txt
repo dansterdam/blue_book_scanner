@@ -1,0 +1,8 @@
+This page from the Project Blue Book document does not contain a photograph. It appears to be a typed incident report with technical details about a radar signal detection.
+
+THE THIRD INCIDENT:
+When McClure noticed ECM Monitor #3, Walter A. Tuchscherex, laughing and asked the reason, Tuchscherex (who had been listening on the R-47 intercept) replied: "They're getting ECCM pretty well." According to Tuchscherex, the signal that McClure had detected earlier was an electronic countermeasures (ECM) signal, and the operators were having success in countering it.
+
+The report goes on to provide details about the technical characteristics of the detected radar signal, including its pulse repetition frequency, pulse length, and scan rate. It also mentions that the CPS-6B radar system detected six separate beams from three different antenna dishes, each operating in a different part of the S-band.
+
+The text indicates that an expert on the APR-9 blind receiver stated that the small incident could easily cause an operator to re-tune from the signal, as it would not take more than 10-15 seconds for him to re-tune from it.

@@ -1,0 +1,10 @@
+The image contains three sketches, but no photographs.
+
+The first sketch shows a curved line with an "A" and a "B" marked on it. The text instructs the viewer to imagine they are at the point shown, and to place an "A" on the curved line to show how high the object was above the horizon when they first saw it, and a "B" on the same curved line to show how high the object was when they last saw it.
+
+The second and third sketches are larger and show different views of a landscape, with a person standing in the foreground. The text instructs the viewer to place an "A" at the position where the object was when they first saw it, and a "B" at the position where they last saw it, as an example of how to complete the larger sketch.
+
+OUTPUT TEXT:
+32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
+
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to a smaller sketch as an example of how to complete the larger sketch.

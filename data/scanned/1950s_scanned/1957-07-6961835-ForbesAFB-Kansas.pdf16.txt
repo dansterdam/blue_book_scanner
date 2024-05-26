@@ -1,0 +1,20 @@
+There is no photograph present in this image. It appears to be a page from a document or report regarding Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
+
+OCR text output:
+
+West-bound leg: The three ENM operators would check their equipment against the spurious ground radars and military communications found in this region.
+
+THE FIRST INCIDENT:
+This incident involved only some unusual behavior of the AN/ALA-6 Flint equipment operated by ECM Monitor #2, Frank B. McClure. There are no reports of any visual UFO sightings.
+
+McClure's current recollection is that the incident occurred as the RB-47 was approaching the Brookley Air Force Base Station in Alabama. Although radar tracking apparently confirmed the presence of the unidentified aircraft, McClure did not discuss this with other crew members of the anomalous behavior of his equipment at the time; it is not possible to determine other crew members' reactions for this incident. in the event the incident occurred near Biloxi.
+
+As the ALA-6 indicated the contact, McClure decided to check the operation of the equipment, knowing that the aircraft was approaching air defense ground radars against which the ALA-6 was designed to function. The system involved the acquisition by the ALA-6 of an associated AN/APR-9 pulse analyzer.
+
+The signals characteristics, among taking several bearings to the source of the signal at the pulse analyzer, indicated the position of ground radar and to measure the characteristics. The ALA-6 can be fitted with several different types of antennas, depending on the frequency of the ground radars involved. (See ALA-6 Handbook of Operating Instructions covering this installment). The ALA-6 contains a test transmitter operating at 1,000 mc. (c-band), and a receiver. It consists of two nearly identical parabolic antenna dishes which move automatically at 130 rpm or 200 rpm, scanning the area of interest.
+
+To illustrate how the ALA-6 functions to measure bearing to a ground radar, which is important to understanding the 060 case, when the Flint aircraft is within receiving range of a ground radar and the radar and airplane antennas come into alignment, the ALA-6 is assured of receiving ground radar.
+
+The signals received are fed to the APR-9 Flint receiver for detection/amplification for the Flint operators. The frequency selector switch allows the Flint operators to select the signal of interest at specific tunable 10 mc. filter steps. "Off-axis", the antenna assembly contains a servo-mechanism whose rotor is geared to the parabolic dishes and rotates the whole in the same direction as the dishes. This servo-mechanism then determines the azimuth bearing and feeds the information to the deflection amplifiers and then to the vertical/horizontal deflection plates of the ALA-6 CRT display.
+
+At such times as the airplane is illuminated by a radar, the ALA-6 will display the situation somehow as shown in Fig. 3. (See next page.) The photo shown is an idealized version copied from the ALA-6 operator's manual.

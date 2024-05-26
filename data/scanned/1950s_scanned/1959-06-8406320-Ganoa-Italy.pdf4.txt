@@ -1,0 +1,11 @@
+The image contains a hand-drawn diagram depicting the "Trajectory of the flying object". The diagram shows a curved line that appears to represent the path of the observed object, with annotations indicating various points of interest such as "Jupiter" and the "Height of Jupiter on the horizon". There is also text below the diagram providing additional details about the observation, including the date, location, and atmospheric conditions at the time.
+
+Extracting the text from the document:
+
+<Blink dots> = Observable size of the dots in the sky with my glass.
+----- = Trajectory of the flying object.
+J = Jupiter.
+H = Height of Jupiter on the horizon.
+TIME of Observation - 3rd. June 1959 at 21.43 local time(Ganoa-ITALY)
+SKY = moonless.
+Atmosphere very clear.

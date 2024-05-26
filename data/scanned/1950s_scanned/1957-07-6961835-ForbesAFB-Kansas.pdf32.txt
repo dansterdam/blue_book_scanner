@@ -1,0 +1,33 @@
+The image provided does not contain a photograph, but rather a technical diagram and accompanying text. The diagram appears to be related to an "ESTIMATED RANGE AT WHICH ALA-6 COULD DETECT SIGNAL FROM CPS-6B/FPS-10 RADAR VERTICAL-CENTER THAN AND ITS SUBURBS AT 56-3/4 ALTITUDE OF 36,500 FEET".
+
+The text provided is as follows:
+
+APPENDIX B
+
+ESTIMATED RANGE AT WHICH ALA-6 COULD DETECT SIGNAL FROM CPS-6B/FPS-10 RADAR VERTICAL-CENTER THAN AND ITS SUBURBS AT 56-3/4 ALTITUDE OF 36,500 FEET.
+
+(Distances shown are as measured along surface of the earth and are not slant ranges.)
+
+UPPER-LOBE
+12° 2¼"
+MAIN BEAM
+2°
+LOWER SIDE-LOBE
+1.5°
+
+DISTANCE IN MILES
+0 1 2 3 4 5 6 7 8
+
+Width of Main Beam = 10 db. down points
+Com-Lobe = 15 db. down from Main Beam
+Lower Side-Lobe = 15 db. down from Main Beam
+Upper Side-Lobe = 12 db. down from Main Beam
+
+NOTE: Radar energy reflected off the ground may partially fill "gap" shown between lower side-lobe and main beam because of antenna's low elevation angle. The elevation angle has been elevated slightly to clear local obstructions.
+
+MY THANKS TO THE FOLLOWING PERSONS AND ORGANIZATIONS FOR THEIR VALUABLE ASSISTANCE
+
+Lt-Col D.A. Grove, FD-47 crew members; Pilot Lewis D. Chase, 2LT Monitor #2, Frank R. Locke, and John E. Meier, FPS-10 crew; Major R.G Amiot, chief, technical director of USA's electronic warfare laboratory at Wright AFB; Civilian engineer, Dr. R.V. Dondanville, consultant on microwave filters, Janes Systems, Inc.; Mr. P.C. Sandretto, technical director of RCA's government service department, Princeton, N.J.; and Mr. D.L. Keene of the USAF FRP group, Wright AFB, who supervised the publication of this report.
+
+Philip J. Klass
+Washington D.C.

@@ -1,0 +1,6 @@
+The image does not contain a photograph, but rather a hand-drawn sketch depicting two overlapping circular shapes with handwritten text inside them. The text inside the larger circle says "Ralph Chen", while the text inside the smaller circle says "blytck".
+
+Output of OCR:
+
+Ralph Chen
+blytck
