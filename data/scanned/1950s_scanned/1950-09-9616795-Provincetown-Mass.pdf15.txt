@@ -1,0 +1,16 @@
+The image contains a Winds Aloft Computation Chart, which appears to be a graphical representation of atmospheric wind data. The chart shows a polar coordinate graph with concentric circles indicating wind speed, and radial lines indicating wind direction. There are annotations and handwritten notes on the chart, including "CAPE COD".
+
+Here is the text from the document, transcribed using optical character recognition:
+
+WINDS ALOFT COMPUTATION CHART
+Pressure Change (in tenths mb.)
+Alt 120 26 1950
+Grid N G 92315
+Surface
+Distinct
+Directive
+
+3AP ST C, X 10-3
+K 3
+K 2O, C, X 10-3
+E CH C, = C

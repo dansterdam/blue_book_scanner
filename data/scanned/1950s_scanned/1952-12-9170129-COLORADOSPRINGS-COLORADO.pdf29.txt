@@ -1,0 +1,23 @@
+The image contains a topographic map but does not include any photographs. As an OCR system, I will now produce the text found in the document:
+
+FOUNTAIN, COLORADO 
+EL PASO COUNTY
+N3337.5-W10437.5/7.5
+
+INTERVAL 20 FEET
+CONTOUR PROJECTION
+AMERICAN SYSTEM
+TRANSVERSE MERCATOR GRID, ZONE 15
+TRUE NORTH - GRID NORTH 0 DEG 08 MIN WEST
+POLYCONIC PROJECTION OMITTED
+
+ANNUAL MAGNETIC CHANGE 6' WESTERLY
+
+To determine accurately earth lines, proceed the
+following steps: 1. Measure the grid distance between
+two adjacent ticks on the east-west grid lines and 
+divide this distance by the actual ground distance
+between the same two ticks on the earth. This will give
+the scale of the map in feet per inch. 2. Measure the
+angle between grid north and the north-south grid
+lines. This angle is the divergence of grid north.

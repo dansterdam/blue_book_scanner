@@ -1,0 +1,16 @@
+The image does not contain any photographs. It appears to be a page from a weather observation report or document, with tabular data recording various weather-related measurements and observations.
+
+U.S. DEPT. OF COMMERCE, WEATHER BUREAU
+SURFACE WEATHER OBSERVATIONS
+STATION... DULUTH, MINNESOTA           DATE MAR 18 1959
+TIME (LST) VISIBILITY  SUN  WEATHER PHENOMENON  STA PRES  SEA  TEMP  DEW PT  WIND DIR  WIND SPD  REMARKS AND SUPPLEMENTARY DATA
+0700       25          4    CLEAR                29.84     -     22      21        E         9          
+0800       25          3    CLEAR                29.85     -     23      21        E         9           
+0900       25          4    CLEAR                29.87     -     25      21        E         10          
+1000       25          4    CLEAR                29.90     -     27      21        E         11          
+1100       25          4    CLEAR                29.91     -     28      20        E         12          
+1200       25          4    CLEAR                29.92     -     29      19        E         13          
+1300       25          4    CLEAR                29.92     -     30      18        E         13          
+1400       25          4    CLEAR                29.91     -     31      17        E         14          
+1500       25          4    CLEAR                29.89     -     31      16        E         13          
+1600       25          4    CLEAR                29.87     -     30      14        E         14           

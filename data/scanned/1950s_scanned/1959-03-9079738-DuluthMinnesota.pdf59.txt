@@ -1,0 +1,22 @@
+The shared image does not contain any photographs. It appears to be a page from a Project Blue Book report, specifically a Surface Weather Observations document.
+
+Output of the text from the document:
+
+STATION                  SURFACE WEATHER OBSERVATIONS
+DATE MAR 9, 1959
+
+TYPE TIME DAY DIRECTION FORCE WEATHER SEA WAVE HT WAVE PER TWO CHAR CHARACTERISTIC TWO CHAR SUPPLEMENTAL GOOD CATE 
+ PST MPH MPH MI OF WAVE FORM  S WIND 
+1 1200   13020      151      275SXV 16      -  -   KL9        KL9
+1 1300   12010      157      275SXV 16      -  -   KL9        KL9 
+1 1400   11010      157      275SXV 16       -  -  KL9         KL9
+1 1500    8010      151      275SXV 16       -  -  KL9         KL9
+1 1600    5010      151      275SXV 16       -  -  KL9         KL9
+1 1700    3005      151      275SXV 16       -  -  KL9         KL9 
+1 1800    4005      151      275SXV 16       -  -  KL9         KL9
+1 1900    4010      151      275SXV 16       -  -  KL9         KL9
+1 2000    4010      151      275SXV 16       -  -  KL9         KL9
+1 2100    3005      151      275SXV 16       -  -  KL9         KL9
+1 2200    3005      151      275SXV 16       -  -  KL9         KL9
+1 2300    3005      151      275SXV 16       -  -  KL9         KL9
+2 0000    3005      151      275SXV 16       -  -  KL9         KL9

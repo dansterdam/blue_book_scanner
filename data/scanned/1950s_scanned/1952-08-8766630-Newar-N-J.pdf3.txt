@@ -1,0 +1,51 @@
+The image does not contain any photographs, only a Project Blue Book worksheet with text entries. I will now proceed to extract and output all the text found in the document:
+
+PROJECT 10073 WORKSHEET
+I. GENERAL
+1. DATE: 19 AUG 52 
+2. LOCATION: Dinnepark, N.J.
+4. WAS OBJECT OBSERVED FROM THE GROUND? 
+[X] Yes
+[   ] Binocular 
+[   ] Telescope  
+[   ] 16mm Movie
+[   ] TV 23-10-13-1
+5. WAS OBJECT OBSERVED BY GROUND RADAR?
+[X] Yes
+[   ] Ry One Set
+[   ] By Two Sets
+[   ] By Three Sets
+6. WAS OBJECT OBSERVED FROM THE AIR?
+[   ] Yes
+[   ] A/C Observed Object
+[   ] Interception Attempted
+[   ] No Intercept Attempted
+7. WAS AIRCRAFT SCRAMBLED TO INTERCEPT? 
+[   ] Yes
+[   ] Visual Contact Made
+[   ] A/C Contact Made
+[   ] No Contact Made
+8. DID OBJECT CHANGE DIRECTION AT ANY TIME? 
+[X] Yes
+9. IF OBJECT WAS A "FLIGHT", WAS IT: 
+[   ] Erratic
+[   ] Steady
+[   ] 1-15 Seconds
+[   ] 1-5 Minutes
+[   ] Over 30 Minutes
+11. REPORTING AGENCY (Unit Number and Mailing Address):
+C. G. Newark, TERN AIR OPS (TRMA), Newark, N.J.
+II. ASTRONOMICAL DATA
+12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED? N/S
+13. DID OBJECT APPEAR TO ARCH DOWNWARD? [   ] Yes
+14. DID OBJECT HAVE A TAIL? [   ] Yes
+15. DID OBJECT APPEAR TO DISINTEGRATE? [   ] Yes
+16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET:
+[   ] Night
+[   ] Day
+[   ] Sunrise
+[   ] Sunset
+III. AIRCRAFT DATA 
+17. WERE AIRCRAFT NOTED IN AREA? [X] Yes
+18. WAS ANY SOUND HEARD? [X] Yes
+19. WERE THERE ANY OF HIGH PERFORMCE CHARACTERISTICS NOTED? [X] Yes

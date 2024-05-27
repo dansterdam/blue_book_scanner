@@ -1,0 +1,20 @@
+The image appears to be a page from an old Project Blue Book document. It contains a table or grid with various columns and rows, but there is no photograph or image visible in this particular document page.
+
+TEXT EXTRACTED FROM THE DOCUMENT:
+
+DEPARTMENT OF COMMERCE, WEATHER BUREAU
+SURFACE WEATHER OBSERVATIONS
+DATE MAR 12 1959
+
+TIME (GMT)
+00 03 06 09 12 15 18 21 24
+WIND
+DIR  -   -  W   -  W  W  W  W   -
+SPD  -   -  10  -  10 11 12 11  -
+VI  10  10 10 10 10 10 10 10 10
+CLD  7   7  7  7  7  7  7  7  7
+TEMP  33 33 34 34 34 33 32 31 31
+DP   32 32 33 33 33 33 32 31 31
+SLP  1011.7
+PRES 29.78
+PRES ATT  2.0

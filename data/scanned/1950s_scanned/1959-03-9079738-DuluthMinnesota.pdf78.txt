@@ -1,0 +1,14 @@
+The image does not contain any photographs, but rather appears to be a scanned page from a Surface Weather Observations document. The text in the document has been captured and is provided below:
+
+SURFACE WEATHER OBSERVATIONS
+STATION: Duluth, Minn.       DATE: May 9, 1959
+TIME  WIND   WIND   SKY CON-  VISIBILITY  WEATHER  TEMP  DEW  PRESS  REMARKS
+(LST)DIRECT  SPEED  DITION   (MILES)     PHENOM.  (°F)  POINT(MB)
+  0   240     10    Broken    12         Haze     66     49    1010.5
+  3   240     10    Broken    12         Haze     66     49    1010.5
+  6   230     10    Broken    12                  68     50    1010.5
+  9   230     12    Broken    15                  70     51    1009.8
+ 12   240     16    Broken    15                  72     52    1008.6
+ 15   240     16    Broken    15                  72     52    1007.5
+ 18   250     14    Broken    15                  68     52    1006.8
+ 21   250     12    Broken    15                  66     52    1007.6

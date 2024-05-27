@@ -1,0 +1,22 @@
+The image does not contain a photograph. It appears to be a page from a weather observation report, likely from Project Blue Book, a historical project that investigated UFO sightings in the United States.
+
+The text in the document is as follows:
+
+U.S. DEPARTMENT OF COMMERCE, WEATHER BUREAU
+STATION
+UPPER AIR OBSERVATION
+DATE: 3/9/59
+TIME: 16:30 GMT
+LATITUDE: 46°51'N
+LONGITUDE: 92°06'W
+PRESSURE - ALTITUDE DATA:
+PRESSURE MB  HEIGHT M  TEMPERATURE C   WIND DIR  WIND SPD
+850.0         1495       -8                  0         0
+700.0         3083       -16                 0         0
+500.0         5538       -26                 0         0
+400.0         7213       -32                 0         0
+300.0         9307       -39                 0         0
+200.0         11934      -48                 0         0
+150.0         13995      -55                 0         0
+100.0         16853      -62                 0         0
+50.0          21101      -72                 0         0

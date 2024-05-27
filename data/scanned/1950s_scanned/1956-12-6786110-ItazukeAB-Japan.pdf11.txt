@@ -1,0 +1,19 @@
+The image does not contain any photographs, only text describing various types of weather balloons. As an OCR system, I will produce the text found in the document:
+
+Part I - Weather Balloons
+
+1. In the analysis of flyoops prior to 1 Jul 52 approximately 15% were classified as "possibly" or "probably" balloons. The basis for decision was that visual observations were all characterized as consistent with the reported balloon performance capabilities, that the balloons could not do in maneuvers, speed, etc., and if the descriptions corresponded even roughly to the behavior of a balloon, it was so classified. If there was no particular reason to believe a balloon was in the area, the report was listed as "unidentified". In a few cases it became a "probable". It was obvious that an effort was made to attempt such conclusions, but in many cases there was not enough detailed information to justify such a conclusion.
+
+2. ATIA-5 approached the problem of weather balloons first. Weather balloons are of the following types:
+
+a. "Radiosonde" - Carries a transmitter and telemetering device for upper-air temperature, pressure and humidity observations. These ascend up to 20' or more in altitude. Carries a parachute and telemetering device under certain conditions which would give radar returns, and might be mistaken for an object under certain conditions.
+
+b. Rawin - Same balloon as above, but it carries only a radar "triangle", and is a wind aloft observation.
+
+c. Rawinsonde - Same, a combination of rawin and radiosonde.
+
+d. Rabal - Same type of balloon, tracked by theodolite for winds aloft observations.
+
+e. Super Skyhook - A large rubber balloon, 30' in diameter at release and 4 or 5' at altitude. Burst and glide comparable to radiosonde. A wind aloft observations carried by theodolite.
+
+In addition, these types of balloons are launched at 0500Z, 0900Z, 1500Z and 2100Z daily. Heavenly bodies may also be mistaken for the balloons, and other diverse phenomena.

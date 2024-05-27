@@ -1,0 +1,19 @@
+There does not appear to be a photograph present in this image. The image shows a page from what seems to be a Project Blue Book document, containing various data fields and observations. As an OCR system, I will now proceed to extract all the text found in the document:
+
+SYNOPTIC OBSERVATIONS
+TIME(LST)   AZIM   ELEV   REMARKS
+2000 1/42   270    0      VERY BRIGHT STAR OBSERVED   
+2000 1/42   270    0      VERY BRIGHT STAR OBSERVED
+2000 1/42   270    0      VERY BRIGHT STAR OBSERVED
+2000 1/42   270    0      VERY BRIGHT STAR OBSERVED
+2000 1/42   270    0      VERY BRIGHT STAR OBSERVED
+
+PHENOMENA OBSERVED PHENOMENA OBSERVED
+DISTANCE BEARING ELEVATION DESCRIPTION
+SEC    DEG     DEG  
+1.0    0       0     OBJ MOVED RAPIDLY FROM BEHIND TREES, VERY BRIGHT LIGHT 
+           DESCRIPTION CONTINUED
+2.0    0       0     OBJ STOPPED, HOVERED MOMENTARILY, THEN ACCELERATED RAPIDLY
+            STRAIGHT UP AND DISAPPEARED
+7.0    0       0     OBJ REAPPEARED FROM BEHIND TREES, REPEATED PREVIOUS MANEUVER
+           DISAPPEARED AGAIN

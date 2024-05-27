@@ -1,0 +1,13 @@
+The image does not contain any photograph, it appears to be a page from a questionnaire or form.
+
+NAME,Last Name,First Name,Middle Name
+ADDRESS,Street,City,Zone,State
+TELEPHONE NUMBER,
+What is your present job?,
+Age,_____,Sex,_____
+Please indicate any special educational training that you have had:
+a. Grade School,x
+b. High School,x
+c. College,
+d. Post graduate,1 year
+Date you completed this questionnaire?,15,3,59

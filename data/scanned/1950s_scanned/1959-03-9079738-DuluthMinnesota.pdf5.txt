@@ -1,0 +1,43 @@
+The image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book, with various questions and instructions related to describing and analyzing observations.
+
+20. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
+
+21. If POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension.
+
+22. How large did the object or objects appear as compared with one of the following objects held in the hand (Circle One): 
+a. Head of a pin 
+b. Pea 
+c. Dime 
+d. Nickel 
+e. Quarter 
+f. Half dollar
+
+22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22): a. Very certain, b. Certain, c. Fairly certain, d. Uncertain
+
+23. How did the object or objects disappear from view?
+
+24. In order that you can give as clear a picture as possible of what you saw, we would like for you to imagine that you could change the scene to your best advantage. What slight changes in the scene would make it easier for you to have gotten a better view of the object? Describe in your own words the scene or action which the object which you saw would give the same experience as the object which you saw.
+
+The text output is as follows:
+
+20. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
+
+21. If POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension. 
+
+22. How large did the object or objects appear as compared with one of the following objects held in the hand (Circle One):
+a. Head of a pin
+b. Pea
+c. Dime
+d. Nickel
+e. Quarter
+f. Half dollar
+
+22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22): 
+a. Very certain
+b. Certain
+c. Fairly certain
+d. Uncertain
+
+23. How did the object or objects disappear from view?
+
+24. In order that you can give as clear a picture as possible of what you saw, we would like for you to imagine that you could change the scene to your best advantage. What slight changes in the scene would make it easier for you to have gotten a better view of the object? Describe in your own words the scene or action which the object which you saw would give the same experience as the object which you saw.

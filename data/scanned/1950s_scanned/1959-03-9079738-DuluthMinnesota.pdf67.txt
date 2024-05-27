@@ -1,0 +1,26 @@
+There is no photograph present in this image. This appears to be a page from an old Project Blue Book document containing weather observation data.
+
+U S DEPARTMENT OF COMMERCE WEATHER BUREAU
+SURFACE WEATHER OBSERVATIONS
+STATION: Duluth, Minnesota
+
+DATE: MAR 13 1959
+
+The text in the document is as follows:
+
+TIME | WEATHER | VISIBILITY | CEILING | TEMP | DEWPT | WIND | SPEED | AMOUNT | KIND | OCEAN DATA | REMARKS
+-- | --|-|-|--|--|--|--|--| --| --| --
+0550 | Clear |15 | | 5 | 3 | 275 | 25 | 0 |  | | Very Light Flg
+0651 | Clear |15 | | 14 | 9 | 320 | 16 | 0 |  | | 
+0751 | Clear |15 | | 16 | 9 | 314 | 23 |0| | |
+0851 | Clear |15 | | 14 | 8 | 304 | 20 |0| | |
+0951 | Clear |15 | | 14 | 8 | 309 | 29 |0| | |
+1051 | Clear |15 | | 15 | 8 | 318 | 21 |0| | |
+1151 | Clear |15 | | 16 | 8 | 317 | 20 |0| | |
+1251 | Clear |15 | | 16 | 7 | 324 | 27 |0| | |
+1351 | Clear |15 | | 16 | 7 | 328 | 24 |0| | |
+1451 | Clear |15 | | 16 | 7 | 332 | 20 |0| | |
+1551 | Clear |15 | | 16 | 6 | 327 | 15 |0| | |
+1651 | Clear |15 | | 15 | 6 | 324 | 18 |0| | |
+1751 | Clear |15 | | 14 | 6 | 314 | 18 |0| | |
+1851 | Clear |15 | | 12 | 6 | 307 | 17 |0| | |

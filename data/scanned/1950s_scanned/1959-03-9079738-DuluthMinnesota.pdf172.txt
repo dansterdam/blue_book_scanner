@@ -1,0 +1,26 @@
+The image does not contain any photographs. It appears to be a document or form with fields for personal information such as name, address, telephone number, sex, and educational background.
+
+Using optical character recognition (OCR) to extract the text from the document:
+
+47. Giving the following information about yourself:
+
+Last Name: [redacted]
+First Name: [redacted]
+Middle Name: [redacted]
+Street: [redacted]
+City: [redacted]
+Zone: [redacted]
+State: [redacted]
+TELEPHONE NUMBER: [redacted]
+What is your present [redacted]?
+Are you: [redacted]
+Sex: [redacted]
+
+Please indicate any special educational training that you have had:
+a. Grade School: [redacted]
+b. High School: [redacted]
+c. College: [redacted]
+d. Post graduate: [redacted]
+
+48. Date you completed this questionnaire?
+17-03-1950

@@ -1,0 +1,135 @@
+The image does not contain any photographs. It appears to be a page from a document related to Project Blue Book, which was a United States Air Force project to investigate Unidentified Flying Objects (UFOs).
+
+Text from the document:
+
+BOMB RELEASE
+LINE
+NO.
+
+AIMING POINT
+(Geographlc Coordinates)
+Z
+X
+Y
+
+TARGET CHART
+REFERENCE
+NUMBER
+
+BOMBING DATA FOR IBDA FROM RADAR
+WIND
+VELOCITY
+
+OFFSET VALUE
+(X and Y)
+ALT. SET
+IN COL.
+
+OFFSET
+
+TRUE
+AIR
+SPEED
+
+TRAIL
+SPEED
+
+ALTITUDE
+FEET
+
+BOMBING DATA FOR IBDA FROM RADAR (Continued)
+LINE
+NO.
+
+AIMING
+ESTIMATED
+CIRCULAR
+ERROR
+FEET
+
+INITIAL
+EXPOSURE
+AF
+
+AG
+
+INTERVALOMETER
+SETTING
+AH
+
+AI
+
+IBDA DATA FROM AERIAL CAME
+
+REMARKS (Weather, etc)
+
+15. TYPE AERIAL
+CAMERA
+
+16. AERIAL CAMERA 17.
+SERIAL NUMBER
+F--1
+
+21. TYPE FILTER
+
+22. TILT ANGLE
+
+23. F/SETTING
+
+24. SHUTTER SP
+
+REMARKS CONCERNING BOMBING BY THIS AIRCRAFT OR OTHER AIRCRAFT (Include post release information)
+
+REMARKS CONCERNING CAMERA MALFUNCTIONS
+
+CAMERA REQUIREMENT ORDER
+CAMERA
+INSTALLATION
+(Use of camera
+not required for
+mission)
+TRK-MET
+SPLIT
+VERTICAL
+FORWARD
+OBLIQUE
+VERTICAL (NO)
+
+TYPE
+
+SERIAL NO.
+
+A
+
+FOCAL
+LENGTH
+B
+
+CONE
+SERIAL NO.
+C
+
+FILTER
+D
+
+STOP
+E
+
+SHUTTER
+SPEED
+F
+
+MAGAZINE
+NO.
+G
+
+TYPE
+
+H
+
+SERIAL NO.
+I
+
+LOAD
+(Exp)
+K

@@ -1,0 +1,20 @@
+There is no photograph present in this image. The image appears to be a page from a surface weather observation report, containing a table with various meteorological data such as temperature, pressure, wind speed and direction.
+
+U.S. WEATHER BUREAU
+SURFACE WEATHER OBSERVATIONS
+DATE - MAR 1 1959
+
+The text in the image is as follows:
+
+U.S. WEATHER BUREAU
+SURFACE WEATHER OBSERVATIONS
+DATE - MAR 1 1959
+TIME  TEMP  DEWPT  SLPRESSSR  WIND  WEATHER  VISIBILITY  SKY COVER  REMARKS
+0000  17.0   -2.0    1024.1   CALM   CL-NO CLD    15        0         
+0300  16.0   -3.0    1024.3   NW 6   CL-NO CLD    15        0
+0600  12.0   -8.0    1026.8   NW 8   CL-NO CLD    15        0
+0900  11.0  -10.0    1029.6   NW 10  CL-NO CLD    15        0
+1200  11.0  -10.0    1030.6   NW 9   CL-NO CLD    15        0
+1500  16.0   -8.0    1028.3   NW 8   CL-NO CLD    15        0
+1800  14.0   -8.0    1028.3   NW 9   CL-NO CLD    15        0
+2100  12.0   -8.0    1028.6   NW 8   CL-NO CLD    15        0
