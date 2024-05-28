@@ -1,0 +1,16 @@
+There is no photograph present in the image provided. The image appears to be a page from an old UFO report document containing various tabular data.
+
+TEXT OUTPUT:
+
+20 30 40 50 9M 10
+25 35 45 55 05 15
+24 34 44 54 04 14
+33 43 53 03 13
+22 32 42 52 02 12
+21 31 41 51 01 11
+30 40 50 00 10
+29 35 45 55 05 15
+24 34 44 54 04 14
+23 33 43 53 03 13
+22 32 42 52 02 12
+21 31 41 51 01 11

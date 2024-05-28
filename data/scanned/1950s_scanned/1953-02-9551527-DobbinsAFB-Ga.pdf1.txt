@@ -1,0 +1,38 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book report, likely containing information about a UFO sighting.
+
+TEXT OUTPUT:
+
+1. DATE - TIME GROUP	2. LOCATION
+9 Feb 53	2050/52	Dobbins AFB, Ga.
+
+3. SOURCE
+Control Tower Oper.
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+2 min.
+
+6. TYPE OF OBSERVATION
+Visual
+
+7. COURSE
+Straight
+
+8. PHOTOS
+0 Yes
+1 No
+
+9. PHYSICAL EVIDENCE
+0 Yes
+1 No
+
+FTD SEP 49 0-329 (TDE) Previous editions of this form may be used.
+
+10. CONCLUSION
+AUTO (FILTER)
+Jupiter at 290° at 5° elevation setting.
+
+11. BRIEF SUMMARY AND ANALYSIS
+Object was star-like object which moved slowly in a straight line. This was believed to be Jupiter.

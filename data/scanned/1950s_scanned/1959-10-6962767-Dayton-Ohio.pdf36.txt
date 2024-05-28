@@ -1,0 +1,9 @@
+The image contains two sketches. The first sketch shows a curved line with an object above the horizon (skyline). The instructions ask the viewer to place an "A" on the curved line to show how high the object was above the horizon when first seen, and a "B" on the curved line to show the position of the object when last seen.
+
+The second sketch contains two smaller sketches. The larger one shows a road with buildings on either side, and a person standing in the middle. The smaller sketch shows a silhouette of a person against a hilly landscape.
+
+As for the text, the OCR output is as follows:
+
+32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
+
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to smaller sketch as an example of how to complete the larger sketch.

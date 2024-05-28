@@ -1,0 +1,6 @@
+The image provided does not contain a photograph, but rather appears to be a scanned document or page from a file related to Project Blue Book, a historical U.S. Air Force program that investigated unidentified flying objects (UFOs). The image shows a grainy, black-and-white background with some text annotations, including the phrase "TRUE CHASING SON WAS 1956" and "DEPT. KELLY ARB".
+
+Output the text found in the document:
+
+TRUE CHASING SON WAS 1956
+DEPT. KELLY ARB

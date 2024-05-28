@@ -1,0 +1,29 @@
+The image does not contain a photograph, it is a Project 10073 Record Card from Project Blue Book. 
+
+PROJECT 10073 RECORD CARD
+1. DATE: 20 Oct 59
+2. LOCATION: Dayton, Ohio
+3. DATE-TIME GROUP: Local - 1935
+4. TYPE OF OBSERVATION: Ground-Visual
+5. PHOTOS: Yes
+6. SOURCE: Civilian
+7. LENGTH OF OBSERVATION: 1/2 min
+8. BRIEF SUMMARY OF SIGHTING: One red light, first observed in the ENE & disappeared at horizon in NNW. Sighting was made near a private pasture. Light was seen in line & disappeared 20° above Eastern horizon.
+9. COURSE: A to B
+10. COMMENTS: Probably one or more a/c.
+11. CONCLUSIONS: Was Balloon; Probably Balloon; Possibly Balloon
+
+After processing the text in the record card, the output is:
+
+PROJECT 10073 RECORD CARD
+1. DATE: 20 Oct 59
+2. LOCATION: Dayton, Ohio 
+3. DATE-TIME GROUP: Local - 1935
+4. TYPE OF OBSERVATION: Ground-Visual
+5. PHOTOS: Yes
+6. SOURCE: Civilian
+7. LENGTH OF OBSERVATION: 1/2 min
+8. BRIEF SUMMARY OF SIGHTING: One red light, first observed in the ENE & disappeared at horizon in NNW. Sighting was made near a private pasture. Light was seen in line & disappeared 20° above Eastern horizon.
+9. COURSE: A to B
+10. COMMENTS: Probably one or more a/c.
+11. CONCLUSIONS: Was Balloon; Probably Balloon; Possibly Balloon

@@ -1,0 +1,18 @@
+The shared image does not contain a photograph. It appears to be a project 10073 record card from Project Blue Book, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs) in the 1950s. The record card contains information fields such as date, location, description of observation, and conclusions.
+
+The output of the OCR on the text in the document is as follows:
+
+PROJECT 10073 RECORD CARD
+1. DATE: AUGUST 1,1957
+2. LOCATION: UNITED STATES & CANADA 
+3. TYPE OF OBSERVATION: GROUND-VISUAL
+4. WITNESSES: UNDETERMINED 
+5. SUMMARY OF OBSERVATION: SEE CASE #119.
+11. CONCLUSIONS: 
+[ ] WAS BALLOON
+[ ] WAS AIRCRAFT 
+[ ] WAS ASTRONOMICAL
+[ ] WAS UNCONVENTIONAL AIRCRAFT
+[ ] WAS HOAX
+[ ] INSUFFICIENT DATA FOR EVALUATION
+[ ] UNIDENTIFIED

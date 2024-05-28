@@ -1,0 +1,38 @@
+There is no photograph present in this image. The image appears to be a page from a Project Blue Book UFO report document, containing a questionnaire-style form with instructions and spaces for the observer to provide details about the observed object.
+
+T.O. T-13 In a few words, the following things about the object:
+a. Sound _____________
+b. Color _____________
+
+17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw, such as wings, tail, exhaust trails, or vapor trails. Place an arrow inside the drawing to show the direction the object was moving.
+
+[A simple oval shape is drawn in the designated space.]
+
+13. The edges of the object were:
+(Circle One) a. Distinct
+b. Blurred
+c. Shimmering
+s. Other ___________________
+
+19. If there was MORE THAN ONE object, how many were there?
+Draw a picture of how they were arranged, and put an arrow to show the direction they were traveling.
+
+[The observer has written "the" in the space provided for this question.]
+
+Text output from the scanned document:
+
+T.O. T-13 In a few words, the following things about the object:
+a. Sound 
+b. Color 
+
+17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw, such as wings, tail, exhaust trails, or vapor trails. Place an arrow inside the drawing to show the direction the object was moving.
+
+13. The edges of the object were:
+(Circle One) a. Distinct
+b. Blurred 
+c. Shimmering
+s. Other 
+
+19. If there was MORE THAN ONE object, how many were there?
+Draw a picture of how they were arranged, and put an arrow to show the direction they were traveling.
+the

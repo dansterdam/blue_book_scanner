@@ -1,0 +1,27 @@
+The image does not contain any photographs, it appears to be a scanned document containing text and numerical data. I will proceed to perform optical character recognition (OCR) on the text in the document.
+
+UNCLASSIFIED
+
+10 October 1952
+
+Description of Incident
+
+Observers at Presque Isle AFB observed a circular orange object with four green lights nearby. The object was observed from 2700 EST 10 Oct 52 until 0300 EST on 11 Oct 52, a period of five hours. The object or lights were observed by observers at the weather station of Presque Isle AFB, Maine. Theodolite readings were made from Presque Isle AFB and Limestone AFB, Maine.
+
+The readings are as follows:
+
+Presque Isle AFB
+Time     Elevation  Azimuth
+11/0550Z  59.0°      156.2°
+11/0551Z  59.2°      156.5°
+11/0552Z  59.2°      157.0°
+11/0553Z  59.2°      157.7° 
+11/0554Z  59.3°      158.1°
+
+Limestone AFB
+11/0553Z  58.0°      169.5°
+
+Discussion
+Since the times of the reading are not coincident, one azimuth angle will have to be extrapolated to make the times coincident. The bearing at Presque Isle changed 1.9° in 5 minutes or 0.38°/min. Assuming the light or object was moving at a constant velocity and course, the azimuth angle can be moved back time-wise from 0550Z to 0538Z or 12 minutes, 12 x 0.38° = 4.56°, so at 0538Z the azimuth from Presque Isle would be 157.4°. Using this and azimuth of 169.5° from Limestone, the search point directly under the object can be plotted.
+
+UNCLASSIFIED

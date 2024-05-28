@@ -1,0 +1,23 @@
+The image contains a photograph of a map showing the United States, New Mexico, and the Gulf of Mexico region. The map includes markings indicating the location of a "FULL MOON" rocket explosion that occurred in October.
+
+To Test Sodium in Ionosphere 
+'Full Moon' Rocket Explosion in Octol
+By James E. Warner 
+Washington, Oct. 6 (AP) - To explode a sodium vapor rocket 300 miles high in the atmosphere and study the reactions may lead to development of an artificial "moonlight," the Air Force announced today.
+The test will be made in the absence of a natural moonlight and will be designed to study the effect of sodium vapor release in the upper atmosphere and to determine how much artificial "moonlight" could be produced.
+The test rocket, which is part of a series of high-altitude experiments, is expected to reach an altitude of about 300 miles and release a cloud of sodium vapor, which will glow brightly and remain visible for some time, according to Air Force officials.
+The test is scheduled for sometime in October, although no definite date has been set.
+Similar tests in the past have shown that sodium vapor released at high altitudes will form a glowing cloud visible for hundreds of miles and that the sodium atoms can persist in the upper atmosphere for a considerable period.
+The Americans may release enough sodium to produce a "full moon," the article states, but the exact amount needed to create artificial moonlight is not known. The test is part of a series of high-altitude experiments aimed at studying the ionosphere.
+
+TEXT OUTPUT:
+
+To Test Sodium in Ionosphere
+'Full Moon' Rocket Explosion in Octol
+By James E. Warner
+Washington, Oct. 6 (AP) - To explode a sodium vapor rocket 300 miles high in the atmosphere and study the reactions may lead to development of an artificial "moonlight," the Air Force announced today. 
+The test will be made in the absence of a natural moonlight and will be designed to study the effect of sodium vapor release in the upper atmosphere and to determine how much artificial "moonlight" could be produced.
+The test rocket, which is part of a series of high-altitude experiments, is expected to reach an altitude of about 300 miles and release a cloud of sodium vapor, which will glow brightly and remain visible for some time, according to Air Force officials.
+The test is scheduled for sometime in October, although no definite date has been set.
+Similar tests in the past have shown that sodium vapor released at high altitudes will form a glowing cloud visible for hundreds of miles and that the sodium atoms can persist in the upper atmosphere for a considerable period.
+The Americans may release enough sodium to produce a "full moon," the article states, but the exact amount needed to create artificial moonlight is not known. The test is part of a series of high-altitude experiments aimed at studying the ionosphere.

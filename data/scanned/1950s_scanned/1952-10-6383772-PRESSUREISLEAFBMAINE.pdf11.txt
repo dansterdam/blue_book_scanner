@@ -1,0 +1,24 @@
+There is no photograph present in the image. The image appears to be a scanned document containing text.
+
+UNCLASSIFIED
+distance (d) from Presque Isle is 36 statute miles.
+The elevation from Presque Isle changed 0.3° in 5 minutes or 0.06°/min. In 12 minutes, the change would be 0.72°. Again assuming constant course and attitude the elevation at 05382 would be 54.3°. The altitude would then be:
+h = d tan 54.3°
+= d tan 1.609
+= 36 (1.619) 
+h = 58 miles = 306,210'
+This neglects the curvature of the earth. This correction is 2/3r where R is the radius of the earth in miles. This term can be neglected.
+The angular velocity from Presque Isle was 1.90/5 min or 22.8°/hour or 0.3955 radians/hour.
+S = slant range
+V = sky 
+W = angular velocity in radius
+V = velocity
+S = 63 - (0.3955)(63) = 63 miles
+V = S (0.3955) = 63 (0.3955)
+V = 27.2 mph 
+One possible solution is that the theodolite readings are not accurate. Since Presque Isle made five readings and all were consistent, it can safely be assumed that they are accurate, and, however, indicate the light was at a high angle of elevation south of the base. The readings from Limestone can also be considered accurate since the light they observed was in the same general area.
+The speed of the object, 27 mph, indicates it could be a balloon, but no balloon flies at 4,500,000'. A 6% 2/3% error would be needed in the theodolite readings to get down to 100,000', the maximum limit for balloons.
+UNCLASSIFIED
+DOWNGRADED AT 12 YEAR INTERVALS; 
+NOT AUTOMATICALLY DECLASSIFIED
+DOD DIR 5200.10
