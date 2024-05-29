@@ -1,0 +1,36 @@
+There is no photograph present in this image, which appears to be an aerodrome sectional chart listing various locations, names, facilities, and other details. As requested, I will now act as an OCR system and transcribe the text found in the document:
+
+AERODROMES - DETROIT SECTIONAL CHART
+LOCATION	NAME	COORD	ELEV	FUEL	FACILITIES	LIGHTS	REMARKS
+Harbor Beach, Mich.	Harbor Beach	43*57'-44'39"	595	Com	3000'	Major	1-2000w	Lights on only when in use
+Hoxey Strip	Hoxey Strip	43'43'-44'33"	698	Com	2500'	Minor	3-1000w	
+Kalamazoo, Mich.	Kalamazoo Municipal	42'17'-85'33"	874	Com	4000'	Major	1-2000w	Radio range and beacon
+Kitchener, Ont.	Kitchener-Waterloo	43'24'-80'23"	1045	Com	3400'	Major	1-2000w	Customs
+Lansing, Mich.	Capital City	42'46'-84'33"	869	Com	4050'	Major	1-2000w	Rwy lighted
+Lapeer, Mich.	Lapeer	43'03'-83'18"	792	Com	3300'	Minor	3-1000w	Restricted
+Macomb, Mich.	Macomb	42'41'-82'57"	600	Com	3000'	Minor	2-1000w	
+Manistee, Mich.	Manistee	44'14'-86'20"	624	Com	3200'	Minor	1-1000w	
+Marinette, Wis.	Menominee-Marinette	45'06'-87'37"	608	Com	3350'	Minor	1-1000w	Forest, priory for x-wind
+Midland, Mich.	Midland	43'37'-84'14"	677	Com	4000'	Major	1-2000w	Radio range and beacon
+Monroe, Mich.	Custer Field	41'56'-83'24"	590	Com	3400'	Major	1-2000w	
+Mount Clemens, Mich.	Selfridge AFB	42'36'-82'50"	581	AF	8000'	Major	1-2000w	Armt., gnd cont. appr., cont. tower
+Muskegon, Mich.	Muskegon County	43'10'-86'14"	619	Com	4100'	Major	1-2000w	Rotating beacon
+Niagara Falls, N.Y.	Greater Buffalo Int'l	42'56'-78'43"	728	Com	9500'	Major	2-2000w	
+Niagara Falls, N.Y.	Niagara Falls Mun.	43'06'-79'01"	578	Com	4200'	Major	1-2000w	Tower, emer. equip.
+North Tonawanda, N.Y.	Niagara Flying Serv.	43'00'-78'52"	600	Com	3200'	Major	1-1500w	
+Oscoda, Mich.	Wurtsmith AFB	44'27'-83'23"	670	AF	7000'	Major	1-2000w	Armt., gnd cont. appr., cont. tower
+Owosso, Mich.	Owosso Municipal	42'59'-84'10"	798	Com	3600'	Major	1-1500w	
+Petoskey, Mich.	Petoskey Mun.	45'22'-84'58"	630	Com	3200'	Major	1-2000w	
+Pontiac, Mich.	Pontiac Municipal	42'39'-83'19"	988	Com	5400'	Major	1-2000w	Radio range and beacon
+Port Huron, Mich.	St. Clair County	42'54'-82'31"	580	Com	5000'	Major	1-2000w	
+Port Huron, Mich.	Port Huron Flying Serv.	42'59'-82'25"	600	Com	3400'	Major	1-1500w	
+St. Thomas, Ont.	St. Thomas	42'46'-81'14"	854	Com	3600'	Major	1-2000w	
+Saginaw, Mich.	Harry E. Kern Field	43'25'-84'03"	650	Com	3800'	Major	1-2000w	
+Saginaw, Mich.	Saginaw Valley Flying Serv.	43'26'-84'00"	650	Com	3500'	Major	1-2000w	Lights on only when in use
+Standish, Mich.	Standish Mun.	43'59'-83'56"	585	Com	3000'	Minor	2-1000w	
+Traverse City, Mich.	Cherry Capital	44'44'-85'34"	624	Com	4000'	Major	1-2000w	
+Waterloo, Ont.	Waterloo County	43'27'-80'22"	1100	Com	3500'	Major	1-2000w	
+Windsor, Ont.	Windsor	42'18'-83'03"	604	Com	5200'	Major	1-2000w	
+Ypsilanti, Mich.	Willow Run	42'14'-83'32"	722	Com	7000'	Major	1-2000w	Controlled field, pers. comm. & RA
+MISC - SEE REMARKS
+Various Locations	See Remarks	-	-	-	-	-	-	Numerous uncontrolled and private landing areas throughout area, see appropriate sectional chart.

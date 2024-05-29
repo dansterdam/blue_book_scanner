@@ -1,0 +1,47 @@
+The image appears to be a page from an old UFO report document. It contains explanatory diagrams and symbols related to aeronautical and radio communication facilities. There is no photograph present in this image.
+
+The text extracted from the document is as follows:
+
+AERONAUTICAL SYMBOLS
+RADIO FACILITIES
+
+Radio Range............................---------............. Radio Communication Station............ O
+(With voice)                                                            (Without voice)
+
+Radio Range............................---------............. Radio Communication Station............ O
+(Without voice)                                                        (With voice)  
+
+Non-directional Radio-beacon.........---------............. Radio Broadcasting Station............... O
+(With voice)                                                                  
+
+Non-directional Radio-beacon.........---------............. Radar Beacon (Racon).................... O
+(Without voice)
+
+Marine Radio-beacon..................---------............. Radio Fan Marker Beacon................. O
+
+Radio Direction Finder................---------............. 
+(Without voice)
+
+Radio Direction Finder................---------............
+(With voice)
+
+AERIAL RANGE
+    A
+ ------  ------
+N         A
+    N
+
+VHF OMNI-DIRECTIONAL RANGE (VOR)         VHF FOUR COURSE VISUAL-AURAL RANGE (VAR)
+ --
+ |
+ |
+ |
+ |
+ |
+ |
+ --
+
+AIR TRAFFIC CONTROL
+
+Blue line where shown................Controlled Civil Airway
+Red line where shown................Uncontrolled Civil Airway

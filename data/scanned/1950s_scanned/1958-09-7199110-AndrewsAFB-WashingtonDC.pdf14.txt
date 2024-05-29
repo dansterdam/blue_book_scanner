@@ -1,0 +1,21 @@
+The image appears to contain a geostrophic wind scale and a forecast trajectory chart. There is no human face or identification visible in the image.
+
+The text contained in the image is as follows:
+
+GEOSTROPHIC WIND SCALE
+CONSTANT PRESSURE SURFACES
+
+FORECAST TRAJECTORY: 
+AS AT: 12Z 7 SEP 58 
+POSITION: LATITUDE 34.5 N
+LONGITUDE 110.3 W
+
+A. TIME (HOURS Z) 0 9 12 18 21 24 
+B. LATITUDE (DEG N) 34.5 37.0 38.5 41.0 42.0 43.0
+C. LONGITUDE (DEG W) 110.3 107.5 106.0 103.5 102.5 101.5 
+D. U (KNOTS) - EASTWARD COMPONENT OF MOTION 19 15 12 11 11 12
+E. V (KNOTS) - NORTHWARD COMPONENT OF MOTION 17 14 13 11 11 11
+F. MEAN SPEED (KNOTS)  - 20 18 16 16 16
+
+G. MISSING
+H. REMARKS:

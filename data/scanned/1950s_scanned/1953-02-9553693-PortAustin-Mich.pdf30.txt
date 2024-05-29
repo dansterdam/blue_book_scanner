@@ -1,0 +1,20 @@
+The image does not contain any photographs, it consists of two tables. The first table is an "AERODROMES - DETROIT SECTIONAL CHART" which lists the name, location, elevation, type, etc. of various aerodromes or airports. The second table is an "AIR DEFENSE IDENTIFICATION ZONES" which describes the air defense identification zones designated in the United States and Canada.
+
+Text Output:
+
+AERODROMES - DETROIT SECTIONAL CHART
+LOCATION	NAME	ELEV	TYPE	ELEV	CONTROL	REPAIR FACILITIES	LIGHTING
+DETROIT, MICH	DETROIT CITY AIRPORT	626	Major	627	FAA	Airframe Overhaul, Engine, Radio Major
+DETROIT, MICH	DETROIT METROPOLITAN WAYNE COUNTY AIRPORT	635	Major	633	FAA	Airframe Overhaul, Engine, Radio Major	Rotating Beacon, Boundary, Runway, Floodlighting
+LANSING, MICH	CAPITAL CITY AIRPORT	855	Major	852	FAA	Airframe Overhaul, Engine, Radio Major	Rotating Beacon, Boundary, Runway, Floodlighting
+MONROE, MICH	CUSTER AIRPORT	615	Minor	614	FAA	Airframe, Engine Minor	Rotating Beacon, Boundary
+SAGINAW, MICH	HARRY W. BROWNE AIRPORT	650	Minor	650	FAA	Airframe, Engine Minor	Rotating Beacon, Boundary, Runway
+TRAVERSE CITY, MICH	CHERRY CAPITAL AIRPORT	624	Major	619	FAA	Airframe Overhaul, Engine, Radio Major	Rotating Beacon, Boundary, Runway, Floodlighting
+WILLOUGHBY, OHIO	WILLOUGHBY AIRPORT	590	Minor	590	FAA	Airframe, Engine Minor	Rotating Beacon, Boundary
+* Actual usable runway lengths rather than total physical length may vary. Consult latest Canadian or US AIP's or other available sources.
+* Canadian fields subject to ADIZ. Consult the latest AAIM's-* Guide for changes in data subsequent to date of chart.
+
+AIR DEFENSE IDENTIFICATION ZONES
+
+In the United States several areas have been designated as Air Defense Identification Zones (ADIZ) by the air force for positive control of air traffic. ADIZ's exist along both coasts, in the Great Lakes area, within the Northwest, San Francisco, Los Angeles, and Albuquerque - Knoxville control areas. Any aircraft flying into these ADIZ's must file a plan and maintain radio contact with the controlling agency. The ADIZ's are in San Francisco ADIZ, Los Angeles ADIZ, Seattle ADIZ, and Albuquerque ADIZ. 
+Similar Air Defense Identification Zones (CADIZ) have been designated by the Director of Air Transport, Canada, for the defense of the Canadian homeland. The Canadian ADIZ's are delineated on the face of aeronautical charts and are so labeled. They are also indicated on the face of aeronautical charts and are so labeled.

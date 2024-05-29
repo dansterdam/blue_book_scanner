@@ -1,0 +1,31 @@
+The image does not contain any photographs, only text. As an OCR (Optical Character Recognition) system, I will now output all the text found in the document:
+
+PROJECT 10073 RECORD CARD
+1. DATE
+July 1957
+2. LOCATION
+Lorain, Ohio
+3. DATE-TIME GROUP
+Last 11 July 1957
+4. TYPE OF OBSERVATION
+G Ground-Radar
+5. PHOTOS
+E Yes
+6. SOURCE
+CIVILIAN (38)
+7. LENGTH OF OBSERVATION
+3SECS
+8. NUMBER OF OBJECTS
+1 
+9. COURSE
+330
+10. CONCLUSIONS
+Was Airborne
+[X] Probably Astronomical
+[  ] Possibly Aircraft
+[  ] Possibly Astronomical
+[  ] Possibly Instrument
+[  ] Insufficient Data for Evaluation
+[  ] Other
+11. COMMENTS
+Very little information, but could possibly be a/c.

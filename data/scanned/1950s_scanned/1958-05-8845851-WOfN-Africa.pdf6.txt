@@ -1,0 +1,18 @@
+The image does not contain any photographs. It appears to be a document titled "EPHEMERIS FOR SOVIET EARTH SATELLITE #3 (1958 Delta)" providing detailed information about the orbit and trajectory of a Soviet satellite launched in 1958.
+
+EPHEMERIS FOR SOVIET EARTH SATELLITE #3 
+(1958 Delta)
+
+This ephemeris was compiled on 15 May 1958 based upon very early orbit data and orbits of 12 were continued based upon an orbit time of 106 minutes. Thus the equatorial crossing charts for these orbits were drawn with an orbit to orbit shift to chart later on the 26° 30' crossing. Obviously the orbit to orbit shift will be augmented by the effect of the earth's oblateness against the argument of the pericentral crossing angle. The Equatorial Crossing Graphs for Orbits #53 and greater are corrected for this rotation of the orbital plane due to an equatorial crossing angle of 65° is 14' 56". Thus, for more accurate plotting, the orbits # through #52 should be moved to the left (on the Equatorial Crossing Graphs for Orbits 1 through 18 May) by 0.249N degrees, where N is the number of the orbit.
+
+The refinements afforded by later orbit sightings showed that a constant 180 seconds of time should be subtracted from the equatorial crossing times of the graphs for Orbits # through #52. Equatorial Crossing Graphs of succeeding orbits are corrected.
+
+The perigee of the Satellite is, in the absence of specific tracking data, assumed to have coincided with the point of orbital injection. Using an equatorial crossing angle of 65°, it is computed that the perigee, regardless of its original location, will shift in the orbital plane at the rate of 0.249N degrees, and this shift will be in a direction opposite to the motion of the Satellite.
+
+National Technical Processing Center
+Washington, D.C.
+
+* This ephemeris was prepared in order to furnish a guide for radio (20.005 mc satellite transmissions) monitoring and is not intended to have the accuracy necessary for optical sighting work.
+
+FOR OFFICIAL USE ONLY
+Orbits are only roughly approximate, e.g. ± 45" mins don't take too literally.

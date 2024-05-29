@@ -1,0 +1,11 @@
+The image contains two sketches:
+
+1. The first sketch shows a curved line representing the horizon, with a drawing of an object above the horizon line. The instructions indicate that the viewer should imagine they are at the point shown, and draw on the curved line to show how high the object was above the horizon when they first saw it.
+
+2. The second sketch shows a larger landscape scene, with a person standing on a road or path in the foreground. There are two smaller inset sketches - one showing a similar landscape scene, and another showing a road or path leading towards the horizon.
+
+As an OCR system, I will now extract the text from the document:
+
+32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you first saw it.
+
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to smaller sketch as an example of how to complete the larger sketch.

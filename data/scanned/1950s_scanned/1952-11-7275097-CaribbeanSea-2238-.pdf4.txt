@@ -1,0 +1,18 @@
+There are three rectangular black-and-white photographic images in the provided image. Each image contains a white oval shape and a text label below it.
+
+The text labels are as follows:
+AF-473287
+1
+AF-473287
+1?
+AF-473283
+1?
+
+Acting as an OCR system, I have extracted all the text found in the document:
+
+AF-473287
+1
+AF-473287
+1?
+AF-473283
+1?

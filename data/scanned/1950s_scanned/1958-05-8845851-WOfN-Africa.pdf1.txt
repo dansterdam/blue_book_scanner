@@ -1,0 +1,26 @@
+The image appears to be a page from an old UFO report document from Project Blue Book. There is no photograph present on this page. Instead, the page contains a Project 10073 Record Card with various fields filled out, such as the date, location, description of the sighting, and conclusions.
+
+OCR Output:
+
+PROJECT 10073 RECORD CARD
+1. DATE
+30 May 58
+3. DATE-TIME GROUP
+0815Z
+6. TYPE OF OBSERVATION
+Obj moving West shooting flame & white smoke & appearing to be falling.
+7. LENGTH OF OBSERVATION
+NOT GIVEN
+10. BRIEF SUMMARY OF SIGHTING
+Obj moving West shooting flame & white smoke & appearing to be falling.
+12. CONCLUSIONS
+[] Was Balloon
+[x] Was Possibly Balloon
+[] Was Aircraft
+[] Was Possibly Aircraft
+[] Was Astronomical
+[] Insufficient Data for Evaluation
+[] Other
+[x] Unknown
+11. COMMENTS
+Based on the scanty info given conclusion cannot be drawn.

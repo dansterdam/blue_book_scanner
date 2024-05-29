@@ -1,0 +1,9 @@
+This page from a Project Blue Book document contains three sketches. The first sketch shows a curved line representing the horizon, with a mark labeled "A" indicating where an object was first seen above the horizon, and another mark labeled "B" indicating how high the object was above the horizon when it was first seen.
+
+The second and third sketches depict a person standing on a road or path, with the horizon and sky visible in the background. These sketches appear to be examples of how to complete the previous sketch.
+
+As an OCR system, I have extracted the following text from the document:
+
+32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
+
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to smaller sketch as an example of how to complete the larger sketch.
