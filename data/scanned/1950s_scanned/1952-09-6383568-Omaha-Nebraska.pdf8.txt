@@ -1,0 +1,26 @@
+The image does not contain any photograph. It appears to be a weather data sheet from Project Blue Book, a United States Air Force program that investigated unidentified flying objects (UFOs) in the 1950s.
+
+PROJECT 10073 WEATHER DATA SHEET
+1. DATE OF OBSERVATION 2. TIME OF OBSERVATION 3. STATION OBSERVING
+4. WINDS ALOFT: ALTITUDE VELOCITY DIRECTION ALTITUDE VELOCITY DIRECTION
+(feet) (knots) (degrees) (feet) (knots) (degrees)
+1,000 - - 25,000 37 212
+2,000 6 - 30,000 47 230
+3,000 - - 40,000 46 212
+4,000 F 292 45,000 37 212
+5,000 - - 50,000 29 240
+6,000 12 339 55,000 23 232
+7,000 - - 60,000 13 232
+8,000 9 330 65,000 15 232
+9,000 - - 70,000 6 320
+10,000 10 336 75,000 15 332
+12,000 10 540 80,000 41 332
+14,000 13 546 85,000 - -
+16,000 14 542 90,000 - -
+18,000 21 330 95,000 - -
+20,000 22 314 100,000 - -
+5. WAS AN INVERSION LAYER OBSERVED? ( ) Yes (X) No
+6. HAZE AND THUNDERSTORMS IN AREA? ( ) Yes (X) No
+7. CLOUD COVER ( ) tenths at feet. tenths at feet.
+8. VISIBILITY WAS 12 MILES.
+9. COMMENTS: Angle 732° Time 11:52.

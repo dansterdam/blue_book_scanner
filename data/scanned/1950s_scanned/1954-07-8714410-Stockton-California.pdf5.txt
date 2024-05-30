@@ -1,0 +1,38 @@
+This image does not contain any photographs, it appears to be a form or table related to bombing data for IBDA (likely an acronym). The image shows a grid with various columns for recording information about bomb releases, aiming points, target charts, bombing altitude, offset values, true heading, stop watch time, and other technical details related to bombing operations.
+
+BOMBING DATA FOR IBDA
+BOMB RELEASE
+TIME (GMT) EXPRS
+DIRECT
+OFFSET
+AIMING POINT
+(MU E. & (N) Grid Coordinates)
+TARGET CHART
+REFERENCE
+BOMBING
+ALT SET
+IN COL.
+ACFT
+TRUE
+HEAD
+OFFSET
+VALUE
+TRUE
+STOP
+TYPE
+PRE-SET
+AIMING
+ESTIMATED
+ERROR
+FEET
+FUSE
+V
+U
+V
+M
+A
+C
+LINE
+NO.
+L
+N

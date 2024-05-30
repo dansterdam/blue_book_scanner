@@ -1,0 +1,18 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book report, containing a table with data related to wind, altitude, velocity, and direction.
+
+PROJECT 10073 WEATHER DATA 
+
+1. DATE OF OBSERVATION
+2. TIME OF OBSERVATION 
+3. STATION OBSERVING
+4. WINDS ALOFT:
+   ALTITUDE
+   VELOCITY (KNOTS)
+   DIRECTION (DEGREES)
+5. WAS AN INVERSION LAYER NOTED? (IF YES, AT WHAT ALTITUDE?)
+6. WERE ANY THUNDERSTORMS NOTED IN AREA? (IF YES, AT WHAT ALTITUDE?)
+7. CLOUD COVER:
+   Tenths at ____ feet.
+   Tenths at ____ feet.
+8. VISIBILITY WAS _____ MILES.
+9. COMMENTS:
