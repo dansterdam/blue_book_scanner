@@ -1,0 +1,25 @@
+The image contains a table displaying "Columnar Data High Altitude Refueling Areas". There is no photograph present in this image.
+
+SACM 55-14
+COLUMNAR DATA HIGH ALTITUDE REFUELING AREAS
+AIRDROME    AREA COORDINATES         FREQUENCY     RECEIVER      REMARKS
+Sioux City   3733N 9612W                240-260    65 KC         
+"           3730N 9620W                 "         15 AF"
+Happy Hour  4959N 10010W               310-330    4136N 83W    Denver
+"           4814N 10320W                 "         15 AF"
+High Line   4432N 10515W               240-290    309W,         Denver
+"           4343N 9531W                  "         15 AF"
+Lane Soda   4411N 9310W                240-290    4321 SW,     Minneapolis
+"           4412N 9320W                  "         CYCL 39 SPS,
+"           4442N 9310W                  "         21"
+Dirty Car   3747N 9543W                240-270    959W,         Albuquerque
+"           3647N 9543W                  "         15 AF"         Will not be used concurrently
+"           3712N 10504W                 "                       with flight levels below 24,000 ft.
+                                                                in the Albuquerque area.
+Eagle Eye   3740N 10600W               240-270     832AD,        Albuquerque
+"           3649N 9752W                  "         CXX           Both blocks of flight levels
+"           3653N 10545W                 "                       will not be used concurrently.
+"           3617T 10609W                 "
+Ivory Snow  3315N 10430W               310-340     93W,         El Paso
+"           3311N 10350W                 "         WAFER
+"           3306N 9926W                  "         15 AF"

@@ -1,0 +1,49 @@
+The image does not appear to contain any photographs, it is a page from a Project Blue Book weather data report form. As an OCR system, I will output the text found in the document:
+
+PROJECT 10073 WEATHER DATA SH
+
+1. DATE OF OBSERVATION   2. TIME OF OBSERVATION   3. STATION OBSERVING
+4. WINDS ALOFT:
+ALTITUDE  VELOCITY  DIRECTION
+(FEET)   (KNOTS)  (DEGREES)
+0        
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+8,000
+9,000
+10,000
+12,000
+14,000 
+16,000
+18,000
+20,000
+5. WAS AN INVERSION LAYER NOTED?
+(IF YES, AT WHAT ALTITUDE?)  YES
+6. TYPES & THUNDERSTORMS NOTED IN AREA:
+(IF ANY, WITH DURATION?)    YES
+7. CLOUD COVER WITH THUNDER? _______ tenths at _______ feet.  _______ tenths at _______ feet.
+9. COMMENTS:
+ALTITUDE  VELOCITY  DIRECTION
+(FEET)   (KNOTS)  (DEGREES)
+25,000
+30,000
+35,000
+40,000
+45,000
+50,000
+55,000
+60,000
+65,000
+70,000
+75,000
+80,000
+85,000
+90,000
+95,000
+100,000
+8. VISIBILITY WAS ____________ MILES.

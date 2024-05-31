@@ -1,0 +1,9 @@
+The image appears to be a radar plot or graph. It contains a grid with range in miles on the x-axis and flight legs on the y-axis. The graph also shows an "Object entering low beam" annotation. There is no photograph present in this image.
+
+CALCULATED HIGH LOBE
+AT ITEM
+OBJECT ENTERING
+LOW BEAM 
+RADAR HORIZ
+150 160 170 180 190 200 210 220 230 240 250
+RANGE IN MILES

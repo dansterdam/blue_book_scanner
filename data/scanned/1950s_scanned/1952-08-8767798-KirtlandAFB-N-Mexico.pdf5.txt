@@ -1,0 +1,16 @@
+There is no photograph or image present in this document. This appears to be a Project 16073 weather data sheet with various data fields filled out, such as date of observation, time of observation, station observing, wind speed, direction, altitude, velocity, and direction. The document also includes questions about inversion layers, thunderstorms, cloud cover, and visibility.
+
+PROJECT 16073 WEATHER DATA SHEET
+
+1. DATE OF OBSERVATION: [blank]
+2. TIME OF OBSERVATION: [blank]
+3. STATION OBSERVING: [blank]
+4. WIND: VELOCITY (KNOTS): [blank]
+    DIRECTION (DEGREES): [blank]
+5. ALTITUDE (FEET): 25,000
+6. VELOCITY (KNOTS): [blank]
+    DIRECTION (DEGREES): [blank]
+7. WAS AN INVERSION LAYER NOTED?:  [No]
+8. WERE ANY THUNDERSTORMS NOTED IN AREA?: [No]
+9. CLOUD COVER: 5/10ths at 15,000 feet, tenths at 15,000 feet. 
+10. VISIBILITY WAS: 4.5 MILES.

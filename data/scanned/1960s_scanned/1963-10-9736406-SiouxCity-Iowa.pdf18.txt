@@ -1,0 +1,17 @@
+The image appears to be a table or chart showing Columan data for high altitude receiving areas. It does not contain any photographs. I will now proceed to extract all the text from the document:
+
+COLUMAN DATA HIGH ALTITUDE RECEIVING AREAS
+ALPHA THETA GAMMA DATA
+RANGE -  AZIMUTH MOXEL QUAD  DIST TF/VOL CORR   ANGLE    MAIN LOBE   SIDE LOBE
+Airway P-3 179° 35.0W 18000  .6580  44°  11-11.55
+Wichita VOR 34330° 97°02'W 11000  .3180  39°  11-11.55 Bravo
+Amarillo VOR 35469° 101°53'W 15000  .5250  46°  11-11.55 Bravo 
+Billings VOA 45973° 108°27'W 10000  .3100  38°  11-11.55 Howard
+Aberdeen VOR 45373° 132°57'W 10000  .3100  38°  11-11.55 Howard
+Moose jaw VOR 49571° 105°33'W 10000  .3100  38°  11-11.55 Howard
+Sioux Falls 43356° 96°52'W 10000  .3100  38°  11-11.55 Norman
+Duluth VOR 47443° 92°33'W 10000  .3100  38°  11-11.55 Minneapoli
+Garden City VOR 47464° 100°49'W 10000  .3100  38°  11-11.55 Thomas
+Wichita Falls VOR 35360° 98°42'W 11000  .3180  39°  11-11.55 Perry
+Airway P-13 130° 36.8W 18000 .6580  44°  11-11.55
+Airway P-13 295° 36.8W 18000 .6580  44°  11-11.55

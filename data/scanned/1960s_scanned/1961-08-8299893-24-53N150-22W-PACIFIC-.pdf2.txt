@@ -1,0 +1,25 @@
+The image does not contain a photograph. It appears to be a document or report from the Department of the Air Force, specifically the Staff Message Branch. The text in the document describes a "vapor trail from E. horizon to W. horizon. Probable missile. Altitude low. Vapor trail moved southerly over vessel and speeding rapidly. Reported by SS Lurline. Position 2453N15922W at 18/1639Z. Heading 240 degrees. Sea calm at 18/1633Z."
+
+The text output from the document is as follows:
+
+AP IN : 28559 (18 Aug 61)
+INFO : CIN-17, ARMY-2, NAVY-2, CINCAFE-2, COC-3, CMDR MATS GOR D-15, NSA-7. 
+CIN-11, OOP-2, OOP-OP-1, APPS 2, GAFB-2.
+
+FR RJHPKH 21
+
+TO HAWAIIAN DEFENCE DIV KUNTR HAWAII
+RHKPO/COMHAWSEAFRON PEARL HARBOR HAWAII
+RHKPG/INCPAC CAMP H M SMITH HAWAII
+RJAPAZ/COMUSJAPAN FUCHU AS JAPAN
+RUAPCB/COMUSKOREA SEOUL KOREA
+RHMFMM/COMFWDAREA TAIWAN
+RBBPHH/COMHAWSEAFRON OCC
+
+UNCLAS MERINT:
+VAPOR TRAIL FROM E. HORIZON TO W. HORIZON.  PROBABLE MISSILE.
+ALTITUDE LOW. VAPOR TRAIL MOVED SOUTHERLY OVER VESSEL AND 
+SPEEDING RAPIDLY. REPORTED BY SS LURLINE.  POSITION 2453N15922W
+AT 18/1639Z. HEADING 240 DEGREES. SEA CALM AT 18/1633Z.
+
+NOTE:  Advance copy delivered to OOP-OP 181415L Aug 61

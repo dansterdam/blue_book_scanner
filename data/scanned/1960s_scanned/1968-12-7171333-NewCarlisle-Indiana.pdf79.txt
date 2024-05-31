@@ -1,0 +1,33 @@
+The image does not contain a photograph, but rather a grid-based monthly UFO report statistics table from Project Blue Book. The table has various fields such as "Identified/Unidentified", "TYPE", "CLASS", "ORIGIN", "DATE", "LOCATION(S)", "SHAPE", and "DURATION(SECS)". The columns represent different days of the month, and the rows represent different classifications of UFO sightings.
+
+NICAP MASS MONTHLY UFO REPORT STATISTICS
+September 1965
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+ACFT-I
+ACFT-1
+ASTRO-1
+ASTRO-2
+BALL-1
+BALLO 1 1
+DISC-1
+DISC-2
+FIFO-I
+FIFO-1
+HOVY-1
+HOVY-1
+SAIL-1
+SAIL-2
+SHAR-I
+SHAR-1
+SPHERE
+UFOM 1 1 2
+
+LEGEND CODE LEGEND CODE
+ACFT AIRCRAFT PARA PARACHUTE(S)
+ASTRO ASTRONOMICAL FLARE FLARE/FIREBALL(S)
+BALLO BALLOON(S) HAZY HAZY
+DISC DISC-SHAPED BOAT 
+FIFO FIREBALL/FIRE OTHER OTHER
+HOVY HOVERING UNK UNKNOWN
+SAIL SATELLITE

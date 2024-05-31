@@ -1,0 +1,25 @@
+The image does not contain a photograph, but instead shows a Project 10073 record card. 
+
+PROJECT 10073 RECORD CARD
+1. DATE: 11 June 1963
+2. DATE-TIME GROUP: 2300Z
+3. LOCATION: 25.92N 89.56W (Gulf of Mexico)
+4. TYPE OF SIGHTING: Ground-Visual
+5. PHOTOS: No
+6. NUMBER OF OBJECTS: one
+7. DURATION OF SIGHTING: 20 min
+8. BRIEF SUMMARY OF SIGHTING:
+Report of satellite sighting from M.V. British vessel employed by the United Fruit Co.
+9. CONCLUSIONS: Was Satellite?
+
+OCR Output:
+1. DATE: 11 June 1963
+2. DATE-TIME GROUP: 2300Z
+3. LOCATION: 25.92N 89.56W (Gulf of Mexico) 
+4. TYPE OF SIGHTING: Ground-Visual
+5. PHOTOS: No
+6. NUMBER OF OBJECTS: one
+7. DURATION OF SIGHTING: 20 min
+8. BRIEF SUMMARY OF SIGHTING:
+Report of satellite sighting from M.V. British vessel employed by the United Fruit Co.
+9. CONCLUSIONS: Was Satellite?

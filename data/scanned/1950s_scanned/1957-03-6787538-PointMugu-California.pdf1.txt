@@ -1,0 +1,33 @@
+The image contains a Project 10073 Record Card, which appears to be a document or form from the Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs) between 1947 and 1969. The document does not contain any photographs, as the "PHOTOS" field on the form indicates "None rec'd.".
+
+OCR Output:
+
+PROJECT 10073 RECORD CARD
+1. DATE
+23 March 1957
+2. DATE-TIME GROUP 
+2300-0001Z
+3. LOCATION
+Point Mugu, California
+4. TYPE OF OBSERVATION
+[x] Ground-visual
+[ ] Ground-Radar
+[ ] Airborne-Visual
+[ ] Airborne-Radar
+5. PHOTO?
+[ ] Yes [x] No rec'd. 
+6. LENGTH OF OBSERVATION
+30 minutes
+7. NUMBER OF OBJECTS
+One
+8. COURSE
+Due north
+9. CONCLUSIONS
+[x] Evaluation Not Possible
+[ ] Unknown
+[ ] Astronomical
+[ ] Balloon
+[ ] Aircraft
+[ ] Other
+10. COMMENTS
+Pilot reports object with 15 circular swirls of light appeared on film & went off film in 10 seconds. Object was irregular in shape and moved rapidly. No sound or trail of any kind. Object disappeared at approximately 2310Z. Pilot's report forwarded to Navy and unavailable. No analysis or conclusions could be made.

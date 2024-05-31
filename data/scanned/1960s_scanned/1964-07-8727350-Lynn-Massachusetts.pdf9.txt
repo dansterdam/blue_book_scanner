@@ -1,0 +1,14 @@
+There does not appear to be any photograph present in this image. This appears to be a page from a Project Blue Book document containing detailed text and tabular data.
+
+Transcribed text from the document:
+
+Coded Data for Transmission
+00 00 16 20 14 22 16 14 00 08 75 08 75 30 15 14 71
+26 07 75 00 02 16 21 16 01 00 00 00 00 00 02 00 14
+20 14 02 20 02 00 26 00 00 00 00 00 00 00 00 00 00 
+
+Minimum Wind Speed Data
+Minimum wind speed (mph)
+Minimum wind speed, knots (or mph)
+Minimum wind direction (0 - 360 degrees)
+Enter data for additional levels

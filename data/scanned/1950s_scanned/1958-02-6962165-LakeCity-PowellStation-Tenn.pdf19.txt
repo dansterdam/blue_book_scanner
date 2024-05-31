@@ -1,0 +1,19 @@
+There is no photograph in this document. The image appears to be a table containing data related to the Perigees of 1958 Alpha, including normal points, N, T, (C-C), N, and T values.
+
+In an effort to test this suggestion, the period-changes of 1958 Alpha have been re-examined.
+TABLE I 
+Perigee Times of 1958 Alpha
+Normal Points
+
+N       T           (C-C)         N        T
+0    397.16189(3)    +.00003     350    425.07753   -.00013
+50   401.15290     -.00007     400    429.05215   -.00000
+100  405.14304    +.00004     450    433.04572   +.00007
+150  409.13137     .00000     500    437.02806   -.00001
+200  413.11963    +.00001     550    441.00932   +.00001
+250  417.10645    -.00001     600    444.98940   -.00002
+300  421.09246    +.00002
+
+Changes of anomalistic period are derived by double differentiation of this table. To facilitate the differentiation and to smooth the data, the following representation of the time of perigee has been derived:
+T = 397.16189 + 0.079327057N - 1.91 x 10^-7N^2
++ 0.000378 sin (0.0153N) - 0.000082 sin (0.0112N).

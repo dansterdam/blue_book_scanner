@@ -1,0 +1,37 @@
+This image does not contain a photograph, but rather a record card from Project 10073 of the United States military. The card provides details about an observation made on December 17, 1960, including the location, type of observation, source, length of observation, number of objects, and a brief summary of the sighting. The object observed is described as a "shining light" that "appeared very brilliant" and "resembled echo i" in the horizon. The information reported is limited in nature, as indicated by the "comments" section of the card.
+
+TEXT OUTPUT:
+
+1. DATE
+17 Dec 60
+
+2. LOCATION
+N 23-0525 W 175-00w
+Near Mariana Islands
+
+3. DATE-TIME GROUP  
+170752Z
+
+4. TYPE OF OBSERVATION
+G Ground Visual
+
+5. PHOTOS
+0 Yes
+
+6. LENGTH OF OBSERVATION
+1/2 Min
+
+7. BRIEF SUMMARY OF SIGHTING
+Shining light. Appeared very brilliant. Resembled echo i traveling est. Resembled echo i reaching horizon.
+
+8. SOURCE
+Military
+
+9. NUMBER OF OBJECTS 
+One
+
+10. COURSE
+SE-E
+
+11. COMMENTS
+This object was in view for 1/2 minutes, rising to 30 degrees horizon. The object appeared to move to the E from the N horizon. Information reported is limited in nature, precluding an evaluation. This information is submitted for record purposes only.

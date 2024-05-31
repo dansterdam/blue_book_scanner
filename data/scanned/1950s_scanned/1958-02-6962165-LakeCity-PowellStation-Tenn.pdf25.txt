@@ -1,0 +1,18 @@
+The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+
+OCR Text Output:
+where r(c,e) = 1.42e^4 (38^/3) + 1.6610.56^2 + 9.3088.55^2 (5)
+
+Correctly to a few percent when s lies between 0.02 and 0.20 and r exceeds 0.01. Outside these limits, equation (3) is still valid, and may always be used.
+
+If s is as measured in units of 4378 kilometers, there results from (4) the practical formula
+
+G = - 4.826 x 10^-15 p c^1/2  sm/cm^3, (6)
+
+where p is the rate of change of perigee in seconds per day, m is the mass of the satellite in grams, A is the satellite's area in square centimeters projected on a plane normal to the direction of motion, c p is the dimensionless aerodynamic drag coefficient. G is the mean distance expressed in earth radii of 6378 kilometers; g is 1.0367 au [(22).13 in kilometers]; and r(c,e) is given by (5).
+
+An average value of the A of a non-spherical satellite should be used in (3), and for a convex satellite of which all dimensions are roughly equal, the average A is one fourth of its total superficial area. The value of k, sometimes dependent on perigees can be approximated by k = 1.0 which applies for the upper atmosphere like the ARDC altitude range above 700,000 feet, as has been noted in (2) determined by (5) or (3), to two or more satellites with different perigees relating adjustments to until is of consistent with the resulting perigee densities.
+
+I am indebted to Dr. G. P. Schilling for urging me to develop some simple approximate formulas.
+
+R. A. Minzner and W. S. Ripley, "The ARDC Model Atmosphere, 1956". Air Force Surveys in Geophysics, No. 86, Geophysics Research Directorate, AFCRC, ARDC, December 1956.

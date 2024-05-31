@@ -1,0 +1,34 @@
+This document does not appear to contain any photographs. It appears to be a page from a technical report or document related to Project Blue Book, a United States Air Force program to investigate unidentified flying objects (UFOs).
+
+The image shows a grid diagram with annotations and labels. The text at the top indicates this is a "GRAM" and the diagram contains a scale from -40 to -50°C. There are also several labeled sections with time and station information.
+
+The text below the diagram provides explanations for the various elements and annotations in the diagram, such as the meaning of the straight horizontal lines, the slightly curved lines running diagonally, and the "saturated-adiabatics" curved lines.
+
+OCR Output:
+GRAM
+-40 -50*C.
+327 1528S
+STATION TIME
+10/12/50
+DATE
+327 1520*
+STATION TIME
+12/15
+DATE
+STATION TIME STATION TIME
+DATE DATE
+EXPLANATIONS:
+ISOTARS are the straight, horizontal lines. The heights in meters of the
+pressure surfaces in the U.S.A. atmosphere are written in increasu (t) on
+the left hand side of the diagram.
+SATADABATICS (irreversible) are the curved lines running diagonally from
+the left upwards to the right.
+SATURATION-ADIABATICS (like those of equal potential temperature, or istry)
+are the slightly curved lines running diagonally from the right upwards to the
+left.
+SATUBATED-ADIABATICS (irreversible) are the curved lines that intersect
+the isobars at intervals of 2°c, diverging upwards and tending to
+become parallel to the dryadiabatics. Temperatures of these lines are given
+in C°.
+HUMIDITY mixing ratio of saturated air (in gm. per kg.) is represented
+by broken lines. Their value appear at the center of the diagram.

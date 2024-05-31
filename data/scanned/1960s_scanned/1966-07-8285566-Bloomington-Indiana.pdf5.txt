@@ -1,0 +1,31 @@
+The image does not contain any photograph. It appears to be a table or report from Project Blue Book, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs) from 1952 to 1969. The table has columns for "PROJ", "SOUNDING DATE", "LOCATION", "DIRECTION", "RE-MARK" and various numerical values, likely related to data collected from UFO sightings or investigations.
+
+PROJECT 9992D - STAR TREK
+SOUNDING DATE: July 4, 1966 
+LOCATION: Bloomington, Indiana
+DIRECTION: 
+RE-MARK:
+450	970	31	42	270	3
+1026	200	36	46	290	3
+1352	850	21	50	280	5
+2058	800	16	62	260	4
+2400 *	750	11	70	260	5
+2175	700	7	57	230	6
+3720	600	4	26	220	5
+4431	600	2	18	350	12
+5120	550	-5	13	010	12
+6871	500	-7	13	350	6
+6689	450	-11	19	280	10
+7581	400	-13	22	250	10
+9556	350	-25	25	290	10
+9666	300	-34	23	240	14
+10215	250	-44	250	13
+12376	225	-92	350	14
+12279 *	175	-56	030	16
+14214 *	150	-60	050	18
+14338	125	-55	040	20
+15606	100	-44	070	12 
+18082	80	-59	010	8
+21040	50	-55	070	15
+REAL OBSERVER: Sgt. Dunham
+ANALYST: Sgt. Dunham

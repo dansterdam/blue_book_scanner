@@ -1,0 +1,21 @@
+The shared image does not contain a photograph. It appears to be a page from a Project Blue Book document, titled "RADAR OBSERVATION DATA SHEET". The document contains a series of questions and answers related to detecting radar equipment.
+
+I. QUESTIONS REGARDING DETECTING RADAR EQUIPMENT
+1. What type radar equipment is involved? 275-429
+2. Has there been any recent maintenance difficulties? If so, describe. None
+3. What type modulator (i.e., spark gap, hard tube, etc.) is used in the radar equipment? Hydrostatic
+4. Was the AFC (automatic frequency control) circuit of the receiver operating properly? Yes
+5. Has interference from another radar set been observed recently, and are personnel familiar with the effects caused by an interfering signal? No
+6. What type indicators, "A scope", "B scope", etc., were used to follow the target? PPI
+7. What was the radar scan rate? 27/
+8. What was the approximate frequency of the transmitter? 3,900 MC
+
+II. GENERAL QUESTIONS
+1. What were the general weather conditions at the time unidentified target was observed? Yes - 5, Clear
+2. Other weather data from nearby weather stations is available on temperature vs altitude, humidity vs altitude, and wind velocity vs altitude? Humidity 50%, Visibility 30/40, 2 miles 30'
+3. Was the target observed by any other nearby radar equipments? If so, give details. No
+4. Are the operator and the supervisor familiar with the effects of anomalous (duct-effect) propagation as they pertain to this type radar? Yes
+
+ARC Form 323
+25 October 1952
+Page 1 of 3

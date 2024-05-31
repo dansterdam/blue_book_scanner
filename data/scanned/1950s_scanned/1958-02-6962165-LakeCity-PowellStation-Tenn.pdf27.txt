@@ -1,0 +1,10 @@
+The image does not contain a photograph. It appears to be a page from an old UFO report document from Project Blue Book.
+
+ARDC model. It falls nearly on the middle curve, No. 2, in a density-altitude region suggested modification of the ARDC atmosphere model to obtain a density of about 1.6 x 10^-8 g/cm3.
+The values 4.5 x 10^-13 g/cm3 and 1.5 x 10^-14 g/cm3 depend somewhat upon the gradients of density of the ARDC model employed in the reductions. It seems better to adjust the model to conform to the observed values. This is consistent with the series of densities that result from the 9.5% of the adjusted model as proposed by Harris and Jastrow.
+The preferred values at 220 and 368 kilometers can be represented by an additive correction to the common logarithm of the density of the ARDC model, of roughly
+0.89 + 0.0015 (z - 220)
+where z is the geometric altitude in kilometers above sea-level.
+T. E. Stearns, G. F. Schilling, and B. M. Folkart, Special Report No. 1, IGY Project No. 30.10, Smithsonian Astrophysical Observatory (1957).
+T. E. Stearns and G. F. Schilling, Special Report No. 3, IGY Project No. 30.10, Smithsonian Astrophysical Observatory, Cambridge (1957).
+T. Harris and R. Jastrow, Science 127, 451 (1958).

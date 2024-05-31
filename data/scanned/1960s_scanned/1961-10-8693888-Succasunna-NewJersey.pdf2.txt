@@ -1,0 +1,8 @@
+The image contains three sketches. The first sketch is a curved line showing how a high object would appear above the horizon (skyline) when first seen, and then how it would appear below the horizon (skyline) when last seen.
+
+The second and third sketches depict the same landscape scene, with a person in the foreground. The second sketch shows the position of the object when it was first seen, marked as "A", and its position when last seen, marked as "B". The third sketch provides a more detailed view of the landscape.
+
+Text output:
+32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how low the object was below the horizon (skyline) when you last saw it.
+
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to smaller sketch as an example of how to complete the larger sketch.

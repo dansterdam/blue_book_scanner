@@ -1,0 +1,77 @@
+The image does not contain a photograph, but rather an engineering data table. The table provides details about "Interpolated Winds for LOST 14 OCT 66" for various altitudes and parameters such as wind speed and direction. The text in the table is composed of technical abbreviations and numerical data related to meteorological measurements.
+
+CCN-556
+1-5ETW
+
+DR AUG 63
+DP FUSCA 144 26-18-2
+20 MIL DU CO
+
+STATES THAT WINDS FROM AN WIND WASHED
+TO THD 295/18 W PEAK
+
+ET
+UNCLAS
+
+PR INT 5 TO 12,
+PE PRESSURE
+
+PER TECHINT A INTERPOLATED WINDS FOR LOST
+
+AT (S HGT)
+71/75
+6x /73
+22/52
+34/35
+14200
+16600
+18700
+20800
+
+WD (KTS)
+31 /73
+31/ /s3
+32/52
+33/35
+27/43
+26/25
+25/09
+24/11
+
+WT (FT)
+22 /70
+23 /03
+24/72
+27 /36
+35/b7
+37/42
+37/45
+37/35
+
+WD (KTS)
+21 /32
+21 /11
+24/77
+27/36
+35/67
+37/42
+37/45
+37/35
+
+PAGE TWO FUSCD 14 UNCLAS
+20/21 4
+15/39 26 /35
+13/01 27/44
+14400 27/45
+1500014/00
+16500 22/45
+18700 21/22
+20800 20/10
+
+27/75
+27/95
+27/95
+35/93
+35/30
+26/35
+24/0

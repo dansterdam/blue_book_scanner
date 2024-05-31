@@ -1,0 +1,105 @@
+The image provided appears to be a page from an old UFO report document, containing a table of data. There is no photograph present in this particular page.
+
+Performing OCR on the text in the image:
+
+PRESSURE
+TEMPERATURE
+HUMIDITY
+WIND VELOCITY
+WIND DIRECTION
+3:20 AM
+.255
+46
+74
+4
+230
+3:25 AM
+.257
+46
+75
+4
+230
+3:30 AM
+.259
+46
+76
+4
+230
+3:35 AM
+.260
+46
+77
+4
+230
+3:40 AM
+.261
+46
+77
+4
+230
+3:45 AM
+.262
+46
+78
+4
+230
+3:50 AM
+.263
+46
+78
+4
+230
+3:55 AM
+.263
+46
+78
+4
+230
+4:00 AM
+.264
+46
+79
+4
+230
+4:05 AM
+.264
+46
+79
+3
+230
+4:10 AM
+.264
+46
+79
+3
+230
+4:15 AM
+.264
+46
+79
+3
+230
+4:20 AM
+.264
+46
+78
+3
+230
+4:25 AM
+.264
+46
+78
+3
+230
+4:30 AM
+.263
+46
+78
+3
+230
+4:35 AM
+.263
+46
+77
+3
+230

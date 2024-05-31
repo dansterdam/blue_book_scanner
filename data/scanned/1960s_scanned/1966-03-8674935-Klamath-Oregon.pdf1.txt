@@ -1,0 +1,17 @@
+There is no photograph present in the image. However, the image appears to be a page from a Project Blue Book report, containing a Project 10073 Record with information about a sighting of an object identified as JUPITER at 0710Z at 260 degrees azimuth and 25 degrees elevation. The report provides a brief summary and analysis, stating that the object had white, flash red, orange, and green lights and was sighted at 25 degrees azimuth, but moving was not and did not disappear.
+
+OUTPUT:
+
+DATE - TIME GROUP: 24 Mar 66 - 2410/7102
+LOCATION: Klamath, Oregon
+SOURCE: Military
+NUMBER OF OBJECTS: One
+LENGTH OF OBSERVATION: 25 Minutes
+TYPE OF OBSERVATION: Ground-Visual
+COURSE: West
+PHOTOS: No
+PHYSICAL EVIDENCE: No
+CONCLUSION: ASTRO(JUPITER)
+JUPITER at 0710Z at 260 degrees azimuth 25 degrees elevation
+Brief summary and analysis:
+Object was white flash red, orange, and green. Sighted at 25 degrees azimuth, moving was not and did not disappear.

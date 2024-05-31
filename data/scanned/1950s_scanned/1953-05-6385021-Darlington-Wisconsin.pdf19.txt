@@ -1,0 +1,16 @@
+There is no photograph present in the provided image. The image appears to be a table or chart with information about various aerodromes and their details such as location, name, position, type, elevation, fuel, lights, and remarks.
+
+AERODROMES - MILWAUKEE SECTIONAL CHART
+LOCATION	NAME	POSITION	TYPE	ELEV.	FUEL	REPAIR	LIGHTS	REMARKS
+Highland, Mich.	St. John Highland	4512'15"N/83°42'40"W	Pvt.	848	No	No	M 400W	Boundary
+Brownfield, Mich.	Brownfield Airfield	42°36'48"N/83°44"18"W	Pvt.	754	80/91	Major	4 1500W	Boundary
+Temperance, Mich.	Michigan Chemical Co.	41°46'05"N/83°29'42"W	Pvt.	660	90/91	Minor	2 1000W	Runway on road
+St. Johns, Mich.	St. Johns Municipal	42°58'44"N/84°33'42"W	Pvt.	789	80/91	Major	1 5000W	
+Dowagiac, Mich.	St. Johns Municipal	41°59'57"N/86°07'36"W	Pvt.	848	80/91	Major	1 5000W	
+Mount Holyoke, Mich.	Mount Holyoke Shore	43°21'23"N/86°12'56"W	Pvt.	625	80/91	Major	4 400W	Lighted
+Sault Ste Marie, Mich.	Sault Ste Marie Municipal	46°28'55"N/84°20'28"W	Pvt.	620	80/91	Major	3 5000W	
+Wescott, Mich.	South Haven Mun.	42°21'25"N/86°15'24"W	Pvt.	628	80/91	Minor	2 400W	Boundary
+Woodstock, Ill.	Woodstock Flying	42°19'25"N/88°26'00"W	Com.	730	80/91	Major	4 500W	
+Waukegan, Ill.	Waukegan-Lake County	42°25'28"N/87°52'48"W	Com.	645	80/91	Major	4 2500W	Lights on 24 hrs.
+Waupon, Wis.	Waupun Flying	43°37'48"N/88°41'12"W	Pvt.	915	80/91	Major	2 400W	Boundary
+West Bend, Wis.	Washington County	43°16'45"N/88°13'10"W	Com.	900	80/91	Major	3 1500W	Boundary prior to chart

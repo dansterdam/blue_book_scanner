@@ -1,0 +1,21 @@
+There is no photograph present in this image. The image appears to be a scanned page from a document containing handwritten text and a data table.
+
+The text output from the OCR system is as follows:
+
+1230 RADIO SONDE W/RANGEFIND 
+
+WINDS     
+DIRECTION VELOCITY HEIGHT  
+0-300      260      3
+300      360      3      
+400      360      3 
+500      340      4
+600      310      5
+700      310      5
+8         310     11
+9         240     11
+10        280     18
+
+The altise index vis uxr sounding 
+at Vandalia of 1230 
+26 May 55

@@ -1,0 +1,21 @@
+The image contains a diagram and some text, but no photographic elements. The diagram appears to depict the movement of an object or objects, with an arrow pointing in the "east" direction. The text mentions an "ASKYLINE" and a "RADIO TOWER A".
+
+As an OCR system, I will output the text found in the document:
+
+27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it. Place an "A" on the compass where you first saw the object.
+
+90*   75*   60*   B
+      55*  A
+      30*
+      15*
+      0*
+
+28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
+
+WEST        EAST
+   A                B
+ASKYLINE
+RADIO TOWER A
+
+29. If there was MORE THAN ONE object, then how many were there? 
+Draw a picture of how they were arranged, and put an arrow to show the direction that they were travelling.

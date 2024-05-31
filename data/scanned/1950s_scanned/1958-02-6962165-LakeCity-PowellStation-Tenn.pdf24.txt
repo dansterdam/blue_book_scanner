@@ -1,0 +1,27 @@
+The image does not contain any photographs, only text and mathematical equations. As requested, I will act as an OCR system and produce the text found in the document:
+
+dimensionless quantity C.A.p. z/h, where z is the satellite's cross-sectional area, p is the mass, C is the dimensionless aerodynamic drag coefficient, and n is the atmospheric density at sea level.
+
+Now A, the time derivative of a, is clearly C.A/p where P is the orbital period. Moreover, Kepler's second law states that p^2/a^3 = K, therefore C.A/p = (3/2)(a/p).
+
+The only important contributions to the integral in (1) come from portions of the orbit near perigee because of the rapid decrease of density with increasing height. If the density p(r) is approximated, through a region near perigee and above it, by 
+
+p = p_o e^-Kr
+
+where p_o is the density at perigee, z is the altitude above perigee, and K is the logarithmic gradient of density near perigee
+
+K = -2.3026 (4/12) log10 p_o.
+
+then the integral can be shown to be given approximately
+
+by closely
+
+[ integral from r_o to r ] (1 + 3/2 e^(-a/r) - a^3/r^3 + ...) to(c) + [e^(-a/r) + e^3(1+2a/r) + ...] x I_1(e)
+
+where c = Kas, and where to and I_1 are Bessel functions of purely imaginary argument. If followed by
+
+F = -3Ttp A/r [ a/ae )^2 25 ] r(c,0)
+
+with rather high accuracy under all conditions.
+
+The Bessel functions can be expanded asymptotically in becoming powers of a and in this is done section (3).

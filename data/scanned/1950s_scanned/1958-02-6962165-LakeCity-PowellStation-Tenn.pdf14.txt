@@ -1,0 +1,29 @@
+The image does not contain any photographs. It appears to be a catalogue of moonwatch observations, presenting a table with various data points such as time, right ascension, declination, altitude, azimuth, direction of travel, and color.
+
+CATALOGUE OF MOONWATCH OBSERVATIONS
+1958 Alpha
+February, 1958
+Station  Time (UT)  Right Azi-  Decli-  Alti-  Direction Arc.  Magni-  Color
+No. Name          A D M S  Ascen.  muth   nation  tude  or Travel Ang.   tude
+102 Alamogordo, N.M. 03 03 46 10  05 23  180    +14 54 73        W-E      +3max
+003 China Lake,Calif 06 02 24 42  177 15         71           W-E      1      White
+103 Albuquerque, N.M. 07 01 22 02  180            76 30                +7,+8
+223 Yokkaichi, Japan  03 09 57 34  04 10         72 20  +03 00 00 24
+102 Cape Town, S.A.   03 02 54 34  180 00                         74      +3 
+225 Kure, Japan       03 09 56 32  180 00         00 24
+310 Hachinohe, Japan  03 09 58 17  04 28          00 24                  +3
+402 Cape Town, S.A.   10 02 45 20         180     00 24                79 24 
+093 China Lake,Calif. 11 03 03 25         180     00 24                37 30  W-E
+102 Alamogordo, N.M.  12 02 00 30  03 49  180    -05 30 49        W-E     +7   Yellow
+402 Cape Town, S.A.   12 02 35 38         00 24                76 00
+402 Cape Town, S.A.   15 03 21 17         00 24                76 00
+600 Adelaide, Aus.    15 18 36 30         320 20                69 30     6.5
+600 Adelaide, Aus.    15 18 37 02  03 29         69 20               6.5
+402 Cape Town, S.A.   16 02 14 57         00 24                52 55
+600 Adelaide, Aus.    17 18 25 52         -337 30               -7+,8
+403 Johannesburg,S.A. 20 01 55 30  13 45 43     00 24  -19 42    46 42     +3,5 
+401 Bloemfontein,S.A. 21 02 50 30         00 24                17 54     +5.5
+401 Bloemfontein,S.A. 23 02 39 38         00 24                30 06      +8
+401 Bloemfontein,S.A. 25 02 38 12         00 24                43 06
+401 Bloemfontein,S.A. 26 18 09 22         00 24                43 06
+401 Bloemfontein,S.A. 28 17 57 12         00 24                63 06

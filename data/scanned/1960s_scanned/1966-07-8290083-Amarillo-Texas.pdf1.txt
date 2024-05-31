@@ -1,0 +1,19 @@
+The image contains a form from Project 10073 Record, with no photograph present. I will now act as an OCR system and output all the text found in the document:
+
+PROJECT 10073 RECORD
+1. DATE - TIME GROUP         2. LOCATION
+7 July 66 08/0452            Amarillo, Texas (1 Witness)
+3. SOURCE                    3a. CONCLUSION
+Civilian                     Possible (AIRCRAFT)
+4. NUMBER OF OBJECTS          5. LENGTH OF OBSERVATION
+One                          20 Seconds
+6. TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+NE
+8. PHOTOS
+[] Yes
+[X] No
+9. PHYSICAL EVIDENCE
+[] Yes
+[X] No

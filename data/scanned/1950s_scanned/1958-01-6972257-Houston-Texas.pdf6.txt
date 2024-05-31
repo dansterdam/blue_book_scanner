@@ -1,0 +1,29 @@
+The image does not contain a photograph. It appears to be a typed document with handwritten notes.
+
+Editor Tim
+New York
+
+Dear Sir:
+
+There are some strange goings-on in the evening and night sky above Houston, Texas.
+
+On the night of January 3, my wife and I, upon returning from a visit to Bockenbough, descending near Deane in the constellation Cygnus in the low northwest, observed a strange object in the sky. This object, which we estimated as a first magnitude star, seemed to be zinking, becoming barely visible when it disappeared from view. It did not appear to be a burning object such as a gas-filled weather or balloon. It definitely was not a shooting star or a meteor.
+
+On the late afternoon of January 12, just before dusk, it was searching for some stars. It could not see Mercury because of the brilliancy of the sky (the sun had set). This may be explained by a brilliant object observed by a brilliant orange-colored object which, at first, appeared to be a giant multi-motored plane. It grew larger, and it seemed to be a flaming object. It grew smaller and finally disappeared. It did not appear to be approaching or even moving, except for a short period when it seemed to be a burning plane, but I could see no smoke.
+
+I could see no rockets or any objects towed into the night sky by my binoculars (7 power did not aid it in any way and showed no details). We examined the object intently through the glass. The description I have given was generally was already seen written. It was a mass of things reaching into the air almost as high as the object was large. The flames seemed most of the disturbance, larger than the mass itself. This object, too, was seen dimly and finally disappeared to view entirely. After about 10 to 15 miles away. It seemed to hover, and it was not attached to the ground. We must have watched it for 20 to 25 minutes, and it disappeared, independently. Her drawing was remarkably like.
+
+Text output:
+
+Editor Tim
+New York
+
+Dear Sir: 
+
+There are some strange goings-on in the evening and night sky above Houston, Texas.
+
+On the night of January 3, my wife and I, upon returning from a visit to Bockenbough, descending near Deane in the constellation Cygnus in the low northwest, observed a strange object in the sky. This object, which we estimated as a first magnitude star, seemed to be sinking, becoming barely visible when it disappeared from view. It did not appear to be a burning object such as a gas-filled weather or balloon. It definitely was not a shooting star or a meteor.
+
+On the late afternoon of January 12, just before dusk, it was searching for some stars. It could not see Mercury because of the brilliancy of the sky (the sun had set). This may be explained by a brilliant object observed by a brilliant orange-colored object which, at first, appeared to be a giant multi-motored plane. It grew larger, and it seemed to be a flaming object. It grew smaller and finally disappeared. It did not appear to be approaching or even moving, except for a short period when it seemed to be a burning plane, but I could see no smoke. 
+
+I could see no rockets or any objects towed into the night sky by my binoculars (7 power did not aid it in any way and showed no details). We examined the object intently through the glass. The description I have given was generally was already seen written. It was a mass of things reaching into the air almost as high as the object was large. The flames seemed most of the disturbance, larger than the mass itself. This object, too, was seen dimly and finally disappeared to view entirely. After about 10 to 15 miles away. It seemed to hover, and it was not attached to the ground. We must have watched it for 20 to 25 minutes, and it disappeared, independently. Her drawing was remarkably like.

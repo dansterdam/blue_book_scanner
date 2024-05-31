@@ -1,0 +1,39 @@
+The image does not contain any photographs, it appears to be a table with wind data for the Boston and Cleveland areas on July 18-19, 1964.
+
+Boston Area Winds 18-19 July 1964, Local Times
+Directions in degrees from which wind blows, e.g., 240 is a 57 wind 270 is from the west, Speed in knots.
+18 July 1800Z
+1000 Ft Level, Degrees, Knots
+Surface, 240, 23
+2, 250, 25
+3, 250, 24
+4, 260, 25
+5, 260, 25
+6, 270, 28
+7, 270, 29
+8, 270, 28
+9, 270, 23
+10, 270, 19
+11, 260, 23
+12, 270, 19
+13, 270, 16
+14, 290, 18
+15, 300, 15
+16, 300, 15
+17, 280, 15
+18, 300, 14
+19, 300, 29
+20, 280, 34
+30, 260, 21
+
+Cleveland Area Winds 18 July 1964 estimated for 0245 GMT
+Surface, 220, 11
+2, 220, 20
+3, 230, 20
+4, 240, 20
+5, 240, 16
+6, 250, 15
+7, 260, 14
+8, 280, 11
+9, 300, 9
+10, 300, 6

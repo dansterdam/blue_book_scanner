@@ -1,0 +1,19 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book document, containing a map of the Atlantic Ocean region and various data related to radio stations and other details.
+
+STATION        FREQ  IDENT  POWER  HOURS ON PER
+HARTFORD          10.90  WTIC   50.000  1930 0600
+NEW YORK          680   WCBS   50.000  1043 0600
+NEW YORK          1130  WNEW   10.000  0700 2300
+PHILADELPHIA       770  WOR    50.000  CONTINUOUS
+BALTIMORE         1210  WCAO   50.000  1100 0600  
+WASHINGTON        1500  WTOP   50.000  1030 0600
+RICHMOND          1140  WRVA   50.000  1100 0100
+CHARLESTON        1390  WTMA   5.000   1100 0600 
+MIAMI              710  WIOD   10.000  1330 0500
+SAVANNAH          1290  WTOC   5.000   1100 0300
+MIAMI BEACH       1260  WKAT   1.000   1330 0500
+TAMPA              570  WFLA   10.000  1300 0600
+TAMPA             1380  WDAE   5.000   1330 0000
+PONCE             1570  WPAB   5.000   
+SAN JUAN          680   WAPA   10.000
+SAN JUAN          1320  WKJB   1.000

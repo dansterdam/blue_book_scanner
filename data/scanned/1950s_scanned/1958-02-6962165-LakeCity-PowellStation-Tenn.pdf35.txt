@@ -1,0 +1,13 @@
+The image does not contain a photograph. It appears to be a scanned document or report from Project Blue Book, which was a U.S. Air Force program that investigated UFO sightings.
+
+As an OCR (Optical Character Recognition) system, the text contained in the document is as follows:
+
+In addition the results may be rounded to the nearest minute, tenth of a degree, or nearest one hundredth of a mile. Together the quantities include azimuth, elevation, slant range, time, distance, speed, and height, respectively.
+
+The elements necessary as input data for the program are an equalization either for the time of crossing the ascending node or of passage through tangent of a diurnium; a relation of the numbers of the ascending and descending nodes; the limitations of the right ascension of the ascending node; the implications of the passage distance; and the right ascension of the ascending node; the implications distance. The passage distance is assumed to be constant over the range of prediction. From these elements the predictions are made using the standard equations for an elliptic orbit.
+
+Second and the period perturbations causing changes in the argument of perigee and right ascension of the nodes are accounted for. Atmospheric drag is accounted for implicitly in the equations for time of nodal crossing or perigee passage. Short period perturbations are neglected. This leads to some error in the height predictions directly dependent on the form of the time variation, but for the present satellites, this does not exceed one mile.
+
+A secondary part of the program is concerned with producing a "prediction" report which gives the most pertinent facts about a satellite's orbit. Computed over any interval, rate of change of period, latitude of perigees, rate of change of latitude of perigees, height of perigee, height of apogee, and height over any specific parallel or latitude (adjusted for 1957 Alpha and 1958 Gamma) for both the north-south and east-west crossings.
+
+The program is in operating condition and has been used since basically for the past several weeks in making predictions for the U.S. satellites. Changes are contemplated in the future to incorporate more accurate data and to insure that the program works properly for special uses such as inclinations greater than ninety degrees (retrograde satellites).

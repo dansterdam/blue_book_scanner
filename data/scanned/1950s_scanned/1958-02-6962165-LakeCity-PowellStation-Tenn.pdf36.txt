@@ -1,0 +1,20 @@
+There is no photograph present in this scanned document page. The page contains text describing "Predictions for Photographic Satellites Tracking Stations - AFC Ephemeris II" by Charles H. Moore* and Don A. Lautman**.
+
+Produced text output:
+
+Predictions for Photographic Satellites Tracking Stations - AFC Ephemeris II
+by
+Charles H. Moore* and Don A. Lautman**
+
+Ephemeris 4 is the computer program for predicting satellite positions for the Baker-Nunn camera stations. The present formulation utilizes the currently best set of elements available, accounting for the drag by means of atmospheric densities. In the mean motion including only the terms to the first order, the numerical integration which includes the effects of oblateness and eccentricity excitation. In some cases the drag can be neglected, a complete driver-record perturbation theory including periodic perturbations can be used.
+
+The main requirements demanded of predictions intended for camera stations are: (1) predictions must be limited to observable passages and (2) predictions must be made for the point of culmination. The optimum approach would be to integrate the equations of motion for the satellites, obtaining these predictions, as well as other data, direstly.
+
+However, to obtain predictions as soon as possible.
+
+This program for the IBM EDPM 704 employs the orbital elements of the satellites and transforms them by graphical (trigonometric) means into specific predictions. The accuracy of the predictions will well within the accuracy of the observed elements, and is fixed by the refinement to which the time is propagated. This prediction can be gotten without employing more sophisticated methods, and is fitted to the requirements of the Baker-Nunn tracking cameras.
+
+The input to the computer consists basically of the coordinates of the stations (latitude, longitude, and height) and the orbital elements. The computer program guides the time at which the satellite is at the ascending node.
+
+* Physical Science Aids, Optical Satellite Tracking Program, Smithsonian Astrophysical Observatory
+** Mathematician, Optical Satellite Tracking Program, Smithsonian Astrophysical Observatory

@@ -1,0 +1,22 @@
+The image does not contain a photograph. It appears to be a typed document with text discussing "The Density of the Upper Atmosphere" by Theodore E. Sterne.
+
+The text in the document is as follows:
+
+The Density of the Upper Atmosphere*
+By
+Theodore E. Sterne**
+
+1. Introduction
+This shall present a formula for the inference of air density from the orbital motion of artificial satellites of earth such as satellites kindly provided me by Dr. Charles A. Whitney.
+
+2. A Formula for Inferring Atmospheric Density from the Motion of Artificial Earth Satellites
+In a paper in press the author has made a basis theoretical study of the effects of air resistance upon the motion of close earth satellites. The first equation of Section 2 or that paper is
+
+Δ a = -α'(a/p)2 (r/Ro) (1+e cos E)3/2 dlp (1)
+        Ro (1-e cos E)1/2
+
+Where a and p are the mean distance of the satellite orbit and its eccentricity, respectively; where Δ is an operator denoting the increase in quantity upon which it operates, where r is the earth's equatorial radius, and where E is the eccentric anomaly. In equation (1) c is the
+
+* The Formula and conclusions about atmospheric density, in this article, have been communicated to Science.
+** Associate Director, Smithsonian Astrophysical Observatory, and Professor of Astrophysics/1953, Harvard University.
+1. E. Sterne, "An Atmospheric Model, and some Remarks on the Inference of Density from the Orbit of a Close Earth Satellite", Astronomical Journal (in press).

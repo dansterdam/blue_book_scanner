@@ -1,0 +1,40 @@
+The image does not contain any photographs, only text and numerical data. As an OCR system, I will output the text found in the document:
+
+U.S. WEATHER WING (MATS)--Det 1
+UNITED STATES AIR FORCE
+REPLY TO: ATSW-97
+COLORADO SPRINGS AIR FORCE BASE, COLORADO
+
+REPLY TO
+ATSW-97: JAMES E. HARVEY
+
+SUBJECT: Weather Information
+
+TO: FASCO78, Captain De Hoff
+
+In response to a request by Captain De Hoff for weather information,
+the following data is submitted:
+
+WINDS ALOFT - Denver - 11/1200Z (10/1700Z)
+
+6,000 310/13 20,000 310/13
+9,000 320/15 25,000 290/37
+12,000 320/15 30,000 280/31
+15,000 330/13 35,000 290/34
+
+Colorado Springs Rawinsonde Observations:
+10/1235Z 206-55 09/23/60,21/21/52 12/07/52 WINDS WERE SSW TO W AND S
+10/1935Z 100-65 10/06/L/L/21/3/01/3/02 WINDS WERE NW THRU WSW ALOFT SFC VIS
+3
+
+Vertical Temperature Gradient - Denver 10/1200z
+
+DEWPT 72432 65216 65172 70176 17029 03010
+53397 53117 53117 67671 63583 68351
+52142 52211 55519 25163 71110 69950
+21122 25116 4162 11/70 09035
+
+JAMES E. HARVEY
+WEATHER OFFICER
+USAF DETACHMENT
+CLASS: RESTRICTED

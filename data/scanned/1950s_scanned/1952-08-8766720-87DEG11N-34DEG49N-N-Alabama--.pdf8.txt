@@ -1,0 +1,19 @@
+The image does not contain any photographs. It appears to be a weather data sheet from Project 10073, a government weather data collection program.
+
+1. DATE OF OBSERVATION 2. TIME OF OBSERVATION 3. STATION OBSERVING
+
+4. WINDS ALOFT: 
+ALTITUDE (Feet): 0, 1,000, 2,000, 3,000, 4,000, 5,000, 6,000, 7,000, 8,000, 9,000, 10,000, 12,000, 14,000, 16,000, 18,000, 20,000
+VELOCITY (Knots):
+DIRECTION (Degrees):
+ALTITUDE (Feet): 25,000, 30,000, 35,000, 40,000, 45,000, 50,000, 55,000, 60,000, 65,000, 70,000, 75,000, 80,000, 85,000, 90,000, 95,000, 100,000
+VELOCITY (Knots):
+DIRECTION (Degrees):
+
+5. WAS AN INVERSION LAYER NOTED? (If yes, at what altitude?): [Yes] [No]
+6. WERE ANY THUNDERSTORMS NOTED IN AREA? (If yes, what quadrant?): [Yes] [No]
+7. CLOUD COVER: ___ tenths at ___ feet. ___ tenths at ___ feet. 
+8. VISIBILITY WAS _____ MILES.
+9. COMMENTS:
+
+ATIC Test Form 333 (13 Aug 52)

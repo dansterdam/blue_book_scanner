@@ -1,0 +1,23 @@
+The image does not contain any photographs. It appears to be an Air Intelligence Information Report from Project Blue Book, dated 18-5-52.
+
+AIR INTELLIGENCE INFORMATION REPORT
+FROM Captain
+TO SOOASH AIR DIVN BING AFB AIO 912
+18-5-52
+STATEMENT
+I was pilot of B-26 call sign Fletcher 45, the night of 29 December 1952. At that time we were returning from Yokota AB to Itazuke AB when I observed a strange object at approximately 20,000 ft. The object was about the size of a 50 cent piece held at arm's length, circular in shape. It appeared to be white in color and seemed to be traveling in a horizontal path away from the direction of the aircraft. The object was a steady white light, just above my altitude approximately 20,000 ft. As it moved away, the light appeared to be varying in brightness as it was descending. As it continued to move away, it appeared to be a steady white light.
+EDWARD H. WITHER, Major
+Corson Air Base Wing
+Incl 1/
+
+TEXT OUTPUT:
+
+AIR INTELLIGENCE INFORMATION REPORT  
+FROM: CAPTAIN  
+TO: SOOASH AIR DIVN BING AFB AIO 912
+18-5-52
+STATEMENT:
+I was pilot of B-26 call sign Fletcher 45, the night of 29 December 1952. At that time we were returning from Yokota AB to Itazuke AB when I observed a strange object at approximately 20,000 ft. The object was about the size of a 50 cent piece held at arm's length, circular in shape. It appeared to be white in color and seemed to be traveling in a horizontal path away from the direction of the aircraft. The object was a steady white light, just above my altitude approximately 20,000 ft. As it moved away, the light appeared to be varying in brightness as it was descending. As it continued to move away, it appeared to be a steady white light.
+EDWARD H. WITHER, Major
+Corson Air Base Wing
+Incl 1/

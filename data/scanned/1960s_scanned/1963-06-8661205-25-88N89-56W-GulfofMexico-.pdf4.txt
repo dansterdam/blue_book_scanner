@@ -1,0 +1,5 @@
+The image does not contain a photograph, but rather handwritten text that states "This case includes two (2) photographs of narrative."
+
+Performing OCR on the text in the image, the output is:
+
+This case includes two (2) photographs of narrative.

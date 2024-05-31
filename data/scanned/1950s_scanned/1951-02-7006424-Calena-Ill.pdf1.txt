@@ -1,0 +1,36 @@
+The image does not contain a photograph. It appears to be a Project 10073 record card from the Project Blue Book, which was the United States Air Force's systematic study of unidentified flying objects.
+
+PROJECT 10073 RECORD CARD
+
+1. DATE: 3 Feb 51
+2. LOCATION: Galena, Ill.
+3. DATE/TIME GROUP: Not Given
+4. TYPE OF OBSERVATION: Ground-Visual 
+5. PHOTOS: No
+6. LENGTH OF OBSERVATION: Not Given
+7. BRIEF SUMMARY OF SIGHTING: Shaped like a "telephone pole". Color was brilliant red. Size 300' long. Speed was not very fast. All not very high.
+8. NUMBER OF OBJECTS: 1
+9. COURSE: N
+10. COMMENTS: Probably a large meteor. Report says it was viewed over Galena, where it appeared to be low.
+
+The text output from the document is as follows:
+
+PROJECT 10073 RECORD CARD
+
+1. DATE: 3 Feb 51
+2. LOCATION: Galena, Ill. 
+3. DATE/TIME GROUP: Not Given
+4. TYPE OF OBSERVATION: Ground-Visual
+5. PHOTOS: No
+6. LENGTH OF OBSERVATION: Not Given
+7. BRIEF SUMMARY OF SIGHTING: Shaped like a "telephone pole". Color was brilliant red. Size 300' long. Speed was not very fast. All not very high.
+8. NUMBER OF OBJECTS: 1
+9. COURSE: N
+10. COMMENTS: Probably a large meteor. Report says it was viewed over Galena, where it appeared to be low.
+11. CONCLUSIONS: 
+Was Balloon
+Was Aircraft
+Was Astronomical
+Was Other
+Insufficient Data for Evaluation 
+Unknown

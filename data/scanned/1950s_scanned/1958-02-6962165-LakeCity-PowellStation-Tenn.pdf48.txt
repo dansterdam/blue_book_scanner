@@ -1,0 +1,30 @@
+The image does not contain any photograph. It appears to be a page from a Project Blue Book report, containing optical observations of a satellite in 1958.
+
+The text in the document is as follows:
+
+The following optical observations of Satellite 1958x have been received from Moonwatch teams:
+
+Date Time Position R.A. Dec. Type of Obs.
+February 1 Alamogordo, New Mexico Long: 105° 57' 02" W
+2 2h45m45s  34° 39' 19" N +33'06" vis. +.8 mag.
+3 1h44m16s  Manhattan, Kansas Long: 96° 28' 35" W
+3 5h37m  39° 09' 75" N -12'40' vis. +.5 mag.
+3 Alamogordo, New Mexico Long: 105° 57' 02" W
+3 3h46m10s  32° 52' 24" N +12'34" vis. +.8 mag.
+6 China Lake, California Long: 117° 663" W
+6 2h22m22s32s  35° 657" N Alt: 719' vis. +.25
+
+February 5, 1958 Fred L. Whipple
+
+Announcement Card 1404
+Satellite 1958x - Dr. Charles A. Whitney of the Smithsonian Astrophysical Observatory has obtained the following MOONWATCH and MINITRACK observations from and March 3, 1958:
+
+Epoch and Time at Perigee  1958 Feb. 1d 3h 52m 53s
+e = .139 q = 1.0556 Q = 1.3985 (apogee distance)
+i = 33°.19 Ω=343°.4 ω=120°.0
+Times at Perigee Feb. 1.16182-0.798274 N - 1.910
+x = 10^-7n2 + 0.00023 sin. .0177 (N - 20)
+Motion of Perigee and Ascending Node (deg/day)
+ω = 6.334 +0.00084 (T - Feb. 1.0)
+Ω = -4.237 - 0.00059 (T - Feb. 1.0)
+March 17, 1958 Fred L. Whipple

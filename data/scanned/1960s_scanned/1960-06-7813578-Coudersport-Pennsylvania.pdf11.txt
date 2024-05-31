@@ -1,0 +1,6 @@
+The image does not contain any photograph or image, but rather shows an envelope addressed to "Dept. of Defense, Washington, D.C.".
+
+OUTPUT:
+
+Dept. of Defense,
+Washington, D.C.

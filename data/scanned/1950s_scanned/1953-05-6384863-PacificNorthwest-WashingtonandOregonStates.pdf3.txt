@@ -1,0 +1,54 @@
+The image does not contain any photographs. It appears to be a document listing plots of unidentified objects and their coordinates, categorized as "Violator Track" and "Fighter Track". The document is classified as "UNCLASSIFIED" and is dated "16 May 1953".
+
+LISTING OF PLOTS OF UNIDEN AIRCRAFT AND TME RECOVERY PLOTS
+OF FLIGHTS HERE AND FLIGHTS TO ME WITH COORDINATES AND TIMES
+
+VIOLATOR TRACK
+Georef Grid        Time
+1. RB 4343        05566
+2. RB 4335        05620
+3. RB 4326        05642
+4. RB 3319        05614
+5. RB 3312        FADED AT 05376
+
+FIGHTER TRACK 
+Georef Grid        Time
+1. LO 1921 (w0 hite)  05122
+2. LO 1130            05164
+3. LG 0522            05114
+4. RG 0135            05122
+5. RB 2135            FADED AT 05114
+
+(Georef Grid)
+1. RB 2315            05244
+2. RG 2030            05230
+3. LM 3221            05402
+4. LO 4623            05474
+5. LF 3020            05446
+6. LF 1550            05471
+7. LF 1030            05449
+8. LF 1035            05550
+9. LF 1500            05292
+10. LF 2035           05304
+11. LF 2035           05292
+12. LF 2060           05304
+13. LF 2035           05292
+14. LF 2035           05292
+15. LF 1550           05256
+16. LF 1030           05114
+17. LF 1430           05304
+18. LF 2874           05114
+19. LF 3342           05242
+20. LF 3636           05204
+21. LF 3530           05214
+22. LF 1632           05200
+23. LF 1590           05214
+24. LF 1759           05227
+25. LF 1619           05217
+26. LF 2017           05227
+
+FADED AT 05302
+
+UNCLASSIFIED
+
+AF54H375

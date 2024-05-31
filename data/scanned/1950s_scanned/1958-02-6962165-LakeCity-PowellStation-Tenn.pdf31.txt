@@ -1,0 +1,38 @@
+The image does not contain any photographs. It appears to be a page from an old document discussing a "Program for Determination of Geographic Sub-Satellite Points" by Luigi G. Jacchia.
+
+The text in the document is as follows:
+
+Program for Determination of Geographic Sub-Satellite Points
+
+by 
+Luigi G. Jacchia*
+
+The sub-satellite-point routine was devised for the double purpose of rapidly analyzing incoming observations and of obtaining from them the basic results necessary to compute a search ephemeris. Osculating equatorial elements are assumed for a time t0 (either an ascending node or a perigee crossing) and integrated to the time t, the elements for this time t are then corrected for secular perturbations and drag.
+
+The elements are given in the following form:
+
+x^a = x0 + c^a + c^a2 + c^a3
+y = a + d^a2 + d^a3
+1 = constant
+q = constant 
+
+Here t is the time of ascending-node crossings, T
+the time of the next ascending-node crossing, the argument of perigee,
+i the orbital inclination, q the perigee distance, and
+n the number of revolutions elapsed since t0. Ca, c^a, d^a
+d^a are constants. The right ascension of
+the ascending node, , (or the longitude of the node) since it is required only to know whether
+the observation was made on the ascending or the descending
+half of the orbit.
+
+Every observation consists of two spherical co-ordinates
+(right ascension and declination, or azimuth and altitude)
+referred to a time t, and to a set of station co-ordinates,
+which are fed into the machine program as input data. First
+the machine computes the value of the node or perigee
+crossing immediately preceding the observation's time and
+from this value, the co-ordinates under which the observations
+were made are computed from the formulas given in the
+program.
+
+*Physicist, Smithsonian Astrophysical Observatory.

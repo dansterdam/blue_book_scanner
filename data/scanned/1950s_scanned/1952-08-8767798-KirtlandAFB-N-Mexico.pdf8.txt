@@ -1,0 +1,18 @@
+The image does not contain any photographs, only a table with observational data for a weather-related project. As an OCR system, I will output the text found in the document:
+
+1. DATE OF OBSERVATION
+2. TIME OF OBSERVATION
+3. STATION OBSERVING
+4. WINDS ALOFT:
+    ALTITUDE (Feet)
+    VELOCITY (Knots)
+    DIRECTION (Degrees)
+5. WAS AN INVERSION LAYER NOTED?
+    (If yes, at what altitude?)
+6. WERE ANY THUNDERSTORMS NOTED IN AREA?
+    (If yes, at what quadrant?)
+7. CLOUD COVER:
+    tenths at 10,000 Feet.
+    tenths at 15,000 Feet.
+    tenths at 20,000 Feet.
+9. COMMENTS:

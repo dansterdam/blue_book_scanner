@@ -1,0 +1,25 @@
+The image does not contain any photographs. As an OCR system, I will output all the text found in the document:
+
+39. Do you think you can estimate the speed of the object?
+(Circle One)   Yes   No
+IF you answered YES, then what speed would you estimate? ______________ m.p.h.
+
+40. Do you think you can estimate how far away from you the object was?
+(Circle One)   Yes   No
+IF you answered YES, then how far away would you say it was? ______________ feet.
+
+41. Please give the following information about yourself:
+NAME: Last Name ______________ First Name ______________ Middle Name ______________
+ADDRESS: _______________ Street, _______________ City, _____________ Zone ___ State ___
+TELEPHONE NUMBER: _______________
+What is your present job? ______________________________________________________
+Age _____ Sex _____
+Please indicate any special educational training that you have had:
+a. Grade school ___
+b. High school ___
+c. College ___
+d. Post graduate ___
+e. Technical school ___
+f. Other special training ___
+
+42. Date you completed this questionnaire: __ Day ___ Month ___ Year

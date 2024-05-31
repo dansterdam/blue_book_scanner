@@ -1,0 +1,7 @@
+The image contains a hand-drawn map or diagram. It shows the location of Columbus, Ohio, with Port Columbus Airport marked. There is an arrow indicating the wind direction and another arrow indicating the path of a balloon. The text at the bottom states "DOWNGRADED AT 3 YEAR INTERVAL, DECLASSIFIED AFTER 12 YEARS, DOD DIR 5200.10".
+
+Scanning the text in the document, the output is:
+
+DOWNGRADED AT 3 YEAR INTERVAL,
+DECLASSIFIED AFTER 12 YEARS,
+DOD DIR 5200.10

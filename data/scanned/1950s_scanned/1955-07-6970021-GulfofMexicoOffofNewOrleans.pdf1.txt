@@ -1,0 +1,13 @@
+The image contains a Project 10073 Record Card form that appears to be part of a UFO report document from Project Blue Book. The form shows that the sighting occurred on 15 Jul 55 in the Gulf of Mexico off of New Orleans. The object observed was reported to be shaped like a drop of water with a diameter of approx. 15 inches. The conclusion on the form is that the object was a "probable balloon".
+
+TEXT OUTPUT FROM OCR:
+
+1. DATE  15 Jul 55
+2. CASE OR ORGANIZATION  CASE REPORT
+3. LOCATION Gulf of Mexico off of New Orleans
+4. TYPE OF OBSERVATION  d. Ground-Radar
+5. PHOTOS 0 Yes 0 No
+6. LENGTH OF OBSERVATION 1 DAY
+7. COURSE g. Air-Intervened Radar
+8. BRIEF SUMMARY OF SIGHT 0 min of arc 15/32 diameter. Obj appeared to be shaped like drop of water.
+9. CONCLUSIONS 0 Was Balloon 0 Probably Balloon 0 Was Aircraft 0 Probably Aircraft 0 Insufficient Data for Evaluation 0 Unidentified

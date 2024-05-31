@@ -1,0 +1,33 @@
+The image does not contain a photograph. It appears to be a page from a report document regarding a UFO test or sighting on May 24, 1950 at Holloman Air Force Base in New Mexico.
+
+Text from the document:
+
+1. Following is preliminary information concerning MDC 67th test of 24 May 1950:
+
+a. Reference System:
+NAA Line of fire: 19052 30.8" west of North 
+X: the down range coordinate along the NAA line of fire
+Y: the off range coordinate, positive to the right
+Z: the vertical coordinate
+M: that plane tangent to the earth's surface through 
+the M point (0, 0, 0)
+
+b. Station Locations:
+Coordinates of station 8: 13549, 20190, 106
+Coordinates of station 10: 43309, 23819, 113
+
+c. Frame rate:
+Five frames per second
+
+d. Definitions:
+Azimuth Angle: the angle the line of sight when projected into the XY plane makes with the X coordinate axis in a clockwise direction.
+Elevation Angle: the acute angle the line of sight makes with the XY plane.
+
+e. Discussion of the 24 May 1950 film.
+Station 10 followed an object for seventy-four consecutive frames, during which time the azimuth angle changed uniformly from 58°10'30" to 57°26'30". The elevation angle changed uniformly from 14°32'20" to 14°25'50".
+
+Unfortunately, as station 8 and 10 did not follow the same object, no reduction was possible.
+
+PERRY K. BRYANT
+Captain, USAF
+Chief, Data Reduction Unit

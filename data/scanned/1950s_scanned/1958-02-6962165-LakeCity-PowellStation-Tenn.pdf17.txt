@@ -1,0 +1,22 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book report, containing tabular data with details about various UFO sightings.
+
+Text output:
+
+1958 Beta One
+March, 1958
+Station Time (UT) Right Azi- Decli- Alti- Direction Appr. Magni- Color
+No. Name d h m s Ascen. muth nation tude of Travel Vel. tude
+102 Alamogordo, N.M. 19 11 13 36 16 10 0 +11 79 W-E +6 Yellow
+103 Albuquerque, N.M. 19 11 15 20 160 +8 White
+103 Albuquerque, N.M. 20 11 52 07 160 +6 +8 White
+065 Bryan, Texas 21 11 20 36 17 13 -07 36 W-E +4+.5+5 Or.-Wh.
+027 Manhattan, Kan. 26 11 07 34 19 06 -29 18 W-E +7.5 White
+
+1958 Beta Two
+March, 1958
+103 Albuquerque, N.M. 20 11 54 42 180 75 +8
+
+1958 Gamma
+March, 1958
+102 Alamogordo, N.M. 27 11 45 20 16 25 -17 NW-SE 2 +6 Reddish
+An additional 1958 Gamma observation was reported by Albuquerque, N.M., station 103, for the same day, but it has not yet been possible to evaluate it.

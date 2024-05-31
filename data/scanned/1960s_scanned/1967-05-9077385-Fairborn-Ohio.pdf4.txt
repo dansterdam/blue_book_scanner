@@ -1,0 +1,19 @@
+The image does not contain any photographs. It appears to be a T-LOG P DIAGRAM (MILLIBARS) which is a meteorological graph showing atmospheric pressure and temperature data. The graph is accompanied by an explanation of the various symbols and measurements used in the diagram.
+
+T. LOG P DIAGRAM (MILLIBARS)
+
+EXPLANATION
+ISOBARS are straight, horizontal brown lines. The height is in feet of the pressure surface as is the ICAO Standard Atmosphere as on the left.
+ISOTHERMS ("C°) are the slightly curved brown lines that intersect the 1000 mb, solar at intervals of 2°C, and run diagonally upward from right to left.
+SATURATED ADIABATS are the curved green lines that intersect the 1000 mb, solar at intervals of 2°C, showing upward and toward the dry adiabats. Values appear in the upper part of the diagram.
+SATURATION MIXING RATIO (g per kg) is represented by dashed green lines. The values appear at the bottom and middle of the diagram.
+ICAO STANDARD ATMOSPHERE SOUNDINGS is indicated by a thick brown line.
+The saturated adiabats and isotherms of saturation mixing ratio are computed by use of vapor pressure over a plane water surface at 20°C.
+APPROXIMATE VIRTUAL TEMPERATURE may be obtained from the formula t = t + 0.4(r - 10) where t is virtual temperature in °C, t is free air temperature in °C, and r is mixing ratio in g/kg. For purposes of this diagram the mean mixing ratio of the layer for which data are reported and plotted. The open circles indicate the mandatory pressure levels at which wind data are also entered.
+
+ROAB ANALYSIS
+002/122
+FRZG LVL
+STATION INDEX
+L.C.L.
+C.C.L.

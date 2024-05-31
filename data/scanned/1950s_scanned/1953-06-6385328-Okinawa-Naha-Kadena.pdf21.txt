@@ -1,0 +1,36 @@
+There is no photograph present in the provided image. The image appears to be a page from an old document describing aeronautical symbols and airfield data. I will now proceed to act as an OCR system and produce the text found in the document:
+
+AERONAUTICAL SYMBOLS
+AERODROMES
+AIRPORTS - COMPLETE FACILITIES Suitable for operations by all types aircraft
+SEAPLANE LANDPLANE
+Military BASE Civil
+Joint Civil and Military Base
+
+LANDING GROUNDS and ANCHORAGES
+Emergency Landing Ground with Landing Strip - Very limited or no facilities or services
+Emergency Landing Ground - Very limited or no facilities or complete information not available
+Sheltered Anchorage - Very limited or no facilities
+
+AIRFIELD DATA
+300 Elevation in feet
+Minimum lighting: obstruction, boundary or runway lights, aeronautical flight assisted wind indicator
+Hard surface runway, normally all-weather
+Normally sheltered take-off area
+Length of longest runway to nearest hundred feet
+When specific information is not available data is lacking, or unconfirmed, the respective character is replaced by a dash (-)
+
+AIR NAVIGATION LIGHTS
+Rotating or Oscillating Light......................
+Rotating Light (with flashing code lights)....
+Rotating Light (1/2 speed) (with flashing code lights)...............
+Flashing Light.................................................
+
+MISCELLANEOUS
+Moving Mast....................F
+Dirigible Base.............................................Π
+Prominent Transmission Line.....................---
+Ocean Station Vessel (Ocean station)......—
+Lighted Obstruction....................................Δ
+Obstruction (structure, obstruction or tower, etc. which varies more than 50 feet within perimeter area indicate height above elevation)...............................................
+Low or Equal Magnetic Variation................Δ

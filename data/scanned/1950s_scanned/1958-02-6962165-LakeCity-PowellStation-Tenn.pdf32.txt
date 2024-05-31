@@ -1,0 +1,7 @@
+The image does not contain any photographs. It appears to be a page from a typed report or document.
+
+Instantaneous major axis a and the eccentricity e. The height above the sea level at the time of observation is obtained initially by trigonometric process; a first it is compared with data from a nearby telemetry station; using this height, an approximate sub-satellite point is computed; using its latitude; this gives a new approximation to the sub-satellite point, and so on.
+
+Once the sub-satellite point is stabilized, instantaneous orbital elements are computed from this using the orbital elements; residuals are also taken from large-scale diagrams.
+
+The program gives somewhat uncertain results when the observations are made near the optical apex (the point on the celestial sphere toward which the satellite is moving); this is well known from other observations, that from some position the satellite launch or injection may be mistaken for a new satellite. Instead of 2(=z - right ascension of station) r will still be usable, although no independent value of s can thus be obtained.

@@ -1,0 +1,31 @@
+The image does not contain any photograph. It appears to be a page from an old document related to aeronautical symbols and aerodrome data/landing facilities information.
+
+AERONAUTICAL SYMBOLS
+AERODROMES
+Aerodromes with facilities     Aerodromes with emergency or no facilities
+LAND    WATER    Civil    LAND    WATER    Landing Area
+* Airciil     Sheltered Anchorage
+
+AERODROME DATA 
+AND LANDING FACILITIES INFORMATION
+LAND    WATER
+Elevation in feet    Elevation in feet
+Minimum landing distance    Minimum take-off area
+Hard surfaced runway    Normal minimum take-off area
+Length of longest runway    Length of longest runway
+In hundreds of feet    In hundreds of feet
+
+AIR NAVIGATION LIGHTS
+Rotating Light    Flashing Light (with code)
+Rotating Light (with flashing code lights)    Lighthouse
+Rotating Light (with steady and flashing lights)    Marine Light
+
+MISCELLANEOUS
+Obstruction, less than 500 feet above ground    Reporting Point (compulsory)
+Obstruction, 500 feet or higher above ground    Reporting Point (non-compulsory)
+Ground Obstruction    Ocean Station Vessel (Normal position)
+Prominent Transmission Line    International Boundary
+Magnetic North    Restricted areas are numbered, and are indicated on the charts as follows:
+Magnetic Line    Prohibited Area - Flight of aircraft prohibited except by specific authority of using agency
+Danger, Restricted or Warning Area - Invisible hazards to air navigation
+Caution Area - Visible hazards to air navigation

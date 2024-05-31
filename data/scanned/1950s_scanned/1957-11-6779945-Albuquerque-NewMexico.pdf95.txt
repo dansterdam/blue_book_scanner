@@ -1,0 +1,19 @@
+The image appears to be a table containing surface weather data. It does not contain any photographs.
+
+SURFACE WEATHER
+DATE 11-6
+TIME 0000
+WINDS 
+DIR   SPD  GUST
+222   13    20
+233   05    30
+235   05    15
+VISIBILITY   15
+CEILING     1500
+WEATHER     BKN
+TEMP         57
+DEW POINT  43
+PRESSURE  29.89
+REMARKS    STRATUS OVERCAST AREA
+STRATUS NE SE-S NW OF AIRPORT
+TO ALT     FLIGHT   LEVEL    210

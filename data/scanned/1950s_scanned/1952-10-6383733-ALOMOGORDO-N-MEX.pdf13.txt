@@ -1,0 +1,34 @@
+The image does not contain any photographs, only a document with text and data fields.
+
+Output of the text found in the document:
+
+IV. BALLOON DATA
+21. WERE BALLOONS RELEASED IN AREA 22. TIME SHOWN SCHEDULE OR RELEASE 2.0 Minutes
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+
+Location | Type | Launching Agency | Yes | No
+a. White Sands (R. G. Center) | Constant | Air Force (Almo) | x |
+b. Hoiloman AFB 9235 | Constant | | |
+c. | | | |
+d. | | | |
+
+V. EVALUATION
+21. EVALUATION OF SOURCE: 22. DETAILS OF REPORT:
+[] Excellent [] Good
+[] Fair [] Poor
+[] Insufficient to Evaluate
+[] Unreliable
+[] Reasonably Doubtful
+
+23. FINAL EVALUATION:
+[] Was Balloon
+[] Probably Balloon
+[] Possibly Balloon
+[] Was Astronomical
+[] Probably Astronomical
+[] Possibly Astronomical
+[] Other
+[] Insufficient Data For Evaluation
+[] Unknown
+
+24. COMMENTS:

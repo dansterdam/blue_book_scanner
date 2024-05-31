@@ -1,0 +1,61 @@
+The image provided does not contain any photographs. It appears to be a page from a Project Blue Book document, specifically a tabular report with various observations and details.
+
+As an OCR (Optical Character Recognition) system, I will extract and output all the text found in the document:
+
+23206
+WEATHER FORM 21
+STATION: Diab 1
+
+PILOT:
+COR:
+DATE: 12-6-53
+TIME: 1740 
+TINE ZONE: - 8
+LAT:
+LONG:
+VISIBILITY: 
+CEILING:
+WIND: 
+WEATHER:
+REMARKS:
+
+OBSERVATIONS
+
+VISUAL:
+RADAR:
+PHOTO:
+TOTAL:
+
+RADAR VISUAL PHOTOGRAPHIC OBSERVATIONS
+DIRECTION 
+DISTANCE
+DESCRIPTION
+MOTION
+SPEED
+ALT ITU DE
+DURATION
+LUMINOSITY
+MANEUVER
+REMARKS
+
+3/4 MOON
+5/10 CLOUD
+CLEAR AIR
+CALM
+6 MILES
+STANDARD
+
+INITIAL OBSERVATION
+WEST
+APPROX 10 MILES 
+BRIGHT STATIONARY OBJECT
+STATIONARY
+-
+1000-2000 FEET
+2-3 MINUTES
+BRIGHT WHITE
+NONE
+OBJECT OBSERVED FOR 2 TO 3 MINUTES, THEN DISAPPEARED
+
+INSTRUMENT OBSERVATIONS
+NONE

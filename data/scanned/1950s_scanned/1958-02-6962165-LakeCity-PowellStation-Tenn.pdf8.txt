@@ -1,0 +1,31 @@
+The image does not contain a photograph, but rather a table of information regarding optical satellite observations. The table lists several "Stations in Operation" with their corresponding locations, dates, and instruments used.
+
+CHAPTER II
+OPTICAL SATELLITE OBSERVATIONS
+The Network of Precision Photographic Satellite Tracking Stations
+by
+Karl G. Henize*
+
+1. Station Operation
+On the date of this report, nine photographic satellite-tracking stations of the planned network are in operation. These stations are listed below as they existed first under initial operation and with the instrument now installed at each station.
+
+TABLE ONE
+Stations in Operation
+
+Station No. | Location | Date | Instrument
+--- | --- | --- | ---
+9001 | New Mexico | 25 Nov. '57 | Baker-Nunn
+9002 | South Africa | 25 Feb. '58 | Baker-Nunn 
+9003 | Australia | 12 Mar. '58 | Baker-Nunn
+9004 | Spain | 17 Mar. '58 | Baker-Nunn
+9005 | Japan | 27 Mar. '58 | Baker-Nunn
+9009 | Curacao | 12 Mar. '58 | SMTI*
+9010 | Finland | 13 Mar. '58 | Super Schmidt
+9011 | Argentina | 25 Mar. '58 | Super Schmidt
+9012 | Hawaii | 23 Sept. '57 | Super Schmidt
+
+* Japan reports partial operation only, and we may disable full operation within two to three days.
+
+** A cable from Argentina 21 March estimated this 25 March operation date.
+
+* Senior Astronomers, in charge of Photographic tracking stations, Optical Satellite Tracking Program, Smithsonian Astrophysical Observatory.

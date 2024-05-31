@@ -1,0 +1,20 @@
+The image does not contain any photographs. It appears to be a detailed data sheet or report from the U.S. Department of Commerce, titled "WINDS-ALOFT COMPUTATION SHEET (LAND STATION REPORT)". The sheet provides various meteorological data and measurements related to a weather balloon launch, including the balloon type, observed elevation angles, distance from the observation point, wind direction, wind speed, and related atmospheric conditions.
+
+The text in the document is as follows:
+
+U.S. DEPARTMENT OF COMMERCE
+WINDS-ALOFT COMPUTATION SHEET
+(LAND STATION REPORT)
+WBAN-20
+
+Identification: 610-12 
+DOYLE, DUNTON E. 1464 
+TYPE OF MISSION: UPPERWINDS 
+PLACE: LYNN, MASSACHUSETTS
+DATE: THROUGFROUT 7/31/64
+EQUIPMENT USED: GMD-1
+
+The document then contains a tabular data section with the following headers:
+Slon, Pilot balloon no., Rawln, Elevation angle Observed, Elevation angle Smoothed, Distance from observation point, Azimuth angle, Wind Direction (10's deg.), Wind Speed (m.p.h.), Remarks, Time, Altitude, Date
+
+The data rows under these headers provide the detailed meteorological measurements and observations recorded during the balloon launch and flight.

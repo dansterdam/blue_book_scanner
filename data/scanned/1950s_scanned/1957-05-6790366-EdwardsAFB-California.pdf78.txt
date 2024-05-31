@@ -1,0 +1,17 @@
+The image does not contain a photograph. It appears to be a chart or graph titled "Analysis of Unidentified Object Photograph". The chart contains a table of data points and a set of graphed lines that seem to be correlating the distance of the unidentified object with its size based on the photographic data.
+
+Analysis of Unidentified Object Photograph
+22 May 1957
+Photo No. Image Size (inches) Swatch Focal Length - 7 feet
+599 .0111" (.014") 90.5'
+600 .0121" (.0131) 88.0'
+601 .0121" (.0121) 75.6'
+602 .0131" (.0121) 66.7'
+603 .0141" (.0091) 46.3'
+604 .0131" (.0071) 32.3'
+605 .0141" (.0061) 24.8'
+606 .0121" (.0051) 32.3'
+608 .0141" Image Size - Focal Length
+610 .0121" Object Size - Distance
+612 .0131" Distance: Object size was computed at distance of 60 miles (316,800 ft)
+i = constant factor = Distance / 49 ft = 316,800 ft / 49 ft = 6466.3

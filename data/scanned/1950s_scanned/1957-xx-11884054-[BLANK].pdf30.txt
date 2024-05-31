@@ -1,0 +1,9 @@
+The image contains a diagram illustrating how radar pulses interact with the earth's surface and atmosphere. The diagram includes labels for the "radar", "earth's surface", and "shadow zone". There is also a radar scope image showing targets "A" and "B" at different ranges, with a note that the radarscope will not pick up Target "C" which is closer.
+
+Text from the document:
+
+The transmission of a radar pulse, under normal atmospheric conditions, follows line of sight. Therefore the curvature of the earth would place Target "C" in the shadow zone.
+
+Meteors that enter the earth's atmosphere and get within range of radar cause reflections that are extremely difficult to verify. Meteors reach the outer fringe of the earth's atmosphere at a rate of something near 100,000 miles per hour, although only a very few of these actually get within range of being detected by radar. Radar reports resulting from this type of phenomena can be verified by a study of the expected paths of meteors at the time of the incident.
+
+In addition, there is the possibility that one radar set, which has characteristics similar to those of another radar set within range, may in some cases lead to confusion and inaccurate interpretations. Although this type of interference is unlikely, it cannot be discounted.

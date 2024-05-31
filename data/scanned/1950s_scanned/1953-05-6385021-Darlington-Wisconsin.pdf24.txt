@@ -1,0 +1,30 @@
+The image does not contain any photographs. It appears to be a page from a technical manual or report, showing various aeronautical symbols and data related to airfields, radio navigation, and other aviation-related information.
+
+AERONAUTICAL SYMBOLS
+LANDPLANE SEAPLANE AERODROMES
+Civil Military Airfields   Of major aeronautical importance
+Joint civil and military base   Offering services that include repairs for normal traffic and/or refueling
+Military   No public services available
+Civil
+Joint civil and military
+Landing area or airspace
+AERODROME DATA
+LANDPLANE SEAPLANE
+Elevation in feet Elevation in feet
+Minimum takeoff run Minimum distance for 
+recommended takeoff
+Minimum landing run Length of longest runway
+273.5   121.0 55  300 
+
+AIR NAVIGATION LIGHTS
+Rotating light (green) - - - - - Flashing light (yellow)
+Rotating light (green) Marine light - - - - -
+Rotating light (green) Lighted airway beacon
+Fixed flashing (as required) All-purpose fixed lights
+MISCELLANEOUS
+Mooring mast g  Obstruction
+Anemometer equipment radiobeacon
+Isogonic lines or isogonal Prohibited area
+Caution area
+VERY HIGH FREQUENCIES (VHF) PRINTED
+The VHF omni-directional radio range provides azimuth information and course indication to aircraft when flying at relatively low altitudes. These ranges operate in the frequency band between 112 and 118 mc. Note that the azimuth indications are simultaneous voice communications and 1-letter (Morse code) identification. In operation, the pilot sets his course selector to the desired magnetic bearing and flies the aircraft to maintain a "needle-center" indication on his instruments. The needle will center when the aircraft is on the selected course.

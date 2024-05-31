@@ -1,0 +1,12 @@
+The image does not contain a photograph, but rather an index card from Project Blue Book. The card provides details about a UFO sighting that occurred on June 27, 1955 in Milford, Michigan. The card describes the objects observed as "three (3) lights" that appeared to be "circling" and "possibly saw the lights from 1st aircraft which were known to be in that area at the time." The "comments" section notes that "this source possibly saw the lights from 1st aircraft which were known to be in that area at the time" and that "investigation unconfirmed."
+
+Now, acting as an OCR system, the text found in the document is:
+
+DATE: 27/05212 JUNE 1955
+LOCATION: MILFORD, Michigan
+TYPE OF OBSERVATION: Ground-Visual
+NO. OF OBJECTS: Three (3)
+COURSE: Circling
+CIVILIANS (GGC): Three (3)
+CONCLUSIONS: Possibly Aircraft; Possibly Astronomical
+COMMENTS: This source possibly saw the lights from 1st aircraft which were known to be in that area at the time. Investigation unconfirmed.

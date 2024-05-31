@@ -1,0 +1,11 @@
+The image does not contain a photograph. It appears to be a page of text from a document, likely related to Project Blue Book, a historical U.S. Air Force program that investigated unidentified flying objects.
+
+The text on the page discusses the approach and passage of an object into or out of the Earth's shadow, as well as the advantages and disadvantages of various orbital elements for the observation of such phenomena.
+
+OCR Output:
+- Closest approach. 
+- Approach at right ascension 102*52 declination -02 48 passage into or out of the earth's shadow.  
+- Time of intersection with the earth's shadow.
+- Zenith angle of the sun.
+The advantages of the program are an expected minimum of computation time, and the elimination of superfluous data. Many non-observable reductions, with such a program, can be omitted. Orbital elements are available. The disadvantage of the program is the independence upon the independently determined or-
+bits of celestial elements.

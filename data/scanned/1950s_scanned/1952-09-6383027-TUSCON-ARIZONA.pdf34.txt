@@ -1,0 +1,27 @@
+The image does not contain any photograph. It appears to be a page from a Project Blue Book weather data sheet, which is a form used to record observations of weather and atmospheric phenomena.
+
+PROJECT 10073 WEATHER DATA SH
+1. DATE OF OBSERVATION 2. TIME OF OBSERVATION 3. STATION OBSERVING
+6-8-52 12:22 a.m. TUSCON, ARIZONA
+4. WINDS ALOFT VELOCITY DIRECTION
+ALTITUDE (feet) (knots) (degrees)
+1,000 12 60
+2,000 - -
+3,000 - -
+4,000 - -
+5,000 - -
+6,000 - -
+7,000 - -
+8,000 - -
+9,000 - -
+10,000 - -
+12,000 - -
+14,000 - -
+16,000 - -
+18,000 - -
+20,000 - -
+5. WAS AN INVERSION LAYER NOTED? [  ] Yes [X] No
+6. WERE ANY THUNDERSTORMS NOTED IN AREA? [  ] Yes [X] No
+7. CLOUD COVER: [blank]
+8. VISIBILITY WAS 1.2 MILES.
+9. COMMENTS: [blank]

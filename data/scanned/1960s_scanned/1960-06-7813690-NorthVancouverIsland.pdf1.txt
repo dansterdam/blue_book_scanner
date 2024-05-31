@@ -1,0 +1,29 @@
+The image does not contain a photograph. It appears to be a page from a Project Blue Book record card, which includes a section for recording details about a UFO sighting.
+
+PROJECT 10073 RECORD CARD
+1. DATE: 22 June, 1960
+2. LOCATION: North Vancouver Island
+3. CASE-TIME GROUP: 6205
+4. TYPE OF OBSERVATION: Ground-Visual
+5. PHOTOS: 0 Yes, 0 No
+6. LENGTH OF OBSERVATION: 51 Sec
+7. BRIEF SUMMARY OF SIGHTING: Red flickering light, size of North Star, disappeared twice for second or two. Observed near star Altair in the Milky Way. No sound or radar photo. 
+8. MILITARY OBJECTS: One
+9. COURSE: SE
+10. COMMENTS: Insufficient data. Altho' this is a star in the sky, the object did not in the milky way stars indicate the nature of the object no evaluation can be made.
+11. CONCLUSIONS: Was Stellar, Probably Balloon, Was Aircraft, Probably Aircraft, Was Astronomical, Probably Astronomical, Other, Insufficient Data for Evaluation, Unknown
+
+The text output from the OCR system is as follows:
+
+PROJECT 10073 RECORD CARD  
+1. DATE: 22 June, 1960
+2. LOCATION: North Vancouver Island  
+3. CASE-TIME GROUP: 6205
+4. TYPE OF OBSERVATION: Ground-Visual
+5. PHOTOS: 0 Yes, 0 No
+6. LENGTH OF OBSERVATION: 51 Sec
+7. BRIEF SUMMARY OF SIGHTING: Red flickering light, size of North Star, disappeared twice for second or two. Observed near star Altair in the Milky Way. No sound or radar photo.
+8. MILITARY OBJECTS: One
+9. COURSE: SE
+10. COMMENTS: Insufficient data. Altho' this is a star in the sky, the object did not in the milky way stars indicate the nature of the object no evaluation can be made.
+11. CONCLUSIONS: Was Stellar, Probably Balloon, Was Aircraft, Probably Aircraft, Was Astronomical, Probably Astronomical, Other, Insufficient Data for Evaluation, Unknown

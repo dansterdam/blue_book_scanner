@@ -1,0 +1,25 @@
+The image does not contain any photographs. It appears to be an excerpt from a Project Blue Book document that defines various quantities and variables related to photographic material analysis, such as altitude, distance, time, velocity, azimuth, and angles. The text describes these quantities and provides mathematical formulas for calculating them.
+
+Here is the text from the document:
+
+APPENDIX I
+
+Let us define the following quantities:
+A = altitude or the objects above the observer - arbitrary units.
+h = altitude of the objects (the midpoint of their line or centers) above the horizon in degrees.
+L = distance between the objects - arbitrary units.
+R = distance of the objects from the observer - arbitrary units.  
+T = time measured after initial observation in seconds.
+V = velocity of the objects - arbitrary units.
+α = azimuth or line of sight between the observer and center point of the objects.
+β = angle between the line or centers of the objects and their direction of motion.
+δ = angle between the perpendicular to the line of sight and the objects' path.
+Λ = azimuth or direction of the object's path (heading).
+Θ = angle between the initial line of sight and the line of sight at time T in radians or degrees.
+ε = angle subtended by the apparent separation of the two objects - radians.
+
+The zero subscript refers to the value of the quantity at the time of initial observation. Those that indicate the initial separation and azimuth since background objects (by which the initial azimuth may be referenced) do not appear until frame 165.
+
+Let us assume β, δ, Λ, and ε to remain constant during the entire period of observation. We derive this constant value by a zero subscript.
+
+For simplicity we define the following dimensionless quantities.

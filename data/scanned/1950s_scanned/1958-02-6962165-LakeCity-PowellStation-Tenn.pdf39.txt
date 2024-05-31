@@ -1,0 +1,12 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book document titled "Program of Spot Predictions for Specific Observing Sites -- APO Ephemeris 3" by R. Briggs. The text describes a program that computes a sequence of satellite positions and corresponding times for a given observing station. It mentions that the program will see use when the operations of air drag are included under these restrictions, and that Ephemeris 3 has not yet been used for the American satellite program.
+
+Program of Spot Predictions for
+Specific Observing Sites -- APO Ephemeris 3
+by
+R. Briggs*
+
+This program computes for a given observing station a sequence of satellite positions in latitude-azimuth and corresponding times. This sequence comprises all the ob-servable (angular) transits and meridian crossings which will occur within a specified interval of time, and the daily duration of first and last derivatives in the motions of perisee and node, and to the assignments of constant periods and alti-tudes. When the ef-fects of air drag are included under these restrictions, the positions may be in error by at most four degrees and the times in error by a few seconds.
+
+As yet, Ephemeris 3 has not been used for the American satellites. It is planned to make minor revisions in the program so that the anomalistic period of the satellite can be used in place of the nodal period. Further, derivatives are being introduced into the program which will see use when the operational si-tuation warrants the comparatively large amount of machine time required.
+
+* Mathematician, Smithsonian Astrophysical Observatory

@@ -1,0 +1,10 @@
+The image does not contain any photographs. It appears to be a scanned page from a document, possibly a Project Blue Book report, that describes a program that computes predictions about the motion and appearance of an unidentified flying object.
+
+The program follows a general outline listed in the text, including:
+
+(1) Reduction of station coordinates to more convenient values.
+(2) Updating ephemerides and position computations for the object.
+(3) Computation of the point of entry into and exit from the earth's shadow.
+(4) Computation of the possible visibility of the object from various stations, and information about this visibility.
+
+The text goes on to describe the three distinct portions of the program's output, including information about the object's motion, its position relative to the earth's shadow, and its visibility from various stations.

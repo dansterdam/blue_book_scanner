@@ -1,0 +1,13 @@
+The image contains a chart or diagram, but no photograph. The chart appears to be an "EXPLANATION" of various pressure values and measurements related to adiabatic and saturation processes, as indicated by the labels and annotations on the chart.
+
+EXPLANATION
+ISOBARS are straight, horizontal brown lines. The heights in feet of the pressure surfaces in the U.S. Standard atmosphere are in parenthesis.
+ISOTHERMS (T°C) are the straight, equidistant brown lines running diagonally.
+DRY ADIABATS are the slightly curved brown lines that intersect the 1000 mb. level at intervals of 5°C. and run diagonally upward from lower left to upper right.
+SATAURATED ADIABATS are the curved green lines that intersect the 1000 mb. level at intervals of 5°C, diverging upward and tending to become parallel.
+SATURATION MIXING RATIO (g. per kg.) is represented by dashed green horizontal lines, their values being 1, 2, 3, 5, 10, 15, 20 and 30.
+HEIGHT in geopotential feet above mean sea level, of the layers between the levels 1000, 700, 500, 400, 300, 200, 150 and 100 mb. is represented by numbers along the vertical scale. The numbers indicate the altitudes in thousands of feet.
+For example, the 700 mb. pressure surface is at a height of approximately 10,000 feet, the 500 mb. surface at 18,500 feet, and the 100 mb. surface at 53,000 feet.
+HEIGHT in geopotential feet above mean sea level, of the station level. of the 1000 mb. surface is obtained from the bottom of the diagram. Left-hand numbers indicate pressure levels in millibars. The height data comes from the point of intersection of the temperature curve (T°C) through the point of mean sea level at station pressure) on the pressure scale, and reading the height in thousands of feet below the "1000 mb" level.
+BLACK DOTS = Station SOUNDINGS
+The saturated adiabats and isotherms of saturation mixing ratio are compiled by use of tables or diagrams worked out previously by adiabatic thermodynamics, and in no way represent any special observation or measurement. The pressure values indicated in brackets [200] at 400 mb. and [40] at 100 mb. are estimates for the contours in geopotentials.

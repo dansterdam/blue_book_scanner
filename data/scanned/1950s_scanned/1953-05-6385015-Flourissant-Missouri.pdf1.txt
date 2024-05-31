@@ -1,0 +1,36 @@
+Based on the image provided, there does not appear to be any photograph present. The image shows a page from a Project Blue Book report, which contains various fields filled out with text.
+
+Performing OCR (optical character recognition) on the text in the image, the output is as follows:
+
+DATE & TIME GROUP
+30 MAY 53 23/5000Z
+
+LOCATION
+Florissant, Missouri  
+
+SOURCE
+Civilian
+
+CONCLUSION
+No further action required
+
+NUMBER OF OBJECTS
+4
+
+LENGTH OF OBSERVATION
+15-20 minutes
+
+TYPE OF OBSERVATION
+Visual
+
+COURSE
+Erratic
+
+PHOTOS
+None
+
+PHYSICAL EVIDENCE
+None
+
+FORM
+FTD 71-153 0-329 (TDE)

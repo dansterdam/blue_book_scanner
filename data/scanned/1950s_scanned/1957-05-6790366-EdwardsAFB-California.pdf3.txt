@@ -1,0 +1,14 @@
+The image provided does not contain any photograph. It appears to be a scanned page from a document, which shows a map or diagram with various lines, coordinates, and text labels.
+
+Output the text found in the document:
+
+IMPACT
+IMPACT 2.0 52
+11032
+23502
+234,000
+235,000
+239,000
+270,000
+290,000
+335,000

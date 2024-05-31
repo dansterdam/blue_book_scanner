@@ -1,0 +1,28 @@
+The image does not contain any photographs. It appears to be a typed document from the Foreign Technology Division of the Air Force Systems Command, regarding the "Evaluation of Case 15, 6 Dec 52".
+
+The text of the document is as follows:
+
+HEADQUARTERS'
+FOREIGN TECHNOLOGY DIVISION
+AIR FORCE SYSTEMS COMMAND
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+
+REPLY TO
+ATTN OF:	ED-Eis/Mr. Bryant/eln/74201
+
+SUBJECT:	Evaluation of Case 15, 6 Dec 52
+
+TO:	TD-E (Lt. Col. Friend)
+
+1.	It is not possible to definitely state the cause of the blips on the scope.
+
+2.	However, three possible causes for the phenomena reported are discussed below:
+a.	Beacon returns, triggered by another radar,
+b.	Returns from variations in the atmosphere,
+c.	Ducting.
+
+3.	Although the report says the blips did not have the relative positions which a beacon return would give, the sketch submitted does appear to have the configuration which might be expected of a beacon, if a beacon was being triggered by a radar other than the one about which this report was made. If the transmitter power was very low, it is possible that it would not trigger the beacon. This could explain the fact that the cautions was not seen on the radar, and the flicker of the flames from the radar's scanner were more prominent than the beacon.
+
+4.	If the transmitted power was normal, blips could have been caused by variations in the atmosphere. These frequently cause blips which move across the scope with speeds varying from very slow to very fast.
+
+5.	If ducting were present - and over water, this condition is not unusual - the target could have been reflections from objects many times the radar's normal range distant from the set. These reflections may not necessarily be of a timer, at this time, and may be from stationary objects on the ground.

@@ -1,0 +1,45 @@
+There is no photograph present in this image. This appears to be a page from a Project Blue Book record card, containing a filled-out form with various fields such as date, location, type of observation, source, number of objects, course, and comments.
+
+TEXT OUTPUT:
+
+PROJECT 10073 RECORD CARD
+1. DATE
+3. DATE-TIME GROUP
+LOCAL 03/10/59
+
+4. TYPE OF OBSERVATION
+0 Ground-Visual
+5. PHOTOS
+NO
+
+7. LENGTH OF OBSERVATION
+
+10. BRIEF SUMMARY OF SIGHTING
+Object shaped cub, like car lesson. Color
+was distant yellow, time visuals around 5 it
+secs.
+
+2. LOCATION
+HICKSVILLE, N.Y.
+6. SOURCE
+WITNESS
+8. NUMBER OF OBJECTS
+1
+11. COMMENTS
+A single object, this was reported from
+witnesses. There were no identifications
+known by sources.
+
+12. CONCLUSIONS
+0 Was Balloon
+0 Probably Balloon
+0 Possibly Balloon
+0 Was Aircraft
+0 Probably Aircraft
+0 Possibly Aircraft
+0 Was Astronomical
+0 Probably Astronomical
+0 Possibly Astronomical
+0 Other
+Insufficient Date for Evaluation
+0 Unknown

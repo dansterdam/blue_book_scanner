@@ -1,0 +1,29 @@
+The image shows a black and white adiabatic chart, which is a type of graph commonly used for engineering calculations. The chart contains a grid of horizontal and vertical lines, with numerical values indicating various measurements or data points. There are no human faces or identifiable individuals visible in this image.
+
+Here is the text output from the document:
+
+MIL
+350
+325
+300
+275
+250
+225
+200
+175
+150
+125
+100
+75
+50
+25
+0 
+
+DZ 100 X 
+600 550 500 450 400 350 300 250 200 150 100
+24 KM 22 KM 20 KM 18 KM 16 KM 14 KM 12 KM 10 KM 8 KM 6 KM 5 KM
+GAGE TYPE
+C-40024 
+GAGE MANUFACTURER
+STOCK NO. 13507-216
+ALL REPAIRABLE CARTS ITA5-S/A-3

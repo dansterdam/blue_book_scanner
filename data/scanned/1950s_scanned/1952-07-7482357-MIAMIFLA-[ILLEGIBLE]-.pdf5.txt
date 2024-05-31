@@ -1,0 +1,15 @@
+The image does not contain any photographs. It appears to be a table or form with various fields related to observations, such as altitude, velocity, direction, and visibility. The text in the image is as follows:
+
+1. DATE OF OBSERVATION
+2. TIME OF OBSERVATION 
+3. WINDS ALOFT (ALTITUDE)
+4. VELOCITY (KNOTS)
+5. DIRECTION (INDICATED)
+6. WAS AN INVERSION LAYER NOTED? (IF YES.)
+7. CLOUD COVER: 
+   Tenths at ___ feet.
+   Tenths at ___ feet.
+8. VISIBILITY WAS MILES.
+9. COMMENTS:
+
+ATIC Test Form 333 (13 Aug 53)

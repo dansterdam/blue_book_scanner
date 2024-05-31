@@ -1,0 +1,22 @@
+The image appears to be a graph or chart, likely from a Project Blue Book document. There does not appear to be any photograph present in this particular page.
+
+Transcribing the text from the document:
+
+NOTES:
+1. If the sounding reaches above the 120 "sea" level, the top of the figure is in contact with the pressure registered in absolute atmospheres, which will then be a "gage" pressure rather than a "static" pressure.
+
+2. This diagram is in all typical respects equivalent to the Psychrometric charted except that the ordinates represent absolute pressure rather than dry-bulb temperature, and the abscissae represent humidity ratio rather than dry-bulb temperature.
+
+By international agreement, computed heights are expressed in terms of geoidal rather than true elevations, i.e. in geopotential meters, with the relation between z and h given by:
+
+h = hs = 9d z
+
+Since the numerical value of z is very nearly equal to 0.98 z geoidal, for all practical purposes, and the two values may be used interchangeably.
+
+The saturated-adiabatics, and the isentropes of saturated specific humidity are computed by the use of the vapor pressure over ice at temperatures below freezing. This results in an inflection of these curves at that temperature.
+
+1 cal on the diagram represents an energy of 1 joule/gram*°C.
+
+CONSTANTS: 
+Gas constant for dry air: 0.2870 joule/g°C
+Freezing point of water: 273.16°K

@@ -1,0 +1,37 @@
+The image contains a page from a document titled "TOPOGRAPHICAL SYMBOLS" that provides information about various geographic and cultural features, such as cities and towns, highways and roads, relief features, hydrographic features, and cultural and miscellaneous symbols. There does not appear to be any photograph included in this particular page.
+
+Performing OCR on the text in the document, the output is as follows:
+
+TOPOGRAPHICAL SYMBOLS
+CITIES AND TOWNS	HIGHWAYS AND ROADS
+Metropolitan Areas.........NEW YORK	Dual Lane and Single Highways
+Large Cities..................RICHMOND	Primary Roads
+Cities...........................ARLINGTON	Secondary Roads
+Small Cities.................Freehold	Trails
+Large Towns.....................Danville	U. S. Road Markers
+Towns & Villages.................Ewing	National, State or
+RELIEF FEATURES	Provincial Road Markers
+Contours (Reliefs 4000')	Road Names
+Lakes or Ponds	HYDROGRAPHIC FEATURES
+Marshes or Swamps	Swamps & Marshes
+Bluffs, Cliffs & Escarpments	Tidal Flats
+Danger Line	(Exposed at Low Tide)
+Rocks Awash	Streams & Rivers
+Shoals	Intermittent Lakes (Show Stipple)
+Springs	Drainage s Ditches
+Wells & Water Holes	Canals (In Land)
+Sand, Gravel & Boulders	Dry Lake Beds (Shown Stippled)
+Landmarks (with appropriate notes)	Sand Deposits in river bed
+Oil Fields	Dry Washes (Shown Stippled)
+Elevations	Glaciers and Ice Caps
+(In Feet)	CULTURAL AND MISCELLANEOUS
+Mines and Quarries	Boundaries
+Mountain Passes	International
+Lookout Stations	State & Provincial
+Coast Guard Stations	National Boundaries
+Pipe Lines	Railroads
+Race Tracks or Stadiums	Sidings & Spurs
+Stranded Wrecks	Underpasses
+Bridges (Railroad)
+Tunnels (Railroad)
+Overhead

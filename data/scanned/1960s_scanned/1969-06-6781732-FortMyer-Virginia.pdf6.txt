@@ -1,0 +1,11 @@
+The image contains two sketch-style illustrations.
+
+The first illustration is a compass-like diagram with directional indicators around the edge. There are instructions for placing an "X" at the center of the compass and a "+" at the position where the phenomenon was first seen, and then connecting these two points with a line to indicate the direction of the observed phenomenon.
+
+The second illustration consists of two sketches. The larger one appears to show a person standing in the foreground, facing a mountainous landscape in the background. The smaller inset sketch shows a close-up view of the mountainous terrain.
+
+Now, acting as an OCR system, I will output all the text found in the document:
+
+AS NOW IMAGINE YOU ARE AT THE CENTER OF THE COMPASS HERE. PLACE AN "X" ON THE COMPASS TO INDICATE THE DIRECTION TO THE PHENOMENON WHEN FIRST SEEN. PLACE A "+" ON THE COMPASS TO INDICATE THE DIRECTION TO THE PHENOMENON WHEN LAST SEEN.
+
+IN THE SKETCH BELOW, PLACE AN "A" AT THE POSITION OF THE PHENOMENON WHEN FIRST SEEN, AND A "B" AT THE POSITION OF THE PHENOMENON WHEN LAST SEEN. CONNECT THE "A" AND "B" WITH A LINE TO APPROXIMATE THE MOVEMENT OF THE PHENOMENON. THEN FILL IN THE DETAILS OF THE SCENERY AS ACCURATELY AS POSSIBLE. LABEL THE LARGER SKETCH.

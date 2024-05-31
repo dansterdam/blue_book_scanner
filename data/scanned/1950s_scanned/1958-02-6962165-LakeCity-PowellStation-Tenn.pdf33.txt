@@ -1,0 +1,17 @@
+The image does not contain a photograph, but rather a document titled "Predictions for Crossings of Given Latitude Parallels -- AFO Ephemeris 5" by John Gausdat. The document provides a general satellite prediction program and discusses the format and use of the program for various satellites, including Russian satellites from 1957. The document also mentions the Smithsonian Astrophysical Observatory.
+
+Predictions for Crossings of Given Latitude Parallels -- AFO Ephemeris 5
+
+by
+John Gausdat*
+
+Ephemeris 5 is a general satellite prediction program written for the IBM 704 computer. It is designed to produce a concise summary of predictions in a form suitable for observations and other uses. The program computes and distributes the time of crossings of given latitude and longitude parallels and the height of the satellite above the earth's surface. The program is not intended to have the specific applicability of ephemerides and individual camera tracking stations, but because of its generality it takes very little computation time.
+
+The program produces as its primary output a list of all crossings of a parallel of latitude in a specified period of time. It lists for both the south-north and the north-south crossings: the time of crossing, the longitude, and the height of the satellite above the earth's surface. The axis of the parallel need not lie between the meridian and the grace of the satellite path on the earth's surface.
+
+The program is general enough so that it can be used for any satellite and any parallel of latitude. For the Russian satellites, 1957 Alpha and 1957 Beta, the most useful information was the crossing of the 40 north parallel, this being about the middle of the visible passing of the satellite. The use of this lower inclination, the parallel's motion, and other factors may be generally used. The program can also be used in making predictions for the system of simultaneous observations.
+
+The format of the predictions can be varied by the use of code numbers on the input cards. It can be handled in either Eastern Standard Time (EST) or Eastern Daylight Time (EDT). The longitudes are all in degrees west of Greenwich, and heights in either miles or kilometers.
+
+PHYSICAL SCIENCE AID, Optical Satellite Tracking Program,
+Smithsonian Astrophysical Observatory.

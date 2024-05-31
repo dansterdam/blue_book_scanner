@@ -1,0 +1,25 @@
+The image does not contain any photographs. It appears to be a page from an old document or report related to the life expectancy of Satellite 1958 Alpha.
+
+Life Expectancy of Satellite 1958 Alpha
+By
+Luigi G. Jacchia*
+
+Dr. D. G. King-Hele of the Royal Aircraft Establishments, Farnborough, England, has kindly transmitted to us a useful formula deduced by Dr. D. C. M. Leslie for computing the lifetime of a satellite. At a given time t, the gradual of the satellite is the ratio of time to the period, and the orbital eccentricity. The life expectancy of the satellite as time t can then be expressed as:
+
+T = 3/2 e [1 + 0(a^2)] P/[1 - 0(e)] 
+
+where e = errors of order a^2
+
+This equation gives excellent results when applied to satellites 1957 0, 1957 0 2, and 1957 B.
+
+According to Dr. Charles A. Whitney, on February 1, 1958
+we had for satellite 1958 0:
+P = 0.079983; P = -4.478 x 10^-6/day; e = 0.139. 
+
+From these data Leslie's formula gives a life expectancy of 1740 days, or 4 years and 9 months; the satellite should then fall toward the end of 1962.
+
+Before the value of P became accurately known from observations, a rough calculation of the drag to be expected on the basis of the physical characteristics of the satellite showed the lifetime should be less than half a year. This prediction was found to be quite erroneous when a life expectancy of several years was deduced.
+
+Physicist, Smithsonian Astrophysical Observatory
+Harvard Announcement Card No. 1464; March 17, 1958.
+T. E. Sterne, D. M. Folkart, and G. F. Schilling: "An Interim Model Atmosphere Fitted to Preliminary Densities Inferred from 1958 Satellite General Report No. 6," Smithsonian Astrophysical Observatory, Cambridge 38, December 31, 1957.

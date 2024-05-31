@@ -1,0 +1,35 @@
+The image does not contain any photographs, only text and a table of data. As an OCR (Optical Character Recognition) system, I will extract all the text from the document:
+
+UNITED STATES DEPARTMENT OF COMMERCE
+WEATHER BUREAU
+St. Louis 21, Missouri
+June 22, 1953
+Airport Station
+Air Technical Intelligence Center
+Wright-Patterson Air Force Base
+Dayton, Ohio
+Dear Sir:
+Reference is made to your letter (ATIC-ATT-A-5) dated June 19, 1953 relative to the wind aloft above St. Louis at approximately 0350 Z.
+We find no record of special wind measurements from the St. Louis Weather Bureau station at 0350 Z on June 13, 1953. The regular observation at 0400 Z on June 13, 1953 showed that the wind at the surface was most likely calm or very light and variable. Any wind aloft at that time would have been too light to measure accurately by the equipment available at this station.
+The regular 0400 Z wind observation on June 13, 1953 is as follows:
+Altitude Direction Force
+(Thous. Feet) (Degrees) (Knots)
+1 130 10
+2 110 10
+3 120 10
+4 150 10
+5 160 8
+6 0 0
+7 50 10
+8 60 12
+9 330 20
+10 330 25
+11 330 28
+12 330 25
+13 330 20
+14 280 35
+15 270 35
+16 270 34
+Very truly yours,
+G. L. Benton
+Chief Airport Meteorologist

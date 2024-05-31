@@ -1,0 +1,39 @@
+There is no photograph present in this image. It appears to be a table containing data related to a project called "PROJECT 10073 WATER DATA SHT".
+
+Project 10073 Water Data Sht
+1. Date of Observation
+2. Time of Observation
+3. Station Observing
+4. Wind's Aloft Velocity (Knots)
+5. Was an Inversion Layer Noted? (Yes/No)
+6. Was Any Thunderstorms Noted in Area? (Yes/No)
+7. Visibility Was What Distance? (Tenths at Feet)
+8. Visibility Was What Distance? (Tenths at Feet)
+9. Contrast:
+
+The text in the document has been transcribed as follows:
+
+PROJECT 10073 WATER DATA SHT
+1. DATE OF OBSERVATION 2. TIME OF OBSERVATION 3. STATION OBSERVING
+4. WIND'S ALOFT VELOCITY (KNOTS)  DIRECTION ALTITUDE VELOCITY DIRECTION
+0                                 25,000
+1,000                              30,000
+2,000                              35,000
+3,000                              40,000
+4,000                              45,000
+5,000                              50,000
+6,000                              55,000
+7,000                              60,000
+8,000                              65,000
+9,000                              70,000
+10,000                             75,000
+12,000                             80,000
+14,000                             85,000
+16,000                             90,000
+18,000                             95,000
+20,000                             100,000
+5. WAS AN INVERSION LAYER NOTED? ( ) Yes ( ) No
+6. WAS ANY THUNDERSTORMS NOTED IN AREA? ( ) Yes ( ) No
+7. VISIBILITY WAS WHAT DISTANCE? _____ tenths at _____ feet. _____ tenths at _____ feet.
+8. VISIBILITY WAS WHAT DISTANCE? _____ tenths at _____ feet. _____ tenths at _____ feet.
+9. CONTRAST: _____________

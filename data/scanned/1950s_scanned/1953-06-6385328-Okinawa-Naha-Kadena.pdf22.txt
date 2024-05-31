@@ -1,0 +1,74 @@
+The image does not contain any photographs. It appears to be a page from an old document that provides information on aeronautical symbols and radio facilities.
+
+AERONAUTICAL SYMBOLS
+RADIO FACILITIES
+Methods of indicating radio and CW calls are shown below.
+
+Radio Range
+(with voice)
+  VICTOR RANGE 
+
+Radio Communication Station
+(with voice)
+  COMMON AIRWAYS
+
+Radio Range
+(without voice)
+  VICTOR RANGE
+
+Radio Communication Station
+(without voice)
+  SPECIAL
+
+Non-Directional Radio Beacon
+(with voice)
+  AURAL RANGE 
+
+Radio Broadcasting Station
+  RADIO STATION
+
+Non-Directional Radio Beacon
+(without voice)
+  AURAL RANGE
+
+Radar Beacon (Beacon)
+  RADAR 
+
+Marine Radio Beacon
+  MARINE RADIO
+
+Radio Fan Marker Beacons
+  FAN MARKER
+
+Radio Direction Finder
+(with voice)
+  MANUAL CONTROL
+
+International Boundary
+(other than through air corridor)
+  INTERNATIONAL BOUNDARY
+
+Radio Direction Finder
+(without voice)
+  MANUAL CONTROL
+
+AIRCRAFT LANDING FACILITY INFORMATION
+PAPI ALS
+PAPI GLIDE SLOPE
+PAPI TOWER
+
+AIRWAYS & RADIO RANGE (AURAL)
+Minimum Safe Altitude
+5000 
+Traffic Controlled
+ AMBER 
+Nautical Miles
+5000
+Airport Traffic Zone
+Traffic Uncontrolled
+4000
+
+AIRSPACE RESTRICTED AREAS
+Prohibited Area - Flight of aircraft prohibited except by specific authority or using agency
+Danger, Restricted or Warning Area - Invisible hazards to air navigation (except when controlling authority cancels restrictions for a specific time)
+Caution Area - Visible hazards to Air Navigation (Area if practical)

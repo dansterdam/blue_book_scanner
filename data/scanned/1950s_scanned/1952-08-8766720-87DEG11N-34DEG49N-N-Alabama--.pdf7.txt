@@ -1,0 +1,42 @@
+The image appears to be a page from a Project Blue Book report and does not contain any photographs. As an OCR system, I will now proceed to produce the text found in the document:
+
+IV. BALLOON DATA
+
+21. WERE BALLOONS RELEASED IN AREA?
+22. TIME SIGHTING SCHEDULED BALLOON RELEASE:
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+Location                 Type           Launching Agency   Sighted?  Describe Lighting
+
+V. EVALUATION
+21. EVALUATION OF SOURCE:
+  Excellent
+  Good
+  Fair
+  Poor
+  Unreliable
+  Extremely Doubtful
+  Host
+
+22. DETAILS OF REPORT:
+  Good
+  Fair 
+  Poor
+  Insufficient to Evaluate
+
+23. FINAL EVALUATION:
+  Was Balloon
+  Probably Balloon
+  Possibly Balloon
+  Was Aircraft
+  Probably Aircraft
+  Possibly Aircraft
+  Was Astronomical
+  Probably Astronomical
+  Possibly Astronomical
+  Other
+  Insufficient Data for Evaluation
+  Unknown
+
+24. COMMENTS:
+
+ATIC Post Form 33h (13 Aug 52)

@@ -1,0 +1,17 @@
+The image does not contain any photographs, only a table with information about various stations and their code numbers, station names, longitude and latitude coordinates.
+
+KEY TO MOONWATCH STATION CODE NUMBERS
+Code Number  Station Name  Longitude  Latitude
+027  Manhattan, Kansas  96°26'51" W  39°09'45" N
+065  Bryan, Texas  96°20'01" W  30°38'14" N
+069  Fort Worth, Texas  97°22'09" W  32°42'42" N
+098  China Lake, California  117°39'06" W  35°39'25" N
+102  Albuquerque, New Mexico  106°36'59" W  35°05'13" N
+103  Albuquerque, New Mexico  106°36'59" W  35°02'22" N
+210  Higashi-Matsuyama, Japan  139°23'51" E  36°01'57" N
+220  Kure, Japan  132°33'44" E  34'00'15" N
+258  Yokohama, Japan  139°39'00" E  35'00'15" N
+401  Bloemfontein, S. Africa  26°13'35" E  29°06'19" S
+402  Cape Town, S. Africa  18°28'37" E  33'56'00" S
+403  Johannesburg, S. Africa  28°04'30" E  26'10'35" S
+600  Adelaide, S. Australia  138°36'11" E  34'55'11" S

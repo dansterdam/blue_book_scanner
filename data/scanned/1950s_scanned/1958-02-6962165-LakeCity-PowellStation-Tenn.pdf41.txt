@@ -1,0 +1,13 @@
+The image does not contain any photographs, it appears to be a scanned document page from Project Blue Book with text discussing the visible portion of a satellite's passage. I will now proceed to extract all the text found in the document:
+
+The visible portion of each passage is shown as a solid line, and its dashed extension represents the non-visible portion of general visibility. Each of the cross bars on the satellite path represent a minimum or a maximum of travel, so that the time of the satellite's passage over any point can be readily determined.
+The visible path departs the station at a certain altitude and reappears at the horizon at a lesser altitude. In addition to the twilight boundary, the complete area within which the satellite may be seen, as a function of its height.
+In spite of the relative simplicity of the diagram, its constructions incorporates the following factors, which give it a reasonably good degree of accuracy:
+(1) Inclination of the orbit.
+(2) Period or speed of the satellite - this affects the time markings on the satellite path.
+(3) Eccentricity and true anomaly. Corrections for these factors further refine the time intervals.
+(4) Height of the satellite. Distances of visibility and location of the earth's shadow depend on this factor.
+(5) Rotation of the earth. This affects the long-side or the sub-satellite points.
+(6) Regression of the ascending node. This correction further locates the points over which the satellite will pass.
+(7) Changes in the coordinates of perigee. Correction for side to the accuracy of the height and period adjustments.
+(8) Changes in the declination of the sun. This revision updates the twilight time limits and position of the earth's shadow.

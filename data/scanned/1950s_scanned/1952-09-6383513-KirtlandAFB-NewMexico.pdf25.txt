@@ -1,0 +1,39 @@
+The image does not contain any photographs. It appears to be a page from an old UFO report document with a weather data sheet that contains rows of information about wind speeds, altitudes, and velocities.
+
+PROJECT 1007Z WEATHER DATA SH
+
+1. DATE OF OBSERVATION
+2. TIME OF OBSERVATION 
+3. STATION OBSERVING
+
+4. WINDS ALOFT:
+   ALTITUDE  VELOCITY  DIRECTION
+   (FEET)   (KNOTS)   (DEGREES)
+   1,000    -         -
+   2,000    -         -
+   3,000    -         -
+   4,000    -         - 
+   5,000    -         -
+   6,000    -         -
+   7,000    -         -
+   8,000    -         -
+   9,000    -         -
+   10,000   -         -
+   12,000   -         - 
+   14,000   -         -
+   16,000   -         -
+   18,000   -         -
+   20,000   -         -
+
+5. WAS AN INVERSION LAYER NOTED?
+   (IF YES, AT WHAT ALTITUDES?) Yes No
+
+6. WERE ANY THUNDERSTORMS NOTED IN AREA?
+   (IF YES, AT WHAT ALTITUDES?) Yes No
+
+7. CLOUD COVER:
+   tenths at _____ feet.   tenths at _____feet.
+
+9. VISIBILITY WAS _____ MILES.
+
+AFIG Test Form 333 (13 Aug 52)

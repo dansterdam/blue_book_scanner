@@ -1,0 +1,18 @@
+There is no photograph present in this image. This appears to be a page from an old Project Blue Book document discussing the use and distribution of satellite predictions.
+
+CHAPTER IV
+USE AND DISTRIBUTION OF SATELLITE PREDICTIONS
+by
+R. M. Adams*
+
+The individual sections of this Chapter discuss in detail the various ephemerides, or computer programs, used by the Smithsonian Astrophysical Observatory for the analysis of satellite motions.
+
+The sub-satellite program, developed by Dr. L. G. Jacchia, is a computer program used internally to rapidly analyze incoming observations to define the basic information for the computation of search ephemerides. The program was devised by Dr. Jacchia and originally programmed for the IBM 704 calculator by C. T. Apple.
+
+Ephemeris 5, described by John Gaustad, produces satellite-predicted positions of a nature which are useful for Moonwatch and other observing teams and, in addition, are also of interest to radio and telemetry groups providing tracking data. The operating procedure consists of mailing these predictions to Moonwatch and other groups of interested observers on a regular basis. The predictions are normally accompanied by the critical elements used in making the predictions. These predictions are also distributed by Fairman and Voss.
+
+Ephemeris 4, discussed by Charles Moore and Don Lautman, is designed to produce precise predictions for the twelve major programs established through the world by the Smithsonian Astrophysical Observatory. These programs are serviced by telemetry and tracking channels.
+
+Ephemeris 3, discussed by R. Briggs, is designed to produce a sequence of predictions for particular stations in the manner of range, azimuth, altitude, zenith distance for the latitude crossing, and time, altitude, and distance for the meridian crossing. Although it was originally
+
+* Chief, Computations and Analysis Section, Optical Satellite Tracking Program, Smithsonian Astrophysical Observatory

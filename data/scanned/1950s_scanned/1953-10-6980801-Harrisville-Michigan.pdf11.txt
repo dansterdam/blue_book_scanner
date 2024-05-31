@@ -1,0 +1,22 @@
+The image appears to be a page from a Project Blue Book document containing aeronautical symbols and radio facilities information, as well as diagrams related to VHF omni-directional range (VOR) and air traffic control. There is no photograph present in this particular image.
+
+Text extracted from the document:
+
+AERONAUTICAL SYMBOLS
+RADIO FACILITIES
+Methods of indicating specific radio facilities are shown by symbols as indicated:
+Radio Range.........................O—LF/MF, LF, or Compass Locator
+Radio Range.........................O—VHF/UHF Station
+Nondirectional Radiobeacon........O—LF/MF
+Nondirectional Radiobeacon........O—VHF/UHF Station
+Marine Radiobeacon................O—LF/MF
+Radio Direction Finder............O—LF/MF, VHF/UHF
+Radio Direction Finder............O—VHF/UHF (Radar)
+AURAL RANGE
+A_____________N
+The arrow heads indicate the "ON" quadrant. The arrow shafts are magnetic and the magnetic variation at the position of the ground station is used for computing these.
+VHF OMNI-DIRECTIONAL RANGE (VOR)
+AIR TRAFFIC CONTROL
+Controlled Civil Airway
+Uncontrolled Civil Airway
+Blue line where shown indicates IFR traffic controlled areas.
