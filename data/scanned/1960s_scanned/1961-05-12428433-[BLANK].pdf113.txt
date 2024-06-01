@@ -1,0 +1,22 @@
+The image shows a diagram of a typical Project Mercury network station. It includes various components labeled such as "Command and Control Transmitter", "Telemetry and Voice Receiver", "500-Mile Range (FPS-16)", and "700-Mile Radar (VERLORT)". The overall layout depicts the infrastructure and equipment used in the Project Mercury network.
+
+PROJECT MERCURY
+45
+TYPICAL PROJECT MERCURY SITE
+COMMAND
+CONTROL AND
+TRANSMITTER
+VOICE
+TELEMETRY AND
+VOICE RECEIVER
+500-MILE
+RANGE
+(FPS-16)
+700-MILE
+RADAR
+(VERLORT)
+TELEMETRY & VOICE
+RECEIVER AND
+ACQUISITION AID
+DF-3-29
+FIGURE 17.—Typical Project Mercury network station.

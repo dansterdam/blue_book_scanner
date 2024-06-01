@@ -1,0 +1,22 @@
+The image appears to be a photograph analysis report from Project Blue Book, an official US Air Force program that investigated unidentified flying objects (UFOs). The report is for a "unidentified flying object" photographed on 31 October 1966 in West Hyattsville, Maryland.
+
+The report states that the photography is of "POOR" quality and that the object photographed is described as an "UNIDENTIFIED FLYING OBJECT". The report indicates that the image was taken from a distance of approximately 50 yards from the camera and that the object's size and image size suggest it was located at that distance.
+
+Performing OCR on the text in the document, the output is as follows:
+
+PHOTO ANALYSIS REPORT NR 67-74
+DATE OF REPORT 11 October 1967
+SUBJECT UNIDENTIFIED FLYING OBJECT
+LOCATION West Hyattsville, Maryland 
+DATE 31 October 1966
+PHOTOGRAPHY AF 1 Polaroid Print (3 x 4)
+QUALITY POOR
+PURPOSE: This report is in response to Work Order Number 67-110 submitted by Major Quintanilla, 6515th Aero Tech Squadron, to determine the characterization of the object photographed.
+ANALYSIS: The photography appears genuine insofar as content is concerned. Source indicates the object photographed is a bright, circular of 50 yards. The camera's focal length and image size indicates that if the object were located 50 yards from the camera lens, it would have appeared very large and distinct. The object did not appear to be associated with any known aircraft or atmospheric phenomenon.
+PHOTO ANALYSIS BY:
+DOUGLAS N. ROGERS, Capt, USAF
+Intelligence Research Specialist
+APPROVED BY:
+WILLIAM H. TURNER
+Major, USAF
+Chief, Photo Analysis Branch

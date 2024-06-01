@@ -1,0 +1,33 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book report with various fields filled out, including date, time group, location, source, number of objects, length of observation, type of observation, course, and physical evidence. The report indicates that the conclusion is "Insufficient information (ICAO III)".
+
+Based on the text in the image, the OCR output would be:
+
+1. DATE - TIME GROUP
+3 AUGUST 65 06:33
+
+2. LOCATION
+Ft. Worth, Texas
+
+3. SOURCE
+Civilian
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+2 minutes, 30 seconds
+
+6. TYPE OF OBSERVATION
+Visual
+
+7. COURSE
+North
+
+8. PHOTOS
+No
+
+9. PHYSICAL EVIDENCE
+No
+
+19. CONCLUSION
+Insufficient information (ICAO III)

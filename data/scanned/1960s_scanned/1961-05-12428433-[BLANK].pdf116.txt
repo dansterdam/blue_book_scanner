@@ -1,0 +1,55 @@
+There is no photograph present in the provided image. The image shows a page from a document titled "PROJECT MERCURY" which describes the functions and capabilities of the Mercury ground communication system. The text includes details about monitoring the launch, orbit, reentry, and landing of the Mercury capsule, as well as coordination with various control centers and the transmission of data.
+
+PROJECT MERCURY
+will compute and send data for displays at the control center 
+suitable for the following functions:
+(a) Monitor the launch to determine if the orbit achieved
+is satisfactory.
+(b) If the orbit is not acceptable, determine times of retro-
+fire to designate (desigenated) recovery areas.
+(c) Determine capsule landing point and present position. 
+A RMCC is used for the NASA Mercury Control Center.
+The function of the control center will be to provide control and 
+coordination of all activities associated with the Project Mercury op-
+eration. The necessary communication displays and control equipment 
+installed at this site will be used for the basic functions:
+(1) Coordination with the blockhouse and central control dur-
+ing launch; including monitoring of vehicle propagation and guid-
+ance, and assistance on range safety.
+(2) Control of all stations outside Cape Canaveral.
+(3) Monitoring of pilot and capsule systems.
+(4) Instruction to pilot.
+(5) Flight trajectory monitoring.
+(6) Commands to capsule equipment.
+(7) Initiate emergency abort during launch and insertion.
+(8) Initiate emergency landing at completion of first or second
+pass over.
+(9) Initiate normal reentry and landing.
+(10) Supply landing location information for search and re-
+covery forces.
+3. Function of the demonstration site. - Existing NASA buildings
+and land at the Cape Canaveral Proving Grounds are being used to estab-
+lish a temporary station consisting of selected items of equipment
+identical to that used in remote stations. This equipment has been in-
+stalled and tested to determine performance characteristics and suitabi-
+lity for the Mercury mission and less modification will be required when 
+this equipment is installed at remote sites. Information developed at 
+this site will be applied to the remote Mercury sites to bring all sites 
+up to the performance required for the Mercury 
+mission.
+Ground communication system
+The purpose of the Mercury ground communication system is to provide 
+prompt communications between 15 range stations around the world with the 
+Goddard Space Flight Center at Greenbelt, Md. (and the Mercury Control 
+Center and Cape Canaveral, Fla., during launch and re-entry operations 
+on 18 and 19). The system will carry telephone, teletype, and high-
+speed data communications. Electronic computers at Goddard will pro-
+cess incoming data and provide as its output, acquisition messages and 
+other related information to all range stations. Teletype writer in-
+formation, info and out of Goddard, will be handled by an automatic 
+teletype writer switching system. A significant portion of the traffic
+will include voice coordination, launch and flight control, a radar 
+tracking and computing systems. Essentially 60 words per minute tele-
+type transmission will be employed. For high 
+speed data transmission, facsimile, and voice transmission, specialized 
+channels will be used.

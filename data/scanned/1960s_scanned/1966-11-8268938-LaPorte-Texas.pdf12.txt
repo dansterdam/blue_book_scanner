@@ -1,0 +1,22 @@
+There is no photograph present in this image. The image appears to be a page from an old project Blue Book document detailing assigned radio frequencies for air navigation.
+
+ASSIGNED RADIO FREQUENCIES FOR AIR NAVIGATION
+Stations in different countries are assigned different frequencies for their particular needs. These frequencies are allocated and protected by international agreements.
+This is a list of some of the more important frequencies assigned for various air navigation and communications purposes.
+150-490 kc and 415-535 kc: Transmitting frequencies of L/MF radio ranges, communicated and marine radio-beacons, control towers and other communication stations which are used for navigational and air-traffic control purposes.
+200-415 kc: The international distress frequency for ships and aircraft over the seas.
+255-270 kc: Transmitting frequencies of fan markers, B markers and H-B markers.
+275-325 kc: VHF omnidirectional ranges (VOR) and VORTAC for navigation at higher altitudes. Operations on old-tooth dental frequencies. Marker on VOR/TACAN facilities.
+312.0-315.0 mc: Transmitting frequencies of microwave landing system (ILS) signals and voice where available (Operates on old-tooth dental frequencies. Marker on VOR/TACAN facilities).
+115.0-117.95 mc: Transmitting frequencies of very high frequency (VHF) omnidirectional ranges and voice where available. (Operates on old-tooth dental frequencies. Marker on VOR/TACAN facilities).
+123.1-125.4 mc: Air traffic control and communications for civil aircraft. (VORTAC control).
+121.5 mc: Emergency and distress frequency for aircraft.
+243.0 mc: Search and Rescue.
+121.5, 243.0 mc: Common emergency frequencies, for communications between tower and taxiing aircraft or ground vehicles.
+225.0-400.0 mc: Frequency band reserved for this purpose.
+121.5-123.3 mc: Standard aeronautical emergency frequency and airport advisory service.
+122.0 mc: Standard FAA tower radio frequency for private aircraft.
+121.5 mc, 243.0 mc: Other distress and emergency frequencies for use to aircraft. These stations are indicated by symbol on the use of these.
+123.0 mc: Universal Aviation Stations for communications pertaining to agriculture, ranching, forest fire fighting, parachute jumping, etc.
+121.1, 121.3, 121.5, 121.6, 121.7, 121.8 mc: Assigned primarily for government use, although frequencies in these bands are often available at FAA facilities for communication with aircraft.
+Other frequencies are assigned for various military purposes.

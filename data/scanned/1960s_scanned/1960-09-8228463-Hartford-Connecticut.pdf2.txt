@@ -1,0 +1,16 @@
+The image contains a table with chemical analysis data for three samples. There is no photograph present in this image.
+
+The text in the document is as follows:
+
+The three pieces of sample #2 were analyzed separately, and a comparison of the relative intensities of the emission lines from these pieces is given below.
+
+Element     22a°     25°     26°
+Rb             23c     2.5     9-. 
+Ba             53     10.3    0.
+Sr             33      6.3    1.
+Cu             50     10.     10.
+Nl             1.2     0.     9.
+Mn             8.8     0.     0.
+Fe              0       0      0.
+
+This table is normalized to Cu is = 10, and indicates that Sample 2b contains a more uniform concentration of Barium than the others, and the others contain no Manganese.

@@ -1,0 +1,19 @@
+The image provided does not contain any photographs. It appears to be a page from a document titled "PROJECT MERCURY" and describes various functions and operations of different stations and centers related to the Mercury program. 
+
+TEXT EXTRACTED FROM THE IMAGE:
+
+PROJECT MERCURY 47
+two and three, and to transmit command functions as required. The station also maintains voice communications with the control center. This station provides the first trackine data after launch and will indicate whether the retro-rockets have been fired at the programmed time. If not, this station will command retro-rocket firing to initiate reentry.
+(y) Guaymns, Mexico: The function of this station is to provide tracking, telemetry, and voice communications coverage for passes one and two and to transmit command functions as required. The station also maintains voice communications with the control center to indicate whether the retro-rockets should be fired.
+(z) Telemetry data received will indicate whether the retro-rockets have been fired at the programmed time. If not, this station will command retro-rocket firing to initiate reentry.
+(aa) White Sands Missile Range, New Mexico: The station continues to provide tracking data on all three passes and also contributes to the continuous tracking coverage in the United States on all three passes.
+(bb) Bermuda: This station contributes to the continuous tracking, telemetry, and voice communication for all three passes and contributes to the computing and data processing center.
+(c) Beritn Air Force Base, Fla.: The function of this station is to contribute to continuous tracking coverage on all orbital passes. Data transmission is required from Berlin to Goddard for processing.
+(d) Goddard Space Flight Center, Greenbelt, Md.: The primary functions of the computing and communications center located at the Goddard Space Flight Center, Greenbeit, Md., are:
+(1) To accept all telemetry and communications from remote tracking stations required for the Mercury operations.
+(2) The predicted location of the capsule.
+(3) The predicted location of impact for emergency reentry.
+(4) Time to fire retro-rockets to land in next recovery area.
+(5) During reentry, the center will provide and transmit to the control center continuous prediction of the landing point on essential time basis.
+(6) Throughout the entire operation, the center will provide continuous communications terminal for the Mercury operations. Communications to all field sites will pass through the center's communication areas and the appropriate switching and monitoring facilities will be provided.
+(7) During launch and insertion the computing center will receive tracking data from the Cape Canaveral tracking systems including the BCE Burroughs/Goddard tracking system. Using these tracking data in combination with selected telemetry data, the center will keep the control center informed on the progress of the flight.

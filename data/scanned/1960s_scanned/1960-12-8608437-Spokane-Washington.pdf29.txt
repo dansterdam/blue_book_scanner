@@ -1,0 +1,24 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book report documenting sightings of UFOs during the period of 16-31 December 1960.
+
+TEXT OUTPUT:
+
+DATE LOCATION OBSERVERS EVALUATION
+16 * Hutchinson, Kansas Multi Insufficient Data
+16 * Dayton, Ohio Multi Insufficient Data
+16-20 * Vyndall AFB, Florida Multi Insufficient Data
+16 * Vieques, Puerto Rico Multi Insufficient Data
+17 * Anchorage, Alaska Astro (ARCTUUS) Insufficient Data
+18-20 * Kana, F.W.Midway Military Satellite Insufficient Data
+19 * Cincinnati, Ohio Astro (METEOR) Insufficient Data
+23 * Cuba Military Insufficient Data
+24 * Buckingham, Iowa Astro (VENUS) Insufficient Data
+28 * Arlington Heights, Illinois Astro (METEOR) Insufficient Data
+29 Jan 1 * New York, New York Astro (VENUS) Insufficient Data
+29 * Calistoga, California Astro (SATURN) Insufficient Data
+29 * Pinawa, Canada Astro (METEOR) Insufficient Data
+29 * Loral Sea Nandi, Australia Satellite Insufficient Data
+31 * Nashua, New Hampshire Insufficient Data
+
+DATE LOCATION SOURCES EVALUATION
+27 * East Boston, Massachusetts Nevascclipping Nevascclipping
+29 * San Rafael, California Nevascclipping Nevascclipping

@@ -1,0 +1,25 @@
+There is no photograph present in this image. This appears to be a page from a Project Mercury document that describes the automatic reaction control system and the communication system used in the program.
+
+PROJECT MERCURY 23
+
+The automatic reaction control system uses solenoid valves for on-off control. The manual reaction control system utilizes small aircraft-type valves which are controlled by the pilot. During launch or spacecraft recovery, the system can be activated by either the pilot or solenoid valves.
+
+A thorough evaluation program at the NASA Lewis Research Center was completed early in 1960. Since that time, the qualification tests of the reaction control systems and the associated equipment have been completed.
+
+Body support and restraint
+
+The production of individually fitted couch-type restraint harnesses for the astronaut during simulated acceleration and other stress conditions was required during 1959. Although experience with the body restraint harness indicated it was possible for the pilot to release the harness positively and obtain timely exit from the spacecraft, current thinking indicates that the pilot should be able to release the harness positively and obtain rapid egress only when necessary, but that the harness conditions should be monitored constantly during powered flight.
+
+The original head restraint system has been modified to eliminate any shoulder or body movement which might injure the neck. Consequently, the configuration provided is adequate to prevent lateral motion and forward acceleration effects on the pilot.
+
+The communications (onboard)
+
+The Mercury communication system is designed to provide two-way voice communication, position tracking capability, and ground control of vital capsule events and postlanding search and recovery assistance.
+
+The communication system is made up of the following equipment:
+(1) Two S-band antennas: This unit is designed to provide two-way voice communication for the entire mission, including communications for direction finding efforts and main parachute deployment.
+(2) A UHF voice transmitter-receiver which provides the normal voice communications, one-way or two-way, selected by the astronaut.
+(3) A VHF voice transmitter-receiver. This unit is designed to provide extended range for two-way voice communications, backup for the HF range-line-of-sight range.
+(4) A 3.5 watt BE voice transmitter-receiver. This unit is designed to provide short range for two-way voice communications, for normal use when within line-of-sight range.
+(5) A 2.5-watt telemetry receiver (high frequency). This unit is designed to provide for biological and physical data transmission in the event of complete voice-communication failure.
+(6) A tape recorder: verification of events transmitted to or programmed within the capsule; and emergency telegraph transmission in the event of complete voice-communication failure.

@@ -1,0 +1,24 @@
+The image does not contain any photographs. It appears to be a page from a document titled "PROJECT MERCURY" that describes the Tracking and Communications Network for the Mercury mission. The text discusses various aspects of the tracking and communications systems, including the use of existing support instrumentation stations around the world, the use of the Atlantic Missile Range as the launch area, and the ability to provide real-time telemetry and voice contact during the orbital flights.
+
+PROJECT MERCURY
+Tracking and Communications Network
+
+General
+In the Mercury mission, man and machine together will, for the first time, be subjected to a significant environment. It will, therefore, be desirable to keep the number of orbits on initial flights to a minimum. On the other hand, it will be highly desirable to allow sufficient time for precision orbit determination in order to specify the desired area. With these conflicting requirements, a maximum of three orbits was chosen for the first manned orbital flights.
+
+On the other hand, it will be highly desirable to allow sufficient time for precision orbit determination in order to specify the desired area. With these conflicting requirements, a maximum of three orbits was chosen for the first manned orbital flights.
+
+(1) Use of existing ground support instrumentation stations throughout the world.
+(2) Use of the Atlantic Missile Range as the launch area and the Cape Canaveral area, south of the continental United States, during the third orbit.
+(3) Requirement that the continental United States tracking continuously both during the orbital flight and during recovery.
+
+For these reasons, a northeast launch which was selected results in an orbital inclination of 32.5 degrees or over. This carries the vehicle just south of Bermuda, south of the Canary Islands, across Africa, and over the Indian Ocean Missile Range at Woomera. The track then passes across the Solomon and Phoenix Islands, passing over the southern United States where a number of suitable instrumentation sites already exist, such as the Pacific Missile Range, Eglin Air Force Base, the Air Force Missile Test Center at Patrick Air Force Base, as well as the Cape Canaveral complex. The third orbit passes over several African tracking and command of the retrograde, since direct hard-line communications is available from the continental United States.
+
+In making the choice of the number and location of the various ground instrumentation stations, a number of other criteria were established.
+
+(1) The desire to have continuous tracking from Cape Canaveral to across Bermuda for accurate determinations and to have real-time telemetry and continuous voice contact during this time.
+(2) The ability to reset the retrofire conveniently on each orbit as the vehicle is approaching direct command of the retrofire during the last orbit.
+(3) The need for continuous contact with the capsule during insertion.
+
+(4) A desire to maintain frequent voice and telemetry contact with the capsule.
+(5) The need for continuous impact prediction in case of an early abort requiring impact in the Atlantic Ocean, or during an emergency should one occur after orbit insertion.

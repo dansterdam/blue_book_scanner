@@ -1,0 +1,22 @@
+The image does not contain a photograph, it appears to be a table or list of "Long Island Sightings" from October 21-31, 1966. The table includes the date, time, location, and a "Description" column that lists various celestial and other objects observed.
+
+Text output from the document:
+
+Long Island Sightings 21-31 Oct. 1966
+
+Date    Time    Location    Description
+21 Oct. 66    0500Z   Greenslawn    Astro(Sirius)
+21 Oct. 66    0520Z   Patchogue    Astro(3/4) Satellite(Echo I)
+25-26 Oct. 66    26/0400Z    North Babylon    Astro(3/4) Satellite(Echo I)
+25-30 Oct. 66    25/2150Z    Southampton    Astro(Capella)
+26 Oct. 66    27/0001Z    Holtsville    Aircraft(possible)
+27 Oct. 66    0500Z    Syosset    Other(electric wires - sparking)
+27-31 Oct. 66    evenings    Westhampton    Astro(Arcturus) Aircraft(possible)
+27 Oct. 66    2300Z    Center Moriches    Astro(Capella)
+29 Oct. 66    2235Z    Farmingville    Aircraft(possible) Astro(Arcturus)
+29-30 Oct.66    2300Z    Bellport    Astro(Capella-Arcturus)
+29 Oct. 66    30/0310Z    Brentwood    Insuff. Data
+30 Oct. 66    2155Z    Blue Point    Astro(Arcturus)
+30 Oct. 66    2320Z    Southhampton    Ending Photo(s)
+30 Oct. 66    31/0030Z    Centerport    Other(unreliable)
+30 Oct. 66    31/0427Z    Southampton    Astro(Rigel)

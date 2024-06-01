@@ -1,0 +1,36 @@
+The image contains a technical diagram labeled "Diagram B" that illustrates a method for determining the height of a tubular object based on the observer's eye, the object's distance, and various geometric calculations. There is no photograph present in this image.
+
+Wind Direction and Velocity (knots)
+Feb. 6, 1960 2101 EST
+
+5000	310	20	56
+10000	330	28	58
+20000	340	31	60
+25000	340	34	62
+30000	R	45
+
+Flight Path for Flight of February 6, 1960
+2101 EST for each 1000 feet/direction
+from point of release.
+
+Above sketch made at the office of the
+U. S. Weather Bureau.
+
+Please note extreme difference of flight path to rad light, as shown on opposite
+page, that that of the U.S. Weather Bureau balloon.
+
+Unfortunately, space will not permit inclusion of other important information
+furnished by the U.S. Weather Bureau.
+
+Graphic Solution for Determination of Height of Tubular Object
+
+At a distance of 25 inches from observer's eye, the object
+was estimated to be 1-1/4 inches in height.
+
+A = Distance from observer's eye to ruler (hold at arm's
+length)
+B = Estimated height of object
+C = Graphical slope distance from observer to object
+D = Calculated (vertical) height of object (which is vertical position)
+
+A ratio of A to B as C is to D gives a height of 70 feet.

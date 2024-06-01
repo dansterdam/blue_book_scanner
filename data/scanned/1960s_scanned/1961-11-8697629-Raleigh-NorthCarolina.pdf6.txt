@@ -1,0 +1,23 @@
+The image does not contain any photograph. It appears to be a typed document with details of a weather station report from Raleigh, North Carolina on November 8, 1961.
+
+Output text from the document:
+
+Ralelgh, N.C. and Pope AFB, N.C.
+
+Raleigh Weather Station report 17 Nov 61 at 2357 hrs.
+
+Clcud: 10 miles visibility
+Sea Level Pressure: 30.12
+Temperature: 47°
+Dew Point: 37°
+Winds: 2 knots
+Altimeter: 30.12 at 20.00
+
+Pope Air Force Base, N.C. report 17 Nov 61 at 2357 hrs.
+
+Clear sky 7 miles visibility 
+Sea Level Pressure: 30.12 
+Temperature: 54° 
+Dew Point: 37°
+Winds: 7 at 7 k kts
+Altimeter: 30.12 at 20.00

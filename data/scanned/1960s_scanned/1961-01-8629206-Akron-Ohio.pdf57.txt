@@ -1,0 +1,33 @@
+The image appears to be a page from a Project Blue Book report, containing a table or grid of weather observation data. There is no photograph present in this image, only the textual data table.
+
+STATION AKRON, OHIO
+WEATHER OBSERVATIONS
+JANUARY 21, 1961 P CALPAIR
+CLOUDS AND OBSCURING PHENOMENA
+COLUMN 1        COLUMN 2        COLUMN 3        COLUMN 4        COLUMN 5        COLUMN 6        COLUMN 7        COLUMN 8
+HOUR            AMOUNT          CLOUDS          HEIGHT          FORM           MOVEMENT       CHARACTER       OBSTRUCTING
+0000            1/10            Ci             20,000          F              SW             C               -
+0100            2/10            Ci             24,000          F              SW             C               -
+0200            3/10            Ci             23,000          F              SW             C               -
+0300            3/10            Ci             22,000          F              SW             C               -
+0400            3/10            Ci             21,000          F              SW             C               -
+0500            2/10            Ci             20,000          F              SW             C               -
+0600            2/10            Ci             19,000          F              SW             C               -
+0700            1/10            Ci             18,000          F              SW             C               -
+0800            1/10            Ci             17,000          F              SW             C               -
+0900            1/10            Ci             16,000          F              SW             C               -
+1000            1/10            Ci             15,000          F              SW             C               -
+1100            1/10            Ci             14,000          F              SW             C               -
+1200            1/10            Ci             13,000          F              SW             C               -
+1300            1/10            Ci             12,000          F              SW             C               -
+1400            1/10            Ci             11,000          F              SW             C               -
+1500            1/10            Ci             10,000          F              SW             C               -
+1600            2/10            Ci             9,000           F              SW             C               -
+1700            3/10            Ci             8,000           F              SW             C               -
+1800            3/10            Ci             7,000           F              SW             C               -
+1900            4/10            Ci             6,000           F              SW             C               -
+2000            5/10            Ci             5,000           F              SW             C               -
+2100            6/10            Ci             4,000           F              SW             C               -
+2200            7/10            Ci             3,000           F              SW             C               -
+2300            8/10            Ci             2,000           F              SW             C               -
+2400            9/10            Ci             1,000           F              SW             C               -

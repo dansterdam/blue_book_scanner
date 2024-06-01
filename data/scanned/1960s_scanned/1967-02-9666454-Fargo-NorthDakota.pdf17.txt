@@ -1,0 +1,23 @@
+The image does not contain any photographs, only a table of data. As an OCR (Optical Character Recognition) system, I will produce the text found in the document:
+
+Project 5922D - STAR TREK
+
+SURFACE DATA - Fargo, North Dakota 
+
+DATE	TIME (L)	SKY	VISIBILITY	SEA LEVEL	TEMPERATURES (d eg F) 	ALTITUDE 
+                          PRESSURE (mb) HIGH (C)	LOW (C)	SETTING (C)
+25 Feb 67	0900	CLEAR	15+	1031.1	0/-9	170/4+	30.35
+	1200	CLEAR	5 55	1028.7	11/4	170/16922	30.29
+	1500	CLEAR	5 55	1024.2	19/12	180/19021	30.16
+	1800	CLEAR	5 55	1021.4	15/6	160/19325	30.08
+	1900	CLEAR	7	1021.9	12/3	160/19	30.07
+	2000	CLEAR	10	1021.3	10/3 3-1/2	160/19326	30.07
+	2100	CLEAR	10	1020.5	10/3	160/21027	30.05
+	2200	CLEAR	10	1019.3	11/5	160/18025	30.02
+25 Feb 67	
+	0200	CLEAR	12	1014.8	15/7	160/18024	29.90
+
+Note: "G" = Surface wind gusts to...
+"S" = Blowing Snow
+
+Analyst: S.P. Banhan

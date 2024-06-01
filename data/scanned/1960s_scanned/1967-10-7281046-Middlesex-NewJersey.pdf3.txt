@@ -1,0 +1,11 @@
+The image does not contain any photographs. It appears to be a table or document with data entries related to various locations, dates, times, sky cover, wind, visibility, sea level pressure, and temperature.
+
+Proj: 5292D - STAR TREK - Surface Data
+Station      Date       Time(L)  Sky Cover  Wind     Visibility  Sea Lvl. Pres. Temp. & Dew Pt.
+Newark, N.J.  6 Oct 67   0100     3/8       300/06   15          1012.2        66/54
+"             "          0300     No Data Available
+"             "          0400     No Data Available
+"             "          0500     3/8       320/14   15          1013.9        61/46
+Miramar NAS, Cal.  2 Feb 68  2000     8/8       010/02  15          1019.6        55/45
+"             "          2100     8/8       CALM    15          1019.5        52/43
+"             "          2200     8/8       100/04  15          1019.5        48/43

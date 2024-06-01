@@ -1,0 +1,14 @@
+The provided image does not contain any photographs. It appears to be a page from a Project Blue Book document that contains information about sensors that were tracking a missile at a second stage. The document lists different sensor types, their field of view or beam width, and mentions that the PPS-16 radars acquired data but it was very erratic at the second stage.
+
+AFTER
+Attn: T. J. Chet
+
+Information on Sensors That Were Tracking Missile at Second Stage Burnout:
+
+Sensor  Type    Field of View or Beam Width
+Agena "M" II  TV-4 Camera 35º  
+FG 1-D  RC-8 Cameras  35º
+Radar 1p-16   PPS-16 Radar  1.2º
+Radar 3.1-6   PPS-16 Radar   1.2º
+
+The PPS-16 radars acquired data but it was very erratic at second stage burnout.

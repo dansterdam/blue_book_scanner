@@ -1,0 +1,24 @@
+The image does not contain a photograph. It appears to be a page from a UFO report document from Project Blue Book, with various fields for the witness to describe their observation.
+
+16. Tell in a few words the following things about the object:
+a. Sound - Whistling
+b. Color - White
+
+17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, projections, etc., and generally describe what is shown in your drawing.
+
+There is a hand-drawn sketch of what appears to be a circular or oval-shaped object.
+
+18. The edges of the object were:
+(Circle One): a. Fuzzy or blurred, b. Little or bright, c. Sharply outlined, d. Don't remember
+
+19. If there was MORE THAN ONE object, then how many were there?
+One, as a picture of one object was drawn.
+
+Text Output:
+16. Tell in a few words the following things about the object:
+a. Sound - Whistling
+b. Color - White
+17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, projections, etc., and generally describe what is shown in your drawing.
+18. The edges of the object were:
+(Circle One): a. Fuzzy or blurred, b. Little or bright, c. Sharply outlined, d. Don't remember
+19. If there was MORE THAN ONE object, then how many were there?

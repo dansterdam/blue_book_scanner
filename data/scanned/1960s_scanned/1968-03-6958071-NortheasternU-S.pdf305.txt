@@ -1,0 +1,37 @@
+The image appears to be a page from an old Project Blue Book report. There is no photograph present in this image, only text and various symbols and codes.
+
+EXPLANATION OF SYMBOLS AND MAP ENTRIES
+
+Station memory: Usual number indicating the station number.
+Bearing: The bearing of the object from the station in degrees.
+Elevation: The elevation of the object in degrees above the horizon.
+Distance: The estimated distance to the object in miles.
+Remarks: Additional notes and comments.
+
+SAMPLE CODED MESSAGE
+405 GS20 12:16 23:51 6/22/68 7452
+SYMBOLIC FORM OF MESSAGE
+CC GPPP
+T VT
+T T VTD CLN WR
+VH RR
+
+OCR TEXT OUTPUT:
+SYMBOLIC FORM OF MESSAGE
+IN NIGHT VISUAL SIGHTINGS TELEPHONE:
+REPORT OF CODED MESSAGE RECEIVED MESSAGE: 
+GHGPPP VT TO CLN,WR RR
+SAMPLE CODED MESSAGE
+405 GS20 12:16 23:51 6/22/68 7452
+SYMBOLIC FORM OF MESSAGE 
+CC GPPP
+T VT
+T T VTD CLN WR 
+VH RR
+EXPLANATION OF SYMBOLS AND MAP ENTRIES
+Explanation of symbols and map entries: 
+Station memory: Usual number indicating the station number.  
+Bearing: The bearing of the object from the station in degrees.
+Elevation: The elevation of the object in degrees above the horizon.
+Distance: The estimated distance to the object in miles. 
+Remarks: Additional notes and comments.

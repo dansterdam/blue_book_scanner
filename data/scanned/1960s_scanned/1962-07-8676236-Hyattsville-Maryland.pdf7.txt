@@ -1,0 +1,7 @@
+The image contains three sketches or diagrams, but no photographs. The first diagram shows a curved line with points "A" and "B" marked on it, illustrating how an object appeared above the horizon (skyline) when it was first seen, and how it appeared below the horizon when it was later seen. The second and third diagrams show larger sketches depicting the position of the object, with instructions on how to complete the larger sketch.
+
+TEXT OUTPUT:
+
+32. In the following sketch, imagine that you are at the point shown: Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was below the horizon (skyline) when you last saw it.
+
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to another sketch as an example of how to complete the larger sketch.

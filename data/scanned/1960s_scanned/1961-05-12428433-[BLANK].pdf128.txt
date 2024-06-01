@@ -1,0 +1,20 @@
+The image shows a diagram of the "FLIGHT CONTROL ORGANIZATION" for a project, with various components and roles such as the Operations Director, Flight Director, Range Safety Officer, Bermuda Control Center, and various systems and personnel involved in the flight control process. There is no photograph present in this particular page of the document.
+
+FLIGHT CONTROL ORGANIZATION
+OPERATIONS DIRECTOR
+    FLIGHT DIRECTOR
+        RANGE SAFETY OFFICER
+BERMUDA CONTROL CENTER
+    FLIGHT SUPERVISOR
+    FLIGHT SURGEON
+    CAPSULE ENVIRONMENT MONITOR
+    CAPSULE COMMUNICATOR
+    CAPSULE SYSTEMS MONITOR
+    RETRO CONTROLLER
+    FLIGHT DYNAMICS OFFICER
+    MISSILE T/M MONITOR
+    CAPSULE COMMUNICATOR
+GE-BURROUGHS COMPUTER
+GODDARD COMPUTER
+    BERMUDA COMPUTER
++ COMMAND CAPABILITY

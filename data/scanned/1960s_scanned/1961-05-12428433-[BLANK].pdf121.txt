@@ -1,0 +1,28 @@
+There is no photograph present in this document. This appears to be a detailed description of the Project Mercury space mission, including the procedures involved in the monitors' launch to ascertain the "Go" or "No-Go" decision, the sequence of events during the launch and recovery of the capsule, and the various computational and data processing functions performed by the Mercury network. The text does not mention or identify any individuals.
+
+PROJECT MERCURY
+1. Monitors launch to ascertain a "Go" or "No-Go" decision
+   on the retrorocket firing is achieved. This decision is to be accomplished within 30 seconds after the sustainer engine cutoff. 
+2. Computes the time to retrorocket firing to permit the capsule to land within the prescribed landing area.
+3. Performs the reentry computation and predicts the impact
+   point of the capsule.
+4. Performs necessary computation and preparation for trans-
+   mission of capsule data to ground during second and third passes
+   of capsule over the Bermuda area.
+At the landing, computation is accomplished on the two IBM 7090
+   computers. The following functions are performed:
+1. Determination of orbit, in conjunction with Cape computers.
+2. Processing of all radar inputs from remote sites.
+3. Definite and resolving orbit.
+4. Sending acquisition data to remote sites.
+(Cape and Bermuda IBM 7090 computers, Air Force Control Center at Cape
+   Canaveral - flight parameters and track data).
+6. Calculates and updates final impact point during reentry.
+Network established communications
+The Mercury network is the most complex and extensive set of
+transport instruments assembled this far in space programs. To properly test each subsystem and then the integrated system, certain essential dynamic procedures will be employed.
+All key components and subsystem tests are first accomplished. This includes component and subsystem tests such as the "checkmate" receiving equipment, the ground-to-capsule communications equipment, command equipment, S-band tracker, acquisition
+and equipment, to mention only a few. This type of testing is accomplished as individual component standard electronic test equipment as well as some specially designed apparatus.
+After the subsystems are installed and interconnected, the system as a whole undergoes full-function testing. The objective is to detect and guard against troublesome stray energy that manifests itself in full-system testing.
+All subsystems are operated together in static-station testing. Dynamic procedures involve actual target information. The test programs detect any malfunction of equipment identical to the electronic gear in the Mercury capsule, determining critical electrical and mechanical difficulties in a near-operational situation. This type of testing also represents excellent training for the station operators.
+Magnetic tapes are prepared in advance for each station. These tapes contain signals for the operators. The tracking radios are given simulated target information, simulated telemetry data is received, simulated astronaut communications are handled with equipment identical to the electronic gear in the Mercury capsule.

@@ -1,0 +1,13 @@
+The image does not contain any photograph or visual element. It appears to be a scanned page from a document related to Project Mercury, which was part of the United States' early human spaceflight program.
+
+PROJECT MERCURY
+(6) A 33-Watt telemetry transmitter is designed to perform the same function as the high frequency telemetry transmitter and provides redundancy of flight safety data transmission.
+(7) Command and receivers. Two identical 20-channel receivers with parallel outputs are provided to enable ground control of (1) capsule abort, (2) retrorocket reset, and (3) retrorocket firing.
+(8) UHF/HF rescue beacons (SARAH) for search and recovery aid after capsule impact.
+(9) Auxiliary UHF rescue beacon (super-SARAH) for redundant search and recovery aid.
+Extensive development tests have been performed to determine normal operation, interaction with other equipment, and with other capsule systems equipment. As a result of these tests, numerous corrective actions were taken, internal filtering and redesigning of the telemetry subsystem, internal powering filtering design of the telemetry transmitter, and redesign of the telemetry transmitter power supply.
+These were problems that did not all equipment was working together within the actual capsule structure.
+The instrumentation system monitors the physical condition and operation of capsule controls. This information is supplied to telemetry transmitters and is available for analysis by ground stations.
+The basic electrical power supply system for orbital capsules consists of three 30-watt silver-zinc 28-watt batteries connected so as to provide three independent systems. Although the supplies are normally independent, circuitry is provided for automatic combination if isolation devices fail. Switching can connect all three supplies into one common system if necessary. In flight, the normal mission requires less power than is completely available for unforeseen emergencies.
+The d.c. battery power is converted to a.c. by means of static inverters. As in the case of all batteries, independent inverters are provided with auxiliary batteries, inverters, and other electrical system components to be used aboard the Mercury capsule have successfully completed their
+testing and qualification.

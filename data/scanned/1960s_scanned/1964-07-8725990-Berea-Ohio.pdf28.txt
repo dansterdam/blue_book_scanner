@@ -1,0 +1,29 @@
+The image does not contain a photograph, but rather a data table from a Project Blue Book report. The table appears to contain wind, visibility, and other observation data collected at an observation point in Berea, Ohio on July 8, 1964.
+
+U.S. DEPARTMENT OF COMMERCE 
+WEATHER BUREAU
+WINDS-ALOFT COMPUTATION SHEET
+OBSERVATION POINT: BEREA, OHIO (CLEVELAND AIRPORT), ELEVATION OF OBSERVATION POINT 810'
+PLACE 5th JUL, 1964, ORIENTATION 360' -SOUTH, LATITUDE 41' 29'N, LONGITUDE 81' 54'W
+Type of balloon: Pibal
+Balloon height above station Pressure Height Observed Computed from Deviation from Wind Wind Speed elevation of observed observation point Surface Pressure Pressure Height Direction (deg) (kt)
+200 413 4 27.5 4 315 15
+400 415 2 27.4 2 290 15
+600 417 1 27.3 1 280 15
+800 421 0 27.2 0 270 15
+1000 424 -1 27.0 -1 265 15
+1200 427 -2 26.8 -2 250 15
+1400 430 -3 26.6 -3 250 15
+1600 433 -4 26.3 -4 245 15
+1800 436 -5 26.1 -5 230 15
+2000 440 -6 25.7 -6 225 15
+2200 443 -7 25.4 -7 220 15
+2400 446 -8 24.8 -8 220 15
+2600 451 -9 24.4 -9 215 16
+2800 453 -10 24.0 -10 220 16
+3000 457 -11 23.5 -11 230 16
+3200 461 -12 22.9 -12 230 16
+3400 463 -13 22.5 -13 230 16
+3600 466 -14 22.0 -14 235 17
+3800 469 -15 21.4 -15 235 17
+4000 472 -16 20.6 -16 240 17

@@ -1,0 +1,13 @@
+The image does not contain any photograph. It appears to be a document or report discussing the analysis of a flight metallic sample.
+
+Analysis of flight metallic samples
+Sample No. 2 - X-ray fluorescence analysis:
+A semi-quantitative analysis of 43 mg* area on the sample was compared to all three standards. The spectrometer was aligned for the Al K, line, and the intensities of the elements present were suppressed by pulse height selection so that the intensity from the sample to Aluminum 0.28 was indicating a large proportion of Aluminum in the sample.
+A standard was prepared having Magnesium, Aluminum and Barium in the following ratio:
+Mg = .48, Al =.51
+From the relative intensities of the Mg K, Al K, and Ba L, lines, it was determined that the indicated proportions were: 
+9.91 Mg and 9.96 Al
+However, the Ba K : Ba L ratio from the standard was 19 times that from the sample, indicating a strong surface segregation of Ba in the sample. Therefore, the Ba L-line contains a possible surface contamination, and assume that the Mg and Al are uniformly distributed, we obtain the estimate of:
+30% Aluminum
+1% Magnesium 
+10% Barium

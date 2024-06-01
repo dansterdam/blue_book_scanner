@@ -1,0 +1,30 @@
+The image does not contain any photographs. It appears to be a page from a Project Mercury technical document that describes the computing and communications systems involved in the project.
+
+PROJECT MERCURY
+2. The Bendix Corp., responsible for the design, fabrication, and installation of most of the electronic subsystems such as the telemetry equipment.
+3. International Business Machines Corp., responsible for computer programming, equipment and operation of data processing equipment, and responsible for such items as simulation equipment and operational sequence procedures, etc.
+Western Electric not only serves as system manager and in the function of network integration, but also is responsible for network communications.
+As an example of specific progress and to provide a report on how the implementation of the network has proceeded, milestones will be given for the Karnal Island Hawaiian station:
+
+Event                          Completion Date
+1. Site survey                  Dec. 15, 1959
+2. Site project                 May 15, 1960
+3. Instrumentation equipment on site               July 1, 1960
+4. Site construction            Aug. 1, 1960
+5. Communication system, initial               Sept. 1, 1960
+6. Telemetry equipment installed and tested              Oct. 1, 1960
+7. Command equipment installed and tested              Nov. 1, 1960
+8. Radar equipment installed and tested              Dec. 1, 1960
+9. Acquisition aids installed and tested              Dec. 15, 1960
+10. Radar dynamic tests        Jan. 1, 1961
+11. Ground-ground communications integrated with communications center            Jan. 15, 1961
+12. Operational                 Mar. 1, 1961
+
+Computations for Project Mercury Flights
+There are three major computer installations associated with the Project Mercury flight computations: 
+1. Cape Canaveral, Fla.
+2. Bermuda
+3. Goddard Space Flight Center (At Cape Canaveral and Goddard, computations are made which concern the launch and insertion into orbit, the GE surrounds computing system, in addition to performing its usual functions). At the guidance station will feed data by telephone line to Goddard.
+At Goddard, two IBM 7090 computers will determine, in real time, the trajectory and the impact point for the capsule in the Atlantic Ocean Control Center, where it will be displayed.
+The capsule computing system, the GE-16 minor system, together with an IBM 709 computer installation, provides the capsule with an acceptable orbit [Go/No Go decision], the capsule will be permitted to go into orbit. If the orbit is definitely unacceptable (No Decision), the mission will be terminated and the final decision to abort will be turned over to Bermuda.
+At Bermuda, an IBM 709 computer installation is utilized to accomplish the following computations:

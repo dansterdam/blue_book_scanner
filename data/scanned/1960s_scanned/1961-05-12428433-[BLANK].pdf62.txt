@@ -1,0 +1,15 @@
+There is no photograph present in the provided image. The image contains text discussing "INFLATABLE STRUCTURES IN SPACE" and includes a section on "STRESS-STRAIN EQUATIONS" that provides formulae for isotropic and orthotropic materials.
+
+INFLATABLE STRUCTURES IN SPACE
+A typical example, Figure 31 shows some of the formulas that you find in use in sheet metals. You see the constants that you normally have in some of them change to variables in the new formulas. They change the material that we can use accordingly. 
+
+STRESS-STRAIN EQUATIONS
+ISOTROPIC (METAL SHEET, FILM, FOIL, etc.)
+ϵx = 1/E (σx - μσy)
+ϵy = 1/E (σy - μσx)
+γxy = τxy/G
+
+ORTHOTROPIC (FABRICS)
+ϵx = 1/Ex (σx - μxySy)
+ϵy = 1/Ey (σy - μyxσx)
+γxy = τxy/Gxy

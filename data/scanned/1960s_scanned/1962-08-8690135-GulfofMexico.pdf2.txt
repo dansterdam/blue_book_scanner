@@ -1,0 +1,30 @@
+There is no photograph present in this image. The image appears to be a page from a Project Blue Book document containing data and observations recorded in a tabular format.
+
+PART III - REDUCTION TO OTHER LATITUDES AND HEIGHTS FOR KEY DATA
+LAT BALANCE		LONG		HEIGHT	S PLUS	CORR	KILOH
+SN 90  		-0.5		-0.92		0.0		19.25	40.57	104.65
+SN 88			5.55		333.12		0.3		13.58	38.59	129.65
+SN 82			4.97		336.3		1.50.7	12.25	9.85	187.72
+SN 33			7.45		333.79		0.34		13.39	3.39	168.29
+SN 43			10.4		339.27		0.94		13.30	39.57	183.36
+SN 38			14.61		346.41		3.33.3	13.39	39.45	177.20
+SN 63			19.34		339.03		34.47	13.33	30.32	172.30
+SN 73			20.47		336.47		3.34.44	13.75	57.64	131.83
+ET 73			27.12		372.90		33.80	33.73	70.03	89.93
+HS 73			25.49		333.36		33.80	33.73	70.63	101.29
+HS 78			29.74		229.09		33.80	33.73	61.49	97.39
+HS 82			33.37		239.77		47.4		33.70	76.33	37.16
+HS 33			31.72		239.47		47.4		33.39	71.35	39.63
+HS 48			34.14		208.97		44.57	33.84	61.43	35.63
+HS 23			39.93		199.86		479.3	33.49	56.63	34.05
+HS 13			43.97		193.43		495.45	34.19	39.12	195.29
+HS 07			49.27		192.89		312.55	51.09	34.77	23.11
+
+PART IV
+FACTOR	CRN VA	GLOSS		WIND	WAVE	NOTES
+AMBIT	        1.15		 UNKNOWN	F-F 	NIGHT
+CAMEO	        1.8		 UNKNOWN	CALM 	CALM	PRJNA
+DINGO	        1.1		 UNKNOWN	LT-E	0.3M	PERRY
+MARKER	        RADAR		 3/4 MILE	LT-E	0.3M	
+
+This document appears to be a table of observations and calculations related to Project Blue Book, an official U.S. Air Force program to investigate Unidentified Flying Objects (UFOs). The table contains various data points, including latitude, longitude, height, and other factors, presumably relating to UFO sightings or investigations. The text in the leftmost column seems to indicate a systematic recording and analysis of these observations.

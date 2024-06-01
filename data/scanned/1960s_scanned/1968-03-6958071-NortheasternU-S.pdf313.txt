@@ -1,0 +1,6 @@
+The image does not contain a photograph. It appears to be a table or chart displaying information related to weather conditions and tendencies.
+
+Per hour	1	2	3	4	5	6	7	8	9	10
+Knots	Calm	Calm	0	1 - 2	3 - 6	7 - 10	11 - 16	17 - 21	23 - 31	33 - 37
+Tendency	Rising,then falling	Rising steadily,or Fluctuating	Rising greatly,or Falling rapidly	Falling slowly,or Steady	Falling rapidly,or Falling steadily,then Falling greater
+Temp	-	-	-	0 - 5	5 - 10	10 - 15	15 - 20	21 - 25	26 - 31	33 - 37

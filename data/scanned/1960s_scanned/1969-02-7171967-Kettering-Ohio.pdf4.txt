@@ -1,0 +1,14 @@
+The image does not contain any photographs. It appears to be a form or document related to Project Blue Book, a United States Air Force program to investigate unidentified flying objects (UFOs). The document has various fields filled out, including "Project", "Date", "Location", "Conclusion of Objects", "Length of Observation", "Type of Observation", "Course", "Photos", and "Physical Evidence".
+
+Performing OCR on the text in the image, the output is:
+
+1. DATE 3 Dec 68
+2. LOCATION Kettering, Ohio 
+3. CONCLUSION OF OBJECTS AF Form 117 not returned as of 15 Apr 69
+4. LENGTH OF OBSERVATION
+5. RESULTS 
+6. TYPE OF OBSERVATION PHYSICAL VISUAL
+7. COURSE
+8. PHOTOS
+9. PHYSICAL EVIDENCE YES 
+FTD (TPPA-2-329) (TDE)

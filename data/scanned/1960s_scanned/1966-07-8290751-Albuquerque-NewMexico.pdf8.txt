@@ -1,0 +1,16 @@
+The image does not contain any photograph, only text in a document format.
+
+As an OCR system, the text found in the document is as follows:
+
+2. Time and Date of Sighting:
+a. Zulu time-date group of sighting  13/0200Z 
+b. Light conditions (Use one of the following terms: Night, Dusk, Dawn, Daylight) Daylight
+
+3. Location of Observer(s): Give latitude and longitude of each observer, and/or geographical position
+
+6. Identifying Information on Observer(s):
+a. Civilian - Name, age, mailing address, occupation, and estimate of reliability
+b. Military - Name, grade, organization, duty, and estimate of reliability 
+
+7. Weather and Winds: Observer(s) account of weather conditions
+(Overcast, 3000 feet, Visibility 5 miles, Wind 360/5, Temp 70)

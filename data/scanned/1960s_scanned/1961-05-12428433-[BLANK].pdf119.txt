@@ -1,0 +1,23 @@
+The image does not contain a photograph, but rather a page from a document related to Project Mercury. The text on the page discusses the priority traffic communication system between Goddard and Cape Canaveral, the importance of safeguarding the communication facilities, and the organizations involved in providing the communication services for Project Mercury.
+
+PROJECT MERCURY
+priority traffic between Goddard and Cape Canaveral, teletypewriter circuits capable of transmitting 100 words per minute will be provided. A high-speed data communications network between Goddard and Cape Canaveral will be provided to handle the large volume of data flowing to and from the spacecrafts.
+The communication requirements for Project Mercury comprises approximately 125,000 circuit miles (about 85,000 miles of teletypewriter circuits and 40,000 miles of high-speed data circuits). The design of this system has been geared to provide a reliable communications network that can be expanded economically to meet the growing requirements of the Mercury program. These routes have been selected as the most reliable radio routes for both primary traffic and for backup use. Backup facilities were provided for those routes where it appeared economically feasible and necessary.
+One of the requirements in setting up the ground communication system was that leased facilities would be utilized wherever possible. Reliable communications must be maintained throughout Project Mercury, and a suitable program set up with the carriers for handling Mercury traffic, particularly with respect to the coverage and ties.
+Within the North American Continent, practically all the circuit facilities which will be utilized in implementing the Mercury program are existing facilities of the American Telephone & Telegraph Co. and the Bell Telephone System. Communication facilities outside the North American Continent wilt be a combination of leased and contractor-owned facilities. The following organizations are participating in supplying communications for Project Mercury:
+American Telephone & Telegraph Co. Long Lines Department.
+British Columbia Telephone Co.
+Cable & Wireless, Ltd.
+Compania Telefonica Nacional de Espana, Canary Islands.
+Canadian Overseas Telecommunications Corp.
+External Telecommunications Executive, General Post Office.
+General Post Office, United Kingdom.
+Overseas Telecommunications Commission, Australia.
+Postmaster General's Department of Supply, Australia.
+Radio Corp. of America.
+Telefonica de Mexico.
+Transradio Espanola - S.A.-, Canary Islands.
+Department of Defense.
+
+Station phasing and implementation progress
+The network as described in the foregoing material is being implemented on a phased schedule as the material is being approved and facilities made available by the carriers. Western Electric heads a team of subcontractors consisting of the Burns and Roe, Inc., responsible for architectural and engineering design of the stations as well as construction phases of station development.

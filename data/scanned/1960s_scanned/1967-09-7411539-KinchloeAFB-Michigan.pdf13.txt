@@ -1,0 +1,17 @@
+The image does not contain any photographs, but rather an explanatory diagram and text related to atmospheric measurements. The diagram shows various lines and labels related to isobars, adiabats, and atmospheric sounding data. The text provides an explanation of the different components and measurements shown in the diagram, such as pressure surfaces, temperature, and saturated mixing ratio. At the bottom of the image, there is a "ROAB ANALYSIS" table with some numeric values, but no further details are provided about this table.
+
+EXPLANATION
+ISOBARS are straight, horizontal brown lines. The heights in feet of the pressure surfaces in the ICAO standard atmosphere are in parentheses (...)
+below the pressure values on the left. 
+ISOTHERMS (°C) are the straight, equidistant brown lines running diagonally upward from left to right.
+DRY ADIABATS are the slightly curved brown lines that intersect the 1000 mb isobar at intervals of 2°C, and run diagonally upward from right to left.
+SATURATED ADIABATS are the curved green lines that intersect the 1000 mb isobar at intervals of 2°C, diverging upward and tending to become parallel to the dry adiabats. Values appear in the upper part of the diagram (515 mb level).
+SATURATED MIXING RATIO (in gm. per kg.) is represented by dashed green lines. The values appear at the bottom and middle of the diagram.
+ICAO STANDARD ATMOSPHERE SOUNDING is indicated by a thick brown line.
+The saturated adiabats and isoplets of saturation mixing ratio are computed by use of vapor pressure over a plane water surface at all temperatures.
+APPROXIMATE VIRTUAL TEMPERATURE may be obtained from the formula Tv=T+0.608w where Tv is virtual temperature in °C, T is free air temperature in °C, and w is mixing ratio in grams/kilogram. For purposes of thickness computation, use the mean temperature of the layer for w.
+Black dots along wind scale lines indicate the levels for which wind data are reported and plotted. The open circles indicate the mandatory pressure levels at which wind data are also entered.
+
+ROAB ANALYSIS
+0 3Z 12Z
+FRZG LVL

@@ -1,0 +1,27 @@
+The image does not contain any photographs, only a tabular data set.
+
+SOUNDING NO. :P
+LOCAL CITY - Dayton, Ohio
+DATA SOURCE: USAF Upper Air History Files
+DATE: 23 May 68
+
+ANALYSIS: Test Datum
+
+HEIGHT  PRESSURE  TEMP  ALT POINT  DIRECTION  SPEED
+------  ---------  ----  ---------  ---------  -----
+  931     993     20     10         220         8
+  970     970     29     5          290         7
+ 1736    850     10     3          290         7
+  793     793      5     0          315        31
+ 3102*   703      3    -19         315        31
+  658     658      0    -23         315        31
+  633     633      0    -24         -          -
+  595     595     -2    -24         -          - 
+  590     590     -3    -26         300        27
+ 7460    494     -23    -38         285        31
+ 9500     400    -39    -49         280        59
+10725     297    -49    -62         293        64
+13110     222    -57    -72         320        85
+13280     192    -75    -77         235        13
+14170     100    -50    -84         310        25
+18430      50    -62    -93         293         1

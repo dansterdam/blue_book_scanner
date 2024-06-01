@@ -1,0 +1,22 @@
+The image does not contain a photograph, but rather a table of data related to some kind of scientific or technical report.
+
+Sr Kx 1 
+Sr Kx (not observed in 1st order)
+Fe Kx 65
+Cu Kx 24
+Zn Kx 3
+Ti Kx 2
+Ba Lx 12 
+Pb Lx 4 (assignment uncertain)
+
+Sample 1, designated "cool", seems an intermediate between the background sample 10 and sample 5. It has large factors of Sr, Fe, Cu and Zn. The ratio of Fe to Cu is evidence for a Zn content similar to the background samples.
+
+Sample 3A is similar to Sample 1. EDDT spectrum of 3A and 1 showed the following (taken as arbitrary scale factors for each sample):
+
+Sample 1 3A
+Zr 90 93
+Ca Kx 50 133
+K Kx 24 33
+Cl Kx 2 2.2
+S Kx 2 2.0
+Si Kx 3 5.5

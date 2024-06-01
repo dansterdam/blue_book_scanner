@@ -1,0 +1,4 @@
+This image does not contain any photographs, only handwritten text. The text states: "This case includes six (6) 5"x10" photographs and one (1) 8"x14" ship and one (1) 6"x9" photograph."
+
+Text Output:
+This case includes six (6) 5"x10" photographs and one (1) 8"x14" ship and one (1) 6"x9" photograph.

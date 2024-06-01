@@ -1,0 +1,22 @@
+The image does not contain any photographs, only a table with a list of telephone calls received or made as part of a project.
+
+LISTING OF TELEPHONE CALLS
+RECEIVED OR CALLED PARTY
+DATE 	PERSON TAKING CALL	CITY AND STATE	TELEPHONE NUMBER		NAME		IN	OUT	ADDITIONAL
+										INFO
+MAR 69	LT MARANO	Cambridge, Mass.	617-354-1101		State Police		X		re satellite
+																 descr
+		"		Morgantown, W Va	304-599-1101		FAA Man Apt		X		
+		"		Willingsbort,Pa.	215-267-3752		City_Police		X		
+		"		"	217-2185		State Police		X		
+		"		Cleveland, Ohio	216-267-2190		FAA Man Apt		X		
+		"		Meridian, Pa.						X		
+		"		New Castle, Pa.		658-5575		State Police		X		
+		"		New Castle, Pa.						X		
+		"		Butler, Pa.						X		
+		"		New Castle, Pa.		652-2468		S.P_Fenne		X		
+		"		Strattorville,Pa.	724-3211		State Police		X		
+		"		Mercer, Pa.		662-5210		State Police		X		
+		"		Franklin,Pa.		432-4223		State Police		X		
+		"		Clarion,Pa.		226-9140		City_Police		X		
+		"		San Antonio, Texas	341-1820		Maj.Quintanilla		X		

@@ -1,0 +1,12 @@
+The image contains a hand-drawn sketch of an unidentified object. The sketch shows different views, including a top view, back view, and right side view. There are labels indicating "Top", "Left", "Right", "Bow", and "Stern". The bottom of the image is signed "Moymeha".
+
+QUESTION
+This is a page in an old UFO report document from project blue book. Please describe any photograph that is present. Not every image will contain a photograph. Then, please act as an OCR system and produce and output all the text found in the document and nothing else. For context: the filename including page number is data/scanned/1960s_scanned/1964-12-8722268-GlenFalls-NewYork.pdf2.txt
+
+RESPONSE
+The image does not contain a photograph, but rather a hand-drawn sketch of an unidentified object. The only text in the image is the labels and the signature at the bottom.
+
+Top
+Left Right
+Bow Stern
+Moymeha

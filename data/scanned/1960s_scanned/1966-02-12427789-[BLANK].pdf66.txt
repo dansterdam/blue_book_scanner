@@ -1,0 +1,5 @@
+The image does not contain any photograph. It only shows text describing the criteria for identifying an unidentified sighting, which states that a sighting is considered unidentified when a report apparently contains all pertinent data necessary to suggest a valid unidentified object of phenomena, and the description of the object or its motion cannot be correlated with any known object or phenomena.
+
+Text output:
+
+A sighting is considered unidentified when a report apparently contains all pertinent data necessary to suggest a valid unidentified object or phenomena, and the description of the object or its motion cannot be correlated with any known object or phenomena.

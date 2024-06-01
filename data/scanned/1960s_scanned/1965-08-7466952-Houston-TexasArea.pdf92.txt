@@ -1,0 +1,18 @@
+The image appears to contain a table or chart with various data points. The title at the top indicates this is a "Corpus Christi, Tex" document. The table contains rows with information about dates, times, elevations, and directions.
+
+CORPUS CHRISTI, TEX
+PEGASUS I
+DATE MONTH  DAY  HRS  MIN  ELEV DIRECT ION
+SEPT      5     3    4   32     SW TO SE
+SEPT     10     0    4   57     W TO E
+SEPT     10    13    4    3     NW TO NE
+SEPT     10    19    3   59     NW TO NE
+SEPT     10    20    4    2     NW TO NE
+SEPT     10    21    3   59     NW TO NE
+SEPT     11     9    4   10     NW TO NE
+SEPT     11    10    4   11     NW TO NE
+SEPT     11    15    4    8     NW TO NE
+SEPT     11    19    4    7     NW TO NE
+SEPT     11    20    4    7     NW TO NE
+SEPT     11    21    4    7     NW TO NE
+SEPT     11    22    4    7     NW TO NE

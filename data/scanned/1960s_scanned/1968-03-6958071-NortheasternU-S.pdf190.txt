@@ -1,0 +1,27 @@
+The image does not contain any photograph. It appears to be a page from a Project Blue Book report form, specifically a "FLIGHT CREW MEMBER REPORT FORM" filled out by the observer.
+
+FLIGHT CREW MEMBER REPORT FORM
+for S-55 U-2
+
+1. Date, time (please indicate whether date and time are local or Greenwich mean time): 7/16/' 68 - 2526 Z
+4. Location (DME and radial reading from a VOR or longitude and latitude): 28°22' 1000 055°00'
+5. Plane (Type, call sign, magnetic course, altitude): U-2, 951101, 242°, 33,000
+7. Crew names and addresses (witnesses): [redacted]
+8. Estimate degrees right or left of plane heading and elevation (in degrees): Above horizon of object when last sighted
+9. Estimate degrees right or left of plane heading and elevation (in degrees): Above horizon of object when last sighted
+10. Apparent brightness: A. Too bright to look at, B. As bright as full moon
+11. Duration of sighting: 15 SECONDS
+12. Break up noted and/or color noted: NO
+
+OCR OUTPUT:
+FLIGHT CREW MEMBER REPORT FORM
+for S-55 U-2
+1. Date, time (please indicate whether date and time are local or Greenwich mean time): 7/16/' 68 - 2526 Z
+4. Location (DME and radial reading from a VOR or longitude and latitude): 28°22' 1000 055°00'
+5. Plane (Type, call sign, magnetic course, altitude): U-2, 951101, 242°, 33,000
+7. Crew names and addresses (witnesses): [redacted]
+8. Estimate degrees right or left of plane heading and elevation (in degrees): Above horizon of object when last sighted
+9. Estimate degrees right or left of plane heading and elevation (in degrees): Above horizon of object when last sighted
+10. Apparent brightness: A. Too bright to look at, B. As bright as full moon
+11. Duration of sighting: 15 SECONDS
+12. Break up noted and/or color noted: NO

@@ -1,0 +1,47 @@
+The image shows a page from what appears to be an old UFO report document from Project Blue Book. The page does not contain any photograph, but rather consists of text in a grid-like format, likely representing data or information related to the UFO report.
+
+Output of the OCR (Optical Character Recognition) for the text in the document:
+
+1966-01-8722371-Weston-Massachusetts.pdf
+
+SUMMARY FORM FOR UNIDENTIFIED FLYING OBJECTS
+1. Date - Time Group (LCL. GMT)
+66-01-08 2130 L
+2. Tupe of Observation:
+Visual - Pho to gr aphi c
+3. Location (City, State, Zip Code, Lat/Long) 
+Weston, Mass. 02193 42°23'N/71°17'W
+4. Shape of Object:
+Round
+5. Number of Objects:
+1
+6. Size of Objects:
+Small. 20-30 ft diameter 
+7. Duration of Observation:
+1 minute
+8. Direction of Movement:  
+Traversed SW to NNW
+9. Angular Elevation (Degrees):
+30 deg above horizon
+10. Angle of Sight:
+Unknown
+11. Distance from Observer:
+Approx 1/4 - 1/2 mile
+12. Condition of Sky:
+Clear
+13. Precipitation:
+None
+14. Peculiarities of Object: 
+Metallic appearance, red-orange glow, no noise.
+15. Weather Conditions: 
+No known weather balloons or aircraft in area
+16. Nearby Objects:
+None
+17. Photograph Available?: 
+Yes - 1 exposures
+18. Action Taken:
+Notified Air Force; forwarded film
+19. Names of Witnesses:
+C.D. Weston et al
+20. Conclusions:
+Case file open, insufficient data to determine identity.

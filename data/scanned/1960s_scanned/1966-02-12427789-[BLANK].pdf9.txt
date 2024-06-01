@@ -1,0 +1,27 @@
+The image appears to be a page from a Project Blue Book document containing a navigation chart or map. The image shows a complex diagram with various routes, coordinates, and labels related to low-level flight paths and air traffic. There is no photograph visible in this image.
+
+TEXT OUTPUT:
+
+ROUTE TAR PAIL
+EFFECTIVE 22 APRIL 1952
+USAF LOW LEVEL ROUTES
+OIL BURNER
+
+VORTAC Entry
+Aircraft shall enter at the Data VORTAC (reporting point) at assigned altitudes/
+flight levels and proceed inbound to the VORNE VORTAC. At this point aircraft
+shall make a climbing turn to the outbound heading for the route as specified
+in the route structure below.
+
+Minimum Altitudes: LONG LOOK - Not below 14,000 ft MSL
+SHORT LOOK - Not below 8,000 ft MSL
+
+LONG LOOK ROUTE. After passing 37759'N 102 33'W climb to not below 23,000 ft MSL.
+Proceed outbound from target 37759'N 102 33'W to ENTRADA POINT 36 50'N 102 40'W. At
+this point descend to not below 14,000 ft MSL and continue on the route.
+
+SHORT LOOK ROUTE. After passing target 37759'N 102 33'W descend to not below
+8,000 ft MSL for not more than 15 minutes. Climb to not below 14,000 ft MSL and
+continue on the route.
+
+The hours of operation on this route are 0000 - 2359Z Mon - Sat.

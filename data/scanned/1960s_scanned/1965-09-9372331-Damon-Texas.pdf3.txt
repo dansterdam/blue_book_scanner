@@ -1,0 +1,6 @@
+The image contains a photograph of two people walking on a path. The image is grainy and black and white. Below the photograph, there are two labels: "OLD SHEEPHOLE GROVE" and "WHAT OUR CHARGE AS SEEN".
+
+Output:
+
+OLD SHEEPHOLE GROVE
+WHAT OUR CHARGE AS SEEN

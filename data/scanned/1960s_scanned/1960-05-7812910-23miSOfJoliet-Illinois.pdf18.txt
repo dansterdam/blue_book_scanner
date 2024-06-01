@@ -1,0 +1,39 @@
+The image does not contain any photographs, only text. Acting as an OCR (Optical Character Recognition) system, I will produce the output of all the text found in the document:
+
+DEPARTMENT USATHERATED STATES AIR FORCE
+CHANUTE AIR FORCE BASE, ILLINOIS
+
+SUBJECT: Meteorological Conditions at Joliet and Braidwood, Illinois (21 June 1960)
+
+TO: Whoever This May Concern
+
+1. The following meteorological conditions were observed and/or are interpolated from maps and charts for Joliet, Illinois, at 03102 1 June 1960:
+
+a. Wind direction and speed at altitudes (feet) above sea-level:
+
+Altitude   Direction   Speed
+6000          320           8
+10000         320           20
+16000         300           25
+20000         300           30
+30000         300           30
+35000         290           32
+
+b. Ceilings: None
+c. Visibility: 10 nautical miles
+d. Cloud Cover: Less than 0.5
+e. Thunderstorms: None in vicinity
+f. Temperature Gradient:
+0 to 10000': 2.25°/1000'
+10000 to 20000': 2.25°/1000' (TEMP)
+20000 to 30000': 2.15°/1000'
+30000 to 34000': 0.65°/1000'
+34000 to 40000': 0.3°/1000'
+
+2. Conditions at Braidwood, Illinois, at the same time were the same.
+
+3. According to our records there was no meteorological balloon in the vicinity of Joliet, Illinois at the time indicated. The nearest pilot balloon was released from Chanute Air Force Base, at Rantoul, Illinois, at 03102 21 June 1960, and the run was completed before 03102.
+
+LLOYD H. HARRISON
+Major, USAF
+Commander

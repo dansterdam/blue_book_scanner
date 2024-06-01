@@ -1,0 +1,31 @@
+The image provided does not contain any photographs. It appears to be a table or report from Project Blue Book, a U.S. government program that investigated unidentified flying objects (UFOs) in the 1960s. The table contains data points such as height, pressure, temperature, and other details, likely related to UFO sightings or investigations.
+
+TEXT OUTPUT:
+Proj# 5992D - STAR TREK TYPE: 00002
+SIGHTING #/37 LOCATION: East Dennis, Massachusetts
+HEIGHT PRESSURE TEMP R.H. %  DIRECTION SPEED
+FT MB  °C  °  DEGREES KNOTS
+  150  1000 14 74 230 20
+  590   950  17 12 240 25
+ 1046   900  16 23 240 20
+ 1529   850  14 23 240 14
+ 2036   800  11 33 220 20
+ 2560   750   6 35 250 20
+ 3131   700   3 34 280 16
+ 3720   640   0 30 270 18
+ 4361   600  -4 28 270 22
+ 5050   550  -9 27 270 26
+ 5774   500 -14 25 270 28
+ 6550   450 -20 26 250 40
+ 7425   400 -27 26 250 44
+ 8176   350 -34 28 260 40
+ 9017   300 -42 260 48
+10660   250 -50 250 52
+12058   175 -55 270 54
+13936   150 -59 270 45
+15059   125 -64 280 35
+16434   100 -68 270 33
+17514    50 -62 270 24
+REMARKS:
+DATA SOURCE: STAC Upper-air History Files.
+ANALYST: TSgt Dunham

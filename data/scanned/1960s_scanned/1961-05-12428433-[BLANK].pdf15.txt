@@ -1,0 +1,13 @@
+This image does not contain any photographs, only text. I will now proceed to act as an optical character recognition (OCR) system and output all the text found in the document:
+
+INFLATABLE STRUCTURES IN SPACE
+This satellite is 135 feet in diameter. The test that we were performing was for the purpose of proving that structurally it is strong enough to withstand launching pressures undamaged and remain intact when inflated in space.
+We have designed it such that it will encounter, due to the internal pressure we use to inflate it, a stress within the skin of approximately 4,000 pounds per square inch. We inflated the satellite to a pressure such as to provide this stress, and we held it there for some minutes.
+To determine the factor of safety that we have in the design, we then increased the pressure inside of the satellite until we reached the point of rupture of the satellite. We found that it ruptured essentially at a stress of 15,000 pounds per square inch. This means that the satellite is capable of withstanding a pressure four and one-half times that which will be the maximum required for inflating it in orbit.
+I have here some material of which this satellite is constructed. It has been made of a material that consists of a plastic film whose thickness is .35 mils, that is, .35 thousands of an inch thick. Into this plastic film has been embedded an aluminum foil of thickness of two-thousandths of an inch.
+This concept of a material which could be compactly folded for transport into orbit and there pneumatically erected to shape is one of our ideas that we developed in the NASA of how we can build this deployable structures.
+This illustrates one of the ways of solving the space environment problems.
+Let's consider first the problem of compactly folding and transporting into orbit.
+We can fold this satellite, which is 135 feet in diameter, into an approximately spherical container which is only about 45 inches in diameter. This, of course, means that there is about a 350 to 1 ratio of the deployed volume to the stowed volume.
+This overcomes the first problem of launching vehicles. If we have a great big object, we can not place it on top of a launching vehicle because it exceeds the available volume. This overcomes this difficulty.
+The second problem that we have to face in space, after it has been pneumatically erected, is the problem of stabilization. In the case of the Echo I satellite, which is now in orbit around the Earth, we designed it not as a rigid structure but merely as one which can maintain its shape; it will not collapse. We know this is so from our experience.

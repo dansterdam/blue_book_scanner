@@ -1,0 +1,22 @@
+The image contains a diagram or sketch depicting the motion of an object or objects. The diagram shows angles and compass directions, as well as a compass rose. There are also instructions to the observer to draw a picture that will show the motion of the object(s) and any changes in direction during the course.
+
+27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curve at the first time the object was above the horizon (skyline) when you first saw it. Place an "B" on the curve at the last time you saw the object.
+
+28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
+
+29. If there was MORE THAN ONE object, then how many were there?
+    Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+
+Text output from OCR:
+
+27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curve at the first time the object was above the horizon (skyline) when you first saw it. Place an "B" on the curve at the last time you saw the object.
+
+90°                                                           7.5°
+80°                                                            33°
+70°                                                            18°
+60°                                                            0°
+
+28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
+
+29. IF there was MORE THAN ONE object, then how many were there? 
+    Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.

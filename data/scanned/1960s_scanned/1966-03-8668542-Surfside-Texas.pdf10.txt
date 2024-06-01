@@ -1,0 +1,16 @@
+The image contains a table with various data points related to "Star Trek" sightings, including information on location, height, pressure, temperature, radar range, direction, and speed. There is no photograph or image present in this page of the document.
+
+PROJ: 5992D
+LOCATION: Surfside, Texas
+DATE: March 20, 1966
+TIME: 1200Z
+REMARKS: -
+HEIGHT FT: 186, 620, 1072, 1535, 2064, 2590, 3162, 3750, 4289, 5030, 5297, 6580, 7455, 8411, 9430, 10595, 12125, 12351, 13538, 15009, 15329, 17599
+PRESSURE MB: 1000, 950, 900, 850, 800, 750, 650, 550, 500, 450, 400, 350, 300, 250, 200, 175, 150, 125, 100, 80, 50
+TEMP C: 16, 12, 13, 14, 11, 7, 3, -2, -6, -9, -14, -20, -25, -32, -41, -51, -59, -65, -64, -66, -66, -65
+RANGE M: 90, 97, 59, 20, 26, 23, 29, 33, 13, 18, 20, 21, 23, 24, 290, 330, 330, 300, 300, 290, 290
+DIRECTION: 230, 230, 240, 250, 270, 270, 280, 310, 300, 320, 320, 320, 320, 340, 340, 340, 330, 330, 300, 300, 290, 290
+SPEED KT: 10, 13, 20, 23, 22, 22, 18, 18, 13, 22, 20, 28, 24, 26, 36, 42, 50, 48, 50, 60, 40, 24
+
+DATA SOURCE: ETAC Upper-air History Files.
+ANALYST: Capt Dunham

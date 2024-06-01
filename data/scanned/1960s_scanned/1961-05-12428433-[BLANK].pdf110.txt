@@ -1,0 +1,23 @@
+The image does not contain any photographs. The image is a table titled "Table V. - Station capability" that lists various station names and their capabilities in terms of radar, telemetry, command and control, acquisition, and ground communications.
+
+Table V. - Station capability
+Station name,Coverage/passes,Radar,Telemetry,Command control,Acquisition,Ground communications
+Canaveral,1, 2, and 3,X,X,X,X,X
+Grand Bahama,1, 2, and 3,X,X,X,X,X
+Grand Turk,1, 2, and 3,X,X,X,X,X
+Bermuda,1, 2, and 3,X,X,X,X,X
+Atlantic Ship,1 and 2,X,X,X,X,X
+Grand Canary Island,1 and 2,X,X,X,X,X
+Kano, Nigeria,1 and 2,X,X,X,X,X
+Zanzibar,1 and 2,X,X,X,X,X
+Indian Ocean ship,1, 2, and 3,X,X,X,X,X
+Muchea, Australia,1, 2, and 3,X,X,X,X,X
+Woomera, Australia,1 and 2,X,X,X,X,X
+Canton Island,1 and 2,X,X,X,X,X
+Kokee Island, Hawaii,2 and 3,X,X,X,X,X
+Point Arguello, Calif.,1 and 3,X,X,X,X,X
+Guaymas, Mexico,1, 2, and 3,X,X,X,X,X
+White Sands, N. Mex.,1, 2, and 3,X,X,X,X,X
+Corpus Christi, Tex.,1, 2, and 3,X,X,X,X,X
+Eglin, Fla.,(Inland Space Flight Center),1, 2, and 3,X,X,X,X,X
+Ground communications. Site functions: FA, fully automatic; SA, semiAutomatic; M, manual; SSB, single side band; * MPQ-31.

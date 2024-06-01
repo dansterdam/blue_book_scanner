@@ -1,0 +1,14 @@
+This page does not contain any photographs. It appears to be text-based and describes details about Project Mercury, including information about the design of the Mercury capsule, ablation materials used during reentry, and the impact attenuation skirt that was part of the capsule's design.
+
+Project Mercury
+17
+
+The decision was made, therefore, to design the Mercury capsule so that it could survive reentry without an ablation heat shield. The ablation heat sink could be fitted at a later date, with an ablation heat shield.
+
+The attenuation skirt used these flotation bags as a convenience. If ablation techniques were found to be applicable to satellite reentry, the Mercury capsule could use the same type of ablation system; if not, it could change, accept a beryllium heat sink. As a result of the Big Joe development, high tests for separation analysis and subsequent analysis of results, a firm decision to go ahead with the use of an ablation heat shield was reached. The recovered Big Joe test item, including the forward heat sinks, were designated for use in Redstone ballistic flights.
+
+The Big Joe flight test data show was specifically high affected heating under the most critical reentry conditions. Although undesirable conditions had been noticed on the attenuated heating problem, none had been able to duplicate fully the actual full-scale conditions and thus, it was found that the analysis might be higher than the actual full-scale conditions. The thickness of the external skin on the vehicle apparently has been increased, and the construction of the cylindrical part of the attenuated part of the affected area has been changed to beryllium plate in place of the formerly used fiberglass.
+
+It was found that the impact load sustained during a landing on the ground, such as would occur in an off-the-pad abort, could exceed human tolerance limits under certain wind conditions. Therefore, the installation of a crushable structure was required on the MR-3 capsule to reduce this peak acceleration. This crushable structure takes the form of a collapsible skirt which is located between the heat shield and the ground structure. At the time of parachute deployment, the heat shield is disconnected from the capsule and suspended about 4 feet below the capsule. With the heat shield so suspended, the volume between the heat shield and the capsule structure is filled with a crushable material which acts as a pneumatic shock absorber. Some strengthening of the capsule lower bulk head structure was necessary to withstand the loads transmitted by the skirt upon landing impact. Strain measurements have indicated that the installation will be adequate to protect the human occupants.
+
+The installation of the impact attenuation skirt allowed removal of four inflatable flotation bags which were located in the upper section of the capsule. These bags were to be inflated on impact and were not required with the improved shock absorber.

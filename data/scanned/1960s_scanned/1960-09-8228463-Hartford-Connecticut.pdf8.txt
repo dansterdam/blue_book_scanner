@@ -1,0 +1,11 @@
+The image provided does not contain any photographs. It shows a "MEMO ROUTING SLIP" form with various fields filled in, including the location "ATIC, WRIGHT-PATTERSON AFB, OHIO" and information about a "Preliminary report on UFO sighting by [redacted], copy of the preliminary report enclosed".
+
+Text Output:
+
+MEMO ROUTING SLIP
+
+TO: ATIC, WRIGHT-PATTERSON AFB, OHIO                   ROUTE TO:
+ATTN: BLUE BOOK                                        INFORMATION
+FROM:                                                  NECESSARY
+                                                       ACTION
+REMARKS: Preliminary report on UFO sighting by [redacted], copy of the preliminary report enclosed.

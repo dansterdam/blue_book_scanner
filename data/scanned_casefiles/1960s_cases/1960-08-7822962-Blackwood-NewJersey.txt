@@ -1,0 +1,50 @@
+There is no photograph present in the image. The image shows a page from an old UFO report document from Project Blue Book, containing a Project 10073 Record Card with various fields filled out, including date, location, type of observation, source, duration, number of objects, and conclusions.
+
+PROJECT 10073 RECORD CARD
+1. DATE: 29 August 1950
+2. LOCATION: Blackwood, New Jersey
+3. DATE-TIME GROUP: 2245
+4. TYPE OF OBSERVATION: Ground-Radar
+5. SOURCE: Civilian
+6. DURATION: 5 minutes
+7. NUMBER OF OBJECTS: 1
+9. COURSE: N/A
+10. CONCLUSIONS: Insufficient data for analysis.
+
+- page 1 -
+
+There is no photograph present in this image. The image shows a page from an old document, likely a Project Blue Book report, containing typed text with certain portions redacted or blacked out.
+
+PLEASE READ AS FOLLOWS
+
+Dear 7-22-62,
+This report, which came to our attention in connection with a recent investigation of a case of unidentified flying object, is forwarded for your consideration. The material appears to be of considerable interest and importance and we would appreciate your examination of it and an expression of your views as to its significance and corroborative value, if any, and the advisability of further investigation.
+PLEASE ACKNOWLEDGE RECEIPT AT ONCE
+
+- page 2 -
+
+The image does not contain any photographs. It appears to be a typed letter on official stationery.
+
+Text output:
+
+Dear Mr. _______,
+
+This is to acknowledge your undated letter in which you reported the sighting of an unidentified flying object. 
+
+Your letter contained insufficient information for a valid investigation. Therefore, I am filling out the attached questionnaire and forward the completed document to the Aeropsace Technical Intelligence Center for their evaluation and analysis.
+
+Sincerely,
+
+LAWRENCE J. TACKER
+Lt. Colonel, USAF
+Public Information Division 
+Office of Information
+
+Mrs. _________
+Blackwood, New Jersey
+
+Somebook OI-34
+Reader OI-1
+
+- page 3 -
+

@@ -1,0 +1,13 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book report, which is an archive of UFO reports and investigations conducted by the United States Air Force. The image shows a table of contents or index with various categories of information, including "Reports", "Satellite Tracking Data", "Map", "News Clippings", "Investigative Data", and "Wind Information".
+
+TEXT OUTPUT:
+
+TAB ITEM
+RIGHT SIDE
+A REPORTS
+B SATELLITE TRACKING DATA
+C MAP
+D NEWS CLIPPINGS
+LEFT SIDE
+A INVESTIGATIVE DATA
+B WIND INFORMATION

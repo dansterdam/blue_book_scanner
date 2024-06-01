@@ -1,0 +1,15 @@
+The image does not contain any photographs. It appears to be a page from a document titled "Project Mercury" that describes various tracking stations and their functions for the Mercury project.
+
+PROJECT MERCURY
+(4) If the flight is not normal, the impact point will be computed for use by the search and recovery group. A fleet station, which must provide nor-mal tracking and telemetry, must provide continuous passes. The station must also transmit commands to reset the re-firing timer as directed by the control center. In the event of an emergency landing at the end of the first or second passage, tracking and computation of the landing point are required.
+(5) Atlantic ship: This station will provide telemetry and voice communications coverage in the area of the mid-Atlantic on all three passages.
+The equipment required for this station will be placed aboard a Gov-ernment C-54 M-AVI ship.
+(6) Grand Canary Island: This station will provide normal tracking and telemetry data coverage for the first and second passes in the general area of northwest Africa. In the event the mission points the station is unable to track the spacecraft, this station will provide backup telemetry data on landing location directly to the local recovery team.
+(7) Kano, Nigeria: This station will provide normal telemetry and voice communications coverage on passes 1 and 2 in the general area of A
+(7) Zanzibar: This station will provide normal telemetry and voice communications coverage on passes 1 and 2 in the general area of
+(8) Indian Ocean ship: This station will provide telemetry and voice communications coverage in the area of the mid-Indian Ocean on all three passages. The equipment required for this station will be placed on board a Government C-54 M-AVI ship.
+(9) Muchea, Australia: This station will provide tracking, telemetry, and voice communications coverage on all three passages with the acquisition of the spacecraft on the first passage and the tracking data obtained at this point in the orbit, which is approximately 1500 from the point where insertion data are provided, will lead to the most accurate orbit determination.
+If an emergency landing at the end of the first orbit, the Australian station will be instructed from the control center to supply commands to the capsule for retrorocket firing and parachute deployment.
+(2) Woomera: The Woomera location will provide C-band tracking, telemetry, and voice communication coverage on orbits one and two. The NAOTI will make arrangements with the Weapons Research Establishment of Australia for use of an FPS-16 radar and related equipment.
+(3) Kano Island, Hawaii: The function of this station is to provide tracking, telemetry, and voice communications on passes two and three, and to transmit commands as required. This station also maintains voice communications with the control center.
+(4) Point Arguello, Calif.: The function of this station is to provide tracking, telemetry, and voice communication coverage for passes one and two as required.

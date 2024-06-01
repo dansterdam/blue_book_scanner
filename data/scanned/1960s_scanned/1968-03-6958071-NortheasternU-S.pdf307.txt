@@ -1,0 +1,27 @@
+The image does not contain a photograph, but rather a page from an old UFO report document from Project Blue Book. The document appears to be titled "OF THE WEATHER" and contains various meteorological information and symbols related to weather patterns and phenomena.
+
+Performing OCR on the text in the document:
+
+OF THE WEATHER
+The boundary of any clouding affecting the weather may be indicated by a distinct line of demarcation in the sky. This boundary may be well defined and show abrupt changes in cloud formation. Frequently, however, the boundary is not well defined, and the change from one type of cloud to another is gradual. When this is the case, the boundary zone must be described rather than an exact line. The boundary of the clouding may be observed at the ground as well as in the sky. The clouds often show marked differences in thickness, density, and texture on opposite sides of the boundary. Surfaces fronts are drawn to indicate these differences.
+
+DESCRIPTION
+I - Scattered - up to 2/10 sky covered. 
+2 - Scattered - 3 to 4/10 sky covered. 
+3 - Broken - 5 to 7/10 sky covered.
+4 - Broken - 8 to 9/10 sky covered.
+5 - Overcast - 10/10 sky covered.
+6 - Partial obscuration - partially obscured.
+7 - Sky obscured - totally obscured.
+8 - Indefinite ceiling - ceiling not definite.
+9 - Sky clear of clouds - no cloud coverage.
+
+AUXILIARY
+TEMPERATURES: As measured in degrees fahrenheit
+-20 and below = Extreme
+-5 to -20 = Very low 
+above -5 to 32 = Low
+32 to 50 = Moderate
+50 to 70 = High
+70 to 90 = Very high
+90 and above = Extreme

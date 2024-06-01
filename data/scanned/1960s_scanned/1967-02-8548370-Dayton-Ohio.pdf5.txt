@@ -1,0 +1,23 @@
+The image does not contain any photograph. It appears to be a page from an old U.S. Air Force technical information questionnaire regarding an unidentified aerial phenomenon.
+
+U.S. AIR FORCE TECHNICAL INFORMATION
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you provide will be treated in confidence and will not be released in part or as a whole without your permission. We request this personal information so that if it is deemed necessary, we may contact you for further details.
+1. When did you see the object? 02 - 03 - 67
+2. Time of day: 3:25 A.M. 25 minutes
+3. Time Zone: (Circle One): a. Eastern b. Central c. Mountain d. Pacific e. Other
+4. Where were you when you saw the object? Dayton, Ohio
+5. How long was object in sight? (Total Duration) 5 minutes 0 seconds
+6. What was the condition of the sky? a. DAY: Clear b. NIGHT: a. Bright b. Cloudy
+7. If you saw the object during DAYLIGHT, where was the SUN located as you looked at the object? (Circle One): a. In front of you b. Behind you c. To your left d. To your right e. Don't remember
+
+Output the text found in the document:
+
+U.S. AIR FORCE TECHNICAL INFORMATION
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you provide will be treated in confidence and will not be released in part or as a whole without your permission. We request this personal information so that if it is deemed necessary, we may contact you for further details.
+1. When did you see the object? 02 - 03 - 67
+2. Time of day: 3:25 A.M. 25 minutes
+3. Time Zone: (Circle One): a. Eastern b. Central c. Mountain d. Pacific e. Other
+4. Where were you when you saw the object? Dayton, Ohio
+5. How long was object in sight? (Total Duration) 5 minutes 0 seconds
+6. What was the condition of the sky? a. DAY: Clear b. NIGHT: a. Bright b. Cloudy
+7. If you saw the object during DAYLIGHT, where was the SUN located as you looked at the object? (Circle One): a. In front of you b. Behind you c. To your left d. To your right e. Don't remember
