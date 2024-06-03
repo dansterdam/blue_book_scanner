@@ -1,0 +1,8 @@
+The image contains a compass-like diagram and two sketches. The compass-like diagram appears to be an illustration for determining the direction of a phenomenon when first observed. The two sketches depict a side view of a person's perspective and a close-up view of the horizon.
+
+APR 20-17(CI)
+
+IN THE SKETCH BELOW, PLACE AN 'X' AT THE POSITION OF THE PHENOMENON WHEN FIRST SEEN, AND A 'C' AT THE POSITION OF THE OBSERVER. THE DIRECTION OF THE PHENOMENON IS INDICATED BY THE DIRECTION TO THE 'X' FROM THE 'C'.
+
+TEXT OUTPUT:
+IN THE SKETCH BELOW, PLACE AN 'X' AT THE POSITION OF THE PHENOMENON WHEN FIRST SEEN, AND A 'C' AT THE POSITION OF THE OBSERVER. THE DIRECTION OF THE PHENOMENON IS INDICATED BY THE DIRECTION TO THE 'X' FROM THE 'C'.

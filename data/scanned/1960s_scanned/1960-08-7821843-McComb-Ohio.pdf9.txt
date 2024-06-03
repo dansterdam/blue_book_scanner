@@ -1,0 +1,9 @@
+The image contains three sketches. The first sketch is of a curved line representing the horizon, with an object above it. The instructions ask the viewer to imagine the object is above the horizon and to depict how high it appears to be.
+
+The second and third sketches depict the viewer's perspective when they first saw the object ("A") and a later position ("B") where the object appeared smaller.
+
+As an OCR system, I will now extract all the text from the document:
+
+32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
+
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to similar sketch as an example of how to complete the larger sketch.

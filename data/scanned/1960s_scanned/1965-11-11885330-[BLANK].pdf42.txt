@@ -1,0 +1,9 @@
+There is no photograph present in this image. This appears to be a page from a technical document or report related to Project Blue Book, a United States Air Force project that investigated unidentified flying objects (UFOs).
+
+The text in the document discusses the following:
+
+This result is valid up to moments at which the sagittra measurement error comparable to the false sagittra from Coulomb scattering, so it would be reasonable to choose Z to give approximately equal measurement and Coulomb errors at the higher useful moments.
+
+Wide-Gap Spark Chambers: The wide-gap spark chamber, or "discharge chamber", recently developed by Alikhanian and his collaborators, triggered by a pulse from the Gerenkov trigger, completes the experimental train in the balloon load. This type of spark chamber appears to be able to provide spatial resolution comparable to that of a hydrogen bubble chamber.
+
+Spark chambers of this type have been built by Strauch at Harvard, and their performance is excellent in all respects. His chambers have the form shown in Figure 4. They are sensitive for 5 μ sec and require no clearing field. The pulser is a Marx generator using 15 standard "color television capacitors" charged in parallel to 450 kV and discharged by spark gaps in series at 450 kV. The light intensity is high enough for photography at f/4.5, so a good depth of focus can be obtained. Strauch advises taking two photographs, one at f/4.5 and another at f/1.2, on the chance that fainter tracks may also be present. He shows pictures with about 20 tracks of good quality in the chamber simultaneously. Tracks can branch, as shown in the left-hand side of Figure 4. He compared the measured momentum of cosmic-ray particles in the upper and lower halves of a 32-inch high-double chamber and found the RMS deviation at 1 BeV/c to be about 1.4% in a 15-kG magnetic field.

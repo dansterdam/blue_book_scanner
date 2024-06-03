@@ -1,0 +1,95 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book UFO report document with various questions and checkboxes.
+
+20. Do you think you can estimate the speed of the object? 
+(Circle One) Yes No
+IF you answered YES, then what speed would you estimate? _______________
+
+21. Do you think you can estimate how far away from you the object was?
+(Circle One) Yes No
+IF you answered YES, then how far away would you say it was? _____________
+
+22. Where were you located when you saw the object?
+(Circle One)
+a. Inside a building
+b. In a car
+c. Outdoors
+d. In an airplane (type) ___________
+e. Other _________
+
+23. Were you (Circle One)
+a. In the residential section of a city?
+b. In open country?
+c. Near an airfield?
+d. Flying over a city? 
+e. Flying over open country?
+f. Other _____________
+
+24.1 What direction were you moving? (Circle One)
+a. North
+b. Northeast
+c. East
+d. Southeast
+e. South
+f. Southwest
+g. West
+h. Northwest
+
+24.2 How fast were you moving? _________ miles per hour.
+24.3 Did you stop at any time while you were looking at the object?
+(Circle One) Yes No
+
+25. Did you observe the object through any of the following?
+a. Eyeglasses Yes No
+b. Sun glasses Yes No
+c. Telescope Yes No
+d. Window glass Yes No
+
+26. In order that you can give us a clear a picture as possible of what you saw, describe in your own words the object or objects which were picked up in this sky, would give the same appearance as the object?
+
+TEXT OUTPUT:
+
+20. Do you think you can estimate the speed of the object? 
+(Circle One) Yes No
+IF you answered YES, then what speed would you estimate? _______________
+
+21. Do you think you can estimate how far away from you the object was? 
+(Circle One) Yes No
+IF you answered YES, then how far away would you say it was? _____________
+
+22. Where were you located when you saw the object?
+(Circle One)
+a. Inside a building
+b. In a car
+c. Outdoors
+d. In an airplane (type) ___________
+e. Other _________
+
+23. Were you (Circle One)
+a. In the residential section of a city?
+b. In open country?
+c. Near an airfield?
+d. Flying over a city?
+e. Flying over open country? 
+f. Other _____________
+
+24.1 What direction were you moving? (Circle One)
+a. North
+b. Northeast 
+c. East
+d. Southeast
+e. South
+f. Southwest
+g. West
+h. Northwest
+
+24.2 How fast were you moving? _________ miles per hour.
+24.3 Did you stop at any time while you were looking at the object?
+(Circle One) Yes No
+
+25. Did you observe the object through any of the following?
+a. Eyeglasses Yes No
+b. Sun glasses Yes No 
+c. Telescope Yes No
+d. Window glass Yes No
+
+26. In order that you can give us a clear a picture as possible of what you saw, describe in your own words the object or objects which were picked up in this sky, would give the same appearance as the object?

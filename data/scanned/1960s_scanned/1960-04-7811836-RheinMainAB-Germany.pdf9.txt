@@ -1,0 +1,27 @@
+The image does not contain any photographs. It appears to be a page from an old Project Blue Book report, specifically from the document "1960-04-7811836-RheinMainAB-Germany.pdf9.txt".
+
+The text in the document is as follows:
+
+STUTTGART 46
+AERODROME        AIDS TO NAVIGATION        A/G VOICE             TOWERS                     H.L.L.
+DESCRIPTION
+NAME           FREQ   CALL  W/T A/T FREQ  GROUND CALL         FEED GROUND  CALL         FEED GROUND              REMARKS
+                CHAN
+RHEiNMAIN
+                403      453       483 453      LOW      27     A2     099 04              1159                OK. 25 miles to Cape Town.
+HOHN
+                809     C         825 475      HJ      327     A2      APC                 1257-1305, 1357-1401
+OBERURSEL
+                820 FEAT         840 C1       GY      319     A2      APC                  S/T Radio:  830.0-830.5
+MEMMINGEN
+                852 LVA          869 RT      GX      319     A2     9380    APC              
+LANDSBERG
+                    CSF      962 463      418       42      A2       A35    APC              1258-1305, 1358-1403  Pilot
+MUNICH
+                 930      FAH  949 421     GY       42     A2      APC                       S/T Radio: 930.0-930.5
+WIESBADEN
+                1080 CFAG       1095 MSA     VICTOR    42     A2      APC                   1252-1300, 1352-1400
+STUTTGART
+                1179  C          1237 V264      VF       42    A2     APC                     Q. NY 100-200 kts. H 8000 ft.
+KARLSRUHE
+                1155 CRAF        1130 ST       GZ        42    A2      APC                   1233-1240,1333-1340

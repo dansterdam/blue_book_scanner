@@ -1,0 +1,23 @@
+The image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book, describing an unidentified object in the sky that was observed by residents in Meriden, Connecticut.
+
+Residents See
+Unidentified
+Object in Sky
+
+An unidentified object, described by viewers in Meriden as a "satellite, but moving in an erratic course," was reported yesterday by Donald Blakeslee, 19, an astronomy major at Wesleyan College, said he was called in to observe the object by George F. Baxter, 18, of 9 Grove Street; Richard Wright, 16, and John Addich, 17, all of this area. 
+
+Blakeslee said the object, which appeared to be traveling from northwest to northeast, "was too slow to be a satellite, and seemed to stop completely for a short while, and then speed up again." 
+
+The strange, moving light, in addition to the youths' mentioning, was also observed by Mrs. Dorothy Blakeslee, Donald's father, and by Donald's brother Keith.
+
+Text Output:
+
+Residents See
+Unidentified
+Object in Sky
+
+An unidentified object, described by viewers in Meriden as a "satellite, but moving in an erratic course," was reported yesterday by Donald Blakeslee, 19, an astronomy major at Wesleyan College, said he was called in to observe the object by George F. Baxter, 18, of 9 Grove Street; Richard Wright, 16, and John Addich, 17, all of this area. 
+
+Blakeslee said the object, which appeared to be traveling from northwest to northeast, "was too slow to be a satellite, and seemed to stop completely for a short while, and then speed up again."
+
+The strange, moving light, in addition to the youths' mentioning, was also observed by Mrs. Dorothy Blakeslee, Donald's father, and by Donald's brother Keith.

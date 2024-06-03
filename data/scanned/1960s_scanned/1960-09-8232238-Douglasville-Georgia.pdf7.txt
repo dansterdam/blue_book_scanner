@@ -1,0 +1,33 @@
+The image does not contain any photographs, only text. I will proceed to act as an OCR system and output the text found in the document.
+
+(2) Ceiling: Clear
+(3) Visibility: 15 miles
+(4) Amount cloud cover: None
+(5) Thunderstorms: None 
+(6) Temperature gradient: 83 deg
+(7) Vertical lapse rate: 1.1
+
+d. 2 October 1960
+(1) Winds: Surface 6,000 240 deg 5 kts
+  9,000 230 deg 10 kts
+ 16,000 290 deg 15 kts
+ 20,000 260 deg 20 kts
+ 30,000 270 deg 25 kts
+ 50,000 250 deg 30 kts
+(2) Ceiling: Clear
+(3) Visibility: 15 miles
+(4) Amount cloud cover: None
+(5) Thunderstorms: None
+(6) Temperature gradient: 83 deg
+(7) Vertical lapse rate: 1.0
+
+e. 10 October 1960
+(1) Winds: Surface 6,000 270 deg Not available
+  9,000 " " "
+ 16,000 " " "
+ 20,000 " " "
+ 30,000 " " "
+ 50,000 " " "
+(2) Ceiling: 7,000 feet
+(3) Visibility: 10 miles
+(4) Amount cloud cover: 8/10

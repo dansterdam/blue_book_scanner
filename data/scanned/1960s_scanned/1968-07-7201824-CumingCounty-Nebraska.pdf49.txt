@@ -1,0 +1,18 @@
+The image does not contain any photographs. It appears to be a table with observation data from Project Blue Book, specifically a "SURFACE OBSERVATION DATA SHEET" from Cincinnati, Ohio on May 31, 1968 and Cuming County, Nebraska on July 28, 1968.
+
+Here is the text output from the document:
+
+SURFACE OBSERVATION DATA SHEET
+Cincinnati, Ohio - May 31, 1968
+20000 71205 55051 17020 00908 11607
+21500 59954 55757 15747 ****** 11884
+23000 31661 66603* 17315 ****** 10395
+24000 30024 66603* 17011 ****** 10188
+
+Cuming County, Nebraska - July 28, 1968
+1200L 61518 71052 17727 55770 13530 92326
+1230L 71830 71052 15857 ****** 13352 92310
+1300L 61923 69093* 13558 ****** 11484 92315 
+1330L 61832 69093* 13659 ****** 17737 92310
+
+ATIC Surface History Files

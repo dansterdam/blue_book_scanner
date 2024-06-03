@@ -1,0 +1,17 @@
+There is no photograph present in this image. The image appears to be a page from an old weather observation report document, containing various meteorological data and measurements.
+
+WEATHER OBSERVATIONS 
+for use at designated FAA stations
+DATE 6.26.63
+
+REMARKS AND SUPPLEMENTAL CODED DATA
+STATION        SLP  AMT LWR CLD HT  TEMP  DEW PT  WIND
+27920         29.920   -     -    75   62    210
+28120         29.860   -     -    76   60    200   
+28520         29.800   -     -    76   59    220
+28620         29.720   -     -    77   59    210
+028 FEB NC 140971    29.720    2    2    75   60    180
+010              49.7/2   2    2    69   62    180
+011             49.7/6   2    2    68   62    180
+...
+(remaining lines containing various weather data and measurements)

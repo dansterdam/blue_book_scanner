@@ -1,0 +1,9 @@
+The image contains a geometric diagram with labeled lines and angles. There does not appear to be any photograph present in this document.
+
+Given: side "b" = 91.6355 miles 
+side "a" and side "b" and side "c" (1.269)
+b = 91.6355 miles
+c = 116.94 miles
+a = b sin A
+e = b sin A
+a = 71.754 miles

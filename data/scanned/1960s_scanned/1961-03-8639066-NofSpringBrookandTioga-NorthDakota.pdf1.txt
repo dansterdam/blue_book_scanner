@@ -1,0 +1,23 @@
+The image does not contain any photograph. It appears to be a page from an old Project Blue Book record card.
+
+PROJECT 10073 RECORD CARD
+1. DATE 5-22-50
+2. DATE-TIME GROUP 0502502
+3. LOCATION Spring Brook and Tioga, North Dakota
+4. TYPE OF SIGHTING D Ground-Radar
+5. DURATION 15-20 MIN
+6. WITNESSES 0 Air-Visual D Ground-Radar
+7. LENGTH OF OBSERVATION Civilian and Military
+10. BRIEF SUMMARY The object was probably Venusp because of description and was in direction as settling of pld vxXX. was glowing white circular object. Appeared on Horizon in NE and disappeared to NW. Observed by 15-20 min.
+
+The output of the OCR system is as follows:
+
+PROJECT 10073 RECORD CARD
+1. DATE 5-22-50  
+2. DATE-TIME GROUP 0502502
+3. LOCATION Spring Brook and Tioga, North Dakota
+4. TYPE OF SIGHTING D Ground-Radar 
+5. DURATION 15-20 MIN
+6. WITNESSES 0 Air-Visual D Ground-Radar
+7. LENGTH OF OBSERVATION Civilian and Military
+10. BRIEF SUMMARY The object was probably Venusp because of description and was in direction as settling of pld vxXX. was glowing white circular object. Appeared on Horizon in NE and disappeared to NW. Observed by 15-20 min.

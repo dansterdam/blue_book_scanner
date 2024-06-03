@@ -1,0 +1,13 @@
+The image does not contain any photographs, only text. I will now act as an OCR system and produce the text found in the document:
+
+APPENDIX I
+CALCULATIONS BY GINDILIN*
+The possibilities of communication with other civilizations depend upon the distances between them. This distance in turn is a function of the size of the universe and the number of civilizations in it.
+Restricting himself to our own galaxy, Gindilin (1965) attempts to calculate the number of civilizations existing in time with our own. The following equation is used:
+Ne = Nk1k2p1p2f(tc)
+(1)
+Where Ne = number of civilizations in our galaxy coexisting in time with our own.
+N = total number of stars in our galaxy.
+k1 = factor that specifies the number of planetary systems (therefore, Nk1 is the number of planetary systems in the galaxy).
+* "The Possibilities of Communication with Extraterrestrial Civilizations," by L. M. Gindilin. Foreign Technology Division translation number FTD-HT-66-517/1+2+4 dated 27 September 1966.
+43

@@ -1,0 +1,12 @@
+The image does not contain any photograph. It appears to be a scanned page from an old document or report, possibly related to Project Blue Book, which was a United States Air Force program to study unidentified flying objects (UFOs).
+
+The text in the document is as follows:
+
+temperature drops to about 230° K, the radiation loads decrease to 30% of the 300° K value and the conduction loads to about 75%. The heat loads consist of radiation from the warm walls, support conduction, and conduction along electrical leads. All of these can be effectively counterflow heat-exchanged with the boiloff of hydrogen, and in particular helium.
+
+The winding support structure of the magnets also acts as a heat exchanger with liquid helium circulation in imbedded copper tubes fed by gravity from a 27 liter storage vessel near the upper magnet. This supply is adequate for a 24-hour flight, including ascension time. All liquid vessels are pressurized to 1 atm absolute to keep the latent heat of vaporization high in the low ambient pressure of the stratosphere and are provided with surge barriers to prevent liquid loss from possible sudden deceleration during ascension. Hydrogen venting is done at a point well removed from the vehicle, and provision is made to jettison the target contents before landing. The total LH2 enthalpy to 273° K is about 400 MJ, so the most energetically economical thing will be to pressurize the target and eject liquid directly, though this procedure, as well as the whole hydrogen transport problem, deserves careful study.
+
+F. Developmental and Operational Support
+Having completed our discussion of the specific elements of the experiment and the vehicle design, we will turn now to examine briefly a few relevant areas that have to do with the development and operation of the experiment. Beyond noting that detailed problems relating to the operational support of the working experiment exist and have practicable solutions, we will confine our attention to the development program and those areas affecting it.
+
+The experiment will be operational in two years. In order to achieve this, we will focus our attention on the following:

@@ -1,0 +1,36 @@
+There is no photograph present in this image. The image appears to be a page from a document or report about proton-proton interactions in the energy range above 100 BeV (Billion electron volts). The text describes an experiment and its physical arrangement, but does not contain any visual imagery.
+
+The text output from the OCR system is as follows:
+
+of proton-proton interactions in the energy range above 100 BeV.
+
+In concept this experiment is a return to a rich and abandoned lode 
+with the new tools of the past decade. These new developments offer a refinement in precision in comparison to traditional cosmic-ray experiments which 
+will make possible more detailed studies in and beyond the energy range now
+planned for exploitation with accelerators to be built in the next decade. In 
+this context the experiment can reveal the gross features of the high-energy
+physics of the immediate future and, at the same time, perhaps provide helpful 
+guideline to the design of the machines being planned. In a broader context
+the realization of this experiment will form a basis of technique and experience
+for the further practicable exploration into regions of even higher energy.
+
+The initial cost (see Appendix I) of the proposed program is small in 
+comparison to that of the currently-known method of artificially producing high-
+energy-proton beams or, even, of studying proton-proton interactions at very 
+high energies with storage rings. (2) Its projected operating costs, in terms
+of "dollars per event measured", are of the same order as those of present
+practice at lower energies.
+
+III. Physical Description of the Experiment
+
+Before discussing what kinds of experiment might be done at high 
+altitudes, let us first examine, in a general way, the proposed arrangement
+of the experiment, and then take stock of what is available in the upper atmos-
+phere for an experiment.
+
+A. Experimental Arrangement
+
+A system which fulfills the criteria of the previous section is 
+shown schematically in Figure 1. It may be divided functionally into two parts. 
+The "beam" portion utilizes the Cerenkov threshold effect in gas at 
+low pressure to detect the passage of a proton of energy greater than 100 BeV.

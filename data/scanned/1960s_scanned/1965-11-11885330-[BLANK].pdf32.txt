@@ -1,0 +1,34 @@
+The image does not contain any photographs. It appears to be a scanned page from a report or document, possibly from Project Blue Book.
+
+The text produced by the OCR (Optical Character Recognition) system is as follows:
+
+that serve as the signature of an interaction. (4)
+3. The target particle is unknown.
+4. Statistics are low.
+
+The experimental techniques outlined in this proposal largely over-
+come all of these deficiencies. The next closest present solution to these dif-
+ficulties is the work of the Russian group at Pamix cosmic ray station done
+with cloud chambers and total absorption proportional counters on a 3900 meter
+mountain. (9) Even these experiments have about a 30% error for the energy of
+an incident particle and a rate of 4 x 10^-4 events per minute with a LiH target
+at 10 interaction length. We expect a four order-of-magnitude increase over
+this in our experiment using the .25 interaction length hydrogen target.
+
+The energy region we propose to study is of particular interest.
+Above 1,000 BeV, the production of secondary particles can be described
+phenomenologically by the reaction:
+
+N1 + N2 → N1' + N2' + F1 + F2
+
+where N1 and N2 are the original nucleons and F1 and F2 are "fireballs" or
+clusters of mesons which trail behind the final nucleons, N1' and N2'. The
+fireballs are considered to break up isotropically in their center of mass. (10)
+In this model, anisotropic secondary emission can be explained in terms of
+one fireball being weak or absent. The interesting thing about the energy
+dependence is that below 1,000 BeV, the fireballs appear to separate so
+slowly that they can interact with each other or form a "dumb-bell"-shaped
+fireball. Both the distinct fireballs and the fused fireballs could be studied
+with the proposed experimental techniques. Although the fireball model is
+pure phenomenology, there are several other theories on a more sound theoretical footing which, under the proper assumptions, are believed to reproduce
+the general predictions of the fireball model. (11) The fireball model describes

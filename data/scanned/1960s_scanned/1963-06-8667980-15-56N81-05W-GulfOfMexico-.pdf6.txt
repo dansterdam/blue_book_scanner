@@ -1,0 +1,40 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book document, containing tabular data and text.
+
+Here is the text from the document:
+
+SATELLITE 1960 DATA 1
+
+LATITUDE      LONGITUDE                 
+-------- ---- -------- ---- ---- ---- ---- ---- ---- ---- ---- ----
+15 51.1  N  81 05.0  W  GULF OF MEXICO JUNE 8, 1963
+
+SATELLITE 1960 DATA 1
+
+   DATE      MAX ALT      MAX ALT      TIME OF   DURATION   APOGEE   PERIGEE   INCLINATION
+MM DD YY     KM-MSL      FT-MSL        MAX ALT     MIN      KM       KM       DEGREES
+-------- ------------ ------------ ---------- --------- ------- --------- -----------
+ 1 29 63    254.0       833.3        17 55      0 35 44  256.4    251.5    28.9
+ 1 30 63    270.2       887.1        17 02      0 17 47  271.0    269.4    28.9
+ 1 31 63    273.2       897.0        17 52      0 16 02  274.9    271.4    28.9
+ 2  1 63    278.2       912.5        17 57      0 24 10  280.4    275.9    28.9
+ 2  2 63    283.2       928.7        17 53      0 18 26  284.8    281.5    28.8
+ 2  3 63    276.1       905.8        17 53      0 16 11  277.7    274.5    28.8
+ 2  4 63    282.0       925.3        17 24      0 17 31  283.7    280.3    28.8
+ 2  5 63    288.3       945.3        18 01      0 15 02  289.9    286.6    28.8
+ 2  6 63    292.5       959.1        18 04      0 15 16  294.1    290.8    28.8
+ 2  7 63    292.8       960.2        17 37      0 18 09  295.0    290.5    28.8
+ 2  8 63    288.6       946.6        17 59      0 15 56  290.2    286.9    28.8
+
+RESULTS OF SATELLITE 1960 ORBIT 1 DETERMINATIONS
+
+AVERAGE DAILY MOTION                 13.065 DEGREES   
+ECCENTRICITY                         0.0092
+PERIOD                               95.65 MINUTES
+APOGEE ALTITUDE                      280.4 KM
+PERIGEE ALTITUDE                     251.5 KM
+INCLINATION                          28.9 DEGREES
+
+SATELLITE 1960 ORBIT 1 EPHEMERIS FOR CYCLE NO. 1
+WAS INITIATED ON JANUARY 29, 1963.
+
+SATELLITE 1960 DATA 1, JUNE 8, 1963

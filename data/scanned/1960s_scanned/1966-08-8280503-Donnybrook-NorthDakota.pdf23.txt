@@ -1,0 +1,32 @@
+The image does not contain a photograph, but rather a table with various data entries related to a UFO report. The table includes information such as the Project number, Location, Date, Height, Pressure, Temperature, Radial Speed, Direction, and Speed.
+
+Text from the document:
+
+PROJ: 5922D - STAR TREK
+LOCATION: DONNYBROOK, NORTH DAKOTA
+HEIGHT PRESSURE TEMP R.S. DIR. SPEED DATE: August 20, 1966
+1240 950 19 58 310 14
+1054 930 14 55 340 14
+1336 850 10 71 130 10
+2037 800 6 82 140 10
+2650 720 4 72 140 10
+3121 720 3 68 310 2
+3720 633 2 22 200 18
+4356 602 25 28 240 8
+5040 550 -7 49 140 6
+5707 525 -12 59 250 24
+6370 450 -17 52 270 34
+7460 350 -23 45 270 50
+8127 350 -30 45 260 50
+9382 325 -39 42 260 60
+12134 242 -49 36 250 70
+12187 200 -52 260 68
+13131 172 -50 270 68
+14436 159 -53 260 64
+14219 125 -56 260 46
+14641 100 -56 260 26
+18020 80 -54 260 12
+21032 50 -32 240 6
+Remarks:
+Data Source: ETAC Under Mr.Hacker Files.
+Analyst: T. Durham

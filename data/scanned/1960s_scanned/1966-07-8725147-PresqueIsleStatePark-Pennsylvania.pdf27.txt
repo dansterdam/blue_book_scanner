@@ -1,0 +1,43 @@
+There is no photograph present in this image. The image appears to be a map or diagram of the Lake Erie area, with various labeled features such as picnic areas, rest rooms, water, telephone, parking, pay lockers, dressing rooms, and gasoline.
+
+LAKE ERIE
+P=Food
+P1=Picnic Area
+R=Rest Rooms
+V=Water
+T=Telephone
+A=Parking
+L=Pay Lockers
+D=Dressing Rooms
+G=Gasoline
+
+BEACHES
+B-1 - L,R,M,A
+B-2 - F,P,R,M,A
+B-3 - A
+B-4 - A
+B-5 - F,P,R,M,T,A,L,D
+B-6 - F,P,R,M,T,A,L,D
+B-7 - F,P,R,M,T,A,L,D
+B-8 - F,P,R,M,A
+B-9 - A,F,W,R,P
+B-10 - F,P,R,M,T,A,L,D
+B-11 - F,P,R,M,T,A,L,D
+
+LEGEND
+1. First Aid (ARC)
+2. West Boat Livery
+3. Lilly Pond
+4. Park Office
+5. Police
+6. Play Green
+7. Niagara Ramp
+8. Cabins
+9. Cookhouse
+10. Ferry
+11. Menine
+12. Marina
+13. Lighthouse
+14. Pine Tree
+15. Thompson
+16. Coast Guard

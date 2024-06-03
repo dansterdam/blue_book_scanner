@@ -1,0 +1,28 @@
+This page does not contain any photographs or images. It appears to be a typed document describing examples of ground radiotelegraph transmissions.
+
+Example of an ground radiotelegraph transmission:
+(Aeronautical CIRVIS REPORT. A48207 DE AFAR AR
+Station)
+CIRVIS REPORT. A48207 SIGHTED ..............
+(Aircraft)
+(Aeronautical
+Station)
+ADDITIONAL CIRVIS REPORT. A48207 DE AFAR AR
+SUP. CIRVIS REPORT. A48207
+
+Additional reports would be made if more information becomes available concerning this sighting. These reports should contain a reference to the original report sufficient to identify it.
+
+Example of an air/ground radiotelephone transmission:
+(Aircraft) CIRVIS REPORT. KINDLEY THIS IS AIR FORCE TWO FIVE NINE. OVER
+(Aeronautical
+Station)
+AIR FORCE TWO FIVE NINE THREE SIX. THIS IS KINDLEY ROGER - OUT
+
+NOTE: In radiotelegraph transmission, the same procedures would be followed
+as prescribed in para 5a.
+Cancellation reports should be made in the event the previously
+reported sighting is determined to be other than as originally reported, and a brief message cancelling the previous report(s).
+
+Example of an air/ground radiotelephone transmission:
+CIRVIS CIRVIS CIRVIS - KINDLEY THIS IS AIR FORCE TWO FIVE NINE THREE SIX - CIRVIS REPORT - OVER 
+AIR FORCE TWO FIVE NINE THREE SIX - THIS IS KINDLEY - ROGER - OUT

@@ -1,0 +1,24 @@
+The image does not contain any photographs, only a typed document with text. As an OCR system, I will output the text found in the document:
+
+PROJECT 10073 RECORD
+1. DATE - TIME GROUP 
+2. LOCATION
+    Dayton, Ohio
+3. SOURCE
+    Military
+4. NUMBER OF OBJECTS
+    1 (one)
+5. LENGTH OF OBSERVATION
+    20 minutes
+6. TYPE OF OBSERVATION
+    Ground-Visual
+7. COURSE
+    Stationary
+8. PHOTOS
+    None
+9. PHYSICAL EVIDENCE
+    No
+10. CONCLUSION
+    Astro (Venus)
+    Venus was at 15 deg elev in SW at time of observation
+    stay lower than 60 deg over horizon, as reflection in windshield

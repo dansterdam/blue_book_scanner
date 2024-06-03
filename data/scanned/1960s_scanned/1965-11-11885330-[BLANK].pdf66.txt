@@ -1,0 +1,20 @@
+The image does not contain a photograph. It appears to be a table listing the component weights of various parts of a device or system. The table is titled "Component Weights" and lists items such as "Target", "Analyzing Magnet", "Chamber Magnet", "Cryostat Structure", "Cerenkov detector", and various electronics components, along with their respective sub-component weights and total weights.
+
+TABLE 1. 
+Component Weights
+
+Component	Sub-comp. weight	Weight
+1. Target (V.I. walls) Ends Mises and plumbing 	100 50 150 230	830
+2. Analyzing Magnet 	Superconductor and copper Wire support Inside skin Energy dumping Misc.	60 370 30 100 100	1160
+3. Chamber magnet 	Superconductor and copper Wire support Inside skin Energy dumping Misc.	580 310 70 300 150	1410
+4. 37 l. Helium Reservoir	100	100
+5. Cryostat Structure Vacuum wall Chamber max. sphere Internal support External support Landing gear Misc. 	1620 110 100 300 600 200	2930
+6. Cerenkov detector	500
+7. Analyzing chamber and emulsion stacks and support	250
+8. Wide-gap spark chamber	100
+9. Cameras	300
+10. Electronics (counters and telemetry)	200
+11. Electronics (chamber supplies)	150
+12. Film 	150
+13. Misc.	350
+Total weight	7760

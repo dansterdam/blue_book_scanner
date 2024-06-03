@@ -1,0 +1,17 @@
+There is no photograph present in this image. This appears to be a scanned page from an old document containing technical text related to Project Blue Book, a historic U.S. Air Force investigation of unidentified flying objects.
+
+The text present on the page is as follows:
+
+of the materials. The motor forces on the conductor, averaged over the shell thickness, are radial outward and tangentially directed toward the equator. We resolve these into components normal and parallel to the polar axis and assume that normal component is locally supported by the conductor. The resulting hoop stress, s, is given by 
+
+s = 3/32π B^2 a_0^2 (sin^2 θ + 4 cos^2 θ) dyne-cm^-2
+
+This stress has a maximum value of 2.8 x 10^4 lb wt in^-2 at the poles (where the conductor area tends to zero). This is about 13% of the yield strength of the wire.
+
+The parallel component is supported by the shell and results in a maximum attraction between the hemispheres at the equator of
+
+Sy = -9/8 B^2 a_0^2 /8 dyne
+
+which gives a compressive stress of 4 x 10^3 lb wt in^-2. This is about 1/5 of the low temperature compressive strength of glass filament epoxy. As a result of this loading there will be additional hoop stresses, tensional at the equator and compressional at the poles, having magnitudes of a few thousand lb wt in^-2.
+
+On the inside face of the windings the local hoop stress in the wire rises to 2.8 x 10^4 lb wt in^-2 and gives local shear stresses as high as 1.6 x 10^4 lb wt in^-2. This is comparable to the shear strength of the epoxy and may require selected orientation of the glass filament. We plan to examine the problem of forces in detail, paying particular attention to local stability and to the dynamic aspects, as it is very important that the superconductor be immobile with respect to the field. In keeping with current practice, ignoring accessibility requirements, let us gain additional rigidity.

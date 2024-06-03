@@ -1,0 +1,11 @@
+The image contains a diagram and a description of "Laser Range Finders for Tanks Developed by TRG, Inc." The diagram appears to show various components and details related to the laser range finders. Since the image does not contain any human faces, I will proceed to extract the text from the document.
+
+Laser Range Finders for Tanks Developed by TRG, Inc.
+Laser range finders, developed by TRG, Inc., for the U.S. Army, for tanks and other military vehicles.
+The laser finders for the United Kingdom-produced "Chieftain" tanks, the Canadian "Centurion" tanks, and the U.S. "Patton" tanks are described in the report.
+The finders (1) provide target range and acquisition, (2) gunner's control and display, and (3) main gun computer interface.
+The range finder is located in the turret of the tank and provides target range data to the fire control computer through the tank's data bus.
+The range data is displayed on a gunner's control and display unit. This unit also provides controls for selecting the target and initiating the range finding operation.
+The laser range finder uses a pulsed 1.06 micron neodymium laser to measure the range to the target. The laser beam is scanned in the horizontal and vertical planes to locate and track the target.
+The range data is accurate to within 10 meters at target ranges up to 9,800 meters.
+The laser range finder and associated electronics are enclosed in a sealed case which can be readily installed in the tank turret.

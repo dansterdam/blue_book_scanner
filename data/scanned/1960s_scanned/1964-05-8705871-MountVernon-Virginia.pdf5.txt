@@ -1,0 +1,15 @@
+The shared image does not contain any photographs. It is a winds-alert computation sheet from the U.S. Department of Commerce, which appears to be a table of data related to wind speeds, wind directions, and other meteorological information.
+
+U.S. DEPARTMENT OF COMMERCE
+WINDS-ALERT COMPUTATION SHEET
+MOUNT VERN5, VA. 6 MAY 1964 
+ELEVATION: -39 FT. H LONG.=77° 28' W
+TIME: 1200-1230 EDT  WEATHER CODE: CU2
+
+Elevat. angle Slant distance Dist. from 
+(deg) (naut. miles) station (naut. m.)
+70.0 3.7 3.64 
+69.0 3.8 3.73 
+68.0 3.9 3.82 
+... 
+[The rest of the text in the table is too small to transcribe accurately]

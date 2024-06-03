@@ -1,0 +1,25 @@
+The image contains a photograph of an old document from Project Blue Book, which appears to be a form used to record details about a UFO sighting. The form is titled "APPEARANCE OF ROCKET PLUME" and includes various checkboxes and fields for recording information about the observed phenomenon. While the form does not contain a photograph, it describes the witness's observations, including details about the object's movement and disappearance. The document also includes a handwritten note at the bottom that states "Just happened to notice it."
+
+Based on the OCR (Optical Character Recognition) of the text in the document, the output is as follows:
+
+MOVE IN A STRAIGHT LINE? 
+DID STILL CHANGE DIRECTION?
+SUDDENLY SPEED UP AND RUN AWAY?
+BREAK UP IN PARTS AND EXPLODE?
+CHANGE COLORS?
+SIZE OF OBJECT:
+SHAPE CHANGE?
+ALSO CHANGE SPEED?
+DISAPPEAR AND REAPPEAR?
+SPLIT LIKE A TOP?
+INCREASE SPEED?
+FLUTTER(E.G. 'WOBBLE')?
+IS WHAT DREW YOUR ATTENTION TO THE PHENOMENON?
+
+Just happened to notice it.
+
+A HOW DID IT FINALLY DISAPPEAR?
+Simpily disargared
+
+B DID THE PHENOMENON MOVE BEHIND OR IN FRONT OF SOMETHING, LIKE A CLOUD, TREE, OR BUILDING AT ANY TIME?
+[ ] YES [ ] NO [ ] YES, DESCRIBE

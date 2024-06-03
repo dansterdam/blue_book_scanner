@@ -1,0 +1,13 @@
+There is no photograph present in this image. The image appears to be a table of data showing "Cases of Unidentified Flying Objects Reported to ATIC - 26 June 1947 - 31 December 1959". The table contains various categories such as "Unidentified", "Astro-Meteorical", "Satellites", "Aircraft", "Balloons", "Unknown", "Reported", and "Totals", and provides statistics for each category across different years from 1947 to 1959.
+
+CASES OF UNIDENTIFIED FLYING OBJECTS REPORTED TO ATIC - 26 JUNE 1947 - 31 DECEMBER 1959
+                  1947-1952 1953-1954 1955  1956   1957   1958   1959
+UNIDENTIFIED       7876     13.4%    2.07%  2.75%  3.8%   0.86%  1.67%
+IDENTIFIED         10,744   86.6%    97.93% 97.25% 96.2%  99.14% 98.33%
+ASTRO-METEORICAL   5479     11.9%    5.21%  11.84% 18.27% 11.04% 6.85%
+SATELLITES         -        -        -      -      -       -      11
+AIRCRAFT           1370     12.1%    6.97%  13.76% 20.26% 11.3%  9.5%
+BALLOONS           -        13.6%    9.64%  9.2%   13.1%  6.2%   13.7%
+UNKNOWN            -        13.0%    9.5%   12.05% 12.1%  11.9%  10.23% 
+REPORTED           2190     85%      95%    778    1178   90     34
+TOTALS             19,719   28.5%    5.95%  11.8%  17.3%  8.5%   6.35%

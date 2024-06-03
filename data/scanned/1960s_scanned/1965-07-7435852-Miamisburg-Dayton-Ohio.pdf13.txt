@@ -1,0 +1,51 @@
+This image does not contain any photograph. It appears to be a page from a Project Blue Book UFO report document, containing a questionnaire with various questions about a UFO sighting.
+
+U.S. AIR FORCE TECHNICAL INFORMATION
+
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used in connection with any attempts we make to identify the object. We request that you do not discuss the case with anyone except military or Intelligence personnel, or publications without your permission.
+
+1. What did you see? the object -
+
+2. Time of day:   Hour  -  A.M.  or  P.M.
+
+3. Time Zone: (Circle One): c. Eastern  d. Mountain
+  s. Central   e. Other
+
+4. Where were you when you saw the object? 
+   Postal Address -  City or Town -  State or Country
+
+5. How long was object in sight? (Total Duration)  Minutes -  Seconds
+
+6. What was the condition of the sky?
+   a. Bright   b. Hazy   c. To Cloudy
+
+7. If you saw the object during DAYLIGHT, where was the SUN located as you looked at the object?
+   (Circle One): a. In front of you   d. To your right 
+   b. Behind you      e. To your left
+   c. Over your shoulder f. Overhead
+
+OUTPUT TEXT:
+
+U.S. AIR FORCE TECHNICAL INFORMATION
+
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used in connection with any attempts we make to identify the object. We request that you do not discuss the case with anyone except military or Intelligence personnel, or publications without your permission.
+
+1. What did you see? the object - 
+
+2. Time of day:   Hour  -  A.M.  or  P.M.
+
+3. Time Zone: (Circle One): c. Eastern  d. Mountain
+  s. Central   e. Other
+
+4. Where were you when you saw the object? 
+   Postal Address -  City or Town -  State or Country  
+
+5. How long was object in sight? (Total Duration)  Minutes -  Seconds
+
+6. What was the condition of the sky?
+   a. Bright   b. Hazy   c. To Cloudy
+
+7. If you saw the object during DAYLIGHT, where was the SUN located as you looked at the object?
+   (Circle One): a. In front of you   d. To your right 
+   b. Behind you      e. To your left
+   c. Over your shoulder f. Overhead

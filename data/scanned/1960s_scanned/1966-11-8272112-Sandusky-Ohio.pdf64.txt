@@ -1,0 +1,40 @@
+There is no photograph present in this image. The image appears to be a page from a Project Blue Book document containing a list of UFO sightings.
+
+13 - 30 NOVEMBER 1965 SIGHTINGS
+DATE LOCATION OBSERVER EVALUATION
+13-15 Minneapolis, Minnesota (PHOTO) INSUFFICIENT DATA
+15 Doylestown, Pennsylvania AIRCRAFT
+16 Newton, Pennsylvania AIRCRAFT
+16 Anderson, South Carolina INSUFFICIENT DATA
+16 Mooresville, N. C. OTHER (MULTIPLE EXPOSURE)
+17 Lima, Ohio ASTRO (METEOR)
+18 Cheyenne, Wyoming INSUFFICIENT DATA
+18 Lebanon, Ohio AIRCRAFT
+18 San Angelo, Texas AIRCRAFT
+18 Daytonville, Maryland AIRCRAFT
+18 Dayton, Ohio AIRCRAFT
+18 Dayton, Ohio OTHER (BIRDS, ETC.)
+19 Winter Park, Florida ASTRO (STAR/PLANET)
+20 Cincinnati, Ohio INSUFFICIENT DATA
+20 Glendale, Pennsylvania INSUFFICIENT DATA
+20 New York City, N.Y. INSUFF/ICIENT DATA
+
+Text output:
+13 - 30 NOVEMBER 1965 SIGHTINGS
+DATE LOCATION OBSERVER EVALUATION
+13-15 Minneapolis, Minnesota (PHOTO) INSUFFICIENT DATA
+15 Doylestown, Pennsylvania AIRCRAFT
+16 Newton, Pennsylvania AIRCRAFT
+16 Anderson, South Carolina INSUFFICIENT DATA
+16 Mooresville, N. C. OTHER (MULTIPLE EXPOSURE)
+17 Lima, Ohio ASTRO (METEOR)
+18 Cheyenne, Wyoming INSUFFICIENT DATA
+18 Lebanon, Ohio AIRCRAFT
+18 San Angelo, Texas AIRCRAFT
+18 Daytonville, Maryland AIRCRAFT
+18 Dayton, Ohio AIRCRAFT
+18 Dayton, Ohio OTHER (BIRDS, ETC.)
+19 Winter Park, Florida ASTRO (STAR/PLANET)
+20 Cincinnati, Ohio INSUFFICIENT DATA
+20 Glendale, Pennsylvania INSUFFICIENT DATA
+20 New York City, N.Y. INSUFF/ICIENT DATA

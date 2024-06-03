@@ -1,0 +1,8 @@
+The image does not contain a photograph. It appears to be a blank page with some handwritten text at the top that says "CASE OFFICER - WINDS, BUFFALO, N.Y. 18 JUNE 63".
+
+Output the text found in the document:
+
+CASE OFFICER - WINDS
+BUFFALO, N. Y. 18 JUNE 63
+270
+220-

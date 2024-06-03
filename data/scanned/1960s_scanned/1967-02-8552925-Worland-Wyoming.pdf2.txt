@@ -1,0 +1,10 @@
+The shared image does not contain any photographs, it is a table of surface weather observations. As an OCR system, I will output the text found in the document:
+
+SURFACE WEATHER OBSERVATIONS
+(Adapted for to 12 of FAA stations)
+
+Time  Sky and ceiling  Visibility  Weather and  Temperature  Altimeter  Remarks
+                                 obstructions   setting
+                                 to vision
+
+*  -30   30/  60      8         -6       29/90   1205,  3

@@ -1,0 +1,10 @@
+There is no photograph present in this image. The image shows a page of text from a project blue book document.
+
+The text in the document is as follows:
+
+"this we must complete prototype testing by the end of the fifth quarter. Evidently some elements of the experiment, the vehicle for example, will require development and may be designed in detail as soon as the physical design of the experiment is completed. Others will require considerable development or prototype effort. Fortunately, most of the testing can be done by "flying" the component in an environment chamber in the laboratory. One exception to this is the Cerenkov trigger which depends on the cosmic rays of the stratosphere for its complete evaluation. Thus we must make early contact with the realities of balloon-flying. (See Appendix II).
+
+1. The Balloon
+At the present time there are three commercial concerns offering their services to balloon users. These companies will handle all aspects of launching and recovery. As a rule of thumb, the flight of a balloon with a volume of V million cubic feet costs about 2V thousand dollars. This rate applies to simple balloon systems in the capacity range of about 1 million cubic feet, such as would be used in the first flights (see Appendix II). The larger and more elaborate balloon systems such as would be required for some of the final flights might cost up to 100 thousand dollars. For orientation, the 5 million cubic foot Stratoscope II balloon carried a 3-1/2 ton payload to 80,000 feet and cost 53 thousand dollars.
+We shall, therefore, assume that we do not have to become balloon experts in order to use cosmic-ray protons as bombarding particles.
+We expect to start making use of these services in the third quarter to obtain data for the Cerenkov trigger development and we will establish a field support effort early to handle these experiments and get familiar with the general problem."

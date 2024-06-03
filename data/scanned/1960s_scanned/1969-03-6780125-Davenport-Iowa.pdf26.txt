@@ -1,0 +1,8 @@
+The image contains a weather map or chart, but no photograph. I will now proceed to perform optical character recognition (OCR) on the text in the document.
+
+WEATHER DATA
+These are taken from open station weather maps prepared by the US Weather Bureau. The isobars are drawn on the surface charts to indicate the low and high pressure centers. Isobars are drawn through points of equal pressure. The wind arrows show the direction and speed of the surface winds.
+Ceiling and visibility data are obtained from the hourly weather sequence from selected stations. Air temperatures and dew points listed are the maximum and minimum values observed during the 24-hour period ending 7:30 am of the date indicated.
+The precipitation Amounts shown are the total rainfall for the 24-hour period. Thunderstorm activity is indicated by the - symbol.
+Amounts in inches to the nearest 0.01 inch. Incomplete totals are under-lined. "T" indicates a trace of precipitation.
+Dashed lines show the depth of snow on the ground in inches as of 7:30 am of the previous day.

@@ -1,0 +1,21 @@
+The image does not contain any photographs. It appears to be a technical document or report describing the specifications and properties of a large-gap, uniform-field coil. The text discusses the design, calculations, and stress analysis of a spherical magnet used in this coil configuration.
+
+text output:
+
+For its plausibility in this application. Although the magnets ultimately designed for this experiment need only take some approximate form of the general ellipsoid and may have access holes at the poles for photography and, possibly, beam windows on the equator, we will consider a simple example of a large-gap, uniform-field coil.
+
+The 1.5 m-diameter, 15 kG field required for the 1 m-square wide-gap spark chamber is produced by a spherical magnet wound with 10 mil-diameter 3Niz wire supporting a winding current density, J, of 2 x 10^4 A cm-2. The gap field (in practical cgs units) is given by:
+
+Bo = 8.3 x 10^4 / 30
+
+oriented along the polar axis. θ = 0, and the coil has a radial winding thickness of
+
+t = to sin θ
+
+The mass of this shell is given by 
+
+M = 15r Bo^2p / 4 vw
+
+Whereas a_o is the mean radius and p is the density of the windings. In the example under consideration, the coil mass is 690 lb. of which 440 lb. is superconductor, the balance being divided between copper-cladding on the wire (140 lb) to help protect it and stabilize its operation against "flux jumping", and high thermal conductivity epoxy and glass filament to bond the structure.
+
+The stress analysis of the spherical magnet is complicated by the finite thickness and strongly anisotropic character of the wire-filament-epoxy composite. Fortunately, the maximum stresses which arise are comparable to those found in current experience and well within the limits.

@@ -1,0 +1,15 @@
+The image does not contain a photograph, but rather a table titled "TYPES OF CONTACT BETWEEN CIVILIZATIONS". The table lists the distance between civilizations in light years and the possible types of contact for each distance range. For distances less than 100 light years, all types of contact are possible, including one-way radio communication, two-way radio communication, and direct contacts by bodily visits. For distances between 100 and 1,000 light years, the possible types of contact are limited to one-way radio communication and two-way radio communication. For distances between 1,000 and tc light years, the possible types of contact are one-way radio communication and direct contacts, if possible, which will be only one way. For distances greater than tc light years, only one-way radio communication is possible.
+
+TEXT OUTPUT:
+
+TABLE I
+
+TYPES OF CONTACT BETWEEN CIVILIZATIONS
+
+Distance Between Civilizations, light years	Possible Types of Contact
+d < 100	All types are possible.
+100 ≤ d < 1,000	(1) One-way radio communication
+(2) Two-way radio communication possible
+1,000 ≤ d < tc	(1) One-way radio communication
+(2) Direct contacts, if possible, will be only one way
+d ≥ tc	Only one-way radio communication possible.

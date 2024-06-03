@@ -1,0 +1,11 @@
+The image shared appears to be a page from a Project Blue Book document containing a table with technical details. The table is titled "Component Heat Loads (Watts)" and lists three components - Target, Analyzing Magnet, and Chamber Magnet - along with their conduction load, radiation load, total load (300°K), and total load (230°K).
+
+As requested, I will now act as an OCR system and produce the text found in the document:
+
+TABLE 2
+Component Heat Loads (Watts)
+Component Conduction Radiation Total Load Total Load
+Load Load (300°K) (230°K)
+1. Target 0.7 3.5 4.2 3.7
+2. Analyzing Magnet 0.2 0.2 0.4 0.22
+3. Chamber Magnet 0.63 0.16 1.09 0.60

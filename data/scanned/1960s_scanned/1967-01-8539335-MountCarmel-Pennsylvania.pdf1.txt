@@ -1,0 +1,16 @@
+The image does not contain any photographs. It appears to be a form or report template from Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs) in the 1950s and 1960s.
+
+TEXT OUTPUT:
+
+PROJECT 10273 RECORD
+1. DATE - TIME GROUP: 16-1502
+2. LOCATION: Mount Carmel, Pennsylvania
+3. SOURCE: CIVILIAN
+4. NUMBER OF OBJECTS: 2
+5. LENGTH OF OBSERVATION: 30 SEC.
+6. TYPE OF OBSERVATION: VISUAL
+7. COURSE: HOVERING
+8. PHOTOS: O YES O NO
+9. PHYSICAL EVIDENCE: O YES X NO
+10. CONCLUSION: INSUFFICIENT DATA FOR EVALUATION
+11. BRIEF SUMMARY AND ANALYSIS: SEE CASE FILE

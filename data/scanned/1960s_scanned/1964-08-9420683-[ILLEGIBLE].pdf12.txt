@@ -1,0 +1,12 @@
+The image does not contain any photographs. It appears to be a page from a report document with a standardized form that includes sections for recording details about a reported observation, such as the date, time, location, source, number of objects observed, length of observation, type of observation, course, photos, and physical evidence. The text visible in the form fields is illegible, likely due to the poor quality of the scan.
+
+Text Output:
+1. DATE - TIME GROUP
+2. LOCATION
+3. SOURCE
+4. NUMBER OF OBJECTS
+5. LENGTH OF OBSERVATION
+6. TYPE OF OBSERVATION
+7. COURSE
+8. PHOTOS
+9. PHYSICAL EVIDENCE

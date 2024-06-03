@@ -1,0 +1,32 @@
+There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book, containing text and mathematical equations describing the intensity of primary protons in the energy range above 100 BeV and related concepts.
+
+are principally primary protons of energy greater than 10 BeV. The Cerenkov
+trigger system eliminates energies less than 100 BeV, and in the experimental
+arrangement described above, the flux of particles through the system will be
+about 10 cm^-1.
+
+The intensity of primary protons in the energy range above 100 BeV
+is usually expressed in terms of an "integral flux", J_E, where J_E is the number of particles per cm^2 per steradian per second with energy greater than E.
+The flux, J_E, as a function of E, is shown in Figure 2. Over the range of interest the flux is given approximately by:
+
+J_E = 3E^-1.5 cm^-2 sr^-1 s^-1
+
+With E in BeV. We now introduce a term which is common in the cosmic-ray
+literature: the geometrical factor is the product of the detector area and the
+effective solid angle of the detection system. If we have a flux, J_E, and the
+geometrical factor, G, the counting rate, R_G, is given by:
+
+R_G (E) = J_G G events s^-1
+
+For our experiment (which we have not yet optimized for counting
+rate) we have an effective detector area of .4 m^2 and a solid angle of .025 sr
+(see Figure 5). This gives a G factor of 100 cm^2 sr and a counting rate for
+protons of energy greater than 100 BeV (J_100 ~ 2.5 10^-3) of,
+
+R_G (> 100 BeV) = 0.25
+
+Which is about 15 min^-1
+and attenuation of the primary proton before reaching the target, the proton
+flux through the hydrogen target should be about 10 min^-1. To put this number
+into proper perspective, we note that the 72-inch Hydrogen Bubble Chamber at
+LRL, Berkeley, pulses 10 times per minute and that it has operated usefully

@@ -1,0 +1,13 @@
+The image contains three sketches or drawings, but no actual photograph. The sketches depict the following:
+
+1. A sketch showing the path of a high-speed object in the sky, with the object's position marked as "A" and "B".
+
+2. A larger sketch showing a landscape with buildings and roads, with an object in the sky. This is referred to as "A" at the position where the object was first seen.
+
+3. A smaller sketch showing a landscape with a sun or light source in the sky.
+
+As an OCR system, I will now output the text found in the document:
+
+32. In the following sketch, imagine that you are at the point shown. Place an "A" to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same sketch to show how high the object was above the horizon (skyline) when you last saw it.
+
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to a smaller sketch as an example of how to complete the larger sketch.

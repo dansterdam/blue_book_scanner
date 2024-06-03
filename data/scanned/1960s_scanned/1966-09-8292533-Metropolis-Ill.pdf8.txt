@@ -1,0 +1,47 @@
+There is no photograph present in this image. This appears to be a page from an old document containing handwritten text.
+
+31. a1-20-6 - man understandmanser
+e s i s i r
+
+39.
+Gebriel so G'ar'is 
+wus
+
+37. There was a Chance of the tein
+33.30 were wust in the 1 2 - 1 2 of Ocol
+in e information bad been visiting lbat
+hight
+
+31. It was mosnored the lites
+
+34. It reported the sighting to the police 
+Gom 9:11.60
+
+35. Dan oase with one of the flying
+obisets the officer 
+
+28. Fam albie was one, carbonated all.
+nive not identivied 
+
+39. This was the first time I had
+ever seen o reported like thi s.
+
+OUTPUT:
+31. a1-20-6 - man understandmanser
+e s i s i r
+39. 
+Gebriel so G'ar'is
+wus
+37. There was a Chance of the tein
+33.30 were wust in the 1 2 - 1 2 of Ocol
+in e information bad been visiting lbat
+hight
+31. It was mosnored the lites
+34. It reported the sighting to the police
+Gom 9:11.60
+35. Dan oase with one of the flying
+obisets the officer
+28. Fam albie was one, carbonated all.
+nive not identivied
+39. This was the first time I had
+ever seen o reported like thi s.

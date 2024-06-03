@@ -1,0 +1,10 @@
+There does not appear to be any photograph present in this image. It appears to be a scanned page from a technical document or report.
+
+magnet now weighs 1,220 lbs. Although it is not very elegant in terms of engineering design, it is mechanically rugged and magnetically stable, and it will work in principle. Therefore, it appears that superconducting magnets can provide the needed values of integrated field and still be light enough to be useful.
+
+E. Liquid Hydrogen Target, Structure and Cryogenics
+The essential problem here is first to design a strong, lightweight cryostat that will provide the necessary environment and support for the magnets and target and allow the inclusion of the spark chambers, cameras, and other equipment. Then we must integrate this structure into a vehicle which must not only have sufficient mechanical rigidity for the experiment, but must maintain its integrity in response to the rigors of flight, landing, and transportation. It must also be designed with an eye toward the possibility of internal failure or even catastrophe.
+
+In order to investigate design problems and get some feeling for the weight of a vehicle which meets these criteria, let us again adopt the simple engineering approach used in the design of the spherical magnet in the preceding section. We will construct the cryostat with stainless steel vacuum walls, in the form of cylinders and spheres of sufficient wall thickness to be stable against atmospheric and weight pressure, and use metallized mylar "insulatiori" on the cold vessels to control the radiation heat load. This approach, shown in Figure 5, turns out to be crude "state of the art" but serves to set an upper limit to the vehicle weight and, at the same time, emphasizes that we need not go to the sophistication of spacecraft in our ultimate design.
+
+The magnets are oriented as a quadrupole to provide rotational

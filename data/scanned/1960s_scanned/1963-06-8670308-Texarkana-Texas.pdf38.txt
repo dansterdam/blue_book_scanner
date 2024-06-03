@@ -1,0 +1,84 @@
+The image does not contain a photograph, but rather a table of data related to a meteorological report. I will now proceed to extract all the text from the document:
+
+SHREVEPORT, LOUISIANA
+Greater Shreveport Municipal Airport
+Lat. 32 29' N Long. 93 49' W
+Local Standard Time, 90th Meridian
+GCT station, 7:54 RAIN, GCT-14
+
+Type of balloon: DAREX-600
+
+WINDS-ALOFT COMPUTATION SHEET
+(LAND STATION FORM)
+MARCH
+Year, Month, Day Time
+1963 JUN 25 2330
+1963 JUN 25 0554
+Observation No. 707
+
+Observation Time: 0554
+Elevation, 306' (station)
+
+Station Barometer: 30.06
+Orientation: 360' (south)
+
+Distance from Obsd Wind
+observation (km) Direction Speed
+Time Pressure Temp (C) Approx Sm (kt)
+(GMT) Height Altitude Angle Height Approx Sm Angle Approx Sm
+(mb) (ft) (deg) (m) (m) (deg) (kt)
+0 59.7 18994 199.0 112.0 2.1
+100 55.3 16674 180.0 109.2 2 115 5.8
+200 52.0 15650 172.4 113.3 1 115 3.5
+300 49.1 14850 162.1 103.7 1 115 1.6
+400 45.7 13850 156.7 100.0 1 93 4.9
+500 42.6 12950 148.3 95.6 1 59 2.5
+600 39.4 12000 146.1 93.0 1 17 4.0
+700 36.7 11120 143.2 91.3 1 19 3.0
+800 34.9 10470 139.3 88.5 1 19 3.0
+900 33.0 9800 134.5 85.0 1 5 4.5
+1000 31.5 9240 130.0 80.7 1 46 2.5
+1100 30.1 8690 124.9 76.1 1 60 3.0
+1200 28.9 8160 119.6 71.8 1 44 4.5
+1300 27.8 7650 115.0 55.7 1 13 4.6
+1400 26.7 7160 99.7 46.6 1 5 4.6
+1500 25.8 6700 93.7 43.3 1 9 4.5
+1600 24.7 6260 87.7 37.7 1 27 4.1
+1700 23.8 5860 83.5 34.7 1 55 1.0
+1800 23.1 5490 80.4 30.4 1 376 1.6
+1900 22.3 5110 76.9 24.6 1 316 1.6
+2000 21.7 4800 70.4 20.0 1 241 1.0
+2100 21.0 4480 57.6 14.0 1 245 10.0
+2200 20.4 4160 49.2 9.2 1 275 10.0
+2300 19.9 3860 42.3 7.6 1 297 10.0
+
+Punched Card Data
+
+Punched Card Punch
+Ele Temp Wind Wind X Y
+vel Dir Speed (note)
+(ft) (C) (deg) (kt)
+19994 199.0 112.0 2.1
+16674 180.0 109.2 2
+15650 172.4 113.3 1
+14850 162.1 103.7 1
+13850 156.7 100.0 1
+12950 148.3 95.6 1
+12000 146.1 93.0 1
+11120 143.2 91.3 1
+10470 139.3 88.5 1
+9800 134.5 85.0 1
+9240 130.0 80.7 1
+8690 124.9 76.1 1
+8160 119.6 71.8 1
+7650 115.0 55.7 1
+7160 99.7 46.6 1
+6700 93.7 43.3 1
+6260 87.7 37.7 1
+5860 83.5 34.7 1
+5490 80.4 30.4 1
+5110 76.9 24.6 1
+4800 70.4 20.0 1
+4480 57.6 14.0 1
+4160 49.2 9.2 1
+3860 42.3 7.6 1

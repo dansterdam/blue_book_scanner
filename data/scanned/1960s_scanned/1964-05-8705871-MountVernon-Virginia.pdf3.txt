@@ -1,0 +1,33 @@
+The image appears to be a page from a Project Blue Book report, containing a wind/cloud sheet with tabular data. There is no photograph present in this image.
+
+Text extracted from the document:
+
+U.S. DEPARTMENT OF COMMERCE
+WEATHER BUREAU
+WINDS-ALOFT OBSERVATION FORM
+RADIOSONDE OBSERVATION
+DATE:  5/8/64
+STATION:  MOUNT VERNON, VA
+LATITUDE: 38 41N
+LONGITUDE: 77 05 W
+ELEVATION: 56 M
+WIND SPEED (M/S)   WIND DIRECTION   PRESSURE (MB)   TEMPERATURE (C)   HUMIDITY (%)   ALTITUDE (M)
+2.1                270                1000.0             22.0                51               0
+2.6                275                950.0              19.2                54               519
+3.1                281                900.0              16.4                58               1052
+3.6                287                850.0              13.5                61               1580
+4.1                292                800.0              10.5                65               2100
+4.6                298                750.0              7.3                 70               2634
+5.1                303                700.0              4.0                 76               3160
+5.6                308                650.0              0.5                 83               3693
+6.1                313                600.0              -3.0                90               4218
+6.6                318                550.0              -6.7                95               4747
+7.1                324                500.0              -10.5               98               5267
+7.7                329                450.0              -14.5               100              5790
+8.2                334                400.0              -18.7               100              6302
+8.8                339                350.0              -23.2               100              6815
+9.3                344                300.0              -28.0               100              7322
+9.9                349                250.0              -33.2               100              7832
+10.5               354                200.0              -39.0               100              8334
+11.1               359                150.0              -45.5               100              8844
+11.7               4                 100.0              -52.5               100              9339

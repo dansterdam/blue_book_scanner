@@ -1,0 +1,29 @@
+The shared image does not contain any photograph. It appears to be a scanned page from a technical document related to Project Blue Book, an Air Force program that investigated unidentified flying objects (UFOs) in the United States.
+
+The text in the document discusses various technical details about cosmic-ray interactions, particle fluxes, and high-energy-particle interactions in the atmosphere. It mentions the use of liquid hydrogen as a target, the expected interaction rates, and the considerations around performing the experiment at balloon altitudes.
+
+OCR Text Output:
+for long periods of time with approximately 3.6 K" mesons incident per picture, yielding a particle flux of 35 mn"¡.
+We intend this flux to traverse the liquid hydrogen target, chosen because
+of the resulting great simplification in experimental interpretation. The target
+is two meters long and the probability of interaction is about 20%. We therefore
+expect to observe about two interactions per minute or 3,000 per 24-hour flight.
+Because of the character of the cosmic-ray spectrum, about 600 of these inter-
+actions will involve protons of energy greater than 360 BeV, and about 100 of
+them will involve protons of energy greater than 1,000 BeV.
+The mean free path for high-energy-particle interactions in the atmosphere is about 50 gm cm"² so it is imperative that the experiment be performed
+at "balloon altitudes". The density of liquid hydrogen is .07 gm cm"³ and our
+target, therefore, has a surface density of .14 gm cm"². At 100,000 feet altitude, the remaining air mass has a surface density of 9 gm cm"². Comparing
+these densities with the atmospheric interaction length of 50 gm cm"², it is
+obvious that no useful purpose would be served by going to higher altitudes. For
+these reasons, we will consider that the normal balloon altitudes of 85-100,000
+feet are adequate for the experiment.
+In addition to the proton flux, there is also an alpha particle flux of
+about 7% the intensity of the proton flux with about the same energy distribution
+in terms of energy per nucleon. (3) Other heavier cosmic-ray components are
+well below 1% of the proton flux. All cosmic rays heavier than protons should
+be easily identified by the large pulses they produce in counters.
+In summary, then, the effective cosmic-ray "beam" can be thought of
+as three beams: a 10-per-minute, 100-800 BeV proton beam; and the weaker
+alpha particle and 1,000 BeV proton beams. These components of the beam may
+be separated and the momentum should be known to 10% or better for most particles. The nature of the beam can be altered in later flights by inserting into

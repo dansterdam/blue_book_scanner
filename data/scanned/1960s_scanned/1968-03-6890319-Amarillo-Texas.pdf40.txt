@@ -1,0 +1,23 @@
+The image does not contain any photographs, but rather a table of data. As an OCR system, I will produce the text found in the document:
+
+REPORT TIME STAR TIME 
+SEPT FILED FILED DURATION AZIMUTH ALTITUDE TEMP WIND SPEED WIND DIR
+6740 039 5 -3 359 5
+1032 850 ? 1 970 10
+3022 790 -2 -3 959 10
+648 -7 -1 1/2 
+616 -10 -15
+692 -11 -12
+5610 500 -17 -10 135 6
+7249 400 -29 -32 135 16
+9830 300 -43 115 7
+266 -51
+217 -43
+203 -43
+11229 200 -45 235 14
+161 -64
+13799 150 -57 235 35
+131 -62
+16220 100 -57 239 27
+REMARKS:
+DATA SOURCES: SPAS Section and Upper-air History Files.

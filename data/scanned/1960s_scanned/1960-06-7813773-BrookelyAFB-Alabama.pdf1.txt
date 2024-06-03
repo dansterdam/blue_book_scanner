@@ -1,0 +1,40 @@
+The image does not contain any photograph. It appears to be a Project Blue Book record card from Brookley AFB, Alabama, dated 24 Jun 60.
+
+TEXT OUTPUT:
+
+PROJECT 10073 RECORD CARD
+1. DATE
+24 Jun 60
+2. LOCATION
+Brookley AFB, Alabama
+3. DATE-TIME GROUP
+Local
+25/0048Z
+4. TYPE OF OBSERVATION
+X Ground-Visual
+Ground-Radar
+Airborne-Visual
+Airborne-Radar
+Military
+5. DURATION
+0 sec 
+6. NUMBER OF OBJECTS
+ONE
+7. LENGTH OF OBSERVATION
+0 sec
+8. COURSE
+5
+9. CONCLUSIONS
+Was Balloon,
+Probably Balloon
+Was Aircraft
+Possibly Aircraft
+Was Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+10. BRIEF SUMMARY OF SIGHTING
+OBJECT WITH NO DEFINITE SHAPE OR SIZE, ORANGE REDDISH WHITE COLOR, WHICH DEFINITE BRIGHT TRAIN
+APPEARED TO BE ABOUT 1 MILE DISTANT, DISAPPEARED FAST AFTER BEING OBSERVED FOR A SHORT PERIOD
+11. COMMENTS
+IT IS VERY PROBABLE THAT THE OBJECT RESPONSIBLE FOR THIS SIGHTING WAS A BRIGHT METEOR.

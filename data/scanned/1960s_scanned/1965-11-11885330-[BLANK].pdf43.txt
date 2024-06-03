@@ -1,0 +1,34 @@
+There is no photograph present in this image. This appears to be a page from a technical report or document, likely related to Project Blue Book, discussing the use of chambers and magnetic fields in an experiment.
+
+-16-
+field. This is quite comparable to modern bubble chamber standards. 
+We plan to use these chambers for detecting secondaries of the inter-
+actions. Strauch(16) reports that tracks can be seen up to 40° from the electric
+field direction. Assuming p = 1 for secondaries in the center-of-mass system
+the median angle, 0m, for secondaries is given by (4)
+
+0m ≈ 1/2mp, G2
+Ep
+
+where the subscript "p" refers to primary proton. For 200 BeV protons, 0m
+is about 6°, and the detectors should have good geometry for most secondaries
+from an interaction in the hydrogen target. (Actually, the motion imparted to
+mesons which leave a fireball that travels backward in the center of mass is
+such that occasional particles come off at angles of 50° or more in the labora-
+tory system. This is a reason for considering thinner targets such as a LiH
+target. (See Appendix II)
+
+Evidently there is a good deal of development work being done on
+these chambers and our major effort will be one of adaptation to the problem
+at hand. One interesting developmental experiment will be seeing if the cham-
+bers will operate at 230° K, the temperature of the stratospheric environment
+or, indeed, if they will operate at cryogenic temperatures as a step in simpli-
+fying the design of that portion of the experiment.
+
+D. Superconducting Magnets
+Magnetic fields are used in this experiment to provide a means
+of analyzing the momentum of the incident proton and of interaction products
+from the target. Because of power and weight constraints, these magnets
+must be superconducting.
+Since 1961, when Kunzler and his collaborators(17) stimulated great
+interest in superconducting magnets by developing wire cored with a high-field

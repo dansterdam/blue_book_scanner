@@ -1,0 +1,4 @@
+The image does not contain a photograph, but rather a handwritten letter or document. The text in the document appears to be redacted or censored, with portions blacked out. The visible text reads "Dear Mrs. [redacted], this is so much information as is written on your request [redacted] would be given if one is sighted. XXX THANK YOU [redacted]".
+
+Output:
+Dear Mrs. [redacted], this is so much information as is written on your request [redacted] would be given if one is sighted. XXX THANK YOU [redacted]

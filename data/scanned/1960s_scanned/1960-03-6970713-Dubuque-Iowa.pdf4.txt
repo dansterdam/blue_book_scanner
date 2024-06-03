@@ -1,0 +1,12 @@
+The image does not contain any photographs. It appears to be a page from a report or document, possibly related to Project Blue Book, with a table of weather observation data.
+
+U. S. DEPARTMENT OF COMMERCE, WEATHER BUREAU
+SURFACE WEATHER OBSERVATIONS
+(Rev. 1-1-55) 
+STATION__Municipal, Iowa (airport)_______ DATE March 4, 1960
+TYPE TIME SKY AND CEILING WIND WEATHER SEA TEMP TEMP PRESSURE AMOUNT SHIP REMARKS AND SUPPLEMENTAL CODED DATA
+(Hundreds of feet)  DIRECTION SPEED CONDITION LEVEL READING CHANGE WIND SHIFTS UNITS
+1 2 3 4 5 6 7 8 9 10 11 12 13
+R 7220 0 25 301 -2 M /2 034
+R 7230 0 20 315 -2 /4/ 028
+R 7240 0 20 315 -3 /7/ 027

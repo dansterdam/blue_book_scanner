@@ -1,0 +1,11 @@
+The image contains a graph titled "FIGURE 1 UFO Sightings by Year". The graph shows two lines - "Total UFO Sightings" and "Number of UFO's Explained" - plotted against the year. The graph covers the years from 1947 to 1965.
+
+OCR output:
+1500
+1000
+500
+0
+1947 1950 1955 1960 1965
+FIGURE 1 UFO Sightings by Year
+Total UFO Sightings
+Number of UFO's Explained

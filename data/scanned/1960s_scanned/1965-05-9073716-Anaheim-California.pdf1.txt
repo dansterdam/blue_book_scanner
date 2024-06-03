@@ -1,0 +1,41 @@
+The image does not contain any photographs. It appears to be a page from a UFO report document with various fields filled out, including date, time, location, source, number of objects, length of observation, type of observation, course, and physical evidence.
+
+TEXT OUTPUT:
+
+1. DATE-TIME GROUP
+7 MAY 65 08/0515Z
+
+2. LOCATION
+Anaheim, California  
+
+3. SOURCE 
+Civilian
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+4 Minutes
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+Southerly
+
+8. PHOTOS
+NIL
+
+9. PHYSICAL EVIDENCE
+NIL
+
+10. CONCLUSION
+SATELLITE
+Target regards as probable Satellite observation with the naked eye.
+
+11. CASE SUMMARY AND ANALYSIS
+SEE CASE FILE
+Observer: (Electronic Engineer
+American)
+
+FTD 66-R-0329 (TDE) Previous editions of this form may be used.

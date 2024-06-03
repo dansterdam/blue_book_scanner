@@ -1,0 +1,17 @@
+The provided image does not contain any photographs. It appears to be a page from a U.S. Department of Commerce Weather Bureau surface weather observations report, which includes various meteorological data such as wind direction, wind speed, temperature, dew point, and other related information. 
+
+U.S. DEPARTMENT OF COMMERCE, WEATHER BUREAU
+SURFACE WEATHER OBSERVATIONS
+STATION: 
+DATE: 1964 MAY 18
+TIME: 0600
+WIND DIR: 26
+WIND SPD: 4
+WIND CHAR: AC
+VISIBILITY: 15
+CEILING: 20008
+TEMP: 47
+DEWPT: 40
+SLP: 1010.3
+WEATHER: 
+REMARKS:

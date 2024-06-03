@@ -1,0 +1,32 @@
+The image contains a photograph of a hand-drawn sketch of a UFO object. The sketch depicts an object described as "Oval + white" and includes some additional details about the object's shape and motion.
+
+Official U.S. Air Force UFO form
+14. Did the object disappear while you were watching it? Yes, it went behind a cloud.
+15. Did the object reappear? Yes. 
+16. Did the object change in shape, color, or brightness while you were watching it? Yes, it got brighter and more distinct.
+17. Tell in a few words the following things about the object:
+a. Size - Size of a car 
+b. Color - white
+18. Estimate the distance of the object. It varied from 1/4 to 1 mile
+19. Draw a picture that will show the shape of the object or objects. Looked oval and included in your sketch any details of the object that you feel are important to depict the direction the object was moving.
+
+Output:
+
+14. Did the object disappear while you were watching it?
+Yes, it went behind a cloud.
+
+15. Did the object reappear?
+Yes.
+
+16. Did the object change in shape, color, or brightness while you were watching it?
+Yes, it got brighter and more distinct.
+
+17. Tell in a few words the following things about the object:
+a. Size - Size of a car
+b. Color - white
+
+18. Estimate the distance of the object. 
+It varied from 1/4 to 1 mile
+
+19. Draw a picture that will show the shape of the object or objects.
+Looked oval and included in your sketch any details of the object that you feel are important to depict the direction the object was moving.

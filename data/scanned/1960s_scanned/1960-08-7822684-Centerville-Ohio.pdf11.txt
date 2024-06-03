@@ -1,0 +1,11 @@
+The image contains two sketches, but no photograph. 
+
+The top sketch shows a bright object in the sky with a trail of light behind it, along with instructions to imagine the viewer is at point "A" and the object is at the horizon.
+
+The bottom sketch shows a road with buildings and trees on either side, with a person standing in the middle of the road. This sketch is labeled as an example of how to complete a smaller sketch at the "A" position.
+
+Text output:
+
+32. In the following sketch, imagine that you are at the point shown. Place an "A" on the road to show the position of the observer (you) when you first saw the object. The object was above the horizon (outlined) when you first saw it. Place a "B" on the sketch to show the position of the object when you last saw it.
+
+33. In the following larger sketch, place an "A" at the position when you first saw the object. Refer to a smaller sketch as an example of how to complete this.

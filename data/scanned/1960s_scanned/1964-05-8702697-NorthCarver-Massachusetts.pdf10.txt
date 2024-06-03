@@ -1,0 +1,9 @@
+The image provided does not contain a photograph, but rather appears to be a page from a Project Blue Book document. The document appears to be a Connecticut Index, listing various entries in a structured format.
+
+TEXT OUTPUT:
+CONNECTICUT INDEX
+PLACE DATE TIME OBS OBS SPEED DURATION DIRECTION ELEVATION COLOR
+NO NAME
+1 North Carver, Mass. 5/8/64 1845 2 Men 4 min NE 45 deg Bright lights
+2 North Carver, Mass. 5/8/64 1900 2 Men 3 min NW 45 deg Bright lights
+3 North Carver, Mass. 5/8/64 1915 2 Men 5 min N 45-60 deg Bright lights

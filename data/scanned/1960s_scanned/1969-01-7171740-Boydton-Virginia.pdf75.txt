@@ -1,0 +1,18 @@
+This page from a Project Blue Book UFO report contains three images or illustrations. The top image appears to be a weather chart or map showing various atmospheric patterns and conditions. The middle image is a detailed topographic or contour map, possibly depicting terrain or elevation data. The bottom image seems to be a larger regional or geographic map, potentially showing the location of the reported UFO sighting.
+
+OCR TEXT OUTPUT:
+
+ACTUAL WEATHER DATA STATION BOYDTON VIRGINIA(LOCATION OF U.F.O. SIGHTING)
+
+00 CLOUD COVER AMOUNT-COVERAGE 
+00 HIGH CLOUD TYPE 
+00 HIGH CLOUD COVER %
+00 MID LEVEL CLOUD TYPE
+00 MID LEVEL CLOUD COVER %
+00 LOW CLOUD TYPE
+00 LOW CLOUD COVER % 
+000 CEILING HEIGHT IN FEET
+0000 PREVAILING VISIBILITY
+0.0 WIND DIRECTION-SPEED
+000.0 TEMPERATURE IN DEGREES F
+00.00 ALTIMETER SETTING

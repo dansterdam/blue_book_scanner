@@ -1,0 +1,13 @@
+The image does not contain any photographs. It appears to be a table with data fields such as TEST, PRESSURE (MB), TEMP (C), DEWPOINT (C), DURATION, and SPEED (KTS). The table seems to be recording atmospheric data from a location in Cuming County, Nebraska on July 28, 1968.
+
+Here is the text from the document:
+
+SOUNDING NO. 1.6 (0800)
+LOCATION: CUMING COUNTY, NEBRASKA
+DATA SOURCE: RADAR DATA FROM AIR MILITARY PLAN
+ANALYSIS: R.C. DIXON
+TEST	PRESSURE (MB)	TEMP (C)	DEWPOINT (C)	DURATION	SPEED (KTS)
+22.0	23	-.14	-.17	0	0
+23.0	20	-.37	-.25	0	0
+27016.0	15	-.96	-.36	0	14
+21433.0	10	-2.1	-.48	0	0

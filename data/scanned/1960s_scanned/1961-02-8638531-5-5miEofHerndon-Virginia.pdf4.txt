@@ -1,0 +1,33 @@
+The image does not contain a photograph, but rather a table of data presenting Altitude, Direction, Velocity, and Temperature information. 
+
+Attitude Direction Velocity Temperature
+10,000 260 40 -63
+15,000 260 50 -58
+20,000 260 60 -53
+25,000 270 70 -48
+30,000 270 80 -43
+35,000 270 110 -38
+40,000 270 130 -36
+45,000 270 135 -34
+50,000 270 139 -31
+60,000 279 60 -21
+
+(3) Unlimited
+(4) Unlimited 
+(5) None
+(6) None reported
+(7) Unknown
+
+h. No unusual meteorological or astronomical weather conditions reported.
+i. No interception action taken. 
+j. None
+k. Navy conducting night training on Potomac River Basin.
+l. Joseph D. Robinson C/O-2 US Army Serial No. W-2203662. No preliminary analysis provided.
+m. No physical evidence available.
+2. The correcting information was compiled by Hq. 25th Artillery Brigade (AD), Ft. George G. Meade, Maryland.
+3. Attn: 3-2: Further inquiries be directed to the above addressee.
+
+FOR THIS COMMAND:
+JOSEPH D. ROBINSON
+Major, USAF
+Intelligence Officer

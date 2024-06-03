@@ -1,0 +1,43 @@
+The image does not contain any photographs. It appears to be a table or form with various data fields and numerical values. As an OCR system, I will output the text found in the document:
+
+21944 74
+21420 76
+21952 77
+22193 78
+22475 79
+22750 80
+23040 81
+23480 82
+23640 83
+24160 85
+24440 86
+24730 87
+25010 88
+25980 90
+25680 91
+26144 92
+26428 93
+26750 94
+26980 95
+27062 96
+27547 97
+27852 98
+28160 99
+28460 101
+28745 102
+29252 103
+29803 104
+29755 105
+
+Altitude
+in feet
+
+Ground Speed Data
+Speed Miles Knots Remarks
+/hr. /hr.
+50 43 *) Airspeed
+mph, ,wind speed
+*) Kn. (a) of freq.
+(a) *) Min. wind
+45 39 speed
+m.p.h. or more (c)

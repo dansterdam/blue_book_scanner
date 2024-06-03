@@ -1,0 +1,26 @@
+The image appears to be a page from a Project Blue Book report. It does not contain any photographs, but rather a detailed report describing an observation of an unidentified aerial object. The report indicates that the observation took place on 3 October 1965 at Cannon AFB in New Mexico. The object is described as an "Astro (Arcturus)" that was observed at an elevation of 20 degrees, with a reported azimuth of 290 degrees. The report states that the object size varied from that of a dime to a quarter at arm's length, and that it attracted the attention of observers. There is no physical evidence noted in the report.
+
+Now, I will act as an OCR system and output all the text found in the document:
+
+PROJECT 10073 RECORD
+2. LOCATION
+3 October 65 04/20/2065 CANNON AFB, NEW MEXICO (L)
+3. SOURCE
+Military
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+25 minutes
+6. TYPE OF OBSERVATION
+Ground-Visual (R)
+7. WEATHER
+8. PHOTOS
+9. PHYSICAL EVIDENCE
+X No
+[ ] Yes
+PID SEP 43 D-329 (TDE)
+
+10. CONCLUSION
+Astro (Arcturus)
+
+Arcturus at 20 deg elevation, 290 deg azimuth in position of the reported object. Object else varied from the size of a dime to a quarter at arm's length. No physical evidence of phenomenon. Object attracted observers attention to the sky. Object was tracked on scope of Radar camera but could not be faded out into the horizon.

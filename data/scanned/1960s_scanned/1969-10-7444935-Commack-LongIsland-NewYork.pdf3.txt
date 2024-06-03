@@ -1,0 +1,14 @@
+The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book, with a questionnaire-style form filled out. The text in the document is largely redacted, with only some details visible, such as the respondent's age and gender.
+
+As an OCR system, I will output the text found in the document:
+
+HAVE YOU EVER SEEN THIS OR A SIMILAR PHENOMENON BEFORE? [ ] YES [ ] NO. IF "YES", GIVE DATE AND LOCATION.
+
+WAS ANYONE WITH YOU AT THE TIME YOU SAW THE PHENOMENON? [ ] YES [ ] NO. IF "YES", DID THEY SEE IT TOO?
+
+AGE: [ ] SEX: [ ] MALE [ ] FEMALE
+
+GIVE THE FOLLOWING INFORMATION ABOUT YOURSELF:
+
+WHEN AND WHERE DID YOU SIGHT THIS PHENOMENON?
+DATE: DAY MONTH YEAR

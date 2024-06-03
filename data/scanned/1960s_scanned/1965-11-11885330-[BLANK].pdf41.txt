@@ -1,0 +1,15 @@
+The image does not contain any photographs. It appears to be a page from an old document discussing technical details related to nuclear emulsions and momentum resolution measurements. As an OCR system, the text found in the document is as follows:
+
+"traveling through the glass, with essentially no corrections necessary since the glass is relatively distortion free.
+
+As an example of the momentum resolution attainable by emulsion measurements, consider the arrangement of Figure 3 for the case of standard nuclear emulsions (0.6 mm thick) supported on glass plates 3 mm thick. The error in determination of the momentum can be attributed to the uncertainty of the sagittal measurement. One source of sagittal error is the measurement of the track coordinate, which can be done to one or two microns. Another source of error is the mechanical stability of the position of the emulsions with respect to each other, and this is probably also of the order of a few microns. The remaining source of error is scattering in the central emulsion plate. The plate has a nuclear interaction length of only about 1 g/cm^2 so that nuclear interactions will be rare (~2%), and undetectable interactions will be much rarer still. For these reasons, only the Coulomb multiple scattering will be considered. There is a "tail" of large angle single scatters for the case of Coulomb scattering, but for the most part, the rms sagittal error (in cm.) will be given by
+
+As = 3.1 p where p = particle momentum in MeV/c, and L = emulsion separation in cm.
+
+The expected sagittal (in cm.) is
+
+s = 2 p^2 (.3H) where H is the magnetic field (uniform, in kilogauss)
+
+It is interesting to note that if the only source of error were Coulomb scattering, then the fractional momentum error would be independent of momentum, as given by the formula
+
+Δp/p = Δs/s = 2/H"

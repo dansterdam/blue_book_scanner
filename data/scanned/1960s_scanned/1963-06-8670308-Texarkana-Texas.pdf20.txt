@@ -1,0 +1,29 @@
+The image provided does not contain any photographs, but rather an official document titled "WINDS-ALOFT COMPUTATION SHEET" from the U.S. Department of Commerce Weather Bureau. The document appears to be a report or data sheet related to the measurement of wind speeds and directions at various altitudes over the Shreveport, Louisiana municipal airport on June 26, 1963.
+
+Here is the text from the document:
+
+WINDS-ALOFT COMPUTATION SHEET
+LAND STATION FORM
+WBAN-29
+
+Station: Shreveport, Louisiana
+Lat: 32°28'N Long: 93°49'W
+Elev: 258 ft
+Station No.: 72291, RAWIN, GCD-1A
+
+Year Month Day Time
+1963 JUN 26 2359
+
+Remarks: 1/1
+
+14512 24.2 29 1.0 36 14 6.0
+16022 29.2 29 1.7 50 14
+18145 29.4 30 2.7 54 35 5.9
+19053 30.7 30 2.6 57 40 6.0
+19265 31.1 30 2.6 53 53 7.0
+19585 30.7 31 2.7 57
+16645 31.1 30 3.2 59 54 5.8
+17670 31.1 31 3.1 59
+17785 31.1 31 4.5 61 69 15.6
+19670 32.1 32 7.5 70 60 11.0
+19750 32.3 34 6.6 88 95 11.0

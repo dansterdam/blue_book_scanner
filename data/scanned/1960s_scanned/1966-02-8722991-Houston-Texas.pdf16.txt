@@ -1,0 +1,32 @@
+The image appears to be a page from a Project Blue Book document containing a table with various data points related to a "STAR TREK" observation made in Houston, Texas. There is no photograph included in this particular page.
+
+Here is the text extracted from the document:
+
+FROM: 99920 - STAR TREK
+LOCATION: Houston, Texas
+HEIGHT PRESSURE TEMP R.H. TIME DIREC
+239 1000 5 48 2
+699 950 4 27 2
+1125 900 2 25 2
+1334 850 -1 25 2
+2268 800 -1 20 2
+2530 750 -3 20 2
+3124 700 -5 20 2
+4700 650 -5 20 2
+4339 600 -5 20 2
+5000 550 -18 20 2
+5723 500 -15 21 2
+6500 450 -24 22 2
+7233 400 -31 23 2
+8255 350 -25 23 2
+9349 300 -43 23 2
+10566 250 -49 2
+12015 200 -54 2
+12954 175 -58 2
+13577 150 -60 2
+14573 125 -60 2
+15213 100 -61 2
+REMARKS:
+DATA SOURCE: USAF HUMAN-RELIABIL PROJECT M1361.
+
+ANALYST:

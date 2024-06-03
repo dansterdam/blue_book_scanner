@@ -1,0 +1,27 @@
+This image appears to be a table or spreadsheet containing numerical data, but it does not contain any photographs. 
+
+Based on the OCR, the text in the document is as follows:
+
+COLUMBUS, OHIO
+PEGASUS I
+MONTH  DAY  HRS  MIN  ELEV  DIRECTION
+JULY   1    4.5  27   11.06   SOUTHWEST
+AUG   1     4.2  31   10.33   SOUTHWEST 
+AUG   2     7.2  21   18.45   SOUTH
+AUG   3     7.5  20   22.46   SOUTH
+AUG   4     8.1  19   25.50   SOUTH
+AUG   5     8.7  17   28.22   SOUTH 
+AUG   6     9.2  16   30.13   SOUTH
+AUG   7     9.8  14   31.39   SOUTH
+
+CORPUS CHRISTI
+PEGASUS I  
+MONTH  DAY  HRS  MIN  ELEV  DIRECTION
+JULY   1    2.27 57   11.11   SOUTHWEST
+AUG   1     3.33 46   16.27   SOUTHWEST
+AUG   2     4.27 35   20.15   SOUTH
+AUG   3     5.15 25   23.07   SOUTH
+AUG   4     5.57 15   25.09   SOUTH
+AUG   5     6.37 6    26.55   SOUTH
+AUG   6     7.13 58   28.15   SOUTH
+AUG   7     7.46 51   29.13   SOUTH

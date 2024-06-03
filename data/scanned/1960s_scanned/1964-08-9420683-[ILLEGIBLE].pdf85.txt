@@ -1,0 +1,18 @@
+The image does not contain any photograph. It appears to be a form or template for documenting a UFO sighting or observation, as part of Project Blue Book. The form includes fields for recording the date and time, location, source, number of objects, length of observation, type of observation, course, whether photos were taken, and whether any physical evidence was found.
+
+OCR Output:
+1. DATE - TIME GROUP
+2. LOCATION
+3. SOURCE
+4a. NUMBER OF OBJECTS
+5. LENGTH OF OBSERVATION
+6. TYPE OF OBSERVATION
+7. COURSE
+8. PHOTOS 
+   [ ] Yes
+   [X] No  
+9. PHYSICAL EVIDENCE
+   [ ] Yes
+   [X] No
+
+FTD SEP 8 0-379 (TDE) (Previous editions of this form may be used.)

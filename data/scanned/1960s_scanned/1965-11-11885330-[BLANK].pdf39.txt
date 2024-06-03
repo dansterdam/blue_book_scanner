@@ -1,0 +1,30 @@
+There is no photograph present in this image. This appears to be a scanned page from a Project Blue Book document, containing only text and no visual images.
+
+-13-
+24 hour flight in this cell of phase space is
+B = (flux) (area) (solid angle)
+= (4000) (—)2 (-57)2
+= .12 background tracks
+This estimate is an upper limit to the background. There are several ways to
+reduce the background problem. One way is to include an additional fourth
+emulsion plate after the set of 3 emulsions that would normally be used. Any
+ambiguous tracks found in the first three plates would predict a position in the
+fourth plate to micron accuracy, and a coincidental track in the fourth plate
+would be orders of magnitude less likely than in the previous plates. The
+fourth plate need only be examined in case there is an ambiguity in one of the
+first three plates. Another trick which could be employed would be to use
+double emulsion plates arranged to slide against each other under the control
+of a clock drive. Since the time of the interaction is precisely known from
+the trigger pulse, it is possible to position the plates as they were at the
+instant the particle passed through, and detect the correct particle by seeking
+the track which is unbroken at the interface of the emulsion in the region of
+the emulsion predicted by the spark chambers. Another obvious way to reduce the background is to refine the positional prediction in the emulsion and
+to improve the angular resolution in the emulsion in order to reduce the size
+of B. In this regard, recent reports of wire spark chamber performance are
+encouraging. Wire spark chambers avoid problems of optical recording
+technique and their many sources of distortion. The angular resolution might
+be improved by the use of emulsions which are thinner than the standard .6 mm
+nuclear emulsion (say .3 mm) and by the use of glass plates with emulsion on
+both sides of the plate. The latter approach of using two sided emulsion plates
+is a very attractive arrangement because the angle is then known to a small
+fraction of a degree by examining the position of the particle before and after

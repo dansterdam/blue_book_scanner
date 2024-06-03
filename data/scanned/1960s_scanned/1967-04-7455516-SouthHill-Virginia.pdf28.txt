@@ -1,0 +1,21 @@
+There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
+
+downward about 3/4 inch. A metal plate was used to distribute the impact. By allowing the weighted end of the board to fall from the vertical onto the pavement, the bolt could be driven into the surface with a reproducible and known impact.
+
+The weight resting on the bolt with the board horizontal was 47.5 pounds, and the distance to height through which the weight fell was 30 inches. Our tests were made near the four existing holes, with depths of penetration as follows:
+
+Test No.            Penetration, in units of 1/32 inch
+1                   13      (near NE hole)
+2                   13.5    (near SE hole)
+3                   15      (near SW hole)
+4                   13      (near NW hole)
+
+Average =           13.6/32 inch
+
+If it is assumed that the deceleration after impact was uniform, then the average force f required to stop a weight W (that has been accelerated by gravity downward through a distance H) acting over the penetration depth d, is simply
+
+f = W/d.
+
+The penetration will depend on the square of the velocity, so the weight of an object required to produce a given penetration will depend on the squared ratio of its impact velocity V to the impact velocity Vo in the test situation; Vo was 12.62 feet per second, by calculation. Wo indicates the test weight, and Y the weight associated with velocity Vo.
+
+W = 47.5 (W/12.6)^2 per "log", for 13/32" penetration.

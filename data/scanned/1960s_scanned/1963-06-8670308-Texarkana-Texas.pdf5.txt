@@ -1,0 +1,23 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book report, specifically a "WINDS-ALOFT COMPUTATION SHEET" that provides meteorological data such as wind speed, wind direction, and altitude for various time points on June 8, 1963 at the Shreveport, Louisiana Municipal Airport.
+
+Here is the text from the document:
+
+WINDS-ALOFT COMPUTATION SHEET
+(LAND STATION FORM)
+WBAN-29
+Station: SHREVEPORT, LOUISIANA
+Location: SHREVEPORT Municipal Airport
+Latitude: 32°29'N Long. 93°49'W
+Local Standard Time (M.S.T.) Zone Meridian
+Date: June 8, 1963
+Observation: 00Z (6:00 P.M.) 
+Ascension No. 20
+Orientation: True
+Elevation of Station: 238 Meters (GMT 1A)
+Wind Direction: Degrees
+Wind Speed: Knots
+Pressure Altitude: Feet
+Temperature: Degrees Centigrade
+Time Observed: 19:30
+
+The remainder of the document contains a table with various meteorological observations and computations at different pressure altitudes.

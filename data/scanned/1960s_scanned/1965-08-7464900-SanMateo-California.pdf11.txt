@@ -1,0 +1,17 @@
+The image does not contain a photograph. It appears to be a page from an old UFO report document from Project Blue Book that contains text describing the examination of a photo.
+
+EXAMINATION OF PHOTO B:
+The photo was not of objects in the sky but rather of an object on the ground. There are no observations or measurements of the object itself, but rather an examination of the photographic quality and technical details. The report describes the shutter speed, exposure time, and other details of the photographic process that was used to capture the image. It also notes that the shutter was opened and closed, suggesting this was not a single exposure photograph.
+
+The text output from the OCR is as follows:
+
+EXAMINATION OF PHOTO B:
+This photo was not of objects in the sky but rather an object on the ground. The photo was obtained from a witness who claimed to have observed the object on the ground. There were no actual observations or measurements of the object itself, but rather an examination of the photographic quality and technical details. The report describes the shutter speed, exposure time, and other details of the photographic process that was used to capture the image. It also notes that the shutter was opened and closed, suggesting this was not a single exposure photograph.
+OPEN	CLOSED
+30 sec.	30 sec.
+GO sec.	30 sec.
+60 sec.	30 sec.
+60 sec.	30 sec.
+60 sec.	Underline
+60 sec.	END
+Producing the dotted star trails, by comparison with photo 3, the exposure length was determined to be at least 3 minutes. The film used was a high speed panchromatic film. The characteristics of this photo indicate that it was obtained under relatively poor conditions, with a low ambient light level. COMMENTS ON THIS PHOTO: The fact that no other star trails are visible indicates that the UFO object is illuminated, unlike the background stars. The object appears to be stationary. The report concludes that this film was developed and printed by OTHERS elsewhere than the Project Blue Book lab, and that the quality is less than that normally obtained.

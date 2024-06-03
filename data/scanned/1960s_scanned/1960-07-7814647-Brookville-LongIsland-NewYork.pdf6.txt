@@ -1,0 +1,16 @@
+The image appears to be a diagram or map depicting a 360-degree view of a landscape or horizon. The central point is labeled "Zenith" and the diagram is divided into cardinal directions (North, South, East, West) and angular degrees (0 to 360 degrees). The landscape depicted contains various buildings and structures, as well as some terrain features. There are labels indicating specific directions and angles on the map.
+
+The text output is as follows:
+
+90°
+Zenith
+0°                  180°
+S                     N
+35
+NW
+270°                  90°
+SW                     E
+45
+NE
+180°                  0°
+S                     N

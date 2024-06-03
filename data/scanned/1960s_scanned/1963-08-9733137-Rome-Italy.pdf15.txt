@@ -1,0 +1,31 @@
+The image does not contain a photograph, but rather a table with meteorological data. The table lists the height, temperature, and humidity measurements taken at 18:00 on August 20th.
+
+METEOROLOGICAL DATA
+From CIAMPINO AIRPORT - ROME
+
+Sounding observed at 18.00 20 th of August
+
+Height (m.)    Temperature (C°)    Humidity
+933            22.9               57
+1133           14.3               53
+1213           11.5               51
+1321           7.7                37
+1429           4.5                24
+1539           1.5                21
+1688           -2.4               44
+1889           -5.8               39
+2021           -8.0               30
+2169           -10.6              44
+2421           -15.5              33
+2575           -18.9              32
+2759           -23.5              25
+2935           -27.1              19
+3136           -31.4              17
+3359           -35.9              18
+
+TRIAL OBSERVED AT 18.00 ( CIAMPINO AIRPORT-ROME ) 20 th AUGUST
+Height       Bearing      Velocity
+6600         235°        4
+5115         307°        5
+4124         312°        3
+3064         319°        2

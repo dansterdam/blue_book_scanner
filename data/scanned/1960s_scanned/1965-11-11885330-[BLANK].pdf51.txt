@@ -1,0 +1,15 @@
+There is no photograph present in this page from the old UFO report document. The text appears to be a technical discussion about magnets and charging times, related to the Project Blue Book investigation.
+
+Text from the document:
+
+If we replace copper with sodium in the example of the previous paragraph, we get a decay time of about 4 x 10^3 s.
+
+In charging the magnet, any shorted turn will cause a dissipation of energy at cryogenic temperatures and lengthen the charging time. However, assuming unity coupling between primary and secondary, the energy transfer ratio, Rw, is related to the primary and secondary time constants, Tp and Ts, and is given by:
+
+Rw = Ts / (Tp + Ts)
+
+We merely need charge the magnet in a time long in comparison to the secondary time constant to avoid this inconvenience. 
+
+Another problem to be solved in the development of these magnets is the one of quality assurance for the wire. At present it is practicable to buy wire in 20,000 ft lengths. For the bigger magnet this means about 100 pieces of wire. It will be desirable to wind each piece into a solenoid capable of developing about 20 kG at 20 A, using a coil form designed as a supply spool for the winding machine. Each solenoid will be tested at 4.2°K and then, having passed performance specifications, its wire will be wound into the magnet. In order to keep the handling costs down, we will have to work out simpler techniques for winding solenoids than those in current use. We plan to investigate the possibility of using multi-strand conductor, though the economics of this decision depend largely on what kind of warranty assurance we are able to reach with the manufacturers. The present cost of wire is about $400 lb^-1; we have estimated material costs for our magnets at $600 lb^-1 to reflect the necessity of the assurance program.
+
+With the provisional assertion that the quenching problem can be solved with the expenditure of an additional 300 lb of vehicle weight, the...

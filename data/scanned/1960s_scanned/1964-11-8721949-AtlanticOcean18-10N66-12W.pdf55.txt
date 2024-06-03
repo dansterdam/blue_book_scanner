@@ -1,0 +1,8 @@
+The image appears to be a map or diagram. It contains a scale in statute miles, as well as labels for a "RAILROAD", "ROAD", and "MAJOR AIRPORT". There are also some textual annotations indicating that the boundaries shown are those "recognized by the U.S. Government".
+
+RAILROAD
+ROAD
+MAJOR AIRPORT
+0 100 200 300 400 500
+Statute Miles
+Boundaries are those recognized by the U.S. Government.

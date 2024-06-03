@@ -1,0 +1,13 @@
+The image contains a table titled "TABLE II" that shows the "Distance between civilizations as a function of the number of civilizations." The table has three columns - "N/Ne", "Nc", and "d (in light years)" - and lists various numerical values in each row.
+
+TABLE II
+Distance between civilizations as a function of the number of civilizations.
+N/Ne	Nc	d (in light years)
+102	109	32
+103	108	70
+104	107	150
+105	106	320
+106	105	700
+107	104	1500
+108	103	3200
+109	102	7000

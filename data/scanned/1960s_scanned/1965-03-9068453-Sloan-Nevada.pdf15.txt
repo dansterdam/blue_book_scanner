@@ -1,0 +1,12 @@
+The image does not contain any photographs, only a form with a table and various fields to be filled out. As an OCR system, I will output the text found in the document:
+
+1. NAME (Requester fill in 1 through 9)
+2. Symbol
+3. Existence 
+4. Project No.
+5. Request Photo: P. Number or Description
+6. Density/Size Photo Desired
+7. No. of Copies
+8. Date Desired
+9. Today's Date
+10. Signature

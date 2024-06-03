@@ -1,0 +1,31 @@
+The image does not contain any photographs. It appears to be a handwritten letter or report from someone to the U.S.A.F. (United States Air Force) regarding Project Blue Book, which was a secret government program that investigated UFO sightings in the United States.
+
+Project Blue Book
+U.S.A.F.
+Washington, D.C.
+
+Dear Sirs,
+
+Since December, 1966, I have witnessed four objects which I feel warrant attention as possible U.F.O.'s.
+
+My first sighting occurred on Friday, December 9, 1966. At around 11:00 P.M. I glanced out the kitchen window and noticed a bright red and blinking light moving slowly from west to northwest. It was at a fairly low altitude and I don't feel qualified to estimate its speed, but it was smaller in appearance than a search light and brighter when the red light blinked on.
+
+The second incident occurred a week later on December 16, 1966. At this time my wife and I observed the same type of object, only this time it was moving in the opposite direction, from northwest to southeast. The light was not as bright this time but still very noticeable. On this occasion we estimated the object's distance to be approximately 2 to 3 miles from our house. However, the thing's actual size is not easily determined.
+
+The third time I saw the object was on June 16, 1967. This time it came from the northwest, climbed high in the sky, then descended behind the house. It apparently landed in a field between our house and the woods down. 
+
+Text Output:
+
+Project Blue Book
+U.S.A.F.
+Washington, D.C.
+
+Dear Sirs,
+
+Since December, 1966, I have witnessed four objects which I feel warrant attention as possible U.F.O.'s.  
+
+My first sighting occurred on Friday, December 9, 1966. At around 11:00 P.M. I glanced out the kitchen window and noticed a bright red and blinking light moving slowly from west to northwest. It was at a fairly low altitude and I don't feel qualified to estimate its speed, but it was smaller in appearance than a search light and brighter when the red light blinked on.
+
+The second incident occurred a week later on December 16, 1966. At this time my wife and I observed the same type of object, only this time it was moving in the opposite direction, from northwest to southeast. The light was not as bright this time but still very noticeable. On this occasion we estimated the object's distance to be approximately 2 to 3 miles from our house. However, the thing's actual size is not easily determined.
+
+The third time I saw the object was on June 16, 1967. This time it came from the northwest, climbed high in the sky, then descended behind the house. It apparently landed in a field between our house and the woods down.

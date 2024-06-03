@@ -1,0 +1,47 @@
+There does not appear to be any photograph present in this image. The image shows a table of data, likely from a Project Blue Book report, containing various measurements and information about satellite and object observations.
+
+[BEGINS OCR OUTPUT]
+SATELLITE AND OBJECT OBSERVATIONS
+APRIL 25, 1963
+
+These observations are based on satellite elements received on April 23, 1963.
+
+SATELLITE  EPHEMERIS DATA FOR APRIL 25, 1963
+SATELLITE  LAUNCH   PERIGEE   APOGEE   INCLINATION  ECCEN-  PERIOD   NODE   ANOMALY
+ NO.   DATE    ALT(KM)   ALT(KM)  DEGREES     TRICITY  MIN.     DEG.     DEG.
+
+1.1    3-17-58  250.     1723.     50.1        .14     103.5    199.97  329.54
+2.1    4-13-60  232.     1561.     51.2        .13      98.3    154.93  243.24
+3.1    4-13-60  241.     1678.     51.2        .14     101.6    154.98  243.29
+4.1    2-16-60  248.     1643.     51.7        .13     100.7    349.42  285.38
+5.1    3-17-58  254.     1731.     50.1        .14     103.7    200.15  329.66
+6.1    4-13-60  233.     1563.     51.2        .13      98.4    155.00  243.31
+7.1    2-16-60  247.     1638.     51.7        .13     100.5    349.53  285.49
+8.1    6-21-60  297.     1871.     50.7        .14     108.2    294.95   65.39
+9.1    6-21-60  304.     1877.     50.7        .14     108.5    295.01   65.45
+10.1   3-17-58  245.     1707.     50.1        .14     102.9    200.26  329.77
+
+UNUSUAL SATELLITES OR OBJECTS OBSERVED APRIL 23, 1963
+SATELLITE     ESTIMATED
+ NO.       LOCATION       APPEARANCE          REMARKS
+
+16-1        34-10N        Bright object     Flight observed April 23, 1963
+            170-10W         in flight        between 0745 and 0800Z (Z.T.)
+                                              (Daylight) Traveling E-W
+
+UNUSUAL SATELLITES OR OBJECTS OBSERVED APRIL 24, 1963
+SATELLITE     ESTIMATED
+ NO.       LOCATION       APPEARANCE          REMARKS
+
+16-1        34-10N        Bright object     Flight observed April 24, 1963
+            170-10W         in flight        between 0745 and 0800Z (Z.T.)
+                                              (Daylight) Traveling E-W
+
+UNUSUAL SATELLITES OR OBJECTS OBSERVED MAY 4, 1963
+SATELLITE     ESTIMATED
+ NO.       LOCATION       APPEARANCE          REMARKS
+
+16.1        34-10N        Bright object     Flight observed May 4, 1963
+           170-10W          in flight        between 0745 and 0800Z (Z.T.)
+                                             (Daylight) Traveling E-W
+[ENDS OCR OUTPUT]

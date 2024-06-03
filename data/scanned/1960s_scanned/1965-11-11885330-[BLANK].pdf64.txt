@@ -1,0 +1,11 @@
+The image does not contain any photographs, only text. As per your instructions, I will proceed to act as an OCR system and produce all the text found in the document:
+
+be the study of magnetic interference with other equipment such as camera mechanisms, and the new recovery problems. All flights from this point on should yield valuable physics data.
+
+Alternate physics flight configurations
+
+Although it is desirable to try some balloon flights with a liquid hydrogen target, such as described in this proposal, there are also advantages to using other types of target material such as lithium hydride or hydrocarbons. Aside from the obvious simplification resulting in eliminating the bulky cryogenics associated with the hydrogen, there are also advantages in the form of increased counting flux and larger solid angle at the wide gap spark chamber. The increased counting flux comes about as a consequence of the shortening of the entire apparatus with removal of the hydrogen target, which allows us to accept poorer geometry at the wide gap spark chamber is the result of being able to place a more compact target immediately above the chamber (perhaps inside the superconducting chamber magnet) and detect larger angle secondaries which would be missed if produced in the hydrogen target.
+
+The wide gap spark chamber, as proposed, is a two section chamber. It would probably be useful to fly some flights with material between the two halves of the chamber (for example lead to convert gamma rays for detecting mesons, or hydrogen rich target material for studying interactions of the secondaries). A few flights without momentum analysis might also be useful.
+
+Although the momentum information from the emission measurements would be missing, the rapid decline of the proton flux with energy combined with the

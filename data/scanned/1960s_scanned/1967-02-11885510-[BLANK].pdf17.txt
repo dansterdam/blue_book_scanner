@@ -1,0 +1,15 @@
+The image does not contain a photograph, but rather an excerpt from a document discussing the duration of civilizations and interstellar communication. As an OCR system, I will output all the text found in the document:
+
+civilization has had its ups and downs. The ancient Romans, for instance, were much more highly civilized than their descendants a thousand years later. Therefore, there is no need to postulate a complete destruction of our civilization in order to lose our ability for interstellar communication.
+
+The duration of any civilization is accordingly a guess, and this factor makes all discussions about interstellar contacts very nearly a pure exchange of verbage. Shklovskiy, for instance, develops a formula for the average distance between civilizations, d, depending on the time, T, of the duration of the existence of stars and, t, the duration of civilization:
+
+d = 5.2 (T/t)^1/3 parsecs
+
+If we put T = 10^10 years as commonly accepted, and t = 10^4 years we compute the average distance between two civilizations in our galaxy to be 520 parsecs or about 1,700 light years.
+
+Shklovskiy is evidently afraid of his own result and is willing to take t = 10^5 to 10^6 years. Even in this case the distances come out on the order of 100 parsecs or 300 light years.
+
+Similar calculations by L.M. Gindilis, reported in an article entitled "The Possibilities of Communication with Extraterrestrial Civilizations (Zemlya I Vselennaya, No. 1, 1965) are summarized in Appendix I. Although the assumptions used in Gindilis's calculations are different from Shklovskiy's, Gindilis concludes
+
+19

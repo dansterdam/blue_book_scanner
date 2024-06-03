@@ -1,0 +1,29 @@
+There is no photograph present in this image. This appears to be a page from an old UFO report document containing text and tables. 
+
+The text output is as follows:
+
+thus li. 14.i9.
+Right ascension was computed by first measuring the location of the
+end of the moon-trail relative to a line drawn at right angles to the star-
+trails; in this way the relative right ascension of the image of the moon
+could be found. The position of the center of the moon was estimated by
+centering a line as long as the star-trails on the elongated image, and
+then picking one end of that line as the starting-position of the moon's
+center. The difference in right ascension was not corrected for curvature
+of the right-ascension lines, the declination being sufficiently close to
+zero that little convergence would be expected. The measured difference
+was again corrected for plate scale and off-axis angle, with the result
+that the moon's right ascension at the start of the exposure was found to
+be 2h 01m.
+From the American Ephemeris and Nautical Almanac for 1966, the
+following table of apparent lunar coordinates was taken; all entries are
+for 29 October 1966:
+UT    EDST (Oct.29)    RA    DEC    RA error    DEC error
+0200    10:00 PM    2h 55m 09s    +10° 43' 47"    +2m 06s    +30'
+0300    11:00 PM    2h 01m 01s    +10° 56' 49"    +1m 16s    +37'
+0400    12:00 PM    2h 06m 33s    +11° 09' 47"    -1m 35s    +05'
+By a simple interpolation formula, the time was found when the
+absolute amount of error was the same, in minutes of arc, in both directions:
+Time: 0332 UT, or 11:32 PM EDST, Oct. 29th
+RA: 2h 02m 05s (12 minutes of arc high)
+DEC: 11° 03'8 (11 minutes of arc low)

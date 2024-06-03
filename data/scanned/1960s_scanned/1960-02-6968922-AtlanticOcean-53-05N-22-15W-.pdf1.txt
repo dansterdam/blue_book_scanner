@@ -1,0 +1,42 @@
+The image contains a Project Blue Book record card, which appears to be a form used to document sightings of UFOs or other aerial phenomena. The record card includes various fields to record details about the sighting, such as the date, location, type of observation, source, number of objects, and a description of the observed object. In this specific case, the record card indicates that the sighting occurred on 1 February 1960 in the Atlantic Ocean at coordinates 53-05N, 22-15W. The description states that the object was generally conforming to the pattern of a "missile" observation, and it is concluded that the object was likely a meteor.
+
+Now, I will act as an OCR (Optical Character Recognition) system and extract all the text found in the document:
+
+1 DATE
+1 February, 1960
+
+2 LOCATION
+Atlantic Ocean (53-05N, 22-15W)
+
+3 TYPE OF OBSERVATION
+□ Ground-Visual
+X Air-Visual
+
+4. SOURCE
+Civilian
+
+5. PHOTOS
+□ Yes
+X No
+
+6. LENGTH OF OBSERVATION
+12 seconds/15
+
+7. NUMBER OF OBJECTS
+1
+
+9. COURSE
+Generally SW
+
+10. BRIEF SUMMARY OF SIGHTING
+While, flying with long haul, I had looked the ship of a star. I had seen a meteor that was about 20 day above the horizon, mark on the south.
+
+12. CONCLUSIONS
+X Was Balloon
+□ Was Astronomical
+□ Was Aircraft
+□ Was Astronomical Satellite
+□ Other: Insufficient Data for Evaluation
+□ Unknown
+
+Description: Generally conforms to the pattern of a "missile" observation, and it is concluded that such a meteor was responsible for this report.

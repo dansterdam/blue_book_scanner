@@ -1,0 +1,22 @@
+The image does not contain any photograph. It appears to be a page from a report with information about weather conditions at the Seattle-Tacoma Airport during the period from February 13 through February 19, 1968.
+
+Output from OCR:
+
+I spoke with the Seattle ESSA Weather Bureau office and obtained the following data on lowest temperatures at Seattle-Tacoma Airport for the period from February 13 through February 19:
+
+Date       Lowest Temp. (°F)
+2-13-68    33°
+2-14-68    35° 
+2-15-68    33°
+2-16-68    34°
+2-17-68    44°      rain
+2-18-68    50°      rain
+2-19-68    50°      rain
+
+A further call to the weather bureau climatology office yielded the attached information on weather conditions on Vashon Island and how they differ from Seattle-Tacoma Airport weather. Results are summarized below:
+
+Seattle-Tacoma Airport Maximum Average Temp.     59.2°F
+Vashon Island Maximum Average Temp.            59.4°F
+
+Seattle-Tacoma Airport Minimum Average Temp.    42.3°F 
+Vashon Island Minimum Average Temp.            42.5°F

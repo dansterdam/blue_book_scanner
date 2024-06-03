@@ -1,0 +1,37 @@
+There is no photograph present in this image. It appears to be a page from an old UFO report document from Project Blue Book, containing a series of questions and a handwritten response.
+
+14. Did the object disappear while you were watching it? If so, how? No
+
+15. Did the object move behind something at any time, particularly a cloud?
+(Circle One): Yes No Don't Know. If you answered yes, describe: Moved in/out of my sight behind a building
+
+16. Did the object get in front of something at any time, particularly a cloud?
+(Circle One): No Yes Don't Know. If you answered yes, describe: . 
+
+17. Tell in a few words the following things about the object:
+a. Sound: None
+b. Color: Bright white lights, cone shaped
+
+18. We wish to know the angular size. Hold a match stick at arm's length in line with a known object. How much of the object is covered by the head of the match? (If you have not performed this experiment, write "Not performed".) Very much larger than the match head. About a minute wide, or more.
+
+19. Draw a picture that will show the shape of the object or objects. Label and include in your drawing any wings, tail, exhaust trails, etc., and specifically show the direction the object was moving. Place an arrow beside the drawing to show the direction the object was moving.
+[The handwritten drawing and description appears to show a cone-shaped object with an upward pointing arrow.]
+
+Output all the text found in the document:
+
+14. Did the object disappear while you were watching it? If so, how?
+No
+
+15. Did the object move behind something at any time, particularly a cloud?
+(Circle One): Yes No Don't Know. If you answered yes, describe: Moved in/out of my sight behind a building  
+
+16. Did the object get in front of something at any time, particularly a cloud?
+(Circle One): No Yes Don't Know. If you answered yes, describe:
+
+17. Tell in a few words the following things about the object:
+a. Sound: None
+b. Color: Bright white lights, cone shaped
+
+18. We wish to know the angular size. Hold a match stick at arm's length in line with a known object. How much of the object is covered by the head of the match? (If you have not performed this experiment, write "Not performed".) Very much larger than the match head. About a minute wide, or more.
+
+19. Draw a picture that will show the shape of the object or objects. Label and include in your drawing any wings, tail, exhaust trails, etc., and specifically show the direction the object was moving. Place an arrow beside the drawing to show the direction the object was moving.

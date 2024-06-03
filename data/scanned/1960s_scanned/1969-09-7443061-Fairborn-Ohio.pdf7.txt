@@ -1,0 +1,12 @@
+The image contains two illustrations. The larger one is a compass-like diagram with labels for the cardinal directions. The text below the diagram describes how to use it to determine the position of the observed phenomenon. The two smaller illustrations show landscape scenes, depicting what the observer may have seen.
+
+Text output:
+
+NOW NINE
+NW N NE
+W E
+SW S SE
+
+TO PLOT THE EXACT PLACE AND AZAT AT THE POSITION OF THE PHENOMENON WHEN FIRST SEEN, AND X,Y AT THE POSITION OF THE PHENOMENON WHEN LAST SEEN, CONNECT THE X AND R WITH A LINE TO APPROXIMATE THE DIRECTION OF MOTION. THE AZIMUTH AND ELEVATION ANGLES ARE MARKED IN DEGREES TO INDICATE THE POSITION AT THE TIME OF FIRST SIGHT, AND A SIMILAR SET MARKED FOR THE LAST OBSERVATION TO COMPARE THE TWO.
+
+PAGE 2 OF 5 PAGES

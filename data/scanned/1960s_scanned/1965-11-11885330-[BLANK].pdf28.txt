@@ -1,0 +1,19 @@
+This image does not contain any photographs. It appears to be a scanned page from a Project Blue Book document discussing technical details of an experiment using a Cerenkov detector to analyze properties of incoming protons.
+
+The OCR output is as follows:
+
+This enables one to discriminate against unwanted particles at lower energies by using the Cerenkov detector output as a firing pulse to wide-gap spark chambers in the "experiment" portion. The three principal features of the "experiment" are:
+
+1. The analysis of the momentum and direction of an incoming proton obtained by recording its orbit in a transverse magnetic field. The analysis is done by the use of a combined spark chamber/emulsion stack technique which identifies the proton in time and space.
+
+2. The provision of a two-meter liquid hydrogen target for p-p interactions.
+
+3. The display and recording of the trajectories of the interaction products which result from the traversal of the proton by using a wide-gap spark chamber in a second, transverse magnetic field.
+
+After a flight the spark chamber photographs are scanned and measured. Data from the upper chambers give a precise estimate of the momentum of the proton. For those events where greater precision is desired, the emulsions may be scanned. From a knowledge of the proton's initial direction and momentum and data from the interaction chamber films, the vertex can be recreated and the interesting properties of the interaction products computed.
+
+During its flight the system functions automatically and reports the relevant details of its operation to a ground base. A typical balloon flight will probably last about 24 hours. The anticipated duration of the series of balloon experiments is from three to seven years, depending on how well the experimental results live up to the optimistic forecast.
+
+B. Nature of the Primary Radiation
+
+The particle "beam" consists of the natural cosmic rays at the balloon altitude. At altitudes in the vicinity of 100,000 feet, the cosmic rays

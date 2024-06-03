@@ -1,0 +1,39 @@
+There is no photograph present in this image. This appears to be a scanned document from Project Blue Book, an official United States Air Force investigation of unidentified flying objects (UFOs).
+
+Air Intelligence Information Report
+22 January 1961
+Subject: UFO
+SUBJECT: TA-3
+INCIDENT: UFO
+
+TO: ATIC, Wright-Patterson AFB, Ohio
+
+1. There have been sightings of UFOs in the vicinity of Sheppard AFB, Texas on 9, 10, 12 and 15 January 1961.
+
+2. The sighting of 9 January 1961 was made by Major Warren H. Alfen and Major Donald G. Traylor as they proceeded to Sheppard AFB from Dallas, Texas. In their report, they stated that the object was in investigating UFO, in their conclusion, that the object was observed. This report was forwarded to the office of the Deputy Chief of Staff, Intelligence, USAF.
+
+3. The ground sightings occurred nightly in the description on 10 January 1961, concerning 10 January sighting. Many ground sightings were reported by the officers of both news media, the preparing officers of this intelligence report and the witnesses in this area. The path of the object sighted from the aircraft remains unknown.
+
+4. The 11 January sighting was reported by Mrs. whose testimony is significant, that this sighting took place on the day that the local space capsule was recovered, and this object was observed through her telescope. The description for this UFO, she said, was much-used description for UFOs. She left the fighting shape, after watching them for some time. This object was observed also by other witnesses in this area.
+
+5. Mr. reported for KFDX-TV, Wichita Falls, Texas, that he saw a brightly colored object in the eastern sky, which he believes to be the object described in the preparation officers' report.
+
+Text output:
+
+AIR INTELLIGENCE INFORMATION REPORT
+22 January 1961
+SUBJECT: UFO
+SUBJECT: TA-3 
+INCIDENT: UFO
+
+TO: ATIC, Wright-Patterson AFB, Ohio
+
+1. There have been sightings of UFOs in the vicinity of Sheppard AFB, Texas on 9, 10, 12 and 15 January 1961.
+
+2. The sighting of 9 January 1961 was made by Major Warren H. Alfen and Major Donald G. Traylor as they proceeded to Sheppard AFB from Dallas, Texas. In their report, they stated that the object was in investigating UFO, in their conclusion, that the object was observed. This report was forwarded to the office of the Deputy Chief of Staff, Intelligence, USAF. 
+
+3. The ground sightings occurred nightly in the description on 10 January 1961, concerning 10 January sighting. Many ground sightings were reported by the officers of both news media, the preparing officers of this intelligence report and the witnesses in this area. The path of the object sighted from the aircraft remains unknown.
+
+4. The 11 January sighting was reported by Mrs. whose testimony is significant, that this sighting took place on the day that the local space capsule was recovered, and this object was observed through her telescope. The description for this UFO, she said, was much-used description for UFOs. She left the fighting shape, after watching them for some time. This object was observed also by other witnesses in this area.
+
+5. Mr. reported for KFDX-TV, Wichita Falls, Texas, that he saw a brightly colored object in the eastern sky, which he believes to be the object described in the preparation officers' report.

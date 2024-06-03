@@ -1,0 +1,10 @@
+The image does not contain any photographs. It appears to be a page from a Project Blue Book report, specifically a flight log with various data fields filled out. As an OCR system, I will output the text found in the document:
+
+ACFT DEPT  PILOT - NAVIGATOR AID        ETE  ETA FUEL WIND DIST PAINT ATA TEMP DIST
+RERUN 4/1/64 SNOW/ROBINSON  1500 2102 7090 3507 ES .100 - 1752 GS .10  
+RERUN 4/1/64 SNYDER 2927 4230 0487 2149 KK LP - 1218 KK 77
+RRS1205 4/1/64 CROCKETT 9000 0145 0236 3430 G .72 - 0215 KK 77
+9/30 3/31/64 EDWARDS 9002 2130 2172 3415 FK .72 - 0224 KK 77
+9/30 4/1/64 LLOYD 8001 2130 0239 3345 KK .72 - 0226 KK 77
+RERUN 4/1/64 KISH/STINSON 0428 2430 0339 4700 KK .72 - 0222 KK 77 
+RERUN 4/1/64 WILLIAMS (0.59) 2230 0304 4110 GG .72 - 0232 KK 77

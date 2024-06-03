@@ -1,0 +1,6 @@
+The image contains two sketches. The first sketch shows a curved horizon line and an object above it, with the text "Place an 'A' on the curve to show how high the object was above the horizon (skyline) when you first saw it." The second sketch shows a road or path leading to a vanishing point, with the text "In the following larger sketch place an 'A' at the position the object was when you first saw it. Refer to similar sketches as examples of how to complete this."
+
+OCR output:
+32. In the following sketch, imagine that you are at the point shown. Place an 'A' on the curve to show how high the object was above the horizon (skyline) when you first saw it. 
+
+33. In the following larger sketch place an 'A' at the position the object was when you first saw it. Refer to similar sketches as examples of how to complete this.

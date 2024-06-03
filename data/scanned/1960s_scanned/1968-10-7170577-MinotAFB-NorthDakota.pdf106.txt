@@ -1,0 +1,25 @@
+The image does not contain a photograph, but rather a table with data on azimuth and elevation angles observed at 0300 hours local on October 24, 1968. The table lists various celestial objects and their corresponding azimuth and elevation values.
+
+AT 0300 HOURS LOCAL 24 OCTOBER 1968
+AZIMUTH    ELEVATION
+Regulus   78    10
+Canopus   69    20
+Pollux    83    45
+Procyon   118   37
+Betelgeuse 139   28
+Sirius    144   28
+Aldebaran 154   25
+Arieta    229   13
+Vega      331   4
+
+AT 0600 HOURS LOCAL 24 OCTOBER 1968
+Mars      83    65
+Jupiter   85    43
+Spica     101   37
+Capella   101   53
+Castor    105   57
+Procyon   156   37
+Sirius    175   32
+Rigel     179   32
+Aldebaran 255   14
+at horizon just below horizon

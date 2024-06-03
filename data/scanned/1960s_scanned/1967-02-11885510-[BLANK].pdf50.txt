@@ -1,0 +1,22 @@
+The image does not contain any photographs, only text. I will proceed to act as an OCR system and produce the output of all the text found in the document.
+
+The form of the function f(tc) depends upon the point of
+view with regard to the time span of a civilization.
+If tc <= T,
+then f(tc) = tc
+If tc ~ T,
+then f(tc) = T - tc
+where To is the time between the formation of a planetary system
+and the appearance of a technologically developed civilization
+on it.
+Assuming the lifetime of a civilization is limited, the
+following variables may be substituted into equation (1):
+Nk1k2 = between 10^5 and 10^10
+P1 and P2 unknown but greater than zero and less than or equal
+to one.
+f(tc) = tc where T is generally accepted as 10^10
+Upon substituting into equation (1) under the premise that
+one wishes to calculate the maximum number of civilizations, the
+following result is obtained:
+Nc ~ tc (2)
+49

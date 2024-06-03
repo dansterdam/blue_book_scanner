@@ -1,0 +1,15 @@
+The image appears to be a technical diagram or schematic related to a UFO sighting or report. It does not contain any human faces or identifiable individuals. 
+
+The text output from the OCR is as follows:
+
+Given: side "B" = 91.8355 miles
+Print: side "B" and side "A"
+Solution: 
+a = sec A
+b = ä sec A
+b = 91.8355 ( 1.2696 ) 
+= 116.54 miles
+c = sin A
+e = b sin A 
+e = 116.54 ( .6157 )
+e = 71.754 miles

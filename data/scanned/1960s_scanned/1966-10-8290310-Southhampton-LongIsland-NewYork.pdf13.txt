@@ -1,0 +1,20 @@
+This image does not contain a photograph. It appears to be a page from a report or document related to a project called "Project Blue Book" and discusses calculations and measurements related to the declination of the moon and its position in the sky. The text describes various angles, distances, and calculations performed to determine the moon's declination.
+
+Having the focal length, a correction factor could be computed to take into account the off-axis angles. The resulting corrected on-axis plate scale was 0.004175 inches per minute of arc, the scales computed from the measured separations agreeing within 1%.
+
+The ratio of the declination separations on the print is 0.1757; the ratio of the actual declination-differences is 1.1756; the error is 0.011, or 0.63%. The identification may be taken as proven.
+
+Next the declination-difference between each star-trail and the center of the moon-trail was measured. The distances were:
+Alpha - moon 3.233 inches
+Beta - moon 2.524 inches 
+Gamma - moon 2.114 inches
+
+A mean geometry correction was computed for the mid-points of these distances, and they were converted into angles, and the declination of the moon was computed, as follows:
+
+Difference Angle Moon's Declination
+Alpha - moon 12° 30'30" 10° 45'15"
+Beta - moon 9° 52'30" 10° 46'55"
+Gamma - moon 8° 21'5" 10° 46'32"
+Mean computed declination 10° 46'19"
+
+The declination of the moon is given in the ephemeris as viewed from the center of the earth; thus a person standing on the earth at a northerly latitude will see too low a declination due to parallax. This parallax was computed for a latitude of 40° north, and it amounted to 23 minutes of arc. The corrected ephemeris declination of the moon was 10° 46'19".

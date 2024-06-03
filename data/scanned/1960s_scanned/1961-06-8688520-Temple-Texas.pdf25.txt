@@ -1,0 +1,37 @@
+This page from the Project Blue Book document does not contain any photographs. It appears to be a form or questionnaire with instructions for the observer to describe the observed object.
+
+16. Tell in a few words the following things about the object:
+
+a. Ground or air observation -
+
+c. Color was-a black & white object that seemed larger in sky
+
+17. Draw a picture that will show the shape of the object or objects. Label and include in your picture such as wings, protrusions, etc., and especially exhaust trails if there are any behind the object, as you can recall them.
+
+[A hand-drawn sketch of an object with a circular shape is provided.]
+
+18. The shape of the object was:
+(Circle One)
+a. Round
+b. Elongated 
+c. Saucer-shaped
+d. Don't remember
+
+19. If there was MORE THAN ONE OBJECT, please describe how they were arranged, and put an arrow to show the direction that they were traveling.
+
+Text output:
+
+16. Tell in a few words the following things about the object:
+a. Ground or air observation - 
+c. Color was-a black & white object that seemed larger in sky
+
+17. Draw a picture that will show the shape of the object or objects. Label and include in your picture such as wings, protrusions, etc., and especially exhaust trails if there are any behind the object, as you can recall them.
+
+18. The shape of the object was:
+(Circle One) 
+a. Round
+b. Elongated
+c. Saucer-shaped
+d. Don't remember
+
+19. If there was MORE THAN ONE OBJECT, please describe how they were arranged, and put an arrow to show the direction that they were traveling.

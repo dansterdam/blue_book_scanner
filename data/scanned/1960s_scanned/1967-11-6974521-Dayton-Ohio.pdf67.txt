@@ -1,0 +1,25 @@
+The image contains a table with various data related to a UFO sighting. There is no photograph present in this image.
+
+PROJECT 9957D - UFO DATA
+SOUNDING # 3    LOCATION: Dayton, Ohio    DATE: 
+HOUR        PRESSURE    TEMP    DEW POINT    DIRECTION    SPEED
+22 NOV 67
+SPD (21L)                                190            4
+SPD (22L)                                170            4
+6,000       (0700L Data, 24 Nov 67)      270           17
+10,000      (0700L Data, 24 Nov 67)      250           36
+15,000      (0700L Data, 24 Nov 67)      260           49
+20,000      (0700L Data, 24 Nov 67)      260           51
+24 NOV 67
+SPD (22L)                                290            3
+6,000                                    230           15
+22 OCT 67
+SPD (18L)                                140            6
+SPD (19L)                                120            4
+6,000                                    140            3
+10,000                                   300            5
+15,000                                   280            6
+20,000                                   270           15
+REMARKS:
+DATA SOURCE: ETAC Data Files
+ANALYST: Sgt Dunham

@@ -1,0 +1,29 @@
+The image does not contain any photograph. It appears to be a page from a Project Blue Book report, which is a collection of UFO reports from the United States Air Force. The page contains a standardized form with various fields filled out, including the date, time group, location, source, number of objects, length of observation, type of observation, course, and whether photos or physical evidence were obtained.
+
+Textual output:
+
+PROJECT 10.0/3 RECORD
+1. DATE - TIME GROUP
+19 June 66   20/0300Z
+2. LOCATION
+Friendswood, Tex.
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+5-6 minutes
+6. TYPE OF OBSERVATION
+Ground Visual
+7. COURSE
+NE-S
+8. PHOTOS
+1. Yes
+2. No
+9. PHYSICAL EVIDENCE
+1. Yes
+2. No
+10. CONCLUSION
+(OTHER) INSUFFICIENT DATA FOR EVALUATION
+11. BRIEF SUMMARY AND ANALYSIS
+SEE CASE

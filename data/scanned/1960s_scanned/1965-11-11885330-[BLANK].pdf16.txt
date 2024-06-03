@@ -1,0 +1,15 @@
+The image does not contain any photographs, only text. As requested, I will act as an OCR system and produce the text found in the document:
+
+Tentative report
+
+Large program of high resolution solar spectroscopy from a balloon
+
+The study of the solar spectrum in the lead sulfide region (more precisely between 1.2 and 3 microns) is an important problem. Some hydrogen and helium lines appear in that domain, in addition to many other solar lines of relatively high excitation potential. The Michigan atlas, recorded in 1949, is still the only publication covering the parts of this region that we can reach from the ground. Its resolving power of about 30,000 (0.1 cm-1) is not sufficient to give the possibility of studying the profile of the majority of the solar lines and it seems now feasible to remap the same regions, from a high altitude station, using the latest possibilities of cooled PbS cells and "echelle" grating of high efficiency. We plan to start such a program in about one year, using the facilities of our laboratory at the Jungfraujoch station.
+
+However, it will be very useful to extend the same kind of observations to fill the "gaps" in the Michigan atlas telluric water vapor bands. A high altitude balloon is a powerful tool for such a study, in spite of the fact that many water vapor and carbon dioxide lines will still appear in the records.
+
+We must insist on the importance of reaching the highest possible resolution. Solar physicists are now much more interested in lines profiles, and in center to limb variations of these profiles, than in the simple detection of new solar lines with insufficient resolution. In any case, a high resolution will also help to resolve the blending of solar and remaining telluric lines.
+
+It is possible to estimate that a resolution of about 100,000 will be necessary to reach with sufficient accuracy the profiles of the majority of infrared solar lines. Actual gratings (single passed) have a theoretical resolution of the order of 150,000 at 2.5 microns and 300,000 at 1.25 micron, but it seems difficult (even with the Jungfraujoch installation) to reach easily these values, due to the limitation being given by the insufficient sensitivity of the detectors.
+
+We have thus decided to design a balloon-borne equipment able to give the actually highest possible resolution, with a solar image of 50 to 60 mm in diameter, as needed by the plans to study center to limb profiles variations.

@@ -1,0 +1,19 @@
+The provided image contains a photograph or drawing of a UFO sighting. The image shows a sketch or diagram of an oval-shaped object labeled "2" chrome-like" with a length of "35' width".
+
+The text in the document states:
+
+14. Did the object disappear while you were watching it? If so, how? Dashed straight line, away at left.
+15. Did the object move behind something at any time, particularly a cloud? (Circle One): Yes
+16. Did the object move in front of something at any time, particularly a cloud? (Circle One): In front of: 
+17. Tell in a few words the following things about the object: a. Sound: Mute b. Color: Chrome color
+18. We wish to know the angular size. Hold a match stick at arm's length in line with the object. How much of the object is covered by the head of the match? About 75-percent of object covered.
+19. Draw a picture that will show the shape of the object of objects. Place an arrow beside the drawing to show the direction the object was moving.
+
+The text output from the OCR process is:
+
+14. Did the object disappear while you were watching it? If so, how? Dashed straight line, away at left. 
+15. Did the object move behind something at any time, particularly a cloud? (Circle One): Yes 
+16. Did the object move in front of something at any time, particularly a cloud? (Circle One): In front of:  
+17. Tell in a few words the following things about the object: a. Sound: Mute b. Color: Chrome color
+18. We wish to know the angular size. Hold a match stick at arm's length in line with the object. How much of the object is covered by the head of the match? About 75-percent of object covered.
+19. Draw a picture that will show the shape of the object of objects. Place an arrow beside the drawing to show the direction the object was moving.

@@ -1,0 +1,18 @@
+The image does not contain a photograph. It appears to be a form with various fields, including "DATE - TIME GROUP", "LOCATION", "SOURCE", "NUMBER OF OBJECTS", "LENGTH OF OBSERVATION", "TYPE OF OBSERVATION", "COURSE", "PHOTOS", and "PHYSICAL EVIDENCE". However, the fields are mostly blank, with some illegible text visible.
+
+OCR TEXT OUTPUT:
+1. DATE - TIME GROUP 19 - 1116 
+2. LOCATION
+3. SOURCE
+1b. CONCLUSION
+4. NUMBER OF OBJECTS
+5. LENGTH OF OBSERVATION
+6. TYPE OF OBSERVATION
+7. COURSE
+8. PHOTOS
+   Yes
+   No
+9. PHYSICAL EVIDENCE
+   Yes
+   No
+FORM FTD SEP 43 0-329 (TDE)

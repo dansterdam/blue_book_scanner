@@ -1,0 +1,9 @@
+The image does not contain any photographs, but rather it appears to be a document from the Project Blue Book UFO investigation. The document shows the header "Weather Station Stewart Air Force Base, Newburgh, New York" and the handwritten text "R. Wesa 54".
+
+Performing OCR on the image, the text output is:
+
+Weather Station
+Stewart Air Force Base
+Newburgh, New York
+
+R. Wesa 54

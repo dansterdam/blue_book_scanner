@@ -1,0 +1,25 @@
+The image does not contain any photograph. It appears to be a wind-aloft computation sheet from the U.S. Department of Commerce Weather Bureau, dated June 26, 1963. The sheet contains numerical data and information about wind speed, direction, elevation, and other meteorological observations.
+
+U.S. DEPARTMENT OF COMMERCE
+WEATHER BUREAU
+WINDS-ALOFT COMPUTATION SHEET
+LAND STATION FORM
+WSAD-39
+
+Station: Municipal Airport, LOUISIANA
+Latitude: 32-28N Long: 93-49W
+Local Standard Time: 0930 Meridian
+Observation: JUNE 26, 1963 09:30Z
+Ascension No.: 709
+
+Pressure     Wind
+(mb)        Direction   Speed
+(deg)        (kts)
+1469.0      33.6       37.7
+1553.7      35.7       38.2
+15145.0     35.7       38.2
+15323.0     34.0       34.9
+15708.0     34.0       34.9
+16345.0     37.8       32.6
+16720.0     39.7       20.6
+17105.0     39.7       20.6

@@ -1,0 +1,22 @@
+There is no photograph present in this image. The image appears to be a scanned page from an old document, likely a report from Project Blue Book, discussing a scientific experiment related to cosmic-ray interactions in nuclear emulsion.
+
+Purpose of the Experiment
+Studies of cosmic-ray interactions in nuclear emulsion reveal several interesting properties. One striking effect is that the average transverse momentum of secondaries is very close to .3 BeV/c, independent of the energy of the incident primary particle. Another interesting fact is that the inelasticity of the interaction (energy lost by the primary proton) is about 30% at the lower energies, decreasing as the energy increases. Also, the interaction length is fairly independent of primary energy and is around 50 gm cm^-2.
+
+The secondaries usually have energies well below 1 BeV in the center of mass system. Although interactions taken as a group appear to be symmetric with respect to a plane normal to the incident particle, the individual interactions are sometimes quite asymmetric. More detailed knowledge than this is very hard to obtain with conventional emulsion techniques.
+
+There are several reasons for this:
+1. The analysis of events depends strongly on the knowledge of the momentum of the incident particle in order that the transformation to the center of mass may be carried out correctly. With previously used emulsion techniques, the energy of the incident particle may be uncertain by as much as a factor of four.
+2. The method of detection of the events is highly biased in favor of events with high multiplicity of secondaries which produce showers.
+
+OCR output:
+it target alter to produce a secondary meson and hyperon beams. The obvious way to do this is ty the experiment under a few interaction lengths of atmosphere -- say around 75,000 feet. The principal difficulties with this idea are the large electron background which might plague the Gerenkov trigger device, and the problem of identifying the secondary particles.
+
+G. Purpose of the Experiment
+Studies of cosmic-ray interactions in nuclear emulsion reveal several interesting properties. One striking effect is that the average transverse momentum of secondaries is very close to .3 BeV/c, independent of the energy of the incident primary particle. (4,5) Another interesting fact is that the inelasticity of the interaction (energy lost by the primary proton) is about 30% at the lower energies, decreasing as the energy increases. (6) Also, the interaction length is fairly independent of primary energy and is around 50 gm cm^-2.
+
+The secondaries usually have energies well below 1 BeV in the center of mass system. (4) Although interactions taken as a group appear to be symmetric with respect to a plane normal to the incident particle, the individual interactions are sometimes quite asymmetric. (5,7) More detailed knowledge than this is very hard to obtain with conventional emulsion techniques. (7)
+
+There are several reasons for this.
+1. The analysis of events depends strongly on the knowledge of the momentum of the incident particle in order that the transformation to the center of mass may be carried out correctly. With previously used emulsion techniques, the energy of the incident particle may be uncertain by as much as a factor of four. (8)
+2. The method of detection of the events is highly biased in favor of events with high multiplicity of secondaries which produce showers.

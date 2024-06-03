@@ -1,0 +1,33 @@
+The image does not contain any photographs. It appears to be a scanned document from the Aeronautical Systems Division of the Wright-Patterson Air Force Base, Ohio, titled "Evaluation Report". The document outlines an analysis and evaluation of a suspected rock sample, including details such as the material composition, X-ray diffraction patterns, and infrared spectrum analysis.
+
+AERONAUTICAL SYSTEMS DIVISION
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+
+MATERIALS PHYSICS LABORATORY
+
+EVALUATION REPORT
+
+Examination and Analysis of Suspected Rock Sample
+
+REPORT NO.: MAX 64-74
+PROJECT NO.: 23102
+MANUFACTURER: SUBMITTED BY: 1/LT R.J. Quintrellina
+
+I. INTRODUCTION
+To conduct analysis of rock-like sample to determine its characteristics.
+
+II. ACTUAL DATA
+1. The sample was submitted for analysis and assigned Analytical Branch No. C-14247.
+2. The results are as follows:
+a. Chemical Spectrography:
+   Element   Estimated %   Element    Estimated %
+   Si        29.2         Al          8.5
+   Mg        5.1          Ca          2.3
+   Fe        1.0          Cr          Trace
+   Mn        Trace        Co          Trace
+   Ti        Trace        Ni          Trace
+   Mg        Trace        Na          Trace
+b. X-Ray Diffraction patterns:
+   The results show presence of 3120-B sample is mostly amorphous and resembles pumice.
+c. Infrared Spectrum analysis:
+   Infrared spectrum shows lack of any organic materials. From bands observed the sample appears to be a form of inorganic silicate.

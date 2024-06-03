@@ -1,0 +1,6 @@
+The image shared appears to be a photograph from an old UFO report document. The photograph shows a blank page with some handwritten text that reads: "The sighting of these strange object might be of some importance. However a photo of what the sceen looked like would ringer". The rest of the text is redacted.
+
+As an OCR system, I can output the following text from the document:
+
+The sighting of these strange object might be of some importance. However a photo of what the sceen looked like would ringer.
+Sincerely, [REDACTED]
