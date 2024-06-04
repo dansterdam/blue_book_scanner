@@ -1,0 +1,57 @@
+The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book, featuring a questionnaire with various questions about the sighting of an unidentified object.
+
+9. IF YOU saw the object of night, whar did you notice concerning the STARS and MOON?
+9.1 STARS (Circle One): a. Many b. Few c. Bright
+9.2 MOON (Circle One): a. Bright moonlight b. Dull moonlight c. No moonlight - pitch dark d. Dont remember
+
+10. If it appeared as a light, was it brighter than the brightest stars?
+
+11. Did the object:
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Seem to jump into parts of sky or disappear?
+d. Change brightness?
+e. Change shape?
+f. Flash or flicker?
+g. Disappear and reappear?
+
+12. Did the object move behind something at any time, particularly a cloud?
+
+13. Did the object move in front of something at any time, particularly a cloud?
+
+14. Did the object appear: (Circle One) a. Solid b. Transparent c. Vapor d. Don't Know
+
+15. Did you observe the object through any of the following:
+a. Eyeglasses
+b. Sun glasses Yes No
+c. Windshield Yes No
+d. Window glass Yes No
+
+The text output from the document is as follows:
+
+9. IF YOU saw the object of night, whar did you notice concerning the STARS and MOON?
+9.1 STARS (Circle One): a. Many b. Few c. Bright
+9.2 MOON (Circle One): a. Bright moonlight b. Dull moonlight c. No moonlight - pitch dark d. Dont remember
+
+10. If it appeared as a light, was it brighter than the brightest stars?
+
+11. Did the object:
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Seem to jump into parts of sky or disappear?
+d. Change brightness?
+e. Change shape?
+f. Flash or flicker?
+g. Disappear and reappear?
+
+12. Did the object move behind something at any time, particularly a cloud?
+
+13. Did the object move in front of something at any time, particularly a cloud?
+
+14. Did the object appear: (Circle One) a. Solid b. Transparent c. Vapor d. Don't Know
+
+15. Did you observe the object through any of the following:
+a. Eyeglasses
+b. Sun glasses Yes No
+c. Windshield Yes No
+d. Window glass Yes No

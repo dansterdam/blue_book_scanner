@@ -1,0 +1,29 @@
+There is no photograph present in this page from the Project Blue Book UFO report document. The image shows a data sheet with weather observation information, including details about wind speed, altitude, direction, and other meteorological data.
+
+PROJECT 10073 WEATHER DATA SH
+1. DATE OF OBSERVATION 2. TIME OF OBSERVATION 3. STATION OBSERVING
+4. WINDS ALOFT:
+ALTITUDE VELOCITY DIRECTION
+(FEET) (KNOTS) (DEGREES)
+0 
+1,000 
+2,000 
+3,000 
+4,000 
+5,000 
+6,000 
+7,000 
+8,000 
+9,000 
+10,000 
+12,000 
+14,000 
+16,000 
+18,000 
+20,000
+5. WAS AN INVERSION LAYER NOTED? [] Yes [] No
+(IS YES, AT WHAT ALTITUDES?)
+6. WERE ANY THUNDERSTORMS NOTED IN AREA? [] Yes [] No
+(IF YES, AT WHAT ALTITUDES?)
+7. CLOUD COVER: Exists at ____ tenths at ___ feet. Exists at _____ tenths at ____ feet.
+8. VISIBILITY WAS MILES.

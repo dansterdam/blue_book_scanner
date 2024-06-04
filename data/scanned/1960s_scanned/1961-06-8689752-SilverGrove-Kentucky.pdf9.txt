@@ -1,0 +1,26 @@
+The image does not contain a photograph, but rather a typed questionnaire form related to a UFO sighting report. 
+
+From the text in the document, the output is as follows:
+
+39. Do you think you can estimate the speed of the object? 
+(Circle One) Yes No
+IF you answered YES, then what speed would you estimate?
+ 200-300 mph
+
+40. Do you think you can estimate how far away from you the object was?
+(Circle One) Yes No 
+IF you answered YES, then how far away would you say it was?
+1-2 miles
+
+41. Please give the following information about yourself:
+
+NAME: [redacted]
+ADDRESS: [redacted] 
+TELEPHONE NUMBER: [redacted]
+Age: 35
+Sex: M
+Indicate any additional information about yourself, including any education, which might be pertinent.
+Presently an electrical engineer at X-Electric Systems Co. with BS degree in Electrical Engineering.
+
+42. Date you completed this questionnaire:
+26 Day 6 Month 1969 Year

@@ -1,0 +1,16 @@
+The image appears to be a table of data, but there is no photograph present. I will now perform optical character recognition (OCR) on the text in the document:
+
+DATE         TIME      STATION        AZIMUTH       ELEVATION    RANGE 
+11 AUG 63      1.5.2     (45.52)        32.20        76.25       1.421
+11 AUG 63      1.5.7     (45.52)        33.11        76.20        1.421
+11 AUG 63      1.6.2     (45.52)        33.25        76.14        1.421
+11 AUG 63      1.6.7     (45.52)        33.42        76.06        1.422
+11 AUG 63      1.7.2     (45.52)        33.59        75.56        1.422
+11 AUG 63      1.7.7     (45.52)        33.55        75.46        1.422
+11 AUG 63      1.8.2     (45.52)        33.31        75.37        1.421
+11 AUG 63      1.8.7     (45.52)        32.55        75.28        1.421
+11 AUG 63      1.9.2     (45.52)        32.14        75.20        1.420
+11 AUG 63      1.9.7     (45.52)        31.21        75.13        1.419
+11 AUG 63      1.10.2    (45.52)        30.22        75.06        1.417
+
+TRACK OBSERVATIONS ARE MISSING

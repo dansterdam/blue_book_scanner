@@ -1,0 +1,14 @@
+In this document, there is a hand-drawn sketch showing an illustration of how an object or objects were observed in the sky. The sketch includes a compass-like design and an instruction to place an "A" on the curved line to show how the observed object(s) appeared in relation to the horizon and compass.
+
+Performing OCR on the text in the document, the output is:
+
+27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object appeared above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it. Place an "A" on the compass to show the direction from which you first saw the object.
+
+B
+93 75 60
+45 30 20
+
+This picture wil show the motion that the object or objects made. Place an "A" at the beginning of the path, and show any changes in direction during the course.
+
+28. If there was MORE THAN ONE object, then how many were there?
+Draw a picture of how they were arranged, and an arrow to show the direction that they were traveling.

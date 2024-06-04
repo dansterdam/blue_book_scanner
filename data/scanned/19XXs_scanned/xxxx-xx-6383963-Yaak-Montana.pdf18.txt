@@ -1,0 +1,13 @@
+The image contains a diagram labeled "IDO-ADIABATIC DIAGRAM" with a chart labeled "CHART ML-124A". The diagram appears to be a grid with various lines and points plotted on it, likely representing some kind of scientific or technical data. There is also a text box with several numbered points providing further information or descriptions related to the diagram.
+
+5 1 1150 2  
+SKA  030  21715-S 139  2 6
+
+(1) Adiabatic-e temperature
+(2) Dew Point Depressions
+(3) Isobars
+(4) Dry adiabatic lapse rate
+(5) Saturation adiabatic lapse rate
+(6) Curves, except curve for dew point 
+(7) Points of maxima and minima temperatures
+(8) The letter lines of curves are compared with those on the corresponding Lines outside the Chart

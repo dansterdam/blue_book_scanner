@@ -1,0 +1,19 @@
+The image contains a photo analysis report but does not include any photograph. The text of the report is as follows:
+
+PHOTO ANALYSIS REPORT
+SUBJECT: UNIDENTIFIED FLYING OBJECT
+LOCATION: THREE MILES SOUTH OF SWANLAKE, NEW YORK
+DATE: SEPTEMBER 27, 1965
+PHOTOGRAPHY
+ITEM: 1 Negatives, 1 Prints
+PURPOSE: This report is a joint response by the Photo Processing and Photo Analysis Sections of the Technical Analysis Division, USAF. The purpose is to analyze the photographic evidence submitted in connection with a reported sighting of an unidentified flying object.
+ANALYSIS: A finite analysis cannot be computed without the exact focal length and range of the camera used. The series of photographs submitted indicate that the size of the "plaque" to the eye was that of a peanhead to the sky. This is consistent with a very distant object as the report indicates. Considering the type of camera used, the photographic evidence submitted does not indicate a clear enough image to be analyzed for standard camera calibration parameters. Considering the type of object photographed, the location, and the distance involved, this report serves only to acknowledge receipt of the photographic evidence.
+FOCAL LENGTH: 50' 100' RANGE
+1" 3.9" 7.8" 
+2" 7.8" 15.6"
+3" 11.7" 23.4" 
+4" 15.6" 31.2"
+5" 19.5" 39.0"
+6" 23.4" 46.8"
+
+1 inch, 5 inch focal length is very unrealistic for this type of camera. A 3 inch focal length is reasonable but installation could result in magnification ratio's different than 3:1. Considering the computed object size at different ranges up to approximately 1 mile, the object would appear too small to analyze the detail needed for standard camera calibration.

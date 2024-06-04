@@ -1,0 +1,18 @@
+The image contains a photograph depicting a topographical map or diagram. The map appears to be hand-drawn or sketched, showing various contours, symbols, and labels. The left side of the image has a more abstract, wavy pattern, while the right side contains the detailed topographical elements.
+
+Text Output:
+
+UNIT 7: RPTR @ RAVENNA RADIO
+ANTENNAS:
+RPTR 320/140
+BACK AZIMUTH 050/230
+ELLIPSOID ELEVATION 1060'
+LOCATION: HAVARRE, OHIO
+ELEVATION: 1000'
+BACK AZIMUTH TO RPTR 320/140
+BEARINGS:
+RPTR @ RAVENNA RADIO 320/140
+BACK AZIMUTH 050/230
+ELLIPSOID ELEVATION 1060'
+LOCATION: HAVARRE, OHIO
+ELEVATION: 1000'

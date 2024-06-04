@@ -1,0 +1,21 @@
+The image shows a page from an old Project Blue Book UFO report document. There is no photograph present in this particular page. 
+
+Performing OCR on the text in the document, the output is as follows:
+
+30. Have you ever seen this, or a similar object before? If so give date or dates and location.
+   Several years ago I noticed a similar looking object in the sky and thought it to be a conventional aircraft. This object, however, was much smaller and more brilliant in appearance.
+
+31. Was anyone else with you at the time you saw the object? (Circle One)
+       YES     NO
+31.1 If you answered YES, did they see the object too? (Circle One)
+       YES     NO
+
+32. Please give the following information about yourself:
+NAME ______Last Name______ ______First Name______ ______Middle Initial______
+ADDRESS ______Street______ ______City______ ______State______ ______Zip______
+TELEPHONE NUMBER _______
+INDICATE ANY ADDITIONAL INFORMATION ABOUT YOURSELF, INCLUDING ANY SPECIAL EXPERIENCE, WHICH MIGHT BE PERTINENT.
+   Partial experience in my hobby
+
+33. When and to whom did you report that you had seen the object? 
+   January 2, 1965, Post Office

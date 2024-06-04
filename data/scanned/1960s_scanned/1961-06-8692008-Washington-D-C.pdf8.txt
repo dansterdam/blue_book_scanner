@@ -1,0 +1,9 @@
+The image contains two sketches. The first sketch shows a curved line labeled "A-B" and a sketch of an object above the horizon. The instructions direct the observer to place a mark "A" on the curved line to show how high the object was above the horizon when it was first seen, and a mark "B" on the same curved line to show how high the object was when it was last seen.
+
+The second sketch contains two larger illustrations. The left illustration shows a landscape with a person standing in the middle of a road. The instructions state that this sketch represents the position of the object when it was first seen, and the mark "A" should be placed on this sketch. The right illustration shows a smaller landscape view.
+
+As an OCR system, I will now output all the text found in the document:
+
+32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
+
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to a smaller sketch as an example of how to complete the larger sketch.

@@ -1,0 +1,5 @@
+The image provided does not contain a photograph. Instead, it shows handwritten text that describes a photograph as being "Car included are (1) 5"x7" photograph."
+
+Outputting the text from the document:
+
+Car included are (1) 5"x7" photograph.

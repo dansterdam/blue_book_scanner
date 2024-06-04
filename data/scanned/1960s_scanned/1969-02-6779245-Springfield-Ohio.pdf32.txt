@@ -1,0 +1,20 @@
+The image does not contain any photographs, only a table with various columns and rows, as well as a legend explaining the different symbols and abbreviations used in the table.
+
+The text in the document is as follows:
+
+"UNCLASSIFIED DOCUMENT
+
+LEGEND
+CK - COLOR
+SH - SHAPE
+MOT - MOTION
+DIR - DIRECTION
+BR - BRIGHTNESS
+INT - INTENSITY
+NM - NUMBER
+D - DURATION
+SP - SPEED
+AL - ALTITUDE
+DI - DISTANCE 
+RA - RADAR
+CA - CASE"

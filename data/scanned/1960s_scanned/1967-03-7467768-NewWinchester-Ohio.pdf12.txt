@@ -1,0 +1,24 @@
+The image does not contain any photographs. It appears to be a weather data sheet from Project Blue Book, a United States Air Force program to study unidentified flying objects (UFOs).
+
+Proj: 59523 - STAR TREK - Weather Data Sheet 
+Sgt. Dunham
+
+Additional Surface Data - January 23, 1968.
+STATION     TIME(L)       WIND(kt)  VISIBILITY(nm) Sea Level Pressure Temp
+72402       2000          350/16021 78--          1013.5     37/23
+72406       2000          320/12    15           1013.5     37/30 
+72405       2100          320/13221 73--          1014.2     37/25
+72405       2100          310/13    15           1014.1     37/28
+72405       2200          320/16024 73--          1014.6     36/23
+72406       2200          310/13    155--         1014.8     36/25
+
+Sounding No. 17 - New Winchester, Ohio: March 26, 1967 - 1500L.
+Altitude (ft)  Wind Direction  Wind Speed (kts)
+TRACE (1600L)  210            10
+6,000         210            22
+9,000         220            29
+12,000        230            20
+15,000        250            20
+20,000        270            31
+25,000        280            35
+30,000        210            8

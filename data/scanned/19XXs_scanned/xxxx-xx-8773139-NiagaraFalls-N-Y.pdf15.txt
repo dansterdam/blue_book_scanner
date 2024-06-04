@@ -1,0 +1,23 @@
+There is no photograph present in this image. The image appears to be a page from an old UFO report document, containing a questionnaire or form to be filled out.
+
+Observing the text on the image:
+
+4. How did you happen to notice the object? Appeared by the railroad tracks under the Erie New York
+
+5. When did you report to some official that you had seen the object? Day - month - year
+
+SECTION B
+6. What were you doing at the time you saw the object? On the highway between Niagara Falls, New York, and Buffalo, New York
+
+6.1 What had you been doing for the 30 minutes before you saw the object? Try to list the activity or activities, and the approximate amount of time spent on each. Crossing Westbound - stopping at signal lights 
+
+7. Were you moving at any time while you saw the object? (Circle One): No
+
+The text output from the document is as follows:
+
+4. How did you happen to notice the object? Appeared by the railroad tracks under the Erie New York
+5. When did you report to some official that you had seen the object? Day - month - year
+SECTION B
+6. What were you doing at the time you saw the object? On the highway between Niagara Falls, New York, and Buffalo, New York
+6.1 What had you been doing for the 30 minutes before you saw the object? Try to list the activity or activities, and the approximate amount of time spent on each. Crossing Westbound - stopping at signal lights
+7. Were you moving at any time while you saw the object? (Circle One): No

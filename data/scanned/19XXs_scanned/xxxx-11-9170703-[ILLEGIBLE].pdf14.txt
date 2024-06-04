@@ -1,0 +1,19 @@
+The image does not contain any photographs, only a table with data related to weather observations. The text in the image is as follows:
+
+PROJECT 10973 WEATHER DATA SHL.
+1. DATE OF OBSERVATION 2. TIME OF OBSERVATION 3. STATION OBSERVED
+
+Blank columns for "WINDS ALOFT ALTITUDE (FEET)", "VELOCITY (KNOTS)", and "DIRECTION (DEGREES)".
+
+5. WAS AN INVERSION LAYER NOTED? 
+(If yes, at what altitude?) [] Yes [] No
+
+6. WERE ANY THUNDERSTORMS NOTED IN AREA? 
+(If yes, what duration?) [] Yes [] No
+
+7. CLOUD COVER: 
+tenths at ____ feet. tenths at ____ feet. tenths at ____ feet.
+
+9. COMMENTS:
+
+ATIC Form 333 (13 Aug 58)

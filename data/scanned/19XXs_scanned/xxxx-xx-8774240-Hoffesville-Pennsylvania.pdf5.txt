@@ -1,0 +1,30 @@
+The image does not contain any photograph. The image shows a form or report from "Project 10072 Weather Data" with various fields for recording data such as date of observation, time of observation, station observing, winds aloft altitude and velocity, cloud cover, and visibility.
+
+PROJECT 10072 WEATHER DATA
+1. DATE OF OBSERVATION  
+2. TIME OF OBSERVATION
+3. STATION OBSERVING
+WINDS ALOFT:
+ALTITUDE (feet) VELOCITY (knots) DIRECTION (degrees)
+1,000 
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+8,000
+9,000
+10,000
+12,000
+14,000
+16,000
+18,000
+20,000
+5. WAS AN INVERSION LAYER NOTED (If yes, at what altitude): [ ] Yes [ ] No
+6. CLOUD AND THUNDERSTORMS NOTED IN GREAT DETAIL
+7. CLOUD COVER: tenths at ________ feet, tenths at ________ feet, tenths at ________ feet.
+8. VISIBILITY WAS ________ MILES.
+9. COMMENTS:
+
+ATIC Test Form 333 (13 Aug 55)
