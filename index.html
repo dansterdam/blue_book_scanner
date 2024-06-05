@@ -3,35 +3,125 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Search Engine</title>
+    <title>Project Blue Book UFO Files Search</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.8/lunr.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        header, footer {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        main {
+            flex: 1;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .search-container {
+            display: flex;
+            margin-bottom: 20px;
+        }
+        #searchBox {
+            flex: 1;
+            padding: 10px;
+            font-size: 16px;
+        }
+        #searchButton {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #2980b9;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        #searchButton:hover {
+            background-color: #3498db;
+        }
+        #results {
+            list-style-type: none;
+            padding: 0;
+        }
+        #results li {
+            background-color: #ecf0f1;
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 4px;
+        }
+    </style>
 </head>
 <body>
-    <input type="text" id="searchBox" placeholder="Search...">
-    <ul id="results"></ul>
+    <header>
+        <h1>Project Blue Book UFO Files Search</h1>
+    </header>
+    <main>
+        <div class="container">
+            <div class="search-container">
+                <input type="text" id="searchBox" placeholder="Search..." />
+                <button id="searchButton">Search</button>
+            </div>
+            <ul id="results"></ul>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Project Blue Book Scanner</p>
+    </footer>
 
     <script>
-        let index;
+        const chunkCount = 11; // Update this with the actual number of chunks
+        let indexes = [];
 
-        fetch('index.json')
-            .then(response => response.json())
-            .then(data => {
-                index = lunr.Index.load(data);
-            });
+        function loadIndex(chunk) {
+            return fetch(`index${chunk}.json`)
+                .then(response => response.json())
+                .then(data => lunr.Index.load(data))
+                .catch(error => console.error(`Error loading index${chunk}.json:`, error));
+        }
 
-        document.getElementById('searchBox').addEventListener('input', function() {
-            const query = this.value;
-            const results = index.search(query);
-            
+        async function loadAllIndexes() {
+            for (let i = 0; i < chunkCount; i++) {
+                let idx = await loadIndex(i);
+                indexes.push(idx);
+            }
+        }
+
+        function search(query) {
             const resultsList = document.getElementById('results');
             resultsList.innerHTML = '';
 
-            results.forEach(result => {
-                const li = document.createElement('li');
-                li.textContent = result.ref;
-                resultsList.appendChild(li);
+            indexes.forEach(index => {
+                const results = index.search(query);
+                results.forEach(result => {
+                    const li = document.createElement('li');
+                    li.textContent = result.ref;
+                    resultsList.appendChild(li);
+                });
             });
+        }
+
+        document.getElementById('searchButton').addEventListener('click', function() {
+            const query = document.getElementById('searchBox').value;
+            search(query);
         });
+
+        document.getElementById('searchBox').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                const query = document.getElementById('searchBox').value;
+                search(query);
+            }
+        });
+
+        loadAllIndexes();
     </script>
 </body>
 </html>
