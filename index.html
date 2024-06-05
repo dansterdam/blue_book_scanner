@@ -13,6 +13,7 @@
             display: flex;
             flex-direction: column;
             min-height: 100vh;
+            background-color: #f1f1f1;
         }
         header, footer {
             background-color: #2c3e50;
@@ -23,10 +24,18 @@
         main {
             flex: 1;
             padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         .container {
             max-width: 800px;
-            margin: 0 auto;
+            width: 100%;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            box-sizing: border-box;
         }
         .search-container {
             display: flex;
@@ -36,6 +45,9 @@
             flex: 1;
             padding: 10px;
             font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 4px 0 0 4px;
+            border-right: none;
         }
         #searchButton {
             padding: 10px 20px;
@@ -43,6 +55,7 @@
             background-color: #2980b9;
             color: white;
             border: none;
+            border-radius: 0 4px 4px 0;
             cursor: pointer;
         }
         #searchButton:hover {
@@ -51,20 +64,36 @@
         #results {
             list-style-type: none;
             padding: 0;
+            margin: 0;
+            width: 100%;
         }
         #results li {
             background-color: #ecf0f1;
             margin-bottom: 10px;
-            padding: 10px;
-            border-radius: 4px;
+            padding: 15px;
+            border-radius: 8px;
             cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        #results li a {
+            text-decoration: none;
+            color: #2980b9;
+            transition: color 0.3s;
+        }
+        #results li a:hover {
+            color: #8e44ad;
+        }
+        #results li.clicked a {
+            color: #8e44ad;
         }
         #fileContent {
-            background-color: #f9f9f9;
+            background-color: white;
             padding: 20px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
+            border-radius: 8px;
             margin-top: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            overflow-wrap: break-word;
         }
     </style>
 </head>
@@ -112,21 +141,17 @@
                 const results = index.search(query);
                 results.forEach(result => {
                     const li = document.createElement('li');
-                    li.textContent = result.ref;
-                    li.addEventListener('click', () => loadFileContent(result.ref));
+                    const link = document.createElement('a');
+                    link.textContent = result.ref;
+                    link.href = `data/full_case_set/${result.ref}`;
+                    link.addEventListener('click', () => {
+                        resultsList.querySelectorAll('li').forEach(item => item.classList.remove('clicked'));
+                        li.classList.add('clicked');
+                    });
+                    li.appendChild(link);
                     resultsList.appendChild(li);
                 });
             });
-        }
-
-        function loadFileContent(filename) {
-            fetch(`texts/${filename}`)
-                .then(response => response.text())
-                .then(data => {
-                    const fileContent = document.getElementById('fileContent');
-                    fileContent.textContent = data;
-                })
-                .catch(error => console.error(`Error loading file ${filename}:`, error));
         }
 
         document.getElementById('searchButton').addEventListener('click', function() {
