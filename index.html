@@ -57,6 +57,14 @@
             margin-bottom: 10px;
             padding: 10px;
             border-radius: 4px;
+            cursor: pointer;
+        }
+        #fileContent {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin-top: 20px;
         }
     </style>
 </head>
@@ -71,6 +79,7 @@
                 <button id="searchButton">Search</button>
             </div>
             <ul id="results"></ul>
+            <div id="fileContent"></div>
         </div>
     </main>
     <footer>
@@ -78,7 +87,7 @@
     </footer>
 
     <script>
-        const chunkCount = 11; // Update this with the actual number of chunks
+        const chunkCount = 10; // Update this with the actual number of chunks
         let indexes = [];
 
         function loadIndex(chunk) {
@@ -104,9 +113,20 @@
                 results.forEach(result => {
                     const li = document.createElement('li');
                     li.textContent = result.ref;
+                    li.addEventListener('click', () => loadFileContent(result.ref));
                     resultsList.appendChild(li);
                 });
             });
+        }
+
+        function loadFileContent(filename) {
+            fetch(`texts/${filename}`)
+                .then(response => response.text())
+                .then(data => {
+                    const fileContent = document.getElementById('fileContent');
+                    fileContent.textContent = data;
+                })
+                .catch(error => console.error(`Error loading file ${filename}:`, error));
         }
 
         document.getElementById('searchButton').addEventListener('click', function() {
