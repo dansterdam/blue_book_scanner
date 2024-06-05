@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,12 +16,15 @@
             min-height: 100vh;
             background-color: #f1f1f1;
         }
-        header, footer {
+
+        header,
+        footer {
             background-color: #2c3e50;
             color: white;
             text-align: center;
             padding: 1em 0;
         }
+
         main {
             flex: 1;
             padding: 20px;
@@ -28,6 +32,7 @@
             flex-direction: column;
             align-items: center;
         }
+
         .container {
             max-width: 800px;
             width: 100%;
@@ -37,10 +42,12 @@
             padding: 20px;
             box-sizing: border-box;
         }
+
         .search-container {
             display: flex;
             margin-bottom: 20px;
         }
+
         #searchBox {
             flex: 1;
             padding: 10px;
@@ -49,6 +56,7 @@
             border-radius: 4px 0 0 4px;
             border-right: none;
         }
+
         #searchButton {
             padding: 10px 20px;
             font-size: 16px;
@@ -58,15 +66,18 @@
             border-radius: 0 4px 4px 0;
             cursor: pointer;
         }
+
         #searchButton:hover {
             background-color: #3498db;
         }
+
         #results {
             list-style-type: none;
             padding: 0;
             margin: 0;
             width: 100%;
         }
+
         #results li {
             background-color: #ecf0f1;
             margin-bottom: 10px;
@@ -75,17 +86,21 @@
             cursor: pointer;
             transition: background-color 0.3s;
         }
+
         #results li a {
             text-decoration: none;
             color: #2980b9;
             transition: color 0.3s;
         }
+
         #results li a:hover {
             color: #8e44ad;
         }
+
         #results li.clicked a {
             color: #8e44ad;
         }
+
         #fileContent {
             background-color: white;
             padding: 20px;
@@ -97,6 +112,7 @@
         }
     </style>
 </head>
+
 <body>
     <header>
         <h1>Project Blue Book UFO Files Search</h1>
@@ -116,7 +132,7 @@
     </footer>
 
     <script>
-        const chunkCount = 10; // Update this with the actual number of chunks
+        const chunkCount = 11; // Update this with the actual number of chunks
         let indexes = [];
 
         function loadIndex(chunk) {
@@ -137,29 +153,48 @@
             const resultsList = document.getElementById('results');
             resultsList.innerHTML = '';
 
+            const allResults = [];
+
             indexes.forEach(index => {
-                const results = index.search(query);
-                results.forEach(result => {
-                    const li = document.createElement('li');
-                    const link = document.createElement('a');
-                    link.textContent = result.ref;
-                    link.href = `data/full_case_set/${result.ref}`;
-                    link.addEventListener('click', () => {
-                        resultsList.querySelectorAll('li').forEach(item => item.classList.remove('clicked'));
-                        li.classList.add('clicked');
-                    });
-                    li.appendChild(link);
-                    resultsList.appendChild(li);
+                // Regular expression to match phrases in double quotes
+                const phraseRegex = /"([^"]+)"|(\S+)/g;
+                let match;
+                const processedQuery = [];
+                while ((match = phraseRegex.exec(query)) !== null) {
+                    if (match[1]) {
+                        // Exact match phrase
+                        processedQuery.push(`"${match[1]}"`);
+                    } else {
+                        // Single word
+                        processedQuery.push(match[2]);
+                    }
+                }
+                const processedQueryString = processedQuery.join(' ');
+
+                const results = index.search(processedQueryString);
+                allResults.push(...results);
+            });
+
+            allResults.forEach(result => {
+                const li = document.createElement('li');
+                const link = document.createElement('a');
+                link.textContent = result.ref;
+                link.href = `data/full_case_set/${result.ref}`;
+                link.addEventListener('click', () => {
+                    resultsList.querySelectorAll('li').forEach(item => item.classList.remove('clicked'));
+                    li.classList.add('clicked');
                 });
+                li.appendChild(link);
+                resultsList.appendChild(li);
             });
         }
 
-        document.getElementById('searchButton').addEventListener('click', function() {
+        document.getElementById('searchButton').addEventListener('click', function () {
             const query = document.getElementById('searchBox').value;
             search(query);
         });
 
-        document.getElementById('searchBox').addEventListener('keypress', function(e) {
+        document.getElementById('searchBox').addEventListener('keypress', function (e) {
             if (e.key === 'Enter') {
                 const query = document.getElementById('searchBox').value;
                 search(query);
@@ -168,5 +203,7 @@
 
         loadAllIndexes();
     </script>
+
 </body>
+
 </html>
