@@ -1,0 +1,141 @@
+There is no photograph present on the page of the document.
+
+Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+7 October 1957
+
+2. LOCATION
+Overland, Missouri
+
+3. DATE-TIME GROUP
+
+     Local 2005
+     GMT 08/02057
+
+4. TYPE OF OBSERVATION
+
+    Ground-Visual X
+    Ground-Radar
+    Air-Visual
+    Air Intercept-Radar
+
+5. PHOTOS             7. LENGTH OF OBSERVATION
+    Yes                    ONE minute
+
+6. SOURCE             8. NUMBER OF OBJECTS        9. COURSE
+    Civilian                                      one          East
+
+10. BRIEF SUMMARY OF SIGHTING                   11. COMMENTS
+Round object, size of head of pin.
+Reddish orange, turning to white. No sound.     Probably a/c at high altitude
+                                                reflecting the sun's rays.
+12. CONCLUSIONS
+
+        Balloon    
+    Was Balloon
+    Possibly Balloon
+        Aircraft/spacecraft
+    Was Aircraft
+    Possibly Aircraft
+        Astronomical
+    Was Astronomical
+    Probably Atronomical
+    Possibly Astronomical
+    Other
+    Insufficient Data for Evaluation
+    Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+```
+
+- page 1 -
+
+The image includes a scanned page of a document with text and hand-drawn illustrations, but no photographs are present.
+
+Here is the OCR extracted text from the document:
+
+```
+7 JEDWP HQ 695 WP6957 YM9D3KF9A41KFG930
+
+RR RJEDEN RJEDWP* RJEPHQ*
+
+DE RJEDKF 4G
+
+R 0504152
+
+FM COMDR 29TH AIR DIV RICHARDS GEBAUR AFB MO
+
+TO RJEDEN/COMDR ADC ENT AFB COLO
+
+INFO RJEDKF/COMDR CADF RICHARDS GEBAUR AFB MO
+
+RJEDWP/COMDR AIR TECH INTELL CEN WPAFB OHIO
+
+RJEPHQ/DIR OF INTELL HQ USAF WASHDC
+
+BT
+
+/UNCLASSIFIED/20TH ADCOC 001649 IN ACCORDANCE WITH JCADF INTERIM
+
+CHANGE 1 TO CONADIM 55-1. THE FOLLOWING UFOB REPORT IS SUBMITTED.
+A. 1 ROUND
+2 HEAD OF PIN
+3 REDISH ORANGE TURNING TO
+WHITE AS IT DISAPPEARED.
+B. 1 A GLANCE IN THE SKY.
+2 OVERHEAD-SLIGHT ANGLE OF
+CLIMB STRAIGHT UP!
+3 PASSED OVER HORIZON 90°-EAST
+DEGREES
+4 STRAIGHT PATH-FLIGHT PATH
+5 DISSAPPEARED OVER HORIZON.
+6 ONE MINUTE
+C. GROUND VISUAL
+1 NONE
+2 NONE
+3 N/A
+```
+
+The hand-drawn illustrations include a diagram of an object labeled with characteristics such as "ROUND" and "HEAD OF PIN," as well as "REDISH ORANGE TURNING TO WHITE AS IT DISAPPEARED." There is also a small drawing at the bottom of the document showing a crossed line labeled "GROUND" with an arrow pointing to the right, labeled "FLIGHT PATH ↑ OBJECT."
+
+- page 2 -
+
+No photograph is present in the image, only text. Here's the text as an OCR output:
+
+```
+PAGE TWO RJEDKF 4G
+D. 1. 9/8/20 305Z - 0257Z C = 2057 local
+    NIGHT
+(E) 1. (FJQJ 3836) edge of ST. LOUIS
+F) 1. MR. ----------------- 29, -------------- OVERLAND MO, FIREMAN.
+(G) 1. CLEAR
+    2. SURFACE 124 DEGREES, 5 KNOTS
+                winds generally from
+    6,000 49-59 DEGREES, 8 KNOTS
+    10,000-109 DEGREES, 10 KNOTS
+    15,000-109 DEGREES, 10 KNOTS
+    20,000-250 DEGREES, 15 KNOTS
+    30,000-260 DEGREES, 20 KNOTS
+    50,000-279 DEGREES, 30 KNOTS
+    80,000: UNKNOWN
+    3. UNLIMITED
+    4. 1 PLUS
+    5. NONE
+    6. NONE
+(H). NONE
+(I). NONE
+(J). NONE
+(K). JOHN A. BAKER, CAPT, SENIOR CONTROLLER NO COMMENT.
+(L). NONE
+
+BT
+
+08/09423Z OCT RJEDKF
+```
+
+- page 3 -
+

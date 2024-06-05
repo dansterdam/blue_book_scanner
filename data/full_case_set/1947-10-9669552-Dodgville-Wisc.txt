@@ -1,0 +1,48 @@
+There are no photographs in this image, only text within a table format. Here is the text output from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE          October 1947
+2. LOCATION      Dodgeville, Wisc
+3. DATE-TIME GROUP
+4. LOCAL         2300
+5. GMT
+6. TYPE OF OBSERVATION
+   a Ground-Visual
+   b Ground-Radar
+   c Air-Visual
+   d Air-Interceptor Radar
+7. LENGTH OF OBSERVATION
+8. PHOTOS
+   a Yes
+   b No
+9. SOURCE        Civilian
+10. NUMBER OF OBJECTS  One
+11. COURSE       NW to S
+
+12. CONCLUSIONS
+   a Balloon
+   b Possibly Balloon
+   c Aircraft
+   d Possibly Aircraft
+   e Astronomical
+   f Possibly Astronomical
+   g Other
+   h Insufficient Data for Evaluation
+      Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+No description, except that a 'saucer' was to the NW, moving slowly to the south.
+All at once in a sudden burst of speed it circled from right to left in a huge
+circle and moved towards the south the same time. No sound, smell, or trail.
+Very high rate of speed in making the circles.
+
+COMMENTS
+Unidentified.
+
+AF66 FORM 29 (REV 8 SEP 52)
+```
+
+- page 1 -
+

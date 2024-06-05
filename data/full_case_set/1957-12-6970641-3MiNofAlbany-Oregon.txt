@@ -1,0 +1,139 @@
+The image does not contain a photograph. It is a form with text and various checkboxes. Here is the text from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                       2. LOCATION                      12. CONCLUSIONS
+    14 December 1957             3 MI N of Albany, Oregon          ☐ Was Balloon
+3. DATE-TIME GROUP               ☐ Probably Balloon                ☐ Possibly Balloon
+    Local                           ☑ Ground-Visual                  ☐ Was Aircraft
+    GMT 14/1359Z                  ☐ Ground-Radar                   ☐ Probably Aircraft
+5. PHOTOS                        ☐ AI Intercept? Radar             ☐ Possibly Aircraft
+    ☑ Yes                        ☑ SOURCE                          ☐ Was Astronomical
+    ☐ No                           Civilian                         ☐ Probably Astronomical
+4. TYPE OF OBSERVATION                                 ☐ Possibly Astronomical
+          ☐ Binoculars                         6. LENGTH OF OBSERVATION        9. COURSE
+          ☐ Rig                         two hrs 28 mins                    one stationary
+7. NUMBER OF OBJECTS       10. BRIEF SUMMARY OF SIGHTING           11. COMMENTS
+   one                         Red hazy, round object, brightening then      Intercept was requested. Pilot
+                                    dimming. Brighter on one side. Two        Scoured area - nothing there
+                                    bars 25 ft below object resembling wing   except bright full moon on
+                                    span.                                     horizon. Possible mirage. Insuf-
+                                                                              ficient data for analysis.
+
+ATIC FORM 329 (REV 26 SEP 52)
+```
+
+Please note that the checkboxes in the form have been represented with ☐ (unchecked) or ☑ (checked).
+
+- page 1 -
+
+The image does not contain any photographs to describe.
+
+Here is the text output from the document:
+
+```
+RB365
+BM SQA125 YDA104 XVA259 XDC1144DM421
+OO RJEJDN RJESDA RJUEP/HQ
+DE RUJVPDM 118A
+O 141515Z
+FM 25CADD COC
+TO RJEJDN/COMDR NORAD
+RJESDA/COMDR AIR TECHNICAL INTELLIGENCE CENTER
+RJEPHQ/DIRECTOR OF INTELLIGENCE USAF
+ZEN/COMDR 25CADD
+BT
+
+/U N C L A S/S25CADD TAC L62 PD FOR COC FOLLOWING UFOB IS FORWARDED IN
+ACCORDANCE WITH ADCR 23-7-7
+
+RUSH!
+
+ATIC
+
+1) L62 PD FOR COC FOLLOWING UFOB IS FORWARDED IN
+ACCORDANCE WITH ADCR 23-7-7
+```
+
+- page 2 -
+
+The image appears to contain a hand-drawn sketch of an object described as a "round" object with a "six-foot diameter" that was "red-hazy, brightens then dims, brighter on one side." No photograph is present in this image.
+
+A-ROUND 
+B. SIX FEET DIAMETER
+C. RED-HAZY, BRIGHTENS THEN DIMS, BRIGHTER ON ONE SIDE 
+D. ONE
+E. NONE
+F. NONE
+G. NONE
+H. NONE
+
+PAGE TWO AJJPDM 113A
+I. TWO BARS 25 FEET BELOW OBJECT RESEMBLING WINGSPAN
+II A. HER OCCUPATION GOC
+B. 45 DEGREES NNE 32 DEGREES 
+C. 45 DEGREES NNE 32 DEGREES
+D. STATIONARY
+E. FADED BECAUSE OF CLOUD LAYER
+F. 2 HRS 28 MIN
+III A. VISUAL- GROUND
+B. BINOCULARS
+C. NONE
+IV A. 14/13592
+B. NIGHT
+V 3 MI NE OF DJ-Q 5532
+VI A.
+B. N/A
+VII A. DRIZZLING RAIN
+
+- page 3 -
+
+The image does not contain a photograph; it is a scanned page from a document with handwritten notes and typed text.
+
+Here is the text from the document:
+
+```
+LO: 3.
+233/4/3
+233/6/3
+
+This is a classic 
+"hot potato" that's 
+saturation - I f
+yet  frantically &
+with lines) with blue (or)
+2'd hand to yet
+comment 
+about it. 
+why
+
+PAGE THREE RVJ/PDM 118A
+
+253/9/0
+250/6/3
+27/3/5
+
+C. HIGH
+D. GOOD
+EM SMALL
+F. NONE
+
+VIII NONE
+IX NONE
+X NONE
+XI DUTY COITROLLER - NO COMMENTS
+XII NONE
+
+BT
+141625Z DEC RVJ/PDM 
+
+1. Aircraft reported as - nothing there 
+    Pilot scared - almost made 
+    except kept fld (field) lites + tower - nice, large, fuzzy and 
+    red.
+2. Misinterpretation of the rising sun.
+```
+
+- page 4 -
+

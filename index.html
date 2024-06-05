@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Engine</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.8/lunr.min.js"></script>
+</head>
+<body>
+    <input type="text" id="searchBox" placeholder="Search...">
+    <ul id="results"></ul>
+
+    <script>
+        let index;
+
+        fetch('index.json')
+            .then(response => response.json())
+            .then(data => {
+                index = lunr.Index.load(data);
+            });
+
+        document.getElementById('searchBox').addEventListener('input', function() {
+            const query = this.value;
+            const results = index.search(query);
+            
+            const resultsList = document.getElementById('results');
+            resultsList.innerHTML = '';
+
+            results.forEach(result => {
+                const li = document.createElement('li');
+                li.textContent = result.ref;
+                resultsList.appendChild(li);
+            });
+        });
+    </script>
+</body>
+</html>

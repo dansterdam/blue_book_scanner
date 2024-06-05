@@ -1,0 +1,40 @@
+The document page does not contain any photographs.
+
+### OCR Output:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                             2. LOCATION                                12. CONCLUSIONS
+December 1957                        Austin, Indiana
+                                   
+3. DATE-TIME GROUP                   4. TYPE OF OBSERVATION                     
+                                      Ground-Visual                              Was Balloon
+Local 02/0038Z                        Ground-Radar                               Probably Balloon
+   GMT                                Air-Visual                                 Possibly Balloon
+                                      Air-intercept Radar                      
+                                                                       
+5. PHOTOS                            6. SOURCE                                  Was Aircraft  
+ □ Yes                               Civilian                                    Probably Aircraft
+  No                                                                            Possibly Aircraft
+                                   
+                                                                                 Was Astronomical
+7. LENGTH OF OBSERVATION             8. NUMBER OF OBJECTS                       Probably Astronomical
+                                                                                 Possibly Astronomical
+one minute                           one                                       
+                                      9. COURSE                                 Other Insufficient Data for Evaluation   
+                                                     West                      Unknown
+                                                                        
+10. BRIEF SUMMARY OF SIGHTING        11. COMMENTS
+                                  
+One red pin point which was slowly   Description, duration, flight             
+moving west. Object was in sight    path indicate probability of
+for one minute.                     aircraft.
+                                                                       
+                                     No report in file.
+                                                                      
+ATIC FORM 329 (REV 26 SEP 52)
+```
+
+- page 1 -
+

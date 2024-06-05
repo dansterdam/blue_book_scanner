@@ -1,0 +1,57 @@
+There are no photographs on this page. Here is the text output from the document:
+
+---
+PROJECT 10073 RECORD CARD
+
+1. DATE
+30 January 1955
+
+2. LOCATION
+St. Lawrence Island, Alaska
+
+3. DATE-TIME GROUP
+GMT 30/1330Z-1345Z
+
+4. TYPE OF OBSERVATION
+XX Ground-Visual
+[] Air-Visual
+[] Ground-Radar
+[] Air-Intercept Radar
+
+5. PHOTOS
+[] Yes
+XX No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+25 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+ONO
+
+10. BRIEF SUMMARY OF SIGHTING
+Reddish-white light at approximately 200 yards away from observers. Light was immobile and appeared 3 times for three seconds duration at five minute intervals.
+
+11. COMMENTS
+Possible sea vessel pilot light. Extracted from ATRIC 211146, dtd 3 Feb 55, from 5004th AISS. Alaska IR-5004-2-55. On file in ATIC repository.
+
+12. CONCLUSIONS
+[] Was Balloon
+[] Possibly Balloon
+[] Was Aircraft
+[] Probably Aircraft
+[] Possibly Astronomical
+XX Possibly Sea Vessel Pilot Light
+[] Insufficient Data for Evaluation
+[] Unknown
+
+ATIC FORM 329 (REV 25 SEP 52)
+---
+
+- page 1 -
+

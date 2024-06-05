@@ -1,0 +1,190 @@
+There is no photograph present in the image you've provided.
+
+The text contained in the document is as follows:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE                                 2. LOCATION
+14 May 1955                             Syracuse, New York
+3. DATE-TIME GROUP                      4. TYPE OF OBSERVATION
+Local ___________                       ☐ Ground-Visual      ☐ Ground-Radar
+GMT 15/0250Z                            ☐ Air-Visual         ☐ Air-Intercept Radar
+5. PHOTOS                               6. SOURCE
+☐ Yes
+☑ No                                   ☐ Civilian  ☑ (AF Reserve)
+7. LENGTH OF OBSERVATION                8. NUMBER OF OBJECTS            9. COURSE
+few minutes/still visible               one                             Southwest
+10. BRIEF SUMMARY OF SIGHTING           11. COMMENTS
+One small reddish object observed       Possibly balloon. Description
+for several minutes to drift towards    of sighting in conjunction with
+the Southwest. Undulating. Initial      indicated wind conditions and
+observation at zenith.                  known times for release of
+                                        weather balloons strongly sug-
+                                        gests that sighting caused by
+                                        a balloon.
+12. CONCLUSIONS
+☐ Was Balloon
+☑ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATTC FORM 339 (REV 26 SEPT 52)
+```
+
+- page 1 -
+
+There are no photographs present on this page. 
+
+The text of the document is as follows:
+
+---
+
+RC628
+VPD 628 YD 624 TYC 584 DDB431SN4441
+INFORMATION
+NN JEDEN JEDNP JEPHR
+DE JEPSN 36D
+M 167472
+
+TO HR 32ND AD/D/SYR. AFS SYRACUSE 6 NY
+
+TO JEDEN/COYNDER ADC ENT AFB COLORADO SPRINGS COLORADO
+
+JEDDVP/COINDE ATIC WRIGHT PATTERSON AFB OHIO
+
+JEPHQ/DIRECTOR OF INTELLIGENCE HQ. USAF WASHINGTON 25 DC
+
+BT
+/UNCLASSIFIED/ACSOIN: 95575 UFOB. THE FOLLOWING REPT IS SUB IN
+ACCORDANCE WITH PARA 7D, AFR 200-2, DTD 12 AUG 54.
+
+A. STAR SHAPE.
+B. UNKNOWN.
+C. RED.
+D. ONE.
+E. NOT APPLICABLE.
+F. UNDULATION.
+G. NONE.
+H. NONE.
+
+PAGE TWO JEPSN 36D
+
+---
+
+- page 2 -
+
+The image provided does not contain any photographs, it is a scanned text document. Below is the OCR (Optical Character Recognition) output of all the text found in the document:
+
+```
+1. NONE.
+2. A. MOVEMENT.
+   B. ZENITH.
+   C. STILL VISIBLE.
+   D. MOVING SW AND UNDULATING.
+   E. NEGATIVE.
+   F. FEW MINUTES.
+3. A. GROUND VISUAL.
+   B. NONE.
+   C. NOT APPLICABLE.
+4. A. 15/192352 MAY.
+   B. NIGHT.
+5. NORTH SIDE OF SYRACUSE N.Y.
+6.  , AGE 31;  , SYRACUSE, N.Y.;
+PHONE  , MEMBER AF RESERVE, AMATEUR ASTRONOMER.
+   B. NEGATIVE
+   A. CLEAR. NO MOON.
+   B. SURFACE: 325 AT 7 KTS
+               22,063' 310 AT 42 KTS
+               5,663' 363 AT 22 KTS
+               33,063' 363 AT 63 KTS
+               14,663' 353 AT 29 KTS
+               55,063' 355 AT 43 KTS
+
+PAGE THREE JEP5N 35
+   16,663' 529 AT 33 KTS       63,063' UNKNOWN
+K  C. O CLEAR.
+   D. 15 MAILS PLUS.
+   3. NONE.
+   F. NONE.
+8. NONE KNOWN.
+9. NONE.
+11. ONE KG-97, 22542, QP3225, SW.
+11. COC DUTY MFFICSR, CAPT GERALD T. HAMILTON. FIVE AIRMEN AND CAPT
+    HAMILTON WENT OUTSIDE AT TIME OF SIGHTING AND COULD SEE NOTHING
+    UNUSUAL.
+12. NONE.
+```
+
+Please note that some parts of the text in the original document have been redacted, which I have represented with black bars. The OCR output will not include any redacted text or personal contact information.
+
+- page 3 -
+
+There is no photograph present in this document. Here is the text output from the page:
+
+```
+B. SURFACE: 320 AT 7 KTS          29,000’* 010 AT 43 KTS
+             6,000’* 360 AT 22 KTS          39,000’* 360 AT 63 KTS
+             16,000’* 030 AT 29 KTS         55,000’* 355 AT 43 KTS
+
+PAGE THREE JEPSPN 30
+                           16,000’* 020 AT 32 KTS           63,000’* UNKNOWN
+
+K    C. O CLEAR.
+      D. 15 MAILS PLUS.
+      3. NONE.
+      F. NONE.
+      8. NONE KNOWN.
+      9. NONE.
+     11. ONE KC-97, 02542, QP325, SW.
+     11. COC DUTY MFFICSR, CAPT GERALD T. HAMILTON. FIVE AIRMEN AND CAPT
+HAMILTON WENT OUTSIDE AT TIME OF SIGHTING AND COULD SEE NOTHING
+UNUSUAL.
+     12. NONE.
+
+ET
+
+16/17552 MAY JEPSPN
+```
+
+- page 4 -
+
+There are no photographs present in this image.
+
+As per your request, here is the OCR output of the text found in the document:
+
+```
+UFOB INDEX CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+X May 1955 Syracuse, New York ☐ Was Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ☐ Probably Balloon
+Local ☐ Ground-Visual ☐ Was Aircraft
+☐ 15/02502 May 1955 ☐ Air-Visual ☐ Probably Aircraft
+GMT. ☐ Ground-Radar ☐ Probably Astronomical
+5. PHOTOS 6. SOURCE ☐ Was Astronomical
+☐ Yes ☒ Civilian (AF Reserve) ☐ Possibly Astronomical
+☒ No ☐ Other ☐ Insufficient Data for Evaluation
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS 9. COURSE ☐ Unknown
+Several Minutes One (1) SW
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS Possibly Balloon
+One (1) small reddish object was observed The description of this sighting, in
+for several minutes to drift towards the conjunction with indicated wind con-
+SW. undulating. Initials of investigator ditions and known times for the re-
+[at Zenith+. lease of weather balloons strongly
+suggests that this sighting was caused
+by a balloon.
+
+AISOP Form 5 (15 Oct 54)
+```
+
+(Note: There are some markings or characters that are not clearly legible and are interpreted as "[at Zenith+.]".)
+
+- page 5 -
+

@@ -1,0 +1,112 @@
+There are no photographs present on this page.
+
+OCR Text Output:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE
+                     2. LOCATION
+3. DATE-TIME GROUP
+3 Oct       .                             West      Palm      Beach,      Florida
+                      4. TYPE OF OBSERVATION
+         GM                 30/0000Z             Local
+                                                      [] Ground-Visual               [] Ground-Radar
+                                                      [] Air-Visual                           [] Air-Intercept           Radar
+                        5. PHOTOS
+[] Yes           SAm
+                      6. SOURCE
+
+                   Civilian                    12. CONCLUSIONS
+                                                                                            []   Was        Balloon
+                                                                                            []   Probably          Balloon
+                several     seconds                                                []   Possibly           Balloon
+                       8. NUMBER OF OBJECTS
+               57rN                                                                        []   Was      Aircraft
+                           seven                                                                  []   Probably         Aircraft
+                                                                                          [] Possibly              Aircraft
+10.           BRIEF   SUMMARY                  OF        SIGHTING
+                                                                                        []   Was Astronomical
+                                                                                        [] Probably Astronomical
+Three objects square - four objects
+                                                                                        [] Possibly Astronomical
+round - three objects size of dime,
+four objects size of pin, Co 1 or light
+                                                                                         [] Other
+pink - three objects flew straight,
+line North to South; three northeast                                        [] Insufficient Data for Evaluation
+to southwest, zigzag; one object
+                                                                                        [] Unknown
+south to north straight line – disap-
+peared at horizon . Three separate                    sign t
+ines .
+
+ATIG FORM 329 (REV 26 SEP 52)
+```
+
+- page 1 -
+
+This page does not contain any photographs. Now, I will extract and output all the visible text from the document:
+
+Multi 80/00302
+
+1Oct56 07 18
+
+WWL pickup up
+ident site 30-184
+
+50 LP 08 56
+
+DISAC??
+
+ADG17
+TUPB28 SYDCQ28 WYCD30 VMA241QMAG07
+PP RJEDN RJEDF RJEPHQ RJESDD
+OP RJE SCM 1
+P 34Q47
+
+56
+122345
+4E4
+6-4X2c
+
+BDD
+
+- page 2 -
+
+There is no photograph present on this page of the document.
+
+Here's the OCR output of the text found in the document:
+
+```
+INF COMDR 17 47 AFWG PBB WPB FLA 
+TO RADEF/COMDR ADC ENT AFB COLO
+RADEF/COMDR 35TH AIR DIV, ADC GEODING AFB CA
+RADEF/COMDR ATIC WRIGHT-PATTERSON AFB OHIO
+RADEF/DIROCTOR INTELLIGENCE HQ USAF WASH 0 C
+BT
+17 1700 3  1 UFOB. (1) (A) THREE OBJECTS SQUARID. FOR OBJECT ROUND 
+(B) THREE D10 FOUR PIN (C) LIGHT PINK (D) SEVEN (E) SINGLE 
+(F) (G) (G) NONE (I) NONE (2) (A) SITTING IN THE 
+YARD LOOKING SKYWARD (B) DIRECTLY OVERHEAD (C) HORIZON 
+NORTH TO SOUTH STRAIGHT LIN E, THRIE NORTHEAST TO SOUTHWEST 
+ZIGZAGGED, ONE SOUTH TO NORTH STRAIGHT LIN E) A DRUPLY AT 
+HORIZON (F) EVERAL SECONDS (3) (A) GROUND-VISUAL (F) NONE H/A 
+(A) TO 3:15 (B) NIGHT (5) WEST PALM DEACH, FLA (5) (A) 
+2:5… 4: MISS 05.
+PA PALM BEACH, FLA, INTERIOR DECORATOR (B) N/A (7) (A) PARTLY
+
+PAGE RJECSM 1
+CLOUDY, WARM AND HUMID (B) SURFACE 13: AT 5:7; 801)5: AT 7;, 
+Z 88 AT 14, 89306 5: AT 1 ‘ K, 8:56:   18, S 36: 6:0 AT 
+14: (C) NOT REPORTED; VERY HIGH CIRRUS (D) 15 MILES (X) BROKEN
+(F) NONE (S) NONE (K) NONE (H) ONE CONVAIR AND ONE LOCKHEED 
+11) LODESTAR HEADING SOUTH (11) INTELLIGENCE OFFICER POSSIBLE CAUSE 
+
+BT SIGHTING UN KNOWN (12) NONE
+
+764372 SEP RJ E S C M
+```
+
+- page 3 -
+

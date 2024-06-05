@@ -1,0 +1,154 @@
+No photograph is present on this page.
+
+Here is the text extracted from the document:
+
+```
+PROJECT 10073 RECORD CARD
+
+1. DATE            2. LOCATION             12. CONCLUSIONS
+22 April 1957      425 K North of Hunter AFB,  ❑ Was Balloon
+                   Ga.                       ❑ Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OBSERVATION      ❑ Possibly Balloon
+GMT                                         ❑ Was Aircraft
+0110 --0128X       ❑ Ground-Visual          ❑ Probably Aircraft
+Local:2010         ❑ Ground-Radar           ❑ Possibly Aircraft
+                   ❑ Air-Visual             ❑ Was Astronomical Comet
+5. PHOTOS          ❑ Air-Intercept Radar    ❑ Probably Astronomical
+❑ Yes              6. SOURCE                ❑ Possibly Astronomical
+❑ No               ❑ military               ❑ Other
+                                         ❑ Insufficient Data for Evaluation
+                                         ❑ Unknown
+7. LENGTH OBSERVATION  8. NUMBER OBJECTS   9. COURSE
+18 minutes            one               NW
+10. BRIEF SUMMARY OF SIGHTING           11. COMMENTS
+One object described as a pencil shape  Probably Orend Leland comet.
+5 inches long, bright star color. Obj
+had trail of light at 20 dgr angle of
+actual object. Object on a NW heading
+traveling at a very high speed hovered
+with trail of light.
+
+ATCC FORM 329 (REV 16 SEP 52)
+```
+
+- page 1 -
+
+The image does not contain any photographs. Here is the text output:
+
+```
+22     22/10/3282                          ATIC        22043572513
+                                                       NTFO 
+                                                       23/04/57 
+
+[ZC249
+TPC2AMC YHC2211SA4331 LEAD32H-DDA356
+
+00 RJEDIN REJNDP RJEPHO
+DE REJDLS SGHI ZEX
+20 233337Z
+
+OL:OLMSTED AFB PA
+
+TO RJEDIN/COMDR ADC ENT AF3 COLORADO COMDR AD (DEF)
+:RJEDIP/COMDR AIR TECHNICAL INTEL WRIGHT -PATTERSON AFB OHIO
+/RJEPHO/DIR OF INTEL HQ USAF WASH 25D C
+DT
+
+1. DESCRIPTION
+...PENCIL
+...SINCERES
+...BRIGHT STAR COLOR
+...1 
+...N/A
+...NONE
+3. TAIL-TRAIL OF LIGHT AT 20 DEGREE ANGLE OF ACTUAL OBJECT UNK
+...NONE
+...NONE
+
+TMPQ
+ZAE *.*..*RJDLES SGHI
+
+...DESCRIPTION OF COURSE...
+...UNK
+...LEVEL
+...UNK
+...NW HEADING TRAVELING VERY HIGH SPEED - HOVERED WITH TRAIL OF LIGHT
+AT 20 DEGREE ANGLE
+```
+
+- page 2 -
+
+The image provided does not contain any photographs. The content of the image is textual. Below is the transcribed text from the document:
+
+```
+2.DESCRIPTION OF COURSE 
+A. UNK.
+B. LEVEL.
+C. UNK.
+D. *** HEADING TRAVELING VERY HIGH SPEED - HOVERED WITH TRAIL OF LIGHT
+AT 20 DEGREE ANGLE
+E. *** AT HIGH?SPEED
+F. 10 MIN
+
+3. MANNER OF OBSERVATION
+A. AIR (B47 OVR RICK=RichMONd,/VA.
+B. NONE
+C. B-47 OPTICAL 43-35, 7302FT. NORTH 425*K HUNTER AFB GA
+
+4. TIME AND DATE OF SIGHTING
+A. 23/31122 - 23/0125Z
+B. NIGHT
+
+5. LOCATION OF OBSERVANT(S)
+..AC VICINITY SN NORTH
+
+6. IDENTIFYING INFORMATION OF ALL OBSERVER(S)
+A. N/A
+
+PAGE 3 RJEDLS 694//
+
+2. WASSIL, M.G CAPT
+347TH BOMB SQ, HUNTER AFB SVN GA. PILOT -GOOD
+
+7. WEATHER AND WINDS - ALOFT CONDITIONS; TIME AND PLACE OF SIGHTING
+.. OVERCAST
+.. SURFACE-NE 7
+.. 3,000-2-4 KTS E
+.. 9,000 -224DEG 45 KT
+15,000 -225DEG 30 KT
+30,000 -250DEG 25 KT
+54,000 -240DEG 30 KT
+```
+
+Please note that some text may be unclear due to the quality of the document or the typewriter's ink. There are a series of asterisks that appear to be placeholding missing or redacted information, and some text is crossed out or amended, which I have tried to represent with equal signs or slashes as appropriate.
+
+- page 3 -
+
+The image you provided does not contain a photograph. It appears to be a page from a typed report.
+
+Here is the text output from the document:
+
+---
+A. OVERCAST 
+B. SURFACE WIND 7 
+5,000 -280DEG 10 KT 
+10,000 -245DEG 15 KT 
+15,000 -255 DEG 20 KT 
+20,000 -255DEG 25 KT 
+25,000 -260DEG 30 KT 
+30,000 -270/290 DEG 40 KT 
+C. 10,000` OVERCAST 
+D13 
+E. OVERCAST 
+F. NONE 
+G NONE 
+H. NONE 
+J1 
+I4. OPERATIONS OFFICER NONE 
+12. NONE 
+BT 
+ZMJU5524 APR
+---
+
+- page 4 -
+
