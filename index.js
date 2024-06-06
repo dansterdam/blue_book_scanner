@@ -25,5 +25,5 @@ chunkedDocs.forEach((chunk, index) => {
         });
     });
 
-    fs.writeFileSync(`./index${index}.json`, JSON.stringify(idx));
+    fs.writeFileSync(`./data/index${index}.json`, JSON.stringify(idx));
 });
