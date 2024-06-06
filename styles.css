@@ -67,6 +67,7 @@ main {
     width: 100%;
     overflow-y: auto;
     max-height: 400px;
+    margin-bottom: 0; /* Add this line */
 }
 
 #results li {
@@ -88,11 +89,20 @@ main {
     color: #ff79c6; /* Lighter purple on hover */
 }
 
-#pagination {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 20px;
+#pagination button {
+    padding: 10px 20px;
+    margin: 0 5px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #6200ee; /* Purple button color */
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+}
+
+#pagination button:disabled {
+    background-color: #3700b3; /* Darker purple when disabled */
+    cursor: not-allowed;
 }
 
 #pageInfo {
@@ -114,17 +124,6 @@ main {
 @keyframes spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
-}
-
-#fileContent {
-    background-color: #2d3246; /* Darker blue-gray background */
-    color: #fff; /* Light text color */
-    padding: 20px;
-    border-radius: 8px;
-    margin-top: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 100%;
-    overflow-wrap: break-word;
 }
 
 footer {
