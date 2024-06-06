@@ -8,7 +8,11 @@
 </head>
 <body>
     <header>
-        <h1>👽 UFO case report search 🌌</h1>
+        <h2>👽 UFO case report search 🌌</h2>
+        <!-- Button to download all case files -->
+        <div class="download-links">
+            <button id="downloadAllButton">Download All Case Files 📂</button>
+        </div>
     </header>
     <main>
         <div class="container">
@@ -29,5 +33,24 @@
     </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
     <script src="search.js"></script>
+    <script>
+        // Function to handle download all button click
+        function handleDownloadAll() {
+            // Show confirmation dialog
+            const confirmed = window.confirm(" Download 1950s_cases.zip, 1940s_cases.zip, 1960s_cases.zip, and 19XXs_cases.zip?");
+            if (confirmed) {
+                // Loop through each case file and trigger download
+                ['1950s_cases.zip', '1940s_cases.zip', '1960s_cases.zip', '19XXs_cases.zip'].forEach(file => {
+                    const link = document.createElement('a');
+                    link.href = `data/scanned_casefiles/${file}`;
+                    link.download = file;
+                    link.click();
+                });
+            }
+        }
+
+        // Add event listener to the download all button
+        document.getElementById('downloadAllButton').addEventListener('click', handleDownloadAll);
+    </script>
 </body>
 </html>
