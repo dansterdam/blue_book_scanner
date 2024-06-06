@@ -3,33 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Blue Book UFO Files Search</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.8/lunr.min.js"></script>
+    <title>👽 UFO case report search 🌌</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Project Blue Book UFO Files Search</h1>
+        <h1>👽 UFO case report search 🌌</h1>
     </header>
     <main>
         <div class="container">
             <div class="search-container">
-                <input type="text" id="searchBox" placeholder="Search..." />
-                <button id="searchButton">Search</button>
+                <input type="text" id="searchBox" placeholder="Enter your search query...">
+                <button id="searchButton">Search 🛸</button>
             </div>
+            <div class="loader" id="loading"></div> <!-- Loading Spinner -->
             <ul id="results"></ul>
-            <div id="loading" style="display: none;">
-                <div class="loader"></div>
-                <p>Loading...</p>
-            </div>
-            <div id="pageInfo"></div>
             <div id="fileContent"></div>
+        </div>
+        <div id="pagination">
+            <div id="pageInfo"></div> <!-- Pagination information -->
         </div>
     </main>
     <footer>
-        <p>&copy; 2024 Project Blue Book Scanner</p>
+        <p>&copy; Project blue book scanner</p>
     </footer>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
     <script src="search.js"></script>
 </body>
 </html>

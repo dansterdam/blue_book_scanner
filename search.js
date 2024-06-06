@@ -19,12 +19,11 @@ async function loadIndex(chunk) {
 }
 
 async function loadAllIndexes() {
+    const promises = [];
     for (let i = 0; i < chunkCount; i++) {
-        let idx = await loadIndex(i);
-        if (idx) {
-            indexes.push(idx);
-        }
+        promises.push(loadIndex(i));
     }
+    indexes = await Promise.all(promises);
 }
 
 async function search(query) {
@@ -113,16 +112,8 @@ function paginateResults(page) {
 
 function updatePagination(page) {
     const pageInfo = document.getElementById('pageInfo');
-    const prevPageButton = document.getElementById('prevPage');
-    const nextPageButton = document.getElementById('nextPage');
     const totalPages = Math.ceil(allResults.length / resultsPerPage);
-
     pageInfo.textContent = `Page ${page} of ${totalPages}`;
-    prevPageButton.disabled = page <= 1;
-    nextPageButton.disabled = page >= totalPages;
-
-    prevPageButton.onclick = () => paginateResults(page - 1);
-    nextPageButton.onclick = () => paginateResults(page + 1);
 }
 
 // Load indexes when the page loads
