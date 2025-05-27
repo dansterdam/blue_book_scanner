@@ -1,80 +1,150 @@
-There is no photograph present in this image. This appears to be a page from a document titled "PROJECT 10073 RECORD CARD" related to Project Blue Book, a United States Air Force program to study unidentified flying objects (UFOs).
-
 PROJECT 10073 RECORD CARD
-1. DATE: 15 Jan 62
-2. LOCATION: 38-30N 74-20W (Atlantic)
-3. DATE-TIME GROUP: 0515
-4. TYPE OF OBSERVATION: D Ground-Radar
-5. PHOTOS: 0
-6. LENGTH OF OBSERVATION: Not given
-7. NUMBER OF OBJECTS: nine
-8. COURSE: Varied
-9. COMMENTS: This report is evaluative and indicates that the object observed was bright and target acquired by GCA and the Norfolk radar. The object appeared to be at a medium to high altitude.
+
+MILITARY
+
+1. DATE
+15 Jan 62
+
+2. LOCATION
+38-30N 74-20W (Atlantic)
+
+3. DATE-TIME GROUP
+0615
+Local
+GMT 15/1152
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+Not given
+
+8. NUMBER OF OBJECTS
+nine
+
+9. COURSE
+varied
+
+10. BRIEF SUMMARY OF SIGHTING
+Blue-green objects the brightness of first and second magnitudes. The objects were varying in brilliance and had red halos. They were flying together in various random patterns at a medium to high altitude. Objects flew on various courses. NNW then E then SE then S.
+Weather was cloudy.
+
+11. COMMENTS
+This report is evaluated as probable a/c due to the proximity to both the Langley AFB and the Norfolk Naval Air Station and due to the description.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☒ Was Aircraft
+☒ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photograph or visual representation. It appears to be a typed text document describing a sighting of unidentified flying objects.
+AF IN . 3437 (15 Jan 62)    DEPARTMENT OF THE AIR FORCE
+                                      STAFF MESSAGE BRANCH
+                                      UNCLASSIFIED MESSAGE
 
-AP IN : 3437 (15 JAN 62)
-ACTN: CTN-17
-INFO : ARMY-2, NAVY-2, CMC-1, OCIN-15, NSA-7, CIA, DIA-2, OOP-CP-1, SAFS-3 -115
-CMAH1202CBJAO76
-YYYYRYRZEZHQ
+ACTION: CIN-17
+INFO : ARMY-2, NAVY-2, CMC-10, OCS-15, MDB-15, NSA-7, CIA-11, OOP-2
+        SMB B 054                                 DIA-2, OOP-CP-1, SAFS-3        -115-
+
+CHAA120ZCBJA076
+        ***** RJEZHQ
+
 ZNR
 Y 151520Z
+
 FM CCGD FIVE
-TO RBEKJC/CINCLANTFLT
-RJMFALB/CINCNORAD
-RJIEZHQ/CMDS USAF
-RJWXBR/CINGSAC
-RBEKJC/COMASWFORLANT
-RFEMVB/CINAIRDEF
-RCEHJC/CANCOMAFLANT
-RREGUK/COMEASTERSEAFRON
-RJIEZSN/26TH NORAD
-INFO RBEPJD/COMDT COGARD
-REGAUF/COMEASTAREA
+
+TO RBEKHC/CINCLANTFLT
+   RJWFALB/CINCNORAD
+   RJEZHQ/COFS USAF
+   RJWXBR/CINCSAC
+   RBEKHC/COMASWFORLANT
+   RFEMVB/CINAIRDEF
+   RCEHM/CANCOMARIANT
+   RSBGUH/COMEASTSEAFRON
+   RJEZSN/26TH NORAD
+   INFO RBEPJD/COMDT COGARD
+   RBEQGUF/COMEASTAREA
+
 BT
 UNCLAS
-SS PRESIDENT VANBUREN/WSKX 1511152 38.30N 74.20W 9 BLUE OBJECTS
-OBJECTS SIZE OF FIRST AND SECOND MAGNITUDE VARYING IN BRIGHTNESS
-WITH A LIGHT RED HALO IN AREA THEY WERE FLYING TOGETHER
-RANDOM PATTERN MEDIUM TO HIGH ALTITUDE ON VARIOUS COURSE
-THEN E THEN SE THEN SOUTH WEATHER CLOUDY WIND AND SEA MO
 
-The text appears to be a military message describing the sighting of 9 unidentified blue objects of varying size and brightness, flying together in a random pattern at medium to high altitudes, with a light red halo in the area. The objects were observed by the USS President Vanburen at coordinates 38.30N 74.20W, with the weather being cloudy with wind and sea motion.
+SS PRESIDENT VANBUREN/WSKX 151152 38.30N 74.20W 9 BLUE GREEN
+
+OBJECTS SIZE OF FIRST AND SECOND MAGNITUDE VARYING IN BRILLIANCE
+WITH A LIGHT RED HALO IN AREA THEY WERE FLYING TOGETHER IN VARIOUS
+RANDOM PATTERN MEDIUM TO HIGH ALTITUDE ON VARIOUS COURSES NNE
+THEN E THEN SE THEN SOUTH WEATHER CLOUDY WIND AND SEA MODERATE
+
+BT
+NOTE: ADVANCE COPY TO CIN & OOP-CP (151058L)
+
+Jamaica                     1/15/62
+6:15 AM.  A bright object
+rising in the NW horizon and
+thought to be a satellite,
+stopped at about 45° above
+tic in the sky. The bright
+object split into a number
+of small pieces. The number
+varied from three to five,
+became bright, then dim-
+mer at intervals. Duration
+10 minutes - Similar obser-
+vations in Akron were seen
+on August 16, 1961, and in
+Kent on May 3, 1961.
+
 
 - page 2 -
 
-The shared image does not appear to contain a photograph. It is a UFO analysis sheet that contains handwritten text.
-
-Transcription of the text in the document:
-
 UFO ANALYSIS SHEET
 
-Location: 38-30 N 74-20 W
-Date (Local): 10 January 1962  Hour (Local): 23:00
-Satellite: (Det 5 ATIC, Ext 3279) VISIBLE
+Location 38-30 N     74-20 W
 
-Astronomical Phenomena (Meteor, Comet, Planet, etc) - 
+Date (Local) 10 January 1962     Hour (Local) 13/1045
 
-Radar Analysis (AFCIN-4E1) - 
+                                  Hour (Z Time Group) 13/1115
 
-Natural Phenomena (Bell Lightning, etc) -
+Satellite: (Det 5 ATIC, Ext 3279)     FILED OUT
 
-Aircraft, Balloons, Airships, etc POSSIBLE AIRCRAFT
+Astronomical Phenomena (Meteor, Comet, Planet, etc) -----
 
-Other -
+Radar Analysis (AFCIN-LE1) N/A
+
+Natural Phenomena (Ball Lightning, etc) -----
+
+Aircraft, Balloons, Airships, etc POSSIBLY AIRCRAFT
+
+Other_____
 
 Evaluation of Source Reliability PROBABLY GOOD
 
-Analysis and Conclusions: BRIGHT GREEN OBJECTS, 3 IN
-NUMBER, MOVING RAPIDLY WITH FLICKERING MOTION. THE OBJECTS
-WERE VERY SMALL, ABOUT 1/4 THE DIAMETER OF CONVENTIONAL AIRCRAFT
-LOCKLEHEED OR BOEIN-7. BRIGHT ORANGE SPARKS WERE VISIBLE ON
-2 OF THE OBJECTS AND THEY SEEMED TO EMANATE FROM UNDERNEATH
-TO THE REAR. SOMETIMES THEY APPEARED TO CLIMB IN THEIR FLIGHT
-AND OTHER TIMES THEY SEEMED TO FALL. WEATHER WAS CLEAR AND COLD.
+Analysis and Conclusions: BLUE-GREEN OBJECTS THE BRIGHTNESS OF FIRST- AND MAGNITUDE SIRES. THE OBJECTS WERE JARING IN BRILLIANCE AND HAD EGO HALOS. THEY WERE FLYING TOGETHER IN VARIOUS RANDOM PATTERNS AT A MEDIUM TO HIGH ALTITUDE. CIRCLES FLEW ON VARIOUS COURSES, NNE THEN EAST- THEN SOUTHEAST- THEN SOUTH. WEATHER WAS CLOUDY.
+
+THIS REPORT CONTAINS INSUFFICIENT INFORMATION TO ALLOW A VALID CONCLUSION. HOWEVER DUE TO THE DESCRIPTION, THE PROXIMITY TO BOTH THE AIR FORCE BASE, KINGLEY, AND THE NORFOLK NAVAL AIR STATION IT IS VERY POSSIBLE THAT THESE OBJECTS WERE AIRCRAFT.
+
 
 - page 3 -
 

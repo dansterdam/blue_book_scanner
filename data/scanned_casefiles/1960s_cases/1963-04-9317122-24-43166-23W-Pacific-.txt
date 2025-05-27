@@ -1,144 +1,194 @@
-The image appears to be a page from a Project Blue Book record card. There is no photograph present in this particular page. 
-
-Here is the text output from the OCR system:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
-11 APRIL 1963
+15 April 1963
+
 2. LOCATION
 24.43 166.23W (Pacific)
-3. DATE/TIME GROUP
-16/06302
-4. TYPE OF OBSERVATION
-XX Ground-Visual
-5 Air-Visual
+
+3. DATE-TIME GROUP
+Local 16/0630Z
+GMT
+
+4. TYPE OBSERVATION
+☐ Ground-Visual
+☐ Air-Visual
+☐ Ground-Radar
+☐ Air-Intercept Radar
+
 5. PHOTOS
-O Yes
+☐ Yes
+XENO
+not reported
+
+6. SOURCE
+Civilian
+
 7. LENGTH OF OBSERVATION
-105 SECONDS
+not reported
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+east
+
 10. BRIEF SUMMARY OF SIGHTING
-BEING REPORT OF GLOWING OBJECT MOVING ACROSS SKY RESEMBLED A BRIGHT STAR. ESTIMATED ALTITUDE 20,000 FT.
-12. CONCLUSIONS
-Was Balloon
-Probably Balloon
-Was Aircraft
-Probably Aircraft
-Was Astronomical
-Probably Astronomical
-Other
-Insufficient Data for Evaluation
+MERIT report of glowing object moving East very fast. No identification. Resembled a bright star. Estimated altitude 20,000 ft.
+
 11. COMMENTS
-Possibility of meteor and astronomical phenomenon being observed. Duration not sufficiently long to determine exact nature. Case listed as insufficient data for evaluation.
+Possibility of meteor and possibility of object being a/c. Duration not reported. No evaluation without duration. Case listed as insufficient data. EACH ACT NJ
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☒ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 53)
+
 
 - page 1 -
 
-There is no photograph present in this image. This appears to be a page from an old Project Blue Book UFO report document containing text only.
-
 DEPARTMENT OF THE AIR FORCE
-STAFF DIGEST BRANCH
-INCOMING
-AP IN : 35462 (16 Apr 63) C/DDO
-INFO : INTER-5, XOPF-1, XOPX-1, SAR-OS-3, ARMY-2, CMC-8, JGS-35, DIA-20
-DIA/011C-2, 05D-15, NSA-7, CIA-11, 118
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
 
-SM b 6130
-ZOZC PHU982V
-Y RUAAU
-ZFD RUPHC
-PHQ AQ71 
-DR YY RUAQG RUCOV
-DR RUPHQ 9118
-X 151016Z
-W 
+AP IN : 35462 (16 Apr 63) C/O DOC
+
+INFO : NIN-9, XOP-1, XOPX-4, SAF-OS-3, ARMY-2, GMC-8, JCS-35, DIA-20
+        DIA/CIIC-2, OSD-15, NSA-7, CIA-11
+
+SMB C150
+
+ZCZCPH0882V
+*****YY RUEAHQ
+ZFD RUMPH
+PHC A071
+*****YY RUEAHQ RUECW
+
+DE RUMPHC 018S
+
+ZMR
+Y 161010Z
+BH
+
 UNCLAS SVC
-ZUI RUEK 339/Z 112 16/0931Z  (TOTAL) ZDK RUPHQ Q31/160932Z 
-Y 160932Z
-FM COMHAYSEAFRON
-TO RUAAAAA/COMD HADD KUNTA
-INFO RUPHP7/CINCPACFLT
-RUW GAL/GINCNORAD ENT AFFA GULU
-RUEPAQ/COFSUSAF WASHDG
-RUEC(N)
-RUECW/SECNAV 
-RUHFS/CINCUSPAC
-RUMPA/CINCPAC 
-RUMKS/PACAF BASE COM, HICKAM AFB
+
+ZUI RUEK 099/Z112 16/0951Z. (NOTAL) ZDK RUMPHC 03V 160923Z
+Y 160903Z
+
+FM COMMAWSEAFRN
+TO RUAUAAW/COMD HADD KUN1A
+
+INFO RUMHB/CINCPACFLT
+RUWGAL8/CINC NORAD ENT AFB, COLO
+RUEAHQ/COFSUSAF WASHDC
+RUECW/CNO
+RUECW/SEGNAV
+RUHPFS/CINCUSARPAC
+RUMPA/CINCPAC
+RUHLKSA/PACAF BASE COM, HICKAM AFB
 NAVY GRNC
 
-01
+[Handwritten notes on the side include coordinates and other markings]
 
-Page 1 of 2
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a page from a document related to Project Blue Book, an Air Force investigation into unidentified flying objects (UFOs).
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
 
-The text in the document is as follows:
+AF IN : 35462 (16 Apr 63)   INCOMING                Page 2 of 2
+
+BT
+UNCLAS
+MERINT
+FOLLOWING RECM FM USNS COSSATOT/TAU 77, QUOTE: MERINT USNS COSSATOT
+TAU 77. LAT 24-43N LONG 166-23W 160630Z. SIGHTED GLOWING OBJECT
+ALTITUDE 20 DEG COURSE EAST VERY FAST. NO IDENTIFICATION RESEMBLE
+BRIGHT STAR UNQUOTE
+BT
+15/2904Z
+BH
+16/1010Z
+NOTE: ADVANCE COPY TO DIA, NIN & XOFX.
+
+
+- page 3 -
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+AF IN: 35476     (16 Apr 63) INCOMING     Page 1 of 2
+
+INFO: NIN-9, XOP-1, XOPX-4, SAF-OS-3, ARMY-2, CMC-8, JCS-35,
+      DIA-20, DIA/CIIC-2, OSD-15, NSA-7, CIA-11
+
+(118)
+
+SMB A 166
+WVZCQJA104
+OO RUEAHO
+ZNR ZFHI
+SU198ZCKSA003
+OC RUHLKM RUHPQ RUEAHO RUECW RUWGALB RUHPA RUTAFS RUHPB RUAUAZ
+DE RUHLKH 5
+ZNR
+O 160900Z
+FM 326 AIR DIV KUNIA FACILITY HAWAII
+TO RUHLKM/PACAF HICKAM AFB HAWAII
+RUHPQ/COMHAWSEAFRON PEARL HARBOR HAWAII
+INFO: RUEAHO/CSAD USAF WASH DC
+RUECW/CNO WASH DC
+RUECW/SECNAV WASH DC
+RUWGALB/CINCNORAD ENT AFB COLO
+
+
+- page 4 -
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
 INCOMING
-Page 2 of 2
 
-AF IN : 35462 (16 APR 63)
+AF IN: 35476  (16 Apr 63)                                     Page    2 of 2
 
-UNGLAS
-MERINT
-FOLLOWING RECD FM USNS GOSSATUT/TAU 77. QUOTE: MERINT USNS GOSSATOT TAU 77- LAT 24-43N LONG 166-23W 166382Z SIGHTED GLOWING OBJECT ALTITUDE 20 DEG COURSE EAST VERY FAST. NO IDENTIFICATION RESEMBLE BRIGHT STAR UNQUOTE
-ET
-15/2902Z
-BH
-15/1010Z
+RUMPA/CINCPAC CAMP H M SMITH HAWAII
+RUMAF/C INCUSARRPAC FT SHAFTER HAWAII
+RUHPB/C INCPACFLT PEARL HARBOR HAWAII
+RUAUAZ/COMUSJAPAN FUCHU AS JAPAN/
+RUAMCR/COMOSKOREA SEOUL KOREA
+RUAGFL/COMUSTDC TAIPEI TAIWAN
+RUGSBR/C INCSAC OFFUTT AFB NEBR
+BT
+UNCLAS/HADOC-D 0710
+CURVIS/USNS COSSATOT TA 77 REPORTS POSITION 24 DEGREES 43 MIN NORTH
+166 DEGREES 22 W IN 2. AT 160630. SIGHTED GLOWINGOBJECT 20 DEGREES ABOVE
+HORIZON, TRAVELING TO THE EAST VERY FAST. RESEMBLED
+BRIGHT STAR. NO EVALUATION.
+BT
+16/0910Z APR RUHLKH
+NOTE:  ADVANCE COPY TO: XOFX, NIN & DIA
 
-NOTE: ADVANCE COPY TO DIA, NIN & XOPX.
-
-- page 3 -
-
-The image provided does not contain any photographs. It appears to be a page from a Project Blue Book report document, specifically a teletype message with various codes, abbreviations, and information related to an unidentified flying object (UFO) incident.
-
-AP IN: 35476
-INFO: NIN-9, XOP-1, XOPX-4, SAF-03-3, ARMY-2, CMC-8, JCS-35, DIA-20, DIA/CSIG-2, GS-15, NSA-7, CIA-11
-(119)
-
-SMB A 166
-WWYZCCJA184
-00 RUEAHQ
-ZNR ZFHI
-SU198ZCKSHOCOS
-CC RUHLKK RUHPO RUEAHQ RUECU RUNGALE RUHPA RUTAFS RUHPB RUAUAZ
-DE RUHLKH S
-Z NR
-0 168990Z
-FR 325 AIR DIV KUNIA FACL ITY HAWAII
-TO RUHLKM/PACAF HICKAM AFB HAWAII
-RUHPA/COMHAWSECFRON PEARL HARBOR HAWAII
-INFO: RUEAHQ/CSAD USAF WASH DC
-RUEAW/CNO WASH DC
-RUECU/SECNAV WASH DC
-RUUGALB/CINCONAD ENT AFB COLO
-
-- page 4 -
-
-The image does not contain any photographs. It appears to be a page from an old Project Blue Book document, which is an official U.S. Air Force study of unidentified flying objects.
-
-RUHPAG/CINCPAC CAMP H M SMITH HAWAII
-RUHAPS/C INCUSARPAC FT SHAFTER HAWAII
-RUHPB/C INCPAGLT PEARL HARBOR HAWAII
-RUHAZ/COMUSAJAPAN FUCHU AS JAPAN/
-RUAMCR/COMUSKOREA SEOUL KOREA
-RUAGFL/COMUSTU DC TAIPEI TAIWAN
-RUCSAR/C INCSAC OFFUTT AFB NEAR BT
-UNCLAS/H ADOC-D 2718
-CURVIYS/USAF COASTAL TA 77 REPORTS POSITION 24 DEGREES 45 MIN NORTH 166 DEGREES 22 MIN E. AT 16033E. SIGHTED GLOWINGOBJECT 28 DEGREES ABOVE HORIZON, TRAVELING TO THE EAST VERY FAST. RESEMBLED BRIGHT STAR. NO EVALUATION.
-16/2919Z APR RUHLKH
-NOTE: ADVANCE COPY TO: XOPX, XIN & DIA
 
 - page 5 -
 
-The image does not contain any photograph or visual element other than the tabular data. It appears to be a page from a Project Blue Book report, containing a table with various data entries.
+UNITED STATES AIR FORCE
+PROJECT BLUE BOOK
 
-TIME LOG, LAT., LONG. FOR APRIL 13, 1963
-APRIL 13, 1963
+SPECIAL REPORT NO. 14
+
+The document appears to be a data table with multiple columns and rows, containing numerical data across different dates in April 1963. The header indicates this is part of a United States Air Force Project Blue Book Special Report No. 14. The text is dense with numerical values and appears to be a scientific or technical log of some kind, with dates ranging from April 16 to April 26, 1963. Due to the small font size and complex layout, specific individual values are difficult to read in detail without zooming in.
+
 
 - page 6 -
 

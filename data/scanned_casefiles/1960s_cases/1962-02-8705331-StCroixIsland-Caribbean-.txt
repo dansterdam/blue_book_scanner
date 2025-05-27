@@ -1,51 +1,110 @@
-The image does not contain any photographs. It appears to be a Project 10073 record card from the Project Blue Book archives, which describes an unidentified flying object (UFO) sighting on St. Croix Island in the Caribbean on 23 Feb 62.
+ST CROIX WX OBSR
 
-ST CROIX WX OBER
-1. DATE 23 Feb 62
-3. DATE-TIME GROUP 2400302Z
-5. PHOTOS G
-7. LENGTH OF OBSERVATION not given
+PROJECT 10073 RECORD CARD
+
+1. DATE
+23 Feb 62
+
+2. LOCATION
+St Croix Island (Caribbean)
+
+3. DATE-TIME GROUP
+Local
+GMT. 24/0030Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+■ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+not given
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+W
+
 10. BRIEF SUMMARY OF SIGHTING
-"The civilian weather observer on St Croix Island, described the object resembling a 'large flare or rocket moving from E to W for 2 to 3 minutes' but considered it insufficient data."
+TWX stating that the weather observer on St.
+Croix Island witnessed object resembling
+large flare or rocket moving from E to W
+descending to the E of the island.
+
+11. COMMENTS
+Duration not given. There are several
+possibilities existing as to the nature
+of the object, however no conclusion
+can be drawn. Object was possibly a
+flare from a ship or a/c. More probably
+that object was a meteor; however color,
+duration, and other characteristics are
+omitted. Case carried as insufficient
+data.
+
 12. CONCLUSIONS
-a. Was Balloon Probably Balloon
-b. Was Aircraft Probably Aircraft 
-c. Was Astronomical Possibly Astronomical
-d. Other Insufficient Data for Evaluation
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other:
+■ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document, which is a historic U.S. Air Force program that investigated unidentified flying object (UFO) reports.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
 
-The text in the document is as follows:
+AF IN : 49896 (23 Feb 62)                                G/trc
 
-INCOMING
-AP IN : 49896 (23 Feb 62)
 ACTION: CIN-17
-INFO : OOP-2, OOF-CP-1, SAFS-3, DIA-2 (26)
+
+INFO : OOP-2, OOP-CP-1, SAFS-3, DIA-2 (26)
 SMB B 010
-SW0263JA044
-YY RJEZHQ
+SWQZCBJA044
+.....    YY RJEZHQ
+
 DE RBEJC 31
 ZNR
-Y 240142Z
-FM GOMCARIBSEAFRON
+Y 240144Z
+
+FM COMCARIBSEAFRON
 TO RJWFALB/CINCNORAD
 RJEZHQ/COFS USAF
 RBEPW/CNO
-RBEKHC/CINCLANTTFLT
-RJLJSA/72D RBCVUMER WING RAMEY AFB ATTN CHIEF INTEL
+RBEKHC/CINCLAN TFLT
+RJLJSA/72MRBCVVMER WING RAMEY AFB ATTN CHIEF INTEL
 
 O 240030Z
+
 FM SAN JUAN FIXED AERO STA
-TO GOMCARIBSEAFRON
+TO COMCARIBSEAFRON
 BT
 ST CROIX FAA ADVISES WEATHER OBSERVER REPORTS
 SIGHTING LARGE FLARE OR ROCKET MOVING FROM EASTERLY TO WESTERLY
 DIRECTION APPEARED TO DESCEND SOUTH OF ST CROIX
 BT
-24/0148Z
+24/014BZ
+
 NOTE: ADV CY DEL TO CIN.
+
 
 - page 2 -
 

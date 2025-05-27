@@ -1,46 +1,110 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book record card, which documents a UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 22 Feb 1962
-3. GMT TIME GROUP: 0232
-4. PHOTO: 0 Yes
-7. LENGTH OF OBSERVATION: 15 min
-10. BRIEF SUMMARY OF SIGHTING: Object sighted at 35° elevation bearing 200° azimuth heading. Visible for 15 min. No color change, no noise, no trails or lights. Seemed to be stationary then disappeared.
-11. COMMENTS: On 22 Feb at 0232 Echo was at 35° at a longitude of 113.52 E at 10382. Echo was at about 5 ft/sec, Heading 179° heading. Echo could be visibly identified as the satellite is evaluated as Echo 1 Satellite.
+
+1. DATE
+22 Feb 1962
+
+2. LOCATION
+21.16 N  121.40 E
+
+3. DATE/TIME GROUP
+Local: 22/1023Z
+GMT: 22/1023Z
+
+4. TYPE OF OBSERVATION
+☑ Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☑ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+15 Min
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+SE
+
+10. BRIEF SUMMARY OF SIGHTING
+Object sighted at 35° elevation bearing 390° azimuth heading SE. Had brightness of 1st magnitude. Visible for 15 min. No pickup on radar, both air and surface. Observed through sextant while taking celestial fix.
+
+11. COMMENTS
+On 22 Feb at 1023Z Echo was at 35° N at a longitude of 113.52 E. At 1038Z Echo was at about 6° N 114° E bearing SE. Echo would be visible to the witness during this period. Case is evaluated as Echo I Satellite.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☑ Other: Echo I
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+(ATIC FORM 329 (REV 26 SEP 52))
+
 
 - page 1 -
 
-There is no photograph present in the shared image. The image appears to be a scanned page from a Project Blue Book document, specifically a naval message.
+NAVAL MESSAGE                    UNCLASSIFIED                    NAVY DEPARTMENT
 
-NAVAL MESSAGE
-UNCLASSIFIED
-NAVY DEPARTMENT
+OPERATIONAL IMMEDIATE                    RELEASED BY                    DRAFTED BY                    EXT. NO.
 
 OPERATIONAL IMMEDIATE
-OPERATIONAL IMMEDIATE
-AP IN: 48968 (22 FEB 62) X/bms
-O 221141Z
-FM USN NOBLE
-TO USAF PAC
-INFO COMNAVFORI GN SAT FUCHU AS JAPAN
-COMNAVFORJAPAN
-COMNAVVARIANAS
-INFO COMPHISIPAC
-COMPHILIPINE ONE
-CINCPACFLT
-CINCPACFT
-CTF 73
+
+AF IN:    48568 (22 Feb 62) X/bms
+TO 221141Z
+
+FM USS NOBLE
+
+TO USAF PAC                                    AF DIST:    CIN-14, OOP-2, OOP-CP-1,
+5TH AF FUCHU AS JAPAN                                    SAFS-3, DIA-2 (22)
+COM SEVENTH FLET
+ADCC OKINAWA
+COM NAVMARIANAS
+
+INFO COM PHIBSPAC
+COM PHIBRON ONE
+USS THOMASTON
+CNO
+C INCPACFLT
+CTF 76
 
 UNCLAS.
-UFO
-1. SIGHTED AT AN ELEVATION OF 35 DEGREES BEARING 340 DEGREES TRUEWESTERLY TRAVELLING IN SOUTHEASTERLY DIRECTION. OBJECT HAD BRIGHTNESS OF MAGNITUDE 3 STAR. VISIBLE 13 MINUTES. AIR AND SURFACE RADAR COULD NOT PICK UP OBJECT. OBSERVED BY NAVIGATOR WHILE TAKING GOW.
-2. DISAPEARANCE BEARING 135 DEGREES TRUE AT AN ALTITUDE OF 20 DEGREES
 
-SECNAV - UNSECNAV - AST SECNAV(R+D) - CO - 09 - 098 - 099 - 09D - 03 - 33 - 34 - 35 05 - 06 - 060 - 75 - 76 - 94 - IR - NAVAIDE - FLAGPLOT - BFR - CMC - J69 - CSAF - GGA - NIC - GOGARD -
+UFO
+
+1. AT 1023Z 22 FEB 62, LAT 21-16N LONG 12-140.5E AN OBJECT WAS
+SIGHTED AT AN ELEVATION ON OF 35 DEGREES BEARING 340 DEGREES
+TRUE, TRAVELING IN SOUTHEASTERN DIRECTION. OBJECT HAD BRIGHTNESS
+OF 14 MAGNITUDE STAR, VISIBLE 15 MINUTES. AIR AND SURFACE RADAR
+COULD NOT PICK UP OBJECT. OBSERVED BY NAVIGATOR WHILE TAKING
+CELESTIAL FIX. WAS THEN OBSERVED BY COMMANDING OFFICER, OOD,
+JDOW, AND APPROXIMATELY 1000 ENLISTED PERSONNEL. OBJECT
+DISAPPEARED BEARING 125 DEGREES TRUE AT AN ALTITUDE OF 20
+DEGREES
+
+92.....COG
+SECNAV...UNSECNAV...AST SECNAV (R&D)...00...09B...09M...09D...03...33...34...35.
+05...05...07...72...76...94...IP...NAVAIDE...FLAGPLOT...BFR...CMC...JCS...CSAF...CIA.
+NIC...COGARD.
 
 (ADVANCE COPIES DELIVERED)
 
+CONTROL NO.                CIRCUIT NO.    PAGE    OF    PAGES    TIME OF RECEIPT    DATE TIME GROUP
+604117ZZ/JA4                A125            1        1        1358Z/22 FEB            22 1141Z FEB 62
+
 UNCLASSIFIED
+
 
 - page 2 -
 

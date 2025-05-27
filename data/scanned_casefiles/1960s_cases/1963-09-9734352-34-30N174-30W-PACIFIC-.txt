@@ -1,73 +1,133 @@
-The image does not contain any photographs. It appears to be a project blue book record card with various fields filled out, including the date, location, type of observation, duration of sighting, and comments.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 22 SEP 63
-2. LOCATION: 34-30N 174-30W, PACIFIC
-3. DATE/TIME GROUP: 230/0722Z
-4. TYPE OF OBSERVATION: Air-Visual
-5. SOURCE: Military
-6. LENGTH OF OBSERVATION: 11 minutes
-10. BRIEF SUMMARY OF SIGHTING: Small bright white light to the north moving at a high rate, estimated 30,000 to 50,000 feet in altitude.
-11. COMMENTS: Could not gain any closer observation. Aircraft characteristics not identifiable. Possibly an aircraft or possibly anomalous.
+
+1. DATE
+22 Sep 63
+
+2. LOCATION
+34.30N 174.30W (PAC)
+
+3. DATE-TIME GROUP
+Local 23/0722
+GMT
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual   ☐ Ground-Radar
+☒ Air-Visual     ☐ Air-Intercept Radar
+
+5. SOURCE
+military
+
+6. PHOTOS
+☐ Yes
+☒ No
+
+7. LENGTH OF OBSERVATION
+11 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+030 deg
+
+10. BRIEF SUMMARY OF SIGHTING
+Small bright white light to the North moving East. Traveled 30 deg arc in 5 minutes. Altitude unknown.
+
+11. COMMENTS
+Note schedule not available; however object has all characteristics of a satellite observation. CO do closed control on 24 SCT A 6352 29.14 N 177.28 E CAA closed de at 36°N 235°W and pending NE observe from this location.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other (Satellite)
+☐ Insufficient Data for Evaluation
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. The image appears to be a page from an old UFO report document from Project Blue Book.
-
 DEPARTMENT OF THE AIR FORCE
-STAFF MESSAGE RECORD  
-A IN : 3714(23 Sep 63) INCOMING
-INFO : VIN-9, XOP-1, XOPX-4, SAF-03-3, ARMY-2, NAVY-2, CMC-8, OSI-35.
-CONT: COL-15, CID-1, DIA-25(11H1F)
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
 
-GZC NR 932 3323 AS 93
-GO RUEAN
+ADN IN: 8714(23 Sep 63) D/A INCOMING                     PG 1 of 2
 
-DE RULL: 2 23/SS292
-ZNR
-G 932323
+INFO: NIN-9, XOP-1, XOP-4, SAF-08-3, ARMY-2, NAVY-2, CMC-8, JCS-35,
+       CSD-15, NSA-7, DIA-25 (114)
 
-FR 322 AIR DIV KUNIA FACILITY HAWAII
+SUB A018
+
+CZC HQA32 SCCRA5 03
+
+CO RUBAR
+
+DE RUHLKH 2 23/0829Z
+
+ZMR
+
+O 230325Z
+
+FM 326 AIR DIV NUNIA FACILITY HAWAII
+
 TO PACAF HICKAM AFB HAWAII
-RUHPC/CO HIWSEAFRON PEARL HARBOR HAWAII
-INFO/RUEAC/GAP USAF WASH DC
-RUEDC/OIO WASH DC
-RUECD/SECNAV WASH DC
-RUWSAC/CINCPAC ENT AFB COLO
-RUHPAV CINCPAC CAMP H M SMITH HAWAII
-RUHPC/CINCUSARPAC FT SHAFTER HAWAII
-RUHP/CINCPACFLT PEARL HARBOR HAWAII
-RUAUZCS/COMNASJAPAN FUCHU AS JAPAN
-RUAHCS/CINCUSAROK SEOUL KOREA
-RUARTL/COMUSTDC TAIPEI TAIWAN
-RLSBAR/CINCBAC OFFUTT AFB NEB
 
-UNCLAS 32S DO-CO 1969
+RUMPHW/C HAWSEAFRON PEARL HARBOR HAWAII
+
+INFO: RUEA HQ/C SAF USAF WASH DC
+RUECW/CHO WASH DC
+RUECW/SEOCNAV WASH DC
+
+RUNGAL3/C INCNORAD ENT AFS COLO
+
+RUMPAY/C INCPAC CAMP H M SMITH HAWAII
+
+RUHAF3/C INCUSARPAC FT SHAFTER HAWAII
+
+RUMPAY/C INCPACFLT PEARL HARBOR HAWAII
+
+RUAAZ/C OMUSAJPAN FUCHU AS JAPAN
+
+RUAMC/C OMUSKOREA SEOUL KOREA
+
+RUAGFL/C INCUSTDC TAIPEI TAIWAN
+
+RUCS3R/C INCSSAC OFFUTT AGB NSR
+
+BT
+
+UNCLAS 325 DO-CO 1969
+
 
 - page 2 -
 
-There is no photograph present in this scanned image. The image appears to be a document titled "INCOMING" from the Department of the Air Force, containing a report with various details about an observed UFO incident.
-
 DEPARTMENT OF THE AIR FORCE
-STAFF MESSAGE SUMMARY
-
+STAFF MESSAGE BRANCH
 INCOMING
 
-A.P. IN: 8714(23 Sep 63) PAGE 1 OF 1
+AF IN: 8714(23 Sep 63)                                                 Pg 2 of 2
 
-1. C.DAVIS REPORT
-2. #143323
-3. SHALL BRIGHT WHITE LIGHT
-4. BEARING 339 DEG DISTANCE UNK FROM 34-30N 174-30W
-5. 23/2372
+1. C IRVIS REPORO
+2. N 143209
+3. SMALL BRIGHT WHITE LIGHT
+4. BEARING 000 DEG DISTANCE UNK FROM 34.30N 174.30W
+5. 23/0722Z
 6. ALT UNK
-7. 29JRUE
-8. TRAVELED 30 ARK IN 2 MIN. FADED AT 2733Z
+7. 890TRUE
+8. TRAVELED 30 ARK IN 5 MIN. FADED AT 0733Z
 9. NO EVALUATION AT THIS TIME
 
 BT
-NOTE: Advance copies del to NIN, DIA AND XOPX
-Retransmitted to CIC.
+NOTE: Advance copies del to NIN, DIA AND KOPX
+Retransmitted to CIA.
+
 
 - page 3 -
 

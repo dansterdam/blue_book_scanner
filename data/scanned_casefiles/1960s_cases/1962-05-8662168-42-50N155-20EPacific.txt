@@ -1,93 +1,149 @@
-The image does not contain any visible photograph. It appears to be a page from a Project Blue Book record card.
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
+11 May 62
+
 2. LOCATION
-3. DATE-TIME GROUP 
+42 N 155 20E Pacific
+
+3. DATE-TIME GROUP
+Local: 11/0200Z
+GMT: 11/0200Z
+
 4. TYPE OF OBSERVATION
-5. COURSE
-6. DURATION 
-7. LENGTH OF OBSERVATION 
-8. NUMBER OF OBJECTS 
-9. BRIEF SUMMARY OF SIGHTING
-10. OBSERVER'S COMMENTS: The observer reported seeing two unidentified objects that were blinking and red in color. The objects appeared to be approximately the size of golf balls. The observer stated that they did not represent a threat.
-11. CONCLUSIONS: Unidentified
+[✓] Ground-Visual
+□ Air-Visual
+□ Ground-Radar
+□ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[✓] No
+
+6. SOURCE
+Martin S3 Washington Base
+
+7. LENGTH OF OBSERVATION
+Not filled
+
+8. NUMBER OF OBJECTS
+Two
+
+10. BRIEF SUMMARY OF SIGHTING
+2 - engine a/c with red markings
+flow low over ship. Spey wing, jet
+mid wing, speed 250 Knots. Red "Y"
+on tail & red star.
+
+11. COMMENTS
+Rpt of AC. Evaluated as no threat.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+[✓] Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a scanned document of a naval message from the U.S. Navy Department.
+NAVAL MESSAGE                UNCLASSIFIED                NAVY DEPARTMENT
 
-NAVAL MESSAGE
-EMERGENCY
-UNCLASSIFIED
-NAVY DEPARTMENT
-RELEASED BY
-DRAFTED BY
-(EXT. 72)
-FV 110317Z AUP IN : 24915 (11 MAY 62)
-EMERGENCY 110413Z MAY 62
-FM OCEAN STATION VICTOR 
-TO COMWESTSEAFRON
-INFO CINCPACFLT
-CG10
-V 110333Z
-FM COMWESTSEAFRON
-TO CINCPACFLT
-PACAR SEAPATR
-CNO
-CG10
-CONA DEPT APP
-GOLD FITN OP UCKY AS
+EMERGENCY                                                                    REF. NO.
 
-MERINT 32 WASHINGTON BEAV/KCLB FOUR ENGINE JET AIRCRAFT VID WNG 
-SWEPT TAIL AND DARK/RED MARKING. TRACKED CRS 080 DEG SPEED
-SUMMIT. CLIMBED TO 35000 FT THEN DIVED PARRELL COURSE TO SSE. INTERMITTENT
-BLINKS OF LIGHT UP TO SIZE 10 IMPLEY PARRELL COURSE OF
-GAS AND WIND SE 5 TO 10 KTS. OCCASIONAL RED STAR OR TRAIL LOW OVER
-GAS AND WIND SE 5 TO 10 KTS. OCCASIONAL RED STAR OR TRAIL LOW OVER
-SEA AT 11 2200GM.
+Y 110317Z         AP IN : 24915 (11 May 62)         H/au
+                  READDRESSED EMERGENCY 110413Z MAY 62
+FM OCEAN STATION VICTOR     FM COMWESTSEAFRON
+TO COMVESTAREA CGCD        TO CTF 36
+                           INFO CINCPAC
+                           CNO
 
-NOTE : SEE AFTN 24842 (11 MAY 62).
+Y 110355Z                                           AF DIST: CIN-14, COP-2,
+FM COMWESTAREA                                               OOP-CP-1, SAPS3
+TO COMWESTSEAFRON                                            DLA-7
+CINCPACFL                                                    (27)
+PACAF
+COMHAWSEAFRON
+CH OF STAFF USAF
+CONA D ENT AR3
+CGCD FOURTEEN
+COM FIFTH AF FUCHU AS
 
-92 MAY COG 
-RELEASED SEEN AY...00.09.30...IP...PLAPLOJT-...AFR-NAVAIPAD-...OOAAND-...MINSA-...SEIZED COPIES.
-=ADVANCED COPIES DELIVERED
+UNCLAS
+
+MERINT SS WASHINGTON BEAR XFCL 2 FOUR ENGINE JET AIRCRAFT MID WING
+SWEPT TAIL RED MARKS RED MARKINGS 49 DEGREES SWEPT BABACK WING 8TH
+42.50 COURSE UP TO STEP CLIMB FLEW PASSED SHIP 100 FEET ABOVE
+SURFACE FILLED UP TO STEP CLIMB FLEW PARALLEL COURSE OF 52 DEGREES
+250 KTS RED VEE ON TAIL SECOND ONE HAD RED STAR ON TAIL LOW OVER
+CAST WIND NE MOD SEA 5/11 C200GMT
+
+NOTE : SEE AFN 24842 (11 May 62).
+
+[Rest of document contains additional routing information and administrative details]
 
 UNCLASSIFIED
+
+[Bottom of document contains control and routing information]
+
 
 - page 2 -
 
-There is no photograph present in the provided image. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-OCR Output:
-AP IN : 26867 (12 May 62) C/RSPP COMING
-INFO : OCC-II. COC-CP-I, SARA-71, DIA-7, ARMY-2, NAVY-2, JCS-35. 
-CMC-I, NSA-7, CIA-It, OSD-IS (IOT)
-SRi 3 121
-GOSHASASTZCSJB13I
-00 RJEZHQ
-DE RUKAC 973
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+AF IN : 26867 (12 May 62) C/PRP C O M I N G
+INFO : CTN-14, OOP-2, OOP-CP-1, SAFS-3, DIA-7, ARMY-2, NAVY-2, JCS-35,
+         CMC-7, NSA-7, CIA-11, OSD-15 (107)
+
+SMB 3 121
+
+CZCH0A861ZC3J3131
+
+00 RJEZH9
+DE RUKAC 373
+
 ZNR
-0 12279'72
-PK COMALSRAFRON
-TO P8EW/CIND
+
+O 120707Z
+
+FM COMALSEARFRON
+TO RBEP/CNO
 RUKDAG/CINCAL
-RUHPAZ/CINCPACFL
-RJMFALS/CINCONED ENT AFS
-INFO RSWP./SCHWESTAREA
-RUHPHH/COMHAVSRAFRON
-RUHLKMD/CINCPACAP
-RUKAH/CCID SEVENTEEN
-RSWPPA/COMHWESTSEAFRON
-RJEZHG/CH OF STAFF USAF
+
+RUHP9/CINCPACFLT
+RJWFAL9/CINCONAD ENT AF3
+INFO R3VPJ/COMVESTAREA
+RUPHPH/COMHAWSEAFRON
+RUHLKMD/CINCPACAF
+RUKAW/CGGD SEVENTEEN
+R3WPG/COMWESTSEAFRON
+RJEZH9/CH OF STAFF USAF
+
 NAVY GRNC
- IT
-UNCLAS
-MERIT EVALUATION
-A. CONVSTATE 1239453Z
-1. EVALUATED NO THREAT.
+
 BT
-12/3792Z NOTE: Advance copy to OOP-CP-I in SMB. 12/3452Z no identified in SMB.
+
+UNCLAS
+
+MERINT EVALUATION
+A.   COMVESTAREA 1204552
+1.   EVALUATED NO THREAT.
+
+BT                 NOTE: Advance copy to OOP-CP.
+                   1204552 not identified in SMB.
+
+12/3709Z
+
 
 - page 3 -
 

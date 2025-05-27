@@ -1,16 +1,57 @@
-There is no photograph present in this image, which appears to be a page from an old UFO report document from Project Blue Book. The image shows a Project 10073 Record Card with various fields filled out, including the date, location, type of observation, number of objects, course, and a brief summary of the sighting.
+Here is the text from the document:
 
 PROJECT 10073 RECORD CARD
-1. DATE: 18 October 1962
-2. LOCATION: 37.12N 173.12W
-3. DATE-TIME GROUP: 19/0752Z
-4. TYPE OF OBSERVATION: Visual
-5. DURATION: 5-10 MIN
-6. NUMBER OF OBJECTS: 1
-7. LENGTH OF OBSERVATION: 5-10 MIN
-8. COURSE: Unknown
-9. BRIEF SUMMARY OF SIGHTING: OBJECT blue-green obj described as a light, descending to horizon.
-10. COMMENTS: Limited information - Insufficient data for evaluation.
+
+1. DATE
+18 October 1962
+
+2. LOCATION
+37.12N 173.12W
+
+3. DATE/TIME GROUP
+Local
+19/0759Z
+
+4. TYPE OF OBSERVATION
+□ Ground-Visual □ Ground-Radar
+■ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+■ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+not rptd
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+descending
+
+10. BRIEF SUMMARY OF SIGHTING
+CIRVIS rpt of blue-green obj described
+as a light, descending to horizon.
+
+11. COMMENTS
+Limited information. Insufficient data for evaluation.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+■ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 

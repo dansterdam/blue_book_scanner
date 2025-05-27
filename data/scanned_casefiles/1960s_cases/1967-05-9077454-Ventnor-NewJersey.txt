@@ -1,37 +1,70 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record.
+PROJECT 10073 RECORD
 
-Text output:
+1. DATE - TIME GROUP
+13 May 1967 -/0032Z
 
-1. DATE - TIME GROUP: 13 May 1967 - 5:00/5:03
-2. LOCATION: Ventnor, New Jersey
-3. SOURCE: Civilian
-4. NUMBER OF OBJECTS: 1
-5. LENGTH OF OBSERVATION: 5 Minutes
-6. TYPE OF OBSERVATION: Ground-Visual
-7. COURSE: 135 DEG
-8. PHOTOS: NO
-9. PHYSICAL EVIDENCE: NO
-10. CONCLUSION: INSUFFICIENT DATA CAUSES: INSUFFICIENT CLARITY
-11. BRIEF SUMMARY AND ANALYSIS: The observer sighted and photographed a yellow-oval shaped object that moved in a zigzag pattern.
+2. LOCATION
+Ventnor, New Jersey
+
+3. SOURCE
+Civilian
+
+10. CONCLUSION
+Visual: INSUFFICIENT DATA
+Photo: INSUFFICIENT CLARITY
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+5 Minutes
+
+11. BRIEF SUMMARY AND ANALYSIS
+The observer sighted and photographed a yellow-white oval shaped object that moved in spurts.
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+
+8. PHOTOS
+[X] Yes
+[ ] No
+
+9. PHYSICAL EVIDENCE
+[X] Yes
+[ ] No
+
+FORM
+FTD SEP 63 0-329 (TDE) Previous editions of this form may be used.
+
 
 - page 1 -
 
-There is no photograph present in this image. The image shows a typed letter from the Department of the Air Force, Foreign Technology Division to an individual in Ventnor, New Jersey. The letter discusses a request for information about an unidentified flying object (UFO) observation on May 13, 1967 and requests additional information and photographs.
-
-HEADQUARTERS FOREIGN TECHNOLOGY DIVISION (AFSC) 
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS FOREIGN TECHNOLOGY DIVISION (AFSC)
 WRIGHT-PATTERSON AIR FORCE BASE, OHIO 45433
 
-REPLY TO 
-ATTN OF: ADC/UFO
+REPLY TO
+ATTN OF: TDET/UFO
 
 SUBJECT: UFO Observation, 13 May 1967
 
-TO: Ventnor, New Jersey 08406
+TO: [Redacted address]
+Ventnor, New Jersey 08406
 
-This replies to your correspondence of 17 May 1967 in response to our unidentified object of 13 May 1967. The information you provided and the additional information you offered to perform a scientific investigation, is appreciated. This additional information is being added to perform a complete evaluation of the phenomenon you described in your report. Please forward to this office any photographs you may have available to assist in this investigation.
+This replies to your recent correspondence of 17 May 1967 in which you mentioned your unidentified observation of 13 May 1967 and subsequent photographs. Additional information or your complete photographic data sheet is needed to perform a scientific investigation. Request you complete the attached photographic data sheet and FTD Form 164 and return then in the envelope provided. Upon completion of analysis we will return your photograph along with our findings.
 
-JOHN C. BURNETT, Colonel, USAF 
-Director of Documentation
+[Signature]
+JAMES G. NAUGHT, Colonel, USAF
+Director of Technology and Subsystems
+
+2 Atchs:
+1. Photographic Data Sheet
+2. FTD Form 164 w/envelope
+
+JUN 21 1967
+
 
 - page 2 -
 

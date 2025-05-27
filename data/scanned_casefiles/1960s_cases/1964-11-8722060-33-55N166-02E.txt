@@ -1,117 +1,178 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, which is a document from the United States Air Force's UFO investigation program.
+Here is the text from the document:
 
-1. DATE - TIME GROUP: 29 November 64 29/0800Z
-2. LOCATION: 33.55N 166.02E
-3. CONCLUSION: Satellite (ECHO I)
-4. NUMBER OF OBJECTS: ECHO I at 20 1606 moving 35 at the reported time to the observer. This places the satellite in position for the observation.
-5. LENGTH OF OBSERVATION: 45 degrees elevation. Course 180 deg.
-6. TYPE OF OBSERVATION: Ground-Visual
-7. COURSE: South
-8. PHOTOS: Yes
-9. PHYSICAL EVIDENCE: Yes
+1. DATE - TIME GROUP
+29 November 64, 29/0800Z
+
+2. LOCATION
+33.5N 166.02E
+
+3. SOURCE
+Military
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+Not Reported
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+South
+
+8. PHOTOS
+[ ] Yes
+[X] No
+
+9. PHYSICAL EVIDENCE
+[ ] Yes
+[X] No
+
+10. CONCLUSION
+Satellite (ECHO 1)
+
+11. BRIEF SUMMARY AND ANALYSIS
+Bright light in sky. 45 degrees elevation. Course 180 deg.
+
+FORM
+FTD SEP 63 0-329 (TDE)    Previous editions of this form may be used.
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a page from an old UFO report document from Project Blue Book.
+MESSAGE
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED
+
+AF IN : 59319 (29 NOV64) N/rph
+ACTION : NIN-7
+INFO : XOP-1, XOPX-7, SAF-OS-3, JCS/OSD-1, NSA-7, DIA-15 (42)
+
+Pg 1 of 2
+
+SMB C046 C719CCDJ0617
+00 RUEAHQ
+DE RUHPJ 952 29/0815Z
+ZNR
+0 2988@2Z
+FM USCGC MATAGORDA
+TO RUEAHQ/COFS USAF
+ZEN/CGD FOURTEEN
+RUHPHH/CTF THREE TWO
+RUNG ALB/C INCNORAD
+RUHL/CINPACFLT
+INFO RUECJD/COMDT COGARD
+RUNS/COMWESTAREA COGARD
+
+BT
+UNCLAS
+MERINT
+1. MATAGORDA/NFV.
+2. BRIGHT LIGHT IN SKY.
+3. 33-55N 166-42E.
+4. 2988@8Z.
+
+[A table of data is present but not transcribed as per instructions]
+
+
+- page 2 -
+
+IN COMING
+MESSAGE
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
 
 UNCLASSIFIED
 
-AF IN : 59319 (29 NOV 64) N/RPH
-ACTION : NIN-7
-INFO : XOP-1, XOPX-7 , SAF-03-3 , ICS/03D-1 , NSA-7 , DIA-13 (42)
+AF IN : 59319 (29 Nov 64)                                   Pg 2 of 2
 
-SMB C846 C7192CCJD617
-OO RUEAVHQ
-DE RUHJJ 952 29/8815Z
-ZNR
-0 298882Z
-FM USCGC MATAGORDA
-TO RUEAVHQ/COPS USAF
-ZEN/CCSD FOURTEEN
-RUHPRF/CTF THREE TWO
-RUWGALB/C INCNORAD
-RUHLHL/C INCPACFLT
-INFO RUECGD/COMWESTAREA COGARD
-RUWSJJ/COMWESTAREA COGARD
-BT
-UNCLAS
-
-MERINT
-1. MATAGORDA/NIFV.
-2. BRIGHT LIGHT IN SKY.
-3. 33-54N 166-02E.
-4. 298882Z.
-
-- page 2 -
-
-There is no photograph present in this document. The image shows a scanned page of an old UFO report from Project Blue Book.
-
-INCOMING MESSAGE
-DEPARTMENT OF THE AIR FORCE
-STAFF MESSAGE BRANCH
-
-AF IN : 59319 29 NOV 64 Pg 2 of 2
-5. HIGH POSIT ANGLE +5 DEG.
-6 COURSE 188T.
+5. HIGH. POSIT ANGLE 45 DEG.
+6. COURSE 180T.
 7. NONE.
 8. NONE.
-9. SEA LARGE SWELLS WEATHER PARTLY CLOUDY-
+9. SEA LARGE SWELLS WEATHER PARTLY CLOUDY.
+
 BT
 NNN
 
-NOTE: RETRANSMITTED TO CIA PER AFRQ 1392 #572.
-ADVANCE COPY DELIVERED TO XOFX, MIN. DIA.
+N
+
+NOTE: RETRANSMITTED TO CIA PER AFHQ 1392 #572.
+ADVANCE COPY DELIVERED TO XOPX, NIN, DIA.
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a page from an old Project Blue Book report, which is a declassified U.S. Air Force program that investigated unidentified flying objects (UFOs).
+MESSAGE
 
-AF IN : 59348 (29 NOV 64) N/DVE
-ACTION : IIR-7
-INFO : XOPX-1, XOPX-7, SAF-OS-3, JGS/OSD-1, NSA-7, DIA-15 (42)
-CHQA3172CEJES12
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED
+
+AF IN : 59348 (29 Nov 64) N/pge                Page 1 of 2
+ACTION: NIN-7
+INFO : XOP-1, XOPX-7, SAF-OS-3, JCS/OSD-1, NSA-7, DIA-15 (42)
+SMB C#51
+
+CHQA317ZCEJE@12
+
 00 RUEAHQ
-DE RUHIH A 29/8962
-ZNR 
-0 29/8252
-FM 32GEORGIYKUNIAFACILITYHA
-TO RUHIHA/PACAF
-RUHPMHI/COMHAWSEAFRON 
+DE RUHLKM 4 29/892GZ
+ZNR
+0 29@25Z
+FM 326A1RD1W KUNIA FACILITY HA
+TO RUHLKM/PACAF
+RUPHPH/COMHAWSEAFRON
 INFO RUEAHQ/CSAF
-RUEDC/CHO
-RUEOC/SOENAV
-RUMLGB/GINOGRAD
-RUHIGC/INCPAC
-RUHIHL/CINCPACFLT
-RUAUAZ/COMISIJAPAN
-RUAMC/ COMUKOREA
-RUAGFL/COMUSTOC
-RUCED/CINSAC
+RUECW/CNO
+RUECW/SECNAV
+RUMGALB/C1NCNORAD
+RUHLHQ/C1NCPAC
+RUHLHS/C1NCUSARPAC
+RUHLHL/C1NCPACFLT
+RUAUAZ/COMUSJAPAN
+RUAMC/COMUKOREA
+RUAGFL/COMUSTDC
+RUCSC/C1NCSAC
 BT
 
-The text appears to be a staff message from the Department of the Air Force, containing information and instructions related to some type of unidentified activity or event. The message includes a long list of distribution points, suggesting it was sent to multiple recipients.
 
 - page 4 -
 
-The image provided does not contain any photograph. It appears to be a text document or report from the Department of the Air Force.
+INCOMING
+MESSAGE
 
-UNCLAS MER INT 326AD-CO 81387
-1. USGC MATAGORDA
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED
+
+AF IN : 59348 (29 Nov 64)
+
+Page 2 of 2
+
+UNCLAS MERINT 326AD-CO 91387
+
+1. USCGC MATAGOROA
 2. LIGHT IN SKY-BRIGHT
-3. 33.59N 166.82E
-4. 29/0947Z
+3. 33.55N 166.02E
+4. 29/0800Z
 5. HIGH POSITION ANGLE 45 DEGREES
-6. 188 DEG-TRUE
+6. 188 DEG.TRUE
 7. NONE
 8. NONE
 9. SEA-LARGE SWELLS-AND CLOUDY
-AT
+
+BT
 NNN
 
 NOTE: ADVANCED COPY DELIVERED TO DIA, NIN, XOPX. READRESS TO CIA #573.
+
 
 - page 5 -
 

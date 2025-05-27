@@ -1,76 +1,137 @@
-The image does not contain a photograph. It appears to be a Project Blue Book record card with information about a UFO sighting.
-
 USN MATS
-1. DATE 28 Jan 62
-3. DATE-TIME GROUP 28/1850Z
-5. PHOTOS number of one
-10. BRIEF SUMMARY OF SIGHTING
-Large bright explosion of small object observed for 3 minutes. Object appeared to be about 7000 ft.
+
 PROJECT 10073 RECORD CARD
-2. LOCATION 13-42N 144-20E (Pacific)
-4. TYPE OF OBSERVATION Ground-Radar, Air-Visual
-6. NUMBER OF OBJECTS one
-8. COURSE SW
-9.  COMMENTS Sighting has characteristics of missile.
-12. CONCLUSIONS Probable
+
+1. DATE
+28 Jan 62
+
+2. LOCATION
+13-42N 144-20E (Pacific)
+
+3. DATE-TIME GROUP
+Local
+GMT        28/1850Z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual
+☐ Air-Visual
+SOURCE
+Military
+
+☐ Ground-Radar
+☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. LENGTH OF OBSERVATION
+few sec
+
+7. NUMBER OF OBJECTS
+one
+
+8. COURSE
+SW
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical Meteor
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+Large bright explosion of small object observed for a few sec. Observed from a MATS plane about 30 mi in front of the a/c on a course NE-SW. Object without tail. Observers at 6000 ft.
+Object appeared to be about 7000.
+
+11. COMMENTS
+Sighting has characteristics of a meteor observation.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document, specifically a naval message regarding an unidentified flying object sighting.
+NAVAL MESSAGE                UNCLASSIFIED                NAVY DEPARTMENT
 
-The text in the document is as follows:
+PRECEDENCE:           (ACTION):           RELEASED BY:           DRAFTED BY:           EXT. NO.
+OPERATIONAL IMMEDIATE                     [blank]               [blank]               [blank]
 
-NAVAL MESSAGE
-PRECEDENCE: 
-OPERATIONAL IMMEDIATE
-CLASSIFICATION: UNCLASSIFIED
+AF IN: 19311 (28 Jan 62) M/pbb
+FM COMNAVMARIANAS
+TO RJMALE/ 13AF
+INFO RBEPM/C NO
+RBHPB/C INCPACFLT
 
-AS IN Z 19311 (28 JAN 62) M/PBB
-FM COMNAVMARIANAS 
-TO RUMALB JSTF
-INFO REBFW/CNO
-RSHPB/C INCPACFLT
-
-UNCLASSIFIED
+UNCLAS
 UNIDENTIFIED FLYING OBJECT
+
 1. PILOT OF MATS 20996 PATE SIGHTED OBJECT DESCRIBED AS FOLLOWS:
-2. LARGE BRIGHT EXPLOSION OF SMALL OBJECTS OBSERVED FOR FEW FDD OF PLY FRONT OF PLANE B EC EN SKC ABOUT 30 MI
-3. SIGHTED FROM AIRCRAFT AT 5000 FT, TIME 2115OZ. POSIT 13-46N 144-20E. OBJECT APPEARED TO BE AT 7000 FT ALT. JUST ABOVE LOW CLOUD LAYER.
+
+2. LARGE BRIGHT EXPLOSION OF SMALL OBJECT. OBSERVED FOR FEW SECONDS PRIOR TO EXPLOSION ON NE-SW COURSE APPROX 30 MI IN FRONT OF A/C. OBJECT WITHOUT TAIL.
+
+3. SIGHTED FROM AIRCRAFT AT 8000 FT, TIME 28185OZ, POSIT 13-42N 144-20E. OBJECT APPEARED TO BE AT 7000 FT ALT. JUST ABOVE LOW CLOUD LAYER.
+
 4. PLANE ETA CLARK 290125Z.
 
-NOTE: Adv cpy del to CIN 1815L.
+NOTE:   Adv cpy del to CIN 1815L.
 
-92 COG
-00 09 099 091 09D 03 33 34 35 05 06 07 72 76 94 IP NAVAIDE
-BPR CMC JCS CSA CSAF CIA COGARD DIA DIRNSA OSD/ISA
+[Additional transmission details at bottom of page]
 
-//ADVANCE COPIES DELIVERED///
+///ADVANCE COPIES DELIVERED///
 
-CONTROL NO. G-611/S/P/WF/2 CIRCUIT NO. A145 PAGE 1 OF 1 TIME OF RECEIPT 2145Z 28 JAN 62 DATE 28
+CONTROL NO.           CIRCUIT NO.   PAGE     PAGES   TIME OF RECEIPT   DATE TIME GROUP
+63178/WF/WF/2         A145          1 OF 1    1       2149Z 28 JAN 62   28194BZ JAN 62
 
 UNCLASSIFIED
+
 
 - page 2 -
 
-There is no photograph present in this image. This appears to be a page from a UFO analysis report from Project Blue Book.
+Here is the text from the UFO Analysis Sheet:
 
-UFO ANALYSIS SHEET
-DATE: 20 January, 1962
-DATE TIME GROUP: GMT 12/1862Z
-PHOTO: NO
-SOURCE: MILITARY
-LENGTH OF OBSERVATION: Per 3 seconds
-SATELLITE: IN ORBIT: YES - NO
-ASTRONOMICAL PHENOMENA: METEOR PROBABLY
-STAR OR PLANET: 
-AIRCRAFT: N/A
-BALLOON: N/A
-INSUFFICIENT DATA: N/A
-REFLECTION: INVERSION PRESENT
-SUN DOG:
-BRIEF SUMMARY OF SIGHTING: Observers at 8,500 ft. Object appeared to be at about 7,000 ft. 
-EVALUATION: CASE CATEGORY: Astro (meteor)
-CONCLUSION: Sight has the characteristics of a meteor observation.
+U F O ANALYSIS SHEET
+
+DATE 28 January, 1962     LOCATION 13-4N 144-20E
+
+DATE TIME GROUP LOCAL _______ GMT 28/1830
+
+PHOTO YES _____ NO X     PHYSICAL SPECIMEN YES _____ NO X
+
+SOURCE MILITARY X     CIVILIAN _____     TYPE OF OBSERVATION Air Visual
+
+LENGTH OF OBSERVATION Few Seconds     NUMBER OF OBJECTS One     COURSE ST
+
+SATELLITE: IN ORBIT: _______ VERIFY YES: _____ NO: _____ DECAY: N/A
+
+ASTRONOMICAL PHENOMENA
+METEOR Probably
+STAR OR PLANET _______
+OTHER _______
+AIRCRAFT N/A
+BALLOON _______
+INSUFFICIENT DATA _______
+OTHER _______
+
+REFLECTION _______ INVERSION PRESENT _______ PHOTO ANALYSIS _______
+SUN DOG _______ LENTICULAR CLOUD _______ PHYSICAL SPECIMEN ANALYSIS _______
+
+BRIEF SUMMARY OF SIGHTING:
+[Partially illegible text] on a course NE-SW. Object without tail.
+Observers at 8,000 ft. Object appeared to be about 7,000.
+
+EVALUATION: CASE CATEGORY: Astro (Meteor)
+CONCLUSION: Sighting has the characteristics of a meteor observation.
+
+PTD. FORM 0-15 (TD-E2)
+
 
 - page 3 -
 

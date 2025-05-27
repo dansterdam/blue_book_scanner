@@ -1,67 +1,76 @@
-There is no photograph present in this image. The image shows a Project 10073 record card from Lakenheath, England, dated 14 Mar 61. The card describes an observation of an object falling towards the earth, giving off a bright blue light and making a hissing sound. No further details are provided.
+PROJECT 10073 RECORD CARD
 
-Here is the text transcribed from the record card:
+1. DATE
+4 May 61
 
-1. DATE  
-14 Mar 61
-
-2. DATE-TIME GROUP  
-Loc:
-
-3. LOCATION  
+2. LOCATION
 Lakenheath, England
 
-4. TYPE OF OBSERVATION  
-Ground-Visual
+3. DATE-TIME GROUP
+Local 4 0350Z
 
-5. DESCRIPTION OF OBJECT 
-Falling object toward earth burning bright blue and giving off sparks. Object made hissing sound as it fell.
+4. TYPE OF OBSERVATION
+☒Ground-Visual ☐Ground-Radar
+☐Air-Visual ☐Air-Intercept Reader
 
-6. NUMBER OF OBJECTS  
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+
+8. NUMBER OF OBJECTS
 1
 
-7. LENGTH OF OBSERVATION 
-60 seconds
+9. COURSE
+Falling
 
-8. COURSE  
-Unknown
+10. BRIEF SUMMARY OF SIGHTING
+Obj falling toward earth burning bright blue and giving off sparks, of red color. Sighted at 60° elevation 270°
 
-9. ALTITUDE  
-Unknown
+11. COMMENTS
+No reentry this date. Color and general description conform to meteorlogical sighting.
 
-10. BRIEF SUMMARY OF SIGHTING Obj: Falling toward earth burning bright blue and giving off sparks. Object made hissing sound as it fell.
+12. CONCLUSIONS
+☐ Was Balloon
+☒ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
 
-11. CONCLUSIONS  
-Possible Meteor  
-Possible Aircraft  
-Possible Astronmical  
-Unknown
 
 - page 1 -
 
-The shared image does not contain a photograph. It appears to be a page from an old UFO report document related to Project Blue Book.
-
-The text in the document is as follows:
-
-SOA222
-NBR 2529 
+SQA022
+NBR 2620   6 MAR 61
 PRIORITY/ROUTINE
-FM DET 3, 28 WEA SQ AAF LAKENHEATH ENG 06/12/52
-TO COFS HOUSAF WASHDC 
+
+FM DET 3, 28 WEA SQ AAF LAKENHEATH ENG 061015Z
+TO COFS HOUSAF WASHDG
 COMDR ATIC WPAFB
 AFCCD L G HANSCOM FLD MASS
 INFO AWS SCOTT AFB ILL
 
-DET 3, 28 WS 6-6-2 (MOON DUST) ACTION:
-USAF ATTN: AFCIN-1B1; ATIC ATTN: AFCIN-4A; AFCCD ATTN: CGSTN; INFO:
-A- OBJECT OBSERVED BY AWS OBSERVER.
-B TIME: 0352Z-0351Z 04 MARCH 1961.
-C ELEVATION: 60 DEGREES, AZIMUTH 270.
-D DESCRIPTION: OBJECT FALLING TOWARD EARTH FROM WEST TO EAST 
-APPROXIMATELY 23-25 MILES AWAY BURNING BRIGHT BLUE AND WHITE AND
-GIVING OFF RED SPARKS 06/14/61
+DET 3, 28 WS 6-C-2 {MOON DUST} ACTION:
+USAF ATTN: AFCIN-1B1; ATIC ATTN: AFCIN-4A; AFCCD ATTN: CGSTN; INFO: AWS ATTN: AWSS.
 
-UNCLASSIFIED
+A. OBJECT OBSERVED BY AWS OBSERVER.
+B. TIME: 0352-0351Z 04 MARCH 1961.
+C. ELEVATION: 60 DEGREES, AZIMUTH 270.
+D. DESCRIPTION: OBJECT FALLING TOWARD EARTH FROM WEST TO EAST APPROXIMATELY 20-25 MILES AWAY BURNING BRIGHT BLUE AND WHITE AND GIVING OFF RED SPARKS
+06/1141Z
+
+The document is marked "UNCLASSIFIED" at the top and bottom, and has a "Classification Cancelled" stamp at the bottom right.
+
 
 - page 2 -
 

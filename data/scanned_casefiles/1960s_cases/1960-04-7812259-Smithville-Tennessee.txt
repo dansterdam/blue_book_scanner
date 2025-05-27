@@ -1,79 +1,120 @@
-The image does not appear to contain a photograph. It is a page from a Project Blue Book report record card.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 28 April, 1960
-2. LOCATION: Smithville, Tennessee
-3. DATE-TIME GROUP: 22/0602Z
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: Yes
-6. LENGTH OF OBSERVATION: three minutes
-7. NUMBER OF OBJECTS: One
-8. COURSE: South then East
-11. COMMENTS: Believed to be aircraft by reporting official. Concur with the report.
-12. CONCLUSIONS: Was Aircraft Possibly Aircraft
+
+1. DATE
+28 April, 1960
+
+2. LOCATION
+Smithville, Tennessee
+
+3. DATE-TIME GROUP
+Local
+GMT 29/0510z
+
+4. TYPE OF OBSERVATION
+XB Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+5Xo.
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+three minutes
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+South then East
+
+10. BRIEF SUMMARY OF SIGHTING
+Round red flashing light, size of a basket-
+ball observed to stop three times and then
+turn to the East and disappear in distance.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+11. COMMENTS
+Believed to be aircraft by reporting
+official. Concur with the report.
+
+ATIC FORM 329 (REV 26 SEP 59)
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a typed document with a list of UFO sightings from May 1960. The text in the document is as follows:
-
 MAY 1960 SIGHTINGS
 
-DATE LOCATION OBSERVER (PHOTOS) EVALUATION
-May 1 Decatur, Illinois - Military Other (IMAGINATION) 
-May 1 Glen Burnie, Maryland - Military (PHOTO)
-May 2 S. of Kawailoa, Islands - Military Other (CLOUDS) 
-May 3 South Hadley, Massachusetts - Civilian Other (REFLECTION/HOAX)
-May 4 Bayonne, New Jersey - Military Insufficient Data
-May 4 West Hartford, Connecticut - Military Insufficient Data
-May 4 Seattle, Washington - Military Insufficient Data
-May 5 Belton, Ohio - Civilian (LT.TR) Insufficient Data
-May 5 Rosita, Colorado - Military Insufficient Data
-May 6 Southera Norway - Civilian Insufficient Data
-May 7 Ottawa, Canada - Civilian Insufficient Data
-May 7 Vicinity Waco, Texas - USN Insufficient Data
-May 8 WSW of Kauai Islands - Civilian Insufficient Data
-May 10 San Gabriel, California - Civilian Insufficient Data
-May 11 Dallas, Texas - Military Insufficient Data
-May 17 SW of Albany, West Virginia - Military Insufficient Data
-May 19 Dayton, Ohio - Military Insufficient Data
-May 19 Tallahasse, Alabama - Natives Insufficient Data
-May 20 Hillsheld, Illinois - Military Insufficient Data
-May 20 Jeffrey Center, New Hampshire - Civilians Insufficient Data
-May 22 Brocton, Massachusetts - Military (REFLECTION)
-May 22 Mangham, Louisiana - Military Insufficient Data
-May 22 Murfreesboro, Tennessee - Military Insufficient Data
-May 23 Bast Lake, Florida - Military Insufficient Data
-May 25 Scranton, Georgia - Military Insufficient Data
-May 26 Naplee, New York - Military Insufficient Data
-May 27 Vicinity Midway Island - Military Insufficient Data
-May 27 S of Japan (25.15N 157.25E) - Military (PHOTO)
-May 27 Breckneck Hills, Pennsylvania - Military Insufficient Data
-May 29 Manchester, Illinois - Military Insufficient Data
-May 29 El Paso, Texas - Multiple Insufficient Data
-May 29 Chapelcourt, Texas - Military (REFLECTION/HOAX)
-May 30 Champagne, Yukon, Canada Area - Civilians Pilots Insufficient Data
-May 31 Las Vegas, Nevada - Military Insufficient Data
-May 31 St. Louis, Missouri - Military Insufficient Data
-Jun 2 Gulf Island Admiral, Illinois - Military Insufficient Data
-Jun 3 MI 3 SS Ill, Illinois - Military Insufficient Data
+DATE    LOCATION                                   OBSERVER (PHOTOS)    EVALUATION
+May     Decatur, Illinois                                               Insufficient Data
+1       Glendale, Arizona                                               Other (FEARS)
+1       E of Hawaiian Islands                       Military            Insufficient Data
+2       Trout Run, Pennsylvania                                         Insufficient Data
+2       Bayonne, New Jersey                                             Aircraft
+3½6     West Hartford, Connecticut                                      Insufficient Data
+6       Seattle, Washington                         (PHOTO)             Other (REFLECTION/HOAX)
+7       Regina, Canada, Montana                     Military (RADAR)    Balloons
+8       Dayton, Ohio                                                    Insufficient Data
+8       Southern Norway                             Multi               Other (CLOUDS)
+9       Ottawa, Canada                                                  Insufficient Data
+9       Vicinity Waco, Texas                                            Insufficient Data
+10      WSW of Hawaiian Islands                     USN                 Astro (METEOR)
+12      San Gabriel, California                                         Insufficient Data
+16      Isfahan, Iran                                                   Insufficient Data
+16      Dallas, Texas                                                   Astro (METEOR)
+17      SW of Albany, West Virginia                                     Insufficient Data
+18      Dayton, Ohio                                                    Aircraft
+19      Tallassee, Alabama                                              Insufficient Data
+19      Dillingha, Alaska                           Natives             Balloons
+20      Rhodesia, Africa                                                Astro (METEOR)
+20      Jeffrey Center, New Hampshire                                   Insufficient Data
+21      Malden, Massachusetts                                           Other (REFLECTION)
+22      Mangham, Louisiana                                              Balloons
+22      Murfreesboro, Tennessee                                         Balloons
+24      Bear Lake, Florida                                              Satellite
+24      Southwestern Canada                         Military            Astro (METEOR)
+25      North Miami, Florida                                            Astro (JUPITER)
+25      Naples, New York                            Military            Insufficient Data
+27      Vicinity Midway Island                                          Insufficient Data
+27      E of Japan (42.15N 157.25E)                 Military            Astro (METEOR)
+28      Beatley, Michigan                           (PHYSICAL S)        Other (IRON)
+28      Penna Park, Pennsylvania                    Multi/Beckman       Other (REFLECTION)
+29      El Paso, Texas                              Multiple            Astro (METEOR)
+29      Chapleston, Maine                                               Astro (MARS)
+29      Champagne, Yukon, Canada Area               Civilian Pilots     Insufficient Data
+30      Las Vegas, Nevada                                               Insufficient Data
+30      St. Louis, Missouri                                             Insufficient Data
+31      Manus Island, Admiralties                   Multi               Astro (METEOR)
+31      23 Mi S of Joliet, Illinois                                     Astro (JUPITER)
 
 ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
 
-DATE LOCATION SOURCE EVALUATION
-May 1 Salina, Michigan - Newspapers
-May 3 Gardner, Massachusetts - Newspapers
-May 4 Pittsfield, Massachusetts - Newspapers
-May 4 Milwasaki, Wisconsin - Newspapers
-May 4 Medf ord, Massachusetts - Newspapers
-May 5 Newburyport, Massachusetts - Newspaper Firewall Reports
-May 6 Fillmore, Illinois - Newspaper Firewall Reports
-May 6 Lowell, Massachusetts - Newspaper Firewall Reports
-May 8 Medfoord, Massachusetts - Newspaper Firewall Reports
-May 20 Pulas, Venezuela - Newspaper Firewall Reports
+DATE    LOCATION                                   SOURCE              EVALUATION
+May     Walled Lake, Michigan                      (Ltr)
+4       Sarasota, Florida                          Newsclipping
+4       Bedford, Massachusetts                     Newsclipping
+11      Milwaukee, Wisconsin                       Summary - Fireball Reports
+13      Boston, Massachusetts                      (Ltr)
+18      Fiji, Island                               Newsclipping
+20      Majorca Island                             Newsclipping
+24      Osmar, Del Tuy, Venezuela                  Newsclipping
+26      Rolla, Missouri                            (Ltr)
 
 - page 2 -
-
-The image does not contain any photograph. It appears to be a scanned document from the Project Blue Book UFO report files.
 
 HEADQUARTERS
 SEWART AIR FORCE BASE
@@ -82,97 +123,105 @@ and
 UNITED STATES AIR FORCE
 Sewart Air Force Base, Tennessee
 
-REPLY TO:
-ATTN: EDO
+REPLY TO
+ATTN OPI:    BDO
 
-SUBJECT: Unidentified Flying Object Report
+SUBJECT:     Unidentified Flying Object Report
 
-TO: Aerospace Technical Intelligence Center
-Wright-Patterson AFB, Ohio
+TO:          Aerospace Technical Intelligence Center
+             Wright-Patterson AFB, Ohio
 
 In accordance with AFR 200-2, the attached UFO Report is submitted.
 
 FOR THE COMMANDER:
 
+[Signature]
 JAMES A. WESTON
-CAPT, USAF
-ASST Dir. of Adm
-Headquarters, 839th Air Base Group
+Capt Lt, USAF
+Asst Dir of Adm
 
-1 Atch 
+1 Atch
 AF Form 112 & 112a
+
+3 MAY 1960
 
 - page 3 -
 
-There is no photograph present in this image. The image appears to be a scanned document from Project Blue Book, an Air Force initiative to investigate UFO sightings.
+COUNTRY OF ACTIVITY REPORTING: Sewart Air Force Base, Tenn
+REPORT NO.: 1
+AIR INTELLIGENCE INFORMATION REPORT
 
-OCR Text:
+COUNTRY OR AREA REPORT CONCERNS: 
+DATE OF INFORMATION: 06/02/29 Apr 60
+ACTIVITY SUBMITTING REPORT: 839th Air Base Group BDO
+Sewart Air Force Base, Tennessee
+DATE OF COLLECTION: 2 May 1960
+DATE OF REPORT: 3 May 1960
 
-COUNTRY OF ACTIVITY REPORTING  CLASSIFICATION  (Leave blank)
-SEWART AIR FORCE BASE, TENN.  AIR INTELLIGENCE INFORMATION REPORT
-COUNTRY OR AREA REPORT CONCERNS  DATE OF INFORMATION  06/02/59 APP 60
-UFO  DATE OF COLLECTION 2 May 1960
-ACTIVITY SUBMITTING REPORT  SRI STATUS (If applicable)
-339th AIR BASIC GROUP  SRI NO.  CANCELED/COMPLETE
-SEWART AIR FORCE BASE, TENNESSEE  CANCELED/INCOMPLETE
-LT. JIM E. HARTLEY  SRI NO.  ACTIVE
-NAME OR DESCRIPTION OF REPORT  EVALUATION
-Flashing Red Lights  3 May 1960
-REFERENCES (Lists previous reports, etc., if applicable) 
-N/A
-SUBJECT (Descriptive title, use individual reports for narrative subjects)
-UFO Incident
+NAME OR DESCRIPTION OF SOURCE: 1/Lt. Jim E. Hartley
+EVALUATION:
 
-SUMMARY (Give a summary which highlights the salient factors of narrative report. Main narrative text on AF Form 112).
+SUBJECT: UFO Report
+
+SUMMARY:
 See 112a
 
-This narrative report, deals with a flashing red light, which was observed during the hours of darkness. The locale was near the local airport. The investigating officer felt strongly that the flashing light was on an aircraft.
-
-DISTRIBUTION BY ORIGINATOR (Except USAF and FTD. Indicate Dup/Mon and copies o/e inclosures, If applicable.)
+The narrative report deals with a flashing red light which was observed during the hours of darkness. The locale was near the local airport. The investigating officer felt strongly that the flashin' light was on an aircraft.
 
 - page 4 -
 
-There does not appear to be a photograph present in this image. The image shows a page from a Project Blue Book report with text describing a UFO sighting.
+CLASSIFICATION (SECURITY INFORMATION when filled in)
 
 SUPPLEMENT TO AF FORM 112
-REPORT NO. 
+
+ORIGINATING AGENCY
+6395th Air Base Group BDO
+Stewart AFB, Tennessee
+
+REPORT NO.
+1
+
 PAGE 1 OF 1 PAGES
 
 A. (1) UFO, Round
-(2) Size of a Basketball
-(3) Red
-(4) N/A
-(5) N/A
-(6) Red Flashing Light
-(7) None
-(8) No sound heard
-(9) None
+   (2) Size of a Basketball
+   (3) Red
+   (4) N/A
+   (5) One
+   (6) Red Flashing Light
+   (7) None
+   (8) No sound heard
+   (9) None
 
 B. (1) Observer went outside to get coal for his stove.
-(2) Estimated at 200 or 300 feet above the surface coming from the North proceeding South.
-(3) Proceeding East Approximately the same altitude. 
-(4) The observer stated to the investigating officer that the object came from the North going South, stopped three times, hovered East and disappeared out of sight.
-(5) Disappeared slowly to the East.
-(6) Observer saw the object for three (3) minutes.
+   (2) Estimated at 200 or 300 feet above the surface coming from the North
+   proceeding South.
+   (3) Proceeding East approximately the same altitude.
+   (4) The observer stated to the investigating officer the object came from
+   the North going South, stopped three times, turned East and disappeared out
+   of sight.
+   (5) Disappeared slowly to the East.
+   (6) Observer saw the object for three (3) minutes.
 
 C. (1) Ground-Visual
-(2) No opticials used
-(3) N/A
+   (2) No opticals used
+   (3) N/A
 
-D. (1) 0540C 29 April 1960
-(2) Night
+D. (1) 0540Z 29 April 1960
+   (2) Night
 
-E. (1) One half (1) mile East of Smithville, Tennessee.
+E. (1) One half (½) mile East of Smithville, Tennessee.
 
-F. (1) Age 28, Route Smithville, Tennessee
+F. (1) [Redacted] Age 28, Route [Redacted] Smithville, Tennessee
 
 G. (1) Clear
-(2) Clear-Calm, 6000-180/15, 10000-250/15, 16000-280/25, 20000-280/35, 30000-290/50, 50000-260/30, 80000-Not available.
-(3) Clear
-(4) 10 Miles
-(5) None
-(6) None
-(7) Inversion just starting
+   (2) Surface-Calm, 6000-180/15, 10000-250/15, 16000-280/25, 20000-280/35,
+   30000-290/60, 50000-260/20, 80000-Not available.
+   (3) Clear
+   (4) 10 Miles
+   (5) None
+   (6) None
+   (7) Inversion just starting
 
 H. (1) None
 
@@ -180,56 +229,60 @@ I. (1) No action taken
 
 J. (1) None
 
-K. Helicopter Pilot and Squadron Administrative Officer. I interviewed the observer Mr.    and received the above information from him concerning the object. He said that the flashing red light appeared to him to be the navigation lights of an aircraft. I am of the opinion that the flashing red light that Mr.       saw was an aircraft proceeding on a normal flight plan. He thought it stopped three times and then disappeared. I gave Mr.       my opinion and he stated it could have been an aircraft, but wasn't sure.
+K. Helicopter Pilot and Squadron Administrative Officer. I interviewed the
+observer Mr. [Redacted] and received the above information. From him concerning the
+object he saw, I am of the opinion that the flashing red light that he
+saw came from an aircraft a considerable distance farther away than he thought
+because it was at night and he stated the speed was very slow and that he
+thought it stopped three times and then disappeared. I gave Mr. [Redacted] my
+opinion and he stated it could have been an aircraft, but wasn't sure.
 
 - page 5 -
 
-The image does not contain a photograph. It appears to be a typed document from Project Blue Book, a historical U.S. Air Force program that investigated unidentified flying objects.
+Here is the text I can read from the document:
 
-15 April 1960
-Mt. Prospect, New Hampshire
-NO CASE (INFORMATION ONLY)
+No Case (Information Only)                                   15 April 1960
+                                                              Mt. Prospect, New Hampshire
+
+(April 15 is about like 1100 P.M. other witnesses had reported a long red elongated object during the top of Mt. Prospect 4 Mi.)
 
 - page 6 -
 
-The image does not contain a photograph, but rather a typed text box. The text appears to be a report related to a UFO sighting in Conrad, Montana on April 19, 1960.
+Here is the text from the document:
 
-Text transcribed from the image:
+No Case (Information Only)                                   19 April 1960
+                                                              Conrad, Montana
 
-No Case (Information Only)             19 April 1960
-Conrad, Montana
-
-a young man called the A.i.r Force Base and reported seeing 3-5 flic Light Objects about BO-40 ft in diameter and 100 ft high. The objects were moving at a high rate of speed and were observed for 1/2-3 minutes. The objects were observed by several persons and appeared to be under intelligent control as they made 90 degree turns. The witness called the Ai.r Force base to report the sighting to the proper authorities.
+[Clipping text begins]
+April 19, Conrad, Montana - A young farmer spotted an oblong UFO about 5-6 p.m. while driving his tractor in a field, when the sudden glare of reflected sunlight from the UFO caused his to look up. David Doheny, described by the local newspaper as "labor and industrious," said the average UFO circular area moved slowly, at times hovering at low altitude. The editor of the local "Independent-Observer" who said he had seen near strange UFO, talked to Doheny and then advised his report be wired to the local Air Force base.
+[Clipping text ends]
 
 - page 7 -
 
-The image contains a table with various entries, but there is no photograph present in this particular page of the UFO report document.
-
 No Case (Information Only)
+
 20 April 1960
 Big Bend, Wisconsin
 
+[Most of the text in the document is obscured by black redaction lines, making it illegible. Only the header information is clearly visible.]
+
 - page 8 -
 
-There is no photograph present in this image. The image appears to be a page from a UFO report document from Project Blue Book.
+No Case (Information Only)                                   25 April 1960
+                                                                       Plymouth, New Hampshire
 
-No Case (Information Only)
-25 April 1960
-Plymoth, New Hampshire
+On April 24 at Plymouth a large group of persons sighted a bluish-green flying object, saucer-shaped over Cape Cod and eastern Massachusetts.
 
-On April 24, at Plymouth a large group of persons sighted a bluish-green flying object, saucer-shaped over Cape Cod and eastern Massachusetts. 
+[The rest of the text in the clipping is partially illegible, but appears to describe details about the UFO sighting, including its movement and color.]
 
-The UFO was described as a large saucer-shaped object with many bright lights. It suddenly appeared to the south and receding rapidly towards the north. The object was said to be much larger than a jet aircraft and was brightly illuminated.
+The UFO was dark scarlet in color and had bands or streams of pulsating light running vertically, wrapping the body sharply.
 
 - page 9 -
 
-The image does not contain a photograph. It appears to be a page from an old UFO report document, possibly from Project Blue Book, that describes an observation made on April 28 at 3:36 a.m. in West Thornton, New Hampshire. The text describes seeing a bright object in the sky that moved toward the east and disappeared.
+No Case (Information Only)                                   28 April 1960
+                                                                       West Thornton, New Hampshire
 
-NO CASE (INFORMATION ONLY)
-28 APRIL 1960
-WEST THORNTON, NEW HAMPSHIRE
-
-On April 28 at 3:36 a.m. the witness observed a bright object in the sky. The object moved toward the east and disappeared. The report states that the object was first observed as a bright point of light that increased in brightness as it moved toward the east. The object then faded from sight.
+On April 28 a similar UFO was sighted by a West Thornton, N.H. man about 9:30 p.m. The bright red object looked "like a huge candle or log standing on end, pointed toward the tree". It rose quickly, could be bright light on ground and moved off to the west.
 
 - page 10 -
 

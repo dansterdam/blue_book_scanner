@@ -1,75 +1,137 @@
-There does not appear to be any photograph in this image. This image appears to be a page from a Project Blue Book record card, which contains various fields for recording details of a UFO sighting, such as the date, location, type of sighting, duration, and other comments.
-
-The text on the record card is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE 10 Jun 64
-2. LOCATION Bastrop, Texas 
-3. TYPE OF OBSERVATION Ground-Visual
-4. DURATION 10 to 12 minutes
-7. LENGTH OF OBSERVATION 10 to 12 minutes
-8. THIS SUMMARY OF SIGHTING: Witness states that he saw a light-green obj, about 40 feet in diameter, which hovered over a ploughed field. It then shot up out of sight in about 10 seconds. The obj was seen through trees. In flight it was moving very fast and silently.
+
+1. DATE
+10 Jan 64
+
+2. LOCATION
+Bastrop, Texas
+
+3. DATE-TIME GROUP
+Local
+Grp 11/0530Z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☐ No
+
+6. SOURCE
+civilian
+
+7. LENGTH OF OBSERVATION
+10 seconds
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+loops
+
+10. BRIEF SUMMARY OF SIGHTING
+Witness claimed that he saw a light green obj
+from town traveling down beside trees. So bright it could still
+be seen through trees. In sight for 10 seconds.
+Resembled a flare in all respects except motion.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other
+☐ Insufficient Data for Evaluation
+☒ Unknown
+
+11. COMMENTS
+Additional information requested. Package
+unclaimed. Possible flare, possible
+distortion of meteor observation
+possible imagination of youth, possible
+unreliable report. Insufficient data.
+
+ATIC FORM 329 (REV 28 SEP 52)
+
 
 - page 1 -
-
-The provided image does not contain any photographs. It appears to be a page from an old document related to Project Blue Book, which was a U.S. Air Force program that investigated reports of unidentified flying objects (UFOs).
-
-OCR Text Output:
 
 HEADQUARTERS
 340TH BOMBARDMENT WING (H) (SAC)
 UNITED STATES AIR FORCE
-PERRIN AIR FORCE BASE, TEXAS
+BERGSTROM AIR FORCE BASE, TEXAS
 
-SUBJECT: Unidentified Flying Object (UFO)
+REPLY TO
+ATTN OF: IXO
+SUBJECT: Unidentified Flying Object (UFO)                    11 JUL 1964
 
-1. The following report is submitted in the interest of the USAF*s
-ATIC Project BLUE BOOK. On 8 June 1964, at approximately 11:50 hours, a
-bright unidentified object was observed by several personnel at this base.
-The object was first observed at an azimuth of 270 degrees and an elevation
-of 30 degrees, bearing in a westerly direction. It was observed for
-approximately 3-4 minutes, after which it rapidly accelerated and disappeared
-from view. During the period of observation, the object appeared to be round
-and extremely bright, much brighter than the sun. It could still be seen
-behind the trees. No sound was heard. The object moved with a rapid, level
-flight path and exhibited no exhaust or trail. Several attempts were made to
-photograph the object, but due to the extreme brightness, no photographs were
-obtained.
+TO: AFSC, Foreign Technology Division
 
-2. Mr.     MASON JR, AFSC, address is Bastrop, Texas, his telephone number ia
+1. The following report is submitted in the interest of the USAF:
+
+At 2330, [redacted] of Bastrop, Texas, called the MOOD at Bergstrom to report an unidentified object. This call was made 10 June 1964.
+At 0345 hours, 11 June 1964, MSgt Wills Mason of the Office of Information called Mr. [redacted] to obtain further information. Here is the text of Mr. [redacted] report:
+
+At 1130 hours, I saw a bright green light. I was up from the horizon, loop bright, then settle down behind some trees. He stated the light was so bright that he could still see it behind the trees. He stated that the object seemed approximately the size of a penny held at arm's length. It was, he estimated, six miles northeast of Bastrop, which is located some 40 miles southeast of Austin, Texas. He stated that the object was in sight approximately 10 seconds. The sighting now appears to be inside the Bastrop State Park which is closed at that hour. He further said that the object reassembled at "flare" in all respects except the manner in which it moved.
+
+2. Mr. [redacted] address is Bastrop, Texas, his telephone number is [redacted]
+
+WILLIE M. MASON JR
+Msgt, USAF
+MOOD, Office of Information
 
 PEACE IS OUR PROFESSION
 
+
 - page 2 -
 
-The image does not contain any photographs. It appears to be a scanned document from Project Blue Book, the United States Air Force's official program for investigating unidentified flying objects (UFOs).
-
-The text in the document is as follows:
-
-Project Blue Book
-Capt Patterson AFB, Ohio
+PTED (TDSH)
+Wright-Patterson AFB, Ohio
 15 June 1964
 
 Bastrop, Texas
 
-Dear Sir:
-Your report of an unidentified flying object has been referred to this office for evaluation. The information submitted indicates that the object was observed in your vicinity on 14 June 1964. We appreciate your filling out the attached AD Form 1-16 and submitting it to this office in this envelope provided.
+Dear Mr.
+
+Your report of an unidentified flying object has been referred to this office for evaluation. The information submitted by Bergstrom Air Force Base is not sufficient to properly evaluate your sighting. Therefore, we would appreciate your filling out the attached TRD Form 154 and returning it to this office in the envelope provided.
 
 Sincerely,
 
 [Signature]
-George D. Thunnell, Lt Col, USAF
-Chief, Aerial Phenomena Branch
+HECTOR QUINTANILLA, JR.
+Captain, USAF
+Chief, Aerial Phenomena
+Branch
+
+1 Atch
+
 
 - page 3 -
 
-There is no photograph present in this image. It appears to be a scanned document, specifically an envelope with "FIRST CLASS" printed on it, addressed to "Bastrop, Texas" from "FTD (TD-PATTERSON), OHIO" with a postage and free paid stamp.
+Here is the text from the document:
 
-FTD (TD-PATTERSON), OHIO 
-4-6-33
-POSTAGE AND FEES PAID 
-UNITED STATES AIR FORCE  
+PTO (TO:
+WRIGHT-PATTERSON AFB, OHIO
+
+UNITED STATES AIR FORCE
 OFFICIAL BUSINESS
+
+45463
+
+Bastrop, Texas
+
+POSTAGE AND FEES PAID
+
+FIRST CLASS
+
+FTO FORM 383 This form supersedes ATC Form No. 383, dated Dec 50, which is obsolete.
+
 
 - page 4 -
 

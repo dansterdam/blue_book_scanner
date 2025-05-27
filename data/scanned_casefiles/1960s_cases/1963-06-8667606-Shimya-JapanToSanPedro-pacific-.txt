@@ -1,86 +1,118 @@
-The image does not contain a photograph. It appears to be a Project 10073 Record Card from Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
-
 PROJECT 10073 RECORD CARD
-1. DATE: 18-24 June 1963
-2. LOCATION: Shimya (possibly San Pedro)
-3. DATE-TIME GROUP: Various
-4. TYPE OF OBSERVATION: Radar
-5. PHOTOS: None
-6. SOURCE: Civilian Visual
-7. LENGTH OF OBSERVATION: Not reported
-8. NUMBER OF OBJECTS: One
-9. COURSE: 335, 045
-10. BRIEF SUMMARY OF SIGHTING: Seven observations of satellite, presumed to be same object, had magnitude 3 to 4, circular in shape, and had movement of vessel M3 Ascanius.
-11. COMMENTS: Observations conform with passage of Satellite ECHO I.
-12. CONCLUSIONS: Satellite ECHO I
+
+1. DATE
+18-24 June 1963
+
+2. LOCATION
+Shimya, (near) San Pedro
+
+3. DATE-TIME GROUP
+Local: Various
+GMT: Various
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+not reported
+
+10. BRIEF SUMMARY OF SIGHTING
+Seven observations of Satellite, presumed by observer to be same object. Had magnitude PVBGA. Observations made from British vessel MS Ascanius.
+
+11. COMMENTS
+Observations conform with passage of Satellite ECHO I.
+
+12. CONCLUSIONS
+[Checkboxes for various categories, none marked]
+
+ATIC FORM 329 (REV 28 SEP 52) is printed at the bottom of the form.
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a United States government memorandum addressed to J. S. Lacey, OPI, NASA, Greenbelt, from the Nautical Information Branch, U.S. Naval Oceanographic Office. The subject is a "Satellite sighting: report of" and the date is 20 August 1963.
+OPTIONAL FORM NO. 10
+5010-108
 
 UNITED STATES GOVERNMENT
 Memorandum
+
 TO : J. S. Lacey, OPI
 NASA, Greenbelt
+
+Code 5511:CW
+DATE: 20 August 1963
+
 FROM : Nautical Information Branch
 U.S. Naval Oceanographic Office
-SUBJECT: Satellite sighting: report of
-Encl: (1) Ship Vistø Report from MS ASCANIUS dtd 8 Aug 1963
-1. Enclose (1) forwarded for your information.
+
+SUBJECT: Satellite sighting; report of
+
+Encl: (1) Ship Visit Report from MS ASCANIUS dtd 8 Aug 1963
+
+1. Enclosure (1) forwarded for your information.
+
+[Signatures and handwritten notes are partially illegible]
+
+Ed Mason
+Public Information Officer
+Goddard Space Flight Center
+
 
 - page 2 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-Transcribing the text from the document:
+Ship Visit Report
+PNRO NHQ 267
+Baltimore, Maryland.
 
-SHIP VISIT REPORT
-DATE JUNE 9 1963
+MS/SS ASCANIUS        British        7672 37
 
-MS/TD [BLANK] CARGO [BLANK] PASSENGER [BLANK] MIXED
-ROUTE ROUTE NO C LIVERPOOL
+Disp. to ALFRED HOLT & CO. LIVERPOOL    Round the world East bound
 
-IT E F R M N O CO LIVERPOOL 
+E. W. A. KIN
 
-ON A PASSAGE FROM SHIMYA JAPA TO SAN PEDRO PACIFIC
-A SATELLITE WAS OBSERVED AT 1:45 PM EST (SHIMYA - 2:45 PM)
+MELVIN NOAKES
 
-SIZE  ABOUT 40 FT LONG
-COLOR GREYISH-WHITE
-SPEED 3500 MPH
-DURATION ABOUT 10-15 MINUTES  
-DIRECTION COURSE 260 DEGREES
-ALTITUDE ABOUT 40,000 FT
+This space to be used for recording collected data
 
-REMARKS: OBJECT PASSED OVERHEAD IN LEVEL FLIGHT AT VERY HIGH SPEED. OBJECT WAS OBSERVED BY MANY WITNESSES ON BOARD.
+On a passage from Shimya, Japan to San Pedro, California a satellite was sighted as follows:
+
+June 18th C.M.T.
+Cleared between south & west
+June 18th 11:15 GMT Pos. 39°18'N 175°-E'd
+Sighted about 55° Passing between clouds and Pleiades but temp
+clear. Pos. from GMT 1146, bearing 980, object bright 6E
+June 20th C.M.T. Cleared. Sighting about passing west
+Suddenly going W.E. Pos. 39°18'N 175°-E'd {Echo 0857 243.36}
+11:30 Pos. 39°18'N 117°-33'W Sighted again from
+Heading NW/SE {Echo 10.54 252.66}
+June 24th C.M.T. Pos. 39°18'N 152°-E'd Cleared passing west
+Pos. 39°18'N 117°-33'W {Pos. NNW/SE}
+June 24th C.M.T. Cleared. Tracking band off again
+West 10° north at 5 deg.
+
+The explanation to investigation is not contained in this log
+nor in occasion to track such part.
+
 
 - page 3 -
 
-There is no photograph present in this image. The image appears to be a page from an old UFO report document containing data tables and text.
+SATELLITE 1960 DATA 1
+FOR GIVEN LATITUDES
 
-SATELLITE 1960 DELTA 1
-LOCATION, LAT., LONG., TIME
-SATELLITE VEHICLE LATITUDES
-LONG, DEC. 18, 1963
-SATELLITE 1960 DELTA 1
-LOCATION, LAT., LONG., TIME
-LONGITUDE LONG, DEC. 18, 1963
-LONGITUDE LONG, DEC. 21, 1963
-NORTH-SOUTH LONG, DEC. 18, 1963
-NORTH-SOUTH LONG, DEC. 21, 1963
+The document appears to be a data table with multiple columns showing satellite tracking information, including dates (June 15-21, 1963), latitude, longitude, time, and other numerical measurements. The table is divided into sections for different dates and includes columns for "NORTH-SOUTH" and other measurements. At the bottom right of the page, there are some additional notes about data elements and calculations, but the text is somewhat difficult to read clearly.
 
-PACIFIC SCATTER ELEMENTS FOR EARTH SATELLITE 1960 DELTA 1
-ASCENDING NODE (DEGREES WEST) 146.91
-ARGUMENT OF PERIGEE (DEGREES) 349.23
-ECCENTRICITY .0158
-MEAN ANOMALY (DEGREES) 10.82
-INCLINATION (DEGREES) 66.54
-PERIOD (MINUTES) 103.64
-SEMI-MAJOR AXIS (KM) 6787.95
-PERIGEE (KM) 159.39
-APOGEE (KM) 1589.48
-NODAL PERIOD (MINUTES/REV) 93.08
-ASCENDING NODE PERIOD (DAYS/REV) 16.23
+The table contains numerous rows of numerical data with precise measurements, seemingly related to satellite tracking or orbital calculations. The dates range from June 15 to June 21, 1963.
+
+The bottom right section contains some text that appears to include information about calculations, periods, and other technical details, but due to the image quality, some of the text is illegible.
+
 
 - page 4 -
 

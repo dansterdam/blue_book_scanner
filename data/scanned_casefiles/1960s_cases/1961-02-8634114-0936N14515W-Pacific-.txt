@@ -1,66 +1,98 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record card, which is a document used for recording information about unidentified flying object (UFO) sightings.
+PROJECT 10073 RECORD CARD
 
-OCR Output:
+1. DATE
 10 Feb 61
-3. DATE-TIME GROUP  1909
-4. TYPE OF OBSERVATION  Ground-Visual
-5. PHOTOS  None
-7. LENGTH OF OBSERVATION  1 min
-8. NUMBER OF OBJECTS  1
-9. COURSE  A meteor or Object possibly a satellite or ize which depending on duration of sight was moving slowly.
-10. BRIEF SUMMARY OF SIGHTING  Round, white object. Moving slowly, approx 50° azimuth.
-11. CONCLUSIONS  Was ballene, Probably Balloon.
+
+2. LOCATION
+0936N 14515W (Pacific)
+
+3. DATE-TIME GROUP
+Local 1900
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+GMT 110500Z
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+
+10. BRIEF SUMMARY OF SIGHTING
+Height of object 50°. Moving slowly SW.
+
+11. COMMENTS
+Object possibly a satellite or a meteor, depending on duration of sighting which was not reported. Info reported is very limited precluding a valid conclusion.
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+
+ATIC FORM 329 (REV 28 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. This appears to be a page from a document related to Project Blue Book, which was the official U.S. Air Force program to investigate unidentified flying objects (UFOs).
+Here is the text from the document:
 
-RA  RECEIVED
-FEB 61  1 05z
-
-DE RJEZHO 821
-ZNR  
-FM HO USAF WASHDC
+RA16
+VCZCSGQ4SSCJ7753
+RR RJEDSQ ATIC
+DE RJEZHQ 821
+ZNR: --
+FM HQ USAF WASHDC
 INFO ATIC WPAFB OHIO
-O 112955Z
+O 1105592 --
 FM COMNAVDEFEASTPAC
 TO RBHPB/CINCPACFLT
-RJWZSB/COM25THORADGN
+RJWZSB/COM28THORADGN
 INFO RBEPW/CNO
 RBEPW/SECNAV
-RJWFALB/CONCNCRD
+RJWFALB/CONCNORD
 RJHPKM/CG PACAF
-RJWZBH/COM25THNORADZN
-RBWDKE/COMPACMISRAN
-RJEZHO/COS USAF 
-RCUNC/CANFLAGPAC
-RFEMVR/CANARDEF
-RBWP/COMFIRSTFLT
-NAVY  GRNC
+RJWZBN/COM25THNORادGN
+RBWDKE/COMPAC1SRAN
+RJEZHQ/COFS USAF
+RCWNC/CANFLAGPAC
+RFEMVB/CANADEF
+RBWPC/COMFIRSTFLT
+NAVY GRNC
 BT
 UNCLAS
-MERPIT UFO
-1. FOLLOWING INFO RECEIVED FROM SS LONE STAR STATE BY RADIO
-TELEPHONE AT 112954Z
-2. RECENT NUMBER ONE- ONE ROUND WHITE UNIDENTIFIED FLYING OBJECT
-SIGHTED POSIT-9-36N 145-15W AT 110500Z. HEIGHT OF OBJECT 50
-DEGREES. MOVING SLOWLY 045 DEGREES. SEA CALM. WEATHER CLEAR.
+MERINT UFO
 
-Based on the text in the image, the key information is:
+1. FOLLOWING INFO RECEIVED FROM SS LONE STAR STATE BY RADIO TELEPHONE AT 110545Z
 
-1. Following information received from SS Lone Star State by radio telephone at 112954Z.
-2. Recent sighting of one round white unidentified flying object at position 9-36N 145-15W at 110500Z. The object was at a height of 50 degrees, moving slowly at 045 degrees. The sea was calm and the weather was clear.
+2. MERINT NUMBER ONE. ONE ROUND WHITE UNIDENTIFIED FLYING OBJECT SIGHTED POSIT-9-36N 145-15W AT 110500Z. HEIGHT OF OBJECT 50 DEGREES. MOVING SLOWLY 045 DEGREES. SEA CALM. WEATHER CLEAR.
+
 
 - page 2 -
 
-The image does not contain a photograph. It appears to be a page from a UFO report document, likely part of Project Blue Book. The text on the page includes the following information:
-
-DT
-CFN 110545Z 39-35N 145-15W 1103002 50 045
-11/96557
-11/16/27 FEB RJEZHQ
+BT
+CFN 1105452 39-36N 145-15W 1105582 50 045
+11/05582
+11/16/237 FEB RJEZHQ
 
 NNNN
+
 
 - page 3 -
 

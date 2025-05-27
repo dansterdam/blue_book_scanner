@@ -1,61 +1,134 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, which is a record of unidentified flying object (UFO) investigations conducted by the United States Air Force from 1947 to 1969.
-
-The text on the page is as follows:
-
 PROJECT 10073 RECORD
-1. DATE - TIME GROUP: 27 July 66
-2. LOCATION: Lake Carmel, New York
-(Two witnesses)
-3. SOURCE: Civilian
-4. NUMBER OF OBJECTS: Several
-5. LENGTH OF OBSERVATION: Varied
-6. TYPE OF OBSERVATION: Ground Visual
-7. COURSE: Varied
-8. PHOTOS: No
-9. PHYSICAL EVIDENCE: Yes
-10. CONCLUSION: The friguency of these sightings and the fact that this was a long term episode suggest.
-BRIEF SUMMARY AND ANALYSIS: Observers noted many lights throughout the sky. Colors vary-ing dome on the upper surface and glowed with a greenish light. One object had a high pitched white. Objects disappeared instantly, but one at a time. Observers have seen various case simultaneously with identified aircraft passing through the area. Various aircraft associated bodies could have been responsible for some of the sightings, also. Actually it witnessed are probably seeing something of a natural origin; however, from several leading comments it is felt that visualization has played a major part in this particular case.
 
-FID SFD 4-329 (TDE) Previous editions of this form may be used.
+1. DATE - TIME GROUP
+24 March 66 / July 66
+17 April 66 0030 z
+
+2. LOCATION
+Lake Carmel, New York
+(Two witnesses)
+
+3. SOURCE
+Civilian
+
+4. NUMBER OF OBJECTS
+Several
+
+5. LENGTH OF OBSERVATION
+Varied
+
+6. TYPE OF OBSERVATION
+Ground Visual
+
+7. COURSE
+Varied
+
+8. PHOTOS
+□ Yes
+■ No
+
+9. PHYSICAL EVIDENCE
+□ Yes
+■ No
+
+10. CONCLUSION
+Civilian/ground
+
+The frequency of these
+reports by these people
+is well with this value
+situation suspect.
+
+11. BRIEF SUMMARY AND ANALYSIS
+Observers noted many objects throughout the sky. Colors varying from yellow-red-blue-green. One object appeared to have dome on the upper surface and glowed with a greenish light.
+One object had a high pitched whine. Objects disappeared
+instantly, but one at a time. Objects have had blinking red
+and green lights occasion. Observers have seen various
+objects from 31 March through 7 July 66. Sightings have been
+made simultaneously with identified aircraft passing through
+the area. Various astronomical bodies could have been responsible for some of the sightings also. Actually the witnesses
+are probably seeing something of a natural origin; however,
+from several leading comments it is felt that hallucination
+has played a major part in this particular case.
+
+A full follow-up well be necessary to
+attempt to come to a definite conclusion.
+
+FORM
+FTD SEP 69 0-329 (TDE)
+
+Previous editions of this form may be used.
+
 
 - page 1 -
 
-The image does not contain any photograph. It is a page from a UFO report document from Project Blue Book.
-
 U.S. AIR FORCE TECHNICAL INFORMATION
 
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information so that if it is deemed necessary, we may contact you for further details.
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomena that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information so that if it is deemed necessary, we may contact you for further details.
 
-1. When did you see the object? 1-9-66
-2. Time of day: 9 52 Hour Minutes (Circle One): A.M. or P.M.
-3. Time Zone: (Circle One): a. Eastern b. Central c. Mountain d. Pacific e. Other
-4. Where were you when you saw the object? RD 2, LAKE CARMEL, N.Y. 10572 Nearest Postal Address
-5. How long was object in sight? (Total Duration) 20 Minutes Seconds
-a. Certain b. Fairly certain c. Not very sure d. Just a guess
+1. When did you see the object?
+17 April 1966
+Day   Month   Year
+
+2. Time of day: 9 30
+           Hour   Minutes
+(Circle One): A.M. or P.M.
+
+3. Time Zone:
+(Circle One): a. Eastern
+             b. Central
+             c. Mountain
+             d. Pacific
+             e. Other
+
+(Circle One): a. Daylight Saving
+             b. Standard
+
+4. Where were you when you saw the object?
+RD2 [redacted] LAKE CARMEL, N.Y. 10512
+Nearest Postal Address    City or Town     State or County
+
+5. How long was object in sight? (Total Duration)
+    Hours   Minutes   Seconds
+a. Certain
+b. Fairly certain   c. Not very sure
+d. Just a guess
 5.1 How was time in sight determined? BY CLOCK
-5.2 Was object in sight continuously? Yes No
-6. What was the condition of the sky? DAY BRIGHT Cloudy
-7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object? (Circle One): a. In front of you b. In back of you c. To your right d. To your left e. Overhead f. Don't remember
+5.2 Was object in sight continuously? Yes   No ✓
 
-FTD FORM OCT 63 164 This form supersedes FTD 164, Jul 61, which is obsolete.
+6. What was the condition of the sky?
+DAY                 NIGHT
+a. Bright           a. Bright
+b. Cloudy           b. Cloudy
+
+7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object?
+(Circle One): a. In front of you     d. To your left
+             b. In back of you      e. Overhead
+             c. To your right        f. Don't remember
+
+FORM
+FTD OCT 62 164   This form supersedes FTD 164, Jul 61, which is obsolete.
+
 
 - page 2 -
 
-The image does not contain a photograph, but rather a page from an old UFO report document from Project Blue Book. 
+Here is the text from the document:
 
-Here is the text from the document, transcribed as an OCR system would:
+Page 2
 
-8. If you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
 8.1 STARS (Circle One):
 a. None
 b. A few
 c. Many
 d. Don't remember
-8.2 MOON (Circle One): 
+
+8.2 MOON (Circle One):
 a. Bright moonlight
 b. Dull moonlight
 c. No moonlight - pitch dark
 d. Don't remember
+14 moon-not very BRIGHT
 
 9. What were the weather conditions at the time you saw the object?
 CLOUDS (Circle One):
@@ -63,6 +136,7 @@ a. Clear sky
 b. Hazy
 c. Scattered clouds
 d. Thick or heavy clouds
+
 WEATHER (Circle One):
 a. Dry
 b. Fog, mist, or light rain
@@ -74,16 +148,19 @@ e. Don't remember
 a. Solid
 b. Transparent
 c. Vapor
+
 d. As a light
 e. Don't remember
 
 11. If it appeared as a light, was it brighter than the brightest stars? (Circle One):
 a. Brighter
 b. Dimmer
+
 c. About the same
 d. Don't know
 
-11.1 Compare brightness to some object: JULY 4 TH FIRE WORKS
+11.1 Compare brightness to some common object:
+LIKE JULY 4 th FIRE WORKS
 
 12. The edges of the object were:
 (Circle One): a. Fuzzy or blurred
@@ -91,62 +168,77 @@ b. Like a bright star
 c. Sharply outlined
 d. Don't remember
 
-13. Did the object: (Circle One for each question)
-a. Appear to stand still at any time? Yes No Don't know
-b. Suddenly speed up and rush away at any time? Yes No Don't know
-c. Break up into parts or explode? Yes No Don't know
-d. Give off smoke? Yes No Don't know
-e. Change brightness? Yes No Don't know
-f. Flash or flicker? Yes No Don't know
-g. Disappear and reappear? Yes No Don't know
+e. Other: [blank lines]
+
+13. Did the object:
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Break up into parts or explode?
+d. Give off smoke?
+e. Change brightness?
+f. Change shape?
+g. Flash or flicker?
+h. Disappear and reappear?
+
+(Circle One for each question)
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+
 
 - page 3 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-As an OCR system, the text in the document is as follows:
+Page 3
 
 14. Did the object disappear while you were watching it? If so, how?
-It went behind trees, after about 15 mins, came back.
+Object first came, then disappeared behind Kent cliffs. After about 15 min. came back.
 
 15. Did the object move behind something at any time, particularly a cloud?
-(Circle One): Yes No  Don't Know. IF you answered YES, then tell what it moved behind: 
-behind: BEHING KENT CLIFFS
+(Circle One): Yes No Don't Know. IF you answered YES, then tell what
+It moved behind: BEHIND KENT CLIFFS.
 
 16. Did the object move in front of something at any time, particularly a cloud?
-(Circle One): Yes No  Don't Know. IF you answered YES, then tell what it moved in front of:
+(Circle One): Yes (No) Don't Know. IF you answered YES, then tell what
+in front of:
 
 17. Tell in a few words the following things about the object:
-a. Sound RXO
-b. Color BRIGHT SILVERY, GOLD YELLOW, RED  
+a. Sound NO
+b. Color BRIGHT SILVERY, GOLD YELLOW, RED
 
-18. We wish to know the angular size. Hold a match stick or arm's length in line with a known object and note how much of the object is covered by the head of the match. If you had performed this experiment at the time of the sighting, how much of the object would have been covered by the match head?
+18. We wish to know the angular size. Hold a match stick at arm's length in line with a known object and note how
+much of the object is covered by the head of the match. If you had performed this experiment at the time of the
+sighting, how much of the object would have been covered by the match head?
 ABOUT 3/4 OF THE OBJECT
 
-19. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, projections, etc, and especially exhaust trails or vapor trails.
+19. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details
+of the object you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails.
 Place an arrow beside the drawing to show the direction the object was moving.
-(Drawing shows object moving North, with trail)
+[A hand-drawn sketch with labels "RE YELLOW" and "SILVER" with an arrow pointing NORTH]
+
 
 - page 4 -
 
-The image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
+
+Page 4
 
 20. Do you think you can estimate the speed of the object?
-(Circle One) Yes No
+(Circle One)   Yes   No
 IF you answered YES, then what speed would you estimate? _____________
 
 21. Do you think you can estimate how far away from you the object was?
-(Circle One) Yes No
-IF you answered YES, then how far away would you say it was? 1/2 MILE
+(Circle One)   Yes   No
+IF you answered YES, then how far away would you say it was?   1/2 MILE
 
 22. Where were you located when you saw the object?
-(Circle One):
-a. Inside a building (home)
-b. In a car
-c. Outdoors
-d. In an airplane (type)
-e. At sea
-f. Other_________
+(Circle One)   Inside a building (home)
 
 23. Were you (Circle One)
 a. In the business section of a city?
@@ -155,98 +247,129 @@ c. In open countryside?
 d. Near an airfield?
 e. Flying over a city?
 f. Flying over open country?
-g. Other_________
+g. Other ________________
 
 24. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
 24.1 What direction were you moving? (Circle One)
-a. North b. Northeast c. East d. Southeast e. South f. Southwest g. West h. Northwest
-24.2 How fast were you moving? ___ miles per hour.
-24.3 Did you stop at any time while you were looking at the object? (Circle One) Yes No
+a. North           c. East           e. South          g. West
+b. Northeast      d. Southeast      f. Southwest      h. Northwest
+
+24.2 How fast were you moving? ____________ miles per hour.
+24.3 Did you stop at any time while you were looking at the object?
+(Circle One)   Yes   No
 
 25. Did you observe the object through any of the following?
-a. Eyeglasses Yes No
-b. Sun glasses Yes (No)
-c. Windshield Yes No
-d. Window glass Yes (No)
-e. (Binoculars) Yes No
-f. Telescope Yes (No)
-g. Theodolite Yes (No)
-h. Other________
+a. Eyeglasses     Yes   No
+b. Sun glasses    Yes   No
+c. Windshield     Yes   No
+d. Window glass   Yes   No
+
+e. Binoculars     Yes   No
+f. Telescope      Yes   No
+g. Theodolite     Yes   No
+h. Other ________________
 
 26. In order that you can give as clear a picture as possible of what you saw, describe in your own words a common object or objects which, when placed up in the sky, would give the same appearance as the object which you saw.
-UP SIDE DOWN SPOON
+
+UP SIDE down SPOON
+
 
 - page 5 -
 
-The image does not contain any photographs, only diagrams and illustrations. The text in the document is as follows:
+Page 5
 
 27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it. Place an "A" on the compass when you first saw it. Place a "B" on the compass where you last saw the object.
 
 28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
 
-29. IF there was MORE THAN ONE object, then how many were there? Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+29. IF there was MORE THAN ONE object, then how many were there? 6
+Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+
 
 - page 6 -
 
-There is no photograph present in the image. The image appears to be a page from an old UFO report document containing text.
+Here is the text from the document:
 
-MARCH 31 1966 - ONLY ONE RELATED CASE KNOWN 
-MARCH 27, 62--6.00-5.30 PM JUNE 16, 37 22-23-24-DAILY  
-31. Was anyone else with you at the time you saw the object? (Circle One) Yes  No
-31.1 IF you answered YES, did they see the object too? (Circle One) Yes  No
-DAUGHTERS--FAMILY CARMELL 
-SON-DAUGHTER-IN-LAW LAKE CARMEL
-MRS. RDA-13 LAKE CARMELL
-RDA-13 LAKE CARMEL, NEIGHBORS
-32. Please give the following information about yourself:  
-NAME LAST NAME FIRST NAME MIDDLE NAME
-ADDRESS RDA-13 LAKE CARMEL, N.Y 10512 STATE
-TELEPHONE NUMBER TELEPHONE REDACTED AGE 50 SEX F
+Page 6
+
+30. Have you ever seen this, or a similar object before. If so give date or dates and location.
+MARCH 31 1966 - OVER KENT CLIFFS-LAKE CARMEL
+APRIL-4-5-9-11-14-15-26-22-23-25-26-27-29-
+MAY-1-3-4-5-6-7-15-22-23 JUNE-22-23-24 JULY-5
+
+31. Was anyone else with you at the time you saw the object? (Circle One)   Yes   No
+31.1 IF you answered YES, did they see the object too? (Circle One)   Yes   No
+
+31.2 Please list their names and addresses:
+DAUGHTERS-
+                RD2                 LAKE CARMEL
+SON-DAUGHTER-IN-LAW
+                RD2-13              LAKE CARMEL NEIGHBORS
+MRS
+                RD2-                LAKE CARMEL NEIGHBORS
+
+32. Please give the following information about yourself:
+NAME
+      Last Name            First Name            Middle Name
+
+ADDRESS RD2             LAKE CARMEL   NETZR   NEW YORK
+         Street            City          Zone    State
+
+TELEPHONE NUMBER                 AGE  50    SEX  F
+
 Indicate any additional information about yourself, including any special experience, which might be pertinent.
-33. When and to whom did you report that you had seen the object? 15 APRIL 1966 LT. NUTTER - STEWARD AIR FORCE BASE N.Y.N.Y. 10014
+
+33. When and to whom did you report that you had seen the object?
+18    APRIL     1966
+Day    Month     Year                       N.Y., N.Y. 10014
+
+LT. NUTTER- STEWART AIR FORCE BASE
+
 
 - page 7 -
 
-There is no photograph present in this image. The image shows a page from an old UFO report document with handwritten text describing a sighting.
+Here is the OCR text from the document:
 
-Here is the text from the document, transcribed as an OCR system output:
-
-"34. Date you completed this questionnaire: 24 JULY 1966  
+34. Date you completed this questionnaire:    24    JULY    1966
+                                            Day    Month    Year
 
 35. Information which you feel pertinent and which is not adequately covered in the specific points of the questionnaire or a narrative explanation of your sighting.
 
-March 31, 1966 - The night was clear. 
-At sunset - I saw an orange - red circular object - lying flat - go very fast Northerly.
-Rent cliffs - knowing that. It was at a very high altitude. To me, it was beautiful - like a many faceted gem - But I cannot say it - then a very faint, starlike object - It changed shape - to a bird sail shape - swifter in motion.
-And not of earthly design and beautiful - After a few seconds, it disappeared. I looked at it for many seconds - it turned into a pocket object - yellow body and red on it - I cannot change again. It was beautiful. All told, I'm seeing many strange objects - sometimes as many as 6 at one time - the changing of shapes is amazing, and the color is beautiful. Especially whenever they disappear - on back of this page is in order starting with 1 - the things I have seen."
+March 31,1966 - The night was clear.
+
+At sunset. I saw an orange red colored circle - lying flat - go very fast about Kent Cliffs. Swirling as it went north.
+
+It was beautiful and indivisible to me. But I know I saw it. Then a very fast moving star that stopped. It changed shape - to a kind of cigar like silvery and beautiful, for about 45 mins. just after it disappeared, I looked at a gold star? As I did so, it turned into a rocket shaped object. Yellow body and into 2 lines. It was beautiful. It broke, red on bottom. I saw it change again. It was beautiful. All told, I've seen many objects, sometimes as many as 26 at one time. The changing of shapes at such a speed is amazing, and the color is beautiful, especially when they pulsate. On back of this page is, in order starting with A - the things I have seen.
+
 
 - page 8 -
 
-There is no photograph present in the provided image. The image appears to be a scanned page from a document that contains handwritten text.
+Here is the text from the document:
 
-Performing optical character recognition (OCR) on the text:
+REFERENCE EXAMPLE MISTAKE!
 
-REYNEZVOUS MISTAKEN,
+Kent Cliffs, March 31/1966
 
-KENT CLIFF ST March 31/1966
+A. Circular, but flat-Orange-Red-
+Going my first
 
-A - circular, but flat-orange-red-
-giving away slow, but silvery VERY yellow.
+B. Star? South to North East-Turned to this
+Sort of Cigar
 
-B - STAR? - south to north fast- TURNED to this
-
-MY BACKYARD - LAKE CARMEL-
-seemed to be about a tree in ormy 
-yard for at least 4 nights 
+C. Gold Star? seemed to be above a tree in my
+back yard for at least 4 nights
 before it did the following:
-STAR
-GOLD
-changed to SILVERY
-red
+
+LAKE CARMEL
+
+Silvery
+Like a bird in flight
+
+Silvery
+Changed to Solid
+
 
 - page 9 -
-
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book, which describes sightings of unidentified flying objects. The text on the page is as follows:
 
 A. Description of Objects:
 1. Shape: Cigar shaped and saucer shaped
@@ -260,9 +383,9 @@ A. Description of Objects:
 9. Other features: Some of the objects seemed to change colors.
 
 B. Description of Course:
-1. What first called the attention of the observer to the objects: Observer saw a straight moving light in the sky.
-2. Angle of Elevation and Azimuth of objects when first observed: Varying angles of elevation in all quadrants of the sky.
-3. Angle of Elevation and Azimuth of objects upon disappearance: Varying angles of elevation in all quadrants of the sky.
+1. What first called the attention of the observer to the objects: Observer saw a bright moving light in the sky.
+2. Angle or Elevation and Azimuth of objects when first observed: Varying angles of elevation in all quadrants of the sky.
+3. Angle or Elevation and Azimuth of objects upon disappearance: Varying angles of elevation in all quadrants of the sky.
 4. Description of flight path: Some objects were relatively stable while others had an erratic zigzag flight path.
 5. How did the objects disappear: Objects disappeared instantly, but one at a time.
 6. How long visible: 2 hours, 30 minutes.
@@ -270,155 +393,206 @@ B. Description of Course:
 C. Manner of Observation:
 1. Ground - visual
 
+
 - page 10 -
 
-The shared image does not contain a photograph. It appears to be a page from a Project Blue Book document that provides details about a UFO sighting.
-
 2. Optical Aids: Binoculars used part of the time
+
 3. N/A
+
 D. Time and Date of Sighting:
 1. 17 April 1966 - 0030 to 0300Z
 2. Light Conditions - Night
-E. Location of Observer - 41?23N 7339W
+
+E. Location of Observer - 4123N 7339 W
+
 F. Identifying Information on Observer:
-1. Name - Miss ************* Civilian
+1. Name - Miss [redacted] Civilian
 2. Age - 19
-3. Address: Rte 1, Box **********, Lake Carmel, NY
+3. Address: Rte 1, Box [redacted], Lake Carmel, NY
 4. Reliability - fair
-1. Name - Mrs ************* Civilian
+
+1. Name - Mrs [redacted] Civilian
 2. Age - 52
-3. Address: *********** rd, Lake Carmel, NY
+3. Address: [redacted] Road, Lake Carmel, NY
 4. Reliability - fair
+
 G. Weather & Winds:
 1. Observers said it was a clear night.
+
 2. Winds:
-Surface 150/02
-6,000' 270/10
-10,000' 290/20
-16,000' 290/25
-20,000' 280/30
-30,000' 280/25
-50,000' 270/40
-80,000' N/A
+Surface             150/02
+6,000'              270/10
+10,000'             290/20
+16,000'             290/25
+20,000'             280/30
+30,000'             280/25
+50,000'             270/40
+80,000'             N/A
+
 3. Ceiling: N/A
+
 4. Visibility: 25 miles
+
+2
+
 
 - page 11 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book UFO report document.
-
 U.S. AIR FORCE TECHNICAL INFORMATION
 
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be treated in strictest confidence. Your name, will not be revealed without your permission. We request this personal information so that if it is deemed necessary, we may contact you for further details.
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information so that if it is deemed necessary, we may contact you for further details.
 
-1. When did you see the object? 17 APRIL 1966 Year
+1. When did you see the object?
+17 APRIL 1966
+Day    Month   Year
 
-2. Time of day: 9 : 20 Hour Minutes (Circle One): A.M. or P.M.
+2. Time of day: 9 30
+           Hour  Minutes
+(Circle One): A.M. or P.M.
 
-3. Time Zone: (Circle One): 1. Eastern 2. Central (4. Mountain 5. Pacific
+3. Time Zone:
+(Circle One): a. Eastern
+             b. Central
+             c. Mountain
+             d. Pacific
+             e. Other __________
 
-4. Where were you when you saw the object? LAKE CARMEL NEW YORK 10512 Nearest Postal Address City or Town State or County
+(Circle One): a. Daylight Saving
+             b. Standard
 
-5. How long was object in sight? (Total Duration) 20 Hours Minutes Seconds
-a. Certain b. Fairly certain c. Not very sure d. Just a guess 
+4. Where were you when you saw the object?
+[Address redacted], LAKE CARMEL, NEW YORK 10512
+Nearest Postal Address    City or Town       State or County
+
+5. How long was object in sight? (Total Duration)
+30
+Hours   Minutes   Seconds
+
+(Circle One): a. Certain
+             b. Fairly certain
+             c. Not very sure
+             d. Just a guess
 
 5.1 How was time in sight determined? LOOKED AT CLOCK
+5.2 Was object in sight continuously? Yes   No →
 
-5.2 Was object in sight continuously? Yes No V
+6. What was the condition of the sky?
+DAY                 NIGHT
+a. Bright           a. Bright
+b. Cloudy           b. Cloudy
 
-6. What was the condition of the sky? DAY a. Bright b. Cloudy NIGHT (8) Bright b. Cloudy
+7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object?
+(Circle One): a. In front of you   d. To your left
+             b. In back of you    e. Overhead
+             c. To your right     f. Don't remember
 
-7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object? (Circle One): a. In front of you b. To your left c. To your right d. To your left e. Overhead f. Don't remember
+FORM
+FTD OCT 62 164   This form supersedes FTD 164, Jul 61, which is obsolete.
 
-FORM FTD OCT 63 164 This form supersedes FTD 144, Jul 61, which is obsolete.
 
 - page 12 -
 
-The image does not contain any photographs. It appears to be a page from an old Project Blue Book report, containing textual information.
-
 5. Cloud Cover: .1 to .5
+
 6. Thunderstorms: N/A
+
 7. Vertical Temp Gradient: No inversions
+
 H. N/A
+
 I. N/A
+
 J. N/A
+
 K. The two observers as well as several neighbors have made numerous sightings of UFO's since 31 March 1966. There have been few nights since 31 March until the date (25 Apr 66) of this report when sightings have not been made. Sightings have been made simultaneously with identified aircraft passing through the area. They have also been seen under varying weather conditions, including rain showers.
+
 Aircraft may account for a few of the objects but certainly not all of them.
+
 Lt S. M. Nutter
-NAV-EWO
+NAV/EWO
 4713th Def Sys Eval Sq
 Stewart AFB, NY
+
 L. N/A
+
+3
+
 
 - page 13 -
 
-The image does not contain any photographs. It appears to be a letter from Project Blue Book in response to an unidentified observation report.
+Lake Carmel
 
-Project Blue Book
-HS (TOO)
-WRIGHT-PATTERSON AFB, OHIO 45433
-11 July 1966
-
-LAKE CARMEL, NEW YORK
-
-Dear Miss ___,
-
-Reference your unidentified observation of 17 April 1966. The information which we have received is not sufficient for evaluation. Request you complete the attached AFD Form 164 and return it in the envelope provided. We wish to thank you for reporting your observation to the Air Force.
-
-Sincerely,
-
-VICTOR QUINTANILLA, JR., Major, USAF
-Chief, Project Blue Book
-
-- page 14 -
-
-The image does not contain any photographs. It appears to be a typed letter on Project Blue Book letterhead.
-
-TEXT TRANSCRIPTION:
-
-"PFD (USAFR) 
+FTD (TDBR)
 Wright-Patterson AFB, Ohio 45433
 11 July 1966
 
-Dear ____,
+Lake Carmel, New York -
 
-Reference your unidentified observation of 17 April 1966. 
-The information which we have received is not sufficient 
-for evaluation. Request you complete the attached PFD 
-Form 164 and return it in the envelope provided.  
+Dear Mis
 
-We wish to thank you for reporting your observation to the 
+Reference your unidentified observation of 17 April 1966.
+The information which we have received is not sufficient
+for evaluation. Request you complete the attached FWD
+Form 164 and return it in the envelope provided. We wish
+to thank you for reporting your observation to the Air
+Forces.
+
+Sincerely,
+
+HECTOR QUINTANILLA, Jr, Major, USAF
+Chief, Project Blue Book
+
+
+- page 14 -
+
+FED (ENTER)
+Wright-Patterson AFB, Ohio 45433
+11 July 1966
+
+Dear [redacted]
+
+Reference your unidentified observation of 17 April 1966.
+The information which we have received is not sufficient
+for evaluation. Request you complete the attached FWD
+Form 164 and return it in the envelope provided.
+
+We wish to thank you for reporting your observation to the
 Air Force.
 
 Sincerely,
 
-HECTOR QUINTANILLA, Jr. Major, USAF
-Chief, Project Blue Book"
+HECTOR QUINTANILLA, Jr., Major, USAF
+Chief, Project Blue Book
+
 
 - page 15 -
 
-There does not appear to be a photograph present in this image. This appears to be a page from a Project Blue Book report document, specifically related to an observation made on April 7, 1966 in Lake Carmel, New York.
+Page 2
 
-The text on the page is as follows:
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
 
-8. IF you saw the object at NIGHT, what did you notice con-cerning the STARS and MOON?
 8.1 STARS (Circle One):
 a. None
 b. A few
 c. Many
 d. Don't remember
+
 8.2 MOON (Circle One):
 a. Bright moonlight
 b. Dull moonlight
 c. No moonlight - pitch dark
 d. Don't remember
+QUARTER MOON - NOT VERY BRIGHT
 
 9. What were the weather conditions at the time you saw the object?
+
 CLOUDS (Circle One):
 a. Clear sky
 b. Hazy
 c. Scattered clouds
 d. Thick or heavy clouds
+
 WEATHER (Circle One):
 a. Dry
 b. Fog, mist, or light rain
@@ -426,9 +600,12 @@ c. Moderate or heavy rain
 d. Snow
 e. Don't remember
 
-10. The object appeared: (Circle One)
-a. Solid
-b. Transparent? [sic]
+10. The object appeared: (Circle One):
+a. Solid - LOCKED BRIGHT
+b. Transparent
+c. Vapor
+d. As a light
+e. Don't remember
 
 11. If it appeared as a light, was it brighter than the brightest stars? (Circle One):
 a. Brighter
@@ -436,165 +613,205 @@ b. Dimmer
 c. About the same
 d. Don't know
 
-11.1 Compare brightness to some common object: QT was like a type of July sparkler
+11.1 Compare brightness to some common object:
+OT was like a 4th of July Sparkler
 
-12. The edges of the object were: (Circle One):
+12. The edges of the object:
+(Circle One):
 a. Fuzzy or blurred
 b. Like a bright star
-c. Well-defined
+c. Sharply outlined
 d. Don't remember
 
-13. Did the object:
-a. Appear to stand still at any time? YES NO Don't know
-b. Suddenly speed up and rush away? YES NO Don't know
-c. Descend to the ground/and or take off again? YES NO Don't know
-d. Give off smoke?  YES NO Don't know
-e. Change brightness? YES NO Don't know
-f. Change shape? YES NO Don't know
-g. Flash or flicker? YES NO Don't know
-h. Disappear and reappear? YES NO Don't know
+c. Other: [blank]
+
+13. Did the object: (Circle One for each question)
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Break up into parts or explode?
+d. Give off smoke?
+e. Change brightness?
+f. Change shape?
+g. Flash or flicker?
+h. Disappear and reappear?
+
+Yes/No/Don't know columns are filled out for each item, with most marked as "No" or "Don't know"
+
 
 - page 16 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book UFO report document, containing questions and answers about a reported UFO sighting.
+Here is the text from the document:
 
-14. Did the object disappear while you were watching it? If so, how? 
-The object disappeared when it appeared to descend behind a group of trees.
+Page 3
 
-15. Did the object move behind something at any time, particularly a cloud? 
-No, it did not move behind anything.
+14. Did the object disappear while you were watching it? If so, how?
+When the object first appeared, it stayed there for a few minutes, then disappeared behind Kent Cliffs after 15 minutes, it came back with another light
 
-16. Did the object move in front of something at any time, particularly a cloud? 
-Yes, it appeared to move in front of some trees.
+15. Did the object move behind something at any time, particularly a cloud?
+(Circle One): Yes No Don't Know. IF you answered YES, then tell what it moved behind: It went behind Kent Cliffs
+
+16. Did the object move in front of something at any time, particularly a cloud?
+(Circle One): Yes No Don't Know. IF you answered YES, then tell what in front of: It didn't move in front, some 15 minutes, it came out from behind Kent Cliffs
 
 17. Tell in a few words the following things about the object:
-a. Sound - No sound
-b. Color - Looked like a very bright silver-white object
+a. Sound: No Sound
+b. Color: Looked like a very Bright Silver, just Blue Green & Red LIGHTS
 
 18. We wish to know the angular size. Hold a match stick at arm's length in line with a known object and note how much of the object is covered by the head of the match. If you had performed this experiment at the time of the sighting, how much of the object would have been covered by the match head?
-The match head would have covered about 2 degrees of the object.
+the match head would have covered about 2/3 of the object
 
 19. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
 
-The text provided in the image has been fully reproduced.
+[A hand-drawn sketch is included with labels like "Bright Lights", "Gold", "Green", "Silver", "Blue", and "Kent Cliffs" with directional arrows]
+
 
 - page 17 -
 
-The provided image does not contain any photographs. It appears to be a page from an old Project Blue Book UFO report document, filled out with handwritten responses to various questions.
+Here is the text from the document:
 
-The OCR (Optical Character Recognition) output of the text found in the document is as follows:
+Page 4
 
 20. Do you think you can estimate the speed of the object?
 (Circle One) Yes No
-IF you answered YES, then what speed would you estimate? ____________
+IF you answered YES, then what speed would you estimate? _____________
 
 21. Do you think you can estimate how far away from you the object was?
-(Circle One) Yes No 
+(Circle One) Yes No
 IF you answered YES, then how far away would you say it was? About 5 mile
 
 22. Where were you located when you saw the object?
-(Circle One): 
-a. Inside a building
+(Circle One):
+a. Inside a building MY MOTHER-IN-LAWS HOUSE
 b. In a car
-c. Outside
+c. Outdoors
 d. In an airplane (type)
 e. At sea
-f. Other ______________________________
+f. Other ____________________
 
 23. Were you (Circle One)
 a. In the business section of a city?
-b. In the residential section of a city? 
+b. In the residential section of a city?
 c. In open countryside?
 d. Near an airfield?
 e. Flying over a city?
 f. Flying over open country?
-g. Other
+g. Other ____________________
 
 24. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
 24.1 What direction were you moving? (Circle One)
-a. North   c. East   e. South   g. West
-b. Northeast   d. Southeast   f. Southwest   h. Northwest
-24.2 How fast were you moving? _______ miles per hour.
-24.3 Did you stop at any time while you were looking at the object? (Circle One) Yes   No
+a. North c. East e. South g. West
+b. Northeast d. Southeast f. Southwest h. Northwest
+
+24.2 How fast were you moving? ____________ miles per hour.
+
+24.3 Did you stop at any time while you were looking at the object?
+(Circle One) Yes No
 
 25. Did you observe the object through any of the following?
-a. Eyeglasses (Yes)   (No)
-b. Sun glasses   (Yes)   (No)
-c. Windshield   Yes   (No)
-d. Window glass   Yes   (No) 
-e. Binoculars    (Yes)   No
-f. Telescope   (Yes)   No
-g. Theodolite   Yes   (No)
-h. Other ________
+a. Eyeglasses Yes No e. Binoculars Yes No
+b. Sun glasses Yes No f. Telescope Yes No
+c. Windshield Yes No g. Theodolite Yes No
+d. Window glass Yes No h. Other ____________ ?
 
 26. In order that you can give as clear a picture as possible of what you saw, describe in your own words a common object or objects which, when placed up in the sky, would give the same appearance as the object which you saw.
-A saucer
+
+A spoon
+
 
 - page 18 -
 
-The image does not contain any photograph. However, it does contain a detailed sketch and diagram related to the observation of unidentified flying objects.
+Here is the text from the document:
 
-Transcribed text from the document:
+Page 5
 
-27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it. Place an "A" on the compass when you first saw the object. Place a "B" on the compass where you last saw the object.
+27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it. Place an "A" on the compass where you first saw the object. Place a "B" on the compass where you last saw the object.
 
-28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course. They apparently moved originally, moved the other way, then moved upward.
+28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
 
-29. IF there was MORE THAN ONE object, then how many were there? 5
-Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+The object that was seen originally moved, the object moved very fast.
 
-NEAT CLIFF
-THESE 9 WERE FAST
+29. If there was MORE THAN ONE object, then how many were there? Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+
+KNOT CLIFFS
+
+THESE 2 WERE EAST
 OF THE CLIFFS
-AND OVER
+NOT OVER
+
+Additional handwritten notes include:
+- Blue
+- Silver
+- Gold
+- Shot up
+- From cliffs
+- Blue light
+- Green light
+- Point silver
+
 
 - page 19 -
 
-The image does not contain any photographs. It appears to be a page from a UFO report document from Project Blue Book.
+Here is the text from the document:
 
-TRANSCRIPTION OF TEXT:
+Page 6
 
-30. Have you ever seen this, or a similar object before. If so give date or dates and location. March 29, 1966 approx. 4pm Lake Carmel, N.Y. Stae Route 52 about 3 miles west of Lake Carmel, N.Y. 10512 March 29, 1966 - 3 near my home
-31. Was anyone else with you at the time you saw the object? (Circle One) Yes No
-31.1 If you answered YES, did they see the object too? (Circle One) Yes No
+30. Have you ever seen this, or a similar object before. If so give date and location.
+March 31, 1966 - 5     April 20, 1966 - 18     April 16, 1966 - 18     (seen more
+April 1, 1966 - 3     April 15, 1966 - 3     April 26, 1966 - 14     then one
+April 6, 1966 - 1     (Newell Sound)     April 16 - 1966 - 1     May 3, 66 - 14     type
+April 23, 1966 - 1     July 4, 1966 - 0
+
+31. Was anyone else with you at the time you saw the object? (Circle One)     Yes     No
+31.1 IF you answered YES, did they see the object too? (Circle One)     Yes     No
 31.2 Please list their names and addresses:
+
+[Addresses are redacted/blacked out]
+
+LAKE CARMEL, NY 10512
+RD1 - BOX 408A - WALDEN CONCORD RD.
 LAKE CARMEL, N.Y. 10512
-RD1 - BOX 4906, WALDEN CONCORD RD., WALDEN, N.Y. 10975
-RD2, LAKE CARMEL, N.Y. 10512
+RD - LAKE CARMEL, N.Y. 10512
+RD - LAKE CARMEL, N.Y. 10512
+
 32. Please give the following information about yourself:
-NAME (Last, First Middle) 
-ADDRESS RD1 - BOX 4906, WALDEN CONCORD RD., LAKE CARMEL, N.Y. 10512
-TELEPHONE NUMBER 914-244-3920 SEX FEMALE
-Indicate any additional information about yourself, including any special experience, which might be pertinent. 
-On question 30, I was even kind of cliffy home ever new, have seen object 2 twice over Peekskill, N.Y. One object I saw was over Peekskill, was very low, and I could not see most of body.
+[Personal details are redacted/blacked out]
+
+ADDRESS RD1 - BOX LAKE CARMEL 10512 NEW YORK
+TELEPHONE NUMBER     AGE 20     SEX FEMALE
+
+Indicate any additional information about yourself, including any special experience, which might be pertinent.
+
+In question 30, most of what I saw was over kind Cliff. Some of them, however, were over Peekskill, NY. One object I saw over Peekskill was very low, and I could see most of it.
+
 33. When and to whom did you report that you had seen the object?
-  APRIL  1966
-Day Month Year
-Lake Carmel Resident on April 4, 1966
+18     APRIL     1966
+[Reporting details are redacted/blacked out]
+
 
 - page 20 -
 
-The image contains a handwritten document that appears to be part of a UFO report from Project Blue Book. The document does not contain any photographs, but only text and a hand-drawn diagram.
+On April 1, 1966, my husband and I were on our way to Peekskill, when we saw an object shot across our car. It stopped a little past the car, changed direction, went a little further, stopped, changed direction again, then disappeared. This was at 7:50 PM. The sky was clear in this area.
 
-The text in the document is as follows:
+[A hand-drawn sketch shows an object with color labels: Dark Lights, Green, Silver Bright, Blue Light]
 
-On April 1, 1966, my husband and I were on our way to Peekskill, when we saw an object about across our car. It appeared a little past the horizon, changing direction, went a little further, stopped, changed direction again, then disappeared. The time was 7:50 P.M. The sky was clear in this area.
+I could see the shape of the object and a green dome (except for the dark spot behind the dome) very well. It's the closest I've ever seen one. The object moved South West & North. The
 
-[Diagram showing the object's movements]
+[The last word appears to be cut off]
 
-I could see the shape of the object, and a green dome (except for the dark spot looking like a door) on the top. I't's the closest I've ever seen one. The object moved South West to North.
 
 - page 21 -
 
-There is no photograph present in this image. The image appears to be a page from a UFO report document containing handwritten text.
-
-As an OCR system, the text found in the document is:
-
-34. Date you completed this questionnaire: 20 July 1966
+34. Date you completed this questionnaire:    20    July    1966
+                                                    Day   Month   Year
 
 35. Information which you feel pertinent and which is not adequately covered in the specific points of the questionnaire or a narrative explanation of your sighting:
 
-red lights on the object seemed to be around the object. the blue-green lights seemed in one place. there was also sound.
+red lights on the object seemed
+to be around the object,
+whereas the blue green light seemed
+in one place there was also
+sound.
+
 
 - page 22 -
 

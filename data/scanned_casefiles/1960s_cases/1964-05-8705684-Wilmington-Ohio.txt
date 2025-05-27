@@ -1,42 +1,114 @@
-The image does not contain any photograph. It appears to be a scanned page from a Project Blue Book record card.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 17 May 64
-2. LOCATION: Wilmington, Ohio 
-3. DATE-TIME GROUP: 1803/102
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTO: None
-6. SOURCE: Civilian
-7. LENGTH OF OBSERVATION: 20 minutes
-8. NUMBER OF OBJECTS: one
-9. COURSE: East
-10. BRIEF SUMMARY OF SIGHTING: Very white light in sky traveling from West to East, AP tower personnel in area. WP reported negative and Clinton County Affied reported no lights visible.
-11. COMMENTS: Was observed by tower personnel in area. Was considered as misinterpreted conventional object since visible to tower operators.
-12. CONCLUSIONS: Was balloon, probably balloon, possibly balloon, Was Aircraft, probably Aircraft, possibly Aircraft. Was a misinterpreted Astronomical Object. Was insufficient data for evaluation.
+
+1. DATE
+17 May 64
+
+2. LOCATION
+Wilmington, Ohio
+
+3. DATE-TIME GROUP
+Local 18/0310Z
+GMT
+
+4. TYPE OF OBSERVATION
+☒Ground-Visual ☐Ground-Radar
+☐Air-Visual ☐Air-Intercept Radar
+
+5. PHOTOS
+☐Yes
+☒No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+20 minutes
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+East
+
+10. BRIEF SUMMARY OF SIGHTING
+Very white light in sky traveling from West to East. Light not visible to Two AF tower personnel in Area. WP reported negative and Clinton County AFfield reported no lights visible.
+
+11. COMMENTS
+Not observed by tower personnel in area. Case considered as misinterpretation of some conventional object since light not visible to tower operators.
+
+12. CONCLUSIONS
+☐Was Balloon
+☐Probably Balloon
+☐Possibly Balloon
+☐Was Aircraft
+☐Probably Aircraft
+☐Possibly Aircraft
+☐Was Astronomical
+☐Probably Astronomical
+☒Possibly Astronomical
+☐Misinterpretation of
+Other Conventional Object
+☐Insufficient Data for Evaluation
+☐Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There does not appear to be any photograph present in the image. The image shows a page from a U.S. Air Force technical information questionnaire about an unidentified flying object (UFO) sighting.
-
 U.S. AIR FORCE TECHNICAL INFORMATION
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomena that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information so that if it is deemed necessary, we may contact you for further details.
-1. When did you see the object? 17 Day 5 Month 64 Year
-2. Time of day: 22 : 20 minutes (Circle One): A.M. or P.M.
-3. Time Zone: (Circle One) a. Eastern b. Central c. Mountain d. Pacific e. Other
-4. Where were you when you saw the object? Wilmington, Ohio
-5. How long was object in sight? (Total Duration) 26 Hours 0 Minutes 0 Seconds
-a. Certain b. Fairly certain c. Not very sure d. Just a guess
-5.1 How was time in sight determined? Yes Was object in sight continuously? No
-6. What was the condition of the sky? DAY Night a. Bright b. Cloudy
-7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object? (Circle One): a. In front of you b. In back of you c. To your left d. To your right e. Overhead f. Don't remember
+
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomena that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Your name will not be used in connection with any statements, conclusions, or publication without your permission. We request this personal information so that if it is deemed necessary, we may contact you for further details.
+
+1. When did you see the object?
+17   5   64
+Day   Month   Year
+
+2. Time of day: 22   10
+             Hour   Minutes
+(Circle One): A.M. or P.M.
+
+3. Time Zone:
+(Circle One): a. Eastern
+             b. Central
+             c. Mountain
+             d. Pacific
+             e. Other
+
+(Circle One): a. Daylight
+             b. Standard
+
+4. Where were you when you saw the object?
+Wilmington             Ohio
+Nearest Postal Address   City or Town   State or County
+
+5. How long was object in sight? (Total Duration)
+                Hours   26   Seconds
+             a. Certain
+             b. Fairly certain   c. Not very sure
+             d. Just a guess
+
+5.1 How was time in sight determined?
+5.2 Was object in sight continuously? Yes   No
+
+6. What was the condition of the sky?
+DAY                 NIGHT
+a. Bright           a. Bright
+b. Cloudy           b. Cloudy
+
+7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object?
+(Circle One): a. In front of you   d. To your left
+             b. In back of you    e. Overhead
+             c. To your right     f. Don't remember
+
+FORM
+FTD OCT 62 164   This form supersedes FTD 164, Jul 61, which is obsolete.
+
 
 - page 2 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book report, containing a questionnaire or form with questions and multiple choice answers about observing a UFO or unidentified object.
-
-OCR Text:
-
 8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+
 8.1 STARS (Circle One):
 a. None
 b. A few
@@ -50,13 +122,14 @@ c. No moonlight - pitch dark
 d. Don't remember
 
 9. What were the weather conditions at the time you saw the object?
+
 CLOUDS (Circle One):
 a. Clear sky
 b. Hazy
 c. Scattered clouds
 d. Thick or heavy clouds
 
-WEATHER (Circle One): 
+WEATHER (Circle One):
 a. Dry
 b. Fog, mist, or light rain
 c. Moderate or heavy rain
@@ -67,16 +140,18 @@ e. Don't remember
 a. Solid
 b. Transparent
 c. Vapor
+
 d. As a light
 e. Don't remember
 
 11. If it appeared as a light, was it brighter than the brightest stars? (Circle One):
 a. Brighter
 b. Dimmer
+
 c. About the same
 d. Don't know
 
-11.1 Compare brightness to some common objects: _________
+11.1 Compare brightness to some common object: [blank line]
 
 12. The edges of the object were:
 (Circle One): a. Fuzzy or blurred
@@ -84,27 +159,47 @@ b. Like a bright star
 c. Sharply outlined
 d. Don't remember
 
-Other: _________
+e. Other: [blank lines]
 
-13. Did the object: (Circle One for each question)
-a. Appear to stand still at any time?	Yes	No	Don't know
-b. Suddenly speed up and rush away at any time? 	Yes	No	Don't know
-c. Break up into parts or explode?	Yes	No	Don't know
-d. Give off smoke?	Yes	No	Don't know
-e. Change in brightness?	Yes	No	Don't know
-f. Change shape?	Yes	No	Don't know
-g. Flash or flicker?	Yes	No	Don't know
-h. Disappear and reappear?	Yes	No	Don't know
+13. Did the object:
+(Circle One for each question)
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Break up into parts or explode?
+d. Give off smoke?
+e. Change brightness?
+f. Change shape?
+g. Flash or flicker?
+h. Disappear and reappear?
+
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+
 
 - page 3 -
 
-There is no photograph present in this image. The image shows a scanned page from an old UFO report document with handwritten text.
-
-34. Date you completed this questionnaire: 17 Day 5 Month 64 Year
+34. Date you completed this questionnaire:   17   5   64
+                                                   Day   Month   Year
 
 35. Information which you feel pertinent and which is not adequately covered in the specific points of the questionnaire or a narrative explanation of your sighting.
 
-Clinton County operations officer, Mr Smith (C2355) called and stated that Mr Wilmington News agency notified him of a very white light in the sky traveling west to east 2210 until 2230. Mr telephone number is redacted. Neither Clinton county or wr (possibly WP) fewer observed this light as both were checked.
+Clinton County operations officer,
+Mr. Smith C2255 called and stated
+that Mr. [redacted] Wilmington News
+agency notified him of a very
+white light in the sky traveling
+west to east 2210 until 2230. Mr.
+[redacted]'s telephone number is [redacted]
+
+Neither clinton county or WP tower
+observed this light as both were checked
+
 
 - page 4 -
 

@@ -1,70 +1,119 @@
-There is no photograph present in this image. This appears to be a page from a Project Blue Book record card.
+PROJECT 10073 RECORD CARD
 
-15 April 1962
-Location: 42°53' N  173°47' W
-Type of Observation: Ground-Radar
-Number of Objects: 1
-Course: NW
-Witness Summary of Sighting: Cirvis report of satellite at above location going E-W, very fast.
+1. DATE
+14 April 1962
 
-Was Balloon
-Possibly Balloon
-Possibly Aircraft
-Possibly Astronomical
-Other Possible Cause for Evaluation: Unknown
+2. LOCATION
+42.51 N    173.47 W
 
-ATIC FORM 329 (REV 28 SEP 52)
+3. DATE-TIME GROUP
+Local        15/0952Z
+GMT
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual   ☐ Ground-Radar
+☒ Air-Visual     ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+1
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+NE
+
+10. BRIEF SUMMARY OF SIGHTING
+Cirvis report of satellite at above location going NE, very fast.
+
+11. COMMENTS
+Echo was at 44 N 163.15 W going NE. This is visible from the location given by the witness at 0952, 15 April. Pace evaluated as Echo I.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☒ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The provided image does not contain any photographs. It appears to be a page from an old Air Force project blue book document with a list of incoming messages and information.
-
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
 INCOMING
 
-AP IN : 52327 (15 Apr 62) R/am Pg 1 of 2
-INFO : CIN-14, ARMY-2, CMC-8, JCS-35, OSD-15, HSA-7, CIA-11, 
-      COF-2, DIA-2, JCS-GP-1, SAFSS-3 (IOI)
+AF IN : 52327 (15 Apr 62) R/am                   PG 1 of 2
 
-SUBJ A B51
-06-03 1KHD255
-.....*OO RUEZHJRJWFAB
+INFO : CIN-14, ARMY-2, CMC-8, JCS-35, OSD-15, NSA-7, CIA-11,
+        COP-2, DIA-2, OOP-CP-1, SAFS-3 (101)
+
+SND A 051
+B(~-03 1KH0258
+*****00 RJEZHGRJWFALB
+
 DE RJHPKH 3
+
 ZNR
-0 15131BZ
-FM 32S AIR DIV KUNIA FACILITY HAWAII
-TO RJHPKH/PACAF HICKAM AFB HAWAII
-RBHP/COMHAV SEAFROM PEARL HARBOR HAWAII
-INFO RJEZH/COFO USAF WASHINGTON DC
-GRBEPW/CNO WASHINGTON DC
-RBDPW/SECNAV WASHINGTON DC
-RJWFAB/CINCNORAD ENT AFB COLO
-RBHP/CINCPAC CAMP H M SMITH HAWAII
-RUHPFS/CINCJUSARPAC FT SHAFTER HAWAII
-RBHP/CINCPACFLT PEARL HARBOR HAWAII
-RJAPAZ/CON JSOSAN FUCHU AS JAPAN
-RUAGR/COMUSJAPAN SEOUL KOREA
-RUAGEL/COMUSSTDC TAIPEI TAIWAN
+0 151018Z
+
+FM 326 AIR DIV KUNIA FACILITY HAWAII
+TO RJHPKW/PACAF HICKAM AFB HAWAII
+RBHPW/COMHAWSEAFRON PEARL HARBOR HAWAII
+INFO RJEZH~/COFS USAF WASHINGTON DC
+GRDEPW/CNG WASHINGTON DC
+RBEPW/SECNAV WASHINGTON DC
+RJWFALB/CINCNORAD ENT AFB COLO
+RBHPW/CINCPAC CAMP H M SMITH HAWAII
+RUHHPS/CINCUSARPAC FT SHAFTER HAWAII
+RBHPB/CINCPACFLS PEARL HARBOR HAWAII
+RJAPAZ/CONUSJAPAN FUCHU AS JAPAN
+RUANGR/CONUSKOREA SEOUL KOREA
+RUAGEL/CONUSTDC TAIPEI TAIWAN
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be an incoming message from the Department of the Air Force Staff Message Branch.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
 
 INCOMING
 
-AP IN : 52327 (15 Apr 62) PG 2 of 2
-RJHPHH/HAWSE AFRON KUNIA TUNNEL ANNEX  
-RJHPD/COMASWFORPAC FORD ISLAND HAWAII
-RJUXIBZ/CINCPAC OFFUET AFS NED
+AF IN: 52327 (15 Apr 62)                                   Pg 2 of 2
+
+RBHPHH/HAWSEAFRON KUNIA TUNNEL ANNEX
+RBHPD/COMASWFORPAC FORD ISLAND HAWAII
+RJWXBR/CINCSAC OFFUET AFS NEB
 BT
 /UNCLAS/CIRVIS REPORT
-NAVY BARRIER AIRCRAFT REPORTED SATELLITE 42DEG 51 MIN NORTH 173 DEG 47 MIN WEST AT 15/0823Z OUTER SPACE NORTH EAST VERY FAST. NO THREAT.
-EVALUATED 
+NAVY BARRIER AIRCRAFT REPORTED SATELLITE 4206 51 MIN NORTH
+173 DEG 47 MIN WEST AT 15/0925Z OUTER SPACE NORTH EAST VERY
+FAST. NO THREAT.
+EVALUATED
 BT
-15/0823Z APR RJHPKH
+15/1023Z APR RJHPKH
 
-NOTE: Advance copy to OOP-CP & CIN
+NOTE: Advance copy to COP-CP & CIN
+
 
 - page 3 -
 

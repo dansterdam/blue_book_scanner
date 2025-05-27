@@ -1,53 +1,72 @@
-There does not appear to be any photograph present in the image. The image shows a scanned page from a Project Blue Book record card.
+PROJECT 10073 RECORD CARD
 
-TEXT EXTRACTED FROM THE DOCUMENT:
+1. DATE
+29 Aug 60
 
-1. DATE: 5 AUG 50
+2. LOCATION
+Dedham, Massachusetts
 
-2. LOCATION: Dedham, Massachusetts
+3. DATE-TIME GROUP
+Local 1945
+GMT 30/0945Z
 
-3. DATE/TIME GROUP: 1345
+4. TYPE OF OBSERVATION
+☑ Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
 
-4. TYPE OF OBSERVATION: Ground-Visual
+5. PHOTOS
+☐ Yes
+☑ No
 
-5. PHOTOS: 0 Y--, 0 N--
+6. SOURCE
+Civilian
 
-6. LENGTH OF OBSERVATION: 30 sec
+7. LENGTH OF OBSERVATION
+30 sec
 
-7. OBJECT
+8. NUMBER OF OBJECTS
+one
 
-   a. NUMBER OF OBJECTS: 1
-   
-   b. DESCRIPTION: Two bright objects, pear-shaped, about as bright as echo, first seen in East, moved silently in East to West direction. Color: seemed to be grayish white. Speed seemed to travel around 3 mph.
+9. COURSE
+SE
 
-12. CONCLUSIONS:
-   
-   Was Balloon
-   Possibly Balloon
-   
-   Was Aircraft
-   Possibly Aircraft
-   
-   Was Astronomical
-   Possibly Astronomical
-   
-   Insufficient Data for Evaluation:
-   Unknown
+10. BRIEF SUMMARY OF SIGHTING
+Twice as bright as Echo. First seen in E. Curved in horseshoe path and disappeared in NE. Starlike, twice the size of Echo. White in color. Seemed to travel 3-4 times as fast as Echo.
 
-The text in the document describes a sighting of two bright, pear-shaped objects that were observed in the sky over Dedham, Massachusetts on August 5, 1950. The objects were reported to have moved silently from east to west, and their color was described as grayish white. The duration of the sighting was around 30 seconds. The document provides some conclusions about the possible nature of the objects, including that they may have been a balloon or an aircraft, or possibly an astronomical phenomenon, but there was insufficient data to definitively evaluate the sighting.
+11. COMMENTS
+Maneuver performed by the object rules out possibility of being a satellite or astronomical body. Witnesses are located on the SW edge of Boston and there are a large number of a/c both large and small, civil and military, flying in the area. Is possible that the object observed by the witnesses was a/c. However, there is insufficient info in the report to allow a valid conclusion.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☑ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There does not appear to be any photograph present in this image. It seems to be a scanned page of an old document, specifically a letter from Warren W. McCurdy, Public Information, addressed to "Mr. ***" in Dedham, Massachusetts, dated September 15, 1960. The letter appears to be a response to an observation report and indicates that the matter is being forwarded to the Air Technical Intelligence Center for further investigation.
+September 16, 1960
 
-Mr. Dedham, Massachusetts
+Mr.
+Mr.
+Dedham, Massachusetts
 
-Dear Messrs. ***,
+Dear Messrs.
 
-We have been able to determine the nature of your recent observation, and are therefore forwarding your report to:
+We have not been able to determine the nature of your recent observation, and are therefore forwarding your report to:
 
 Air Technical Intelligence Center
-Wright-Patterson Air Force Base
+Wright-Patterson Air Force Base,
 Ohio
 
 Any further correspondence regarding this matter should be sent directly to them.
@@ -55,52 +74,77 @@ Any further correspondence regarding this matter should be sent directly to them
 Thank you for your time and interest.
 
 Respectfully,
+
 Warren W. McCurdy
 Public Information
 
 cc: ATIC
 
+
 - page 2 -
 
-The image does not contain any photographs. It appears to be a scanned document from Project Blue Book, an official U.S. Air Force program that investigated unidentified flying objects (UFOs).
+REPORT FORM FOR METEOR OBSERVATION
 
-REPORT FORM FOR UNIDEN OBSERVATION
-Information needed: 15 AUGUST 1960
-PLACE OF OBSERVATION: 
-DATE AND TIME OF OBSERVATION: 11:15 PM
-OBSERVER(S): DELETED
-WEATHER CONDITIONS: CLEAR SKY, STARS OUT 
-DESCRIPTION OF OBJECT(S): ROUND, WHITE-BLUISH LIGHT (ABOUT THE SIZE OF A 25 DIAMETER STANDARD AND WEATHER BALLOON)
-SEQUENCE OF EVENTS: 
-DIRECTION: UNKNOWN
-ELEVATION: UNKNOWN
-LENGTH OF TIME OBJECT WAS SEEN: UNKNOWN
-APPARENT DIRECTION IN WHICH OBJECT TRAVELLED: UNKNOWN
-DID IT CHANGE DIRECTION? UNKNOWN
-GENERAL IMPRESSION OF OBJECT: UNKNOWN
-LAND FEATURES (IF ANY): WOODS, HOUSES, ETC.
+Information marked * is vital
+
+* Place of observation: Dedham, Mass.
+
+* Date: 8/31/1966     Time: 7:50 p.m. (Give Time Standard and "weather can or pm)
+
+* Accuracy of time given above: 
+(e.g. "very exact", or "±1 minute", or "±5 minutes")
+
+* Brightness (compared to stars, planets, moon or other useful standard source such as a street light at a certain distance):
+Almost as bright as sun
+
+Direction in which object was first seen:
+(To N, or SE, or SSW, etc.)
+Low
+
+* Length or time object was seen:
+Approx 30 seconds
+
+* Apparent direction in which object travelled:
+(N-S, SE-NW, N-W, etc.)
+Low & slow
+
+Did it change direction?
+Seemed to waver in width and disappeared
+
+General impression of angular speed:
+(degrees/sec. across sky)
+
+Size and shape (if any):
+(i.e. like a star, may "star-like")
+Slim older than size of Fist
+
 
 - page 3 -
 
-The image does not contain any photograph, only text. Here is the output of the OCR:
+Color:
 
-Did it appear, disappear, or suddenly vanish?
+Did it explode, disintegrate, or suddenly vanish?
+No
 
-Any call or craft?
+Tall or trail?
+No
 
 Did any sound accompany the object?
+No
 
 If sound followed later, give time interval:
 
 Was it examined with binoculars or telescopes or photographed?
+No
 
 Give position of trajectory for at least two points with regard to stars if possible:
 
-Any other remarks?
+Any other remarks:
+Seemed to be traveling S-E times as fast as John Trees in northeast section of our yard. Concealed object until fairly high so only glimpsed here came directly overhead, short last most w
 
-Name: [redacted]
-Phone No: [redacted]
-Case: [redacted]
+Name: [redacted]                   Phone No: [redacted]
+Address: [redacted]                Date: [redacted]
+
 
 - page 4 -
 

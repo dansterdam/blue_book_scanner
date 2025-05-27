@@ -1,67 +1,131 @@
-The image does not contain a photograph. It appears to be a project record card from Project 10073, which documents an unidentified object sighting on May 5, 1964 at coordinates 43.10 N 174 W in the Pacific Ocean. The record card includes details about the sighting, such as the type of observation (Air-Visual), the number of objects observed (one), the course of the object, and the conclusions drawn about the sighting, which indicate that it may have been a satellite in flight, but that satellite schedules were not available to confirm this.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 5 May 64
-3. DATE/TIME GROUP: Local
-5. PHOTOS: □ Yes □ No
-7. LENGTH OF OBSERVATION: not reported
-10. BRIEF SUMMARY OF SIGHTING: Possible satellite in flight on course of 060 degrees. Unknown altitude. Intensityhof 1st mag star.
-2. LOCATION: 43.10 N 174 W (Pacific)
-4. TYPE OF OBSERVATION: □ Ground-Visual □ Ground-Radar □ Air-Visual ☑ Air-Intercept Radar
-6. SOURCE: military
-8. NUMBER OF OBJECTS: one
-9. COURSE: 060 deg
-11. COMMENTS: Satellite schedules not available however, report consistent with this evaluation.
+
+1. DATE
+5 May 64
+
+2. LOCATION
+43.10 N 174W (pacific)
+
+3. DATE-TIME GROUP
+GMT06/0850Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS
+[X] No
+[ ] Yes
+
+6. SOURCE
+military
+
+7. LENGTH OF OBSERVATION
+not reported
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+060 deg
+
+10. BRIEF SUMMARY OF SIGHTING
+Possible satellite in flight on course of 060 degrees. Unknown altitude. Intensity of 1st mag star.
+
+11. COMMENTS
+Satellite schedules not available however, report consistent with this evaluation.
+Echo I Confirmed.
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other - Satellite (Echo)
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There does not appear to be any photograph present in the provided image. It seems to be a page from a Project Blue Book document, containing only text.
+INCOMING
+MESSAGE
+AF-IN: 24302 (6 May 64)/H/trc
 
-INCOMING MESSAGE
-DEPARTMENT OF THE AIR FORCE
-STAFF MESSAGE BRANCH UNCLASSIFIED
-AF-IN : 24302 (6 May 64)H/trc
-ACTION: MIN-7
-INFO : XOP-1, XOPX-4, SAF-08-3, ARMY-2, NAVY-2, CMC-8, JCS-35, 
-OSD-15, NSA-7, DIA-15 (IOO)
-ZCZCHQA4072ZCQJA482
-GQ RUEAHQ
-DE RUHFF B620 06/0957Z
-ZNR Q 069957Z
+UNCLASSIFIED
+pg 1 of 2
+
+ACTION: NIN-7
+
+INFO: XOP-1, XOPX-4, SAP-OS-3, ARMY-2, NAVY-2, CMC-8, JCS-35,
+OSD-15, NSA-7, DIA-15 (100)
+SMB B132
+
+ZCZCHQA407ZC9JA482
+OO RUEAHQ
+DE RUMPF B620 06/0957Z
+ZNR
+O 060957Z
 FM COMBARFORAC
-TO RUKACR/COMALSEAFRON
-RUKDAG/COMALAIRCOM
-RUHLKH/CINCPACAF
+TO RUKACG/COMALSEARFRON
+RUKDAO/COMALAIRCOM
+RUHLKI/CINCPACAF
 ZEN/CINCNORAD
-INFO RUECP/CND
-RUEAHQ/CDFS USAF
-RUHLHQ/CINCPAC
-RUHLHL/CONCPACFLT
-RUHLHS/CINCUSARPAC
-RUHLKS/PACAFBASECOM COMMAND CENTER HICKAM AFB
-RUECP/SCHNAV
-RUHPHH/COMHAWSEAFRON
+INFO RUECW/CNO
+RUEAHO/COFS USAF
+RUHLHO/CINCPAC
+RUHLHL/CONGPACFLT
+RUHLKS/CINCUSARPAC
+RUHLKSA/PACAFBASECOM COMMAND CENTER HICKAM AFB
+RUECW/SECNAV
+RUPHPH/COMHAWSEARFRON
 RUAUAAH/HADD KUNIA
 BT
 UNCLAS.
 
+Handwritten notes on the document:
+- Pencil Settle
+- 5 may 64
+- 43.10N 174W
+
+
 - page 2 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
+INCOMING
+MESSAGE
 
-AP IN 2 24302 (6 MAY 64)
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED
+
+AF IN: 24302 (6 May 64)
+
+pg 2 of 2
+
 A. JANAP 146D
 1. CIRVIS REPORT
 2. V43205
 3. POSSIBLE SATELLITE
-4. 43 ION 174W
-5. 066054
+4. 43.10N 174W
+5. 060850
 6. UNKNOWN
-7. 660 DEG T
+7. 060 DEG T
 8. UNKNOWN
-9. INTENSITY FIRST MAGITUDE STAR. EVALUATION UNKNOWN
+9. INTENSITY FIRST MAGITUDE STAR.
+   EVALUATION UNKNOWN
+
 BT
-NOTE: RETRANSMITTED TO CIA, ADV OF DEL TO NIN, XCPX, AND DIA.
+NOTE: RETRANSMITTED TO CIA.
+      ADV CY DEL TO NIN, XOPX, AND DIA.
+
 
 - page 3 -
 

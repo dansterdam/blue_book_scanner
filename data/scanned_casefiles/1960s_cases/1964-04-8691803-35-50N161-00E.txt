@@ -1,68 +1,125 @@
-The shared image is a page from a Project Blue Book report record card. There is no photograph present in this image. 
-
-The text found in the document is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 9 Apr 64
-2. LOCATION: 35 50N 161 00E
-3. DATE-TIME GROUP: Local - 09/16/22
-4. TYPE OF OBSERVATION: Air Visual
-5. PHOTOS: Yes
-6. LENGTH OF OBSERVATION: Not Reported
-7. SOURCE: Civilian Airlines
-8. NUMBER OF OBJECTS: one
-9. COURSE: West
-10. BRIEF SUMMARY OF SIGHTING: Object reported as Space Reentry observed from BOAC Airlines, Entry at 15 deg elevation in flight from East to West.
-11. COMMENTS: Explorer IX decayed on s/r. Reentry motion sighting, insufficient data for evaluation.
+
+1. DATE
+9 Apr 64
+
+2. LOCATION
+35.50N 161.08E
+
+3. DATE-TIME GROUP
+Local
+GMT 09/1622Z
+
+4. TYPE OF OBSERVATION
+□ Ground-Visual   □ Ground-Radar
+□ Air-Visual      □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+■ No
+
+6. SOURCE
+Civilian Airlines
+
+7. LENGTH OF OBSERVATION
+Not Reported
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+West
+
+10. BRIEF SUMMARY OF SIGHTING
+Object reported as Space Reentry observed from BOAC Airlines. Entry at 45 Deg elevation in flight from East to West.
+
+11. COMMENTS
+Explorer 11 decayed on 9 Apr. Entry reported to be Westerly, contrary to recent motion. "Ignoring more likely a meteor observation. Duration omitted. Insufficient data for film evaluation."
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+■ Insufficient Data for Evaluation
+□ Unknown
+
 
 - page 1 -
 
-There does not appear to be any photograph present in this image. This seems to be a page from a Project Blue Book report containing a list of text entries.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING
 
-AF IN : 43917 (10 Apr 64)
-INFO : NIN-7, XOP-1, XOPX-4, SAF-OS-3, ARMY-2, CMC-6
+AF IN : 43917 (10 Apr 64)                K/ab            Page 1 of 2
+INFO : NIN-7, XOP-1, XOPX-4, SAF-OS-3, ARMY-2, CMC-8, JCS-35
+        OSD-15, NSA-7, DIA-15             (98)
+
 SMB D055
-CZCHQE902ZCEJB084
-PP RUEAHQ
-DE RUHLKH 9 09/1915Z
+
+CZOHQE9@ZCEJB@84
+
+PP RUEAH@
+
+DE RUMLKW 9 09/1915Z
+
 ZNR
-P 091908Z
+
+P 0991908Z
+
 FM 326 AIRDIV KUNIA FACILITY HA
-TO RUHLKM/PACAF HICKAM AFB HA
-RUHPHH/COMHAWSEA FRON PEARL HARBOR HA
-INFO RUEAHQ/CSAF USAF WASH D C
-RUECWXGNO WASH D C
+
+TO RUMLKW/PACAF HICKAM AFB HA
+RUPHW/COMHAWSEAFRON PEARL HARBOR HA
+
+INFO RUEAH@/CSAF USAF WASH D C
+RUECWXCN@ WASH D C
 RUECW/SECNAV WASH D C
-RUWGALV/CINCNORAD ENT AFB COLO
-RUHLHQ/CINCPAC CAMP H M SMITH HA
-RUHLHS/CONCUSARPAC FT SHAFTER HA
-RUHLHL/CINCPACFLT PEARL HARBOR HA
-RUAUAZ/COMUSJAPAN FUCHU AS JAPAN
-RUARC/COMUKFOREA SEOUL KOREA
+RUWGALB/CINCNORAD ENT AFB COLO
+RUHLH@/CINCPAC CAMP H M SMITH HA
+RUHLS/CONCUSARPAC FT SHAFTER HA
+RUHLHL/CINCPACFLI PEARL HARBOR HA
+RUAUZ/COMUSJAPAN FUCHU AS JAPAN
+RUANC/COMMUKOREA SEOUL KOREA
 RUAGFL/COMUSTDC TAIPEI TAIWAN
-RUKCSBRV/CINGSAC OFFUTT AFB NEBR
-AFF GRNG
+RUKGSBR/CINCSAC OFFUTT AFB NEBR
+
+AFF GRNC
+
 BT
-UNCLAS/326 DP-CO UNCLAS:0414
+UNCLAS/326 DP-CO UNCLASS:0414
+
 
 - page 2 -
 
-There is no photograph present in this image. This appears to be a page from an old Project Blue Book UFO report document.
+DEPARTMENT OF THE AIR FORCE
+STATE MESSAGE BRANCH
 
-AFIN : 43917 (10 APR 64)
-1. CIRVIS REPORT
-2.. BOAC-SPEEDBIRD 910
+INCOMING
+
+AFIN : 43917 (10 Apr 64)                     Page 2 of 2
+
+1. CIIRVIS REPORT
+2. BOAC-SPEEDBIRD 910
 3. ONE(1) SPACE VEHICLE RE-ENTRY
-4. 35.50 NORTH 161.00 AST
-5. 09/1622Z
-6. ANGLE OF 45" TO HORIZON
-7. EAST TO WEST -282" TRACK
-8. NOT REPORTED 
-9. OBKECT SPLIT APART UPON RE-ENTRY
+4. 35.50 NORTH 161.00AST
+5. 09/1622ZD
+6. ANGLE OF 45° TO HORIZON
+7. EAST TO WEST -280° TRACK
+8. NOT REPORTED
+9. OBJECT SPLIT APART UPON RE-ENTRY
 10. NO EVALUATION AT THIS TIME
 BT
-NOTE : Adv sv del to XOPX, NIN & DIA
-Readdressed to CIA
+
+NOTE : Adv cy del to XOPX, NIN & DIA
+        Readdressed to CIA
+
 
 - page 3 -
 

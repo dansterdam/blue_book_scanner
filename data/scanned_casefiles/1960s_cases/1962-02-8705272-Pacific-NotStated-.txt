@@ -1,72 +1,145 @@
-The provided image does not contain a photograph. It appears to be a page from a Project Blue Book record card detailing a UFO sighting report.
+PROJECT 10073 RECORD CARD
 
+1. DATE
 21 Feb 62
-PACIFIC (Not Stated)
-TYPE OF OBSERVATION: Visual, radar and photographic
-NUMBER OF OBJECTS: Two
-COURSE: O - The objects appeared to be going SE
-BRIEF SUMMARY OF SIGHTING: Bright lighted object at about 45° altitude was observed going SE at approx 2300 hours (local time) beyond horizon at about 5° - 7° elevation. Object was lost below horizon after about 1 minute. No other description of object given.
-CONCLUSIONS: Was Balloon, Probably Balloon, Possibly Balloon, Was Aircraft, Probably Aircraft, Possibly Aircraft, Possibly Astronomical
-COMMENTS: No action was taken. The flight was obserred in this area and object in the sighting was probably Bana.
+
+2. LOCATION
+Pacific (Not Stated)
+
+3. DATE-TIME GROUP
+Local ____
+GMT 21/0910Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual by □ Ground-Radar
+□ Tele □ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+□ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+20 Min.
+
+8. NUMBER OF OBJECTS
+Two
+
+9. COURSE
+E SE
+
+10. BRIEF SUMMARY OF SIGHTING
+White object Elev 22° Az 238° going SE disappeared beyond horizon at 05 elev. 13°. Observed through 25X Telescope. Sighting at night. Observed another object tracking visibly only through TV.
+
+Note: On Feb 22 7th Fleet was at 21.18N 127.40E which is consistent with Fleet maneuvers.
+
+11. COMMENTS
+At 0910Z Echo was at about 40° N latitude 127° E (over Korea). At 0928z it had moved to the equator at 172° longitude (over Gilbert Islands). If the Fleet was at 37° N 144° W or off the E coast of Japan this would be a confirmed Echo sighting. However the Fleet was Korean to be in this area and object in the sighting is probably Echo.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+[X] Other: Satellite (Echo)
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a naval message document with unclassified information about a UFO sighting.
+NAVAL MESSAGE                UNCLASSIFIED                NAVY DEPARTMENT
 
-NAVAL MESSAGE
-UNCLASSIFIED
-NAVY DEPARTMENT
-PRIORITY: PRIORITY
-AP IN: 472332 (21 FEB 62) G/DB
-AP DIST: CIN-14, SAPS-3, OOP-2, OOP-GP-1 (20)
+[Header details include:]
+AF DIST: CIN-14, SAFS-3, OOP-2, OOP-GP-1 (20)
 FM USS VERNON CTY
-TO GG FIFTH AF
+TO CG FIFTH AF
 PACAF
-INFO COMTSINPDIV 92
-COMLANDSRON NINE
-CINCPACFLT
-COMPHIOGRWWWST PAC
+
+INFO COMLSTDIV 92
+COMLNDSHIPPRON NINE
+COMNAVFORJAPAN
+COMPHXBGRUNESTPAC
 CNO
-CINSEVENFLT
+CONSEVENTHFLT
 CINCPACFLT
+
 UNCLAS.
 UFO
-A. CINCPACFLT INST 3820.3
+
+4. CINCPACFLT INST 382.0.3
+
 1. A. SPHERICAL
-B. WHITE
-C. LARGE
-D. TWO
-E. SMALL OBJECT ABOVE AND RIGHT OF LARGE OBJECT
-F. SMALL OBJECT VISIBLE ONLY WITH 25X TELESCOPE
+    B. PEA
+    C. WHITE
+    D. TWO
+    E. SMALL OBJECT ABOVE AND RIGHT OF LARGE OBJECT
+    F. SMALL OBJECT VISIBLE ONLY WITH 25X TELESCOPE
+
 2. A. BRIGHTNESS OF OBJECT IN SKY
-B. ELE 22 AZ 280 DEG TRUE
-C. ELE 25 AZ 150 DEG TRUE
-D. OBJECT APPEARED VICINITY ALDEBARAN, BRIGHT AS SIRIUS, OF COURSE
-APP - 10 IN DIAMETER, PASSED OVER ST CLOSE SOUTHWARD OF ORION, THEN
-APPR HALFWAY BETWEEN PROETON AND SIRIUS.
-CONTROL NO. CIRCUIT NO. PAGE OF PAGES TIME OF RECEIPT DATE TIME GROUP
-99898/JF/305 PG 1 1 2 17012/21 FEB 21 122OZ FEB 62
+    B. ELE 22 AZ 280 DEG TRUE
+    C. ELE 05 AZ 130 DEG TRUE
+    D. OBJECT APPEARED VICINITY ALPHERATZ BRIGHT AS SIRIUS, COURSE
+        APP 120 DEG TRUE. PASSED OVHD CLOSE SOUTHWARD OF CAPELLA, THEN
+        CLOSE NORTHWARD OF BETELGEUSE, THEN APPROX HALFWAY BETWEEN
+        PROCYON AND SIRIUS.
+
+[Bottom of document includes:]
+CONTROL NO. 59898/JF/JO/4
+PAGE 1 OF 2
+TIME OF RECEIPT 1701Z/21 FEB
+DATE TIME GROUP 211220Z FEB 62
+
 UNCLASSIFIED
+
 
 - page 2 -
 
-There is no photograph present in this image. This appears to be a scanned page from a Project Blue Book document containing a naval message that is unclassified.
+NAVAL MESSAGE                   UNCLASSIFIED                   NAVY DEPARTMENT
 
-E. BEYOND VISUAL RANGE
+2. BEYOND VISUAL RANGE
 F. 20 MIN
-3. A. GROUND-VISUAL
-B. BINOCULAR-25X TELESCOPE
-4. A. 5.09 LUX
-B. DUE
-6. B. W.F.S. LONGTON, LCDR, CO S.P. PASSANT INC. LTY X0 R-D. WATES LTC US GO P.H.RAMOND, OP. OFF. NAV ALT VERY RELIABLE
-7. A. SEA MODERATE. WIND 265 DEG TRUE 22 KTS. TEMP DRY GB WET 61
-C. BAR 30.73 IN.
-D. 1850 SURFACE. QVHD UN. INSTRUMENT
-F. FOUR TENTHS U AND SC TYPE CLOUDS
-11. LTJG E.L. STILLMAN, OPS OFF. EVALUATE SATELLITE SIMILAR ECHO
-SATELLITE
 
-The text in the document has been extracted and provided.
+3. A. GROUND-VISUAL
+   B. BINOCULAR-25X TELESCOPE
+
+4. A. 2109102
+   B. OUK
+
+6. B. W. F. LONGTON, LCDR, CO S. P. PASSANT INO, LT, XO R.D.
+      YATES, LTJG, OOD P.R. HAMMOND, GN2, NAV ALL VERY RED IABLE.
+
+7. A. SEA MODERATE. WIND 265 DEG TRUE 22 KTS. TEMP DRY 64 WET 61
+   C. 4000 FT
+   D. 15 MI SURFACE. OVHD UNLIMITED
+   F. FOUR TENTHS. U AND SC TYPE CLOUDS
+
+8. NONE
+
+9. NONE
+
+10. NONE
+
+11. LTJG E.L. STILLMAN, OPS OFF. EVALUATE SATELLITE SIMILAR ECHO
+    1 BALLOON
+    SATELLITE
+
+12. NONE
+
+CONTROL NO.    CIRCUIT NO.    PAGE    OF PAGES    TIME OF RECEIPT    DATE TIME GROUP
+59898                           2    2                            211220Z FEB 62
+
+UNCLASSIFIED
+
 
 - page 3 -
 

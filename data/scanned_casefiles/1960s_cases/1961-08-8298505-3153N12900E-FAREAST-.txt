@@ -1,63 +1,115 @@
-The image does not contain any photograph. It appears to be a page from a UFO report document, specifically a Project 10073 record card.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 8 AUG 61
-2. LOCATION: ALISON 129 08'E (FAR EAST)
-3. DATE-TIME GROUP: 0330Z
-4. TYPE OBSERVATION: VISUAL
-5. DURATION: 3 MIN.
-6. SHAPE: CIRCULAR
-7. LENGTH OF OBSERVATION: 3 MIN.
-8. DISTANCE: 9
-9. ELEVATION: 30 DEG.
-10. BRIEF SUMMARY OF SIGHTING: OBJECT believed to be a satellite in sight 9 min observed from 0330 to 0333Z. Disappearing in clouds at 30 deg elevation.
-11. CONCLUSIONS: A condition of the object indicated it was probably a Satellite. It is concluded that the object was probably a Satellite.
+
+1. DATE
+7 Aug 61
+
+2. LOCATION
+3153N 12900E (FAR EAST)
+
+3. DATE-TIME GROUP
+Local: 0755
+GMT: 071255Z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual   ☐ Ground-Radar
+☒ Air-Visual     ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ None
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+12 min
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+NE
+
+10. BRIEF SUMMARY OF SIGHTING
+Obj believed to be satellite. In sight 12 min observed from 50° elev 220° T.R. Disappearing in clouds at 20° elev 040° az.
+
+11. COMMENTS
+Description of obj and duration are characteristic of satellite. Echo 1. A computation of its orbit indicates it was on a NE orbit of observer's location at time of sighting. Therefore concluded that obj was probably Echo 1
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☒ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other: Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be an operational immediate message document from Project Blue Book.
+OPERATIONAL
+IMMEDIATE
 
-OPERATIONAL IMMEDIATE
-RASSA 6268006528CFF1A159 OO RJEDSQ
-ZNR 2FD RJEDFJ
-GVA1942CRGAA97T
-OO RJEDSQ
-ZNR 2FD RJHPSK
-ZGRAA5212CPBA113
-OO RJEZHO RJWFALB RJEDSQ
-DE RJAPAAK 29
+RA060
+CZCSQC50 2CFJA159
+00 RJEDSQ
+ZNR ZFD RJEDFJ
+QYA 1847CRQA0307
+00 RJEDSQ
+ZNR ZFD RJHPSX
+ZCRQA96 1ZCPR3110
+00 RJEZHQ RJWFALB RJEDSQ
+DE RJAPAAK 20
 ZNR
-0 2755747
-FM SAFOC FUCHA AS JAPAN
-TO RJHPSK/CINCPAC
-RJEZHOHO USAF
-RJWFALB/CINCNORQC
+0 0714452
+FM 5AFOC FUCHA AS JAPAN
+TO RJHPKM/CINCPAF
+RJEZHQHQ USAF
+RJWFALB/CINCNORAC
 RJEDSQ/HQ ATIC
-0 2514292
+0 051409Z
 FM HALEAKALA AE25 USN
-TO SAF FUCTU AS JAPAN
-SECSTANT OP THE NAVY
-COMICNHF PAC FLT
-COMNAVFOR JAPAN
-COHSEVFLT
+TO 5AF FUCTU AS JAPAN
+SECRETARY OF THE NAVY
+COMINCHIF PAC FLT
+COMNAVFORJAPAN
+COMSEVFLT
 COMSVC SQ 3
 COMSVC FORCE PACFT
-GS 448
-BT
+GR 48
+
+Handwritten note in the top right corner appears to say "TELEPHONED"
+
+There is also a note on the right side of the document that appears to say "1 (NEW) x new"
+
+The document is dated 1961 AUG 7 and has a time stamp of 21 26
+
+There is also a note "SUSPECTED DUPLICATE OF MESSAGE PREVIOUSLY RELEASED, CHECK BEFORE TAKING ACTION."
+
 
 - page 2 -
 
-The image does not contain a photograph. It appears to be a typed document describing a UFO sighting.
+UNCLAS
 
-UNGLAS
-UFO 1.- SIGHTED UFO BELIEVED TO BE SATELLITE AT 0712552 APPEARANCE 
-IDENTIFIED BY SUPERIOR BRILLIANCE.
-2. MY POSIT 31.93 N 129.OE
-3. OBJECT APPEARED IN SY AZIMUTH 223 DEG TRUE POSIT ANGLE 52 DEG.
-DISAPPEARED BEHIND LOW CLOUDS POSIT ANGLE 20 DEG. AZIMUTH 034 
-DEG TRUE AT 0713072.
+UFO 1. SIGHTED UFO BELIEVED TO BE SATELLITE AT 071255Z APPEARANCE
+   IDENTIFIED BY SUPERIOR BRILLIANCE.
+
+2. MY POSIT 31.53 N 129.0E
+
+3. OBJECT APPEARED IN SW AZIMUTH 220 DEG TRUE POSIT ANGLE 50 DEG,
+   DISAPPEARED BEHIND LOW CLOUDS POSIT ANGLE 20 DEG, AZIMUTH 040
+   DEG TRUE AT 071307Z.
+
 BT
-27/14312
+07/1431Z
+
 
 - page 3 -
 

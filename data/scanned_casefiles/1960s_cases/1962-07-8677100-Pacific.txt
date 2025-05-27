@@ -1,74 +1,151 @@
-The image does not contain any photograph, it appears to be a Project 10073 Record Card from Project Blue Book, which was the United States Air Force's study of unidentified flying objects.
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
+5 Jul 62
+
 2. LOCATION
-12. CONCLUSIONS
+Pacific
+
 3. DATE-TIME GROUP
-O Visual
-We believe: Possibly Balloon
-4. DURATION
-D Aer-Visual
-Possibly Aircraft
+Local 08/3502
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
 5. PHOTOS
-SOURCE
-Possibly Air-Intercept Radar
-D Ground-Radar
-Possibly Astronomical
-D Air-Intercept Radar
+☐ Yes
+☒ No
+
+6. SOURCE
+USS Navy
+
 7. LENGTH OF OBSERVATION
+1 min
+
 8. NUMBER OF OBJECTS
+1
+
 9. COURSE
-Confirmed as for Calibration
+Unknown
+
 10. BRIEF SUMMARY OF SIGHTING
+At 13° 15' N, 171° 15' W, sighted at 2015Z. Appeared as a bright white light moving at high speed along the horizon. No additional details.
+
 11. COMMENTS
-The text in the image appears to be a detailed report form with various fields filled out, including the date, location, duration, photos, length of observation, number of objects, course, and a brief summary of the sighting, as well as the conclusions drawn, such as the object possibly being a balloon, aircraft, or astronomical in nature.
+Insufficient data not available, however characteristics of sighting indicates satellite observation.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Possibly Balloon
+☐ Probably Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other... Satellite
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 28 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a scanned page of a naval message, specifically from a Project Blue Book document.
+NAVAL MESSAGE                   UNCLASSIFIED                   NAVY DEPARTMENT
 
-NAVAL MESSAGE UNCLASSIFIED NAVY DEPARTMENT
-PRIORITY RELEASED BY: AP IN: 35045 (6 JUL 62)
-ORIGINATED: DRAFTED BY: HO/dd
-FRO/M USS FALOUT EXT. NO.
-TO RUNLUN /CINCPACAF HICKAM
-INFO BUEWC/CNO
-RUDPP/CI NCPACFLT RON
-RUNLKSD/CINFO-S
-RUNPOW/CTIC 5.3.7
-RUNPOW/CG
-RUNPAC/CONDESRTRON FIVE
-UNELAS
-A. CINCPACFLT INST 3361.3-, NON
-B. CINCPACFLT INST 3326.3, APO
-1. UFO FLO LAX ENCL : REF B.
-2. FIRST MAGNITUDE STAR. SIZE OF ARCHTU.
-3. DXME.
-4. A. MOVEMENT...
-B. PROGRESS W
-C. COURSE NORTHEAST
-D. APPEARED ON NE HORIZON
-5. VISUAL
-9. SECEAV UNSEEN AV ASTSECNAV(RED) 29
-FLAGPLAT BPR CMC JCS CSA (ESF) CIA NIC CDGARD
-CONTROL NR 222/A CIRCUIT NR PAGE PAGES TIME OF RECEIPT 29 JUL 62
-DATE TIME GROUP
-2-622-16 22-36 6 2-622-26 JUL 62
+PRECEDENCE:                                                             EXT. NO.
+ROUTINE                                 AF IN: 35045 (6 Jul 62)         HO/ab
+
+AP DIST: CIN-14, OOP-2, OOP-CP-1, SAPS-3
+                                         DIA-8
+                                                 (28)
+P R #6981.4Z
+FM USS FALGOUT
+TO RUHLKN/CINCPACAF HICKAM
+
+INFO RUECW/CNO
+RUHPX/CINCPACFLT
+RUHPXH/COMHAWSEAFRON
+RUHLKSD/CJTF 8
+RUHPX/CJTG 8.3
+RUHPX/CJTF 8.3.7
+RUHPX/CJTF 3.3.7.1
+RUHPX/CONDESSFLOTFIVE
+RUHPQ/COMCORTRON FIVE
+
+UNCLAS
+
+A. CINCPACFLT INST 3356.1.3A NOTAL
+B. CINCPACFLT INST 3824.3 NOTAL
+
+1. UFO FLO TAW ENCL : REF B.
+   A. ROUND
+   B. FIRST MAGNITUDE STAR. SIZE OF ARCTURUS.
+   C. WHITE
+   D. ONE
+
+2. A. MOVEMENT IN RELATION TO STAR.
+   B. 50 DEGREES 132T
+   C. 4 DEGREES 935T
+   D. COURSE NORTH NORTHEAST
+   E. DISAPPEARED ON HORIZON
+   F. THIRTEEN MINUTES
+
+3. A. VISUAL
+   B. NONE
+
+92     COG
+SECNAV   UNSECNAV   ASTSECNAV(R&D)   00   09   098   09M   09D   03
+33      34    35    05   06   07   72   75   76   94   1P   NAVAIDE
+FLAGPLOT   BFR   CMC   JCS   CSA   CSAF   CIA   NIC   COGARD
+
+CONTROL NO.                                      TIME OF RECEIPT         DATE TIME GROUP
+5224K/PG/PC/4     CIRCUIT NO. B08S   PAGE 1 OF 2   08:322 26 JUL         26061.4Z JUL 52
+
 UNCLASSIFIED
+
 
 - page 2 -
 
-There is no photograph present in this image. This appears to be a scanned document from the Project Blue Book UFO report, specifically a naval message.
+NAVAL MESSAGE                UNCLASSIFIED                NAVY DEPARTMENT
 
-NAVAL MESSAGE
+4. A. 9525327
+5. A. MOONLIGHT NIGHT SKY THREE TENTHS CLOUD COVERAGE
+
+5. A. BRIDGE OF SHIP CTGU 8.3.7 OPPO 1-S2 ANNEX A POSIT
+FOXROT MIKE ZERO ZERO FIVE SL AN7 ZERO SIX ONE
+
+6. SIGHTED BY LOOKOUTS AND OOD. CONFIRMED BY COMMANDING
+OFF AND NAVIGATOR COMPLETELY RELIABLE
+
+7. A. BRIGHT MOONLIT NIGHT
+   B. NEG
+   C. UNL
+   D. TEN MILES
+   E. THREE TENTHS
+   F. NEG
+
+8. NONE
+
+9. NEG
+
+10. NONE HELD ON RADAR
+
+11. COMMANDING OFFICER. ALL PERS INVOLVED HAVE
+    PERV SIGHTED SATELLITES.
+
+12. NEG
+
+CONTROL NO.                                                    DATE TIME GROUP
+522W6                                                          060614Z JUL 62
+
 UNCLASSIFIED
-NAVY DEPARTMENT
 
-CONTROL NO.    CIRCUIT NO.      PAGE OF PAGES     TIME OF RECEIPT      DATE TIME GROUP
-52.26.56        2                2      2          26 05 14Z         JUL 62
+OPNAV FORM 2110-338 (REV. 1-62)
 
-UNCLASSIFIED
 
 - page 3 -
 

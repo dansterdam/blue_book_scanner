@@ -1,67 +1,92 @@
-The image does not contain any photographs. It appears to be a page from a report or document related to Project Blue Book, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs).
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
 18 March 1963
+
 2. LOCATION
-17 55N 67 40W (San Juan, Puerto Rico)
-3. SHAPE
-Unknown
-4. TYPE OBSERVED
+17.55N 57.40W (San Juan, Puerto Rico)
+
+3. DATE-TIME GROUP
+Local: 19/0140Z
+
+4. TYPE OF OBSERVATION
 Ground-Visual
-5. DURATION
-Unknown
-6. AZIMUTH AND ELEVATION
-Unknown
+
+5. PHOTOS
+No
+
+6. SOURCE
+MERRIT rpt to Coast Guard
+fm SS Plainsman
+
 7. LENGTH OF OBSERVATION
-Unknown
+Not reported
+
 8. NUMBER OF OBJECTS
 One
-9. COURSE
-fell into water
-10. BRIEF SUMMARY OF SIGHTING
-Unknown obj exploded in sky. Additional explosion on surface of water - no additional information received.
-12. CONCLUSIONS
-Was balloon
-Probably balloon
-Possibly Aircraft
-Probably Aircraft
-Possibly Astronomical
-Definitely Astronomical
-Other
+
+9. BRIEF SUMMARY OF SIGHTING
+Unknown obj exploded in sky. Additional explosion of obj on striking water. Reporting vessel searching area. No additional information received.
+
+10. COMMENTS
+Results of search not received, No evaluation. Insufficient data for analysis.
+
+11. CONCLUSIONS
+[Checkboxes include: Was Balloon, Probably Balloon, Possibly Balloon, Was Aircraft, Probably Aircraft, Possibly Aircraft, Was Astronomical, Probably Astronomical, Possibly Astronomical, Other, Insufficient Date for Evaluation, Unknown]
+With "Unknown" checkbox marked.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document, which is an official government program that investigated unidentified flying objects (UFOs) in the United States.
+UNCLASSIFIED
 
-Text from the document:
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
 
-AP IN: 54935 (19 MAR 63) A/SLD
-ACTION: MIN-9
-INFO : XOP-1, XOFX-4, SAPOS-3, ARMY-2, CMO-7, JCS-35, DIA-20, DIA-CIIG-2, OSD-13, NSA-7, CIA-11 (129)
-SMB DSS OPS DIV 
-HSAI9526UJALI7
-PATTY BUREAU
-P 1 
-F 53339298
-FD COMCARIBSEAFRON
-R 191927Z MAR 63
-TO COMCARIBSEAFRON
-RUEGUI/COMDT USNR REZ LNT PLD
-RUEOKM/COMCOASTA REG SAN JUAN
-RUEKMFT/CO ANTILANTPLT
-RUEKMG/52ND BORDER WING RAMEY AFB ATTN CHIEF INTEL
-FM COMCARIBSEAFRON 
-TO COMCARIBSEAFRON
+AF IN: 54935 (19 Mar 63) A/eld
+
+ACTION: NIN-9
+
+INFO : XOP-1, XOPX-4, SAROS-3, ARMY-2, CMC-7, JCS-35, DIA-20, DIA-CIIC-2, 
+OSD-13, NSA-7, CIA-11 (118)
+
+SMB D 089 C
+HQA105ZCUJA117
+*** YY RUEAHG
+DE RULGN 009
+Y 1963307
+FM COMCARIBSEAFRON
+TO RUWGALE/CINCNORAD
+RUEAHG/COFS USAF
+RUCKDT/COMASWFORLANT
+RUECW/CNO
+RUCKHC/CINCLANTFLT
+RUGA/72ND BOMBER WING RAKEY AFB ATTN CHIEF INTEL
+I
+YW19043Z
+FM COMGANTS
+TO COMCARIBSEAFRON:
+BT
 MERINT
-FOLLOWING RECEIVED FROM SS PLAINSMAN QUOTE
-GOV PLAINSMAN 1 23 18 2332Z
+FOLLOWING RECEIVED FROM SS PS PLAINSMAN QUOTE
+GOVE PLAINSMAN 1 25 19 0200Z
 US COAST GUARD SANJUAN
-AT 2149Z 19TH UNKNOWN OBJECT EXPLODED IN SKY. FURTHER EXPLOSION ON STRIKING WATER 17.53N 57-40W. AM SEARCHING AREA. SGD MASTER UNQUOTE
-C VA QUOTE GOVT
-NOTE: ADV CY TO XOPX, NIN AND DIA
-AFHQ FORM 0-309a
+BT
+AT 0140Z 19TH UNKNOWN OBJECT EXPLODED IN SKY. FURTHER
+EXPLOSION ON STRIKING WATER 17.55N 57-40W. AM SEARCHING
+AREA. SGD MASTER UNQUOTE
+BT
+C WA QUOTE GOVT
+NOTE: ADV CY TO XOPX, NIN AND DIA.
+UNCLASSIFIED
+
+AFHQ FORM, 0-309a
+PREVIOUS EDITIONS OF THIS FORM
 MAY BE USED.
+
 
 - page 2 -
 

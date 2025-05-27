@@ -1,38 +1,81 @@
-There is no photograph present in this image. This appears to be a page from a Project Blue Book record card.
+PROJECT 1073 RECORD CARD
 
-OUTPUT OF TEXT FROM THE DOCUMENT:
+1. DATE
+3 January 1960
 
-PROJECT 10073 RECORD CARD
-1. DATE: 2 January 1960
-2. LOCATION: Norman Mesa, Nevada
-3. DATE-TIME GROUP: 0630
-4. TYPE OF OBSERVATION: O Ground-Radar
-5. PHOTOS: O Civilian
-6. NUMBER OF OBJECTS: One
-7. LENGTH OF OBSERVATION: 5 Seconds (max)
-8. COURSE: SW
-9. COMMENTS: Description is typical of many sightings observed at 20-25,000 feet altitude. No radar or visual contact.
-United Airlines, T.C.A.
+2. LOCATION
+Norman Mesa, Nevada
+
+3. DATE-TIME GROUP
+Local 0530Z
+GMT 0530Z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual
+☑ Air-Visual
+
+☐ Ground-Radar
+☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☑ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+5 Seconds Max
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+SW
+
+10. BRIEF SUMMARY OF SIGHTING
+"Ina any yellow flame, appearing as a missile of some sort. Observed at 20-25,000 feet at disappears at same altitude. No radar pickup."
+
+11. COMMENTS
+Description is typical of a meteor.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+United Airlines, TWA.
+
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
-There is no photograph present in this image. The image appears to be a scanned document from Project Blue Book, containing text describing an observed UFO incident.
+RC007
+CZCSQAS292CQYA321
+OO RJEDSQ
+DE ROWZBG GSA
+O 040656Z
+FM 1962 AACRON
+TO RJWFAL/ADC EN AFB
+RJWZSE/28 AIRDIV HAMILTON AFB
+RJEDSQ/AIC WRIGHT PATTERSON AFB
+RJEZHA/COFS USAF WASHDC
+ET
+UNCLAS FROM FLT SVC CITE 01 ACTION ADC 25 AD ATIC AFCIN AFOIS UFO
 
-OPERATIONAL IMME 
-GC300A893200YA321
-CO R-JEDS3
-DE R042S6 63A
-0 04055CZ 
-FM 1902 AACSON
-TO RJJFAL/AB EN AFB
-RJJFAL/2Z AIRDY HAMILTON AFB
-RJEDSQ/ATC WRIGHT PATTERSON AFB
-RJEZH/COPS USAF WASHDC
-BT
-UNCLAS FROM FLT SVC CITE 01 ACTION ADC 28 AD ATIC AFCIN AFOIS
+A.
 (1) NOT VISIBLE
 (2) NOT VISIBLE
-(3) BLUE FLAME AND BRIGHT YELLOW FLAME 
+(3) BLUE FLAME AND BRIGHT YELLOW FLAME
 (4) WO
 (5) NONE APPARENT
 (6) NONE
@@ -41,105 +84,152 @@ UNCLAS FROM FLT SVC CITE 01 ACTION ADC 28 AD ATIC AFCIN AFOIS
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, with text describing a UFO sighting.
+PAGE TWO ROWZG 63A
 
-PAGE TWO ROW 25G 65A
-(1) APPEARED LIKE A MISSILE OF SOME SORT
-S.
+(9) APPEARED LIKE A MISSILE OF SOME SORT
+E.
+
 (1) BRIGHT FLAME
 (2) 20 TO 25,000 FT LEVEL
 (3) SAME
 (4) SOUTHWEST DIRECTION STEADY FAST MOVING
 (5) SOUTHWEST VERY RAPIDLY
 (6) ABOUT SECONDS
+
 C.
-(1) TWO CIVIL AIRLINES SPOTTED WHILE AIRBORNE RADAR SITE SHORT UNABLE TO PICK-UP
+
+(1) TWO CIVIL AIRLINES SPOTTED WHILE AIRBORNE RADAR SITE SHOWORN
+UNABLE TO PICK-UP
 (2) NONE USED
-(3) UNITED AIRLINES FLIGHT 140 TO DENVER AT 17,000 FT TRANSGO# AIRLINES FLIGHT 207 TO LAS VEGAS NEVADA AT 15,000 FT
+(3) UNITED AIRLINES FLIGHT 140 TO DENVER AT 17,000 FT TRANSWORLD
+AIRLINES FLIGHT 207 TO LAS VEGAS NEVADA AT 13,000 FT
+
 D.
-(1) 053027 4 JAN 60
+
+(1) 0530Z 4 JAN 60
 (2) NIGHT
+
 E.
+
 OVER MORMON MESA NEVADA
+
 F.
-(1) PILOT CREW AND PASSENGERS ABOARD UNITED AIRLINES FLIGHT 140
+
+(1) PILOT CREW AND PASSENGERS ABOARD UNITED AIRLINES FLIGHT 140 TO
 
 - page 3 -
 
-There is no photograph present in this image. The image appears to be a page from an old UFO report document from Project Blue Book.
-
-PAGE THREE ROWZEG 63A
+PAGE THREE ROWZBG 63A
 DENVER AND TWA FLIGHT 207 TO LAS
-(2) NONE 
+
+(2) NONE
+
 C.
-(1) SCATTERED MIDDLE LAYER CLOUDS AROUND 12000 FT UNLIMITED V
-(2) CAN AT 20K 350 DEGREES AT 18K, 020 DEGREES AT 20K
-260 AT 20K 24ODEGREES AT 35K 260 DEGREES AT 60K
+(1) SCATTERED MIDDLE LAYER CLOUDS AROUND 12000 FT UNLIMITED VSBY
+(2)N AT 20% 350 DEGREES AT 15K 020 DEGREES AT 20K
+360 AT 20% 240DEGREES AT 35K 260 DEGREES AT 60K
 260 DEGREES AT 40K UNKNOWN
-(3) NONE 
+
+(3) NONE
+
 (4) UNLIMITED
+
 (5) APPROX 3/10 AT 12000 FT MSL
+
 (6) NONE
-H. 
+
+H.
 NONE
+
 I.
 NONE
+
 J.
 NONE ON FLIGHT SERVICE BOARD OR LOCAL FROM SURROUNDING BASES
+
 K.
 FLIGHT SERVICE CLEARANCE OFFICER HAMILTON FLIGHT SERVICE
-CENTER 1952ND AACS SQ HAMILTON AFB CALIF UNKNOWN OBJECT
+CENTER 1902ND AACS SQ HAMILTON AFB CALIF UNKNOWN OBJECT
+
 L.
 NONE
+
 BT
-04/071937 JAN ROWZEG
+04/0715Z JAN ROWZBG
 
 - page 4 -
 
-There is no photograph or image present in this document. The document appears to be a Joint Messaggeform, which is a form used for communication purposes.
+Here is the text from the document:
 
-JOINT MESSAGGEFORM 
+JOINT MESSAGEFORM
 
-SUBJECT: 2425-C
-FROM: USAF, LU2C, LAS VEGAS AERO CLUB
-TO: CADI, LV ALTO
-INFORMATION ASSIST. AGEN: 1-12-6
-MITH 19628 AMERICAN SOUTH, BLACK BACK-UP 01 HRS CO FOR 0212 HAD GOOD CLARITY SEE FOLLOWING DETAIL IT WHAT ME ECTION THAT HAS GET OUT WHICH IS NOT AN LAST CLIENT NOW lOOH WAS QUITE WHAT WAS THE CONCERN OF INTEREST AEY OR UNCH AS CAME WITH THE ALUM ORGANIZATION, AS HANDLED, FOR THIS QUESTION OF ASTRONOMICAL PILULARIA WHICH MAY INDICATE FOR THIS SIGHTING.
+SECURITY CLASSIFICATION: UNCLASSIFIED
+
+ACTION: MULTIPLE
+TYPE MSG (Check): BOOK [X] MULTI [ ] SINGLE [X]
+
+TO: AFOSR, -AF ASD
+HAMILTON AFB, CALIF.
+
+FROM/PARA: AFCIN-142 1-123-E
+
+ACTN 19620 INCOMING, YOUR MSG 01 DEC A JAN 60, AF FILE NO. 740.125
+
+FOLLOWING INFO: IS SAT DETECTION WAS NOT OUT WHEN FIRST AND LAST
+SEEN? HOW LONG WAS OBJ VISIBLE? WHAT WAS THE COURSE OF TURNING?
+REQ A CHECK BE MADE WITH THE LION OBSERVATORY, AF HAMILTON, FOR THE
+PRECISE OF ASTRONOMICAL PHENOMENA WHICH MAY ACCOUNT FOR THIS
+SIGHTING.
+
+DATE: 11 JAN 1960
+TIME: 1255
+
+DD FORM 173 (bottom of form)
 
 - page 5 -
 
-The image does not contain any photographs. It appears to be a typed document or report page.
+1960 JAN 19 05 34
 
-1960 JAN 19 06 34
-APENDIXREPORT OF UNIDENTIFIED FLYING OBJECT
-FILE NO.
-TO:
-ATIC
-IT
-WOULD APPRECIATE MILITARY
-WOULD NIOT BE AVAILABLE. IN PILOT REPORT SAID HE WOULD NOT PROVIDE INFORMATION
-BECAUSE HE DOES NOT WISH TO HAVE PUBLICITY IT
-WOULD POSSIBLY ATTRACT. CLAIMS HE WAS ASKED BY HIS SUPERIORS NOT TO GIVE ANY DETAILS. PILOT APPARENTLY DID NOT WANT TO GO ON RECORD WITH FULL FACTS.
+[The rest of the text is partially illegible, but I can make out some fragments:]
+
+PILOT ABOUT DURATION OF ... TOP SPEED TO DETERMINE AZIMUTH AND
+ELEVATION, FURTHER, WOULD NOT PROVIDE INFO WHEN QUERIED AFTER
+LANDING. BUT NO ... OF FIVE SECONDS, WEST TO ... USING
+MILITARY POLICE GOLF FOUR TOWER FOUR SEVEN, OUR NO. 30. APPLI-
+CAN, LACK OF NOTATION, ABLE TO OBTAIN ACCORDING. DECLASSIFIC
+VERY PROBABLY THAT OF INTEREST. LOCAL AND DETAIL DECLASSIFIED
+
+[Some words and phrases are not clearly readable due to the image quality]
 
 - page 6 -
 
-The image does not contain a photograph. It appears to be a report or analysis document from Project Blue Book regarding a UFO sighting.
+UFO ANALYSIS SHEET
 
-U-O ANALYSIS SHEET
-Location: Over Norman mesa, Nevada
-Date: 4 January 60
-Time: 0312
-Wx: Vis: unlit at altitude, wind 0 - 20 knots at altitude
-Description: Blue and bright yellow flame, appeared like a "missile" first seen at 20 to 22,000 ft level and disappear at same altitude
+Location: Over Norman Mesa, Nevada
+Date: 4 January 60         Hour (2) 0930
+
+WX Vis. unlin at altitude, winds North @ 20 knots at altitude of 4,000
+
+Description: Blue and bright yellow flame, appeared like a missile of some sort, first seen at 20 to 25,000 ft level and disap at same altitude.
+
 Direction of Motion: SW
-Satellites: (AGEIN-1F5, phone 65215) - Checked
-Astronomical Phenomena (meteor, comet, planet, etc): Probably
-Radar Analysis (AGIN-RI): N/A
-Natural Phenomena (Ball Lightning, etc): 
-Aircraft, Balloons, Airships, etc: Object moving much too fast
-Other:
-Evaluation of Source Reliability: Probably very good.
-Analysis and Conclusions: Agrees with Mr. Biddlman of ATIC. Object probably a meteor.
+Satellite: (AFCIN-4F3, Phone 69219)     Checked
+
+Astronomical Phenomena (Meteor, Comet, Planet, etc.)    Probably meteor
+
+Radar Analysis (AFCIN-4E1)    N/A
+
+Natural Phenomena (Ball Lightning, etc.)
+
+Aircraft, Balloons, Airships, etc.    Object moving much too fast.
+
+Other
+
+Evaluation of Source Reliability:    Probably very good.
+
+Analysis and Conclusions:    Agree with Dr. Bidelman of Lick Observatory - Object probably a meteor.
+
+[Signature at bottom of page]
 
 - page 7 -
 

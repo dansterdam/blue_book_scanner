@@ -1,39 +1,111 @@
-There is no photograph present in this image. It appears to be a page from a Project Blue Book record card containing textual information.
+Here is the text from the document:
 
 PROJECT 10073 RECORD CARD
-1. DATE: 13 Feb 61
-3. DATE-TIME GROUP: 1810132
-6. TYPE: RADAR/VISUAL
-7. LENGTH OF OBSERVATION: 2 min
-10. BRIEF SUMMARY OF SIGHTING: Object appeared to be approaching at much higher altitude in sight.
-11. COMMENTS: Insufficient information. No color, elevation, change of direction, etc., yet object viewed for almost 30 min.
+
+1. DATE
+18 Feb 61
+
+2. LOCATION
+San Juan, Puerto Rico
+
+3. DATE-TIME GROUP
+Local: 1810132
+GMT: ________
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual
+☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+28 min.
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+_________
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Possibly Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Possibly Astronomical
+☒ Other: Insufficient Data for Evaluation
+☐ Unknown
+
+10. BRIEF SUMMARY: Sighting A/C enroute Miami to San Juan observed obj approaching A/C or stationary at much higher altitude in sight 1013-1042.
+
+11. COMMENTS: Insufficient information. No color, elevation, manner of disappearance, etc., yet obj viewed for almost 30 min.
+
+ATIC FORM 329 (REV 28 SEP 59)
+
 
 - page 1 -
 
-There is no photograph present in this image. It appears to be a document from the Department of the Air Force containing an "INCOMING" message.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+(UNCLASSIFIED MESSAGE)
 
-AP IN : 23050 (18 FEB 61) V/GD
-ACTION : CIN-14
-INFO : OOP-2, OOP-GP-1, SAFS-3 (23)
-M-1 179
-CZ CHGCI3/CZBA233
-YY RJEZHO
-DE RBEJU 199 
+INCOMING
+
+AF IN : 23050 (18 Feb 61) V/ogd
+
+ACTION: CIN-14
+
+INFO : OOP-2, OOP-CP-1, SAFS-3 (23)
+
+SWD C/ 170
+
+CZCHOOC138ZCBJA233
+***** RJEZHQ
+
+DE RBEJC 109
+
 ZNR
-Y 181045Z
-FM COMCARIBSEAFRON
-TO RBEKHO/CINCONAPT LT
-RJWFALA/ CINCNORAD
-RJEZKH/ COFS USAF
-RBERW/ CNO
-NAVY GRNO 
-BY UNCLAS. FOL RCVD FROM AGPT IN FLT VIA FAA SAN JUAN INTL AIRPORT:
-501 DCA MIAMI YANKEE ROUTE AT 181015Z 9-000 FT EST IDAHO AT 
-181241Z VERY BRIGHT OBJECT MUCH HIGHER ALT MOVING TOWARD HIM
+
+Y 181048Z
+
+FM COMCAIBSEAFRON
+
+TO RBEKHC/CINCLANTFLT
+
+RJWFAL3/ CINCNORAD
+
+RJEZHQ/COFS USAF
+
+R3EPW/CNO
+
+NAVY GRNC
+
+BT
+
+UNCLAS. FOL RCVD FROM ACFT IN FLT VIA FAA SAN JUAN INTL AIRPORT.
+
+301 DC4 MIAMI YANKEE ROUTE AT 181013Z 9.000 FT EST IDAHO AT
+
+181041Z VERY BRIGHT OBJECT MUCH HIGHER ALT MOVING TOWARD HIM
+
 130 DEG OR STANDING STILL
-CFN 301 DC4 181013Z 9.000 181241Z 130
-18/1845Z
-NOTES: ADVANCE COPY DEL TO CIN (21/1232 FEB 61).
+
+BT
+
+CFN 301 DC4 181013Z 9.000 181041Z 130
+
+13/1043Z
+
+NOTE: Advance copy del to CIN (1811282 Feb 61).
+
 
 - page 2 -
 

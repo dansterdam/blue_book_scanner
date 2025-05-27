@@ -1,528 +1,776 @@
-The provided image does not contain any photograph. It appears to be a page from a Project Blue Book UFO report document, specifically the "PROJECT 10073 RECORD CARD".
+PROJECT 10073 RECORD CARD
 
-Performing OCR on the text in the document:
+1. DATE
+April 5-10, 1962
 
-APRIL 6-10, 1962
 2. LOCATION
-Southern Hem.
-3. DATE-TIME GROUP
+Northern Hems.
+
+3. DATE/TIME GROUP
+Local
+GMT
+
 4. TYPE OF OBSERVATION
-Ground-Visual and
-Air-Visual
-5. SOURCE
+☑ Ground-Visual
+☐ Air-Visual
+☐ Ground-Radar
+☐ Air-Interceptor Radar
+
+5. PHOTOS
+☐ Yes
+☑ No
+
+6. SOURCE
 Military and Civilian
-6. NUMBER OF OBJECTS 
-7 COURSE
+
 7. LENGTH OF OBSERVATION
-2-3 min.
-8. NUMBER OF OBJECTS 7 COURSE
+Instant
+
+8. NUMBER OF OBJECTS
+1 Course
+
 9. BRIEF SUMMARY OF SIGHTING
-Tracks with no apparent movement. Plane or ball evidence.
+Multiple reports of light streak with no apparent movement. Plume or tail evident.
+
 10. COMMENTS
-Considered to be the obj. of these reports.
+Comet Seki-Iline. Considered to be the obj. of these reports.
+
+11. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☑ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
 
-SIGHTING THEORY (10 APR 62) C/O 
-ACTION: CIN-17
-LIGO : ANLSP-NAVE-2, CMC-7, JCS-35.
-EIPCDU
-EYTIAU ANCNPEVCZCHGA947ZCGJA4621
-..... YY RJEZH0
+SMB C 072
+
+IN ROUTING: 145059 (10 Apr 62) C/crp
+ACTION: CGN-17
+INFO: ARMX-2, NAVY-2, GMC-7, JCS-35,
+       OSD-15, NSA-7, CTA-1L, OOP-2,
+       OOP-CP-1, DIA-2, SAPS-3 (105)
+
+IEICADU
+
+EYTIAU ANCNPEVCZCHQSA97ZCGJAA62
+
+.....YY RJEZHO
+
 DE ROWZAW 164
 ZNR
-Y 1223322
-FM ES2/AF12
-TO RCWNG/CANFLAGPAC ESQUIMALT BC
-RFEMSFS/CANAIRUEF ST HUBERT QUE
-RPWPG/COMWESTERNSEAFRON SANFRAN CALIF
-RJEZH2/COPS USAF WASH DC
-RIV/FALL/CINCNORAD ENT AFB COLO
-RUNZ8B/COMDR 28TH AD1V SAGE HAMILTON AFB CALIF
-AFGRNC
-BT 
+Y 103532Z
+FM E52/AF12
+
+TO RCWNC/CANFLAGPAC ESSUINALT BC
+KFGMGP3/CANAIRDEF ST HUBERT QUE
+FSWPP3/COMWESTERNSEAFRON SANFRAN CALIF
+RJEZH4/CJCS USAF WASH DC
+RJWFAL3/CINCNORAD ENT AFB COLO
+RJWZSB/COMDR 28TH ADIV SAGE HAMILTON AFB CALIF
+AFGRMC
+BT
+
 CIRVIS REPORT
-SIGHTED LIGHT STREAK IN AKY RESEMBLING COMET VISIBLE AT 2442Z
-HAVE IN RANGE IS VISIBLE AT THIS TIME TRUE BEARING 330 DEGREES DOES N9 
+SIGHTED LIGHT STREAK IN SKY RESEMBLING COMET VISIBLE AT 0440Z
+WAVE IN RANGE IS VISIBLE AT THIS TIME TRUE BEARING 300 DEGREES DOES NOT
 APPEAR TO BE MOVING IN ANY DIRECTION APEX TOWARD THE HORIZON TAIL POINT
 IN UP APEX IS 5 DEGREES 10 MINUTES ABOVE HORIZON TAIL DEGREES 23
-MINUTES ABOVE HORIZON AT 0302Z 
+MINUTES ABOVE HORIZON AT 0500Z
 BT
-10/83/32Z APR ROWZAW NOTE: Advance copy delivered to CIN and COP-OP.
+
+10/0540Z APR ROWZAW     NOTE: Advance copy delivered to CGN and OOP-OP.
+
 
 - page 2 -
 
-The image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book.
-
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
+DECLASSIFIED MESSAGE
+
 INCOMING
 
-AT IN: 46106 (10 APR 62) 
-N/JIT
-ACTION: CHIL-7, NAVY-2, CMC-7, JCS-35, OSD-15, NSA-7, CTA-11, OOP-2, INFO: DIA-2, COP-GP-1, STATE-3 (165) 
-STE C 227
-IF RSEUF 232
-ZNR
-Y 10234 IZ
-FM COMEASTAREA 
-TO RJZKHG/CINCLANTFLT
-RJWFAL/CINCRRAD
-RJZKHQ/VCOFS USAF
-RJZKDT/COMASWFORLANT
-RJFGLH/COMEASTSEAFRON
-RCEHM/CANCOMARLANT
-JFENG/CANADEF
-RJWFHW/THREE TWO NORAD DIV
-RJEZSIN/TWO SIX NORAD DIV
-INFO RJEPJD/COMDT COGARD
+AF IN : 46106 (10 Apr 62)                N/jlt
 
-Y 10231SZ
+ACTION: CIN-17
+INFO : ARMY-2, NAVY-2, CMC-7, JCS-35, OSD-15, NSA-7, CTA-11, OOP-2,
+        DIA-2, OOP-CP-1, SAPS-3 (105)
+
+SWB C 207
+PE REGUF 202
+
+ZNR
+
+Y 102341Z
+
+FM COMBASTAREA
+TO RBEXHC/CINCLANTFLT
+    RJWFALB/CINCNORAD
+    RJEZHQ/VCOFS USAF
+    RBXKDT/COMASWFORLANT
+    RBEGUH/COMEASTSEAFRON
+    PCEHM/CANCOMARIANT
+    PFMC/CANA IRDEF
+    RJWFHW/THREE TWO NORAD DIV
+    RJEZSN/TWO SIX NORAD DIV
+INFO RBFPJD/COMDT COGARD
+
+Y 102315Z
+
 FM OS ECHO
-TO COMEASTAREA
-LSCC GR15 
-EX
+TO COMBASTAREA
+
+USCG GRIS
+
+BT
+
 INCLAS
-RERINT
-COMET-LIKE OBJECT SIGHTED 122232Z BEARING 299 DEGREES TRUE. 
-POSITION ANGLE IS 5 DEGREES. NO APPARENT MOVEMENT.
-ADV CYS GEN TO CIN & COG-CP.
+
+MERINT
+
+COMET-LIKE OBJECT SIGHTED 102230Z BEARING 290 DEGREES TRUE.
+POSITION ANGLE 15 DEGREES. NO APPARENT MOVEMENT
+PT Adv cys del to CIN & OOP-CP.
+
 
 - page 3 -
 
-There is no photograph present in this image. It appears to be a U.S. Air Force Technical Information Sheet, likely part of a UFO report document from Project Blue Book.
-
 U.S. AIR FORCE TECHNICAL INFORMATION SHEET
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission.
-1. When did you see the object? 7 Apr 62 
-2. Time of day: 1945 - 1946 EST
-3. Time Zone: (Circle One): a. Eastern b. Central c. Mountain d. Pacific e. Other
-4. Where were you when you saw the object? Elmont, N.Y. T-35 from 26-27 ft.
-5.1 How long was object in sight? 1 Minutes Seconds
-5.2 How was time in sight determined? (Circle One): a. Certain b. Fairly certain c. Not very sure d. Just a guess
-6. What was the condition of the sky? a. DAY: Bright b. NIGHT: Clear
-7. If you saw the object during DAYLIGHT, where was the SUN located as you looked at the object? (Circle One): a. In front of you b. In back of you c. To your right d. To your left e. Overhead f. Don't remember
+
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information so that, if it is deemed necessary, we may contact you for further details.
+
+1. When did you see the object?
+9 Apr 62
+
+2. Time of day: 1915-2120 EST
+(Circle One): A.M. or P.M.
+
+3. Time Zone:
+(Circle One): a. Eastern
+b. Central
+c. Mountain
+d. Pacific
+e. Other
+
+(Circle One): a. Daylight Saving
+b. Standard
+
+4. Where were you when you saw the object?
+Near Mt. Vernon, Ohio
+Nearest Postal Address           City or Town                State or Country    T-33 from 26-28N feet
+
+Additional remarks:
+
+5. How long was object in sight?
+                Hours           Minutes           Seconds
+
+5.1 How was time in sight determined?
+a. Certain
+b. Fairly certain
+
+c. Not very sure
+d. Just a guess
+
+6. What was the condition of the sky?
+DAY                                NIGHT
+a. Bright                          a. Bright
+b. Cloudy                          b. Cloudy
+
+7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object?
+(Circle One): a. In front of you            d. To your left
+b. In back of you             e. Overhead
+c. To your right              f. Don't remember
+
+FORM
+FTD JUL 61 164     This form supersedes ATIC 164, Feb 60, which is obsolete.
+
 
 - page 4 -
 
-There is no photograph present in this image. This appears to be a page from a questionnaire or report related to a UFO sighting.
-
-The text in the document is as follows:
+Here is the OCR text from the document:
 
 8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
-8.1 STARS (Circle One): a. None, b. A few, c. Many, d. Don't remember
-8.2 MOON (Circle One): a. Bright, b. Dull moonlight, c. No moonlight - pitch dark, d. Don't remember
+8.1 STARS (Circle One):
+a. None
+b. A few
+c. Many
+d. Don't remember
 
-9. The object appeared: (Circle One): a. As a light, b. Shiny, c. Dark, d. Don't remember
+8.2 MOON (Circle One):
+a. Bright moonlight
+b. Dull moonlight
+c. No moonlight - pitch dark
+d. Don't remember
+
+9. The object appeared:
+(Circle One): a. As a light b. Shiny c. Dark d. Don't remember
 
 10. If it appeared as a light, was it brighter than the brightest stars?
 
-11. Did the object: (Circle One for each question) a. Appear to stand still at any time? Yes (No) Don't Know, b. Suddenly speed up and slow down at any time? Yes (No) Don't Know, c. Break up into parts or explode? Yes (No) Don't Know, d. Give off smoke? Yes (No) Don't Know, e. Change shape? Yes (No) Don't Know, f. Flash on and off? Yes (No) Don't Know, g. Disappear and reappear? Yes (No) Don't Know
+11. Did the object:
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Break up into parts or explode?
+d. Give off smoke?
+e. Change brightness?
+f. Change shape?
+g. Flash or flicker?
+h. Disappear and reappear?
 
-12. Did the object move behind something at any time, particularly a cloud? (Circle One): Yes (No) Don't Know. If you answered YES, then tell what:
+(Circle One for each question)
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
 
-13. Did the object move in front of something at any time, particularly a cloud? (Circle One): Yes (No) Don't Know. If you answered YES, then tell what: 
+12. Did the object move behind something at any time, particularly a cloud?
+(Circle One): Yes   No   Don't Know.   IF you answered YES, then tell what
 
-14. Did the object appear: (Circle One): a. Solid, b. Transparent, c. Vapor, d. Don't Know
+13. Did the object move in front of something at any time, particularly a cloud?
+(Circle One): Yes   No   Don't Know.   IF you answered YES, then tell what
 
-15. Did you observe the object through any of the following? (Circle One for each) a. Eyeglasses: Yes (No), b. Binoculars: Yes (No), c. Telescope: Yes (No), d. Wind-shield: Yes (No), e. Window glass: Yes (No), f. Other: Yes (No)
+14. Did the object appear: (Circle One): a. Solid   b. Transparent   c. Vapor   d. Don't Know
+
+15. Did you observe the object through any of the following?
+a. Eyeglasses
+b. Sun glasses
+c. Windshield
+d. Window glass
+
+Yes   No
+Yes   No
+Yes   No
+Yes   No
+
+e. Binoculars
+f. Telescope
+g. Theodolite
+h. Other
+
+Yes   No
+Yes   No
+Yes   No
+
 
 - page 5 -
 
-The image does not appear to contain a photograph. It is a page from an old Project Blue Book document with a form to be filled out. 
+Here is the text from the document:
 
-16. Tell in a few words the following things about the object:
-a. Sound _______________
-b. Color _A bright flash_____________
+Page 3
 
-17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, projections, etc., and especially show the direction the object was moving. Place an arrow beside the drawing to show the direction the object was moving.
+16. Tell in a few words the following things about the object.
+    a. Sound: n/A
+    b. Color: light black
+
+17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusion, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
 
 18. The edges of the object were:
-a. Circle One: Fuzzy or blurred
-b. Like a bright star
-c. Sharply outlined
-d. Don't remember
+    (Circle One): a. Fuzzy or blurred
+                 b. Like a bright star
+                 c. Sharply outlined
+                 d. Don't remember
 
-19. If there was MORE THAN ONE object, then how many were there?
-Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+19. IF there was MORE THAN ONE object, then how many were there? 2 or 3 256
+    Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
 
-Based on the text extracted from the image, it appears to be a form or questionnaire used to gather details about a reported UFO sighting as part of Project Blue Book, the U.S. Air Force's program to investigate unidentified flying objects.
 
 - page 6 -
 
-There is no photograph present in this image. This appears to be a scanned page from a Project Blue Book document, containing handwritten text responses to various questions.
+Here is the text from the document:
+
+Page 4
 
 20. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
-An angled line like a diagonal movement with the start and end points labeled as "A" and "B".
+
+[Handwritten text that is partially illegible, appears to read: "Looked like a control about 35-40° from line E to NNW about 35-40° faster than known"]
 
 21. How large did the object appear to you as compared to an object with which you are familiar?
-Not specified.
+[Handwritten response, mostly illegible]
 
-22. We wish to know the angular size. Hold a match stick at arm's length in line with a known object and note how much of the object is covered by the match head. If you had performed this experiment at the time of the sighting, how much of the object would have been covered by the match head?
-Not specified.
+22. We wish to know the angular size. Hold a match stick at arm's length in line with a known object and note how much of the object is covered by the head of the match. If you had performed this experiment at the time of the sighting, how much of the object would have been covered by the match head?
+[No handwritten response]
 
 23. Did the object disappear while you were watching it? If so, how?
-Gradually faded or disappeared from view.
+[Handwritten response: "No, was, longer when it faded in mistaken."]
 
 24. In order that you can give as clear a picture as possible of what you saw, describe in your own words a common object or objects which, when placed up in the sky, would give the same appearance as the object which you saw.
-The trail or movement of the object as described.
+[Handwritten response: "No cloud"]
+
 
 - page 7 -
 
-There is no photograph present in this image. This appears to be a page from an old Project Blue Book document containing a questionnaire or report form.
+Here is the text from the document:
 
-TRANSCRIPT OF TEXT FROM THE DOCUMENT:
+Page 5
 
-25. Where were you located when you saw the object? (Circle One):
+25. Where were you located when you saw the object?
+(Circle One):
 a. Inside a building
 b. In a car
 c. Outdoors
-d. In an airplane (type) 
+d. In an airplane (type)
 e. At sea
-f. Other _____________________
+f. Other: Alt in farmland
 
-26. Were you (Circle One):
+26. Were you (Circle One)
 a. In the business section of a city?
 b. In the residential section of a city?
 c. In open countryside?
 d. Near an airfield?
 e. Flying over a city?
 f. Flying over open country?
-g. Other
+g. Other.
 
 27. What were you doing at the time you saw the object, and how did you happen to notice it?
-_____________________________________________________________________
-_____________________________________________________________________
+Scanning the sky for other traffic
 
 28. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
 28.1 What direction were you moving? (Circle One)
-a. North b. East c. South d. West e. Northeast f. Southeast g. Southwest h. Northwest
-28.2 How fast were you moving? ___ miles per hour.
-28.3 Did you stop at any time while you were looking at the object? (Circle One) Yes No
+a. North         c. East          e. South         g. West
+b. Northeast     d. Southeast     f. Southwest     h. Northwest
+
+28.2 How fast were you moving? 20-25 miles per hour
+
+28.3 Did you stop at any time while you were looking at the object?
+(Circle One) Yes     No
 
 29. What direction were you looking when you first saw the object? (Circle One)
-a. North b. Northeast c. East d. Southeast e. South f. Southwest g. West h. Northwest i. Overhead
+a. North         c. East          e. South         g. West
+b. Northeast     d. Southeast     f. Southwest     h. Northwest     i. Overhead
 
 30. What direction were you looking when you last saw the object? (Circle One)
-a. North b. Northeast c. East d. Southeast e. South f. Southwest g. West h. Northwest i. Overhead
+a. North         c. East          e. South         g. West
+b. Northeast     d. Southeast     f. Southwest     h. Northwest     i. Overhead
 
-31. If you are familiar with bearing (angular direction) try to estimate the number of degrees the object was from true North (thru east) and also the number of degrees from the horizon (elevation).
+31. If you are familiar with bearing terms (angular direction), try to estimate the number of degrees the object was from true North (thru east) and also the number of degrees it was upward from the horizon (elevation).
 31.1 When it first appeared:
-a. From true North ___ degrees.
-b. From horizon ___ degrees.
+a. From true North     235     degrees
+b. From horizon        15      degrees
 
 31.2 When it disappeared:
-a. From true North ___ degrees. 
-b. From horizon ___ degrees.
+a. From true North     235     degrees
+b. From horizon        15      degrees
+
 
 - page 8 -
 
-The image contains three sketches. The first sketch shows a curved line with an "A" on it, representing how high the object was above the horizon (skyline) when the observer first saw it. The second sketch shows a larger sketch of the object's position when the observer last saw it, with an "A" and "B" to indicate the object's movement. The third sketch is a smaller sketch that appears to be similar to the larger one, but provides less detail.
-
 32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
 
-33. In the following larger sketch place an "A" at the position where the object was when you first saw it, and a "B" at its position when you last saw it. Refer to similar sketch as an example of how to complete the larger sketch.
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to smaller sketch as an example of how to complete the larger sketch.
+
+Page 6
+
 
 - page 9 -
 
-There is no photograph present in this image. The image shows a page from a document that appears to be a UFO report from Project Blue Book.
+Here is the text from the document:
 
-Performing OCR on the text in the document:
+Page 7
 
 34. What were the weather conditions at the time you saw the object?
+
 CLOUDS (Circle One)
 a. Clear sky
-b. Haze
+b. Hazy
 c. Scattered clouds
 d. Thick or heavy clouds
+
 WEATHER (Circle One)
 a. Dry
 b. Fog, mist, or light rain
 c. Moderate or heavy rain
-d. Thunderstorm
+d. Snow
 e. Don't remember
 
 35. When and to whom did you report that you had seen the object?
-Day - Feb Month - 23 Year - 1962
+[Handwritten: Zubrajcic Center]
 
-36.1 If you answered YES, did they see the object too?
-(Circle One) Yes No 
-
-36.2 Please list their names and addresses:
-WITHHELD - WITHHELD
-
-37. Was this the first time that you had seen an object or objects like this?
+36. Was anyone else with you at the time you saw the object?
 (Circle One) Yes No
 
+36.1 IF you answered YES, did they see the object too?
+(Circle One) Yes No
+
+36.2 Please list their names and addresses:
+[Handwritten: Warren Ohio & 
+Several other etc in the Indianapolis center area]
+
+37. Was this the first time that you had seen an object or objects like this?
+(Circle One) Yes (No)
+
 37.1 If you answered NO, then when, where, and under what circumstances did you see other ones?
- - 
+[Handwritten text is partially illegible]
 
 38. In your opinion what do you think the object was and what might have caused it?
-a sate vic report that it appears to be a Satel-lite-which might have bean a satelite or missile
+[Handwritten text partially illegible, appears to discuss something about altitude, a clear bright night, and the rest of the experience]
+
 
 - page 10 -
 
-The image does not contain a photograph. It appears to be a page from a Project Blue Book UFO report document, consisting of a questionnaire with various questions about an unidentified object or phenomenon observed.
+39. Do you think you can estimate the speed of the object?
+(Circle One)   Yes   No
 
-39. Do you think you can estimate the speed of the object? (Circle One) Yes No
-IF you answered YES, then what speed would you estimate? 7500 MPH
+IF you answered YES, then what speed would you estimate? 700-500 KS
 
-40. Do you think you can estimate how far away from you the object was? (Circle One) Yes No 
-IF you answered YES, then how far away would you say it was? 25-30 
+40. Do you think you can estimate how far away from you the object was?
+(Circle One)   Yes   No
 
-41. Please give the following information about yourself: [Redacted personal information]
+IF you answered YES, then how far away would you say it was? 3-5 KT
 
-Indicate any additional information about yourself, including any education, which might be pertinent. I previously worked as an investigator on a UFO project, and I'm familiar with most of the reported phenomena.
+41. Please give the following information about yourself:
+NAME: [Redacted]
+ADDRESS: [Redacted]
+TELEPHONE NUMBER: [Redacted]
 
-42. Date you completed this questionnaire: [Date redacted]
+Age: 39   Sex: Yes
+
+Indicate any additional information about yourself, including any education, which might be pertinent.
+15 years telescope w/surface flying time
+Previously worked as an investigator on UFO project
+I am familiar of most of the reported phenomena
+
+42. Date you completed this questionnaire: 10   Apr   62
+
 
 - page 11 -
 
-The image contains a photograph of a comet, which appears to be Comet Seki. The text accompanying the image describes the comet as being as bright as Halley's Comet and discusses its appearance and properties.
+Here is the OCR text from the document:
+
+351
 
 ASTRONOMY
-Promising Comet Seki 
-Disappoints Astronomers
-COMET SEKI---Expdted to vle with Halley's comet in brightness, Comet Seki, discovered by Japanese astronomer Seki, has instead faded so much that it can barely be seen. It was first sighted on Oct. 7, 1961, flagstaff, Ariz. photograph shows Seki when it was at its brightest, Nov. 4, 1961, when observers claimed it would eventually equal Halley's famed comet in brightness.
+Promising Comet Seki Disappoints Astronomers
+
+COMET SEKI, expected to become as bright as Halley's comet, has disappointed astronomers. (See SNL, 90-304, 1961.)
+
+Halley's famous comet appeared in 1910 and a first magnitude display, which is rare, was predicted for Comet Seki. Comet Seki has been observed as only fifth magnitude, Dr. Elizabeth Roemer of the U.S. Naval Observatory, Flagstaff, Ariz., told Science Service.
+
+This is just visible to the naked eye under good seeing conditions. However, Dr. Roemer said, the comet has not significantly brightened to fourth magnitude by this time and could not be observed.
+
+The astronomer has observed Seki from the time it appeared, and has photographed it with the 40-inch reflecting telescope at Flagstaff. Since the tail was not as bright as expected, Dr. Roemer said, after its discovery by a Japanese amateur astronomer, when last observed at Flagstaff on Nov. 11, Seki had become a faded blob trailing a few arcseconds, the remnant of a once promising comet.
+
+Seki, which was expected to have reached its greatest brightness as it came closest to earth, 12,000,000 miles away, on Nov. 14, moved south rapidly and could be seen only from the Southern Hemisphere after that time.
+
 ASTRONOMY
-Bright as Halley's Comet
-NOW A FAINT OBJECT
-A Comet that was expected to become as bright as the famed Halley's Comet has instead failed to live up to the predictions of astronomers and is now a faint object in the constellation Leo, the Lion.
-When Comet Seki was first discovered on Oct. 7, 1961, at the Flagstaff. Ariz., observatory of the United States Naval Observatory, it was thought that it might become a spectacular sight in the night sky, even rivaling the brightness of Halley's Comet.
-However, by the end of November, as the comet continued to recede from the sun, it instead faded in brightness to the point where it can barely be seen with the unaided eye under ideal observing conditions.
-Dr. Bancroft W. Sitterly of the National Astronomical Observatory of the University of California at Berkeley, told Science Service that "the comet simply failed to live up to the expectations of astronomers."
-"It will pass by the stars and can be seen quite easily with small telescopes and binoculars, but it will not provide the spectacular show that we were hoping for," he added.
-Dr. Sitterly explained that Comet Seki was first reported on Oct. 4, 1961, by the Japanese astronomer Tsutomu Seki, who discovered the Comet while he was observing the galaxy Messier 101 near the constellation of the Hunting Dogs.
-After its discovery, astronomers eagerly watched the comet's progress, and by early November it was bright enough to be easily visible in the evening sky low on the western horizon. At that time, it was so prominent that it could be seen without optical aid and was being compared to Halley's Comet.
-However, by the end of November, the comet had receded from the sun and was fading rapidly, dashing the hopes of astronomers that it would put on a brilliant display.
-"It is unfortunate, but this is the way it goes with comets," Dr. Sitterly remarked. "They can be unpredictable and sometimes fail to live up to expectations."
+New Comet May Become Bright as Halley's Comet
+
+A NEW COMET, expected to become as bright as the famed Halley's comet, is now moving across the skies and approaching the earth.
+
+It can now be seen with the naked eye before sunrise in the constellation Leo, the lion.
+
+The comet was named Seki, after its discoverer, a Japanese amateur astronomer. Calculations made on the comet's progress by Dr. Leland E. Cunningham of the University of California at Berkeley indicate that the Seki comet will be of almost first magnitude.
+
+During the second week of November, it will pass by the earth and can be seen very low on the southern horizon. It will then have moved from Leo into the constellation Herta on its southward journey.
+
+Besides Halley's comet, last seen in 1910 and expected again in 1986, there are other first magnitude comets. Arend-Roland and Mrkos, were seen in 1957.
+
+Comet Seki was first reported on Oct. 11 in Harvard College Observatory. Calculations indicate it is the first visual information in the Western Hemisphere.
+
+However, by the end of November it is expected to be visible from the United States again, although it will now have faded even further and be about seventh or eighth magnitude, Dr. Roemer said. At that time it can barely be seen with binocular but will be visible through small telescopes.
+
+Dr. Roemer said comet Seki will continue to move away from the earth and by mid-January it will be difficult to observe even with very large telescopes.
+
 
 - page 12 -
 
-There is no photograph present in this image. The image shows a U.S. Air Force Technical Information Sheet with a handwritten description of an observed event.
+U.S. AIR FORCE TECHNICAL INFORMATION SHEET
+(SUMMARY DATA)
 
-U.S. AIR FORCE TECHNICAL INFORMATION SHEET (SUMMARY DATA)
-In order that your information may be filled and coded as accurately as possible, please use the following space to write out a short description of the event that you observed. You may report information that you have already given in the questionnaire, and add any further comments, statements, or sketches that you believe are important. Try to present the details of the observation in the order in which they occurred. Additional pages of the same size paper may be attached if they are needed.
+In order that your information may be filed and coded as accurately as possible, please use the following space to write out a short description of the event that you observed. You may repeat information that you have already given in the questionnaire, and add any further comments, statements, or sketches that you believe are important. Try to present the details of the observation in the order in which they occurred. Additional pages of the same size paper may be attached if they are needed.
 
-[Handwritten text]
-I sighted a silver colored APR C 19:40 22 Oct 62. The object was first observed in the northeast moving in a northerly direction. It appeared to be elongated in shape and was flying at a high altitude. It would appear and disappear and then reappear again at another location continuing on a northerly course. The object would reappear across the sky and the course it was taking appeared to be erratic. At times it appeared stationary, then would move rapidly, again appearing to be stationary. This continued for approximately 30 minutes. After this time, the object disappeared completely and was not observed again. The object appeared to be silver in color and was not seen to make any sound. No other objects were observed in the vicinity at the time.
+NAME: [redacted]
+SIGNATURE: [redacted]
+DATE: 1-16-62
+
+[The rest of the handwritten text is partially illegible, with some words and phrases discernible but not fully readable due to the image quality and handwriting.]
+
 
 - page 13 -
 
-The image contains a photograph that appears to be a satellite or celestial body map. The text mentions "COMET SEXTILIS" and describes it as "Computed by N.A.C.A. on the basis of the data. Observed first night Aug. 4". There does not appear to be any other image or photograph in the document.
+Here is the OCR text from the document:
 
-OSO READY TO GO
-Several to the Editor
-I wiszes that you would forces the girls who are appearing in your movie to wear a little more clothes and have them keep them down on their persons when they are on the lot. Why not have them wear the 24 letter words instead and give a number a letter and see if a serlter could be found with this number and letter, then how some of the movies who it would mean are to be shown in this country and what it wiould mean. And in your mailing of movie stars you make sure you nane the right people. I U.K. German.
+OSO Ready to Go
 
-Herr Gosse, we are sheep lab if not like. It should have been many would be) the that looking 1962 29, achieve 1963 are one would want a, that wast not dreadfully too the 18 September the so-called "Censored" Cinema Goose April 29 to study the Lonerphere. It was built firmly to this country and Finland.
+Letters to the Editor
+I noticed that you forgot the yellow tint for your paper -- it doesn't seem to be keeping the bugs out.
+This July issue will tell in 1962 there might be so many satellite launching we would "go more than once around the 24 letter Greek alphabet" and there a satellite such the sheeplike looking name of 1962 22 Sheeplike yourself. Wouldn't that be 1962 22? And in your totaling of non-male objects with no sign (US, USSR, AK, UK? Hochachtungvoll, R. Lassr
+
+Here Laeser, we are deep ish it not like. It should have been and may be) the blacklooking 1962 24 to achieve 1962 22 as one would need 24 x 24 = 576 satellite(s) As for the U.S. Vanguard that was launched Tiros II satellite (since 6 launched from Canaveral April 26 to study the ionosphere. It was built jointly by the country and England.
 
 The Editor
-Sir: instead of greeting's from AT-&T Pat Knapp V.P. In line with the A.T.&T.'s policy of being courteous and helpful, "HAWKINS: "STATIC UNIVERSE"
 
-A much abbre-'cited statement of Gerald Hawkins' SATURN THEORY appoared in the N.Y. Times, who while stating his views on the expanding universe theorty, said: l) that he considers the universe as now not expanding at ail, and consequently it may have been in a static state for billions of years.
+Sir: Instead of greetings from AT&T Pres. Keppel to U.S. V. Johnson, the first message was ed of Tastar should have been MENE MENE TEKEL PHARSIN.
 
-Aloha, comments are Dr. H. has "static-universe" theory is somewhat similar to my own personal views and as subsequently published in Western Science Review. It was stated in layman terms without going into technical details, Such a theory follows the contours,as it were, of the whole universe and not merely specific Phenomena.
+Selah. Master Hoffmann, verily, verily thou art a Daniel (V, 25) come to judgement.
 
-Up from washington 24 July were these welcome visitors - Diana Unger, Mr. Lenny Fineman and wife, Mrs. Lenny Fineman, and Marsha MacLeod, all from Washington. D.C. Michael, the young son of Leonard Kramer of the Finnish Embassy visited 22 August.
+HAWKINS' 'STATIC UNIVERSE'
+A much abbreviated statement of Gerald Hawkins' "static universe" theory appeared in the N.Y. Times July 20. Said the Times, while the two currently "expanding universe" theories hold 1) that the universe is expanding outward toward ultimate over-complexity and 2) that, perhaps, cosmic horizons are expanding, Hawkins postulates that the universe is now not expanding at all, and consequently one may suppose that it had no beginning and will have no end.
 
-ATTENTION, PUTATIVE PAPER PUBLISHERS:
+A study, comments out Dr. H., the "static universe" theory is relatively old, having been introduced by him in 1963 and subsequently published in Nature and Venus Cinemato. It was stated in layman terms that the "static universe" in the Sky (News review) last October. Such a theory follows, he declares, from "cosmographic" iron analysis of red-white data initiated by his further, Myron, Marvell and Savage.
 
-A proposal of guidelines for professional papers to be presented to meetings of national and international scientific societies - and copy sent to U.S.A. to World Health Organization -- is now in the "SAI".
+UP FROM WASHINGTON 24 July were those welcome receptive SI visitors James Bradley and Mrs. Dorothy Rosenberg with a few to a corner Assistant Treasurer Otis Martin, and an old Smithsonian friend, Leonard Reamer of the Firm which avails SI accounts.
+
+Attention, Putative Paper Publishers:--
+A schedule of deadlines for professional papers to be presented to meetings of national and international scientific and other groups -- everything from the Acoustical Society of America to the World Health Organization -- is now in the SAO library.
+
+"A GOOD MAN" says Clancy, a member of our hard core staff here. "Here's what he did..." And so it is not time, as we move, that has been looking at steadily or the Pole Star that we are keeping constant and move with the motion.
+
 
 - page 14 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
-
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
 INCOMING
-AF IN : 44207G (6 APR 62) N/lab pe 1 of 2
-ACTION : CIN-17
-INFO : ARMY-6, NAVY-6, GMC-7, JCS-35, OSD-15, NSA-7, CIA-11, OOP-2.
-OSI-GP-1, DIA-5, SAFSF 3 (106)
-3673 343
-G7THUG45SYGJX 791
-..... YY RJJSYHQ
-DEE RJJSMNM 124
-ZNYR
-FM T 2g373/AXX
-TO RJJSRM/COCE USAF WASHINGTON DC
-RUFNALY/CINCORAD ENT AP3 COLORADO SPRINGS COLORADO
-RJJX3RGY/CINGSAG OFFUTT AF3 NEBRASKA
+
+AF IN: 42076 (6 Apr 62)                N/ldb pg 1 of 2
+
+ACTION: CIN-17
+
+INFO: ARMY-2, NAVY-2, CMC-7, JCS-35, OSD-15, NSA-7, CIA-11, OOP-2,
+       OOP-CP-1, DIA-2, SARS-3 (105)
+
+SW 3 0 3A3
+
+OZGHQ9463 ZCZJX791
+
+**** YY PJEZHO
+
+DEE RJENAW 124
+
+ZWR
+
+FM T 293T3/AXX
+
+TO PJTZH/COPE USAF WASHINGTON DC
+PJMFALV3/CINCNORAD ENT AF3 COLORADO SPRINGS COLORADO
+PJMKBR3/CINGSAC OFFUTT AF3 NEBRASKA
+
 3T
-UNCLE CIRVIS DEPT EDAW 17432 DEST KUAE 9249T AT 28/2224Z AGFT I
-08373 REPORTED WE HAVE SIGHTED SOMETHING AT AN EXTREMELY HIGH ALT.
-IS THERE ANY ULO AROUND US AT P3N APPROX 43N. CVJT SAYS S30 A FUTURF
-REPORTAS IS TO SEE . SHAPE AND SIZE OF OBJECT IS APPROX
-THE SAMF 3SN AND SHOKS NO APPARENT SIGN OF MOVEMENT SO IT SI PROBABLY
-A VERY GREAT DISTANCE FM US AND AT A VERY HIGH ALT OUR P3N 33326
-3PANP 293SZ OBJECT APPEARS TO BE EITHER AN AIRCRAFT OR A COAST
-AT 24/222352 OBJECT 1S 41 DEGREES TO OUR RIGHT 4 DEGREES ABOVE HORIZON...
-366598727 WE ARI DECLARING THIS A CONTINUING SIGHT THE THING IS
-41 DEGREES TO OUR RIGHT AND 4 DEGREES ABOVE HORIZON.. AND OUR P3N
+
+UNCLAS CIRVIS DETP EDAW 1749Z DEST KWAE 0245Z AT 36/2242 ACFT T
+00373 REPORTED WE HAVE SIGHTED SOMETHING AT AN EXTREMELY HIGH ALT,
+IS THERE ANY TFC AROUND US AT PSN APPROX 40°, CYJT AWYS REQ A FUTURE
+REPORT AS TO PSN, SHAPE AND SIZE OF OBJECT, THE OBJECT IS APPROX
+THE SAME PSN AND SHOWS NO APPARENT SIGNS OF MOVEMENT SO IT SI PROBABLY
+A VERY GREAT DISTANCE FM US AND AT A VERY HIGH ALT OUR PSN 5033N
+3640W 2233Z, OBJECT APPEARS TO BE EITHER AN AIRCRAFT OR A COMET
+AT 36/2236Z
+
+OBJECT IS 41 DEGREES TO OUR RIGHT 4 DEGREES ABOVE HORIZON.....
+(AT 2030Z) WE ARE DECLARING THIS A CIRVIS SIGHTING THE THING IS
+41 DEGREES TO OUR RIGHT AND 4 DEGREES ABOVE HORIZON.. AND OUR PSN
+
 
 - page 15 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING
+
+AF IN: 42076 (6 Apr 62)                                 PG 2 of 2
+
+PAGE 2 RJENAW 124
+
+ARE STILL RELATIVELY THE SAME AND IT HAS A SOFT OF FLOATING ACTION
+WHICH MIGHT BE SOME SORT OF A BALLOON, AND WE CAN'T THINK WHY OUR
+ANGLE FROM IT ISN'T INCREASING AND IT IS STILL A GREAT DISTANCE
+FROM HIM.... WE ARE GOING TO TAKE ANOTHER SIGHTING ON IT AS SOON AS
+WE GET A CHANCE AT 2530Z ACFT WAS CLRD TO 399' 2307Z OUR PSN 4950N
+4340Z BEARING OF IT 31 DEGREES TO RIGHT 1&1/2 ABOVE OUR LEVEL
+ELEVATION IS CHANGING.... WE CORRECTED TO RIGHT 10 DEGREES WHICH
+WOULD HAVE OR ANGLE THE SAME CONSIDERING OUR CHANGE
+
+PI NOTE: ADVANCE COPY DELIVERED TO OOP-CP AND CIN.
+
+05/2350Z APR RJENAW
+
+
+- page 16 -
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING
+
+AF IN : 43591 (8 Apr 62)
+INFO : CIN-14, ARMY-2, NAVY-2, CMC-7, JCS-35, OSD-15, NSA-7,
+CIA-11, OOP-2, DIA-2, OOP-CP-1, SAPS-3 (102)
+
+SMB A 034
+PKA037EAA
+KKN0349
+...."00 RJEZHQ RJWFALB
+DE RJHPKH 4
+ZNR
+0 08/0524Z
+FFM 326 AIR DIV KUNIA FFACILITY HAWAII
+TTO RJHPKX/PACAF HICKAM AFB HAWAII
+RBHPG/COMHAWSEAFROM PEARL HARBOR HAWAII
+INFO RJEZHQ/COFS USAF WASHINGTON DC
+R8EPW/CNO WASHINGTON DCC
+R8EPW/SECNAV WASHINGTON DC
+RJWFALB/CINCNORAD ENT AFS COLO
+R8HPA/C INCPAC CAMP H N SMITH HAWAII
+RUHPFS/CINCUSARPAC FT SHAFTER HAWAII
+R8HRB/C INCPACFFLT PEARL HARBOR HAWAII
+RJAPAZ/COMUSJAPAN FUCHU AS JAPAN
+RUANCR/COMUskorea SEOUL KORREA
+RUAGEL/COMUSTDC TAIPEI TAIWAN
+
+PAGE 1 of 2
+
+
+- page 17 -
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING
+
+AP IN : 43591 (8 Apr 62)                                   2 of 2
+
+RBB+PHY+AASEAFRON KWA IA TUNNEL ANNEX
+RRBHPB/CCMASWFORPACC FORD ISLAND HAWAII
+RJWKBR/CINGSAC OFFUET AFB NEB
+
+BT
+UNCLAS CIRVIS/NAVY WV-2 SIGHTED POSS SATELLITE OR
+COMET HELD VISIBLE 3 MINUTE. SMALL ROUND OBJECT WITH
+LONG TAIL OF BRIGHT LIGHT. POSIT 33DEG 30 MIN NORTH
+177 DEG 20 MIN WEST AT 030703Z CUS EAST TO WEST.
+
+NO EVALUATION
+
+BT
+03/0824Z APR RJHPPKH
+
+NOTE : Advance copies del to OOP-CP & CIN.
+
+
+- page 18 -
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+AF IN : 43641 (8 Apr 62)H/TEN COMING                Page 1 of 2
+
+INFO : CIN-14, ARMY-2, CMC-8, JCS-35, OSD-15, NSA-7, CIA-11, OOP-2,
+        DIA-2, OOP-CP-1, SAPS-3                     (101)
+
+SWB A 042
+
+00 RJEZH3
+DE RJHPKH 5
+ZNR
+0 081042Z
+
+FM 326 AIR DIV KUNIA FACILITY HAWAII
+TO RJHPKH/PACAF HICKAM AFB HAWAII
+
+RSHPV/COMHAWSEAFRON PEARL HARBOR HAWAII
+INFO RJEZH3/COFS USAF WASHINGTON DC
+RBEPH/CNO WASHINGTON DC
+RBBPW/SECNAV WASHINGTON DC
+RJWFALB/CINCNORAD ENT AFB COLO
+RBHPA/CINCPAC CAMP H M SMITH HAWAII
+RUHPPS/CINCUSARPAC FT SHAFTER HAWAII
+RBHPB/CINCPACFLIT PEARL HARBOR HAWAII
+RJAPAZ/COMJSJAPAN FUCHU AS JAPAN
+RUANCR/COMJUSKOREA SEOUL KOREA
+RUAGEL/CCOMUSTDC TAIPEI TAIWAN
+RBHPHH/HAWSEAFRON KUNIA TUNNEL ANNEX
+RBHPD/COMASSYFRORPAC FORD ISLAND HAWAII
+RJXXBR/CINCSAC OFFUTT AFB NEB
+BT
+
+
+- page 19 -
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING
+
+AF TN : 43641 (8 Apr 62)                                Page 2 of 2
+
+AAUNCLAS/C I R V I S/SIGHTING REPORT PA 714 ENROUTE PMVAK TOO
+RJIT. AT 030355Z FROM ACFT SIGHTED BRIGHT COMET PSN
+25N 155E HEIGHT 4 DEG TAIL HEIGHT 11 DEG DIRECTION OF
+TRAVEL 272. NO INTELLIGENCE EVALUATION.
+BT NOTE: ADV CYS DEL TO CIN AND OOP-CP.
+08/1842Z APR RJHMPKH
+
+
+- page 20 -
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
 UNCLASSIFIED MESSAGE
-INCOMING
 
-AF IN : 42075 (6 Apr 62) PG 2 OF 2
+AIP IN: 43903 (9 Apr 62) | N G/DwG | N G
 
-PAGE 2 RJENAM 124
-ARE STILL RELATIVELY THE SAME AND IT HAS A SORT OF FLOATING ACTION
-WHICH MIGHT BE SOME SORT OF A BALLOON, AND US CAN'T THINK WHY OUR
-ANGLE FROM IT ISN'T INCREASING AND IT IS STILL A GREAT DISTANCE
-FROM US...WE ARE GOING TO TAKE ANOTHER SIGHTING ON IT AS SOON AS
-WE GET A CHANCE AT 2330Z AGFT WAS GLAD TO 393' 2357Z OUR PFN 4990N
-4449' BEARING OF IT 31 DEGREES TO RIGHT 1412 ABOVE OUR LEVEL
-ELEVATION IS CHANGING...WE CORRECTED TO RIGHT 10 DEGREES WHICH
-WOULD HAVE OR ANGLE THE SAME CONSIDERATING OUR CHANGE
-
-NOTE: ADVANCE COPY DELIVERED TO OOP-CP AND CIN.
-06/2335Z APR RJENAM
-
-- page 16 -
-
-The image appears to be a page from an old UFO report document from Project Blue Book. There is no photograph present in this particular page.
-
-AP IN : 43591 (8 APR 62) INCOMING
-INFC : CIN-14, ARMY-2, NAVY-2, CMO-7, JCS-35, OSO-15, MA-7,
-CIA-11, CDP-2, DNA-2, OOP-61, SAPS-3 (10S)
-SMB @ 034
-FKA038TEAA
-KKHG849
-....*DO RJEZHA RJWFALB
-DE RUHRH 4
-ZNR
-0 08/0824Z
-FFM 326 AIR DIV KUNIA FFACILITY HAWAII
-TTC RJHMPM/PACAF HICKAM AFB HAWAII
-RBHPC/COMMISEAFRON PEARL HARBOR HAWAII
-INFO RJEZHO/CSFS USAF WASHINGTON DC
-RBEPW/CNO WASHINGTON DCG
-RBEPW/SECNAV WASHINGTON DC
-RJWFALB/CINCNORAD ENT AFS COLO
-RBHPC/CINCPAC CAMP H M SMITH HAWAII
-RUHPPS/CINCUSARPAC FT SHAFTER HAWAII
-RBHPC/CINCPACFLT PEARL HARBOR HAWAII
-RJAPAZ/COMUS JAPAN FUCHU AS JAPAN
-RUAHCR/COMUSKDREA SEOUL KOREA
-RUAGEL/COMUSDTG TAIPEI TAIWAN
-
-- page 17 -
-
-The image does not contain any photographs. It appears to be a page from a document or report.
-
-DEPARTMENT OF THE AIR FORCE
-STAFF MESSAGE BRANCH
-
-INCOMING
-
-AF IN : 43591 (8 APR 62)	2 of 2
-
-RBNPHM/HASELBLOWER AKUNIA TUNNEL ANNEX
-BRBHPB/COMASCUFORPACO FORD ISLAND HAWAII
-RWXKBR/CINGSAC OFFUET AFB NEB
-
-AT
-UNCLASS CIRVIS/NAVY UV-2 SIGHTED POSS SATELLITE OR
-COMET HELD VISIBLE 3 MINUTE. SMALL ROUND OBJECT WITH
-LONG TAIL OF BRIGHT LIGHT. POSIT 33DEG 30 MIN NOORTH
-177 DEG 20 MIN WEST AT 2307302 CUS EAST TO WEST. 
-NO EVALUATION
-
-RI
-03/0324Z APR RJHPPHK
-NOTE : Advance copies del to OOP-CP & CIN.
-
-- page 18 -
-
-The image does not contain any photographs. It appears to be a page from a project blue book document that contains a list of information, including various military codes and locations.
-
-AP IN : 43541 (8 Apr 62)H/TEN COMING
-INFO : CIN-14, ARMY-2, GMO-8, JCS-35, NSA-7, CIA-11, OOP-2,
-DIA-2, COG-DP-1, SARS-3 (AOL)
-SUB A 042
-
-GO RJEZH3
-DE RJHPKH 3
-ZNR
-O 081428Z
-
-FM 326 AIR DIV KUNIA FACILITY HAWAII
-TO RJHPKH/ PACAF HICKAM AFB HAWAII
-RBHPA/COMHAWSEAFROH PEARL HARBOR HAWAII
-INFO RJEZH3/COFS USAF WASHINGTON DC
-RBEPN/CG3 WASHINGTON DC
-RBEPN/W SSNRAN WASHINGTON DC
-RJWFALB/CINCNORAD ENT AFB COLO
-RBHPA/CINCPAC CAMP H M SMITH HAWAII
-RUHPFS/CINCUSPARPAC FT SHAFTER HAWAII
-RBHPA/CINCPACFLT PPEABL HARBOR HAWAII
-RJAPAZ/COM 3SPAPAN FUCHU AS JAPAN
-R YUANCR/COMM USKOREA SEOUL KOREA
-RUAGEL/CCOM USDTC TAIPEI TAIWAN
-RBHPKH/HAWSEAFRON KUNIA TUNNEL ANNEX
-RBHPD/COMHAWSEFORPAGC FORD ISLAND HAWAII
-RJHXBB/CINCPAC OFFUT AFB NEB
-
-- page 19 -
-
-There is no photograph present in this image. The image appears to be a page from an old UFO report document from Project Blue Book.
-
-INCOMING
-AP 8 Apr 62) Page 2 of 2
-
-AAAUNGLAS/C I R V I S/SIGHTING REPORT PA 714 ENROUTE PHURK TOO
-RJFT. AT 032833Z FROM ACFT SIGHTED BRIGHT COMET PSN
-25N 158E HEIGHT 4 DEG TAIL HEIGHT 11 DEG DIRECTION OF 
-TRAVEL 272. NO INTELLIGENCE EVALUATION.
-BY NOTES ADV COS DEL TO CIN AND OOP-CP.
-08/12422 APR RJHPCH
-
-- page 20 -
-
-The image does not contain any photographs, only text. As requested, I will act as an optical character recognition (OCR) system and provide the text found in the document:
-
-DEPARTMENT OF THE AIR FORCE
-STAFF MESSAGE BRANCH
-
-AP IN : 43503 (9 APR 62) INCOMING
 ACTION: CIN-17
 
-INFO : ARMY-2, NAVY-2, CMC-7, JCS-32, CSD-15, NSA-7, CIA-11,
-DIA-2, OP-2, DIA-2, OOP-OF-1, SAPSS-3 (105)
+INFO : ARMY-2, NAVY-2, CMC-7, JCS-35, CSD-15, NSA-7, CIA-11,
+SMT 3 -009 OOP-2, DIA-2, OOP-CL, SAPS-3 (105)
 
-CZIOHOB17ZC3J131
-00 RJBZHQ
-DB R3WPJ 833
+CZCHQAS!7ZC3J3!31
+
+OO RJEZHO
+
+DE R3WPJ 008
+
 ZNR
-0 3994432
-FM CCGD TWELVE
-TO R3YPPO/CG/WESTSEAFRON
-RJBZHQ/CDFS USAF
-RJWFALYGONAD ENT AFB
-ZEW/COMHISTAMA COGARD
-R3EPJD/CGADT COGARD
-RJWZBV/ARG HAMILTON AFB
-USCG GRNG
 
-BT
+0 0904435Z
+
+PM CCGD TWELVE
+
+TO R3WPG/CG'SSEAFRON
+
+RJEZHO/COFS USAF
+
+RJ'WFALG/CONRAD ENT AFB
+
+ZEN/CG'SAREA COGARD
+
+R3EPJD/CGMDT COGARD
+
+RJ'WZS3/MARC HAMILTON AFB
+
+USCG GRNC
+
+3T
+
 UNCLAS
-CINVIS
 
-1.: MATS 33225/3 994232Z 36-23N 125W SIGHTED UFO POSSIBLE PLUME
-OF COMET BEARING 282 MAG FM SFO 10 DEGREES ABOVE HORIZON 
+CIRVIS
+
+1.; MATS 33325/3 0904293Z 36-23N 105W SIGHTED UFO POSSIBLE PLUME
+OF COMET BEARING 280 MAG FM SFO 10 DEGREES ABOVE HORIZON
 FOLLOWING SSW.
 
-BT
-99/2445Z
-NOTE : Advance copies delivered to OOP-CP and CIN
+3T
+
+09/0445Z
+
+NOTE: Advance copies delivered to OOP-CP and CIN
+
 
 - page 21 -
 

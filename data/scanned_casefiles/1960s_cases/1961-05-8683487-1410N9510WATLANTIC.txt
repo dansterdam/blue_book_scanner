@@ -1,58 +1,96 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record card.
+Here is the text from the document:
 
-TEXT OUTPUT:
+PROJECT 10073 RECORD CARD
 
 1. DATE
-2. LOCATION 14°10'N 95°10'W ATLANTIC
-3. DATE/TIME GROUP 11May 61 0951Z
-4. TYPE OF OBSERVATION:
-D Ground-Visual
-5. PHOTOS O Yes
-6. LENGTH OF OBSERVATION 5 min
-8. BRIEF SUMMARY OF SIGHTING
-Object traveled too high to note shape or size or type of propoulsion. Had neither sound nor tail. Observed heading N, stopped twice, then made sharp turn and headed S and in about 5 min was lost to sight. Object as bright as 1st magnitude star.
-11. CONCLUSIONS Was Balloon
-Probably Balloon
+14 May 61
+
+2. LOCATION
+1410N 9510W ATLANTIC
+
+3. DATE-TIME GROUP
+Local 2000
+GMT 140800Z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual
+☒ Air-Visual
+SOURCE
+Military
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. NUMBER OF OBJECTS
+1
+
+7. LENGTH OF OBSERVATION
+5 min
+
+8. COURSE
+N then S
+
+9. BRIEF SUMMARY OF SIGHTING
+Obj with controlled flight, too high to note shape or size or type of propulsion. Had neither rocket nor meteor trail. Observed altitude approx 40°. Obj 1st observed heading N, stopped twice, then made easy turn and headed S and about 1 min disappeared over southern horizon. Obj as bright as 1st magnitude star.
+
+10. COMMENTS
+It is possible that obj was an a/c flying at a high altitude. However, this report contains very little info on which to base a valid conclusion.
+
+11. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a page from an old document or report, possibly related to Project Blue Book, a historical U.S. Air Force program that investigated unidentified flying objects (UFOs).
-
-RE02S
-CZCSG1372CJYF274
-BR: NJFPSD
-DE RJEZ:HQ 194
+RE028
+CZCS0E137ZCJYF274
+RF RJED68
+DE RJEZHO 804
 ZNR
-R 142235Z
-FM APRIL HQ USAF WASH DC
-INFO RJEP93/ATIC WPAFB OHIO
+R 1422562
+FM AFGIB HQ USAF WASH DC
+INFO RJEDS0/ATIC WPAFB OHIO
+
+1961 MAY 14 23 43
+(50)
+
 
 - page 2 -
 
-The image does not contain a photograph. It appears to be a page from an old UFO report document from Project Blue Book.
-
-Z 11e
-0 143932
-FR COMWESTAREA 
-TO ESUFTJR/COMWESTSTAFRGI 
-RJUFALR/COMJRADENT AEB 
-RJEZHG/CHIET OF STAFF USAF WASH DC
-F 141252
-FM 21 PENHAR
+ZUR - 
+O 141938Z
+FH COMWESTAREA
+TO REMPFG/COMWESTSEAFRON
+RJMFAL/COMAD ENT AFB
+RJEZ10/CHIEF OF STAFF USAF WASH DC
+P 141525Z
+FM SS PENMAR
 TO COMWESTAREA
-INFO NAVY $ANFP.ANCISCO 
-ET
-UNCIAS HERRIT 33 PENNAR NAVY SINGLE OBJECT WITH CONTROLLED FLIGHT TOO
-HIGH TO EOTE SHEER OR SIZE OR TYPE OF FLIGHT. NEITHER ROCKET
-NOR METEØR TAIL. SHIP'S POSITION 14-10 NORTH 25-10 WEST 0300Z 14
-MAY 41. OBSERVED ALTITUDE APPROXIMATELY 40 DEGREES. OBJECT FIRST
-OBSERVED HEADING NORTH STOPPED THEN MADE EASY TURN AND HEADED
-SOUTH AND IN ABOUT ONE-EIGHTH DISAPPEARED OVER SOUTHERN HORIZON.
-PERIOD OF OBSERVATION FIVE MINUTES. SEA CALM SKY CLEAR VISIBILITY  
+INFO NAVY SANFRANCISCO
+BT
+UNCLAS MERINI SS PENMAR NAVY SINGLE OBJECT WITH CONTROLLED FLIGHT TOO
+HIGH TO NOTE SHAPE OR SIZE OR TYPE OF PROPULSION. HAD NEITHER ROCKET
+NOR METEOR TAIL. SHIPS POSITION 14.10 NORTH 95.10 WEST 0300Z 14
+MAY 61. OBSERVED ALTITUDE APPROXIMATELY 40 DEGREES. OBJECT FIRST
+OBSERVED HEADING NORTH STOPPED TWICE THEN MADE EASY TURN AND HEADED
+SOUTH AND IN ABOUT ONE MINUTE DISAPPEARED OVER SOUTHERN HORIZON.
+PERIOD OF OBSERVATION FIVE MINUTES. SEA CALM SKY CLEAR VISIBILITY
 UNLIMITED. OBJECT AS BRIGHT AS FIRST MAGNITUDE STAR
-CASPER
-ET
-14/23$32 MAY RJEZHG
+MASTER
+BT
+14/2303Z MAY RJEZ10
+
 
 - page 3 -
 

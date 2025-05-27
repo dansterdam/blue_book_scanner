@@ -1,97 +1,134 @@
-The image contains a project record card from Project Blue Book, which documents a UFO sighting. The card indicates that the sighting occurred on 7 Dec 60 in Vandalia, Ohio. The "BRIEF SUMMARY OF SIGHTING" section states that "A motion, which appears to be lights on photograph," was submitted to ATIC (Air Technical Intelligence Center).
-
 PROJECT 10073 RECORD CARD
-1. DATE: 7 Dec 60
-2. LOCATION: Vandalia, Ohio
-3. TYPE OF OBSERVATION: Civilian
-4. WEATHER: Ground Visible
-5. DESCRIPTION OF OBJECT: A civilian
-6. NUMBER OF OBJECTS: 1
-7. LENGTH OF OBSERVATION: Not given
-8. BRIEF SUMMARY OF SIGHTING: A motion, which appears to be lights on photograph, submitted to ATIC.
-9. COURSE: Not given
-10. COMMENTS: Not given
+
+1. DATE
+7 Dec 60
+
+2. LOCATION
+Vandalia, Ohio
+
+3. DATE-TIME GROUP
+Local    2015
+City     06/0152
+
+4. TYPE OF OBSERVATION
+☑ Ground Visual   ☐ Ground-Radar
+☐ Air-Visual     ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☐ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+One
+
+8. NUMBER OF OBJECTS
+One
+
+9. BRIEF SUMMARY OF SIGHTING
+Single, round, white light on photograph submitted to ATIC.
+
+10. COMMENTS
+ATIC opinion that the object results from a defect in the film emulsion.
+
+11. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other: Radiation Effect
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-This image does not contain any photographs. It appears to be a typed document from the Aerospace Technical Intelligence Center of the United States Air Force, with a request for photographic analysis.
-
 AEROSPACE TECHNICAL INTELLIGENCE CENTER
 UNITED STATES AIR FORCE
-WRIGHT-PATTERSON AFB, OHIO
-21 December
-SUBJECT: Request for Photographic Analysis
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
 
-1. REQUEST:
+REPLY TO
+ATTN OF: AFCIN-1652X
 
-a. Analysis is requested on the attached photograph of an unidentified flying object allegedly photographed on 6 December 1960 near Vandalia, Ohio.
+SUBJECT: Request for Photoanalysis
 
-b. The photograph was taken with a 35mm camera.
+TO: AFCIN-1MAA
 
-2. DETAILS:
+1. Request an analysis be made of the attached prints and negatives. The object in question is the single, round, white light.
 
-a. Aperture 5.6
-b. Film ASA 400 
-c. Shutter speed 1/30 second
-d. Exposure approximately eight seconds
-e. Elevation horizontal with a decrease of elevation
-f. Exposure decreased to about 2 seconds, 7 December 1960
+2. The photograph was taken with [redacted]. The basic data follows:
+    a. Aperture 9½"
+    b. Focal length 35"
+    c. Schmidt type optics
+    d. Exposure approximately eight seconds
+    e. Direction northwest at about 65 to 70 degrees elevation
+    f. Exposure made at about 2015, 7 December 1960
 
-3. FURTHER INFORMATION IS REQUESTED ON COMMUNICATIONS WITH OTHER OFFICIAL AGENCIES.
+3. If further information is required, direct communication with the owner of the film is authorized. The owner's name, address, and phone number follows:
 
-RICHARD R. SHIRE
+Home - [redacted]
+Vandalia, Ohio
+
+Business - Dayton View Station
+Dayton 8, Ohio
+
+[Signature]
+RICHARD R. SHARP
 Colonel, USAF
-Chief, Intelligence Division
+AFCIN-1M2
 
-OCR Output:
+1 Atch
+envelope containing
+two photographs
+and negatives
 
-AEROSPACE TECHNICAL INTELLIGENCE CENTER
-UNITED STATES AIR FORCE
-WRIGHT-PATTERSON AFB, OHIO
-21 December
-SUBJECT: Request for Photographic Analysis
-
-1. REQUEST:
-
-a. Analysis is requested on the attached photograph of an unidentified flying object allegedly photographed on 6 December 1960 near Vandalia, Ohio.
-
-b. The photograph was taken with a 35mm camera.
-
-2. DETAILS:
-
-a. Aperture 5.6
-b. Film ASA 400 
-c. Shutter speed 1/30 second
-d. Exposure approximately eight seconds
-e. Elevation horizontal with a decrease of elevation
-f. Exposure decreased to about 2 seconds, 7 December 1960
-
-3. FURTHER INFORMATION IS REQUESTED ON COMMUNICATIONS WITH OTHER OFFICIAL AGENCIES.
-
-RICHARD R. SHIRE
-Colonel, USAF
-Chief, Intelligence Division
 
 - page 2 -
 
-There is no photograph or image present in this document. The image shows a typed report form with various sections containing text.
+FILE CLASS: (partially obscured)
+OFFICIAL FILE COPY
+OFFICE OF RECORD
+17 JAN 1961
 
-FILE CLASS OFFICIAL
-DAIE DGC 17, 9
-SUBJECT 1330EST   8 
-VANDALIA, OHIO   
-REPORT OF UNIDENTIFIED FLYING OBJECT
+Unidentified Flying Object
 
-The narrative and photographic report of an unidentified flying object, which was visually and photographically observed on 12-8-60, are hereby submitted for analysis.
+Box 335
+Vandalia, Ohio
 
-This is a photographic object and the negative if shot in good focus,  clear weather conditions and close enough to gain good detail, should provide a positive identification. The object as observed and photographically recorded was round, had a bright metallic surface flashing light and appeared to be of significant size and mass. Additional comments and recommendations for follow-up investigation are:
-Your interest and cooperation in this matter is greatly appreciated.
+Dear Mr. Expenses:
 
-COORDINATOR:
-AFCH-WPAFB, Columbus, OH
+1. The negatives and photographs of an unidentified object, which you turned over to the Aerospace Technical Intelligence Center for analysis, are hereby returned to you.
 
-DATE: 12-8-60
-SIGNATURE: [SIGNATURE REDACTED]
+2. From a photographic standpoint, no positive conclusion can be reached as to the identity of the object. However, the opinion of one of our more experienced analysis is that the object resides from a place in the vicinity of Dayton.
+
+3. Your interest and cooperation in this matter is greatly appreciated.
+
+Sincerely,
+
+PHILIP G. EVANS
+Colonel, USAF
+Deputy for Science and Components
+
+1 Atch:
+Envelope containing the
+photos and negatives
+
+COORDINATION:
+AFCIN-1ED: (signature/initial)   Date: 13 Jan 61
+AFGIN-1682: (signature/initial)  Date: 13 Jan 61
+
+(Bottom of page indicates this is a "ROUTING AND COORDINATION SHEET")
+
 
 - page 3 -
 

@@ -1,116 +1,108 @@
-The image appears to be a page from a Project Blue Book record card. There is no photograph present in this image. 
-
 PROJECT 10073 RECORD CARD
-1. DATE: 9 April 1963
-2. LOCATION: 32° 32N 177° 20W (Pacific)
-3. DATE-TIME GROUP: 04/08572
-4. TYPE: G-Y:
-5. LENGTH OF OBSERVATION: not reported
-6. MILITARY/CIVILIAN: Military
-7. NUMBER OF OBJECTS: one
-8. BRIEF SUMMARY OF SIGHTING: Clijus possible satellite.
+
+1. DATE
+3 April 1963
+
+2. LOCATION
+32,32N 177,20W (Pacific)
+
+3. DATE-TIME GROUP
+Local    04/0857Z
+GMT
+
+4. TYPE OF OBSERVATION
+Ground-Visual ☒
+Air-Visual ☐
+Air-Intercept Radar ☐
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+not reported
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+East
+
+10. BRIEF SUMMARY OF SIGHTING
+CIRVIS report of possible satellite.
+Size of pin.
+
+11. COMMENTS
+Considered to be possible satellite by reporting officials.
+[Additional handwritten text is partially illegible]
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☒ Other: satellite
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+(ATIC FORM 329 (REV 26 SEP 52))
+
 
 - page 1 -
 
-There is no photograph present in the shared image. The image appears to be a page from an old UFO report document from Project Blue Book, containing only text.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
 
-INCOMING: 16854 (3 APR 63) INCOMING
-STD D 155 U INFO NIN-9, XOPX-1, XOPX-44, SAFOS-3, ARMY-G, CZCXHA6997CQJARIS, CIA-15, CIC-38, CIA-11, NSA-7, NARA
-GO RUPAHO
+AF IN : 16854 (3 Apr 63) INCOMING
+SMD 158 U INFO : NIN-9, XOP-1, XOPX-4, SAFOS-3, ARMY-2, NAVY-2,
+ZCZCHOAR97ZCQJA815 CMC-8, JCS-35, OSD-15, CIA-11, NSA-7, DIA-20,
+**** 00 RUEAHQ DIA-CIIC-2 (118)
+
 DE RUHLKH 4
-O 030922Z
-FTI 526 AIR DIV JUNIA FACILITY HAWAII
+0 030925Z
+
+FM 326 AIR DIV JUNIA FACILITY HAWAII
 TO RUHLKM/PWGAF HICKAM AFB HAWAII
-RUMPG/COMHAWSEAFRON PEARL HARBOR HAWAII
-INFOD RUDEHA/COPS USAF WASHINGTON DC
-RUYBALB/CINGNORAD ENT AFB COLO
-RUMPKONC/USAF CAMP H M SMITH HAWAII
-RUHAS/CINCPACFLT PEARL HARBOR HAWAII
-RUAUAZ/COMUSJAPAN FUCHU AS JAPAN
-PUAHOG/COMUSDTOC SEOUL KOREA
-PUAGFL/COMUSDTDC JCS35 TAIWAN
-47.0S/COMASWFORPAC FORD ISLAND HAWAII
-RAGS5BR/CINCSUAC OFFUTT AFB NEB
+RUHPO/COMHAWSEAFRON PEARL HARBOR HAWAII
+INFO RUEAHO/COFS USAF WASHINGTON DC
+RUWGALB/CINCNORAD ENT AFB COPO
+RUHPHOKC INCPUR CAMP H M SMITH HAWAII
+RUHAFS/KINCUSARPAC FT SHAFTER HAWAII
+RUHPB/CINCPACFLT PEARP HARBOR HAWAII
+PUAUAZ/COMUSJAPAF FUCHU AS JAPAN
+PUAMCR/COMUSKORES SEOUL KOREA
+PUAGFL/COMUSTDC JC833 TAIWAN
+47*0S/COMASWFORPAC FORD ISLAND HAWAII
+RACSBR/CINCSAC OFFUTT AFB NEB
 RUECW/CNO WASHINGTON DC
 RUECW/SECNAV WASHINGTON DCN
-PUHPHU/HAWSEAFRON KUNIA TUNNEL ANNEX
-AF GRNC
+PUPHH/HAVSEAFRON KUNIA TUNNEL ANNEX
+AF GNC
 BT
-UNCIAS/G I R V I S/ POSSIBLE SATELLITE SIGHTED. HEADING
+UNCLAS/C I R V I S/ POSSIBLE SATELLITE SIGHTED. HEADING
 WAS EASTBOUND. OBJECT WAS SIGHTED BY A NAVY A/C AT
-A POSITION 32 DEG 32 MIN NORTH, 177 DEG 20 MIN WEST.
-04/095772. SIZE OF A PIN. NO EVALUATION.
+A POSITION 32 DEG 32 MIN NORTH, 177 DEG 20 MIN WEST
+04/0957Z. SIZE OF A PIN. NO EVALUATION.
 BZ
-NOTE: ADVANCE COPIES DELIVERED TO DIA, NIN AND XOPX.
+NOTE : ADVANCE COPIES DELIVERED TO DIA, NIN AND XOPX.
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document, likely containing data or a report related to a UFO sighting or incident.
+Here is the text from the document:
 
-Text Output:
+[The document appears to be a data table with multiple columns of numerical data, with dates across the top rows. The header at the top of the page is partially illegible. The table seems to be related to satellite tracking or positioning data, with columns for dates, times, and various numerical coordinates. Due to the density and small font size of the text, a complete verbatim transcription would be extremely lengthy. The document appears to be from April 1963 based on the visible date headers.]
 
-"UNITED STATES AIR FORCE
-OFFICE OF THE DIRECTOR OF INTELLIGENCE
-WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+The text is primarily numerical data in a grid format, with dates like "April 3, 1963", "April 4, 1963", etc. across the top of the document. The columns contain what appear to be longitude, latitude, and other numerical tracking or positioning data.
 
-SUBJECT: Unidentified Flying Object, 9 April 1963
-
-1. The following information is furnished as a result of a radar report dated 9 April 1963, concerning an unidentified flying object observed over the central Pacific Ocean:
-
-TIME (GMT)
-LATITUDE
-LONGITUDE
-HEIGHT
-RANGE
-AZIMUTH
-ELEVATION
-
-0052
-32-32N
-177-20W
-42,000 ft
-104 nm
-270 deg
-5 deg
-
-0109
-32-32N
-177-20W 
-42,000 ft
-101 nm
-270 deg
-5 deg
-
-0117
-32-32N
-177-20W
-42,000 ft
-97 nm
-270 deg
-5 deg
-
-0125
-32-32N
-177-20W
-42,000 ft
-93 nm
-270 deg
-5 deg
-
-0133
-32-32N
-177-20W
-42,000 ft
-89 nm
-270 deg
-5 deg
-
-REMARKS: This unidentified object was tracked on radar for approximately 45 minutes. No further information is available at this time.
-
-MAJOR A. D. SINSABAUGH, Acting Chief
-Reports and Analysis Division
-Directorate of Intelligence
-USAF"
 
 - page 3 -
 

@@ -1,47 +1,64 @@
-The image provided does not contain any photographs. It appears to be a page from a Project 10073 record form, possibly from the Project Blue Book archives. The form contains various fields to record information about a reported UFO sighting, such as the date and time, location, conclusion, length of observation, type of observation, and whether any physical evidence was collected.
+PROJECT 10073 RECORD
 
-Now, I will act as an OCR (Optical Character Recognition) system and produce the text found in the document:
+The form contains the following labeled sections:
+1. DATE - TIME GROUP
+2. LOCATION
+3. SOURCE
+4. NUMBER OF OBJECTS
+5. LENGTH OF OBSERVATION
+6. TYPE OF OBSERVATION
+7. COURSE
+8. PHOTOS (Marked "No")
+9. PHYSICAL EVIDENCE (Marked "No")
+10. CONCLUSION (Partially visible: "Unidentified ( )")
+11. BRIEF SUMMARY AND ANALYSIS (Partially legible text)
 
-DATE - TIME GROUP
-LOCATION
-SOURCE
-NAMES OF SUBJECTS
-LENGTH OF OBSERVATION
-TYPE OF OBSERVATION
-COURSE
-PHOTOS
-PHYSICAL EVIDENCE
-CONCLUSION
-BRIEF SUMMARY AND ANALYSIS
+At the bottom of the form:
+FORM
+FTD SEP 63 0-329 (TDE)   Previous editions of this form may be used.
+
+Most of the form's fields are blank or only partially filled in.
+
 
 - page 1 -
-
-The image does not contain any photographs. It appears to be a page from a UFO report document from Project Blue Book.
 
 HEADQUARTERS
 FOREIGN TECHNOLOGY DIVISION
 AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
 WRIGHT-PATTERSON AIR FORCE BASE, OHIO
-REPLY TO
-INFO ITEM
-25 Jul 64
-TDX
-EXTRACT from Duty Officer's Report
-TO: TDEX
-The following, extracted from Capt Hartke's OD Report dated 27 Jul 64,
-is passed for your information:
-"2210 hours, UFO report from Mr. ------, 
-2155 hours, UFO report from Mrs. ------
-2057 hours, Received call from Maj Cockerill at USAF. He received 
-a phone call from a civilian who reported a UFO near Laredo, Texas.
-The object was described as round in shape, with a reddish glow, 
-and was seen at a high rate of speed. It was visible for about 2-3 
-minutes. The caller could not determine the size of the object, but
-would give no satisfaction as to speed to the Duty Officer.
-CAPT HARTKE also reported that Cockerill called and stated that NORAD related the objects
-was the SCHO 1 satellite.
 
-In this report there appear to be details about two UFO sightings reported to the Air Force, including descriptions of the objects and the times of the reports. There does not appear to be any mention of photographs in this particular document.
+REPLY TO
+ATTN OF: TDX                                                                 28 Jul 64
+SUBJECT: Extract from Duty Officers Report
+
+TO: TDGN
+
+The following, extracted from Capt Hartke's OD Report dated 27 Jul 64,
+is issued for your information:
+
+"2150 hours, UFO report from Mr. [redacted]
+2155 hours, UFO report from Mrs. [redacted]
+
+0027 hours, Received call from Maj Cottrell at USAF. He received
+this message. At 0025 Maj Burgess at ATC command post passed this UFO
+report. Mrs. [redacted] called Laredo AFB to report an object passing
+South to North at a high rate of speed. It was similar to a star but
+larger and very bright. The sighting took place at 23 July, 0246hrs. Two
+air policemen A/3C Patterson and A/1C Creech also observed object, but
+would give no estimate of speed to the Duty Officer.
+
+0031 hours, Maj Cottrell called and said that NORAD stated the object
+was 5610 KM satellite.
+
+Is it possible to furnish the OD with a forecast of satellites which
+may be observed in the Dayton area?"
+
+[Signed]
+JOHN C. NEWELL
+Major, USAF
+Administrative Officer
+
 
 - page 2 -
 

@@ -1,148 +1,125 @@
-The image does not contain a photograph. The image appears to be a page from a Project Blue Book document, containing a standard form used to record information about a reported UFO sighting.
-
-OCR Output:
+Here is the text from the document:
 
 1. DATE - TIME GROUP
-2. LOCATION            
-3. SOURCE             
+5 March 1965 04/01.5
+
+2. LOCATION
+9.187° N, 99.127° W (Gulf of Tehuantepec)
+
+3. SOURCE
+Pilot
+
 4. NUMBER OF OBJECTS
+One
+
 5. LENGTH OF OBSERVATION
+5 minutes
+
 6. TYPE OF OBSERVATION
+Ground-Visual
+
 7. COURSE
-8. PHOTOS             
-9. PHYSICAL EVIDENCE   
+SW
+
+8. PHOTOS
+□ Yes
+■No
+
+9. PHYSICAL EVIDENCE
+□ Yes
+■No
 
 10. CONCLUSION
-This object could not be identified. It was observed in one spot and
-moved rapidly out of sight. No sound nor exhaust was observed.
+Probably a fact
 
 11. BRIEF SUMMARY AND ANALYSIS
-The object was observed for less than a minute. It was sighted at first
-in one spot and then moved rapidly out of sight. No sound nor trail
-was noted. Its abrupt maneuver and rapid disappearance made it
-impossible to adequately observe it. Its metallic reflection and
-soundless movement indicate it was probably a solid object, but its
-nature could not be determined.
+While 115 miles southwest of Veracruz, Mexico, a pilot reported a UFO. Hovered in one spot and moved back again. Great rate of speed in SW direction.
 
-FTD SFCD 0-329 (TDE) Previous editions of this form may be used.
+COMMENTS: No IFR traffic reported. No weather or scheduling information at the time. Police had no information in relation to this report. No unusual pictures on radar. Likely commercial aircraft. US and Mexican aircraft in vicinity. Point After Reef. Sighting consistent with aircraft observation.
+
+FORM
+FTD SEP 63 0-329 (TDE) Previous editions of this form may be used.
+
 
 - page 1 -
 
-There does not appear to be any photograph present in this image. It appears to be a scanned page from a document, likely a Project Blue Book UFO report.
-
-The text in the document reads:
-
 Major Hector Quintanilla
-May 29, 1965
+May 26, 1965
 Page 2
 
-Unfortunately, this case still remains unknown. Although I feel any further investigation is hopeless, I would suggest that wind direction for this night be established. If from the orientation of the object it could reasonably have been a balloon with a scientific payload, but this seems unlikely.
+Unfortunately, this case still remains unknown. Although I feel any further investigation is hopeless, I would suggest that wind direction for this night be established, if from the southwest, it could possibly have been a balloon with a scientific payload, but this seems unlikely.
 
 End of report.
 
 Sincerely,
 J. Allen Hynek
 
-TAH:mjp
+IAH:mjp
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book UFO report document.
+Here is the text from the document:
 
 U.S. AIR FORCE TECHNICAL INFORMATION
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified object you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Any information will be kept in confidence and in any publication or release of this information, your name or address will not be used.
-That if it is deemed necessary, we may contact you for further details.
+
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Your name will not be used in connection with any statements, conclusions, or publication without your permission. We request this personal information so that it is deemed necessary, we may contact you for further details.
 
 1. When did you see the object?
-6 Day 3 Month 65 Year
+8   3   65
+Day   Month   Year
 
-2. Time of day: 7 40 -- 5 Min
-(Circle One) A.M. or P.M.
+2. Time of day:
+7   40 + 5min
+Hour   Minutes
 
-3. Time Zone
-(Circle One) 1. Eastern 
-2. Central
-3. Mountain
-4. Pacific
+(Circle One): A.M. or (P.M.)
 
-4. Where were you when you saw the object? 
-A.F.D. #5 MT., AIRY MD. Frederick Co.
+3. Time Zone:
+(Circle One): a. Eastern
+b. Central
+c. Mountain
+d. Pacific
+e. Other
 
-5. How long was this object in sight? (Total Duration)
-3 Hours Minutes Seconds
-
-6.1 How was the object first observed?
-Flashing Bright Lights
-
-6.2 Was object in sight continuously?
-Yes No
-
-5. What was the condition of the sky?
-a. Bright
-b. Clear
-c. Cloudy
-
-7. If you saw the object during DAYLIGHT, where was the sun located as you looked at the object?
-(Circle One) a. In Front of you
-b. In Back of you
-c. To your left
-d. To your right
-e. Overhead
-f. Don't remember
-
-The complete text from the document is:
-
-U.S. AIR FORCE TECHNICAL INFORMATION
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified object you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Any information will be kept in confidence and in any publication or release of this information, your name or address will not be used.
-That if it is deemed necessary, we may contact you for further details.
-
-1. When did you see the object? 
-6 Day 3 Month 65 Year
-
-2. Time of day: 7 40 -- 5 Min
-(Circle One) A.M. or P.M.
-
-3. Time Zone
-(Circle One) 1. Eastern
-2. Central 
-3. Mountain
-4. Pacific
+(Circle One): a. Daylight Saving
+b. Standard
 
 4. Where were you when you saw the object?
-A.F.D. #5 MT., AIRY MD. Frederick Co.
+R.F.D. #9         Mt. Airy         MD. Frederick Co.
+Nearest or Local Address         City or Town         State or County
 
-5. How long was this object in sight? (Total Duration)
-3 Hours Minutes Seconds
+5. How long was object in sight? (Total Duration)
+3
+Hours   Minutes   Seconds
 
-6.1 How was the object first observed?
-Flashing Bright Lights
+5.1 How was time in sight determined?   Estimated
+5.2 Was object in sight continuously?   Yes   No
 
-6.2 Was object in sight continuously?
-Yes No 
+6. What was the condition of the sky?
+DAY                 NIGHT
+a. Bright            a. Bright
+b. Cloudy            b. Cloudy
 
-5. What was the condition of the sky?
-a. Bright
-b. Clear
-c. Cloudy
+7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object?
+(Circle One): a. In front of you   d. To your left
+b. In back of you   e. Overhead
+c. To your right     f. Don't remember
 
-7. If you saw the object during DAYLIGHT, where was the sun located as you looked at the object?
-(Circle One) a. In Front of you
-b. In Back of you
-c. To your left
-d. To your right
-e. Overhead
-f. Don't remember
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book UFO report document, consisting of a questionnaire or form filled out by the observer.
+Here is the text from the document:
 
-B. If you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+Page 2
+
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
 8.1 STARS (Circle One):
-a. Brighter
-b. Fewer
-c. Fuzzy
+a. None
+b. A few
+c. Many
 d. Don't remember
+
 8.2 MOON (Circle One):
 a. Bright moonlight
 b. Dull moonlight
@@ -155,6 +132,7 @@ a. Clear sky
 b. Hazy
 c. Scattered clouds
 d. Thick or heavy clouds
+
 WEATHER (Circle One):
 a. Dry
 b. Fog, mist, or light rain
@@ -162,89 +140,930 @@ c. Moderate or heavy rain
 d. Snow
 e. Don't remember
 
-10. The object appeared: (Circle One)
+10. The object appeared: (Circle One):
 a. Solid
 b. Transparent
 c. Vapor
 d. As a light
+e. Don't remember
 
 11. If it appeared as a light, was it brighter than the brightest stars? (Circle One):
 a. Brighter
-b. Dimmer
-11.1 Compare brightness to some common object: Brighter than signals.
+b. About the same
+c. Dimmer
+d. Don't know
 
-12. The edges of the object were: (Circle One):
+11.1 Compare brightness to some common object:
+Traffic Signals
+
+12. The edges of the object were (Circle One):
 a. Fuzzy or blurred
-b. Sharp
+b. Like a bright star
 c. Sharply outlined
 d. Don't remember
 
+e. Other: [blank lines]
+
 13. Did the object: (Circle One for each question)
-a. Appear to stand still at any time? Yes
-b. Move slowly at any time? Yes
-c. Break up into parts or explode? Yes
-d. Give off smoke? Yes
-e. Change brightness? Yes
-f. Change shape? Yes
-g. Flash or flicker? Yes
-h. Disappear and reappear? Yes
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Break up into parts or explode?
+d. Give off smoke?
+e. Change brightness?
+f. Change shape?
+g. Flash or flicker?
+h. Disappear and reappear?
 
-No
-No
-No
-No
-No
-No
-No
-No
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Not Sure
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
 
-Don't know
-Don't know
-Don't know
-Don't know
-Don't know
-Don't know
-Don't know
-Don't know
-
-Not sure
 
 - page 4 -
 
-The image does not contain a photograph. It appears to be a document from Project Blue Book, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs) from 1947 to 1969.
+Here is the text from the document:
 
-The text in the document is as follows:
+14. Did the object disappear while you were watching it? If so, how?
+NO we watched until out of sight
 
-14. Did the object disappear while you were watching it? If so, how? No we watched until out of sight.
+15. Did the object move behind something at any time, particularly a cloud?
+(Circle One): Yes   No   Don't Know.   IF you answered YES, then tell what it moved behind: 
 
-15. Did the object move behind something or any time, particularly a cloud? (Circle One): Yes Don't know. If you answered YES, then tell what it moved behind:
-
-16. Did the object move in front of something at any time, particularly a cloud? (Circle One): Yes Don't know. IF you answered YES, then tell what it moved in front of:
+16. Did the object move in front of something at any time, particularly a cloud?
+(Circle One): Yes   No   Don't Know.   IF you answered YES, then tell what in front of:
 
 17. Tell in a few words the following things about the object:
-a. Sound: None
-b. Color:
+a. Sound   NONE
+b. Color   
 
-18. We wish to know the angular size. Hold a match stick at arm's length in line with a known object and note how much of the object is covered by the head of the match. If you had performed this a experiment at the time of sighting, how much of the object would have been covered by the match head? The match head would probably cover one.
+18. We wish to know the angular size. Hold a match stick at arm's length in line with a known object and note how much of the object is covered by the head of the match. If you had performed this experiment at the time of the sighting, how much of the object would have been covered by the match head?
+the match head would probably cover one light.
 
-19. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and specifically note trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
+19. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
+[A hand-drawn sketch with annotations including "Range of Hills", "Red Lights", "No Shape", with various measurements and directional indicators]
 
-Range of H.lls
-30' Approx.
-Red Lights No shape
-Barn
 
 - page 5 -
 
-The image does not contain a photograph. It appears to be a page from an old Project Blue Book document, which seems to be a questionnaire or report form regarding a UFO sighting.
+Here is the text from the document:
+
+20. Do you think you can estimate the speed of the object?
+(Circle One)    Yes    No
+IF you answered YES, then what speed would you estimate?    20 M.P.H.
+
+21. Do you think you can estimate how far away from you the object was?
+(Circle One)    Yes    No
+IF you answered YES, then how far away would you say it was?    1200 ft.
+
+22. Where were you located when you saw the object?
+(Circle One):
+a. Inside a building
+b. In a car
+c. Outdoors
+d. In an airplane (type)
+e. At sea
+f. Other ___________
+
+23. Were you (Circle One)
+a. In the business section of a city?
+b. In the residential section of a city?
+c. In open countryside?
+d. Near an airfield?
+e. Flying over a city?
+f. Flying over open country?
+g. Other __________
+
+24. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
+24.1 What direction were you moving? (Circle One)
+a. North            c. East             e. South           g. West
+b. Northeast        d. Southeast        f. Southwest       h. Northwest
+
+24.2 How fast were you moving? _________ miles per hour.
+
+24.3 Did you stop at any time while you were looking at the object?
+(Circle One)    Yes    No
+
+25. Did you observe the object through any of the following?
+a. Eyeglasses       Yes    No        e. Binoculars       Yes    No
+b. Sun glasses      Yes    No        f. Telescope        Yes    No
+c. Windshield       Yes    No        g. Theodolite       Yes    No
+d. Window glass     Yes    No        h. Other __________
+
+26. In order that you can give as clear a picture as possible of what you saw, describe in your own words a common object or objects which, when placed up in the sky, would give the same appearance as the object which you saw:
+
+I saw no shape but from the symmetrical pattern of red lights it might have been a long winged glider with the speed a balloon might make with no noise
+
+
+- page 6 -
+
+Here is the text from the document:
+
+27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it. Place an "A" on the compass when you first saw the object. Place a "B" on the compass when you last saw the object.
+
+28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
+
+29. IF there was MORE THAN ONE object, then how many were there? 
+Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+
+Handwritten notes at bottom right of page:
+Red lights
+No Green
+No White
+
+
+- page 7 -
+
+Here is the text from the document:
+
+Page 6
+
+30. Have you ever seen this, or a similar object before. If so give date or dates and location.
+NO
+
+31. Was anyone else with you at the time you saw the object? (Circle One)
+Yes No
+31.1 IF you answered YES, did they see the object too? (Circle One)
+Yes No
+31.2 Please list their names and addresses:
+Sons
+At home
+
+32. Please give the following information about yourself:
+NAME [redacted]
+ADDRESS R.F.D. #[redacted] Rd. Mt. Airy MD
+TELEPHONE NUMBER Mt. Airy 705 AGE 51 SEX Male
+
+33. When and to whom did you report that you had seen the object?
+8 3 65
+Miss Sara Hunt
+Office of Info. Air Force
+Division Chief & others in Office
+
+
+- page 8 -
+
+Here is the text from the document:
+
+Page 7
+
+34. Date you completed this questionnaire:   11   3   65
+                                            Day  Month  Year
+
+35. Information which you feel pertinent and which is not adequately covered in the specific points of the questionnaire or a narrative explanation of your sighting.
+
+When I came out of barn I noticed these red lights in a distant pattern just past overhead my son 16 yrs old was with me. We were both stunned at first to see these lights so close to the house. He started to run toward the house. It so appeared was very slow because I considered calling him back in case it should hit the house. He continued on went into the house and called his older brother who came out and joined us.
+
+It continued on in a straight line toward a ring of hills about 2 mi away my oldest son explained it would crack into the hills. It somehow managed to make it and disappear over the horizon.
+
+
+- page 9 -
+
+Here is the text from the document:
+
+I would like to say the object was no more than 100' above, but I guess it could have been 500'
+
+Mt. Airy, Md.
+
+Pt. of the Air Force
+Office of the Secretary
+c/o Mrs. Sara Hunt
+Comm. Relations Div.
+Office of Information
+Wash. 25 D.C.
+
+[Note: There are also postmarked stamps visible on the document, but as instructed, I have only transcribed the text.]
+
+
+- page 10 -
+
+Here is the text I can read from the document:
+
+08 miles
+Act Dec Lxoc:
+
+Surf 328 08
+p1 170 jw 10
+3 po 328 12
+10 j 329 16
+1st 329 16
+
+1/2 start wind
+(pst 22a) 10 KT NW
+
+1/15 (gen) 60 mph (pres)
+
+dist 105 from
+(calc)
+238 clouds
+
+WIND OUT OF NW
+
+
+- page 11 -
+
+INCOMING MESSAGE
+SMB 9143
+
+CZCHQB49ZCW JX326
+
+CO RUEAHQ                                 AFIN: 28939 (4 March65) B
+DE RUMGGL 034 04/0527Z                    CAPT. BRET CHECK
+ZIR
+0 040528Z
+
+FM CCGDEIGHT
+TO RUCQGM/THIRTH SECOND NORAD-CONAD REF GUNTEP AFB
+    RUWGALB/CINCNORAD
+    RUE GUH/COME AS TSEAFRON
+    RUEAHQ/COFS USAF
+    RUCSBB/C INGSAC
+    RCSC/CANAIRDEF
+    RCEOM/ANCOMARL ANT
+    INFO RUECJD/COMDT COGARD
+    RUE GUF/COME AS TAREA
+    RUCKKC/COMSIX
+    RUCKYC/COME IGHT
+    RUCKYSH/COMF AI RUING ELEVEN
+    RUCKYJ/MAS NRLNS
+
+BT
+UNCLAS
+
+CIRVIS. UFO. CG STATION POINT AU FER PEEF PERSONNEL POSIT 29-19.RN
+91-22W ADVISED OBSERVING FOLLOWING: OBSERVED BALL OF LIGHT 040481Z
+TO 040427Z HOVERING OVER WATER ABOUT 1000 FT ABOVE SURFACE. WAS NOT
+A HELICOPTER. IT HOVERED IN ONE SPOT EAST OF STATION THEN MOVED
+BACK AGAIN. WHEN IT DEPARTED IT HEADED IN A SOUTHWEST DIRECTION AT A
+GREAT RATE OF SPEED.
+
+BT
+Notes:    Advance copy to NIN, DIA, XOP-7 per AF Form 1392 # 79
+          Transmitted to CIA per AF Form 1392 # 79
+
+
+- page 12 -
+
+MT. AIRY, MARYLAND
+8 MARCH 1965
+
+At approximately 1940 EST and observer and his son came out of a barn and noticed six red lights estimated to be about 1200 feet. From the observer moving at a speed of about twenty miles per hour, toward the NE. The lights appeared as three pair of lights, actually like the tail fins of a 1958 Ford. All of the lights had the same intensity and was comparable to a traffic signal. Another witness was summoned from the house and then all three observers viewed the lights. One witness stated that it looked like a flying wing. It was a very dark night and there were no stars out. The flight was in a straight line toward the hills, two miles away. All of the observers thought the objects were going to crash into the hills but it went over instead and disappeared over the horizon. The lights passed between the barn and the house at an altitude of 100 - 500 ft., and was in view for a total duration of three minutes. To simulate the sighting, one witness would take a dirigible or blimp oriented sideways and place three pairs of red lights along it.
+
+COMMENTS
+
+The outstanding factors in this sighting are the very slow speed, the floating sensation, and the extreme closeness, yet lack of sound reported. A portion of the available data is characteristic of a balloon with a scientific payload or some type of large glider. Attempts were made to put either of the two in the area to no avail. The wind was out of the northwest, which also conflicts with an evaluation of a balloon. With the existing data the case is listed as unidentified by the Air Force.
+
+
+- page 13 -
+
+Here is the text from the document:
+
+1. DATE - TIME GROUP
+March 15, 1965/0730
+
+2. LOCATION
+Westby, Mont.
+
+3. SOURCE
+Civilian
+
+4. NUMBER OF OBJECTS
+Three (3)
+
+5. LENGTH OF OBSERVATION
+15 minutes
+
+6. TYPE OF OBSERVATION
+Ground - Visual
+
+7. COURSE
+N/A
+
+8. PHOTOS
+☐ Yes
+☒ No
+
+9. PHYSICAL EVIDENCE
+☐ Yes
+☒ No
+
+10. CONCLUSION
+PSYCHOLOGICAL 1
+
+11. BRIEF SUMMARY AND ANALYSIS
+[Most of the text in this section is illegible due to poor image quality]
+
+FORM
+FTD SEP 63 0-329 (TDE) Previous editions of this form may be used.
+
+
+- page 14 -
+
+HEADQUARTERS
+301st AIR REFUELING WING (H) (SAC)
+UNITED STATES AIR FORCE
+LOCKBOURNE AIR FORCE BASE, OHIO
+
+31 March 1965
+
+REPLY TO
+ATTN OF: 301st
+
+SUBJECT: Unidentified Flying Objects
+
+TO: AMRO (FTD)
+wright-patterson AFB, Ohio 45433
+
+In accordance with AFR 200-2A, dated 30 March 1954, the attached correspondence is forwarded for your dissemination to applicable agencies.
+
+FOR THE COMMANDER
+
+[Signature]
+ELINOR W. MARTIN
+2nd Lt, USAF
+Acting Director of Administrative Services
+
+Peace.... is our Profession
+
+
+- page 15 -
+
+HEADQUARTERS
+FOREIGN TECHNOLOGY DIVISION
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+
+REPLY TO
+ATTN OF: TDSW
+SUBJECT: UFO Observation                                                                   12 Apr 65
+
+TO: 30lst Air Refueling Wing (301DCO)
+    Lockbourne AFB, Ohio 43217
+
+Reference your letter, 31 Mar 65, subj Unidentified Flying Objects.
+Request you take necessary action on reported observations in attached
+letter in accordance with paragraphs 3a, 3b, 14 and 16 of AFR 200-2.
+
+FOR THE COMMANDER
+
+[Signature of Colonel]
+ERIC T. JONCKHEERE
+Colonel, USAF
+Deputy for Technology
+and Systems
+
+1st Ind (301DCO)
+Hq 301 Air Refueling Wing, Lockbourne AFB, Ohio 43217
+
+TO: AFSC (TDEW), Wright-Patterson AFB, Ohio 45433
+
+Forwarded in accordance with paragraphs 3a, 3b, 14 and 16 of AFR 200-2
+is UFO Report.
+
+FOR THE COMMANDER
+
+[Signature of Lt. Colonel]
+JOHN G. LAROCK
+Lt Col. USAF
+Dir of Admin Svs
+
+YOU - THE NUCLEUS OF SECURITY!
+
+
+- page 16 -
+
+Lockbourne Air Force Base
+Columbus, Ohio
+
+Subject: Dept. of Unidentified Flying Objects
+
+Dear Sirs:
+
+On the night of Saturday March 20, 1965 at 22:30 ... we witnessed an unusual sight...
+
+[Rest of the text is partially legible, with some words and phrases clearly visible, but some sections are obscured or blacked out. The document appears to be describing an unusual aerial object seen in the night sky near West 36th St. in Waverly, Ohio. The object is described as moving at a fast speed and having a definite shape. There are mentions of an explosion and some details about the object's movement and appearance, but due to redactions, the full details cannot be completely discerned.]
+
+The document is signed from New Vienna, Ohio, but the specific name is blacked out.
+
+
+- page 17 -
+
+Large Bright Light
+- All Very Bright Like
+Aluminum Foil
+
+Not as Bright as Rest
+of Ship
+
+Shaped on This Order
+From Bottom View
+
+
+- page 18 -
+
+Here is the text I can read from the document:
+
+AIR-CONDITIONING
+Street
+Waverly, Ohio 45690
+
+Z81DCC
+
+Newcomer to Sales Race
+Columbus, Ohio
+
+Attn. Dept. Undergrad Admiss.
+
+The document appears to be an envelope with a postmark from Ohio and a postage stamp. The address and sender details are handwritten.
+
+
+- page 19 -
+
+HEADQUARTERS
+301st AIR REFUELING WING (M) (SAC)
+UNITED STATES AIR FORCE
+LOCKBOURNE AIR FORCE BASE, OHIO
+
+REPLY TO:
+ATTN OF: 301 Provisional Sq/232
+
+SUBJECT: UFO Report                                                   20 April 1965
+
+TO:     301DCO
+
+The attached UFO Report in accordance with AFR 200-2A, 30 March 1964
+is submitted in letter form in lieu of AF Form 112, as per telephone
+instructions from AFSC (FTD) Wright-Patterson AFB, Ohio due to Non-
+availability of AF Form 112 at Lockbourne AFB, Ohio.
+
+ANTHONY L. GIULIANO
+Captain, USAF                                                         1 Atch
+                                                                      UFO Report
+
+Peace . . . is our Profession
+
+
+- page 20 -
+
+UFO REPORT
+
+A. DESCRIPTION OF THE OBJECT:
+(1) Triangular in shape at base, decreasing in size with height. See attached drawing in basic communication.
+
+(2) At 200 yards, gave the impression of being about the size of a Volkswagen.
+
+(3) Large bright light near top. Very bright aluminum bottom. (See attached drawing, attachment #2).
+
+(4) Initially one large object. Later exploded into several smaller objects.
+
+(5) The smaller objects formed no set pattern.
+
+(6) No describable features except for its brightness and shape as in attached drawing, attachment '2
+
+(7) No noticeable tail, trail or exhaust.
+
+(8) No sound heard. Sighting made from inside the house with windows closed.
+
+(9) Object gave off sparks and three things like balls of fire, which fell to the earth and disappeared.
+
+B. DESCRIPTION OF COURSE OF OBJECT:
+(1) Light in sky seen through window.
+
+(2) 30 degrees to 40 degrees from ground, South of the house.
+
+(3) Same general area as first sighting.
+
+(4) Approached from sky, stopped, started away again and exploded.
+Smaller objects from the explosion disappeared falling towards ground.
+
+(5) Large object appeared to explode. Smaller objects disappeared falling toward ground.
+
+(6) Time span from first appearance of large object, to last smaller object.
+
+
+- page 21 -
+
+object disappearing, was approximately, 15 minutes.
+
+C. MANNER OF OBSERVATION:
+(1) Ground visual observation
+(2) No optical aids
+(3) N/A
+
+D. TIME AND DATE OF SIGHTING:
+(1) 0730Z, 21 March 1965
+(2) Night
+
+E. LOCATION OF OBSERVER:
+(1) Southwest edge of Waverly, Ohio
+
+F. IDENTIFYING INFORMATION ON OBSERVER:
+(1) Male
+    Age: 15
+    Waverly, Ohio
+    High School Student - Seemed fairly intelligent and sincere.
+
+G. WEATHER AND WINDS:
+(1) Observers both recall clear sky. Mrs. Dolly Crabtree, Mother of
+
+(2) Records of AWS at Lockbourne AFB, Ohio for time of incident indicate surface winds in area of 200°/60. Winds aloft not available.
+
+(3) Records from Lockbourne AFB, indicate ceiling at 05552 as 8000 feet broken, and cloud cover at 0755Z as 3000 feet scattered and 3000 feet scattered.
+
+(4) Visibility 11 MI:
+(5) Broken to Scattered
+(6) No thunderstorms in area
+(7) Not available in records
+
+
+- page 22 -
+
+Received from AFCF at 040135 Mar 65: "Service Report from U.S. Coast Guard
+Station at Point AUZER REEF. Position 2919.8 North 9122 West reported the f
+following: Observed ball of light 040421z to 040427z hovering over water
+1000 ft. above surface. Was not a helicopter. It hovered in one spot East
+of station then moved back again. Then it departed in a Southwest direction
+at a great rate of speed."
+
+80 mi. SW New Orleans
+
+FROM: S&T Div (DFI/ACSI)
+Room 2-B472
+
+TO: SAF-OIC USAF
+Room 5C-924
+ATTN: Mrs. HUNT
+
+
+- page 23 -
+
+Here is the OCR text from the document:
+
+H. No unusual weather activity or conditions.
+
+I. N/A
+
+J. Air traffic not investigated due cold movement and behavior of object.
+Visual check of area would tend to eliminate possibility of balloon release.
+No weather station in vicinity.
+
+K. POSITION, TITLE AND COMMENTS OF PREPARING OFFICER:
+Report prepared by Captain Anthony L. Giuliano, AO 3009325, B-47,
+Navigator, awaiting PCS move. Preparing Officers comments are as follows:
+
+Miss[REDACTED] and Miss[REDACTED] both gave me the impression of being typical teenagers, shy, fairly intelligent, and sincere in their beliefs as to what they actually saw. They agreed in general, at all times, on answers to all questions put to them. The girls were not questioned separately since they had been checked by [REDACTED] before, immediately following the sighting. This will be covered more fully in a narrative covering additional and supplemental information given by Mrs. [REDACTED]
+
+A thorough check of the area of sighting by the investigating officer reveals no additional information. Particular emphasis was placed on search for foreign stone or ore, hunks of metal, burned spots or areas, and general disorder among the trees and bushes. The emergence of growth in the area made possible a thorough search, but with negative results.
+
+Before covering information received from Mrs. [REDACTED], a description of the area behind the Crabtree house is needed in order to better understand and evaluate the facts.
+
+The land behind the Crabtree house is level for about ten yards, forming a natural yard. The next hundred yards raises at a slow gradual rate and is sparsely covered by grass and weeds. After that the ground rises at a more rapid rate forming a hill roughly two (2) hundred yards from the house.
+
+
+- page 24 -
+
+The hill is covered much like the other ground, with the addition of scattered bushes and trees. Fact the hill is typically Ohio rolling terrain with scattered farms.
+
+Following is information given by [REDACTED] Introduction is made of a ground sighting by [REDACTED] which may or may not be connected with the original sighting, but is submitted because of the short time span between the two sightings.
+
+On the night of the sighting, [REDACTED] tried to awaken her Mother to see the object. Her first attempt met with little success. The second attempt proved to be successful but by then the object had disappeared. Now fully awake, [REDACTED] recalled hearing about an UFO sighting on the Huntington and Charleston News Broadcast two days before. To erase any doubts she had about the sighting [REDACTED] separated a girl friend who was spending the night with [REDACTED] and instructed both girls to draw a picture and describe what they had seen. The similarity of pictures and descriptions given by the girls, convinced [REDACTED] that they had indeed seen something unusual. At this point she was content to pass it off as something that just happened.
+
+On Tuesday evening, 23 March 55, the entire [REDACTED] family was at home watching television. Intermittently throughout the evening, reception was interrupted by a series of unequally spaced beeping sounds. Conversation between [REDACTED] and neighbors the next morning, revealed the interference was heard throughout the neighborhood. Conversation between the reporting officer and a neighbor confirmed this, although the neighbor restrained from giving her name, "so as not to get involved", as she put it. The weather at the time of the interference was heavy, with light rain.
+
+The next incident occurred on Wednesday evening 24 March 55. Once again it was a dark, misty night with moderate rain. During a trip to the
+
+
+- page 25 -
+
+Kitchen silence out the window revealed a sort of pole, sticking out of the ground in a place where are no poles. A light in the back yard was turned on but did not illuminate the pole any better. (See drawing, attachment A for position of houses, yard light, and movement pole). The "pole" disappeared.
+
+Later that evening Debbie called from the bathroom that there was some kind of pole sticking up from the rear corner of the house next door. At first she thought it was the neighbors TV antenna, but a closer look showed the pole to be not on the corner of the house but out beyond the corner at approximately the same position she had seen it earlier.
+
+At this time she got a flashlight and went to the rear porch, and played the beam up and down the pole. It looked like a large automobile antenna, chromalite, about thirty feet tall. It appeared to have no base, and was topped by a small, gold colored ball. She then went to call her husband. Then the pole had disappeared.
+
+It was at this time the decided to let-and-rite of their experience.
+
+The incidents of the television interference and the pole appearance could possibly have been caused by some sort of weather phenomenon and were included in this report only because of the short span of time during which all these incidents occurred.
+
+Mr. was not available for comment on his proposed sighting on 25 March 55. (See basic letter). This too could possibly have been caused by some sort of weather phenomenon.
+
+Mr. confirmed that he, and two neighbors, thoroughly searched the area where the "pole" appeared, with negative results.
+
+No unusual sightings have been seen in that area since that time.
+
+An informal inquiry of neighbors to determine the possibility of
+
+
+- page 26 -
+
+Here is the text from the document:
+
+spotlights being used at a Grand Opening of some sort of business during that period, also produced negative results.
+
+Due to the lack of physical evidence, and an apparent lack of weather as a factor, the cause is undetermined at this time.
+
+
+- page 27 -
+
+HILL 7
+
+QUONSET
+HOT
+FOG
+STORAGE
+
+WEST NORTH STREET
+
+(1) Bathroom Window (1st floor)
+(2) Bedroom (2nd floor) window from which UFO was seen
+(3) Kitchen
+(4) Yard Light
+(5) Position of apparent Pole
+(6) Small tree
+(7) Hill over which UFO was seen
+(8) Rear porch
+
+Drawing #2
+
+
+- page 28 -
+
+March 25, 1965
+
+Dear Sirs:-
+
+With regard to your request for information on U F O I wish to report the following sighting.
+
+Time : March 16, 1965 10:21 appx.
+Direction of travel North North East
+
+On the evening of the above date I along with my son was leaving a class at the Technical College in the city of Halifax, Province of Nova Scotia, and my attention was drawn to what appeared to be something like a group of jets in close packed formation, like that was seen aerial displays are put on for the Public.
+
+After watching for 3 seconds the absence of sound, and the appear-ence of what appeared to be some sort of jet thrust back further from the what had first appeared to be jets I concluded that this sou nd not to be so, as the rate of speed was sufficient to allow the sound to return to my place of vision.
+
+Then the appearance of a bright whitish light in front end above the three lights(see diagram) that I had not previously noticed came to my attention, this kept the same rate of speed as the 3 distinct lights below and in back, and what appeared to be some sort of violet bluish flame (like that of a acetylene torch) was seen to be emitting some sort of power like the thrust of a motor, the arch of vision was approximately 70-80 degrees, and then the lights disappeared behind some clouds.
+
+My conclusion is that if this was a vehicle of some sort it was of size of perhaps 1000-1500 m length as it appeared to be a. the height of 50- 75,000 ft, and for the spacing of the light it was like 3 some points of port holes or observation areas the rate of speed was not that great that it could not have been some type of large jet plane but of enormous size. I can only conclude that my report to the RCAF in Canada confirms that such a craft would appear of wider, and that no craft was reported to their attention, and that they reported that they had other reports of the same sightings made me feel that we have either had a visit by craft from these unknown, or that our first sighted was on course that airforce officials do not care to make available to the public.
+
+I trust that my account of the sighting will help correlate other reported so that some answer to the appearance of this unexplained craft can be found.
+
+I have been at the Cape Kennedy operation while on vacation and have witnessed some launchings of the Gemini Titan 2, and ranger missiles as well, as other during the letter part of January, and up till and including February 16,1965 my observations of these launches confirmed my opinion that these were no missiles as the speed was too slow, and the height too low. Your comments will be appreciated at your convenience.
+
+Mr [REDACTED]
+Halifax, Nova Scotia
+age 45, businessman
+President of Corp 17 years.
+
+
+- page 29 -
+
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+WASHINGTON 25, D.C.
+
+IN REPLY REFER TO
+M-C RMO 1400                                                                 APR 6 1965
+
+Dear Mr. [REDACTED]:
+
+We have received your letter dated March 29, 1965, and from your account of the event on March 16, 1965, it appears that you witnessed a total orbital decay and reentry of a Soviet scientific satellite. COSMOS 57, launched by the U.S.S.R. on February 22, 1965, is known to have been in orbit. Into over 100 significant pieces of which seven decayed from orbit, reentered the earth's atmosphere, and burned up on March 16, 1965.
+
+Your altitude estimate of 50-75,000 feet-this is the altitude range where decaying orbital total objects become luminous from the friction created upon entering the atmosphere.
+
+Your interest in this matter as well as your excellent report are greatly appreciated.
+
+Sincerely yours,
+Original signed by
+Leo X. Abernethy
+Leo X. Abernethy
+Chief, Mission Planning
+Apollo Flight Operations
+Office of Manned Space Flight
+
+MAO/BCTwogood:rp                4/5/65
+
+
+- page 30 -
+
+DEPARTMENT OF THE AIR FORCE
+WASHINGTON
+
+OFFICE OF THE SECRETARY
+
+APR - 7 1965
+
+Dear Mr. & Mrs. [REDACTED]
+
+The Air Force is in receipt of a report which indicates that you observed an object which you could not identify on 17 March 1965. Although the report did not contain sufficient information to establish a definite identity of the object, it is believed that the sighting can be attributed to a reentry of space debris.
+
+It is requested that the attached form be completed as fully as possible and returned to this office so that a complete evaluation can be made of the report.
+
+Sincerely,
+
+[SIGNATURE]
+Chief, Project Blue Book
+Aerospace Vehicles Division
+Office of Scientific Intelligence
+
+1 Atch:
+PTD Form 164 (2 cy)
+
+Mr. & Mrs. [REDACTED]
+Doctors Cove, Nova Scotia
+
+
+- page 31 -
+
+U.S. AIR FORCE TECHNICAL INFORMATION
+
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Your name will not be used in connection with any statements, conclusions, or publication without your permission. We request this personal information so that if it is deemed necessary, we may contact you for further details.
+
+1. When did you see the object?
+16 MARCH 1966
+Day    Month    Year
+
+2. Time of day: 10       20
+             Hour    Minutes
+(Circle One): A.M. or P.M.
+
+3. Time Zone:
+(Circle One): a. Eastern
+             b. Central
+             c. Mountain
+             d. Pacific
+             e. Other _________
+
+(Circle One): a. Daylight Saving
+             b. Standard
+
+4. Where were you when you saw the object?
+LITCHFIELD                VILLAGE                SAN BERNARDINO, CALIF.
+Nearest Postal Address     City or Town          State or County
+
+5. How long was object in sight? (Total Duration)
+    Hours    Minutes    Seconds
+a. Certain
+b. Fairly certain    c. Not very sure
+                     d. Just a guess
+
+5.1 How was time in sight determined?
+5.2 Was object in sight continuously? Yes    No
+
+6. What was the condition of the sky?
+DAY                 NIGHT
+a. Bright           a. Bright
+b. Cloudy           b. Cloudy
+
+7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object?
+(Circle One): a. In front of you    d. To your left
+             b. In back of you      e. Overhead
+             c. To your right       f. Don't remember
+
+FORM
+FTD OCT 62 164    This form supersedes FTD 164, Jul 61, which is obsolete.
+
+
+- page 32 -
+
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+
+8.1 STARS (Circle One):
+a. None
+b. A few
+c. Many
+d. Don't remember
+
+8.2 MOON (Circle One):
+a. Bright moonlight
+b. Dull moonlight
+c. No moonlight - pitch dark
+d. Don't remember
+
+9. What were the weather conditions at the time you saw the object?
+
+CLOUDS (Circle One):
+a. Clear sky
+b. Hazy
+c. Scattered clouds
+d. Thick or heavy clouds
+
+WEATHER (Circle One):
+a. Dry
+b. Fog, mist, or light rain
+c. Moderate or heavy rain
+d. Snow
+e. Don't remember
+
+10. The object appeared: (Circle One):
+a. Solid
+b. Transparent
+c. Vapor
+
+d. As a light
+e. Don't remember
+
+11. If it appeared as a light, was it brighter than the brightest star? (Circle One):
+a. Brighter
+b. Dimmer
+
+c. About the same
+d. Don't know
+
+11.1 Compare brightness to some common object:
+[Blank line]
+
+12. The edges of the object were:
+(Circle One): a. Fuzzy or blurred
+b. Like a bright star
+c. Sharply outlined
+d. Don't remember
+
+e. Other: [Blank lines]
+
+13. Did the object:
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Break up into parts or explode?
+d. Give off smoke?
+e. Change brightness?
+f. Change shape?
+g. Flick or flicker?
+h. Disappear and reappear?
+
+(Circle One for each question)
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+
+Page 2
+
+
+- page 33 -
+
+Here is the text I can read from the document:
+
+[Vertical text on left side, partially illegible]
+27 DEC 1965
+Brookx
+
+[Vertical text on right side, partially illegible]
+ATCH INCL TO
+...
+
+The document contains a black and white photograph of a city landscape with multiple buildings, including what appears to be a prominent building with a tower or dome in the center background. There is a small circular inset image at the top of the page, but its contents are not clearly discernible. At the bottom right of the photograph, there appears to be some handwritten or stamped text, but it is not fully legible.
+
+
+- page 34 -
+
+Here is the text from the document:
+
+Page 3
+
+14. Did the object disappear while you were watching it? If so, how?
+Yes
+It went down behind the horizon.
+
+15. Did the object move behind something at any time, particularly a cloud?
+(Circle One): Yes (No) Don't Know.
+If it moved behind:
+
+16. Did the object move in front of something at any time, particularly a cloud?
+(Circle One): Yes (No) Don't Know.
+If you answered YES, then tell what
+in front of:
+
+17. Tell in a few words the following things about the object:
+a. Sound: There was no sound that could be heard
+b. Color:
+
+18. We wish to know the angular size. Hold a match stick or arm's length in line with a known object and not how much of the object is covered by the head of the match. If you had performed this experiment at the time of sighting, how much of the object would have been covered by the match head?
+About one quarter of the sky's dot.
+
+19. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
+
+[The document includes hand-drawn sketches with labels like "Nearly", "Light", "Firework", and directional arrows]
+
+
+- page 35 -
+
+Here is the text from the document:
 
 20. Do you think you can estimate the speed of the object?
 (Circle One) Yes No
-IF you answered YES, then what speed would you estimate? 20 M.P.H.
+IF you answered YES, then what speed would you estimate? About 1000 Miles
 
-21. Do you think you can estimate how far away from you the object was? 
+21. Do you think you can estimate how far away from you the object was?
 (Circle One) Yes No
-IF you answered YES, then how far away would you say it was? 1200 ft.
+IF you answered YES, then how far away would you say it was? 10,000 Feet
 
 22. Where were you located when you saw the object?
 (Circle One)
@@ -258,7 +1077,7 @@ f. Other
 23. Were you (Circle One)
 a. In the business section of a city?
 b. In the residential section of a city?
-c. In open country-side?
+c. In open countryside?
 d. Near an airfield?
 e. Flying over a city?
 f. Flying over open country?
@@ -266,929 +1085,349 @@ g. Other
 
 24. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
 24.1 What direction were you moving? (Circle One)
-a. North c. East e. South g. West
-b. Northeast d. Southwest f. Northwest
+a. North
+b. Northeast
+c. East
+d. Southeast
+e. South
+f. Southwest
+g. West
+h. Northwest
 
-24.2 How fast were you moving? ______miles per hour.
-24.3 Did you stop at any time while you were looking at the object? (Circle One) Yes No
+24.2 How fast were you moving? _______ miles per hour.
+
+24.3 Did you stop at any time while you were looking at the object?
+(Circle One) Yes No
 
 25. Did you observe the object through any of the following?
-a. Eyeglasses Yes No
-b. Sun glasses Yes No
-c. Windshield Yes No
-d. Window glass Yes No
-e. Binoculars Yes No
-f. Telescope Yes No
-g. Theodolite Yes No
-h. Other
+a. Eyeglasses Yes No f. Binoculars Yes No
+b. Sun glasses Yes No g. Telescope Yes No
+c. Windshield Yes No h. Theodolite Yes No
+d. Window glass Yes No i. Other
 
-26. In order that you can give as clear a picture as possible of what you saw, describe in your own words a common object or objects which, when placed up in the sky, would give the same appearance as the object which you saw: saw no shape just steady light - appeared to be low and to the south - had no flashing or winking. a long winged glider with the speed and 10100 might make with no noise.
+26. In order that you can give as clear a picture as possible of what you saw, describe in your own words a common object or objects which, when placed up in the sky, would give the same appearance as the object which you saw:
 
-- page 6 -
+It could be called a TRAIN IN THE SKY.
 
-There appears to be no photograph present in this image. The image shows a page from a Project Blue Book UFO report document, containing various diagrams and instructions for observers to record details about sightings.
-
-Text extracted from the image:
-
-27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it. Place an "X" on the compass where you first saw the object.
-
-28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
-
-29. IF there was MORE THAN ONE object, then how many were there? Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
-Red lights
-No green
-No white
-
-- page 7 -
-
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
-
-30. Have you ever seen this, or a similar object before. If so give date or dates and location.
-No
-
-31. Was anyone else with you at the time you saw the object? (Circle One)
-Yes No
-31.1 If you answered YES, did they see the object too? (Circle One)
-Yes No
-31.2 Please list their names and addresses:
-2 sons
-At home
-
-32. Please give the following information about yourself:
-NAME - Last Name, First Name, Middle Name
-ADDRESS - 11 Rd. Mt Airy, City, State
-TELEPHONE NUMBER - Mt Airy 726   AGE - 51   SEX - Male
-Indicate any additional information about yourself, including any special experience, which might be pertinent.
-
-33. When and to whom did you report that you had seen the object?
-May 30, 1964, Sofa Lift Office of I.o1o. Air Force Division Chief 6 others in Office
-
-- page 8 -
-
-There is no photograph present in this image. The image appears to be a scanned page from a document, which contains handwritten text.
-
-OCR Text Output:
-34. Date you completed this questionnaire: 11 Day 5 Month 1 Year
-35. Information which you feel pertinent and which is not adequately covered in the specific points of the questionnaire or a narrative explanation of your sighting.
-
-When I came out of our house first part overhead my car was still standing bright lights so close to the house. He started to move toward the house. I started to run was very slow because I considered calling this back in case it should come into the house and called the police brother who came out and grimed us. It continued on in a straight line toward a ring of hills about 2 miles away my oldest son explained it would crash into the fields. It some how managed to make it and disappear may the being.
-
-- page 9 -
-
-There is no photograph or image present in this scanned document from Project Blue Book. The image appears to be a handwritten letter or document.
-
-I will now act as an OCR system and produce the text found in the document:
-
-I would like to say this object was not more than 100 above but I guess it could have been 500 ft
-Lv
-A.F.O.BLVD
-2726 Clay St.
-[Illegible]
-
-Pt of the Air Force
-Office of the Secretary
-c/o Mrs. Sarah Hunt
-Comm: Relations Dir.
-Office of Information
-Washington, D.C.
-
-- page 10 -
-
-There is no photograph present in this image. The image appears to be a handwritten document with some text and measurements.
-
-OS MARINA
-Mr Dec Lwbs
-Gait 220 OS
-7T 110 Km/h 176
-lOOi 220 hm
-
-Diameter 17" TOOK
-
-Wind out OF NW
-
-- page 11 -
-
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, specifically an incoming message from the Department of the Air Force.
-
-INCOMING MESSAGE
-STAFF MESSAGE BRANCH
-APIN: 28935 (4 MARCH 65) B
-ACTION: NIN-7
-INFO: XOPX-7, SAFOS-3, UCSO/OSD/DIA-1
-NAVY-2  NSA-7 (23)
-
-[Text redacted]
-
-UNCLAS
-GSTVUS: UFO. CG STATION POINT AU FFR PERF PERSONNEL POSIT 29-19.5M
-GT 22M ADVISED OBSERVING FOLLOWING: OBSERVED BALL OF LIGHT 4448612 TO 2448672 HOVERING OVER WATER ABOUT 1000 FT ABOVE SURFACE. WAS NOT A HELICOPTER. IT HOVERED IN ONE SPOT THEN MOVED BACK AGAIN. WHEN IT DEPARTED IT HEADED IN A SOUTHWEST DIRECTION AT A GREAT RATE OF SPEED.
-BT
-N5603 ADVISED SAME AS AFORM 1332 # 79
-
-- page 12 -
-
-There is no photograph present in the provided image. It appears to be a scanned page from a Project Blue Book document about a UFO sighting in Mt. Airy, Maryland on March 8, 1965.
-
-MT. AIRY, MARYLAND
-8 MARCH 1965
-
-At approximately 1940 EST an observer and his son came out of a barn and noticed six red lights estimated to be about 1300 feet from the observer moving at a speed of about twenty miles per hour, toward the NE. The lights appeared to be in a straight line and at times seemed to blink. An aircraft with a white light appeared flying perpendicular to the lights. Another witness was summoned from the house and then all three observers viewed the lights. The witness stated that as it looked like a flying wing: It was a very dark night and there were no stars out. The flight was in a straight line toward the hills, two miles away. All of the observers thought the objects were aircraft and disappeared over the horizon. The lights passed between the barn and the house at an altitude of 100 - 500 ft, and again in view for a total duration of three minutes. To stimulate the sighting, one witness would take a dirigible or blimp-equipped device and place it three times of red lights along it.
-
-COMMENTS
-The outstanding factors in this sighting are the very slow speed, the flight characteristic, and the limited data available. The portion of the available data is characteristic of a balloon with a scientific payload. Attempts were made to put either of the two in the area but to no avail. The wind was out of the northwest which also conflicts with an evaluation of a balloon. With the existing data the case is listed as "unidentified" by the Air Force.
-
-- page 13 -
-
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, which is a historical government investigation into unidentified flying objects (UFOs).
-
-The text in the document is as follows:
-
-1. DATE - TIME GROUP: Mar 15 10/0930Z
-2. LOCATION: Fresno, Calif.
-3. SOURCE: Civilian
-4. CONCLUSION: PROBABLE I.C.L.
-5. NUMBER OF OBJECTS: Three (3)
-6. LENGTH OF OBSERVATION: 15 minutes
-7. TYPE OF OBSERVATION: Visual
-8. COURSE: [Illegible]
-9. PHOTOS: No
-10. PHYSICAL EVIDENCE: No
-
-The information provided includes the date, time, location, source, conclusion, number of objects observed, length of observation, type of observation, course, and whether there were any photos or physical evidence collected.
-
-- page 14 -
-
-There is no photograph present in the image provided. It appears to be a page from a Project Blue Book document.
-
-HEADQUARTERS
-301ST AIR REFUELING WING (H) (SAC)
-LOCKBOURNE AIR FORCE BASE, OHIO 2-017
-31 March 1965
-
-REPLY TO
-ATTN OF: 30lST
-SUBJECT: Unidentified Flying Object
-
-TO: AE SP (ATTY)
-AFSC INSPECTOR GENERAL
-ARNOLD AFS, OHIO 40433
-
-In accordance with AFR 200-2A, dated 20 March 1954, the attached correspondence is forwarded for your information and appropriate agencies.
-
-FOR THE COMMANDER
-
-ELLIOTT F. MARTIN
-MAJOR, USAF
-Assistant Director of Administrative Services
-
-Peace.... Is our Profession
-
-- page 15 -
-
-This document does not contain any photographs. It appears to be a page from a Project Blue Book UFO report.
-
-The text in the document is as follows:
-
-HEADQUARTERS
-FOREIGN TECHNOLOGY DIVISION
-AIR FORCE SYSTEMS COMMAND
-WRIGHT-PATTERSON AIR FORCE BASE, OHIO
-
-REPLY TO
-ATTN OF: TDEW
-
-SUBJECT: UFO Observation  12 APR 65
-
-TO: 301st Air Refueling Wing (GOIDCO)
-Lockbourne AFB, Ohio 43217
-
-Reference your letter, 31 Mar 65, sub: Unidentified Flying Objects. Request your take necessary action on attached observations in accordance with paragraphs 3a, 3b, 14 and 16 of AFR 200-2.
-
-1 Atch
-(see 29 Mar 65)
-
-HQ 301 Air Refueling Wing, Lockbourne AFB, Ohio 43217
-TO: AFSC (TDEW), Wright-Patterson AFB, Ohio 45433
-
-Forwarded in accordance with paragraphs 3a, 3b, 14 and 16 of AFR 200-2
-is UFO Report.
-
-FOR THE COMMANDER
-
-JOHN G. LARRICK
-LT COL USAF
-Dir of SECURITY
-
-2 Atch
-1 m/c
-Added Latch 
-Ltr, 301ARW, 20 Apr 65 
-UFO Report w/1 atch
-
-- page 16 -
-
-The image does not contain a photograph, but rather a typed document. The text of the document is as follows:
-
-Logistical is the case
-continued.
-
-AND - OHE OF VERIFICATION THAT ELICITED
-OH TRAP:
-
-On the night of attack, on Sunday, March 20, 1955 at 2:30 p.m. to 2:55 p.m. the witnesses
-an unusual object over a subject of [ILLEGIBLE] and as it took away again the object was then
-at at approx ates an object as "rapidly moving to the east'. It was first observed being
-approx 600 feet from the ground and then gradually rose higher nad higher until lost to sight.
-The object was observed by several persons in the [ILLEGIBLE] area at the same time and they all
-agree as to the description of the object which they say was oval shaped, grayish in color and of
-large size. This object was observed for approximately 5 minutes.
-
-- page 17 -
-
-The image contains a simple sketch or diagram of a triangular shape. The text below the sketch describes the object as "NOT AS BRIGHT AS REST SHAPED ON THIS OBLONG FROM BOTTOM VIEW".
-
-Performing OCR on the text in the image:
-
-LARGE BRIGHT LIGHT
-MAY APPEAR LIME
-FLUORESCENT GLOW
-
-NOT AS BRIGHT AS REST
-SHAPED ON THIS OBLONG
-FROM BOTTOM VIEW
-
-- page 18 -
-
-The image does not contain any photographs. It appears to be a scanned page from a document, possibly a Project Blue Book UFO report.
-
-The text visible in the image is as follows:
-
-98 1 00
-C. Jncousen, 1-r table dr ive
-C.l 1 i mount, Ohio
-
-atl. dept. unerstand coning 5.23.63
-
-- page 19 -
-
-The image does not contain a photograph, it appears to be a scanned page from a document. The text on the page indicates that this is a UFO report submitted to the 301st Air Refueling Wing (301st SAC) of the United States Air Force, located in Lockbourne Air Force Base, Ohio. The report was submitted on 20 April 1965 by Captain Anthony L. Giuliano of the USAF.
-
-Transcribed text:
-
-HEADQUARTERS
-301st AIR REFUELING WING (SAC)
-UNITED STATES AIR FORCE
-LOCKBOURNE AIR FORCE BASE, OHIO
-43219
-
-301 Provisional Sq/232
-
-SUBJECT: UFO Report                                       20 April 1965
-
-TO: 301DCCO
-
-The attached UFO Report is in accordance with AFR 200-2A, 30 March 1964 
-is submitted in lieu of AF Form 112, as per telephone instructions from APSCS (PTD) Wright-Patterson AFB, Ohio, due to non-availability of AF Form 112 at Lockbourne AFB, OHIO.
-
-ANTHONY L. GIULIANO
-Captain, USAF
-1 Atch
-UFO Report
-
-Peace . . . . is our Profession
-
-- page 20 -
-
-There does not appear to be any photograph or image present in this page of the UFO report document. The document appears to be a textual description of an observed UFO event.
-
-UATO REPORT:
-A. DESCRIPTION OF THE OBJECT:
-(1) Triangular in shape at base, decreasing in size with height. (See attached drawing in basic communication.)
-(2) At 200 yards, gave the impression of being about the size of a Volkswagen.
-(3) Large bright light near top. Very bright aluminum bottom. (See attached drawing, attachment #2.)
-(4) Initially one large object. Later exploded into several smaller objects.
-(5) The smaller objects formed no set pattern.
-(6) No discernible features except for the brightness and shape as in attached drawing, attachment #2.
-(7) No retractable tail, wing or exhaust.
-(8) No sound heard. Lighting made move inside the house with windows closed.
-(9) Object gave off sparks and three things like "balls of fire," which fell to the ground and disappeared.
-B. DESCRIPTION OF COURSE OF OBJECT:
-(1) Lights in sky seen through window.
-(2) 30 degrees to 40 degrees from ground, south of the house.
-(3) Came ground area as first sighting.
-(4) Approached from sky, stopped, started away again and exploded. Smaller objects from the explosion disappeared, falling towards ground.
-(5) Large object appeared to explode. Smaller objects disappeared, falling towards ground.
-(6) Time span from fire appearance or large object, to last smaller.
-
-- page 21 -
-
-There is no photograph present in the provided image. The image appears to be a page from a report on a UFO sighting.
-
-Object disappearing, was approximately 1.5 minutes.
-C. MANNER OF OBSERVATION:
-(1) Ground visual observation
-(2) No optical aids
-(3) N/A
-D. TIME AND DATE OF SIGHTING:
-(1) 0700Z, 21 March 1965
-(2) Night
-E. LOCATION OF OBSERVER:
-(1) Southeast edge of Waverly, Ohio
-F. IDENTIFYING INFORMATION OF OBSERVER:
-(1) High School Student - Seemed fairly intelligent and sincere.
-(2) High School Student - Seemed fairly intelligent and sincere.
-G. WEATHER AND WINDS:
-(1) Observers both recall clear sky. Mrs. Dolly Crabtree, Mother of
-Debra, confirmed clear sky.
-(2) Records of AWS at Chillicothe AFB, Ohio for time of incident
-indicate surface winds in area of 200°/05. Winds aloft not available.
-(3) Records from Chillicothe AFB indicate ceiling at 6,500 feet broken, and cloud cover at 07:52 as 3,000 feet scattered and 9,000 feet scattered.
-(1) Visibility: 11 Mi
-(2) Broken to scattered
-(3) No thunderstorms in area
-(4) Not available in records
-
-- page 22 -
-
-The image does not contain any photographs. It appears to be a scanned document from the Project Blue Book archives, specifically a "Service Report from U.S. Coast Guard" dated March 6, 1965.
-
-Transcription of the text in the document:
-
-Received from AFCF at 040135 Mar 65: "Service Report from U.S. Coast Guard"
-
-Station at Point AUTER REEF. Position 2919.8 North 9122 West reported the following: Observed ball of light 040212Z to 040427Z hovering over water 1000 ft. above surface. Was not a helicopter. It hovered in one spot East of station then moved back again. Then it departed in a Southwest direction at a great rate of speed.
-
-FROM: SGT DIV (DFI/ACSI)
-ROOM 2-B472
-
-TO: SAF-OIC USAF
-ROOM 5C-524
-ATTN: Mrs. HUNT
-
-- page 23 -
-
-The image does not contain a photograph. It appears to be a typed document with text describing an investigation related to a UFO sighting.
-
-TEXT EXTRACTED FROM THE DOCUMENT:
-
-The unusual weather pattern or condition.
-Air traffic not investigated due to odd movement and behavior of object.
-Cause of object unknown but considered to minimize possibility or public release. 
-No weather station in vicinity.
-POSITION, TITLE AND COMMENTS OF PREPARING OFFICER:
-Report prepared by Captain Anthony L. Gilliam, AD 509925, D-4, Investigator, stating Des Movers Preparing OFFICER'S comments are as follows:
-Miss [REDACTED] and Miss [REDACTED], both gave me the impression of being typical teenagers, shy, fairly intelligent, and sincere in their beliefs as to what they actually saw. Their cooperation, at all times, on answers to all questions put to them, was good. The girls have not questioned apparent since early 1961, having been checked by police.  
-Through check of the area of sighting by the investigating officer revealed no additional information. Particular emphasis was placed on several for ground stones or one, banks of mounds, brush or trees, and general directions across the farm and house. The investigation in the area made possible a thorough search, but with negative results.
-Before covering information received from Miss [REDACTED], a description of the area leading to the Cratsley house is needed to better understand and evaluate the facts.
-The land behind the Cratsley house is level for about ten yards, forming a natural yard. The next hundred yards behind it a a slow, gradual slope and is sparsely covered by brush and weeds. After that the ground rises at a more rapid rate forming a hill roughly two (2) hundred yards from the house.
-
-- page 24 -
-
-The image does not contain any photographs. It appears to be a scanned page from an old UFO report document from Project Blue Book.
-
-The hill is covered with such like the other ground, with the addition of scattered bushes and trees. Just the hill is typical Ohio rolling terrain with scattered shrubs.
-
-Following is information given by [REDACTED] Introduction is made of a ground sighting by [REDACTED] which may or may not be connected with the original sightings, but is submitted because of the close time span between the two sightings.
-
-On the night of the sighting, [REDACTED] tried to awaken her Mother to see the object. Her first attempt was not successful but the object had disappeared. The second attempt proved to be successful but by then the object had disappeared. Now fully awake, [REDACTED] recalled hearing about an UFO sighting on the Huntington area that evening. Her sister and Husband were broadcast to give details of what they had about the sighting. [REDACTED] daughter a girl friend who was spending the night with them and instructed both girls to draw a picture and description of what they had seen. The girls complied and their descriptions given by the girls convinced [REDACTED] that they had indeed seen something unusual. At this point she was content to pass it off as an hallucination.
-
-On Tuesday evening, 23 March 35, the [REDACTED] family was at home watching television. Intermittently throughout the evening, reception was interrupted by a series of "unusually" broad beeping sounds. Conversation between [REDACTED] and neighbors revealed the interference was heard throughout the neighborhood. Conversation between the reporting officer and a neighbor confirmed this, although the neighbor remained from giving her name, "we are not to get involved." The weather at the time of the interference was hazy, with light rain.
-
-The next incident occurred on Wednesday evening 24 March 35. Once again it was a dark night with reference again to rain. During a trip to the [REDACTED] home, the [REDACTED] family noticed unusual happenings.
-
-- page 25 -
-
-The image does not contain any photographs or visual elements. It appears to be a scanned page from a document, likely a Project Blue Book UFO report. I will now proceed to extract and output all the text found in the document.
-
-Kitchen a plane cut the winter roven a sort of pole, sticking out of the ground in a place where are no holes. A light in the back yard was turned on but did not illuminate the pole any better. (See drawing, attachment 1 for location of sighting). The "pole" disappeared later that evening. Debts called from the bathroom that there was some kind of pole sticking up from the rear corner of the house next door. At first he thought it was the neighbors TV antenna, but a closer look showed the pole to be on the corner of the house but out beyond the corner at approximately the same position as he had seen it earlier.
-At this time the witness got a flashlight and went to the rear porch, and played the beam up and down the pole. It looked like a large automobile aerial, chrome-plated, about thirty feet tall. It appeared to have no base, and was topped by a small, gold-colored ball. She then went to call her husband.
-It was at this time she decided to lot describe the location of their residuce.
-The incidents or the alleged inference and the pole appearance could possibly have been caused by some sort of weather phenomenon and were included in this report only because of the short man of this duration which all things indicate was some brief occurrence.
-It was not available for comment on his proposed sighting on 25 March 55. (See basic letter). This too could possibly have been caused by some sort of weather phenomenon.
-He confirmed that he, his wife and two neighbors, thoroughly searched the area where the "pole" appeared, with negative results.
-No unusual sightings have been seen in that area since that time.
-
-- page 26 -
-
-The provided image does not contain any visible photographs. It appears to be a page of text from an old document, likely a UFO report from Project Blue Book.
-
-Eyewitness being that at a Grand Opening of some sort of "madness" during that period, also reported negative results. Due to the lack of provided evidence, and an apparent lack of weather as a factor, the cause is undetermined at this time.
-
-- page 27 -
-
-The image appears to contain a hand-drawn sketch or diagram, but no photograph. The sketch depicts a layout or floor plan of a house, with various labeled locations such as a bathroom window, bedroom window, kitchen, and positions where a UFO was reportedly seen.
-
-QUEST NOT SEEN
-
-DISTANCE
-
-20.705
-
-WEST NORTH STREET
-
-(1) Bathroom Window (1st floor)
-(2) Bedroom (2nd floor) window from which UFO was seen
-(3) Kitchen
-(4) Position of apparent hoist
-(5) Small tree
-(6) Position from which UFO was seen
-(7) Rear porch
-
-Drawing #2
-
-- page 28 -
-
-The image does not contain any photographs, only text. Here is the text extracted from the document:
-
-March 25, 1965
-
-Dear Sir:-
-
-With regard to your request for information on U F 0 I with 
-to report the following sighting:
-
-Time : March 16, 1965  10:21 p.m..
-Direction of travel North North East
-
-As I was driving from Springhill, N.S. to Oxford, N.S. with my son was leaving 
-a class at the Technical College in the city of Halifax, Province 
-of Nova Scotia, and by coincidence I noticed a light in the sky which 
-I thought was some sort of aerial display for the public.
-
-After watching this for a second or so, the light appeared to be some 
-sort of jet thrust pack further to the west, and then it appeared to 
-some sort of violet bluish flame(like that of an acetylene torch) was
-emitted from the craft, and suddenly the light disappeared, and then
-the lights disappeared behind some clouds.
-
-My conclusion is that I believe what I saw might have been a vehicle of 
-some sort of some kind, light in front and above the three lightstages diagram,
-that I had not previously noticed from me, and the lights appeared to be some 
-sort of violet bluish flame(like that of an acetylene torch) was emitted
-from the craft, and suddenly the light disappeared, and then the lights
-disappeared behind some clouds.
-
-My conclustion is that I believe what I saw might have been a vehicle of 
-some kind, light in front and above the three lightstages diagram,
-that I had not previously noticed from me, and the lights appeared to be some 
-sort of violet bluish flame(like that of an acetylene torch) was emitted
-from the craft, and suddenly the light disappeared, and then the lights
-disappeared behind some clouds.
-
-I trust that my account of the sighting will help correlate other 
-reports on this unusual phenomena of this unidentified vehicle.
-
-I have been at the Cape Kennedy operation while on vacation and
-have witnessed some launchings, and during the latter part of January and
-first part of February, I saw other rocket firings at night from Halifax, N.S.
-The speed was too slow, and the height too low. Your comments will be 
-appreciated at your convenience.
-
-H. LILLY, Nova Scotia
-432.45: busesmess
-President of Corp 17 years.
-
-- page 29 -
-
-The image does not contain any photographs, it appears to be a scanned document from the National Aeronautics and Space Administration (NASA) regarding a letter dated March 25, 1965.
-
-Performing OCR on the text in the document:
-
-NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
-WASHINGTON 25, D.C.
-
-APR 6 1965
-
-Dear Mr. Bowers,
-
-Your letter dated March 25, 1965, and enclosures have been received and carefully noted.
-
-We have considered the information contained in your letter and enclosures concerning the recent sighting of an unidentified flying object observed by the U.S.S.R. on February 21, 1965, at about 17:57, C.S.T., of which detail and photographs are said to have been obtained. The material you have submitted has been added to the records of Project Blue Book at Wright-Patterson Air Force Base and will be included in the study of this sighting.
-
-Your interest in this matter as well as your excellent cooperation are sincerely appreciated.
-
-Sincerely yours,
-
-Original signed by
-Leo V. Abernathy
-Chief, Scientific Monitoring
-Apollo Flight Operations Office
-Office of Manned Space Flight
-
-MAO/MCT:jurgensen:jp   4/5/65
-
-- page 30 -
-
-The image does not contain any photograph. It is a scanned page from a Project Blue Book document, which appears to be a letter from the Department of the Air Force in Washington, D.C. addressed to Mr. and Mrs. [REDACTED] on April 7, 1965.
-
-The letter indicates that the Air Force is in receipt of a report which suggests that an unidentified object was sighted, and it requests that the attached form be completed in order to make a complete evaluation of the report.
-
-DEPARTMENT OF THE AIR FORCE
-WASHINGTON
-
-APR - 7 1965
-
-Dear Mr. & Mrs. [REDACTED]
-
-The Air Force is in receipt of a report which indicates 
-if a certain 1965 sighted object which could not be satisfactorily identified. This report does not contain sufficient 
-information to establish a definite identity of the object. 
-It is requested that the attached form be completed so a 
-full and complete evaluation can be made of the report.
-
-Sincerely,
-
-[SIGNATURE]
-Chief, Declassification Division
-Office of Information Services
-
-APD FORM 16 (4 - 6?)
-MR. & MRS. [REDACTED] 
-Roberts Cove, Nova Scotia
-
-- page 31 -
-
-The provided image does not contain a photograph. It appears to be a page from a U.S. Air Force Technical Information document, which is a questionnaire related to unidentified aerial phenomena observations.
-
-U.S. AIR FORCE TECHNICAL INFORMATION
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomena that you have observed. Please try to answer as many questions as you possibly can. If you desire, your name will be kept confidential in connection with any answers or publications without your permission. We request this personal information only to enable us to obtain further details.
-1. When did you see the object? 16 MARCH 1964
-2. Time of day: 10 - 20 MINUTES (Circle One): A.M. or P.M.
-3. Time Zone: (Circle One): a. Eastern b. Central c. Mountain d. Pacific e. Other
-4. Where were you when you saw the object? LONGBRANCH, N.J. 
-5. How long was object in sight? (Total Duration) Hours Minutes Seconds
-a. Certain b. Fairly Certain c. Not very sure d. Just a guess
-5.1 How was time in sight determined? 
-5.2 Was object in sight continuously? YES No
-6. What was the condition of the sky?
-a. DAY: a. Clear b. Hazy c. Partly Cloudy
-b. NIGHT: a. Clear b. Hazy c. Cloudy
-7. If you saw the object during DAYLIGHT, where was the SUN located as you looked at the object? (Circle One): a. In front of you b. To your right c. To your left d. Behind you e. Don't remember
-
-- page 32 -
-
-There is no photograph present in this image. It appears to be a page from an old UFO report document from Project Blue Book, containing a questionnaire with various questions related to the observation of an unidentified object.
-
-8. IF YOU SAW THE OBJECT AT NIGHT, WHAT DID YOU NOTICE CONCERNING THE STARS AND MOON?
-8.1 STARS (Circle One): 
-a. None
-b. A few
-c. Many
-d. Don't remember
-
-8.2 MOON (Circle One):
-a. Bright moonlight
-b. Dim moonlight
-c. No moonlight - pitch dark
-d. Don't remember
-
-9. WHAT WERE THE WEATHER CONDITIONS AT THE TIME YOU SAW THE OBJECT?
-CLOUDS (Circle One):
-a. Clear sky
-b. Hazy
-c. Scattered clouds
-d. Thick or heavy clouds
-
-WEATHER (Circle One): 
-a. Dry
-b. Fog, mist, or light rain
-c. Moderate or heavy rain
-d. Don't remember
-
-10. THE OBJECT APPEARED: (Circle One)
-a. Solid
-b. Transparent
-c. Don't remember
-d. As a light
-
-11. IF IT APPEARED AS A LIGHT, WAS IT BRIGHTER THAN THE BRIGHTEST STAR? (Circle One)
-a. Brighter 
-b. Dimmer
-c. About the same
-d. Don't know
-
-11.1 COMPARE BRIGHTNESS TO SOME COMMON OBJECT:
-
-12. THE EDGES OF THE OBJECT WERE: (Circle One)
-a. Fuzzy or blurred
-b. Like a light source
-c. Other
-d. Don't remember
-
-13. DID THE OBJECT: (Circle One for each question)
-a. Appear to stand still at any time? YES NO Don't know
-b. Suddenly speed up and rush away at any time? YES NO Don't know
-c. Dart in and out of clouds or obstacles? YES NO Don't know
-d. Change brightness? YES NO Don't know
-e. Change shape? YES NO Don't know
-f. Flash or flicker? YES NO Don't know
-g. Disappear and reappear? YES NO Don't know
-
-- page 33 -
-
-The image contains a photograph of a city skyline. The skyline appears to be from a distance, showing a view of numerous buildings, including a prominent structure that resembles a capitol building or government building. There is an anomaly or shape in the sky near the center of the image, which seems to be some kind of unidentified object or disturbance.
-
-Text extracted from the document:
-
-BLUE BOOK FILES
-
-UNIDENTIFIED FLYING OBJECTS
-
-DECLASSIFIED UNDER AUTHORITY OF THE
-INTERAGENCY SECURITY CLASSIFICATION APPEALS PANEL,
-E.O. 13526, SECTION 5.3(b)(3)
-ISCAP NO. 2014-047, DOCUMENT NO. 1
-DECLASSIFICATION DATE: MAY 09, 2018
-
-- page 34 -
-
-The image contains a form from Project Blue Book, an official U.S. Air Force program that investigated unidentified flying objects. The form appears to be a questionnaire filled out by an observer of a UFO sighting. There is no photograph present in this image.
-
-Here is the text from the document, transcribed as an OCR system would output:
-
-14. Did the object disappear while you were watching it? If so, how? Yes
-
-15. Did the object move behind something at any time, particularly a cloud?
-(Circle One): Yes No Don't Know. IF you answered YES, then tell what:
-
-16. Did the object move in front of something at any time, particularly a cloud?
-(Circle One): Yes No Don't Know. IF you answered YES, then tell what: 
-in front of:
-
-17. Tell in a few words the following things about the object:
-a. Sound There was no sound that I could hear.
-b. Color White or silvery white.
-
-18. We wish to know the angular size. Hold a match stick at arm's length in line with a known object and measure the width of the object with the match stick. If you had no opportunity to do this at the time of the sighting, how much of the object would have been covered by the match head?
-
-About the size of the thumb at arm's length.
-
-19. Do you wish to sketch or describe in your own words anything else about the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Please do not try to erase or draw on this paper to show the direction the object was moving.
-
-1355 - Light silver or whitish color, no vapor trail visible.
-
-- page 35 -
-
-There does not appear to be a photograph present in this image. This appears to be a page from a Project Blue Book document containing a questionnaire filled out by an observer of an unidentified object.
-
-As an optical character recognition (OCR) system, I have extracted the following text from the document:
-
-20. Do you think you can estimate the speed of the object?
-(Circle One) Yes No
-If you answered YES, then what speed would you estimate? ABOUT 1235 MI/HR
-
-21. Do you think you can estimate how far away from you the object was? 
-(Circle One) Yes No
-If you answered YES, then how far away would you say it was? 12,000 FEET
-
-22. Where were you located when you saw the object?
-(Circle One)
-a. Inside a building
-b. In an automobile
-c. Outdoors
-d. In an airplane (type)
-e. At sea
-f. Other
-
-23. Were you (Circle One)
-a. In the business section of a city?
-b. In the residential section of a city?
-c. In open country(side)?
-d. Near an airport?
-e. Flying?
-f. Flying over open country?
-g. Other _____________________
-
-24. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
-24.1 What direction were you moving? (Circle One)
-a. North b. East c. South d. West
-24.2 How fast were you moving? __________miles per hour.
-24.3 Did you stop at any time while you were looking at the object? (Circle One) Yes No
-
-25. Did you observe the object through any of the following?
-a. Eyeglasses Yes No
-b. Sun glasses Yes No 
-c. Telephoto lens Yes No
-d. Window glass Yes No
-
-26. In order that you can give as clear a picture as possible of what you saw, describe in your own words a common object or objects which, when placed up in the sky, would give the same appearance as the object which you saw.
-
-IT COULD BE CALLED A TRAIN IN THE SKY
 
 - page 36 -
 
-The image appears to be a page from an old UFO report document as part of Project Blue Book. It contains a sketch or diagram, but no photograph. 
+Here is the text from the document:
 
-27. In the following sketch, imagine that you are at the point shown. Place on "A" on the curved line to show how high the object was above the horizon (sky/line) when you first saw it. Place a "B" on the same curved line to show the highest point the object reached. Place a "C" on the compass where you first saw the object.
+Page 5
+
+27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you lost saw it. Place an "A" on the compass where you first saw the object.
 
 28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
 
-29. If there was MORE THAN ONE object, then how many were there? Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+North, ←------(A)-----→ South
+
+29. IF There was MORE THAN ONE object, then how many were there?
+Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+
 
 - page 37 -
 
-There is no photograph present in this image. It appears to be a scanned page from a Project Blue Book UFO report document.
-
-I will now act as an OCR system and produce all the text found in the document:
+Here is the text from the document:
 
 30. Have you ever seen this, or a similar object before. If so give date or dates and location.
-I HAVE NEVER SEEN AN OBJECT LIKE THIS
+I HAVE NEVER SEEN AN OBJECT LIKE THIS BEFORE
 
-31. Was anyone else with you at the time you saw the object? (Circle One)
-31.1 If you answered YES, did they see the object too? (Circle One)
+31. Was anyone else with you at the time you saw the object? (Circle One) YES No
+31.1 If you answered YES, did they see the object? (Circle One) YES No
+
 31.2 Please list their names and addresses:
-
-Wilbur Baine 
-Mobile, ala.
-Fred Greene
-Mobile, ala.
+[Several lines are blacked out]
+Doctors Cave Shelburne Co. Mich
 
 32. Please give the following information about yourself:
-NAME [REDACTED]
-ADDRESS Dauphin st. mobile ala. 
-TELEPHONE NUMBER [REDACTED]
-AGE 17 SEX M
-indicate any additional information about yourself, including any special experiences, which might be relevant.
-I SERVED TWO AND ONE HALF YEARS IN THE R.F.F. DURING WORLD WAR TWO
+[Personal details are blacked out]
+ADDRESS: Doctors Cave [rest of address partially blacked out]
+TELEPHONE NUMBER: [blacked out] AGE: 47 SEX: MALE
+
+Indicate any additional information about yourself, including any special experience, which might be pertinent:
+I SERVED TWO AND ONE HALF YEARS IN THE R.A.F. DURING WORLD WAR TWO
 
 33. When and to whom did you report that you had seen the object?
-MARCH 17 65 EAT-SAT
+16     MARCH     1965
+Day     Month     Year
+
+R.A.F. RADAR BASE
+CALGARY
+
 
 - page 38 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document, specifically from Project Blue Book, that includes handwritten text.
+Here is the text from the document:
 
-Text transcribed from the document:
+34. Date you completed this questionnaire: 18 APRIL 1965
 
-34. Date you completed this questionnaire: 18 April 1965
+35. Information which you feel pertinent and which is not adequately covered in the specific points of the questionnaire or a narrative explanation of your sighting:
 
-35. Information which you feel pertinent and which is not adequately covered in the specific points of the questionnaire or a narrative supplement of your sighting:
+When I first saw the object I thought it was four or five planes flying very close together.
 
-Though it was four or five minutes flying very close together. I thought it was four or five seperate things. They seemed to be in some kind of formation or something. I haven't them that might be going to crash. I ran to the door and as I came back I could see them going away and were getting smaller and smaller.
+Then I saw what looked like fireworks coming out behind. I thought then they might be going to crash.
+
+I ran to the out side door and as it passed over head I could see it was only the object. But the fireworks was still coming out behind.
+
+I listened very carefully but could not hear any noise what so ever.
+
 
 - page 39 -
 
-The image does not contain any photographs. It appears to be a typed document describing a UFO sighting that occurred on March 17, 1965 in Woodham, Canada. The text of the document is as follows:
+Information Only
+Source: Project
 
-March 17, 1965 - Woodham, Canada - An object that looked like "a flying saucer with its flames on" or like a "revolving vessel" having a corona or colored circle around it in the sky was reported by witnesses as "floating above the wheat fields, moving from the south to the north". The strange UFO was seen by pilots over Huron and Ontario and caused comments from residents along the eastern seaboard. The strange UFO was seen by witnesses, and it did not appear to be an astronomical object. Reliable residents of Woodham, Canada reported this unusual sighting.
+Woodland, Canada
+17 March 1965
+
+March 17, 1965—Woodlawn, Canada—Oval
+
+"a flying train with its lights on" or like a "floating hotel" having
+a series of colored lights and a blue flame coming from its rear was
+reported by [ILLEGIBLE] of Woodlawn and by dozens of residents along
+the eastern suburb. The strange UFO was seen by pilots over Maine
+and confirmed by RCAF spokesmen elsewhere. It did not appear to be
+an astronomical object. SOURCE: Halifax Mail Star, Nova Scotia, Canada.
+
 
 - page 40 -
 
-The image does not contain a photograph. 
+Here is the text from the document:
 
-The text visible in the image is as follows:
+1. DATE - TIME GROUP
+26 March 65  24/0500Z
 
-1. DATE - TIME GROUP: 26 March 65 2050/07
-2. LOCATION: [ILLEGIBLE], Florida
-3. SOURCE: Civilian
-4. NUMBER OF OBJECTS: One
-5. LENGTH OF OBSERVATION: 20 seconds
-6. TYPE OF OBSERVATION: Luminous-Elliptical
-7. COURSE: West
-8. PHOTOS: No
-9. PHYSICAL EVIDENCE: No
-10. CONCLUSION: APPARENT
-11. BRIEF SUMMARY AND ANALYSIS: Object was seen hovering in the sky. It was luminous and elliptical in shape. The object then moved rapidly off to the west.
+2. LOCATION
+Neptune Beach, Fla.
 
-FORM FTD SEP 63 0320 (TDE) Previous editions of this form may be used.
+3. SOURCE
+Civilian
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+20 Seconds
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+Test
+
+8. PHOTOS
+□ Yes
+■ No
+
+9. PHYSICAL EVIDENCE
+□ Yes
+■ No
+
+10. CONCLUSION
+UNKNOWN
+
+11. BRIEF SUMMARY AND ANALYSIS
+Object sighted, from the North flying a turn to the East, looked like a white circular, short white fire inside of a circular oval. No further details available.
+
+FORM
+FTD SEP 69 0-329 (TDE) Previous editions of this form may be used.
+
 
 - page 41 -
 
-The image does not contain any photographs. It appears to be a handwritten document or letter.
+Here is the text from the document:
 
-76 S. air fire i
+Paradise Post
+M.P.R. Florida
+
+U.S. Air Force
 Washington D.C.
-Dec 12 1940
+Dear Sir;
+
+at 12:40 A.M. on March 26
 I spotted a flying object going
-North from eerng to where the month
-was light. It appeared to be about
-1/2 the size of the moon and was making
-a very strange motion-- it would go
-very fast and then suddenly slow down
-to a crawl with a very erratic course.
-At times it appeared to be under
-controlledflight or it may have be
-because of the sharp turns
+North from Juno Strader at a
+moderate speed and then making
+a sharp turn west. It look like
+a fish with head about the size
+of a soft ball and a two foot tail.
+It was not a ball of fire and
+it was in my view for about
+twenty seconds. This object was
+not as high as the stars and was
+a controlled flight. It was not a
+plane because of the sharp turn
 this object took from North to West.
-Sincerely
+
+Sincerely,
+
+[Note: The signature and some other details are blacked out]
+
 
 - page 42 -
 
-There is no photograph present in this image. This appears to be a scanned image of an envelope or letter addressed to "Air Force Command, Washington, D.C."
+Here is the text from the document:
 
-The text visible in the image is:
+Pensacola Post M.P.O.
+FLA
 
-Navadlee Port M.P.A.
 Air Force Command
 Washington, D.C.
-9H 01
-The Flying Carpet
+
+SH F01
+
+7 Flying Objects
+
 
 - page 43 -
 
-There is no photograph present in this image. This appears to be a page from an old Project Blue Book document, specifically a memo routing slip.
-
-The text from the document is as follows:
+Here is the text from the document:
 
 MEMO ROUTING SLIP
-TO: FIDEL
-DATE: COORDINATION 
-INFORMATION
-REPLY AND RETURN
-SEE ME
-SIGNATURE
+
+TO: TDEW (partially illegible)
 
 REMARKS:
-For your info and further.
+For you info and use
 
-FROM: TOR V/PFDH   DATE: 10 MAR 65
+FROM: Capt Brett, USAF 15th u.65
+Phone: 7115-5
+
+DD FORM 95 (Printed DD Form 64, 1 Feb 50 and DD Form 96, 1 Aug 60 which will be used until obsolete)
+
 
 - page 44 -
 
-Unfortunately, there does not appear to be any photograph present in this document. The image shows a page from an old Project Blue Book report, containing text only.
+NNNWP8233 ZC59M5CCZVA132
 
-Here is the text from the document, produced by an OCR (Optical Character Recognition) system:
-
-NNNN PDB 23 2 CSM 15 52 2 VA 132
-RR RUC D53
-DE RUC 53/ 22 17/17322
+RR RUCDSQ
+DE RUCQGM 22 17/1732Z
 ZNR
-R 171732Z FEB 59
+R 171732Z 22X
 FM 32 NORAD REGION GUNTER AFB ALA
-TO RUC D53/FTD WPAFB OHIO
-INFO RUWGAL/CGINNORAD 
-RUCGM//57 RADRON HOUMA AFS LA
+TO RUCDSQ/FTD WPAFB OHIO
+INFO RUWGALB/C INCNORAD
+RUCQGMA/657 RADRON HOUMA AFS LA
 ET
-UNCLAS 32NRT-22217M ARES. FOR ADC LOPS FTD. SUBJECT 
+UNCLAS 32NINT-22Q17MAR65. FOR ADCLO/FTD. SUBJECT
 IS CIRVIS UFO REPORT. REFERENCE UNCLASSIFIED MESSAGE
-I DIC S ADC LOPS 52224 MAR 59 SUBJECT TO ABOVE IS OFFICE
-RELAYED REQUEST TO INTELLIGENCE OFFICER 57 RADRON HOUMA
-AFS LA ON 12 MAR 59. UNCLASSIFIED MESSAGE FROM 57 RADRON
-TO DIC ADC LOPS DATED 13 MAR 59 IS QUOTED AS FOLLOWS: QUOTE
-UNCLAS 590700C 22215, FOR 32 NINTH SUBJECT: REFERENCE
-TELEPHONE CONVERSATION BETWEEN SMSGT HUTTO, T-IS STATION
-AND SGT FREIREMGER 32 NINTH ON 12 MARCH 59. THE FOLLOWING
+TDFCS ADCLO 15546 MAR 65, SUBJECT AS ABOVE. THIS OFFICE
+RELAYED REQUEST TO INTELLIGENCE OFFICER 657 RADRON HOUMA
+AFS LA ON 12 MAR 65. UNCLASSIFIED MESSAGE FROM 657 RADRON
+TO 32NINT, DATED 15 MAR 65 IS QUOTED AS FOLLOWS. QUOTE
+UNCLAS 57000 22215, FOR 32 NINT: SUBJECT: REFERENCE
+TELEPHONE CONVERSATION BETWEEN SMSGT HUTTO, THIS STATION
+AND SGT FREIBERGER 32 NINT ON 12 MARCH 65. THE FOLLOWING
 INFORMATION IS SUBMITTED: ACCORDING TO MR. HASLING AT
-PAGE 2 RUCGMM 20 UNCLAS 
+
+PAGE 2 RUCQGM 20 UNCLAS
 NEW ORLEANS ARTCC THERE WAS NO IFR TRAFFIC SCHEDULED IN
 THAT AREA AT THAT TIME. ALSO THE STATE POLICE AT POINT
-AU PER HAD NO INFORMATION IN RELATION TO THE SUBJECT UFO 
+AU FER HAD NO INFORMATION IN RELATION TO THE SUBJECT UFO
 REPORT. SUBJECT REPORT WAS REPORTED BY US COAST GUARD AT
-POINT AL PER AS BEING SEEN BETWEEN 2412Z AND 0427Z ON
-24 MARCH 1959. UNQUOTE
+POINT AU FER AS BEING SEEN BETWEEN 24212 AND 24272 ON
+24 MARCH 1965. UNUQTQGM
+ET
+
 
 - page 45 -
 
-The image provided does not contain a photograph. It appears to be a map or aerial photograph showing geographic features and locations. The image is in grayscale and depicts a number of towns, roads, and other landmarks, with the text "WARN AREA" written at the bottom.
+Here is the text I can read from the document:
 
-Transcribing the text from the image:
+NEW ORLEANS
 
-WARN AREA
+South Bend
+
+Pt Chautreuil
+
+Raccoon Pt.
+
+WARM SEA AREA
+(7-9A)
+
+Other text is part of the map labels and includes city/location names like:
+- Patterson
+- Morgan City
+- Franklin
+- Houma
+- Phoenix
+
+There is a small notation "Point au Fer" in the bottom left of the image.
+
+The document appears to be a map with various lines, locations, and grid markings, centered around the New Orleans area and surrounding coastal regions.
+
 
 - page 46 -
 
-The image does not contain any photograph. It appears to be a page from a Project Blue Book UFO report document, with various fields to be filled out, such as date, time, location, source, number of objects, length of observation, type of observation, course, and whether there are photos or physical evidence.
+Here is the text I can read from the document:
 
-The text extracted from the document is as follows:
+1. DATE - TIME GROUP
+15 Mar 65 (9) 00:02
 
-1. DATE - TIME - GROUP: 05/00/02
-2. LOCATION: 
-3. SOURCE: CIVILIAN
-4. NUMBER OF OBJECTS: 2
-5. LENGTH OF OBSERVATION: 15 MINS
-6. TYPE OF OBSERVATION: VISUAL
-7. COURSE:
-8. PHOTOS: NO
-9. PHYSICAL EVIDENCE: NO
-10. CONCLUSION:
-11. BRIEF SUMMARY AND ANALYSIS:
+2. LOCATION
+[mostly illegible]
+
+3. SOURCE
+Civilian
+
+4. NUMBER OF OBJECTS
+Max. 1-6 to
+
+5. LENGTH OF OBSERVATION
+2 minutes
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+[blank]
+
+8. PHOTOS
+☐ Yes
+☒No
+
+9. PHYSICAL EVIDENCE
+☐ Yes
+☒No
+
+10. CONCLUSION
+[mostly illegible]
+
+11. BRIEF SUMMARY AND ANALYSIS
+[mostly illegible, only fragments of text are visible]
+
+FORM
+FTD SEP 63 0-329 (TDE)   Previous editions of this form may be used.
+
 
 - page 47 -
 
-There is no photograph present in this image. This appears to be a scanned document from the Dearborn Observatory at Northwestern University, dated May 26, 1965. The text of the document is as follows:
+Here is the text from the document:
 
-DEARBORN OBSERVATORY 
+DEARBORN OBSERVATORY
 NORTHWESTERN UNIVERSITY
 EVANSTON, ILLINOIS 60201
 
 May 26, 1965
 
 Major Hector Quintanilla, Jr.
-USAF 9194
-PID Wright Patterson Air Force Base
+Box 9494
+FTD Wright Patterson Air Force Base
 Dayton, Ohio
 
 Dear Major:
 
-I would like to report on my telephonic investigation of the Mt. Airy, Maryland case of March 5, 1965. I had a long telephone conversation with the father and with the sons in question, and with the daughter and son-in-law of the family. It seems that they can't pick any holes in their story. They were followed by strange light parallel to state highway 40, which is about a quarter of a mile away and which has quite a bit of traffic on it. The seventeen-year-old son was with the father when it happened and they stopped along the road to look at the light, which seemed to be quite near. There is some possibility that the event might have an explanation in terms of the radiation from jets or some such manner, but I am not too sure. The lights seemed to be quite bright and to have quite an intensity.
+I would like to report on my telephonic investigation of the Mt. Airy, Maryland, case of March 8, 1965. I had a long telephone conversation with the father and with the sons in the background. Father sounded steady and reliable, puzzled, but unexcitable. I can't pick any holes in the reliability of the report. There were two twists, followed by the third. The seventeen-year-old son was with the father when it happened and they had time to call to the twenty-eight-year-old son to come out of the house and take a look. "There is some possibility that the event might be tied in with Camp David which is about twenty miles away in the same general direction the lights were observed going. The lights also paralleled Rt. 40, which is about a quarter of a mile away and which has a lot of traffic on it.
 
-Mr. Brown is an instrument maker at the Bureau of Standards, but also does a good bit of amateur astronomy.
+Mr. [REDACTED] is an instrument maker at the Bureau of Standards, but also operates a farm.
 
-The outstanding things in his mind were the very slow speed (as if attached to a balloon), the floating sensation, and the extreme closeness of the lights, one of which was so bright that it simulated the sunlight and pinpoints could be clearly seen on its surface. These lights appeared to be under intelligent control and to be maneuverable. 
+The outstanding things in his mind were the very slow speed (as if attached to a balloon), the floating sensation, and the extreme close-ness yet lack of sound. "I would take a dirigible or blimp oriented sideways and place three pairs of red lights along it - a pair of lights like the tailfins on a 1958 Ford. He said it looked like a flying wing. All lights had the same intensity.
 
-Mr. Brown felt, as I did, that it was just something I couldn't understand, a bit different and a bit strange. He doesn't believe that he nor his sons would shorten his reaction time. I checked him about his reaction and he seems to still be very puzzled and has been kidded a bit about it. Someone gave him a book on air craft contaminants, but he sone read that through and felt it didn't pertain to this case. I gave him some issues of Flying Saucers - whatever, but lights appeared to be attached to something, the whole thing could be explained if we could establish the presence of a large glider headed for Camp David; however, no green or white lights, only red, and speed seemed too slow.
+Mr. [REDACTED] felt, "It was just something I couldn't understand." Lights were diffused but bright. It was windy, but he doesn't know the direction of the wind. I checked him on the length of time, but neither he nor his sons would shorten it. I checked him about his recollection since that time, and he says he is still very puzzled and has been riddled about it quite a bit. And, someone gave him a book on air craft. I confirmed that the object came directly over their heads and that it gave the appearance that it was about to crash into the house. He saw no fusilage whatever, but lights appeared to be attached to something. It was a very dark night.
 
-Sincerely,
+The whole thing could be explained if we could establish the presence of a large glider headed for Camp David; however, no green or white lights, only red, and speed seems too slow.
+
 
 - page 48 -
 

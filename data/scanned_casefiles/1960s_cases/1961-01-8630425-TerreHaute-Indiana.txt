@@ -1,102 +1,81 @@
-There is no photograph present in this image. The image shows a scanned document from Project Blue Book, which appears to be a record card containing information about a UFO sighting.
+PROJECT 10073 RECORD CARD
 
-Here is the text from the document, transcribed using OCR:
-
-1. DATE 
+1. DATE
 28 Jan 61
 
 2. LOCATION
 Terre Haute, Indiana
 
-3. DATE-TIME GROUP OF SIGHTING
-28 Jan 61/1020
+3. DATE-TIME GROUP
+Local 2302
+GMT 260127z
 
 4. TYPE OF OBSERVATION
-D Ground-Visual
+☒ Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
 
-5. DURATION
-1-2 mins
+5. PHOTOS
+☐ Yes ☒ No
+
+6. SOURCE
+Military
 
 7. LENGTH OF OBSERVATION
-D 1-2 mins
+1
 
-10. BRIEF SUMMARY OF SIGHTING OFFICIAL moonwatch report of satellite appearing Object.
+8. NUMBER OF OBJECTS
+1
 
-11. COMMENTS: Should all known data was not available.
+9. COURSE
+SSW-NNE
+
+10. BRIEF SUMMARY OF SIGHTING
+Official moonwatch report of satellite appearing object.
+
+11. COMMENTS
+Should be satellite, however, all known data was not available.
 
 12. CONCLUSIONS
-Was Not Balloon
-Probably Satellite
-Possibly Aircraft
-Was Not Astronomical
-Possible Aircraft 
+☐ Was Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other
+   Insufficient Data for Evaluation
+   Unknown
 
-Was Not Familiar
-Unknown
+ATC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. This appears to be a scanned page from an old UFO report document from Project Blue Book.
-
-Output text from the document:
-
-OFFICIAL MOONWATCH REPORT
+OFFICIAL INFORMATION REPORT
 (For confirmations, and for observations not reported previously)
 
-REGISTERED TEAM NAME: Terre Haute, Indiana
+CLUSTERED TEAM NAME: Terre Haute, Indiana
 
 "Site Number" column below indicate the number of the site at which each observation was made.
 
-DO NOT USE
-"Tele-
-SCOP:"
-graph
-Yes No
-x 8127
+OBJECT OBSERVED: Un-known
+(spell out Greek letter)
+TEAM NUMBER: 025-059-087
 
-Site
-No.
-1/27/
+[Table with columns: DO NOT USE, Telegraph Yelcap, Site No., Date, Time (UT), R.A. or Az. (A), Dec. or Alt. (A), Dir. of Travel, Ang.Vel./Deg/Sec, Max. Var. in Seconds, Instrument Height]
 
-Date
-(UT)
-23h 42.5m
+One row filled out with:
+x 8127 1/27 23h 42.5m 410g 270° (A) 60° (A) ssw-nne .4 A0.5 2
 
-Time (UT)
-410 27°0 (A)
+EPOCH OF STAR CHARTS USED: As far as I can ascertain this does not fit any known object.
+REMARKS: We picked up this object while setting up for 5904 search.
 
-R.A. or
-Dec. (A)
-80° (A)
+REGISTERED TEAM LEADER'S NAME: DEWING                DATE OF REPORT: 1/28/61
 
-Mag. or
-Alt. (A)
-saw-ne
+[Note at bottom: Do not send observations made at a site for which no Smithsonian Astrophysical Observatory site number is assigned.]
 
-Dir. of
-Travel
-.4
-
-Ang.Vel. 
-Deg/Sec
-.5
-
-Max. 
-Mag.
-.5
-
-Var. in
-Seconds
-2
-
-Instru-
-ment
-Weight
-
-POCH OF STAR CHARTS USED: As far as I can ascertain this does not fit any known object.
-REMARKS: We picked up this object up while setting up for 5904 search.
-
-REGISTERED TEAM LEADER'S NAME: DATE OF REPORT: 1/25/61
 
 - page 2 -
 

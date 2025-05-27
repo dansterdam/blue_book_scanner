@@ -1,138 +1,216 @@
-Unfortunately, there is no photograph present in this image. The image appears to be a page from a Project Blue Book record card, which contains details about a reported UFO sighting but does not include any photographic evidence.
-
 PROJECT 10073 RECORD CARD
-1. DATE  3 & 6 May 60
-2. LOCATION  West Hartford, Connecticut
-3. TYPE OF OBSERVATION  Ground-Visual
-4. TYPE OF OBSERVATION  Ground-Visual
-5. SOURCE  Civilian
-7. LENGTH OF OBSERVATION  10-15 min each
-8. NUMBER OF OBJECTS  One
-9. COURSE  Maneuvered
-11. COMMENTS  The colors reported are highly suggestive of running lights used on all a/c, witness was located in an area criss-crossed by many airways.
+
+1. DATE
+3 & 6 May 60
+
+2. LOCATION
+West Hartford, Connecticut
+
+3. DATE-TIME GROUP
+Local
+0300Z & 0900Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[X] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+10-15 min each
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+Maneuvered
+
+10. BRIEF SUMMARY OF SIGHTING
+Bright, white pinpoint of light apparently on luminous red and green oblong object. Body colors flickered. Size and color changed with changes in azimuth.
+
+11. COMMENTS
+The colors reported are highly suggestive of running lights used on all a/c. Witness was located in an area crissacrossed by many airways.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+[X] Was Aircraft
+[X] Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomicsl
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+[X] Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 59)
 
 - page 1 -
 
-The image contains a photograph of an unidentified flying object (UFO). The description of the object provided in the text states that it is an oval, long object with a bright white pinpoint apparently on luminous red and green oblong. The body colors of the object are described as red and green flickered.
+UNCLASSIFIED
 
-EVAT007CRAC02DH8758
-PR RJED80
-DE RJEXDM 410
-P.G2213 0Z 2EX 
+EVA00@7CRA@@2DHB758
+PP RJEDSO
+DE RJEKDH 410
+P 062130Z ZEX
 FM 57AIRDIV
 TO RJWFAL/ADC
-RJEZSX/2GRIRDIV 2SEX/IV KRL8 TTANER KEVEJ=
-RJED80/AAIC
-RJEXHQ7CORS USAF WASH. TOL=
-RJEXHQ7OSAF WASH
-LT
-99DCOI NCOD-G-1-
-REFERENCE APR 200-2, PARAGRAPH 15.
-A DESCRIPTION OF OBJECT.
-(1) OVAL, LONG.-
-(2) 1/8" TO 1/4".-
-(3) BRIGHT WHITE PINPOINT APPARENTLY ON LUMINIOUS RED AND GREEN 
-OBLONG.-
+RJEZSN/26AIRDIV
+RJEDSO/AMC CONN.
+RJEZHQ/COFS USAF HQRS AF OGCMGT
+RJEZHQ/OSAF WASH
+
+DT
+
+99DCO1 NCOD-6-1.
+REFERENCE AFR 200-2, PARAGRAPH 15.
+
+A. DESCRIPTION OF OBJECT.
+(1) OVAL, LONG.
+(2) 1/8° TO 1/4°.
+(3) BRIGHT WHITE PINPOINT APPARENTLY ON LUMINOUS RED AND GREEN
+OBLONG.
 (4) ONE.
 (5) N/A
 (6) BODY COLORS OF RED AND GREEN FLICKERED.
 
 Classification Cancelled
-for changed to ________
-Auth_Camdff/2-70
-Deputy Asst CorWS GDS
-VaP  3-4-70
+(or changed to)
+Auth
+By
+Date
 
-PAGE TWO RJEXDH 418
+UNCLASSIFIED
+
+PAGE TWO RJEKDH 410
+
 (7) NONE.
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a scanned document page from Project Blue Book, an official U.S. Air Force investigation of Unidentified Flying Objects (UFOs).
-
-The text in the document is as follows:
-
 UFO ANALYSIS SHEET
 
-Location: West Hartford, Connecticut
-Date: 16 May 1960  Hour: (2) 0400002 0600002
-WX: Clear, vis 15 & 12 mi, winds S @ 1-7 Knots W @ 8-25 knots
-Description: Oval, 1/3" to 1/4" at arms length, Bright white appearing on luminous red and green body which flickered, first seen in the WNW and NW few deg above horiz, last seen NE and E few deg above horiz, seen for 10 to 15 minutes
-Direction of Motion: maneuvered
-Satellites: (AFGIN-4F3, Phone 69219) Ruled out
-Astronomical Phenomena (Meteor, Comet, Planet, etc.) Ruled out
-Radar Analysis (AFGIN-4E1) None
-Natural Phenomena (Ball Lightning, etc.) Ruled out
-Aircraft, Balloons, Airships, etc. Pass Acft
-Evaluation of Source Reliability: Prob unreliable 
-Analysis and Conclusions: The witness is located in an area crisscrossed by many airways, and there are many aircraft,both military and civilian, flying over the area at all times. Although there were no craft from the local civil and military airfields reported in this area at that time, there was one aircraft in the distance from one of the numerous fields in the vicinity. Findings indicate that this was most likely an aircraft which appeared unusual due to various factors such as viewing angle, lighting conditions, and atmospheric effects.
+Location West Hartford, Connecticut
+
+Date 4-6 May 1960    Hour (z) 0401402    060902z
+
+WX Clear, vis 15 & 12 mi, winds S @ 4-7 Knots W @ 8-25 Knots
+
+Description Oval, 1/8" to 1/4" at arms length, Bright white pinpoint apparently on luminous red and green body which flickered, first seen in the NNW and NW few deg above horiz, last seen NE and E few deg above horiz, seen for 10 to 15 minutes
+
+Direction of Motion maneuvered
+
+Satellite: (AFOIN-4F3, Phone 69219)    Ruled out
+
+Astronomical Phenomena (Meteor, Comet, Planet, etc)    Ruled out
+
+Radar Analysis (AFOIN-481)    None
+
+Natural Phenomena (Ball Lightning, etc)    Ruled out
+
+Aircraft, Balloons, Airships, etc.    Pass Act
+
+Other
+
+Evaluation of Source Reliability    Prob unreliable
+
+Analysis and Conclusions: The witness is located in an area crisscrossed by many airways, and there are many aircraft, both military and civilian, flying over the area at all times. Although there were no act from the local civil or military fields in the area, it is possible that there was one in the distance from one of the numerous fields in this part of the country. The colors reported are nightly suggestive of running lights used on all act.
 
 - page 3 -
 
-There is no photograph present in this image. The image appears to be a scanned page from a Project Blue Book report document.
+H. NONE BOTH SIGHTINGS.
 
-II. NONE BOTH SIGHTINGS.
 I. NONE
-J. NONE REPORTED BY WESTOVER AFB RAPCON OR BRADLEY FIELD, CONN.
-CONTROL TOWER RECORDS FOR EITHER SIGHTING.
-K. INTELLIGENCE OFFICER, 99BW, CAPT JOSEPH SATRIANO, OBSERVER
-STATES IN TELEPHONE INTERVIEW THAT HE HAS BEEN READING ARTICLES
-AND BOOKS ON UFO'S AND THAT HE WAS DISCUSSING THE SUBJECT WITH
-HIS GIRLFRIEND WHEN FIRST OBSERVATION WAS MADE. OBSERVER ALSO
-STATED HE HAS BEEN IN THE USAF FOR FOUR YEARS AND IS FAMILIAR WITH
-AIRCRAFT SIGHTINGS. HIS OBSERVER ALSO CONFIRMED HIS STORY ABOVE.
+
+J. NONE REPORTED BY WESTOVER AFB RAPCON OR BRADLEY FIELD, CONN. CONTROL TOWER RECORDS FOR EITHER SIGHTING.
+
+K. INTELLIGENCE OFFICER, 998W, CAPT JOSEPH SATRIANO. OBSERVER STATES IN TELEPHON INTERVIEW THAT HE HAS BEEN READING ARTICLES AND BOOKS ON UFO'S AND THAT HE WAS DISCUSSING THE SUBJECT WITH HIS GIRLFRIEND WHEN FIRST OBSERVATION WAS MADE. OBSERVER ALSO STATED HE HAS BEEN IN THE USAF FOR FOUR YEARS AND IS FAMILIAR WITH
+
 PAGE FIVE RJEXDH 410
 APPEARANCE OF AIRCRAFT IN FLIGHT.
-NOTE: NO REPORT OF FIRST SIGHTING WAS FORWARDED TO PREPARING
-OFFICE.
-l. NONE AVAILABLE EXCEPT AZIMUTH READINGS TAKEN BY OBSERVER.
+
+NOTE: NO REPORT OF FIRST SIGHTING WAS FORWARDED TO PREPARING OFFICE.
+
+1. NONE AVAILABLE EXCEPT AZIMUTH READINGS TAKEN BY OBSERVER.
+
 BT
-06/2222Z MAY RJEXDH
+06/22@25MAY RJEXDH
+
+The document contains multiple "UNCLASSIFIED" stamps and some redacted/blacked out sections.
 
 - page 4 -
 
-The image does not contain any photograph. It appears to be a page from an old UFO report document with a detailed description of a sighting.
+Here is the text from the document:
+
+(8) NONE.
+
+(9) SIZE AND COLOR CHANGE WITH CHANGES IN AZIMUTH.
+
+B. DESCRIPTION OF COURSE OF OBJECT:
+
+(1) FIRST SEEN WED 4 MAY 60 0400-0502 WHILE SITTING ON CAR LOOKING AT STARS WITH YOUNG LADY. MOVEMENT OF "STAR"ATTRACTED ATTENTION. SECOND SIGHTING APPROXIMATELY 0602 6 MAY 60, SAME VICINITY.
+
+(2) FIRST SIGHTING: 030 DEC MAG, FEWSDEGREES ABOVE HORIZON
+SECOND SIGHTING: 330 DEG MAG. FEW DEGREES ABOVE HORIZON
+
+(3) FIRST SIGHTING: 050 DEG MAG. FEW DEGREES ABOVE HORIZON
+SECOND SIGHTING: 090 DEG MAG. HORIZON
+
+(4) FIRST SIGHTING: MOVED WEST FROM 031 DEG STOPPING AT 360. DEG SEEMED TO DROP AND THEM TO RISE. REVERSED PATH,NOW GOING EAST. LIGHT APPEARED DIMMER AND SMALLER. STOPPED AT AZIMUTH OF 030. TURNED VERY BRIGHT RED AND DISSAPEARED.
+
+SECOND SIGHTING: OBSERVER IN SAME LOCATION. SAME LIGHT, MOVING PARAALLEL TO GROUND OR POSSIBLY IN SLIGHT ARC SHORT DISTANCE ABOVE HORIZON. OBJECT SEEMED LARGER AT FIRST THAN ON PREVIOUS SIGHTING. FIRST SEEN AT 330 DEG AZIMUTH. MOVED EASTWARD TO 060DEG TO 090. DEG GREW
 
 PAGE THREESRJEXDH 410
-VERY FAINT AND FLICKERING, GREW SMALLER, TURNED REDDISH AND STOPPED.
-SLOWLY CLIMBED AND THAN DROPPED. DISAPPEAREDBELOW HORIZON, GROWING
-SMALLER AS IT DROPPED.
+
+VERY FAINT AND FLICKERING, GREW SMALLER, TURNED REDDISH AND STOPPED. SLOWLY CLIMBED AND THAN DROPPED. DISAPPEAREDBELOW HORIZON, GROWING SMALLER AS IT DROPPED.
+
 (5) FIRST SIGHTING: TURNED BRIGHT RED AND BLINKED OUT
 SECOND SIGHTING: DISAPPEARED BELOW HORIZON.
 
-- page 5 -
+The document is marked "UNCLASSIFIED" at the bottom.
 
-The image does not contain any photographs. As an OCR system, I will produce the text found in the document:
+- page 5 -
 
 C. MANNER OF OBSERVATION.
 (1) GROUND VISUAL.
 (2) USED SURPLUS ARMY FIELD COMPAS TO DETERMINE AZIMUTH.
 (3) N/A
+
 D. TIME AND DATE OF SIGHTING.
-(1) 29/04/52 - 06/04/52 - FIRST SIGHTING.
-(2) 07/05/52 - 07/05/52 - SECOND SIGHTING.
-TIMES APPROXIMATE SINCE OBSERVER HAD NO WATCH.
+(1) 04/04/02 - 04/04/152 - FIRST SIGHTING.
+     06/06/002 - 06/09/152 - SECOND SIGHTING.
+     TIMES APPROXIMATE SINCE OBSERVER HAD NO WATCH.
 (2) NIGHT.
-E. LOCATION OF OBSERVER - STONER DRIVE, VICINITY OF MOUNTAIN ROAD,
+
+E. LOCATION OF OBSERVER - STONER DRIVE, VICINITY OF MOUNTAIN RD., 
 WEST HARTFORD, CONN.
+
 F. IDENTIFYING INFORMATION ON OBSERVERS.
-(1) MR [REDACTED], 23 YRS [REDACTED], EAST HARTFORD,
+(1) MR [REDACTED], 23 YRS, [REDACTED], EAST HARTFORD, 
 CONN. - JET ENGINE TESTING AT PRATT AND WHITNEY EXPERIMENTAL - DEPT
 
-UNCLASSIFIED
-
-PAGE FOUR RJEXDH 410
-556.
 G. WEATHER.
 (1) CAVU BOTH SIGHTINGS
-(2) FIRST SIGHTING: 12DEG/7K, 23DEG/11K, 31DEG/12K, 26DEG/17K
-29DEG/14K, 29DEG/20K, 28DEG/24K.
-SECOND SIGHTING: 12DEG/4K, 25DEG/11K, 25DEG/11K, 21DEG/13K,
-23DEG/5K, 25DEG/15K, 32DEG/25K.
+
+(2) FIRST SIGHTING: 18DEG/7K, 23DEG/11K, 31DEG/18K, 26W/DEG/17K
+     29DEG/14K, 29DEG/20K, 280DEG/24K.
+     SECOND SIGHTING: 18DEG/4K, 25DEG/11K, 250$3/11K, 21@DEG/13K,
+     23DEG/8K, 29DEG/16K, 320DEG/25K.
+
 (3) UNLIMITED BOTH SIGHTINGS.
+
 (4) 4 MAY - 15 MI, 6 MAY 12 MI.
+
 (5) CLEAR BOTH SIGHTINGS
-(6) WIND BOTH SIGHTINGS.
+
+(6) NONE BOTH SIGHTINGS
 
 - page 6 -
 

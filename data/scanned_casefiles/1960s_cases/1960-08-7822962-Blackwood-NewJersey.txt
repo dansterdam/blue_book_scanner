@@ -1,50 +1,103 @@
-There is no photograph present in the image. The image shows a page from an old UFO report document from Project Blue Book, containing a Project 10073 Record Card with various fields filled out, including date, location, type of observation, source, duration, number of objects, and conclusions.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 29 August 1950
-2. LOCATION: Blackwood, New Jersey
-3. DATE-TIME GROUP: 2245
-4. TYPE OF OBSERVATION: Ground-Radar
-5. SOURCE: Civilian
-6. DURATION: 5 minutes
-7. NUMBER OF OBJECTS: 1
-9. COURSE: N/A
-10. CONCLUSIONS: Insufficient data for analysis.
+
+1. DATE
+29 August 1960
+
+2. LOCATION
+Blackwood, New Jersey
+
+3. DATE-TIME GROUP
+Local 2105
+GMT 30/0205Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual ☒ Ground-Radar ☐
+Air-Visual ☐ Air-Intercept Radar ☐
+
+5. SOURCE
+Civilian
+
+6. LENGTH OF OBSERVATION
+not reported
+
+7. BRIEF SUMMARY OF SIGHTING
+Object brighter, then dimmer than star observed in flight from West to East.
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+east
+
+10. PHOTOS
+☐ Yes ☒ No
+
+11. COMMENTS
+Insufficient data for analysis.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Was Astronomical
+☐ Possibly Astronomical
+☒ Other: Insufficient Data for Evaluation
+☐ Unknown
+
 
 - page 1 -
 
-There is no photograph present in this image. The image shows a page from an old document, likely a Project Blue Book report, containing typed text with certain portions redacted or blacked out.
+Here is the text from the document:
 
-PLEASE READ AS FOLLOWS
+Air Force Form 164
+Date of the Incident
 
-Dear 7-22-62,
-This report, which came to our attention in connection with a recent investigation of a case of unidentified flying object, is forwarded for your consideration. The material appears to be of considerable interest and importance and we would appreciate your examination of it and an expression of your views as to its significance and corroborative value, if any, and the advisability of further investigation.
-PLEASE ACKNOWLEDGE RECEIPT AT ONCE
+Blackwood, New Jersey
+
+Dear Sir:
+
+This is to inform you that, in accordance with your request, the object which you claim to have sighted near Clark, West Deptford, or somewhere at high noon, 1957
+
+Will request info. if available.
+Want to know if I can write to newspaper, or hold on to info. until later date, or would you send a reply to my letter to confirm me.
+
+Important matter to us.
+
+PLEASE SEND AS SOON AS POSSIBLE
+
+Waiting an answer,
+
+[Note: Some text is blacked out/redacted]
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a typed letter on official stationery.
+SAFSI-34, Col Tacker/mbp/72291
 
-Text output:
+2 September 1960
 
-Dear Mr. _______,
+Dear Mr.
 
-This is to acknowledge your undated letter in which you reported the sighting of an unidentified flying object. 
+This is to acknowledge your undated letter in which you reported the sighting of an unidentified flying object.
 
-Your letter contained insufficient information for a valid investigation. Therefore, I am filling out the attached questionnaire and forward the completed document to the Aeropsace Technical Intelligence Center for their evaluation and analysis.
+Your letter contained insufficient information for a valid evaluation. Therefore, request that you fill out the attached questionnaire and forward the completed document to the Aerospace Technical Intelligence Center for their evaluation and analysis.
 
 Sincerely,
 
+Attachment
+
 LAWRENCE J. TACKER
 Lt. Colonel, USAF
-Public Information Division 
+Public Information Division
 Office of Information
 
-Mrs. _________
+Mr.
 Blackwood, New Jersey
 
-Somebook OI-34
-Reader OI-1
+Comeback 01-34
+Reader 01-1
+
 
 - page 3 -
 

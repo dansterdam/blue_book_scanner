@@ -1,76 +1,103 @@
-The image contains a Project Blue Book record card. There is no photograph present in this particular page.
+Here is the text from the document:
 
-PROJECT 10073 RECORD CARD
-1. DATE: 3-7 Sep 50
-2. LOCATION: Kadena Air Base, Okinawa
-3. DATE-TIME GROUP: 2130-2230
-4. TYPE OF OBSERVATION: Ground-Radar
-5. DURATION: 1 minute
-6. SOURCE: Military
-7. LENGTH OF OBSERVATION: 1 minute
-8. NUMBER OF OBJECTS: 1  
-9. COURSE: At first appeared to be a rocket or missile, then moved erratically and disappeared behind a cloud. Course was approximately 180 degrees.
-10. COMMENTS: Descriptions and flight path of these 1 object was determined from information received from control tower operators. No photograph or other physical evidence obtained.
+513 Air Div                PROJECT 10073 RECORD CARD
+
+1. DATE                    2. LOCATION                   12. CONCLUSIONS
+5-7 Sep 60                 Kadena Air Base, Okinawa      □ Not Solvable
+                                                          □ Possibly Balloon
+3. DATE-TIME GROUP         4. TYPE OF OBSERVATION        □ Probably Balloon
+Local - 9/11052            □ Ground-Visual                □ Was Aircraft
+GMT - 60/1252Z             □ Air Visual                  □ Probably Aircraft
+NOTES                      □ Air-Intercept Radar         □ Possible Aircraft
+
+7. LENGTH OF OBSERVATION   8. NUMBER OF OBJECTS          9. COURSE
+        10-20 min                   One                         SE
+
+10. BRIEF SUMMARY OF SIGHTING
+White object, fading to white to reddish, seemed to follow curvature of
+star. Seemed to follow curvature of star. Appeared behind cloud. Seen
+on 5 and 7 Sep 60.
+
+11. COMMENTS
+Description and flight path is character
+istic of Reso I.
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a page from an old Project Blue Book report documenting a UFO sighting.
+UNCLAS EP
 
-UNCLE CASE
-SP 12-060
-TP 3965-08 PO-0021 ID-07
-DR NR4608-149
-APDST-EQ FIX
-TY 613 AIRDIV KADENA AB OKI
-TO VO/USAF WASHDC
-USESC/AEROSPACE TECHNICAL INTELLIGENCE CENTER WPAFB OHIO
-CJIZ3F/AF CAMBRIDGE RESEARCH CEN HANSCOM FLD MASS
-JPAN/PAGAF HICKAM AFB HAWAII
-JPAA/ATIC DET 4 TOKYO JAPAN
-JPAA4/3AF FUCHU AS JAPAN
-IT
-NC 1 AS E F TO 33-CC-I U-9-67
-ACTION USAF FOR AFCIN-1, AEROSPACE TIC INTEL CEN, AF CAMBRIDGE
-RESEARCH CEN FOR PROJ SPACE TRACK, PACAF FOR PPICO-C, ATIC DET 4,
-JP FOR SPICE. SUBJECT SPACE TRACK.
-(1) OBJECT SHAPE OF A STAR
-(2) A STAR OF 3 .-AMITUDE 
-(3) REDDISH TO WHITE TO REDDISH
-(4) ONE
-(5) 33 DEGREES TO 49 DEGREES ELEVATION 349 DEGREES AZIMUTH
+FP RJESOG 143 ATNO 160 SEP 9 11 C3
+DE RGAOKA 143
+P 050762Z TEX
+FM 313 AIRDIV KADENA AB OKI
+TO RJEZHQ/USAF WASHDC
+RJESOG/AEROSPACE TECHNICAL INTELLIGENCE CENTER WPAFB OHIO
+RJEZDF/AF CAMBRIDGE RESEARCH CEN HANSOM FLD MASS
+JGHXM/PACAF HICKAM AFB HAWAII
+RGAPAA/ATIC DET 4 TOKYO JAPAN
+RGAPAA/SAF FUCHU AS JAPAN
+
+UNCLAS EP TO 3130C-1 U-9-67
+ACTION USAF FOR AFCIN-1, AEROSPACE TEC INTEL CEN, AF CAMBRIDGE
+RESEARCH CEN FOR PROJ SPACE TRACK, PACAF FOR PFIC0-0, ATIC DET 4,
+SAF FOR SFIC0. SUBJECT SPACE TRACK.
+
+1. OBJECT SHAPE OF A STAR
+(1) A STAR OF R3 .-ANITUDE
+(2) REDDISH TO WHITE TO REDDISH
+(3) ONE
+(4) NONE
+(5) 33 DEGREES TO 40 DEGREES ELEVATION 340 DEGREES AZIMUTH
+
 
 - page 2 -
 
-The image does not contain a photograph. It appears to be a page from a document related to Project Blue Book, a U.S. Air Force program that investigated UFO sightings.
+PAGE TWO RJAOKA 143
 
-PAGE TWO RJAOXA 143
-(1) 29 DEGREES TO 49 ELEVATION 349 DEGREES AZIMUTH
-(2) SEEMED TO FOLLOW CURVATURE OF EARTH, NO CHANGE IN COURSE
-(3) BEHIND E CLOUDS ON HORIZON 
-(4) 13 - 29 MINS ESTIMATED
-(5) 11:37-2 SEPTEMBER 63
-(6) NIGHT - WITH FULL MOON
-REMARK: SIGHTED AGAINST 2 HOURS AND 5 MINUTES LATER. OBJECT DISAPPEARED AND REAPPEARED ON 6 SEP 63. OBJECT SIGHTED AGAIN AT 03:35 AND 12:47 ON 7 SEP 63. OBJECT BELIEVED TO BE ECHO I.
-DT 7937 JRD RJAOXA
+(2) 20 DEGREES TO 40 ELEVATION 360 DEGREES AZIMUTH
+(3) SEEMED TO FOLLOW CURVATURE OF EARTH, NO CHANGE IN COURSE
+(4) BEHIND E CLOUDS ON HORIZON
+(5) 10 - 20 MINS ESTIMATED
+(1) 11057 5 SEPTEMBER 63
+(2) NIGHT - WITH FULL MOON
+REMARK: SIGHTED AGAINST 2 HOURS AND 8 MINUTES LATER. OBJECT
+SIGNED 13402 AND 13392 ON 6 SEP 63. OBJECT SIGHTED AGAIN AT
+13402 AND 12407 ON 7 SEP 63. OBJECT BELIEVED TO BE ECHO I.
+
+13357 SEP RJAOKA
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a page from a UFO report document.
-
 UFO ANALYSIS SHEET
+
 Location: Kadena AB, Okinawa
-Date: 9 Sep 1960
-Time: Full Moon
-Description: Shape of star, bright, reddish to white to reddish, first seen as 1 object, then 2 objects seen 20-30 sec, bright, seems to follow observation of object in course, silently and slowly disappearing horizon, seen for 10-20 minutes. Seen again 10402 & 1202 6 Sep, 10202 & 1202 7 Sep.
-Direction of Motion: Southwest
-Satellite: (AGENA-D) phone 69219
-Astronomical Phenomena (Meteor, Comet, Planet, etc.): Ruled out
-Radar Analysis (AGCIN-412): None
-Natural Phenomena (Ball Lightning, etc.): -----
-Aircraft, Balloons, Airships, etc.: Ruled out
+
+Date: 5 Sep 1960                   Hour (Z): 1105Z
+
+WX: Partly cloudy, full moon
+
+Description: Shape of star, bright, reddish to white to reddish, first seen 20 deg elev at 310 deg, last seen 20-40 deg elev at 050 deg, seemed to follow curvature of earth, no change in course, disapp behind clouds anyway on horizon, seen for 10-20 minutes. Seen again 10402 & 13002 6 Sep, 10202 & 12402 7 Sep
+
+Direction of Motion: Southeast
+
+Satellite: (AFGIN-4F3, Phone 69219)   Echo I
+
+Astronomical Phenomena (Meteor, Comet, Planet, etc): Ruled out
+
+Radar Analysis (AFGIN-481):           None
+
+Natural Phenomena (Ball Lightning, etc):  --------
+
+Aircraft, Balloons, Airships, etc.:   Ruled out
+
 Other:
-Evaluation of Source Reliability: Very Reliable
-Analysis and Conclusions: The description and claims of the object fit the characteristics of a satellite, possibly the AGENA-D, in its orbital flight path. The witness was able to observe it for an extended period of time, noting its movement and disappearance over the horizon. Other astronomical phenomena were ruled out. The reliability of the source is deemed very reliable.
+
+Evaluation of Source Reliability: Prob reliable
+
+Analysis and Conclusions: The description and flight path of the object is characteristic of the satellite Echo I. It was seen on two occasions in 2 hours, and the lapse between each sighting is the same as Echo I, which is about 2 hours.
+
 
 - page 4 -
 

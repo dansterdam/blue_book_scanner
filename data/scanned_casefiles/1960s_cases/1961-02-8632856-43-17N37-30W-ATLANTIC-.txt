@@ -1,77 +1,92 @@
-There does not appear to be any photograph present in this image. It appears to be a scanned document from Project Blue Book, which was a U.S. Air Force project to investigate unidentified flying objects (UFOs).
-
-The text in the document is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 6 FEB 62  
-2. DATE-TIME GROUP: 06/23302    
-3. LOCATION: 13-17N 37-30W (ATLANTIC)
-4. TYPE OF OBSERVATION: Ground-Visual     
-5. PHOTOS: 0  
-6. LENGTH OF OBSERVATION: 30 min
-7. BRIEF SUMMARY OF SIGHTING: White and round or oval in shape, appeared to be at an altitude of 6500' and moving with a speed of 500-600 knots, changed direction of 110° at a bearing of 270°, at one time appeared to be at an altitude of 9000' and then dropped to 6500'.
-10. BRIEF SUMMARY OF SIGHTING: White and found of oval in shape, appeared to be at an altitude of 6500' and moving with a speed of 500-600 knots, changed direction of 110° at a bearing of 270°, at one time appeared to be at an altitude of 9000' and then dropped to 6500'.
-11. COMMENTS: Object moving with a/C and at low altitude, 30-40 miles east of Bermuda, would take about this time to get to destination. Observation and location placing of object getting more general, some conflicting and confusing data.
+
+1. DATE: 6 Feb 64
+2. LOCATION: 43.17N   37.30W (ATLANTIC)
+3. DATE-TIME GROUP: 06/23202
+4. TYPE OF OBSERVATION: Local
+5. GMT: 06/23202
+6. PHOTOS: [ ] Yes [X] No
+7. LENGTH OF OBSERVATION: 30 min
+8. NUMBER OF OBJECTS: 1
+9. COURSE: 50°
+
+10. BRIEF SUMMARY OF SIGHTING: White and oval in shape. Air crew sighting through 8x & octant single. UFO at 06/23202 rm a/c heading 290°, altitude 6500. Obj was at a bearing of 267° w/ elev of 5° 314'. At 06/3297 obj had 3° elev and was moving W. Remained in sight until 06/2350Z at which time it disappeared over horizon. Obj brighter than any star.
+
+11. COMMENTS: Obj moving with a/c and at elev of 50. Disappearing below horizon, same position in about 30 min. Star or planet would take about this time to set. Initial observation at 3500N elliptic. Disappearance coincided with setting of Venus at 399 on elliptic Mag -4.1. Case listed as astro sighting of Venus.
+
+12. CONCLUSIONS: [X] Was Balloon
+                 [ ] Probably Balloon
+                 [ ] Possibly Balloon
+                 [ ] Was Aircraft
+                 [ ] Probably Aircraft
+                 [ ] Possibly Aircraft
+                 [X] Was Astronomical
+                 [ ] Probably Astronomical
+                 [ ] Possibly Astronomical
+                 [ ] Other
+                 [ ] Insufficient Data for Evaluation
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a naval message or report, likely from Project Blue Book, a historical U.S. Air Force program that investigated unidentified flying objects (UFOs).
+NAVAL MESSAGE                   UNCLASSIFIED                   NAVY DEPARTMENT
 
-TEXT OUTPUT FROM OCR:
+AF IN: 10018 (7 Feb 61) L/dq
 
-NAVAL MESSAGE
-OPERATIONAL IMMEDIATE
-OPERATIONAL IMMEDIATE
+TO 070822Z
+FM COMBARLANT
 
-AXN OPCONSARANT 070032 (7 FEB 61) L/4g
-
-TO RESEARCH CONTROL FLT
-R2 FJEF FORT WORTH TEXAS NORAD REGION
-SUBJ: NO USAF
-REF: PU/CNO
-JEB6UN/COMEASTSEAFRON
+TO RBEXHC/CINCLANTFLT
+RJWFALB/CINCNONAD
+RJEZ MTWENTY SIX NORAD REGION
+RJEZHO/HQ USAF
+RBEPW/CNO
+RBBEGUH/COMEASTSEAFRON
 
 UNCLAS.
 LOCATING ONE UFOB FINAL AMPLIFYING
-A. MY 062392Z
+
+A. MY 062352Z
+
 1. DEBRIEF OF BARRIER CREW
-2. S OFFICERS OF W/C BARRIER ACFT BUNO 41328 SIGHTED
-VISUALLY THRU BINOCULARS AND. OCTANT SINGLE UFOB. FIRST
-SIGHTING AT 062307Z. ACFT LOST IT AT 062320Z 43-17N 37-30W
-HDG 232 TRUE ALT 6500 FT. OBJECT BEARING 267 TRUE ANGLE
-OF ELEVATION 5 DEGREES 34 MIN. AT 062320Z ANGLE 03 DEGREES
+
+2. 5 OFFICERS OF WV-2 BARRIER ACFT BUNO 41328 SIGHTED
+VISUALLY WRU BINOCULARS AND OCTAN SINGLE UFOB. FIRST
+SIGHTING AT 062370Z. ACFT IOSIT AT 062320Z 43-17N 37-30W
+
+HDG 290 TRUE ALT 6500 FT. OBJECT BEARING 267 TRUE ANGLE
+OF ELEVATION #5 DEGREES 34 MIN. AT 062327Z ANGLE 03 DEGREES
 25 MIN. APPROX 062350Z OBJECT MOVING IN A WESTERLY DIRECTION
 
-NOTE : Advance copy delivered to CIN
+NOTE: Advance copy delivered to CIN
 
-DECRU UNSECNAV ATSECNAVRESEBY 23 29 235 098 230 33 34 13 25 35 07 470
-75 74 76 94 JCS NAVAIDE ARMY CAP NIC AIR COGARD CMG IT AT PLANZO BYR
+92 ACT
+SECNAV UNSECNAV ASTSECNAVRESDEV 00 09 098 09N 03 33 34 35 05 05 07 07D
+73 74 75 94 JCS NAVAIDE ARMY@ NIC CIR COGARD CMG IP FLAGPLOT BPR
 
-CIRCUIT NO. PAGE OF PAGES TIME OF RECEIPT DATE TIME GROUP
-137 V/D/A- 3 183 1 10322Z 07 FEB 07232Z FEB 61
+CIRCUIT NO.    PAGE    OF    PAGES    TIME OF RECEIPT        DATE TIME GROUP
+155/VN/JA/3    185      1      2       1032Z/ 07 FEB           070822Z FEB 61
 
 UNCLASSIFIED
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a scanned page from a Project Blue Book document.
+NAVAL MESSAGE                   UNCLASSIFIED                   NAVY DEPARTMENT
 
-NAVAL MESSAGE
-UNCLASSIFIED
-NAVY DEPARTMENT
-DISAPPEARED OVER HORIZON. WEATHER CLEAR AGT ABOVE OVCST.
-3. OBJECT DESCRIBED AS WHITE AND ROUND OR OVAL IN SHAPE. APPROX SIZE AS LARGE AS MATCH HEAD HELD AT ARMS LENGTH. OBSERVERS FIRST NOTICED BRIGHTNESS OF OBJECT WHICH WAS BRIGHTER AND LARGER THAN ANY VISIBLE STAR.
+DISAPPEARED OVER HORIZON. WEATHER CLEAR ACFT ABOVE OVGST.
+3. OBJECT DESCRIBED AS WHITE AND ROUND OR OVAL IN SHAPE. APPROX
+SIZE AS LARGE AS MATCH HEAD HELD AT ARMS LENGTH. OBSERVERS
+FIRST NOTICED BRIGHTNESS OF OBJERT WHICH WAS BRIGHTER AND
+LARGER THAN ANY VISIBLE STAR.
 
-CONTROL NO.
-1.395/--
-CIRCUIT NO.
-2
-PACE OF 
-2
-TIME OF RECEIPT
-2708222 FEB 61
-DATE TIME GROUP
+CONTROL NO.     1557-                    CIRCUIT NO.     PAGE 2 OF 2 PAGES     TIME OF RECEIPT     DATE TIME GROUP
+                                                                                 070322Z FEB 61
+
 UNCLASSIFIED
+
 
 - page 3 -
 

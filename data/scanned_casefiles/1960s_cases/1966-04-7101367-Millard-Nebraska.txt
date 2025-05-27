@@ -1,67 +1,99 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record, which is a U.S. Air Force project that investigated UFO sightings from 1947 to 1969.
-
-The text in the document is as follows:
-
 PROJECT 10073 RECORD
 
-1. DATE - TIME GROUP: 11 April 66 12/02152
-2. LOCATION: Millard, Nebraska (1 Witness)
-3. SOURCE: Civilian 
-4. NUMBER OF OBJECTS: Astro (SIRIUS)
-5. LENGTH OF OBSERVATION: 15 minutes
-6. TYPE OF OBSERVATION: Ground-Visual
-7. COURSE: Stationary, Spinning
-8. PHOTOS: None
-9. PHYSICAL EVIDENCE: None
-10. CONCLUSION: The object was a large red and white spinning light. Observed for 15 minutes and was still visible. The star SIRIUS was in the approximate position of the object.
+1. DATE - TIME GROUP
+11 April 66 12/0315Z
+
+2. LOCATION
+Millard, Nebraska (1 Witness)
+
+3. SOURCE
+Civilian
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+15 Minutes
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+Stationary, Spinning
+
+8. PHOTOS
+[X] No
+
+9. PHYSICAL EVIDENCE
+[X] No
+
+10. CONCLUSION
+Astro (SIRIUS) 7/8*
+
+11. BRIEF SUMMARY AND ANALYSIS
+Object was a large red and white spinning light. Observed the object for 15 minutes and was still visible. Object remained stationary. Seen in the south-southwest. The star SIRIUS was in the approximate position of the object.
+
+FORM
+FTD SEP 63 0-329 (TDE)   Previous editions of this form may be used.
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a page from a UFO reporting document with various fields for describing the characteristics of a reported UFO sighting.
+D 140
 
-DIYO
-Basic UFO Reporting Data and Formats
+Basic UFO Reporting Data and Format:
+
 1. Description of the object(s):
-a. Shape: Firm, large
-b. Size compared to a known object (use one of the following terms: Head of a pin, pea, dime, nickel, quarter, half dollar, silver dollar, baseball, grapefruit, or basketball) held in the hand at about arm's length: 1/3 of a basketball size
-c. Color: Red and white 
-d. Number: One
-e. Formation, if more than one: Not applicable
-f. Any descernible features or details: None
-g. Tail, trail, or exhaust, including size of same compared to size of object(s): None
-h. Sound, if heard, describe sound: No sound
-i. Other pertinent or unusual features: None
-2. Description of course of object(s): Moving southeasterly
-NO PHOTO IN THIS AREA
+    a. Shape: ROUND LARGE TO QUARTER LESS (ESTIMATED)
+
+    b. Size compared to a known object (use one of the following terms: Head of a pin, pea, dime, nickel, quarter, half dollar, silver dollar, baseball, grapefruit, or basketball) held in the hand at about arm's length: AT ALTITUDE SIZE - SILVER DOLLAR
+
+    c. Color: RED & WHITE GLOW
+
+    d. Number: 1/A
+
+    e. Formation, if more than one: ONE
+
+    f. Any discernible features or details: (NONE)
+
+    g. Tail, trail, or exhaust, including size of same compared to size of object(s): NONE (DARK)
+
+    h. Sound, if heard, describe sound: NO SOUND NOTED
+
+    i. Other pertinent or unusual features: NONE
+
+2. Description of course of object(s): SLOWLY STATIONARY
+
+NO HOUSES IN THAT AREA
+
 
 - page 2 -
 
-The image provided does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book.
-
 4. Time and Data of sighting:
-a. Zulu time-date group of sighting: 2255/12 AFRI/66
+a. Zulu time-date group of sighting: 0215Z 1/2 APR/66
 
-b. Light conditions (Use one of the following terms: Night, Day, Dawn, Dusk.): NIGHT -- CLEAR -- FULL (MOON)
+b. Light conditions (Use one of the following terms: Night, Day, Dawn, Dusk.): NIGHT-SLIGHT FOG (1 mi)
 
-5. Location of observer(s). Give exact latitude and longitude of each observer, and/or geographical position. In electrical reports, give a position with reference to a known landmark also, such as: "2mi N of Deville"; "3mi SW of Blue Lake." Typographical errors or "garbling" often occur in electrically transmitted messages, making location plots difficult or impossible.
-EXACT:  39 45N, 192 7W for 38 48N, 102 21W
+5. Location of observer(s). Give exact latitude and longitude of each observer, and/or geographical position. In electrical reports, give a position with reference to a known landmark also, such as: "2mi N of Deeville"; "3mi SW of Blue Lake." Typographical errors or "garbling" often occur in electrically transmitted messages, making location plots difficult or impossible.
+EXAMPLE: 89 45N, 192 71W for 38 45N, 102 21W.   S SW OF
+                                                   MILLARD (IN FIELD)
 
 6. Identifying information on observer(s):
-a. Civilian - Name, age, mailing address, occupation and estimate of reliability.
-[REDACTED]
+a. Civilian - Name, age, mailing address, occupation and estimate of reliability. [Redacted]
 
 b. Military - Name, grade, organization, duty, and estimate of reliability.
 
-7. Weather and winds - Aloft conditions at time and place of sighting:
-a. Observer(s) account of weather conditions: SAITS
+7. Weather and winds - Aloft conditions at time and place of sightings:
+0251/1161G
 
-Page 3 - (no further text)
+a. Observer(s) account of weather conditions.   SAME
+
+Page 3
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, likely containing a detailed form for documenting a UFO sighting.
-
-b. Report from nearest AWS or U.S. Weather Bureau Office of wind direction and velocity in degrees and knots at surface, 6,000', 10,000', 16,000', 20,000', 30,000', 50,000', and 80,000', if available.
+b. Report from nearest AMS or U.S. Weather Bureau Office of wind direction and velocity in degrees and knots at surface, 6,000', 10,000', 16,000', 20,000', 30,000', 50,000', and 80,000', if available.
 
 c. Ceiling.
 
@@ -73,19 +105,23 @@ f. Thunderstorms in area and quadrant in which located.
 
 g. Vertical temperature gradient.
 
-h. Any other unusual activity or condition, meteorological, astronomical, or otherwise, which might account for the sighting.
+8. Any other unusual activity or condition, meteorological, astronomical, or otherwise, which might account for the sighting.
 
 9. Interception or identification action taken (such action is authorized whenever feasible, and in compliance with existing air defense directives.)
 
-10. Location, approximate altitude, and general direction of flight of any air traffic or balloon release in the area which might possibly account for the sighting.
+10. Location, approximate altitude, and general direction of flight of any air traffic or balloon releases in the area which might possibly account for the sighting.
+
+Page 4
+
 
 - page 4 -
 
-There is no photograph present in this image. The image appears to be a page from a document, likely a UFO report, with text on it.
-
 11. Position title and comments of the preparing officer, including his preliminary analysis of the possible cause of the sighting(s). (See Paragraph 16, AFR 200-2).
 
-12. Existence of physical evidence. such as materials, and photographs.
+12. Existence of physical evidence, such as materials, and photographs.
+
+Page 5
+
 
 - page 5 -
 

@@ -1,49 +1,87 @@
-The image does not contain a photograph. It is a page from a Project Blue Book record card that documents a UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE 28 JAN 62
-3. DATE/TIME GROUP 1605 Local
-5. PHOTOS Yes
-7. LENGTH OF OBSERVATION
-10. BRIEF SUMMARY OF SIGHTING
-Can't determine type similar to an aircraft with intelligent reflecting set of it like a craft with multiple lights, size was an estimated 25 to 30 ft and maneuvered like a craft, at first thought was it caused by some interference or malfunction but seemed to be operating according to its own will, emitted no sound and no exhaust visible was sighted at 1605 and disappeared in about 5 min.
 
-2. LOCATION Bethel, Alaska
-4. TYPE OF OBSERVATION Ground-Visual
-6. SOURCE Civilian
-8. NUMBER OF OBJECTS 1
-9. COURSE SE to NE
+1. DATE
+28 Jan 62
+
+2. LOCATION
+Bethel, Alaska
+
+3. DATE-TIME GROUP
+Local 1695
+GMT 29/0205Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[X] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+30 Sec.
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+N
+
+10. BRIEF SUMMARY OF SIGHTING
+An object, similar to an aircraft with sunlight reflecting off of it was seen from Bethel, Alaska. Object was observed for 30 sec. and appeared to be silvery. Disappeared in fog bank to the N.
+
 11. COMMENTS
-At 1605, 25 Jan 62, Echo was S of equator. Object viewed by this witness was apparently an aircraft with multiple flashing lights. There is no evidence within this information to indicate that this was anything other than an aircraft. The object was sighted and disappeared within about 5 minutes, which constitutes a brief sighting.
+At 0205Z, 29 Jan 62, Echo was 6° of equator. Object viewed by this witness was probably an aircraft with sunlight reflecting from it. There is no evidence available in this report which indicates object is an interplanetary vehicle, bearing life or intelligence in any form or that its presence constitutes a threat to national security.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+[X] Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other:
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 62)
+
 
 - page 1 -
 
-There does not appear to be any photograph or image present in this scanned document from Project Blue Book. The document appears to be a UFO sighting report with detailed textual information about the observed object.
+DEPARTMENT OF THE AIR FORCE (
+AF IN : 19401 (25 Jan 68)AFF MESSAGE BRANCH                Page 1 of 4 Pages
+ACTION: CIN-17
+INFO : OOP-2, OOP-GP-1, SABS-3, DIA-2 (26)
 
-Transcribing the text from the document:
+UNCLASSIFIED MESSAGE
+I N C O M I N G
 
-DEPARTMENT OF THE AIR FORCE
-AF IN ACTION: 19401 (22 Jan 62) STAFF MESSAGE BRANCH
-INFO: OOP-2, OOP-CP-1
-INCOMING
-SGB C 215
-ZZC/CHGE72GCJC556 
-PP PJEZHG
+SMB C 015
+ZCZCHQE7S6ZCOQJC556
+PP PJEZHQ
 ZDK
 BFA576
-PP RJKDAG RJWFAL RJEDSQ RJEZHG
-DE RJKDSB 1
+PP PJKDAC RJWFAL RJEDSQ RJEZHQ
+DE PJKDBF 1
 ZNP
-P 292500Z
-FM COMDR 713TH ACW SQ BETHEL AFS ALASKA
+P 292902Z
+FM COMDP 713TH ACW SQ BETHEL AFS ALASKA
 TO RJWFAL/ADC ENT AFB COLO
-RJKDAG/AAC ELMENDORF AFB ALASKA
-RJEDSQ/ATC WRIGHT-PATTERSON AFB OHIO
-PJEZHG/HQ USAF WASH DC
-PJEZHG/SAFIS WASH DC
-AF OPNC
+PJKDAC/AAC ELMENDORFF AFB ALASKA
+PJEDSQ/ATIC WRIGHT-PATTERSON AFB OHIO
+PJEZHQ/HQ USAF WASH DC
+PJEZHQ/SAFIS WASH DC
+AF GRNC
 BT
 UNCLAS 71300P 1-28-19. UFO SIGHTING
+
 A. DESCRIPTION OF OBJECT:
 (1) SIMILAR TO DISTANT PLANE OR JET WITH SUN REFLECTING FROM IT.
 (2) DIME HELD AT ARMS LENGTH.
@@ -54,37 +92,8 @@ A. DESCRIPTION OF OBJECT:
 (7) NONE
 (8) NONE
 
+
 - page 2 -
-
-There is no photograph present in this image. The image appears to be an excerpt from a UFO report document containing textual information.
-
-INCOMING
-AF IN : 19401 (29 Jan 62)                Page 2 of 4 Pages
-PAGE TWO RJKDBF 1
-(9) TOO FAST FOR CONVENTIONAL PLANE.
-B. DESCRIPTION OF COURSE OF OBJECT:
-(1) SILVER REFLECTION
-(2) 500-800 FEET HIGH DUE WEST
-(3) 500-800 FEET HIGH TURNING IN NORTHERLY DIRECTION.
-(4) WHEN TURNED TOWARD FOG BANK IN NORTHWEST
-(5) THIRTY (37) SECONDS
-C. MANNER OF OBSERVATION:
-(1) GROUND VISUAL
-(2) NONE
-(3) N/A
-D. TIME AND DATE OF SIGHTING:
-(1) 29 JANUARY 62, 2305Z.
-(2) DAY
-E. LOCATION OF OBSERVER:
-200-300 YARDS NORTH OF END OF BETHEL TOWN RUNWAY.
-F. IDENTIFYING INFORMATION OF OBSERVER:
-(1) AGE 33, ADDRESS -, ALASKA.
-OCCUPATION: AUTO MECHANIC AT BETHEL HOSPITAL. VERY RELIABLE.
-(2) N/A
-
-- page 3 -
-
-This image does not contain any photographs. It appears to be a scanned document from Project Blue Book, an Air Force investigation of UFO reports.
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
@@ -92,41 +101,89 @@ UNCLASSIFIED MESSAGE
 
 INCOMING
 
-AF IN : 19401 (29 JAN 62) Page 3 of 4 Pages
+AF IN: 19401 (29 Jan 62)                                   Page 2 of 4 Pages
 
-PAGE THREE RJKDBF
+PAGE TWO RJKDBF 1
+
+(9) TOO FAST FOR CONVENTIONAL PLANE.
+
+B. DESCRIPTION OF COURSE OF OBJECT:
+(1) SILVER REFLECTION
+(2) 500-800 FEET HIGH DUE WEST
+(3) 500-800 FEET HEIGHT TURNING IN NORTHERLY DIRECTION.
+(4) WHEN TURNED TOWARD FOG BANK IN NORTHWEST
+(5) THIRTY (30) SECONDS
+
+C. MANNER OF OBSERVATION:
+(1) GROUND VISUAL
+(2) NONE
+(3) N/A
+
+D. TIME AND DATE OF SIGHTING:
+(1) 29 JANUARY 62, 0205Z.
+(2) DAY
+
+E. LOCATION OF OBSERVER:
+200-300 YARDS NORTH OF END OF BETHEL TOWN RUNWAY.
+
+F. IDENTIFYING INFORMATION OF OBSERVER:
+(1) [REDACTED], AGE 33, ADDRESS [REDACTED], ALASKA.
+    OCCUPATION: AUTO MECHANIC AT BETHEL HOSPITAL. VERY RELIABLE.
+(2) N/A
+
+
+- page 3 -
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+INCOMING
+
+AF IN : 19401 (29 Jan 62)                                Page 3 of 4 Pages
+
+PAGE THREE RJKDBF 1
+
 G. WEATHER AND WINDS:
 (1) UNLIMITED CEILING AND VISIBILITY.
 (2) SURFACE, NORTH NORTHEAST AT 17 KNOTS
-19,222-279 AT 25 KNOTS
-16,222-278 AT 11 KNOTS 
-20,222-232 AT 25 KNOTS
-30,222-350 AT 5 KNOTS
-52,222-260 AT 18 KNOTS
-82,222-312 AT 37 KNOTS
-(3) UNLIMITED 
+    10,000-070 AT 25 KNOTS
+    16,000-070 AT 11 KNOTS
+    20,000-030 AT 28 KNOTS
+    30,000-350 AT 6 KNOTS
+    50,000-260 AT 18 KNOTS
+    80,000-310 AT 37 KNOTS
+
+(3) UNLIMITED
 (4) UNLIMITED
 (5) NONE
 (6) NONE
-(7) MINUS 29 DEGREES
+(7) MINUS 20 DEGREES
+
 H. NONE
 I. NONE
 J. NONE
+
 K. WEAPONS CONTROLLER: IN THE PRELIMINARY ANALYSIS NO POSSIBLE
 CAUSE OR IDENTITY OTHER THAN LISTED IN ABOVE REPORT COULD BE FOUND.
 THE OBSERVER HAS BEEN A LICENSED PRIVATE PILOT FOR FIFTEEN (15)
 
+
 - page 4 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document under Project Blue Book.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
 
 INCOMING
-AF IN : 19401 (29 Jan 62)
+
+AF IN : 19401 (29 Jan 62)                Page 4 of 4 Pages
 PAGE FOUR RJKDBF 1
-YEARS AND OWNS HIS OWN PLANE. HE IS CONSIDERED VERY RELIABLE. 
+YEARS AND OWNS HIS OWN PLANE. HE IS CONSIDERED VERY RELIABLE.
 L. NO PHYSICAL EVIDENCE SUCH AS MATERIALS AND PHOTOGRAPHS EXIST.
 BT
-29/952EZ JAN RJKDBF
+29/0528Z JAN RJKDBF
+
 
 - page 5 -
 

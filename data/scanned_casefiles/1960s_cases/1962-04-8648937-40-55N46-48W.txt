@@ -1,70 +1,99 @@
-There is no photograph present in this image. It appears to be a page from a Project Blue Book record card, containing various fields for recording information about a reported UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE
-3 APR 52
-3. DATE-TIME GROUP  
-0930-1000
-5. DURATION
-5 MIN
-7. LENGTH OF OBSERVATION 
-5 MIN
-10. BRIEF SUMMARY OF SIGHTING
-Object was visual for 5 minutes. It appeared to be reflecting sun, was round and glowing with a bright metallic appearance. It did not contain any visible means of propulsion and did not leave any trail or smoke. It was observed at an altitude of approximately 30,000 feet and at an azimuth of 330 degrees.
-11. COMMENTS
-Obj not considered a jet or balloon. Observation at 0930 degrees.
+
+1. DATE: 3 Apr 62
+
+2. LOCATION: 40.55N 46.48W
+
+3. DATE-TIME GROUP: Local GMT 03/0700Z
+
+4. TYPE OF OBSERVATION: Air-Visual
+
+5. SOURCE: Civilian Marine
+
+6. PHOTOS: Yes
+
+7. LENGTH OF OBSERVATION: 6 mins
+
+8. NUMBER OF OBJECTS: 012
+
+9. COURSE: Easterly
+
+10. BRIEF SUMMARY OF SIGHTING: Obj with intensity greater than Obj has characteristics of satellite. Obj visible for 6 mins. Satellite observation. Apparent orbital flight, direction, duration of sighting conform w/this analysis. ECHO data not available. If not ECHO then one of the other visible satellites.
+
+12. CONCLUSIONS: (Checkboxes mostly unchecked, no specific conclusion marked)
+
+ATIC FORM 329 (REV 25 SEP 52) is printed at the bottom of the form.
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document, possibly from Project Blue Book.
-
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
 
-AP IN : 36153 (3 Apr 62)
-INFO : CGN-14, ARW-2, 002-7, 193-39, 032-15, NSA-7, 0
-SD-55, NSA-7, 0
-COP-2, DIA-2, 000-0P-1, SAP-23 (100)
+AF IN : 36153 (3 Apr 62)                 C/ptel         Pg 1 of 2
 
-R 220852Z
-(ZZPHA07ZCBJB135
-Y RJEZHG
+INFO : CIN-14, ARMY-2, CSC-7, JCS-35, OSD-15, NSA-7, CIA-11,
+        OOP-2, DIA-2, OOP-CP-4, SAFSS     (100)
 
-DE RAEUGH 037
-ZNR
-Y 03989Z
-FR COMEASTSEAFRON  
-TO REEKG/C INLANGPLT
-RUEZNCYDR 26NORAD DIV
-INFO REEPP/CNO
-RJMFALD/Z ENGNORAD
-RUEZKG/COFS USAF 
-REEME/CANA INDEF
-REEHO/CANPLANGANT
+SMT G 692
+
+CCMGAST7ZCBJB105
+
+..... Y RJEZHG
+
+RE RBEUGH 037
+
+ZWR
+
+Y 0328092
+
+FM COMEASTSEAFRON
+
+TO RBEKHC/C INCLANTFLT
+RJEZSNC/XDR 26NORAD DIV
+
+INFO REPX/CNO
+RJWTALB/C INCNORAD
+RJEZHG/C OPS USAF
+RFCHC/CANA IRDEF
+RCEHC/CANFLAGCLANT
+
 
 - page 2 -
 
-This image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
-
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
+WASHINGTON AREA
 
 INCOMING
 
 NNNN
 
-AD IN : 36153 (3 APR 62)    PG 2 OF 2
-O 032722Z
-FM USNS LT BOYCE
+AF IN : 36153 (3 Apr 62)                                 PG 2 of 2
+
+O 037022Z
+
+FH USNS LT BOYCE
 TO COMEASTSEAFRON
-GR52
+GR62
 ET
 UNCLAS.
-PRINT USNS LT. GEORGE WG BOYCE NSWW.
-SIGHTED ONE WHITE BRIGHT OBJECT INTENSITY GREATER THAN FIVE MAGNITUDE STAR. POSITION-LAT 4953N LONG 4648W TIME SIGHTED EXTREMELY HIGH ALTITUDE. TRAVELING EASTERLY. SOA EXCESS 10. OBJECT SIGHTED BEARING 330 DEGREES. LAST SEEN BEARING 080 AT 032725Z. VISIBILITY OF SKY CLEAR.: MANY STAR OBJECTS BELIEVED NOT TO BE METEOR OR AIRCRAFT
-ET
-032746Z.
-NOTE: Advance copy delivered to CIN and COP-CP.
+
+MERINT USNS LT. GEORGE WG BOYCE MSNW.
+
+SIGHTED ONE WHITE BRIGHT OBJECT INTENSITY GREATER THAN FIRST
+MAGNITUDE STAR. POSITION LAT 4055N LONG 4648W TIME SIGHTED 0307002.
+EXTREMELY HIGH ALTITUDE. TRAVELING EASTERLY. SOA EXCESS 1000 MPH.
+OBJECT SIGHTED BEARING 330 DEGREES. LAST SEEN BEARING 080 DEGREES
+AT 037262. VISIBILITY OF SKY CLEAR. MANY STAR OBJECT BELIEVED
+NOT TO BE METOR OR AIRCRAFT
+
+BT
+037074SZ
+
+NOTE: Advance copy delivered to CIN and OOP-CP.
+
 
 - page 3 -
 

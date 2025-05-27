@@ -1,53 +1,105 @@
-The image provided does not contain a photograph. It appears to be a scanned document from Project Blue Book, specifically a Project 10073 Record Card.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 18 April 1962
-2. DATE-TIME GROUP: Local
-3. LOCATION: 29.40 N 94.20 W
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: None
-6. LENGTH OF OBSERVATION: 15 min
-7. NUMBER OF OBJECTS: 1
-8. COURSE: 360 degrees
-9. COMMENTS: The object was believed to be a satellite. It looked like a satellite.
+
+1. DATE
+19 April 1962
+
+2. LOCATION
+29.40 N    94.20 W
+
+3. DATE-TIME GROUP
+Local
+GMT 23/0152
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual   ☐ Ground-Radar
+☐ Air-Visual     ☐ Air-Intercept Radar
+
+5. SOURCE
+Military
+
+6. PHOTOS
+☐ Yes   ☒ No
+
+7. LENGTH OF OBSERVATION
+1
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+NE
+
+10. BRIEF SUMMARY OF SIGHTING
+Sighting believed to be in excess of 100,000' moving NE at tremendous speed. Looked like satellite.
+
+11. COMMENTS
+On 20 April at 0145Z Echo was at 43 N 73.63 W. If time given is for disappearance object was probably Echo R. Case listed as satellite (Echo 1).
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☒ Unknown
+
+ATIC FORM 164 (REV 28 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, containing text with details about an unidentified flying object (UFO) sighting.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
 
-AP IN : 33464 (20 APR 63)
-ACTION	: CIN-1/
-THRU	: OSI-27 OOP-OP-1
-DK:	: CSD-15, BSA-7, CIA-DIV, DIA-(1-50)
+AF IN: 58464 (20 Apr 62) C3 au
+ACTION: CIN-17
+INFO: COP-2, COP-CP-1, SAGS-3, ARMY-9, NAVY-2, CMC-7, JCS-35,
+       OSD-15, NSA-7, CIA-1, DIA-7 (110)
+NNNNNBMB A267
 
-CZIOHASZ2 0/JXAS3 
+CZCHQA3226CWJX430
 
-OO RJET/J3
-DE RJEYAN BA 
+OO RJEZH3
+
+DE RJNFMW 2A
+
 ZNR
-O 202354Z
-FM 32D HORAD RON OCAFS OKLA
-IO RJUPFLY/G/RNGDAD
-RBEKDT/WMASWFOR LANT NORFOLK VA
-RBEGUM/COMEASTSEAFRON NY NY
-RJEHW/CSS USA? WASH DC
-RFENG/CANAIDREF ST HUBERT MONTREAL CANADA
-RCEHW/CANFLAGIANT HALIFAX NOVA SCOTIA
-INFO RJESE/ROADS GUNTER AFB ALA
-NORDNC
-UNCLAS 32000-C 4059
+
+O 203362Z
+
+FM 32D NORAD RGN OCAFS OKLA
+
+TO RJWFALB/CINCONORAD
+RBEKDT/COMASWFORLANT NORFOLK VA
+RBEGUW/COMEAST SEAFRON NY NY
+RJEZHV/COFFS USAF WASH DC
+RFEMG/CANAIRDEF ST HUBERT MONTREAL CANADA
+RCEHC/CANFLAGANT HALIFAX NOVA SCOTIA
+
+INFO RJESGN/NOADS GUNTER AFB ALA
+
+REORNC
+
+UNCLAS 320CO-C 4059
+
 1. CIRVIS REPORT
-2. AFJST 51392
+2. AFJET S1592
 3. BRIGHT OBJECT THAT LOOKED LIKE A SATELLITE
-4. 29 43 NORTH 9420 WEST
-5. 22/0145Z
+4. 29 40 NORTH 9420 WEST
+5. 20/0145Z
 6. IN EXCESS OF 100,000 FT.
-7. NORTH EAST 
+7. NORTH EAST
 8. TREMENDOUS SPEED
 9. N/A
 
-BT
-NOTE : ADV COPY TO CIN & COP-CP
+BT NOTE: Adv copy to CIN & COP-CP
+
 
 - page 2 -
 

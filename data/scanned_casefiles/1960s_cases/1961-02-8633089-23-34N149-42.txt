@@ -1,51 +1,108 @@
-There is no photograph or image present in this document. This appears to be a Project 10073 record card containing textual information about a UFO sighting.
+PROJECT 1007 RECORD CARD
 
-PROJECT 10073 RECORD CARD
-1. DATE: 8 Feb 61
-2. LOCATION: 23-34N 149-42W
-3. DATE-TIME GROUP: 0957-1002Z
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: 0 Yes
-6. LENGTH OF OBSERVATION: 5 min
-7. NUMBER OF OBJECTS: 1
-8. COURSE: NE
-9. COMMENTS: Echo data not available however no contrails or satellite observable and course in listed as unstable (echo I).
+1. DATE
+8 Feb 61
+
+2. LOCATION
+23.34N 149.42
+
+3. DATE-TIME GROUP
+Local
+GMT 08/1957Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+Air-Visual
+
+5. PHOTOS
+No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+8 min
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+NE
+
+10. BRIEF SUMMARY OF SIGHTING: Bright white obj with appearance of 1st mag star observed at 30° elev crossing zenith on NE heading. Disappeared after eight min at 35° elev. Considered possible satellite.
+
+11. COMMENTS
+Echo data not available however are characteristic of satellite observation are present. No conflicting info and case is listed as satellite (Echo 1).
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Satellite
+Insufficient Data for Evaluation
+Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. It appears to be a naval message or report regarding an unidentified object sighted at certain coordinates. The text of the document is as follows:
+NAVAL MESSAGE                                   UNCLASSIFIED                                   NAVY DEPARTMENT
 
-NAVAL MESSAGE
+PRECEDENCE: (ACTION)                 RELEASED BY                                 DRAFTED BY           EXT. NO.
+ROUTINE
+ROUTINE (INFO)
+
+AF IN:  14158 (10 Feb 61)                                                                             D/gsd
+
+R 090845Z                                                READDRESSED ROUTINE/DEFERRED 9 FEB 61
+                                                         FM ADMIN CINCPACFLT
+FM USS JOHN S MCCAIN                                     TO COMD HAWAIRDEFIV WHEELER
+TO CINCPACFLT                                            INFO COMHAWSEAFRON
+                                                         PACAF
+INFO COMDESFLOT FIVE                                     ICINCORAD
+                                                         COFS USAF
+                                                         CNO
+                                                         SECNAV                                        AF
+                                                         CINCUSAR PAC                                  DIST:
+                                                         CINCPAC                                       CIN-14
+                                                         PACAF BASECOM HICKAM                          OOP-2
+                                                                                                       OOF-GR-1
+                                                                                                       SAFE-3
+                                                                                                       (21)
+
+UNCLAS
+
+UNIDENTIFIED OBJECT
+
+1. AT TIME 081957W AT LATITUDE 23-34 NORTH LONGITUDE 149-42 WEST
+   SIGHTED BRIGHT WHITE OBJECT WITH APPEARANCE OF FIRST MAGNITUDE STAR
+   AT A POSITION ANGLE OF APPROXIMATE 30 DEGREES TRUE MOVING
+   IN A NORTHEASTERLY DIRECT DIRECTION DIRECTLY OVER HEAD.
+
+2. AT TIME 082205W AT LATITUDE 23-22 NORTH LONGITUDE 150-20 WEST
+   SIGHTED OBJECT AGAIN BEARING 304 DEGREES TRUE AT POSITION ANGLE
+   30 DEGREES MOVING IN A NORTHEASTERLY DIRECTION AND DISAPPEARED IN
+   MILKYWAY AT A BEARING OF 337 DEGREES TRUE AT POSITION ANGLE 35
+   DEGREES. POSSIBLY SATELLITE.
+
+                                                         RBEPJD
+
+SECNAV/92 COG
+UNSECNAV ASTSECNAVRESDEV 00 09 098 09M 03 33 3A 35 05 06 07D 73 74
+76 94 IP NAVAIDE CMC JCS CSA CSB CIA NIC COGARD FLAGPLOT BFR
+
+CONTROL                      CIRCUIT NO.    PAGE        OF    PAGES    TIME OF RECEIPT    DATE TIME GROUP
+431/LW/RE/2                 508            1           1     2323Z/9 FEB               09084SZ FEB 61
+
 UNCLASSIFIED
-NAVY DEPARTMENT
 
-AP IN 5 .24436 (10 FEB 61)
-R 090842Z
-FM USS JOHN S MCCAIN
-TO CINCPACFLT
-INFO COMDESFLOT FIVE
-
-READDRESSED ROUTINE/DEFERRED 9 FEB 61
-TO COMHAWAIIFORNIV WHEELER
-INFO COMHAWSEAFRON
-COIOGNRAD
-OPNAV
-CINCLANT
-CINCNAVAR PAC
-CINCPAC BASECOM HICKAM
-
-UNIDENT IFIED OBJECT
-1. AT 082055W AT LATITUDE 23-34 NORTH LONGITUDE 149-42 WEST
-SIGHTED BRIGHT WHITE OBJECT WITH APPEARANCE OF FIRST MAGNITUDE STAR
-AT A POSITION ANGLE OF APPROXIMATE 30 DEGREES TRUE MOVING
-IN A NORTHEASTERLY DIRECTION DIRECTLY OVER HEAD.
-2. AT TIME 082255W AT LATITUDE 23-22 NORTH LONGITUDE 159-22 WEST
-SIGHTED OBJECT AGAIN BEARING 354 DEGREES TRUE AT POSITION ANGLE
-50 DEGREES MOVING IN A NORTHEASTERLY DIRECTION AND DISAPPEARED
-MIDWAY AT A BEARING OF 337 DEGREES TRUE AT POSITION ANGLE 35
-DEGREES. POSSIBLY SATELLITE.
-
-UNCLASSIFIED
 
 - page 2 -
 

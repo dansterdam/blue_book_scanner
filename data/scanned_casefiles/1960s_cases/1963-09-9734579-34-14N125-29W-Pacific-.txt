@@ -1,92 +1,158 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record card with various fields filled out, likely describing a UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE 9 September 1963
-2. LOCATION 14-2N 125-29W (Pacific)
-3. TYPE OF OBSERVATION D Ground-Visual
-4. DATE-TIME GROUP 0645Z 
-5. PHOTO[S] 0
-6. D Ai-Visual        0 Ai-Intercept Radar
-7. LENGTH OF OBSERVATION 15 minutes
-8. NUMBER OF OBJECTS 1 
-9. COURSE W to E
-10. BRIEF SUMMARY OF SIGHTING: Bright orb and luminous vapor trailing about 4 miles behind. 
-Appeared about 20 degrees above horizon. Passed overhead at high speed from W to E. No
-sound. Luminous vapor indicated to E. Disappeared from view to East. 0653Z. Radar
-contact indicates speed 7500 ft/sec (4500 MPH) max. Initial impression was of
-5 aircraft in line. Due to shock wave pattern of vapor.
+
+1. DATE
+25 Sep 63
+
+2. LOCATION
+34.14N 125.29W (Pacific)
+
+3. DATE-TIME GROUP
+Local     GMT 25/1063
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+C Yes
+□ No
+
+6. SOURCE
+military
+
+7. LENGTH OF OBSERVATION
+4 mins
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+West
+
+10. BRIEF SUMMARY OF SIGHTING
+Round obj size and brightness of 1st mag star
+Red with apparent luminous vapor swirling
+about obj. Vapor 20X size of obj. Attention
+attracted by brightness of light. Initial appear-
+ance on Radar to East. Obj passed overhead on
+course of 270 deg. Appeared to fall into clouds
+and did not reappear. In sight for 4 minutes
+TX50 & (9x54 EX used). Initial impression was
+a/c in trouble. Radar and radio contact with
+obj) failed. Obj believed to be missile.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other Missile
+□ Insufficient Data for Evaluation
+□ Unknown
+
+11. COMMENTS
+Description conforms with analysis
+of missile. Launch probably from
+Vandenburg or Pt Mugu. Sighting
+in area over which missiles would
+take on flight to target area
+near Philippines.
+
+Due to shock wave pattern of vapor.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a naval message or report from Project Blue Book, which was a US Air Force program that investigated unidentified flying objects (UFOs).
+NAVAL MESSAGE                   UNCLASSIFIED                   NAVY DEPARTMENT
 
-NAVAL MESSAGE
-UNCLASSIFIED
-NAVY DEPARTMENT
+O 251225Z                   AF IN: 12101 (25 Sep 63) L/org
+FM USS LOVE
 
-O 320422Z SEP 63
-FM RUNWSC
-TO RUMLSCY COM 4 AF NAF AFB CALIF
-INFO RUMLSC/CG NORAD
-RUMSSP/CCLNSS ADVDEFSTA PAC
-PADRON ONE
+TO RUWH53/COM 4 AF HAM AFB CALIF
+INFO RUWH3/CNO
+RUWH53P/COM 28 NORAD
+RUWH5P/COMNAVDETFASTPAC
+RADRON ONE
 
 UNCLAS
-UFC O 
-A. CONSPAGFLT INST 3822.3
-B. DESCRIPTION OF OBJECT:
-A. SIZE AND BRIGHTNESS FIRST MAG STAR
-B. CONE 
+UFO                         AF DIST: MIN-9, XOP-1, XOPX-4, SAF-OS-3 (17)
+
+A. CONCPACFLT INST 3522.3
+
+1. DESCRIPTION OF OBJECT:
+A. ROUND
+B. SIZE AND BRIGHTNESS FIRST MAG STAR
 C. RED
-D. GLOWING
-E. ALUMINUS APPARENT VAPOR SWIRLED ABOUT AND TRAILED OBJECT
-THIS VARIABLE DURATION TIMES OBJECT SIZE
+D. ONE
+E. NONE
+F. ALUMINIUM APPARENT VAPOR SWIRLED ABOUT AND TRAILED OBJECT.
+   THIS VAPOR APPEARED TWENTY TIMES OBJECT SIZE
 
-2. DESCRIPTION OF COURSE OF OBJECT
-A. STRAIGHT COURSE OF LIGHT
-B. 29 MOTION OF OBJECT
-C. HELD COURSE PASSED DIRECTLY OVERHEAD
-D. APPEARED TO FALL INTO CLOUDS AND DID NOT REAPPEAR
-E. LUMINOUS
+2. DESCRIPTION OF COURSE OF OBJECT:
+A. BRIGHTNESS OF LIGHT
+B. ON HORIZON 0955T
+C. 25 255T
+D. COURSE 270 PASSED DIRECTLY OVERHEAD
+E. APPEARED TO FALL INTO CLOUDS AND DID NOT REAPPEAR
+F. 4 MINUTES
 
-3. MANNER OF OBSERVATION
-GROUND BASED VISUAL BINOCULARS
+3. MANNER OF OBSERVATION:
+A. GROUND-VISUAL
+B. 7-50 AND 9-54 BINOCULARS
 
-A. TIME AND DATE OF SIGHTING
-A. 23 SEPT 63
+4. TIME AND DATE OF SIGHTING:
+A. 251125Z
 B. NIGHT
 
-OKDG
-ERPNAV UNSEENA:ATSECNAVK)ND 99 293 3M DDR 93 35 34
-735 72 94 17 NAVFLT NAVIGDEPLOPT 29 LT'2223 SEP 63
+[Rest of document contains administrative details and transmission information]
+
 
 - page 2 -
 
-This page does not contain any photographs. It appears to be a naval message document from Project Blue Book. 
+NAVAL MESSAGE                UNCLASSIFIED                NAVY DEPARTMENT
 
-NAVAL MESSAGE
-UNCLASSIFIED NAVY DEP
+5. 34-14N 123-29W
 
-9. 34-14N 123-29W
-S. IDENTIFYING INFORMATION OF OBSERVERS: GOD. RELIABLE, ALSO OBJECTS WERE SITED BY USAF BASE STATION, USAF GOD. RELIABLE ALSO E R 542 USN "BLOWN RELIABLE".
-A. WEATHER - DARK NIGHT
-B. VISIBILITY - CLEAR - DARK NIGHT
-C. SITED AT 2922 BROKEN
-I. NONE 11. COMMANDING OFFICER
-COMMENTS: INITIAL REACTION OF SIGHTING OFFICER WAS THAT OBJECT WAS THAT OF A JET AIRCRAFT IN RAPID STRAIGHT CLIMB AND CLIMB ALSO APPEARED TO BE AS FAST AS MISSILE POSSIBLE MISSILE.
+6. IDENTIFYING INFORMATION OF OBSERVERS:
+A. FIRST SIGHTED BY LTJR R J SANDS, USN OOD, RELIABLE ALSO
+OBSERVED BY LCDR R J EDRIS, USN CO, ENS J E BENTON, USN JOOD,
+RELIABLE LAMPE, E R BW2 USN, BMOW RELIABLE.
 
-NOTE: ADV GY DEL TO NIN
+7. WEATHER CONDITIONS
+A. CLEAR, DARK NIGHT
+B. UNLIMITED
+C. 10
+D. 3/10 AT 2000 BROKEN
+E. NONE 10 NONE 11. COMMANDING OFFICER
 
-POSTAL NO. CIRCUIT NO. PAGE OF PASS TIME OF RECEIPT DATE
-55310 2 2 23
+COMMENTS, INITIAL REACTION OF SIGHTING OFFICER WAS THAT OBJECT WAS
+AN AIRCRAFT IN DISTRESS RADAR AND RADIO SEARCH FAILED TO SUPPORT
+THIS, VAPOR APPEARED TO CONFORM TO SHOCK WAVE PATTERN EVALUATED
+POSSIBLE MISSILE
+
+NOTE : ADV CY DEL TO NIN
+
+CONTROL NO.                                                   DATE TIME GROUP
+63810                                                          251223Z SEP 63
+
 
 - page 3 -
 
-There is no photograph present in the provided image. The image appears to be a scanned page from a document containing text.
+Information Only
+APC Building, New York 19
 
-Widely seen UFO in Calif.
+Widely Seen UFO in Calif.
 
-On the morning of 5 September 1963, a fast-moving UFO was reported over Santa Clara and San Mateo counties. Records from the Sheriffs offices in the above-mentioned counties received twenty reports. Some of the details given by witnesses were as follows: "A half moon pulsating object," a circular object lighted from the top to bottom, the light, which appeared to turn off and on was visible intermittently. The Federal Aviation Agency, when queried, was unable to account for the UFO.
+Shortly after 4:00 a. m., on the morning of 25 September 1963, a fast-moving UFO was reported over Santa Clara and San Mateo counties. Reports came in from the town of Woodside and San Jose also. Sheriff's offices in the above-mentioned counties received twenty reports. Some descriptions given by witnesses were as follows: "A half moon pulsating object," a "circular object lighted from the interior." The light, while appeared to turn off and on was visible intermittently.
+
+The Federal Aviation Agency, when queried, was unable to account for the UFO.
+
 
 - page 4 -
 

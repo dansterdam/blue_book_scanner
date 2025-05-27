@@ -1,84 +1,139 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record card, which is a document used to record UFO sightings and observations.
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
 Jan 64
-3. DATE-TIME GROUP
-0721/1302Z
-5. PHOTOS
-O Y es O No
-7. LENGTH OF OBSERVATION
-2-3 seconds
-10. BRIEF SUMMARY OF SIGHTING
-Object with bright white trail horseshoe visible for 2-3 seconds. Flight to SW, at unknown altitude.
 
 2. LOCATION
 34.00 N 175.00 W
+
+3. DATE-TIME GROUP
+Local
+GMT 01/1430Z
+
 4. TYPE OF OBSERVATION
-O Ground-Visual O Ground-Radar
-O Air-Visual
-O Airborne-Radar
-6. MILITARY
-0318
+☐ Ground-Visual     ☐ Ground-Radar
+☒ Air-Visual        ☐ Air-Intercept Radar
+
+5. PHOTOS
+☒ Yes               ☐ No
+
+6. SOURCE
+military
+
+7. LENGTH OF OBSERVATION
+2 seconds
+
 8. NUMBER OF OBJECTS
-0318
+one
+
 9. COURSE
 SW
+
+10. BRIEF SUMMARY OF SIGHTING
+Object with bright white horseshoe trail in a light for 2 seconds. Flight to SW, at unknown altitude.
+
 11. COMMENTS
-Distance not included, general description indicates probable meteor sighting.
+Distance not included, however, the general description indicates a probable meteor sighting.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical meteor
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
-
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
 INCOMING
-APB IN : 19543 (1 JAN 64) B/TRO
-INFO : NEN-9, XOP-1, XOPX-4, SAF-08-3, ARMY-2 OMC-8,
-CSD-15, NSA-7, DIA-23, DEA/DED-2 (112)
-ZCCSQAA347ZCEJA827
-OO RUEAHQ
-DE RUHLKH 3 01/1232Z
+
+AFIN: 19543 (1 Jan 64)B/trc                                     PG 1 of 2
+
+INFO : NIN-9, XOP-1, XOPX-4, SAF-OS-3, ARMY-2, CMC-8, JCS-35,
+        OSD-15, NSA-7, DIA-25, DIA/CIIC-2 (112)
+
+SHE A699
+
+ZCZCKGA347ZCEJA827
+
+CQ RUEAHQ
+
+DE RUHLKK 3 01/1525Z
+
 ZNR
-O 011232Z
-FM 32S AIRDIV KUNIA FACILITY HA
-TO RUHLKH/PACAF HICKAM AFB HA
-RUMXH/COMHAWSEAFRON PEARL HARBOR HA
-INFO RUEAHQ/OSAC USAF WASH D C
-RUECIW/CNO WASH D C
-RUEOCV/SECNAV WASH D C
-RUWGAL/CINCNORAD ENT AFB COLO
-RUHLHG/CINCPAC CAMP H M SMITH HA
+
+O 011525Z
+
+FM 325 AIRDIV KUNIA FACILITY HA
+
+TO RUHLKK/PACAF HICKAM AFB HA
+
+RUHPKK/COMHAWSEAFRON PEARL HARBOR HA
+
+INFO RUEAHQ/CSAC USAF WASH D C
+
+RUECW/CNO WASH D C
+
+RUECW/SECNAV WASH D C
+
+RUWGALB/CINCNORAD ENT AFB COLO
+
+RUHLHS/CINCPAC CAMP H M SMITH HA
+
 RUHLHS/CONCUSARPAC FT SHAFTER HA
-RUHLH CINCPACFLT PEARL HARBOR HA
-VRIIARUZ/CCMUSSJAR FUCHU AS JAPAN
-RUAMC/CCMUKCOREA SEOUL KOREA
+
+RUHLHL/CINCPACGT PEARL HARBOR HA
+
+VRUAUAZ/CCMUSJAPAN FUCHU AS JAPAN
+
+RUAMC/CCMUKKOREA SEOUL KOREA
+
 RUAGFL/COMUSTDC TAIPEI TAIWAN
-RUCSRR/CINCPAC OFFUTT AFB NEBR
-BT
-UNCIASS/325TH DO-CO 0002
+
+RUCSBR/CINGSAC OFFUTT AFB NEBR
+
+AF GNC
+
+ET
+
+UNCLAS/326TH DO-CO 0002
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document describing an "INCOMING" UFO sighting.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING
 
-NNNN
+AF IN : 19543 (1 Jan 64)                                 PG 2 of 2
 
-AF IN : 19543 (1 JAN 64) P98
-
-1. CIVILS
-2. N14528S 
+1. CIRVIS
+2. N145206
 3. BRIGHT WHITE HORSESHOE SHAPED TRAIL
-4. 34-60N 175-00W
-5. 21/4027
+4. 34-00N 175-00W
+5. 01/1430Z
 6. ALTITUDE UNKNOWN
 7. SOUTHWEST
 8. UNKNOWN
 9. OBJECT HELD FOR TWO SECONDS.
+
 NO EVALUATION.
 
-LT
+ET
+NOTE: ADV CY DEL TO NIN, XOPX AND DIA.
+       RETRANSMITTED TO CIA PER AFHQ FORM 1392 #16.
 
-NOTE: ADV CY DEL TO NIN, KOPX AND DIA. RETRANSMITTED TO CIA PER ATIC FORM 1392 #16.
 
 - page 3 -
 

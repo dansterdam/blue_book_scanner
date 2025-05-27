@@ -1,68 +1,109 @@
-The image does not contain any photograph. It appears to be a Project 10073 record card from the Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
+M.S. Themistocles (Greek vessel) PROJECT 10073 RECORD CARD
 
-Text extracted from the document:
+1. DATE
+25 Apr 60
 
-M.S. Themistocles (Greek Vessel)
-1. DATE: 25 APR 60
-3. DATE-TIME GROUP: 25/2315Z
-4. TYPE OF OBSERVATION: 30 Ground-Visual
-5. PHOTOS: [] Yes
-7. LENGTH OF OBSERVATION: 1 sec
-10. BRIEF SUMMARY OF SIGHTING:
+2. LOCATION
+N of Mandinga, Panama
+
+3. DATE-TIME GROUP
+Local
+GMT 25/23152
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+□ Air-Visual
+
+5. PHOTOS
+□ Yes
+[X] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+2 sec
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+SW
+
+10. BRIEF SUMMARY OF SIGHTING
 Large, teardrop-shaped object with blue nose, yellow midsection and red tail with yellow sparks trailing. Had fiery appearance.
-12. CONCLUSIONS:
-[] Was Balloon
-[] Was Satellite
-[] Was Aircraft
-[] Was Astronomical
-[] Insufficient Data for Evaluation
-[] Other
+
+11. COMMENTS
+Probably a meteor.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical Meteor
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+[X] Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
-The provided image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-NNNNCZCSZP247CZCSE2942CJYBG66
-RR RJEDS3
-DF RJFZNF 13A
-R 271930Z
-M COMDG 5729TH ABGRU
+NNNNZCZCSGP@47ZCSGP20@ZCJYB668
+
+RR RJEDS@
+DE RJSZNF 18A
+R 271933Z
+
+FM COMDR 5720TH ABGRU
 TO RJWFAL/COMDR ADC
-INFO RJWFAL/COMDR 122GMT ALSS
-RJEDS3/COMDR AIR INTELLIGENCE CENTER
-RJEZH3/ACS INTELLIGENCE MEDUSAF
-RJEZH3/OFFICE OF INFORMATION SERVICES MEDUSAF
+INFO RJWFAL/COMDR 1006TH AISS
+RJEDS@/COMDR AIR INTELLIGENCE CENTER
+RJEZHQ/ACS INTELLIGENCE HEDUSAF
+RJEZHQ/OFFICE OF INFORMATION SERVICES HEDUSAF
+
 BT
-UNCLAS OPR-2423-D. UFO REPORT SUBMITTED IN ACCORDANCE WITH
-AFR 222-2 A. (1) TEAR DROP (2) LARGE (3) BLUE NOSE - YELLOW
+
+UNCLAS OPR-8423-D, UFO REPORT SUBMITTED IN ACCORDANCE WITH
+AFR 280-2 A. (1) TEAR DROP (2) LARGE (3) BLUE NOSE - YELLOW
 MIDSECTION - RED TAIL (4) ONE (5) N/A (6) NONE (7) YELLOW
 SPARKS TRAILING - SMALL (8) UNKNOWN (9) SEA PLANE SPOTTED IN
-AREA 15 MINUTES PRIOR TO SIGHTING UFO. RESEMBLED AN AIRCRAFT IN
-SIZE ONLY. B. (1) FIERY APPEARANCE (2) 1222 - 1232 FEET -
+AREA 15 MINUTES PRIOR TO SIGHTING UFO, RESEMBLED AN AIRCRAFT IN
+SIZE ONLY. B. (1) FIERY APPEARANCE (2) 1000 - 3000 FEET -
 AZIMUTH NOT OBTAINED (3) SAME AS B'2 (4) TRAVELING NORTHEAST
 TO SOUTHWEST (5) INSTANTANEOUSLY - SOUTHWEST (6) TWO SECONDS
-C. (1) GROUND VISUAL (2) NONE (3) N/A D. (1) 25/23152
-MAR 62 (2) DUSK E. (1) 27N BY 73 59W F. (1) UNKNOWN - SECOND
+C. (1) GROUND VISUAL (2) NONE (3) N/A D. (1) 25/2315Z
+MAR 63 (2) DUSK E. 11 27N BY 76 59W F. (1) UNKNOWN - SECOND
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document containing text describing observations and details related to a weather balloon.
-
-PAGE TWO RJЕZNF 18A
+PAGE TWO RJEZNF 18A
 OFFICER AND RADIO OPERATOR ABOARD GREEK VESSEL M/S THEMISTOCLES
-G. (.1) GOOD
-(2) *ALTITUDE  DIRECTION  DEGREES  KNOTS
-  SURFACE      N        362°2    26  
-  6222        ENE       253°2    29
-  10222       ENE       232°2    15
-  16222       NNE       246°2    12  
-  22272       ENE       259°2    26
-  32222       ESE       122°0    13
-  50222       NNE       032°0    07
-(3) 2222 FEET (4) 15 MILES (5) 2/10 (6) NONE (7) 81 DEGREES
+
+G. (1) GOOD
+
+(2) ALTITUDE   DIRECTION   DEGREES   KNOTS
+SURFACE       N           360'0     06
+6000          ENE         050'0     09
+10000         ENE         060'0     15
+16000         NNE         040'0     12
+20000         ENE         050'0     06
+30000         ESE         100'0     13
+50000         NNE         030'0     07
+
+(3) 2000 FEET (4) 15 MILES (5) 2/10 (6) NONE (7) 81 DEGREES
+
 H. NONE I. NONE J. UNKNOWN K. INTELLIGENCE OFFICER - SPECIAL
 WEATHER BALLOON.
-27/1936Z APR RJЕZNF
+BT
+27/1936Z APR RJEZNF
 
 - page 3 -
 

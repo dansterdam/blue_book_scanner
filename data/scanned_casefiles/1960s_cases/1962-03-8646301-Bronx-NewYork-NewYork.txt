@@ -1,19 +1,44 @@
-The image does not contain a photograph. It appears to be a Project Blue Book record card with various fields filled out, including the date, location, type of observation, source, number of objects, course, and a brief summary of the sighting. The text in the image has been captured and output as follows:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
 22 Mar 62
-3. GATE-TIME GROUP
-2000-2200
-5. WITNESS(ES)
-Civilian
+
+3. DATE-TIME GROUP
+Local
+GMT
+17352
+
+5. PHOTOS
+Yes
+
 7. LENGTH OF OBSERVATION
-10-15 min
+20 min 15 sec
+
 10. BRIEF SUMMARY OF SIGHTING
-Around noon on a bright day witness observed objects for about 20 min. It was described as round, metallic and the objects seemed to be traveling in echelon formation.
+Around noon on a bright day witness observed object for about 20 min. It was described as smoke or exhaust and the object causing it not seen.
+
+2. LOCATION
+Bronx, New York, New York
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+6. SOURCE
+Civilian
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+W
+
+11. COMMENTS
+Picture and description of the object was taken of a contrail. Since the a/c was not observed, the case is listed as Other (Contrail).
+
 12. CONCLUSIONS
-Possibly Balloon 
-Possibly Aircraft
+Other: Contrail
+Insufficient Data for Evaluation
+
 
 - page 1 -
 

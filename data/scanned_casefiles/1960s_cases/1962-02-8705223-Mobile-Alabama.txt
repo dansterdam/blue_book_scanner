@@ -1,37 +1,85 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book record card, which is a form used to document UFO sightings and investigations. The text on the form includes various fields such as the date, location, type of observation, number of objects, brief summary of sighting, conclusions, and comments.
+Here is the text from the document:
 
 PROJECT 10073 RECORD CARD
-1. DATE: 19 Feb 62
-3. DATE-TIME GROUP: Last 2 digits of GMT 24/2/62
-5. PHOTOS: G Yes
-7. LENGTH OF OBSERVATION: 12 MIN
-10. BRIEF SUMMARY OF SIGHTING: Object observed by several witnesses for a short period of time about in a just above the horizon. Movement observed, appeared as a light. After about 1/2 to 1 minute the object disappeared.
-12. CONCLUSIONS: B Was Military a Possibly Balloon C Was Astronomical D Possibly Aircraft G Insufficient Data for Evaluation
-11. COMMENTS: 1st witness probably observed refraction of Venus. Others observed Venus as it fell below the horizon. All witness agree on time and direction of object.
+
+1. DATE
+19 Feb 62
+
+3. DATE-TIME GROUP
+Local 1742
+GMT 19/2402
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+7. LENGTH OF OBSERVATION
+12 Min.
+
+10. BRIEF SUMMARY OF SIGHTING
+Object observed by several witnesses. For short period of time object in W just above horizon. Was elevated remained constant. Dealer orange in color. Observed 10-15 min. After sunset. Object disappeared at 15 degrees E.
+
+2. LOCATION
+Mobile, Alabama
+
+4. TYPE OF OBSERVATION
+☒ Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
+6. SOURCE
+Military and Civilian
+
+8. NUMBER OF OBJECTS
+One
+
+11. COMMENTS
+1st Witness probably observed refraction of Venus. Others observed Venus as it appeared above the horizon. Venus was at 337° on the elliptic at 1742 and just rising in the W in haz a magnitude of -3.4.
+Case evaluated as Venus.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircrart
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 28 SEP 52)
+
 
 - page 1 -
-
-There is no photograph present in this page of the old UFO report document from Project Blue Book.
 
 HEADQUARTERS
 MOBILE AIR MATERIEL AREA
 UNITED STATES AIR FORCE
 BROOKLEY AIR FORCE BASE, ALABAMA
 
-REPLY TO: MCJ
-
-21 February 1962
+REPLY TO
+ATTN OF: MCJ                                   21 February 1962
 
 SUBJECT: (UFO) Unidentified Flying Object
 
 TO: Air Technical Intelligence Center
 Wright-Patterson AFB, Ohio
 
-Report of an unidentified flying object is submitted below in accordance with/AFR 200-2/: 
+Report of an unidentified flying object is submitted below in accordance
+with/and in the same order as required by paragraph 15, AFR 200-2:
 
-(1) Mr. indicated that while he observed the object, it appeared round like a small sun. As the object changed hands, it indicated the object was round at first and then changed its shape after a while into the size and shape of a football.
+a. (1) Mr. [redacted] indicated that while he observed the object, it
+appeared round like a small sun. Mr. [redacted] on the other hand, in-
+dicated the object was round at first and then changed its shape after a
+while into the size and shape of a football.
 
-(2) Mr. indicated the size was about 1/3 the size of the sun and this was verified by Mrs. who indicated that when the object changed its shape, it appeared to be the approximate size of a football.
+(2) Mr. [redacted] indicated the size was about 1/3 the size of
+the sun and this was verified by Mr. [redacted], who indicated that when
+the object changed its shape, it appeared to be the approximate size of
+a football.
 
 (3) Both men indicated the object was reddish-orange in color.
 
@@ -47,7 +95,9 @@ Report of an unidentified flying object is submitted below in accordance with/AF
 
 (9) None
 
-(1) Mr. attention was drawn to the object by his daughter. As he was driving across the Dauphin Island bridge, she, in turn, brought it to the attention of Mr.
+b. (1) Mr. [redacted] attention was drawn to the object by his
+daughter, [redacted] while he was driving across the Dauphin Island bridge.
+He, in turn, brought it to the attention of Mr. [redacted].
 
 (2) Both men indicated the object was just above the horizon.
 
@@ -55,99 +105,117 @@ Report of an unidentified flying object is submitted below in accordance with/AF
 
 (4) none
 
+
 - page 2 -
 
-There is no photograph present in the image. The image appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-Calling the radar station indicated the object disappeared while he was escorting the object. Mr. Washington indicated that a fog seemed to cause the object's disappearance.
-a. (1) Ground-visual in both instances.
-(2) None
-(3) Not applicable
-d. (1) Approximately 24:00Z
-(2) Dusk, the sun had set about ten (10) to fifteen (15) minutes prior to the observation of the object.
-e. (1) Both individuals observed the object from the Dauphin Island.
-f. (1) Both observers are civilians and Mr. Washington who is 52, of Dauphin Island, Alabama is a commercial fisherman for Blue Point Seafood Company of Mobile, Point, Alabama.
-(2) Not applicable.
+(5) Mr. [redacted] indicated the object disappeared while he was calling the radar station and Mr. [redacted] indicated that a fog seemed to encompass the object causing it to disappear from sight.
+
+(6) Mr. [redacted] observed the object about twelve (12) minutes and Mr. [redacted] observed it approximately three (3) minutes.
+
+c. (1) Ground-visual in both instances.
+   (2) None
+   (3) Not applicable
+
+d. (1) Approximately 2400Z
+   (2) Dusk, the sun had set about ten (10) to fifteen (15) minutes prior to the observation of the object.
+
+e. (1) Both individuals observed the object from the Dauphin Island toll bridge.
+
+f. (1) Both observers are civilians and Mr. [redacted] age 52, of Dauphin Island, Alabama, and Mr. [redacted] age 45, of Dauphin Island, Alabama, is a commercial fisherman for [redacted] Company of Moss Point, Miss.
+   (2) Not applicable.
+
 g. (1) Both observers indicated that the weather was "perfect, clear and cloudless".
+
 (2) The Weather Bureau of Brookley Air Force Base made an observation at 1755 indicating the following:
-(a) Sunset - 17:42
-(b) Ceiling - 8000, scattered
-(c) Temperature - 66°
-(d) Winds - North at six (6) knots
-(e) Sea level pressure - 200
+    (a) Sunset - 1742
+    (b) Ceiling - 8000, scattered
+    (c) Temperature - 66°
+    (d) Winds - North at six (6) knots
+    (e) Sea level pressure - 200
+
 (3) 8000 scattered
 (4) 10 miles
 
+2
+
+
 - page 3 -
 
-There is no photograph present in this image. The image appears to be a page from an old UFO report document from Project Blue Book.
-
-Transcription of the text in the document:
+Here is the text from the document:
 
 (5) Scattered
-(6) None 
+(6) None
 (7) 66°
+
 h. (1) None known
 i. (1) None
 j. (1)
 k. (1) Capt. Thomas C. Alfsen, Assistant Staff Judge Advocate, Contracts Division.
 
-Mr. who is a commercial fisherman, indicated that he had been a fisherman all his life and that he had observed many natural phenomena in the sky; however, he had never seen anything comparable to the object that he had observed on this date. He said the object appeared to be reflecting sunlight and that it was a very brilliant object - after the sun has set. However, he stated none of these would explain the present phenomena.
+I was Officer of the Day on the 19th of February 1962 at which time I received a call from Capt. Russell Ford of the 693rd Radar Sq. indicating they had received a report on a UFO. I then contacted the two individuals who reported making the observation and interviewed them extensively as to what they had observed. Both men appeared to be qualified and reliable witnesses and during the course of the conversation, did not appear to be prone to exaggeration.
 
-Mr. on the other hand, indicates he has never really observed anything in the sky that this object was observed.
+Mr. [redacted] who is a commercial fisherman, indicated that he had been a fisherman all of his life and that he had observed many natural phenomena in the sky, however, he had never seen anything comparable to the object in this instance. He indicated that he had observed sunspots or "sunspots", as he called it and he had also observed reflections upon aircraft right after the sun has set. However, he stated none of these would explain the present phenomena.
 
-The 93rd Radar Squadron, which is located at Dauphin Island, was contacted and they indicated that they did not pick up anything on the radar screen at the time this object was observed. Further, no other witnesses observed this object.
+Mr. [redacted] on the other hand, indicates he has never really observed any object in the sky in the past.
+
+The 693rd Radar Squadron, which is located at Dauphin Island, was contacted and they indicated that they did not pick up anything on the radar screen at the time this object was observed. Further, no other witnesses observed this object.
 
 1. (1) None
 
 FOR THE COMMANDER:
-
+[Signature]
 THOMAS C. ALFSEN
-CAPTAIN, USAF
+Captain, USAF
 Judge Advocate
+
+3
+
 
 - page 4 -
 
-The image does not contain any photographs. It appears to be a handwritten document from Project Blue Book, an official U.S. Air Force program to investigate unidentified flying objects (UFOs).
+38-335
 
-The text in the document is as follows:
+NEDO TO KNOW DATE - 19TH
+DIRECTION BLUE OUTER SPRINGS
+                   DS
 
-8 - 33 - 
-Hear to KNOW Date -
-Mobile, Alabama, 2/27/62 (Zone Cente 3 Alarm 5
+IS CONSTANTLY STATIONARY, ALWAYS STATIONARY
+                   NO.
 
-GAPUE CAPE TO CAPT. PERSON - CONFIRMED
-(Flying Saucer seen an observation station - RADORAD and confirmed 3 air craft sighters from different location 
-(Moon) AT 70° APPROX HEADING)
+2/27 PHONE CALL TO CAPT ALFSON. CONFIRMED
+DATE AND POSITIONAL INFORMATION. WILL BE
+FORWARDED. CAPT ALFSON INTERVIEWED WITH
+WITNESSES. REPORTS FROM THEM NOT RECEIVED
+(NOON) AT 70° APPROX HEADING
+
 
 - page 5 -
 
-The image does not contain any photographs. It appears to be a typed document from the U.S. Air Force's "Project Blue Book" regarding a UFO sighting report.
-
-HEADQUARTERS 
-MOBILE AIR MATERIEL AREA 
-UNITED STATES AIR FORCE 
+HEADQUARTERS
+MOBILE AIR MATERIEL AREA
+UNITED STATES AIR FORCE
 BROOKLEY AIR FORCE BASE, ALABAMA
 
 REPLY TO
-    MOJ   28 February 1962
+ATTN OF: MOJ                                                                   28 February 1962
 
 SUBJECT: Supplement to UFO Report of 21 February 1962
 
 TO: Air Technical Intelligence Center
-     Wright-Patterson AFB, Ohio
+Wright-Patterson AFB, Ohio
 
-1. Subsequent to the telephone conversation with your office, the undersigned again contacted the 653rd Radar Squadron at Dauphin Island, Alabama. Additional information was obtained and there were two additional witnesses to this observation. The first was Airman Second Class Thurman, both of that squadron. They indicated to me that they were on their round-the-clock monitoring duties and observed the object in the sky. They indicated that it was red in color and stationary for a period of time, then ascended vertically and disappeared. 
+1. Subsequent to the telephone conversation with your office, the undersigned again contacted the 693rd Radar Squadron at Dauphin Island relative to the subject UFO. At this time it was learned that there were two additional witnesses to this observation. The first was Airman Second Class _______ and the second was Airman Third Class _______ both of that squadron. They indicated to me that they were on their way toward Mobile, which would be due North of the Island, traveling by private vehicle at about 2400Z when they observed this object. In the sky. They indicated that it was due West, or at 270°. The date of this observation was, of course, 19 February 1962.
 
-2. The second was Airman Third Class Tiller, also of that squadron. He indicated to me that he too observed the object and it was red in color, stationary, then ascended vertically and disappeared. 
-
-3. As indicated previously, the date of this observation was 15 February 1962.
+2. I reviewed the information obtained from Mr. _______ and Mr. _______ and he verified that data and had this additional information to add in that he thought the object was approximately thirty (30) miles away and his personal feeling was that it was too large to be an aircraft.
 
 FOR THE COMMANDER:
 
-THOMAS O. ALFSEN
+THOMAS C. ALESEN
 Captain, USAF
 Judge Advocate
+
 
 - page 6 -
 

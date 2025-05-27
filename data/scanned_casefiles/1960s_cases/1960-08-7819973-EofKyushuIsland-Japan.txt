@@ -1,64 +1,119 @@
-This image does not contain a photograph. It is a Project Blue Book Record Card form that appears to be filled out.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 6 AUGUST, 1960
-2. LOCATION: EAST OF KYUSHU ISLAND, JAPAN 
-3. DATE-TIME GROUP: 11/1132
-4. TYPE OF SIGHTING: D Ground-Radar
-5. DURATION: 30 MINS
-6. PHOTOS: NONE
-7. LENGTH OF OBSERVATION: 30 MINS
-8. NUMBER OF OBJECTS: 1
-9. COURSE: STRAIGHT
-10. BRIEF SUMMARY OF SIGHTING: AIRCRAFT OBSERVED BY GROUND RADAR.
-11. COMMENTS: GROUND RADAR CONFIRMED VISUAL SIGHTING
+
+1. DATE
+11 August, 1960
+
+2. LOCATION
+S of Kyushu Island, Japan
+
+3. DATE-TIME GROUP
+Local 11/1032
+GMT
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual ☐ Ground-Radar
+☑ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes ☑ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+3-4 Seconds
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+SW
+
+10. BRIEF SUMMARY OF SIGHTING
+[Partially illegible text, appears to describe an object sighted]
+
+11. COMMENTS
+[Partially illegible text]
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☑ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. The image appears to be a scanned page from an old UFO report document from Project Blue Book.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+AF IN : 17926 (12 Aug 60)    INCOMING MESSAGE                C/eac
 
-AF IN : 17926 (12 AUG 60)
 ACTION: OOP
-INFO : XCD. XDO, GIN, MLP
-DF : 22951
-DE : 1291SZ 
-FM HQ PACAF HICKAM AFB HAWAII  
+INFO : XPD, XDC, CIN, MLP
+DE RJHPKM 293C
+O 1209 GZ
+FM HQ PACAF HICKAM AFB HAWAII
 TO COFS USAF WASH DC
-#FOGC 649-H. APEX PACAF HOT NEWS REPORT
+BT
+    FOOC 649-H. APEX PACAF HOT NEWS REPORT
+NUMBER 61. THE FOLLOWING MESSAGE FROM 67TH TRW YOKOTA AB,
 IS QUOTED FOR YOUR INFO. QUOTE
-421-INT-C-1912/1 COMOC 113 G-HOT NEWS. ACFT NR 081/KB-50/421
-OBSERVED OBJECT APPEARING TO BE CHANGE COLOR LIGHT. ACFTTOCN HEADING
-OF 297 DEGREES AT 17,000 FEET AT TIME OF SIGHTING OBJECT ESTIMATED
-FIFTY MILES IN FRONT. OBJECT OF ACT AND TRAVELING ON COURSE OF 330 TO 360
+
+421-INT-C-1912/1 COMOC 113 G-HOT NEWS. ACFT NR 081/KB-50-/421
+AREFSO/UNUSUAL SIGHTING ON 11/113@Z AT 3057N134@E. TWO CREW MEMBERS
+OBSERVED OBJECT APPEARING TO BE ORANGE BALL OF LIGHT. ACFT ON HEADING
+OF 057 DEGREES AT 17,000 FEET AT TIME OF SIGHTING OBJECT ESTIMATED
+FIFTY MILES IN FRONT OF ACFT AND TRAVELING ON COURSE OF 330 TO 150
 DEGREES. ONE OBSERVER ESTIMATED SPEED OF OBJECT AT SEVERAL THOUSAND
 MILES PER HOUR. CO-PILOT WATCHED OBJECT MOVE ACROSS HORIZON FROM LEFT TO
-RIGHT IN 10 TO 15 ARCH. RIGHT SCANNER OBSERVED OBJECT COME INTO VIEW
-LASTING APPROXIMATELY 3 TO 4 SECONDS AND THEN FADE OUT DESCRIBING OBJECT
-AS ORANGE BALL OF LIGHT WITH LIGHT FLUORESCENT TRAIL FOLLOWING CURVA-
-TURE OF EARTH. VISIBILITY AT TIME WAS UNLIMITED. UNQUOTE
-12/09/19Z AUG RJHPKM
-NOTE : ADV CPY 581 TS OOP-CP
+RIGHT IN SLIGHT ARCH. RIGHT SCANNER OBSERVED OBJECT COME INTO VIEW
+LAST ING APPROXIMATELY 3 TO 4 SECONDS AND THEN FADE OUT DESCRIBING OBJECT
+AS ORANGE BALL OF LIGHT WITH SLIGHT FLUORESCENT TRAIL FOLLOWING CURVATURE OF EARTH. VISIBILITY AT TIME WAS UNLIMITED. UNQUOTE
+BT
+12/0919Z AUG RJHPKM
+NOTE : Adv cpy del to OOP-CP
+
+[Bottom of document contains standard administrative markings and a note about reproduction restrictions]
+
 
 - page 2 -
 
-There is no photograph present in this scanned document. The image shows a typed UFO analysis sheet from Project Blue Book.
-
 UFO ANALYSIS SHEET
-Location: E. of Kyushu Island, Japan
-Date: 11 August 1960
-Time (Z): 11:32
-WX: Clear
-Description: Seen as a ball of light with a number of orange sparks following behind it. The object was observed to make a 90 degree turn in front of the observer and its estimated speed was several thousand M.P.H. The object disappeared within 4 to 5 seconds.
-Discrete of Motion: None
-Satellite: (AFCIN-4F3, Phone 69219) None reported to be reentering at this time.
-Astronomical Phenomena (Meteor, Comet, Planet, etc.): None
-Radar Analysis (AFCIN-4E1): None
-Natural Phenomena (Ball Lightning, etc.): None
-Aircraft, Balloons, Airships, etc.: None
-Other: 
-Evaluation of Source Reliability: Prob reliable
 
-Analysis and Conclusions: There seem to be no additional reports to be questioned in this case. The initial sighting appears to be an authentic observation of an unidentified object crossing the sky at extremely high speed. The observer's description of the object making a 90 degree turn and disappearing within 4 to 5 seconds suggests the possibility of a meteor passing through the atmosphere.
+Location E. of Kyushu Island, Japan
+
+Date 11 August 1960     Hour (Z) 11307
+
+WX Unfiltered
+
+Description From ball of light with silent fluorescent trail following course of earth. Object estimated to be 50 miles in front of earth traveling on course of 150 deg. One obs estimated speed of obj at several thousand M/H. Object viewed for 3 to 4 seconds.
+
+Direction of Motion SSE
+
+Satellite: (AFCIN-4F3, Phone 69219)     None reported to be reorienting at this time.
+
+Astronomical Phenomena (Meteor, Comet, Planet, etc): prob meteor
+
+Radar Analysis (AFCIN-4E1):     None
+
+Natural Phenomena (Ball Lightning, etc):     ------
+
+Aircraft, Balloons, Airships, etc.:     Ruled out
+
+Other:     [blank]
+
+Evaluation of Source Reliability:     Prob reliable
+
+Analysis and Conclusions: Here were no satellite observations to be considered. Air traffic control, Kir AFKWKWKK and the trajectory and speed can be explained as that of an extreme bright meteor. The extreme light speed is meteoric speed, such as list of an astronomical object. The description is characteristic of a meteor passing through the earth's atmosphere.
+
 
 - page 3 -
 

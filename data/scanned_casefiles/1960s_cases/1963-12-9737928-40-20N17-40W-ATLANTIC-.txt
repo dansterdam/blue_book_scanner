@@ -1,78 +1,125 @@
-The image does not contain any photograph. It appears to be a Project 10073 Record Card that provides details about a UFO sighting.
-
-Text from the document:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 9 Dec 63
-2. LOCATION: 40°20'N 17°40'W ATLANTIC
-3. DATE-TIME GROUP: 10/05-32
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: 0
-6. SOURCE: Military
-7. LENGTH OF OBSERVATION: -
-8. NUMBER OF OBJECTS: 1
-9. COURSE: East
-10. BRIEF SUMMARY OF SIGHTING: Spherical shaped obj pulsating. White - No red or green lights visible. Medium altitude, high speed, Erratic flight.
-11. COMMENTS: Insufficient data. Duration omitted.
-12. CONCLUSIONS: Was Balloon
-Was Astronomial
-Insufficient Data for Evaluation
+
+1. DATE
+9 Dec 63
+
+2. LOCATION
+40.201 17.401 (Pt. Acr.)
+
+3. DATE-TIME GROUP
+Local
+GMT 10/0542
+
+4. TYPE OF OBSERVATION
+☑ Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+9kno
+
+6. SOURCE
+military
+
+7. LENGTH OF OBSERVATION
+---
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+East
+
+10. BRIEF SUMMARY OF SIGHTING
+Spherical shaped obj pulsating.
+White. No red or green lights
+visible. Medium altitude, high
+speed, easterly flight.
+
+11. COMMENTS
+Insufficient data. Duration omitted.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+☑ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a document containing text related to an "INCOMING" message from the Department of the Air Force.
-
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
+WASHINGTON AREA
+
 INCOMING
-Page 1 of 2
-AF IN: 5/1189 (10DEC63) G/CSO
-INFO : NIN-9, XOP-1, XOPX-4, (SAP-09-3), J98-35, OSD-15, DIA-25, DIA-CTIC-2, ARMY-2, CMC-3, NSA-7 (112)
-GRD 5129
-22300928252RJAS28
-99 RUEHG
-DERUNLKH 4 12/382Z
+
+AF IN: 54189 (10Dec63) G/apc                                   Page 1 of 2
+
+INFO : NIN-9, XOP-1, XOPX-4, SAF-OS-3, JCS-35, OSD-15, DIA-25,
+        DIA-CIIC-2, ARMY-2, CMC-8, NSA-7 (112)
+
+CMB 5169
+ZCZCHCAZ85ZCRJA298
+CO RUEAKW
+DERUEHLKH 4 10/0822Z
 ZNR
-0 1002382
-FM 25STH AIR DIV KUNIA FACILITY HAWAII
-TO RUHKW/PACAF HICKAM AFB HA
-RUHPH/CINCPACSEARFON PEARL HARBOR HA
-INFO RUEAHJ/CSAF USAF WASH DC
-RJECJ/CNO WASH DC
-RUEKL/SECNAV WASH DC
-RUHLM/CINCPAC CAMP H M SMITH HA
-RUWEAL/CINCONORAD ENT AFB COLO
-RUHLHS/CINCUSARPAC FT SHAFTER HA
-RUHLH/CONUSJAPAN FUCHU AS JAPAN
-RUAW/COMUSKOREA SEOUL KOREA
-RUAFL/CCMUSTOS TAIPEI TAIWAN
-R 1055Z/GINGSAG OFFUTT AFB NEBR
-31
-UNCLAS 25STH DD-CO 1930.
-A. JANAP 146.2
+O 108320Z
+FM 326TH AIR DIV KUNIA FACILITY HAWAII
+TO RUHLKW/PACAF HICKAM AFB HA
+RUPHPW/COMNAVSEAFRON PEARL HARBOR HA
+INFO RUEAKW/CSAF USAF WASH DC
+RUECW/CPIO WASH DC
+RUEQW/SEQNAV WASH DC
+RUHLKW/CINCPAC CAMP H M SMITH HA
+RUWGAL5/CINCNORAD ENT AFB COLO
+RUHLKS/CINCUSARPAC FT SHAFTER HA
+RUHLKW/CONUSJAPAN FUCHU AS JAPAN
+RUAGY/CONUSKOREA SEOUL KOREA
+RUAGFL/CONUSTCC TAIPEI TAIWAN
+RUOSR/CINGSAC OFFUTT AFB NEBR
+
+BI
+UNCLAS 326TH DO-CO 1960.
+A. JANAP 146D
+
 
 - page 2 -
 
-The image does not contain any photographs or visual elements. It appears to be a typed document, likely an incident report from Project Blue Book, the U.S. Air Force's official investigation of unidentified flying objects (UFOs).
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
 
 INCOMING
-AFI# 54489 (108-653)                                                      Page 2 of 2
 
-1. HEIGHT: 54,189 (16,386m)
+AF IN: 5489 (10Dec63)                                   Page 2 of 2
+
+1. MERRIT
 2. USS SAVAGE
-3. OBJECT SPHERICALLY SHAPED OBJECT. ENTIRE
-OBJECT PULSATED WHITE, NO RED OR GREEN LIGHTS VISIBLE.  
-4. 49°22' 17°42'W
-5. 1070342
-6. MEDIUM 
+3. A. ONE 3. SPHERICALLY SHAPED OBJECT. ENTIRE
+   OBJECT PULSATED WHITE. NO RED OR GREEN LIGHTS VISIBLE.
+4. 4020N 1740W
+5. 10/05/62
+6. MEDIUM
 7. EASTERLY
 8. VERY FAST
-9. SIGHTED BY TWO OBSERVERS- OOD AND LOOKOUT
-10. SEAS MODERATE-CLOUD COVERAGE 3/10 WIND 8 KTS.
+9. SIGHTED BY TWO OBSERVERS- ODD AND LOOKOUT
+10. SEAS MODERATE-CLOUD COVERAGE 3/10 WIND 3 KTS.
 11. EVALUATION UNKNOWN.
 
-NOTE: Advance copies to XOPK, NIN, DIA
-            Readdrersed to CIA Form 1399 #170
+NOTE: Advance copies to XOPX, NIN, DIA
+      Readdressed to CIA Form 1392 #170
+
 
 - page 3 -
 

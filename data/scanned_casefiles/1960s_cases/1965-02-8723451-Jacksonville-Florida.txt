@@ -1,337 +1,432 @@
-The image does not contain a photograph. It appears to be a form or report from Project Blue Book, a United States Air Force program to investigate unidentified flying objects (UFOs).
+1. DATE - TIME GROUP
+1 February 65 02/0013
 
-1. DATE - TIME GROUP: 5 February 65 0230/0330
-2. LOCATION: Jacksonville, Florida
-3. SOURCE: Civilian (Tower Operator)  
-4. NUMBER OF OBJECTS: One
-5. LENGTH OF OBSERVATION: 30 XXX seconds
-6. TYPE OF OBSERVATION: Ground-Visual
-7. COURSE: 310
-8. PHOTOS: No
-9. PHYSICAL EVIDENCE: No
+2. LOCATION
+Jacksonville, Florida
 
-11. BRIEF SUMMARY AND ANALYSIS:
-Object appearing as a light, about the size of a star. White color. It seemed to remain stationary. Thought to be a satellite by the observer.
+3. SOURCE
+Civilian (Tower Operator)
+
+10. CONCLUSION
+SATELLITE
+
+4. NUMBER OF OBJECTS
+One
+
+11. BRIEF SUMMARY AND ANALYSIS
+Object appearing as a light about the same as a star. White color. No shape or details noted. Observed in North disappearing if NE. Flight to south or southeast. Thought to be a Satellite by observer.
+
+5. LENGTH OF OBSERVATION
+30 XXX Seconds
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+SE
+
+8. PHOTOS
+No
+
+9. PHYSICAL EVIDENCE
+No
+
+FORM
+FTD SEP 63 0-329 (TDE)   Previous editions of this form may be used.
+
 
 - page 1 -
 
-There is no photograph present in this image. The image shows a page from an old UFO report document from Project Blue Book. The text on the page appears to be a form with questions about a reported UFO sighting, including the date, location, and details of the sighting, as well as personal information about the witness. The responses to the questions are partially redacted.
-
-Here is the text from the document, with only the redacted portions removed:
+Here is the text from the document:
 
 30. Have you ever seen this, or a similar object before. If so give date or dates and location.
-LAS - This object was about 500-600 feet in diameter and had colored lights around the perimeter which changed color and moved around
+Yes, few times but details are not completely Many
+sightings of unidentified sightings with nearby
 
-31. Was anyone else with you at the time you saw the object? (Circle One) YES No
-31.1 If you answered YES, did they see the object too? (Circle One) YES No
-31.2 Please list their names and addresses.
+31. Was anyone else with you at the time you saw the object? (Circle One)   Yes   No
+31.1 IF you or avered YES, did they see the object too? (Circle One)   Yes   No
+31.2 Please list their names and addresses:
+Jacksonville, Fla.
+Jacksonville, Fla.
 
 32. Please give the following information about yourself:
-NAME: Jackie Faris
-ADDRESS: Daytona Beach, Florida
-TELEPHONE NUMBER: Redacted
-AGE: 33 SEX: M
-Additional information about yourself, including any special experience, which might be pertinent.
-No additional information.
+NAME: [redacted]
+ADDRESS: Jacksonville 8, Florida
+TELEPHONE NUMBER: [redacted]
+AGE: 33   SEX: M
 
-33. When and where did you report that you had seen the object?
-1945 Daytona Central Office
+Indicates any additional information about yourself, including any special experience, which might be pertinent.
+Air Traffic Controller
+
+33. When and to what am did you report that you had seen the object?
+Jacksonville Air Route
+Traffic Control Center.
+
 
 - page 2 -
 
-The image does not contain any photograph. It appears to be a page from a UFO report document from Project Blue Book, likely filled out by a witness or investigator.
+Here is the text from the document:
 
-Text from the document:
+34. Date you completed this questionnaire:   5   3   1965
+    Day   Month   Year
 
-34. Date you completed this questionnaire: 2 - 8 - 65
-35. Information which you feel pertinent and which is not adequately covered in the specific points of the questionnaire or a narrative explanation of your sighting: NONE
+35. Information which you feel pertinent and which is not adequately covered in the specific points of the questionnaire or a narrative explanation of your sighting:
+
+NONE
+
 
 - page 3 -
 
-The shared image appears to be a page from an old Project Blue Book report document. It contains a table-like grid of numbers and text, possibly representing some kind of data or report.
+Page 8
 
-Based on the text output requested, the following is the OCR transcription of the text visible in the image:
+The image contains a table with multiple rows and columns of numbers. The text and numbers are somewhat blurry and difficult to read clearly. At the top right of the page, "Page 8" is visible.
 
-LA ABEL 5
+The rest of the page below the table is blank white space.
+
 
 - page 4 -
 
-The image does not contain any photographs, but rather appears to be a table of data related to satellite tracking and orbits. 
-
-TEXT FOUND IN THE DOCUMENT:
-
 SATELLITE 1960 DATA 1
-FOR UNITED STATES LATITUDES
-NORTH-TO-SOUTH
-FEBRUARY 5, 1965
-REFERENCE TIME: 0 H 0 M 0 SEC U.T.
-MODIFIED ORBITAL ELEMENTS FOR EARTH SATELLITE 1960 IOTA 1
-REFERENCE TIME UNV. Y. 1960 0 H 0 M 0 SEC.
-INCLINATION 150.3 DEG.
-LONGITUDE OF ASGFNDING NODE 65.0 DEG.
-ARGUMENT OF PERIGEE 161.0 DEG.
-ECCENTRICITY 0.0237
-SEMI-MAJOR AXIS 6978.4 KM.
-MEAN MOTION 2.09904 REV. PER DAY
-ANOMALISTIC PERIOD 1.4785 HRS.
-NODAL PERIOD 1.4774 HRS.
-APOGEE ALTITUDE 752.24 KM.
-PERIGEE ALTITUDE 239.16 KM.
-LATITUDE OF PERIGEE 11.13 DEG.
-RADIUS OF PERIGEE 6617.56 KM.
-RADIUS OF APOGEE 6730.66 KM.
-REMARKS: APOGEE ALTITUDE HAS INCREASED 0.24 KM.
-PERIGEE ALTITUDE HAS INCREASED 0.16 KM.
-SEMI-MAJOR AXIS HAS INCREASED 0.30 KM.
-MEAN MOTION HAS DECREASED 0.00002 REV. PER DAY.
-ANOMALISTIC PERIOD HAS DECREASED 0.0001 HRS.
-NODAL PERIOD HAS DECREASED 0.0001 HRS.
+FOR GIVEN LATITUDES
+EQUATOR
+TIME LONG.
+(UT) (W)
+
+LAT.
+(N)
+
+TIME
+(GMT)
+
+LONG.
+(DEG)
+
+HT.
+(KM)
+
+DECL.
+(DEG)
+
+TIME
+(GMT)
+
+NORTH-SOUTH
+LONG.
+HT.
+(DEG) (KM)
+
+DECL.
+(DEG)
+
+JANUARY 31, 1965
+
+[Detailed table with multiple columns of numerical data for satellite tracking, showing dates, times, longitudes, latitudes, heights, and declinations for both equator and north-south measurements]
+
+FEBRUARY 1, 1965
+
+[Continuation of the detailed table with similar data for February 1, 1965]
+
+FEBRUARY 2, 1965
+
+[Continuation of the detailed table with similar data for February 2, 1965]
+
+FEBRUARY 3, 1965
+
+[Continuation of the detailed table with similar data for February 3, 1965]
+
+FEBRUARY 4, 1965
+
+[Continuation of the detailed table with similar data for February 4, 1965]
+
+MODIFIED ORBITAL ELEMENTS FOR EARTH SATELLITE 1960 [IOTA 1]
+
+REFERENCE TIME 1965 Y 1 D 0 ON 2462.0 HT
+INCLINATION 31.0 DEG.
+ASCENDING NODE 116.06J, 115.18 DEG. WEST
+PRIME WHICH INTERVAL ONE DAY = 17.10 MIN.
+ARGUMENT OF PERIGEE 340.05 DEG.
+MEAN OF EPOCH 3 JAN 1965 0 HR. PER PERIOD
+EQUATORIAL RADIUS 6378.16 KM
+GRAVITATIONAL CONSTANT 398600.8 KM3/SEC2
+ECCENTRICITY 0.00893
+SEMI-MAJOR AXIS 7171.3 KM
+RADIUS OF APOGEE 7478 KM
+RADIUS OF PERIGEE 6864 KM
+RATE OF CHANGE OF SEMI-MAJOR AXIS PER DAY
+ACCORDING BOOK 0.438 DEG.
+RATE OF CHANGE OF SEMI-MAJOR AXIS PER DAY
+LATITUDE OF PERIGEE-111.16 DEG.
+LONGITUDE SPECIFIED, DEG.
+
 
 - page 5 -
 
-The image does not contain a photograph. It appears to be a scanned document from the Project Blue Book UFO report.
+TDEV/UFO
 
-OPENING FILE COPY 
-
-TDEW/UFO
-UFO Sighting, 1 Feb 65, Jacksonville & Tallahassee, Fla  26 Feb 65
+UFO Sighting, 1 Feb 65, Jacksonville & Tallahassee, Fla                26 Feb 65
 
 Federal Aviation Agency
 Jacksonville, Florida
 
-1. On the night of 1 Feb 65 at 12:00 hours, an unidentified flying object was reported over Jacksonville and Tallahassee, Fla by various observers.
+1. On the night of 1 Feb 65 at 1900 hours, an unidentified flying
+object was reported over Jacksonville, Tallahassee and by various
+aircraft over Daytona and off the coast of Florida.
 
-2. The object was reported as tracking west to east. The tower at the local airport was alerted and additional information on the observation is required for positive identification. Your assistance in having the operator who witnessed the object file a report will be appreciated.
+2. The object was reported as tracking West to East. The tower
+operator at Jacksonville was listed as one of the observers.
+Additional information on the observation is required for positive
+identification. Your assistance in having the operator who witnessed
+this event complete the attached form will be appreciated.
 
 FOR THE COMMANDER
 
-CHRIS J. PAPADOPOULOS 
-Colonel, USAF
+ERIC T de JONCKHEERE                                     1 Atch
+Colonel, USAF                                            TWD Form 164
 Deputy for Technology
-DAP/S Forms 1601
+and Subsystems
+
 
 - page 6 -
 
-The image does not contain any photographs. It appears to be a letter from the Federal Aviation Agency addressed to the Commander of the Air Force Systems Command, Air Force Systems Command, Wright-Patterson Air Force Base, Ohio. The letter is dated March 5, 1965 and discusses a questionnaire related to the Air Traffic Control Specialist that was previously sent.
-
-The text found in the document is as follows:
-
 FEDERAL AVIATION AGENCY
 AIRPORT TRAFFIC CONTROL TOWER
-P.O. BOX 10006 32229
+P. O. Box 18006
 Jacksonville, Florida 32229
+
 March 5, 1965
 
 Commander
-Air Force Systems Command
+Foreign Technology Division
 Air Force Systems Command
 Wright-Patterson Air Force Base, Ohio
-
 Attention: TDEW/UFO
 
 Dear Sir:
 
-As requested in your letter dated February 26, 1965, the questionnaire furnished has been completed by Norvell L. Cole, Air Traffic Control Specialist. The completed questionnaire is enclosed.
+As requested in your letter dated February 26, 1965, the questionnaire has been completed by Air Traffic Control Specialist (Tower) GS-11 Norvell L. Colgs. The completed questionnaire is enclosed.
 
 If we may be of further service, please advise.
 
 Sincerely yours,
-
 [Signature]
-Airport Chief
+Chief, Activity Staff, Chief
 
 Enclosure
 
+
 - page 7 -
 
-There is no photograph present in this image. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-FEB 1, 02/004/72
-301 4 SAN 33° 30' N NORTHERN HEMISPHERE
+23216
+FEB 1, 02/0012
 
-ECH8 F 0020
-41' - 33°N 81°- 22'W
-33°N 310'W - NORTH ATLANTIC
+39
+9/0 +
+
+ELEV I 0000
+
+41= 35°N · 109.99
+129.77
+31-22 W
+
+35°N 81°N -X664H ATLANTIC
+
 
 - page 8 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, which is a U.S. Air Force document related to the investigation of unidentified flying objects (UFOs).
-
-The text in the document is as follows:
-
 U.S. AIR FORCE TECHNICAL INFORMATION
 
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible about the unidentified object that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Your name will not be used in connection with any statement you make unless it is deemed necessary, we may contact you for further details.
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified serial phenomena that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information so that if it is deemed necessary, we may contact you for further details.
 
-1. When did you see the object? 1, 1965
+1. When did you see the object?
+1-2-1965
+Day    Month   Year
 
-2. Time of day: 19 27 (Circle One): A.M. or P.M.
+2. Time of day: __ 19 __ 41 __
+            Hour    Minutes
+(Circle One): A.M. or P.M.
 
-3. Time Zone: (Circle One): a. Eastern b. Central c. Mountain d. Pacific e. Other EAST
+3. Time Zone:
+(Circle One): a. Eastern
+             b. Central
+             c. Mountain
+             d. Pacific
+             e. Other: GMT
 
-4. Where were you when you saw the object? JACKSONVILLE, FLORIDA
+(Circle One): a. Daylight Saving
+             b. Standard
 
-5. How long was object in sight? (Total Duration) 62 SECONDS
+4. Where were you when you saw the object?
+[Redacted street address]
+                    Jacksonville      Florida
+                    City or Town     State or County
 
-a. Certain b. Not very sure
+5. How long was object in sight? (Total Duration)
+                    Hours   Minutes   60   Seconds
+a. Certain
+b. Fairly certain   c. Not very sure
+5.1 How was time in sight determined?   ESTIMATED
+5.2 Was object in sight continuously?   Yes X   No ___
 
-5.1 How was object determined? CLEAR
-5.2 Was object in sight continuously? Yes X No ___
-
-6. What was the condition of the sky? 
-DAY
-a. Bright
-b. Cloudy 
+6. What was the condition of the sky?
+DAY                           NIGHT
+a. Bright                     a. Bright
+b. Cloudy                     b. Cloudy
 
 7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object?
-(Circle One): a. In front of you b. In back of you c. To your left d. To your right e. Overhead f. Don't remember
+(Circle one):  a. In front of you     d. To your left
+               b. In back of you      e. Overhead
+               c. To your right       f. Don't remember
 
-FTD DDT 63 164 This form supersedes FTD 103, Jul 51, which is obsolete.
+FORM
+FTD OCT 62 164    This form supersedes FTD 164, Jul 61, which is obsolete.
+
 
 - page 9 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book, with a form for the observer to fill out with various questions about their sighting.
+Here is the text from the document:
 
-Output of the text in the document:
+Page 2
 
 8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
-8.1 STARS (Circle One):
-a. None
-b. A few
-c. Don't remember
-8.2 MOON (Circle One):
-a. Bright moonlight
-b. Dull moonlight
-c. No moonlight - pitch dark
+8.1 STARS (Circle One):                    8.2 MOON (Circle One):
+    a. None                                     a. Bright moonlight
+    b. A few                                    b. Dull moonlight
+    c. Many                                     c. No moonlight - pitch dark
+    d. Don't remember                            d. Don't remember
 
 9. What were the weather conditions at the time you saw the object?
-CLOUDS (Circle One):
-a. Clear sky
-b. Hazy
-c. Scattered clouds
-d. Thick or heavy clouds
-WEATHER (Circle One):
-a. Dry
-b. Fog, mist, or light rain
-c. Moderate or heavy rain
-d. Snow
-e. Don't remember
+CLOUDS (Circle One):                        WEATHER (Circle One):
+    a. Clear sky                                a. Dry
+    b. Hazy                                     b. Fog, mist, or light rain
+    c. Scattered clouds                          c. Moderate or heavy rain
+    d. Thick or heavy clouds                     d. Snow
+                                                 e. Don't remember
 
 10. The object appeared: (Circle One):
-a. Solid
-b. Transparent
-c. Vapor
+    a. Solid                                    d. As a light
+    b. Transparent                               e. Don't remember
+    c. Vapor
 
-11. If it appeared as a light, was it brighter than the brightest star? (Circle One):
-a. Brighter
-b. Dimmer
-c. About the same
-d. Don't know
+11. If it appeared as a light, was it brighter than the brightest stars? (Circle One):
+    a. Brighter                                 c. About the same
+    b. Dimmer                                   d. Don't know
 
 11.1 Compare brightness to some common object:
 
-12. The shape of the object was: 
-(Circle One): a. Fuzzy or blurred
-b. Like a bright star
-c. Sharply outlined
-d. Don't remember
+12. The edges of the object were:
+    (Circle One): a. Fuzzy or blurred            e. Other
+                 b. Like a bright star
+                 c. Sharply outlined
+                 d. Don't remember
 
-13. Did the object:
-(Circle One for each question)
-a. Appear to stand still at any time? Yes / No / Don't know
-b. Suddenly speed up and/or slow down at any time? Yes / No / Don't know
-c. Make any sudden turns or changes in direction? Yes / No / Don't know
-d. Give off smoke? Yes / No / Don't know
-e. Change brightness? Yes / No / Don't know
-f. Flash or flicker? Yes / No / Don't know
-g. Disappear and reappear? Yes / No / Don't know
+13. Did the object:                             (Circle One for each question)
+    a. Appear to stand still at any time?        Yes   No   Don't know
+    b. Suddenly speed up and rush away at any time?  Yes   No   Don't know
+    c. Break up into parts or explode?            Yes   No   Don't know
+    d. Give off smoke?                           Yes   No   Don't know
+    e. Change brightness?                        Yes   No   Don't know
+    f. Change shape?                             Yes   No   Don't know
+    g. Flash or flicker?                         Yes   No   Don't know
+    h. Disappear and reappear?                   Yes   No   Don't know
+
 
 - page 10 -
 
-The image appears to be a page from an old Project Blue Book UFO report document. There is no photograph present in this image.
+Here is the text from the document:
 
-14. Did the object disappear while you were watching it? If so, how?
-No
+Page 3
 
-15. Did the object move behind something at any time, particularly a cloud?
-(Circle One): Yes No Don't Know. If you answered YES, then tell what:
+14. Did this object disappear while you were watching it? If so, how?
+NO
 
-16. Did the object move in front of something at any time, particularly a cloud?
-(Circle One): Yes No Don't Know. If you answered YES, then tell what:
+15. Did this object move behind something at any time, particularly a cloud?
+(Circle One): Yes No Don't Know. IF you answered YES, then tell what
+If so behind:
 
-17. Tell in a few words the following things about the object:
-a. Size: None
-b. Color: White
+16. Did this object move in front of something at any time, particularly a cloud?
+(Circle One): Yes No Don't Know. IF you answered YES, then tell what
+In front of:
 
-18. We will now know the angular size. Hold a match stick at arm's length in line with a known object and move the match stick away until the object is just covered by the match head. How much of the object would have been covered by the match head?
-All of it would have been covered by the match head.
+17. Tell in few words the following things about the object:
+a. Size: NONE
+b. Color: WHITE
 
-19. Draw a picture that will show the shape of the object or objects. Label it and include in your sketch any details of the object that you think are important, such as color, size, etc. Place an arrow beside the drawing to show the direction the object was moving.
-The document contains a handwritten sketch showing a circular or oval-shaped object, with an arrow indicating the direction it was moving.
+18. We will know the angular size. Hold a match stick at arm's length in line with a known object and note how much of the object is covered by the head of the match. If you had performed this experiment at the time of its sighting, how much of the object would have been obscured by the match head?
+ALL OF IT WOULD HAVE BEEN OBSCURED
+
+19. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction object was moving.
+[A hand-drawn circle with an arrow]
+We started drawing this as circle because it was
+we in no movement at edge to the object.
+
 
 - page 11 -
 
-The image contains a form or questionnaire related to a UFO sighting. There is no photograph present in this particular page.
-
-Transcribed text:
+Here is the text from the document:
 
 20. Do you think you can estimate the speed of the object?
-(Circle One) Yes No
-IF you answered YES, than what speed would you estimate?
+(Circle One)   Yes   No✓
+
+IF you answered YES, then what speed would you estimate? [blank]
 
 21. Do you think you can estimate how far away from you the object was?
-(Circle One) Yes No
-IF you answered YES, than how far away would you say it was?
+(Circle One)   Yes   No✓
 
-22. Where were you located when you saw the object? 
-(Circle One):
-a. Inside a building
+IF you answered YES, then how far away would you say it is? [blank]
+
+22. Where were you located when you saw the object?
+(Circle One)
+a. Inside a building ✓
 b. In a car
 c. Outdoors
 d. In an airplane (type)
 e. At sea
-f. Other
+f. Other [blank]
 
-23. Were you (Circle One):
+23. Were you (Circle One)
 a. In the business section of a city?
 b. In the residential section of a city?
-c. In open country?
-d. Near an airport?
+c. In open countryside?
+d. Near an airfield?
 e. Flying over a city?
 f. Flying over open country?
-g. Other
+g. Other [blank]
 
 24. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
 24.1 What direction were you moving? (Circle One)
-a. North b. Northeast c. East d. Southeast e. South f. Southwest g. West h. Northwest
-24.2 How fast were you moving? _____miles per hour
-24.3 Did you stop at any time while you were looking at the object? Yes No
+a. North           c. East           e. South          g. West           h. Northwest
+b. Northeast       d. Southeast      f. Southwest
+
+24.2 How fast were you moving? [blank] miles per hour
+
+24.3 Did you stop at any time while you were looking at the object?
+(Circle One)   Yes   No
 
 25. Did you observe the object through any of the following?
-a. Eyeglasses Yes No
-b. Sun glasses Yes No
-c. Windshield Yes No
-d. Window glass Yes No
+a. Eyeglasses      Yes   No✓
+b. Sun glasses     Yes   No✓
+c. Windshield      Yes   No✓
+d. Window glass    Yes   No✓
 
-e. Binoculars Yes No
-f. Telescope Yes No
-g. The sights No
-h. Other
+e. Binoculars      Yes   No✓
+f. Telescope       Yes   No✓
+g. The-dolite      Yes   No✓
+h. Other [blank]
 
-26. In order that you can give as clear a picture as possible of what you saw, describe in your own words a common object or objects which, when placed in the sky, would give the same appearance or experience as the object which you saw.
-Because it just seemed to be a strange light in the sky, moving in a very erratic and irregular path, not at all like any known aircraft. It appeared to be just a light, and was not recognizable as any type of conventional aircraft. The erratic movements were what impressed me most about the observation.
+26. In order that you can give as clear a picture as possible of what you saw, describe in your own words a common object or objects which, when placed in the sky, would give same appearance as the object which you saw:
+(Because of its motion, I would compare it to an artificial satellite from previous experience in the past.)
+
 
 - page 12 -
 
-The image contains a page from a Project Blue Book report document. There is a diagram showing a sketch of a UFO sighting, with instructions for where to place markers on the sketch. There is also a compass rose diagram.
+27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it. Place an "A" on the compass when you first saw the object.
 
-The text in the document says:
+28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, or "B" at the end of the path, and show any changes in direction during the course.
 
-27. In the following sketch, imagine that you are at the point shown. Place an "A" on the arc (or line) to show how high the object was above the horizon when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon when you last saw it. Place a "C" on the compass rose to show where you first saw the object.
+29. IF there was MORE THAN ONE object, then how many were there? Draw a picture of how they were arranged, and put an arrow to show the direction that they are traveling.
 
-28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, as will show any changes in direction during the course.
-
-29. If there was MORE THAN ONE object, then how many were there? Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
 
 - page 13 -
 

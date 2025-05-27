@@ -1,52 +1,108 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book UFO report document, specifically the 1966-10-8285949-Campbellsville-Kentucky.pdf1.txt file.
-
 PROJECT 10073 RECORD
-1. DATE-TIME GROUP 15 OCT. 66 16/01152
-2. LOCATION Campbellsville, Kentucky
-3. SOURCE Civilian
-4. NUMBER OF OBJECTS 1
-5. LENGTH OF OBSERVATION 10 minutes
-6. TYPE OF OBSERVATION Ground Visual
-7. COURSE Northward
-8. PHOTOS No
-9. PHYSICAL EVIDENCE No
-10. CONCLUSION Satellite (Echo II)
-At 2013 hrs, according to the report, an object was observed over 96W-40N on a north-northward course. Observers watched the object traveling toward the north at a very slow rate of speed, and it took about 10-15 minutes to travel across the sky. The observation is consistent with that of a satellite observation.
+
+1. DATE/TIME GROUP
+15 Oct. 66 16/0115Z
+
+2. LOCATION
+Campbellsville, Kentucky     multiple
+
+3. SOURCE
+Civilian
+
+4. NUMBER OF OBJECTS
+one
+
+5. LENGTH OF OBSERVATION
+10 minutes
+
+6. TYPE OF OBSERVATION
+Ground Visual
+
+7. COURSE
+Northward
+
+8. PHOTOS
+[ ] Yes
+[X] No
+
+9. PHYSICAL EVIDENCE
+[ ] Yes
+[X] No
+
+10. CONCLUSION
+Satellite(Echo III)
+At 2013 L.M. Scholl was over 96W-40N on a northerly heading.
+
+11. BRIEF SUMMARY AND ANALYSIS
+Observers watched a star like object traveling toward the north. It seemed to travel at a very slow rate of speed, and took about 10-15 minutes to travel across the sky. It made no sound, just looking like a slow moving star.
+
+The description is consistent with that of a satellite observation.
+
+FORM
+FTD SEP 63 0-329 (TDE)    Previous editions of this form may be used.
+
 
 - page 1 -
 
-There does not appear to be any photograph present in this image. The image appears to be a handwritten text from an old UFO report document.
-
-Using an OCR (Optical Character Recognition) system, I have extracted the following text from the document:
+Here is the text from the document:
 
 URGENT
-
 UFO
 
-Witness:
-Receiving this letter in relation to a sighting verified was on the night of October 15, 1966 approximately 8:15 - It travelled through the city from the south-eastern first spotted and disappeared into the west-north-west. It possessed the size of a car and colored various shades of orange and yellow intermitently, and seemed to hover stationary a few seconds at a time, and to travel between the above mentioned 2 points, took at least 10 or 15 minutes. It glided through the air making no sound at all. It made no effort to man or any other objects. There was no sound to indicate sound waves. I discussed this sighting with my family, outside the immediate reaction of they all seemed not to believe.
+No case
+with only
 
-Daylog on State of Kentucky
+Elkhorn, Kentucky
+Oct. 18, 1966 415.24
+
+Dear Sirs:
+
+I am writing this letter in relation
+to a sighting which I witnessed on the
+night of October 15, 1966 at the approx-
+imately 8:15. It traveled through the
+sky from the south(when first sighted)
+and disappeared into the west-north-west.
+It possessed the precise likeness of a star,
+only moving. It seemed to travel at a
+very slow rate of speed, and to travel
+between the above mentioned 2 points
+took at least 10 or 15 minutes. It glid-
+ed through the air making no sound
+at all. It made no motor sound after
+hand. It looked like a silent, moving
+star. There was no wind to hinder
+sound waves. I witnessed this sighting
+with my family, outside the small town
+of Taylor Gin state of Kentucky.
+I would appreciate if you would take the time to write me to-
+
 
 - page 2 -
 
-There is no photograph present in this image. The image shows a handwritten letter or document.
+Here is the text from the document:
 
-Giving me a ray satellite a 2 missilelike indications were able to see at this particular time for the recently and distressed the sighting. If there same was not been withdrawn What about the and if anything there strange was not none what about-the projected as great 8 years old when come distance of a flight hand.
+ling me & any satellite -2 similar
+instructions if was able to be seen at
+this particular time in the
+area I witnessed the sighting. If
+there was not lone (ochal-
+ualed to pass over, please give your
+opinion as to what it might have
+been.
 
-Thank you!
+Thank You,
 
 Sincerely yours,
-[Redacted]
+[Signature is blacked out]
+
 
 - page 3 -
 
-The image does not contain a photograph, it appears to be a typed document. As an OCR (Optical Character Recognition) system, I will output the text found in the document:
-
-USAF Headquarters COMMOM/DERS
-Room 5C7, Federal Building
-601 West Broadway 40202
-Louisville, Kentucky
+USAT Examining Office
+Room 507, Federal Building
+601 West Broadway
+Louisville, Kentucky 40202
 
 UNITED STATES AIR FORCE
 OFFICIAL BUSINESS
@@ -55,18 +111,22 @@ ET
 
 COMMANDER
 WRIGHT PATTERSON AIR FORCE BASE, OHIO
+ATTN:
+
+45
+
 
 - page 4 -
 
-There is no photograph present in this image. It appears to be a page from an old Project Blue Book report.
+Here is the text from the document:
 
-SAPOICC/Mrs. Cassel/bp/79079/5 Dec 66
+SAFCICC/Mrs. Cassel/bp/1907/6 Dec 66
 
-Dear Mr. [REDACTED],
+Dear Mr. [redacted]
 
-This replies to your letter of October 13, 1966 concerning the possibility of a satellite or other similar space debris observed to the north 550 west on a northerly heading. This object appears to have been visible from your area. 
+This replies to your letter of October 18, 1966 concerning the possibility of a satellite or other similar space debris being observed by yourself. At approximately 8:13 P.M., EST, ECHO II was at 40° North 96° West on a northerly heading. This satellite, with a stellar magnitude of approximately -1, would have been visible from your area.
 
-It is possible that you observed this particular satellite. However, without a more definitive identification, which you would provide by detailing the time, direction, and other characteristics in what direction did the object appear to be heading?
+It is possible that you observed this particular satellite. However, to make positive identification, would you please check the directions in which the object was travelling. Specifically, in what direction did the object appear to be heading?
 
 This additional information would be most helpful in making a final evaluation on your sighting. Thank you for reporting your observation to the Air Force.
 
@@ -78,33 +138,27 @@ Chief, Civil Branch
 Community Relations Division
 Office of Information
 
-Mr. [REDACTED]
+Mr. [redacted]
 Elkhorn, Kentucky 41522
 
-COORDINATED BY (Office Symbol, R.F. Grade, Initials)
-SAPIO- C.C.
-SAPOI- C.C.
-Comment by - SA-010
-Entered by - SA-010
-Reader C.C.
-Date/Time
+[Bottom of page contains administrative notation boxes which are partially illegible]
+
 
 - page 5 -
-
-There does not appear to be any photograph present in the provided image. The image shows a handwritten letter.
 
 Dept. of the Air Force
 Washington, D.C.
 
-Dear Sirs:
+Dear Sirs;
 
-On the occasion of my first letter of the 18th of October, I wrote once again while in reply to your request for further information on the 15th of October object of reference on the 15th of October.
+In response to your letter of the 10th of December '66 which answered my first letter of the 18th of Oct.'66, I write once again write in reply to your request for further information pertaining to the object I witnessed on the 15th of Oct.
 
-In your letter you asked me to check the direction of the object, when first sighted between 8 and 9 o'clock. I shall little attention to it, and have more or less observed the night sky. It took almost 15 or even 10 minutes to cross the sky and disappear. It was a steady glow, as a stated, and moved from the northwest to the southeast.
+In your letter, you asked me to check the direction of the object. When first spotted (between 10 and 20 after the hour of sight) it was in the southeast. At first I paid little attention to it thinking one of the stars but then I noticed it slowly and silently move past the surrounding stars. It took almost or at least 100 15 minutes to cross the sky and disappear into the north-west, as I stated in my first letter. It made no sound at all and looked like a star, only moving. There were no high winds to obstruct sound waves. That is all the information I have except that on the 20th of Oct.'66 I saw a similar object following almost the same direction.
 
-I feel following almost the same direction as the same direction as the one I saw on the evening of October 15. Thank you.
+Thank you, Sincerely, Then
 
-Sincerely yours,
+(Note: The top right of the document shows "Elkhorn, Wis." and the date "Dec. 13, 1966")
+
 
 - page 6 -
 

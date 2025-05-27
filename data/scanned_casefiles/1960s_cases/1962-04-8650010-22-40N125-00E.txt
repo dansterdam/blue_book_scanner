@@ -1,65 +1,98 @@
-The image does not contain any photographs. It appears to be a document from Project Blue Book, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs). The document is a "Project 10073 Record Card" that provides details about a UFO sighting.
+PROJECT 10073 RECORD CARD
 
-Text from the document:
+1. DATE
+7 Apr 62
 
-1. DATE: 7 Apr 52
-2. LOCATION: 25.410N 125.002
-3. DATE-TIME GROUP: 0715/0Z
-4. TYPE OF OBSERVATION: O Ground-Visual
-   O Ground-Radar
-   O Air-Visual
-   O Air-Intercept Radar
-5. DURATION: 5 min
-6. NUMBER OF OBJECTS: One
-7. LENGTH OF OBSERVATION: 5 min
-8. BRIEF SUMMARY OF SIGHTING: Object traveling NNE observed for 3 mins. Initial observation at 5 deg. elevation - object faded and disappeared. Reappeared 45 deg. elevation and gradually faded and disappeared again. Not picked up on Radar.
-9. CONCLUSIONS:
-   O Was Balloon
-   O Was Conventional Aircraft
-   O Seascape/Landscape
-   O Was Aircraft
-   O Astronomical
-   O Psychological
-   O Insufficient Data for Evaluation
-   Unknown
+2. LOCATION
+22.40N 125.00E
+
+3. DATE-TIME GROUP
+Lost 07/1730Z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+5 mins
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+044 Degrees
+
+10. BRIEF SUMMARY OF SIGHTING
+Obj traveling NNE observed for 5 mins initial observation at 005 deg true elev 10 degrees. Brightness of second magnitude star. Gradual fade & disappear/observation case is listed on heading of 044 deg elev 5 degrees. Not picked up on Radar.
+
+11. COMMENTS
+[No ECHO] data available, however elev 10 degrees. Bright illications point to a satellite in this category.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Was Astronomical
+☒ Probably Astronomical
+☐ Other____________
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. I will now proceed to act as an OCR system and produce the text found in the document:
+HAND MESSAGE                 UNCLASSIFIED                 NAVY DEPARTMENT
 
-UNCLASSIFIED NAVY DEPARTMENT
-PRIORITY IMMEDIATE DATE OF DISPATCH 9 APR 62
-TO: OFFICER IN CHARGE, NAVAL INTELLIGENCE PROCESSING
-CENTER AF
-TO: KICKAM AFB
-USAF PACS 
-CLARK AIFS
-COMMANDER APIE 
-INFO: COMPHISPAC
-COMPHISHIP&N-12 
-CINCPACFLT
-CG 7
+AF IN:  43412 (7 Apr 62)                K/m
+TO 070830Z
 
-UNCLAS 
-1. AT 0717302, LAT 22-45N LONG 125-00E AN OBJECT WAS SIGHTED
-TRAVELING IN NORTH NORTHEASTERLY DIRECTION. OBJECT WAS
-BRISKNESS OF SECOND MAGNITUDE STAR, VISIBLE BY GOOD VISIBILITY, 
-OBJECT DID NOT PICK UP SPEED AND GRADUALLY FADED. OBJECT 
-WAS TRACKED FOR 2 MINUTES. GRA DUALLY INCREASED BRIGHTNESS 
-FADED AND REAPPEARED SEVERAL TIMES AT AN ALTITUDE 
-OF 3-5 DEGREES.
+FM USS NOBLE
 
-AP NOTE: Advance copy to COF-CP and CIN.
+TO HICKAM AFB                           AF DIST: OOP-2, OOP-CP-1, CIN-14, SAFS-3
+USAF PAC                                (20)
+CLARK AFB
+COMNAVPHIL
+COMSEVENFLT
 
-- 33/92 (SECNAV)... COG
-- (SECNAV) UNSECNAV OO O9 O93 O3 31 32 34 05 06 60 07 94(43) IP
-- REGARD CG MRCC DIRISA NAVAIDE FLAGPLOT BFR JUS (J2) HIC CSAF
+INFO COMPHBPAC
+COMPHBRON ONE
+COMPCPFLT
+CTF 76
+CNO
 
-ADY COPIES DLVD
-CONTROL NO. CIRCUIT NO. PAGE PF PAGES TIME OF RECEIPT DATE TIME GROUP
-93469/A/D  E177 1 1  210ZXPU APR 07O332Z APR 62
+UNCLAS
+
+1. AT 071730Z, LAT 22-40N LONG 125-00E AN OBJECT WAS SIGHTED
+AT AN ELEVATION OF 10 DEGREES BEARING 005 DEGREES TRUE,
+TRAVELING IN NORTH NORTH EASTERLY DIRECT DIRECTION, OBJECT HAD
+BRIGHTNESS OF SECOND MAGNITUDE STAR, VISIBLE 5 MINUTES.
+OBJECT WAS NOT PICKED UP ON RADAR. OBSERVED BY OOD, JOOD,
+AND BRIDGE WATCH PERSONNEL. OBJECTS BRIGHTNESS GRADUALLY
+FADED AND DISAPPEARED BEARING 044 DEGREES TRUE AT AN ALTITUDE
+OF 5 DEGREES.
+
+AF NOTE: Advance copy to OOP-CP and CIN.
+
+-53/92 (SECNAV)........COG
+(SECNAV) UNSECNAV 00 00 093 03 31 32 34 05 05 60 07 94(A) IP
+-COGARD CIA WROC DIRNSA NAVAIDE FLAGPLOT BFR JCS(J2) MIC CSAF
+
+ADV COPIES BLVD
+CONTROL NO.                 CIRCUIT NO.        PAGE    OF PAGES    TIME OF RECEIPT    DATE TIME GROUP
+53464/JR/1/3    B177        1                  2110ZKPU APR        070830Z APR 62
 
 UNCLASSIFIED
+
 
 - page 2 -
 

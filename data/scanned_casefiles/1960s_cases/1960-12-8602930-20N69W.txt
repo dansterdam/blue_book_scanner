@@ -1,50 +1,89 @@
-The image provided does not contain a photograph. It appears to be a page from a Project Blue Book record card, which is a form used to document UFO sightings and observations.
+PROJECT 10073 RECORD CARD
 
-PROJECT 10973 RECORD CARD
-1. DATE: 6 DEC 60
-2. LOCATION: 60m S of Avon
-3. TYPE-TIME GROUP: Usual
-4. DURATION: 5 min.
-5. TYPE OF OBSERVATION: [X] Ground-Visual
-[ ] Air-Visual
-[ ] Air-Intercept Radar
-6. SIGHTINGS: Silvery, round, stationary object
-7. LENGTH OF OBSERVATION: 5 min.
-8. BRIEF SUMMARY OF SIGHTING: Bright white light, bearing 210° W, stationary, occasional flash. Bearing 212° W, stationary.
-9. CONCLUSION: 13. COMMENTS: Insufficient data included for evaluation.
+1. DATE
+6 Dec 60
+
+2. LOCATION
+20N 69W
+
+3. DATE-TIME GROUP
+Local
+CHT: 07/03/62
+
+4. TYPE OF OBSERVATION
+☑ Ground-Visual     □ Ground-Radar
+□ Air-Visual       □ Air-Intercept Radar
+
+5. PHOTOS
+CYes
+□ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+not given
+
+8. NUMBER OF OBJECTS
+one
+
+9. BRIEF SUMMARY OF SIGHTING
+Circ. report of bright flash. Bearing 245°N
+from report location.
+
+10. COMMENTS
+Insufficient data included for evaluation.
+
+11. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other:
+□ Insufficient Data for Evaluation
+□ Unknown
+
+AZIO FORM 329 (REV 25 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in the image. The image appears to be a scanned document from Project Blue Book, containing text describing an unidentified aerial phenomenon.
-
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE DIVISION
+
 INCOMING
 
-AF IN : 32301 (7 Dec 60) PR/apc
-ACTION : GJN-14
+AF IN : 12501 (7 Dec 60) PE/apc
+ACTION: CIN-14
+INFO : ARMY-30, NAVY-90, JCS-28, CMC-6, OSD-15, NSA-7, CIA-11, OOP-3,
+        OOP-QP-1, SAFS-3 (209)
+SMD C 688
+ZCHOD543ZC8JA123
+OO RJEZHO
+DE R8EJC 59
+ZNR
+O 270546Z
+FM ADMINO COMCARIBSEAFRON
+TO RJNFALD/CINCNORAD
+RJEZHO/GOFF USAF
+R8E PJ/CNO
+R8EKHC/CINCLANTFLT
+NAVY GRNC
+BT
+UNCLAS. CIRVIS REPORT RIDDLE ACFT 342 BRIGHT FLASH BEARING 245
+DEGREES TRUE FROM POSIT 20N 69W DISTANCE UNKNOWN @34SZ HIGH
+ALTITUDE 20 DEGREES ABOVE HORIZON
+BT
+CFN 342 245 20N 69W @34SZ 20
+3/V@245Z
+NOTE: Advance copies delivered to CIN and OOP-CP
 
-INFO : ARMY-30, NAVY-90, JOSS-8, CMC-6, OSD-15, NSA-7, CIA-11, DOP-3
+[Handwritten note at bottom: "INSUFFICIENT DATA"]
 
-STO C 388
-ECWQSD43235AF29 
-00 R 122416
-DE R3FGJ 38
-ZNY
-O 972346Z
-FM ADJUNCTION SEARCHARRON 
-TO RJJRALA/SINGLNORAD
-REJZHY/COPS USAF
-R35FP/OND  
-R3EKHG/INCLANTFLT
-NAVY ONLY
-3T
-UNGLAS. CIRVIS REPORT RIDDLE ACFT SAW BRIGHT FLASH BEARS 24X
-DEGREES TRUE FROM POINT 234 GYW DISTANCE UNKNOWN 63,000 FEET
-ALTITUDE 28 DEGREES ABOVE HORIZON
-AT
-CFM 269 244 999 8944 80
-HOUR: Advance copies delivered to CIA and DOP-3.
 
 - page 2 -
 

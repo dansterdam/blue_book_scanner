@@ -1,67 +1,108 @@
-The image does not contain a photograph, only a form filled out with text. As an OCR (Optical Character Recognition) system, I will extract and output all the text found in the document:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
-2 May 61
+5 May 61
+
 2. LOCATION
-16°52' S 171°30'W (SAMOA)
+16953     171308 (SAMOA)
+
 3. DATE-TIME GROUP
-2 May 61 - 1945 Z
+Local    1846
+GMT      050462
+
 4. TYPE OF OBSERVATION
- Ground-Radar
- Air-Interceptor Radar
- Military Visual
- Other
+☐ Ground-Visual    ☐ Ground-Radar
+☐ Air-Visual       ☐ Air-Intercept Radar
+
 5. PHOTOS
- Yes
- No
+☐ Yes
+☐ No
+
 6. SOURCE
 Military
+
 7. LENGTH OF OBSERVATION
-2-3 minutes
+19 min
+
 8. NUMBER OF OBJECTS
 1
+
 9. COURSE
-Steady
-10. BRIEF SUMMARY OF SIGHTING Bright white obj with tail, object was low to horizon and moving at high speed, seeming accelerate and decelerate. After 2-3 minutes, object disappeared over horizon.
-11. COMMENTS Space track paper shows no satellites in find at time of sighting. The light could have been a meteor, but the steady course and deceleration/acceleration rule out this possibility. It is feasible that this was an aircraft, but the number of military and civilian air traffic over Pacific Ocean at time is not feasible.
+
+10. BRIEF SUMMARY OF SIGHTING
+Bright white obj. with blue green cast to left and behind position. Obj. high sighted bearing 202 altitude 35°.
+
+11. COMMENTS
+Space track reports that there was no satellites in this area at time. Info reported is initial in nature predicting a valid conclusion. It is possible that the light could have been an anti-collision light on an a/c, however due to large number of military run civilian a/c flying over Pacific Ocean a further investigation is not feasible.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
 
 - page 1 -
 
-There does not appear to be a photograph present in this document. However, the text of the document has been captured and is as follows:
+CZGCGA22SZCZYA77!
 
-CZCEGRA23SZCYATT1
-SUEOES
-DE ROSZEK 34
+PF RJEGEA
+DE RJEZHO 324
 ZNR
-P 071545Z
-FM HAUSAF WASHDC
+P 871845Z
+FM HQUSAF WASHDC
 TO ATIC WPAFB OHIO
 ZNR
-P 071545Z
-FM COMMANDING AFRON OCC
-TO SUPUINCOM INSPECTOGENAR APC WHELLER AND INFE /MOP EXTINCTION AOD ATF GOLO
-MJEZIR3/CONCESUAY WASHDC
-RSEP/ONG
-RSEP/VACEAV
-RUMPF/CISCHUEPAAC
-RJAPA/CISCHARG
-MJIPA/GFAOAS
-RJHPEK/ACAP BASECOM HICKAM
-TSHP/COMNAVESAFRON
-S S VONFENQISEC CNAC GCV S 244SSRT
+P 86124Z
+FM COMNAVSEAFRON OCC
+TO RJIPKW/COMD HAWAIRESFLDIV WHEELER AFB
+INFO RJEPW/CXCMCHORAD ENT AFB COLO
+RJEZHO/COFSUGAR WASHDC
+RDPFW/CNO
+RDPFW/CINOAV
+RJHPFW/CIGUSCARAC
+RDPW/CINOPAC
+RJHPKW/ACAF
+RJHPKW/ACAF BASECOM HICKAM
+RJHPW/COMNAVSEAFRON
+SS VENTURA/AKRON CINC GOV & 3845GRIT
 DT
-HERINT TO COMMANDING HONOLULU
-23 VONNUMARANUNG SIGHTED -RIGHT WHITE OBJECT WITH BLUE GREEN C.4
-TO LEFT AND BEHIND POSITION 16.35S 171.35W EST 9044GT SIXTH X
-OBJECT HIGH SIGHTED BEARING 252 ALTITUDE 25 DEGS IN PROCESS SEL
+RELMGT TO COMNAVSEAFRON HONOLULU
+
+SS VENTURA/AKRON SIGHTED BRIGHT WHITE OBJECT WITH BLUE GREEN CAST
+TO LEFT AND BEHIND POSITION 16.55 17N53W EST 5846NGT SIXTH X
+OBJECT HIGH SIGHTED BEARING 292 ALTITUDE 35 DEGS IN OREGONS BELT
+
+TELEPHONED
+TO
+NO.
+TIME
+BY:
+
+1961 MAY 7
+
+3
+
+19 22
+
 
 - page 2 -
 
-The image does not contain any visible photograph. It appears to be a page from an old UFO report document, specifically from Project Blue Book.
+Here is the text from the document:
 
-AIRFORCE CASE CLOSED CHEYON NAS DESCRIBED AS 7PERSON OBJECT AT 15 DEGG ALTITUDE SAME BRIGHTNESS AS LIGHTER X WIND SSE 2 MP VT
-27/1352Z MAR 55229
+PASSED CLOSE UNDER CLOUDS AND DISAPPEARED AT 15000 CHUCK UNDER
+AT 15 DEGS ALTITUDE SAME BRIGHTNESS AS RIGER X WIND SWE 2 VIS CLEAR
+DT
+27/1638Z MAR RJEZ10
+
 
 - page 3 -
 

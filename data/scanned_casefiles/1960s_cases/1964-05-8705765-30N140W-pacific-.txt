@@ -1,46 +1,98 @@
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
+PROJECT 1073 RECORD CARD
 
-PROJECT 10073 RECORD CARD
-1. DATE: 17 May 64
-3. DATE-TIME GROUP: 1800/4552 GMT
-7. LENGTH OF OBSERVATION: 5 minute plus
-10. BRIEF SUMMARY OF SIGHTING: INITIAL REPORT OF SATELITE LIKE OBSERVATION. INITIAL REPORT OF OBJECT AT 45 DEG ELEVATION 252 AZIMUTH, FADING AT 50 DEG ELEVATION 010 AZIMUTH AFTER 5 MINUTE FLIGHT.
-11. COMMENTS: REPORT OF SATELITE OBSERVATION.
+1. DATE
+17 May 64
+
+2. LOCATION
+30N 140W (pacific)
+
+3. DATE-TIME GROUP
+Local 18/0445g
+GMT 18/04:45g
+
+4. TYPE OF OBSERVATION
+☒Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+MERINT
+
+7. LENGTH OF OBSERVATION
+5 minute plus
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+NE
+
+10. BRIEF SUMMARY OF SIGHTING
+MERINT report of Satellite observation.
+Initial report of object at 45 deg elevation
+252 azimuth, fading at 50 deg elevation
+010 azimuth after 5 minute flight.
+
+11. COMMENTS
+Report of Satellite observation.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other: Satellite
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. It appears to be a scanned document containing a typed military message.
+INCOMING
+MESSAGE
 
-INCOMING MESSAGE
-DEPARTMENT OF THE AIR FORCE 
+DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
+
 UNCLASSIFIED
 
-AF IN: 43146 (18 MAY 64) L/RTR
+AF IN: 43146 (18 May 64) L/rff
 ACTION: NIN-7
-INFO : DIA-15, XOP-1, XOPX-4, SAF-OS-3, ARMY-2, NAVY-2, CMC-8, JCS-35, NSA-7, OSD-15 (100)
-SMB A01T7
+INFO : DIA-15, XOP-1, XOPX-4, SAF-OS-3, ARMY-2, NAVY-2, CMC-8,
+        JCS-35, NSA-7, OSD-15 (100)
+        SMB A017
+
 ZCZCHQA944ZCQJA572
-OO RUEAHQ
+00 RUEAHQ
 DE RUWSJ 232 18/0535Z
 ZNR
-O 180519Z 
+O 180510Z
 FM OSV NOVEMBER
 TO ZEN/COMWESTAREA
 RUWSPG/CTF 31
 RUWSPG/COMWESTSEAFRON
-RUWGAL/CINCNORAD
-RUEAHO/CSAF USAF
+RUWGALB/CINCNORAD
+RUEAHQ/CSAF USAF
 RUHPDCOMASWFORPAC
-RCOSC/CANAIRBCP
-RCWNM/CANCOMARPAC
+RCCSC/CANAIRDEF
+RCWNMM/CANCOMARPAC
 BT
 UNCLAU
-MERINT NRUU SATELLITE SON 140W 130445Z ALT 45HCEG 252T. 130452Z
-ALT 50 DEG 0IOT.
-BT
-NOTE: Adv copy to XOPX, NIN, DIA
-XMITD TO CIA
+MERINT NRUU SATELLITE 30N 140W 130445Z ALT 45HDG 232T. 130450Z
+ALT 50 DEG 010T.
+BT NOTE: Adv copy to XOPX, NIN, DIA
+        XMITT to CIA
+
 
 - page 2 -
 

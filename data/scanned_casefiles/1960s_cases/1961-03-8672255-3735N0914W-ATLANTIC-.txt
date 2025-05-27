@@ -1,51 +1,85 @@
-There is no photograph present in this image. The image appears to be a Project 10073 Record Card from Project Blue Book, containing various information fields about a reported UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 15 Mar 61
-2. LOCATION: La Cala (Atlantic)
-3. WITNESSES:
-    a. Military
-    b. Ground-Visual
-    c. Air-Visual Radar
-4. PHOTOS: 0 Yes
-5. LENGTH OF OBSERVATION: 8 mins
-6. NUMBER OF OBJECTS: 1
-7. COURSE: Radar blip showed an object traveled in a straight line at approximately 1700 knots, slightly higher and 2 or 3 times the speed of a fighter aircraft. Magnitude 1.7 at 19:42z, altitudde approximately 60,000 feet, bearing 045 degrees, travelling in a south southwest direction. Disappeared below horizon at 19:46:00z. Visual observation of object was not possible.
 
-TEXT EXTRACTED FROM DOCUMENT:
+1. DATE
+15 Mar 61
 
-PROJECT 10073 RECORD CARD
-1. DATE: 15 Mar 61
-2. LOCATION: La Cala (Atlantic)
-3. WITNESSES:
-    a. Military 
-    b. Ground-Visual
-    c. Air-Visual Radar
-4. PHOTOS: 0 Yes
-5. LENGTH OF OBSERVATION: 8 mins 
-6. NUMBER OF OBJECTS: 1
-7. COURSE: Radar blip showed an object traveled in a straight line at approximately 1700 knots, slightly higher and 2 or 3 times the speed of a fighter aircraft. Magnitude 1.7 at 19:42z, altitudde approximately 60,000 feet, bearing 045 degrees, travelling in a south southwest direction. Disappeared below horizon at 19:46:00z. Visual observation of object was not possible.
+2. LOCATION
+3735N 0914W (ATLANTIC)
+
+3. DATE-TIME GROUP
+Local: 2012
+GMT: 1510422
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+13 min
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+-
+
+10. BRIEF SUMMARY OF SIGHTING
+Magnitude 1.7 at 1942½, altitude 27° bearing 263°. At 1948½ passes 45 mins below Rigel. At 1952 passes 09° below Sirius, at 1952 disappears at altitude 12°, bearing 161°.
+
+11. COMMENTS
+If brightness of obj was a minus (-)magnitude, it is possible that obj was satellite Echo I. However, report lacks magnitude. Therefore, whether the reported magnitude was minus (-) or plus (+), a valid conclusion cannot be reached.
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+
+ATIC FORM 329 (REV 26 SEP 57)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document, likely an incident report.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
 
 INCOMING
-AF IN : 47948 (15 Mar 61) PROJ INFO : CTI-14, OOP-2, OOP-3, SAPS-3 (21) 
-SMD B258
-BCZCHOA188ZCBJAG16V
-OO RUZHQ
-DE RBEKH 074
-GVZNR 
-I 52228Z
-FM CINCLANFLTT
-INFO COPS USAF
 
-Y 152128Z ZFH2
-MERIT USNS CARD BT
-AIRBORNE OBJECT LAT 37.35N 9.14W 151942Z ALT HIGH 169 DEGS UNKNOWN
-SEA SMOOTH BARO 30.18 MAGNITUDE 1.7 151942Z ALT 27 DEGS BEARING 253 DEGS. 151942Z PASSED 45 MINS BELOW RIGEL. 151952Z PASSED 33 DEGS BELOW SIRIUS. 151955Z DISAPPEARED AT ALT 12 DEGS BEARING 161 DEGS BT
-15/2132Z
+AF IN : 47948 (15 Mar 61) PR/cgd
+INFO : CIN-14, OOP-2, OOP-CP-1, SAPS-3 (21)
+SMD B258
+BCZHQA18QZCBJAS16V
+OO RJEZHO
+DE RBEKHC 074
+OVZNR
+O 1522282
+FM CINCLANTFLT
+INFO COFS USAF
+
+Y 15212BZ ZFH2
+MERIT USNS CARD
+BT
+AIRBORNE OBJECT LAT 37.35N 9.14W 151942Z ALT HIGH 150 DEGS UNKNOWN
+SEA SMOOTH BARO 30.18 MAGNITUDE 1.7 151942Z ALT 27 DEGS
+BEARING 263 DEGS, 151948Z PASSED 45 MINS BELOW RIGEL, 151952Z PASSED
+03 DEGS BELOW SIRIUS. 151955Z DISAPPEARED AT ALT 12 DEGS BEARING 161
+DEGS
+BT
+15/2130Z
+
 
 - page 2 -
 

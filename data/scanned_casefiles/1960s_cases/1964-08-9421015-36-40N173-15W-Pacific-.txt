@@ -1,94 +1,94 @@
-The image does not contain any photographs. It appears to be a page from a document or report, likely related to Project Blue Book, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs).
+Here is the text I can read from the document:
 
-TEXT OUTPUT:
+1. DATE - TIME GROUP [mostly blank]
+2. LOCATION [mostly blank]
+3. SOURCE [mostly blank]
+4. NUMBER OF OBJECTS [blank]
+5. LENGTH OF OBSERVATION [blank]
+6. TYPE OF OBSERVATION [blank]
+7. COURSE [blank]
+8. PHOTOS
+   ☐ Yes
+   ☐ No
+9. PHYSICAL EVIDENCE
+   ☐ Yes
+   ☐ No
 
-DATE-TIME GROUP
-LOCATION
-SOURCE
-CONCLUSION
-HUMANS OR OBJECTS
-LENGTH OF OBSERVATION 
-TYPE OF OBSERVATION
-COURSE
-PHOTOS
-PHYSICAL EVIDENCE
-FID SYS. 4-329 (TDE) Previous editions of this form may be used.
+10. CONCLUSION [partially visible text appears to say "(circle 1)"]
+11. BRIEF SUMMARY AND ANALYSIS [some text is visible but not fully legible]
+
+At the bottom of the form:
+FORM
+FTD SEA 0-0329 (TDE)
+Previous editions of this form may be used.
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a page from an old UFO report document from Project Blue Book.
-
 INCOMING MESSAGE
-TO: 33965 (2 AUG 64) X/KG
-INFO 5 : AFRO-77 T-25 AFSC-3, AFCS-3, JCS-35
-SUBJ CODE: 
-LKXA 73 TKA955
-BR RICHARD RUEGC
-DE RUHLKH Z 15/193Z
-SIG R 051522
-FTD SZRA1NDI KAMA FACILITY HA
-9 RUHLKH/PACAF
-INTN/CDSRA/SEAPRON
-INPO RUEAN/CSAF
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED
+
+AF TN: 38966 (2 Aug 64) X/nk
+INFO: NIN-7, XOP-1, XOPK-5, ARMY-2, SAFOS-3, GMC-9, JCS-35, OSD-15, NSA-7, DIA-15 (100)
+
+LXA73 7KHA 833
+RR RUEAHG RUWGALB RUECW
+DE RUMLKH 2 15/1532
+ZNR
+R 021532Z
+FO 326A IRDIV KUNIA FACILITY HA
+O RUMLKH/PACAF
+RUMPINH/COMRA SEAPRON
+INFO RUEAHG/CSAF
 RUECW/CNO
-RUECW/COMUSMAG
-RUGGASJS/CINCORAD 
-RUUSHG/CINCP AC
-RUHLLH/GINCPACFLF
-RUHAUA/CC USAFJAPAN
-RUHGWCOMUKFOR
-RUHPL/COMUSAUSTC
-RUEBBR/CINCSAG
+RUECW/SECNAV
+RUWGALB/CINCNORAD
+RUWLHQ/CINCPAC
+RUWLHS/CINCUSARPAC
+RUWLHL/CINCPACFLI
+RUAAZ/COMUSJAPAN
+RUAMG/COMUKKOREA
+RUAGFL/COMUSTDC
+RUCSBR/CINCSAC
+BT
+UNCLAS 326TH DO-CO 01
 
-UNCLASS 3236TH DO-GO GINO
+[The document contains several columns of numbers/data which are partially illegible due to image quality]
 
-Text Extracted from Document:
+Pg 1 of 2
 
-AT TTC: 33965 (2 AUG 64) X/KG
-INFO S : AFPO-77 T-25 AFSC-3, AFCS-3, JCS-35
-SUBJ CODE:
-LKXA 73 TKA955
-BR RICHARD RUEGC 
-DE RUHLKH Z 15/193Z
-SIG R 051522
-FTD SZRA1NDI KAMA FACILITY HA
-9 RUHLKH/PACAF
-INTN/CDSRA/SEAPRON
-INPO RUEAN/CSAF
-RUECW/CNO
-RUECW/COMUSMAG
-RUGGASJS/CINCORAD
-RUUSHG/CINCP AC
-RUHLLH/GINCPACFLF
-RUHAUA/CC USAFJAPAN
-RUHGWCOMUKFOR
-RUHPL/COMUSAUSTC
-RUEBBR/CINCSAG
-
-UNCLASS 3236TH DO-GO GINO
 
 - page 2 -
 
-The image appears to be a page from an old UFO report document, specifically from Project Blue Book. The image does not contain any photographs, only text.
-
-INCOMING 
+INCOMING
 MESSAGE
 
-AP IN 38966 (2 AUG 64) 
-1. CIRUS 
-2. CASIS
-3. POSSIBLE 
-SATELLITE
-4. 35-40N 
-175-15W
-5. 02/1422Z
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED
+
+AN NO: 38966 (2 Aug 64)                                   PG 2 of 2
+
+1. CIRVIS
+2. N43135
+3. POSSIBLE
+   SATELLITE
+4. 36-42N
+   173-15W
+5. 02/1420Z
 6. UNK
 7. EAST
 8. UNK
 9. BRIGHTNESS
+
 FIRST MAGSTAR
 10. NO EVALUATION
+
 BT
+
 
 - page 3 -
 

@@ -1,44 +1,93 @@
-There is no photograph present in this image. The image shows a Project 10073 record card with various information about the sighting, including the date, time, location, type of observation, source, number of objects, course, and conclusions. The information provided does not mention or describe any photograph.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 18 Aug 61
-2. DATE-TIME GROUP: 1630Z
-3. PHOTOS: Yes
-4. LENGTH OF OBSERVATION: 5 min
-5. LOCATION: 24-53N 150-22W (PACIFIC)
-6. TYPE OF OBSERVATION: a. Ground-Radar b. Airborne-Radar c. Airinterceptor Radar
-7. SOURCE: Civilian
-8. NUMBER OF OBJECTS: 1
-9. COURSE: Rapid
-10. CONCLUSIONS: Data on missile schedule not available for this location. No info concerning visual or radar contact. No indication this is related to a missile from this location.
+
+1. DATE
+18 Aug 61
+
+2. LOCATION
+24.53N 150.22W (PACIFIC)
+
+3. DATE-TIME GROUP
+Local
+GMT 18/1600Z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual
+☐ Air-Visual
+Source: Civilian
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. LENGTH OF OBSERVATION
+5 min
+
+7. NUMBER OF OBJECTS
+1
+
+8. COURSE
+S
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☒ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other: Prop. Missile
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+9. BRIEF SUMMARY OF SIGHTING
+Vapor trail fm horizon to horizon. Probable missile. Low altitude vapor trail moved Southerly over vessel and spread rapidly.
+
+10. COMMENTS/DESCRIPTION
+Observation. Location in path of expected down range flight in Vandenberg. Launch schedule not available. In this location. No info conflicting with analysis as probable missile.
+
+ATIC FORM 329 (REV 26 SEP 59)
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a document or report from the Department of the Air Force, specifically the Staff Message Branch. The text in the document describes a "vapor trail from E. horizon to W. horizon. Probable missile. Altitude low. Vapor trail moved southerly over vessel and speeding rapidly. Reported by SS Lurline. Position 2453N15922W at 18/1639Z. Heading 240 degrees. Sea calm at 18/1633Z."
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
 
-The text output from the document is as follows:
+AF IN: 28559 (18 Aug 61)                                                R/soc
 
-AP IN : 28559 (18 Aug 61)
-INFO : CIN-17, ARMY-2, NAVY-2, CINCAFE-2, COC-3, CMDR MATS GOR D-15, NSA-7. 
-CIN-11, OOP-2, OOP-OP-1, APPS 2, GAFB-2.
+INFO: CIN-17, ARMY-2, NAVY-2, CMC-9, JCS-35, OSD-15, NSA-7,
+       CIA-11, OOP-2, OOP-CP-1, SAFS-3 (10)
 
-FR RJHPKH 21
-
-TO HAWAIIAN DEFENCE DIV KUNTR HAWAII
-RHKPO/COMHAWSEAFRON PEARL HARBOR HAWAII
-RHKPG/INCPAC CAMP H M SMITH HAWAII
+DE RJHPKH 21
+ZNR
+O 181715Z
+FM HAW AIR DEF DIV KUNTA HAWAII
+TO RJHPKW/COMHAWSEAFRON HICKAM AFB HAWAII
+RSHPG/COMHAWSEAFRON PEARL HARBOR HAWAII
+INFO RJEZHO/COGS USAF WASHINGTON D C
+RJWPALB/CINCNORAD ENT AFB COLO
+RSHPPA/CINCPAC CAMP H M SMITH HAWAII
+RUHPPS/CINCUSARPAC
+RSHPBC/CINCPACPILI
 RJAPAZ/COMUSJAPAN FUCHU AS JAPAN
-RUAPCB/COMUSKOREA SEOUL KOREA
-RHMFMM/COMFWDAREA TAIWAN
-RBBPHH/COMHAWSEAFRON OCC
+RUAMCR/COMUSKORED SEOUL KOREA
+RUAGFL/COMUSSGTDC TAIPEI TAIWAN
+RBHPHH/COMMHAWSEAFRON OCC
+AF GRNC
+BT
+U N C L A S S MERINT:
 
-UNCLAS MERINT:
-VAPOR TRAIL FROM E. HORIZON TO W. HORIZON.  PROBABLE MISSILE.
-ALTITUDE LOW. VAPOR TRAIL MOVED SOUTHERLY OVER VESSEL AND 
-SPEEDING RAPIDLY. REPORTED BY SS LURLINE.  POSITION 2453N15922W
-AT 18/1639Z. HEADING 240 DEGREES. SEA CALM AT 18/1633Z.
+VAPOR TRAIL FROM E. HORIZON TO W. HORIZON. PROBABLE MISSILE.
+ALTITUDE LOW. VAPOR TRAIL MOVED SOUTHERLY OVER VESSEL AND
+SPREADING RAPIDLY. REPORTED BY SS LURLINE. POSITION 2453N15022W
+AT 18/1500. HEADING 240 DEGREES. SEA CALM AT 18/1635Z.
+BT
 
-NOTE:  Advance copy delivered to OOP-OP 181415L Aug 61
+NOTE: Advance copy delivered to OOP-CP 181415L Aug 61
+
 
 - page 2 -
 

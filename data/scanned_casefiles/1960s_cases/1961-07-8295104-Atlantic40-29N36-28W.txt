@@ -1,93 +1,150 @@
-The image does not contain any photographs. It appears to be a Project 10073 Record Card from Project Blue Book, which was a systematic study of unidentified flying objects (UFOs) conducted by the United States Air Force from 1952 to 1969.
-
-The text visible in the image is as follows:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
+22 Jul 61
+
 2. LOCATION
+Atlantic  40.24N  36.08W
+
 3. DATE-TIME GROUP
-4. TYPE OF OBSERVATION 
-Ground-Visual
+Local    23/0500
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual    ☐ Air-Visual
+☒ Air-Visual       ☐ Air-Intercept Radar
+
 5. PHOTOS
-Yes
-6. LENGTH OF OBSERVATION 
-5 MINS
+☐ Yes   ☒ No
+
+6. SOURCE
+Military
+
 7. LENGTH OF OBSERVATION
-10-15 MINS
+15 mins
+
 8. NUMBER OF OBJECTS
 1
+
 9. COURSE
-WES-E-N
+130°
+
 10. BRIEF SUMMARY OF SIGHTING
-Object observed moving erratically, very bright, possibly a balloon
+Faint light sighted and brightness of 2nd mag star. Faint glow observed over horizon on course of 130°.
+
 11. COMMENTS
-Object observed at a distance, moving erratically, hazy at times, appeared to be quite large and very bright. It was not possible to ascertain the exact nature of the object due to the distance. It could have been a balloon, but the movements were not consistent with those of a balloon. No sound was heard and no other phenomena were observed in connection with this sighting.
+Sighting in orbit. Duration of sighting, appearance and direction of flight are consistent with space tracking.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other: Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from an old document or report, possibly related to Project Blue Book, a U.S. Air Force investigation of unidentified flying objects (UFOs).
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
 
-AP IN : 8330 (29 JUL 61)
-ACTION: GIN-17
-INFO : OOP-2, SAFS-3, (23)
-CZ 995
-CHOC2883CBJS803
-YZZ RJEZHQ
-DE REBPAG 029
+AF IN : 8380   (29 Jul 61) C OH/CWP N G
+ACTION: CIN-17
+INFO : OOP-2, SAFS-3,         (23)
+CZ 096
+CHQ2@3ZCBJ8G03
+'''''ZZ RJEZHO
+DE RBEPAC 039
 ZNR
-Z 2995432
-FM COMORGENTIAG
-TO REEKNG/CINCLANSTFLT
-RJWFALB VINCONAG
-RJESZN/5TH NORAD REGN
-RJEZHO/HQ USAF
-RBEFW/CNG
-CDEGUK/COMEASTSEAFRON
-HNFG RS 77/COMBALANT
-NAVY GRN
+Z 29054Z
+FM COMBAARCENTAG
+TO RBEKHC/CINCLANTFLT
+RJWFALB/VINCONAD
+RJEZSN/16TH NORAD RZGION
+RJEZHQ/HQ USAF
+RBEPW/CNG
+CBEGUK/COMEASTSEAFRON
+INFO RS,D)/COMBARLANT
+NAVY GRNC
 BT
-UNCLAS.
+UNCLAE.
+
 ALLOCATING ONE - UFO
-1. SINGLE UFO 08
-2. 4022N 3623W
-3. 2995002
+1. SINGLE UF OB
+2. 4029N 3623W
+3. 29050Z
 4. 110 DEG
-5. 1 VISUAL
-6. LOST CONTACT 401-N 3433W15152
-BT NOTE: Advance copy delivered to CIN & OOP-CP (290225R)
+5. VISUAL
+6. LOST CONTACT 401-N 343SWL0515Z
+BT NOTE: Advance copy delivered to CIN & OOP-CP  (290225R)
+
 
 - page 2 -
 
-There does not appear to be any photograph present in this image. The image appears to be a page from an old UFO report document from Project Blue Book, containing text describing a UFO sighting.
+DEPARTMENT OF THE AIR FORCE
+STATE INTELLIGENCE BRANCH
 
 INCOMING
-AF IN: 9722 (23 JUL 61) A/JJB
+
+AF IN: 8722 (29 Jul 61) A/jms
+
 ACTION: CIN-17
-SUBJECT: UFARS-3, COP-2, COP-CP-1 (24)
-OZCHG:35SZGJA97.3
+
+SWBING: f5§AFS-3, OOP-2, OOP-CP-1 (24)
+
+OZCHQG35§ZQZJA§73
+
 PP RJEZHO
-DE RECPAC 115
+
+DE RBEPAC 115
+
 ZNR
-P 2931172
-PRNOMBARARGENTIA
-TO RBEKKG/CINCLATFLLT
-R.JVFALB/CINCNORAD
-RJEZHO-10 USAF
-RJEZRN/26TH NORAD REGION
-RBFP/CNO
-BECGUK/COMEASTSEAFRON
-INFO RJD/ALL/COMBALANT
+
+P 2913172
+
+PWNCOMBAR ARGENT IA
+
+TO REKHC/CINCLANTFLT
+
+RJWFALB/CINCORAD
+
+RJEZHO/HQ USAF
+
+RJEZSNZ6TH NORAD REGION
+
+RBEPW/CNO
+
+RBEGWK/COMEASTSEAFRON
+
+INFO RJDIBL/COMBARLANT
+
 NAVY GRNC
-BT
+
+DI
+
 UNCLAS
+
 LOCATING ONE UFO AMPLIFYING
-A. MY 230545Z
-1. SINGLE BRIGHT LIGHT SIZE AND BRIGHTNESS OF 2ND MAGNITUDE STAR.N
-2. 30 DEGREES ELEVATION ON FAME GUS AS AIRCRAFT 130 DEGREES N. FLT
-LEVEL 7.5K. PASSED OVERHEAD AND DISAPPEARED APPROX 2 DEGREES ABOVE
+
+A. MY 290543Z
+
+1. SINGLE BRIGHT LIGH SIZE AND BRIGHTNESS OF 2ND MAGNITUDE STAR.N
+
+2. 90 DEGREES ELEVATION ON FAME CUS AS AIRCRAFT 130 DEGREES M. FLT
+LEVEL 7.5. PASSED OVERHEAD AND DISAPPEARED APPROX 2 DEGREES ABOVE
 HORIZON.
-3. VISUAL, REPORT AND TIME IN REF A. SIGHTING AT NIGHT IN CAVK CONDITIONS.
-BT
+
+3. VISUAL,NPOSIT AND TIME IN REF A. SIGHTING AT NIGHT IN CAVK CONDITIONS.
+
+ET
+
 
 - page 3 -
 

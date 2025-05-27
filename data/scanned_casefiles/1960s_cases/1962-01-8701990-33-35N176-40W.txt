@@ -1,94 +1,117 @@
-The image does not contain a photograph. It appears to be a Project 10073 record card from the U.S. military.
+MILITARY PROJECT 10073 RECORD CARD
 
-MILITARY
 1. DATE
 8 Jan 62
+
+2. LOCATION
+33-35N 176-40W
+
 3. DATE-TIME GROUP
-Level 0813502
+Local: 08/1540Z
+GMT: 08/1540Z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Radar
+☐ Ground-Visual
+☐ Air-Visual
+☐ Air-Intercept Radar
+
 5. PHOTOS
-O Yes
-O No
+☐ Yes
+☒ No
+
+6. SOURCE
+Military
+
 7. LENGTH OF OBSERVATION
 Not given
-10. BRIEF SUMMARY OF SIGHTING
-Object size and position: Disc-shaped, estimated size of planet. Dis- appeared over horizon to west-orbit. Visibility conditions at time of sighting: Average during daylight hours.
 
-PROJECT 10073 RECORD CARD
-2. LOCATION
-33-39N 176-40W
-4. TYPE OF OBSERVATION
-O Ground-Visual
-O Air-Visual
-O Interrupted Radar
-O Ground-Radar
-Military
 8. NUMBER OF OBJECTS
 one
+
+9. COURSE
+SW-NE
+
+10. BRIEF SUMMARY OF SIGHTING
+Object 1st 120 min distance of planet. Disappeared over horizon in SW-NE orbit. Velocity estimated at twice speed of Echo.
+
 11. COMMENTS
-On 8 Jan 62 Echo was in a 3-6 flight giving intel the pass. Echo was at 33,000 ft at the time, a high-flying recon jet, over object had characteristic of a satellite, but no details as to size, shape or other details indicating identification.
+On 8 Jan at 1540Z Echo was in a K-flight having passed the pole. Echo was at 33°35 min N at a longitude of 126° at 151.5m. Object not known. However object has characteristics of orbit and case is listed as satellite.
 
 12. CONCLUSIONS
-X Was Balloon
-O Probably Balloon
-O Was Aircraft
-O Probably Aircraft
-O Was Astronomical
-O Probably Astronomical
-O Insufficient Data for Evaluation
+☐ Was Balloon
+☐ Probably Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Satellite
+☐ Insufficient Data for Evaluation
 
-ATIC FORM 339 (JULY 15 SEP 53)
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs or images. It appears to be a text document from an Air Force "Staff Message Branch" with various location information and abbreviations. The text is as follows:
-
-DEPARTMENT OF THE AIR FORCE 
+DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
 INCOMING
-AF IN : 55871 (8 Jan 62) F/ap page 1 of 2
-INFO : CIN-14 ARMY-2, GMO-7, JCS-45, OSD-15, NSA-7, CIA-11, DOD-2,
-000-GP-l, SAPS-3, DIA-2-2 -110-
-RXA 74283337-3
-SSSD RJEZHO RBEPW RJNFALB
-DF RJHPKH 16
-ZND
-0 982684Z
-TO USAF AIR DEF DIV KUNIA ANNEX HAWAII
-TO RJHPKH/CINCPACAF HICKAM AFB HAWAII
-RBUBP/COMHAV SEAPON PEARL HARBOR HAWAII
-TO RJEZHO/COPS USAF WASHINGTON DC
-TBUBP/COMASFORDPAC FORD ISLAND HAWAII
-RFEDC/OND WASH DC
-PFEPW/SCENAD WASH DC
-RJNFAIB/CINCNORAD ENT AFB COLORADO
-FGXPA/CINCPAC CAMP HM SMITH HAWAII
-FHUSP/CINCUSPACPAC FT SHAFTER HAWAII
-FHBEB/CINCPACFLT PEARL HARBOR HAWAII
-RJAPAZ/COMUSJAPON FUCHU AS JAPAN
-PUAMCR/COMUSKOREA SEOUL KOREA
-PUACFL/COMUSSTDC TAIPEI TAIWAN
+
+AF IN : 55871  (8 Jan 62)  F/ap                      page 1 of 2
+
+INFO : CIN-14, ARMY-2, CMC-7, JCS-45, OSD-15, NSA-7, CIA-11, OOP-2,
+        OOP-CP-1, SAFS-3, DIA-2            -110-
+
+PKA748337-3
+
+55900 RJEZHG RBEPW RJWFALB
+DP RJHPKH 16
+ZNB
+O 081647Z
+
+FM USAF DEF DIV KUNIA ANNEX HAWAII
+TO RJPKM/INCPACAF HICKAM AFB HAWAII
+PBH9/COMNAVSAFPON PEARL HARBOR HAWAII
+INFO RJEZHO/COFS USAF WASHINGTON DC
+PBH9/COMASN*FOPDPAC FORD ISLAND HAWAII
+RBPKW NO WASH DC
+PBPW/SECNAV WASH DC
+PJT*FAL3/CINCNORAD ENT AFB COLORADO
+PBH9/CINCPAC CAMP HM SMITH HAWAII
+PU49PS/CINCUSARPAC FT SHAFTER HAWAII
+PB4PB/CINCPACFLT PEARL HARBOR HAWAII
+PJAPAZ/COMUSJAPAN FUCHU AS JAPAN
+PU4MCR/COMUSK OPEA SEOUL KOREA
+PU4GFL/COMUSSTDC TAIPEI TAIWAN
+
 
 - page 2 -
 
-The image does not contain any photographs. However, the text in the document states the following:
-
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
 INCOMING
-AF IN : 55871 (8 Jan 62) page 2 of 2
-PSYMON/COMHAWSEAFRON KUNIA TUNNEL ANNEX
-AF PRNC
+
+AF IN : 55871  (8 Jan 62)                                      page 2 of 2
+
+P=4P44/COMMAWSEAFRON KUNIA TUNNEL ANNEX
+AF GRNC
 BT
-UNCLAS/CIVIS WV2, V43210 SIGHTED UFO 
+UNCLAS/IPVIS WV2, V4321Ø SIGHTED UFO
 SIZE AND BRILLIANCE OF BRIGHT PLANET
-33SN, 176-40W 8/1942Z. DISAPPEARED
+3335N, 17644W 93/1542Z. DISAPPEARED
 OVER HORIZON IN SW TO NE ORBIT. ESTIMATED
 VELOCITY TWICE THAT OF SATELLITE ECHO
 NO EVALUATION
-ST
-7/1545Z JAN RJHPKH
+BT
+93/1545Z JAN RJHPKH
 
-NOTE : ADV CY DEL to CIN and OOP-CP 1220R/8 Jan 62
+NOTE : Adv Cy Del to CIN and OOP-CP 1220R/8 Jan 62
+
 
 - page 3 -
 

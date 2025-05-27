@@ -1,129 +1,190 @@
-This image does not contain any photographs. It appears to be a page from a Project Blue Book report, containing text and information about a UFO sighting.
+Here is the text from the document:
 
-1. DATE - TIME GROUP: 29 November 64 - 29/06:25Z
-2. LOCATION: 34.20N 163.48E (Pacific)
-3. SOURCE: Military
-4. NUMBER OF OBJECTS: One
-5. LENGTH OF OBSERVATION: Reported 30 minutes
-6. TYPE OF OBSERVATION: Ground-Visual
-7. COURSE: 330 Degrees
-8. PHOTOS: 0
-9. PHYSICAL EVIDENCE: None
+1. DATE - TIME GROUP
+29 November 64 29/0625Z
 
+2. LOCATION
+34.20N 163.48E (Pacific)
+
+3. SOURCE
+Military
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+Not Reported
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+320 Degrees
+
+8. PHOTOS
+[ ] Yes
+[X] No
+
+9. PHYSICAL EVIDENCE
+[ ] Yes
+[X] No
+
+10. CONCLUSION
 INSUFFICIENT DATA FOR EVALUATION
 
-BRIEF SUMMARY AND ANALYSIS:
-Bright light in air, 45 to 320 deg true. Observed from Coast Guard ship - Duration motion 1 to 2 min.s. Unlikely that an atmospheric phenomenon. Unlikely that an celestial body. Unlike weather balloon or other flight of aircraft. Other essential data omitted.
+11. BRIEF SUMMARY AND ANALYSIS
+Bright light in sky at 320 deg true. Observed from Coast Guard Cutter USS Hagorta. Object at height elevation (25 degrees), no estimate on speed and altitude.
+
+COMMENTS: Satellite ruled out since ECHO I and II were over Southern Hemisphere at time of sighting. Unlikely that an astronomical body would be misreported by officials from this ship. Duration motion of object and other essentials omitted. Case regarded as insufficient data.
+
+FORM
+FTD SEP 63 0-329 (TDE)   Previous editions of this form may be used.
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a text-based document from the Department of the Air Force, specifically the Staff Message Branch.
-
-AP IN: 59318 (29 NOV 64) N/dep
-ACTION: NIN-7
-INFO: X-COP-1, XOPX-7, SAF-OS-3, JCS/OSD-1, NSA-7, DIA-15 (48)
-SMB C845 CHQC7125CEJA515
-DD RUEAHQ
-DE RUHLKH 3 29/8262
-ZNR 0 99992Z
-FM 326AIRDIV KUNIA FACILITY HA
-TO RUHLKM/PACAF
-RUFFHY/COMMANSAFRON
-INFO RUEAHQ/CSAF
-RUECW/CNO
-RUECW/SECNAV
-RUNGLAB/CINCNORAD
-RUHLHQ/CINCPAC
-RUHL HS/CINCUSARPAC
-RUHL LB/CINCPACELT
-RUAUAZ/COMUSJ APAN
-RUAMC/COMUKORCA
-RUAGFL/COMUSTLC
-RUCSC/CINCSAC
-BT
-
-- page 2 -
-
-The image does not contain any photographs. It appears to be a page from an old UFO report document under Project Blue Book.
+MESSAGE
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
 
 UNCLASSIFIED
 
-A/P IN : 59318 (29 NOV 64)
-UNCLAS MERIT 326TH AD-CO #1386
+AF IN : 59318 (29 Nov 64) N/dep                                   Page 1 of 2
 
-1. USGCC MATAGORPA
+ACTION: NIN-7
+
+INFO : XOP-1, XOPX-7, SAF-OS-3, JCS/OSD-1, NSA-7, DIA-15 (42)
+SMB C045    CHQC7157CEJAS15
+
+00 RUEAHQ
+DE RUHLKH 3 29/8826Z
+ZNR
+0 298825Z
+
+FM 326A IRDIV KUNIA FACILITY HA
+
+TO RUHLKM/PACAF
+RUPHPH/COMHAWSEAFRON
+INFO RUEAHQ/CSAF
+RUECW/CNO
+RUECW/SECNAV
+RUMGALB/CINCNORAD
+RUHL HQ/CINCPAC
+RUHL HS/CINCUSARPAC
+RUHL HL/CINCPACFLT
+RUAUAZ/COMUSJAPAN
+RUAMC/COMUKOREA
+RUAGFL/COMUSTOC
+RUCSC/CINCSAC
+
+BT
+
+
+- page 2 -
+
+MESSAGE
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED
+
+AF IN : 593318 (29 Nov 64)
+UNCLAS MERIN 326TH AD-CO 01366
+
+1. USCGC MATAGOROA
 2. LIGHT IN SKY-BRIGHT
-3. 34.28N 163.48E
-4. 29/0652Z
+3. 34.26N 163.48E
+4. 29/0625Z
 5. HIGH - POSITION ANGLE 25 DEGREES
-6. 328 DEG. TRUE
+6. 320 DEG. TRUE
 7. NONE
 8. NONE
 9. SEA-LARGE SWELLS-AND CLOUDY
 
 BT
 NNN
-NOTE: Advance copys to XOPX, DIA, NIN.
+
+NOTE: Advance copies to XOPX, DIA, NIN.
 Retransmitted to CIA per AFHO Form 1392 #571.
+
+N
+
+Handwritten notes on right side of document:
+ecch I
+PATG
+29/0612
+08412
+
+ecch II
+NO
+29/0612
+06412
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a page from a report or document, likely related to an unidentified flying object (UFO) sighting or incident.
-
-The text in the document is as follows:
-
+INCOMING
 MESSAGE
 
-AP IN : 59306 (29 NOV 64) N/rpH
-ACTION : NIN-7
-INFO : XOF-I, XOPX-7, SAF-08-3, JCS/OSD-1, NSA-7, DEA-15 (42)
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
 
-SMB C 84#3 CZCHQAZ832CCJB347
-00 REAHG
-DC RUPJ) 938 29/87BB2
+UNCLASSIFIED
+
+AP IN : 59306 (29 Nov 64) N/tph
+ACTION: NIN-7
+INFO : XOP-1, XOPX-7, SAF-OS-3, JCS/OSD-1, NSA-7, DIA-15 (42)
+
+Pg 1 of 2
+
+SMB C043 CZCHQA28ZCCJB347
+00 RUEAHQ
+DE RUHPJ 938 29/0702Z
 ZNR
-0 29863#Z
-FM NIIVU/USGC MATAGORDA
-R 0473-#1/COPS USAF
-ZEN/CCGG FOURTEEN
-RUHPHNHCTF THREE TWO
-RUHGSALB/CINC NORA
-RUHBE/C/INC PACFLT
-INFO BUCY G/COMDT COGARD
-RUHS/JCOMSTAREA COGARD
-ST
+0 29863Z
+FM NIFV/USCGC MATAGORDA
+RO*73-#1/COF'S USAF
+ZEN/CCGO FOURTEEN
+RUPHPH/CTF THREE TWO
+RUNGALB/CNC NORA
+RUL*LL/C INCPACFLT
+1NFO RUCJ G/COMODT COGARD
+RUMSJ/COMWESTAREA COGARD
+BT
 UNCLAS
-MESG NT -:
-1. MATAGORDA/NIFV-
+MERINT.
+
+1. MATAGORDA/NIFV.
 2. LIGHT IN SKY (BRIGHT)
-3. 34-92N 163-48E.
+3. 34-02N 163-48E.
 4. 2986252.
+
 
 - page 4 -
 
-The image does not contain any photographs. It appears to be a typed document from the Department of the Air Force, Staff Message Branch, regarding an Unidentified Flying Object (UFO) sighting.
+INCOMING
+MESSAGE
 
-Text from the document:
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
 
-AP IN : 59306 (29 NOV 64)
+UNCLASSIFIED
 
-5. HIGH POSIT ANGLE 25 DEG.
-6. COURSE 322T.
-7. NONE-
+AF IN : 59306 (29 Nov 64)                                   Pg 2 of 2
+
+5. HIGH. POSIT ANGLE 25 DEG.
+6. COURSE 32 DT.
+7. NONE.
 8. NONE.
-9. SEA LARGE SWELLSJEATHER CLOUDY.
-
+9. SEA LARGE SWELLS,EATHER CLOUDY.
 BT
-
 NNN
 
 N
 
-NOTE: RETRANSMITTED TO CIA PER APHQ 1392 #570. 
-ADVANCE COPY DELIVERED TO XOFX, NIN, DIA.
+NOTE: RETRANSMITTED TO CIA PER AFHQ 1392 #570.
+ADVANCE COPY DELIVERED TO XOPX, NIN, DIA.
+
 
 - page 5 -
 

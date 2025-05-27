@@ -1,105 +1,169 @@
-The image does not contain any photographs. It appears to be a project record card from Project 10073, documenting an observation made on June 29, 1960 in Altus, Oklahoma. The text on the record card is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 29 Jun 60
-2. LOCATION: Altus, Oklahoma
-3. DATE-TIME GROUP: 2330-0000Z 
-4. TYPE OF OBSERVATION: @ Ground-Radar;  @ Air-Visual;  @ Air-Intercept Radar
-5. CAUSE: Civilian
-6. LENGTH OF OBSERVATION: 1 min
-7. NUMBER OF OBJECTS: 1
-8. COURSE: Erratic, zig-zag
-9. COMMENTS: Observers just woke up. Viewed through windows. Described as triangular, orange, and fast moving. Approached to within 2-3 miles and then sped up and disappeared on final.
+
+1. DATE
+29 Jun 60
+
+2. LOCATION
+Altus, Oklahoma
+
+3. DATE-TIME GROUP
+Local: 29/0900-1000Z
+GMT: 29/0900-1000Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+□ Air-Visual
+
+5. PHOTOS
+□ Yes
+[X] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+1 min
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+varied
+
+10. BRIEF SUMMARY OF SIGHTING
+Round object 2/3 size of dime, orange, viewed
+with lying in bed through window. First seen
+35-40° elev, 170° heading. Last seen 15° elev,
+090 heading. Disappeared behind building after
+approx 1 min.
+
+11. COMMENTS
+Observer just woke up. Viewed from bed
+through window. Described light could
+conform to B-52 which was in landing
+pattern at this time. Altus AFB 3 mi and
+a/c making approach would be in
+position to be observed from this window.
+Approach would appear as stationary light
+and then speed up and disappear as a/c
+turned on final.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 53)
 
 - page 1 -
 
-There does not appear to be a photograph present in this scanned page from a Project Blue Book document. However, the text in the document has been captured and is as follows:
+Here is the text from the document:
 
-CZCSC3282CVYC558
-RJED59
-DE RUFFIN 23
-1 C12131Y 1960 JUL 2 C4 24
-FII COMSEQ 11 ALTUS AFB OKLA
-TO RUFFIN/DE ENT AFB COLO
-RUFFED AD D TITHER AFB OKLA
-RJED59/ATIC WRIGHT PATTERSON AFB OHIO
-RJEZIZIC USAF WASH 25 D C
-RJEZIZIC USAF WASH 25 D
-BT
-NIGLAS FROM: DECI 19338. UFO. IN ACCORDANCE WITH PARAGRAPH 15,
-AFR 200-2, DATED 14 SEP 59, THE FOLLOWING REPORT IS SUBMITTED:
-1. ROUND.
+REG57
+CZCSOH252CGWC553
+INI RJEDSO
+DE RJWFFU 28
+N 0123132
+FM COMBOWG 11 ALTUS AFB OKLA
+TO RJWFAL/ADC ENT AFB COLO
+RJWFNK/33RD AD D TINKER AFB OKLA
+RJEDSO/ATIC WRIGHT PATTERSON AFE OHIO
+RJEZIQ/HQ USAF WASH 25 D C
+RJEZHO/SAF WASH 25 DC
+
+DT
+UNCLAS FROM DCOI 10335. UFO. IN ACCORDANCE WITH PARAGRAPH 15,
+AFR 200-2, DATED 14 SEP 59, THE FOLLOWING REPORT IS SUBMITTED.
+
+A. 1. ROUND.
 2. 2/3 SIZE DIME.
-3. GRAYISH.
-4. CIT <1>.
+3. ORANGE.
+4. ONE (1).
 5. NONE.
-6. NIGHT.
+6. NONE.
 7. NONE.
 8. NONE.
 
 - page 2 -
 
-The image does not contain a photograph. It appears to be a scanned page from an old UFO report document from Project Blue Book.
+PAGE TWO RJNFST 28
 
-Page two ruffus 23
-b. note:
-1. source awoke with headache. sighted object thru open window. source did not arise.
-2. 35-40 degrees elevation at 170 degrees azimuth.
-3. 15 degrees elevation 095 degrees azimuth.
-4. turned away from source on heading 090.
-5. behind building, beyond view.
-c. viz. 1. ground visual.
-2. faa.
-3. n/a
-d. 1. approximately 0930-1000 zulu 29 jun 60.
-2. night, first sign of dawn.
-e. civilians in kingsmill, 12 blocks north of court house.
-cub-23 employed at altus afb. the source is an amateur astronomer and states that this sighting is considered reliable and indicates an above average interest in ufo sightings.
-f. 1. clear, no clouds.
+9. NONE
+
+B. 1. SOURCE AWOKE WITH HEADACHE. SIGHTED OBJECT THRU OPEN WINDOW. SOURCE DID NOT ARISE.
+
+2. 35-40 DEGREES ELEVATION AT 170 DEGREES AZIMUTH.
+
+3. 15 DEGREE ELEVATION 090 DEGREE AZIMUTH.
+
+4. TURNED AWAY FROM SOURCE OR HEADING 090.
+
+5. BEHIND BUILDING, BEYOND VIEW.
+
+6. ONE (1) MINUTE.
+
+C. 1. GROUND VISUAL.
+2. N/A
+3. N/A
+4. APPROXIMATELY 0930-1000 ZULU 29 JUN 63.
+5. NIGHT, FIRST SIGN OF DAWN.
+
+F. CIVILIAN: ALTUS OKLAHOMA, 12 BLOCKS NORTH OF COURT HOUSE.
+
+(MB-6) EMPLOYED AT ALTUS AFB. THE SOURCE IS AN AMATEUR ASTRONOMER AND STATES THAT THIS SIGHTING IS THE SECOND UFO HE HAS OBSERVED. HE IS CONSIDERED RELIABLE AND INDICATES AN ABOVE AVERAGE INTEREST IN UFO SIGHTINGS.
+
+G. 1. CLEAR, NO CLOUDS.
 
 - page 3 -
 
-The image does not contain a photograph. It appears to be a page from a Project Blue Book document, which contains a table with information about an unidentified flying object (UFO) sighting.
+PAGE THREE RJUFFU 23
 
-OCR (Optical Character Recognition) output:
-
-PAGE THREE BUFFED 25
-2. ALTITUDE DIRECTION KNOTS
-SURFACE 190 5
-6000 210 20
-10000 150 10
-15000 130 12
-20000 120 15
-30000 330 10
-40000 270 02
-50000 111K
+2. ALTITUDE      DIRECTION      KNOTS
+   SURFACE       190            8
+   6000          210            20
+   10000         150            10
+   16000         110            15
+   20000         130            15
+   30000         330            10
+   50000         270            05
+   80000         UNK
 
 3. NO CEILING.
-4. 15 ELITES.
+
+4. 15 MILES.
+
 5. NONE.
+
 6. NONE.
-7. 77/50 3030' TEMPERATURE INVERSION LAYER.
-8. HAZE
+
+7. 77/50 3000° TEMPERATURE INVERSION LAYER.
+
 I. RADAR REPORTS NO UNIDENTIFIED TRACKS IN AREA.
-J. TWO E-52 ACFT IN AREA. LANDING TIME 29/0542 AND 29/0629.
-JUNE 1962 NO OTHER TRAFFIC.
-K. redacted.
+
+J. TWO B-52 ACFT IN AREA. LANDING TIME 29/0643Z AND 29/0929Z
+   JUNE 1962. NO OTHER TRAFFIC.
+
+K. [Redacted/Blacked out text]
 
 - page 4 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+PAGE FOUR RJWFFU 28
 
-PAGE FOUR RJUFFU 26
-DON UG ill: COMMENT* OF PREPARING OFFICER: PRELIMINARY ANALYSIS
-INDICATES SOURCE MAY HAVE OBSERVED THE LARGE BRIGHT LANDING LIGHT
-OF THE AIRCRAFT PREPARING FOR LANDING APPROACH AT S05292 WHICH CO. RELATIVE
-POSITION OF SOURCE AND AIRCRAFT WOULD MAKE OBSERVATION OF A LIGHT ON AN AIRCRAFT MAKING A LONG APPROACH FROM THE SOUTH APPEAR AS
-STATIONARY LIGHT, AND WHOSE SPEED, UP AND DOWN SWEEPING OF BEAM INDICATES AIRCRAFT LIGHTS AND THE APPROACH PATTERN IS LOCATED
-TO THE SOUTH AND EAST OF THE RUNWAY.
+CON WG (D). COMMENTS OF PREPARING OFFICER: PRELIMINARY ANALYSIS INDICATES SOURCE MAY HAVE OBSERVED THE LARGE BRIGHT LANDING LIGHT OF THE E-52 ACFT MAKING APPROACH AT 26/0928Z JUN 66. RELATIVE POSITION OF SOURCE AND AIRCRAFT WOULD MAKE OBSERVATION OF A LIGHT ON AN AIRCRAFT MAKING A LONG APPROACH FROM THE SOUTH APPEAR AS A STATIONARY LIGHT, AND THEN SPEED UP AND DISAPPEAR AS ACFT TURNED ON FINAL. ALTUS AFB IS LOCATED 3 MILES EAST OF SOURCE'S POSITION AND THE APPROACH PATTERN IS LOCATED TO THE SOUTH AND EAST OF THE RUNWAY.
 
-1. Notes
-/t
-02/26/52 JUL RJUFFU
+1. NONE.
+
+ET
+26/0928Z JUL RJWFFU
 
 - page 5 -
 

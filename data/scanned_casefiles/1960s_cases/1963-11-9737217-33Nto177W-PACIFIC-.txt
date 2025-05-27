@@ -1,104 +1,168 @@
-The image appears to be a scanned page from a Project Blue Book record card. There is no photograph present in this particular image. 
-
-Using the OCR (Optical Character Recognition) system, the text found in the document is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE
-2 November 1963
-2. LOCATION
-31° 59' 17" N, 177° 01" W (Pacific)
-3. DATE-TIME GROUP
-Unky 3721252
-4. PHOTOS
-Yes
-5. LENGTH OF OBSERVATION
-10 minutes
-6. OBJECTS
-Bright white light, rapidly expanding light source, observed as if a very bright flash, object was brighter than star or planet brilliance, compared to star as 1 or 2 magnitude star. Sighting lasted for approximately 10 seconds.
-7. CONCLUSIONS
- Was Aircraft
- Probably Aircraft
- Was Astronomical
-Possibly Astronomical
- Insufficient Data for Evaluation
-Echo data not available. Object appeared to be metallic and was observed at long enough time for accurate visual observation. Sighting concluded after 10 seconds.
 
-ATIC FORM 232 (REV 28 AUG 55)
+1. DATE
+17 November 1963
+
+3. DATE/TIME GROUP
+Local
+17/1200
+
+5. PHOTOS
+□ Yes
+■ No
+
+7. LENGTH OF OBSERVATION
+1 Minutes
+
+10. BRIEF SUMMARY OF SIGHTING
+Bright mag. star like brilliance
+observed at 60 deg elev covering 70 deg of
+arc in 1 min. Flight to East. Object to North
+of observer.
+
+2. LOCATION
+23 N to 177W (Pacific)
+
+4. TYPE OF OBSERVATION
+□ Ground-Visual   □ Ground-Radar
+■ Air-Visual      □ Air-Intercept Radar
+
+6. SOURCE
+Military
+
+8. NUMBER OF OBJECTS
+1
+
+11. COMMENTS
+Echo data not available. Object
+characteristic of satellite and case
+evaluated as probable satellite.
+
+9. COURSE
+East
+
+12. CONCLUSIONS
+■ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other: SATELLITE
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs, only text. I will proceed to act as an OCR system and produce the text found in the document:
+Here is the text from the document:
 
-GKbI3 A U31
-NNI700(;i1A93BZCEGAI 12
-00 REAHQ
-DE RUIHF KHG 17/1632
-CIR
-01 715532
-FR G O BaRF GPAC
-TO RUPII ;i/G 3TAWSEAFRM
-RUHLKSA/.G U1CPACAF
-FLUUAHH/RAID KUNIA
-Z 8 N U BKW RAD
-INFO RUGOV/GVO
-RUEHAG 33 USAF
-RUHLHA CIUlai'AC
-RULHLHG INCPACFLT
-RUHHASKB DI3USPAC
-RUHLKX/-. PCAC BASCG HICAM
-RUECW/SECNAV
-ST
-UNG LAS
-A. JAN AP 1 4 3D
-1. G IRV IS REPORT
-2. V 43319
+NNNN R ZGMCAA9SEZECCA112
+
+DO RUEAHQ
+
+DE RUMPP B965 17/1603Z
+
+ZNR
+
+O 1 71503Z
+
+FM C O1 BAFF GPAC
+
+TO RUMPHH/JC O1 HAWSEAPR ON
+
+RUMLKS A/C INCPACAF
+
+R URUAAH/ADD KUN IA
+
+ZEN/C INCN RAD
+
+INFO RUECW/CN O
+
+RUEAHQ/C G S USAF
+
+RUMLHQ/C INCPAC
+
+RUMLHLC INCPACFLT
+
+RUHASE/C INCUSARPAC
+
+RUMLKK/PACAF BASEC O1 HICKAM
+
+RUECW/S BCN AV
+
+BT
+
+UNC LAS
+
+A. JAN AP 1 ASD
+
+1. C IRVIS REPORT
+
+2. W4321B
+
 3. BRIGHT OBJECT BRILLIANCE EQUAL TO FIRST MAGNITUDE STAR
-4. BEARING 33H DISTANCE UNKNOWN FROM SSN 177K
-5. 17/1832Z UNTIL 1714305
-6. APPROX 52 DEGREES ABOVE HORIZON 
+
+4. BEARING 355 DISTANCE UNKNOWN FROM 33N 177W
+
+5. 171426Z UNTIL 171430Z
+
+6. APPROX 50 DEGREES ABOVE HORIZON
+
 7. EAST
-8. APPROX 72 DEG OF ARC IN 4 MUI
+
+8. APPROX 72 DEG OF ARC IN 4 MIN
+
 9. NONE
+
 10. EVALUATION UNKNOWN
 
-AT
-NOTE: Advance copies delivered to XOPX, DIA, and NIN.
-Retransmit. ted to CIA (ATPRO UN 1339/27/2/4/7).
+BT
+
+NOTE: Advance copies delivered to XOFX, DIA and NIN.
+Retransmitted to CIA (AFRO RN 1399 #4H7).
+
 
 - page 2 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-Text extracted from the document:
+SMB C029
+HQA946ZCEJA195
+PP RUEAHQ
+DE RUHLKH 3 17 /1633Z
+ZNR
+P 17163SZ
 
-EMB 0239
-HAGAN 24 DEC 53 195
-PP RUBAH
-DE RUHLKH 3 17 /16332
-PP 17 16332Z
-FTI 326 AIR DIV KUNIA FACILITY HAWAII 
-TO RUHLKH/PACAF HICKAM HAWAII
-RU/PHIA/COM HAYA SEAFR ON PEARL HARBOR HAWAII
-INFO RUEA/GSAF USAF WASH DC
-RECD/CND WASH DC
+FM 326 AIR DIV KUNIA FACILITY HAWAII
+TO RUHLKM/PACAF HICKAM HAWAII
+RUMPHM/COM.HASSEAFRON PEARL HARBOR HAWAII
+INFO RUEAHQ/CSAF USAF WASH DC
+RUECW/CNO WASH DC
 RUECW/SECNAV WASH DC
-RUNGAL/CINCNORAD ENT AFF COLO
+RUWGALS/CINCNORAD ENT AFB COLO
 RUHPA/CINCPAC CAMP H M SMITH HAWAII
-RUHAPS/CINCHARPAC FT SHAFTER HAWAII
+RUHAFS/CINCJUARPAC FT SHAFTER HAWAII
 RUHPB/CINCPACFLT PEARL HARBOR HAWAII
-RHUABZ/COMUSTAC FUCHU AS JAPAN
-RHUANG/COMUKCOREA SEOUL KOREA
-RUAFWL/COMUSTDC TAIPIE TAIWAN
-RU228B/CINCSAC OFFUTT AFB NEAR
-PUHPD/COM 3D FMFORPAC FORD ISLAND HAWAII
-AF GRNG
-LT
-UNCLAS/GERVISI/ NAVY 432101 BRIGHT OBJECT BRILLIANCE EQUAL
-TO FIRST MAGNITUDE STAR, BEARING 335 DISTANCE UNKNOWN
-FORM 33R 1174. THE 17/1432Z UNTIL 17/1435Z. APPROX
-30 DEG ABOVE HORIZON, DIRECTION EAST, SPEED: APPROX 70
-DEGREES OF ARC IN FOUR 43 MINUTES. NONE, NO EVALUATION.
-IDHT: 35. CL 87 TO 30FX. HILL. 9.92A. RECOMMENDATION: TO CIA FORM
+RUAAZ/COMUSJAPAN FUCHU AS JAPAN
+RUAHC/COMUUKOREA SEOUL KOREA
+RUAFGL/COMUSTDC TAIPIE TAIWAN
+RUCGSR9/CINCSAC OFFUTT AFB NEBR
+PUHPD/COMASWFGRPAC FORD ISLAND HAWAII
+AF GRNC
+BT
+UNCLAS/CIRVIS/ NAVY 43210/ BRIGHT OBJECT BRILLIANCE EQUAL
+TO FIRST MAGNITUDE STAR. BEARING 355 DISTANCE UNKNOWN
+FORM 35N 177W. TIME 17/1426Z UNT IL 17/1430Z. APPROX
+SO DEG ABOVE HORIZON, DIRECTION EAST, SPEED: APPROX 70
+DEGREES OF ARC IN FOUR (4) MINUTES, NONE, NO EVALUATION.
+BT NOTE: ADY CY LTR TO XOPX, NIN, & DIA. RETRANSMITTED TO CIA FORM
+
 
 - page 3 -
 

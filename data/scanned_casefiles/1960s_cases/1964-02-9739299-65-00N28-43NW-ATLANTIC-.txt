@@ -1,37 +1,111 @@
-The image does not contain any photographs, only text and a form. As an OCR system, I will produce the following text found in the document:
-
 PROJECT 10073 RECORD CARD
-1. DATE   2-Dec-54
-2. LOCATION  55.004 28.433W
-3. DATE-TIME GROUP  04/0923000/22
-4. TYPE OF OBSERVATION  g Ground-Radar
-5. COURSE  090 Deg
-6. DURATION OF OBSERVATION  30 reported
-7. LENGTH OF OBSERVATION  35 f reported
-8. BRIEF SUMMARY OF SIGHTING  UFO Possible Satellite observation on course of DDO data. Alt unknown.
-9. CONCLUSIONS  Obj considered as a possible Satellite. 6010 data not available. Case evaluated as a possible satellite on limited data presented.
+
+1. DATE
+4 Feb 64
+
+2. LOCATION
+65.00N 28.43W (Atlantic)
+
+3. DATE-TIME GROUP
+Local
+GMT05/0009Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+Not reported
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+020 Deg
+
+10. BRIEF SUMMARY OF SIGHTING
+UFO possible Satellite observation on course
+of 020 deg. Alt unknown.
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other Satellite
+Insufficient Data for Evaluation
+Unknown
+
+11. COMMENTS
+Obj considered as a possible Satellite.
+EOHO data not available. Case evaluated
+as a possible Satellite on limited
+data presented.
+
+ATIC FORM 329 (REV 25 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a scanned document from Project Blue Book, which was an investigation program conducted by the United States Air Force to study unidentified flying objects (UFOs).
+Here is the text from the document:
 
-The text in the document is as follows:
+05/00092 6.1081 2643.00
+Check Stations SMB A042
 
-INCOMING
-AP 571 3873 (5 Feb 64)/C/der
-ACTION: NIH-7
-INFO : XOP-1, XOPK-6, SAF-OS-3,
-DIA-25, DIA/OTIC-2-145-
+ZCZCHQA193ZCECA079
+*****ZZ RUEAHQ
 
+ZNR ZOV RUEC
+T-RUEAGF 26 NORAD REGION
+T-RUEAHQ HQ USAF
+PEA0G5DIA034
+*****ZZ RUEC
+
+DE RUDIC 042 05/0100Z
+ZNR
+Z 050100Z
+FM COMBAREFLORLANT
+TO RUEC/CNNO
+RU CKHC/CINCLANTFLT
+RUWGALB/CINCONNAD
+RUEC/26 NORAD REGION
+RUEC/HQ USAF
+RUEGUN/COMEASTSEAFRON
+RUWGALD/SPADAT
+INFO RUCKDT/COMASWFORLANT
+
+BT
 LOCATING ONE UFO
 1. POSS SATELLITE
-2. 6520N 2843W 
-3. 220209
-4. CUS 022
-5. SEXTANT AS 22-35
+2. 6500N 2843W
+3. 050009
+4. CUS 020
+5. SEXTANT AS 02-35
 6. ALT UNKNOWN
 
-NOTE: ADV GYS DEL TO NTN AND DIA.
+BT
+NOTE: ADV CYS DEL TO NTN AND DIA.
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+INCOMING
+AF IN: 3573 (5 Feb 64)C/der
+ACTION: NIN-7
+INFO: XOP-1, XOPX-6, SAF-OS-3,
+       DIA-25, DIA/CITC-2     -45-
+
 
 - page 2 -
 

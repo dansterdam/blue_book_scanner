@@ -1,77 +1,108 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book record, which is a U.S. Air Force program that investigated UFO reports.
+PROJECT 10073 RECORD
 
-TEXT OUTPUT:
+1. DATE - TIME GROUP
+23 Dec 66  084:52
 
-PROJECT 10975 RECORD
-1. DATE-TIME GROUP: 22 DEC 66 0045Z 
-2. LOCATION: Klamath Falls, Oregon
-3. SOURCE: Military
-4. NUMBER OF OBJECTS: One
-5. LENGTH OF OBSERVATION: 2 seconds
-6. TYPE OF OBSERVATION: Visual
-7. COURSE: Downward
-8. PHOTOS: No
-9. PHYSICAL EVIDENCE: No
-10. CONCLUSION: (Astronomer)
-11. BRIEF SUMMARY AND ANALYSIS: 
-Observer reports sighting a circular shaped bright object. The object was observed for about 2 seconds. There was a small trail noted. The object was observed descending through a twisting course.
-The description is consistent with that of a meteor.
+2. LOCATION
+Klamath Falls, Oregon                one witness
 
-FTD SEP 63 0-329 (TDE) Previous editions of this form may be used.
+3. SOURCE
+Military
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+2 seconds
+
+6. TYPE OF OBSERVATION
+Ground Visual
+
+7. COURSE
+downward
+
+8. PHOTOS
+[ ] Yes
+[X] No
+
+9. PHYSICAL EVIDENCE
+[ ] Yes
+[X] No
+
+10. CONCLUSION
+Astro(meteor)
+
+11. BRIEF SUMMARY AND ANALYSIS
+Observer reported a stellar-like circular shaped bright yellow-green colored object fall toward the earth. The object looked like a falling star to the observer. There was a small trail noted. The object was observed for about two seconds, is believed through a twenty degree arc in the sky.
+
+The description is consistent with that of a meteor observation.
+
+FORM
+FTD SEP 63 0-329 (TDE)   Previous editions of this form may be used.
+
 
 - page 1 -
 
-This image does not contain a photograph. It appears to be a page from a UFO report document from Project Blue Book.
-
 UNCLASSIFIED
+
 DEPARTMENT OF THE AIR FORCE
-STAFF DIRECTIVE BRANCH
+STAFF MESSAGE BRANCH
 INCOMING MESSAGE
-AF IN: 64210 (23 DEC 66) C/RAB
-ACTION: RDC-4
-INFO: XOP-1, XOPX-2, SAFOS-3, NIN-7, DIA-1 (19) ADV CY DIA
-3343 A144CZCGN/D226
-PTIU JAN RUMBEDAGSR 257192G-UUUU--RUEDHA-
+
+Klamath Falls, Oregon
+23 Dec 66
+
+AF IN: 64210 (23 Dec 66) C/fab
+ACTION: RDO-4     INFO: XOP-1, XOP-2, SAFOS-3, NIN-7, DIA-1 (19) ADV CY DIA
+
+SMB A144CZCSW0Z26
+PTIU JAW RUMMEDA8G2 3571920-ULUU--RUEDHGA
+
 ZNR UUUUU
 P 231935Z DEC 66
-FM 25 AIR DIV ADAIR AFS GREG
-TO RUMMVUAV/ADC ENT AFB COLO
-RUADUN/PATTERSON AFB OHIO
-RUEDHA/HQ USAF WASHINGTON DC
-RUEDHA/SECRETARY OF THE AIR FORCE WASHINGTON DC
+FM 26 AIR DIV ADAIR AFS OREG
+TO RUMMFVA/ADC ENT AFB COL O
+RUMMDFVA/PATTERSON AFB OHIO
+RUEDHGA/HQ USAF WASHINGTON DC
+RUEDHGA/SECRETARY OF THE AIR FORCE WASHINGTON DC
+
 ET
-UNCLAS ZGOIN 1 3632 DEC 66.
-FOR AFDOG - HQ USAF, SAFOI - SECRETARY OF THE AIR
-FORCE. UFDG REPORT. THE FOLLOWING UFDG REPORT
-IS SUBMITTED. PART I.
+UNCLAS 260IN 13052 DEC 66
+
+FOR AFRDC - HQ USAF: SAFOI - SECRETARY OF THE AIR
+FORCE. UFOB REPORT. THE FOLLOWING UFOB REPORT
+IS SUBMITTED. PART I. 
 PART A.
-1. CIRCULAR
+
+A. CIRCULAR
 2. GRAPE
 3. BRIGHT, YELLOW GREEN
 4. ONE
-5. IVA
+5. N/A
 
-AFHO AA G-3099C
+AFHQ 0-309C
+
 UNCLASSIFIED
+
 
 - page 2 -
 
-There is no photograph present in this image. The image appears to be a scanned page from a Project Blue Book document, containing textual information.
-
 UNCLASSIFIED
+
 DEPARTMENT OF THE AIR FORCE
-STAFF DIGEST BRANCH
+STAFF MESSAGE BRANCH
 INCOMING MESSAGE
 
-AF IN: 64210 (23 DEC 66)
+AF IN: 64210 (23 Dec 66)                                     Pg 2 of 4
+
 6. LOOKED LIKE FALLING STAR.
-7. SMALL TRAIL.
+7. SMALL TRAIL
 8. N/A
-PAGE 2 RUNM'D48822 UNCLAS
+PAGE 2 RUMMEDAA802 UNCLAS
 9. N/A
 PART B.
 1. FELL IN LINE OF SIGHT
-2. 25 DEGREES AT 110 DEGREES TH
+2. 25 DEGREES AT 110 DEGREES TB
 3. 5 DEGREE ELEVATION 110 DEGREE TB
 4. STRAIGHT DOWN
 5. BELOW HORIZON OR BURN OUT
@@ -79,78 +110,81 @@ PART B.
 PART C.
 1. VISUAL
 2. N/A
-3. N/A
+• N/A
 PART D.
-1. 6643/23DEC 66
+1. 0845/23DEC 66
 2. DARK
 PART E.
 
-AFHO ---- 0-3059C
-UNCLASSIFIED
+AFHO 0-309C                                      UNCLASSIFIED
+
 
 - page 3 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book document with weather details and observations related to a UFO sighting in Klamath Falls, Oregon.
-
-UNCLASSIFIED
-DEPARTMENT OF THE AIR FORCE
-STAFF MESSAGE BRANCH
-INCOMING MESSAGE 
-
-AF IN: 64210 (23 Dec 66)                                    Pg 3 of 4
-
-1. DOWNTOWN KLAMATH FALLS GRE <42DEG 14N-121DEG 45W>
-
-PART F:
-
-A. R/A   2. SCHLEFF, JOSEPH A 1LT, FV313729S, 827
-PAGE 3 RUMMDAA822 UNCLAS
-
-PART G:
-1. WEATHER WAS CLEAR, STARS VISIBLE.  
-2. WINDS - SURFACE 09Z 15DEG AT 11 KTS.
-     6H 180 AT 23 KTS,
-     12H 190 AT 620
-     18H 190 AT 61
-     24H 200 AT 57
-     30H 210 AT 73
-     52H 230 AT 36
-CEILING 09Z 150 SCID 240 SCID
-VISIBILITY - 15
-CLOUD COVER - SCID
-THUNDERSTORMS - NONE
-VERTICAL TEMPERATURE GRADIENT - NONE
-SUNSET - 2032Z
-
-AFHO FM: 0-309C
-
 UNCLASSIFIED
 
-- page 4 -
-
-The image does not contain any photographs. It appears to be a page from an unclassified document related to the Air Force's Project Blue Book, which investigated unidentified flying objects (UFOs).
-
-UNCLASSIFIED
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
 INCOMING MESSAGE
 
-AF IN: 64210 (23 Dec 66) 
+AF IN: 64210 (23 Dec 66)                                     Pg 3 of 4
+
+1. DOWNTOWN KLAMATH FALLS ORE (42DEG 14N-121DEG 45W)
+
+PART F:
+A. N/A   2. SCHLEF, JOSEPH A ILT, FV313730S, 827
+PAGE 3 RUWBDA4802 UNCLAS
+AC&W, KENO AFS, OREG
+
+PART G:
+1. WEATHER WAS CLEAR, STARS VISIBLE.
+2. WINDS - SURFACE 09Z 150DEG AT 11 KTS.
+   GM 190 AT 23 KTS.
+   10M 190 AT 60
+   16M 190 AT 61
+   22M 200 AT 57
+   32M 210 AT 79
+   50M 220 AT 36
+   CEILING 09Z 150 SCTD 240 SCTD
+   VISIBILITY - 15
+   CLOUD COVER - SCTD
+   THUNDERSTORMS - NONE
+   VERTICAL TEMPERATURE GRADIENT - NONE
+   SUNSET - 2035Z
+
+AFHQ .... 0-309C
+
+UNCLASSIFIED
+
+
+- page 4 -
+
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF ITN: 64210 (23 Dec 66)                                                 PG 4 of 4
+
 PART H. NONE
 PART I. NONE
 PART J. NONE
 PART K. STAFF INTELLIGENCE OFFICER, 26 AIR DIV.
-THESE WERE NO KNOWN OBJECTS IN THE AREA. FROM
-PAGE 4 RUMNEDAS02 UNCLAS
+THERE WERE NO KNOWN OBJECTS IN THE AREA. FROM
+PAGE 4 RUMMEDAA802 UNCLAS
 THE OBSERVER'S DESCRIPTION IT WOULD APPEAR THAT
 THIS SIGHTING WAS A NATURAL PHENOMENA WITH THE
-OUTSIDE POSSIBILITY OF IT BEING DEPARTING SPACE
-DEBRIS.
+OUTSIDE POSSIBILITY OF IT BEING DEORBITING SPACE
+DECRIS.
 PART L. NONE.
 ET
 NNNN
 
+AFHO C-309C
+
 UNCLASSIFIED
+
 
 - page 5 -
 

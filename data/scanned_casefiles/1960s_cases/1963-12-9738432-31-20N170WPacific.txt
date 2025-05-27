@@ -1,73 +1,120 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book record card, which is a document used to record details of UFO sightings.
-
-The text shown in the image is:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
+21 Dec 1963
+
 2. LOCATION
-31 JAN 63 20°N 170°W Pacific 
-3. ORIGINATING GROUP
+31.20N 170 W Pacific
+
+3. DATE-TIME GROUP
+Local 21/1021Z
+GMT 21/1021Z
+
 4. TYPE OF OBSERVATION
-O Ground-Visual O Ground-Radar
-X Air-Visual O Air-Intercept Radar
+☐ Ground-Visual ☐ Ground-Radar
+☒ Air-Visual ☐ Air-Intercept Radar
+5. SOURCE
+Military
+
+6. PHOTOS
+☐ Yes
+☒ No
+
 7. LENGTH OF OBSERVATION
+Not legible
+
 8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+Not legible
+
 10. BRIEF SUMMARY OF SIGHTING
-TIC obj sighted - Radar pickup only - Report indicates a good sized moving object at 20,000 ft. Speed of obj 370 kts.
+No obj sighted radar pickup only. Report indicates obj making passes on receiving a/c. No lights. Obj seemed to be rising radar. A/C at 20,000 ft. Speed of obj 330 kts.
+
 11. COMMENTS
-Probable VC.
+Probable a/c.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☒ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+(ATIC FORM 329 REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs, only text. Here is the text found in the document:
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
 
-AP IN : 9675 (21 DEC 63) INCOMING
-INFO : NIN-9, XOP-1, XOP-2, STAFF 03-3, ARMY-2, NAVY-2, CIA
-JCS-35, DIA-25, OSD-15, NASA-7, DIA-GU-2
+AP IN : 9676 (21 Dec 63) | N/PO M I N G                Page 1 of 2
+INFO : NIN-9, XOP-1, XOP-4, SAF-OS-3, ARMY-2, NAVY-2, CMC-8,
+        JCS-35, DIA-25, OSD-15, NSA-7, DTA25, DIA-CIIC-2 (106)
 
-S:13 3125
-LXAI 39KAA32
-... 26 RURUEAN RUEGO 
-DE RUHLE S 21/11252
-CMR
-62 211117Z
-FM 393 AIRDIV KUNIA FAILITY HA 
-TO RUHLEE/PAKAF,HICKAN AFB HA
-RUEHNHVOGSEANSFRON PEARL HARBOR HA
-INFO RUEHQJCSGC USAF
-RUECW/CSO WASH D C
-RUEHW/SOO HA WASH DC
-RUWALG/CINCPAC ENT AF3 SOLO
-RUHLKZ/CINCPAC CAMP HHI SMITH HA
-RUHLHS/CINGSPAC FT SHAFTER HA
-RUHLHL/CINCPACFLT PEARL HARBOR HA
-RUADASS/COMJSAPAN FUSHU AS JAPAN
-RUADAZ/COMUSKOREA SEOUL KOREA
-RUAGLL/COMUSTDC TAIPEI TAIWAN
-RUESBR/CINGSAC OFFUTT AF3 NEAR MT TANG
--T
-TTTTOOOIIICLAS/393 DC-CG 1939
+SJC 3125
+LXAISOKNA425
+....         ZZ RURJEAHQ RUECH
+
+DE RUHLKK 5 21/1125Z
+ZNR
+OZ 211117Z
+O '
+
+FM 325 AIRDIV KUNIA FACILITY HA
+TO RUHLKK/PAKAF HICKAM AFB HA
+RUIPHMY/CCMHASEAFRON PEARL HARBOR HA
+
+INFO RUEAHQ/CSAC USAF                                 ZNR WASH D C
+RUECH/COND WASH D C
+RUECH/SECHA WASH D C
+RUHJAL5/CINOKRAD ENT AFB COLO
+RUHLHS/CINOPAC CAMP H M SMITH HA
+RUHLHS/CONCUSAPAC FT SHAFTER HA
+RUHLIL/CINOPAKFLT PEARL HARBOR HA
+RUAJAZ/COMSUSJAPAN FUCHU AS JAPAN
+RUAAG/COMJUKOREA SEOUL KOREA
+RUAGL/COMUSTDC TAIPEI TAIWAN
+RUOSBW/CINGAO OFFUTT AFB NEBR
+AF SANG
+ST
+TTITOGOONCLASV325 DG-CO 1990
+
 
 - page 2 -
 
-The provided image does not contain any photographs. It appears to be a page from a Project Blue Book document containing a report on an object making passes over Mats 21337 radar pickup. The text of the document is as follows:
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
 
 INCOMING
-AF IN :: 9676 (21 DEC 63)
+
+AF IN :: 9676 (21 Dec 63)                                Page 2 of 2
 
 1. CIRVIS REPORT
 2. MATS 21337
 3. OBJECT MAKING PASSES ON MATS 21337 (RADAR PICKUP ONLY)
-OBJECT USING NO LIGHTS AND SEEMS TO BE USING RADAR; OBJECT 
-SPEED 360. ONE OBJECT.
-4. OBJECT WAS 1704 - FIRST PASS
-5. TRACKING RADAR
-6. 24,000 FEET 
+   OBJECT USING NO LIGHTS AND SEEMS TO BE USING RADAR; OBJECTS
+   SPEED 380. ONE OBJECT.
+4. 31.20 N; 170W - FIRST PASS
+5. 3/4 HR
+6. 20,000 FEET
 7. 330 DEGREES IN FRONT OF METS A/C
 8. 380 KTS
-9. N/A
-GT NOTE: Message retransmitted to CIA. ADV GY TO DIA. N
-XOPX.
+9. N/A.
+
+BT NOTE: Message retransmitted to CIA. ADV CY TO DIA, NIN and
+         XOFX.
+
 
 - page 3 -
 

@@ -1,51 +1,85 @@
-There is no photograph present in the provided image. The image appears to be a page from a Project Blue Book report, containing various fields filled out with information about a sighting, including the date, location, type of observation, source, number of objects, course, and comments.
+MILITARY                 PROJECT 10073 RECORD CARD
 
-PROJECT 10073 RECORD CARD
-1. DATE: 5 JAN 62
-3. DATE-TIME GROUP: LOCAL GM T 05/1750z 
-5. PHOTO: -
-7. LENGTH OF OBSERVATION: 1 MIN 
-10. BRIEF SUMMARY OF SIGHTING: "At 05/1750 z while traveling 475 to the witness who was traveling 715 could see an object 21:50 as it was trawlring at 32 degrees over the horizon. The object was lit up and was zigzagging and going up and down. After it left the horizon the object was identified as a satellite in time is considered possible and the case is classified as a possible satellite observation."
+1. DATE                2. LOCATION             12. CONCLUSIONS
+   5 Jan 62             47-30N 172-30W          □ Was Balloon
+                                                 □ Probably Balloon
+                                                 □ Possibly Balloon
+
+3. DATE-TIME GROUP     4. TYPE OF OBSERVATION   □ Was Aircraft
+   Local                □ Ground-Visual          □ Probably Aircraft
+   GMT 05/1750Z         □ Air-Visual            □ Possibly Aircraft
+
+5. PHOTOS              6. SOURCE               □ Was Astronomical
+   □ Yes                Military                □ Probably Astronomical
+   □ No                                         □ Possibly Astronomical
+
+7. LENGTH OF OBSERVATION   8. NUMBER OF OBJECTS   9. COURSE
+   5 min to zenith         one                   E
+
+10. BRIEF SUMMARY OF SIGHTING
+    Navy a pilot reported satellite or bearing   11. COMMENTS
+    at 35° from his position appearing at 35°    At 05/1750Z Echo I was at 47°50'N
+    above horizon passing E. Object ranged zenith 157-30E and would have appeared to be
+    and then disappeared. Determined object      traveling NE to the witness. Echo would
+    had no identifying marks.                    not be visible at the time reported.
+                                                 However Echo was in the direction re-
+                                                 ported and since the object was identified
+                                                 as a satellite a slight error in time is
+                                                 considered possible and the case is listed
+                                                 as a possible satellite observation.
+
+ATC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There does not appear to be any photograph present in this image. This appears to be a page from a UFO report document from Project Blue Book, containing text describing a sighting of a single satellite on a bearing of 280 degrees from position 47°30'N 172°30'W. The text provides details about the satellite's appearance, movement, and lack of identifying markings. It also notes a "NOTE" about an advance cy del to OOP-CP and CIN at 051635.
+Here is the OCR text from the document:
 
-AP IN : 540224 (15 Jan 62) DEPARTMENT OF THE AIR FORCE
-STAFF MESSAGE BRANCH
-UNCLASSIFIED MESSAGE
+05/1750 z
+AF IN : 54024 (5 Jan 62)
 
 SMB B 192
 
-D: RJHPKH12
+DEPARTMENT OF THE AIR FORCE
+STAFF INTELLIGENCE BRANCH
 
-INFO : CIN-14, OOP-2, OOP-GP-1, ARMY-2, CMG-7, JGS-45,
-OBD-15 NBA 11, CIA-11, DIA-2, SARS-3 (110)
+INCOMING
 
-PIC HAW DIR DEF DIV KUNIA ANNEX HAWAII
+DE DJIPKH12
+ZNR
+0 051925Z
+
+INFO : CIN-14, OOP-2, OOP-CP-1, ARMY-2, CMC-7, JCS-45,
+OSD-15, NSA-7, CIA-11, DIA-2, SAPS-3 (110)
+
+FK HAW AIR DEF DIV KUNIA ANNEX HAWAII
 TORBHPQ/COMHAWSEAFRON PEARL HARBOR HAWAII
-INFO RJEZHQ/CCFS USAF WASHINGTON DC
-RJUXSRB/CINGSAC OFFUTT AFB NEB
-RCSFW/CNO WASH DC 
-RSCPW/SECNAV WASH DC
-RJUFALS/CINCORAD ENT AFS COLORADO
-RBHPA/CINCPAC CAMP H SMITH HAWAII
-UHPPS/CINCUSARPAC FT SHAFTER HAWAII
-RBHPB/CINCPACFLT PEARL HARBOR HAWAII
-SAPARZ/CMHJAPAN TOKYO AS JAPAN
-RUAMCR/COMUSKQREA SEOUL KOREA
-UAAGFL/COMUSSTTDC TAIPEI TAIWAN
-RBHPHH/COMHAWSEAFRON KUNIA TUNNEL ANNEX
-RBHPD/COMASWFORPAC FORD ISLAND HAWAII
-AP GRNC
-ST
-UNCILAS/CIRVIS/NAVY AIRCRAFT 143186 REPORTS SIGHTING SINGLE 
+INFO RJEZHQ/CFS USAF WASHINGTON DC
+RJWX3RB/CINCSAC OFFUTT AFB NEB
+R3EPW/CNO WASH DC
+R3EPW/SECNAV WASH DC
+RJMFAL9/CINCINORAD ENT AFB COLORADO
+R3HPA/CINCPAC CAMP HM SMITH HAWAII
+TMHPFS/CINCUSARPAC FT SHAFTER HAWAII
+R3HPB/CINCPACFLT PEARL HARBOR HAWAII
+RJAPAZ/COMUSJAPAN FUCHU AS JAPAN
+RUAOC/COMUSKOREA SEOUL KOREA
+RUASFL/COMUSSTDC TAIPEI TAIWAN
+R3HPH/COMHAWSEAFRON KUNIA TUNNEL ANNEX
+R3HPD/COMASWFORPAC FORD ISLAND HAWAII
+AF GNIC
+3T
+
+UNCLAS/CIRVIS/NAVY AIRCRAFT 143186 REPORTS SIGHTING SINGLE
 SATELLITE ON BEARING 280 DEGREES FROM POSITION
-473C N172SEC W AT 051702Z. SATELLITE APPEARED 35 DEGREES
+473CN172304 AT 051750Z. SATELLITE APPEARED 35 DEGREES
 ABOVE HORIZON TRAVELING FROM WEST TO EAST PASSING
-ZENITH AT 051702Z, SPEED UNDETERMINED. NO IDENTIFYING
+ZENITH AT 051755Z. SPEED UNDETERMINED. NO IDENTIFYING
 MARKS. NO EVALUATION.
-NOTE: ADVANCE CY DEL TO OOP-CP AND CIN AT 051635
+
+NOTE : ADVANCE CY DEL TO OOP-CP AND CIN AT 051635
+3T
+
 
 - page 2 -
 

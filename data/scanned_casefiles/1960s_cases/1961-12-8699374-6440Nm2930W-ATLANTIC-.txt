@@ -1,51 +1,100 @@
-The image does not contain any photographs. It appears to be a Project 10073 Record Card from Project Blue Book, providing details about a UFO sighting.
-
-TEXT OUTPUT:
 PROJECT 10073 RECORD CARD
-1. DATE: 8 Dec 61
-3. DATE-TIME GROUP: Local 3709152  
-5. PHOTOS: Yes
-7. LENGTH OF OBSERVATION: Unknown
-10. BRIEF SUMMARY OF SIGHTING: Obj was unknown, observed and reported going E.
-12. CONCLUSIONS: 1. Was Satellite
-9. COURSE: Echo 1 was in azimuth to have been Echo 1.
-11. COMMENTS: Echo 1 was in azimuth to have been Echo 1.
+
+1. DATE
+27 Dec 61
+
+2. LOCATION
+GW00km 2930N (ATLANTIC)
+
+3. DATE-TIME GROUP
+Local -170915Z
+GMT -170915Z
+
+4. TYPE OF OBSERVATION
+☒Ground-Visual □Ground-Radar
+□Air-Visual □Air-Intercept Radar
+
+5. PHOTOS
+□Yes
+☒No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+1
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+E
+
+10. BRIEF SUMMARY OF SIGHTING:
+Chars. *characteristics believed to look like satellite observed and reported going E.
+
+11. COMMENTS:
+No info given. Echo I was in area at time of obj. is assumed to have been Echo I.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other: Insufficient Data for Evaluation
+□ Unidentified
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book.
-
-DEPARTMENT OF THE AIR FORCE 
+DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
 INCOMING
-AP IN : 37396 (17 DEC 61)
+
+AF IN: 37396 (17 Dec 61)                A/em
+
 ACTION: CIN-17
-INFO : GOP-2, GOP-CP-1, SAFS-3, DIA-2 (26)
-JJJFJJ3H35TCJBZ59 
-ZZ PJEZHO 
-DE PBDIC 933D 
-ZNP
-Z M 1709552
-FM ADMIN0 COMBARFOPLANT
-TO PBSHV/CNO
-PBEHKC/SINCLANTFLT
-PJEZH0/HQ USAF
-»JNFALB/CINCONAD
-PJEZGN/TWO SIX NORAD REGION
-PBEGUH/COMEASTSEAFRON
-INFO PBEHDT/COMASWFORLANT
-NAVY CPNC
+
+INFO: OOP-2, OOP-CP-1, SAFS-3, DIA-2 (26)
+
+ZZ PJEZHQ
+
+DE PBDIC 033D
+ZNR
+Z M 179552
+
+FM ADMINO COMBAPOFLANT
+
+TO PBEPW/QNO
+PBEKHG/CINCLANTFLT
+PJEZHQ/HQ USAF
+PJWFAL/CINCONAD
+PJEZSN/TWO SIX NORAD REGION
+PBEGUH/COMEAST SEAFRON
+INFO PBEKDT/COMASWFORLANT
+NAVY GPNC
+
 BT
 UNCLAS
+
 LOCATING ONE UFO
+
 1. PROBABLE SATELLITE
-2. 64-4SN 29-39W
-3. 1729192
-4. »99 DEGREES SPEED UNKNOWN
+2. 64-40N 29-30W
+3. 179915Z
+4. 090 DEGREES SPEED UNKNOWN
 5. VISUAL
 6. UNKNOWN
-BT 
-17/1922Z NOTE: Advance copy delivered to CIN 0520/17 DEC 61
+
+BT
+17/1090Z    NOTE: Advance copy delivered to CIN 0520/17 Dec 61
+
 
 - page 2 -
 

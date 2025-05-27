@@ -1,66 +1,116 @@
-The image does not contain any photographs. It appears to be a Project 10073 Record Card from Project Blue Book, a government program that investigated unidentified flying objects (UFOs) in the United States.
+PROJECT 1007 RECORD CARD
 
-PROJECT 10073 RECORD CARD
-1. DATE: 14 March, 1964
-2. LOCATION: 43-01N 171-40W (Pacific)
-3. DATE-TIME GROUP: Local
-4. TYPE OF OBSERVATION: Air-Visual
-5. PHOTOS: Yes
-6. LENGTH OF OBSERVATION: Not reported
-7. NUMBER OF OBJECTS: ONE
-8. COURSE: East
-9. BRIEF SUMMARY OF SIGHTING: UFO observed from Military a/c. Object in flight to East at 50 deg elevation. Speed fast.
-10. COMMENTS: CIRVIS report containing insufficient data for evaluation.
+1. DATE
+14 March, 1964
+
+3. DATE-TIME GROUP
+Local
+GMT 15/0762
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+7. LENGTH OF OBSERVATION
+Not reported
+
+10. BRIEF SUMMARY OF SIGHTING
+UFO observed from Military a/c. Object in flight to East at 50 deg elevation. Speed fast.
+
+2. LOCATION
+43.0N 171.40W (Pacific)
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual ☐ Ground-Radar
+☒ Air-Visual ☐ Air-Intercept Radar
+
+6. SOURCE
+Military
+
+8. NUMBER OF OBJECTS
+one
+
+11. COMMENTS
+CHRIS report containing insufficient data for evaluation.
+
+9. COURSE
+East
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other:
+   Insufficient Data for Evaluation
+☐ Unknown
+
+(ATIC FORM 329 [REV 26 SEP 52])
+
 
 - page 1 -
-
-There is no photograph present in this document. The document appears to be an incoming message from the Department of the Air Force regarding some information or report.
-
-DEPARTMENT OF THE AIR FORCE
-STATE MESSAGE BRANCH
-INCOMING
-
-AF IN : 3268 (15 Mar 64) L/atj
-INFO : NIN-1, XOP-1, XOPX-4, SAF-OS-23, ARMY-2, GMC-8, JGS-35,
-OSD-15, NSA-7, DIA-25 (102)
-
-SSSZ2221
-ZCZCZHQG7S1ZCCCD124
-DD RUAHIG
-DE RUHPF 5025 15/27552
-ZNR D 157735Z
-FM COMDARFORFPAC
-TO RUHKAK/CO/ALAIRBOR3
-RUHLLKG/CIICPACAF
-EENECI/CINCPAC
-INFQ RUECKWGMO
-RUEAHG/COPS USAF
-RUHQHG/CINCPAC
-RUHLLHG/CONICOMPACFLT
-RUHLSG/CINCUSARPAC
-RUHLKS/PACAF BASECOM COMMAND CENTER HICKAM AFB
-RUEQW/SCCNAV
-RUHPHH/COMNAVSECPRON
-SUAGAAN/MADE KUNLA
-BT
-
-- page 2 -
-
-The image does not contain any photographs. It appears to be a textual document from the Department of the Air Force Staff Message Branch regarding an "UNIDENTIFIED FLYING OBJECT" sighting.
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
 INCOMING
 
-AF IN : 3268 (15 Mar 64)                              Pg 2 of 2
+AF IN: 3268 (15 Mar 64) L/atj                   Pg 1 of 2
+
+INFO: NIN-1, XOP-1, XOPX-4, SAF-6423, ARMY-2, CMC-8, JCS-35,
+       OSD-15, NSA-7, DIA-25     (102)
+
+SMB 3821
+
+ZCZCHO475ICZCD184
+
+CO RUEAHQ
+
+DE RUHPF 5025 15/2755Z
+
+ZNR
+
+O 155755Z
+
+FM COMBARPFPAC
+
+TO RUKASC/CO*ALSEAFRON
+TWKDAC/CO*ALAIRCON
+RUHLKW/CI*CPACAF
+ZEN/CI*NCHORAD
+
+INFO RUECW/CWO
+RUEAHQ/COFS USAF
+RUHLHQ/CI*NCPAC
+RUHLHL/CONCPACFLT
+RUHLIS/CI*NCUSARPAC
+RUHLKSW/PACAF BASEDOM COMMAND CENTER HICKAM AFB
+RUECW/SIGCNAV
+RUPHPW/CO*HAHSEAFRON
+RUAUASH/HADD KUNIA
+
+BT
+
+
+- page 2 -
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING
+
+AF IN : 3268 (15 Mar 64)                                   Pg 2 of 2
 
 UNCLAS.
-A. JANAP 14SD
+A. JANAP 146D
 1. CIRVIS REPORT.
 2. V43224
 3. UNIDENTIFIED FLYING OBJECT
-4. BRG 180 DEGREES T FROM 43-01 N 171-40W
-5. 1547/52
+4. DRG 100 DEGREES T FROM 43-01 N 171-40W
+5. 150706SZ
 6. 50 DEG ABOVE HORIZON
 7. EAST
 8. VERY FAST
@@ -68,7 +118,8 @@ A. JANAP 14SD
 10. EVALUATION UNKNOWN
 
 NOTE: ADVANCE COPIES DELIVERED TO: DIA, NIN & XOPX.
-RETRANSMITTED TO CIA.
+       RETRANSMITTED TO CIA.
+
 
 - page 3 -
 

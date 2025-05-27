@@ -1,130 +1,184 @@
-The image does not contain a photograph. It is a page from a Project Blue Book UFO report document, specifically a "PROJECT 10073 RECORD CARD" that appears to contain details about a UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 9 APR 60
-2. LOCATION: SE of Newfoundland
-3. DATE-TIME GROUP: 1900-2300Z
-4. TYPE OF OBSERVATION: Ground-visual
-5. PHOTOS: D Yes
-6. LENGTH OF OBSERVATION: Military
-7. LENGTH OF OBSERVATION: one-half hr
-8. NUMBER OF OBJECTS: 1
-9. COURSE: 3M
-10. BRIEF SUMMARY OF SIGHTING: "Looked like a baseball, flying only was seen, moving in arc on SE course. Similar object observed to the north 2 this fighting a few minutes later."
-11. COMMENTS: "Probably meteor."
+
+1. DATE
+9 APR 60
+
+2. LOCATION
+SE of Newfoundland
+
+3. DATE-TIME GROUP
+Local 1000-452 APR 60
+GMT
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual
+☑ Air-Visual
+☐ Ground-Radar
+☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☑ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+3-4 sec
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+SW
+
+10. BRIEF SUMMARY OF SIGHTING
+"Comet tail," size of baseball, flames only
+was seen, moving in arc on SW course. Similar
+object observed to the north of this sighting
+a few minutes later.
+
+11. COMMENTS
+Probably meteor.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☑ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 25 SEP 52)
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a scanned document containing text that describes details of a sighting of an unidentified flying object (UFO) over Newfoundland.
-
-The text output from the OCR (Optical Character Recognition) is as follows:
-
-KUMENT RIVER HAS RE- 
+AULKENT RIVER NAS MD.
 PILOT VERY RELIABLE
 
-AGE THREE REPORT 4 
-1. EXCELLENT VIS ABOVE STRATUS LAYER 
-2. 232 DEGREES/15 PLUS 25 
-10.225 232 DEGREES/22
-12.220 225 DEGREES/24
-22.000 214 DEGREES/32
-42.000 243 DEGREES/56  
-3. R/A
-4. 12 MILES ICE CRYSTALS
-5. 2/14 CIRRUS AT 22,000 FT.
+PAGE THREE NJOORP 4
+3. C.
+1 EXCELLENT VIS ABOVE STRATUS LAYER
+2 250 DEGREES/15 PLUS 23
+10,000 250 DEGREES/23
+20,000 246 DEGREES/42
+30,000 246 DEGREES/52
+40,000 246 DEGREES/60
+3. N/A
+4 12 MILES ICE CRYSTALS
+5. 2/10 CIRRUS AT 20,000 FT.
 6. N/A
-7. NI
+7. HT
 NEGATIVE
 8. I
 NONE
-9. I
-ONE
-ITION CONTROLLED GOOSE AIR DEFENSE SECTOR PRIMARY ANALYSIS REVEALS 
-O PROBABLE CAUSE OF SIGHTING OTHER THAN POSSIBLE APPEARANCE OF 
-MET. SECOND SIGHTING BY AN AIRLINES PILOT TO THE NORTH OF 
-S LATER REVEALS THAT THIS OBJECT MUST HAVE REAPPEARED.
+9. J.
+NONE
+4. K.
+1 SENIOR CONTROLLER GOOSE AIR DEFENSE SECTOR PRIMARY ANALYSIS REVEALS
+NO PROBABLE CAUSE OF SIGHTING OTHER THAN POSSIBLE APPEARANCE OF
+POINT. SECOND SIGHTING BY AN AIRLINES PILOT TO THE NORTH OF
+THIS SIGHTING AND
+2 MILES LATER REVEALS THAT THIS OBJECT MUST HAVE DISAPPEARED.
 
 - page 2 -
 
-The image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book.
+40,200 240 DEGREES/60
 
-13,239 240 DEGREES/32
-6 - 17/6
-12 MILES ICE CRYSTALS
-2/12 CIRCUS AT 22,623 FT.
-LK
+3. N/A
+
+4. 12 MILES ICE CRYSTALS
+
+5. 2/10 CIRRUS AT 20,000 FT.
+
+6. N/A
+
+7. NO
+
 NEGATIVE
-K
-LONE
-J.
-NONR
+
+8. X
+
+NONE
+
+9. J.
+
+NONE
+
+10. K.
+
 1 SENIOR CONTROLLER GOOSE AIR DEFENSE SECTOR PRIMARY ANALYSIS REVEALS
 NO PROBABLE CAUSE OF SIGHTING OTHER THAN POSSIBLE APPEARANCE OF
 COMET. SECOND SIGHTING BY AN AIRLINES PILOT TO THE NORTH OF
 THIS SIGHTING AND
-6 MILES LATER REVEALS THAT THIS OBJECT MUST HAVE REAPPEARED.
+9 MILES LATER REVEALS THAT THIS OBJECT MUST HAVE REAPPEARED.
 
-12/031UZ APR RECORD
+BY
+13/0512Z APR RJEOBP
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be an "Operational Immediate" document from Project Blue Book, dated April 10, 1959.
-
 OPERATIONAL IMMEDIATE
-19 APR 10 05 29
-TO RJEJLRD
-RJEJLRD REPORT
-RJAGXE
-TO RJEJRO RJEZRIO AFJTAL PREUVE
-R RJEJLRD 4
-G 12244442 ZZX
-FT GOOSE MORAD SECTOR
-TO RJAJTAL/CRWER ADC
-RJEJDLR/GGRRD ASN RACH LYTLL GVN
-RJEZRIO/ASET COD INTELL HAS USAF 
-RJEZRIO/CG OF INTL ROTS HAS USAF
-RJEJRJO/CDRG OF GOINGS AND IT INFORMS
-IT
 
-FUNCLAS/GOOYY MORAD SEC CC2233 SUBJECT: UFO REPORT.
+UNCLAS
+RJEDS/COMDR AIR RECH INTELL GEN
+RJEZIO/AST COM INTELL HQS USAF
+RJEZHO/OTC OF INFO SVCS HQS USAF
+RFEKVBAR OFF COMDING ADC ST HUBERTS
+
+JUNCLAS/GOOSE NORAD SEC CG22263 SUBJECT: UFO REPORT.
+
+3. A
 1. COMET TAIL
 2. BASEBALL
-3. VIE AND GE
+3. WE AND GE
 4. I
-5. RYA
-6. FFIA
-7. PLANE ONLY SEEN
+5. N/A
+6. N/A
+7. FLAME ONLY SEEN
 
-PAGE TWO REPORT 4
-
-8. RYA
+PAGE TWO RJEBP 4
+3.
+4. N/A
 
 - page 4 -
 
-There does not appear to be any photograph present in this image. The image shows text that appears to be an excerpt from a UFO report document, likely from Project Blue Book.
+PAGE TWO RJEOCP 4
 
-PAGE TWO REPORT 4
-- 1. HVA 
-- 2. COURSE DISTINCT AND CLEAR
-- 3. VERY FAST
-- 4. PLANE OF TAIL
-- 5. 23 TO 42
-- 6. 35 TO 42
-- 7. ARC OF 90 COURSE
-- 8. INSTANTLY TO SU
-- 9. 3 TO 4 SEC
-- 1. AIR VISUAL
-- 2. R/A
-- 3. CF-121 V1321
-- ALT: 9,222
-- M-.31 MAS
-- SPD 152 KTS.
-- FAIRFIELD RIVER, LD
-- 1. 22.54
-- 2. BRIGHT WITH FULL MOON
-- 3. 1.460.984 2315 V 75 BE TORDAY
-- 4. F-
-- 5. HVA - MOON, COMDR.
+A. N/A
+
+B. COURSE DISTINCT AND CLEAR
+   VERY FAST
+
+C. 1. FLAME OF TAIL
+   2. 35 TO 40
+   3. 35 TO 40
+   4. ARC ON SW COURSE
+   5. INSTANTLE TO SW
+   6. 3 TO 4 SEC
+
+D.
+   1. AIR VISUAL
+   2. N/A
+   3. C-121 V1321
+   4. ALT. 6,222
+   5. W-315 MAG
+   6. SPD 190 KTS.
+   7. PAURENT RIVER, MD
+
+E.
+   1. 22452
+   2. NIGHT WIRTH FULL MOON
+   3. 1. 4643N 5213 W 75 MI SE TORBAY
+   4. F.
+      1. N/A
+      2. W.S. NOON, COMDR.
 
 - page 5 -
 

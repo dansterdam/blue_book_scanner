@@ -1,89 +1,236 @@
-The image does not contain any photographs. It appears to be a scanned document from Project Blue Book, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs) from 1952 to 1969.
-
-The text in the document is as follows:
-
 PROJECT 10073 RECORD CARD
 
-1. DATE: 1-3 AUGUST 1962
-2. DATE-TIME GROUP: 14/1330z
-3. LOCATION: MANAGUA, NICARAGUA
-4. TYPE OF OBSERVATION: O Ground-Radar
-5. DURATION: 2 MINUTES
-6. NUMBER OF OBJECTS: 1
-7. LENGTH OF OBSERVATION: 2 MINUTES
-10. BRIEF SUMMARY OF SIGHTING: WITNESS, ON BLUEFIELD NEWSPAPER, REPORTED PNT FM OF A BLUEFIELD NEWSPAPER, REPORTEO SIGHTING OF ORB. SAID IT WAS LARGER THAN BALL, wHitISH COLOR, AND wAS OBSERVED IN SKY FOR 2 MIN. RPID. MOVEMENTS EVASIVE. SAID TO RESEMBLE BALLOON. ALSO GAVE APPEARANCE OF CHEMICAL PROPELLANT.
-11. COMMENTS: INVESTIGATION NOT CPLD. POSSIBILITY OF IDENTIFICATION OF OBJECT NOT CPLD.
+1. DATE
+12-14 August 1962
+
+2. LOCATION
+Managua, Nicaragua
+
+3. DATE-TIME GROUP
+Local: 14/1330Z
+GMT: 14/1330Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+CY Yes
+
+6. LENGTH OF OBSERVATION
+not rptd
+
+7. NUMBER OF OBJECTS
+one
+
+8. COURSE
+14/1330Z East
+12/1540Z SE
+
+9. SOURCE
+Civilian
+
+10. BRIEF SUMMARY OF SIGHTING
+14/1930Z: Newspaper rpts fm Bluefields, Managua, & Leon of obj falling into sea. One rpt located road explosion. 12/1540Z: Obj too low to be space vehicle. Rptd to local newspapers. Luminous. Appeared in distance to be falling star. Rapid, horizontal flight. Gave appearance of chemical propellant.
+
+11. COMMENTS
+Duration not rptd. Possibility of meteor sightings. Also some conflict in rpts. Insufficient data for analysis.
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other: Insufficient Data for Evaluation
+Unknown
+
+ATIC FORM 329 (REV 29 SEP 52)
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a telegram sent from Managua, Nicaragua on August 13, 1962 to the Secretary of State. The telegram discusses the sighting of an unidentified flying object over Managua by the ARMA. The object was observed passing from northwest to southeast and moving at a high but undetermined speed, without noise. The telegram also mentions that the object left a luminous trail which appeared to be a chemical propellant. The telegram is marked as "UNCLASSIFIED" and "REPRODUCTION FROM THIS COPY IS PROHIBITED UNLESS "UNCLASSIFIED.'"
+INCOMING TELEGRAM                Department of State
 
-INCOMING TELEGRAM Department of State
-8-7-62 
-ACTION AP IN 15:2049 (14 Aug 62) G/SO
-FROM: Managua   
+47-48
+Action
+SSA
+Info
+G
+ARA
+FIN
+SAE
+P
+USIA
+INR
+CIA
+NSA
+CSD
+ARMY
+NAVY
+AIR
+NASA
+RMR
+
+Control:     9775
+AF IN : 21949 (14 Aug 62) G/so     Rec'd:    August 13, 1962
+                                             9:39 p.m.
+FROM: Managua
+
 TO: Secretary of State
+
 NO: 58, August 13, 6 p.m.
+
 PRIORITY
-UNCLASSIFIED PASS DA FOR ACSI; INFORMATION J-2 CINCARIB, G-2 USARCARIB
-CITE CX-13
-ON 8-13-62, AUGUST AN UNIDENTIFIED FLYING OBJECT WAS OBSERVED OVER MANAGUA BY ARMA. PASSING FROM NORTHWEST TO SOUTHEAST, OBJECT APPEARED BRILLIANT AND VERY RAPID AT UNDETERMINED SPEED, WITHOUT NOISE. OBJECT LEFT TRAIL OF LUMINOUS GLOW WHICH APPEARED TO BE CHEMICAL PROPELLANT. SEEN BY OTHER UNQUALIFIED OBSERVERS RESULTS LOCAL RUMOR THAT OBJECTS SOVIET RECONNOITERING AND PROBABLY WAS REPORTED AS SUCH TO INTERNATIONAL PRESS. ICGP-3.
-SMD:JVD/la
-NOTE: Relayed to CINCARIB, USARCARIB 8/14/62
+
+DEPARTMENT PASS DA FOR ACSI; INFORMATION J-2 CINCARIB, G-2,
+USARGARIS
+
+CITE CX-18
+
+At 131540Z August an unidentified flying object was observed
+over Managua by ARMA. Passing from northwest to southeast,
+object first appeared in distance as a falling star. Moving
+rapidly at undetermined speed, without noise, at low but
+undetermined altitude, object appeared to follow horizontal
+course. When overhead, body unidentifiable but appeared as
+glow with luminous trail which appeared to be chemical pro-
+pellant. Object not identified by local qualified sources.
+Seen by other unqualified observers results local rumor that
+object was Soviet astronauts and probably was reported as
+such to international press. SCP-3. Signed Morgan.
+
+MESSAGE UNSIGNED
+
+SMD:JVC/14
+
+NOTE: Relayed to CINCARIB, USARGARIS 8/14/62
+
+UNCLASSIFIED
+REPRODUCTION FROM THIS COPY IS
+PROHIBITED UNLESS "UNCLASSIFIED"
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a scanned document, specifically an incoming telegram or teletype message.
+INCOMING TELEGRAM
+AF IN : 23549 (15 Aug 62) G/dfc
 
-Incoming Telegram
-DATE: 8 AUG 62 
-FROM: Managua 
+55
+Action
+ARA
+
+FROM: Managua
+
+Info
+G
+SSA
+P
+USIA
+NSC
+JWR
+CTA
+USA
+OSD
+NAVY
+AIR
+RWR
+
 TO: Secretary of State
+
+Department of State
+
+Control: 106062
+Rec'd:  August 14, 1962
+         2:03 p.m.
+
 NO: 50, August 14, 9 a.m.
+
 PRIORITY
-DEPARTMENT PASS DA FOR ACGP INFORMATION OTO GINGARIB, OTO USAGE
+DEPARTMENT PASS DA FOR ACSI INFORMATION GTWO CINCARIB, GTWO USARCARIB.
+
 Cite CX-19
-REF my CX-18 cottace time object sighted TV read 12154OZ August. 
-Newspaper reports (Prensa RC 'Granada- RER') many persons in Western Nicaragua observed unidentified flying object. Consensus of observers agree this attitude of object too low to be space vehicle. No further identification made.
-SGD MORGAN
+
+REF my CX-18 correct time object sighted TV read 121540Z August. Local newspapers RFI (repeated RFT) many persons in Western Nicaragua, observed unidentified flying object. Consensus of observers agree that altitude of object too low to be space vehicle. No further identification made.
+
+SGP-3.
+
+SGD MORGAN.
 BROWN
+
 DMJ
-NOTE: RELATED TO DEPTAR, GINGARIB, USARCARIB, 8-14-62, HED
-AD DIST: OI-9, SAFE-3, XPD-3, OOP-OF-1, SHX-3 -19-
+
+NOTE: RELAYED TO DEPTAR, CINCARIB, USARCARIB, 8-14-62, MED.
+
+AF DIST: CIN-9, SAFE-3, XPD-3, COP-CP-1, SMS-3 -19-
+
+UNCLASSIFIED
+REPRODUCTION FROM THIS COPY IS PROHIBITED UNLESS UNCLASSIFIED
+
 
 - page 3 -
 
-There is no photograph present in this document. However, I will proceed to extract the text from the document as requested:
-
 MESSAGE
-15:32:22 AUG 62
-FM ARANAGUA
-TO RUPDD/DEPTAR UASHDC
-INFO RUPOC/GINCAR10
-RULNAK/UASHNGTON
+PR 151625Z AUG 62
+FM ANEMBASSY MANAGUA
+TO RUEPDA/DEPTAR WASHDC
+INFO RULPC/CINCARIB
+RULPAK/USARCARIB
 
-CITE GX-21
+AF IN : 24905 (16 Aug 62)S/Joe
+AF DIST: CIN-96, OOP-2, OOP-02-11 SAFS-3,
+DIA-16, DIA-CMC-3 (28)
 
-GINCAR15 4-2
+DOWNGRADED AT 12 YEAR INTERVALS;
+NOT AUTOMATICALLY DECLASSIFIED
+DOD DIR. 5200.10
 
-USARGARI3 6-2
+CITE CX-21
+
+CINCARIB J-2
+
+USARCARIB G-2
 
 DEPTAR FOR ACSI
 
-REFERENCE MY CX19 LOCAL NEWSPAPERS REPORT ANOTHER UNIDENTIFIED FLYING OBJECT OBSERVED 1413322 AUGUST PASSING OVER MANAGUA FROM EAST TO WEST. SIGHTED FROM SEVERAL FIELDS, MANAGUA AND LEON. LUMINOUS OBJECT HAD SAME APPEARANCE AS FLYING OBJECT OF SUNDAY NIGHT. THIS REPORT UNCONFIRMED. ANOTHER NEWS REPORT ALLEGES UNIDENTIFIED TRAFFIC COAST SOUTH OF LEON OBSERVED FLYING OBJECT OF SUNDAY NIGHT FALL INTO SEA 20 MILES FROM COAST AND THEN HEARD 2 LOUD EXPLOSIONS. THIS REPORT DOUBTFUL SINCE DA IN 255872
+REFERENCE MY CX19 LOCAL NEWSPAPERS REPORT ANOTHER UNIDENTIFIED FLYING OBJECT OBSERVED 141532Z AUGUST PASSING OVER MANAGUA FROM EAST TO WEST. SIGHTED FROM BLUEFIELDS, MANAGUA AND LEON.
+
+LUMINOUS OBJECT HAD SAME APPEARANCE AS FLYING OBJECT OF SUNDAY NIGHT. THIS REPORT UNCONFIRMED. ANOTHER NEWS REPORT ALLEGES...
+
+INHABITANTS ALONG PACIFIC COAST SOUTH OF LEON OBSERVED FLYING OBJECT OF SUNDAY NIGHT FALL INTO SEA 20 MILES FROM COAST AND THEN HEARD 2 LOUD EXPLOSIONS. THIS REPORT DOUBTFUL SINCE DA IN 255872
+
+PAGE NR 1
+
 
 - page 4 -
 
-The image does not contain any photographs. It appears to be a page from an old government document, specifically a "MESSAGE" from the Department of the Army regarding an unidentified object observed south of Managua, Nicaragua.
-
 MESSAGE
+
+DEPARTMENT OF THE ARMY
+STAFF COMMUNICATIONS OFFICE
+
 SAME OBJECT OBSERVED SOUTH OF MANAGUA ON SOUTHWEST COURSE.
+
+SCP-3
+MORGAN
 
 NOTE: ADVANCE CY TO DIA
 
 NOTE: REF NOT IDENTIFIED
-ACTION: ASS'T GSA, JGS, NAVY, AF, CMC, OSD 
-DA IN 255372
+ACTION: ACS1
+INFO: DCSOP, OSA, JCS, NAVY, AF, CMC, OSD
+DA IN 255872
+
+UNCLASSIFIED
+
+2
+
+UNCLASSIFIED
+PAGE NR
+
 
 - page 5 -
 

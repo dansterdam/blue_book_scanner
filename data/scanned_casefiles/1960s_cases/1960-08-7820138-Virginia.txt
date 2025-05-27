@@ -1,28 +1,64 @@
-There is no photograph present in this image. This appears to be a page from a Project Blue Book record card, which contains fields for recording various details about a UFO sighting incident.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 12 August, 1960
-2. LOCATION: Virginia
-3. DATE-TIME GROUP: Local
-4. SIGHTINGS DURATION: 20 min.
-5. TYPE OF OBSERVATION: D Ground-Radar, D Air-Visual, D Air-Radar
-6. SOURCE: Ground-Observer
-7. LENGTH OF OBSERVATION: 20 min.
-8. NUMBER OF OBJECTS: 1
-9. COURSE: Not stated
-10. BRIEF SUMMARY OF SIGHTING: Vertical ascending motion, disappeared below horizon.
-11. COMMENTS: Weather conditions were good, no wind, clear sky. Object was observed for 20 minutes until it disappeared below the horizon. Observer estimated elevation to be approximately 45 degrees. Object was observed visually and on ground radar.
-12. CONCLUSIONS: Possible Satellite, Probable Missile, Possible Aircraft, Possible Astronomical
+
+1. DATE
+13 August, 1960
+
+2. LOCATION
+Virginia
+
+3. DATE-TIME GROUP
+Local ----
+GMT ----
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Interceptor Radar
+
+5. PHOTOS
+□ No
+[X] Yes (Physical spectrum)
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+----
+
+8. NUMBER OF OBJECTS
+----
+
+9. COURSE
+----
+
+10. BRIEF SUMMARY OF SIGHTING
+(Partially illegible, appears to be a narrative description of an observation)
+
+11. COMMENTS
+(Partially illegible, appears to discuss details of the sighting)
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other: Insufficient data
+□ Unknown
+
+ATC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. The image appears to be a scanned document page from Project Blue Book, containing text only.
-
 MEMORANDUM FOR RECORD:
 
-1. This equipment was originally reported as unidentified only as to its origin and purpose. The equipment was shipped to ATIC and was subsequently found to be a signal generator that it had been returned by them.
+1. This piece of equipment was originally reported as unidentified only as to it's origin and purpose. The equipment was shipped to ATIC, and was subsequently found to belong to ____________. They requested that it be returned to them, and when _________________ representative in Dayton, presented himself to ATIC the equipment was turned over to him.
 
-2. The equipment is called a small radio transmitter and is used for a signal for tracking purposes.
+2. The equipment is called a water beacon, which has a small radio transmitter in its center. The transmitter sends out a signal for tracking purposes.
+
 
 - page 2 -
 

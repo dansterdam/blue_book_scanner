@@ -1,50 +1,90 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record card, which is a document used to record details of UFO sightings.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 1-9-64
-2. LOCATION: Shark River, New Jersey
-3. DATE-TIME GROUP: Level 2122
-4. TYPE OF OBSERVATION: 1 Ground-Radar
-5. DURATION: 5-10 seconds
-6. NUMBER OF OBJECTS: ONE
-7. LENGTH OF OBSERVATION: 5-10 seconds
-8. COURSE: NNW
-9. CONCLUSIONS: 14 Was a balloon
-11. COMMENTS: Insufficient data for analysis. Object observed through overcast, conditions did not permit exact size, trajectory and movement to be determined. Object resembled a distant light, however insufficient data for evaluation.
+
+1. DATE
+24 Jan 64
+
+2. LOCATION
+Shark River, New Jersey
+
+3. DATE/TIME GROUP
+Local 2150
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. LENGTH OF OBSERVATION
+15 - 20 seconds
+
+6. SOURCE
+military
+
+7. NUMBER OF OBJECTS
+one
+
+8. COURSE
+SW
+
+9. PHOTOS
+No
+
+10. BRIEF SUMMARY OF SIGHTING
+Bright white light moving at great speed from 05 deg azimuth to SW at an unknown altitude. No flash. Course erratic. Sky overcast. Object observed through clouds. Also observed at second location.
+
+11. CONCLUSIONS
+Insufficient data for evaluation. Object observed through overcast. Sound not reported and object appears to be a light and not burning. Feasible w/o with landing light, however insufficient data for evaluation.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. This appears to be a text document from Project Blue Book, an Air Force program that investigated UFO sightings.
+AF IN: 50084 (26 Jan 64) L/PGM/SAGA MARCH
 
-AP 1948 5063.4 (25 JAN 64)
-ACTION: MIN-7
-MEMO: XOP-1, XOPX-4, (3AP-OS-3), NEN 7 (CONS)
-SUBJECT: CCKGBS43323SA0O7I
-ZZ RUEHQ
+ACTION: NIN-7
 
-DE RUEGLP 009 26/0405Z
+INFO: XOP-1, XOPX-4, (SAF-OS-3), DIA-25, DIA-CIIC-2 (43)
+SWS 0005
+
+CZCHQ8543ZCECA071
+
+ZZ RUEAHQ
+
+DE RUESGUF 009 26/0405Z
+
 ZNR
-Z ES040SSZ
-FM GOOD TIREE
-TO RUEKHC/CINCLANFLT
-RUEAKN/CINCLANTFLT
-RUEAKN/HQ USAF
-URECW/CNO
-RUESSU/COMEASTSEAFRON
-RUEANJZEST NORAD
+
+Z 26040SZ
+
+FM CCGD THREE
+
+TO RUCKW/CINCLANTFLT
+RUEAKN/CINCNORAD
+RUEAHQ/HQ USAF
+URECW/CWO
+RUEGUH/COMEAST SEAFRON
+RUEASN/26TH NORAD
 RUECJD/COMDT COGARD
+
 INFO ZEN/COMEASTAREA
 
 BT
-UNCLAS,
-VITAL INFO. 
-FOLLOWING RECEIVED FROM MANESQUAN INLET COGARD STATION NEW JERSEY
+
+UNCLAS.
+
+VITAL INFO.
+
+FOLLOWING RECEIVED FROM MANASQUAN INLET COGARD STATION NEW JERSEY
+
 QUOTE 2150R LOOKOUT TOWER REPORTS BRIGHT WHITE LIGHT MOVING GREAT
-SPEED FROM 055 DEGREES TRUE TOWARD 3W VISUAL CONTACT. ALTITUDE 
-UNKNOWN. NO VISIBLE FLASH. COURSE ERRATIC. SKY OVERCAST. OBJECT
+SPEED FROM 095 DEGREES TRUE TOWARD SW VISUAL CONTACT. ALTITUDE
+UNKNOWN, NO VISIBLE FLASH. COURSE ERRATIC. SKY OVERCAST. OBJECT
 SEEN THROUGH CLOUDS. VISIBLE 15 OR 20 SECONDS. UNQUOTE. INFO
+PASSED TO NYADS VIA SAGE TACTICAL PHONE AT 250300Z
+
 OBJECT ALSO SIGHTED BY SHARK RIVER COGARD STATION NEW JERSEY.
-NI NOTE: ADVANCE COPY DELIVERED TO NIN & DIA-GTIC-2 (43)
+
+BT NOTE: ADVANCE COPY DELIVERED TO XOPX, NIN & DIA-CIIC.
+
 
 - page 2 -
 

@@ -1,44 +1,86 @@
-This image does not contain any photographs. It appears to be a scanned page from a Project Blue Book document, specifically a Project 10073 record card.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 22 Feb 61
-2. LOCATION: Vandenberg AFB, California
-3. DATE-TIME GROUP: 1750 PST
-4. TYPE OF OBSERVATION: C Ground-Radar
-5. DESCRIPTION: Bright luminous object, greenish yellow, flashed intermittently appeared to be hovering at high altitude approx 55-60 miles W of Vandenberg AFB, Calif. Daylight observation.
-6. SOURCES: D Ground-Radar
-7. LENGTH OF OBSERVATION: 1130
-8. NUMBER OF OBJECTS: 1
-9. COURSE: not given
-10. BRIEF SUMMARY OF SIGHTING: Bright luminous object, greenish yellow, flashed intermittently appeared to be hovering at high altitude approx 55-60 miles W of Vandenberg AFB, Calif. Daylight observation.
-11. COMMENTS: Observers should be familiar w/most possible objets, however, duration and lighting and flight characteristics insufficient. Data category.
+
+1. DATE
+22 Feb 61
+
+2. LOCATION
+Vandenberg AFB, California
+
+3. DATE-TIME GROUP
+Local: 1700 PST
+GMT: 23 0100Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+Source: Military
+
+5. PHOTOS
+Yes
+No
+
+6. LENGTH OF OBSERVATION
+1
+
+7. NUMBER OF OBJECTS
+1
+
+8. COURSE
+150-20 deg above horizon traveling E to W
+
+9. BRIEF SUMMARY OF SIGHTING
+Bright burning obj w/greenish yellow flame flashing intermittently appeared 150-20 deg above horizon traveling E to W. Observed by Missile Officer and Weather Forecaster. Daylight observation.
+
+10. COMMENTS
+Observers should be familiar w/most possible objs, however, duration of sighting and flight characteristics including speed omitted fm report. Insufficient Data category.
+
+11. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Possibly Aircraft
+Was Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report.
+Here is the text from the document:
 
-SOB 011
-CDB 3637RB4576
+UNCLASSIFIED
+
+SQB 013
+CDB 368PKBATG
 PP RJEDSQ
-DE RJWBPK9
-P 2309302
+DE RJWBFKS
+P 230930Z
 FM DET 33 WEAWG VANDENBERG AFB
-TO RJEZHA/HQ USAF WASH DC
-RJEZDA/ATIC WRIGHT PATTERSON AFB OHIO
-RJEZEF/AF CCDD HANSCOM AFB
+TO RJEZHQ/HQ USAF WASH DC
+RJEDSQ /ATIC WRIGHT PATTERSON AFB OHIO
+RJEZBF/AF CCDD HANSCOM AFB
 INFO RJEDAA/HQ AWS SCOTT AFB
 BT
-DET 33 WEAWG C-31-54
-ACTION H Q USAF (AFCIN-1313? ATIC (AFCIN-442) AFCCDD (CCSTN?) INFO
-TO AWS (WSEAA) MOON DUST. BRIGHTLY SHINING OBJECT WITH GREENISH-
+
+ACTION HQ USAF (AFCIN-1B1), ATIC (AFCIN-4A), AFCCDD (CCSTN), INFO
+HQ AWS (AWSSS). MOON DUST. BRIGHTLY BURNING OBJECT WITH GREENISH-
 YELLOW FLAME FLASHING INTERMITTENTLY SIGHTED FROM VANDENBERG AFB
 APPROXIMATELY 23 FEB 0100ZULU. OBJECT WAS 15 TO 20 DEGREES ABOVE
-YOUTHGEN HORIZON TRAVELING WEST TO EAST. SINCE SIGHTING WAS AT
-1700 PST AND SUN WAS WELL ABOVE HORIZON, PHENOMENON NOT SEEN BY 
-TWO INDEPENDENT OBSERVERS, ONE A WEATHER FORECASTER ON BREAK. THE
+YOUTHGEN HORIZON TRAVELLING WEST TO EAST. SINCE SIGHTING WAS AT
+1700 PST AND SUN WAS WELL ABOVE HORIZON, PHENOMENON NOT SEEN BY
+TWO INDEPENDENT OBSERVERS, ONE A WEATHER FORECASTER ON BREAK, THE
 OTHER AN OFFICER FROM 1ST MISSILE DIVISION.
 BT
-23/1820Z FEB RJWBPK
+23/1820Z FEB RJWBFK
+
+Classification Cancelled
+
+UNCLASSIFIED
+
 
 - page 2 -
 

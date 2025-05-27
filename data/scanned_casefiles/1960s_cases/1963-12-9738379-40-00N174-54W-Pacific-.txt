@@ -1,63 +1,125 @@
-There is no photograph present in the image provided. It appears to be a Project 10073 Record Card from the Project Blue Book archive, which contains textual information about a UFO sighting observation.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 15 DEC 1963
-3. DATE-TIME GROUP: Local
-4. TYPE OF OBSERVATION: d Air-Visual
-5. PHOTOS: 0 Yes
-6. No
-7. LENGTH OF OBSERVATION: 15 SECONDS
-10. BRIEF SUMMARY OF SIGHTING: Two objects were observed traveling from West to East, leaving a trail, at a very high rate of speed. The duration of the sighting was approximately 15 seconds.
-11. COMMENTS: Under observation from rapidly transit across sky. "Objects" appeared to be luminous with blue-green flashes. Reports of this nature indicate the unknown, are interpreted as similar to the "Unidentified Lights" being frequently reported above certain areas. Such visual incidents are interpreted as intensity and frequency indicators of the phenomenon, which are clearly detected on ground radar at the same time, but which are considered to be beyond the capability of any known equipment to identify and track in a definitive manner. Things of this nature occur frequently and do not fall into any known category, despite efforts to associate them with some terrestrial or extra-terrestrial devices whose existence may yet be unverified. It is assumed that they do not represent any known device, aerial or otherwise, and constitute a classification problem of a higher order.
+
+1. DATE
+16 Dec 1963
+
+2. LOCATION
+40.00N 174.54W (Pacific)
+
+3. DATE-TIME GROUP
+Local
+GMT 17/0902
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☐ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+15 seconds
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+East
+
+10. BRIEF SUMMARY OF SIGHTING
+While blinking light in flight from West to East. Duration lasted 15 seconds. Alt of obj unknown.
+
+Statement that obj had rapid transit across sky considerable arc. Reports of this nature listing alt as unknown are interpreted to mean that the obj is at considerable height, usually in the atmosphere, at least they are a considerable distance above the reporting a/c. Such items as intensely and manner of its appearance are omitted from the CIRVIS format.
+
+Were these items included there is a slight possibility that an evaluation might be made, however, slight blinking a few times a second causing a considerable segment of the sky in 15 sec when it is assumed that the obj is far away does not fall into any known category of sightings. Case listed as UNIDENTIFIED.
+
+11. COMMENTS
+Under observation from military a/c. Rapid transit across sky.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Was Aircraft
+☐ Possibly Aircraft
+☐ Probably Aircraft
+☐ Was Astronomical
+☐ Possibly Astronomical
+☐ Probably Astronomical
+☐ Other UNIDENTIFIED
+☒ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 25 SEP 52)
+
 
 - page 1 -
 
-The shared image does not contain any photographs. It appears to be a page from a Project Blue Book document with text only.
-
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
 INCOMING
-AF IN : 3344 (17 DEC 63) K/AM
-INFO : NIN-9, XOP-1, XOPX-4, SAF-05-3, ARMY-2, CMC-8, JCS, NSA-7, DIA-25, DIA/OIG-2 (112)
 
-SUB AOSS
-ZCZCHQ41S2ZECB176
-OD RUEAHP
-DE RUMPF BC17 170552Z
+AF IN: 3344 (17 Dec 63) K/am                                      PG 1 of 2
+
+INFO: NIN-9, XOP-1, XOPX-4, SAF-OS-3, ARMY-2, CMC-8, JCS-35, OSD-15,
+       NSA-7, DIA-25, DIA/CITC-2 (112)
+
+SMB A055
+
+ZCZCHOA1S92CECB176
+
+OO RUEAHR
+
+DE RUMPF B018 17/0552Z
+
 ZNR
-0 170552Z
-FM CONSAR/CPAG
-TO RUKPAD/OSINALSEAFRON
-RUKPAD/COM ALAIRCOM
-RUHLKN/CINCPACAF
-ZEN/CINCNORAD
-RUAUAM/HADO KUNIA
-RUPDHL/COMHIASSEAFON
-INFO RUEOC/CNCO
-RUEAHC/COFS USAF
-RUHL LH/CINCPAC
-RUHL HL/CINCPACFLT
-RUHLKS/CINCUSARPAC
-RUEOC/ SEGNAV
-HICK AM
+
+O 170552Z
+
+FM COMBARPOPAC
+
+TO RUKACR/COMIALSEAFPRON
+RUKDAC/COMALAIRCOM
+RUHLKW/CINCPACAF
+ZEN/CINCNGRAD
+RUAUAMM/HADD KUNIA
+RUHLPHW/COMHAVSEAFPRON
+INFO RJECW/CNO
+RUEAHO/COFS USAF
+RUHLHO/CINCPAC
+RUHLHL/CINCPACFLT
+RUIHLS/CINCUSARPAC
+RUHLKSAV/PACAFBASECOM HICKAM
+RUECW/SECNAV
+
 
 - page 2 -
 
-The image does not contain a photograph. It appears to be a page from an old UFO report document from Project Blue Book.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING
 
-AF IN: 3334 (17 DEC 63)
+AF IN: 3544 (17 Dec 63)                                   Pg 2 of 2
+
 BT
 UNCLAS
 A. JANAP 146D
 1. CIRVIS REPORT
-2. NA3133
+2. N43185
 3. WHITE LIGHT BLINKING TWO TO THREE TIMES PER SECOND
 4. 40-00N 174-54W
-5. 1705CST
+5. 170505Z
 6. ALTITUDE UNKNOWN
 7. WEST TO EAST
 8. VERY RAPID TRANSIT ACROSS SKY
 9. VISUALLY HELD APPROX 15 SECONDS
-BT
-NOTE: ADV CY TO XOPX. NIN & DIA XMITTED TO CIA #341
+
+BT NOTE: ADV CY TO XOPX, NIN & DIA
+         XMITTED TO CIA #341
+
 
 - page 3 -
 

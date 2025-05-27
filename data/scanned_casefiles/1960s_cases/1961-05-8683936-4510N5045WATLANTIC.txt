@@ -1,83 +1,126 @@
-The image does not contain any photographs. It appears to be a Project Blue Book record card, which is a form used to document UFO sightings and investigations.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 15 MAY 61
-2. LOCATION: 43°35'N, 50°45'W, ATLANTIC
-3. DATE-TIME GROUP: 1600Z
-4. TYPE OF OBSERVATION:
-   D Ground-Visual
-   D Ground-Radar
-   D Air-Visual
-   D Air-Intercept Radar
-5. SOURCE: CAT 13
-6. LENGTH OF OBSERVATION: 6 MIN
-7. NUMBER OF OBJECTS: 1
-8. BRIEF SUMMARY OF SIGHTING: Object sighted as a stationary white light at 10,000 ft., disappeared bearing 120°, 10° elev.
-9. COURSE: ESE
-10. CONCLUSIONS:
-    D Was Balloon
-    D Probably Balloon
-    D Was Aircraft
-    D Probably Aircraft
-    D Was Astronomical
-    D Probably Astronomical
-    D Other:
-       Insufficient Data for Evaluation
-11. COMMENTS: This appears to be a reliable sighting that was perhaps caused by an astronomical phenomenon, but there is insufficient data to evaluate it conclusively.
+
+1. DATE
+15 May 61
+
+2. LOCATION
+4510N 5045W ATLANTIC
+
+3. DATE-TIME GROUP
+Local 1530
+
+4. TYPE OF OBSERVATION
+□ Ground-Visual   □ Ground-Radar
+□ Air-Visual      □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+□ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+6 min
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+ESE
+
+10. BRIEF SUMMARY OF SIGHTING
+Bright, white light size of Altair. First observed moving in relation to stars bearing 110° at 1109 elev. Distant and disappeared bearing 120° 10° elev.
+
+11. COMMENTS
+This report contains insufficient evidence to allow for a reliable conclusion. However, this obj was probably a satellite.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book.
+HQA297
+RR RJED5Q
+DE RJED5Q 431
+R 161315Z
+FM MEDUSAF WASH DC
+TO RJNFALBW/CONAD
+RJED5Q/ATIC
 
-HQRS27
-LT RJCDSQ
-DE RJCDQ 431
-R 151612Z
-FM HEDUSAF WASH DC
-TO RJDFALBJ/CONAD
-RJCDSG/ATIC
 BT
-HQ USAF PASSES PER REQ OF APCIN TO
-CONAD X ATIC FOR INFO X GTE FM BARRIER AVC TO NAS ARGENTINA X
-LOCATING ONE. UFO 45 10N 52 45W AT 1622337Z CUS 120 SPD 1422.
-VISUAL. LOST CONTACT C2472 UNATE
+/// HQ USAF PASSES PER REQ OF AFCIN TO
+CONAD X ATIC FOR INFO X QTE FM BARRIER A/C TO NAS ARGENTIA X
+LOCATING ONE. UFO 4516N 5645W AT 162237Z CUS 126 SPD 1422.
+VISUAL. LOST CONTACT 2472 UNQTE
+
 BT
-12/21Z2 MAY RJEZHO
+16/21032 MAY RJED5Q
 
 UNCLASSIFIED
 
+
 - page 2 -
 
-The image contains a text document from the Department of the Air Force, which appears to be a report from Project Blue Book. There is no photograph included in this particular page.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
 
-AD IN : 54341 (16 MAY 61)
-ACTION: OIN-14
-INFO : OOP-2, OOP-CP-1, SAFPS-3 (21)
-SM9 A 139
-ZZOCHADJ13ZCBJAG99
-PH RJSZH9
-DE RBEPAC 117
+AIP IN: 54341 (16 May 64)   INCOMING
+
+ACTION: CIN-14
+
+INFO: OOP-2, OOP-GP-1, SAFS-3 (21)
+SMB A 139
+ZCZCHQ8913ZCQJA355
+
+PP RJEZHQ
+DE RBSPAC 117
 ZNR
 P 161542Z
-FM COMSPDARARGENTA
-TO ZEN/CINCALANTFLT
+FM COMBARARENTIA
+TO ZEN/CINCLANT FLT
 ZEN/CINCONAD
-ZEN/SSTH NORAD REGION
-RJEZH/HQ USAF
-RBEPN/CNO
-RBEGIH/COMEASTSEAFRON
+ZEN/25TH NORAD REGION
+RJEZHQ/HQ USAF
+RBEPJ/CNO
+R3GUH/COMEAST SEAFRON
 INFO ZEN/COMBARLANT
 NAVY GRNC
-PT
-UNCLAS
+
+BT
+
+UNCLAS.
+
 LOCATING ONE UFO AMPLIFYING
-A. COMBARLANT 161232Z
-1. ONE WHITE BRIGHT LIGHT SIZE OF ALTAIR. NO TRAIL
-2. FIRST OBERVED MOVING IN RELATION TO STARS BEARING 110T 60 DEG ELEV.
+
+A. COMBARLANT 1612092
+
+1. ONE WHITE BRIGHT LIGHT SIZE OF ALTAIR, NO TRAIL
+
+2. FIRST OBSERVED MOVING IN RELATION TO STARS BEARING 110T 60 DEG ELEV.
 DIMMED UKD DISAPPEARED BEARING 120T 10 DEG ELEV. TOTAL EIGHT MIN.
-3. VISUAL ONLY. ACFT POSIT 45 10N 58 45W AT 0323Z ALT 5M/110T 183 KTS.
-ACFT ABOVE SCTED CLDS VIS UNL WIND 310T 94 KTS.
+
+3. VISUAL ONLY. ACFT POSIT 45 10N 50 45W AT 0238Z ALT 5M/110T 135 KTS.
+ACFT ABOVE SCTRD CLDS VIS UNL WIND 310T 54 KTS.
+
 4. PROBABLE SATELLITE.
+
+BT
+
 
 - page 3 -
 

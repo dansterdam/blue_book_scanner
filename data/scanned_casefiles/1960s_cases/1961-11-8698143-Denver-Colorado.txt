@@ -1,46 +1,84 @@
-There is no photograph present in this image. This appears to be a page from a Project Blue Book record card, which contains various fields filled out with information about a sighting.
+PROJECT 1073 RECORD CARD
 
-25 NOV 61
+1. DATE
+25 Nov 61
+
+2. LOCATION
 Denver, Colorado
-3B Ground-Visual
-D Yes
-D No
+
+3. DATE-TIME GROUP
+Local 251022Z
+GMT
+
+4. TYPE OF OBSERVATION
+X Ground-Visual Ground-Radar
+Air-Visual Air-Intercept Radar
+
+5. PHOTOS
+Yes
+No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+4-5 sec
+
+8. NUMBER OF OBJECTS
 1 then 2
-Large, irregular shaped objects with change trail, appeared to be blue flash then red flash, then blue flash again. Could see objects through trees. Appeared to be drifting across sky.
-Was Ballistic
-Probably Ballistic
-Was Not Aircraft
+
+9. COURSE
+
+10. BRIEF SUMMARY OF SIGHTING: Large, irregular-shaped obj. with orange trail. Appeared as blue flash. Diminishing to orange breaking & into pieces still with orange trail. Looked like squashed football. Flash like explosion. Flight parallel to earth. Disappeared all at once.
+
+11. COMMENTS: Color, duration, flight, and disappearance conform to observation of explosion of bolide-type meteor.
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
 Possibly Aircraft
-Was Astronomical Meteori
+Was Astronomical METEOR
+Probably Astronomical
 Possibly Astronomical
+Other
 Insufficient Data for Evaluation
 Unknown
 
-- page 1 -
+ATIC FORM 329 (REV 26 SEP 52)
 
-There does not appear to be any photograph present in this image. This seems to be a text-based document from the Department of the Air Force's Staff Message Branch regarding an unidentified flying object (UFO) report.
+
+- page 1 -
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
 INCOMING
 
-SMB A 058
-CZCZJIG10SGCWJA301
-M RJEZHO
-DE RJMFAM 385
--NR
-M 232330Z
+CCHQC
+
+SMB A 058                                  AF IN: 16858 (29 Nov 61)    C/trc
+CZGZHQC106ZCWJA301                          ACTION: CIN-17
+MM RJEZHQ                                   INFO: OOP-2, OOP-CP-1, SAFS-3, DIA-2 (26)
+DE RJWFAM 385
+..NR
+
+M 282330Z
 FM LOWRY AFB OLO
-TO RJMFAL/ADC ENT AFB COLO
-RJWZGU/29 AIRDIV MALMSTROM AFB MONT
-RJEDSO/AEROSPACE TECHNI CAL INTELLIGENCE CENTER WPAFB OHIO
-RJEZHO/COFS USAF
-RJEZHO/OSAF USAF
+TO RJWFAL/ADC ENT AFB COLO
+RJWZGW/29 AIRDIV MALMSTROM AFB MONT
+RJEDS9/AEROSPACE TECHNICAL INTELLIGENCE CENTER WPAFB OHIO
+RJEZHQ/COFS USAF
+RJEZHQ/OSAF USAF
+
 BT
-UNCLAS OS 8222. COFS USAF FOR AFCIN, OSAF FOR SAFIS UFO
-IS A(1) EXTERMELY LARGE IRREGULAR SHAPE STRUNG OUT WITH ORANGE
+UNCLAS OS 8822. COFS USAF FOR AFCIN, OSAF FOR SAFIS    UFO
+15A(1) EXTREMELY LARGE IRREGULAR SHAPE STRUNG OUT WITH ORANGE
 TRAILING.
-(2) 16 INCHES ACROSS SHAPED LIKE A FLATTENED OUT FOOTBALL.
+(2) 16 INCHES ACROSS SHAPED LIKE A FLATTENED OUT FOOTBALL
 (3) BLUE FLASH, DIMINISHING TO ORANGE.
 (4) ONE, THEN EXPLODED INTO TWO.
 (5) N/A.
@@ -48,37 +86,64 @@ TRAILING.
 (7) ORANGE TRAIL.
 (8) NONE
 
+
 - page 2 -
 
-There is no photograph present in this image. The image appears to be a scanned page from a UFO report document from Project Blue Book.
-
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
 INCOMING
-AP IN : 16858 (29 NOV 61) PE 2 OF 3
-PAGE TWO RJUFAM 385
+
+AP IN: 16858 (29 Nov 61)                                   pg 2 of 3
+PAGE TWO RJWFAM 385
+
 (9) N/A.
+
 B(1) THE FLASH WAS VERY BRIGHT LIKE AN AIRCRAFT EXPLODED.
-(2) 20 EGREES PARALLE TO EARTH
-(3) SAME AS (2) ABOVE.
+(2) 20 EGREES PARALLELS TO EARTH
+3) SAME AS (2) ABOVE.
 (4) PARALLEL TO EARTH.
 (5) ALL AT ONCE
 (6) 4 TO 5 SECONDS.
-(C1) GROUND VISUAL
+
+C(1) GROUND VISUAL
 (2) NONE
 (3) N/A.
-DC1) 1220 ZULU 25 NOV 61
+
+D(1) 1020 ZULU 25 NOV 61
 (2) NIGHT
-E. DENVER COLO
-F(1) *, AGE UNKNOWN,
-AGE 22, * AND *. AGE UNKNOWN
-*, ALL ADDRESS DENVER COLO. RELIABILITY UNKNOWN.
+
+E.                DENVER COLO
+F(1)              AGE UNKNOWN,                , AGE 22,                 , AGE UNKNOWN
+                  , ALL ADDRESSES DENVER COLO. RELIABILITY UNKNOWN.
+
 G. N/A.
 (1) N/A.
-(2) SURFACE CALM GM- L/V, 10M - 220/12, 16M - 250/25,
-22M - 240/35, 30M 270/85, 50M -270/70, 82M - UNKNOWN.
+(2) SURFACE CALM 6M- L/V, 10M - 220/10, 16M - 250/25,
+    20M - 240/35, 30M 270/85, 50M -270/70, 80M - UNKNOWN.
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a document from the Department of the Air Force with the title "INCOMING" and various information fields such as (3) NONE, (4) 15 PLUS, (5) ISM BROKEN HIGHER THIN BROKEN, (6) NONE, H. NONE, I. N/A, J. UNKNOWN, K. AIRDROME OFFICER NO ANALYSIS, L. N/A, and BT 29/014IZ NOV RJWFAM.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING
+
+AF IN: 16858 (29 Nov 61)                                   pg 3 of 3
+
+(3) NONE
+(4) 15 PLUS
+(5) 16M BROKEN HIGHER THIN BROKEN.
+(6) NONE
+
+H. NONE
+I. N/A
+J. UNKNOWN
+K. AIRDROME OFFICER NO ANALYSIS
+L. N/A
+
+BT
+29/014 1Z NOV RJWFAM
+
 
 - page 4 -
 

@@ -1,80 +1,97 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book record card, which is a form used to document UFO sightings.
+MILITARY AIR                PROJECT 10073 RECORD CARD
 
-MILITARY AIR
-1. DATE: 1 May 60
-2. LOCATION: E of Hawaiian Islands
-3. DATE-TIME GROUP: Not given
-4. TYPE OF OBSERVATION: Green flare
-5. PHOTOS: None
-6. NUMBER OF OBJECTS: One
-7. LENGTH OF OBSERVATION: Not given
-8. COURSE: Ascending then descending
-9. CONCLUSIONS: Was balloon, possibly balloon, possibly aircraft, possibly astronomical, other (green flare). Origin of flare not determined.
+1. DATE                                   2. LOCATION                                   12. CONCLUSIONS
+    1 May 60                               E of Hawaiian Islands                         ☐ Was Balloon
+                                                                                        ☐ Probably Balloon
+3. DATE-TIME GROUP                         4. TYPE OF OBSERVATION                        ☐ Possibly Balloon
+    Local                                   ☐ Ground-Visual     ☐ Ground-Radar
+    GMT:    020903Z May 60                  ☒ Air-Visual       ☐ Air-Intercept Radar     ☐ Was Aircraft
+                                                                                        ☐ Probably Aircraft
+5. PHOTOS                                  6. SOURCE                                    ☐ Possibly Aircraft
+    ☒ Yes                                   Military
+    ☐ No                                                                                ☐ Was Astronomical
+                                                                                        ☐ Probably Astronomical
+7. LENGTH OF OBSERVATION                   8. NUMBER OF OBJECTS                         ☐ Possibly Astronomical
+    Not given                               one                                         
+                                                                                        ☒ Other Green Flare
+9. COURSE                                                                               ☐ Insufficient Data for Evaluation
+    ascending then                                                                      ☐ Unknown
+    descending
 
-Due to limited information, only conclusions that it was a flare are given. The origin of the flare was not determined.
+10. BRIEF SUMMARY OF SIGHTING              11. COMMENTS
+    Green flare arose through over cast up to   Due to limited information, only conclu-
+    8000 feet 100 yards in front of a/c. Flare  sion to be drawn is that it was a flare.
+    went out upon descent.                      Origin of flare not determined.
+
+ATIC FORM 329 (REV 26 SEP 59)
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from a UFO report document from Project Blue Book.
-
-OPERATIONAL IMMEDIATE 
-0 920 MAY 2 12 32
+CORRECTED COPY
+OPERATIONAL IMMEDIATE
+1960 MAY 2 12 32
 
 DE RJHPKA 1
-0 021935Z MAY 
-FM HAWAIIDEFDETACWHNG USAF
-INTO RJEDSQ/ATIC
-RJEZHO/DCRS USAF
-AF GENG 
+O 021003Z ZEN
+FM HAWAIRDEFPIC WHEELER AFB
+INFO RJEDSQ/ATIC
+RJEZHO/COYS USAF
+AF GBNC
 BT
-CIRVIS- MARINE 0955 R 2 D ENROUTE
-TO KANEOHE HAS FLARE OBSERVED FROM ALAMEDA CALF. 
-SIGHTED GREEN FLARE 24* 32N-148W*. 
+CIRVIS-MARINE 50855 R 5 D ENROUTE
+TO KANEOHI NAS FROM ALAMEDA CAL.
+SIGHTED GREEN FLARE 24' 32N-143W.
 GREEN FLARE AROSE THROUGH OVERCAST
-UP TO 5000 FT, 100 YARDS IN FRONT 
-OF AIRCRAFT* FLARE WENT OUT UPON 
-DESCENT. SIGHTING AT 02/0920Z*
-EVALUATED AS * NO THREAT*.
+UP TO 8000 FT, 100 YARDS IN FRONT
+OF AIRCRAFT. FLARE WENT OUT UPON
+DESCENT. SIGHTING AT 02/0903Z.
+EVALUATED AS "NO THREAT"
 BT
-02/1038Z MAY RJHPKA
+02/1038Z MAY RJIPKA
 
 - page 2 -
 
-The image does not contain any photographs, only text from a document. I will now proceed to extract all the text from the document:
+Here is the text from the document:
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE DIVISION
-AP IN: 32862 (2 May ) B/C UNCLASSIFIED MESSAGE
-ACTION: GIN
-INFO: OOP, OOP-OP, SAFS, ARMY, JCS, OSD, NSA, CIA, CMG
-SMD G 027
-ZCZCHOC55 4Z CB JA 047
-YYYYY RJEZHO
+B/MSG/UNCLASSIFIED MESSAGE
+
+INCOMING
+
+AF IN : 32862 (2 May C.)
+ACTION: CIN
+INFO : OOP, OOP-CP, SARS, ARMY, JCS, OSD, NSA, CIA, CMC
+SMD C 027
+ZCZCHOC55AZCBJA047
+*****YY RJEZHO
 DE RBHPH 035
 Y 021049Z
 FM COMHAWSEAFRON OCC KUNIA HAWAII
-TO RJJHPKW/COMHAWIRDEFFI V WHEELEY AFB
-INFO RBHPO/COMHAWSEAFRON
-RBMHPB/CINCPACFLT
-RHIPAL5/CINCNORAD ENT AFB COLO
-RJEZHH/COFSUSAF WASH DC
+TO RJJPKW/COMHAWIRDEFDIV WHEELER AFB
+INFO RBHPG/COMHAWSEAFRON
+RBHPB/CINCPACFLT
+RJWFALB/CINCNORAD ENT AFB COLO
+RJEZHO/COFUSUSAF WASH DC
 RBEPW/CNO
-RBEPW/SECNAV
-RUHPB/CINCUSARPAC
+REPW/SECNAV
+RUHPP/CINCUSARPAC
 RBHPA/CINCPAC
 RBHPJ/CCGD FOURTEEN
-NAVY GRNG
+NAVY GRNC
+
 BT
 CIRVIS X FOL RECD BY TELCON FROM ARTC HONO X QUOTE X
-MARINE 50830 PEHPORT SIGHTING GREEN LIGHT AT 0205OZ POSIT 24-32UN
-143-00W X AROSE THROUGH OVERCAST UP TO 9000 FEET 100 YARDS
+MARINE 50855Q REPORTS SIGHTING GREEN FLARE AT 020930Z POSIT 24-32UN
+143-00W X AROSE THROUGH OVERCAST UP TO 5000 FEET 100 YARDS
 AHEAD X WENT OUT ON DESCENT X WITNESSED BY TWO PERSONS X
-DURATION 8 SECONDS X ESTIMATED CLOUD TOPS 9000 FEET X AIRCRAFT
-CAS 245 DEGREES TYPE F5D X UNQUOTE
+DURATION 8 SECONDS X ESTIMATED CLOUD TOPS 8000 FEET X AIRCRAFT
+CUS 245 DEGREES TYPE R5D X UNQUOTE
 BT
-CFN 50855 020930Z 24-32N 143-00W 9000 100 8 9000 245 R3D
-NOTE: Advance copy delivered to OOP-OP and CIN
-02/1105Z
+
+CFN 50855 020930Z 24-32N 143-00W 5000 100 8 8000 245 R5D
+NOTE: Advance copy delivered to OOP-CP and CIN
+027105Z
 
 - page 3 -
 

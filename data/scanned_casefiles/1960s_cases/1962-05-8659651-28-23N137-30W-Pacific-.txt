@@ -1,57 +1,100 @@
-The image does not contain any photograph. It appears to be a Project 10073 Record Card, which is a form used to document UFO sightings as part of Project Blue Book, the U.S. Air Force's official program for investigating unidentified flying objects.
-
-The text in the document is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: MAY 22
-2. LOCATION: 23-43S 137-30W (Pacific)
-3. SHAPE: OVAL
-4. DURATION: 25 MINS.
-5. NO. OF OBJECTS: ONE
-6. TYPE OF OBSERVATION:
-    A. Visual
-    [ ] Ground-Air
-    [ ] Air-Visual
-    [ ] Air-Intercept Radar
-7. LENGTH OF OBSERVATION: ONE
-8. NUMBER OF OBJECTS: ONE
-9. COURSE: SOUTH
-10. BRIEF SUMMARY OF SIGHTING: OVAL SHAPED, RED, WHITE, BLUE AND GREEN IN COLOR. HOVERED AND MANEUVERED FOR 25 MINS. THEN TURNED SLIGHTLY AND DISAPPEARED AT 250 DPR. OBSERVED WITH 7X50 BINOCULARS. ESTIMATED 10,000 FEET ALTITUDE. CLOUD COVER VIS 10, 6/10.
+
+1. DATE
+1 May 62
+
+2. LOCATION
+28.23N 137.30W (Pacific)
+
+3. DATE-TIME GROUP
+Local ______
+GMT 02 0525Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+□ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+25 mins
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+South
+
+10. BRIEF SUMMARY OF SIGHTING
+Obj. seen in sight for 25 mins. Color given as red, white, & blue, size larger than last mag. star. Initial observation at 289 deg azimuth 10 deg elev w/disappearance at 250 deg azimuth 14 deg elev. Observed thru 20X glass, WX given as ceiling 2,000 vis 10, 6/10 cloud cov.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other: Insufficient Data for Evaluation
+□ Unknown
+
+11. COMMENTS
+1. Sight too long for satellite. 2. Also excessive for a/c. No mention of manner of flight, change in directions speeds etc. Insufficient data for a valid analysis.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-This image does not contain any photographs. It appears to be a naval message document from Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
+NAVAL MESSAGE                    UNCLASSIFIED                    NAVY DEPARTMENT
 
-The text in the document is as follows:
+AF IN: 12788 (2 May 62) F/am
 
-NAVAL MESSAGE
-UNCLASSIFIED
-NAVY DEPT
+TO VADM HAMILTON
 
-AP IN: 12738 (2 MAY 62) P/AM
-FR 33282K 2 COMPHIBRON ONE
-TO WADP HAMILTON
-INFO ONO 
+INFO CNO
 CINCPACFLT
-USAF PARAFAC
+USAF PAC
+COMPHISPAC
 
-UNIDENT IFIED FLYING OBJECT
-A. CINCPACFLT INST 3329.5
+UNCLAS
+
+- UNIDENTIFIED FLYING OBJECT
+
+A. CINCPACFLT INST 3320.3
+
 1. FOLLOWING REPORT OF UNIDENTIFIED FLYING OBJECT IN
-A. APPEARED TO BE LARGER THAN FIRST MAG PLANE COLORS WHITE
-B. OBSERVED BY STAFF WATCH OFFICER
-C. OBSERVED FOR 2 MINUTES
-D. ELEVATION 15 DEGREES BEARING 330 DEGREES
-OBJECT DESCENDING THEN LEVELED OFF
-OBSERVED WITH 25 POWER GLASS
-LOCATION OF OBSERVER 25-23N, 137-30W
-UNDER RUN AREA VERY RELIABLE SOURCE
-2. PREPALING OFFICER STAFF INTEL OFF COMPHIBRON ONE
+   A. APPEARED TO BE LARGER THAN FIRST MAG PLANE COLORS WHITE
+   B. ODD AND BLUE
+   C. OBSERVED BY STAFF WATCH OFF. ELEVATION 10 DEGREES BEARING
+      230 DEGREES T MOVING FROM NORTH TO SOUTH DISAPPEARED
+      BEHIND CLOUDS ELEVATION 14 DEGREES BEARING 250 DEGREES T.
+   D. OBSERVED FOR 25 MINUTES
+   E. OBSERVED FROM SURFACE VISUAL WITH 20 POWER GLASS
+   F. SIGHTED 0203252
+   G. LOCATION OF OBSERVER 28-23N 137-30W
+   H. FURGERSON LT USN STAFF WATCH OFF VERY RELIABLE
+   I. WEATHER CEILING 2200 FT VISIBILITY 10 6/10 SKY COVER
 
-- 22 MAY UNIDENT FLG OBJ SECNAV(RSD) RCS 29-398 290 BN 33 33
-75 78 94 RP NAVFDS FLAGPLOT BSR CSA CSC CSA GRAF GRA NRI
+2. PREPALING OFFICER STAFF INTEL OFF COMPHISBRON ONE
+
+92. ...... COG
+    SSCNAV UNSECNAV ASISCNAV(R2D) 00 09 098 050 49M 23 33 34 35 05 06 07
+    72 76 94 IP NAVAIDE FLAGPLOT BFR CMC JCS CSA CSAF CIA NIC COGARD
+
+CONTROL NO.           CIRCUIT NO.    PAGE        OF PAGES    TIME OF RECEIPT    DATE TIME GROUP
+50797/LR/MOC/1        A123            1            1           10233Z/02 MAY      22032LZ/MAY/62
 
 UNCLASSIFIED
+
 
 - page 2 -
 

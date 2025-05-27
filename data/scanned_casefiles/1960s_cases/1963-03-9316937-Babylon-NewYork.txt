@@ -1,115 +1,157 @@
-The image does not contain a photograph, but rather a scanned page from a Project Blue Book record card. The page includes various fields such as the date, location, duration of observation, and a description of the sighting. The text in the image will be transcribed below:
+PROJECT 10073 RECORD CARD
 
+1. DATE
 23 March 1963
+
+3. DATE-TIME GROUP
+Local: 0437
+GMT: 23/09372
+
+5. PHOTOS
+Yes
+No
+
+7. LENGTH OF OBSERVATION
+5 minutes
+
+10. BRIEF SUMMARY OF SIGHTING
+Light of 2d magnitude standing still, flashing, and changing brightness observed by 14 year old during night with color of Sirius. Moved to S, SW and then S again. About same size of Sirius. Speed of ECHO. Looked like TX (make not determined). Initial observation of object in Beta Virgo. Obj faded once to 3d magnitude.
+
+2. LOCATION
 Babylon, New York
-Daytime
-45137
-Ground-visual TX 0 Ground-Radar
-6 MINUTES 
-One
-Light of 24 magnitude standing still, did changing brilliance and fluctuated with color of white. Moved to SSW and then to SW, at times moving less observed through haze, disappearance into sky to 4th magnitude once to 3d magnitude.
+
+4. SOURCE
+Civilian
+
+6. NUMBER OF OBJECTS
+one
+
+9. COURSE
+S, SE
+
+11. COMMENTS
+ECHO I over New York City at 0438 Eastern Standard Time to the south of the city at 05 dgr elevation moving SE. This is a rather low elevation. Beta Virgo at 250 dgr azimuth 15 dgr elevation. Sighting attributed to celestial ECHO I.
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Other: ECHO I
+Insufficient Data for Evaluation
+Unknown
+
 
 - page 1 -
 
-There does not appear to be any photograph present in this image. The image seems to contain a document with text that appears to be coordinates or location data. I will now proceed to transcribe the text found in the document:
-
 DAYTON, OHIO
-AT 08.51 P MARC.21 SOUTH OF CITY, 65 DEGREES ABOVE HORIZON MOVING
-AT 09.15 P MARC.21 SOUTH OF CITY, 75 DEGREES ABOVE HORIZON MOVING
-AT 09.25 A MARC.22 SOUTH OF CITY, 73 DEGREES ABOVE HORIZON MOVING
-AT 05.32 A MARC.22 SOUTH OF CITY, 06 DEGREES ABOVE HORIZON MOVING
-AT 08.17 P MARC.22 SOUTH OF CITY, 46 DEGREES ABOVE HORIZON MOVING
-AT 04.23 A MARC.23 SOUTH OF CITY, 24 DEGREES ABOVE HORIZON MOVING
-AT 07.18 P MARC.23 SOUTH OF CITY, 26 DEGREES ABOVE HORIZON MOVING
-AT 09.24 P MARC.23 NORTH OF CITY, 81 DEGREES ABOVE HORIZON MOVING
-AT 08.26 P MARC.24 NORTH OF CITY, 76 DEGREES ABOVE HORIZON MOVING
-AT 10.30 P MARC.24 NORTH OF CITY, 57 DEGREES ABOVE HORIZON MOVING
-AT 04.63 A MARC.25 SOUTH OF CITY, 07 DEGREES ABOVE HORIZON MOVING
-1 DENVER, COLO.
-MST
-AT 07.56 P MARC.18 SOUTH OF CITY, 23 DEGREES ABOVE HORIZON MOVING
-AT 04.12 A MARC.19 SOUTH OF CITY, 56 DEGREES ABOVE HORIZON MOVING
-AT 06.57 P MARC.19 SOUTH OF CITY, 07 DEGREES ABOVE HORIZON MOVING
-AT 03.14 A MARC.20 SOUTH OF CITY, 17 DEGREES ABOVE HORIZON MOVING
-AT 05.21 A MARC.20 SOUTH OF CITY, 16 DEGREES ABOVE HORIZON MOVING
-AT 08.06 P MARC.20 SOUTH OF CITY, 45 DEGREES ABOVE HORIZON MOVING
-AT 04.22 A MARC.21 SOUTH OF CITY, 27 DEGREES ABOVE HORIZON MOVING
-AT 07.47 P MARC.21 SOUTH OF CITY, 23 DEGREES ABOVE HORIZON MOVING
-AT 09.13 P MARC.21 NORTH OF CITY, 83 DEGREES ABOVE HORIZON MOVING
-AT 03.23 P MARC.22 SOUTH OF CITY, 50 DEGREES ABOVE HORIZON MOVING
-AT 08.16 P MARC.22 SOUTH OF CITY, 72 DEGREES ABOVE HORIZON MOVING
-AT 04.32 P MARC.23 SOUTH OF CITY, 05 DEGREES ABOVE HORIZON MOVING
-AT 07.17 P MARC.23 SOUTH OF CITY, 45 DEGREES ABOVE HORIZON MOVING
-AT 09.22 P MARC.23 NORTH OF CITY, 69 DEGREES ABOVE HORIZON MOVING
-AT 03.33 P MARC.24 SOUTH OF CITY, 26 DEGREES ABOVE HORIZON MOVING
-AT 08.24 P MARC.24 NORTH OF CITY, 83 DEGREES ABOVE HORIZON MOVING
-1 EVANSVILLE, IND.
-CST
-AT 06.55 P MARC.18 SOUTH OF CITY, 04 DEGREES ABOVE HORIZON MOVING
-AT 03.13 A MARC.19 NORTH OF CITY, 87 DEGREES ABOVE HORIZON MOVING
-AT 05.20 A MARC.19 SOUTH OF CITY, 15 DEGREES ABOVE HORIZON MOVING
-AT 08.05 P MARC.19 SOUTH OF CITY, 45 DEGREES ABOVE HORIZON MOVING
-AT 04.20 A MARC.20 SOUTH OF CITY, 35 DEGREES ABOVE HORIZON MOVING
-AT 07.66 P MARC.20 SOUTH OF CITY, 22 DEGREES ABOVE HORIZON MOVING
-AT 03.22 A MARC.21 SOUTH OF CITY, 63 DEGREES ABOVE HORIZON MOVING
-AT 08.14 P MARC.21 SOUTH OF CITY, 74 DEGREES ABOVE HORIZON MOVING
-AT 04.31 A MARC.22 SOUTH OF CITY, 15 DEGREES ABOVE HORIZON MOVING
-AT 07.16 P MARC.22 SOUTH OF CITY, 45 DEGREES ABOVE HORIZON MOVING
-AT 09.21 P MARC.22 NORTH OF CITY, 62 DEGREES ABOVE HORIZON MOVING
-AT 03.31 A MARC.23 SOUTH OF CITY, 35 DEGREES ABOVE HORIZON MOVING
-AT 06.17 P MARC.23 SOUTH OF CITY, 23 DEGREES ABOVE HORIZON MOVING
-AT 08.23 P MARC.23 NORTH OF CITY, 75 DEGREES ABOVE HORIZON MOVING
-AT 04.42 A MARC.24 SOUTH OF CITY, 61 DEGREES ABOVE HORIZON MOVING
-AT 07.25 P MARC.24 SOUTH OF CITY, 74 DEGREES ABOVE HORIZON MOVING
+AT 07:08 PM MARC.21 SOUTH OF CITY, 65 DEGREES ABOVE HORIZON MOVING NE
+AT 09:15 PM MARC.21 SOUTH OF CITY, 75 DEGREES ABOVE HORIZON MOVING NE
+AT 03:25 AM MARC.22 SOUTH OF CITY, 73 DEGREES ABOVE HORIZON MOVING SE
+AT 05:32 AM MARC.22 SOUTH OF CITY, 06 DEGREES ABOVE HORIZON MOVING SE
+AT 09:17 PM MARC.22 SOUTH OF CITY, 46 DEGREES ABOVE HORIZON MOVING NE
+AT 04:23 AM MARC.23 SOUTH OF CITY, 24 DEGREES ABOVE HORIZON MOVING SE
+AT 07:19 PM MARC.23 SOUTH OF CITY, 26 DEGREES ABOVE HORIZON MOVING NE
+AT 09:24 PM MARC.23 NORTH OF CITY, 81 DEGREES ABOVE HORIZON MOVING NE
+AT 06:26 PM MARC.24 SOUTH OF CITY, 76 DEGREES ABOVE HORIZON MOVING NE
+AT 10:20 PM MARC.24 NORTH OF CITY, 57 DEGREES ABOVE HORIZON MOVING NE
+AT 04:43 AM MARC.25 SOUTH OF CITY, 07 DEGREES ABOVE HORIZON MOVING SE
+1 DENVER, COLO.                                   MST
+
+AT 07:56 PM MARC.18 SOUTH OF CITY, 23 DEGREES ABOVE HORIZON MOVING NE
+AT 04:12 AM MARC.19 SOUTH OF CITY, 50 DEGREES ABOVE HORIZON MOVING SE
+AT 06:57 PM MARC.19 SOUTH OF CITY, 07 DEGREES ABOVE HORIZON MOVING NE
+AT 03:14 AM MARC.20 SOUTH OF CITY, 17 DEGREES ABOVE HORIZON MOVING SE
+AT 05:21 AM MARC.20 SOUTH OF CITY, 16 DEGREES ABOVE HORIZON MOVING SE
+AT 08:06 PM MARC.20 SOUTH OF CITY, 45 DEGREES ABOVE HORIZON MOVING NE
+AT 04:22 AM MARC.21 SOUTH OF CITY, 27 DEGREES ABOVE HORIZON MOVING SE
+AT 07:07 PM MARC.21 SOUTH OF CITY, 23 DEGREES ABOVE HORIZON MOVING NE
+AT 09:13 PM MARC.21 NORTH OF CITY, 83 DEGREES ABOVE HORIZON MOVING NE
+AT 09:23 AM MARC.22 SOUTH OF CITY, 50 DEGREES ABOVE HORIZON MOVING SE
+AT 08:16 PM MARC.22 SOUTH OF CITY, 72 DEGREES ABOVE HORIZON MOVING NE
+AT 04:32 AM MARC.23 SOUTH OF CITY, 05 DEGREES ABOVE HORIZON MOVING SE
+AT 07:17 PM MARC.23 SOUTH OF CITY, 45 DEGREES ABOVE HORIZON MOVING NE
+AT 09:22 PM MARC.23 NORTH OF CITY, 67 DEGREES ABOVE HORIZON MOVING NE
+AT 03:23 AM MARC.24 SOUTH OF CITY, 26 DEGREES ABOVE HORIZON MOVING SE
+AT 08:24 PM MARC.24 NORTH OF CITY, 83 DEGREES ABOVE HORIZON MOVING NE
+1 EVANSVILLE, IND.                                CST
+
+AT 06:55 PM MARC.18 SOUTH OF CITY, 06 DEGREES ABOVE HORIZON MOVING NE
+AT 03:13 AM MARC.19 NORTH OF CITY, 87 DEGREES ABOVE HORIZON MOVING SE
+AT 05:20 AM MARC.19 SOUTH OF CITY, 15 DEGREES ABOVE HORIZON MOVING NE
+AT 09:05 PM MARC.19 SOUTH OF CITY, 45 DEGREES ABOVE HORIZON MOVING NE
+AT 04:20 AM MARC.20 SOUTH OF CITY, 35 DEGREES ABOVE HORIZON MOVING SE
+AT 07:06 PM MARC.20 SOUTH OF CITY, 22 DEGREES ABOVE HORIZON MOVING NE
+AT 03:22 AM MARC.21 SOUTH OF CITY, 63 DEGREES ABOVE HORIZON MOVING SE
+AT 08:14 PM MARC.21 SOUTH OF CITY, 14 DEGREES ABOVE HORIZON MOVING NE
+AT 04:31 AM MARC.22 SOUTH OF CITY, 15 DEGREES ABOVE HORIZON MOVING SE
+AT 07:16 PM MARC.22 SOUTH OF CITY, 45 DEGREES ABOVE HORIZON MOVING NE
+AT 09:21 PM MARC.22 NORTH OF CITY, 62 DEGREES ABOVE HORIZON MOVING NE
+AT 03:31 AM MARC.23 SOUTH OF CITY, 35 DEGREES ABOVE HORIZON MOVING SE
+AT 06:17 PM MARC.23 SOUTH OF CITY, 23 DEGREES ABOVE HORIZON MOVING NE
+AT 08:23 PM MARC.23 NORTH OF CITY, 75 DEGREES ABOVE HORIZON MOVING NE
+AT 04:42 AM MARC.24 SOUTH OF CITY, 01 DEGREES ABOVE HORIZON MOVING SE
+AT 07:25 PM MARC.24 SOUTH OF CITY, 75 DEGREES ABOVE HORIZON MOVING NE
+
 
 - page 2 -
 
-There is no photograph present in the image provided. It appears to be a page from a Project Blue Book UFO report document containing a form with text fields to be filled out, but no visual image.
+U.S. AIR FORCE TECHNICAL INFORMATION
 
-As requested, I will now act as an OCR (Optical Character Recognition) system and output all the text found in the document:
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial object you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Your name will not be used in connection with any statements, conclusions, or publications without your permission. No request this permit information is made that if it is deemed necessary, we may contact you for further details.
 
-U.S. AIR FORCE 1'33'l'IMO'IT FORM 
-Information has been prepared to assist in maintaining more complete and uniform records of unidentified flying object (UFO) reports. This form will be used for research purposes. Your name will not be used in any way that would reveal your identity to unauthorized persons.
+1. When did you see the object?
+23 MARCH 1963
+Day    Month    Year
 
-When did you see the object? 
-March 1, 1963
+Time: 4 3.7 P.M.
+Hour   Minutes
 
-What was the object?
-a. Round
-b. Oval
-c. Crescent
-d. Other
+2. Where were you when you saw the object?
+[Redacted location] BABYLON, NEW YORK
 
-How long was the object in sight? (Total duration)
-About 15 minutes
-
-5.1 How was the object's motion observed?
-Fairly certain
-
-5.2 Was object in sight continuously?
-Yes
+3. How long was object in sight? (Total Duration)
+a. Certain: [checked]
+b. Fairly certain
+5.1 How was time in sight determined? [Handwritten: Watched]
+5.2 Was object in sight continuously? Yes [X] No
 
 6. What was the condition of the sky?
-a. Bright
+DAY
+a. Bright [checked]
 b. Cloudy
 
-7. If you saw the object during DAYLIGHT, where was the SUN located as you looked at the object? 
-(Circle One): a. In front of you  b. In back of you  c. To your right  d. To your left
+7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at its area?
+(Circle One):
+a. In front of you
+b. In back of you
+c. To your right
 
-8. As the object moved, did its apparent size
-(Circle One): a. Increase  b. Decrease  c. Remain the same
+d. To your left
+e. Overhead
+f. Don't remember
+
+FTD SEP 52 164 This form supersedes FTD 164, 1 Jul 52, which may be used.
+
 
 - page 3 -
 
-There is no photograph present in this image. The image appears to be a page from a Project Blue Book document containing a questionnaire or report form related to a UFO sighting.
-
 8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
-8. STARS (Circle One):
+8.1 STARS (Circle One):
 a. None
 b. A few
 c. Many
+d. Don't remember
 
-8. MOON (Circle One):
+8.2 MOON (Circle One):
 a. Bright moonlight
 b. Dull moonlight
 c. No moonlight - pitch dark
@@ -117,7 +159,7 @@ d. Don't remember
 
 9. What were the weather conditions at the time you saw the object?
 CLOUDS (Circle One):
-a. Clear sky 
+a. Clear sky
 b. Hazy
 c. Scattered clouds
 d. Thick or heavy clouds
@@ -129,196 +171,237 @@ c. Moderate or heavy rain
 d. Snow
 e. Don't remember
 
-10. The object appeared: (Circle One)
+10. The object appeared: (Circle One):
 a. Solid
 b. Transparent
-c. Don't remember
+c. Vapor
 
-11. If it appeared as a light, was it brighter than the brightest star? (Circle One)
+d. As a light
+e. Don't remember
+
+11. If it appeared as a light, was it brighter than the brightest stars? (Circle One):
 a. Brighter
 b. Dimmer
+
 c. About the same
 d. Don't know
 
-11.1 Compare brightness to some common object: _____________
+11.1 Compare brightness to some common object:
 
-12. The edge of the object were: (Circle One)
-a. Fuzzy or blurred
+12. The edges of the object were:
+(Circle One): a. Fuzzy or blurred
 b. Like a bright star
 c. Sharply outlined
 d. Don't remember
 
-13. Did the object: (Circle One for each question)
-a. Appear to stand still at any time? Yes / No / Don't know
-b. Suddenly speed up and rush away at any time? Yes / No / Don't know
-c. Chase plane, helicopter, or other aircraft? Yes / No / Don't know 
-d. Give off smoke? Yes / No / Don't know
-e. Change brightness? Yes / No / Don't know
-f. Flash or flicker? Yes / No / Don't know
-g. Disappear and reappear? Yes / No / Don't know
+e. Other
+
+13. Did the object:
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Break up into parts or explode?
+d. Give off smoke?
+e. Change brightness?
+f. Change shape?
+g. Flash or flicker?
+h. Disappear and reappear?
+
+(Circle One for each question)
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+
 
 - page 4 -
-
-This image does not contain any photograph. It appears to be a page from a UFO report document, specifically from Project Blue Book.
-
-The text from the document is as follows:
 
 14. Did the object disappear while you were watching it? If so, how?
 
 15. Did the object move behind something at any time, particularly a cloud?
-    (Circle One):  Yes    No    Don't Know.    IF you answered YES
+(Circle One): Yes   No   Don't Know.   IF you answered YES, then tell what it moved behind: 
 
 16. Did the object move in front of something at any time, particularly a cloud?
-    (Circle One):  Yes    No    Don't Know.    IF you answered YES
+(Circle One): Yes   No   Don't Know.   IF you answered YES, then tell what in front of:
 
 17. Tell in a few words the following things about the object:
-    a. Sound____________________________________
-    b. Color____________________________________
-    c. Size_____________________________________
-    d. Shape____________________________________
+a. Sound ____________________
+b. Color ____________________
 
-18. We wish to know the angular size. Hold a match stick or pencil at arm's length in the direction of the object. If you have performed this act, how much of the object would have been covered by the match head?
+18. We wish to know the angular size. Hold a match stick at arm's length in line with a known object and note how much of the object is covered by the head of the match. If you had performed this experiment at the time of the sighting, how much of the object would have been covered by the match head?
 
-19. Draw a picture that will show the position and size of the object that you saw such as wings, protrusion, etc., and especially the direction of the object's motion.
+19. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
+
+[A simple circular drawing with notes: "no protrusion" and "object moved to south to south west"]
+
 
 - page 5 -
 
-The image does not contain any photographs. It appears to be a scanned page from a UFO report document, likely from Project Blue Book, with various questions and checkboxes.
+Here is the text from the document:
 
 20. Do you think you can estimate the speed of the object?
-Yes
-No
-IF you answered YES, then what speed would you estimate? ______
+(Circle One) Yes No
+IF you answered YES, then what speed would you estimate?
 
 21. Do you think you can estimate how far away from you the object was?
-Yes
-No
-IF you answered YES, then how far away would you say it was? ________________
+(Circle One) Yes No
+IF you answered YES, then how far away would you say it was?
 
 22. Where were you located when you saw the object?
+(Circle One):
 a. Inside a building
 b. In a car
 c. Outdoors
 d. In an airplane (type)
-e. Other ___________________
+e. At sea
+f. Other
 
-23. Were you (Circle One):
-a. In the residential section of a city or town?
-b. In open country-side?
-c. Near an airfield?
-d. Flying over open country?
-e. Other ___________________
+23. Were you (Circle One)
+a. In the business section of a city?
+b. In the residential section of a city?
+c. In open countryside?
+d. Near an airfield?
+e. Flying over a city?
+f. Flying over open country?
+g. Other
 
-24. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following:
+24. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
 24.1 What direction were you moving? (Circle One)
 a. North
 b. Northeast
 c. East
 d. Southeast
-e. South
-f. Southwest
-g. West
-h. Northwest
 
-24.2 How fast were you moving? _____________ miles per hour.
+24.2 How fast were you moving? miles per hour.
 
 24.3 Did you stop at any time while you were looking at the object?
-Yes
-No
+(Circle One) Yes No
 
-25. Did you observe the object through any of the following? 
-a. Eyeglasses Yes  No
-b. Sun glasses Yes  No
-c. Windshield Yes  No
-d. Window glass Yes  No
-e. Binoculars Yes  No
-f. Telescope Yes  No
-g. Theodolite Yes  No
-h. Other _________________
+25. Did you observe the object through any of the following?
+a. Eyeglasses Yes No
+b. Sun glasses Yes No
+c. Windshield Yes No
+d. Window glass Yes No
 
-26. In order that you can give as clear a picture as possible of what you saw, describe in your own words the object or objects which, when placed up in the sky, would give the same appearance as the one you saw.
-_________________________________________________________________
+e. Binoculars Yes No
+f. Telescope Yes No
+g. Theodolite Yes No
+h. Other
+
+26. In order that you can give as clear a picture as possible of what you saw, describe in your own words a common object or objects which, when placed up in the sky, would give the same appearance as the object which you saw.
+
+The last line (question 26) appears to have a partially illegible handwritten response.
+
 
 - page 6 -
 
-The image does not contain any photographs. It appears to be a page from a document with diagrams and instructions related to an unidentified flying object (UFO) report.
+27. In the following sketch, imagine that you are at the point shown. Place an "x" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place an "s" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it. Place an "A" on the compass where you just saw the object.
 
-Text extracted from the document:
+28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
 
-27. In the following sketch, imagine that you are at the point shown. Place an "X" on the curve high object was above the horizon (sky line) when you first saw it. Place an "0" on the compass where you first saw it. Place a "T" on the compass where you last saw the object.
+29. IF there was MORE THAN ONE object, then how many were there? ____________ Draw a picture of how they were arranged, and put an arrow to show the direction that they were moving.
 
-28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the start of the path, a "B" at the end of the path, and show any changes in direction during the course.
-
-29. IF there was MORE THAN ONE object, then how many were there? Draw a picture of how they were arranged, and put an arrow to show the direction they moved.
 
 - page 7 -
 
-There is no photograph present in this document, which appears to be a page from a Project Blue Book UFO report.
+Here is the text from the document:
 
-30. Have you ever seen this, or a similar object, before?
-31. Was anyone else with you at the time you saw the object?
-31.1 If your answered YES, and they are the object(s) (circ-^2) -
+30. Have you ever seen this, or similar object before?
+
+31. Was anyone else with you at the time you saw the object? (Circle One)   Yes   No
+
+31.1 IF you answered YES, did they see the object? (Circle One)   Yes   No
+
 31.2 Please list their names and addresses.
+[Redacted names and addresses, with handwritten location "Babylon, new york"]
+
 32. Please give the following information about yourself:
-NAME
-ADDRESS
-TELEPHONE NUMBER
-AGE
-SEX
-Indicate any additional information about yourself, including any special experience, which may be significant.
+[Personal details are redacted]
+
+Additional information about yourself: 
+Amateur astronomer
+
 33. When and to whom did you report that you had seen the object?
+13     March     1963
+                Congressman
+                James R. Grover
+
 
 - page 8 -
 
-The image does not contain any photographs, only a handwritten text. As an OCR system, I will output the text found in the document:
+Here is the text from the document:
 
-34. Date you completed this questionnaire: _____________ 
-35. Information which you feel pertinent and which is not adequately covered in the specific points of this questionnaire or in a narrative explanation of your sighting.
-the object moved off at a high rate of speed to the east and disappeared from sight. It was an oblong shaped object approximately 20 to 25 feet in length and about 6 to 8 feet in width. The object appeared to be metallic and had a series of lighted ports or windows around the middle section. The object made no sound and there was no exhaust or trail visible. It was observed for approximately 2 to 3 minutes before it disappeared.
+34. Date you completed this questionnaire:
+[Date fields are blank]
+
+35. Information which you feel pertinent and which is not adequately covered in the specific points of the questionnaire or a narrative explanation of your sighting.
+
+[The handwritten text appears to be partially illegible, but seems to read:]
+
+At first this object was stable
+and then time started to change
+ST shows... started to movement
+[Remaining text is difficult to fully decipher]
+
+Page 7 is noted at the top right of the document.
+
 
 - page 9 -
 
-There does not appear to be a photograph present in this image. The image appears to be a page from a Project Blue Book document containing text describing various sightings and their coordinates.
-
-AT 03.40 AM MARC.25 SOUTH CF CITY, 15 DEGREES ABOVE HORIZON MVINT
+AT 03:40 AM MARC.25 SOUTH CF CITY, 15 DEGREES ABOVE HORIZON MOVING SE
 1 NEWARK, N.J.
-AT 08.C1 PM MARC.18 SOUTH CF CITY, 24 DEGREES ABOVE HORIZON MVINT
-AT 04.17 AM MARC.19 SOUTH CF CITY, 42 DEGREES ABOVE HORIZON MVINT
-AT 07.C2 PM MARC.19 SOUTH CF CITY, 08 DEGREES ABOVE HORIZON MVINT
-AT 03.19 AM MARC.20 SOUTH CF CITY, 66 DEGREES ABOVE HORIZON MVINT
-AT 05.27 AM MARC.20 SOUTH CF CITY, 00 DEGREES ABOVE HORIZON MVINT
-AT 08.11 PM MARC.20 SOUTH CF CITY, 45 DEGREES ABOVE HORIZON MVINT
-AT 04.27 AM MARC.21 SOUTH CF CITY, 21 DEGREES ABOVE HORIZON MVINT
-AT 07.12 PM MARC.21 SOUTH CF CITY, 24 DEGREES ABOVE HORIZON MVINT
-AT 09.16 PM MARC.21 NORTH CF CITY, 86 DEGREES ABOVE HORIZON MVINT
-AT 03.28 AM MARC.22 SOUTH CF CITY, 42 DEGREES ABOVE HORIZON MVINT
-AT 08.21 PM MARC.22 SOUTH CF CITY, 71 DEGREES ABOVE HORIZON MVINT
-AT 04.38 AM MARC.23 SOUTH CF CITY, 06 DEGREES ABOVE HORIZON MVINT
-AT 07.22 PM MARC.23 SOUTH CF CITY, 46 DEGREES ABOVE HORIZON MVINT
-AT 09.27 PM MARC.23 NORTH CF CITY, 70 DEGREES ABOVE HORIZON MVINT
-AT 03.26 AM MARC.24 SOUTH CF CITY, 21 DEGREES ABOVE HORIZON MVINT
-AT 08.29 PM MARC.24 NORTH CF CITY, 85 DEGREES ABOVE HORIZON MVINT
+EST
+
+AT 08:01 PM MARC.18 SOUTH CF CITY, 24 DEGREES ABOVE HORIZON MOVING NE
+AT 04:17 AM MARC.19 SOUTH CF CITY, 42 DEGREES ABOVE HORIZON MOVING SE
+AT 07:02 PM MARC.19 SOUTH CF CITY, 08 DEGREES ABOVE HORIZON MOVING NE
+AT 03:19 AM MARC.20 SOUTH CF CITY, 68 DEGREES ABOVE HORIZON MOVING SE
+AT 05:27 AM MARC.20 SOUTH CF CITY, 06 DEGREES ABOVE HORIZON MOVING SE
+AT 08:11 PM MARC.20 SOUTH CF CITY, 45 DEGREES ABOVE HORIZON MOVING NE
+AT 04:27 AM MARC.21 SOUTH CF CITY, 21 DEGREES ABOVE HORIZON MOVING SE
+AT 07:12 PM MARC.21 SOUTH CF CITY, 24 DEGREES ABOVE HORIZON MOVING NE
+AT 03:18 PM MARC.21 NORTH CF CITY, 42 DEGREES ABOVE HORIZON MOVING SE
+AT 03:28 AM MARC.22 SOUTH CF CITY, 42 DEGREES ABOVE HORIZON MOVING NE
+AT 08:21 PM MARC.22 SOUTH CF CITY, 71 DEGREES ABOVE HORIZON MOVING NE
+AT 04:38 AM MARC.23 SOUTH CF CITY, 06 DEGREES ABOVE HORIZON MOVING SE
+AT 07:22 PM MARC.23 SOUTH CF CITY, 44 DEGREES ABOVE HORIZON MOVING NE
+AT 09:27 PM MARC.23 NORTH CF CITY, 70 DEGREES ABOVE HORIZON MOVING NE
+AT 03:38 AM MARC.24 SOUTH CF CITY, 21 DEGREES ABOVE HORIZON MOVING SE
+AT 08:29 PM MARC.24 NORTH CF CITY, 85 DEGREES ABOVE HORIZON MOVING NE
 1 NEW YORK, N.Y.
 EST
-AT 08.C2 PM MARC.18 SOUTH CF CITY, 24 DEGREES ABOVE HORIZON MVINT
-AT 04.17 AM MARC.19 SOUTH CF CITY, 42 DEGREES ABOVE HORIZON MVINT
-AT 07.C2 PM MARC.19 SOUTH CF CITY, 08 DEGREES ABOVE HORIZON MVINT
-AT 03.19 AM MARC.20 SOUTH CF CITY, 67 DEGREES ABOVE HORIZON MVINT
-AT 05.27 AM MARC.20 SOUTH CF CITY, 66 DEGREES ABOVE HORIZON MVINT
-AT 08.11 PM MARC.20 SOUTH CF CITY, 46 DEGREES ABOVE HORIZON MVINT
-AT 04.27 AM MARC.21 SOUTH CF CITY, 21 DEGREES ABOVE HORIZON MVINT
-AT 07.13 PM MARC.21 SOUTH CF CITY, 25 DEGREES ABOVE HORIZON MVINT
-AT 03.16 PM MARC.21 NORTH CF CITY, 85 DEGREES ABOVE HORIZON MVINT
-AT 03.28 AM MARC.22 SOUTH CF CITY, 41 DEGREES ABOVE HORIZON MVINT
-AT 08.21 PM MARC.22 SOUTH CF CITY, 71 DEGREES ABOVE HORIZON MVINT
-AT 04.38 AM MARC.23 SOUTH CF CITY, 05 DEGREES ABOVE HORIZON MVINT
-AT 07.22 PM MARC.23 SOUTH CF CITY, 46 DEGREES ABOVE HORIZON MVINT
-AT 09.27 PM MARC.23 NORTH CF CITY, 70 DEGREES ABOVE HORIZON MVINT
-AT 03.38 AM MARC.24 SOUTH CF CITY, 21 DEGREES ABOVE HORIZON MVINT
-AT 06.24 PM MARC.24 SOUTH CF CITY, 25 DEGREES ABOVE HORIZON MVINT
-AT 08.29 PM MARC.24 NORTH CF CITY, 85 DEGREES ABOVE HORIZON MVINT
-1 CFPA#, ARE.
+
+AT 08:02 PM MARC.18 SOUTH CF CITY, 24 DEGREES ABOVE HORIZON MOVING NE
+AT 04:17 AM MARC.19 SOUTH CF CITY, 42 DEGREES ABOVE HORIZON MOVING SE
+AT 07:02 PM MARC.19 SOUTH CF CITY, 08 DEGREES ABOVE HORIZON MOVING NE
+AT 03:19 AM MARC.20 SOUTH CF CITY, 67 DEGREES ABOVE HORIZON MOVING SE
+AT 05:27 AM MARC.20 SOUTH CF CITY, 06 DEGREES ABOVE HORIZON MOVING SE
+AT 08:11 PM MARC.20 SOUTH CF CITY, 46 DEGREES ABOVE HORIZON MOVING NE
+AT 04:27 AM MARC.21 SOUTH CF CITY, 21 DEGREES ABOVE HORIZON MOVING SE
+AT 07:13 PM MARC.21 SOUTH CF CITY, 25 DEGREES ABOVE HORIZON MOVING NE
+AT 03:18 PM MARC.21 NORTH CF CITY, 85 DEGREES ABOVE HORIZON MOVING NE
+AT 03:28 AM MARC.22 SOUTH CF CITY, 41 DEGREES ABOVE HORIZON MOVING SE
+AT 08:21 PM MARC.22 SOUTH CF CITY, 71 DEGREES ABOVE HORIZON MOVING NE
+AT 04:38 AM MARC.23 SOUTH CF CITY, 05 DEGREES ABOVE HORIZON MOVING SE
+AT 07:22 PM MARC.23 SOUTH CF CITY, 44 DEGREES ABOVE HORIZON MOVING NE
+AT 09:27 PM MARC.23 NORTH CF CITY, 70 DEGREES ABOVE HORIZON MOVING NE
+AT 03:38 AM MARC.24 SOUTH CF CITY, 21 DEGREES ABOVE HORIZON MOVING SE
+AT 08:24 PM MARC.24 SOUTH CF CITY, 25 DEGREES ABOVE HORIZON MOVING NE
+AT 08:29 PM MARC.24 NORTH CF CITY, 85 DEGREES ABOVE HORIZON MOVING NE
+1 OMAHA, NEB.
 CST
+
+AT 09:00 PM MARC.18 SOUTH CF CITY, 38 DEGREES ABOVE HORIZON MOVING NE
+AT 03:16 AM MARC.19 NORTH CF CITY, 82 DEGREES ABOVE HORIZON MOVING SE
+AT 05:16 AM MARC.19 SOUTH CF CITY, 25 DEGREES ABOVE HORIZON MOVING NE
+AT 03:01 PM MARC.19 SOUTH CF CITY, 15 DEGREES ABOVE HORIZON MOVING SE
+AT 04:17 AM MARC.20 SOUTH CF CITY, 44 DEGREES ABOVE HORIZON MOVING SE
+AT 07:01 PM MARC.20 SOUTH CF CITY, 04 DEGREES ABOVE HORIZON MOVING NE
+AT 05:09 PM MARC.20 SOUTH CF CITY, 62 DEGREES ABOVE HORIZON MOVING NE
+
 
 - page 10 -
 

@@ -1,51 +1,102 @@
-The image does not contain any photographs. It appears to be a Project 10073 Record Card, which is a form used to document observations of unidentified flying objects as part of Project Blue Book, a U.S. Air Force program to investigate UFO sightings.
+PROJECT 1073 RECORD CARD
 
-Project 10073 Record Card
-1. DATE: 29 August 1963
-2. LOCATION: 39-05N-49-13W (Atlantic)
-3. DATE-TIME GROUP: 2370152Z
-4. TYPE OF OBSERVATION: Ground-Visual
-5. LENGTH OF OBSERVATION: 6 minutes
-6. NUMBER OF OBJECTS: ONE
-7. COURSE: Military
-8. BRIEF SUMMARY OF SIGHTING: Satellite observed on course of 120 degrees. No amplifying information.
-9. CONCLUSIONS: Satellite, Possibly Balloon, Other Astronomical
-10. COMMENTS: Reported Satellite, no data - no further action.
+1. DATE
+25 August 1963
+
+2. LOCATION
+35.02N 48.15W (Atlantic)
+
+3. DATE-TIME GROUP
+Local: 25/0715Z
+GMT: 25/0715Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual ☐ Ground-Radar
+Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+military
+
+7. LENGTH OF OBSERVATION
+not reported
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+120 deg
+
+10. BRIEF SUMMARY OF SIGHTING
+Satellite observed on course of 120 deg.
+No amplifying information.
+
+11. COMMENTS
+Reported Satellite not UFO. ECHO data
+for this period not available.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other, Satellites
+☒ Insufficient Data for Evaluation
+☐ Unknown
+
+(ATIC FORM 329 (REV 25 SEP 52))
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
-
-A3 IN : 32888 (25 AUG 63)
+AF TN: 32888 (25 Aug 63)
 ACTION: NIN-9
-LENO : X-NR-1, XOPX-4, SAP-03-3, DIA-GIC-2 (45)
-SWE A027
-CHAR ACTS MESSAGES
-JO RUEAMJ
-DE RUEGUF 22
+
+INFO: XOP-1, XOPX-4, SAF-08-3, DIA-25, DIA-CIIO-2 (45)
+SMB A027
+
+CM 05 4ZCUJJC53
+CO RUEAHQ
+
+DE RUEGUF 323
 ZNR
-G 28 2132
-FM COMEEASTAREA
-TO RUCKNC/CINCLANFLT
-RUPALR/CINCINGRAD ENT AFB COLD
-RUEAWJ/GCF S USAF WASHDC
-RUCNDT/CGAWS FORLANT
-RUEQHC/COMEASEFORON
-RGCON/ACNCONARLANT
-RGCC/CANAIRDEF
-RUEAHVVS JRAD DIV
-INFO RUEGDC/COMDT COGARD
-3 25 3743Z
+
+O 252813Z
+FM COMEAST AREA
+
+TO RUCKHC/CINCLANTFLT
+RUVGAL8/CINCNORAD ENT AFB COLO
+RUEAHQ/CGFS USAF WASHDC
+RUCMDT/COMMSFORLANT
+RUEGUH/COMEAST SEAFRON
+RCEOM/CANCOIARLANT
+RCCSC/CANAIRDEF
+RUEASM/25 NORAD DIV
+INFO RUECJD/COMDT COGARD
+
+O 252743Z
 FM OS ECHO
-TO COMEEASTAREA
-UCSG BR19
+
+TO COMEAST AREA
+USCG GR19
 BT
-UNOLAS
-UNIDENTIFIED FLYING OBJECT (SATELLITE). POSIT 32.32N 48.15W
-17152. VISUAL CONTACT. CONTACT ON COURSE 120 DEGS. NO
-AMPLIFYING INFO.
-NOTE: Advance copy to DIA and NIN.
-25/28142
+UNCLAS
+
+UNIDENTIFIED FLYING OBJECT (SATELITE). POSIT 35.2N 48.15W
+7715Z. VISUAL CONTACT. CONTACT ON COURSE 120 DEGS. NO
+AMPLIFYING INFO
+
+BT NOTE: Advance copy to DIA and NIN.
+25/0814Z
+
 
 - page 2 -
 

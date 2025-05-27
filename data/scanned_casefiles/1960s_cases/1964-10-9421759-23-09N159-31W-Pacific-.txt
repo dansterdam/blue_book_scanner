@@ -1,66 +1,136 @@
-The image provided does not contain any photographs. It appears to be a form or report from Project Blue Book, focusing on a sighting of an unidentified object.
+1. DATE - TIME GROUP
+25 Oct 64 24 27/0732
 
-The text found in the document is as follows:
+2. LOCATION
+23.09N 159.31W (Pacific)
 
-1. DATE - TIME GROUP: 27/0732Z SEP 64
-2. LOCATION: 23.09N 159.31W (Pacific)
-3. SOURCE: STATION 733 FALLOUT
-10. CONCLUSION: I BAFFLES
-11. BRIEF SUMMARY AND ANALYSIS: OBJECT IS DESCRIBED AS VAPOR TRAIL. DIRECTLY OBSERVED AT REPORTED SPEED OF 500 KNOTS. FIRST OBSERVED AT 10,000 FEET, THEN AT 100,000 FEET.
+3. SOURCE
+Military USS FALLOUT
+
+10. CONCLUSION
+MISSILE
+
+4. NUMBER OF OBJECTS
+One
+
+11. BRIEF SUMMARY AND ANALYSIS
+Object leaving luminous vapor trail. Direction 205 deg.
+Speed estimated at 600 knots. Flight at low altitude. Electronic
+pickup at 2119 or bearing 160 deg.
+
+5. LENGTH OF OBSERVATION
+Unknown
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+205 deg True
+
+8. PHOTOS
+[ ] Yes
+[X] No
+
+9. PHYSICAL EVIDENCE
+[ ] Yes
+[X] No
+
+FORM
+FTD SEP 65 0-329 (TDE)
+
+(COMMENTS: Sighting descriptive of missile observation and Radar
+pickup of same. Path on Okinawa area Pro Vandenberg.
+Probable launch from this site. Case evaluated as a probable
+missile.)
+
+Previous editions of this form may be used.
+
 
 - page 1 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
+INCOMING
+MESSAGE
 
-INCOMING MESSAGE
-27/6732 26 OCT
-DEPARTMENT OF THE AIR FORCE
-STATE AISS RR BRANCH
+AF IN : 2543 (27 Oct 64) A/jpr
 
-UNCLAS
-
-AF IN : 2543 (27 OCT 64) A/JPR
 ACTION: NIN-7
-INFO : XOPX-1, XOPX-6, SAP-03-3, JCS/03D-50, NSA-7, DIA-15
 
-SM 31 44
-CZCHQBSGZCCJC518
-GO RUEAHQ
-DE RUNNOR 9310 27/0945Z
+INFO : XOP-1, XOPX-6, SAF-OS-3, JCS/OSD-50, NSA-7, DIA-15 (90)
+
+SW3 B144
+
+CZCHQB56ZCC JC518
+
+CO RUEAHQ
+
+DE RUHPCR 001C 27/0945Z
+
 ZNR
-O 2789002
-FM USS FALQOUT
-TO RUNPHR/CGI HAWSEAFRON  
-RUHLH/C INCPACFLT
-RUWALAC / INCNRAD
-RUEAHQ/CC: S USAF
-RUHAKW/A DCN WHEELER AFB HAWAII
-GS 70
-ST
+
+O 270900Z
+
+FM USS FALGOUT
+
+TO RUPHH/CC HAWSEAFRON
+
+RUHL HL/C INCP ACFLI
+
+RW GAL B/C IWCN GRAD
+
+RUEAHQ/CC F S USAF
+
+RUHAKW/ADC WHEELER AFB HAWAII
+
+GR 70
+
+EX
 
 UNCLAS
 
 1. MERINT
-2. USS FALQOUT  
-3. SIGHTED ONE OBJECT BEARING 205 DEG. T WHICH LEFT AN IRREG 
-L LUMINOUS VAPOR TRAIL.
-4. 232941 153314
-5. 276/732
-6. L 04
-7. OBJECT HAD IRREGULAR TRAIL. OVERALL DIRECTION MOVEMENT 20 
+
+2. USS FALGOUT
+
+3. SIGHTED ONE OBJECT BEARING 205 DEG. T WHICH LEFT AN IRREGULAR
+LUMINOUS VAPOR TRAIL.
+
+4. 205°N 159.51W
+
+5. 270732Z
+
+6. LOW
+
+7. OBJECT HAD IRREGULAR TRAIL. OVERALL DIRECTION MOVEMENT 205
 DEG. T
-8. SPEED UNK ESTIMATED 500 KTS.
+
+8. SPEED UNK ESTIMATED 600 KTS.
+
+UNCLASSIFIED
+Page 1 of 2
+
 
 - page 2 -
 
-The image does not contain any photograph. It appears to be a page from a document related to Project Blue Book, which was a U.S. Air Force project that investigated UFO sightings.
+INCOMING
+MESSAGE: 2543 (27 OCT 64)
 
-INCOMING MESSAGE
-PAGE TWO RUHPCR 0010 UNCLAS
-162I52Z DEC 64
-16. SEA STATE 2. WEATHER CLEAR. NO MOON. 
-BY NOTE: ROSSAK transmitted to CIA (per 576). ADV CY
-GO DIA, MIN and NORAD.
+DEPARTMENT OF THE AIR FORCE
+STAFF MISSILE BRANCH
+
+UNCLASSIFIED
+Page 2 of 2
+
+PAGE TWO RUHPCR 001C UNCLAS
+
+9. ELECTRONIC INTERCEPT FREQ 1295 PRR 2400 PW 6.8 ARR 4 BEARING
+160 DEG. T TIME 2119
+
+10. SEA STATE 2. WEATHER CLEAR. NO MOON.
+
+BT
+NOTE: Message transmitted to CIA (per 576). ADV CY DELIVERED
+TO DIA, NIN AND XOPX.
+
 
 - page 3 -
 

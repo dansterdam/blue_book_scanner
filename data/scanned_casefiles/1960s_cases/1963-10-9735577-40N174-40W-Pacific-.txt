@@ -1,60 +1,83 @@
-The image does not contain a photograph. It appears to be a page from an old Project Blue Book report, which includes a filled-out record card with information about a UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE - 10/22/1962
-2. LOCATION - AGT SALMON (PACIFIC)
-3. DATE-TIME GROUP - 1925Z
-4. TYPE OF OBSERVATION - 0 Ground-Radar
-                        0 Air-Radar
-                        0 Air-Visual 
-5. DURATION - 68 SEC
-6. NUMBER OF OBJECTS - One
-7. COURSE - SW to NE
-8. CONCLUSIONS - 
-   Probable Satellite
-   Possible Balloon
-   Possible Meteor  
-   Possible Aircraft
-   Insufficient Data for Evaluation
-9. COMMENTS - Object observed as satellite due to observers opinion of objects not available.  ECHO data not available.
+
+1. DATE
+9 Oct 1963
+
+2. LOCATION
+40N 174.40W (Pacific)
+
+3. DATE-TIME GROUP
+Local        10/0207Z
+GMT
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual   ☐ Ground-Radar
+☐ Air-Visual     ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes   ☒ No
+
+6. LENGTH OF OBSERVATION
+Not Reported
+
+7. SOURCE
+Military
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+SE
+
+10. BRIEF SUMMARY OF SIGHTING
+Object with brightness of last mag star. Moving very fast to SE. Believed to be satellite by two witnesses.
+
+11. COMMENTS
+Evaluated as satellite due to observers opinion of object. ECHO data not available.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Satellite
+☒ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a typed document from the Department of the Air Force with information related to a UFO report.
-
 DEPARTMENT OF THE AIR FORCE
-OFFICE MESSAGE BRANCH
+STAFF MESSAGE BRANCH
 INCOMING
 
-AD IN : 34783 (10 Oct 63) A/FRO
-INPO : NIIN-24 330313, ROTS-35, CAF-03-3,
-ASAM-26, DIA5295, DIA/SI-NCIC-26 
-NEACP, DIA/5292, DIA/SI-C-26
-TO RUPLLT/CINOPACPAT
-RUOLANA/USD KUNIA
-RUOPELON/JAD
-IPFO RUEWJHO
-RURBAK/CETS USAF
-RUPPAC/CINCPAC
-RUHPC/CINCPACFLT
-RULFKS/DNACDNUSTAFF
-RULLD/PACAFDEECON HICKAM
-RUOMM/SEDAFV
+AE IN: 34783 (10 Oct 63)    A/tro
 
-DECLASS
-NO PHOTOS
-ENCLS:
-1. JANAP 146D
-2. LT GRAVITZ REPORT
-3. COCJEST WITH BRIGHTNESS OF FIRST MAGNITUDE STAR
-4. DON 1174 207
+INFO: NIN-9, XOF-1, XOFX-4, SAF-OS-3,
+       ARMY-2, CWG-8, JCS-35, JSDE-15
+       NSA-7, DIA-25, DIA/CITC-2 (N12)
+
+A. JGNAP 145D
+
+1. CLVIS REPORT
+2. 145214
+3. OBJECT WITH BRIGHTNESS OF FIRST MAGNITUDE STAR
+4. 40N 174.40W
 5. 1007202
 6. VERY HIGH
 7. SOUTHEAST
 8. VERY FAST
 9. BELIEVED TO BE SATELLITE BY TWO PERSONS SIGHTING
-EVALUATION: WHICH NOTES: AEW CIC DID TO COPY, NNW, AND DEA
-ADDRESSEED TO CIA Cf #365.
+
+EVALUATION UNKNOWN NOTE: ADV CY DEL TO XOFX, NIN AND DIA
+                         READDRESSED TO CIA PER 1365.
+
 
 - page 2 -
 

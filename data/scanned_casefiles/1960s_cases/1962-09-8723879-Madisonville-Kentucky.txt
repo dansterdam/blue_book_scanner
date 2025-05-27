@@ -1,62 +1,126 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record card, which contains textual information about a reported UFO sighting.
+PROJECT 10073 RECORD CARD
 
-PROJECT 10973 RECORD CARD
-1. DATE: 11 September 1952
-2. LOCATION: Madisonville, Kentucky
-3. SHAPE: Elliptical
-4. DURATION: 1 hour 30 minutes
-5. NO. OF OBJECTS: Multiple
-6. DISTANCE: 5 to 6 miles
-7. LENGTH OF OBSERVATION: 1 hour 30 minutes
-8. NUMBER OF OBJECTS: Multiple
-9. COURSE: Elliptical
-10. DESCRIPTION: Observation of spinning glass-fiber like objects with apparent spin class. Fiber-like objects observed floating and descending with 15 mph wind.
-11. CONCLUSIONS: Weather Balloon, Possible Meteor, Possible Astronomical.
+1. DATE
+11 September 1962
+
+2. LOCATION
+Madisonville, Kentucky
+
+3. DATE-TIME GROUP
+Local    11/1130Z
+GMT
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual    □ Ground-Radar
+□ Air-Visual        □ Air-Intercept Radar
+
+5. SOURCE
+Civilian
+
+6. PHOTOS
+G.Y.s
+B&W
+
+7. LENGTH OF OBSERVATION
+1 hour 30 minutes
+
+8. BRIEF SUMMARY OF SIGHTING
+Substance falling from atmosphere with appearance of spun glass. Fiber like substance in great quantity. Under observation from 0930 until 1100 local. Gassamer floating with 15 mph wind.
+
+9. NUMBER OF OBJECTS
+multiple
+
+10. COURSE
+falling
+
+11. COMMENTS
+Migrating spiders observed by biology students and professors at local institutions. Witnessed and confirmed presence of spiders with particles of gassamer.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+[X] Other: Spider Gossamer
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from a UFO report document, likely from Project Blue Book, containing a questionnaire with various questions about the sighting of an unidentified object.
+Here is the text from the document:
 
-25. Where were you located when you saw the object? (Circle One):
+Page 5
+
+25. Where were you located when you saw the object?
+(Circle One)
 a. Inside a building
-b. Outside
-c. In a car
+b. In a car
+c. Outdoors
 d. In an airplane (type)
 e. At sea
 f. Other
 
+26. Were you (Circle One)
+a. In the business section of a city?
+b. In the residential section of a city?
+c. In open countryside?
+d. Near an airfield?
+e. Flying over a city?
+f. Flying over open country?
+g. Other
+
 27. What were you doing at the time you saw the object, and how did you happen to notice it?
-Circles from a to f and further details written in the space below the question.
+Cruze auto west near
+R. INVESTIGATOR
 
 28. If you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
-28.1 What direction were you moving? (Circle One): 
-a. North, b. South, c. East, d. Southeast, e. Southwest, f. West, g. Northwest
-28.2 How fast were you moving? _______ miles per hour.
-28.3 Did you stop at any time while you were looking at the object? (Circle One): Yes / No
+28.1 What direction were you moving? (Circle One)
+a. North           c. East            e. South          g. West
+b. Northeast       d. Southeast       f. Southwest      h. Northwest
 
-29. What direction were you looking when you first saw the object? (Circle One):
-a. North, b. Northeast, c. East, d. Southeast, e. South, f. Southwest, g. West, h. Northwest
+28.2 How fast were you moving? _____________ miles per hour.
 
-30. What direction were you looking when you last saw the object? (Circle One):
-a. North, b. Northeast, c. East, d. Southeast, e. South, f. Southwest, g. West, h. Northwest
+28.3 Did you stop at any time while you were looking at the object?
+(Circle One)   Yes     No
 
-31. If you are familiar with bearing terms (angular direction), try to estimate the number of degrees the object was from the horizon (elevation).
-31.1 When it first appeared: From true North ____90__ degrees.
-31.2 When it disappeared: From true North ____270_ degrees.
+29. What direction were you looking when you first saw the object? (Circle One)
+a. North           c. East            e. South          g. West
+b. Northeast       d. Southeast       f. Southwest      h. Northwest
+                                                         i. Overhead
+
+30. What direction were you looking when you last saw the object? (Circle One)
+a. North           c. East            e. South          lg. West
+b. Northeast       d. Southeast       f. Southwest      h. Northwest
+                                                         i. Overhead
+
+31. If you are familiar with bearing terms (angular direction), try to estimate the number of degrees the object was from true North (true east) and also the number of degrees it was upward from the horizon (elevation).
+31.1 When it first appeared:
+a. From true North   90°   degrees.
+b. From horizon ____________ degrees.
+
+31.2 When it disappeared:
+a. From true North   270°  degrees.
+b. From horizon ____________ degrees.
+
 
 - page 2 -
 
-This document contains two illustrations, but no photographic images.
-
-The text extracted from the document is as follows:
-
 32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
 
-33. In the following larger sketch place an "A" at the position the object was when you first saw it. Refer to smaller sketch to estimate the size of the object in the larger sketch.
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to smaller sketch as an example of how to complete the larger sketch.
+
+Page 6 is noted at the top right of the document.
+
 
 - page 3 -
-
-The image does not contain any photographs. It appears to be a memorandum from the Kentucky State Police regarding an incident involving substance falling from the atmosphere.
 
 HEADQUARTERS
 KENTUCKY STATE POLICE
@@ -65,50 +129,49 @@ FRANKFORT
 MEMORANDUM
 
 REF. FILE NO.
-DATE: September 12, 1952
+DATE: September 13, 1962
 
-TO: Commander, Post No.
-FROM: Sgt. Homer Joe B. McCleaster
-SUBJECT: Incident report concerning substance falling from atmosphere
+TO: Commander, Post Two
 
-Sir, September 11, 1952, this unit was dispatched to Madisonville, Kentucky, in response to a report of some mysterious substances falling from the atmosphere. Upon arrival, it was ascertained that at approximately 7:30 PM on September 10, 1952, a group of citizens observed a shower of what appeared to be some type of shiny metallic particles falling from the sky. These particles were reported to be about the size of a BB, and were suspended in the atmosphere for a brief period before slowly drifting to the ground. No detonations or sounds were reported prior to or during the incident.
+FROM: Trooper Joe W. McMorter
 
-The reporting officer, Lt. Hicks, was advised that this type of incident had occurred in the area on prior occasions, and that no further investigation was deemed necessary by this office. It is the opinion of this department that this was likely a natural meteorological phenomenon, and no evidence of any unidentified flying object was found.
+SUBJECT: Incident Report Concerning Substance Falling From Atmosphere
 
-Joe B. McCleaster, Trooper
-cc: Col. Roland 
-    Ordnance Technology Division
-    Wright-Patterson AFB
-    Dayton, Ohio
-Attn: T.D.F.
+On September 11, 1962 this was dispatched by KSP 634 to a point one mile north of Sebree, Ky at residence of [redacted]. It was reported a substance falling from the atmosphere that appeared to be spun glass like substance. In a great quantity. On arrival the unit observed this unit still falling, and they had observed same near 0230 till 1100 hours then this unit was called. Several agencies and contacted the Civil Defense Director of Henderson, Ky. said a similar report was received about two years ago in Henderson, Ky. and was reported to Air Force Intelligence at Wright-Patterson AFB, Dayton, Ohio.
+
+On contacting Col. Fried, Wright-Patterson AFB, he advised there were possible sources: 1. Cloud-seeding after effects 2. Chemical plant those similar had become cautionary 3. Gossamer formed by migrating spiders.
+
+On contacting several biology instructors after checking out possibilities of 1 and 2, it was learned that this was migrating season for such balloons, spiders, and had been observed by students and instructors alike as well as this unit. On recontacting Mr. [redacted] of [redacted] sources, Ky. they recalled seeing to the different places of [redacted] but not all parts or places that seemed to float with the 15 PH ground wind.
+
+It is the belief of this unit the substance observed was gossamer formed by large quantities of migrating spiders moving which is normal for this season.
+
+[Signature]
+Joe W. McMorter, Trooper, Unit 232
+
+cc: Col. Fried
+Foreign Technology Division
+Wright-Patterson AFB
+Dayton, Ohio
+Attn: T.D.S.
+
+[Handwritten note at bottom: 1st Ind RA Transmitted 19 Sep 62]
+
 
 - page 4 -
 
-The image does not contain any photographs. It appears to be a page of text from a report or document related to Project Blue Book, which was a United States Air Force program to investigate unidentified flying objects (UFOs).
+One of the most recent reports of angel hair came from Sebree, Kentucky, on September 11, 1962, when state police and the local Civil Defense director were called in to investigate a strange substance that looked like spun glass, which had been floating down near the residence of Mr. Y in great quantities for more than an hour. The Air Force, when called for advice, suggested three possibilities: the material might be chemicals used in cloud seeding, might be refuse from a defective filler in a chemical or industrial plant, or might be gossamer formed by migrating spiders. The first two possibilities were quickly ruled out. The witnesses, when re-questioned, remembered that they had indeed noticed spiders clinging to several bits of the material they had picked up. The trooper report concluded, "It is the belief of this unit the substance observed was gossamer formed by huge quantities of migrating spiders moving, which is normal for this season."
 
-One of the most recent reports of angel hair came from Sarine,
-Kentucky, on September 23, 1962, where state police and the local
-Civil Defense Director were called to investigate a strange substance that looked like spun glass, which had been floating down
-near the residence of Mr. Y in great quantities for some hours on
-the 22nd. According to the state police and local defense
-authorities, the material might be chemicals used in cloud seeding,
-which the scientists from a detective filter in a chemical or industrial
-plant, or the chemicals that create glass fiber in a chemical or textile
-plant, were affected in some way.
-The search continued. It is little better than a still hypothetical result-
-ing from the activities of migrating spiders. The report concluded: "A substantial amount of angel hair was evidence which cannot be
-accounted for, so far as the laboratory tests and the appearance observed
-was concerned. It is little better than a still hypothetical resulting
-from the activities of migrating spiders which is normal for the season."
-The youth migration of spiders and sloughing of some remains in an
-environment makes a more reasonable explanation of angel hair: it is far less fantastic than a still hypothetical resulting of a clandestine
-origin.
+The yearly migration of spiders and sloughing of gossamer is an established fact. As an explanation of angel hair it is far less fantastic than a still hypothetical cruising spaceship.
+
 
 - page 5 -
 
-The image does not contain any photographs, only a document with text. I will now act as an OCR system and produce the text found in the document.
+Here is the text from the document:
 
-24. What were the weather conditions at the time you saw the object?
+Page 7
+
+34. What were the weather conditions at the time you saw the object?
+
 CLOUDS (Circle One)
 a. Clear sky
 b. Hazy
@@ -122,122 +185,193 @@ c. Moderate or heavy rain
 d. Snow
 e. Don't remember
 
-25. When and to whom did you report that you had seen the object?
-G. Moon Y ear 1962 MONTH
+35. When and to whom did you report that you had seen the object?
+17      Sept        62      FTD
+Day     Month       Year
 
-26. Was anyone else with you at the time you saw the object?
-(Circle One) Yes No
+36. Was anyone else with you at the time you saw the object?
+(Circle One) Yes   No
 
-26.1 If you answered YES, did they see the object too?
-(Circle One) Yes No
+36.1 If you answered YES, did they see the object too?
+(Circle One) Yes   No
 
-26.2 Please list their names and addresses:
-GEORGE EDWARDS JR.
-MADISONVILLE, KENTUCKY
+36.2 Please list their names and addresses:
+MANY OTHER WITNESSES
 
-27. Was this the first time that you had seen an object or objects like this?
-(Circle One) Yes No
+37. Was this the first time that you had seen an object or objects like this?
+(Circle One) Yes   No
 
 37.1 If you answered NO, then when, where, and under what circumstances did you see other ones?
+[Blank lines]
 
 38. In your opinion what do you think the object was and what might have caused it?
+[Blank space]
+
 
 - page 6 -
 
-This image does not contain a photograph. It appears to be a page from a Project Blue Book report, specifically the "Madisonville, Kentucky" report dated September 8, 1962.
+Here is the text from the document:
 
-TEXT EXTRACTED FROM THE IMAGE:
+39. Do you think you can estimate the speed of the object?
+(Circle One) Yes No (WIND SPEED)
+IF you answered YES, then what speed would you estimate? 15 MPH
 
-39. Do you think you can estimate the speed of the object? (Circle One)     Yes     No
-IF you answered YES, then what speed would you estimate? 15,000
-
-40. Do you think you can estimate how far away from you the object was? (Circle One)     Yes     No  
+40. Do you think you can estimate how far away from you the object was?
+(Circle One) Yes No
 IF you answered YES, then how far away would you say it was?
 
 41. Please give the following information about yourself:
-NAME: [REDACTED] 
-ADDRESS: 1500 Kenttucky Street, Madisonville, Kentucky
-TELEPHONE NUMBER: [REDACTED]
-Age: - Sex: -
+NAME [redacted]
+ADDRESS Highway State Police, Madisonville, Ky.
+TELEPHONE NUMBER [redacted]
+Age_____ Sex_____
+
 Indicate any additional information about yourself, including any education, which might be pertinent.
 
-42. Date you completed this questionnaire: - Day - Month - Year
+42. Date you completed this questionnaire: 
+Day    Month    Year
+
 
 - page 7 -
 
-The image does not contain any photograph. It appears to be a page from a U.S. Air Force Technical Information Sheet, which is a questionnaire used to gather information about observed unidentified objects.
-
 U.S. AIR FORCE TECHNICAL INFORMATION SHEET
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomena that you have observed.
+
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information so that, if it is deemed necessary, we may contact you for further details.
+
 1. When did you see the object?
-2. Time of day: 
-3. Time Zone: (Circle One): a. Eastern b. Central c. Mountain d. Pacific
+11   Sept   62
+Day   Month   Year
+
+2. Time of day:   26   30
+                Hour   Minutes
+(Circle One): A.M. or P.M.
+
+3. Time Zone: (Circle One): a. Eastern         (Circle One): a. Daylight Saving
+                b. Central                   b. Standard
+                c. Mountain
+                d. Pacific
+                e. Other
+
 4. Where were you when you saw the object?
-5. How long was object in sight? 
+Near Madisonville
+Nearest Postal Address                 City or Town               State or Country
+
+Additional remarks: -
+
+5. How long was object in sight?   30
+                                Hours   Minutes   Seconds
+
 5.1 How was time in sight determined?
+a. Certain         c. Not very sure
+b. Fairly certain  d. Just a guess
+
 6. What was the condition of the sky?
-7. If you saw the object during DAYLIGHT, where was the SUN located as you looked at the object? (Circle One): a. In front of you b. In back of you c. To your right d. Overhead e. Don't remember
-FTD JN 61 164 THIS FORM SUPERSEDES PREVIOUS EDITION, ATC 164, JUN 59, WHICH IS OBSOLETE.
+DAY                                    NIGHT
+a. Bright                              a. Bright
+b. Cloudy                              b. Cloudy
+
+7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object?
+(Circle One): a. In front of you       d. To your left
+              b. In back of you        e. Overhead
+              c. To your right          f. Don't remember
+
+FTD FORM
+JUL 61 164     This form supersedes ATIC 164, pub 60, which is obsolete.
+
 
 - page 8 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document, specifically from Project Blue Book, with a questionnaire or form filled out.
+8. IF you saw the object at NIGHT, what did you not notice concerning the STARS and MOON?
+8.1 STARS (Circle One):
+a. None
+b. A few
+c. Many
+d. Don't remember
 
-8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
-8.1 STARS (Circle One): a. None, b. A few, c. Many, d. Don't remember
-8.2 MOON (Circle One): a. Bright moonlight, b. Dull moonlight, c. No moonlight - pitch dark, d. Don't remember
+8.2 MOON (Circle One):
+a. Bright moonlight
+b. Dull moonlight
+c. No moonlight -- pitch dark
+d. Don't remember
 
-9. The object appeared: (Circle One): a. As a light, b. Shiny, c. Dark, d. Don't remember
+9. The object appeared:
+(Circle One): a. As a light   b. Shiny   c. Dark   d. Don't remember
 
-10. IF it appeared as a light, was it brighter than the brightest stars?
+10. If it appeared as a light, was it brighter than the brightest stars?
 
-11. Did the object: (Circle One for each question) Appear to stand still at any time? Yes / No / Don't Know, Suddenly speed up and then slow down at any time? Yes / No / Don't Know, Give off smoke? Yes / No / Don't Know, Change brightness? Yes / No / Don't Know, Change shape? Yes / No / Don't Know, Flash or flicker? Yes / No / Don't Know, Disappear and reappear? Yes / No / Don't Know
+11. Did the object:                                   (Circle One for each question)
+a. Appear to stand still at any time?                 Yes   No   Don't Know
+b. Suddenly speed up and rush away at any time?       Yes   No   Don't Know
+c. Break up into parts or explode?                    Yes   No   Don't Know
+d. Give off smoke?                                    Yes   No   Don't Know
+e. Change brightness?                                 Yes   No   Don't Know
+f. Change shape?                                      Yes   No   Don't Know
+g. Flash or flicker?                                  Yes   No   Don't Know
+h. Disappear and reappear?                            Yes   No   Don't Know
 
-12. Did the object move behind something at any time, particularly a cloud? (Circle One): Yes / No / Don't Know
+12. Did the object move behind something at any time, particularly a cloud?
+(Circle One): Yes   No   Don't Know.   IF you answered YES, then tell what it moved behind:
 
-13. Did the object move in front of something at any time, particularly a cloud? (Circle One): Yes / No / Don't Know
+13. Did the object move in front of something at any time, particularly a cloud?
+(Circle One): Yes   No   Don't Know.   IF you answered YES, then tell what in front of:
 
-14. Did the object appear: (Circle One) a. Solid, b. Transparent, c. Vapor, d. Don't Know
+14. Did the object appear: (Circle One): a. Solid   b. Transparent   c. Vapor   d. Don't Know
 
-15. Did you observe the object through any of the following? (Circle Yes/No) Eyeglasses, Sun glasses, Binoculars, Telescope, Window glass, Other
+15. Did you observe the object through any of the following?
+a. Eyeglasses   Yes   No
+b. Sun glasses  Yes   No
+c. Windshield   Yes   No
+d. Window glass Yes   No
+
+e. Binoculars   Yes   No
+f. Telescopes   Yes   No
+g. Theodolite   Yes   No
+h. Other
+
 
 - page 9 -
 
-The image does not contain a photograph. It appears to be a page from an old UFO report document, likely from Project Blue Book.
+Here is the text from the document:
+
+Page 3
 
 16. Tell in a few words the following things about the object:
-a. Sound: Whistling
-b. Color: Bright
+a. Sound NONE
+b. Color WHITE
 
-17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw, such as wings, projections, etc., and especially show details or vapor trails if the object was moving.
-25 - 30 - Triangular
+17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
 
-18. The shape of the object was:
+25-70' LONG
+THREADS.
+
+18. The edges of the object were:
 (Circle One): a. Fuzzy or blurred
-b. Like a bright star
-c. Sharply outlined
-d. Don't remember
+                b. Like a bright star
+                c. Sharply outlined
+                d. Don't remember
 
-19. If there was MORE THAN ONE object, then how many were there?
+19. IF there was MORE THAN ONE object, then how many were there?
 Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+
 
 - page 10 -
 
-The image does not contain any photographs. It appears to be a page from a UFO investigation report form with several questions and blank spaces for answers.
-
-DRAWN OUT OBJECT SIGHTING
+Here is the text from the document:
 
 20. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
 
+Dense.
+
 21. How large did the object appear to you as compared to an object with which you are familiar?
 
-22. We wish to know the angular size. Hold a match stick or arm's length in line with a known object and note how much of the object is covered by the match. If you had performed this experiment at the time of the sighting, how much of the object would have been covered by the match held?
+22. We wish to know the angular size. Hold a match stick or arm's length in line with a known object and note how much of the object is covered by the head of the match. If you had performed this experiment at the time of the sighting, how much of the object would have been covered by the match head?
 
 23. Did the object disappear while you were watching it? If so, how?
 
-MOTION OUT DESCENT
+YES - MOVED OUT OF SIGHT
 
 24. In order that you can give as clear a picture as possible of what you saw, describe in your own words a common object or objects which, when placed up in the sky, would give the same appearance as the object which you saw.
+
 
 - page 11 -
 

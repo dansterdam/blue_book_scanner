@@ -1,121 +1,190 @@
-The image does not contain any photograph. It appears to be a scanned page from a Project Blue Book record card.
-
 PROJECT 10073 RECORD CARD
-1. DATE                  2. LOCATION    3. TIME GROUP  
-30-JUN-54                     30-30N      175-40W       0755.0hour
-4. DATE-TIME GROUP                        5. DURATION              6. OBSERVATIONS
-30-JUN-54                                  + or -       5      7. PHOTOS
-  0755.0 hour                                                  X  Yes
-                                                               No
-8. LENGTH OF OBSERVATION                  9. NUMBER OF OBJECTS    10. COURSE
-+ or -       5                           One                       Straight from south to north.
-10a. SPEED SUMMARY OF SIGHTING
-Brilliant, fast, 30 to 40 km star. High speed, flight south to north.
+
+1. DATE
+27 Jun 64
+
+2. LOCATION
+30.50N 175.40W
+
+3. DATE-TIME GROUP
+Local GMT 27/1255
+
+4. TYPE OF OBSERVATION
+□ Ground-Visual
+■ Air-Visual
+□ Ground-Radar
+□ Air-Intercept Radar
+
+5. SOURCE
+military
+
+6. PHOTOS
+not reported
+
+7. LENGTH OF OBSERVATION
+not reported
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+North
+
+10. BRIEF SUMMARY OF SIGHTING
+Satellite size of 1st mag star. High speed flight north to north.
+
 11. COMMENTS
-(b) Reported as a satellite observation. Echo schedules not available.
+Obj reported as a Satellite observation. NORAD schedules not available.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Was Autonomous
+□ Probably Astronomical
+□ Other, Satellites (Obj 1)
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 28 SEP 52)
+
 
 - page 1 -
-
-The image does not contain a photograph, it appears to be a page from an old UFO report document from Project Blue Book. The text in the document has been produced and output below:
-
-AP IN : 46933 (27 JUN 64) htra
-INFO : NII-x: KOP-13, XOBS-3, BAP-03-3, ARMY-2, CMC-6, JCS-39, OSN-15,
-NS-7, IDRA-18 (93)
-SM 2 5152
-G 2910918125ZJAS67
-03 RUEAHD
-DE RUHPF 2535 271447Z
-ZNR
-O 271447Z
-FM COMSEAF SRPAG
-TO RUHPHHV/COMAUSEAFRON
-RUHLKV/CINCPACAF
-RUAAVH/HAAD KUNIA
-ZEKGTGNC/PAD
-INFO RUEQCVONC
-RUEAHD/COF5 USAF
-RUHLHV/CINCPAC
-RUHLHV/CINCPACFLT
-RUHLHV/CINCUSARPAC
-RUHLKS/PA-AF BASCOM COMMAND CENTER HICKAM AFB
-RUEQCV/SECNAV
-
-- page 2 -
-
-This image does not contain any photographs. It appears to be a typed document with text describing some kind of UFO sighting report.
 
 INCOMING MESSAGE
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
 UNCLASSIFIED
 
-AP IN : 46933 (27 Jun 64)
-UNGLAS
-53JAI4AP 8
+AF IN : 46933 (27 Jun 64)3/tro
+INFO : NUN-7, XOP-1, XOP-4, SAF-OS-3, ARMY-2, CNG-8, JCS-35, OSD-15,
+NSA-7, DIA-15 (98)
 
-1. CIVVER REPORT
-2. NAVY 43139
+SMB 5125
+CZGMB12IZCLUA4S67
+OO RUEAHQ
+DE RUHRPF 5535 271/1346Z
+ZNR
+O 271346Z
+FM COMBARF ONPAC
+TO RUHRPW/COMHAWSEAFRON
+RUHLKM/CINCPACAF
+RUAUAAW/HADD KUNIA
+ZEN/CINCNGRAD
+INFO RUECW/CNO
+RUEAHQ/COFS USAF
+RUHLHO/CINCPAC
+RUHLLT/CINCPACFLT
+RUHLHS/CINCUSARPAC
+RUHLKSA/PACAFBASECOM COMMAND CENTER HICKAM AFB
+RUECW/SECNAV
+ET
+
+[A table of numbers/data is present at the bottom of the page, dated June 21, 1964]
+
+
+- page 2 -
+
+INCOMING MESSAGE
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED
+
+AT IN: 46933 (27 Jun 64)                                      PG 2 of 2
+
+UNCLAS
+BDUANAP 6
+
+1. CIRVIS REPORT
+2. NAVY A3155
 3. ONE SATELLITE SIZE OF FIRST MAGNITUDE STAR
-4. 39 SN 175 48W
-5. 271235Z
+4. 30 50N 175 40W
+5. 2712552
 6. UNKNOWN
 7. SOUTH TO NORTH
 8. HIGH SPEED
 
-BY ROUTEx RETRANSMITTED TO CIA PER ATIIO FORM 1302 #T/19.
-ADV CT DEL TO NEN, LIA AND XOFC.
+BT
+NOTE: RETRANSMITTED TO CIA PER AFMQ FORM 1392 #749.
+       ADV CY DEF TO NIN, DIA AND XOFX.
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a page from an old Project Blue Book UFO report document, containing a text-based message from the Department of the Air Force.
+INCOMING
+MESSAGE
 
-AF IN 1 46099 (27 JUN 64) A//D
-TIPO : MIN-77, XOP-1, XOPX-4, HATOS-3, ARMY-2, OMG-8, JCS-35, OSD-15.
-SN3 C197
-OPR RUEHR
-ZFH-1
-CN 137
-LKA 153KHAK15
-PP RUEHG RUSSR RUWGAL3 RUEGU
-DE RUEHLK S 27/14 17Z
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED
+
+AF IN : 46999 (27 Jun 64) A/1c                                   Page1 of 2
+
+INFO : NIN-7, XOP-1, XOPX-4, SAPOS-3, ARMY-2, CMC-3, JCS-35, OSD-15,
+        NSA-7, DIA-15 (94)
+        SMB C197
+
+OPP RUEAHS
+ZFM-1
+CN157
+
+LKA 155KHA015
+
+PP RUEAHS RUSSR RUWGAL3 RUECW
+DE RUHLKW S 27/1417Z
 ZNR
-P 271413 Z
-FM SAGAIRDIV KUNIA FACILITY HA
-TO RUHLKY/PACAF
-KUPKH//COMHAWSEAFRON
-INFO RUEHG/CSAF
+P 27141S Z
+FM 326AIRDIV KUNIA FACILITY HA
+TO RUHLKW/PACAF
+RUPHH/COMHAWSEAFRON
+INFO RUEAHS/CSAF
 RUECW/CNO
-RUSW/SECNAV
-RUWGAL3/CINCNORAD
-RUHLHQ/CINCPAC
-RUHLHQ/CINCUSARPAC
+RUECW/SECNAV
+RUWGAL3/C INCNORAD
+RUHLHO/CINCPAC
+RUHLHS/CINCUSARPAC
 RUHLHL/CINCPACFLT
-RUADA2/COMSJAPAN
-RUAGG/COMKOREA
-RUAGFL/COMUSDTG
-RUCSAR/CINGSAC
-BT
-UNCLASS//336 DO-CO 767
+RUAUAZ/COMUSJAPAN
+RUAMC/COMUKKOREA
+RUAGFL/COMUSTDC
+RUCSBR/CINCSAC
 
-As an OCR (Optical Character Recognition) system, I have extracted all the text from the document.
+BT
+UNCLAS/326 DO-CO 707
+
 
 - page 4 -
 
-The image does not contain any photographs. It appears to be a text-based report from the Department of the Air Force.
+INCOMING
+MESSAGE
 
-A2 IN: 45959 (27 JUN 64)
-PAGE 2 OF 2
-1. JANAP 14-5D
-2. T. CURTIS REPORT
-3. NAVY 43159
-4. ONE SATELLITE SIZE OF FIRST MAGNITUDE STAR
-5. 50 52 N 175 40W
-6. 2712252
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED
+
+AF IN: 46539 (27 Jun 64)                                   Page 2 of 2
+
+A. JANAP 146D
+1. CIRVIS REPORT
+2. NAVY 43189
+3. ONE
+   SATELLITE SIZE OF FIRST MAGNITUDE STAR
+4. 30 52 N 175 40W
+5. 271255Z
+6. UNKNOWN
 7. SOUTH TO NORTH
 8. HIGH SPEED
 9. NO EVALUATION AT THIS TIME.
-DOTE: RETRANSMITTED TO GIA #732.
-ADY GY DEL TO NEN, DPA AND XOPX.
+BT
+NOTE: RETRANSMITTED TO CIA #753.
+      ADY CY DEL TO NIN, DIA AND XOPX.
+
 
 - page 5 -
 

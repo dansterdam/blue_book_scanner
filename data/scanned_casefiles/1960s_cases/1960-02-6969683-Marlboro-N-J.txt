@@ -1,136 +1,182 @@
-The image does not contain a photograph. It appears to be a Project 10073 record card from Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
-
-The text in the document is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: Feb. 6, 1960
-2. LOCATION: A-11, N.J.
-3. DATE-TIME GROUP: 0430
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: Yes
-6. LENGTH OF OBSERVATION: 15 min
-7. NUMBER OF OBJECTS: One
-9. COURSE: Straight
-10. BRIEF SUMMARY OF SIGHTING: Observed a round white object with a red tail about the size of a big street light moving slowly.
-11. COMMENTS: Insufficient information given to attempt an evaluation.
+
+1. DATE
+12 February, 1960
+
+2. LOCATION
+Marlboro, N.J.
+
+3. DATE-TIME GROUP
+Local 2035
+
+4. TYPE OF OBSERVATION
+☑Ground-Visual □Ground-Radar □Air-Visual □Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+☑ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+Not Given
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+West
+
+10. BRIEF SUMMARY OF SIGHTING
+Round greenish white object with a red tail about the size of a big street light moving slowly West.
+
+11. COMMENTS
+Insufficient information given to attempt an evaluation.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+☑ Other: Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
-The provided image does not contain any photograph. It appears to be a page from an old Project Blue Book UFO report document.
+RD890
+P7CSQA83SZCSJA716
+PP RJEDS0~
+DE RJEDS5~
+P 221035Z ZEX-
+FW 252QAMWG~
+CO RJUFFAL/ADC
+AJEZSH/26AIR DIV
+RJEDS0/AIR TECH INTL CTR~
+RJEZHO/ACS INTELLIGENCE HQ
+RJEZHO/OIS HQ USAF
+BT
+UFO UNCLASSIFIED FROM BASE OPS MTL 227/02 P.D.
+FOLLOWING INFORMATION FURNISHED IN ACCORDANCE WITH AFR
+C00-2, 5 FEBRUARY 1958, ON UFOB RECEIVED:
+A. (1) ROUND
+    (2) SIZE OF A BIG STREET LIGHT
+    (3) GREENISH WHITE WITH RED TAIL
+    (4) ONE
+    (5) NONE
+    (6) NONE
+    (7) NONE
 
-TELEPHONE
-JO 27 2355
-TIME 2.5 i 30
-
-RJEBRO 
-rP RJEBSO
-IS RJEBSG 
-S 212252 3212 
-ti 28SRURC- 
-IO RUJFAL/2DS
-
-JJEEN/CAAIN DIV
-IDES .71 AIR TECH INTL CTR-
-JR22(Q-AGE INTELLIGENCE HQ 
-JJEE2I(Q(7 018 HQ USAF
-
-UFO UNCLASSIFIED FROM BASE OPS #TL 227/52 P.D.
-COLLECTING INFORMATION FURNISHED IN ACCORDANCE WITH AFR 
-22-2, 5 FEBRUARY 1956. ON UFOB RECEIVED:
-
-(1) SOUND 
-(2) SIZE OF A BIG STREET LIGHT
-(3) GREENISH WHITE WITH RED TAIL
-(4) ONE
-(5) NONE
-(6) NONE 
-(7) NONE
-
-PAGE TWO (JJEBSO 3
-(8) NONE
-(9) NONE
-
-(1) COLOR
-(2) NEAR GROUND
+PAGE TWO RJEDS0 5
+    (8) NONE
+    (9) NONE
+    (1) COLOR
+    (2) NEAR GROUND
 
 - page 2 -
 
-This page does not contain a photograph. It appears to be a scanned document from Project Blue Book, a U.S. Air Force program that investigated unidentified flying object (UFO) reports.
+PAGE TWO RJEDS5 6
 
-PAGE TWO RJEDS: 3
-(1) NONE
-(2) NONE
-13. (1) COLOR
-(2) NEAR GROUND
-(3) NONE AVAILABLE
-(4) MOVING WEST NOT TO RAPIDLY
-(5) WENT SLOWLY WESTWARD AND DISAPPEARED
-(6) NOT AVAILABLE
-C. (1) GROUP VISUAL
-(2) MADE EYE
-(3) NOT APPLICABLE
-D. (1) PHOTO, 15 FEB 59
-(2) NIGHT
-E. MEDWAY BETWEEN MARLBORO, N.J. AND ROUTE 520
-F. (1) HOUSE UFO, RTE. 520, SHREWSBURY, N.J.
-DOCTOR: DR. __________, STATE HOSPITAL,
-MARLBORO, N.J.
-(2) 520 FORT MONMOUTH RD
-LT/COL DAVID C. BARTO
+(8) NONE
+(9) NONE
 
-PAGE THREE RJEDS: 6
+B. (1) COLOR
+   (2) NEAR GROUND
+   (3) NONE AVAILABLE
+   (4) MOVING WEST HOT TO RAPIDLY
+   (5) WENT SLOWLY WESTWARD AND DISAPPEARED
+   (6) NOT AVAILABLE
+
+C. (1) GROUND VISUAL
+   (2) NAKED EYE
+   (3) NOT APPLICABLE
+
+D. (1) 31552, 19 FEB 60
+   (2) NIGHT
+
+E. MIDWAY BETWEEN MARLBORO, N.J. AND ROUTE 522
+
+F. (1) HOUSE WIFE, MRS. [REDACTED]
+        DOCTOR, DR. [REDACTED], SHREWSBURY, N.J.
+        STATE HOSPITAL, MONMOUTH, N.J.
+   (2) 5DO FORT MONMOUTH NJ
+        LT/COL DAVID C. BAATO
+
+PAGE THREE RJEDS5 6
+
 G. (1) NOT AVAILABLE
-(2) SURFACE 252 25 PLUS 35
-229 259 42
-16822 259 59
-16925 259 35
-23303 284 53
-32377 279 53
-32632 232 35
-35222 NOT AVAILABLE
+   (2) SURFACE 292 28 PLUS 35
+        309    290 42
+        12000 290 50
+        16003 290 50
+        28000 290 50
+        32000 278 52
+        50000 239 30
+        30320 NOT AVAILABLE
+   (3) 5020
 
 - page 3 -
 
-The image appears to be a page from a historical document, but it does not contain any photographs. It seems to be a report or log of some kind, with various numerical values and textual information.
+12000 290 50
+16000 290 50
+20000 290 50
+30000 270 50
+50000 230 30
+32000 NOT AVAILABLE
+(3) 3000
+(4) 15 MILES
+(5) 8/10
+(6) NONE
 
-Transcribing the text in the document:
-
-12222 293 48
-16222 292 52
-20222 293 39
-22222 279 32
-23232 232 33
-62222 NOT AVAILABLE:
-(5) 3022
-(4) 12 MILES
-(3) 6/12
-(2) NONE
-H- NONE
-I- NONE
-J- NONE AVAILABLE
-K- APPROVE OFFICER ON DUTY CAPT REXFORD BALDWIN
+H. NONE
+I. NONE
+J. NONE AVAILABLE
+K. AIRDROME OFFICER ON DUTY CAPT REXFORD BALDWIN
 FOR ADDITIONAL INFORMATION CONTACT LT/COL DAVID
-SACKO, OD, FORT MONMOUTH, N.J.
-ET
-25/13/52 PER RBFDB
+C. PAATO, SDO, FORT MONMOUTH, N.J.
+L. NONE
+
+BY
+28/1313Z FEB RJBDSJ
 
 - page 4 -
 
-The provided image does not contain any photographs. It appears to be a typed document from Project Blue Book, which was a program by the United States Air Force to investigate unidentified flying objects (UFOs).
+UFO ANALYSIS SHEET
 
-U.F.O. ANALYSIS SHEET
-Location: Marlboro, N.J.
-Date: 12-22-60 Hour: 6:15 EST
-WX Conditions: Clear - objects reported at 6:45 pm.
-Description: Objects described as triangular shaped - estimated size 8-10 feet - color, dark - no sound. Objects maneuvered in various directions with rapid acceleration and without apparent effort. 
-Direction of Motion: northeast
-Satellites: (PAGTN-43, Phasc 6925)
-Astronomical Phenomena (Meteor, Comet, Planet, etc.):
-Radar Analysis: (AGCIN-48)
+Location: MARLBORO, N.J.
+Date: 19 FEB 60       Hour (M) 0135      2035 LOCAL
+WX CEILING 3000'     VISIBILITY 15 MILES - WIND WEST
+Description ROUND - SIZE OF A FULL STREET LIGHT
+CLEAR & WHITE LIGHT 260 TALL
+
+Direction of Motion: MOVED VIA WEST
+Satellite: (AFOIN-483, Phone 69219) CHECKED ---
+
+Astronomical Phenomena (Meteor, Comet, Planet, etc.): NONE SEEN
+
+Radar Analysis (AFOIN-481) P/O.
+
 Natural Phenomena (Ball Lightning, etc.):
-Aircraft, Balloons, Airships, etc.: This could be related to UFO sightings as the described characteristics do not match any known aircraft or balloons.
-Evaluation of Source Reliability: Undetermined
-Analysis and Conclusions: There is no definitive conclusion as to the nature of the objects observed. The reported characteristics are unusual and do not match any known aircraft or natural phenomena. Further investigation may be warranted.
+
+Aircraft, Balloons, Airships, etc.: THIS OBJECT IS LARGEST RULES
+OUT 26 A BALLOON DUE TO DESCENT OF THE WIND. BRIEFLY OBSERVED.
+
+Other:
+
+Evaluation of Source Reliability: CONCERNED ---
+
+Analysis and Conclusions: THERE IS NOT ENOUGH INFORMATION
+IN THIS REPORT TO MAKE AN ATTEMPT
+AT DETERMINING THE NATURE OF THIS OBJECT.
+"INSUFFICIENT INFORMATION"
+Signed.
 
 - page 5 -
 

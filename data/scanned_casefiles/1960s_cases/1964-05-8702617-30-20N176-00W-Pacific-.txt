@@ -1,120 +1,189 @@
-The image does not contain a photograph. It appears to be a Project Blue Book record card that documents a UFO sighting. 
-
 PROJECT 10073 RECORD CARD
-1. DATE: 5 May 64
-2. LOCATION: 30-20N 176-00W (Pacific)
-3. DATE-TIME GROUP: Local
-4. TYPE OF OBSERVATION: [X] Ground-Visual
-5. PHOTOS: [X] Yes
-6. DURATION: 5 minutes
-7. LENGTH OF OBSERVATION: 105 seconds
-8. NUMBER OF OBJECTS: ONE
-9. COURSE: NS
-10. BRIEF SUMMARY OF SIGHTING: White object size of first mag star passing across sky from Double to follies in eight minutes. Very high.
-11. COMMENTS: Flight to NE. Description of satellite observation: ECHO I confirmed satellite description of the observation.
 
-The provided text appears to be the complete information contained in the Project Blue Book record card.
+1. DATE
+1 May 64
+
+2. LOCATION
+30.20N 176.00W (Pacific)
+
+3. DATE-TIME GROUP
+Local 01/4430Z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual ☐ Ground-Radar
+☑ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☑ No
+
+6. SOURCE
+military
+
+7. LENGTH OF OBSERVATION
+not reported
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+NE
+
+10. BRIEF SUMMARY OF SIGHTING
+White object size of first mag star passing across sky from Dubhe to Polaris in eight minutes. Very high.
+
+11. COMMENTS
+Flight to NE. Description of Satellite observation. ECHO schedule not available. Case considered Satellite on description of the observation.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☑ Other: Satellite
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ECHO I CONFIRMED
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a scanned document or page from a report.
+MESSAGE
 
-AF IN : 18016 (1 MAY 64) B/pbl
-INFO : NIN-7-XOP-1, XOP-4, 
-SAF-030-52-ARMY-2,CMG-8,
-VVG-335, GSI-15, NSA-7,
+Z CZ CHA9 14 CJJD 406
+-00 RUEAHQ
+
+DE RUHLKH 7 01/1601Z
+Z NR
+0. 01160CZ
+
+FM 326AIRD IV KUNIA FACILITY HA
+
+TO RUHLKM/PACAF HICKAM AFB HA
+RJHPKH/COMHAVSEAFRON PERAL HARBOR HA
+INFO RUEAHQ/CSAF USAF WASH D C
+
+RUECW/CNO WASH D C
+RUECW/SECNAV WASH D C
+RUWGALB/CINCNORAD ENT AFB COLO
+RUHLHO/CINCPAC CAMP H M SMITH HA
+RUHLHS/CONCUSARPAC FT SHAFTER HA
+RUHLHL/CINCPACFLT PEARL HARBOR HA
+RUAUAZ/COMUSJAPAN FUCHU AS JAPAN
+RUAMC/COMUKO KOREA SEOUL KOREA
+RUAGFL/COMUSTDC TAIPEI TAIWAN
+RUCSBR/CINCSAC OFFUTT AFB NEBR
+RUHFD/COMASWFORPAC FORD ISLAND HAWAII
+
+AF GRNC
+BT
+UNCLAS 326TH DO-CO 0484.
+
+1. CIRVIS REPORT 2. V143189 3. UFO WHITE OBJECT
+SIZE OF FIRST MAGNITUDE STAR 4. 30-20N 176-00W
+5. 01143CZ 6. VERY HIGH 7. ALONG A COURSE
+CONNECTING DUBHE AND POLARIS 8. PASSED THRU BIG
+DIPPER AT 01143CZ 9. NO EVALUATION
+
+NOTE: Ady del to XOPX, DIA, NIN, Readdress to CIA, per HQ FORMS
+BT
+1392 #20
+
+AF IN: 18016 (1 May 64) B/pt1
+
+INFO: NIN-7-XOP-1, XOPX-4,
+SAF-OS-3, ARMY-2, CMC-8,
+JCS-35, OSD-15, NSA-7,
 DIA-15 (106)
 
-TO
-OSA 
-OSI
-US
-BSS
-IL
-IIA
-LLP
-LIL
-LL
-MP
-MS
-MPF
-MPR
-AA
-AAA
-AAR
-OGr
-OL
-OLA
-DS
-DSUG
-
-CIRVIS REPORT 2. V143189 3. UFO WHITE OBJECT
-SIZE OF FIRST MAGNITUDE STAR 4. 30-20N 176-00W
-5. 011430Z 6. VERY HIGH 7. ALONG A COURSE
-CONNECTING DUBHE AND POLARIS 8. PASSED THRU BIG
-DIPPER AT 011430Z 9. NO EVALUATION
-NOTE: Adv sy del to XOPX, DIA, NIN, Readdrass to CTA, per HQ FORMS
-1392 #26
 
 - page 2 -
 
-The image does not contain a photograph. It appears to be a page from a Department of the Air Force staff message document.
+MESSAGE
 
-UNCLAS SIFI ED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
 
-INCOMING MESSAGE
+UNCLASSIFIED
 
-AF IN : 18078 (1 May 64)A/JDC
-INFO : NIN-7Z XOP-1, XOPX-4Z SAFAOS-3, ARMY-2, CMC-8
+NNNN
+
+AF IN: 18078 (1 May 64)A/joe
+
+INFO: NIN-7, XOP-1, XOPX-4, SAFOS-3, ARMY-2, CMC-8
 JCS-35, OSD-15, NSA-7, DIA-15 (106)
 
 SMB B158
-CZCNQAS56CCJB523
-DO SUEAHO
-DE RUHPF B299 01/1532Z
+
+CZCHQA936ZCCJB523
+
+OO RUEAHQ
+
+DE RUHPF B299 01/1530Z
+
 ZNR
-0 011530Z
-FM COMBARFORPAC
-TO RUHPHH/COMHAWSEAFRON
+
+O 011530Z
+
+FM COMBARF ORPAC
+
+TO RUHPHW/COMHAWSEAFRON
 RUHLKM/CINCPACAF
-RUAWAAH/HADD KUNIA
-ZEBY/CINCNORAD
-INFO RUECW/CNO
-RUEAHG/CCFS USAF
-RUHLHG/CINCPAC
+RUAUAAH/HADD KUNIA
+ZVEN/CINC NORAD
+INF O RUECW/CNO
+RUEAHO/COFS USAF
+RUHLHO/CINCPAC
 RUHLHL/CINCPACFLT
-RUHLHS/CINCUSARPAC
+RUHLS/CINCUSARPAK
 RUHLKSA/PACAFBASECOM COMMAND CENTER HICKAM AFB
 
-30.20 N
-176.00 W
+1 May 64
+pg 1 of 2
+
+30.20N
+176.00W
+Pacific
+
 
 - page 3 -
 
-The image does not contain a photograph, but rather a typed report. The report discusses a UFO sighting on May 6, 1964 in the Pacific Ocean. The report provides details about the UFO, including its size, brightness, and movement relative to the stars Dubhe and Polaris. The report also notes that the observer was unable to evaluate the UFO further.
+INCOMING
+MESSAGE
 
-INCOMING MESSAGE
-DEPARTMENT OF THE AIR FORCE 
-STAFF MESSAGE SUMMARY
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
 
-AF IN: 18078 (1MAY 64)
+UNCLASSIFIED
 
-RUECV/SEGNAV
-3T
-UNCLAS. 
+AF IN: 18078 (1May 64)                                   PG 2 of 2
+
+RUECW/SECNAV
+ST
+UNCLAS.
 A. JANAP 146D
-B. CIVIL'S REPORT
-V/143119
-UFO WHITE OBJECT SIZE OF FIRST MAGNITUDE STAR
-36-59N 176-00W (Pacific)
-9/1432Z
-VERY HIGH
-ALONG A COURSE CONNECTING DUBHE AND POLARIS
-PASSED THRU BIG DIPPER AT 2114302
-AND POLARIS AT 2114352
-UNABLE TO EVALUATE
+1. CIRVIS REPORT
+   V143139
+   UFO WHITE OBJECT SIZE OF FIRST MAGNITUDE STAR
+   30-20N 176-00W (Pacific)
+   0/1430Z
+   VERY HIGH
+   ALONG A COURSE CONNECTING DUBHE AND POLARIS
+   PASSED THRU BIG DIPPER AT 011430Z
+   AND POLARIS AT 011438Z
+   UNABLE TO EVALUATE
 
-NOTE: AFR 80-17B, JO 10-1, DIA AND NSA AES ADDRESSED TO CIA PER MSG FORM 1392 #21.
+NOTE: ANY OF 140 XOPX, DIA AND WIN
+       READDRESS TO CIA PER AERO FORM 1392 #21
+
 
 - page 4 -
 

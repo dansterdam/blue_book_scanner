@@ -1,60 +1,89 @@
-There is no photograph present in this image. It appears to be a page from a Project Blue Book report, which contains various information fields such as date, time, location, source, number of objects, length of observation, type of observation, and whether photos or physical evidence were obtained.
-
 PROJECT 10073 RECORD
-1. DATE - TIME GROUP: 5/10/1964
-2. LOCATION: BALTIMORE, MARYLAND
-3. SOURCE: CIVILIAN
-4. NUMBER OF OBJECTS: 1
-5. LENGTH OF OBSERVATION: 0020 
-6. TYPE OF OBSERVATION: VISUAL
-7. COURSE: 
-8. PHOTOS: NO
-9. PHYSICAL EVIDENCE: NO
-10. CONCLUSION: POSSIBLE CONVENTIONAL CAUSE (ID)
+
+1. DATE - TIME GROUP
+29 Jul 64   2/1030Z
+
+2. LOCATION
+Baltimore, Maryland
+
+3. SOURCE
+Civilian
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+Too Precise
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+NW
+
+8. PHOTOS
+☐ Yes
+☑ No
+
+9. PHYSICAL EVIDENCE
+☐ Yes
+☑ No
+
+10. CONCLUSION
+Satellite (ECHO II)
+
+11. BRIEF SUMMARY AND ANALYSIS
+Object moving across sky from South to NW. F-II moving across Baltimore at 716 Bmo of city at 47 to
+
+FORM
+FTD SEP 63 0-329 (TDE)   Previous editions of this form may be used.
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a letter or document from the National Space Agency to an unidentified recipient, dated July 29, 1964.
+Here is the text from the document:
 
-The text of the document is as follows:
+AKX
 
-July 29, 1964
+July 26, 1964
 
-National Space Agency 
-Washington, D.C.
+National Space Agency
+Washington, D. C.
 
 Dear Sirs:
 
-Can you tell me what it was we saw here around 9:30 p.m. moving from the south to the northwest? 
+Can you tell me what it was we saw move across the sky tonight around 9:30 P.M. moving from the south to the northeast?
 
 I phoned the airport and it was suggested you might be able to tell us.
 
-Thank you very much.
+Thank you very much,
 
 Sincerely yours,
-[Redacted]
+[Signature redacted with black marker]
+
 
 - page 2 -
 
-There is no photograph present in this document. The document appears to be a letter from the United States Air Force providing a response to a previous letter regarding the passage of ECHO II, which was observed over Baltimore, Maryland.
-
 August 12, 1964
 
-Dear Miss 
+Dear Miss
 
-This is in reply to your letter of July 30, 1964, addressed to VALI-1 in which you requested information on the passage of ECHO II over Baltimore on June 30, 1964.
+This is in reply to your letter of July 26, 1964, addressed to NASA, in which you requested information on a satellite which appeared in the Baltimore area on the evening of the 26th.
 
-You observed the passage of ECHO II which occurred over Baltimore at 3:39 P.M. on that date, moving from west to east. It is hoped that this information will be of interest to you.
+You observed the passage of ECHO II which traversed the sky over Baltimore at 9:29 p.m. on that date, east of the city, 170 above the horizon, moving northeast.
+
+It is hoped that this information will be of interest to you.
 
 Sincerely,
 
-HASTON M. JACKS
-MAJOR, USAF
+MASTON M. JACKS
+Major, USAF
 Public Information Division
 Office of Information
 
 Miss
 Baltimore 7, Md.
+
 
 - page 3 -
 

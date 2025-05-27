@@ -1,43 +1,87 @@
-There is no photograph present in this image. It appears to be a page from a Project Blue Book record card, which contains various fields for recording information about a UFO observation event.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 9/6/60
-2. LOCATION: Wethersfield, England
-3. DATE-TIME GROUP: Local
-4. TYPE OF OBSERVATION: D Ground-Radar
-5. PHOTOS: 
-6. SOURCE: 
-7. LENGTH OF OBSERVATION: 30 MIN.
-8. NUMBER OF OBJECTS: ONE
-9. COURSE: 
-10. BRIEF SUMMARY OF SIGHTING: Pale-like object, light green to white in color, changing shape continuously but remaining fairly circular, moved at high speed.
-11. COMMENTS: Information too limited for valid conclusions.
+
+1. DATE
+24 Sep 60
+
+2. LOCATION
+Wethersfield, England
+
+3. DATE-TIME GROUP
+Local: 24/2037Z
+
+4. TYPE OF OBSERVATION
+Visual
+
+5. SOURCE
+Military
+
+6. LENGTH OF OBSERVATION
+Not given
+
+10. BRIEF SUMMARY OF SIGHTING
+Place-like object, light green to white in color, traveling NE-SE
+
+7. NUMBER OF OBJECTS
+One
+
+8. COURSE
+SE
+
+11. COMMENTS
+Information too limited for valid conclusion.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 164 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not appear to contain any photographs. It seems to be a page from a Project Blue Book report, providing details about an unidentified flying object (UFO) sighting.
+UNCLAS EFTO
 
-Unclass ufto
-group
-sda
-cia 29430334
-co rb 15395
-fti puble 175
-c 04483396 zex
-km et 59 susraron wethersfield eng
-to pjehg/ho ucsf wshr b c
-rjedba/ wright patterson afc ohio
-26/j/63: track manscom fld mass
-info rjechb/sgt scott ars ill
-fupplyed asag lindsey ars ftm vicsbaden ger
-unclass eft % of from 6432.attn: ho usaf afoin-131. attn: wright
-patterson aps ohio atic afoin-4. attn: scott aps aussss. attn: 2d
-awack od. object just sighted 23/9/63. pbarlite
-appearance, light green to white in color, travelling northwest
-to southeast. azimuth angle 139 thru 172 degrees, elevation
-angle 45 degrees.
-dt
-24/25302 sep pulbu
+NATION
+SOBSIS
+EDS436
+
+EWA30480U3334
+CO RJESBO
+PC RJCLSU 175
+O T 3423402 ZEX
+
+FM DET 15 29VEARON WETHERSFIELD ENG
+TO PJZZ10/HQ USAF WASH D C
+RJEDS0/WRIGHT PATTERSON AFB OHIO
+ZENVSPACE TRACK HANSCOM FLD MASS
+INFO RJED14/AWS SCOTT AFB ILL
+RJFPD/20 AZAWG LINDSEY AIR STN WIESBADEN GER
+
+BT
+
+UNCLAS/E F T O C/FROM 6452.ATNG HQ USAF AFCIN-181. ATTN: WRIGHT
+PATTERSON AFB OHIO ATIC AFCIN-4A. ATTN: SCOTT AFB AWSS.ATTN: 20
+AZAWG OP. MOON DUST SIGHTED 24/2357Z. FLARE-LIKE
+APPEARANCE, LIGHT GREEN TO WHITE IN COLOR. TRAVELLING NORTHWEST
+TO SOUTHEAST. AZIMUTH ANGLE 189 THRU 175 DEGREES, ELEVATION
+ANGLE 45 DEGREES.
+
+BT
+
+24/2150Z SEP RJCLBU
+
+UNCLAS EFTO
+
 
 - page 2 -
 

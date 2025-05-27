@@ -1,50 +1,74 @@
-The image does not contain any photographs. It appears to be a project record card from Project 10073, which contains various fields filled out with information about an observation made on 28 May 1963 at coordinates 58-15N 169-120W in the Pacific Ocean. The type of observation was Ground-Radar and the source was Air-Intercept Radar. The brief summary of the sighting indicates that the object was an unidentified number of objects with a slow-moving trail, visible only on radar.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 28 May 1963
-2. LOCATION: 58-15N 169-120W (PACIFIC)
-3. TYPE OF OBSERVATION: D Ground-Radar
-4. PHOTOS: 0 Y--
-5. SOURCE: Air-Intercept Radar
-7. LENGTH OF OBSERVATION: 1 minute
-8. BRIEF SUMMARY OF SIGHTING: Radar contact followed by visual sighting from radar operator(s). Slow-moving trail (unidentified number of objects) picked up on radar. Objects not observed visually.
-11. COMMENTS: Case briefly indicates that the object was an unidentified number of objects with a slow-moving trail, visible only on radar.
-12. CONCLUSIONS: Was Unidentified. Poss Balloon, bird, aircraft.
+
+1. DATE: 8 May 1963
+
+2. LOCATION: 58.15N 169120W (PACIFIC)
+
+3. DATE-TIME GROUP: GMT 09/0016Z
+
+4. TYPE OF OBSERVATION: XAir-Visual
+
+5. SOURCE: Military
+
+6. LENGTH OF OBSERVATION: 3 in minutes
+
+7. PHOTOS: No
+
+8. NUMBER OF OBJECTS: One
+
+9. COURSE: West
+
+10. BRIEF SUMMARY OF SIGHTING: Radar contact followed by visual contact with silver object with sun reflecting from fuselage. Obj heading west at 60,000 feet.
+
+11. COMMENTS: Crew debriefed indicated that the object was an unidentified bomber type, a silver color w. tone contrails blending into one.
+
+12. CONCLUSIONS: [Checked box for "Was Aircraft"]
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a document or message from the Department of the Air Force.
-
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
 INCOMING
 
-AP IN: 10057 (9 May 63) 
-INFO: 326 AIR DIV KUNIA FACILITY HAWAII
-TO RUHLKM/PACAF HICKAM AFB HAWAII
-RUHP/COMHAWSEAFRON PEARL HARBOR HAWAII
-INFO RUEAH/COPS USAF WASHINGTON DC
-RUWGALG/CINCNORAD ENT AFB COLO
-RUHP/CINCPAC CAMP H M SMITH HAWAII
-RUHP/CINCUSARPAC FT SHAFTER HAWAII
-RUHP/CINCPACFLT PEARL HARBOR HAWAII
+AF IN: 10057 (9 May 63)   L/pms
+INFO: NIN-9, XOP-1, XOPX-4, SAF-OS-3
+         DIA-25, DIA-CITIC-2     (45)
+
+O 091747Z
+FM 326 AIR DIV KUNIA FACILITY HAWAII
+TO RUHLKW/PACAF HICKAM AFB HAWAII
+RUHPQ/COMHAWSEAFRON PEARL HARBOR HAWAII
+INFO RUEAHQ/COFS USAF WASHINGTON DC
+RUWGALB/CINCNORAD ENT AFB COLO
+RUHPQ/CINCPAC CAMP H M SMITH HAWAII
+RUMHAFS/CINCUSARPAC FT SHAFTER HAWAII
+RUHPB/CINCPACFLT PEARL HARBOR HAWAII
 RUAUAZ/COMUSJAPAF FUCHU AS JAPAN
-RUAGR/COMUSKOREA SEOUL KOREA
-RUAGFL/COMUSSTDC TAIPEI TAIWAN
+RUANCR/COMUSKOREASEOUL KOREA
+RUAGFL/COMUSTDC TAIPEI TAIWAN
 RUCSBR/CINGSAC OFFUTT AFB NEB
-RUSCW/CIO WASHINGTON DC
+RUECW/CNO WASHINGTON DC
 RUECW/SECNAV WASHINGTON DC
+
 AF GRNC
 BT
+
 UNCLAS/CIRVIS
 SP2H HAD VISUAL AND RADAR CONTACT WITH AN UNIDENTIFIED FLYING
-OBJECT. POSITION OF SIGHTING 28 DEG 15 N 169 DEG 10 W. NORTH, 199 DEG
-20 MIN WEST AT 09/0212Z. BOMBER, SILVER IN COLOR, CONTRAILS
+OBJECT, POSITION OF SIGHTING 58 DEG 15 MIN NORTH, 169 DEG
+20 MIN WEST AT 09/0016Z. BOMBER, SILVER IN COLOR, CONTRAILS
 4 BLENDING INTO ONE. RADAR CONTACT AND VISUAL FOR THREE (3)
 MINUTES BY SIX (6) CREWMEMBERS. HEADING WEST ESTIMATED ALTITUDE
-62,000 FEET.
+60,000 FEET.
+
 BT
-NOTE: Advance copies delivered to DIA-CTIC and NIN.
+NOTE: Advance copies delivered to DIA-CITIC and NIN.
+
 
 - page 2 -
 

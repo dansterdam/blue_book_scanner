@@ -1,60 +1,124 @@
-The image contains a Project 10073 record card, which appears to be a document from the Project Blue Book investigation into UFO sightings. There is no photograph present in this image.
+PROJECT 10073 RECORD CARD
 
-Output of the text from the document:
+1. DATE
+12 Oct 60
 
-1. DATE 25 OCT 60
-2. LOCATION Boston Harbor, Massachusetts
-3. DATE-TIME GROUP 2315Z
-4. LOCATION: Boston Harbor, Massachusetts
-5. TYPE OF OBSERVATION
-G. Ground-Radar
-6. DURATION 05 
-7. LENGTH OF OBSERVATION About 5 mins
-8. NUMBER OF OBJECTS 1
-9. BRIEF SUMMARY OF SIGHTING: About 4-7 bright, round objects sighted over Boston Harbor. The objects were reported to move erratically and maneuver independently until they were slightly obscured by clouds. Then the objects were observed to change direction and speed altitude and appeared to be a single bright light until the object was slightly obscured by clouds again. This cycle continued until the objects were no longer visible. The objects moved silently and were a dull white color at times. Their speed and maneuverability, however, was less bright and pronounced as a much greater specific altitude speed.
-11. COMMENTS: Civilian report, verified by Air Force. Object was observed visually and by ground radar. Visual observation coincident with radar return. Object was approximately 59 miles southeast of Boston at an altitude of 6000 feet. Radar indicated an airspeed in excess of 700 mph, object disappeared from radar at a speed over 1000 mph.
+2. LOCATION
+Boston Harbor, Massachusetts
+
+3. DATE-TIME GROUP
+Local     21:45
+GMT       12/01452
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual   □ Ground-Radar
+□ Air-Visual        □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[X] No
+
+6. LENGTH OF OBSERVATION
+2 min
+
+10. BRIEF SUMMARY OF SIGHTING
+White, starlike object. About as bright as
+Polaris. Irregular speed about a degree and a
+half per second. The object appeared to move
+from about 5° E of Polaris, the trajectory
+continued until the object was slightly N of
+zenith, and then continued to S. Appeared to
+wobble or oscillate in a similar manner to the
+Echo satellite, however it was less bright and
+traveled at a much greater speed. Altitude less
+than that of Echo.
+
+8. SOURCE
+Civilian
+
+9. NUMBER OF OBJECTS
+one
+
+11. COMMENTS
+The satellite 59 Agena 2 was in the
+vicinity at about the time of the sighting.
+However, it is somewhat that the object,
+visible to the naked eye, even though the
+object was observed through binoculars.
+Object apparently in orbit. Intrusion
+slightly to E of S at disappearance. Not
+"wrong-way" satellite. Case listed as
+insufficient data.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+[X] Unknown
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be an office memorandum from the United States government, dated October 12, 1960.
+Office Memorandum • UNITED STATES GOVERNMENT
 
-Office Memorandum - UNITED STATES GOVERNMENT
-TO: [Redacted]
-FROM: [Redacted]
-SUBJECT: Observation of the 12, 1960
+DATE: Oct. 23, 1960.
 
-Losses like a heavy balloon leaving the sky. Apparently saw three or four objects moving at a high speed for only a short time, nothing strange as to their movement, no unusual sound or lights observed. The sighting occurred on the night of October 12, 1960. The objects were observed for only a short period of time and reported angular speed should have been greater than it was reported. 
+SUBJECT: Observation of Oct. 12, 1960, 9:45 p.m. EDT.
 
-Please see the attached report for only a short time, nothing strange as to their movement, no unusual sound or lights observed. The sighting occurred on the night of October 12, 1960.
+Looks like a pretty definite U.O. Believe the only polar white now are 29 miles-2 and 60 Theta. This former was in the vicinity around this time but is very doubtful (notes in the sky is very inaccurate); also this satellite should be very much fainter than Polar. 
+
+From the observed time, 60 Theta is a bright object but was way out. His object must have been seen for only 14 minutes, or else his reported angular speed should have been nearer 1° per second.
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a textual document from Project Blue Book, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs).
+Boston Harbor, Weymouth, Fore River, Mass.
 
-The text in the document is as follows:
+October 12, 1960
 
-Boston Harbor, Massachusetts, February 12, 1960
-About 9:15 PM 
+About 9:45 PM Eastern Daylight Time
 
-Flight or close to 20 minutes
+Oct. 12, 61 46' 15" W.T.
+
+Plus or minus 10 minutes
 
 About as bright as Polaris
 
-True bearing apparently from compass bearing 6 degrees, plus or minus about two minutes
+True bearing corrected for compass bearing taken, sighted, angle of elevation about 15 degrees, also on sighting a few degrees about two minutes
 
-March to South
+North to South
 
-It would come around a degree and a half 
+No
 
-Sincerely,
+I would give azimuth a degree and a half parabolic.
+
+Star-like
+
 
 - page 3 -
 
-There does not appear to be any photograph present in this image. The image shows a typed document with text. 
+Here is the text from the document:
 
-Text found in the document:
+White
 
-The object appeared to be from about five to six miles away. It was stationary and hovered for approximately 5-10 minutes. It appeared to be about 20-25 feet in diameter. It gave off a brilliant white light, pulsing, and flashing. It suddenly started moving at a very high rate of speed and disappeared from sight within 3-5 seconds. The observer described the object as round, glowing and with no wings, tail, or other appendages visible. It appeared to be metallic in nature.
+Hq
+
+This appeared to be another object in the near vicinity of the sun not visible to the naked eye. This object was first sighted with 7x50 binoculars, and appeared to be traveling at 9 o'clock, south.
+
+Binoculars
+
+The object appeared to move from about five degrees east of Polaris, the trajectory continued until the object was slightly east of south, and then southerly heading. However, it appeared to be slightly east of south as it approached the horizon. It appeared to wobble or weave in a similar manner to the Echo satellite. However, it was less bright and traveled at a much greater speed. Apparently, its altitude was possible less than 5 miles. This observation was made from 8:45 to 9:00 in perfectly clear weather.
+
+[Location is blacked out]                                                   October 14, 1960
+
 
 - page 4 -
 

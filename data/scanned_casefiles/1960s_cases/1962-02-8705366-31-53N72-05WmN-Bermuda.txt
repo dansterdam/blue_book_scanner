@@ -1,48 +1,106 @@
-There is no photograph present in this image. The image shows a Project 10073 record card with various details filled out, including the date, location, time of observation, type of observation, length of observation, and conclusions about the observed object.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 23 Feb 62
-2. LOCATION: 31.53 N 72.05 W NB Bermuda
-3. DATE-TIME GROUP: 2410002Z
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTO: 5 sec
-6. LENGTH OF OBSERVATION: 25 seconds
-10. TIME SUMMARY OF SIGHTING: In view less than 25 sec. (w visual description as past moving & being observed)
-11. COURSE: 107°
-12. CONCLUSIONS: Was Balloon, Possibly Balloon, Possibly Aircraft, Possibly Astronomical, Unidentified. Characteristics of meteor present, slightly long duration. No information to indicate this was not a meteor observation.
+
+1. DATE
+23 Feb 62
+
+2. LOCATION
+31.53 N   72.05 W
+m   N. Bermuda
+
+3. DATE-TIME GROUP
+Local        GMT 24/0050Z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual   ☐ Ground-Radar
+☑ Air Visual      ☐ Air-Intercept Radar
+
+5. SOURCE
+Military
+
+6. PHOTOS
+☐ Yes
+☑ No
+
+7. LENGTH OF OBSERVATION
+25 seconds
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+107°
+
+10. BRIEF SUMMARY OF SIGHTING
+Eight in view less than 25 sec. Air visual sighting describes as fast moving (speed in excess of 15°/sec). No climb. Moving parallel to a/c at altitude of 9,000 - 12,000 ft. on heading of 107° magnetic. Level flight, no climb or descending.
+
+11. COMMENTS
+Characteristics of meteor present.
+Slightly long duration. No information to indicate fault in meteor observation and case is evaluated as Astro (meteor) sighting.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☑ Unknown
+
+ATIC FORM 329 (REV 26 SEP 59)
+
 
 - page 1 -
 
-The image provided does not contain any photographs. It appears to be a page from an old Project Blue Book UFO report document.
+Here is the text from the document:
 
 DEPARTMENT OF THE AIR FORCE
-AF IN : 49583 (23 Feb 62)
-STATION : CIN-17
-INFO : ARMY-2, NAVY-2, CMC-N-Chk, C/S M-1, NSA-7, CIA-11, OOP-2,
-DIA-2, OOP-OC-1, SAFSS (ALSO)
-SMB 0004
+STAFF MESSAGE BRANCH
+
+AF IN : 49853 (23 Feb 62)
+ACTION: CIN-17
+INFO : ARMY-2, NAVY-2, CMCL-7, OesM-15, NSB-15, NSA-7, CIA-11, OOP-2,
+         DIA-2, OOP-CP-1, SAPS-3 (116)
+
+SMB A004
+
 SUBJECT TO CORRECTION
-ZGCHQA715ZCZJAM958
-VY RJEZN10
-DE ROEAL 3 
+
+ZCZCHA715ZCJAW598
+
+YY RJEZHO
+DE ROEAL 3
 ZNR
-Y 240105
-FM 49703/AFER
-TO RJEZHO /COSNH0 WASH DC
-RJVFAL/COMDR ADC ENT AFB COLO
-RBEGUR/COMDR EASTERN SEA FRONFDR NEW YORK NY
+
+Y 240106
+
+FM 49703/AFEB
+
+TO RJEZHO /COSNH3 WASH DC
+RJWFAL/COMDR ADC ENT AFB COLO
+RBEGUH/COMDR EASTERN SEA FRONTER NEW YORK NY
 AF GRNC
+
 BT
-UNCLAS CIRVIS REPORT TIME OF SIGHTING WAS 0052Z 31.53N 72.05W EXACTLY
-FAST MOVING OBJECT APPEARED TO BE A BIG COMET SIGHTED ABOUT FIVE 
+
+UNCLAS CIRVIS REPORT TIME OF SIGHTING WAS 005OZ 3153N 7205W EXTRMLY
+FAST MOVING OBJECT APPEARED TO BE A BIG COMET SIGHTED ABOUT FIVE
 MILES OFF LEFT WING OBJECT MOVING PARALLEL TO OUR HEADING OF 107
-DEGREES MRGNET IC OBJECT DISSAPAERD FROM VIEW IN LESS THAN 25 SECONDS
+DGRGSS MAGNET OBJECT DISSAPEARED FROM VIEW IN LESS TAHN 25 SECONDS
 ALT OF OBJECT APPEARED TO BE BETWEEN 9.0 AND 11.0 SPEED OF OBJECT
-IN EXCESS OF 1500 KNOTS OBJECT APPEARED TO BE LEVEL FLIGHT NOT
-CLIMBING OR DESCENDING
+IN EXCESS OF 1500 KNOTS OBJECT APPEARED TO BE LEVEL FLIGHT NFG
+CLIMING OR DECENDING
+
 BT
-24/0114Z FEB ROESAI.
-NOTE: ADVANCE COPY DELIVERED TO OOP-OP AND CIN.
+
+24/0114Z FEB ROESAL
+
+NOTE: ADVANCE COPY DELIVERED TO OOP-CP AND CIN.
+
 
 - page 2 -
 

@@ -1,48 +1,95 @@
-The image does not contain any photograph. It appears to be a page from a Project Blue Book record card, which is a form used to document UFO sightings.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 15 Jan 61
-3. DATE-TIME GROUP: 16/2252Z
-5. PHOTOS: a yes
-7. LENGTH OF OBSERVATION: 
-10. BRIEF SUMMARY OF SIGHTING: Bright light, blinking lights, flying over El Portal, Florida.
-12. CONCLUSIONS: D Insufficient Data for Evaluation
+
+1. DATE
+15 Jan 61
+
+2. LOCATION
+El Portal, Florida
+
+3. DATE-TIME GROUP
+Local
+GMT
+
+16/0145Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. SOURCE
+Civilian
+
+6. PHOTOS
+Yes
+No
+
+7. LENGTH OF OBSERVATION
+1 lights, travelling NW fast over N part of
+Dade County Florida.
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+NW
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+
+10. BRIEF SUMMARY OF SIGHTING Bright obj. blinking
+
+11. COMMENTS Probably a/c as indicated by blinking lights.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There does not appear to be any photograph or image present in this document. It appears to be a typed text document, likely an intelligence report or memo from the Department of the Air Force.
-
 DEPARTMENT OF THE AIR FORCE
-STAFF RESEARCH DIVISION
+STAFF MESSAGE DIVISION
 UNCLASSIFIED MESSAGE
-INCOMING
 
-ASTY : 46798 (16 Jan 61)
-ACTION: GIN-14
-INFO : OOP-2, OOP-OF-K, SAKS-3 (21)
-NNNNGZ SMD G 004
-GAS 76ZCBJAEIZ
-Y RJIEKO
-DE RBEIXEN 222
-Y 1622152 
-FT CLOUD SEVEN
-TO RJWFALB GINGNGRAD ENT AFB
-RJEZHS/COPS USAF WASHDC
-ZEN/COMSTATSEAFTRN
+AFIN : 46798 (16 Jan 61)
+ACTION: CIN-14
+INFO : OOP-2, OOP-CP-4, SAPS-3                (21)
+
+NNNNNCZ SMD C 004
+QA5 70ZCBJA032
+
+*****YY RJEZHO
+DE RBEKSN 022
+Y 160215Z
+FM CCGD SEVEN
+TO RJWFALB/CINCNORAD ENT AFB
+RJEZHO/CQFS USAF WASHDC
+ZEN/COMEASTSEAFRON
 ZEN/CINCLANTFLT
 INFO ZEN/COMDT COGARD
-ZEN/COMSEAFAREA COGARD
+ZEN/COMEASTAREA COGARD
 RJESKB/32ND NORAD DIV DOBBINS
-ZEN/COMASDEFORIANT
-USOO GRNC
+ZEN/COMASDEFORLANT
+USCG GRNC
 BT
 UNCLAS
-UFO:
-1. EL PORTAL FLA POLICE REPORT BRIGHT OBJEC BLINKING LIGHTS
-TRAVELLING NW PAST OVER N PART OF DADE COUNTY FLA A 160143Z
-CFN 160143Z
-15/92172:
-NOTE: Advance copy delivered to CIN at 160238Z
+UFO
+
+1. EL PORTAL FLA POLICE REPORT BRIGHT OBJECT BLINKING LIGHTS
+TRAVELLING NW FAST OVER N PART OF DADE COUNTY FLA A 160145Z
+BT
+CFN 160145Z
+15/0217Z
+NOTE : Advance copy delivered to CIN at 160238Z
+
 
 - page 2 -
 

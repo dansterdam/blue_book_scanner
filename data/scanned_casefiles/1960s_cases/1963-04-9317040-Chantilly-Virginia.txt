@@ -1,115 +1,145 @@
-The image does not contain any photographs. As an OCR (Optical Character Recognition) system, I will now produce the text found in the document:
-
 PROJECT 10073 RECORD CARD
-1. DATE
-2. LOCATION
-12. CONCLUSION
 
-3. DATE/TIME GROUP
+1. DATE
+3 April 1963
+
+2. LOCATION
 Chantilly, Virginia
 
-4. GMT
-04/011S2
+3. DATE-TIME GROUP
+Local    2013
+GMT      04/0115Z
 
-5. TYPE OF OBSERVATION
-Visual
+4. TYPE OF OBSERVATION
+[X] Ground-Visual   □ Ground-Radar
+□ Air-Visual       □ Air-Intercept Radar
 
-6. LENGTH OF OBSERVATION
+5. PHOTOS
+□ Yes   [X] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
 2 minutes
 
-7. LENGTH OF SIGHTING
-2 minutes
+8. NUMBER OF OBJECTS
+one
 
-8. BRIEF SUMMARY OF SIGHTING
-Stationary light disappered after brief flashes, reappeared flashing brightly, and then disappeared behind trees after 2 minutes. No sound.
-
-9. COMMENTS
-Probable on flight simulation based on indication (also based on previous cases air defense and radar) Probably on flight.
-
-10. COURSE
+9. COURSE
 ENE
 
+10. BRIEF SUMMARY OF SIGHTING
+Single obj not unlike mars w/slight reddish tinge. Also comparable to bright star, moving in ENE direction where it disappeared behind trees after a minute flight. No estimate on speed or altitude. No sound.
+
 11. COMMENTS
-Analysis of sighting indications as probably on flight simulation where this type of object is sometimes observed (also based on previous cases air defense and radar) Probably on flight.
+A/C probably on flight to Washington D.C., Baltimore or other large city in direction indicated (also see case dd 18 April )
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+[X] Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a page from a Project Blue Book report, specifically record card 10073, which details an unidentified aerial object sighting that occurred on April 18, 1963 in Chantilly, Virginia.
+PROJECT 10073 RECORD CARD
 
-The text from the document is as follows:
+1. DATE: 18 April 1963
 
-1. DATE                      18 APRIL 1963
-2. REPORTING GROUP        2000
-3. DATE/TIME GROUP        19/20/1000Z
-4. TYPE OF OBSERVATION   Ground-Visual
-5. PHOTOS                 0 Yes
-6. LENGTH OF OBSERVATION  5 mins 30 secs
-7. BRIEF SUMMARY OF SIGHTING
-   Reddish glow appeared as a light
-   About size of Mars       Disappeared behind
-   trees. Vertical Angle Elevation appeared
-   to be about 20 deg. Object seemed to  
-   zig-zag.
+2. LOCATION: Chantilly, Virginia
 
-8. COMMENTS                A/C
+3. DATE-TIME GROUP: Local 2000 GMT 19/1000Z
+
+4. TYPE OF OBSERVATION: Ground-Visual
+
+5. PHOTOS: No
+
+6. SOURCE: Civilian
+
+7. LENGTH OF OBSERVATION: 5 mins 30 secs
+
+8. NUMBER OF OBJECTS: one
+
+9. COURSE: SE then S
+
+10. BRIEF SUMMARY OF SIGHTING: Reddish object appearing as a light in flight to SE veering to South. About size of Mars. Disappeared behind trees at about 45 dgr elevation. Speed erratic. Object seemed to zig-zag.
+
+11. COMMENTS: A/C
+
+12. CONCLUSIONS: Was Aircraft (checked box)
+
 
 - page 2 -
 
-The image does not contain a photograph, but rather a document titled "U.S. Air Force Technical Information" which appears to be a questionnaire related to unidentified aerial phenomena observations. The document has various sections for the observer to fill out, including details about the sighting, time of day, location, and characteristics of the observed object.
-
 U.S. AIR FORCE TECHNICAL INFORMATION
 
-This questionnaire has been prepared so that you can give the U.S. Air Force information as possible concerning the unidentified aerial phenomena that you have observed. Please try to answer as many questions as you possibly can. The information thus obtained may be used for further study and may contribute to our conclusions, or publications without your permission. We request this personal information that if it is deemed necessary we may contact you for further details.
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Your name will not be used in connection with any statements, conclusions, or publication without your permission. We request this personal information so that if it is deemed necessary, we may contact you for further details.
 
 1. When did you see the object?
 18 April 63
 Day   Month   Year
 
-2. Time of day:
-(Circle One): a. Eastern  
-b. Central
-c. Mountain
-d. Pacific
-e. Other
+2. Time of day: 8 59
+             Hour   Minute
+(Circle One): A.M. or P.M.
 
-3. Where were you when you saw the object?
-Nearest Postal Address: CITY & STATE
+3. Time Zone:
+(Circle One): a. Eastern
+             b. Central
+             c. Mountain
+             d. Pacific
+             e. Other
+
+(Circle One): a. Daylight Saving
+             b. Standard
+             c. War
+
+4. Where were you when you saw the object?
+Route 50        Chantilly        Va.
+Nearest Postal Address           City or Town        State
 
 5. How long was object in sight? (Total Duration)
+0       30
+Hours   Minutes   Seconds
+
 a. Certain
-b. Fairly certain: 50 SECONDS
-c. Not very sure
+b. Fairly certain   c. Not very sure
 d. Just a guess
 
-5.1 How was time in sight determined?
-a. Was object in sight continuously?
-Yes
+5.1 How was time in sight determined? Time a few minutes hand of wristwatch
+5.2 Was object in sight continuously? Yes   No
 
 6. What was the condition of the sky?
-DAY:
-a. Bright
-b. Cloudy
+DAY                 NIGHT
+a. Bright           a. Bright
+b. Cloudy           b. Cloudy
 
-NIGHT:
-a. Bright
-b. Cloudy
-
-7. If you saw the object during DAYLIGHT, where was the sun located as you looked at the object?
-(Circle One): a. In front of you
-b. In back of you
-c. To your right
-d. To your left
-e. Overhead
-f. Don't remember
+7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object?
+(Circle One): a. In front of you   d. To your left
+             b. In back of you    e. Overhead
+             c. To your right     f. Don't remember
 
 FORM
-FTD OCT 52 164 This form supersedes FTD 143, JUL 51, which is obsolete.
+FTD OCT 62 164     This form supersedes FTD 164, Jul 61, which is obsolete.
+
 
 - page 3 -
 
-The image does not contain any photographs, only text in the form of a questionnaire or report form.
+Here is the text from the document:
 
-IF YOU SAW THE OBJECT AT NIGHT, WHAT DID YOU NOTICE CONCERNING THE STARS AND MOON?
+Page 2
+
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
 8.1 STARS (Circle One):
 a. None
 b. A few
@@ -122,342 +152,505 @@ b. Dull moonlight
 c. No moonlight - pitch dark
 d. Don't remember
 
-9. WHAT WERE THE WEATHER CONDITIONS AT THE TIME YOU SAW THE OBJECT?
+9. What were the weather conditions at the time you saw the object?
 CLOUDS (Circle One):
 a. Clear sky
-b. Hazy/lightly overcast
+b. Hazy (very slightly)
 c. Scattered clouds
 d. Thick or heavy clouds
 
-WEATHER (Circle One): 
+WEATHER (Circle One):
 a. Dry
 b. Fog, mist, or light rain
 c. Moderate or heavy rain
 d. Snow
 e. Don't remember
 
-10. THE OBJECT APPEARED: (Circle One)
+10. The object appeared: (Circle One):
 a. Solid
 b. Transparent
 c. Vapor
 
-11. IF IT APPEARED AS A LIGHT, WAS IT BRIGHTER THAN THE BRIGHTEST STARS? (Circle One):
+d. As a light
+e. Don't remember
+
+11. If it appeared as a light, was it brighter than the brightest stars? (Circle One):
 a. Brighter
 b. Dimmer
-11.1 Compare its brightness to some common object.
-and similar to more or s spots in
-the sky mare or es much 
 
-12. THE EDGES OF THE OBJECT WERE: (Circle One)
+c. About the same
+d. Don't know
+
+11.1 Compare brightness to some common object:
+(Some text written, appears to compare to Mars, slight reddish tinge)
+
+12. The edges of the object were: (Circle One):
 a. Fuzzy or blurred
+b. Like a bright star?
+c. Sharply outlined
+d. Don't remember
+
+e. Other
+
+13. Did the object: (Circle One for each question)
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Break up into parts or explode?
+d. Give off smoke?
+e. Change brightness?
+f. Change shape?
+g. Flash or flicker?
+h. Disappear and reappear?
+
+(Yes/No/Don't know columns are marked for each item)
+
+
+- page 4 -
+
+Here is the text from the document:
+
+14. Did the object disappear while you were watching it? If so, how?
+Behind trees to south, about 45-70 off horizon.
+
+15. Did the object move behind something at any time, particularly a cloud?
+(Circle One): Yes No Don't Know. If you answered YES, then tell what
+It moved behind: two branches still bare
+
+16. Did the object move in front of something at any times, particularly a cloud?
+(Circle One): Yes No Don't Know. If you answered YES, then tell what
+In front of:
+
+17. Tell in a few words the following things about the object:
+a. Sound: Nil
+b. Color: Slight reddish tinge
+
+18. We wish to know the angular size. Hold a match stick at arm's length in line with or down object and see how
+much of the object is covered by the head of the match. If you had performed this experiment at the time of the
+sighting, how much of the object would have been covered by the match head?
+It would have been almost completely covered, I think.
+
+19. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details
+of the object that you saw such as wings, protrusions, etc., and especially exhaust trail or vapor trails.
+Place an arrow beside the drawing to show the direction object was moving.
+[A small sketch of what appears to be a star-like object is drawn]
+
+
+- page 5 -
+
+20. Do you think you can estimate the speed of the object?
+(Circle One) Yes   No
+IF you answered YES, then what speed would you estimate? _________________
+
+21. Do you think you can estimate how far away from you the object was?
+(Circle One) Yes   No
+IF you answered YES, then how far away would you say it was? _________________
+
+22. Where were you located when you saw the object?
+(Circle One):
+a. Inside a building
+b. In a car
+c. Outdoors
+d. In an airplane (type) ________________
+e. At sea
+f. Other ________________
+
+23. Were you (Circle One)
+a. In the business section of a city?
+b. In the residential section of a city?
+c. In open countryside?
+d. Near an airfield?
+e. Flying over a city?
+f. Flying over open country?
+g. Other ________________
+
+24. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
+24.1 What direction were you moving? (Circle One)
+a. North           e. South
+b. Northeast       f. Southwest
+c. East            g. West
+d. Southeast       h. Northwest
+
+24.2 How fast were you moving? ________________ miles per hour.
+
+24.3 Did you stop at any time while you were looking at the object?
+(Circle One) Yes   No
+
+25. Did you observe the object through any of the following?
+a. Eyeglasses      Yes   No     e. Binoculars     Yes   No
+b. Sun glasses     Yes   No     f. Telescope      Yes   No
+c. Windshield      Yes   No     g. Theodolite     Yes   No
+d. Window glass    Yes   No     h. Other ________________
+
+26. In order that you can give as clear a picture as possible of what you saw, describe in your own words a common object or objects which, when placed up in the sky, would give the same appearance as the object which you saw.
+
+[Handwritten note in margin: write same obj. with naked eye]
+
+
+- page 6 -
+
+Here is the text from the document:
+
+27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curve! line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it. Place an "A" on the compass where you first saw the object.
+
+28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
+
+29. IF there was MORE THAN ONE object, then how many were there?
+Draw a picture of how they were arranged, and put an arrow to show the direction they were traveling.
+
+Page 3 is noted at the top right of the document.
+
+The document contains two diagrams: one showing a curved line with angle measurements and a landscape, and another showing a compass rose.
+
+
+- page 7 -
+
+Here is the text from the document:
+
+30. Have you ever seen this, or a similar object before? If so give date or dates on location.
+Yes, April 3, same location
+
+31. Was anyone else with you at the time you saw the object? (Circle One)   Yes   No
+31.1 IF you answered YES, did they see the object too? (Circle One)   Yes   No
+31.2 Please list their names and addresses:
+MRS.
+Chantilly, Va.
+
+32. Please give the following information about yourself:
+NAME
+ADDRESS                                 Chantilly, Va.
+TELEPHONE NUMBER                        AGE 25   SEX M
+
+indicate any additional information about yourself, including any special experience, which might be pertinent.
+Newspaper reporter working by profession
+Some service as a lookout in the
+Royal Canadian Navy
+
+33. When and to whom did you report that you had seen the object?
+[Date fields left blank]
+
+
+- page 8 -
+
+Here is the OCR text from the document:
+
+34. Date you completed this questionnaire:   23   April   63
+                                             Day   Month   Year
+
+35. Information which you feel pertinent and which is not adequately covered in the specific points of the questionnaire or a narrative explanation of your sighting.
+
+My Star - getting in mostly but this thing first appeared in lower 5 sky below what I took to be Mars?
+
+[Diagram with annotations]
+* Mars
+* Object
+*** Orion's belt
+
+It is April 3 sighting, we felt that had been an air circular pattern between here and that might have been lights we'd have heard engines or seen lights seemingly just to circle and planning. Somehow convinced us it was not an airplane or any craft.
+
+It occurs to me it could have been a stray weather balloon, which, if being blown by a wind, might explain its erratic, etc.
+
+
+- page 9 -
+
+The Montreal Star
+MONTREAL, CANADA
+WASHINGTON BUREAU
+
+Apr. 23, 63.
+
+Mis[sion]
+Public Information Division,
+Office of Information,
+Department of the Air Force,
+Office of the Secretary,
+The Pentagon.
+
+Dear [Recipient]:
+
+Enclosed are the completed forms we spoke of on the telephone April 19.
+
+I would like to do a story on Project Blue Book in general, pegging it, if possible, to an evaluation of the two sightings made by me and my wife. This would add some personal color to the thing and perhaps make it more interesting to my readers.
+
+Thanks very much for your help. I'll look forward to hearing from you when you have some information on the enclosed.
+
+Yours truly,
+Peter Trueman
+Washington Correspondent.
+
+1096
+SUITE 1006 NATIONAL PRESS BLDG., WASHINGTON 4, D.C.
+
+
+- page 10 -
+
+U.S. AIR FORCE TECHNICAL INFORMATION
+
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Your name will not be used in connection with any statement, conclusions, or publication without your permission. We request this personal information so that if it is deemed necessary, we may contact you for further details.
+
+1. When did you see the object?
+3   April   1963
+Day    Month    Year
+
+2. Time of day:    8    15
+             Hour    Minutes
+(Circle time): A.M. or P.M.
+
+3. Time Zone:
+(Circle One): a. Eastern
+             b. Central
+             c. Mountain
+             d. Pacific
+             e. Other
+
+(Circle One): a. Daylight Saving
+             b. Standard
+
+4. Where were you when you saw the object?
+[Redacted address]
+City or Town                Chantilly   Va.
+                                        State
+
+5. How long was object in sight? (Total Duration)
+             Hours    Minutes    Seconds
+a. Certain
+b. Fairly certain
+c. Not very sure
+d. Just a guess
+
+5.1 How was time in sight determined?    Checked with traffic sometime at 1st sighting.
+
+5.2 Was object in sight continuously?    Yes    No
+
+6. What was the condition of the sky?
+    DAY                     NIGHT
+a. Bright                  a. Bright
+b. Cloudy                  b. Cloudy
+
+7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object?
+(Circle One): a. In front of you    d. To your left
+             b. In back of you     e. Overhead
+             c. To your right       f. Don't remember
+
+FORM
+FTD OCT 62 164    This form supersedes FTD 164, Jul 61, which is obsolete.
+
+
+- page 11 -
+
+8. If you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+
+8.1 STARS (Circle One):
+a. None
+b. A few
+c. Many
+d. Don't remember
+
+8.2 MOON (Circle One):
+a. Bright moonlight
+b. Dull moonlight
+c. No moonlight - pitch dark
+d. Don't remember
+
+9. What were the weather conditions at the time you saw the object?
+
+CLOUDS (Circle One):
+a. Clear sky
+b. Hazy
+c. Scattered clouds
+d. Thick or heavy clouds
+
+WEATHER (Circle One):
+a. Dry
+b. Fog, mist, or light rain
+c. Moderate or heavy rain
+d. Snow
+e. Don't remember
+
+10. The object appeared: (Circle One):
+a. Solid
+b. Transparent
+c. Vapor
+
+d. As a light
+e. Don't remember
+
+11. If it appeared as a light, was it brighter than the brightest star? (Circle One):
+a. Brighter
+b. Dimmer
+
+c. About the same
+d. Don't know
+
+11.1 Compare brightness to some common object:
+Not with its mass & swirled 4 hours & bright white tinge
+
+12. The edges of the object were:
+(Circle One): a. Fuzzy or blurred
 b. Like a bright star
 c. Sharply outlined
 d. Don't remember
 
-13. DID THE OBJECT: (Circle One for each question)
+e. Other
+
+13. Did the object:
 a. Appear to stand still at any time?
 b. Suddenly speed up and rush away at any time?
-c. Move slowly at a constant speed?
+c. Break up into parts or explode?
 d. Give off smoke?
 e. Change brightness?
-f. Flash or flicker?
-g. Disappear and reappear?
+f. Change shape?
+g. Flash or flicker?
+h. Disappear and reappear?
 
-- page 4 -
+(Circle One for each question)
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
+Yes   No   Don't know
 
-The image does not contain any photograph. It appears to be a page from a Project Blue Book report, which is a government initiative to investigate UFO sightings in the United States.
-
-Optical Character Recognition (OCR) of the text in the document:
-
-14. Did the object disappear while you were watching it? If so, how? Appeared to move to south, a bout 45 degrees.
-
-15. Did the object move behind something at any time, particularly a cloud? 
-(Circle One): Yes No Don't Know If you answered YES, comment: True (broke apart before)
-
-16. Did the object move in front of something at any time, particularly a cloud?
-(Circle One): Yes No Don't Know If you answered YES, comment: in front of:
-
-17. Tell in a few words the following things about the object:
- a. Sound: None
- b. Color: White
- c. Size: Smaller than plane
-
-18. It is wish to know the angular size. Hold a match stick at arm's length in line with the object. If you had performed this experiment, how much of the object is covered by the match head?
-
-19. Draw a picture that will show the shape of the object or objects. Label and include in your drawing the other things you saw such as wings, protrusions, etc., and especially show the direction the object was moving.
-
-- page 5 -
-
-There is no photograph present in this image. This appears to be a page from an old UFO report document containing a questionnaire or form with various questions related to sightings of unidentified flying objects.
-
-20. Do you think you can estimate the speed of the object??
-IF you answered YES, then what speed would you estimatd?
-
-21. Do you think you can estimate how far away from you the object was? 
-IF you answered YES, then how far away would you say it was?
-
-22. Where were you located when you saw the object? 
-(Circle One):
-a. Inside a building
-b. In a car
-c. Outdoors 
-d. In an airplane (type)
-e. At sea
-f. Other _________
-
-23. Were you (Circle One):
-a. In the business section of a city?
-b. In the residential section of a city?
-c. In the open country?
-d. Near an airfield? 
-e. Flying over open country?
-f. Other _________
-
-24. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following:
-24.1 What direction were you moving? (Circle One): 
-a. North  b. East  c. South  d. West
-24.2 How fast were you moving? _______ miles per hour.
-24.3 Did you stop at any time while you were looking at the object? Yes No
-
-25. Did you observe the object through any of the following?
-a. Eye-glasses (Circle One): Yes No
-b. Sun glasses Yes No
-c. Windshield Yes No
-d. Window glass Yes No
-e. Binoculars Yes No 
-f. Telescope Yes No
-g. Theodolite Yes No
-h. Other __________ Yes No
-
-26. In order that you can give us a clear a picture as possible of what you saw, describe in your own words the object or objects which, when placed up in the sky, would give the same appearance as the one you saw.
-
-- page 6 -
-
-The image does not contain any photographs, only a diagram and text.
-
-27. In the following sketch, imagine that you are at the point shown. Place an "A" on the circle to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the circle to show how high the object was above the horizon (skyline) when you last saw it. Place an "C" on the circle to show the highest point above the horizon (skyline) where you saw the object go.
-
-28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the start of the path, and show any changes in direction during the sighting.
-
-29. IF there was MORE THAN ONE object, then how many were there? Draw a picture of how they were arranged, and put an arrow to show the direction that they moved.
-
-- page 7 -
-
-The image does not contain a photograph. It appears to be a page from an old UFO report document from Project Blue Book.
-
-Have you ever seen this, or a similar object before? Yes, I have.
-Was anyone else with you at the time you saw the object? Yes, my friends and I were.
-If you answered YES, please list their names and addresses. The names and addresses have been redacted in the image.
-Please give the following information about yourself. The personal information such as name, address, telephone number, age, and sex have been redacted in the image.
-When and to whom did you report that you had seen the object? The date, month, and year have been provided in the image, but the person's name has been redacted.
-
-- page 8 -
-
-The image does not contain a photograph. It appears to be a page from a document that contains handwritten text.
-
-Transcription:
-
-24. Date you completed this questionnaire: 3 april 1963
-
-35. Information which you feel pertinent and which is not adequately covered in the specific points of this questionnaire or a narrative explanation of your sighting:
-
-Flying objects appeared in the sky about 8:15 p.m. on the night of February 13, 1963. There were about 6 objects in a triangular formation. They were moving in a southwest to northeast direction and were in sight for about 2 minutes. They appeared to be elliptical in shape and white in color with a pulsating glow. The objects were larger than a normal aircraft and moved in an erratic manner, making sharp turns. They appeared to have a bluish or green colored exhaust or flame coming from the rear as they moved along. They disappeared from sight rapidly and gave no indication of the source or destination. I felt they were not aircraft, experimental rockets, or other known objects. They may have been some type of unidentified flying objects.
-
-- page 9 -
-
-There is no photograph present in this document. The image appears to be a scanned page from an old document, possibly a letter or report.
-
-OCR Text Output:
-WASHINGTON BUREAU
-Miss
-Public Information Division,
-Office of Information,
-, Executive Office,
-Office of the Secretary,
-The Pentagon.
-
-Dear Miss
-
-Enclosed are the completed forms we spoke of on
-the telephone April 19.
-
-I would like to do a story on Project Blue Book
-in general, regarding it as a possible means of public
-information and revealing certain personal color
-to the things and perhaps make it more interesting to my readers.
-
-Thanks very much for your help. I'll look forward
-to hearing from you when you have done the information on the subject.
-
-Yours truly,
-
-Peter Truman
-Washington Correspondent
-
-1096
-SUITE 1306 NATIONAL PRESS BLDG., WASHINGTON 4, D.C.
-
-- page 10 -
-
-There is no photograph present in this image. It appears to be a page from a UFO report document from Project Blue Book, containing a questionnaire filled out by an observer.
-
-U.S. AIR FORCE TECHNICAL INFORMATION
-This questionnaire has been prepared so that you can give the Air Force information about an unidentified flying object which you may have observed. Your name will be used in connection with the information you provide only with your permission. We request this personal information that it may be used for further details.
-1. When did you see the object?
-3 APR 1963
-2. Time of day:
-8:30 PM
-3. Time Zone: (Circle One) 1. Eastern 2. Central 3. Mountain 4. Pacific 5. Other
-4. Where were you when you saw the object?
-CHANTILLY, VA
-5. How long was object in sight? (Total Duration)
-5 MINUTES
-5.1 How was time in sight determined?
-ESTIMATE
-5.2 Was object in sight continuously?
-YES
-6. What was the condition of the sky?
-6. a. Daylight
-b. Twilight
-c. Night X
-7. IF you saw the object during DAYLIGHT, where was the SUN located as you faced the object?
-(Circle One)
-a. In front of you
-b. To the back of you
-c. To your left
-d. To your right
-e. Don't know
-
-FTD OCT 23 1964 This form supersedes FTD 154 Jul 61 which is obsolete.
-
-- page 11 -
-
-There does not appear to be a photograph present in this image. This appears to be a document from Project Blue Book containing a questionnaire or form related to a reported UFO sighting.
-
-8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
-8.1 STARS (Circle One): a. None, b. Many, c. Don't remember
-8.2 MOON (Circle One): a. Bright moonlight, b. No moonlight, c. Pitch dark, d. Don't remember
-
-9. What were the weather conditions at the time you saw the object?
-CLOUDS (Circle One): a. Clear, b. Hazy, c. Scattered clouds, d. Thick or heavy clouds
-WEATHER (Circle One): a. Dry, b. Fog, mist, or light rain, c. Moderate or heavy rain, d. Snow, e. Don't remember
-
-10. The object appeared: (Circle One):
-a. Solid, b. Transparent, c. Vapor, d. Don't remember
-
-11. If it appeared as a light, was it brighter than the brightest stars? (Circle One):
-a. Brighter, b. Dimmer, c. About the same, d. Don't know
-
-12. The edges of the object were: (Circle One): a. Fuzzy or blurred, b. Like a bright star, c. Sharply outlined, d. Don't remember
-
-13. Did the object: (Circle One for each question): a. Appear to stand still at any time? Yes, No, Don't know...
 
 - page 12 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document, likely from Project Blue Book.
+Here is the text from the document:
 
-14. Did the object disappear while you were watching it? If so, how? No - It suddenly went behind some clouds.
-
-15. Did the object move behind something at any time, particularly a cloud? Yes
-
-16. Did the object move in front of something at any time, particularly a cloud? Yes - It moved in front of a cloud.
-
-17. Tell in a few words the following things about the object: 
-a. Sound: No sound
-b. Color: Bright, pale, reddish-white lights
-c. Size: Could not estimate the size, as it was far away.
-d. Shape: Could not determine the shape, as it was moving too fast and the lighting was varying.
-
-19. Draw a picture that will show the shape of the object or objects. Note and include in your sketch of the object any particular features or protrusions, etc., and especially whether the object was moving. I don't have a clear enough memory to draw a picture.
-
-OCR Output:
-14. Did the object disappear while you were watching it? If so, how? Suddenly went behind some clouds
+14. Did the object disappear while you were watching it? If so, how?
+Yes, behind trees in an ENE direction, the last we saw of it.
 
 15. Did the object move behind something at any time, particularly a cloud?
-(Circle One): Yes No Don't know. If you answered YES, it moved behind: 
+(Circle One): Yes   No   Don't Know.   IF you answered YES, then tell what it moved behind:
 
 16. Did the object move in front of something at any time, particularly a cloud?
-(Circle One): Yes No Don't know. If you answered YES, it moved in front of: a cloud
+(Circle One): Yes   No   Don't Know.   IF you answered YES, then tell what in front of:
 
-17. Tell in a few words the following things about the object:  
-a. Sound: No sound
-b. Color: Bright, pale, reddish-white lights 
-c. Size: Could not estimate the size, as it was far away.
-d. Shape: Could not determine the shape, as it was moving too fast and the lighting was varying.
+17. Tell in a few words the following things about the object:
+a. Sound: No
+b. Color: Bright white thing
 
-19. Draw a picture that will show the shape of the object or objects. Note and include in your sketch of the object any particular features or protrusions, etc., and especially whether the object was moving. I don't have a clear enough memory to draw a picture.
+18. We wish to know the angular size. Hold a match stick at arm's length in line with a known object and note how much of the object is covered by the head of the match. If you had performed this experiment at the time of the sighting, how much of the object would have been covered by the match head?
+I think it would have just about covered it.
+
+19. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
+
+[A small circle is drawn]
+
+Note: Underneath the drawing it says: "Can't draw the thing. I simply looked like a star"
+
 
 - page 13 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book, containing a questionnaire or survey.
+Here is the text from the document:
 
-20. Do you think you can estimate the speed of the object? (Circle One) Yes No If you answered YES, then what speed would you estimate?
+20. Do you think you can estimate the speed of the object?
+(Circle One)   Yes   No
+IF you answered YES, then what speed would you estimate?
 
-21. Do you think you can estimate how far away from you the object was? (Circle One) Yes No If you answered YES, then how far away would you say it was?
+21. Do you think you can estimate how far away from you the object was?
+(Circle One)   Yes   No
+IF you answered YES, then how far away would you say it was?
 
-22. Where was the object located when you first seen it? (Circle One) a. Building b. In a car c. Outdoors d. In an airplane (type) e. Other 
+22. Where were you located when you saw the object?
+(Circle One):
+a. Inside a building
+b. In a car
+c. Outdoors
+d. In an airplane (type)
+e. At sea
+f. Other
 
-23. Were you (Circle One) a. In the business section of a city b. In the residential section of a city c. In our countryside d. Near an airport e. Flying over a city f. Flying over open country?
+23. Were you (Circle One)
+a. In the business section of a city?
+b. In the residential section of a city?
+c. In open countryside?
+d. Near an airfield?
+e. Flying over a city?
+f. Flying over open country?
+g. Other
 
-24. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following: 24.1 What direction were you moving? (Circle One) a. North b. Northeast c. East d. Southeast e. South f. Southwest g. West h. Northwest 24.2 How fast were you moving? - miles per hour. 24.3 Did you stop at any time while you were looking at the object? (Circle One) Yes No
+24. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
+24.1 What direction were you moving? (Circle One)
+a. North           c. East           e. South          g. West
+b. Northeast       d. Southeast      f. Southwest      h. Northwest
 
-25. Did you observe the object through any of the following: (Circle One) a. Binoculars Yes No b. Sun glasses Yes No c. Windshield Yes No d. Telescope Yes No e. Window Yes No f. Theodolite Yes No g. Other (specify) Yes No
+24.2 How fast were you moving? ____________ miles per hour.
 
-26. In order that you can give as clear a picture as possible of what you saw, describe in your own words the object or objects which, when placed up in the sky, would give the same appearance as that which you observed.
+24.3 Did you stop at any time while you were looking at the object?
+(Circle One)   Yes   No
+
+25. Did you observe the object through any of the following?
+a. Eyeglasses      Yes   No     e. Binoculars      Yes   No
+b. Sun glasses     Yes   No     f. Telescope       Yes   No
+c. Windshield      Yes   No     g. Theodolite      Yes   No
+d. Window glass    Yes   No     h. Other
+
+26. In order that you can give as clear a picture as possible of what you saw, describe in your own words a common object or objects which, when placed up in the sky, would give the same appearance as the object which you saw.
+
+I can't
+
 
 - page 14 -
 
-The image contains a sketch or diagram, but no photograph. The sketch appears to be a compass rose with various angles and bearings labeled, as well as instructions for imagining an object moving along a path.
+Here is the text from the document:
 
-The text extracted from the image is as follows:
+Page 5
 
-27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curve high the object was above the horizon (skyline) when you first saw it. Place a "B" on the arrow show how high the object was above the horizon (skyline) when you last saw it. 
+27. In the following sketch, imagine that you are at the point shown. Place on "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it. Place an "A" on the compass where you first saw the object. Place a "B" on the compass where you last saw the object.
 
 28. Draw a picture that will show the motion that the object or objects made. Place on "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
+[Handwritten note partially visible but mostly illegible]
 
-29. IF there was MORE THAN ONE object, then how many were there? Draw a picture of how they were arranged, and put an arrow to show the direction that they moved.
+29. IF there was MORE THAN ONE object, then how many were there? Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+
 
 - page 15 -
 
-The image does not contain any photographs. It appears to be a form or document related to a UFO sighting report.
+Here is the text from the document:
 
 30. Have you ever seen this, or a similar object before. If so give date or dates and location.
-war before , but before
+Not before, but I later
 
 31. Was anyone else with you at the time you saw the object? (Circle One)
-YES NO
-
-31.1 If you circled YES, did they also see the object? (Circle One) YES NO
-
+    Yes    No
+31.1 IF you answered YES, did they see the object too? (Circle One)
+    Yes    No
 31.2 Please list their names and addresses:
-MRS. [redacted], Chantilly, Va.
+MRS.
+Chantilly, Va.
 
-32. Please give the following information about yourself.
-NAME [redacted]
-ADDRESS [redacted] Street, Chantilly, Va. 
-TELEPHONE NUMBER [redacted]
-AGE 25 SEX M
+32. Please give the following information about yourself:
+NAME
+ADDRESS                     Chantilly, Va.
+TELEPHONE NUMBER            AGE 25    SEX M
 
-I am interested in this subject from the scientific point of view. I am an engineer and find this subject of great interest. I am skeptical of most flying saucer reports as they contain many inconsistencies and are generally not reliable in my experience.
+Indicate any additional information about yourself, including any special experience, which might be pertinent:
+I was para rescue register by profession, no special experience except perhaps as a ship's lookout during sea time as a Coast in the Royal Canadian Navy.
 
 33. When and to whom did you report that you had seen the object?
-April 6, 1963, [redacted]
+                    April   63
+USAF, Washington
+
 
 - page 16 -
 
-The image provided does not contain any photographs. It appears to be a page from an old Project Blue Book UFO report document, containing handwritten text.
+Here is the OCR text from the document:
 
-Optical Character Recognition (OCR) output:
+34. Date you completed this questionnaire:    23    April    63
 
-34. Date you completed this questionnaire: 23 April 63
+35. Information which you feel pertinent and which is not adequately covered in the specific points of the questionnaire or a narrative explanation of your sighting.
 
-35. Information which you feel pertinent and which is not adequately covered in the specific police questionnaire or a narrative explanation of your sighting.
+Time (approx) not unimportant, because on this occasion I took notes as to color, size and degrees off horizon and course etc...
 
-The object which we observed appeared to be triangular in shape. It was dark in color, seemed very large in size. The object was hovering at an estimated altitude of 5100 feet and maintaing a constant heading - No apparent means of propulsion could be observed.
+We had no way of estimating actual altitude or speed, of course, but we had an impression that it was very high and moving very quickly. I think we felt this because had it been an airliner, moving across the horizon, it would have been the engines that bright, not the whole craft.
 
-We had no way of estimating the true size of this object. It seemed very massive and was observed for a period of 7 to 10 minutes. While maintaining constant heading and altitude, it suddenly accelerated to a tremendous velocity and disappeared from sight over the horizon.
+My wife noted at the time that if it had been an airplane "we'd have seen lights blinking". She confirmed my impression that it looked just like an S star except it was obviously not a shooting star.
 
-I suggest that this incident be given further investigation. It is my belief that the object observed was not a conventional aircraft, but an Unidentified Flying Object of unusual design and performance characteristics. I do not have an explanation for what we observed that night. I can only state the facts as they appeared to us. I hope this information will be of assistance in your investigation of this sighting.
+I spent time of passage - we discussed - I think it was some time like 2 minutes. They were thinking to between 1 and 2. I was watching it until after we'd been lighting at it for a while.
+
+I suppose it might have been a satellite.
+
 
 - page 17 -
 

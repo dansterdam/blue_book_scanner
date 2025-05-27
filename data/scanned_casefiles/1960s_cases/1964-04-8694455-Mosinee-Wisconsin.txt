@@ -1,31 +1,59 @@
-The image does not contain a photograph. It appears to be a Project Blue Book record card with details about a UFO sighting that occurred in Mosinee, Wisconsin on April 22, 1964.
-
-OCR output:
-
 PROJECT 10073 RECORD CARD
-1. DATE 2. LOCATION 12. CONCLUSIONS
-22 Apr 64 Mosinee, Wisconsin []Was Balloon
-[]Probably Balloon
-3. DATE-TIME GROUP []Possibly Balloon
-Local 23/1052 4. TYPE OF OBSERVATION []Was Aircraft
-[]Ground-Visual []Probably Aircraft
-[]Air-Visual []Possibly Aircraft
-[]Ground-Radar []Was Astronomical
-5. PHOTOS []Probably Astronomical
-[ ] Yes []Possibly Astronomical
-[X] No []Other Satellite
-7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS 9. COURSE
-five minutes ONE South
-10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
-Small white star-like object described as ECHO II over Wisconsin at 1938 and 2149
-a rapidly moving star in straight flight hours on 22 Apr 64, reported this course to
-from North to South. Disappeared in distance. us as Obj. prob. Satellite.
-Reported five days after sighting.
-Evaluated as satellite by reporting official.
+
+1. DATE
+22 Apr 64
+
+2. LOCATION
+Mosinee, Wisconsin
+
+3. DATE-TIME GROUP
+Local
+GMT 23/0235Z
+
+4. TYPE OF OBSERVATION
+X Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+XP No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+five minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+south
+
+10. BRIEF SUMMARY OF SIGHTING
+Small white star-like object described as a rapidly moving star in straight flight from North to South. Disappeared in distance. Reported five days after sighting. Evaluated as satellite by reporting official.
+
+11. COMMENTS
+ECHO II over Wisconsin at 1938 and 2149 CST on 22 Apr 64. Reported time converted to 20j) local. (b), prob. Satellite.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+X Other: Satellite
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
-
-The image does not contain any photographs or visual elements. It appears to be a text-based document from the Department of the Air Force discussing a UFO sighting report.
 
 INCOMING
 MESSAGE
@@ -35,73 +63,101 @@ STAFF MESSAGE BRANCH
 
 UNCLASSIFIED
 
-SMB C155
-ZCZCHQB289ZCYJA179
-RR RUEAHQ
-DE RUCDAH 17 08/135IZ
+SMB C155                                      AF IN : 28661 (8 May 64)A/Joe     pg 1 of 3
+ZCZCHQ828SZCZYJA 179
+RR RUEAHQ                                     ACTION: NIN-7
+                                              INFO : XOP-1, XOPX-4, SAFOS-3, DIA-15 (31)
+DE RUCDAH 17 08/135 1Z
+
 ZNR
-R 071545Z SEX
+R 071545Z ZEX
+
 FM HQ CHICAGO ADS TRUAX FLD WIS
-TO RUMGALE/ADC ENT AFB COLO
-RUCDSQ/PTDV WPAFB OHIO
-R RUEAHQ/CSAF WASH DC
-R RUEAHQ/OSAF WASH DC
+TO RUWGALE/ADC ENT AFB COLO
+RUCDSG/FTD WPAFB OHIO
+RUEAHQ/CSAF WASH DC
+RUEAHQ/OSAF WASH DC
+
 BT
-UNCLAS CHODC 25003. CSAF FOR AFCIN: OSAF FOR
-SAFOI: 3D AIR DIV FOR 30-IN. UFO SIGHTED BY CIVILIAN
-023237.23 APRIL 1964 REPORTED TO CHADS 1302Z 28 APRIL
+
+UNCLAS CHODC 05003. CSAF FOR AFCIN; OSAF FOR
+SAFOI; 30 AIR DIV FOR 30-OIN. UFO SIGHTED BY CIVILIAN
+0235Z 23 APRIL 1964 REPORTED TO CHADS 1800Z 28 APRIL
 1964. INVESTIGATION COMPLETED 6 MAY 1964.
+
 A. DESCRIPTION OF ABJECT:
-(1) SHAPE-ROUND.
+(1) SHAPE- ROUND.
 (2) SIZE-SMALL-STARLIKE.
 (3) COLOR-WHITE.
 (4) NUMBER-ONE (1).
 (5) FORMATION-NONE.
 
+
 - page 2 -
 
-The image does not contain any photograph. It appears to be a page from a UFO report document from Project Blue Book.
-
 INCOMING MESSAGE
-APIN: 284631 (8 MAY 1964 STAFF MESSAGE BRANCH
-PAGE 2 RUDA 17 UNCLAS
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+PAGE 2661 (8 May 64)
+PAGE 2 RUCDAH 17 UNCLAS
 
 (6) DISCERNABLE FEATURES-NONE.
 (7) NO TRAIL TAIL OR EXHAUST.
 (8) SOUND-NONE.
 (9) UNUSUAL FEATURES-BRIGHT RAPIDLY MOVING STAR.
+
 B. DESCRIPTION OF COURSE.
 (1) WHY NOTICED-MOVEMENT.
 (2) INITIAL ELEVATION- 25 30 FROM HORIZON.
 (3) FLIGHT PATH-STRAIGHT LINE NORTH TO SOUTH.
 (4) MANNER OF DISAPPEARANCE- DISAPPEARED IN DISTANCE.
 (5) OBSERVATION TIME-5 MIN.
+
 C. MANNER OF OBSERVATION-VISUAL.
 D. TIME AND DATE OF SIGHTING-0235Z 23 APRIL 1964.
-E. LOCATION OF OBSERVERS-HWY 34, NEAR MARATHON & PORTAGE COUNTY LINE.
+E. LOCATION OF OBSERVERS-HWY 34. NEAR MARATHON & PORTAGE COUNTY LINE.
 F. IDENTIFYING INFORMATION.
-(1) STUDENT, 16 YEARS, WISCONSIN.
-(2) STUDENT, 20 YEARS, WISCONSIN.
+(1) [REDACTED] STUDENT, 16 YEARS, WISCONSIN.
+[REDACTED] STUDENT, 20 YEARS, WISCONSIN.
+
 
 - page 3 -
 
-There does not appear to be any photograph present in this document. It seems to be a text-based message from the Department of the Air Force Staff Message Branch.
-
 INCOMING MESSAGE
-AS 3 RUCE 28651 (8 MAY 64)
-PAGE 2 RUCDAP 17 UNCLAS
-(3) STUDENT, 16 YEARS, WISCONSIN.
-(4) STUDENT, 14 YEARS, WISCONSIN.
-(5) STUDENT, 16 YEARS, WISCONSIN.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED
+
+AF IN: 28661 (8 May 64)
+PAGE 3 RUCDAH 17 UNCLAS
+PB 3 of 3
+
+(3) [REDACTED] STUDENT, 16 YEARS, R[REDACTED]
+WISCONSIN.
+
+(4) [REDACTED] STUDENT, 14 YEARS, RT[REDACTED]
+WISCONSIN.
+
+(5) [REDACTED] STUDENT, 16 YEARS, [REDACTED]
+WISCONSIN.
+
 RELIABILITY-FAIR.
-1ST LT CHARLES R. PIVER, 7053IA
-STAFF INTELLIGENCE OFFICER 
+
+1ST LT CHARLES R. PIVER, 70531A
+STAFF INTELLIGENCE OFFICER
 CHICAGO AIR DEFENCE SECTOR
+
 THE REPORT WAS RECEIVED FIVE (5) DAYS AFTER
 SIGHTING. THE OBJECT WAS PROBABLY A VISIBLE
 SATELLITE OR "SHOOTING STAR."
+
 BT
 NOTE: ADV CY TO DIA AND NIN
+
+MADISON, WIS.
+
+[Remainder of page contains partially illegible text and numbers]
+
 
 - page 4 -
 

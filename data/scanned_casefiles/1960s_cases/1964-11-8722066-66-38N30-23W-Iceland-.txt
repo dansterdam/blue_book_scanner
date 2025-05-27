@@ -1,139 +1,224 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document, which is a report form with various information fields filled out. 
+Here is the text from the document:
 
-The text in the document is as follows:
+1. DATE - TIME GROUP
+30 November 64 30/0435Z
 
-1. DATE - TIME GROUP: 20 November 64, 20/0435Z
-2. LOCATION: 66.39N 30.23W (Iceland)
-3. SOURCE: Military
-4. NUMBER OF OBJECTS: One
-5. LENGTH OF OBSERVATION: Not Reported
-6. TYPE OF OBSERVATION: Air-Visual
-7. COURSE: Vertical descent
-8. PHOTOS: 0-Yes, 0-No 
-9. PHYSICAL EVIDENCE: 0-Yes, 0-No
-10. CONCLUSION: Astronomical (METEOR)
-11. BRIEF SUMMARY AND ANALYSIS: Possible satellite, vertical descent, bright explosion, vertical descent.
-FTD SEP 63 0-329 (TDE) previous editions of this form may be used.
+2. LOCATION
+66.38N 30.23W (Iceland)
+
+3. SOURCE
+Military
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+Not Reported
+
+6. TYPE OF OBSERVATION
+Air-Visual
+
+7. COURSE
+Vertical descent
+
+8. PHOTOS
+XX No
+
+9. PHYSICAL EVIDENCE
+XX No
+
+10. CONCLUSION
+Astronomical (METEOR)
+No reported decay on 30 November. More likely a meteor observation
+
+11. BRIEF SUMMARY AND ANALYSIS
+Possible Satellite, bright explosion, vertical descent.
+
+FORM
+FTD SEP 63 0-329 (TDE)    Previous editions of this form may be used.
+
 
 - page 1 -
 
-This image does not contain a photograph, but rather appears to be a scanned page from a project Blue Book UFO report document. The text in the document discusses the details of a reported UFO sighting, including the location, time, and various technical information about the object.
+INCOMING
+MESSAGE
 
-SMB C622 CZCHQAS2ZCJC939
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED
+
+AF IN : 59895 (30 Nov 64) N/rph
+ACTION: NIN-7
+INFO : XOP-1, XOPX-7, SAF-OS-3, DIA-15 (34)                Pg 1 of 2
+
+SMB C022 CZCHQA65BZCCJC039
+
 00 RUEAHQ
-DE RUE IC 041 3235Z NOV 64
+
+DE RUDIC #41 30/0512Z
+
 ZNR
-0 338A182 NOV 64
-FM COMBARICE
-TO RUEPC/CND
-ZEN/CINCLANTFLT
+0 300510Z NOV 64
+
+FM COMBAR ICE
+
+TO RUECW/CNO
+ZEN/C INCL ANTFLT
 RUEAHQ/HQ USAF
-RUWGAL/C INCONAD
-RUEGHM/COMAFSTSEAFRON
+RUWG ALB/C INCONAD
+RUEGUH/COMEAST SEAFRON
 RUEAKN/26 NORAD REGION
-INFO RUCKIT/COMASWFORLANT
+INFO RUCKDT/COMASWFORLANT
+
 BT
 UNCLAS
 LOCATING ONE
-1. POSS SATELLITE-BRIGHT EXPLOSION
-2. UNK DIST WEST OF 6338N 3823W
-3. 3884392
+
+1. POSS SATELLITE-BRHGHT EXPLOSION
+2. UNK DIST WEST OF 633N 3023W
+3. 300435Z
 4. VERTICAL DECENT
+
 
 - page 2 -
 
-The image does not contain any photograph. It appears to be a scanned page from a Project Blue Book document.
+Here is the text from the document:
 
-AF IN 4 59895 (30 NOV 64)
-6. VL FR BARRIER AIRCRAFT
+INCOMING
+MESSAGE
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED
+
+AF IN : 59895 (30 Nov64)
+5. VISUAL FROM BARRIER AIRCRAFT
+6. FL 80
 BT
 NNN
+
 NOTE: ADVANCE COPY DELIVERED TO DIA & NIN
+
+Pg 2 of 2
+
 
 - page 3 -
 
-The image does not contain a photograph. It appears to be a page from a Project Blue Book document that describes a sighting or incident related to unidentified aerial phenomena.
+MESSAGE
 
-AP IN : 59895 (30 NOV 64) N/Trpm
-ACTION : NIN-7 
-INFO : XOPX-1, XOPX-7, SAF-OS-3, DIA-15 (34)
+DEPARTMENT OF THE AIR FORCE
+SAFE MESSAGE BRANCH
 
-SMB C922 CZCHQ65ZCEJC639
+UNCLASSIFIED
+
+AF IN: 59895 (30 Nov 64) N/rph
+ACTION: NIN-7
+INFO: XOP-1, XOPX-7, SAF-OS-3, DIA-15 (34)
+
+Pg 1 of 2
+
+SMB C022 CZCHQA65BZCCJC039
 00 RUEAHQ
-DE RUDIC 041 38/65 122
+DE RUDIC 041 30/05122
 ZNR
-0 3685 18Z NOV 64
+0 300512Z NOV 64
 FM COMBAR ICE
-TO RUEAC/CNO
-ZEN/CINCL ANTFLT
+TO RUECW/CNO
+ZEN/C INCLAN IFLT
 RUEAHQ/HQ USAF
-RUEUC8/C1NCONAD
-RUEGUW/COMEASTSEAFRON
-RUEAKN/26 NORAD REGION
-INFO RUCKDT/COMASWFORLFANT
+RUMGALB/C INCONAD
+RUEGUH/COMEAST SEAFRON
+RUEAKW/26 NORAD REGION
+INFO RUCKDT/COMASWFORLANT
 BT
 UNCLAS
 LOCATING ONE
-1. POSS SATELLITE-BRGHT EXPLOSION
-2. UNK DIST WEST OF 63.38N 3823W
-3. 389435Z
+
+1. POSS SATELLITE-BRKGHT EXPLOSION
+2. UNK DIST WEST OF G33N 3023W
+3. 300435Z
 4. VERTICAL DECENT
+
 
 - page 4 -
 
-There is no photograph present in this image. The image appears to be a page from an old UFO report document from Project Blue Book.
-
-AP IN : 59895 (30 NOV64)
-9- VISUAL FROM BARRIER AIRCRAFT
-6- FL 60
-BT
-NNN
-
-NOTE: ADVANCE COPY DELIVERED TO DIA & NIN
-
-- page 5 -
-
-The image does not contain a photograph. It appears to be a scanned page from a document, likely a Project Blue Book report.
-
-AP IN : 59899S (30 NOV 64) N/RPH
-ACTION: WIN-7
-INFO : XOPX-7, XOPX-7, SAF-OS-3, DIA-15 (34)
-SMB C 822 CZCHAG®87CCJC®39
-GO RUEANG
-DE RUDIC 841 38/85 12Z
-ZNR
-0 3 885 18Z NOV 64
-FM COMBAR ICE
-TO RUECC/CNO
-ZEN/INCLANIFLT
-RUEAHQ/HQ USAF
-RUMGALB/CI INCONAD
-RUEGUH/COMACSSEAFRON
-RUEAKN/26 NORAD REGION
-INFO RUCKDT/COMAS4FORJLANT
-ST UNCLAS 
-LOCATING ONE
-1. POSS SATELLITE-BRKGHT EXPLOSION
-2. UNK DIST WEST OF 6338N 3323W
-3. 38+3357 
-4. VERTICAL DECENT
-
-- page 6 -
-
-The provided image does not contain any photographs. It appears to be a typed document or report from Project Blue Book, an official U.S. Air Force program that investigated UFO sightings.
-
 Here is the text from the document:
 
-IN COMING MESSAGE
+INCOMING
+MESSAGE
 
-UNCLASS
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
 
-5. AF IN 3 59395 (30 NOV64)
+UNCLASSIFIED
+
+AP IN : 59895 (30 NOV64)
+5. VISUAL FROM BARRIER AIRCRAFT
 6. FL 89
 BT
 NNN
 
+N
 NOTE: ADVANCE COPY DELIVERED TO DIA & NIN
+
+Pg 2 of 2
+
+
+- page 5 -
+
+INCOMING MESSAGE
+HEADQUARTERS OF THE AIR FORCE
+STAFF MESSAGE BRANCH                                   UNCLASSIFIED
+
+AF IN : 598195 (30 Nov 64) N/rph
+ACTION: NIN-7
+INFO : XOP-1, XOPX-7, SAF-OS-3, DIA-15 (34)                Pg 1 of 2
+
+SMB C022 CZCHQA65@ZCJC039
+00 RUEAHQ
+DE RUDIC 841 38/05122
+ZNR
+0 300512Z NOV 64
+FM COMBAR ICE
+TO RUECW/CNO
+ZEN/CINCL ANTFLT
+RUEAHQ/HQ USAF
+RUMGLB/CINCONAD
+RUEGUH/COMEAST SEAFRON
+RUEAKN/25 NORAD REGION
+INFO RUCKDT/COMASFORIANT
+BT
+UNCLAS
+LOCATING ONE
+1. POSS SATELLITE-BRKGHT EXPLOSION
+2. UNK DIST WEST OF 6338N 3023W
+3. 300435Z
+4. VERTICAL DECENT
+
+
+- page 6 -
+
+INCOMING
+MESSAGE
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED
+
+AF IN : 5989s (30 Nov64)
+5. VISUAL FROM BARRIER AIRCRAFT
+6. FL 88
+BT
+NNN
+
+N
+NOTE: ADVANCE COPY DELIVERED TO DIA & NIN
+
+Pg 2 of 2
+
 
 - page 7 -
 

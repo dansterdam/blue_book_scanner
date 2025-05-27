@@ -1,78 +1,136 @@
-The image does not contain any photographs or images. It appears to be a page from a Project Blue Book record card, which is a form used to document UFO sightings.
+Here is the text from the document:
 
 PROJECT 10073 RECORD CARD
-1. DATE 6 July 62
-2. LOCATION Beeville, Texas
-3. DATE-TIME GROUP 06/2030
-4. TYPE OF OBSERVATION Obj-Ground-Visual
-5. PHOTOS 0 Yes
-6. LENGTH OF OBSERVATION 44 litars
-10. BRIEF SUMMARY OF SIGHTING Reddish-orange ball appeared at 10:30 p.m. It moved slowly and disappeared behind trees.
-11. COMMENTS Sighting is available as a source for evaluation.
+
+1. DATE
+6 July 62
+
+2. LOCATION
+Beeville, Texas
+
+3. DATE-TIME GROUP
+Local: 06/2030
+GMT: 06/2030
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+□ Air-Visual
+□ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[X] No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+3-5 sec.
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+Straight
+
+10. BRIEF SUMMARY OF SIGHTING
+Bright orange tail appeared at 70° elev. Diagonal flight initially of 15 sec. then to 20° elev. Flight straight, no sound.
+
+11. COMMENTS
+Might be characteristics of a meteor. Case is evaluated as such.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+[X] Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+[X] Probably Astronomical
+□ Probably Astronomical Meteor
+□ Other:
+□ Insufficient Data for Evaluation
+
+(ATIC FORM 329 (REV 26 SEP 52))
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a page from an old Project Blue Book UFO report document.
-
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
-AP IN : 35071 (6 July 62) INCOMING
+INCOMING
+
+AF IN : 36071 (6 July 62) INCOMING     Page 1 of 2
 ACTION: CIN-17
-INFO : OOP-2, OOP-OP-1, SAPA-3, DIA-6 ( 32)
+INFO : OOP-2, OOP-CP-1, SAFS-3, DIA-8   ( 32)
 
 SMB B 035
-CZCHGDS37ZGWJD287
-PP RUEAKG
-DE RJWFWMZ 6
+CZCHODG37ZCWJD207
+PP RUEAHQ
+DE RJWFWZ 6
 ZNR
 P 062215Z
 FM 813TH ACW SQDN ROCKPORT AFS ROCKPORT TEXAS
-TO RJWFAL/ADC ENT AFB COLO
-RJWFWZ3SD AIR DIV OKLA CITY AFS OKLA CITY OKLA
+TO RJWFAL/ADC ENT AFB COGI
+RJWFHW/32ND AIR DIV OKLA CITY AFS OKLA CITY OKLA
 RJEDSO/AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO
-RJWEAHQ/HQ USAF WASH 25 D C
-RUEAHG/SECRETARY OF THE AF WASH D C
+RJUEAHQ/HQ USAF WASH 25 D C
+RUEAHQ/SECRETARY OF THE AF WASH D C
 BT
-UNCLASS 313 06-G-620. FOR <AFGIN> HQ USAF : <SAFE IS SECRETARY OF THE AF
+UNCLASS 813 06-G-620. FOR (AFCIN) HQ USAF : (SAFIS SECRETARY OF THE AF
 SUBJECT: UFO
-A. 613 ROUND
-(2) ABOUT SIZE OF PINHEAD
-(3) GREEN
-(4) ONE
-(5) N/A
-(6) BRIGHT IN COLOR
-(7) ORANGE TAIL
-(8) NONE
+
+A. (1) ROUND
+   (2) ABOUT SIZE OF PINHEAD
+   (3) GREEN
+   (4) ONE
+   (5) N/A
+   (6) BRIGHT IN COLOR
+   (7) ORANGE TAIL
+   (8) NONE
+
 
 - page 2 -
 
-The image does not contain any photograph. It appears to be a page from a Project Blue Book report document.
-
 DEPARTMENT OF THE AIR FORCE
-STATE INTERNAL SECURITY BRANCH
-AF IN: 36071 (6 July 62) I N C O M I N G Page 2 of 2
-PAGE TWO RJVFHWZ 6
-(3) NONE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+AF IN: 36071 (6 July 62) I N C O M I N G    Page 2 of 2
+
+PAGE TWO RJWFHWZ 6
+
+(9) NONE
+
 B. (1) JUST HAPPENED TO GLANCE UP AND OBSERVED OBJECT
-(2) 70 DEGREE ANGLE FROM SURFACE
-(3) 28 DEGREES
-(4) STRAIGHT
-(5) GRADUALLY TO THE WEST
-(6) THREE TO FIVE SECONDS
+   (2) 70 DEGREE ANGLE FROM SURFACE
+   (3) 20 DEGREES
+   (4) STRAIGHT
+   (5) GRADUALLY TO THE WEST
+   (6) THREE TO FIVE SECONDS
+
 C. (1) GROUND VISUAL
-(2) NO OPTICAL AIDS
-D. (1) 06/23302 JULY 62
-(2) DAY
+   (2) NO OPTICAL AIDS
+
+D. (1) 06/2030Z JULY 62
+   (2) DAY
+
 E. 28:40N 98:42W
-F. ACC E. L. BOWE, USSN 23907472, CONTROL TOWER OPERATOR
-CHASE FIELD, BEEVILLE, TEXAS
-G. (1) SUNNY AND S CATERED CLUDS
-(2) 20 121 DEGREES 05 40 121 DEGREES 19 
-(3) 30 121 DEGREES 10 50 151 DEGREES 19
-(4) 34 SCATTERED HIGH BROKEN
+
+F. ACC E. L. BOWE, USSN 2297147, CONTROL TOWER OPERATOR
+   CHASE FIELD, BEEVILLE, TEXAS
+
+G. (1) SUNNY AND S SCATTERED CLOUDS
+    (2) 20 151 DEGREES 05 40 121 DEGREES 10
+        30 141 DEGREES 10 50 161 DEGREES 15
+    (3) 34 SCATTERED HIGH BROKEN
+    (4) 10
+    NOTE: ADV CY DEL TO DIA
+
 BT
-NOTES. ADV CY DEL TO DIA
-06/23302 JUL RJVFHWZ
+06/2300Z JUL RJWFHWZ
+
 
 - page 3 -
 

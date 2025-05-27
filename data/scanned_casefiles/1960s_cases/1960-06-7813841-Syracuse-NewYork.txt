@@ -1,307 +1,412 @@
-The image does not contain any photograph. It appears to be a project record card from Project Blue Book, which was a U.S. Air Force program to investigate Unidentified Flying Objects (UFOs). The record card provides details about an incident that occurred on 25 Jun 60 in Syracuse, New York. The card indicates that the "Physical Specimen" is "Missing" and provides a brief summary of the sighting, which mentions two pieces of "colorless substance" that were forwarded for analysis.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 25 JUN 60
-2. LOCATION: Syracuse, New York
-3. DATE-TIME GROUP: 1530
-4. TYPE OF OBSERVATION: GR Ground-Visual
-5. SOURCE: Civilian
-6. NUMBER OF OBJECTS: two
-7. LENGTH OF OBSERVATION: Not observed
-8. BRIEF SUMMARY OF SIGHTING: Two pieces of colorless substance, one appearing to be metallic, one piece striking hood of small automobile. Forwarded for analysis.
-9. COURSE: -
-10. CONCLUSIONS: [] Was Balloon [] Probably Balloon [] Was Aircraft [] Probably Aircraft [] Was Astronomical Probably Astronomical [] Other: Physical Specimen Missing
-11. COMMENTS: Analysis from physics lab indicates both pieces of same composition. Material believed to be glass furnace slag.
+
+1. DATE
+25 Jun 60
+
+2. LOCATION
+Syracuse, New York
+
+3. DATE-TIME GROUP
+Local 1530
+GMT 25/26 JUN 60
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Viewed □ Air-Intercept Radar
+
+5. PHOTOS Physical Specimen
+□ Yes
+[X] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+not observed
+
+8. NUMBER OF OBJECTS
+two
+
+9. COURSE
+falling
+
+10. BRIEF SUMMARY OF SIGHTING
+Two pieces of molten substance, one appearing to be metallic. One piece struck body of small child. Light density material. Forwarded for analysis.
+
+11. COMMENTS
+Analysis from physics lab indicates both pieces of same composition. Material believed to be glass furnace slag.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+[X] Other Furnace Slag
+Insufficient Data for Evaluation
+Unknown
+
+Physical Specimen Missing
+
+ATIC FORM 329 (REV 26 SEP 59)
 
 - page 1 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book document, specifically a cover sheet or request form.
+Here is the text from the document:
 
-SUPERVISOR 6. 20 FOR SERVICE IN SUPPORT OF.
-PROJECT NO. F-T7701
-SUPPORTING CASH
-PRIORITY 3 FILE GIVE INITIALS
-SECURITY CLASSIFICATION OF WORK SOLICITED TASK NO. T-T1701
-AIF, TYPE, MODEL AND SERIAL NO. TECH GROUPING OTHER
-WADD FORM 49 HAS BEEN INITIATED
-DESCRIPTION OF WORK
-ANALYS IS OF MATERIAL SENT TO ATPC FROM SYRACUSE, N.Y. FOR POSSIBLE COMPOSITION. 2 SAMPLES
+SUBORDER
 
-INITIATION DATE SYSTEM ENGINEER OR PLANNER CHIEF (Responsible Organ or Rep)
-JOHN A. BRADLEY 
-CRASH CODE
-FOR USE OF SUPPORTING ORGANIZATION 
-PROJECT ENGINEER OR PLANNER CHIEF (Supporting Organ, or Rep)
-LUKE M. POWELL, CAPT, USAF
-ESTIMATED COMPLETION MANMOURS HRS 26236
-WADD FORM 49
-SEP 55 49
+1. TO (Requesting Orgn): WWRCPA
+2. DATE: 30 Sep 60
+3. FOR (Service in Support of):
+4. FILE OR LOGGING NO:
+5. DATE COMPLETION REQ: 6. PRIORITY:
+7. SECURITY CLASSIFICATION: 8. PRECEDENCE RATING:
+   PROJECT NO: 5771
+9. A/C TYPE, MODEL AND SERIAL NO: TASK NO: 27101
+10. DESCRIPTION OF WORK:
+    ANALYSIS OF FOREIGN MATERIAL
+
+    ANALYSIS OF MATERIAL SENT TO ATIC
+    FROM SYRACUSE, N.Y. FOR POSSIBLE COMPOSITION.
+    2 samples
+
+11. INITIATOR: JAMES A. DALTON 6726 AGEN-4127*
+12. SECTION CHIEF: [Signature]
+13. CHIEF (Responsible Orgn or Rep): [Signature]
+
+14. ESTIMATED COMPLETION DATE:
+15. PROJECT ENGINEER OR PLANNER: Wade H. Jones
+    ORGN CODE: WWRCPA   EXT: 20236
+16. CHIEF (Supporting Orgn or Rep): Simon J. Bustinhotolchu
+    Capt, USAF
+
+17. REASON: COMPLETED
+18. DATE COMPL: 11/3/60   19. W/HRS EXP: 8
+
+WADC FORM 49
+SEP 54 49
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, with the title "PUBLICATION REVIEW" and a list of recommendations and distribution details.
+IV. RECOMMENDATIONS
+None, data merely submitted.
 
-RECOMMENDATIONS: None, data merely submitted.
-PREPARED BY: Webb K. Davis, WADE H. JONES, WWROPA-2
-PUBLICATION REVIEW: This report has been reviewed and is approved.
-DISTRIBUTION: WWRCP (1 cy), WWROPA
+PREPARED BY:
+[Signature] WADE H. JONES WRGPA-2
+
+PUBLICATION REVIEW
+This report has been reviewed and is approved.
+[Signature] SOLOMON F. BROKESHOULDER, Capt, USAF
+Chief, Organic Analysis Section
+Physics Laboratory
+Materials Central
+
+DISTRIBUTION:
+WRGP (1 cy)
+WRGPA
+
+MBER MWRC F60-26                   2
 
 - page 3 -
-
-There does not appear to be a photograph present in this document. This document is an Evaluation Report from the Wright Air Development Center, Wright-Patterson Air Force Base, Ohio, analyzing foreign material received from Syracuse, New York. The report details the factual data, including the composition analysis of the two samples received, and the conclusions drawn from the analysis.
-
-Here is the text content of the document:
 
 WRIGHT AIR DEVELOPMENT CENTER
 WRIGHT-PATTERSON AIR FORCE BASE, OHIO
 
-MATERIALS CENTRAL
-PHYSICS LABORATORY
+MATERIALS CENTRAL                                                                                                   PHYSICS LABORATORY
 
 EVALUATION REPORT
 Analysis of Foreign Material
 
-REPORT NO: WHRG FGO-26   DATE: 7 November 1960
-PROJECT NO: 5771    TYPE EVALUATION:
-MANUFACTURER:
-SUBMITTED BY: AFCIN-4E2X
+REPORT NR:    WADC P60-26                                                                   DATE: 7 November 1960
+PROJECT NR:   5771                                                                           TYPE EVALUATION:
+MANUFACTURER:                                                                                SPEC NR:
+SUBMITTED BY: AFOIM-4[redacted]                                                               ITEM SERIAL NR:
 
-I. PURPOSE
-To determine the composition of material sent to ATIC from Syracuse, New York. 
+I.   PURPOSE
+To determine the composition of material sent to ATIC from Syracuse, New York.
 
-II. FACTUAL DATA
-1. Two samples of foreign material were received and assigned Physics Laboratory Numbers 6177 and 6178.
-2. The samples were analyzed by emission spectroscopy, infrared, and X-ray diffraction.
-3. Emission spectrochemical analysis provided these data:
-   Principal - Calcium
-   Majors - Silicon, magnesium, manganese, aluminum, iron, titanium, chromium
-   Minor - Barium
-   Traces - Nickel, copper, sodium, silver
-4. The infrared spectra of the samples were recorded and placed on file. The spectra revealed no significant absorption bands. All carbon-hydrogen linkages were very weak.
-5. X-ray diffraction analysis indicated that the material is non-crystalline in structure and appears to be glass.
+II.  FACTUAL DATA
+
+1.   Two samples of foreign material were received and assigned Physics Laboratory Numbers 6177 and 6178.
+
+2.   The samples were analyzed by emission spectroscopy, infrared, and X-Ray diffraction.
+
+3.   Emission spectrochemical analysis provided these data:
+     Principal - Calcium
+     Majors - Silicon, magnesium, manganese, aluminum, iron, titanium, chromium
+     Minor - Barium
+     Traces - Nickel, copper, sodium, silver
+
+4.   The infrared spectra of the samples were recorded and placed on file. The spectra revealed no significant absorption bands. All carbon-hydrogen linkages were very weak.
+
+5.   X-ray diffraction analysis indicated that the material is non-crystalline in structure and appears to be glass furnace slag.
 
 III. CONCLUSIONS
+
 Both samples appear to be of the same chemical composition.
 
-This report is not to be used in whole or in part for advertising or sales promotion purposes.
+[Note: The document contains a header and footer stating "This report is not to be used in whole or in part for advertising or sales promotion purposes"]
 
 - page 4 -
-
-The image does not contain any photographs. 
 
 Here is the text from the document:
 
 RECEIVED UNCLASSIFIED
-27 JUN 62 
+
 NBR 5677
 PRIORITY
-FM HOQ SAFB HANCOCK FIELD NY 260632Z
-TO HEDUSAF WASH DC
+
+26 JUN 68
+FM HOS 26 ADIV HANCOCK FIELD NY 260615Z
+TO MEDUSAF WASH DC
 COMDR WPAFB OHIO
-COMDR L G HANSCOM FIELD BEDFORD MASS
-HQS ADC
-HQS NORAD
-CITE: 26GINS-0651 FOR HQS USAF, ATTN: 
-AFCIN-IB AND SAFIS WPAFB, ATTN COSMATIC, AFCIN-4A L G HANSCOM 
-FLD, ATTN: PROJECT SPACE TRACK; HQS ADC ATTN: ADOIN HQS NORAD
-ATTN: NINT- SUBJECT: MOON DUST. 2 PIECES OF MOLTEN UNIDENTIFIABLE
-MATERIAL FELL AT THE HOME OF MR ??????? IN SYRACUSE NY, AT APPROXIMATELY 1539 HRS, LOCAL, 25 JUNE 62. 
-REPORTEDLY: 1 PIECE STRUCK THE SMALL SON ON HIS BOOT OR SHOE.
-MATERIAL WAS DELIVERED TO HANCOCK FIELD PERSONNEL BY MR ???????.
-SIZE OF SMALLER OBJECT IS APPROXIMATELY THAT OF A LEMON; IS
-APPARENTLY METALLIC, BUT IS OF FAIRLY LIGHT DENSITY. SECOND OBJECT
-IS APPROXIMATELY 6 INCHES IN LENGTH, 4 INCHES IN WIDTH, AND 2
-INCHES IN THICKNESS; HAS EXTREMELY LIGHT DENSITY, AND APPEARS
-TO BE MADE UP OF AT LEAST 3 DIFFERENT SUBSTANCES. ALL SHOW SIGNS
-OF SUBJECTION TO EXTREME HEAT. BASE PERSONNEL WHO HAVE HAD 
-OPPORTUNITY TO HANDLE PORTIONS OF METEORITES BELIEVE BOTH OF
-THESE OBJECTS TO BE OF METEORIC ORIGIN.
+COMDRFL G HANSCOM FIELD BEDFORD MASS
+HOS ADC
+HOS NORAD
+
+CITE: 260IN5-0651 FOR HOS USAF, ATTN: AFCIN-1B AND SAFIS WPAFB, ATTN: COSMETIC, AFCIN-4A L G HANSCOM FLD, ATTN: PROJECT SPACE TRACK; HOS ADC ATTN: ADOIN HGS NORAD ATTN: NINT. SUBJECT: MOON DUST. 2 PIECES OF MOLTEN UNIDENTIFIABLE MATERIAL FELL AT THE HOME OF MR [REDACTED] SYRACUSE NY, AT APPROXIMATELY 1530 HRS, LOCAL, 25 JUNE 68.
+
+REPORTEDLY 1 PIECE STRUCK THE SMALL SON ON HIS BOOT OR SHOE.
+
+MATERIAL WAS DELIVERED TO HANCOCK FIELD PERSONNEL BY MR [REDACTED]
+
+SIZE OF SMALLER OBJECT IS APPROXIMATELY THAT OF A LEMON, IS APPARENTLY METALLIC, BUT IS OF FAIRLY LIGHT-DENSITY. SECOND OBJECT IS APPROXIMATELY 6 INCHES IN LENGTH, 4 INCHES IN WIDTH, AND 2 INCHES IN THICKNESS, HAS EXTREMELY LIGHT DENSITY, AND APPEARS TO BE MADE UP OF AT LEAST 3 DIFFERENT SUBSTANCES. ALL SHOW SIGNS OF SUBJECTION TO EXTREME HEAT. BASE PERSONNEL WHO HAVE HAD OPPORTUNITY TO HANDLE PORTIONS OF METEORITES BELIEVE BOTH OF
+
+[Classification Cancellation stamp at bottom of document]
 
 - page 5 -
 
-The image does not contain any photograph. It appears to be a page from a Project Blue Book report, with text content only.
+Here is the text from the document:
 
-P. E. TWO
-THESE ITEMS ARE TOO LIGHT TO BE METEORITES. MATERIALS WILL BE HELD
-HERE UNTIL INSTRUCTIONS ARE RECEIVED AS TO WHERE THEY SHOULD BE
-SEND FOR ANALYSIS. OBJECTS WERE TESTED BY BASE MEDICAL PERSONNAL
-AND ARE NOT BELIEVED TO BE RADIOACTIVE
-26/12/62
+P. & TWO
+
+THESE ITEMS ARE TOO LIGHT TO BE METEORITES. MATERIALS WILL BE HELD HERE UNTIL INSTRUCTIONS ARE RECEIVED AS TO WHERE THEY SHOULD BE SEND FOR ANALYSIS. OBJECTS WERE TESTED BY BASE MEDICAL PERSONNEL AND ARE NOT BELIEVED TO BE RADIOACTIVE
+
+26/12462
 
 UNCLASSIFIED
 
 - page 6 -
 
-The image appears to be a page from an old UFO report document from Project Blue Book. There is no photograph present on this page, only text.
+Here is the text from the document:
 
-OCR output:
+JOINT MESSAGEFORM
+SECURITY CLASSIFICATION: UNCLASSIFIED
 
-1520 JUN 29 21 20
-PRECEDENCE
-ACTION
-ROUT.FNG
-INFO
-FORMS
+[Top Right Handwritten Notes]
+IE 23
+30/0004
 
-ATTN. AFOIC 8F 1
-HANCOCK FLD SYRACUSE, N.Y. R72 2 SN
+[Date Stamp]
+1960 JUN 29 21 20
 
-/UNCLASS IFIED/PROP: AFCIN-152 G-1982-E
+[Message Body]
+/UNCLASSIFIED/FROM: AFCIN-142g 6-1982-E
 
-ATTN 26TH AIR DIV. RE YOUR MSG 26 GIN 5-0651, DTD 26 JUNE 1960. 
-REQ THE PHYSICAL EVIDENCE FR THE UFO SIGHTING 25 JUNE 60. YOUR 
-AREA BE FIND TO ATTN, ATTN: AFCIN-152. THESE INSTRUCTIONS ARE IN
-ACCORDANCE WITH AFR 200-2, DTD 14 SEPT 59, PAR #19.
+ATTN 26TH AIR DIV. RE YOUR NSO 26 OIN 5-0651, DCD 26 JUNE 1960.
 
-SYMB)r. AFCIN-152
-PHONE 69215
-UNCLASSIFIED
+REQ THE PHYSICAL EVIDENCE FR THE UFO SIGHTING 25 JUNE 60, YOUR AREA BE FWD TO ATIC, ATTN: AFCIN-142g. THESE INSTRUCTIONS ARE IN ACCORDANCE WITH AFR 200-2, DTD 14 SEPT 59, PAR #19.
 
-DD. FORM 173 REPLACES DD FORM 173. 1 OCT 48. WHICH WILL BE USED UNTIL EXHAUSTED
+[Bottom of Form Details]
+DATE: 27
+TIME: 1127
+MONTH: JUNE
+YEAR: 1960
+
+[Signature Section]
+SYMBOL: AFCIN-142g
+
+Major Robert J. Friend 69215
+SECURITY CLASSIFICATION: UNCLASSIFIED
+
+NICHOLAS POST
+Acting Deputy
+AFCIN-142
+
+DD FORM 173, MAY 56 REPLACES DD FORM 173, 1 OCT 48, WHICH WILL BE USED UNTIL EXHAUSTED
 
 - page 7 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
-
 UNCLASSIFIED
 13 JUL 1960
-AFOIN-HA28
-(U) Transmittal of IR
-12 JULY 1960
-Attached is IR 1-60, of the 63th Air Division (SAGE), Syracuse, New York, which reports the sighting of 3 unidentified objects observed near Syracuse, New York. This is submitted for analysis.
-(UNCLASS)
-WILLIAM L. VAN DYNE
-Lt Colonel, USAF
-AFOIN-HA28
-1 Atch
-IR 1-60, dtd 23 Jun 60, s/l
-Atch. Doc conk: 3 unidentified items. (CYR-60-23758)
 
-"If (withdrawn
-for not attached the classification of this corresponder
-unassigned)" will be changed to 25-742. (see Section
-26 Feb 55, AF Reg 205-1)
+ATCH-AAez
+
+(U) Transmittal of IR                                     12 July 1960
+
+Attached is IR 1-60, from Hq 56th Air Division (SAGE), Syracuse, New York. Attached to this report are hardware items which should be submitted to ATCH-AAez, Attention, Major Friend, for analysis.
+(UNCLIDE)
+
+WILLIAM L. VAN METER                   1 Atch
+Lt Colonel, USAF                       IR 1-60, dtd 25 Jun 60, w/a
+ATCH-AAez                               Atch, box cont. 2 unidentified
+                                        items. (C)T-60-23756
+
+"If inclosure(s)                        (a) were withdrawn
+(or not attached) the classification of this correspondence
+(recommended will be changed to Closed.) or cancelled
+in accordance with par. 39b, AFR 205-1."
 
 Classification Cancelled
-for Clearance to
-D (. OscrtKgP £>
-SoUw»AiWo«
-H. R. 2^/-7~72
-3 Jan 58
+(or changed to)
+
+Rec'd JUL 28 1960
 
 UNCLASSIFIED
 
 - page 8 -
 
-The image does not contain a photograph. It appears to be a scanned page from a document titled "AIR INTELLIGENCE INFORMATION REPORT" dated 13 JUL 1960. The report is regarding an incident that occurred on 29 June 1960 in Syracuse, New York and was reported by a Syracuse resident. The report mentions two items enclosed, described as one metallic and one non-metallic in appearance.
+Here is the text from the document:
 
-Here is the text extracted from the document:
+UNCLASSIFIED
 
 AIR INTELLIGENCE INFORMATION REPORT
-SUBJECT: Syracuse, New York
-DATE OF INFORMATION: 29 June 1960
-DATE OF REPORT: 13 JUL 1960
-FROM: 2651st Air Division (SAGE)
-TO: AFOIN-4420
-REPORT BY: (SYMBOLS: CFSG/CFSQ) Lt. Col. Dale R. Jensen 
-SUBJECT: Message, 26CIN, 5-0651 (Confidential) and Message 10-4176 (Confidential) AFGIN-4420
-Material enclosed with this report was reported by Message 26CIN-50651, this Headquarters, and is sent to AFOIN-4420 as directed by Message AFGIN-4420 10-4176. 
-No capability to evaluate material exists at this headquarters. If further information is desired from person on whose property these items fall, such information could be obtained.
 
-Classification Cancelled
-[Signature]
-DAILY 13 JUL 1960
-Lt. Col. USAF
+Location: Syracuse, New York
+Date of Report: 29 June 1960
+Date of Information: 25 June 1960
+Prepared By: Lt. Col. Dale H. Jensen
+From: 26th Air Division (SAGE)
+Source: Syracuse resident
+Evaluation: Unknown
+
+Message, 260IN-5-0651 (Confidential) and Message 10-41176 (Confidential) AFOIN-442C
+
+SUMMARY:
+Material inclosed with this report was reported by Message 260IN-50651, this Headquarters, and is sent to AFOIN-442C as directed by Message AFOIN-442C 10-41176.
+
+No capability to evaluate material exists at this headquarters. If further information is desired from person on whose property these items fell, such information could be obtained.
+
+Box containing two items, one metallic, one non-metallic in appearance.
+
+Classification Canceled
+
+Approved:
+DALE H. JENSEN
+Lt. Col., USAF
 Director of Intelligence
 
-Box containing two items, one metallic, one non-metallic in appearance. (24)
-
 - page 9 -
-
-The image does not contain any photographs, only text and a header with the "AEROSPACE TECHNICAL INTELLIGENCE CENTER" logo.
-
-Text from the document:
 
 AEROSPACE TECHNICAL INTELLIGENCE CENTER
 UNITED STATES AIR FORCE
 WRIGHT-PATTERSON AIR FORCE BASE
 OHIO
 
-REPLY TO  
-AFCIN-HA2C
+REPLY TO
+ATTN OF: AFCIN-4A2c
 
 SUBJECT: (C) Possible Foreign Space Object Material
 
-TO: AFCIN-AEXK (Major Frene)
+TO: AFCIN-4E2Y (Major Friend)
 
-1. On 25 Jun 1960, certain substance fell in the area of Syracuse, New York. These objects were turned over to the Intelligence Officer, 507th Air Division and were forwarded to AFCIN-HA as possible Moon Dust Hardware. This date, 25 June, coincides with the landing of the Sputnik IV carrier vehicle.
+1. On 25 Jun 1960, molten substance fell in the area of Syracuse, New York. These objects were turned over to the Intelligence Officer, 26th Air Division (Syracuse) and were further forwarded to AFCIN-4A as possible Moon Dust hardware. This date, 25 June, coincides with the approximate re-entry and disintegration of the Sputnik IV carrier vehicle. (CONF)
 
-2. The material and IR were dispatched to AFCIN-Hlb for distribution (this date) to your office. Results of your analysis of this material are requested. (URGENT)
+2. The material and IR were dispatched to AFCIN-4B1b for distribution to your office. Results of your analysis of this material are requested. (UNCIASS)
 
-WILLIAM R. VAN METER
+[Signature]
+WILLIAM J. VAN METER
 Lt Colonel, USAF
-1st Ind (AFCIN-4E20/a/CI - Hauge/67310)
+AFCIN-4A2c
 
-TO: AFCIN-4BX-1
+1st Ind (AFCIN-4E2c/Capt. Maugle/67310) - - - - - 15 July 1960
 
-1. It is requested that FWS furnish a composition analysis for each sample. If the composition analyses indicate that these samples could have been from Sputnik IV, photographic and interpretations of the material should accompany the report.
+TO: AFCIN-4EX-3
+THRU: AFCIN-4EX-1 ack
 
-2. It is further requested that FWS notify this office of the total estimated cost before proceeding with this analysis.
+1. It is requested that PWS furnish a composition analysis for each sample. If the composition analysis indicates that these samples could have been from Sputnik IV, photomicrographs and interpretations of the photomicrographs should be made to show the heat transfer rates.
 
-PHILIP G. EVANS
+2. It is further requested that PWS notify this office of the total estimated cost before proceeding with this analysis.
+
+[Signature]
+PHILIP C. EVANS
 Colonel, USAF
-AFCIN-4B
+AFCIN-4E
+
+2 Atch
+1. Memo, dtd 12 Jul 60, "(U)
+Transmittal of IB" 1 cy, T60-23756-A
+2. IR 1-60, dtd 25 Jun 60, w/1 Atch
+Box containing two items, one metallic, one non-metallic, T60-23756
+
+RECD JUL 28 1960
+
+[Unclassified stamp at bottom]
 
 - page 10 -
 
-The image does not contain any photographs or visual depictions. It appears to be a typed document from Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs).
+UNCLASSIFIED
 
-The text in the document is as follows:
+RECD AUG 15 1960
 
-UNCLASSIFIED 
-RECORD AUG 15 1960
-This document consists of __ pages. No. __ of __ copies, series __
+This document consists of......pages
+No..../.....of....copies, series....G.
 
-3 AUG 60
-Memorandum, AFSC, July 12, 1960, Subj: (C) Possible Foreign Space Object
-2nd Ind (-LBX-3/H. C. Gross)
-To: -HE2C/C. A. Naugle
-Through: -LBI/L. G. Whicher
+3 Aug 60
 
-1. It is suggested that the two samples be subjected to a preliminary investigation consisting of (1) a microstructural analysis and, depending on the results obtained, (2) a spectrographic analysis. It is further recommended that the condition of these samples be reported to AFSC along with recommendations, if any, for additional investigation and a cost estimate. 
+Memorandum -4A2c, July 12, 1960, Subj: (C) Possible Foreign Space Object
+Material
 
-2. The estimated cost for the performance of the microstructural analysis is $150, and for the spectrographic analysis, $300.
+2nd Ind (-4BX-3/H. C. Cross)
+
+To: -4B2c/C. A. Naugle
+Through: -4B1/L. G. Whitcher pak
+
+1. It is suggested that the two samples be subjected to a preliminary investigation consisting of (1) a microstructural analysis and, depending on the results obtained, (2) a spectrographic analysis for composition. At the conclusion of this investigation, the results would be integrated and reported to ATIC, along with recommendations, if any, for additional investigation and a cost estimate.
+
+2. The estimated cost for the performance of the microstructural analysis is $150, and of the spectrographic analysis, $300.
 
 3. Before proceeding with such an examination, PWS will await authorization.
 
-Howard G. Gross
-3rd Ind (AFCIN-Li2E/C.A. Naugle/67310)
-TO: AFCIN-LBY-3
-THRU: AFCIN-LBY-1
+Howard C. Cross
+Howard C. Cross
 
-Since the cost of PWS analysis of the sample included with first indorsement would be destroyed by Material FECD, it is requested that PWS return the samples to this office.
+3rd Ind (AFCIN-4B2c/C.A. Naugle/67310) 8 Aug 1960
 
-Richard P. Schoop
+TO: AFCIN-1BX-3
+THRU: AFCIN-1BX-1
+
+Since the cost of PWS analysis of the sample enclosed with first indorsement would have to be defrayed by Material PCS'S, it is requested that PWS return the samples to this office.
+
+Richard R. Sharp
+for PHILIP G. EVANS
 Colonel, USAF
-AFCIN-LBY
+AFCIN-1BX
+
+2 Atchs
+1. n/c
+2. n/c (Box containing samples w/a)
 
 UNCLASSIFIED
 
 - page 11 -
 
-The image provided does not contain any photographs or visual elements. It appears to be a scanned page from a document related to Project Blue Book, a historical U.S. Air Force program that investigated unidentified flying objects (UFOs).
+UNCLASSIFIED
 
-Text extracted from the document:
+17 Aug 60
 
-Memorandum - A2ac, July 12, 1960, Subj: (c) Possible Foreign Space Object
+Memorandum, -4A2c, July 12, 1960, Subj: (C) Possible Foreign Space Object Material
+
 4th Ind
-To: HEE/C - Neugle
-Through: HB/L C Whitcher
+
+To: -A32c/c. A. Naugle
+Through: -481/L. G. Whitcher
+
 1. As you requested, we are returning herewith the subject samples.
-Atcfs M-/O
+
+Atchs n/c
 
 Classification Cancelled
-Under Authority Extended 7 Feb 65 By R. C. Sharp, Chief, Plans Divn, DCS/R&E
+(or changed to)
+Auth
+Date
+By
+AFF 257, Par 2-172
+3 Jan 68
+
+UNCLASSIFIED
 
 - page 12 -
 

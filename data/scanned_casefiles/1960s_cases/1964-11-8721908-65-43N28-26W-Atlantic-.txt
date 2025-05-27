@@ -1,54 +1,86 @@
-The image does not contain a photograph. It appears to be a form or report document with various fields filled out, but no visual image is present.
+Here is the text from the document:
 
-1. TIME GROUP: 17 November 64 17/2002Z
-2. LOCATION: 65.43N 28.26W (Atlantic)
-3. SOURCE: Military
-4. NUMBER OF OBJECTS: ECHO II heading 315 at 60 degrees E 37 degrees E at the reported time of the observation. Observation evaluated as ECHO II sighting.
-5. LENGTH OF OBSERVATION: Not Reported
-6. TYPE OF OBSERVATION: Ground/visual
-7. COURSE: 315
-8. PHOTOS: No
-9. PHYSICAL EVIDENCE: No
-10. CONCLUSION: Satellite (ECHO II)
-11. BRIEF SUMMARY AND ANALYSIS: ECHO II described as celestial in appearance moving 315 at speed of 40 degrees per 25 seconds.
+1. DATE - TIME GROUP
+17 November 64 17/200Z
+
+2. LOCATION
+65.43N 28.26W (Atlantic)
+
+3. SOURCE
+Military
+
+10. CONCLUSION
+Satellite (ECHO II)
+
+4. NUMBER OF OBJECTS
+One
+
+11. BRIEF SUMMARY AND ANALYSIS
+ECHO II heading SE at 60 deg N 37 deg W at the reported time of
+the observation. Observation evaluated as ECHO II sighting.
+
+5. LENGTH OF OBSERVATION
+Not Reported
+
+Object described as celestial in appearance moving SE at speed
+of 10 degrees of arc per minute.
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+SE
+
+8. PHOTOS
+[ ] Yes
+[X] No
+
+9. PHYSICAL EVIDENCE
+[ ] Yes
+[X] No
+
+FORM
+FTD SEP 63 0-329 (TDE)   Previous editions of this form may be used.
+
 
 - page 1 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
+INCOMING
+MESSAGE
+AAP 38543 (17 Nov 64)
 
-The text in the document is as follows:
-
-DEPARTMENT OF THE AIR FORCE
-STAFF MESSAGE BRANCH
-
-ACTION: NIN-7  
-INFO : DIA-15, XOP-1, XOPK-7, SAF-OS-3 (34)
+ACTION: NIN-7
+INFO : DIA-15, XOP-1, XOPX-7, SAF-OS-3 (34)
 SMB A263
-ZCZCZCH B19 2CCJA 9200
-00 RUEMDC 336 171 2118Z
+ZCZCHQ BI 557CC JA9200
+0 0 RUEAHQ
+DE RUDIC 336 17/2118Z
 ZNR
-0 17 2118Z
-FM COMBARF ORLANT  
-TO RUEHC/CNO  
-ZEN/CINCLANFL T
-RUWGALYG ING NAD  
-RUERAF/26TH NORAD REGION
-RUEANGJ/10 USAF
-RUWGALD/SPADAT  
-INFO ZEN/CINCMASWF ORLANT
+0 1 72118Z
+FM COMBARF ORLANT
+TO RUECW/CNAO
+Z EN/C INCLANTFLT
+RUWGALB/C INC CNAD
+RUEAAF/26TH NORAD REGION
+RUEAHQ/HQ USAF
+RUWGALD/SPADAT
+INFO Z EN/C OMASWF ORLANT
 BT
 UNCLAS
-LOCATING ONE UFO
-A. C UNCLASSIFIED INST 03368-2C
-1. CELESTIAL  
-2. 65 DEG 43 MIN NORTH 28 DEG 26 MIN WEST  
-3. 1726023
-4. 180/19 DEG ARC PER MINUTE  
-5. VIS  
-6. UNK  
+LOCATING ONE UFO.
+A. C INCLANTFLT INST 03380.2C
+1. CELESTIAL
+2. 65 DEG 43 MIN NORTH 28 DEG 26 MIN WEST
+3. 17NOV5
+4. 180/10 DEG ARC PER MINUTE
+5. VIS
+6. UNK
 T. BT3 ECHO TWO SATELLITE.
 BT
-NOTE : ADV CY DEL TO NIN & DIA
+NOTE : Adv ey del to NIN &DIA
+
+UNCLASSIFIED
+
 
 - page 2 -
 
