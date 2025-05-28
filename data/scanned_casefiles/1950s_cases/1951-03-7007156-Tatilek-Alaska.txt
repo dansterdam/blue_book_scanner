@@ -1,46 +1,84 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record card, providing details about a UFO-related observation that occurred on 11-14 Mar 51 in Tatilek, Alaska.
-
-The text found in the document is as follows:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
 11-14 Mar 51
+
+2. LOCATION
+Tatilek, Alaska
+
 3. DATE-TIME GROUP
-1515/06302
+Local 15/0630Z
+GMT
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+No
+
+6. SOURCE
+civilian
+
 7. LENGTH OF OBSERVATION
 not reported
+
+8. NUMBER OF OBJECTS
+multiple
+
+9. COURSE
+not reported
+
 10. BRIEF SUMMARY OF SIGHTING
-Flares observed in NNW from Alaska Native Service Station at various times from the 11th to 13th of March.
-12. CONCLUSIONS
-D Was Weather
-D Probably Balloon
-D Possibly Balloon
-D Probably Aircraft
-D Possibly Aircraft
-D Was Astronomical
-D Other:
-D Insufficient Data for Evaluation
-D Unknown
+Flares observed in NNW from Alaska Native Service Station at various times from the 11th to 14th of March.
+
 11. COMMENTS
 Report of Flares, not UFO.
 
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other: Flares
+Insufficient Data for Evaluation
+Unknown
+
+ATC FORM 329 (REV 26 SEP 52)
+
+
 - page 1 -
 
-The provided image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+COPY
 
 ALASKAN COMMAND
 JOINT COMMUNICATION CENTER
 INCOMING CLEAR MESSAGE
 
-OPERATIONAL IMMEDIATE 
-FROM: GONALESPFCH
-ACTION: GENCAL
-INFO: CG AAC; CG USARAL; CG AD KODIAK; CGCD 17
-DTG 1503392 
-March 1951
-Following received from CGAD Kodiak: "Heard by phone from Col Houston at Tatilek 0-3-31-:00 who reports sighting three bearing north northwest between 165636z and 1926352Z. Plane also sighted at C3C02 with ACS Anchorage, transmits 3385KC, 277KX, receives 258KC, 277KC, 3385KC. ACS Anchorage has also notified 5DA and 1CTH Rescue." 
+OPERATIONAL IMMEDIATE                                                3884
 
-LEGIN 3884 (DTG 151015Z)
+FROM: COMALSSEAFRON
+
+ACTION: CINCAL
+
+INFO: CG AAC: CG USARAL: CG AD KODIAK:    CCGD 17
+
+DTG                 15L9392                                March 1951
+
+Following received from CGAD Kodiak: "Reed by phone from
+Cpl Houghman ACS Marine Operator Anchorage, Alaska Native Service
+Station at Tatilek 6C-52 N 146-W, reports sighting flares bearing
+north northwest between 150630Z and 150645Z. Flares also sighted
+previous 3 nights at about same time. Tatilek has daily schedule
+at C30CZ with ACS Anchorage, transmits 3385KC, 277CKC, receives 298CKC,
+277-KC, 3385KC. ACS Anchorage has also notified CAA and 10th Rescue."
+
+MCIN 3884 (TOB 151C152)
+
 
 - page 2 -
 

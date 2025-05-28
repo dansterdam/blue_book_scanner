@@ -1,145 +1,53 @@
-The image contains a form that appears to be part of a Project Blue Book report. The form includes fields for "DATE - TIME GROUP", "LOCATION", "SOURCE", "NUMBER OF OBJECTS", "LENGTH OF OBSERVATION", "TYPE OF OBSERVATION", "COURSE", "PHOTOS", and "PHYSICAL EVIDENCE". 
+Here is the text from the document:
 
-The specific details are:
-1. DATE - TIME GROUP: 23 Aug 53 2400/00
-2. LOCATION: Port Moresby, New Guinea
-3. SOURCE: Civilian
-4. NUMBER OF OBJECTS: 1
-5. LENGTH OF OBSERVATION: 20 MINS
-6. TYPE OF OBSERVATION: Stationary
-7. COURSE: N/A
-8. PHOTOS: 
-9. PHYSICAL EVIDENCE: 23 Aug | Port Moresby
+1. DATE - TIME GROUP
+29 August 53 24/0800Z
 
-OCR Text Output:
-1. DATE - TIME GROUP 23 Aug 53 2400/00
-2. LOCATION Port Moresby, New Guinea  
-3. SOURCE Civilian
-4. NUMBER OF OBJECTS 1
-5. LENGTH OF OBSERVATION 20 MINS
-6. TYPE OF OBSERVATION Stationary
-7. COURSE N/A
+2. LOCATION
+Port Moresby, New Guinea
+
+3. SOURCE
+Civilian
+
+10. CONCLUSION
+UNCONF: Photos taken with a telescope lens by observer. Photos roughly taken against sun, early data lost. Photos at 1000-1, however show no signs of unusual activity.
+
+4. NUMBER OF OBJECTS
+One
+
+11. BRIEF SUMMARY AND ANALYSIS
+Source first observed a cloud within up to a high altitude. Possible sighting of vapor trails. A small bright object appeared in the cloud and was observed for 10-15 minutes. Object was clearly defined and was a trail.
+
+5. LENGTH OF OBSERVATION
+1hr Reported
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+--
+
 8. PHOTOS
-9. PHYSICAL EVIDENCE 23 Aug | Port Moresby
-10. CONCLUSION There are no known natural or man-made objects that could account for this observation. The only possible explanation would be some kind of unconventional aerial vehicle.
+Yes 126a
+
+9. PHYSICAL EVIDENCE
+o 23 Aug
+o No
+
+Port Moresby                                                 b-3
+
+FORM
+FTD SEP 63 0-329 (TDE)
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book.
-
-UNCLASSIFIED
-IR-270-53
-COPY
-DEPARTMENT OF CIVIL AVIATION
-Regional Director
-Department of Civil Aviation
-New Guinea District
-Port Moresby, New Guinea
-31st August, 1953
-
-Unidentified Aircraft Sighting
-12:00 hours 24 August, 1953
-
-This is to confirm a verbal statement made by the Superintendent of Air Navigation to you on 24 August, 1953.
-
-2. Mr. [REDACTED] reports as follows:
-On 24 August, 1953, around 12:00 hours, he noticed a cloud building up in the vicinity of the Marine Base Workshops, Port Moresby. This cloud rapidly grew much larger, as though a southerly direction from Port Moresby, at a very great height.
-
-3. Whilst this cloud, which grew in intensity for several minutes, was gradually diminishing in volume side as and assuming a much larger size, it appeared to take on the shape or possible form of some object, as it appeared slightly larger than the usual type of cloud formations. There was a very clearly defined vapour trail behind it until it finally disappeared with a rapid gain of altitude.
-
-4. I had my movie camera with me and photographed the whole thing on the telephone lines. In an endeavour to ascertain what the object might have been, it appeared to me to be some type of very high speed aircraft.
-
-As far as I know, Air Traffic Control knew of no aircraft movements in that area, and in any case, from the attitude of the object, it certainly could not have been a civil aircraft.
-
-Weather conditions at the time were cloudless*.
-
-*This concludes the text in the image. The filename indicates this is page 2 of the document.
-
-- page 2 -
-
-There is no photograph present in the image. The image appears to be a scanned document from Project Blue Book, an official U.S. Air Force investigation of unidentified flying objects.
-
-UNCLASSIFIED
-DEPARTMENT OF CIVIL AVIATION
-Regional Director
-Department of Civil Aviation
-New Guinea District
-Port Moresby, New Guinea
-31st August, 1953
-
-MEMORANDUM FOR:
-Regional Director
-Log No. 34-1 C.C.
-AIRCRAFT INCIDENT
-
-Unidentified Aircraft Sighting
-1200 HOURS, 24 AUGUST, 1953
-
-This is to confirm a verbal statement made by the Superintendent of Air Navigation to you on 24 August, 1953.
-
-2. Mr. reports as follows:
-
-"At 1200 hours on 25 August, 1953, a circular object was observed in the vicinity of the Marine Workshops, Port Moresby, when a cloud building up suddenly in roughly a south-westerly direction from Port Moresby, at a very great height.
-
-I watched this cloud, which grew in intensity for several minutes. Suddenly it opened, and in the centre I saw what appeared to be the shape or possible size of this object, as it appeared slightly larger than the cloud. But whatever it was, it soon disappeared in a very cloudy defined vapour trail behind it until it finally disappeared with a rapid gain of altitude."
-
-I had my movie camera with me and photographed the whole thing on the telescope lense. I am waiting the results of the photograph to ascertain what the object might have been. It appeared to me to be some type of aircraft, high powered and of unusual configuration.
-
-As far as I know, Air Traffic Control knew of no aircraft movements in that area, and in any case, from the extreme altitude of the object, it could not have been a civil aircraft.
-
-Weather conditions at the time were cloudless.
-
-To do not know of any operational performance implying this observation operating in this area at the time.
-
-COPY
 UNCLASSIFIED
 
-- page 3 -
+Air Attnche, Australia                IR-270-53                     2     2
 
-The image does not contain any photograph, only text from a document.
+COPY                                                                DSWG. 1302
 
-TO: AFOIN
-FROM: LT COL JOS. H. DUR DEFOR, USAF, INTELLIGENCE OFFICER
-RE: OBJECTS IN SKY NOTICED BY PILOT IN PORT MORESBY, NEW GUINEA
-
-OBJECT APPEARED ABOUT 12,000 FT ALTITUDE AND REPORTED AS ROUND IN SHAPE, BRIGHT WHITE IN COLOR, MOVING AT TREMENDOUS SPEED, LEAVING TRAIL OF VAPOR BEHIND IT. PILOT REPORTED OBJECTS DISAPPEARING INTO CLOUD COVER AND UNABLE TO DETERMINE EXACT SIZE OR CHARACTER.
-
-DOWNGRADED TO SECRET, REVIEW 30 JUN 2003.
-
-MOVIE CAMERA WITH TELEPHOTO LENS IN DEPUTY DIRECTOR RAAF INTELLIGENCE TO TAKE FIVE TERS-HERO EXPOSRUE FOR FIVE YEAR REIEW. 
-
-UNCLASSIFIED 753-1048
-
-- page 4 -
-
-There is no photograph present in this image. It appears to be a page from an old UFO report document from Project Blue Book.
-
-OCR Output:
-
-UNCLASSIFIED
-FLYGRPT
-New Guinea
-10 Sep 53
-GEORGE A. DRLICK, Lt Col, USAF
-The attached is a copy of a report made by the Department of Civil Aviation, New Guinea, to the RAAF concerning the sighting of an unidentified flying object over New Guinea.
-
-JOHN L. SULLIVAN
-Colonel, USAF
-Air Attache
-
-UNCLASSIFIED
-
-- page 5 -
-
-The image does not contain any photographs. It appears to be a typed document from the Department of Civil Aviation, discussing an "Unidentified Aircraft Sighting" that occurred on 23 August 1953 near Port Moresby, New Guinea.
-
-Transcription of the text in the document:
-
-UNCLASSIFIED
-
-IR-270-53 2 2
-
-COPY 
 DEPARTMENT OF CIVIL AVIATION
 
 Regional Director
@@ -150,117 +58,355 @@ Papua-New Guinea
 
 31st August, 1953
 
-MEMORANDUM FOR:
-Regional Director 
+MEMORANDUM:
+
+Regional Director
 Box 34, P.O.
 PORT MORESBY
 
 Unidentified Aircraft Sighting
-11:00 hours, 23 August, 1953
+1200 hours, 24 August, 1953
 
-This is to confirm a verbal statement made by the Superintendent of Air Navigation to you on 24 August, 1953.
+This is to confirm a verbal statement made by the Superintendent of Air
+Navigation to you on 24 August, 1953.
 
-2. Mr. [redacted] reports as follows:
+2.   Mr. [redacted] reports as follows:
 
-"At 1200 hours on Sunday, 23 August, 1953, I was in the vicinity of the Marine Base, Torokina, when my attention was attracted by a cloud formation which was forming in a Southerly-Southwesterly direction from Port Moresby. The cloud, as it grew larger, gave the appearance of some type of aircraft, and I watched it intently for several minutes, as it appeared to be stationary and difficult to identify very clearly. It could have been a normal type of cloud formation, but the peculiar manner in which it was forming, and the fact that it remained almost stationary, caused me to continue to watch it. I was unable to determine its exact nature, as it suddenly disappeared with a rapid gain of altitude."
+"At 1200 hours on Sunday, 24 August, 1953, I was in the vicinity of the Marine
+Base Workshops, Port Moresby, when I noticed a cloud building up as though
+being formed by vapour trails, in roughly a South-Westerly direction from Port
+Moresby, at a very great height.
 
-I had my movie camera with me and photographed the whole thing on the selephone, but am unable to ascertain what the object might have been. It appeared to me to be some type of very high speed aircraft or other type of object which moved at incredible speed.
+I watched this cloud, which grew in intensity for several minutes, when
+suddenly an object appeared from one side of it and climbed very fast in
+roughly a North-Westerly direction. I could give no accurate information
+as to the shape or possible size of this object, as it appeared slightly
+larger than a pin head, but whatever its was, it was a very clearly defined
+vapour trail behind it until it finally disappeared with a rapid gain of
+altitude.
 
-As far as I know, Air Traffic Control knew of no aircraft movements in that area, and in any case, from the extreme altitude of the object, it certainly could not have been a normal aircraft. Whether conditions at the time were "cloudy" I am not certain.
+I had my movie camera with me and photographed the whole thing on the tele-
+photo lens. I am waiting the result of the photograph in an endeavour to
+ascertain what the object might have been. It appeared to me to be some type
+of very high speed aircraft.
 
-To the best of my knowledge, there was no aircraft of the Australian services in that area at the time.
+As far as I know, Air Traffic Control knew of no aircraft movements in that
+area, and in any case, from the extreme altitude of the object, it certainly
+could not have been a civil aircraft.
 
-(Signed) J.S. ARTHUR
-REGIONAL DIRECTOR
+Weather conditions at the time were cloudless*.
+
+We do not know of any aircraft of the operational performance implied by this
+[illegible signature]
 
 COPY
 
+UNCLASSIFIED
+
+
+- page 2 -
+
+Here is the text from the document:
+
+UNCLASSIFIED
+
+Air Atache, Australia                TR-270-53                 2     2
+
+COPY                                                           DENG. 1392
+
+DEPARTMENT OF CIVIL AVIATION
+
+                                        Regional Director
+                                        Department of Civil Aviation
+                                        New Guinea District
+                                        Port Moresby
+                                        Papua-New Guinea
+
+                                        31st August, 1953
+
+MEMORANDUM FOR:
+Regional Director
+Box 34, P.O.
+PORT MORESBY
+
+                        Unidentified Aircraft Sighting
+                        1200 hours, 24 August, 1953
+
+This is to confirm a verbal statement made by the Superintendent of Air
+Navigation to you on 24 August, 1953.
+
+2.  Mr. [redacted] reports as follows:
+
+"At 1200 hours on Sunday, 23 August, 1953, I was in the vicinity of the Marine
+Base Workshops, Port Moresby, when I noticed a cloud building up as though
+being formed by vapour trails, in roughly a South-westerly direction from Port
+Moresby, at a very great height.
+
+I watched this cloud, which grew in intensity for several minutes, when
+suddenly an object appeared from one side of it and climbed very fast in
+roughly a North-westerly direction. I could give no accurate information
+as to the shape or possible size of this object, as it appeared slightly
+blurred than a pin head, but whatever it was, it was a very clearly defined
+vapour trail behind it until it finally disappeared with a rapid gain of
+altitude.
+
+I had my movie camera with me and photographed the whole thing on the tele-
+photo lens. I am waiting the result of the photograph in an endeavour to
+ascertain what the object might have been. It appeared to me to be some type
+of very high speed aircraft.
+
+As far as I know, Air Traffic Control knew of no aircraft movements in that
+area, and in any case, from the extreme altitude of the object, it certainly
+could not have been a civil aircraft.
+
+Weather conditions at the time were cloudless."
+
+3.  We do not know of any aircraft of the operational performance implied by this
+observation operating in this area at the time.
+
+[Signature partially obscured]
+Regional Director
+
+COPY
+
+UNCLASSIFIED
+
+
+- page 3 -
+
+Here is the text I can read from the document:
+
+NR 5171
+19 SEPT 52
+C-1 PRIORITY
+
+TO CGAF MATH DC FOR DELTA
+ATIC TRAF OHIO ATTN AFTRA -62
+COMDR 5TH AIR FORCE TOKYO
+COMDR FLT PEARL HARBOR
+CINOPAC FLT PEARL HARBOR
+
+23 AUG 52
+
+UNCLASSIFIED
+
+19 SEP 1953 13:00 35
+
+DOWNGRADED AT 3 YEAR INTERVALS
+DECLASSIFY DEC 31 16 YEARS
+
+PAGE TWO BUCK
+
+MOVIE CAMERA WITH TELEPHOTO LENS - DEPUTY DIRECTOR USAF INTELLIGENCE
+STATED ENCLOSED THAT IN EVERY OFFICER FILE FIVE ZERO ZERO PHOTO
+STUDY PRESS FOR EXCLUSIVE RIGHTS TO FILM BIG SIGNED
+
+UNCLASSIFIED
+T33-10484-
+
+Some text is obscured by black redaction marks, so I cannot read those portions. The document appears to be an unclassified military communication dated 19 September 1952, with references to Tokyo, Pearl Harbor, and a movie camera with telephoto lens.
+
+
+- page 4 -
+
+Australia
+IR-270-53
+UNCLASSIFIED
+
+New Guinea
+10 Sep 53
+
+Air Attaché, Australia
+G-6
+Dept of Civil Aviation
+
+George A. Uhrich, Lt Col, USAF
+
+The attached is a copy of a report made by the Dept of Civil Aviation, New Guinea District, Port Moresby, Papua, New Guinea, to the RAAF concerning the sighting of an unidentified flying object over New Guinea.
+
+JOHN L. SULLIVAN
+Colonel, USAF
+Air Attaché
+
+1
+a/3
+
+Chief, Air Technical Intelligence Center, ATTN: ATIAC-26, Wright-Patterson AFB, Ohio.
+
+UNCLASSIFIED
+
+
+- page 5 -
+
+UNCLASSIFIED
+
+Air Attaché, Australia                     IR-270-53                 2   2
+
+COPY                                                                 DSNO. 1392
+
+DEPARTMENT OF CIVIL AVIATION
+
+                                                    Regional Director
+                                                    Department of Civil Aviation
+                                                    New Guinea District
+                                                    Port Moresby
+                                                    Papua-New Guinea
+                                                    31st August, 1953
+
+MEMORANDUM FOR:
+Regional Director
+Box 34, P.O.
+PORT MORESBY
+
+                        Unidentified Aircraft Sighting
+                        1200 hours, 24 August, 1953
+
+This is to confirm a verbal statement made by the Superintendent of Air
+Navigation to you on 24 August, 1953.
+
+2.  Mr. [redacted] reports as follows:
+
+    "At 1200 hours on Sunday, 23 August, 1953, I was in the vicinity of the Marine
+    Base Workshops, Port Moresby, when I noticed a cloud building up as though
+    being formed by vapor trails, in roughly a South-Westerly direction from Port
+    Moresby, at a very great height.
+
+    I watched this cloud, which grew in intensity for several minutes, then
+    suddenly an object appeared from one side of it and climbed very fast in
+    roughly a North-Westerly direction. I could give no accurate information
+    as to the shape or possible size of this object, as it appeared slightly
+    larger than a pin head, but whatever it was, it was very clearly defined
+    vapor trail behind it until it finally disappeared with a rapid gain of
+    altitude.
+
+    I had my movie camera with me and photographed the whole thing on the tele-
+    photo lens. I am making the result of the photograph in an endeavour to
+    ascertain what the object might have been. It appeared to me to be some type
+    of very high speed aircraft.
+
+    As far as I know, Air Traffic Control knew of no aircraft movements in that
+    area, and in any case, from the extreme altitude of the object, it certainly
+    could not have been a civil aircraft.
+
+    Weather conditions at the time were cloudless."
+
+3.  We do not know of any aircraft of the operational performance implied by this
+    observation operating in this area at the time.
+
+    (signed) J.S. Arthur
+    REGIONAL DIRECTOR
+
+COPY
+
+
 - page 6 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document, specifically a "JOINT MESSAGEFORM" for an unidentified flying object (UFO) sighting.
-
-Here is the text contained in the document:
+JOINT MESSAGE FORM
 
 UNCLASSIFIED
 
-FROM: (Originator) SPACE ABOVE FOR COMMUNICATIONS CENTER ONLY
+FROM: [partially obscured]
+CODED ATIS
 
-TO: D/I HQ USAF WASH DC  
+TO: D/3 HQ USAF WASH DC
 
-INFO: APOLLO-11
+INFO:
 
-Request following transmitted As/wherever via cable: Reference Flyobjplt message 2/25 dated 8 Sep 53. Underscore negative sighting by Dr. Henry F. Oeters, contact report insufficient by his, concerted effort to obtain (1) all available scientific data a recovered object, (2) copy of Draper's file and detailed report. Reference replies to TRY-2809.
+FROM: APGC-ATZS                                   FOR: APGC-MAI
 
-ATTAC-1_________________Date_________
-ATTAC-2_________________Date_________
-ATTAC-3_________________Date_________
+Request following transmitted A/A Melbourne via cable. Reference Flyshrp message APO 3933 dated 8 May 53. Message reports sighting by Mr. Drury of New Guinea, Air Navigation Bureau and status telephoto moving pictures taken by him. Request effort to obtain (1) all available scientific data on maneuver of object, (2) copy of Drury's film and detailed report. Reference replies to TIG-3809.
+
+[Bottom of form shows various administrative sections with blank spaces]
 
 UNCLASSIFIED
 
-DDP 173 TSP-10765 1 OF 1 PAGES
-BARBARA P. HARRAHAN, LT, USAF
-ASSISTANT ADJUTANT, OPERATIONS
+[Bottom of page includes document tracking information and an official stamp]
+
+DD FORM 173
+1 OCT 54 REPLACES AGO FORM 173, 1 MAY 48 WHICH MAY BE USED.
+
 
 - page 7 -
 
-The image does not contain any photographs, only text. As an OCR system, I will produce the text found in the document:
-
 UNCLASSIFIED
+
 REQUEST FOR AIR TECHNICAL INTELLIGENCE INFORMATION
-THRU: ATTAS 
+
 THRU: ATTAS
-TO: ATTAS-3
-SUBJECT: (2555) Request for File and Scientific Data
+THRU: ATTAS
+TO: ATTIC3-4
+
+FROM: ATTAS-5
+
+DATE: 15 Sep 53
+
+SUBJECT: (Cont) Request for Film and Scientific Data
 
 1. PERTINENT BACKGROUND INFORMATION:
-Photograph (Flying Object Report) received from U.S. Air Attache, Melbourne, Australia. Reported sighting in vicinity of Port Moresby, New Guinea. Report states object was photographed.
+Photograph (Flying Object Report) received from U.S. Air Attaché, Melbourne, Australia, reporting a sighting of an unidentified aerial object in New Guinea. Report states object was photographed.
 
 2. SPECIFIC REQUEST:
 1. Gather all available scientific data on maneuvers of the object.
-2. Secure the file and a detailed report, if possible.
+2. Secure the film and a detailed report, if possible.
 
 3. REMARKS:
 
-ORIGINATED BY: G.S. Barr, Lt Col, USAF
-APPROVED: L.J. Tuckwiler, Lt Col, USAF
-APPROVED: Chief, ATTAS
-Date:
-Auth: ATIC POT 317 (19 Nov 51) (FORMERLY: MDT FORM 17)
+ORIGINATED BY:                APPROVED                 APPROVED:
+
+[Names and signatures are redacted]
+
+Chief, ATIAS                                           Chief, ATIA
+
+Date:                         Date:
+
+ATIC Form 317 (19 Nov 51)
+(Formerly WDTC Form 17)
 
 (If additional space is required, continue on reverse side.)
+
 UNCLASSIFIED
+
 
 - page 8 -
 
-There is no photograph present in this image. The image appears to be a scanned document from Project Blue Book, an air intelligence information report.
+Here is the OCR text from the document:
 
-Transcribing the text in the document:
+APPROVED 1 JUNE 1948
+
+Country: Bermuda
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    AIR INTELLIGENCE INFORMATION REPORT
+
+(Unclassified) VIEWING
+
+REPORT NO: IB-3-53
+AREA REPORTED ON: Bermuda 32 22 N - 64 14 W     FROM (Agency): Intelligence Officer, 534 SRS, Med. Wea.
+
+DATE OF REPORT: 27 August 1953                  DATE OF OCCURRENCE: 26 August 1953
+
+PREPARED BY (Orgn): Capt. J. de Toledo, Captain, Intel OFF                 EVALUATION: A-6
+
+REFERENCE (Cite source, file, original report, etc. if applicable): 1st Lt M. Norman R. Levine
+
+SUMMARY: (Describe summary of report. Give highlights in first and succeeding paragraphs. List indorsers at lower left. Begin last of report on AF Form 112a-Part II)
+
+At approximately 1330 hours, 26 August 1953, 1st Lt Norman R. Levine, 534 Strategic Air Command Weather Detachment, was driving on base in a southwesterly direction. Off to his right over the field at an altitude of about 5-10,000 feet he noted the sun reflecting from a silvery object, cylindrical in shape, approximately 150 inches in length. In shape, he observed it to be hovering. He could see the edge and part of the underside of it. As he continued to watch it (driving way slowly) it began to move in a lateral line, with changing angles to him. As it changed shape, he observed it to be somewhat wedge-shaped with a thin, almost transparent tail. It had no wing, tail, windows or visible means of propulsion. He kept it in view from (1) to five (5) seconds and it suddenly disappeared, not completely as an object, but curiously and entirely in a sort of "translucent" manner. He stopped his car and looked around but it had completely disappeared. The sky was clear with just a few (2) or (3) clouds in the vicinity. A light wind was blowing.
+
+Interviewed made immediately came to my office, and told me what had happened. Together we reviewed the circumstances of his sighting. To me it was a considered observation of my. Together we agreed the sky to no avail, it being about five (5) miles since his sighting. Cleared about premeditated opinions as to flying saucers he did not appear to be excited, although he failed their occurrence to do so if it actually happened as he described. All became of the nature and type of reports he would remain skeptical until he actually saw one himself. He thinks it might have been a balloon or something similar.
+
+Not a scientific sighting and not one to jump to conclusions Lieutenant Levine is a highly reliable, twenty-eight years of age, with the aid of glasses which were worn during the sighting. He is an excellent vision.
+
+However, it is my opinion that because of his quiet conclusion as to what he had seen and his general reaction to his sighting, in effect, he was so responsive check.
+
+There had been no weather balloons released within two (2) hours prior to the sighting, there were no reports from any airplanes within the vicinity, nor did the position in the tower nor anyone else on base report anything unusual.
+
+APPROVED:
+
+[Signatures of various officers]
 
 UNCLASSIFIED
-AIR INTELLIGENCE INFORMATION REPORT
-(Unclassified) JAG NO. 54-54
-COUNTRY: Papuauda
-SERIAL NO.: IR-32
-SUBJECT: Unidentified flying object
-AREA REPORTING ON: Port Moresby, New Guinea
-DATE OF REPORT: 27 August 1953
-PREPARED BY (AGENCY): Captain Ruppelt, USAF
-EVALUATION: 4-6
-SOURCE: 1st Lt. Norman B.Jenner
+DOWNGRADED AT 3 YEAR INTERVALS
+DECLASSIFIED AFTER 12 YEARS
 
-SUMMARY: (Narrative should be couched in summary paragraph. Last sentences all known to be true. Begin text of report on AF Form 112—Part II.)
-
-At approximately 1330 hours, 26 August 1953, 1st Lt Norman B. Jenner, 54th Fighter Bomber Squadron, was on a routine training flight over the area of Port Moresby, New Guinea, when he observed a bright, shiny, metallic-like object in the sky. The object appeared to be disc-shaped and was at an altitude of approximately 40,000 feet. Jenner immediately called the tower at Kila Airfield to confirm his sighting. The tower operator and other personnel also observed the object. The object was approximately 30 inches in diameter, disc-shaped, and was moving at an extremely high rate of speed. It appeared to pulsate or throb at intervals. Jenner watched the object for several minutes as it moved about the sky. At one point, the object stopped and hovered briefly, then accelerated and disappeared rapidly in a straight line. Jenner stated that the object gave off a bright metallic glow and moved in a manner unlike any known aircraft. There had been no other aircraft in the area at the time.
-
-Jenner is a very reliable observer and his sighting was confirmed by other personnel. It is the opinion of this Command that the object observed was an unidentified flying object. There is no other explanation that can be given for this sighting.
-
-There had been no other balloons or aircraft reported in the area within two (2) hours prior to the sighting. Nor did the object conform to the flight characteristics of any known aircraft.
-
-APPROVED: (Signature)
-MAJOR J. A. HYNEK, CAF
-SCIENTIFIC CONSULTANT USAF
-
-UNCLASSIFIED
 
 - page 9 -
 

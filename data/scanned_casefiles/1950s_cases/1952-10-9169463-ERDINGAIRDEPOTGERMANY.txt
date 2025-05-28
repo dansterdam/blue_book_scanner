@@ -1,144 +1,276 @@
-The image does not contain any photograph. It appears to be a Project 10073 record card from the Project Blue Book, which was a study of unidentified flying objects (UFOs) conducted by the United States Air Force.
-
-TEXT OUTPUT:
 PROJECT 10073 RECORD CARD
-1. DATE                    2. LOCATION  
-29 Oct 52                 ERDING AIR DEPOT, GERMANY 
-3. DATE-TIME GROUP          4. TYPE OF OBSERVATION
-2230/2650Z                 JCS Ground-Visual
-5. PHOTOS                  6. DURATION
-Yes                        20 Sec
-7. LENGTH OF OBSERVATION   8. NUMBER OF OBJECTS   9. COURSE
-20 Sec                     1                    SWW
+
+1. DATE
+29 Oct 52
+
+2. LOCATION
+ERDING AIR DEPOT, GERMANY
+
+3. DATE-TIME GROUP
+Local
+CM 29/0650 Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+Yes
+No
+
+6. SOURCE
+2 Airmen
+
+7. LENGTH OF OBSERVATION
+20 sec
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+MNW
+
 10. BRIEF SUMMARY OF SIGHTING
 Airmen sighted silver colored object which was moving away from observers at about 7000'. Object "glided" at a steady speed of about 400 MPH.
 
+11. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Other:
+Insufficient Data for Evaluation
+Unknown
+
+
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document, likely an incident report or investigation summary.
+NBR 6713
 
-NBR G713
-PRIORITY
-FIN 25 AUG 52, TO EDIG GER AIR.
-TO CGI USAF WASH DC: AMC WPAFB OHIO DIR OF INTELL
-ADC GO USAF WASH DC: AMC WPAFB OHIO DIR OF INTELL HQ USAF WASH . .
-CLA FTR AFG 51, SPRINGS COL COMDR APB
-FOR ATINGWIESHADEN GER: DIR OF INTELL HGS USAF
-OHIO
+C-1 PRIORITY CRYPTO PRECAUTION ALLIES
+
+FM. 85 ADV ERDING GER 30853 OZ
+
+TO CS USAF WASH DC AMC WPAFB OHIO DIR OF INTELL HQ USAF WASH DC
+
+ADC ENT AFB CLO SPRINGS COL COMD GEN ENT AFB
+
+CINCAFE WIESBADEN GER DIR OF INTEL HOS
+
+FOR ATIC AMC WPAFB OHIO
+
 CITE MOD 255A
 
-ATTN ATTTAA AFT ATIA^-2C
-FLY OBJECT IDENTIFIED OVER WESTERN SKY, ERDING
-AIR DEPOT GER, 22 OCT 52 AT APPROX 1850 HRS Z. OBJ VISIBLE FOR
-APPROX 2 MINUTES. APPEARED SILVER COLORED. CIRCULAR IN
-APPEARANCE. MOVING DIRECTLY AWAY FROM SOURCE AT TIME OF SIGHTING.
-SPEED ESTIMATED TO BE 450 - 500 KNOTS. OBJECT SIGHTED AT STEADY
-SPEED AT 20,000 FT ALT FOR APPROX 2 MINUTES. THEN SUDDENLY SPEED
-OF SIGHTING BORE INCREASED TO 20 DEGREES IN 10-12 SECONDS RELATIVE
-TO OBSERVER. WINDS AT 20,000 FT WERE 250 DEGREES AT 44 KNOTS TEMP
-WAS -57 DEGREES CENTIGRADE. NO CONTRAILS OBSERVED. .WINDS AT 12,000
-FT WERE 220 DEGREES 28 KNOTS. RELATIVE HUMIDITY 55 PERCEN'I` OVERCAST
-NO CLOUDS. VISIBILITY WAS UNLIMITED. NO KNOWN METEOROLOGICAL
-ACTIVITY AT TIME OF SIGHTING.NO AIR TRAP'FICKJN AREA AT TIME OF SIGHTING. VISUAL
-SIGHTING WAS HADE BY STAFF SGT. THIS SJTAAND WAS A SECOND CLASS WAX
-CORPS . BEST ON AP FORM 112.12 FOLDS.
+ATTN: ATAAA RPT ATIAA-2C
+
+FLY OB RPT UNIDENTIFIED OBJ SIGHTED IN WESTERN SKY. /ERDING-
+
+AIR DEP/ GER, 29 OCT 52 AT APPROX 0650 HRS Z. OBJ VISIBLE FOR
+
+APPROX 20 SECONDS. OBJ APPEARED TO BE SILVER COLORED. CIR IN
+
+APPEARANCE. WVG DIRECTLY AWAY FROM SOURCES AT TIME OF SIGHTING. OBJ
+
+ESTD AT 7000 FT HEIGHT. OBJ APPEARED TO GLIDE AT A STEADY SPEED
+
+HESTD AT 400 MPH IN A WEST NORTHWEST DIRECT DIRECTION. WEA CONDS AT TIME
+
+OF SIGHTING WERE AS FOLS: WINDS AT 5000 FT WRE 250 DEGREES
+
+AT 20 KNOTS TEMP PLUS 8 DEGREES CENTIGRADE RELATIVE HUMIDITY
+
+72 PERCENT. WINDS AT 10000 FT WERE 256 DEGREES AT 44 KNOTS TEMP
+
+MINUS 2 DEGREES CENTIGRADE RELATIVE HUMIDITY 67 PERCENT.
+
+WINDS AT 15000 FT WERE 240 DEGREES AT 57 KNOTS TEMP MINUS 9 DEGREES
+
+CENTIGRADE RELATIVE HUMIDITY 65 PERCENT. SURF CONDS WERE OVERCAST
+
+AT 1000 FT WITH 7 MILES VISIBILITY. NO KNOW MET OR CL ACTIVITY AT TIME
+
+OF SIGHTING. NO AIR TRAF IN AREA AT TIME OF SIGHTING. VIS
+
+SIGHTING WAS MADE BY STAFF SGT [REDACTED] COMPR SGT
+
+THIS STAAND AMN SECOND CLASS MAX [REDACTED]
+
+COMPL REPT ON AF FORM 112 FOLS.
+
+31/1545Z OCT
+
 
 - page 2 -
 
-The image does not contain a photograph. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the OCR text from the document:
+
+AF FORM 112-PART 1     (CLASSIFICATION)
+                        UNCLASSIFIED
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-The text in the document is as follows:
+COUNTRY:   GERMANY        38-22
 
-SUBJECT: UNIDENTIFIED AERIAL OBJECTS SIGHTED NEAR ERDING AIR DEPOT, GERMANY
-DATE OF INCIDENT: 29 OCTOBER 1952
-PLACE: ERDING AIR DEPOT, NEAR MUNICH, GERMANY
-PREPARED BY: F. RINDGE, CAPTAIN, USAF
-SUMMARY: MCD 5224, dated 30 October 1952.
+AREA REPORTED ON:         FROM: (location)
+           ERDING, GERMANY                 85TH AIR DEPOT WG, APO 207, US AIR FORCE
 
-The following information pertains to the sighting of an unidentified flying object in the vicinity of the Erding Air Depot, Germany, on 29 October 1952.
+DATE OF REPORT            DATE OF INFORMATION
+           31 OCTOBER 1952                 29 OCTOBER 1952
 
-At approximately 0750 hours local time (Central European) on Wednesday, 29 October 1952, a soldier on guard duty at the operations building, Erding Air Depot, observed an unidentified flying object in the sky to the southwest of the depot. It was first sighted approaching from a distance and then passed overhead, continuing in a northeasterly direction.
+PREPARED BY (Officer)     EVALUATION
+           CHARLES S. FELLINGER, CAPTAIN, USAF     B-6
 
-The object appeared to be circular in shape, metallic in color, and was estimated to be approximately 30 to 40 feet in diameter. It was silently traveling at a speed estimated to be between 400 and 500 miles per hour at an altitude estimated to be between 6,000 and 7,500 feet.
+REFERENCES: Central Registry dated 30 OCTOBER 1952
 
-The object was observed for a period of approximately 30 seconds. During the time it was under observation, no sound or exhaust was detected, and there was no evidence of any trail or vapor stream.
+SUMMARY:
 
-A check by the Operations Officer on duty at the radar site at the time of observation met with negative results.
+1. The following information pertaining to the sighting of an unidentified flying
+object near Erding Air Depot, Erding (48.18N/11.56E) is a follow up report
+Restricted TG MOD 255 this station, dated 30 October 1952. Information is based on
+visual observations of S/Sgt _______ Headquarters Squadron Section, 85th Air Base Group, Depot, Erding Air
+Depot, Germany.
 
-Weather conditions at the time of sighting were as follows: Winds at 5,000 feet - 260 degrees at 25 knots; temperature - plus 5 degrees Celsius; visibility - 10 miles.
+a. At approximately 0750 hours local time (Central European) on Wednesday 29
+October 1952, S/Sgt _______ and A/2c _______ were walking to their place of work at
+wing headquarters building. They were walking from building 121 toward the bowling
+alley which is in a westerly direction (see footnote #3). This specific area is
+located on a hill with no trees or buildings obstructing view of observers.
 
-Statements:
-1. Weather station - 3/8 to 1/4 sky cover - no precipitation.
-2. Operations building - 3/8 to 1/4 sky cover - no precipitation.
+b. Upon looking into the sky/Sgt _______ sighted an unidentifiable object in
+the western sky and immediately pointed it out to A/2c _______ . This object appeared to
+be silver in color, circular in shape, and traveling away from observers in a gliding
+fashion at a speed estimated to be 200 MPH. SOURCES state the height of the object
+at approximately 7,000 feet. Object was in view for approximately twenty (20) to
+thirty (30) seconds.
+
+c. SOURCES stated that at no time did they hear any sound or observe any train or
+exhaust connected with object.
+
+d. A check by this office with the Operations Officer on duty at the Radar Site
+at time of observation met with a negative result.
+
+e. No air traffic was in the general area at the time of sighting according to
+Flight Service Records.
+
+f. Weather conditions at time of sighting were as follows: Winds at 5,000 feet
+were 260 degrees at twenty (20) knots with temperature at plus eight (8) degrees centigrade, relative humidity 250 degrees at forty-four (44) knots with temperature minus two (2) degrees centigrade, relative humidity 67%; winds at 15,000 feet were 210 degrees at fifteen (15) knots with temperature nine (9) degrees centigrade, relative humidity 35%. Overcast at 10,000 feet with
+visibility of seven (7) miles. According to the Weather Office this station, observing conditions were good.
+
+3 - Incl
+1. Statement 1 Sketch - S/Sgt ______
+2. Statement 1 Sketch - A/2c ______
+3. Sketch of area when sighting occurred.
+
+DOWNGRADED AT 3 YEAR INTERVAL
+DECLASSIFIED BY AFMPC 12 YEAR
+DOD DIR 5200.10
+
+[Distribution list and other administrative markings at bottom of page]
+
+UNCLASSIFIED
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
-
+AF FORM 112--PART II
 AIR INTELLIGENCE INFORMATION REPORT
-95th Air Depot Wing, APO 207, USA 38-22 PAGE 2 OF 2
-No known meteorological condition or other celestial activity was present at the time of sighting.
-Attached as Inclosures /1 and /2 are statements of persons observing this object. The observers were officers stationed with this unit and the information given in their statements is substantially the same.
-1. This office has been notified of several unverified reports of similar sightings.
-2. A/2C on duty with the Wing Intelligence Section at this station and in accordance with instructions received in such cases he has been unable to take any substantial action.
-3. 2/Lt on duty with the Controller Section at this station and in the opinion of this office is a person who can be relied upon to make an accurate statement.
+
+FROM: 85th Air Depot Wing, APO 207, USAF        REPORT NO. 38-52        PAGE 2 OF 2
+
+a. No known meteorological condition or other celestial activity was present at time of sighting.
+
+b. Attached as Inclosures #1 and #2 are statements of persons observing this object. With attached statements, no wave of objects was observed. Statements and sketches were made separately and without corroboration with each other. Inclosure #3 is a sketch of area in which sighting of object occurred.
+
+1. This office has received no other reports of similar sightings.
+
+2. A/2C [redacted] is on duty with the Wing Intelligence Section at this station and in the opinion of this office is a person who can be relied upon to make an accurate statement.
+
+3. 3/Sgt [redacted] is on duty with the Comptroller Section at this station and in the opinion of this office is a person who can be relied upon to make an accurate statement.
+
+[Signed]
+CHARLES S. MILLICAN
+Captain, USAF
+Wing Intelligence Officer
+
+[Note at bottom of document about unauthorized disclosure of document being prohibited by law]
+
 
 - page 4 -
 
-The image does not contain a photograph. It appears to be a typed document, likely a report or document from Project Blue Book, describing a UFO sighting that occurred on October 29, 1952 in Erding, Germany.
+Erding, Germany
+29 October 1952
 
 STATEMENT
 
-At approximately 0750 hours on the morning of October 29, 1952, a white disc-like object was observed descending behind the Erding Bowling Alley accompanied by a distinct whistling sound. The object appeared to hover approximately 15 feet above the ground for about 30 seconds, then ascend rapidly in a vertical direction. While pointing at the object, it disappeared from sight. At first glance the object appeared to be circular or disc-shaped, and was observed by two witnesses at the scene.
-The object was in sight approximately 20 seconds until it disappeared from our immediate view. Behind the bowling alley and through several buildings the object became visible again for about 20 seconds. To the horizon, no sound was heard at any time from the object. The object then disappeared, giving no indication as to where it went or how it left.
-The object seemed to slide or glide smoothly through the air at constant speed or velocity. It could not be observed on the object and it seemed to be formed in a mass or solid form. I could not discern the exact details of the object, but it appeared to disappear against the background of the sky.
+At approximately 0750 hours on the morning of October 29, at which time I was leaving building A121 walking due west toward the Erding Bowling Alley accompanied by A/2C flying object in sighted was approximately 20 an unidentified flying object in the sky. Immediately I asked airman Handy "what is that in the sky", while pointing at the object at the same time. At the first glance it definitely was not a conventional plane, but then admitted it definitely was not a conventional aircraft, after taking a more serious look.
+
+This object was in sight approximately 20 seconds until it disappeared from our immediate view, behind the bowling alley. It seemed to be traveling at a speed estimated at approximately 400 MPH, heading West North West on a level course, and estimated at approximately 25 degrees from the horizon. No sound was heard at any time. It was a partially cloudy morning with good visibility beneath the cloud formation there could be seen a sighted.
+
+The object seemed to slide or glide smoothly through the air at constant speed. I could not distinguish any wings or tail on the object and it seemed to be round in shape. I could not distinguish any definite color as the object was silhouetted against the cloud background.
+
+INCL: F1
+
+8/3ct
+
 
 - page 5 -
 
-The image appears to be a photograph of a bowling alley named "ERDINGMG ALLEY". The photograph shows the exterior of the building, including a sign displaying the name of the alley. The image is in black and white.
+Text found in the image:
 
-Text from the document:
+5/Sept
 
-ERDING BOWLING ALLEY
-ERNI R HQ
-SUPPLEMENT NO. 8 TO PROJECT 10073 RECORD
-9 OCTOBER 1952
+FAD BOWLING ALLEY
+
+BLDG #111
+
 
 - page 6 -
 
-The image does not contain a photograph. It appears to be a scanned page from a Project Blue Book UFO report.
-
-ERDING, GERMANY
-29 OCTOBER 1952
+Erding, Germany
+29 October 1952
 
 STATEMENT
 
-At approximately 0730 hours on the 29th of October, while walking west toward the Erding Bowling Alley, accompanied by 3 3/4 officers, I sighted an object in the sky. The attention was called to this object by 2 USAF pilots who were parking their cars. The object was round and appeared to be silver in color. It was hovering and moved in any direction at a very fast pace and said "It isn't any conventional type aircraft".
+At approximately 0750 hours on the 29th of October, while walking West toward the Erding Bowling Alley accompanied by S/Sgt I sighted what appeared to be an unidentified flying object in the sky. My attention was called to this object by S/Sgt asking "what is that in the sky?" I replied "it looks like a plane". Then I changed my mind and a further glance and said "it isn't any conventional type aircraft".
 
-This object was in sight for approximately 20 to 30 seconds and then disappeared from our view behind the bowling alley. The speed of the object was so fast that it seemed to disappear in a matter of seconds. It passed from a northwesterly course and maintained a level altitude. It appeared to be about the size of a small automobile. It seemed to
-glide through the air at a constant speed. I could not distinguish any wings or propellers. It appeared to have a silvery color.
+This object was in sight for approximately 20 to 30 seconds and then disappeared from our view behind the bowling alley. Its speed exceeded that of a conventional type aircraft. It was flying on a high North West course and maintained a level altitude. It appeared to be at approximately 25 degrees from the horizon. It seemed to glide through the air at a constant speed. I could not distinguish any wings or propellers. It appeared round in shape. It seemed to have a silvery color.
 
 At no time during the sighting was any sound heard.
 
-ENCL #2
+INCL: #2
+
 
 - page 7 -
 
-The image does not contain a photograph, but rather a diagram or sketch depicting some kind of facility or structure. The diagram shows a building or structure labeled "Erding Air Depot Germany" with various annotated features such as "Spring" and "Bowling Alley". The overall image appears to be a technical document or report related to this facility.
+Text found in the image:
 
-ERDING AIR DEPOT GERMANY
-FORM CA 1 CASE FILE
-NUMBER 9 169 463
+ERDING
+BOWLING ALLEY
+Bldg 14
+
+The image appears to be a schematic or diagram showing the location of a bowling alley in Erding, with a building labeled "Bldg 14" and some geometric shapes representing buildings or structures.
+
 
 - page 8 -
 
-The image appears to be a sketch or diagram of an area in which a sighting occurred, as indicated by the text "SKETCH OF AREA IN WHICH SIGHTING OCCURRED". The diagram shows various features like a "BOWLING ALLEY" and an "ENTRANCE ESE - SOUTH KEY", as well as some markings and measurements. There is no photographic image present in this document.
+Text found in the image:
 
-SKETCH OF AREA IN WHICH SIGHTING OCCURRED
-BOWLING ALLEY
-ENTRANCE ESE - SOUTH KEY
+SKETCH OF AREA
+IN WHICH SIGHTING OCCURRED
+
+BOWLING ALLEYS
+
+Some text appears to be reversed or partially illegible, such as the text near the bottom of the image.
+
+The image appears to be a hand-drawn sketch or map of an area, with various labeled sections and geometric shapes representing buildings or landmarks.
+
 
 - page 9 -
 

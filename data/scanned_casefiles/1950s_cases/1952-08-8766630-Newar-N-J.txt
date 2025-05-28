@@ -1,161 +1,250 @@
-The image provided does not contain any photographs. It appears to be a Project Blue Book record card with various fields filled out, including the date, location, type of observation, details of the observation, and other comments.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 17 Aug 52
-2. LOCATION: Newark, N.J.
-3. DATE-TIME GROUP: 2200
-4. TYPE OF OBSERVATION: Ground-Radar
-5. DURATION: 5 mins
-6. COURSE: 1
-7. CONCLUSIONS: 1. Positively Identified, Probably Bird. 2. Data Insufficient for Positive Identification.
-8. BRIEF SUMMARY OF SIGHTING: Dirigible.
+
+1. DATE
+17 Aug 52
+
+2. LOCATION
+Newark, N.J.
+
+3. DATE-TIME GROUP
+Local - 1500
+
+4. TYPE OF OBSERVATION
+□ Ground-Visual   □ Ground-Radar
+□ Air-Visual      □ Air-Intercept Radar
+
+5. SOURCE
+Astronomy
+
+6. NUMBER OF OBJECTS
+1
+
+7. LENGTH OF OBSERVATION
+F Yes
+□ No
+
+8. COURSE
+3
+
+9. PHOTOS
+□ Yes
+□ No
+
+10. BRIEF SUMMARY OF SIGHTING
+Brilliant silver color. Dirigible.
+
+11. COMMENTS
+Looked like silver.
+Was seen from local balloon
+well case from Mitchell AFB, N.Y.
+
+12. CONCLUSIONS
+□ Was Ballon
+□ Probably Balloon
+□ Possibly Balloon
+
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. It appears to be a page from a Project Blue Book report, containing text describing an unidentified aerial phenomenon.
+Here is the text from the document:
 
 ACTION
-20 AUG 52 09 36
-PRIORITY
-INFO REPT
-TRID' C
-COFY-
-TO: MILITARY ATTACHE 17LIASHINGT011',
-"I:FPORT ILJCIT TO DIRECTOR GF INTELLIGENCE, DAF WASHINGTON, D.C.
-JET)PY LWA- AAF CHO.
-JELE'EY CO INFT AD COLORADO SPZINGS COLO
-(DELETED) AIR TECH INTEL GEN ATTE ATLART-66
-RI-1--1--p-p UNCLASSIFIED SIGNTING O IA:,H 'VL.ITTNE CLT. AT IS 19S3 GM AT 17
-SHAPE SIMILAR TO THAT OF BRILLIANT SILVER
-DIRIGIBLE SHAPED CHA PROCEEDING SOUTH AT HIGH SPEED AT
-APPROXIMATELY 20,000 FT ALTITUDE PR NO SOUND CHA
-DEDUCED INTO CHA SPEED OR ALTITUDE. PR I/D CONTACT EXD IN
-FLIGHT PR AF FOn. 114 FOLLOWS PER END
 
-13 /1.3J2 AUG JITTER
+20 Aug 52 09 36
+
+CITE
+
+IPRS 129
+
+DR JERRY JOINT OPENEES
+DR JERRY 741
+
+R 194147Z
+
+FM CG NEWARK TRANSCRIBED NEWARK NJ
+
+TO JERRY DIR OF INTEL HQ USAF WASHINGTON D C
+
+JEMPY/UBI- PAT AFB OHIO
+JEMPY CC ENT ANT COLORADO SPRINGS COLO
+
+AIR TECH INTGL GEN ATTN ATIAC-SS
+
+SITI-C-14-PD PLYMOUTH SIGHTING BY [REDACTED] AT 15 HRS CHA 17
+
+AUG 1952 CHA FROM NEWARK NJ GOLF COURSE OF BRILLIANT SILVER OBJECT
+
+DIRIGIBLE SHAPED CHA PROCEEDING SOUTH AT NIGHT SPEED AT
+
+APPROXIMATELY 2000 FT ALTITUDE PD NO SOUND CHA NO VAPOR TRAIL PD NO
+
+DEFINITE INFO ON SIZE CHA SPEED OR ALTITUDE PD OBSERVED IS LOCAL
+
+ATTORNEY PD AT FORM 112 FOLLOWS PW/END
+
+149141 Z AUG JEMPY
+
 
 - page 2 -
 
-The image does not contain any photographs, only a Project Blue Book worksheet with text entries. I will now proceed to extract and output all the text found in the document:
+Here is the text from the document:
 
 PROJECT 10073 WORKSHEET
 I. GENERAL
-1. DATE: 19 AUG 52 
-2. LOCATION: Dinnepark, N.J.
-4. WAS OBJECT OBSERVED FROM THE GROUND? 
-[X] Yes
-[   ] Binocular 
-[   ] Telescope  
-[   ] 16mm Movie
-[   ] TV 23-10-13-1
-5. WAS OBJECT OBSERVED BY GROUND RADAR?
-[X] Yes
-[   ] Ry One Set
-[   ] By Two Sets
-[   ] By Three Sets
-6. WAS OBJECT OBSERVED FROM THE AIR?
-[   ] Yes
-[   ] A/C Observed Object
-[   ] Interception Attempted
-[   ] No Intercept Attempted
-7. WAS AIRCRAFT SCRAMBLED TO INTERCEPT? 
-[   ] Yes
-[   ] Visual Contact Made
-[   ] A/C Contact Made
-[   ] No Contact Made
-8. DID OBJECT CHANGE DIRECTION AT ANY TIME? 
-[X] Yes
-9. IF OBJECT WAS A "FLIGHT", WAS IT: 
-[   ] Erratic
-[   ] Steady
-[   ] 1-15 Seconds
-[   ] 1-5 Minutes
-[   ] Over 30 Minutes
+
+1. DATE: 17 Dec. '52
+2. LOCATION: Newark, N.J.
+3. TIME: Locals: 1500
+           Zulu: 2120
+
+4. WAS OBJECT OBSERVED FROM THE GROUND?
+   [Yes]
+   [Naked Eye]
+
+5. WAS OBJECT OBSERVED BY GROUND RADAR? [No]
+
+6. WAS OBJECT OBSERVED FROM THE AIR? [No]
+   A/C Observed Object
+   [No Intercept Attempted]
+
+7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT? [No]
+
+8. DID OBJECT CHANGE DIRECTION AT ANY TIME? [No]
+
+9. IF OBJECT WAS A "LIGHT", WAS IT: [Not filled]
+
+10. LENGTH OF TIME IN SIGHT: Over 10 Minutes
+
 11. REPORTING AGENCY (Unit Number and Mailing Address):
-C. G. Newark, TERN AIR OPS (TRMA), Newark, N.J.
+    C & Newark TERM COND'D, Newark, N.J.
+
 II. ASTRONOMICAL DATA
-12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED? N/S
-13. DID OBJECT APPEAR TO ARCH DOWNWARD? [   ] Yes
-14. DID OBJECT HAVE A TAIL? [   ] Yes
-15. DID OBJECT APPEAR TO DISINTEGRATE? [   ] Yes
-16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET:
-[   ] Night
-[   ] Day
-[   ] Sunrise
-[   ] Sunset
-III. AIRCRAFT DATA 
-17. WERE AIRCRAFT NOTED IN AREA? [X] Yes
-18. WAS ANY SOUND HEARD? [X] Yes
-19. WERE THERE ANY OF HIGH PERFORMCE CHARACTERISTICS NOTED? [X] Yes
+
+12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED? N/A
+
+13-16. [Various astronomical observation fields left blank]
+
+16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET: [Day checked]
+
+III. AIRCRAFT DATA
+
+17. WERE AIRCRAFT NOTED IN AREA? [No]
+
+18-20. [Various aircraft-related fields left blank]
+
+ATIC Test Form 334 (13 Aug 52)
+
 
 - page 3 -
 
-The image does not contain a photograph. It appears to be a page from an old Project Blue Book report that contains a form related to balloon data.
-
 IV. BALLOON DATA
-21. WHERE BALLOONS RELEASED IN AREA? 
-22. TIME SINCE SCHEDULED BALLOON RELEASE:
+
+21. WERE BALLOONS RELEASED IN AREA? [Yes/No box checked: Yes]
+
+22. TIME SINCE SCHEDULED BALLOON RELEASE: 11/105 Minutes
+
 23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+[A table with columns for Location, Type, Launching Agency, Lighted?, Describe Lighting - mostly blank]
+(attach overlay)
 
 V. EVALUATION
+
 21. EVALUATION OF SOURCE:
+[Checkboxes for: Excellent, Good, Fair, Poor, Unreliable, Extremely Doubtful, Hoax - none checked]
+
 22. DETAILS OF REPORT:
+[Checkboxes for: Good, Fair, Poor, Insufficient to Evaluate - "Insufficient to Evaluate" is checked]
+
 23. FINAL EVALUATION:
+[Multiple checkboxes for various categories]
+[Checked: "Insufficient Data For Evaluation"]
 
-The text in the document is as follows:
+24. COMMENTS:
+[Blank section]
 
-IV. BALLOON DATA
-21. WHERE BALLOONS RELEASED IN AREA? 
-22. TIME SINCE SCHEDULED BALLOON RELEASE: 22 .5 Minutes
-23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+ATIC Test Form 534 (13 Aug 52)
 
-V. EVALUATION
-21. EVALUATION OF SOURCE: 
-22. DETAILS OF REPORT:
-23. FINAL EVALUATION:
 
 - page 4 -
 
-The image does not contain any photograph. It appears to be a table or form of some kind, likely from a Project Blue Book UFO report document.
-
-PROJECT 10073 WEATHER DATA
+PROJECT 10073 WEATHER DATA SH
 
 1. DATE OF OBSERVATION
-
 2. TIME OF OBSERVATION
+3. STATION OBSERVING
 
-3. STATION OF OBSERVING
+4. WINDS ALOFT:
+   ALTITUDE       VELOCITY       DIRECTION
+   (feet)         (knots)        (degrees)
 
-4. OBSERVATIONS OF:
+   0
+   1,000
+   2,000
+   3,000
+   4,000
+   5,000
+   6,000
+   7,000
+   8,000
+   9,000
+   10,000
+   12,000
+   14,000
+   16,000
+   18,000
+   20,000
 
-WINDS ALOFT:
-ALTITUDE (FEET)	VELOCITY (KNOTS)	DIRECTION (DEGREES)
-0	-		- 
-1,000	-		-
-2,000	-		-
-3,000	-		-
-4,000	-		-
-5,000	-		-
-6,000	-		-
-7,000	-		-
-8,000	-		-
-9,000	-		-
-10,000	-		-
-12,000	-		-
-14,000	-		-
-16,000	-		-
-18,000	-		-
-20,000	-		-
+   ALTITUDE       VELOCITY       DIRECTION
+   (feet)         (knots)        (degrees)
 
-5. WAS AN INVERSION LAYER NOTED? (If yes, at what altitude?)
+   25,000
+   30,000
+   35,000
+   40,000
+   45,000
+   50,000
+   55,000
+   60,000
+   65,000
+   70,000
+   75,000
+   80,000
+   85,000
+   90,000
+   95,000
+   100,000
 
-6. WERE ANY THUNDERSTORMS NOTED IN AREA? (If yes, at what quadrant?)
+5. WAS AN INVERSION LAYER NOTED? □ Yes □ No
+   (If yes, at what altitude?)
 
-7. CLOUD COVER: ______ tenths at _____ feet, ______ tenths at _____ feet, ______ tenths at _____ feet.
+6. WERE ANY THUNDERSTORMS NOTED IN AREA? □ Yes □ No
+   (If yes, at what quadrant?)
+
+7. CLOUD COVER:
+   tenths at _____ feet.
+   tenths at _____ feet.
+   tenths at _____ feet.
 
 8. VISIBILITY WAS _____ MILES.
 
 9. COMMENTS:
+
+ATIC Test. Form 353 (13 Aug 52)
+
 
 - page 5 -
 

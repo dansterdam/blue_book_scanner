@@ -1,30 +1,59 @@
-The image does not contain any photographs, only text. I will proceed to act as an OCR system and produce the text found in the document.
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
-7 Feb 51
+18 Feb 51
+
 2. LOCATION
-Holloman AFB, N. Mex.
+Holloman AFB, N. Mex
+
 3. DATE-TIME GROUP
-0645 18/2/207
+Local 18/1210Z
+GMT
+
 4. TYPE OF OBSERVATION
-D Ground-Visual
-5. SOURCE
-MP Officer and airman
-6. NUMBER OF OBJECTS 
-1
+Ground-Visual ☒ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+HF Officer and airmen
+
 7. LENGTH OF OBSERVATION
-Approx 3 min
-8. COURSE
-Config visible shape then conical. Speed hovered. Size coffee cup at arm's length. Maneuvers - climbed, Case not on file. Object was viewed continually during trip from Holloman AFB to Oscura Mts location. It was horizon at first, then ascended to about 45 deg. Disappeared as it got lighter.
+1 hr 44 min
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+Maneuvers
+
 10. BRIEF SUMMARY OF SIGHTING
+Color white and orange. Shape was round then conical. Speed hovered. Size coffee cup at arm's length. Maneuvers- climbed. Case not on file. Object was viewed continually during trip from Holloman AFB to Oscura N. Mexico. It was horizon at first but ascended to about 45 deg. Disappeared as it got lighter.
+
 11. COMMENTS
 Definitely was star or planet.
+
 12. CONCLUSIONS
-E Was Balloon
-B Probably Balloon 
-D Was probably astronomical/satellite/planet
-D Was astronomical/satellite/plant
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical Star/Planet
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+(In case in file)
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 

@@ -1,47 +1,108 @@
-The image does not contain any photographs, only text. As an OCR system, I will produce the text found in the document:
+PROJECT 10073 RECORD CARD
 
-PROJECT BLUE BOOK RECORD CARD
-DATE:    29 Sep 52
-LOCATION:    HEARNE, TEX
-TYPE OF OBSERVATION:    Celestial type object reported to Bryan AFB by phone. Report was garbled by poor connection, follow-up not possible because of lack of information. 
-DURATION: 20-30 SEC
-NO. OF OBJECTS:    1
-WEATHER CONDITIONS:    7 Civilians
-CONCLUSIONS:    XXX - PROBABLY HAZE
+DATE
+25 Sep 52
+
+LOCATION
+HEARN, TEX
+
+CONCLUSIONS
+1. Probably Balloon
+2. Probably Meteor
+3. Possibly other
+
+TYPE OF OBSERVATION
+XXX, visual
+
+DATE-TIME GROUP
+29/2107 EST
+30/0107 Z
+
+AIR VIGIL
+XXX
+
+NUMBER OF OBJECTS
+7 Civilians
+
+LENGTH OF OBSERVATION
+20-30 Sec
+
+BRIEF SUMMARY:
+
+Celestial type object reported to Bryan AFS by phone. Report was parsed by poor connection, follow-up not possible because of lack of information.
+
 
 - page 1 -
 
-There is no photograph present in this image. This appears to be a page from an old Project Blue Book document, specifically an Air Intelligence Information Report dated September 27, 1952. The text of the report is as follows:
+Here is the text from the document:
 
-UNITED STATES OF AMERICA
+AF FORM 112-PART 1
+APPROVED 1 JUNE 1948
+
+COUNTRY
+United States of America
+
+REPORT NO.
+
 AIR INTELLIGENCE INFORMATION REPORT
-FEATURE: 
-PLACE: Hearne, Texas
-DATE: 27 September 1952
-TIME: 2107 hours
-COUNTRY: United States
-REPORT NO.: 
-EVALUATOR: Intelligence Officer
-SUMMARY: On 29 September 1952 information was received concerning a "flying saucer" sighting reported to the Bryan Air Force Base Control Tower by a Dr. ... and others. The informant, who is reportedly a member of a party of seven, allegedly had seen an object flying over Hearne, Texas, at 2107 hours. Few definite facts were given, and the phone connection was poor, causing the report to be rather sketchy. The accuracy of the information and reliability of the observers cannot be determined.
-(Signed)
-RICHARD H. TOWN
-2d Lt., USAF
+
+LOCATION
+Hearne, Texas
+
+DATED
+30 September 1952
+
+PLACE ORIGINATED
+Intelligence Office, Bryan AFB, Texas
+
+DATE OF INFORMATION
+29 September 1952
+
+EVALUATION
+P-6
+
+SOURCES
+2/26 Richard L. Yanst, Intelligence Officer
+AIR 200-5, 29 Apr 52
+
+SUMMARY: (Enter main points of report. Use continuation sheet if necessary)
+
+At 2140 hours on 29 September 1952 information concerning a "flying saucer" was phoned in to the Bryan Air Force Base Control Tower by a Dr. [redacted] and [redacted], supposedly members of a party of seven who allegedly had seen an object flying over Hearne, Texas, at 2107 hours. Few definite facts were given, and the phone connection was poor, causing the report to be rather garbled.
+
+The accuracy of the information and reliability of the observers cannot be established.
+
+[Signed]
+RICHARD L. YANST
+2d Lt, USAF
 Intelligence Officer
+
 
 - page 2 -
 
-Unfortunately, there does not appear to be any photograph present in the provided image. The image shows an Air Intelligence Information Report from the United States Air Force, which contains only text and no visual elements.
-
-Performing OCR (Optical Character Recognition) on the text in the document:
-
+AF FORM 112-PART II
 AIR INTELLIGENCE INFORMATION REPORT
-IR-71-52 (ATIC) PAGE 2 OF 2 PAGES
-A/2C Joseph A. Kupeck, AF 17232299, Control Tower Operator, received the following information by telephone in the Ryan Air Force Base Control Tower at 2300 hours on 29 September 1952.
-Persons giving the information stated that they observed and Dr. called in to the Control Tower and said they observed one large flying saucer over Hearne, Texas, at 2107 hours, 29 September 1952. The object made a large semi-circular sweep from south to north and made its exit to the southwest at a terrific rate of speed. The object was described as orange-yellow and black in color. Several of the men in the alleged crew of seve stated the celestial appearances as being in sight on many occasions. All men in the specially visible; the saucer had no wings. Altitude was estimated around 20,000 feet.
-Upon analyzing it was determined that neither Mr. lived in the surrounding directory of Hearne, Texas, or of Bryan, Texas, or anywhere in the neighboring areas; therefore, further questioning was not possible. The credibility of the observers can not be established.
-ROSS I. WEATHERFORD, JR.
+
+FROM: Intelligence Office
+Bryan AFB, Texas
+
+REPORT NO.
+IR-74-52 (ATRC)
+
+PAGE 2 OF 2
+
+A/3C Joseph J. Krupka, AF 17312199, Central Tower Operator, received the following information by telephone in the Bryan Air Force Base Control Tower at 2140 hours on 29 September 1952.
+
+"Persons giving the name of [redacted] and Dr. [redacted] called in to the Control Tower and said they observed one large flying saucer over Hearne, Texas, at 2107 hours, 29 September 1952. The object made a large semi-circular sweep from south to north and made its exit to the southwest at a terrific rate of speed. The object was described as orange-yellow and black in color. Several of the men in the alleged party of seven timed the celestial appearance as being in sight 20-30 seconds. All one was visible, the saucer had no wings.
+
+Altitude was estimated roughly at 30,000 feet."
+
+Upon inquiry it was discovered that neither Mr. [redacted] was located in the telephone directory of Hearne, Texas, or of Bryan, Texas, or anywhere in the neighboring areas; therefore, further questioning was not possible. The reliability of the observer also could not be established.
+
+[Signature of Ross S. Weatherford Jr.]
+Ross S. Weatherford JR
 Captain, USAF
 Chief, Intelligence Division
+
 
 - page 3 -
 

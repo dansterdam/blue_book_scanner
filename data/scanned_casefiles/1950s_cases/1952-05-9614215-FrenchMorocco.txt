@@ -1,76 +1,167 @@
-The image does not contain a photograph, it appears to be a project record card from Project 10073 regarding a sighting in French Morocco on May 27, 1952. The record card includes various fields such as date, location, type of observation, source, number of objects, length of observation, and a brief summary of the sighting. The comments section indicates that the description was not complete.
-
-TEXT FROM THE DOCUMENT:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 27 May 1952
-2. LOCATION: French Morocco 
-3. DATE-TIME GROUP: 0415 Z
-4. TYPE OF OBSERVATION: 
-Visual
-5. PHOTOS: 0 Yes
-6. SOURCE: 1/Sgt USAF
-7. LENGTH OF OBSERVATION: 20-30 Minutes
-8. BRIEF SUMMARY OF SIGHTING: Resembled sub periscope
-9. NUMBER OF OBJECTS: 1 
-10. COURSE: ?
-11. COMMENTS: Description not complete
+
+1. DATE
+27 May 1952
+
+2. LOCATION
+French Morocco
+
+3. DATE-TIME GROUP
+Local 21 1315 Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+Surface Visual
+
+5. PHOTOS
+□ Yes
+□ No
+
+6. SOURCE
+H/Sgt USAF
+
+7. LENGTH OF OBSERVATION
+20-30 Minutes
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+[Blank]
+
+10. BRIEF SUMMARY OF SIGHTING
+[Blank]
+
+11. COMMENTS
+Resembled sub periscope
+? Description not complete
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+Other: Sub periscope?
+Insufficient Data for Evaluation
+Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image appears to be a scanned page from an old Project Blue Book document. It contains an "Air Intelligence Information Report" about an unidentified floating object observed in French Morocco on May 27, 1952.
+Here is the text from the document:
 
-The text produced by the OCR system is as follows:
+AF FORM 112-PART 1                                                UNCLASSIFIED
+COUNTRY:                                                 REPORT NO.
+           FRENCH MOROCCO
 
-UNIDENTIFIED FLOATING OBJECT
-FRENCH MOROCCO
-27 MAY 1952
+                    AIR INTELLIGENCE INFORMATION REPORT
 
-AREA: MOGADOR, FRENCH MOROCCO
-WITNESS: ARARI P. TOOTLIAN, Colonel, USAF
+SUBJECT:    UNIDENTIFIED FLOATING OBJECT
 
-SUMMARY: (Witness reports details of observation) On 27 May 1952 between 1330 and 1500 hours, Colonel Tootlian observed a large, round, metallic object floating at an estimated altitude of 10,000 feet above sea level. The object was under observation for a period of from twenty to thirty minutes.
+AREA INCIDENT:    FRENCH MOROCCO                 FROM: DIRECTORATE OF INTELLIGENCE, 5TH AIR DIVISION
 
-"The sea was very calm at this time without any white caps at all. The tide had started to ebb and the sun was still clear of the horizon."
+DATE OF SIGHTING: 28 MAY 1952                    DATE OF INFORMATION: 27 MAY 1952
 
-"I made a line of sight on the object with reference to three other objects (sea markers) and it did not move during the time of observation."
+PREPARED BY: ARAM S. TOOTELAN, Colonel, USAF
+             (Name, grade, service, organization, chief, or agency)
 
-"I have over nine hundred hours of flying time over water and between months in the Pacific Theatre. I have seen many phenomena." 
+SUMMARY: (State concise summary of report, cite significance in final conclusion paragraph)
 
-"It was impossible to locate the object at 18002 but was unable to locate it."
+"While fishing at Temara Beach, Tuesday, 27 May 1952 at 1315z, my attention was
+called to an object, estimated to be between 1000 and 2000 yards off shore, by an Arab
+boy that was with me. I asked him if he was a buoy marker or the mast of a sinking
+ship. He said it was neither one as far as he knew, and that he had never seen it
+before.
 
-"On the morning of 29 May 1952 at 0730Z I was still unable to locate it, although the condition of the sea and visibility were nearly the same."
+"I have lived at Temara Beach six months and frequently fished in the same place,
+and I have never seen it before.
+
+"The object was under our observation for a period of from twenty to thirty
+minutes.
+
+"The sea was very calm at this time without any white caps at all. The tide had
+started in at this time, but the sea was still calm.
+
+"I made a line of sight on the object with reference to three other objects (see
+sketch) and it did not move during the time of observation.
+
+"I have over nine hundred hours of flying time over water and eighteen months in
+the Pacific Theater. I have seen submarines periscopes from the air and from the shore.
+This object resembled one very much.
+
+"I looked for the object at 1800z but was unable to locate it.
+
+"On the morning of 28 May 1952 at 0730z I was still unable to locate it, although
+the condition of the sea and visibility were nearly the same."
 
 COMMENTS of Reporting Officer:
-This Headquarters... Any further information will be reported promptly.
+[Partially redacted text]
+Operations, this Headquarters. Any further information will be reported promptly.
 
-ADAM S. TOOTLIAN
-Colonel, USAF 
+[Signature]
+ARAM S. TOOTELAN
+Colonel, USAF
 Director of Intelligence
+
+DISTRIBUTION OF ORIGINATOR:
+SAC
+USAFE
+
+UNCLASSIFIED
+
+[Bottom text about document transmission and restrictions]
+
 
 - page 2 -
 
-The image provided contains a hand-drawn map or diagram depicting an "Unidentified Floating Object" along with various geographic features and locations such as a "Reef", "Latrine", and "Casino". The map appears to be part of an "Air Intelligence Information Report" from the Directorate of Intelligence, 27th Air Division. There is no photograph present in this image.
+Here is the text from the document:
 
-Transcribing the text from the document:
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+
+UNCLASSIFIED
 
 AIR INTELLIGENCE INFORMATION REPORT
-DIRECTORATE OF INTELLIGENCE 
-27TH AIR DIVISION
+
+FROM: Directorate of Intelligence
+5TH AIR DIVISION
+
+REPORT NO.
 5-310-2
-PAGE 2 OF 2
+
+PAGE 2 OF 2 PAGES
+
+[The rest of the text is on the map/diagram itself:]
+
+N (North arrow)
 
 UNIDENTIFIED FLOATING OBJECT
-LINE OF SIGHT 
+
+LINE OF SIGHT
 1-2000 YD.
 
-SOURCE 
-LATRINE
+SOURCE
+
 REEF
+
+LATRINE
+
 CASINO
 
-DOWNGRADED AT 3 YEAR INTERVALS 
+DOWNGRADED AT 12 YEAR INTERVAL
 DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.,
+31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+
 
 - page 3 -
 

@@ -1,125 +1,225 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book report with a standardized Project 10073 record card format.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 12 Dec 52
-2. LOCATION: ITAZUKE AFB, JAPAN
-3. TYPE OF OBSERVATION: visual
-4. PHOTOS: none
-5. SOURCE: Radar Operators
-6. NUMBER OF OBJECTS: one
-7. COURSE: course from initial plot was 270° varying to 240°
-8. DURATION OF OBSERVATION: 9 min
-9. BRIEF SUMMARY OF SIGHTING:
-Five plots were observed on radar scope from 0826L to 0835L. Average speed was 710 knots & course from initial plot was 270° varying to 240°. Observed at 2000' at 0C.
+
+1. DATE
+18 Dec 52
+
+2. LOCATION
+ITAZUKE AFB, JAPAN
+
+3. DATE-TIME GROUP
+Local - 15/0826T
+GMT - 17/2326B
+
+4. TYPE OF OBSERVATION
+☑ Ground-Visual   ☐ Ground-Radar
+☐ Air-Visual      ☐ Air-Intercept Radar
+
+5. SOURCE
+Radar Operators
+
+6. LENGTH OF OBSERVATION
+9 min
+
+7. NUMBER OF OBJECTS
+one
+
+8. COURSE
+270° varying to 312° at final plot
+
+10. BRIEF SUMMARY OF SIGHTING:
+Five pilots were observed on radar scope from 0826-0831. Average speed was 710 knots & course from initial plot was 270° varying to 312° at final plot. Temperature inversion noted at 6000' at 6°C.
+
+11. COMMENTS
+1st Command & Repair
+Fifteen
+Radar Analysis
+Recommend Due to Inversion
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from a declassified document related to Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
+Date of Incid: 18 Dec 52    Location: Northern Kyushu
 
-Text extracted from the document:
+A radar target was picked up on this date by the 567th AC&W Group in Northern Kyushu. Description of the target: target size approximately that made by B-29 type aircraft. There is no evidence of target trace or trail. Target was tracked for a period of 9 minutes and appeared to be going 300 knots on initial pickup and estimated 100 knots on the last pickup.
 
-Date of Incil 18 Dec 52 Location: Northern Kyushu
+Air traffic present at the time of sighting consisted of five other targets which were identified as USAF aircraft.    This sighting is an unknown.
 
-A radar target was picked up on this date by the 527th AC&W Group in Northern Kyushu. Description of the target indicates that radar by type aircraft. There is no evidence of target trees or trails. Target was knocked out for a period of 9 minutes and appeared to be going 300 knots on initial pickup and estimated 1010 knots on the last pickup.
+ATIC DOCUMENT NO. 107986
 
-Air traffic present at the time of sighting consisted of five other targets which were identified as USAF aircraft. This sighting is an unknown.
-
-DOWNGRADED AT 3 YEAR INTERVALS;
-DECLASSIFIED AFTER 12 YEARS:
-ATIC DOCUMENT NO. 107986, DD DIR 5200.10
+DOWNGRADED AT 8 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
 
 UNCLASSIFIED
+
 
 - page 2 -
 
-The image does not contain a photograph. It appears to be a page from a Project Blue Book document containing text describing an unidentified track recorded on radar plots at the Itazuke AFB in Japan on 15/7/52.
+NBR 9613
 
-C-1 OPERATIONAL
-FIN 13278 GS AS AND I GEAR ATAZURE AFB KYUSHU JAP
-TO GS 17/7 RCS DS AND WASH DC
+C-1 OPERATIONAL IMMEDIATE SECRET
+FM 527TH AC AND W GRP ITAZUKE AFB KYUSHU JAP
+TO CS HQ USAF WASH DC ATTN D/I
+ATIC UPAFB OHIO
+ADC ENT AFB COLO
+JAPAN AIR DEFENSE FORCE HONSHU
+TEAR JAPAN
 
-UNIDENTIFIED TRACK RECD FROM RADAR PLOTS AT ITAZUKE AFB ON 15/7/52 AND IS RPTD IN ACCORDANCE WITH GS 2924-5S-9 AND RECD BY DC 20 OCT
-COORD AREA VAR FROM ITAZT-2325, BEARING 2155 DEGREES, REGI 47 KNOTS AND COURSE FROM INITIAL PLOT WAS 272 DEGREES
-OPERATION OF RADAR EQUIP WAS NORMAL. OBJECT ATTAINED AREA VARIABLE, CLOUD COVERAGE 1/3 TO 1/2, FAST? 2223 TO 22230 TEMPERAURE 4223 FEET ACCORDING TO RADAR SCOPES
-AT VARYING ALTITUDES TOP CLOUD 3 TO 4 THOUSAND FEET. COULD NOT BE CO TO 4223-22230 HRS EACH INDIV PLOT AREAS FOL : TIME-22235, COORDINATE-WJLD4619; 22237, COORDINATE-WJLD7659
-VAIE85929 REPORTED BY OFFICE OF S 27 AC AND S 21 OPNS BP ON AF FORM 112 WILL BE SUBMITTED WITHIN 72 HRS 13/17/52 22 DEC
+OPERATIONAL IMMEDIATE
+
+CITE INT 366-12
+
+PARAGRAPH NR 1, SLE CRYPTO-CENTER
+BEFORE DECLASSIFIED AT 8 YEAR INTERVALS:
+DECLASSIFIED AFTER 12 YEARS:
+DOD DIR 5200.10
+
+UNIDENTIFIED TRACK RECD FROM RADAR PLOTS AT DET 7, UJPF
+04497, SOUTHERN DEF AREA OF JADF ON 15/9231 AND IS RPTD IN
+ACCORDANCE WITH AFL 229-5, 5 PLOTS WERE RECD BY DT 7 RADAR
+OPR FROM 0823I TO 0837I. AV SPEED OF UNIDENTIFIED WAS 713
+KNOTS AND COURSE FROM INITIAL PLOT WAS 210 DEGREES
+VARYING TO 312 DEGREES OF FINAL PLOT. ALT UNKNOWN. NO INTCP
+ATTEMPTED. OPERATION OF RADAR EQUIP WAS NORMAL. OBJECT
+PAINTED ON RADAR SCOPE. WEATHER ALONG TRACK AREA VARIABLE.
+CLOUD COVERAGE 5/10 TO 7/10, BASES 4200 TO 5200 FT TOPS 6099
+FT. STRONG SUBSIDENCE INVERSION AT 6200 FT WITH TEMPERATURE
+AT 6 DEGREES CENTIGRADE. TIME AND COORDINATES SO OF
+EACH INDIV PLOT AREAS FOLS: TIME-03231, COORDINATE-WJLD4615,
+0831, WJLD3514, 0831, WJLD0718, 0851, WJKD2237, 0837I,
+WJJE5302 REPORTED BY OFFICE OF INT, 527 AC AND W GP.
+FOL UP REPORT ON A FORM 112 WILL BE SUBMITTED WITHIN 72
+HRS.
+15/1737 DEC
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
+
+AF FORM 112-PART I
+Country: Japan
+
+UNCLASSIFIED
+REPORT NO. MR-8-52
 
 AIR INTELLIGENCE INFORMATION REPORT
-FLYING OBJECT
-NORTH KYUSHU
-19 DECEMBER 1952  
-CLAUDE J. RIZUTTO, IST LT, USAF
-DETACHMENT #7 (TAKEO JAPAN)
 
-Information contained in this report concerns an unidentified radar target observed at Detachment #7 (TAER 14325), on 19 December 1952.
+FLYOBSPT
+AREA Northern Kyushu
+DATE OF REPORT 20 December 1952
+
+FROM 1/O 567th AC&W Group, APO 929
+DATE OF INFORMATION 18 December 1952
+EVACUATION See Contents
+
+PREPARED BY (ONAME) CLAUDE J. RIZZC, 1st Lt., USAF
+ORGANIZATION Detachment #7 (Takeo Yama)
+APL 200-5, 29 April 1952
+
+SUMMARY:
+Information contained in this report concerns an unidentified radar observed targets viewed at Detachment #7 (MCPP 1432), on 18 December 1952 at 0821h.
 
 APPROVED:
-ALLON N. DEEBLE JR.
-CAPTAIN, USAF OFFICER
-OPERATIONS OFFICER
+ALDEN H. SLOAN JR.
+Captain, USAF
+Intelligence Officer
 
-DOWNGRADED AT 3 YEAR INTERVALS;
-DECLASSIFIED ON 1985 IN YEARS.
+DOWNGRADED AT 8 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS;
+DOD DIR 5200.10
+
+1. Statement by N/C
+
+D/I JADE, 1 cy; D/I 43D AIR DIV, 1 cy.
+
+UNCLASSIFIED
+
 
 - page 4 -
 
-There is no photograph present in the image. This appears to be a page from an Air Intelligence Information Report from Project Blue Book, dated December 9, 1952.
+Here is the OCR text from the document:
+
+AF FORM 112-PART II
+APPROVED 1 JUNE 1956
 
 UNCLASSIFIED
+
 AIR INTELLIGENCE INFORMATION REPORT
-REPORT NO. IR-6-52
-PAGE 1 OF 3 PAGES
 
-1. Description of Target: Targets size approximated that of a Ju-88 bomber. The radar graphic track indicates a speed of 375-430 knots which the aircraft claimed a maximum speed of 210 knots.
+FROM: I/O 527th AC&W Gp APO 929     IR-6-52     PAGE 3 OF 3 PAGES
 
-2. The following information was forwarded this headquarters:
-AZIMUTH DEGREES SLANT RANGE/TIME
-180 223 W-LD 4717
-170 230 W-LD 5514
-160 240 W-LD 6512
-150 250 W-LD 7012
-140 257 W-LD 7512
+1. Description of Target: Target size approximately that one by B-29 type aircraft. Target was no cylinder of trail. Target was tracked for a period of 9 minutes, with five plots registering over this period. Succeeding tracks indicated an increase in speed ranging from 300 knots on initial pickup to an estimated 1040 knots at 6th picture.
 
-3. Nature of Observation: Radar scope presentation (AJSPR-5).
+The following information identified as track #6 was forwarded this headquarters:
 
-4. Location of Observer: IWAKUNI, JAPAN
+RANGE   AZIMUTH   GEOGREF COG.D     TIME        EST SPEED
+185     223       WJID 4915         06281       ---
+190     225       WJID 3514         06301       300
+205     230       WJID 0711         06301       490
+220     240       WJID 2817         06301       1360
+230     277       WJID 5062         06301       1040
 
-5. Identification Information: Reliability and proficiency have been rated high by the detachment commander.
+2. Scientific Data: Object was detected at 06281 and remained on scope for 9 minutes.
 
-6. Additional Remarks: Probable jet penetration from 17:01 through 17:07. Ground control attempted to track the target, but was unable to maintain contact due to irregularity of the track.
+3. Manner of Observation: Radar Scope presentation (AN/TPS-5).
 
-7. Other activity that night: None.
+4. Location of Observer: WJPF 1432.
 
-8. Physical Dimensions: None.
+5. Identifying Information: A/3c [redacted] reliability and proficiency have been rated high by the detachment commander.
+
+6. Weather: Weather along track area variable, cloud coverage 5/10 to 7/10, base 4000 ± 500 feet, wind 000, temp 1 strong subsidence inversion at 6000 feet temperature at 6 degrees centigrade.
+
+7. Other activity that might account for sighting: None.
+
+8. Physical Evidence: None.
 
 9. Interception: None attempted.
 
-10. Air Traffic: No other traffic being observed in the WALF area at the time except the reported target. The sky was more or less clear.
+10. Air Traffic: There were a total of five other targets visible at time of sighting each one being in the WLRF system.
 
-CLAUDE J. KING
-CAPT. - KI-250
-ASST. INTELLIGENCE OFFICER
+COMMENTS OF PREPARING OFFICE: In view of existing atmospheric conditions it is believed that reflection of radar waves was possibly being accounted for unusual phenomenon and speed.
+
+[Signature of Claude J. Legg]
+CLAUDE J. LEGG, KW220
+1st Lt, USAF
+Asst. Intelligence Officer
 
 UNCLASSIFIED
 
+
 - page 5 -
 
-The image does not contain a photograph. It is an Air Intelligence Information Report from the 527th Air Group, APO 929.
+Here is the text from the document:
 
-Text from the document:
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+
+UNCLASSIFIED
 
 AIR INTELLIGENCE INFORMATION REPORT
-T/O 527th ACW Group, APO 929 
-IR-FF-32
-PAGE 3 OF 3 PAGES
 
-D/I FEAP COMMENTS:
-1. Contact has not been confirmed as a bona-fide target.
-2. Refraction through the strong inversion at 6000 feet, combined with ground clutter, may account for the unusual speeds reported.
+FROM: 3278th AGIN Group, APO 929                 REPORT NO. IR-F-52         PAGE 3 OF 3 PAGES
+
+D/I FEAP COMMENT:
+
+1. Contact has not been confirmed as a bone-fide target.
+
+2. Refraction through the strong inversion at 6000 feet, combined with time errors in plotting of a normal friendly aircraft return may account for the unusual episode reported.
 
 GEORGE D. HASTINGS
 Colonel, USAF
@@ -127,19 +227,41 @@ Director of Intelligence Requirements
 
 UNCLASSIFIED
 
+Note at bottom: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+
+
 - page 6 -
 
-There is no photograph present in this image. The image appears to be a page from an old UFO report document from Project Blue Book, titled "AIR INTELLIGENCE INFORMATION REPORT".
+Here is the text from the document:
 
-Performing OCR on the text in the document:
-
-AT 0630 HRS ITS TIME IT DECEMBER 1952, I WAS ASSIGNED TO REPORT A SIGHTING OF A UFO. I WAS READING COVERS THE RANGE FROM ONE HUNDRED MILES TO TWO HUNDRED MILES SOUTH OF THE TARGET AREA AT 0630 HRS ITS COMPARATIVE MANEUVERS OVER ONE THOUSAND MILES PER HOUR. THERE WAS NO AIRCRAFT OR AIRCRAFT LIGHTS WERE SIGHTED THAT I COULD BE SURE THAT IT WAS ACTUALLY MOVING SINCE IT APPEARED AS A STATIONARY LIGHT. IT COULD EASILY BE MISTAKEN FOR A PLANET OR STAR, ESPECIALLY SINCE THERE WAS NO APPARENT CHANGE IN ITS POSITION DURING THE OBSERVATION PERIOD. THE SIGHTING WAS OVER IN APPROXIMATELY ONE MINUTE. THE SPEED WAS ESTIMATED AS OVER ONE THOUSAND MILES PER HOUR. THERE WAS NO OTHER AIRCRAFT SIGHTED IN THE AREA WHICH COULD CONFIRM THE SIGHTING. A TYPICAL UFO SIGHTING WOULD APPEAR IF IT WERE A B-29 OR OTHER LARGE TYPE AIRCRAFT.
-
-RONALD L REANE
-RONALD FEB 29 1952
-A2-C USAF
+AF FORM 112-PART II
+APPROVED 1 JUNE 1950
 
 UNCLASSIFIED
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+FROM I/O 527th AC&W Gp APO 929                    REPORT NO. IR-8-52
+                                                   PAGE 1 OF 1 PAGE
+
+STATEMENT
+
+At 0600 hrs item time 16 December 1952, I was assigned to report target on the PFT console in radar observations. The scope I was reading covers the range from one hundred miles to two hundred and thirty miles. At 0626 hrs item, an initial track appeared at 230 degrees at 165 miles. I called this to the plotting board.
+
+At 0630 hrs item, this track was traveling comparatively fast. After the second move he seemed to increase speed and after his third move I turned the markers of to make sure that he was actually moving as fast as he seemed to be. I brought this to the attention of A/2c Jamy P. McCoy who is my crew chief. Then this target left my scope. I estimated his speed and no weather on my scope and no other presentation that would impair the accuracy of my reading the scope. This target appeared as an ordinary aircraft. It would appear if it were a B-29 or other large type aircraft.
+
+[Signed]
+RONALD L. KEENE
+AF 13547922
+A/3c, USAF
+
+Incl #1
+
+UNCLASSIFIED
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+
 
 - page 7 -
 

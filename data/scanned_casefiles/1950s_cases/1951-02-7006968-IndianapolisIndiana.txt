@@ -1,91 +1,114 @@
-There is no photograph present in this image. This appears to be a page from a Project Blue Book record card, containing information about a reported UFO sighting.
+PROJECT 1007 RECORD CARD
 
-PROJECT 10073 RECORD CARD
-1. DATE OF REPORT  02/07/51
-2. LOCATION  Indianapolis Indiana
-3. DATE/TIME GROUP  N/A
-4. TYPE OF OBSERVATION  G Ground-Radar O Air-Visual N/A
-5. PHOTOS  Y Was taken G Y* (photos) O Civilian 
-6. SOURCE  Civilian
-7. LENGTH OF OBSERVATION  N/A
-8. NUMBER OF OBJECTS  1
-9. COURSE  N/A
-10. BRIEF SUMMARY OF SIGHTING  NO. a UFO REPORT
-11. COMMENTS  Disc of aircraft clipped from magazine.
+1. DATE OF REPORT: 5-7-51 CI
+
+2. LOCATION: Indianapolis Indiana
+
+3. DATE-TIME GROUP:
+Local: N/A
+GMT: N/A
+
+4. TYPE OF OBSERVATION:
+☐ Ground-Visual   ☐ Ground-Radar
+☐ Air-Visual      ☐ Air-Intercept Radar
+N/A
+
+5. PHOTOS: ☒ YES   ☐ NO   NOT ON FILE
+☒ (Pictured)
+
+6. SOURCE: Civilian
+
+7. LENGTH OF OBSERVATION: NA
+
+8. NUMBER OF OBJECTS: 1
+
+9. COURSE: [No entry]
+
+10. BRIEF SUMMARY OF SIGHTING: Not a UFO Report.
+
+11. COMMENTS: Picture aircraft clipped from magazine.
+
+12. CONCLUSIONS:
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other: See Below
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-This document appears to be a page from Project Blue Book, a historical U.S. Air Force program that investigated unidentified flying objects (UFOs). The image does not contain any photographs, but rather a table listing various sightings and observations from March through July 1951.
-
-The text in the document is as follows:
-
 MARCH - JULY 1951 SIGHTINGS
-OBSERVER
-EVALUATION
-LOCATION
-Albuquerque, New Mexico
-Military (Light)
-Astro (METEOR)
-Chicago, Illinois
-Military
-UNIDENTIFIED
-Astro (WHITE)
-Tatitlek, Alaska
-Civilian
-OTHER (FLARE?)
-Cape Mendocino, California
-Military
-A/C
-McGlellan AFB, California
-Military Civilian
-UNIDENTIFIED
-New Iberia, Louisiana
-A/C
-Iran (CARDS MISSING)
-Military (Multi)
-UNIDENTIFIED
-Holloman AFB, New Mexico
-Tracking Camera
-Presque Isle, Maine
-CARDS MISSING
-Insufficient Data
-Albuquerque AFB, New Mexico
-CARDS MISSING
-Insufficient Data
+
+DATE    LOCATION                                 OBSERVER                EVALUATION
+
+March
+6       Albuquerque, New Mexico                   Military (RADAR)        Astro (METEOR)
+1       (Far East)                                Civilian                A/C
+11      Chicago, Korea                            Military                UNIDENTIFIED
+11      Biggs AFB, Texas (CARDS MISSING)          Military                Other
+11      Tutilas, Alaska                           Civilian               Other (FLARES)
+12      Cartwright, Labrador                      Military                A/C
+12      McAllen AFB, California                   Military & Civilian     UNIDENTIFIED
+15      New Delhi, India                          A/C                     A/C
+22      St. Thomas Island, Alaska                 Military (Multi)        UNIDENTIFIED
+23      Iran (ECHO)                               A/C                     Astro (METEOR)
+24      Holloman AFB, New Mexico                  Tracking Cameras        Insufficient Data
+-       Praque, Iran                              A/C                     Astro (VENUS)
+12      Albuquerque, New Mexico (CARDS MISSING)   Project Twinkle         Astro (VENUS)
+-14     Holloman AFB, New Mexico (CARDS MISSING)  Project Twinkle         Insufficient Data
+-       Pine Bluff, Arkansas (low only)           A/C                     Balloon
 
 April
-Los Alamos, New Mexico
-CARDS MISSING
-Insufficient Data
-Gambill, St. Lawrence, Alaska
-Military
-Tacome, Washington
-Military (Multi)
-Gerald, Missouri
-Chicago, Illinois
-Sheppard AFB, Texas
-South Padre Island, Montana
-Military (Multi)
-Other (BIRDS)
+1       Los Alamos, New Mexico (CARDS MISSING)    Project Twinkle         Insufficient Data
+-       Coopersville, Michigan                    A/C                     Insufficient Data
+12      Gambill, St. Lawrence, Alaska             Military                Gun Fire
+23      Tacoma, Washington                        Military (Multi)        A/C
+26      Gerald, Missouri                          A/C                     Other (A/C Contrails)
+-       Chicago, Illinois                         A/C
+
+May
+4       Sheppard AFB, Texas                       A/C                     Other (BIRDS)
+22      South Falls, Montana                      A/C                     Balloon
+24      Chicago, Illinois                         A/C                     Other (A/C w/contrails)
+29      Toorey, California (World of Flying)      A/C                     A/C
+29      Spokane, Washington                       A/C                     Balloon
+31      Niagara Falls, New York                   Military (Multi)        UNIDENTIFIED
 
 June
-Los Alamos, New Mexico
-CARDS MISSING
-Insufficient Data
-Los Alamos, New Mexico
-CARDS MISSING
-Insufficient Data
-Yakzelli, Texas
-Military (Crew)
+7       Los Alamos, New Mexico (CARDS MISSING)    Project Twinkle         Insufficient Data
+8       Los Alamos, New Mexico (CARDS MISSING)    Project Twinkle         Insufficient Data
+-       Surrey, England                           A/C                     Insufficient Data
+9       Mikesell, Finland                         A/C                     A/C
+9       Thule, Greenland                          Military (Crew)         Other (Poss wx phen)
+- Summer Gonzales, Texas                          A/C                     Balloon
 
 July
-Corona, New Mexico
-CARDS MISSING
-Insufficient Data
-Sewell, New Jersey, Virginia
-Military
-Newport News, Virginia
-Military (Light)
+3       Corona, New Mexico (CARDS MISSING)        Project Twinkle         Insufficient Data
+1       Seoul, Korea                              Military (Pilot)        Astro (METEOR)
+4       Newport News, Virginia                    A/C                     Astro (ARCTURUS)
+4       Westover AFB, Cheyenne, New York)         A/C                     Astro (HOAG)
+14      White Sands, New Mexico (Flying Saucers from Outer Space, Rayhoe) A/C
+14      Rensselaer, New York                      A/C                     Balloon
+15      Fairborn, Ohio                            A/C                     Other (HOAX)
+19      Lima, Peru                                Civilian                A/C
+24      Portsmouth, New Hampshire                 A/C                     UNIDENTIFIED
+24      Kelly AFB, Texas                          A/C
+
+30      Selfridge AFB, Michigan                   Military (RADAR)        Other (Anomalous Propa-
+                                                                          gation)
+-11     Paso Robles, California (INFO ONLY)       Civilian                Poss Balloon
+-6      Mount Airy, North Carolina (INFO ONLY)    Civilian                Poss Balloon
+
 
 - page 2 -
 

@@ -1,31 +1,58 @@
-The provided image does not contain any photographs. It appears to be a page from a document related to Project Blue Book, which was a U.S. Air Force project that investigated unidentified flying objects (UFOs) from 1952 to 1969.
-
-The text from the document is as follows:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
-12 AUG 51
+12 Aug 51
+
 2. LOCATION
 Corong, New Mexico
+
 3. DATE-TIME GROUP
-13/0515Z
+Level 2215
+GMT 13/0515Z
+
 4. TYPE OF OBSERVATION
-Ground-Visual
-5. DURATION
-10 sec
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTO
+□ Yes
+[X] No
+
 6. SOURCE
 Military
+
 7. LENGTH OF OBSERVATION
 10 sec
+
 8. NUMBER OF OBJECTS
 1
+
 9. COURSE
 SW to SE
+
 10. BRIEF SUMMARY OF SIGHTING
-Speed was 700-1000 mph. White to orange to green. Shape round. Size approx. 6" dia at arm's length. Source observed object from 2513 ft-1053 ft. Viewed approximately 10 sec. It was first sighted 45 deg above the horizon and descended at about 60 deg to just above the horizon.
+Color was yellowish white to orange to green. Speed was as fast jet. Shape round. Size 6" dia at arm's length. Source observed object from 3413 N-1059W. Viewed approximately 10 sec. It was first sighted 45 deg above the horizon, descended at about 60 deg to just above the horizon.
+
 11. COMMENTS
 Evaluated as a Meteor
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical Meteor
+[X] Probably Astronomical
+□ Possibly Astronomical
+□ Other: Insufficient Data for Evaluation
+□ Unknown
+
 NO CASE IN FILE
+
+ATIC FORM 329 (REV 26 SEP 55)
+
 
 - page 1 -
 

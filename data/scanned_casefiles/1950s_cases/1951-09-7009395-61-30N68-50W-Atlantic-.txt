@@ -1,104 +1,213 @@
-There is no photograph present in this image. This appears to be a page from a Project Blue Book record card, containing various text fields with information about a UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 17 SEP 51
-2. LOCATION: 61.30N 68.50W (Atlantic)
-3. DATE-TIME GROUP: 13/04Z/52
-4. TYPE OF OBSERVATION: Ground-Visual, Air-Visual, Air-Intercept Radar
-5. SOURCE: Military
-6. NUMBER OF OBJECTS: one
-7. LENGTH OF OBSERVATION: not reported
-8. CONCLUSIONS: Unknown
+
+1. DATE
+17 Sep 51
+
+2. LOCATION
+61.30N 68.50W (Atlantic)
+
+3. DATE-TIME GROUP
+Local: 18/0420Z
+GMT: 18/0420Z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual
+☐ Air-Visual
+☒ XB Ground-Radar
+☒ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+military
+
+7. LENGTH OF OBSERVATION
+not reported
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+not reported
+
+10. BRIEF SUMMARY OF SIGHTING
+Unidentified a/c at 18,000 ft. No red and green lights. Sighted visually & picked up on Air Radar. Also being picked up by ground radar.
+
+11. COMMENTS
+Report of unidentified a/c (Not a UFO report)
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☒ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
 
 - page 1 -
 
-The provided image does not contain any photograph. It appears to be a scanned page from an old UFO report document from Project Blue Book.
+Here is the OCR text from the document:
 
-The text found in the document is as follows:
-
+AF FORM 112- PART I UNCLASSIFIED SECRET
+Country: Canada
+TR-17-51
 AIR INTELLIGENCE INFORMATION REPORT
 
-1. On 10 October 1951, Capt. J.V. Cantrell, Gulf Air Recon Div, Intelligence Officer, JAGSD, Hq. USAF, reported that on 4 October 1951, approximately 2200 hours, an unidentified aircraft was sighted at approximately 30,000 feet.
+Subject: Unidentified Aircraft
+NBIC
+Date of Report: 10 October 1951
+By: Capt. T.W. CANTRELL, Chief, Air Int Div
+NBIC TAR INT 9210 to Hq USAF, Director of Intelligence
 
-2. This aircraft was sighted visually and picked up on the radar set from B-36 No. 44-92622.
+1. On 15, 19 and 20 September 1951 an unidentified aircraft was sighted at approximately 61° 30' N - 68° 50' W.
 
-3. Uncontrolled running lights observed.
+2. Aircraft was sighted visually and picked up on the radar set from B-36 No. 44-92668.
 
-4. ECM frequencies: 907, 3076, 9324, 9331, 7352, 715 and 730 mcs.
+3. Unconventional running lights observed.
 
-DANIEL M. BAULIEN,
+4. ECM equipment picked up carrier type waves on the following frequencies:
+367, 849, 391, 715 and 730 mc.
+
+APPROVED:
+DANIEL H. PAULSEN
 Major, USAF
 Director of Intelligence
 
-DOWNGRADED AT 3 YEAR INTERVALS;
+DOWNGRADED AT 3 YEAR INTERVALS.
 DECLASSIFIED AFTER 12 YEARS.
 DOD DIR 5200.10
 
+UNCLASSIFIED
+
+Note: This document contains information affecting the national defense of the United States within the meaning of the Espionage Act, 50 U.S.C. 31 and 32. Its transmission or the revelation of its contents in any manner to an unauthorized person is prohibited by law.
+
+
 - page 2 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, specifically an Air Intelligence Information Report.
+Here is the OCR text from the document:
 
-Text extracted from the document:
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
 
-DIS/TEX HQ HEADG
+SECRET                 UNCLASSIFIED
 
-1. On 18 - 20 September 1951 three (3) B-36 type aircraft flew a training mission from Carswell AFB, Lakeview, Texas. Greenland, and return.
+AIR INTELLIGENCE INFORMATION REPORT
+
+Dir/Int Hq NEAC                                                  IR-17-51                     PAGE    2 OF 3
+
+1. On 18 - 20 September 1951 three (3) B-36 type aircraft flew a training mission from Goose Air Base, Labrador, to Resolute NWT, Thule, Greenland, and return to Goose Air Base.
 
 2. The following aircraft took part in the exercise:
+   a. 44-92668 - Major Paul E. Gerhart, radar operator.
+      Major Charles J. Cheever, navigator.
 
-a. 44-92568 - Major Paul E. Garhart, radar operator.
-b. 44-92566 - 2/Sgt Donald E. Jenkins, ECM operator.
-c. 44-92561 - 2/Sgt Doyt T. Larimore, ECM operator.
+   b. 44-92866 - S/Sgt Donald E. Jenkins, ECM operator.
+
+   c. 44-92061 - S/Sgt Doyt T. Larimore, ECM operator.
 
 3. Individual reports are as follows:
+   a. Major Paul E. Gerhart. At 180320Z radar interference was noticed on the radar scope which was finally determined to be an unidentified aircraft on a relatively bearing of 130 degrees and 28 NM from our aircraft. The position of our aircraft at the time was 61/13E 68°50N. There was very noticeable jamming at approximately 180120Z. (Our position 63/30N 70°10W) The anti-jam time was approximately 6 min. The crew was informed at this time that it looked as though the ship (aircraft) was being tracked. At 180435Z radar interference was coming from the side of our aircraft and covered 120 degrees on the radar scope. At the position given 74/40N 16 NM unidentified aircraft crossed over from the right side of our aircraft to the left side at 18,000 feet and at a speed estimated to be 30 knots. At 36 NE 2645. (Speed of B-36 was 228 knots according to navigator's log) Landing lights were not standard. Instead of having the usual red and green lights on the wing tips, all lights were white. It had twin flashing white lights.
 
-a. At 1930/21Z, radar interference was noticed on the radar scope, which was initially determined to be an unidentified aircraft. This interference was observed continuously until the aircraft were 180 miles from the Texas coast, at which time the interference disappeared. The anti-jam device was in use. The interference appeared as a definite track on the radar scope.
-b. Upon landing at Carswell AFB, the operators discussed the radar interference. Their conclusions were: (1) the interference was not ground clutter, (2) it was not jamming, and (3) it was not other aircraft participating in the mission. The radar interference was strong and definite and appeared to be airborne. The nearest known aircraft was at 150 miles, which should not have caused the strong interference noted.
-c. Major Charles E. Brewster, the air executive officer, who was responsible for the exercise, was notified of the radar interference. He stated that he was aware of similar incidents in the past involving B-36 aircraft, but he could offer no explanation for the phenomenon.
+   b. Major Charles J. Cheever. At 180320Z interference was picked up on the radar scope. "It was an aircraft at 130/28 (Relative bearing of 130 degrees and 28 NM from B-36), going away course (H) 300° at 180/35N the unidentified aircraft flew along side (right) then crossed over nose. Our position was 65/40N 71/40N at an altitude of 18,000 feet. It was in view (visual) for a short 20 minutes. All running lights were white. Major Cheever was unable to identify it. The aircraft passed (the B-36) rather fast on a grid heading of approximately 046 degrees. (34 degrees True). Our ground speed was 208 knots. At 180450Z the auto-pilot and APQ-24 radar set went out. The APQ-24 came back on after a few minutes.
 
-UNCLAS SIFIED
+   c. S/Sgt Donald E. Jenkins. B-36 No. 2066 departed Goose Air Base at 192200Z and route to Resolute, NWT. At 192225Z shifting, carrier wave type signals were picked up on the following frequencies: 867, 869, 821, 730, 715 and 730 mcs. At 192345Z very powerful signals were picked up on the following frequencies: 38 to 42 and 48 to 57 mcs. NOTHING FURTHER NOTED.
+
+   d. S/Sgt Doyt T. Larimore. B-36 No. 2061 departed Goose Air Base at 192220Z en route to Resolute, NWT. At 192315Z a signal on frequency of 240 mcs was picked up. The "use of this signal was one (1) microsecond and continuous tracking" type was picked up on a frequency of 53 mcs. The pulse of this signal was one (1) microsecond; the cycle, 4260 OPS. From 200000Z until 220100Z signals were picked up on the following frequencies: 37.5, 41.5, 44, to 56, 58.3 and 39.5 to 92 mcs. At 200100Z an "image signal" was identified on a frequency of 180 mcs. At 200200Z a T-type signal was identified on a frequency of 240 mcs.
+
+[Unclassified note at bottom of document]
+
 
 - page 3 -
 
-The image does not contain any photograph. It appears to be a scanned page from a declassified Project Blue Book document, specifically an Air Intelligence Information Report.
+Here is the text from the document:
+
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+
+SECRET UN CLASSIFIED
 
 AIR INTELLIGENCE INFORMATION REPORT
-DIR/Lt Pt NEAG 
-IR-17-51  
-PAGE 3 OF 3 PAGES
 
-COMMENTS OF PREPARING OFFICER:
-1. The possibility of a naval vessel with radar in the Hudson Straits is ruled out.
-2. The frequencies in the 700-1000 and 9000 megacycle ranges are unexplainable since no radar equipment is known in this area capable of operating on these frequencies.
-3. There are no aircraft assigned to the NEAG area that have indicated lights as described in item 2.
-4. There is no UHF installed in aircraft of this command.
-5. 243 mes is a national emergency frequency.
-6. It does not appear feasible for an enemy aircraft to make reconnaissance flights in this area.
-7. NEAG is unable to furnish further information as this Command has no EOTI equipment.
-8. It is understood that NEAG is sending two (2) TB-36 aircraft to Goose Air Base and requesting the information of this incident.
+FROM (Agency)                 REPORT NO.                PAGE 3 OF 3 PAGES
+D.I./Lt Hq NEAC                                 IR-17-51
 
-DOWNGRADED AT 3 YEAR INTERVALS: 
-DECLASSIFIED DEC 11 1985
+COMMENTS of Preparing Officer:
+
+1. The possibility of a naval vessel with radar in the Hudson Straits is ruled out. With NORAD's return flight at AP-A-2, Raider set.
+
+2. Frequencies in the 700-900 and 900 megacycle group are unexplainable since no radar stations, U.S. or Canadian, are known to exist in the area within range of the B-36.
+
+3. There are no aircraft assigned to the NEAC area that have night lights as described in par 3a above, or fly at this altitude and airspeed indicated.
+
+4. There is no IFF installed in aircraft of this command.
+
+5. 243 mcs is a national emergency frequency.
+
+6. It does not appear feasible for an enemy aircraft to make reconnaissance flights in the NEAC area with night lights on.
+
+7. NEAC is unable to furnish further information as this Command has no ECM equipment or personnel.
+
+8. It is understood that SAIC is sending two (2) RB-36 aircraft to Goose Air Base in an attempt to determine the possible source and explanation of this incident.
+
+[Signature]
+TRUSTY G. CANTRELL
+Captain, USAF
+Chief, Air Int Div
+
+DOWNGRADED AT 3 YEAR INTERVALS:
+DECLASSIFIED AFTER 12 YEARS:
+DOD DIR 5200.10
 
 UNCLASSIFIED
 
-- page 4 -
+[Footer note]
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
-The shared image does not contain any photographs. It appears to be a scanned page from a military document titled "INCOMING UNCLASSIFIED MESSAGE" from the Department of the Air Force Staff Message Division.
+
+- page 4 -
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE DIVISION
 INCOMING UNCLASSIFIED MESSAGE
 
-FROM: CG NESAC PERPERRELL AFB NF
-TO: HO USAF WASHINGTON, D.C.
-INFO: HQ USAF WASHINGTON, D.C.
+PARAPHRASE NOT REQUIRED. NOTHING
+CAPTAIN SAWYER BEFORE DECLASSIFY
 
-INFO: 6530 WEST 66 LBS LBTS LOCATED AT 31-12N, 66-50W (ABOUT 20 MILES OFF HATTERAS CAPE) RECEIVED VISUAL REPORTS OF UNKNOWN OBJECTS AT ABOUT 2320, 6 SEP 51. OBJECTS MOVED IN STRAIGHT LINE FROM NW TO SE AT HIGH SPEED AND ALTITUDE. APPARENT VISIBILITY 30-40 MILES. FULL MOON AND CLEAR. OBJECTS OBSERVED FOR ABOUT 10 MINUTES. NO SOUND HEARD. OBJECTS APPEARED LARGER THAN STARS OR PLANETS AND BRIGHTER. SPEED ESTIMATED 1500-2000 MPH. AIRCRAFT WERE SENT TO INVESTIGATE BUT FAILED TO MAKE VISUAL CONTACT. RADAR ALSO FAILED TO PICK UP OBJECTS. ALL REPORTS PASSED TO HQ USAF. ADD INFO BEING SENT BY AIR.
+FROM: CG NEAC PEPPERRELL AFB NP
+TO: HQ USAF WASHINGTON, D.C. ATTN DIR OF INT
+NR: INT 5258
 
-WILLIS
-DOWNGRADED AT 3-YEAR INTERVALS; 
+Info mnd info HQ of unidentified est at apx 6:30 North
+6850 West, 1200 ft. 200 mi SW of Nfld. Ast and now have red
+and green ig-zag, all light with twin flashing tail
+lights. Sighting was twice visually, BCM empty and radar scope by
+2 Sqn DS 3-5 sgt. Evidence indicates that unidentified craft was
+being tracked grd sta at 6540 North 7140 West. Info concerning
+Canadian left white moving lights. 7nd Shipborne radar has been
+noted by AINA. Checked by our 2195. Add info Tex no 112
+
+DOWNGRADED AT 3 YEAR INTERVALS;
 DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+
+NOTE: 219009 is not identified in SMD.
+ACTION: ONE
+CAP IN: 78434                                                 SKR/10
+
+UNCLASSIFIED
+THE MAKING OF AN EXACT COPY OF THIS MESSAGE IS FORBIDDEN
+
+COPY No.   8
+
 
 - page 5 -
 

@@ -1,167 +1,233 @@
-The image does not contain any photograph. It appears to be a page from an old Project Blue Book record card, which is a document used to record UFO sightings and investigations.
-
 PROJECT 10073 RECORD CARD
-1. DATE 17 Oct 52
-2. DATE-TIME GROUP 17/2315 Z
-3. LOCATION KILLEEN TEX
-4. TYPE OF OBSERVATION Ground-Radar
-5. DURATION OF OBSERVATION 10
-6. NUMBER OF OBJECTS 2 
-7. ORIGIN OF SIGHTING Civilian men
-8. COURSE OF OBJECTS Flew over city in a "duck-like" formation. Objects appeared to exhibit lights, disappeared by suddenly "going out". Observers are clergymen.
-9. CONCLUSIONS Insufficient Data for Evaluation.
+
+1. DATE: 17 Oct 52
+
+2. LOCATION: KILLEEN TEX
+
+3. DATE/TIME GROUP: Local 17/215.0ST, GMT 16/0415 Z
+
+4. TYPE OF OBSERVATION: Ground-Visual
+
+5. SOURCE: 2 Civilian men
+
+6. LENGTH OF OBSERVATION: 5 sec
+
+7. NUMBER OF OBJECTS: 10
+
+8. COLOR: S
+
+9. BRIEF SUMMARY: Approx ten objects flew over city in a "duck-like" formation. Objects appeared to reflect light, disappeared by suddenly "going out". Observers are clergymen.
+
+10. CONCLUSIONS: [Checkboxes include options like Was Balloon, Probably Balloon, Was Aircraft, Probably Aircraft, Was Astronomical, Probably Astronomical, Insufficient Data for Evaluation, Unknown]
+
 
 - page 1 -
 
-There does not appear to be any photograph or image in the provided document. The document appears to be a page from an old UFO report document from Project Blue Book, containing a questionnaire with various questions about the sighting of an unidentified object.
+8. What direction were you facing when you first saw the object?
+(Circle One): a. North            e. South
+            b. Northeast        f. Southwest
+            c. East             g. West
+            d. Southeast        h. Northwest
 
-As an OCR system, the text found in the document is as follows:
+8.1 What direction were you facing when the object disappeared?
+(Circle One): a. North            e. South
+             b. Northeast        f. Southwest
+             c. East             g. West
+             d. Southeast        h. Northwest
 
-8. What direction were you facing when you first saw the object? (Circle One): a. North b. Northeast c. East d. Southeast e. South f. Southwest g. West h. Northwest
+8.2 Circle one of the following to indicate how certain you are of your answer to the above two questions. (8 and 8.1).
+    a. Certain            c. Not very sure
+    b. Fairly certain     d. Just a guess
 
-8.1 What direction were you facing when the object disappeared? (Circle One): a. North b. Northeast c. East d. Southeast e. South f. Southwest g. West h. Northwest
+9. Were you wearing eye glasses when you saw the object? (Circle One):
+   Yes or No
 
-8.2 Circle one of the following to indicate how certain you are of your answer to the above two questions. (8 and 8.1): a. Certain b. Fairly certain c. Not very sure d. Just a guess
-
-9. Were you wearing eye glasses when you saw the object? (Circle One): Yes or No
-
-10. How was the object seen? (Circle One): a. Through window glass b. Through windshield c. Through binoculars d. Through telescope e. Other
+10. How was the object seen?
+    (Circle One): a. Through window glass     e. Through theodolite
+                 b. Through windshield        f. Through sun glasses
+                 c. Through binoculars        g. Through open space
+                 d. Through telescope         h. Other
 
 11. What do you remember about the weather conditions at the time you saw the object?
 
-11.1 CLOUDS (Circle One): a. Cloudless b. Hazy c. Scattered clouds d. Thick or heavy clouds e. Don't remember
+11.1 CLOUDS (Circle One)            11.3 WEATHER (Circle One)
+     a. Clear sky                         a. Dry
+     b. Hazy                              b. Fog, Mist, or Light rain
+     c. Scattered clouds                  c. Moderate or heavy rain
+     d. Thick or heavy clouds             d. Snow
+     e. Don't remember                    e. Don't remember
 
-11.2 WIND (Circle One): a. No wind b. Slight breeze c. Strong wind d. Don't remember
+11.1.2 WIND (Circle One)            11.4 TEMPERATURE (Circle One)
+       a. No wind                         a. Cold
+       b. Slight breeze                   b. Cool
+       c. Strong wind                     c. Warm
+       d. Don't remember                  d. Hot
+                                          e. Don't remember
 
-11.3 WEATHER (Circle One): a. Dry b. Fog, mist, or light rain c. Moderate or heavy rain d. Snow e. Don't remember
-
-11.4 TEMPERATURE (Circle One): a. Cold b. Cool c. Warm d. Hot e. Don't remember
 
 - page 2 -
 
-There does not appear to be any photograph present in this document. This appears to be a page from a Project Blue Book report, containing a questionnaire or form to be filled out by an observer regarding their sighting of an unidentified aerial object.
+SECTION C
 
-SECTION G
-12. Estimate how long you saw the object? ____ Hours ____ Minutes ____ Seconds
-12.1 Circle one of the following to indicate how certain you are of your answer to question 12:
-a. Certain b. Fairly sure c. Not very sure d. Just a guess
-13. Did the object look: (Circle One) Solid or Transparent?
+12. Estimate how long you saw the object?    Hours 23½ 04 Seconds Minutes
+
+12.1 Circle one of the following to indicate how certain you are of your answer to Question 12:
+    a. Certain    b. Fairly sure    c. Not very sure    d. Just a guess
+
+13. Did the object look: (Circle One) SOLID or Transparent?
+
 14. Did the object at any time:
-14.1 Change direction? Yes No Don't know
-14.2 Change speed? Yes No Don't know
-14.3 Change size? Yes No Don't know
-14.4 Change color? Yes No Don't know
-14.5 Break up into parts or explode? Yes No Don't know
-14.6 Give off smoke? Yes No Don't know
-14.7 Break into fragments? Yes No Don't know
-14.8 Flicker, throb, or pulsate? Yes No Don't know
-14.9 Remain motionless? Yes No Don't know
-15. Did the object give off a light? (Circle One): Yes No Don't know
-15.1 If you answered YES, what was the color of the light?
-16. Tell in a few words the following things about the object:
-16.1 Sound _None__
-16.2 Color ____
-17. If there was MORE THAN ONE object, then how many were there? ONLY ONE object was seen in this incident, and it traveled in one direction, put no error so show the direction they were traveling.
+    (Circle One for each question)
+    14.1 Change direction?        Yes   No   Don't know
+    14.2 Change speed?            Yes   No   Don't know
+    14.3 Change size?             Yes   No   Don't know
+    14.4 Change color?            Yes   No   Don't know
+    14.5 Break up into parts or explode?   Yes   No   Don't know
+    14.6 Give off smoke?          Yes   No   Don't know
+    14.7 Change brightness?       Yes   No   Don't know
+    14.8 Flicker, throb, or pulsate?   Yes   No   Don't know
+    14.9 Remain motionless?       Yes   No   Don't know
+
+15. Did the object give off a light? (Circle One):  Yes   No   Don't know
+    15.1 IF you answered YES, what was the color of the light? ________
+
+16. Tell in a few words the following things about the object?
+    16.1 Sound   None
+    16.2 Color   ________
+
+17. IF there was MORE THAN ONE object, then how many were there? _______
+    Draw a picture of how they were arranged, and put an arrow to show this direction they were traveling.
+
+Page 4
+
 
 - page 3 -
 
-There is no photograph present in the provided image. The image appears to be a page from an old UFO report document from Project Blue Book.
-
-The text in the document is as follows:
+Page 5
 
 18. Did the object at any time:
-18.1 Move behind something? (Circle One) Yes No Don't know
-IF you answered YES, then tell what it moved behind.
-18.2 Move in front of something? (Circle One) Yes No Don't know
-IF you answered YES, then tell what it moved in front of.
-18.3 Blend with the background? (Circle One) Yes No Don't know
+18.1 Move behind something? (Circle One) Yes   No   Don't know
+If you answered YES, then tell what it moved behind.
+
+18.2 Move in front of something? (Circle One) Yes   No   Don't know
+If you answered YES, then tell what it moved in front of.
+
+18.3 Blend with the background? (Circle One) Yes   No   Don't know
+
 19. Which of the following objects is about the same actual size as the object you saw? (Circle One):
 a. Pea
-f. Automobile
 b. Baseball
-g. Small airplane
 c. Basketball
-h. Large airplane
 d. Bicycle wheel
-i. Dirigible
 e. Office desk
-j. Other
-19.1 Circle one of the following to indicate how certain you are of your answer to Question 19:
+
+f. Automobile
+g. Small airplane
+h. Large airplane
+i. Dirigible
+j. Other ____________
+
+19.1 Circle one of the following to indicate how certain you are of your answer to Question 19.
 a. Certain
-c. Not very sure
 b. Fairly certain
+
+c. Not very sure
 d. Uncertain
+
 20. Try to tell the following things about the object:
-20.1 How high above the earth was it? _________ feet or _________ miles
-20.2 How far was it from you? _________ feet or _________ miles
-20.3 How fast was it going? _________ miles per hour.
+20.1 How high above the earth was it? __________ feet.
+20.2 How far was it from you? __________ feet or __________ miles.
+20.3 How fast was it going? __________ miles per hour.
 20.4 Circle one of the following to indicate how certain you are of your answer to the above questions:
 a. Certain
-c. Not very sure
 b. Fairly certain
+
+c. Not very sure
 d. Just a guess
+
 21. How did the object disappear from view?
-(Circle One): a. Suddenly b. Gradually c. Other d. Don't remember
+(Circle One): a. Suddenly   b. Gradually   c. Other ____________   d. Don't remember
+
 
 - page 4 -
 
-The image does not contain any photographs, but rather diagrams and text related to a UFO sighting report. The text appears to be instructions for the observer to describe the sighting, including drawing a sketch of the object's motion.
-
-Transcription of text from the document:
+Page 6
 
 SECTION D
 
-22. In the following sketch, imagine your eye as the point shown. Place an "A" on the curves line to show how high the object was above the horizon when you first saw it. Please show where it was when you last saw it.
+22. In the following sketch, imagine your eye at the point shown. Place an "A" on the curved line to show how high the object was above the horizon when you first saw it. Place a "B" to show where it was when when you last saw it.
+
 Overhead
 Horizon
 Your eye
 
-23. In the following sketch place an "A" at the position the object was when you first saw it, and a "B" at the position where you last saw it. 
+23. In the following sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it.
+
 Overhead
-Horizon  Horizon
-  Your eye
+Horizon                Horizon
+Your eye
 
 24. Draw a picture that will show the motion that the object made. Place an "A" at the beginning of its path and a "B" at the end of its path.
-(Hand-drawn sketch of object's motion path)
+
+[Handwritten text at bottom of page is illegible]
+
 
 - page 5 -
 
-There is no photograph present in this image. The image appears to be a page from a Project Blue Book UFO report document, containing instructions and questions related to an observed unidentified object.
+Page 7
+
+25. Draw a picture that will show the shape of the object. Label and include in your sketch any details of the object that you saw, and place an arrow beside the drawing to show the direction the object was moving.
 
 SECTION E
-26. Was this the first time that you have seen an object like this? Yes No
+
+26. Was this the first time that you have seen an object like this?
+(Circle One): Yes     No
+
 26.1 If you answered NO, then when, where, and under what conditions did you see other ones?
-None were seen previously, it appears.
+Never seen one before like it.
+
 27. In your opinion what do you think the object was and what might have caused it?
-A low ceiling, (first thought)
+Was missile, (test maybe)
+
 28. Give the following information about yourself:
-NAME: - Last Name - First Name - Middle Name 
-ADDRESS: Street - City - Zone - State
-TELEPHONE NUMBER:
-What is your present job?
-Age:
-Sex:
-Last School Attended:
-Year of last attendance at this school:
+
+NAME
+    Last Name ____________ First Name ____________ Middle Name ____________
+
+ADDRESS
+    Street ____________ City ____________ Zone ____________ State ____________
+
+TELEPHONE NUMBER ____________
+
+What is your present job? ____________
+
+Age ____________
+Sex ____________
+
+Last School Attended ____________
+Year of last attendance at this school ____________
+
 
 - page 6 -
 
-The provided image does not contain any photographs. It appears to be a page from an old document, likely a Project Blue Book UFO report, with a form-style layout containing questions and space for answers.
+Page 8
 
 29. Was anyone else with you at the time you saw the object?
 (Circle One): Yes or No
-29.1 If you answered YES, did they see the object too?
-(Circle One): Yes or No 
+
+29.1 IF you answered YES, did they see the object too?
+(Circle One): Yes or No
+
 29.2 Please list their names and addresses:
 
-30. Please add here any further comments which you believe are important. Use additional sheets of the same size paper if necessary.
+30. Please add here any further comments which you believe are important.
+Use additional sheets of the same size paper if necessary.
+
 
 - page 7 -
 
-There is no photograph present in this image. This appears to be a scanned document from Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs) from 1952 to 1969.
-
 Box 9586
-Hq 1127th PAG (ATC)
+Hq 1125th FAC (ATC)
 Wright-Patterson AFB, Ohio
 2 February 1953
 
@@ -172,160 +238,273 @@ Albuquerque, New Mexico
 
 Dear Sir:
 
-During our discussion on 8 January 1953, you asked me to check the sightings for you, one on 17 October 1952 in the Albuquerque area and one on 22 November 1952 in the north central part of the United States. This has been done and I have found that there were no long distance traveling objects, just a bit.
+During our discussion on 8 January 1953, you asked me to check two sightings for you, one on 17 October 1952 in the Albuquerque area and one on 20 November 1952 in the Hutchinson, Kansas, area. I'm sorry it has taken so long to answer but I've been traveling quite a bit.
 
-The sighting on 17 October 1952 that at first appeared to be an object was actually determined to be weather balloons. It appeared bright and shiny but was determined to be weather balloons. We found that there was no correlation between time, or direction of the reported object, and the weather balloons that were released.
+The sighting on 17 October 1952 that at first appeared to be the visual observation of an object that was simultaneously tracked by radar did not turn out to be that. On checking we found that there was no correlation between time, or direction of the reported object, and the radar pickup. It appears that the radar return was due to interference and the object visually observed was a regular meteor.
 
-It appears that there were no permanent records of any radar tracks from Hutchinson, Kansas on 20 November 1952, at least none that I could find. It is still possible that something was tracked but it was not held to be of significant interest. Our files show no reports that could be due to interference and the object visually observed was a regular meteor.
+The Navy has no permanent record of any radar tracks from Hutchinson, Kansas, on 20 November 1952, at least none that I could find. It is still possible that some think was tracked but as I told you, unless it was considered to be unknown no record would be kept. Our files show no reports that could have been this meteor. I checked plus or minus four days thinking that possibly the dates reported were incorrect but could find nothing.
 
 Yours very truly,
+
 EDWARD J. RUPPELT
 Capt, USAF
 
+
 - page 8 -
 
-There is no photograph present in this image. It appears to be a page from a Project Blue Book report or document. As an OCR (Optical Character Recognition) system, I will now extract all the text found in the document:
+Here is the text from the document:
 
-UNCLASSIFIED
-21 OCT 52 12:
-ACTION:
-TO JEPUP/DIR OF INTELLIGENCE HQ USAF WASH 25 D C
-JEPUP/CHIEF AIR TECHNICAL INTELL CENTER ATTN ATIA-IC
-WRIGHT PATTERSON APB OHIO
-INFO JEPUP/CHIEF EIGHT COUNSELWELL AFB TEX
-JGFC/25ADIV IS CARSWELL AFB TEX
-OPNS 1212 PD REUSE THIS KC OPNS 1221 AND COMPL
-WITH PAR 7D AFL 225-3 CMA WILL BE UNABLE TO OBTAIN SIGNED NARRATIVE
+UNCLAS
+MFDC31
+WJAG52
+GMA142
+JWFGA 25
+AR JEPRO JEDOP JFGE 353
+DE JWFGA 16
+R 221855Z
+
+FT COABSQ 4631 GRAY AFB TEX
+
+TO JEPRO/DIR OF INTELLIGENCE HQ USAF WASH 25 D C
+JEDWP/CHIEF AIR TECHNICAL INTELL CENTER.ATTN ATIAA-2C
+WRIGHT PATTERSON AFB OHIO
+
+INFO JWFG/CSADIV 16 CARSWELL AFB TEX
+
+[REDACTED] OPNS 1612 PD REINSG THIS HG OPNS 1721 AND COMPL
+
+WITH PAR 7D AFL 222-5 CMA WILL BE UNABLE TO OBTAIN SIGNED NARRATIVE
 STATEMENTS FM OBSERVERS PRIOR TO 21 OR 22 OCT 52 CMA DUE TO THEIR OUT
 OF TOWN ENGAGEMENTS PD UPON THEIR RETURN CMA RPT WILL BE FORWARDED
-22 FEB 53 Z OCT JEPUP
+
+INED PD END
+22/22552 OCT JWFGA
+
 UNCLASSIFIED
+
+Markings on the document include:
+- "UNCLASSIFIED" stamp at top and bottom
+- "ACTION" stamp
+- Handwritten notes in top right corner: "2.Atcas, 1.Atcas, 3.Atcas, 4.C.file"
+- Date stamp of "21 OCT 52"
+- "DOWNGRADED AT 8 YEAR INTERVAL DECLASSIFIED AFTER 12 YEARS DOD DIR 5200.10"
+
 
 - page 9 -
 
-The image does not contain any photograph. It appears to be a page from an Air Intelligence Information Report related to unidentified flying objects.
+Here is the text from the document:
+
+AF FORM 112—PART I
+APPROVED 1 JUNE 1950
 
 AIR INTELLIGENCE INFORMATION REPORT
-SUBJECT: Reports of unidentified flying objects
-PLACE: Killeen, Texas
-DATE OF INFORMATION: 17 December 1952
-SUMMARY: This report is a summary of information received concerning sightings of unidentified flying objects in the Killeen, Texas area. It notes that the information was obtained from witnesses and observers and that no technical analysis has been made. The report states that the sightings were of "a number of unidentified flying objects" and that they were observed at various times during the period. It also mentions that the observations were made by "reliable observers". However, the report does not provide any further details about the specific nature or characteristics of the observed objects.
+
+Subject: Report of Unidentified Flying Objects
+Location: Killeen, Texas
+USAF OAFF AT BASE, Killeen, Texas
+Date of Observation: 17 October 1952
+Date of Report: 22 October 1952
+
+Distribution: STRATEGIC, A, MATS
+Headquarters USAF, Directorate of Intelligence, ATIC, OPEN 1001
+
+SUMMARY: (Enter below a summary of report. Give disposition in final endorsement paragraph. See instructions on reverse side of report.)
+
+1. Due to lack of technical knowledge, and inexperience in analysis of reports of this nature, this headquarters is not qualified to properly evaluate the attached reports.
+
+2. Personal contact with the observers, plus their profession and the condition of their letters (items 1 & 2) would certainly indicate that they are mature and competent individuals. Their statements in the report, however, are an illusion or phenomenon rather than imagination. Of apparent significance however, is the fact of a city of approximately 1500 population and many Fort Hood personnel, no additional reports were received at this station or at Fort Hood.
+
+Distribution:
+Director of Intelligence, HQ USAF, Washington 25, D.C.
+Chief Air Technical Intelligence Center, ATTN: ATIC-26, Wright Patterson AFB, Ohio
+Commanding General, 12th Air Force, Waco, Texas
+Commanding General, 12th Air Force, Bergstrom AFB, Austin, Texas
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., SECS. 31-32
+
 
 - page 10 -
 
-There is no photograph present in this image. The document appears to be an Air Intelligence Information Report from Project Blue Book.
+Here is the text from the document:
+
+AF FORM 112—PART II
+APPROVED 1 JUNE 1954
 
 AIR INTELLIGENCE INFORMATION REPORT
-REPORT NO. 2 
 
-FROM : (Location)
-KILLEEN, TEXAS 
+FROM (Location)
+Gracy Air Force Base
+Killeen, Texas
 
-On 17 October 1952, at approximately 2215 CST on 17 October 1952, and 8 search of Killeen, Texas, and a recheck of approximately 1000 persons at that same field, it was impossible to find any trace or signs of objects being observed in the skies over that area. 
+REPORT NO.
+1
 
-Numerous residents of the city of Killeen reported seeing groups of from 4 to 8 bright lights moving in the sky. These lights were observed to be at an altitude estimated as between 2,000 and 5,000 feet, and were moving in a generally southwest to northeast direction, at speeds estimated to be in excess of 600 mph. 
+PAGE 2 OF 2
 
-These objects, as they were described, appeared to be disc shaped and were observed by several reliable observers as they passed over the city of Killeen. No sound was heard, nor did they leave a contrail. There was no visible indication of the method of propulsion. 
+1. At approximately 2215 CST on 17 October 1952, Mr. and Mr. who were attending in the yard of the house which they jointly owned were watching an unusual group of light like objects moving very rapidly across the sky. Mr. immediately called to be an elongated rectangle of light, moving at jet like speed from North to South then making Southeastward. As they watched the Southeast they appeared to be turned off rather than disappear. At the same time they appeared as several objects, each holding five relative position in formations, though bobbing as in rough air. To Mr. they appeared as a rectangular rather than square formation of objects. Both gentlemen agree however, that the light did not seem to emanate from the objects but appeared as a reflected light. They did not glow nor did they leave an exhaust trail or any visible indication of the method of propulsion. No unusual movement or gyration was noted and the objects were soundless.
 
-A check with local authorities failed to reveal any corroborating observations. Nor did they have any knowledge of any aircraft flights or searchlights being used in the vicinity of the city at the time. 
+2. Mr. and Mr. do not agree on the period of time the streak or objects were observed. Mr. states approximately five seconds, Mr. at altitude of about one thousand (1000) feet and were observed through approximately 110 degrees of arc and about 50 to 60 degrees above the horizon. Though both deny any experience in aviation, they state the objects they saw could not have been an aircraft.
+
+3. A check with local authorities failed to reveal corroborating observations nor did they have knowledge of spot lights or searchlights being used in the city. There were no reports of aircraft flying in the vicinity of the city at the time of observation.
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+
 
 - page 11 -
 
-The image does not contain any visible photographs. It appears to be a document with text related to a report of unidentified flying objects near Killeen, Texas on October 17, 1952.
-
 SECURITY INFORMATION
+
 USA
-Reports of Unidentified Flying Objects
-Killeen, Texas
-17 October 1952
-GLANCE AT WEATHER Capt. D/Ops.
-Initially reported by this Hq. TT No. OPNS 1201
-and Sq. 13 approx. 1730 hrs. 17 October 1952
-An Air Force plane on a routine training mission about 12 miles southwest of Killeen, Texas, vicinity of Blue Holes Lake, reported sighting bright lights maneuvering at high speeds over the area. The pilot, Capt. [redacted], and bombardier, [redacted], made the observation and reported it immediately to this headquarters. They stated the objects were very brilliant, moving at high speeds, and would disappear and reappear. The pilot made two passes on the objects, but they could not get a close visual or radar contact. The objects were observed for about 15 minutes. As they proceeded on their training mission, the objects appeared to follow them, maneuvering southeast. As they neared Killeen, the objects veered off to the southeast and disappeared from view.
-A check with local authorities failed to reveal corroborating observations or sightings in the city at the time. However, there are no other indications of the method of propulsion or the objects were controlled from the ground as one might assume for an aircraft. The project has been notified and will conduct further investigation to determine the nature of the objects.
 
-GILBERT C. MORGAN
-Colonel, USAF
-Director of Operations
+Report of Unidentified Flying Objects
+Killeen, Texas                                  1001st Air Base Sq., Killeen Texas
+22 October 1952                                 17 October 1952
 
+CLARENCE A. MAGER, Capt. D/Ops & Trng.          No:
+                                                 File:
+Initially reported by this Hq. TT Msg. OPNS 1001
+
+1. At approximately 2215 CST on 12 October 1952, Mr. [redacted] and Mr. [redacted] of the First Methodist Church of Killeen were watching a small group of 11 light objects moving erratically across the sky. Immediately called the [redacted] attention to the phenomena. Mr. [redacted] noted what appeared to be an elongated rectangular or light, moving at first like a beam from North to South then turned off rather than disappear. As they veered to the Southeast they appeared to become objects, each disappearing through relative position in formation, though looking as in rough air. The [redacted] gentlemen agree however, that the light did not seem to emanate from the objects but appeared as reflected lights. They did not glow nor did they leave an earth trail. Both were positive in their observation.
+
+2. Mr. [redacted] and Mr. [redacted] did not agree on the period of time the streak or other was visible. Mr. [redacted] stated apparently five seconds. Mr. [redacted] thought it was a longer period of time. Questioning revealed that they were at an altitude of about one thousand (1000) feet and were observed through approximately 110 degrees of arc at about 50 to 60 degrees above the horizon. Though both were in aviation, neither could have been an aircraft.
+
+3. A check with local authorities failed to reveal corroborating observations nor did they have knowledge of spots of something being seen in the city. There were no reports of aircraft flying in the vicinity of the city at the time of observations.
+
+[Signature of Clarence A. Mager]
+CLARENCE A. MAGER
+Captain, USAF
+D/Operations & Training
+1001st Air Base Sq.
+
+Attachments:
 1. Statement, [redacted] (7 copies)
-2. Sketch, [redacted] (7 copies)
-3. Weather type (7 copies)
+2. Statement, [redacted] (7 copies)
+3. Teletype, [redacted] (7 copies)
+
 
 - page 12 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report.
-
 SECURITY INFORMATION
 
-LUKE'S AIR FORCE BASE SQUADRON
-CREW 95 DETACHMENT, KILLEEN, TEXAS
+Lowlet Air Base Squadron
+Gray AF Base, Killeen, Texas
 
-COMMENTS OF PREPARING OFFICERS
-The answers to the questions asked in paragraph 3 of these letters (Incl 1 & 2) would certainly indicate that they are very concerned in regard to these phenomena. The population of Killeen, Texas is well under 29,000 and it is estimated that the population of the Killeen area, including Fort Hood, is approximately 60,000 permanent personnel. The number of reports received at this station or at Fort Hood approximate 35,000 personnel.
+COMMENTS of Preparing Officers:
 
-CLARENCE A. BOGGS
+1. Personal contact with the observers, plus their profession and the cop-
+oration of their letters (incls 1 & 2) would certainly indicate that they are
+making in mind, or were(generally) intelligent, and their report thereof is the
+result of an illusion or phenomenon rather than imagination. Of apparent sig-
+nificance is the fact that of a city of approximately 15,000 population
+and nearby Fort Hood, an Army installation of approximately 20,000 personnel,
+no additional reports were received at this station or at Fort Hood.
+
+[Signature]
+CHARLES A. JACOBS
 Captain, USAF
+D/Operations & Training
+Lowlet Air Base Hq.
+
+COMMENTS of Approving Officers:
+
+Due to lack of technical knowledge, and inexperience in analysis of reports
+of this nature, this headquarters is not qualified to properly evaluate the
+attached reports.
+
+THOMAS J. ROGERS
+Lt. Colonel, USAF
 Commanding
 
-COMMENTS OF APPROVING OFFICER:
-Due to lack of technical knowledge and experience in analysis of reports of this nature, this Headquarters is not qualified to properly evaluate the attached report.
-
-THOMAS J. ROOERS
-Lt Colonel, USAF
-Commanding
 
 - page 13 -
 
-The image does not contain a photograph. It appears to be a typed document or report describing a sighting of an unusual group of objects moving across the sky in Killeen, Texas on October 17, 1952. The text describes the formation of the objects, their movements, and the lack of sound or light from the objects.
+October 21, 1952
 
-On the evening of Friday, October 17, 1952 at approximately 10:15 P.M. the Reverend H--- and I were standing in the back yard of the Methodist Parsonage in the city of Killeen, Texas. As I glanced up into the sky I caught sight of a strange group of approximately ten round, not well defined, some blobs of light in a single and equidistant sequence moving across the sky at an angle of approximately 60 to 70 degrees with the earth. Light seemed to reflect from rather than emanate from the objects which were moving from north to south at a very rapid rate of speed, being in sight for only about five seconds in an arc of slightly more than 100 degrees. The formation of a single straight line was maintained for the entire interim; however, as the objects moved toward the south, the formation seemed to veer toward the south-east in what would give the impression of rough air, the size of the formation as well as the separate objects which constituted it seemed to diminish, giving the effect of distance. The impression of velocity was re-emphasized by the rather sudden fading of the entire phenomenon, the first impression as evidenced by my remark to Mr. Greenawalt. He stated that of a group of ducks in flight, however, movement was much too rapid.
-The absence of any sound, and the apparent lack of light of sufficient strength from the city to reflect from the objects at such a height quickly discounted this thesis. The duck thesis, however, is valuable in determining the relativity as to distance, sequence, formation, size, and proximity of the phenomenon.
-A few estimations, though only relative, and in complete ignorance of air speed, height, etc. are perhaps in order. The speed of the phenomenon would
+On the evening of Friday, October 17, 1952 at approximately 10:15 P.M. the Reverend Mr. [illegible] and I were standing in the back yard of the Methodist Parsonage at [illegible] in the city of Killeen, Texas. As I glanced up into the sky I caught sight of a strange group of approximately ten round, not well defined, spots or blobs of light in a single and equidistant sequence moving across the sky at an angle of approximately 60 to 70 degrees with the earth. Light seemed to reflect from rather than emanate from the objects which were moving from north to south at a very rapid rate of speed, being in sight for only about five seconds in an arc of slightly more than 100 degrees. The formation of a single straight line was maintained for the entire interim; however, as the objects moved toward the south, the formation seemed to veer toward the south-east in what would give the impression of rough air, the size of the formation as well as the separate objects which constituted it seemed to diminish, giving the effect of distance. The impression of velocity was re-emphasized by the rather sudden fading of the entire phenomenon. My first impression as evidenced by my remark to Mr. Greenwhich was that of a group of ducks in flight; however, movement was much too rapid. The absence of any sound, and the apparent lack of light of sufficient strength from the city to reflect from the objects at such a height quickly discounted this thesis. The duck thesis, however, is valuable in determining the relativity as to distance, sequence, formation, size, and proximity of the phenomenon.
+
+A few estimations, though only relative, and in complete ignorance of air speed, height, etc. are perhaps in order. The speed of the phenomenon would [illegible text at bottom of page]
+
 
 - page 14 -
 
-There is no photograph present in this image. The image shows a page from an old UFO report document with a "NARRATIVE OBSERVATION QUESTIONNAIRE" form. The form contains various questions related to the observation of unidentified objects, such as the date, time, location, and other details about the sighting.
-
-TRANSCRIBED TEXT FROM THE DOCUMENT:
-
-NARRATIVE OBSERVATION QUESTIONNAIRE
+TENTATIVE
+OBSERVERS QUESTIONNAIRE
 
 SECTION A
 
-1. When did you see the objects:
-1.1 Date: 1 Oct 52
-1.2 Time of day: 6:23 Hrs. Min. A.M. or (P.M.) (Circle One)
-1.3 Time Zone: (Circle One): a. Eastern b. Central c. Mountain d. Pacific e. Other
-1.4 Circle one of the following to indicate how certain you are of your answer to the above question 1.2: a. Certain b. Fairly certain c. Not very sure d. Just a guess
+1. When did you see the object:
+1.1 Date: 11 Oct 62 (10/06002)
+        Day   Month   Year
 
-2. Where did you see the object? [Postal Address] [City or Town] [State] [Country]
+1.2 Time of day: 23 00 A.M. or P.M. (Circle One)
+               Hrs.  Min.
+
+1.3 Time Zone: (Circle One): 
+    a. Eastern             d. Pacific
+    b. Central             e. Other
+    c. Mountain
+
+    (Circle One): a. Daylight Saving
+                  b. Standard
+
+1.4 Circle one of the following to indicate how certain you are
+    of your answer to the above question 1.21
+    a. Certain             c. Not very sure
+    b. Fairly certain      d. Just a guess
+
+2. Where did you see the object?
+    [Handwritten text appears to be illegible]
+    Postal Address         City or Town         State   Country
 
 3. Where were you located when you saw the object:
-3.1 (Circle One): a. Inside a building b. In a car c. Outdoors d. In an airplane e. At sea f. Other
+    (Circle One): a. Inside a building        d. In an airplane
+                  b. In a car                 e. At sea
+                  c. Outdoors                 f. Other
 
-3.2 (Circle One): a. In the business section of a city? b. In the residential section of a city? c. In open countryside? d. In a rural area or small town? e. Flying over a city? f. Flying over open country? g. Other
+3.1 Were you:
+    (Circle One): a. In the business section of a city?
+                  b. In the residential section of a city?
+                  c. In open countryside?
+                  d. Near an airfield?
+                  e. Flying near an airfield?
+                  f. Flying over a city?
+                  g. Flying over open country?
+                  h. Other
+
 
 - page 15 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book UFO report document.
+Page 2
 
-Going,down side.on route.to work
+4. How did you happen to notice the object? Just looked up at sky.
 
-17 day 0 month 1 year
+5. When did you report to some official that you had seen the object?
+17   Oct   52
+Day   Month   Year
 
-Yes calling,
+SECTION B
 
-a. North
-b. Northeast
-c. East
-d. Southeast
-e. South
-f. Southwest
-g. West
-h. Northwest
+6. What were you doing at the time you saw the object?
+Going down I check on aqua. duct.
 
-Yes
+6.1 What had you been doing for the 30 minutes before you saw the object? Try to list the activity or activities, and the approximate amount of time spent on each.
+0. 0 D
+
+7. Were you moving at any time while you saw the object? (Circle One): YES or NO.
+
+If you answered YES, then complete the following questions.
+
+7.1 What direction were you moving?
+(Circle One): a. North           e. South
+b. Northeast        f. Southwest
+c. East             g. West
+d. Southeast        h. Northwest
+
+7.2 How fast were you moving? miles per hour.
+
+7.3 Did you stop at any time while you were looking at the object?
+(Circle One): YES or NO
+
 
 - page 16 -
 

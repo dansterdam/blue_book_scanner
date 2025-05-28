@@ -1,62 +1,94 @@
-The image does not contain a photograph. The document appears to be a Project Blue Book record card from an incident that occurred on 3 Aug 52 in Smyrna, Georgia. The text in the document is as follows:
+Here is the text from the document:
 
-PROJECT 10075 RECORD CARD
-1. DATE: 3 AUG 52
-2. LOCATION: SMYRNA, GEORGIA
-3. TYPE OF OBSERVATION: 
-Ground - Visual
-Air - Visual
-4. CONCLUSIONS:
+PROJECT 1207 RECORD CARD
+
+1. DATE
+3 Aug 52
+
+2. LOCATION
+SMYRNA, GEORGIA
+
+3. DATE-TIME GROUP
+Local 03/0025 EST
+GMT 03/0525
+
+4. TYPE OF OBSERVATION
+Ground-Visual Ground Radar
+Air-Visual Air Intercept-None
+
+5. PHOTOS
+Yes No
+
+6. SOURCE
+CIVILIAN HOLLOW
+
+7. LENGTH OF SIGHTING
+18 min
+
+8. NUMBER OF OBJECTS
+1
+
+9. COLOR
+1
+
+10. SUMMARY OF SIGHTING
+Bright white object moving slowly and
+erratically seen by woman.
+
+11. CONCLUSIONS
 Was Balloon
 Probably Balloon
 Possibly Balloon
+
 Was Aircraft
 Probably Aircraft
 Possibly Aircraft
+
 Was Astronomical
 Probably Astronomical
 Possibly Astronomical
+
+Other
 Insufficient Data to Evaluate
 Unknown
 
-CIVILIAN - WOMAN
-
-1. NUMBER OF OBJECTS: 1
-2. COURSE: -
-
-DETAILS:
-Bright white object moving slowly and erratically seen by woman.
 
 - page 1 -
 
-Unfortunately, there does not appear to be any photograph or image included in this document. The document appears to be a typed report from Project Blue Book containing a detailed description of a sighting event that occurred in Smyrna, Georgia on December 33, 1952.
-
-The text of the document is as follows:
+Here is the text from the document:
 
 ACTION
-R T
 
-PB 048
-YMX 015
-JDDK0202
-PP JEDEN JEDWP JEPHS 333
-DE JEKF-24A
-P 036715SZ ZNJ
-M CG 32ND AIR DIV /DEF/ POBNNS AFB GA
-TO JEMGRJ013 OF INTEP USAF WASH D C
-JEDWP/AIR TECH INTEL CENT WRIGHT PATTERSON AFB OHIO ATTN STIAA-2C
+AAGITM
+PPBQ4E
+YMX015
+JEDKF&22S
+PP JEDEN JEDWP JEPHQ 333
+DE JEDKF*84A
+F Q3Q71SZ ZNJ
+
+1M CG 35TH AIR DIV /DEF/ DOBBINS AFB GA
+TO JEPNQ/DER OF INTEL USAF WASH D C
+JEDWP/AIR TECH INTEL CENT WRIGHT PATTERSON AFB OHIO ATTN:ATIAA-2C
 JEDEN/CG ADC ENT AFB COLO
-SMYRNA GA/ LAT 33 DEG 54 MIN, LONG 84 DEG 54 MIN, SAW AN "OBJECT"
-AS FOLLOWS: SAW FROM 23/2225EST TO 23/2243EST A VERY BRIGHT WHITE
+/FLYOBRPT/ C&TT 1045. MRS. [REDACTED] OF ROUTE 2
+
+SMYRNA GA: LAT 33 DEG 54 MIN, LONG 84 DEG 49 MIN, SAW AN "OBJECT"
+AS FOLLOWS: SAW FROM @3/902SEST TO @3/904JEST A VERY BRIGHT WHITE
 OBJECT MOVING ABOUT SLOWLY AND ERRATICALLY. WITNESSED BY 2 OTHERS.
-WEATHER: 2S300 FT SCATTERED, 15 MILES VISIBILITY, 6G DEG TEMP
+
+WEATHER: 25000 FT SCATTERED, 15 MILES VISIBILITY, 68 DEG TEMP
+55 DEG DEW PT, CALM
 WINDS ALOFT:
-ALT IN FT AZIM KNOTS
-12000 325 25
-20000 210 25
-30000 050 25
-40000 360 30
-29/3722Z AUG-JEDKF
+
+ALT IN FT   AZIM   KNOTS
+10000       025    15
+20000       010    25
+30000       050    25
+40000       360    30
+
+30Q71SZ AUG-JEDKF
+
 
 - page 2 -
 

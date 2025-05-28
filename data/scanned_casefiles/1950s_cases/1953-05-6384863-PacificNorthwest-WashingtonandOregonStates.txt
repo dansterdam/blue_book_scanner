@@ -1,307 +1,534 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report form.
+Here is the text from the document:
 
-Output of the text found in the document:
+1. DATE • TIME GROUP
+12 May 53 19/0415Z
 
-1. DATE - TIME GROUP: 12-22-52 12/09/52
-2. LOCATION: Pacific Northwest, Washington and Oregon States
-3. SOURCE: Civilian
-10. CONCLUSION: MADE THIS STATEMENT DUE TO HYSTERIA
-11. BRIEF SUMMARY AND ANALYSIS: Several unidentified objects were observed on several occasions, both dim and bright, moving at high speeds and at times hovering. They could not be identified conclusively. Daylight observation.
-7. COURSE: Varied
-8. PHOTOS: 0
-9. PHYSICAL EVIDENCE: 0
+2. LOCATION
+Pacific Northwest, Washington and Oregon States
+
+3. SOURCE
+Military
+
+10. CONCLUSION
+RADAR EVENT MOST DUE TO WEATHER
+
+4. NUMBER OF OBJECTS
+Not Stated
+
+11. BRIEF SUMMARY AND ANALYSIS
+Several unidentified blips occurred on radar sets, both inbound and ground. We attempted interception. Some of the 5 a/c could make visual contact. Temperature inversion noted.
+
+5. LENGTH OF OBSERVATION
+2 Hours, 21 Minutes
+
+6. TYPE OF OBSERVATION
+Air-Intercept Radar
+Ground-Radar
+
+7. COURSE
+Varied
+
+8. PHOTOS
+□ Yes
+■ No
+
+9. PHYSICAL EVIDENCE
+□ Yes
+■ No
+
+FORM
+FTD SEP 63-0329 (TDE)   Previous editions of this form may be used.
+
 
 - page 1 -
 
-The image appears to be a map or diagram from a Project Blue Book document. It shows various locations and labels related to a UFO sighting or report. The central feature of the image is a "Tillamook Balloon" with coordinates of 53.98s. There are various other labels and notations on the map, but no photographic imagery is present.
+Here is the text I can read from the document:
 
 UNCLASSIFIED
-AF588375 
-OFFICE 31 MAY
+
+SIAPENCE WHITE #2
+
+TILLAMOOK, OREGON
+BALLOON RELEASED
+MONDAY EVENING
+
+TILLAMOOK BALLOON
+52,000
+0,530 OB
+
+AF548375
+Incl # 3
+
+Cities/locations visible on the map include:
+- Seattle
+- Tacoma
+- Portland
+- Yakima
+- Eugene
+
+The document appears to be a map with grid coordinates and notations about a balloon release in Tillamook, Oregon.
+
+At the bottom of the document, it is marked "UNCLASSIFIED".
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a document listing plots of unidentified objects and their coordinates, categorized as "Violator Track" and "Fighter Track". The document is classified as "UNCLASSIFIED" and is dated "16 May 1953".
+UNCLASSIFIED                                                   14 May 1953
 
-LISTING OF PLOTS OF UNIDEN AIRCRAFT AND TME RECOVERY PLOTS
-OF FLIGHTS HERE AND FLIGHTS TO ME WITH COORDINATES AND TIMES
+LISTING OF PLOTS OF UNKNOWN TRACKS B - 14, G AND THE INTERCEPT PLOTS
+OF PHOTO HILO AND FRONTO BLUE WITH COORDINATES AND TIMES (u)
 
-VIOLATOR TRACK
-Georef Grid        Time
-1. RB 4343        05566
-2. RB 4335        05620
-3. RB 4326        05642
-4. RB 3319        05614
-5. RB 3312        FADED AT 05376
+VIOLATOR TRACK                                                FIGHTER TRACK
+Georf Grid                   Time                            Georf Grid                   Time
+1. KB 4848                   0156%                           1. NC 1919                   0752%
+2. KB 4853                   0502%                           2. NC C120                   0516%
+3. KB 4555                   0504%                           3. NC 4822                   0519%
+4. KC 3902                   0511%                           4. NC 0932                   0526%
+5. KC 3229                   0515%                           5. NC C135                   FADED AT 0531%
+6. KC 2218                   0527%
+                             FADED AT 0536%
 
-FIGHTER TRACK 
-Georef Grid        Time
-1. LO 1921 (w0 hite)  05122
-2. LO 1130            05164
-3. LG 0522            05114
-4. RG 0135            05122
-5. RB 2135            FADED AT 05114
-
-(Georef Grid)
-1. RB 2315            05244
-2. RG 2030            05230
-3. LM 3221            05402
-4. LO 4623            05474
-5. LF 3020            05446
-6. LF 1550            05471
-7. LF 1030            05449
-8. LF 1035            05550
-9. LF 1500            05292
-10. LF 2035           05304
-11. LF 2035           05292
-12. LF 2060           05304
-13. LF 2035           05292
-14. LF 2035           05292
-15. LF 1550           05256
-16. LF 1030           05114
-17. LF 1430           05304
-18. LF 2874           05114
-19. LF 3342           05242
-20. LF 3636           05204
-21. LF 3530           05214
-22. LF 1632           05200
-23. LF 1590           05214
-24. LF 1759           05227
-25. LF 1619           05217
-26. LF 2017           05227
-
-FADED AT 05302
+(Fronto White)                                               (Fronto Blue)
+1. NC 2215                   0534%                           1. NC 2215                   0535%
+2. NC G115                   0535%                           2. NC G115                   0538%
+3. NC 5020                   0538%                           3. NC 5020                   0540%
+4. NC 3221                   0540%                           4. NC 3221                   0542%
+5. NC 2023                   0541%                           5. NC 2023                   0545%
+6. NC 4823                   0545%                           6. NC 4823                   0547%
+7. NC 2030                   0546%                           7. NC 2030                   0549%
+8. LC 1530                   0548%                           8. LC 1530                   0549%
+9. LC 1630                   0549%                           9. LC 1630                   0550%
+10. LC 0132                   0550%                          10. LC 0132                   0550%
+11. NC 4333                   0551%                          11. NC 4333                   0553%
+12. NC 3035                   0553%                          12. NC 3035                   0556%
+13. FADED                                                    13. NC 1050                   0556%
+14. NC 1050                   0606%                          14. NC 2050                   0610%
+15. NC 2050                   0612%                          15. NC 1452                   0612%
+16. NC 5854                   0614%                          16. NC 1549                   0618%
+17. LC 1549                   0618%                          17. LC 3212                   0622%
+18. LC 3212                   0622%                          18. LC 5038                   0624%
+19. LC 5038                   0624%                          19. LC 1632                   0626%
+20. LC 1632                   0626%                          20. LC 1930                   0628%
+21. LC 5938                   0627%                          21. LC 2530                   0629%
+22. LC 1632                   0627%                          22. NC 3822                   0630%
+23. LC 1930                   0628%                          23. NC 1721                   0631%
+24. LC 2530                   0629%                          24. NC 0219                   0633%
+25. NC 3822                   0630%                          25. NC 1018                   0634%
+26. NC 1721                   0631%                          26. NC 2017                   0635%
+27. NC 0219                   0633%                          FADED AT 0636%
+28. NC 1018                   0634%
+29. NC 2017                   0635%
+                             FADED AT 0636%
 
 UNCLASSIFIED
+AF548375
 
-AF54H375
 
 - page 3 -
 
-The image appears to be a map or chart labeled "UNCLASSIFIED" depicting a geographic area in the Pacific Northwest region of the United States, including the states of Washington and Oregon. There are no photographs present, only a map with various labels and annotations.
+Text found in the document:
 
 UNCLASSIFIED
-JG  |  KD       | LC         | MC           | PC       | QC
-JO  |  KG       | LB         | MB           | PB       | QB
-JA  |  KA       | LA         | MA           | PA       | OA
-GRANTS  
-PASS
 
-SEATTLE
-TACOMA
-PORTLAND
-EUGENE
+PRONTO BLUE
+
+PRONTO WHITE
+
+Cities visible on the map:
+- Vancouver
+- Victoria
+- Seattle
+- Tacoma
+- Portland
+- Eugene
+
+The document appears to be a map of the Pacific Northwest region of the United States and Canada, with grid coordinates and two circular markers labeled "PRONTO BLUE" and "PRONTO WHITE" at different locations on the map.
+
 
 - page 4 -
 
-The image provided does not contain a photograph. It appears to be a map or chart with various grid lines and coordinates.
+Text found in the document:
 
-UNCLASSIFIED
-AFS-18375
-49°-L-N
-124°-30'-N
+AFS48375
+
+Unclassified
+
+Coordinates/Grid Labels:
+JO, KO, LO, MO, NQ
+Eugene
+JP, KP, LP, MP, NP, PP
+JN, KN, LN, MN, NN, PN
+125°LN, 123°NN, 122°PN
+
+The document appears to be a grid or map reference sheet with various alphanumeric grid references and a partial outline of what seems to be a coastline or geographic boundary.
+
 
 - page 5 -
 
-The image does not contain a photograph. It appears to be a page from a Project Blue Book report, specifically an Air Intelligence Information Report.
+Here is the text from the document:
 
-OCR output:
+AF FORM 112-PART 1
+APPROVED 1 JUNE 1948
 
 UNCLASSIFIED
-AF FORM 112—PART I
-APPROVED 1 JUNE 1951
+
+COUNTRY
 USA
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-AREA: Pacific Northwest-Washington and Oregon States
-TYPE OF REPORT: Unknown Tracks
-DATE OF REPORT: 16 May 53
-ATTENTION: Air Target Division (Defense)
-REPORT BY: Major Neil A. Vosburgh, USAF
-SUMMARY: (Enter concise summary of report. Give significance to final one or more sentences.) A summary of operations and investigative action with some conclusions is submitted as Unknown Tracks 6-13 and 16-17 May 1953.
+SUBJECT
+Unknown Tracks
+
+AREA REPORTED ON
+Pacific Northwest
+
+DATE OF REPORT
+16 May 53
+
+PREPARED BY (Officer)
+Major Neil A. Vosburgh, USAF
+
+DATE OF INFORMATION
+13 May 53
+
+FROM (Agency)
+Headquarters, 25th Air Division (Defense)
+
+SOURCE
+25th Air Division (Defense)
+
+SUMMARY: (Enter concise summary of report. Give significance in first sentence. List enclosures in lower left. Begin text of report on AF Form 113-Part (1))
+
+A summary of Operations and Investigative action with conclusions is attached on Unknown Tracks B-14-G and B-97-G 13 May 1953.
 
 NEIL A. VOSBURGH
-MAJOR OF INTELLIGENCE
-DIRECTOR OF INTELLIGENCE
-25th AIR DIVISION (DEFENSE)
+Major
+Director of Intelligence
+
+ENCLOSURES:
+1. Statement - Tate
+2. Statement - Rodgers
+3. Overlay of Trk B-97-G
+4. Overlay of Trk B-14-G
+
+DISTRIBUTION BY ORIGINATOR
+w/1 incl (A-D)
+AT 13 DDB
+8 Jun 53
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT 50 U.S.C., 31 AND 32. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+
+UNCLASSIFIED
+
 
 - page 6 -
 
-The image does not contain any photographs. It appears to be an Air Intelligence Information Report from the Air Force Blue Book project, dated May 23, 1953.
+Here is the OCR text from the document:
 
-TRANSCRIPTION OF TEXT:
-
-UNCLASSIFIED
+AF FORM 112-PART II                                  UNCLASSIFIED
 AIR INTELLIGENCE INFORMATION REPORT
 
-PROJECT FILE NUMBER: IR T-230-S-53
-PAGE: 3
+FROM: Hqrs. 25th Air Division (Def)     REPORT NO.    TR-2,580-2-53/e
+                                         160593       PAGE    1 OF 3
 
-SECTION I (R-27-0) 23 MAY 1953
+SECTION I (B-97-Q) 13 MAY 1953
 
-1. Target, R-27-0, originating in Pacific ADIZ in KB 2325 at 0132 hours. Heading S 140° at 210 knots altitude and ground speed remained same throughout course.
-2. At 0139 target was observed on radarscope at 0132? and was unaccountable - he could not get a positive ID on the unknown.
-3. Sightings while (2 non-T aircraft vectored in on target) were also unsuccessful.
+1. Target B-97-Q, originating in Pacific ADIZ in KB 5255 at 0152 hours,
+heading 340° with 6,000 feet altitude and estimated 90 knots ground speed.
+Altitude and ground speed remained same throughout course.
 
-SECTION II (R-14-0) 23 MAY 1953
+2. Pronto Red (1 AI aircraft) was scrambled at 0332 and was unsuccessful - he could not get a visual on the unknown.
 
-1. Target, R-14-0, originating in Pacific ADIZ in KB 1346 at 0132 hours. Heading S 140° with 2,000 feet altitude and estimated 90 knots ground speed.
-2. Targets (all at 0302 hours) Captain "A" reported (Pronto Flight) target on scope could not establish positive ID. 
-3. CGI Director was Captain D. V. Jansen.
-4. Enclosure #3 is a chart containing diagram of the activity.
+3. Silence White (2 Non-AI aircraft) were also unsuccessful.
+
+4. Inclosure #1 is a statement by Captain S. D. Tate and Inclosure #2
+is a statement by 2nd Lt. D. L. Rodgers. Officers were Pronto Red crew.
+
+5. OCI Director was Captain D. V. Jensen, Station P-57.
+
+6. Inclosure #3 is a chart containing diagram of the activity. Also
+included is location of balloon mentioned in Section III, paragraph 4, this
+report.
+
+SECTION II (B-46-Q) 13 MAY 1953
+
+1. Target B-46-Q, originating in Pacific ADIZ in KB 4848 at 0156 hours,
+heading 340° with 6,000 feet altitude and estimated 60 knots ground speed.
+Altitude and speed remained same throughout course.
+
+2. Pronto Blue (1 AI aircraft) scrambled at 0528z hours and Pronto White
+(1 AI aircraft) scrambled at 0508z hours. Captain D. Jarrett (Pronto Blue)
+and 1st Lt. A. Young (Pronto White) both of 317th Fighter Interceptor Squadron
+were Intercept Pilots. Pronto White had to abort due to radar troubles.
+Pronto Blue searched area but could not find the Bogies.
+
+3. OCI Director was Captain D. V. Jensen.
+
+4. Inclosure #4 is a chart containing diagram of the activity.
 
 SECTION III OTHER PERTINENT FACTORS
 
-1. In answer to query, Coast Guard vessels reported saw small as moving objects at 0800 51 (3 miles) also having sharp breaking curves. Visual contact could not be maintained, possibly due to radar trouble, no 15° activity in area for reported large vessel in area which was located.
-2. Noah Day could at no time paint the unknown but was painting friendly aircraft.
+1. In answer to query, Coast Guard vessels reported sea swells as moving
+on a course of 050° with swells 9 feet high having sharp breaking crests
+moving in at 6 second intervals. Surface winds from North at 4 knots. No
+visual or unknown by three Coast Guard vessels in area. Did see and hear jets.
+
+2. Coast Guard, Navy, RCAF and AMIS were coordinated with. All reported
+no air activity in area. NST reported large vessel in area which was located
+by radar.
+
+3. Noah Bay could at no time paint the unknown but was painting friendly
+aircraft.
+
+[Note section at bottom about document transmission restrictions]
+
 
 - page 7 -
 
-There is no photograph present in this page of the UFO report document. 
+Here is the OCR text from the document:
+
+AF FORM 112-PART II                                  UNCLASSIFIED
+APPROVED 1 JUNE 1950
 
 AIR INTELLIGENCE INFORMATION REPORT
-1. 12-2480-2-530
-6009
-PAGE 2 OF 3 PAGES
-1. A holy Moly Project (which was checked for balloon activity) on Monday 25 May 1953 may have involved the sighting of objects near Yakima Washington and Vancouver Washington. The report states that on 25 May 1953 a balloon moved in opposite direction to L 5000 at 05:36.
-2. Wind was from NE at 5,000 feet, 20 knots.
-3. Coast Guard Radars operation at Westport, Washington reported receiving primary targets on 500 ft. chart at 2330 and 2345 which were unidentified. These could not be identified and may have been related to the balloon move.
-4. Port Hardy Radio Range Station, Vancouver Island, BC reported that they had been monitoring 500 KC. The Coast Guard radio operator reported that they had detected interference to this frequency which could be utilized for homing to effect a recovery.
 
-5. Major Denman, Operations Officer, 317th Fighter Interceptor Squadron, was made out in a 1-29 and reported that he had made contact with numerous fishing boats in the area which were painted by the AF Interceptors, the B-25 and by PGH.
+Hqs. 25th Air Division (Def)                          16053                 PAGE    2   OF    3   PAGES
+
+4. Moby Dick Project at Tillamook was checked for balloon activity.
+   One balloon was released at Tillamook on Monday evening and moved to NW 5010
+   Tuesday AM. It hovered there at 55,000 feet over four hours until pressure
+   was equalized and balloon moved in opposite direction to LA 5000 at 0530Z
+   hours, 13 May 1953.
+
+5. Wind was from NE at 5,000 feet, 20 knots.
+
+6. A Coast Guard radio operator at Westport, Washington reported receiving
+   intermittent CW transmissions on 500 kcs that were very weak and unintelligible. Transmissions were intermittent lasting from 30 seconds to 1½ minutes, beginning
+   just prior to 0500Z hours and ending shortly after 0600Z hours. They were also
+   heard by Department of Transport, Port Hardy Radio Range Station, Vancouver
+   Island. No bearing could be obtained due to weak signals. The FCC monitoring
+   station at Portland was queried as to receipt and reported negative; however,
+   they had been monitoring 500 kcs. The Coast Guard radio operator reported
+   that he thought that there were three different transmitters involved in the
+   signals he was receiving and that it sounded like they were using a technique
+   that can be utilized for homing to effect a rendezvous.
+
+7. Major Deckert, Operations Officer of 317th Fighter Interceptor Squadron
+   was sent out in a B-25 around 2300 hours PST. He searched within a 200 mile
+   radius for surface vessels capable of launching or carrying small aircraft.
+   All ships located were determined to be friendly. Visual surveillance was
+   accomplished on several ships after daybreak. On headings of 210° Major Deckert
+   received no pickup. On 240° he was flying directly into (against) the 91 feet
+   high swells. The swells were so steep that forming a cup and angle to reflect the
+   radar energy. On the reciprocal course the aircraft was flying
+   with the swells, the crests breaking very far in his. This would appear to
+   explain there were no radar returns at proper angle to reflect the
+   radar energy.
+
+8. There were numerous fishing boats in the area which were painted by
+   the AI interceptors, the B-25 and P(left blank).
 
 SECTION IV DISCUSSION
-1. A study of the alingment of plots provided by station P-57 on these tracks and the report from personnel at the station that the blips looked unusual led to the conclusion that the blips/plots were caused by some considerable distance from the radar station. Considering that the sea was running in a direction that would result in the tracking of sea returns, the conclusion was that a target a considerable distance from the station was being tracked and that the four returns plotting to the ground station would be a false return and a range of targets beyond the radar station would be obtained.
+
+1. A study of the alignment of plots provided by station P-57 on these
+   tracks and the report from personnel at this station that the blips located
+   were normal and did not resemble wave blips, leads one to conclude that these
+   were airborne objects. This conclusion can be further substantiated when
+   considering that the sea swell was running in a direction that would result
+   in a very shallow contact angle between the beamed energy and the face of the
+   swells in the vicinity of the unknown. Therefore, little or no radar energy
+   would be reflected back to the receiving system of the ground station. This
+   conclusion is further substantiated by the results obtained from AI radar
+   when on certain headings during this time period.
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U. S. C...
+[rest of note is cut off]
 
 UNCLASSIFIED
 
+
 - page 8 -
 
-There is no photograph in this image. This appears to be a page from a Project Blue Book document discussing a report from the 25th Air Division (Defense) related to an incident where a station called F-4h was unable to pick up certain tracks.
+Here is the text from the document:
 
-The text of the document is as follows:
+AF FORM 112—PART II
+APPROVED 1 JUNE 1948
 
-"FROM: 25th AIR DIVISION (Def)
-TO: DIRECTOR OF INTELLIGENCE, USAF
-SUBJECT: UNCLASSIFIED AIR INTELLIGENCE INFORMATION REPORT 
+UNCLASSIFIED
+AIR INTELLIGENCE INFORMATION REPORT
 
-1. The fact that station F-4h was unable to pick up these tracks when they were within the surveillance capability of that station reflects the deterioration of the monitoring equipment at that station. This condition reflects the inability of the Air Force to properly monitor air traffic and numerous fishing boats and some ocean vessels.
+Hqo, 25th Air Division (Def)                16055                                PAGE 3 OF 3 PAGES
 
-2. A close watch toward ocean-going vessels from Tatocush Island (near Neah Bay?) appeared to be a matter between 1500 and 1700 feet from the station, yet the tracking equipment was unable to pick up the tracks. This could indicate that the station's equipment is in need of repair and adjustment. It is noted that F-4h is manned by personnel from WSAF, who have been charged with the development of ground and universal radar units and may develop and blink may appear on scope when actually no aircraft object is present.
+2. The fact that station P-kh was unable to pick up these tracks when they were within the surveillance capability of their station refuses the conclusion, to some extent, that these were airborne objects. P-kh had completed their weekly maintenance that morning and the set was painting friendly air traffic and maneuvering flashing boats and some ocean vessels.
 
-3. It is further noted that site F-4h was below the level of the surrounding terrain and that the equipment installation was made during the winter conditions, which may have a bearing on the null area for F-4h at the present altitude setting. More detailed examination may be required.
+3. At 0400z a radio sonde observation report from Tatoosh Island (near Bay) reported a six degree temperature inversion between 1500 and 1700 feet MSL. This radio sonde was determined during the Research Calibration tests conducted at P-57 by personnel from USAF, Research-Development Command and University of Texas, that unusual phenomena can and will occur during inversion which can have varied results on radar energy. The energy may be reflected, null areas may develop and blips may appear on scopes when activity no airborne object is present at that location. These specialists were unable to provide proven criteria, at that time, for practical application by the ACEW system. It is noted that site P-kh was below the level of the existing inversion and that if the inversion's altitude was 1500 to 1700 feet at the vicinity of P-57, that site equipment was above the inversion. Such a condition may have developed a null area for P-kh at the Bogey's altitude or P-57 may have been receiving energy reflected from a localized unusual atmospheric condition. Note Captain Tate's comments (Inclosure Fu) about target at 2000 feet.
 
-4. The Westport Coast Guard station is located at AD 2291. The unknown tracks are within 50-75 miles of that station. The Coast Guard Headquarters at Seattle has been notified of this traffic and stated that they have not been able to identify any unusual vessel activity on their 500 kc marine monitor station's equipment. The Coast Guard has stated that they will continue monitoring the situation and will attempt to identify or track any vessels known to be in vicinity of tracks as reported on the CCG monitor station's equipment.
+4. The Westport Coast Guard station is located at LB 5253. The unknown tracks were within 50 to 100 miles of this station during the time the radio operator was receiving transmission on 500 kcs. Coast Guard Headquarters at Seattle provided the ADDC information regarding these signals because of ADDC controller's previous request. For purpose of visual sighting, Coast Guard vessels known to be in vicinity of Track B-97. Portland FCC Monitor Station's inability to read signals on 500 kcs could be attributed to weak signal strength.
 
-SECTION V - CONCLUSION 
+SECTION V    CONCLUSION
+
 1. This Headquarters is unable to further evaluate these tracks.
-2. No firm conclusions can be reached as to identity of subject tracks."
+
+2. No firm conclusions can be reached as to identity of subject tracks.
+
+[Handwritten notes and a small sketch at the bottom of the page]
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31-32. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+
+UNCLASSIFIED
+
 
 - page 9 -
-
-The image does not contain any photographs. It appears to be a scanned page from a document or report.
 
 UNCLASSIFIED
 
 STATEMENT
 
-At approximately 0l:32 hours (about 1:32 am) were sighted on the north-south radar of the Ground Observer Corps station at Grant's Pass, Oregon, a target of moderate intensity. The target was followed by Shelton in the Radar Operation Room for approximately 8 minutes when it faded from the radar screen. It was estimated that the target covered a distance of approximately 20 to 25 miles during this time.
+At approximately 01:337 we (Pronto Rad) were scrambled after an unknown Vector 270, 1 30. Then we were 15 miles west Shelton to contact Chancellor and given a Vector of 250, Dorey 12 o'clock, 70 mi. At that time we heard Chancellor &cptdn. to work: Skroede (Mike) on a Vector 270, 4 miles out. We have no success.
 
-The target reappeared on the radar screen about 10 minutes later and was followed for an additional 15 minutes. At times the target was lost and then regained, leaving the impression that it was manuvering or changing altitude very rapidly. Subsequent observation from the station indicated that the target was apparently off the southwest at an estimated azimuth of 210 degrees to 220 degrees and appeared to be at a relatively high altitude.
+Chancellor gave the Bogey's approximate altitude as 5,000 feet. As he closed with 4 miles, my radio operator said he was "looking up something" that looked like ground return at that range; however, we found nothing. GCI again took him up on the Borey, and the radio operator got intermittent contacts and although we controlled might back to 180 kts, he charged. The radio operator on the next pass determined that the target was slightly below us or we dropped down to 2,000 feet. He then got some good contacts plus lock-on.
 
-The operator stated that the target seemed to be traveling at a speed that appeared to be greater than that of any known aircraft. The radar set was functioning properly and was checked thoroughly during the time of observation. The operator of the radar set stated that he had never seen anything like it before.
+We used our 24 hour Intercept log. One pass, two passes, to the port, one slightly starboard and one dead ahead. We crossed were range and saw nothing—no-to-the-action-and-appearance of the target. We determined that they were probably about 2 miles from us. The targets seem to have no movement or their own as we had a large over-take speed on all. If they had been solid targets, we would have seen or collided with some. Two boats in the area were picked up clearly and easily with our weapon.
 
-The incident was reported promptly through channels, and all pertinent information was forwarded to the Air Defense Command. The radar data and visual observation was the only report received from this area covering this incident.
-
-S. P. DALE
+S. T. TAE
 Captain, USAF
+
+UNCLASSIFIED
+
+AF548375
+
+Incl 1°
+
+[A received stamp shows "MAY 20 1953"]
+
+
+- page 10 -
+
+UNCLASSIFIED
+
+As soon as we were airborne I started checking the radar. The cut looked good as the ground return was very sharp and distinct. After passing the coastline I picked up a large group of targets, close together making a continuous high as ground return. These targets were approximately 12,000 - 15,000 yards out. Chancellor continued to vector us on into the target and when we got into 6,000 - 8,000 yards the individual targets began to show up. We were at 5,000 - 6,000 feet. We throttled right back to 150 - 200 knots and obtained a lock on, overshots over 100 knots. We then went into a hard port turn and broke lock, losing contact at approximately 400 - 500 yards. We flew through, around and looked on several of these contacts. We also made contact with a number of ships and experienced no difficulty making a visual on them. We believe these contacts were clear.
+
+D. L. DOUGLAS
+2d Lt. USAF
+
+UNCLASSIFIED
+
+Received stamp shows: MAY 20 1953
+
+AF548375
+
+
+- page 11 -
+
+UNCLASSIFIED
+
+15 May 1953
+
+LISTING OF PLOTS OF UNKNOWN TRACK B-977-Q AND THE INTERCEPT PLOTS
+OF SIXPENCE WHITE 1 AND 2 AND PRONTO RED WITH COORDINATES
+AND TIMES (2)
+
+VIOLATOR TRACK                                FIGHTER TRACK
+George Grid                Time               George Grid                Time
+1. KC 5255                 04152               1. LC 4805                04302
+2. KC 4801                 04192               2. LC 1009                04342
+3. KC 4309                 04262               3. LC 5215                04362
+4. KC 4012                 04312               4. KC 5520                04382
+5. KC 4115                 04362               5. KC 1025                04392
+6. KC 3518                 04402               6. KC 3820                04422
+7. KC 3323                 04442               7. KC 3230                04482
+8. KC 2239                 04502               8. KC 3029                04552
+9. KC 2093                 04582               9. KC 1012                05072
+10. KC 1438                 05052              10. LC 2845                05092
+11. KC 0849                 05092              11. KC 5058                05102
+                            FADED AT 05142      12. LC 0901                05112
+                                                13. LD 9903                05132
+                                                14. LD 1013                05182
+                                                15. LD 1306                05212
+                                                16. ND 1002                05242
+                                                17. ND 4059                05272
+                                                            FADED AT 05312
+
+                                                (Sixpence White 2)
+                                                1. LC 4505                04302
+                                                2. LC 2535                04372
+                                                3. LC 4038                04382
+                                                4. LC 5840                04412
+                                                5. NC 0650                04432
+                                                6. NC 2056                04452
+                                                7. ND 3303                04502
+                                                            FADED AT 04502
+
+                                                (Pronto Red)
+                                                1. LC 1022                04462
+                                                2. LC 3825                04502
+                                                3. LC 1825                04512
+                                                4. LC 5626                04552
+                                                5. KC 2531                04572
+                                                6. KC 1540                05012
+                                                7. KC 1241                05072
+                                                8. KC 0140                05152
+                                                9. KC 0547                05282
+                                                10. KC 1035                05352
+                                                11. KC 1528                05374
+                                                12. KC 1522                05382
+                                                13. KC 2022                05412
+                                                14. KC 0831                05432
+                                                15. KC 0634                05452
+                                                16. KC 2040                05482
+                                                17. KC 3235                05502
+                                                18. KC 4835                05512
+                                                19. LC 0138                05532
+                                                20. LC 1035                05542
+                                                21. LC 5930                06002
+                                                22. LC 1525                06032
+                                                23. NC 0118                06072
+                                                24. NC 1608                06112
+                                                25. NC 2804                06132
+                                                            FADED AT 06142
 
 UNCLASSIFIED
 AF548375
 
-- page 10 -
-
-The image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book.
-
-Text Output:
-
-UNCLASSIFIED
-
-It was noon and we were watching the ground return as we started descending. The ground return was very sharp and distinct. After passing the ground return, a continuing light was ground return done. There are masses called ground mass returning, passing the ground plane, about 5-600 yards up. Suddenly, a light became apparent. It was rapidly maintaining about 1100 - 1200 knots, the individual lights appeared distinct, they were also up and down, and they appeared to be slowing down. They were not coming together, but spread out, about 50-100 knots. There is one light that took a look at, overtake over 100 knots. We then went into a hard right turn and headed back, looking at these lights. They appeared to be real, approximately HOD - 500 yards. We flew through this around and looked at several of these objects. We also made another descending pass of this item and some pictures were taken. The item or items were above the clouds. AF54-375
-
-UNCLASSIFIED
-
-- page 11 -
-
-There does not appear to be any photograph or image present in this page from the UFO report document. The page seems to contain a listing of plots of unknown track B-97-D and the longest plots of sightings, times, and other numerical data.
-
-UNCLASSIFIED
-15 MAY 1953
-
-LISTING OF PLOTS OF UNKNOWN TRACK B-97-D AND THE LONGEST PLOTS OF SIGHTINGS WHICH 2 AND 2 AND PHOTO RED LIGHT CONDITION
-AND TIMES (2)
-
-VIOLATOR TRACK                                PICKUP TRACK
-SECRET GRID                  TIME             GEOREF GRID                  TIME
-1. KB 5252                   0415Z            1. LG 4805                   0430Z
-2. KB 5487                   0412Z            2. LG 1009                   0438Z
-3. KB 4013                   0419Z            3. KB 5225                   0430Z
-4. KB 4215                   0414Z            4. KB 3625                   0438Z
-5. KB 4115                   0422Z            5. KB 4225                   0442Z
-6. KB 4113                   0424Z            6. KB 3830                   0448Z
-7. KB 3333                   0440Z            7. KB 3230                   0452Z
-8. KB 3336                   0444Z            8. KB 3235                   0454Z
-9. KB 3356                   0448Z            9. KB 3231                   0510Z
-10. KB 1438                  0502Z            10. KB 1042                   0507Z
-11. KB 0839                  0527Z            11. LB 2845                   0523Z
-                             FADED AT 0542Z                               FADED AT 0531Z
-
-                                             (Pronto item)
-                                             1. LG 1022                   0445Z
-                                             2. LG 3822                   0451Z
-                                             3. LG 1825                   0457Z
-                                             4. MB 2531                   0501Z
-                                             5. KB 1247                   0507Z
-                                             6. KB 1244                   0512Z
-                                             7. KB 0931                   0518Z
-                                             8. KB 0247                   0522Z
-                                             9. KB 1028                   0528Z
-                                             10. KB 0235                  0532Z
-                                             11. KB 1322                  0534Z
-                                             12. KB 0931                  0542Z
-                                             13. KB 0634                  0546Z
-                                             14. KB 3245                  0552Z
-                                             15. LB 4435                  0558Z
-                                             16. LB 4034                  0601Z
-                                             17. LB 3228                  0605Z
-                                             18. LB 4038                  0611Z
-                                             19. LB 4305                  0615Z
-                                             20. MB 2204                  0621Z
-                                             21. BB 3229                  0626Z
-                                             22. MB 1609                  0631Z
-                                             23. MB 2864                  0636Z
-                                             24. MB 1304                  0641Z
-                                             25. NB 0230                  0646Z
-
-UNCLASSIFIED
-AF543875
 
 - page 12 -
 
-The image appears to be a map or diagram with various markings and annotations. There is no visible photograph in this particular image.
+Here is the text I can read from the document:
 
-OUTPUT:
 UNCLASSIFIED
-BALLON SZASON TESDAY A.M.
-SEATTLE TACOMA
-SIXPENCE WHITE
-CRONTO
-END
-TILLAMOOK OREGON
-BALAGON BALOWN REPORTED
+
+BALLOON
+55,000'
+17:05 SAT AM
+
+SIXPENCE
+WHITE
+#1
+
+SIXPENCE
+WHITE
+#2
+
+PRONTO
+RED
+
+TILLAMOOK, OREGON
+BALLOON RELEASED
 MONDAY EVENING
-PORTLAND
+
+Cities/locations visible on the map include:
+- Vancouver
+- Victoria
+- Seattle
+- Tacoma
+- Portland
+- Yakima
+- Ellenburg
+
+The document appears to be a map of the Pacific Northwest region of the United States and Canada, with various grid coordinates and notations about balloon releases.
+
 
 - page 13 -
 

@@ -1,28 +1,74 @@
-The image does not contain any photographs. It appears to be a form from Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs). The form is titled "PROJECT 10073 RECORD CARD" and contains information about a UFO sighting that occurred on 20 Oct 52 in Knoxville, Tennessee. The form includes details such as the location, type of observation, number of objects, duration of observation, and comments about the sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE  20 Oct 52
-2. LOCATION KNOXVILLE, TENNESSEE
-3. DATE-TIME GROUP Local
-4. TYPE OF OBSERVATION Ground-Visual
-5. PHOTOS 5 Yes
-6. LENGTH OF OBSERVATION 1 - 2 Mins.
-7. NUMBER OF OBJECTS 6
-8. COURSE Straight 
-9. CONCLUSIONS
-   Was Balloon
-   Probably Balloon
-   Possibly Balloon
-   Was Aircraft
-   Probably Aircraft
-   Possibly Aircraft
-   Insufficient Data for Evaluation
-10. BRIEF SUMMARY OF SIGHTING: Six white objects were seen by weather observer following path similar to balloon release as balloon. 
-11. COMMENTS: 1. Observed by theodolite, very similar to other observations in our files.
+
+1. DATE
+21 Oct 52
+
+2. LOCATION
+KNOXVILLE, TENNESSEE
+
+3. DATE-TIME GROUP
+GMT
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+□ Air-Visual
+□ Ground-Radar
+□ Air-Intercept Radar
+
+5. SOURCE
+Weather Observer
+
+6. PHOTOS
+□ Yes
+[X] No
+
+7. LENGTH OF OBSERVATION
+1 - 2 Min.
+
+8. NUMBER OF OBJECTS
+6
+
+9. COURSE
+
+10. BRIEF SUMMARY OF SIGHT
+Six white objects were seen by weather observer following pitball balloon release by theodolite. Objects were about same size as balloon.
+
+11. COMMENTS
+1. Observed by theodolite.
+2. There are 2 other observations very similar to this in our files.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other: Insufficient Data for Evaluation
+[X] Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a typed document providing an extract of a report from the Weather Bureau Airport Station in Knoxville, Tennessee, dated October 21, 1952. The document describes an observed unexplained aerial phenomenon while following a 100-gram pilot balloon with a standard weather theodolite. The document provides details about the shape, color, size, and movement of the observed objects. There is no text to extract from the image, as the entire content is already provided in the description of the observed phenomenon.
+EXTRACT OF REPORT FROM WEATHER BUREAU AIRPORT STATION
+KNOXVILLE, TENNESSEE, DATED OCTOBER 21, 1952
+
+Observed unexplained aerial phenomena while following a 100-gram pibal balloon with the standard Weather Bureau theodolite. Six white or whitish objects in a very loose formation appeared in the theodolite vision field. These were sighted 57 minutes after release of the standard white 100-gram pibal balloon. This would give an altitude of 16,565 meters, or 54,347 feet MSL. The elevation angle was 36.5° and the azimuth angle was 267.6°.
+
+While holding the loose formation of two, three, one, objects appeared to execute a long shallow dive at the rising balloon, such as to investigate it. Formation appeared to pass the balloon and pulled up a sharper angle than the diving approach and at increased speed. Pibal balloon disappeared from view at 58,022 feet MSL. Could have burst.
+
+FACTS AS OBSERVED
+
+Shape - appeared round, or nearly so.
+Color - white or whitish near the shades of the balloon.
+Size - appeared about the same size as the balloon at that altitude.
+Sighted - one and one-half to one and three-quarter minutes.
+
 
 - page 2 -
 

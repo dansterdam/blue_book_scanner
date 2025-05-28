@@ -1,69 +1,126 @@
-The image does not contain any photograph. It appears to be a scanned page from a Project Blue Book record card, which is a document used to record UFO sightings and observations.
-
-The text from the document is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 25 November 1951
-2. LOCATION: Bimini, Key West, Fla.
-3. DATE-TIME GROUP: 25/18352
-4. TYPE OF OBSERVATION: D Ground-Radar
-5. PHOTOS: No
-6. SOURCE: Military
-7. LENGTH OF OBSERVATION: N-T REPORTED
-10. BRIEF SUMMARY OF SIGHTING: Five objects moving south 20 miles east of Bimini still traveling smoke.
-11. COMMENTS: Original message not received. Insufficient data.
+
+1. DATE
+25 November 1951
+
+2. LOCATION
+Bimini, Key West Fla
+
+3. DATE-TIME GROUP
+Local: 25/18352
+GMT:
+
+4. TYPE OF OBSERVATION
+☒ Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+N.T REPORTED
+
+8. NUMBER OF OBJECTS
+5
+
+9. COURSE
+South
+
+10. BRIEF SUMMARY OF SIGHTING
+Five objects moving south 20 miles east of Bimini, still trailing smoke.
+
+11. COMMENTS
+Original message not received. Insufficient data.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other: INSUFFICIENT DATA
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+(ATIC FORM 329 (REV 26 SEP 52))
+
 
 - page 1 -
 
-There is no photograph present in this image. The image appears to be a document from the Department of the Air Force with an "Incoming Clear Message" header.
-
-DEPARTMENT OF THE AIR FORCE 
+DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE DIVISION
 INCOMING CLEAR MESSAGE
 
 EMERGENCY
-DEFERRED OF IIAY 1950
-FROM: HAS KEYWEST FLA
-TO: 3ITACI::ED MESSAGES TOR ACT ION ADDRESSES..
-EXT: 261773
-DATE OF MASSAGE ON FOLLOWING PAGES.
-(AINDICI
-INFO : CIN
-AP IN : 2809
-(25 NOV 51)
-UNCLASSIFIED
+DEPT OF NAVY MSG
+
+FROM: NAS KEYWEST FLA
+
+TO: SEE ATTACHED MESSAGE FOR ACTION ADDRESSES.
+
+DATE: 261717Z                                                26 NOV 51
+
+Text of message on following page.
+
+[Handwritten: "U/Object" with a large circular marking]
+
+INFO: OIN
+
+AFTN IN: 2809                                                (26 NOV 51)                                                AB/CW
+
+AFHQ FORM 0-309D                                             UNCLASSIFIED
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a document from Project Blue Book, an official U.S. Air Force program to investigate unidentified flying objects (UFOs).
-
 EMERGENCY
-DEP D138 NOV 1951
 
-0 2615542
-FN CONS IX
-TO BEGO/CORNERASTSEFRGN
-BKDG/CINCLANTFLT
-BET1V/CND
-INFO BEHAGS/CCMD SEVEN MIAMI
-BEHAAR/NAS MIAMI
-RECLAI/CONSUBLANT
+BEP D108
 
-O 2617472
+NOV 1951
+
+O 2618542
+FM COMGIX
+TO BEGG/COMEASTSEAFRON
+BFKZC/CINCLANTFLT
+BFPW/CNO
+INFO BEMAG/CGCD SEVEN MIAMI
+BEMAA/NAS MIAMI
+BEGIAI/CONSULBLANT
+
+O 2617172
 FM NAS KEYWEST FLA
-TO JEDER /CG AIR DEFENSE COM D ENT AFF COLO SPRINGS COLO
-SECY DEFENSE WASH DC
-BERG/COMDR 5 NAVAL DISTRICT CHS CHARLSTN SC
-BEMC/COMDR AIR BASES & NAVAL DISTRICT NIP JACKSONVILLE FLA
+TO JEDEN/CG AIR DEFENSE COMD ENT AFD COLO SPRINGS COLO
+BEPW/SECRETARY DEFENSE WASH DC
+BERC/COMDR 6 NAVAL DISTRICT CHS CHARLESTON SC
+BEMC/COMBR AIR BASES 6 NAVAL DISTRICT NIP JACKSONVILLE FLA
 
-CIRVS AMPLIFYING REPORT QUOTE 18336 AT 15243Z REPORT FIVE OBJECTS
-MOVING SOUTH 23 MILES EAST BRAUN STILL TRAILING SHOOT
+CIRVIS AMPLIFYING REPORT QUOTE 183BM AT 1842E REPORT FIVE OBJECTS
+MOVING SOUTH 20 MILES EAST BIMINI STILL TRAILING SMOKE
 
-DISTF 03/32/ -AF-ARNY ECTION
-25 222 JCS/SITROOM/ AFSA CG CIA CWO SECRET 282 226
+DIST:- 93/327 -AF-ARMY...ACTION
+05 222 JCS/SITROOM AFSA CG CIA CWO SECDEF 282 026
+
+DIST NR:- 184/TE/EW
 
 PEP N
-BEP JC BEFRU
+BEPJC
+BEPRU
+
+THIS MSG
+PASSED BY ELECTRICAL
+MEANS TO CA
+
+NAVY GRNC
+
 
 - page 3 -
 

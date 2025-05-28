@@ -1,140 +1,184 @@
-The image does not contain a photograph, but rather a scanned document from Project Blue Book, which appears to be a record card. The card contains various fields filled out with information about an observation, including the location (Tokyo, Japan), the type of observation (Ground-visual), the number of objects observed (1-2), and a brief summary of the sighting.
-
 PROJECT 10079 RECORD CARD
-1. DATE  9-6-52
-3. TIME PERIOD 02/1900 JSTT
-5. LOCATION TOKYO, JAPAN
-4. TYPE OF OBSERVATION: Ground-Visual
-6. NO. OF OBJECTS: 1 - 2
-7. LENGTH OF OBSERVATION: 15 MIN - 1 HOUR
-8. BRIEF SUMMARY OF SIGHTING:
-Targets observed on ASA report of GCA units traveling at high speed. Distance/altitude could not be estimated. No sound reported. Targets varied from one to three, did not change in reported sighting.
-11. COMMENTS:
-Returns could have been caused by migrator targets. This type of observation frequently reported in Korea.
+
+DATE: 2 Sep 52
+
+LOCATION: TOKYO, JAPAN
+
+DATE-TIME GROUP: 0525/15
+
+SOURCE: ALCS Unit
+
+LENGTH OF OBSERVATION: 15 min - 1 Hour
+
+BRIEF SUMMARY OF SIGHTING:
+Target observed on PPI scope of GCA unit traveling nine miles north of Tokyo International Airport as speed 150-60 knots. Number of targets varied from one to three, did not hold formation. Blip size was similar to return from C-124, A/C. Target could not be sighted visually, although it was plotted to be at an altitude of less than 3000'.
+
+COMMENTS:
+1. Return could have been caused by migratory birds interfering with normal function of set.
+
+CONCLUSIONS:
+Was Balloon
+Probably Meteor
+Possibly Balloon
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Other: Malfunction
+Insufficient Data for Judgment
+
 
 - page 1 -
 
-There is no photograph present in this image. The image appears to be a scanned page from a Project Blue Book report about unidentified flying objects observed in the Tokyo area in September 1952.
-
-OCR text output:
+AF FORM 112-PART 1
+APPROVED 1 JUNE 1948
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-COUNTRY: JAPAN
-SUBJECT: UFOBRT
-DATE: 25 October 1952
-LOCATION: TOKYO Area
-DATE-TIME GROUP: 2 September 1952
-SOURCES: Lt Col USCAF GUSTO, Comndr, USAF AACS, Far East Air Transport Wing, APO 925
+CLASSIFICATION: [Illegible]
 
+COUNTRY: JAPAN
+REPORT NO: IR-40-52
+AREA REPORTED: Tokyo Area
+DATE OF REPORT: 2 September 1952
+PREPARED BY (Officer): Charles J. Malven, Capta., USAF (ATLO)
+REFERENCES: (C-M&R, 200-5, dated 29 Apr 52)
+
+SUMMARY:
 This report concerns unidentified flying objects picked up by the GCA Unit at Haneda AFB, Japan, and later contacted by GCI at Shiroi AFB, Japan. Personnel making the observations evaluate the contacts as being most probably birds.
 
 APPROVED:
-H. C. CHARLES S. HANSEL
+CHARLES Y. BANTILL
 Brigadier General, USAF
 Deputy for Intelligence
 
+[Bottom of document shows distribution list with various military units and commands]
+
+Note: This document contains information affecting the national defense of the United States within the meaning of the Espionage Act.
+
+
 - page 2 -
 
-This image does not contain any photograph or visual depiction. It appears to be a page from an old Air Intelligence Information Report document, specifically case number 1952-09-6382936 from Tokyo, Japan.
+Here is the OCR text from the document:
 
-The text in the document is as follows:
-
+AF FORM 112—PART II
 AIR INTELLIGENCE INFORMATION REPORT
-FROM: Lt(jg) A.J. Norwood, USN
-ATTN: Office, D/i PFAF
 
-1. The following letter concerning radar contact with unidentified objects was received from this office and forewarded for your information:
+FROM: ATTL Office, D/I FEAF                    REPORT NO. IR-40-52         PAGE 1 OF 2 PAGES
 
-SOURCE: M/Sgt. Joseph P. Wehling, AF 37,l53, 1956-1 AACS Detachment, NCOTC, GCA Section.
+1. The following letter concerning radar contact with unidentified objects was received from the 1503rd Air Transport Wing (MATS), APO 226:
 
-SUMMARY: On 2013 LST, 6 Sept 1952 source observed an unidentified object on the scope of the GCA radar at the Tokyo Air Base (Tachikawa Air Base). The object appeared as a very bright target and traveled at an estimated speed of 500-600 mph. The original target remained on the scope for 15 minutes while others were only observed for a period of from 2 to 3 minutes. The original target remained on the scope for 15 minutes.
+SOURCE: M/Sgt. Joseph H. Wehling AF 3734)833 1956-1 AACS Detachment, NCOTC, OGA Team, Tokyo International Airport (Haneda ARB).
+
+SUMMARY: At 20:15 LST, 2 September 1952 source observed an unidentified target on the PPI scope of the OCA unit. When first observed the target was 9 miles north of the field traveling at an estimated speed of 1.6 to 60 miles per hour on a heading of 90°, at an altitude of 3000 feet or less (PPI scope does not give elevation). During the next hour the number of targets observed varied between one and three. The original target remained on the scope for 15 minutes while others were visible for a full hour.
 
 The targets did not maintain formation.
 
-During periods of various directions the targets remained in the NE quadrant from the field.
+Targets moved in various directions but remained in the NE quadrant from the field (0° to 90°).
 
-The range of the targets varied from 6 to 14 mile from the field.
+The range of the targets varied from 16 miles to 1 1/4 mile from the field.
 
 There was no aircraft traffic reported in the local area at the time of the sighting.
 
 Source was unable to locate the targets by visual means.
 
-The visual sighting was described as 7 miles in scope, about the size of an F-80 aircraft, caused by a G-13, aircraft. Varying speeds from the estimated 20,000 broken clouds, visibility 7 miles, wind from NW at 2 mph, temperature 59°, dew point 75°.
+The targets produced a clearly visible echo on the PPI scope about the size of that caused by a C-124 aircraft.
 
-Short AB (32 lon 12 lat) was the time the targets were picked up and what the radar presented as returns from the objects. From a standpoint of pure speculation, correlation might be given to the possibility that migratory birds which have arrived in that area might on this occasion have presented a radar pattern somewhat comparable to that produced by the objects.
+The weather at the time of the sighting was: Estimated 10,000 broken clouds, visibility 7 miles, wind from NW at 6 mph, temperature 60°, dew point 75°.
 
-This report was not forwarded by electrical means due to the low evaluation.
+Shiroi AB (35 N 140 OE) stated that he was in telephone contact with the AC/W unit at the source base that the targets were picked up and the radar observers at that base also picked up the targets in the same area. It was the opinion of the source that the targets observed were birds. He could not however, account for the large echo produced by the targets.
+
+(Reporting Officer's Comment) From a standpoint of pure speculation consideration might be given to the possibility that migratory birds which have arrived from an area where radically material or cloud are present would produce a radar echo greater than that normally expected.
+
+This report was not forwarded by electrical means due to the low evaluation of the sightings and the delay in receipt of the report.
 
 COMMENT BY PREPARING OFFICER:
-Object is estimated as being approximately 55 miles NE-East of Haneda AFB. The object was found in the Southwest quadrant of that station. The radar operator search for GCA is not believed to be normally capable of picking up birds with sufficient clarity to be noticeable; however, it should not be entirely discounted as a possibility, especially on the basis that the objects maintained a very steady course over a period of 15 minutes.
+
+1. Shiroi GCI is located approximately 22 miles Northeast of Haneda AFB. The objects in the Northeast quadrant from Haneda, would also be at close range to Shiroi, in the Southwest quadrant of that station.
+
+2. The "S" band radar used for GCA Search and for GCI is not believed to be normally capable of picking up birds with sufficient return to be noticeable; however, it should be noted that for this period of the year (mid-August to October), the Japanese Ministry of Agriculture and Forestry states that there are large numbers of
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+
 
 - page 3 -
 
-There is no photograph present in this image. The image appears to be a page from an old UFO report document from Project Blue Book.
-
-OCR Text Output:
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-REPORT NO. IR-40-52 
-PAGE 2 OF 2 PAGES
+FROM (Agency)                     REPORT NO.                 PAGE      2     OF     2     PAGES
+ATIL Office, D/I FEAF             IR-40-52
 
-Migratory birds in the Tokyo area. These birds, mostly SNIPE and PLOVER, grow to appear larger in size as they approach from a distance of from 20 to 100 yards. Their flight is generally low, take place from sunrise to midnigit, and usually range from 500 to 15,000 feet, while the altitude when circling in local areas is generally much higher, in addition to local civil and military aircraft, there are often sighted in the area.
+migratory birds in the Tokyo area. These birds, mostly SNIPE and PLOVER, grow to great size, and are often larger than eagles. They fly towards the South in groups of from 20 to 160. Their flights particularly take place from sunset to midnight and their altitude varies from 1000 to 10000 feet. On long distance flights the altitude is usually 6000 to 10000 feet, while the altitude when circling in local areas is generally much lower. In addition, local owls and hawks often circle in the areas near the land at night.
 
-3. This contact was in approximately the same position as the contact on 5 Aug 52, and reported on FEAF IR-55-52, dated 12 Aug 52.
+3. This contact was in approximately the same position as the contact on 5 Aug 52, and reported on FEAF IR-35-52, dated 12 Aug 52.
 
-CHARLES A. WARREN
-Captain, USAF
-(ATLO)
+                                    CHARLES R. ALDEN
+                                    Captain, USAF
+                                    (ATLO)
+
 
 - page 4 -
 
-The image does not contain a photograph. It appears to be a document related to a report on a FIXCRAFT (unidentified flying object) sighting at the Tokyo International Airport in Japan on 25 September 1952. The report was received by the USAF (United States Air Force) and approved by Richard C. Hock, Chief, Intelligence Division.
+USA - NATS                                                  IR-584-52
 
-Text extracted from the document:
+FIXORPT
 
-USA - NATS
-FIXCRAFT
-Tokyo International Airport, Japan
-25 September 1952
-John E. Rhode, Major, USAF
+Tokyo International Airport, Japan                Hq, Pacific Division, NATS, Hickam AFB,T.H.
+15 September 1952                                 9 September 1952
+John E. Rhode, Major, USAF                        Indicated in report
 
-This is a FIXCRAFT, received this headquarters, from Pacific Air Transport Base, California, on 9 September 1952. No distribution by this headquarters other than to NATS agencies.
+This is a FIXORPT, received this headquarters, from 1501st Air Transport Group, Travis Air Force Base, California, on 12 September 1952. Date of information, 9 September 1952. No distribution by this headquarters other than to NATS agencies.
 
-APPROVED: RICHARD C. HOCK
-Lt Colonel, USAF
-Chief, Intelligence Division
+APPROVED:    INGRAM G. MACK
+             Lt Colonel, USAF
+             Chief, Intelligence Division
+
 
 - page 5 -
 
-The image does not contain any photographs. It appears to be a document containing text related to a Project Blue Book report.
+Here is the text from the document:
 
-5th Air Force Division, MAPS,
-Hickam AFB, T.H.
+[HEADER]
+IB-584-52
+Hq Pacific Division, MATS,
+Hickam AFB, T. H.
 
-SUBJECT: Unidentified Flying Objects, Tokyo International Airport (Haneda), 9 August 1952.
+SOURCE: Master Sergeant Joseph H. Wehling AF 3734433 1956-1 AACS Detachment, MCGIC, GCA Team, Tokyo International Airport (Haneda AB)
 
-1. The 5th Gunnery Squadron of the 3d Air Division, USAF, reported the following information:
+1. At 2015 LST, 2 September 1952, source observed an unidentified target on the ?21 scope of the GCA units. Then first observed the target was 9 miles north of the field travelling at an estimated speed of 120 to 150 mph on a heading of 90°, at an altitude of 3000 feet or less (PPI scope does not give elevations). During the next hour the number of targets observed varied between one and three. The original target remained on the scope for 15 minutes while others were visible for a full hour.
 
-a. On the night of 9 August 1952 a radar operator at the Tokyo International Airport (Haneda) tracked 10 unidentified targets on the radar scope. The targets were 9 miles east of the airport.
-b. During the next hour the number of targets observed varied between one and twelve.
-c. The targets maintained an estimated speed of 400 to 1,000 miles per hour while observed on the radar.
-d. The targets did not maintain formation.
+a. The targets did not maintain formation.
 
-2. From the data the targets moved in various directions but remained in the NE quadrant of the radar field.
+b. Targets moved in various directions but remained in the NE quadrant from the field (30° to 50°).
 
-a. The range of the targets varied from 16 miles to 1/2 mile from the field.
-b. There was no aircraft traffic reported in the local area at the time.
-c. Cause was unable to locate the targets by visual means.
-d. The targets produced a clearly visible echo on the PPI scope about 3 inches in diameter.
-e. The weather at the time of the sighting was: Estimated 10,000 broken clouds, visibility was 1/4 miles due to haze and heavy rain.
+c. The range of the targets varied from 16 miles to 1/4 mile from the field.
 
-3. This report was not forwarded by priority means due to the low evaluation of the sightings and the delay in receipt of the report.
+d. There was no aircraft traffic reported in the local area at the time of the sighting.
+
+e. Source was unable to locate the targets by visual means.
+
+f. The targets produced a clearly visible echo on the PPI scope about the size of that caused by a C-124 aircraft.
+
+g. The weather at the time of the sighting was: estimated 10,000 broken clouds, visibility 7 miles, wind from NW at 6 mph, temperature 30°, dew point 73°.
+
+2. Source stated that he was in telephone contact with the AC&W unit at Shiroi AB (35 49N 140 01E) at the time targets were picked up. The radar observers at that base also picked up the targets in the same area. It was the conclusion of the source that the targets observed were similar, however, account for the large echo produced by the objects.
+
+COMMENT OF PREPARING OFFICER: From a standpoint of pure speculation, consideration might be given to the possibility that radioactive material or clouds are present would produce a radar echo.
+
+This report was not forwarded by electrical means due to the low evaluation of the sighting and the delay in receipt of the report.
 
 JOHN E. RHODES
 Major, USAF
 Intelligence Officer
+
 
 - page 6 -
 

@@ -1,278 +1,535 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record card, which is a form used to document UFO sightings and observations.
+PROJECT 10073 RECORD CARD
 
-PROJECT 10079 RECORD CARD
-1. DATE: 20 August 52
-2. LOCATION: Kirtland AFB, N. Mexico
-3. DATE-TIME GROUP: 0300
-4. TYPE OF OBSERVATION: Ground-Radar
-5. PHOTOS: None
-6. SOURCE: Ground Radar
-7. LENGTH OF OBSERVATION: 3 minutes
-8. NUMBER OF OBJECTS: 1
-9. COURSE: E to W
-10. BRIEF SUMMARY OF SIGHTING: An unknown object was detected by ground radar.
+1. DATE
+   30 August 52
+
+2. LOCATION
+   Kirtland AFB, N. Mexico
+
+3. DATE-TIME GROUP
+   Local: 0300
+
+4. TYPE OF OBSERVATION
+   ☒ Ground-Visual   ☐ Ground-Radar
+   ☐ Air Visual      ☐ Air Intercept Radar
+
+5. SOURCE
+   Civilian
+
+6. PHOTOS
+   ☐ Yes   ☒ No
+
+7. LENGTH OF OBSERVATION
+   3 minutes
+
+8. NUMBER OF OBJECTS
+   1
+
+9. COURSE
+   E to W
+
+10. BRIEF SUMMARY OF SIGHTING
+    [No text in this section]
+
+11. COMMENTS
+    1. Balloon was released by Kirtland AFB.
+
+12. CONCLUSIONS
+    [Various checkboxes, but text is not clearly legible]
+
+ATIC FORM 329 (REV 26 SEP 52) is noted at the bottom of the document.
+
 
 - page 1 -
 
-The image does not contain a photograph, but rather appears to be a typed document or report. As an OCR (Optical Character Recognition) system, I will produce the following text output from the document:
+Here is the text from the document:
 
-ACTON 20 AUG 52 09 38
+ACTION
 
-TPGI 130V
-ID
-YAD 7 IN
-LTNP.T.P
-MNPG 1271
-RECORD 874
-PER USAF JEDUP JEDEN JODPL 44
-JEROD 6
-E 13-2 241
-CO EARTH AND KIRTLAND AFB N MEXICO
-COMP JARAG/DIR OF INTEL JO YEAR MARKED
-TWO (2) REPAIR TECH INTELL CIR WRAP OHIO ATTN ATIAC-CC
-LOCATION MAY AIR FORCE OOLO SPRINGS COLO
-JEPL/LCC HAAB HAMILTON AFB CALIF
-FLYOBPT 147 1/2 TRIANGULAR SHAPE GRA SIZE UNKNOWN CHA SILVER COLOR
-'WELL SUBJECT CAN ASSUADTATI'VE LIGHTING SHAPE FLORAL LIKE NOT ROUND CHA ICBURD
-TIME CHA DISAPPEARED VERY FAST SEEING TOP OF TREES IN OBS FURTH
-SIGHTING OF THE OBJECT PD 
-27 23 AUG 52 FOR APPROXIMATELY THREE MINUTES PD
-1 ALBUQUERQUE 55-302 196-37 ON TRIP SOUT TRAVELING UHF TO SAN 
-27 DISTANCE    
-2 OCCUPATION CARPENTER CHA NO EXPERIENCE IN IDENTIFICATION
-MILITARY OR OTHER AGT
-3 6700 14 222 21 VEY SO EFF UKD UH 8 TEST 32 PD 52 WINDS 
-ADFT
-WEATHER BALLON RELEASED AT KIRTLAND AFB 20/1622 AUG 52
-NOTES PD END
-22/22 AUG JODPD
+20 AUG 52 09 38:
+
+RAIDS
+WPC1280
+E YUB-7IN
+WYBOCE
+JCKA111
+JFKD0374
+FP JEPAG JEOPP JCDEN JMJPIL 444
+JL JN+D 6
+L 20 AUG 52 ZNJ
+JL CG 54TH ADD KIRTLAND AFB NMCX
+FC JEPAG/DIR OF INTEL HQ USAF WASIDC
+IWO-JEPAG/AIR TECH INTELL CTR WRAPS OHIO ATTN ATIAC-CC
+JBENTCG ENT AFB COLO SPRINGS COLO
+JMPLCGG WADF HAMILTON AFB CALIF
+FLYOBPPT 1429 /17 TRIANGULAR SHAPE CWA SIZE UNKNOWN CWA SILVER COLOR
+CWA ONE OBJECT CWA AERODYNAMIC FEATURES TRAIL PROPULSION NONE CWA SOUND
+NONE CWA DISAPPEARED VERY FAST BEHIND TOPS OF TREES WHICH OBSCURED POINT
+SIGHTING OF THE OBJECT PD
+/27 20/23 AUG 52 FOR APPROXIMATELY THREE MINUTES PD
+/37 VISUAL
+/AW ALBUQUERQUE 35-DEN 1952-37W SIGHTED SOUTH TRAVELING WEST TO EAST DISTANCE
+AND ALTITUDE UNKNOWN
+/57 OBSERVER OCCUPATION CARPENTER CWA NO EXPERIENCE IN IDENTIFICATION
+MILITARY OR OTHER ACFT
+/17 1-9-52 SCTD 14,000 DKM VSY 60 SRF WINDS NM 4 TEMP 83 DP 52 WINDS
+/ALOFT 200/10/20,000- -210/14/35,000-223/15
+/AV WEATHER BALLON RELEASED AT KIRTLAND AFB 20/0320Z AUG 52
+/57 NONE
+/37 NONE PD END
+/57 5452 AUG JNFRD
+
+Cg 1
+
 
 - page 2 -
 
-The image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book.
-
-TEXT EXTRACTED FROM THE DOCUMENT:
+PROJECT 10073 WORKSHEET
 
 I. GENERAL
-1. DATE: 8 Aug 52
-2. LOCATION: Kirtland AFB, New Mexico
-3. TYPE CASE: Ibasic Zebra
-4. WAS OBJECT OBSERVED FROM THE GROUND? Yes
-Naked Eye
-Binocul8r3
-Theodolite
-Telescope
 
-5. WAS OBJECT OBSERVED BY GROUND RADAR? Yes
-By One Set
-By Two Sets
-By Three Sets
+1. Date: [illegible]
+2. Location: [illegible]
+3. Time: Local: Zebra: [mostly illegible]
 
-6. WAS OBJECT OBSERVED FROM THE AIR? Yes
-A/C Observed Object
-Interception Attempted
-No Intercept Attempted  
+4. Was Object Observed from the Ground?
+   ☐ Yes
+   ☐ Naked Eye
+   ☐ Binoculars
+   ☐ Telescope
+   ☐ Other [illegible]
+   ☒ No
 
-7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT? Yes
-A/C Scrambled
-Visual Contact Made
-A/C Contact Made
-No Contact Made
+5. Was Object Observed by Ground Radar?
+   ☐ Yes
+   ☐ By One Set
+   ☐ By Two Sets
+   ☐ By Three Sets
+   ☒ No
 
-8. DID OBJECT CHANGE DIRECTION AT ANY TIME? Yes
-Normal
-Violent
+6. Was Object Observed from the Air?
+   ☐ Yes
+   A/C Observed Object
+   ☐ Interception Attempted
+   ☐ No Intercept Attempted
+   ☒ No
 
-9. IF OBJECT WAS A "LIGHT", WAS IT: Brilliant
+7. Were Aircraft Scrambled to Intercept?
+   ☐ Yes
+   ☐ A/C Scrambled
+   ☐ Visual Contact Made
+   ☐ A/T Contact Made
+   ☐ No Contact Made
+   ☒ No
 
-10. LENGTH OF TIME IN SIGHT: 1-15 Seconds
-Over 30 Minutes
+8. Did Object Change Direction at Any Time?
+   ☐ Yes
+   ☐ Normal
+   ☐ Violent
+   ☐ Steady
+   ☒ No
 
-11. REPORTING AGENCY (Unit Number and Ceiling Address):
+9. If Object was a "Light", was it:
+   ☐ Blinking
+   ☐ Steady
+
+10. Length of Time in Sight:
+    ☐ 1-5 Seconds
+    ☐ 1-5 Minutes
+    ☐ Over 10 Minutes
+
+11. Reporting Agency (Unit Number and Mailing Address):
+    C & Kirtland AFB, N.M.
 
 II. ASTRONOMICAL DATA
-12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED? 
 
-13. DID OBJECT APPEAR TO ARCH DOWNWARD? Yes
-14. DID OBJECT APPEAR TO MAKE A TAIL? Yes
-15. DID OBJECT APPEAR TO DISINTEGRATE? Yes
-16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (Local Time): Sunset
-Sunrise
-Day
-Minute
+12. What Astronomical Activity was Noted? [blank]
+
+13. Did Object Appear to Arch Downward? ☐ Yes ☒ No
+14. Did Object Have a Tail? ☐ Yes ☒ No
+15. Did Object Appear to Disintegrate? ☐ Yes ☒ No
+16. Time of Sighting Relative to Sunrise or Sunset:
+    ☐ From Air Almanac
+    ☐ Night
+    ☐ Day
+    ☐ Sunrise
+    ☐ Sunset
 
 III. AIRCRAFT DATA
-17. WERE AIRCRAFT NOTED IN AREA? Yes
-One Aircraft
-More Than One Aircraft  
 
-18. WAS ANY SOUND HEARD? Yes
-19. WHAT WERE INDICATIONS OF HIGH PERFORMANCE? Yes
-20. DID THE OBJECT APPEAR SIMILAR TO CONVENTIONAL AIRCRAFT? No
+17. Were Aircraft Noted in Area? ☐ Yes ☒ No
+    ☐ One Aircraft
+    ☐ More Than One Aircraft
 
-ATIC Rept Form 334 (13 Aug 52)
+18. Was Any Sound Heard? ☐ Yes ☒ No
+19. Were There Indications of High Background Noise? ☐ Yes ☒ No
+20. Was the Object Viewed Above Elevation? ☐ Yes ☒ No
+
+ATIC Test Form 334 (13 Aug 52)
+
 
 - page 3 -
 
-There is no photograph present in this image. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
 IV. BALLOON DATA
-21. EVALUATION OF SOURCES: Excellent, Good, Fair, Poor, Unreliable, Strongly Doubtful, None
-22. DETAILS OF REPORT: Good, Fair, Poor, Insufficient to Evaluate
-23. FINAL EVALUATION: Was Balloon, Probably Balloon, Possibly Balloon, Was Aircraft, Probably Aircraft, Possibly Aircraft, Unknown
-24. COMMENTS:
+
+21. WERE BALLOONS RELEASED IN AREA? [Yes] [No]
+
+22. TIME SINCE SCHEDULED BALLOON RELEASE: 0 Minutes
+
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+    [Table with columns: Location, Type, Launching Agency, Launched? (Yes/No), Describe Lighting]
+    (attach overlay)
+
+V. EVALUATION
+
+21. EVALUATION OF SOURCE:
+    [Checkboxes for: Excellent, Good, Fair, Poor, Unreliable, Extremely Doubtful, Hoax]
+
+22. DETAILS OF REPORT:
+    [Checkboxes for: Good, Fair, Poor, Insufficient to Evaluate]
+
+23. FINAL EVALUATION:
+    [Checkboxes for:
+    Was Balloon, Probably Balloon, Possibly Balloon
+    Was Aircraft, Probably Aircraft, Possibly Aircraft
+    Was Astronomical, Probably Astronomical, Possibly Astronomical
+    Other, Insufficient Data for Evaluation, Unknown]
+
+24. COMMENTS: [Partially illegible text]
+
+ATIC Test Form 334 (13 Aug 52)
+
 
 - page 4 -
 
-There is no photograph or image present in this document. This appears to be a Project 16073 weather data sheet with various data fields filled out, such as date of observation, time of observation, station observing, wind speed, direction, altitude, velocity, and direction. The document also includes questions about inversion layers, thunderstorms, cloud cover, and visibility.
+PROJECT 10073 WEATHER DATA SH
 
-PROJECT 16073 WEATHER DATA SHEET
+1. DATE OF OBSERVATION
+[partially illegible date]
 
-1. DATE OF OBSERVATION: [blank]
-2. TIME OF OBSERVATION: [blank]
-3. STATION OBSERVING: [blank]
-4. WIND: VELOCITY (KNOTS): [blank]
-    DIRECTION (DEGREES): [blank]
-5. ALTITUDE (FEET): 25,000
-6. VELOCITY (KNOTS): [blank]
-    DIRECTION (DEGREES): [blank]
-7. WAS AN INVERSION LAYER NOTED?:  [No]
-8. WERE ANY THUNDERSTORMS NOTED IN AREA?: [No]
-9. CLOUD COVER: 5/10ths at 15,000 feet, tenths at 15,000 feet. 
-10. VISIBILITY WAS: 4.5 MILES.
+2. TIME OF OBSERVATION
+[partially illegible time]
+
+3. STATION OBSERVING
+[partially illegible text]
+
+4. WINDS ALOFT:
+ALTITUDE
+(feet)
+
+VELOCITY
+(knots)
+
+DIRECTION
+(degrees)
+
+ALTITUDE
+(feet)
+
+VELOCITY
+(knots)
+
+DIRECTION
+(degrees)
+
+0
+
+25,000
+
+1,000
+
+30,000
+
+2,000
+
+35,000
+
+3,000
+
+40,000
+
+4,000
+
+45,000
+
+5,000
+
+50,000
+
+6,000
+
+55,000
+
+7,000
+
+60,000
+
+8,000
+
+65,000
+
+9,000
+
+70,000
+
+10,000
+
+12
+
+75,000
+
+12,000
+
+80,000
+
+14,000
+
+85,000
+
+16,000
+
+90,000
+
+18,000
+
+95,000
+
+20,000
+
+11
+
+210
+
+100,000
+
+5. WAS AN INVERSION LAYER NOTED?
+(If yes, at what altitude?)
+
+□ Yes   □ No
+
+6. WERE ANY THUNDERSTORMS NOTED IN AREA?
+(If yes, at what quadrant?)
+
+□ Yes   □ No
+
+7. CLOUD COVER:
+1 tenths at 12,000 feet.   7 tenths at 14,000 feet.
+
+8. VISIBILITY WAS
+6.6 MILES.
+
+9. COMMENTS:
+[No comments written]
+
+ATC Form 333 (13 Aug 52)
+
 
 - page 5 -
 
-There is no photograph present in this image. This appears to be a scanned document from Project Blue Book, an official US Air Force investigation of unidentified flying objects (UFOs). The document is a worksheet that contains various fields for recording details about a UFO sighting, including the date, location, description of the object, and astronomical data.
-
 PROJECT 10073 WORKSHEET
+
 I. GENERAL
-1. DATE: 20 AUG 52 
-2. LOCATION: KIRT LAND AFB, N.M.  
-3. TYPE: Irregular Object, Dazzling
-4. WAS OBJECT OBSERVED FROM THE GROUND? Yes - Reddish Eye, Elliptical, 10-15 seconds
-5. WAS OBJECT OBSERVED BY GROUND RADAR? No 
-6. WAS OBJECT OBSERVED FROM THE AIR? No
-7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT? No
-8. DID OBJECT CHANGE DIRECTION AT ANY TIME? Normal
-9. IF OBJECT WAS A "LIGHT", WAS IT: Blinking
-10. LENGTH OF TIME IN SIGHT: 1-2 minutes
-11. REPORTING AGENCY (Unit Number and Mailing Address): CF 8 24/7Z ADD STATIONED AT GD RV, N.M.
+
+1. DATE: 30 Aug 52
+2. LOCATION: Albuquerque, N. Mex.
+3. TIME: Local: 0200 Zebra: 1502Z
+
+4. WAS OBJECT OBSERVED FROM THE GROUND?
+[Checked] Naked Eye
+
+5. WAS OBJECT OBSERVED BY GROUND RADAR? [Checked] No
+
+6. WAS OBJECT OBSERVED FROM THE AIR? [Checked] No
+
+7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT? [Checked] No
+
+8. DID OBJECT CHANGE DIRECTION AT ANY TIME? [Checked] No
+
+9. IF OBJECT WAS A "FLIGHT", WAS IT? Not light
+
+10. LENGTH OF TIME IN SIGHT: [Checked] Over 10 Minutes
+
+11. REPORTING AGENCY: C & 247th ADD Kirtland AFB, N.M.
+
 II. ASTRONOMICAL DATA
-12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED? None
-13. DID OBJECT APPEAR TO ARCH DOWNWARD? Yes
-14. DID OBJECT HAVE A TAIL? No
-15. DID OBJECT APPEAR TO ACCELERATE OR DECELERATE? No
-16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (Data from Air Almanac): Night
+
+12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED? No
+
+13. DID OBJECT APPEAR TO ARCH DOWNWARD? [Checked] No
+14. DID OBJECT HAVE A TAIL? [Checked] No
+15. DID OBJECT APPEAR TO DISINTEGRATE? [Checked] No
+16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET: [Checked] Night
+
 III. AIRCRAFT DATA
-17. WERE AIRCRAFT NOTED IN AREA? No
-18. WAS ANY SOUND HEARD? No
-19. WAS THERE INDICATION OF GREAT HEAT? No
-20. WAS THE OBJECT VIEWED ABOVE 10,000 FEET ELEVATION? Yes
+
+17. WERE AIRCRAFT NOTED IN AREA? [Checked] No
+18. WAS ANY SOUND HEARD? [Checked] No
+19. WAS THERE INDICATION OF HIGH BACKGROUND NOISE? [Checked] No
+20. WAS THE OBJECT VIEWED ABOVE 150° ELEVATION? [Checked] No
+
+ATIC Test Form 334 (13 Aug 52)
+
 
 - page 6 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book UFO report document containing text and form fields.
+Here is the text from the document:
 
 IV. BALLOON DATA
-21. WHERE BALLOONS RELEASED IN AREA?
-22. TIME SINCE SCHEDULED BALLOON RELEASE:
-23. IMPOSSIBLE BALLOON LAUNCH SITES DISMISSED OF SIGHTING:
-  Location      Type      Launching Agency
-a.
-b. 
-c.
-d.
 
-V. EVALUATION 
-21. EVALUATION OF SOURCE:
-   Excellent
-   Good
-   Fair 
-   Poor
-   Unreliable
-   Extremely Doubtful
-   Hoax
-22. DETAILS OF REPORT:
-   Good
-   Fair
-   Poor
-   Insufficient to Evaluate
+21. WERE BALLOONS RELEASED IN AREA? [Yes] [No]
+22. TIME SINCE SCHEDULED BALLOON RELEASE: 000 Minutes
 
-23. FINAL EVALUATION:
-   Was Balloon
-   Probably Balloon
-   Possibly Balloon
-   Was Aircraft
-   Probably Aircraft 
-   Possibly Aircraft
-   Was Astronomical
-   Probably Astronomical
-   Possibly Astronomical
-   Other:
-   Insufficient Data For Evaluation
-   Unknown
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+    Location: Albuquerque, N.M.
+    Type: [partially illegible]
+    Launching Agency: USAF Wright
+
+24. EVALUATION OF SOURCE: [Blank]
+
+22. DETAILS OF REPORT: [Good] [Other options blank]
+
+25. FINAL EVALUATION:
+    [Checked] Was Balloon
+    [Unchecked] Probably Balloon
+    [Unchecked] Possibly Balloon
+    [Unchecked] Was Aircraft
+    [Unchecked] Probably Aircraft
+    [Unchecked] Possibly Aircraft
 
 24. COMMENTS:
-The location's altitude of 30,000 ft.
+    Balloon sighted at 3002
+
+ATIC Test Form 334 (13 Aug 52)
+
 
 - page 7 -
 
-The image does not contain any photographs, only a table with observational data for a weather-related project. As an OCR system, I will output the text found in the document:
+PROJECT 10073 WEATHER DATA SH
 
-1. DATE OF OBSERVATION
-2. TIME OF OBSERVATION
-3. STATION OBSERVING
+1. DATE OF OBSERVATION: Aug 5, 1952
+
+2. TIME OF OBSERVATION: 0300z
+
+3. STATION OBSERVING: Albuquerque, N.M.
+
 4. WINDS ALOFT:
-    ALTITUDE (Feet)
-    VELOCITY (Knots)
-    DIRECTION (Degrees)
-5. WAS AN INVERSION LAYER NOTED?
-    (If yes, at what altitude?)
-6. WERE ANY THUNDERSTORMS NOTED IN AREA?
-    (If yes, at what quadrant?)
-7. CLOUD COVER:
-    tenths at 10,000 Feet.
-    tenths at 15,000 Feet.
-    tenths at 20,000 Feet.
-9. COMMENTS:
+Altitude (feet) | Velocity (knots) | Direction (degrees)
+0 | 60 | 22-20°
+1,000 | | 
+2,000 | | 
+3,000 | | 
+4,000 | | 
+5,000 | | 
+6,000 | | 
+7,000 | | 
+8,000 | | 
+9,000 | | 
+10,000 | 10 | 22-20°
+12,000 | | 
+14,000 | | 
+16,000 | | 
+18,000 | | 
+20,000 | 11 | 31-00°
+25,000 | | 
+30,000 | | 15 | 22-0°
+35,000 | | 
+40,000 | | 
+45,000 | | 
+50,000 | | 
+55,000 | | 
+60,000 | | 
+65,000 | | 
+70,000 | | 
+75,000 | | 
+80,000 | | 
+85,000 | | 
+90,000 | | 
+95,000 | | 
+100,000 | | 
+
+5. WAS AN INVERSION LAYER NOTED? (If yes, at what altitude?) [Checkbox not marked]
+
+6. WERE ANY THUNDERSTORMS NOTED IN AREA? [Checkbox not marked]
+
+7. CLOUD COVER: 
+tenths at 10,000 feet.
+7 tenths at 16,000 feet.
+
+8. VISIBILITY WAS: [partially illegible]
+
+9. COMMENTS: [blank]
+
+ATC Test Form 333 (13 Aug 52)
+
 
 - page 8 -
 
-The image provided does not contain a photograph. It appears to be a scanned document from Project Blue Book, an old UFO report.
-
 ACTION
-20 AUG 52 09 47*
-IDENTIFICATION:
-WITNESS 1: LT COL JOSEPH WILLIAM JAGMIN
-WITNESS 2: CAPT JAMES MC DONALD USAF
-LOCATION AND TIME OF INCIDENT:
-KIRTLAND AFB, NEW MEXICO
-THE SIGHTING OF INTEL AS U.S.AF WAS D.C. APPROXIMATELY 1900 HRS MST, 20 AUG 52
-DESCRIPTION OF THE INCIDENT:
-1. TRIANGULAR SHAPE, LARGE, SILVERY COLOR, ONE OBJECT
-2. APPROACHING FEATURES TRAIL PROPULSIVE NOISE, EMITS GRA SOLID LIGHTS
-3. THE OBJECT APPEARED TO BE TRAVELING 500-800 MPH TOWARD SOUTH
-4. SIGHTING OF THE OBJECT FOR APPROXIMATELY THREE MINUTES
-5. ALTHOUGH 35-40 DEG ELEVATED ABOUT 4 TRAVELING WEST TO EAST
-6. PERFORMANCE AND ALTITUDE UNKNOWN
-7. MILITARY OR OTHER ART
-8. NO PHOTO, CGI OR RECORDING
-9. UNAWARE CALLOUT RELEASED AT KIRTLAND AFB ON 20 AUG 52
-10. NONE PD END
+
+20 AUG 52 09 41:
+
+TRIANGULAR SHAPE CHA SIZE UNKNOWN CHA SILVER COLOR CHA ONE OBJECT CHA AERODYNAMIC FEATURES TRAIL PROPULSION NONE CHA SOUND NONE CHA DISAPPEARED VERY FAST BEHIND TOPS OF TREE WHICH OCCURRED FURTHER SIGHTING OF THE OBJECT PD
+
+(1) 24/2352Z AUG 52 FOR APPROXIMATELY THREE MINUTES PD
+
+(2) VISUAL
+
+(3) ALBUQUERQUE 35-851 360-370 SIGHTED SOUTH TRAVELING WEST TO EAST
+
+(4) DISTANCE AND ALTITUDE UNKNOWN
+
+(5) OBSERVER OCCUPATION CARPENTER CHA NO EXPERIENCE IN IDENTIFICATION
+
+(6) 10,000 SCTG 14,200 SKY VERY CLEAR WINDS NW 4 TEMP 85 DF 56
+
+(7) WEATHER BALLOON RELEASED AT KIRTLAND AFB 24/2352 AUG 52
+
+(8) NONE
+
+(9) NONE
+
+(10) NONE PD END
+
 
 - page 9 -
 
-The image does not contain any photograph, it appears to be a scanned page from a document or report.
+Here is the OCR text from the document:
 
-BOSTON
-20 AIJJ32 03 36
+ACTION
 
-THE PILOT OF THIS AIRCRAFT STATED THAT HE OBSERVED A STRANGE LIGHT WHICH HE THOUGHT TO BE A METEOR. HE STATED THAT IT APPEARED TO BE LARGER THAN NORJALL STARS AND BRIGHTER TNAH TNS PLANET VENUS AND HIS ATTENTION WAS DRAWN TO IT BY ITS UNUSUAL BRIGHTNESS.
+20 AUG 52 09 38
 
-HE STATED THAT THIS LIGHT APPEARED TO BE TRAVELING TO THE NORTHEAST AT HIGH SPEED AND THAT IT SWERVED OR CHANGED DIRECTION TO THE LEFT AT ABOUT 30,000 FEET. HE STATED THAT AFTER SWERVING IT APPEARED TO BE TRAVELING IN THE SAME GENERAL DIRECTION AS BEFORE BUT AT WHAT SEEMED TO BE A MUCH SLOWER SPEED.
+PD JEPAC JEFF 222
+DE JOJHQ 87
+P COGAT AIR DRV (GRD) KIRTLAND AFB N MEX
+TO JEPAC/DIR OF INTEL HQ USAF WASH D C
+INFO JEPAQAIN TECH INTEL CTR STATE OHIO ATTN ATIACCC
+JMWCC HQ AFG COLO SPGS COLO
+HQAOC WADE WANTITLOC AFD CALIF
 
-HE STATED THAT HIS FIRST IMPRESSION WAS THAT THE LIGHT WAS A METEOR UNTIL HE NOTICED IT CHANGING DIRECTION AND SPEED. HE STATED THAT HE DID NOT REPORT THE INCIDENT TO GROUND STATIONS WHEN HE LANDED SINCE HE CONSIDERED IT TO BE ONLY A METEOR AND NOT TO BE OF ANY IMPORTANCE FROM AN OPERATIONAL STANDPOINT.
+PLYMOUTH 1430, 17 TRIANGULAR SHAPE CWA SIZE
+UNKNOWN CWA SILVER COLOR CWA ONE OBJECT CWA AERODYNAMIC FEATURES
+TEN ON TWELVE LIGHTS BELIEVED TO BE EXHAUST CWA SOUND NONE CWA MADE
+AN ORBIT TO THE LEFT AND DISAPPEARED INTO THE CLOUDS PD
+/CN 247-0627 AUG 52 FOR APPROXIMATELY FIFTEEN SECONDS PD
+/CV VISUAL
+/CA ALBUQUERQUE 35-EN 16-6-3W SIGHTED OVERHEAD TRAVELING WEST TO
+EAST CWA DISTANCE AND ALTITUDE UNKNOWN PD
+/CO OBSERVER OCCUPATION: PILOT USAF ON FLYING STATUS PD
+/CS 10,368 COTD CWA 14,600 ENG CWA VERY SIXTY CWA SPD WID IN FOUR
+CWA TEMP 83 CWA DP 46 CWA WINDS ALOFT 10,000 - 220/15 CWA
+ENG,OBS -- 213/11 CWA 3, 265 --22/15 PD
+/CT NONE
+/CG NONE
+/CA NONE
+/CA NONE PD END
+
+20171312 AUG JUETSD
+
+Pg 1
+
 
 - page 10 -
 

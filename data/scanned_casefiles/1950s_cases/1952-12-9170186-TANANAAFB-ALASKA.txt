@@ -1,138 +1,165 @@
-The image appears to be a Project 10073 Record Card from the Tanana AFB in Alaska. It contains a form with various fields filled out, but there is no photograph present in this image.
-
-TEXT OUTPUT:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
 4 Dec 52
+
 2. LOCATION
-TANANA AFB, ALASKA  
-3. REPORTING GROUP
-1730
+TANANA AFB, ALASKA
+
+3. DATE-TIME GROUP
+Local - 1730
+
 4. TYPE OF OBSERVATION
-Ground-Visual
+☑ Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
 5. SOURCE
-CIV - MAN
+CIV. MAN
+
 6. NUMBER OF OBJECTS
-ONE
+one
+
 7. LENGTH OF OBSERVATION
-PT 55
-8. BRIEF SUMMARY OF SIGHTING
-A brilliant blue-white light falling downward appeared to land.  
+--
+
+9. COURSE
+SE
+
+10. BRIEF SUMMARY OF SIGHTING
+A brilliant blue-white light falling downward appeared to land.
+
 11. COMMENTS
-Reporting officer evaluated it as a meteor.
+Reporting officer evaluates it as a meteor.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+☑ Unknown
+
+ATIC FORM 164 (REV 25 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a scanned document from Project Blue Book, an official United States Air Force investigation of unidentified flying objects.
+CLASSIFIED
 
-OCR Text Output:
+This is a CIRVIS message: "West and south of Tanana, Alaska, vicinity an unidentified brilliant, blue-white light at low altitude and high speed moving west to southeast, appeared to land southeast, light seen by dog team driver traveling one mile west. Also seen by numerous natives and white residents of town. Object sighted at 050302, 5 Dec 52. (Reference ATIC Document 97697)
 
-This is a CRYPTIC message. West and south of Tanana, Alaska, vicinity residents 'observed brilliiant lights to low altitudes and high speed moving west to southeast. Light seen by native dog team driver traveling one mile west. Also seen by numerous natives and white residents of town. Object sighted at 0503302, 5 Dec 52. (Reference ATIC document 9767)
-
-DOWNGRADED AT 3 YEAR INTERVALS:
-DECLASSIFIED AFTER 13 YEARS
+DOWNGRADED AT 8 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS.
 DOD DIR 5200.10
 
 UNCLASSIFIED
 
-- page 2 -
 
-There is no photograph present in this scanned document page from Project Blue Book. The image shows a typed text message with various information and details.
+- page 2 -
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE DIVISION
-INCOMING UNCLASSIFIED MESSAGE
-DEC 9 13 31 '52
 
-ITCR232
-JWZ A1 31
-3KD B1 C
-HEDC 15
-RR JZVHQ
-DE JKDC 15
-R 2619982
-FM COMGEN ALS AIR COMD EDT ATB ALS
-TO JZVPQ/IM USAF WASH 25 D C
-INFO ZEIVGINCAL EDF AFB ALS
-AAOID-A 2359 X UR MSG AFB IN JAGO X AIR SEARCH OF AREA NEGATIVE X LOCAL
-FIT BELIEVES SIGHTING TO BE METEOR X 
-2617982 DEC JKDC
+INCOMING UNCLASSIFIED MESSAGE
+
+DEC 8 1952
+
+FM COMGEN ALS AIR COMD EDF AFB ALS
+TO JEPHA/HQ USAF WASH 25 D C
+
+INFO ZENVC/NCAL EDF AFB ALS
+AAO TD-A 0559 X UR MSG AFOIN 3466 X AIR SEARCH OF AREA NEGATIVE X LOCAL
+NET BELIEVES SIGHTING TO BE METEOR X
+052/1908Z DEC JKDC
 
 ACTION: CIN
-AT PRI: 26000 '(8 DEC 52)
-LEAR/jm
+
+AF IN: 26000 (8 Dec 52)
+
+AFHO FORM 0-3094
+19 JAN 52
+PREVIOUS EDITIONS OF THIS FORM MAY BE USED
+
+REF/jm
+
 
 - page 3 -
-
-There is no photograph present in this image. The image appears to be a page from a Project Blue Book document, specifically an "Outgoing Clear Message" from the Department of the Air Force.
-
-The text contained in the document is as follows:
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE DIVISION
 OUTGOING CLEAR MESSAGE
 
 PRIORITY
-TO: LEAD AGENT-2 
-FOR US ORDERS 78230  
-WURTELE ADDRESS
 
-INFO: COAPDFF CON RPTS ATC COLO
-CO AAD TO RICHARDSON ALASKA
+TO : COMMANDER CON INET ATC COLD
+CG MAC PT RICHARDSON ALASKA
 
-APDXN-2 3455. 5 DEC 52 
+NR : AFOIN-2 34681         5 Dec 52        (DTG 050852)
 
-CAMIC FLASH EVALUATION BY ESTIMATES ONLY CONCUR 
-UNIDEN OBJ WHH STR ACCEL DTG 050552Z TRANED AND SOUTH
-TANANA ALASKA VIGOATED BY INDICATIONS BRIGHT WHITE LIGHT
-LAST ABOUT 30 SEC THEN ACCEL AND MOVED OUT OF SIGHT AT HIGH
-SPEED ESTIMATED TO BE 3000 MPH. LIGHT APPEARED TO BE FAR
-LESS THAN AIRCRAFT HIGHEST SPEED.. DETAILS BY LETTER 
-WHEN AVAILABLE STOP APDXN 2 OPERATION WILL BE CONTINUED.
+CURTIS FLASH EVALUATION BY ESTIMATES DUTY OFFICER
 
-TO: DCS 05-038 IS AF IN 04505 (5 DEC 52)
-ORIGINATOR: 3CH
-DISTRIBUTOR: AIR, NAVY, CIL, JCS, DOE, CON-1-5 DEC 
-AT OUT: 342251  
+Ref Pol msg Tanana Alaska DTG C50503Z. West and south
+Tanana Alaska vicinity midway between Tanana and Healy, blue white lights low altitude high speed moving west to southeast appeared to
+land southwest. Light seen by radio log campt'w traveling
+one mile west. Also seen by numerous native and white residents
+of town. Object digitized 050330Z. No further information can be
+be added at the present time. Further evaluation will be forwarded
+when available.
+
+NOTE    : DTG 050852 is AF IN 34605 (5 Dec 52)
+ORIGINATOR : CEIN
+DISTRIBUTION: ARMY, NAVY, CIA, VSS, CSP, COMDR, CSD
+
+AF OUT : 34681                                 DET/gb
+
+UNCLASSIFIED
+
 
 - page 4 -
 
-There is no photograph present in this image. The image appears to be a page from an old UFO report document from Project Blue Book.
+CSAF ITEM NER 6
+SECURITY INFORMATION
+UNCLASSIFIED
+TO ATEAA-5 RUPPELT FR AFOIN-JNCLASSIFIED
+FOLG MSG M-263 DTD 24 NOV 52 FR USARPA TEHRAN
+IRAN FOR YOUR INFO:
 
-TEXT OUTPUT:
+"FLYING SAUCERS HAVE COME TO IRAN. IRAQ
+G2 HAS RECD NUMEROUS REPTS OF STRANGE OBJECTS
+IN AIR OVER NORTHEAST IRAN-USSR BORDER.
 
-CAP ITEM NO 6 : SECURITY INFORMATION
-TO ATIAA-S RUPPELT FP AFOINI-UNCLASSIFIED
-POLS 1952 H-233 FPD 24 NOV 52 FE USARLA TRITAN 
-IRAN FOR IRANIAN INFO
-"FLYING SAUCERS HAVE COME TO IRAN-- IRAQ
-AS HAS BEEN NUMEROUS REPORTS OF TANNED OBJECTS
-IN AIR OVER NORTHEAST IRAN-LSER BORDER.
-OBJECTS APPEAR AT NIGHT AND IN SOME INSTANCS
-SEEM TO BE CONTROLLED IN THAT THEY ARE REPORTED
+OBJECTS APPEAR AT NIGHT AND IN SOME INSTANCES
+SEEM TO BE CONTROLLED IN THAT THEY ARE REPT'D
 TO FLY OVER BORDER INTO IRAN AND THEN RETURN
-TO LSJA THIS INFOR SUPPLIED BY CONFIDENTLAL
-ASARC SOURCE WHO OBTAINED IT FROM IRAN GOV.
+TO USSR. THIS INFOR SUPPLIED BY CONFIDENTIAL
+AMER SOURCE WHO OBTAINED IT FROM IRAN G2.
 SOURCE BELIEVES OBJECTS MAY BE SOVIET FLARES
 USED TO ILLUMINATE BORDER AS PRECAUTION AGAINST
-ILLEGAL BORDER CROSSERS. FLARES ALSO VSRY
+ILLEGAL BORDER CROSSERS. FLARES AND VERY
 PISTOLS KNOWN TO BE EXTENSIVELY EMPLOYED FOR
-THIS PURPOSE AND FOR SIGNALLING, INDIAN MIL
+THIS PURPOSE AND FOR SIGNALLING. INDIAN MIL
 ATTACHE REPTS ONE FLYING OBJECT RECOVERED ON
-IRAN SIDE AND SENT TO TEHERAN AFTER WHICH
-IDENTIFIED AS METEOROLOGICAL BALLOON. 
-SPECULATION ON SIGNIFICANCE OF THESE REPTS
-IS CONJESTURAL AT BEST. WHILE UNDEUBTEDLY
-EXAGGERATED AS RESULT OF CHRONIC JITTERS OF
-BORDER PEOPLE, STEPS PROBABLY INDICATE
-INCREASED GOV SURVEILLANCE AND TIGHTER
-BORDER ACTIVIIES. THEY MAY ALSO BE DELIBERATELY
-INTENDED TO CONFUSE IRANIANS IN CASE WAR
-OFNEEVES--
-FNC OF CSAF ITEM NO 6
+IRAN SIDE AND SENT TO TEHRAN AFTER WHICH
+IDENTIFIED AS METEOROLOGICAL BALLOON.
 
+SPECULATION ON SIGNIFICANCE OF THESE REPTS
+IS CONJECTURAL AT BEST. WHILE UNDOUBTEDLY
+EXAGGERATED AS RESULT OF CHRONIC JITTERS OF
+BORDER PEOPLE, REPTS PROBABLY INDICATE
+INCREASED SOV SURVEILLANCE AND TIGHTER
+BORDER SYSTEMS. THEY MAY ALSO BE DELIBERATELY
+INTENDED TO CONFUSE IRANIANS IN CURR WAR
+OF NERVES."
 UNCLASSIFIED
+
+FNG OF CSAF ITEM NER 6
+
 
 - page 5 -
 

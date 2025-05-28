@@ -1,112 +1,147 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book record with various fields filled out, such as the date, time group, location, source, length of observation, and conclusion regarding the observations as weather phenomena.
-
 PROJECT 10073 RECORD
-1. DATE - TIME GROUP: 25 FEB 53
-2. LOCATION: GREENLAND
-3. SOURCE: MILITARY
-10. CONCLUSION: WEATHER PHENOMENA
-Upon the interrogation of the GCA operators, several discrepancies were found in the radar targets which are caused by meteorological conditions or weather effects on the scope.
-4. LENGTH OF OBSERVATION: 4 MINS
-5. TYPE OF OBJECTS: ONE
-6. TYPE OF OBSERVATION: RADAR
+
+1. DATE - TIME GROUP: 26 Feb 53
+
+2. LOCATION: Greenland
+
+3. SOURCE: Military
+
+4. NUMBER OF OBJECTS: one
+
+5. LENGTH OF OBSERVATION: 3 mins
+
+6. TYPE OF OBSERVATION: ground radar
+
 7. COURSE: SW
-9. PHYSICAL EVIDENCE: NO
+
+8. PHOTOS: No
+
+9. PHYSICAL EVIDENCE: No
+
+10. CONCLUSION/COVER: WEATHER PHENOMENA
+Comments: Upon the interrogation of the GCA operators, several discrepancies were found. It is believed that the radar target was caused by meteorological conditions or weather effects on radar.
+
+11. BRIEF SUMMARY AND ANALYSIS:
+Prominent blip emerged from normal clutter area of scope 4 miles SW from the station. Tracked for a distance of 3 miles before it faded from the scope at a distance of 7 miles. Remained at constant altimeter 6,000 feet.
+
+FORM
+FTD SEP 63 0-329 (TDE) Previous editions of this form may be used.
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a scanned page of a document from Project Blue Book, which was a U.S. Air Force project that investigated unidentified flying objects (UFOs).
-
-The text in the document is as follows:
-
+AF FORM 112
 UNCLASSIFIED
+
 AIR INTELLIGENCE INFORMATION REPORT
 
-(Restricted) Unidentified Radar Sightings In Greenland
+Country: USA-MATS
+Report No: IR-255-53
+Date Reported On: Greenland    From: Air Intelligence Division
+Date of Report: 27 March 1953   Date of Information: 26 February 1953   Grade: B-2
+By: Jo A. Meisinger, M/Sgt
 
-Greenland
-
-27 March 1953 to 26 February 1953
-
-M.A. Leishner, W/Sgt
-(Report of Observer) (Grade, Name, Organization)
-
-As Indicated
-
-SUMMARY: Extract of message summarizing report. Give significance in shod paragraph. List information on lower half of sheet. Ensure data by report on AF FM 112.
-
-Information in Part II was extracted from REPORT NO. 6/33/5/53 dated 13 March 1953. Office of Intelligence R&D, Plans and 5th GCI. Data reported.
+SUMMARY:
+Information in Part II was extracted from INTEREP NO. 6/55/53 dated 15 March 1953, copies of which were submitted to 6612th ABG and 5th CSI. Reporting Officer is Capt. Kenneth S. Olson, 55th ARS.
 
 APPROVED:
-S.J. Harman
-Major, USAF
+[Signatures of]
+J. A. MEISINGER, M/Sgt AF 13172028
+[and]
+W. J. HARRIS, Major, USAF
 Chief, Air Intelligence Division
 
-The document appears to be a report on unidentified radar sightings in Greenland, with the key details and summary provided in the text.
+[Downgraded stamp at bottom of document]
+
 
 - page 2 -
 
-The image does not contain any photograph. It appears to be a scanned page from an Air Intelligence Information Report.
+Here is the OCR text from the document:
 
 AIR INTELLIGENCE INFORMATION REPORT
-SUBJECT: Unidentified Flying Objects
-DATE: 13-255-53
-PAGE: 3 of 4
 
-The text in the document states the following:
+Hq Air Rescue Service
+Washington 25, D. C.
 
-On the upper air observations it was noted that a temperature inversion existed at an altitude of 3300 feet and possibly also at the 4600 feet level. The following upper air temperatures indicate the intensity of the inversion:
-a. Ground temperature - -37 degrees C (centigrade)
-b. At 1000 feet - -35 degrees C
-c. At 3500 feet - -38 degrees C 
+IR-255-53 PAGE 3 OF 4 PAGES
+
+8. On the upper air observations it was noted that a temperature inversion existed at an altitude of 3500 feet and possible at the 7000 feet level. The following upper air temperatures indicate the intensity of the inversion:
+
+a. Ground temperature - -37 degrees C (Centigrade)
+b. At 1000 feet - -33 degrees C
+c. At 3500 feet - -38 degrees C
 d. At 4000 feet - -41 degrees C
-e. At 5000 feet - -40 degrees C
+e. At 5600 feet - -40 degrees C
+f. Above 5000 feet - Constant -40 degrees C
 
-It goes on to discuss the final evaluation of the sightings, stating that they "were considered as phenomena type" and that certain details about the observations and the observers were provided. The document also discusses weather analysis and other factors that may have contributed to the sightings.
+9. Both preliminary and the final evaluation of the sightings after all interrogations had been made indicate sighting to be a phenomena type.
+
+10. The Group Intelligence Officer was advised of the sighting 15 minutes after its occurrence, all GCA personnel were contacted and AGW were contacted. Interrogations were made that same night by 1/Sgt Smith, GCA Team Chief, and S/Sgt Lucas, the interrogator. Captain Nelson, the MATS C-124 pilot as well as his navigator, weather personnel were consulted in detail. In the individual interrogation of the GCA personnel, it was noted that some discrepancies were made in the interrogation of the PPI scope. First, the time of the sighting was given by one man as about three minutes. At the same time, he stated its speed as slightly faster than that of the C-124. (Estimated at 180 Kn/hr or more.) The distance the object was tracked was three miles. This fact is positive as the scope is marked for accurate distance measurements. However, if its speed was as rapid as indicated, the longest time it could have been tracked would be a few minutes of one minute. On the other hand, if it was tracked for three minutes, its speed could not have been much over 60 Knots. Other discrepancies of the GCA interrogation were the scopes altitude limitation. The man indicated it at 5000 feet, the other 6000 feet. The distance between the C-124 ship and the unidentified blip was approximately ten miles. There was a 60 degree angle difference in their respective readings.
+
+11. That AGW did not pick up the unidentified pretty well substantiates the fact that it did not exist. Had the object approached the base from any direction above 300 feet, it would have been detected. It certainly would have been picked up outbound as it passed beyond the 6000 foot limitation level of GCA.
+
+12. The weather analysis lends a factor which can probably account for the phenomena. When an aircraft passes through an inversion layer as are peculiar to far northern arctic areas, the aircraft striking the super cooled moisture creates ice crystals which can reflect radar. This should not be confused with the C-124 aircraft over Cape York and passed over the base while holding down. At the particular time the C-124 was over the base, it was passing through the inversion layer. The weather analysis could explain the clear radar scope characteristics and would be the most logical explanation.
+
+13. Similar phenomena could account for the indication on the scopes. It should be noted that this was an area with some rather unusual characteristics not typical of bases either north or south. Such items as temperature inversions, ice fog...
+
+[Note: The last line is cut off at the bottom of the page]
+
 
 - page 3 -
 
-There is no photograph or image present in this document. The document appears to be an "AIR INTELLIGENCE INFORMATION REPORT" from the U.S. Air Force, dated February 13, 1953.
+Here is the OCR text from the document:
 
-The full text of the document is as follows:
+AF FORM 112-PART II
+APPROVED 1 JUN 1948
 
-AIR FORCE 112--PART II
 UNCLASSIFIED
+
 AIR INTELLIGENCE INFORMATION REPORT
+FROM: Hq Air Intelligence Division
+Washington 25, D. C.
 
-FROM : AF INTELLIGENCE DIVISION 
-AIR TECHNICAL INTELLIGENCE CENTER
-WASHINGTON 25, D.C.
-
-DATE: IR-255-53 
+REPORT NO.
+IR-255-53
 
 PAGE 2 OF 4 PAGES
 
-1. PLANNED PROJECT INDICATOR (PPI) 5390 was reported to this office and the Group Interrogation Sessions. Air Search as the chaining program could be determined. No interrogations were made. The information obtained is related below:
+1. At 0550½, 26 February 1953, an unidentified radar sighting on the OA Planned Position Indicator (PPI) Scope was reported to this office and the Group Intelligence Officer. As soon as the observing personnel could be contacted, interrogations were made. The information obtained is related below.
 
-2. During the above TAV, the Traffic Controller noted the following: 
-a. Lucas, a Civilian Airborne Air Traffic Controller in a C-54, observed an unidentified aircraft climbing and accelerating rapidly to approximately 50,000 feet. The aircraft was westbound and did not deviate from its course or take any evasive action. The aircraft was traveling at an estimated speed of approximately 1,300 knots.
-b. The C-54 pilot, Captain Solis, spotted the unidentified aircraft while tracking the C-121 on his scope at a position approximately 10 miles SE of the scope baseline (original installation) outbound on a grid heading of 270 degrees, four miles NW (true bearing) from the C-121.
+2. During the above time, S/Sgt George Smith, Team Chief, and S/Sgt K. T. Lucas, a GCA Operator, and A/2D Glaxicon, Mechanic were the GCA duty team on this installation. At this time, they were monitoring a MATS C-124, that was on the downwind leg of the traffic pattern preparing to land at Thule Air Base. The aircraft had aborted from a return flight to Westover due to mechanical troubles and was returning to Thule.
 
-3. The unidentified sighting was tracked for a distance of three miles before it faded from the scope. The speed was estimated to be in excess of 1200 knots or better by the C-54 controllers. Altitude of the unidentified target was estimated to be above 50,000 feet, and under 60,000 feet, the scope's operating limitations.
+3. S/Sgt Lucas while tracking the C-124h on his scope at a position approximately 4 1/2 miles NE of the base, noticed a prominent blip some 7 cm in size from the clutter area of the scope (the clutter area is within a 3 1/2 mile radius of the GCA installation) outbound on a grid heading of 270 degrees, four miles NW (true bearing) from the station.
 
-4. The MATS C-121, which was on the downward leg of the traffic pattern at the time, had already passed over the center of the field at an altitude of 12,000 feet when the above incident occurred. The aircraft did not see anything. The MATS C-121 on its downwind leg passed over the center of the field at an altitude of 11,000 feet.
+4. The unidentified sighting was tracked for a distance of three miles before it faded from the scope at a distance of approximately 160 knots or better by the GCA controllers. Altitude of the unidentified could not be determined although in order to pass in view of the scope, it is believed to be above 700 feet and under 6000 feet, the scope's operating limitations.
 
-5. The data obtained is not sufficient to explain the unidentified sighting or to provide any conclusive evidence as to its identity. It appeared to be slightly faster than that of the C-121. The traffic pattern was not distorted in any way, and the unidentified did not in any way interfere with the MATS C-121 traffic.
+5. In the interrogation, it was determined that if the object had remained at a constant altitude under 6000 feet, it would have been in view of the scope for approximately 14 miles, the maximum radius of the equipment. The fact that the unidentified passed out of the scope at seven miles indicated that it was in a climbing attitude and passed out of the scope at some altitude. If the object had passed directly over the base, its track would not have been indicated on the PPI scope due to normal ground clutter. Its track if it approached the base was not indicated on the PPI scope.
 
-3500 feet - from M at 15 Knots.
-7000 feet - from M at 30 Knots.
+6. The MATS C-124, which was on the downwind leg of the traffic at the time of the sighting, had approached the field on a grid heading of 025 degrees while landing. The aircraft passed over the center of the field at an altitude of 4000 feet on the above heading and upon reaching the north side of Thule Air Base turned into the downwind leg of the traffic pattern on a grid heading of 350 degrees. The C-124h had been on the downwind leg for approximately six miles when the sighting was picked up on the scope. The intensity of the blip of the C-124h and the object was approximately the same. (The C-124h is to the large size given a large and very prominent blip reflection). The speed of the unidentified as reported by GCA personnel was slightly faster than that of the C-124h. The C-124h traffic pattern speed approximately 150 knots). The crew of the C-124h were advised of the tracking of the unidentified object, but did not see anything. ACGW did not paint the unidentified sighting nor did they pick up any inbound or outbound unknowns on their scopes at any time during the mission.
+
+[The last part of the document appears to have some additional details about altitude and wind measurements, but the text is partially cut off.]
+
 
 - page 4 -
 
-The image does not contain a photograph. It appears to be an Air Intelligence Information Report from Project Blue Book.
-
 AIR INTELLIGENCE INFORMATION REPORT
-IR-255-53 
-PAGE 1 OF 1
 
-The report describes unusual indications on radar scopes in strange patterns. The weather conditions coupled with the radar observations indicated no known identifiable targets. The report states that the sightings were attributed to a reflection or a meteor-like phenomenon.
+UNCLASSIFIED
 
-The report is signed by J. A. LEWIS MAJOR, M/Sgt, USAF and E. J. HARRIS, Maj, USAF.
+Hq Air Rescue Serv
+Washington 25, D.C.
+
+IR-255-53
+PAGE 4 OF 4
+
+and others could give unusual indications on radar scopes in rather strange patterns.
+
+Inasmuch as the weather conditions coupled with the facts that AOSS had no indications of the sighting, discrepancies noted in the interrogation of C-124 personnel, the fact that the C-124 crew did not notice any indication of the phenomena, leaves this office to believe that the sighting was attributed to a reflection of a metal object.
+
+J. A. BRISCOE
+M/Sgt AF 13170238
+
+E. HARRIS
+Major, USAF
+
 
 - page 5 -
 

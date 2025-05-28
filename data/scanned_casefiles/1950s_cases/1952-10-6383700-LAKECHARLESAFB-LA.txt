@@ -1,253 +1,439 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record card, likely from an Unidentified Flying Object (UFO) report.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 6 Oct 52
-2. LOCATION: LAKE CHARLES AFB, LA
-3. DATE-TIME GROUP: 0620-0650 CST
-4. TYPE OF OBSERVATION: Ground-Visual
-5. DURATION: 30 mins
-6. NUMBER OF OBJECTS: 1
-7. LENGTH OF OBSERVATION: 5 mins
-10. BRIEF SUMMARY OF SIGHTING: The object observed the size of a dime at arm's length, hovered briefly, then performed a series of maneuvers, including right angle turns. Heavy air traffic in area at time.
-11. COMMENTS: Object seen almost overhead and dims out by intervening balloon release.
+
+1. DATE
+6 Oct 52
+
+2. LOCATION
+LAKE CHARLES AFB, LA
+
+3. DATE-TIME GROUP
+Local 06/2130 CST
+GMT 07/0320 Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+□ Ground-Radar
+□ Air-Visual
+□ Air-Intercept Radar
+
+5. SOURCE
+AF mechanics
+
+6. PHOTOS
+[X] No
+
+7. LENGTH OF OBSERVATION
+5 min
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+
+10. BRIEF SUMMARY OF SIGHTING
+Round object the size of a nickel at half-mile length, observed by mechanics on flight line at LCAFB. Object performed erratic maneuvers, including right angle turns. Heavy air traffic in area at time.
+
+11. COMMENTS
+1. Object seen almost overhead and dims out at intervals.
+2. 20 min after local balloon release.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+[X] Unknown
+
 
 - page 1 -
 
-There is no photograph present in this image. The image shows a page from a Project Blue Book weather data sheet, containing various data fields and observations related to a weather event.
+PROJECT 10073 WEATHER DATA SK
 
-PROJECT 10073 WEATHER DATA SHEET
-1. DATE OF OBSERVATION: 4-22-52
-2. TIME OF OBSERVATION: 22:27 CST
-3. STATION OBSERVING: M.C. ATHAY
-4. WINDS ALOFT:
-ALTITUDE (FEET) | VELOCITY (KNOTS) | DIRECTION (DEGREES)
-1,000 | - | 32
-2,000 | - | - 
-3,000 | - | -
-4,000 | - | -
-5,000 | - | -
-6,000 | - | -
-7,000 | - | -
-8,000 | - | -
-9,000 | - | -
-10,000 | - | -
-12,000 | - | -
-14,000 | - | -
-16,000 | - | -
-18,000 | - | -
-20,000 | - | -
-5. WAS AN INVERSION LAYER NOTED? [No]
-6. (YES OR NO) WERE THUNDERSTORMS OBSERVED IN AREA? [No]
-7. CLOUD COVER:
-tenths at 6,500 feet: 3
-tenths at ----- feet: -
-8. VISIBILITY WAS: 10 MILES
-9. COMMENTS:
-Movements of light may be due to near cloud layers.
+1. DATE OF OBSERVATION: 6 Oct 52
+2. TIME OF OBSERVATION: 12-22 CST
+3. STATION OBSERVING: L.C. AER
+
+4A. WINDS ALOFT:
+(Altitude in feet) | Velocity (knots) | Direction (degrees)
+0 |  | 30
+1,000 |  | 
+2,000 |  | 
+3,000 |  | 
+4,000 |  | 
+5,000 |  | 
+6,000 |  | 
+7,000 |  | 
+8,000 |  | 
+9,000 |  | 
+10,000 |  | 
+12,000 |  | 
+14,000 |  | 
+16,000 |  | 
+18,000 |  | 
+20,000 |  | 
+
+(Upper altitude winds left blank)
+
+5. WAS AN INVERSION LAYER NOTED? □ Yes □ No
+(If yes, at what altitude? )
+
+6. WERE ANY THUNDERSTORMS NOTED IN AREA? □ Yes □ No
+(If yes, at what quadrant? )
+
+7. CLOUD COVER: 3 tenths at 9500 feet.
+
+8. VISIBILITY WAS 40 MILES.
+
+9. COMMENTS: 
+Shimmering of light may be due to them elevated surge.
+
+ATIC Test Form 333 (13 Aug 52)
+
 
 - page 2 -
-
-The image does not contain any photograph. It appears to be a page from a Project Blue Book UFO report document.
 
 HEADQUARTERS STRATEGIC AIR COMMAND
 OFFUTT AIR FORCE BASE
 OMAHA, NEBRASKA
 
-DUG S 55
-SUBJECT: (Unclassified) FLYCRAFT 
+DIMO 350
 
-TO: Chief
-       Technical Intelligence Center
-       USAF-Patterson Air Force Base
-       Ohio
+SUBJECT: (Unclassified) FLYCRIPT
 
-The attached Air Intelligence Information Reports are forwarded as per instructions AFR 200-5, dated 29 April 1952, subject: FLYCRAFT.
+TO: Chief,
+Air Technical Intelligence Center
+Wright-Patterson Air Force Base
+Ohio
 
-FOR THE COMMANDING GENERAL:
+The attached Air Intelligence Information Reports are forwarded as per instructions AFI 200-5, dated 29 April 1952, subject: FLYCRIPT.
 
-HALE R. MYERS
-MAJOR, USAF
-Chief, A-2 Section
+FOR THE COMMANDING GENERAL
 
-3 Incls: 
-1. IR-164-52 (Ky) 
-2. IR-164-52 (Ky)
-3. IR-164-52 (Ky)
+3 Incls:
+1. IR-162-52 (lcy)
+2. IR-164-52 (lcy)
+3. IR-165-52 (lcy)
+
+[Signature of an officer]
+MAJ JA, USAF
+Asst Adj Gen
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a filled-out Air Intelligence Information Report form.
+Here is the OCR text from the document:
+
+AF FORM 112-PART 1
+APPROVED 1 JUNE 1948
+
+COUNTRY
+USA
 
 AIR INTELLIGENCE INFORMATION REPORT
-CLASSIFIED DATA
-PLACE CARD LAKE CHARLES AFB, LA.
-INVESTIGATOR Capt. Godman 
-DATE OF INCIDENT 6 Oct 52
-LOCALE Vicinity of Lake Charles AFB, LA.
-IT IS THE BELIEF OF THE INTERROGATION OFFICER THAT THE AIRMAN OBSERVED SOME UNIDENTIFIED OBJECT TRAVELING JUST SKIRTING THE BASE AT 1275 JST.
-MELVIN H. CRAIGIE
-2ND LT. USAF
-AIR INTELLIGENCE OFFICER
+
+LOCATION
+Lake Charles, La
+
+FROM (Group)
+DOL-56th Bomb Wing (B)
+
+DATE OF INFORMATION
+16 Oct 52
+
+SOURCE
+F-3
+
+EVALUATION
+3 Airmen, 56th Periodic Maintenance, LAAFB
+
+FILE NUMBER
+200-5 & IT 68 POI # 46007
+
+It is the belief of the Interrogation Officer that the airman observed some unidentified object traveling N-S just skirting the base at 1220 CST.
+
+NEWTON M. COMLY
+2nd Lt. USAF
+Wing Intelligence Officer
+
+[Note: The bottom of the document contains a standard disclaimer about the document's sensitive nature and restrictions on reproduction.]
+
 
 - page 4 -
 
-The image appears to be a scanned page from an Air Intelligence Information Report document. The page does not contain any photographs, but rather consists of text describing an observed unidentified flying object (UFO) incident.
+Here is the OCR text from the document:
 
+FORM 112-PART II
 AIR INTELLIGENCE INFORMATION REPORT
-DDI-60th Bomb Wg-(U)
 
-(1) Object sighted was round in shape and about the size of a nickel held at arm's length. The object was white in color, giving off a burst of color from the center to the edges. It was observed for about 6-8 seconds, then disappeared. (2) The object was sighted, passed rapidly from west to east at an altitude estimated to be between 20,000-25,000 feet, and was observed for about 2 minutes.
+REPORT NO. IN-162-52    PAGE 2 OF 2
+
+(1) Object sighted was round in shape and about two size of a nickel held at arms length. The object was white in color rose-blue; a bright light, dimming in intensity and then rising to a bright white again. Only one (1) object was sighted. Speed varied from very fast to almost at app'g. At its slowest up date the object made sharp "zig-zag" turns. At 2120 CRD and was observed for five (5) minutes. (3) Observation was made from Lake Charles AFB ATC tower. (4) Location of observers was 30°12' 93.99'N. Object moved from North to South at an undetermined altitude.
+
+(5) Identifying Personnel - A/2c William L. Huffman Jr. AF-13'375514
+A/2c Norman E. Wallace AF-13'388125
+AF-16'975 05, all of the 68th Recon Wing Sq at Lake Charles AFB, La.
+
+(6) Weather of clear this station at 2127 CST (77) No meteorological or other conditions reported in the area. (8) No physical evidence of sight sug. (9) Reporting station taken at 0200 hrs. (10) Scene was one (1) L-29 in traffic pattern at Lake Charles AFB which was sighted by observers.
 
 STATEMENT OF FACT
-At 2123 5 Mar 1952 weather was a 1/2 mile low ceiling, some fog in area, and observed object operating under these conditions some altitude above this low ceiling.
 
-William E. Huffman Lt. 
-A-123735
-1952 6th Periodic  "TELEPAPERS"
+At 2120 CST 6 Oct 1952 we were leaving the dock area of the flight line when we observed a round and shaped white object traveling NE. It got bright then dim, and changed speeds from very fast to almost stop. At the slowest speed it made right angle turns and completed 3 or 4 of these. It was still in sight when we left to report it, but at a much later altitude. Then when we observed it for a total of almost 5 minutes before leaving.
 
-Donovan C. Ward II Lt 
-AR-133-05
-A/28 6th Periodic "TELEPAPERS"
+[Signatures of William S. Huffman Jr., Norman E. Wallace, and Michael A. O'Brien]
 
-Witnessed by:
-STEVE M. DAVIS
-2nd Lt.
+Witnessed by
+Newton M. Combs
+
 
 - page 5 -
 
-The image contains a map diagram rather than a photograph. The map appears to be an Air Intelligence Information Report, showing some geographical features and indicating locations labeled "Drummont", "Pt. Arthur", and "Alexandria". There is also a note at the bottom that says "WAC (168)".
+Here is the text from the document:
+
+FORM 112-PART II
+APPROVED 1 JUNE 1948
 
 AIR INTELLIGENCE INFORMATION REPORT
-27-11-52
-DATR
-27 NOV 52
-LATC
+
+IR-142-52
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., SECS. 31 AND 32. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+
+WAC (468)
+
+The document appears to be a map with various locations marked, including:
+- Alexandria
+- Port Arthur
+- Lake Charles
+- White Lake
+- Orange
+
+The document is classified as an Air Intelligence Information Report with the reference number IR-142-52.
+
 
 - page 6 -
 
-The image does not contain any photographs. It appears to be a scanned document from Project Blue Book, a United States Air Force project to study unidentified flying objects (UFOs).
+Here is the OCR text from the document:
 
-OCR Text Output:
-ACTION
-PD JISPHO JEDEN JEDMH JESTRA 555
-DE JESHK 61
-P 952337 ZWC
-PD COADY EOB LAKE CHARLES AFB LA
-TO JEPHQ /DIR OF INTEL HQ USAF WASH D C
-JEDDP/ATIC WRIGHT-PATTERSON AFB OHIO
-HBFO JEDEN/CC ENT AFB COLO
-JEDIHN/CG SAC OFFUTT AFB NEBR
+WPHQ41
+YIAQ99
+YYB2QSTYD013
+V.1X231
+JESKH 057
+
+PP JEPHQ JEDUP JEDEN JEDMH JESBA 555
+DE JESKH 61
+P 9923G27 ZNL
+FM CGAD DIV 606 LAKE CHARLES AFB LA
+TO JEPHQ/DIR OF INTEL HQ USAF WASH D C
+JEDUP/ATIC WRIGHT-PATTERSON AFB OHIO
+INFO JEDEN/CG ENT AFB COLO
+JEDMH/CG SAC OFFUTT AFB NEBR
 JESA/CG AF 2 BARKSDALE AFB LA
-53001 A3297 FLYBPPT PD ICW AFL TWO ZERO ZERO
-DASH FIVE DTD TWO NINE APR FIVE TWO PD UNIDENTIFIED FLY OBJ REPTD BY
-ARBL PD PAREN ONE PAREN ONE PAREN ONE OBJ SIGHTED AND SHAPED OBJ CMA SIZE
-PAREN EIGHT FEET DASH HALF ARMS LENGTH FOR COLORED GRAY CMA DIMMED THRU
+
+68DOI 45007 FLVQBRPT PD ICW AFL TWO ZERO ZERO
+DASH FIVE DTD TWO NINE APR FIVE TWO PD UNIDENTIFIED FLY OPJ REPTD BY
+ANN PD PAREN ONE PAREN ONE PAREN ONE OBJ SIGHTED RND SHAPED OBJ CMA SIZE
+OF NICKLE AT ONE DASH HALF ARMS LENGTH PD COLOR /W/ CMA DIMMED THEN
 BRIGHT AND DIM AGAIN PD NO SOUNDS FOR SURE BECAUSE OF ACFT IN AREA PD
 VARYING SPEEDS OF VERY FAST TO ALMOST STOPPED CMA AT THE SLOW RATE
-PAREN EIGHT ANGLE TURNS AND COUPLE TWICE OF FOUR OF THESE ALL AT
+IT MADE RIGHT ANGLE TURNS AND COMPLD THREE OF FOUR OF THESE ALL AT
 DIFFERENT ANGLES PD OBJ WAS LEFT IN SIGHT TO REPT SAME BUT AT A HA
-THAN LAST SEEN PD PAREN TWO PAREN SIGHTED AT TWO ONE TWO ZERO CEN STO
-TIME SIX OCT FIVE TWO OBSR FOR FIVE MINUTES PD PAREN THREE PAREN
+THAN 1ST SEEN PD PAREN TWO PAREN SIGHTED AT TWO ONE TWO ZERO CEN STD
+TIME TIME SIX OCT FIVE TWO OBSR FOR FIVE MINUTES PD PAREN THREE PAREN
 
 ACTION
-PAGE TWO JESHK 61
+
+PAGE TWO JESKH 61
+
 OBSR WAS VIS PD PAREN FOUR PAREN SIGHTING MADE UPON LVFLIGHT LINE DOCK
+
 
 - page 7 -
 
-There is no photograph present in the provided image. It appears to be a page from a Project Blue Book report.
+Here is the OCR text from the document:
 
-Here is the text extracted from the document:
+VW281
+JESKH 357
 
-JEDUP PEDEN JEDMM JES BA 255
-DE JESK II 61
-P 25252327 ZN*
-TO COADU 556 LAKE CHARLES AFB LA
-TO JEPHO/DIR OF INTEL HQ USAF WASH D C
-JEDP/ATIC WRIGHT-PATTERSON AFB OH
-JEDO/CC SAC OFFUTT AFB NEBR 
-JESLB/CG AF 2 BARKSDALE AFB LA
-DASH FIVE DTD TWO NINE APR FIVE TWO PD UNIDENTIFIED FLY OBJ REPFD BY
-AMN PD PAREN ONE PAREN ONE PAREN ONE OBJ SIGHTED AND SHAPED OBJ CMA SIZE
-OF BRIGHTEST STAR AT DASH HALF ARMS LENGTH PD COLORS WA/CRA DIMMED THRU
+PP JEPHQ JEDUP JEDEN JEDMH JESBA 555
+DE JESKH 61
+
+P 8923287 ZNJ
+FM CCAD IV 306 LAKE CHARLES AFB LA
+TO JEPHQ/DIR OF INTEL HQ USAF WASH D C
+JEDUP/ATIC WRIGHT-PATTERSON AFB OHIO
+INFO JEDEN/CG ENT AFB COLO
+JEDMH/CG SAC OFFUTT AFB NEBR
+JESIA/CG AF 2 BARKSDALE AFB LA
+
+DASH FIVE DTD TWO NINE APR FIVE TWO PD UNIDENTIFIED FLY OBJ REPTD BY
+ANN PD PAREN ONE PAREN ONE PAREN ONE OEJ SIGHTED RND SHAPED OBJ CMA SIZE
+OF NICKLE AT ONE DASH HALF ARMS LENGTH PD COLOR /N/ CMA DIMMED THEN
 BRIGHT AND DIM AGAIN PD NO SOUNDS FOR SURE BECAUSE OF ACFT IN AREA PD
 VARYING SPEEDS OF VERY FAST TO ALMOST STOPPED CMA AT THE SLOW RATE
-OBJECT RISING SINGLE TURNS AND WOULD TURN STOP FOUR OF THESE ALL AT
-DIFFERENT ANGLES PD OBJ WAS LEFT IN SIGHT TO KEPT SAME BUT AT A HA
-THAN 1ST SEEN PD PAREN TWO PAREN TWO ZERO GEN STD
-THE SIX OGT FIVE TWO OBSR FOR FIVE MINUTES PD PAREN THREE PAREN
+IT MADE RIGHT ANGLE TURNS AND COMPLD THREE OF FOUR OF THESE ALL AT
+DIFFERENT ANGLES PD OBJ WAS LEFT IN SIGHT TO REPT SAME BUT AT A HA
+THAN 1ST SEEN PD PAREN TWO PAREN SIGHTED AT TWO ONE TWO ZERO CEN STD
+TIME TIME SIX OCT FIVE TWO OBSR FOR FIVE MINUTES PD PAREN THREE PAREN
+
 ACTION
-PAGE TWO JESK II 61
+
+PAGE TWO JESKH 61
+
 OBSR WAS VIS PD PAREN FOUR PAREN SIGHTING MADE UPON LVFLIGHT LINE DOCK
-AREA CMA LST SIGHTED AT ABOUT SEVENTEEN DISTINCTLY DESCRIBE EIGHT SLIM
-LIGHTERS LOOKING E AND TVL FRM N TO S PD PAREN FIVE PAREN ALL MEN
-HAVE ABOUT EIGHTEEN MO SV AND ALL ARE MECH PD PAREN SIX PAREN VEA WAS
-LAST FIVE ZERO ZERO SCATTERING TEN VISUAL WIND N NE AS KEPT BY
-WEA OFF THIS STA AT TWO ONE TWO SEVEN GEN STD TIME SIX OGT FIVE TWO
+AREA CMA 1ST SIGHTED AT ABOUT SEVENTLY DASH EIGHTY DEGREE ANGLE FROM
+SIGHTERS LOOKING E AND TVL FROM N TO S PD PAREN FIVE PAREN ALL MEN
+HAVE ABOUT EIGHTEEN MO SV AND ALL ARE MECH PD PAREN SIX PAREN WEA WAS
+NINE FIVE ZERO ZERO SCATTERED TEN MILE VISIBILITY WIND N NE AS REPT BY
+WEA OFF THIS STA AT TWO ONE TWO SEVEN CEN STD TIME SIX OCT FIVE TWO
 PAREN SEVEN PAREN NONE PAREN EIGHT PAREN NO PHYSICAL EVIDENCE OF
-SIGHTING PD PAREN NINE PAREN SIGHTING WAS KEPT TO SET OF GUARD OF AP
-PD PAREN TEN PAREN ONE BRAVO DASH TWO NINE IN TRAP PATTERN PD
-25/23397 OCT JESK II
+SIGHTING PD PAREN NINE PAREN SIGHTING WAS REPT TO SGT OF GUARD OF AP
+PD PAREN TEN PAREN ONE BRAVO DASH TWO NINE IN TRAF PATTERN PD
+
+8923382 OCT JESKH
+
 
 - page 8 -
 
-The image does not contain any photographs. It appears to be a Project 10073 worksheet from Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
-
 PROJECT 10073 WORKSHEET
-1. GENERAL
-2. LOCATION: Lake Charles AFB, La.
-3. TIME: Local 21:25, Zulu 2:30
-4. WAS OBJECT OBSERVED FROM THE GROUND?: Yes
-5. WAS OBJECT OBSERVED BY GROUND RADAR?: Yes
-6. WAS OBJECT OBSERVED FROM THE AIR?: No
-7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT?: No
-8. DID OBJECT CHANGE DIRECTION AT ANY TIME?: No
-9. IF OBJECT WAS A "LIGHT", WAS IT?: Blinking
-10. LENGTH OF TIME IN SIGHT: 2-3 minutes
-11. REPORTING AGENCY (Unit Number and Mailing Address): CO ADIN 306 Lake Charles AFB, La.
-12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED?: No
-13. DID OBJECT APPEAR TO ARCH DOWNWARD?: No
-14. DID OBJECT HAVE A TAIL?: No
-15. DID OBJECT APPEAR TO DISINTEGRATE?: No
-16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (data from Air Almanac): Sunrise
-17. WERE AIRCRAFT NOTED IN AREA?: Yes, One Aircraft
-18. WAS ANY SOUND HEARD?: No
-19. WHAT WERE CHARACTERISTICS OF OBJECT OBSERVED?: No
-20. WAS THE OBJECT VIEWED ABOVE 1500 ELEVATION?: No
+I. GENERAL
+
+1. DATE
+6 Oct 1952
+
+2. LOCATION
+Lake Charles, HAFB, La.
+
+3. TIME
+Locals 2120 CST
+Zebrat 0320
+
+4. WAS OBJECT OBSERVED FROM THE GROUND?
+[✓] Yes
+[ ] Naked Eye
+[ ] Binoculars
+[ ] Telescope
+[ ] Theodolite
+
+5. WAS OBJECT OBSERVED BY GROUND RADAR?
+[ ] Yes
+[ ] By One Set
+[ ] By Two Sets
+[ ] By Three Sets
+[✓] No
+
+6. WAS OBJECT OBSERVED FROM THE AIR?
+[ ] Yes
+[ ] A/C Observed Object
+[ ] Interception Attempted
+[ ] No Interception Attempted
+[✓] No
+
+7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT?
+[ ] Yes
+[ ] A/C Scrambled
+[ ] Visual Contact Made
+[ ] A/T Contact Made
+[ ] No Contact Made
+[✓] No
+
+8. DID OBJECT CHANGE DIRECTION AT ANY TIME?
+[ ] Yes
+[ ] Normal
+[ ] Violent
+[✓] No
+
+9. IF OBJECT WAS A "LIGHT", WAS IT:
+[✓] Blinking "Dim much"
+[ ] Steady
+
+10. LENGTH OF TIME IN SIGHT
+[ ] <15 Seconds
+[✓] 1-5 Minutes
+[ ] Over 10 Minutes
+
+11. REPORTING AGENCY (Unit Number and Mailing Address)
+Co ADN 806 Lake Charles AFB, La.
+
+II. ASTRONOMICAL DATA
+
+12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED?
+No
+
+13. DID OBJECT APPEAR TO ARCH DOWNWARD?
+[ ] Yes [✓] No
+
+14. DID OBJECT HAVE A TAIL?
+[ ] Yes [✓] No
+
+15. DID OBJECT APPEAR TO DISINTEGRATE?
+[ ] Yes [✓] No
+
+16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET
+[✓] Night
+[ ] Day
+[ ] Sunrise
+[ ] Sunset
+
+III. AIRCRAFT DATA
+
+17. WERE AIRCRAFT NOTED IN AREA?
+[✓] Yes [ ] No
+[ ] One Aircraft
+[ ] More Than One Aircraft
+
+18. WAS ANY SOUND HEARD?
+[✓] Yes [ ] No
+
+19. WERE THERE INDICATIONS OF HIGH BACKGROUND NOISE?
+[✓] Yes [ ] No
+
+20. WAS THE OBJECT VIEWED ABOVE 15° ELEVATION?
+[✓] Yes [ ] No
+
+ATIC Test Form 334 (13 Aug 52)
+
 
 - page 9 -
 
-There is no photograph present in this image. This appears to be a form from Project Blue Book, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs). The form is titled "BALLOON DATA" and contains sections for recording information about balloon sightings, such as location, time, type of balloon, and evaluation of the sighting.
-
-The text on the image is as follows:
-
 IV. BALLOON DATA
-21. WERE BALLOONS RELEASED IN AREA? () Yes   (X) No
-22. AJAX SIREC SCHEDULE/ BALLOON RELEASE: ----------
-23. POSSIBLE BALLOON LAUNCH SITE DOWNWIND OF SIGHTING?
-a. Location - Lake Charles AFB, La
-b. Type - ----------
-c. ----------
-d. ----------
-(Attach over-lay)
+
+21. WERE BALLOONS RELEASED IN AREA   Yes   No
+
+22. TIME SINCE SCHEDULED BALLOON RELEASE   20 Minutes
+
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING
+
+Location | Type | Launching Agency | Lighted | Describe
+a. Lake Charles AFB, La. | Rawin | USAF Weather | Yes | white
+
+(Attach overlay)
 
 V. EVALUATION
+
 21. EVALUATION OF SOURCE:
-[ ] Excellent   [ ] Good   [ ] Fair   [ ] Poor   [ ] Unreliable   [ ] Extremely Doubtful   [ ] None
+[Checkboxes for: Excellent, Good, Fair, Poor, Unreliable, Extremely Doubtful, Hoax]
+Fair is checked
 
 22. DETAILS OF REPORT:
-[ ] Good   [ ] Fair   [ ] Poor   [ ] Insufficient to Evaluate
+[Checkboxes for: Good, Fair, Poor, Insufficient to Evaluate]
+Fair is checked
 
 23. FINAL EVALUATION:
-[ ] Was Astronomical   [ ] Probably Astronomical   [ ] Probably Astronomical
-[ ] Was Aircraft   [ ] Probably Aircraft   [ ] Possibly Aircraft
-[ ] Other ____________
-[ ] Insufficient Data For Evaluation
-[ ] Unknown
+[Multiple checkboxes for various categories]
+"Possibly Balloon" is checked
 
-24. COMMENTS:
+24. COMMENTS: [Blank section]
 
-AFYC Test Form 334 (13 Aug 52)
+ATIC Test Form 34f (13 Aug 52)
+
 
 - page 10 -
 

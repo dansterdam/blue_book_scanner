@@ -1,274 +1,387 @@
-The image contains a Project 10073 Record Card, which appears to be a document from Project Blue Book, a United States Air Force program that investigated UFO sightings. There is no photograph present in this particular document page.
-
-TEXT OUTPUT:
+Here is the text from the document:
 
 PROJECT 10073 RECORD CARD
+
 1. DATE
 19 May 1952
+
 2. LOCATION
-33°00'37" N to 100°07'47" W
+30°37' N to 100°47'
 San Angelo, Texas
+
 3. DATE-TIME GROUP
 Local
-GMT 0148-GCT
+GMT 0148-GMT
+
 4. TYPE OF OBSERVATION
-Ground Visual
-Binoculars
-Air Visual
+□ Ground Visual
+□ Binoculars
+■ Air Visual
+□ Ground-Radar
+□ Air-Intercept Radar
+
 5. PHOTOS
-Yes
-No
+■ Yes
+□ No
+
 6. SOURCE
 B-36 Crew
+
 7. LENGTH OF OBSERVATION
 15-20 Min
+
 8. NUMBER OF OBJECTS
 7
+
 9. COURSE
+[blank]
+
 10. BRIEF SUMMARY OF SIGHTING
 Color: White
 Shape: Doughnut
+
 11. COMMENTS
 Stacked in a vertical column
 
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+■ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
+
 - page 1 -
 
-The image contains a handwritten account of a sighting of what appears to be a UFO or unidentified aerial phenomenon. There is a diagram accompanying the text that depicts the object the witness observed. No human faces or identities are visible in the image.
-
-OCR output:
-
+STATEMENT
 UNCLASSIFIED
 
-We were flying along when over the interphone came the question what was in front of us. Our present altitude was 18,000 ft. I was flying right scanner and couldn't see anything. The last scanner gave a report of what he saw i lefty my position and looked thru the left blister and saw four gleaming balls in a straight line. The wing stopped as from seeing more of them. Then I returned to my position. That is all I saw. I had no idea of their altitude or how far from us they were. I have never seen anything like this in my life.
+We were flying along when over the interphone came the question what was that in front of us. Our present altitude was 18,000 ft. I was flying right scanner and c couldn't see anything. The left scanner gave a report of what he saw. I left my position and looked thru the left blister and saw four gleaming balls in a straight line. The wing stopped me from seeing more of them. Then I returned to my position. That is all I saw. I had no idea of their altitude or how far from us they were. I have never seen anything like this in my life.
 
-DOWNGRADED AT 3 YEAR INTERVALS
+[A hand-drawn sketch of what appears to be an aircraft with "#3 ENGINE" labeled]
+
+DOWNGRADED AT 3 YEAR INTERVAL
 DECLASSIFIED AFTER 12 YEARS
-JOB DH 5200.10
+DOD DIR 5200.10
 
 UNCLASSIFIED
+
 6-52W668
+
 
 - page 2 -
 
-The image contains a photograph that appears to depict a series of bright lights or objects in the sky, described in the accompanying text as "bright lights" that appeared in the west in a "trail" and were visible for about 30 minutes. The text states that the "height and distance could not be determined" and that the lights "appeared to be circular" and spread or trail out like a "vapor trail". The text also mentions that the lights appeared to have been associated with "small cloud or vapor formations" or a "lower deck cloud formation or haze layer".
-
-The text also indicates that the observer reported this incident to the San Angelo Radio and the operator observed the same phenomenon from the ground.
-
 UNCLASSIFIED
-While flying southwest of San Angelo at 20:05C 19 May 1952 at 18,000 seven bright lights appeared in the west in trail.* The height and distance could not be determined. The lights appeared to be circular for about 30 minutes and then seemed to spread or trail out like a vapor trail. It appeared from the beginning as if it could have been small cloud or vapor formations with the setting sun reflecting off a lower deck cloud formation or haze layer. They were visible until dark. As we flew along we did not seem to get closer.
+
+STATEMENT
+
+While flying southwest of San Angelo at 2005C 19 May 1952 at 18,000 seven bright lights appeared in the west in trail.* The height and distance could not be determined. The lights appeared to be circular for about 30 minutes and then seemed to spread or trail out like a vapor trail. It appeared from the beginning as if it could have been small cloud or vapor formations with the setting sun reflecting off a lower deck cloud formation or haze layer.
+
+They were visible until dark. As we flew along we did not seem to get closer.
+
 I reported this to the San Angelo Radio and the operator observed this incident from the ground.
-DOWNGRADED AT 3 YEAR INTERVALS:
-DECLASSIFIED ON FEB 15 1985
-FOD DIR 5200.10
+
+* 
+
+DOWNGRADED AT 3 YEAR INTERVALS
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10
+
 UNCLASSIFIED
+
+6-52 WA 68
+
 
 - page 3 -
 
-The image does not contain any photograph. The text on the image states "This case includes one (1) 8x10 photo and one (1) map".
-
-this case includes 
+This case includes
 one (1) 8x10 photo and
-one (1) map
+one (1) MAP
+
 
 - page 4 -
 
-The image does not contain a photograph. It appears to be a blank or static image, possibly from a document or report. 
-
-Now, acting as an OCR (Optical Character Recognition) system, I will extract all the text found in the document:
+The text I can clearly read on this document is:
 
 6-52:638
 
+At the bottom right of the page.
+
+There is also a faint number at the bottom left that appears to be "142-1541", but it is quite blurry.
+
+The rest of the document appears to be a very grainy, low-contrast black and white photographic document with significant noise/graininess that makes most potential text illegible.
+
+
 - page 5 -
 
-The image appears to be a page from an old UFO report document from Project Blue Book. It contains a black and white photograph that shows an aerial map or chart. The photograph depicts a series of objects or markings that appear to be aircraft or other unidentified flying objects in flight, arranged in a row or formation. The text at the bottom of the image reads "WORLD AERONAUTICAL CHART (470) - (4690)".
+Text found in the document:
 
-WORLD AERONAUTICAL CHART (470) - (4690)
+WORLD AERONAUTICAL CHART
+(470) (469)
+
+END
+
+The image appears to be a black and white aeronautical map with a flight path marked by a dotted line, starting with an airplane icon at the top left and ending with an "END" marker on the right side of the chart. The map shows various geographical features and locations, with a faded, vintage appearance.
+
 
 - page 6 -
 
-The image does not contain a photograph, but rather a handwritten text and diagram. The text says "SIGHTING", "START SIGHTING", and "TRUE BEARING 118 DEG THIS CAK". The diagram appears to be some kind of map or navigation chart.
+Text found in the image:
 
 SIGHTING
 START SIGHTING
-TRUE BEARING 118 DEG THIS CAK
+TRUE BEARING
+MAS-162 TRS-24
+
+The image appears to be a map with a dotted line trajectory marked from a point labeled "START SIGHTING" to an endpoint, with annotations about bearing and other technical details. The map seems to be centered around the San Angelo area in Texas, with various roads and geographical features visible.
+
 
 - page 7 -
 
-The image does not contain a photograph, but rather a scanned image of what appears to be an old document or report related to Project Blue Book. The image shows a map-like layout with various text and markings, including the words "TRUE HEADING 301-32IG-LBS" and "DEPT KELLY AFB" written on the document.
+Here is the text I can read from the image:
 
-True heading 301-32IG-LBS
-Dept Kelly AFB
+HITTING
+TRUE HEADING 301
+VAS-168 VAS-214
+DEPT KELLY AFB
+
+The image appears to be a black and white map or chart with various lines, roads, and markings. There is an aircraft silhouette on the left side of the image, and the map seems to show an area around San Antonio, with "DEPT KELLY AFB" labeled at the bottom right.
+
 
 - page 8 -
 
-There is no photograph present in this image. The image appears to be a scanned page from an old document related to Project Blue Book, a U.S. Air Force program that investigated UFO reports. The page contains a map-like image with the text "LIGHTING" and "TRUE HEADING 255" written on it, as well as the text "DEPT KELLY AFB" at the bottom.
+Text found in the image:
 
-LIGHTING
-TRUE HEADING 255 1-16-53 AS-27
+FIGHTING
+
+TRUE HEADING 307°
+MAS 139° TAS 214°
+
 DEPT KELLY AFB
+
+The image appears to be an old black and white map with an aircraft route drawn on it, centered around Kelly Air Force Base. The map shows various geographical features and locations with a faint grid overlay.
+
 
 - page 9 -
 
-The image appears to be a black and white aerial photograph or map. It shows a landscape with various markings and text, including the words "WORLD AERONAUTICAL CHART" and "SK END" written on the image.
+Text found in the document:
 
 WORLD AERONAUTICAL CHART
-(6770)
+(470) (469)
+
+END
+
+The image appears to be an aeronautical chart with a flight path marked by a dotted line, starting from a drawn airplane icon on the left side of the map. The chart shows various geographical features and locations, with a grayscale appearance typical of older documents.
+
 
 - page 10 -
 
-The image appears to be a map or diagram, but there is no photograph present. The text in the image reads "END SIGHTING" and "START SIGHTING", indicating this is likely a representation of some kind of sighting or observation.
+Text found in the image:
 
 END SIGHTING
 START SIGHTING
-
 HART
+HAUL
+146-18
+
+The image appears to be a map with a dashed line indicating a flight path or sighting trajectory, with "START SIGHTING" and "END SIGHTING" marked at different points. The map shows various geographical features and locations, with "San Angelo" visible as one of the named locations.
+
 
 - page 11 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the OCR text from the document:
 
-As an OCR system, I will now produce the text found in the document:
+AF FORM 112-PART I
+APPROVED 1 JUNE 1948
 
+United States of America
 AIR INTELLIGENCE INFORMATION REPORT
 
-SUBJECT: Unidentified Flying Objects, San Angelo, Texas
-DATE OF REPORT: 5 June 1952
-DATE OF INCIDENT: 29 May 1952
-PLACE: San Angelo, Texas
-INTERROGATION OF: Lt James T. Wood, 9 Intel. Offr, Interrogation of BB-36 crew members
+FLYOBSPT
+San Angelo, Texas
 
-SUMMARY: This report was received by this headquarters. It was thought to be of sufficient importance to forward for evaluation. All squadron pilots on this date reported sight of several bright objects which were manoeuvring at high speed in the area.
+20 June 1952                 19 May 1952
+1st Lt James F. Wood, Sq Intell Officer    Interrogation of FB-36 crew members
 
-The attached photographs prove the authenticity of the report as observed and the only explanation of the objects that can be reached at this headquarters is the impossibility which that have been established from the examination. The objects do not fit out this possibility, but since the visual sighting by the New Mexico testing station, this does not rule out this possibility, and since the wind is reported to be 1,000 ft due to 25 knots, it seems unlikely that balloon caused this report.
+COMMENTS of Approving Officer:
+
+Although this report was belatedly received by this headquarters, it was thought to be sufficiently important to forward for evaluation. All squadron intelligence officers and aircrewmen have been forcefully reminded of their responsibility in promptly reporting all unusual aerial observations in accordance with JAMAP and AFR 200-5.
+
+The attached photographs prove the authenticity of the report as observed and the only explanation of the objects that can be reached at this headquarters is that possibly these units were from a vertically launched, multiple phase, rocket or guided missile. The proximity of the aircraft to the New Mexico testing sites does not rule out this possibility, but since the wind velocity at 16,000 feet was 35 knots, it seems unlikely that exhaust puffs would remain that long without dissipating.
 
 APPROVED:
-WILLIAM J. CLINE
-Capt, USAF
-Asst. Wing Intel Off
+WILLIAM J. QUINN JR.
+Captain, USAF
+Asst Wing Intell Off
 
-DOWNGRADED AT 3 YEAR INTERVALS; 
-DECLASSIFIED AFTER 12 YEARS.
-DOD DIR 5200.10
+DOWNGRADED AT 3 YEAR INTERVALS
+DECLASSIFIED AFTER 12 YEARS
+POD DIR 6200.10
 
-1. Photographs of objects (2 transparencies, 1 or each: 2 photos, 6 cys each)
-2. Plob Slide of Area Sighting (6 cys) 
-3. Statements of Observers (3 Statements, 6 cys each)
+1. Photographs of Objects (2 Transparencies, 1 cy each; 2 photos, 6 cys each)
+2. Pilot Map of Area Sighting (6 cys)
+3. Statements of Observers (8 Statements, 6 cys each)
 
-DIRECTOR OF INTELLIGENCE, USAF, WASHINGTON 25, D.C.
-INFORMATION COPY 
-Commanding General, ADC, Maxwell AFB, Ala.
-Commanding General, AMC, WPAFB, Ohio
+[Distribution list and classification markings at bottom of page]
 
-UNCLASSIFIED
 
 - page 12 -
 
-The image provided does not contain a photograph, but rather appears to be a scanned document or page from a file related to Project Blue Book, a historical U.S. Air Force program that investigated unidentified flying objects (UFOs). The image shows a grainy, black-and-white background with some text annotations, including the phrase "TRUE CHASING SON WAS 1956" and "DEPT. KELLY ARB".
+Here is the text I can read from the image:
 
-Output the text found in the document:
+HITTING
 
-TRUE CHASING SON WAS 1956
-DEPT. KELLY ARB
+TRUE HEADING 301°
+WAS 168° TAS 214 KTS
+
+DEPT KELLY AFB
+
+The image appears to be a black and white map or chart with various lines, roads, and markings. There is an aircraft silhouette on the left side of the image.
+
 
 - page 13 -
 
-There does not appear to be any photograph present in this image. This appears to be a page from a Project Blue Book report or document.
+Here is the OCR text from the document:
 
-AF FORM 112--PART II
-AIR INTELLIGENCE INFORMATION REPORT CLASSIFIED
+AF FORM 112-PART II
+AIR INTELLIGENCE INFORMATION REPORT-CLASSIFIED
 
-SUBJECT No.
-DATE OF INFORMATION
-19 May 1952
+FROM (Agency): 
+51st Strat Rec Sq
+5th Strat Rec Wg (R)
+Travis AFB, Calif
 
-SUBJECT: SIGHTING OF UNIDEhTIFIED FLYING OBJECT AT SAN ANGELO, TEXAS ON 19 May 1952
+REPORT NO.
+PAGE 2 OF 2 PAGES
 
-While the pilot and co-pilot of a training B-25 medium bomber were flying a routine rissicn at 12,000 feet altitude 40 miles west of San Angelo, Texas, they observed an unidentified obj eet at 12:41 PM, 19 May 1952. The object was first noticed by the pilot while flying straight and level on a westerly course. He first observed it at a distance of approximately 15 miles directly ahead and slightly above. It appeared to be in level flight and traveling in a north to northeasterly direction. As the pilot continued to watch it, the object commenced an erratic motion, diving and climbing in a rapid and abrupt manner. This motion was visible to both the pilot and co-pilot. At one point the object appeared to stop momentarily, then resume its northerly direction. At no time did it appear to leave a vapor trail. The object was observed for approximately 10 to 15 minutes. Its size was estimated to be approximately 25 to 30 feet in diameter. It could not be identified as any known type of aircraft by the pilot and co-pilot.
+While flying on a training mission on 19 May 1952 in the vicinity of San Angelo, Texas, an RB-36 crew of the 51st Strat Recon Squadron, 5th Strat Recon Wing, observed seven unidentified objects ahead of their aircraft. The RB-36 was at an altitude of 16,500 feet, approximately 159 (P) 161 NM) and the weather conditions in the area were CAVU with winds aloft of 35 knots from 310 degrees. The time of the sighting was 0948 CST, and the aircraft's position was on the 30 - 37 N 100 - 107 W heading 308 true. The seven objects appeared at a position of 11 o'clock to the aircraft at an estimated distance of 50 to 75 miles and were stationary in a vertical column. The bottom of the objects was observed to be at 25,000 feet and the top at 50,000 feet. Several conflicting reports were noted. One crew member stated the objects were in a V-formation while the time ranged from 15 to 20 minutes. The objects were lost from sight at a position approximately 30 - 53 N 100 - 20 W as 1A-6A confirmed their presence. Some time after the aircraft was flying in the direction of the setting sun. The objects were white in color and as estimate of their size could be given. One crew member described the objects as with no apparent 1120 small vapor trails. A pair of mil power binoculars were used to observe the objects, and the near confirmed the objects were a trail vapor. The pilot took a look on his scope.
 
-The aircrafts commander of the 12-25 related the San Angelo sighting, and a ground radar station which was in operation at the time did not pick up any unidentified targets.
+The aircraft commander of the RB-36 notified the San Angelo ground station, and a ground observer from that station was also able to see the objects.
 
-COMMENTS of Preparing Officers:
-It is the opinion of the intelligence officer that the pilot's report of the sighting is accurate and reliable, and it is definitely worthy of further investigation.
+One crew member had a 3268 personal camera aboard, loaded with color film. He took six photographs at the 30 point. These were of any value. These photographs have been attached to the report forwarded to the Air Technical Intelligence Center. The attached photographs are enlargements of the transparencies. When viewed with a 35M projector, the objects are clearly distinguishable in the transparencies.
 
-DECLASSIFIED ON A ONE YEAR INTERVAL.
-UNCLASSIFIED DOCUMENTS ON A FIVE YEAR INTERVAL.
+The report of this sighting was delayed since the RB-36 crew did not report this sighting until 29 May 1952. It was added at that time to the report until the color photographs were returned from the agency that was processing them. Since then, black and white photographs had to be made. This factor also contributed to the delay.
+
+COMMENTS of Preparing Officer:
+
+It is the opinion of the preparing officer that the sighting reported was observed as stated in each of the crew member's statements, and it is definitely worthy of a flying object report.
+
+[Signed]
+JAMES F. WOOD
+1st Lt, USAF
+Sq Intell Off
+
+DOWNGRADED AT 3 YEAR INTERVALS
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR. 5200.10
+
 
 - page 14 -
 
-The image contains a photograph showing several sketches or drawings. The drawings appear to be depictions of vapor trails or contrails in the sky, based on the text description provided. The text in the image discusses an observation of these vapor trails made on May 19th, 1952, describing their appearance and characteristics.
+STATEMENT
+UNCLASSIFIED
 
-UNCLASSIFIED 
-
-On the 19th of May 1952, at 18,000 ft. 45 minutes out of Kelly APB, 30 miles southwest of San Angelo, Texas, I observed seven unidentifiable glowing objects ahead, on course. We continued on course and approached these for about 30 minutes. 
+On the 19th of May 1952, at 18,000 ft, 45 minutes out of Kelly AFB, 30 miles southwest of San Angelo, Texas, I observed seven unidentifiable glowing objects ahead, on course. We continued on course and approached them for about an hour.
 
 On closer observation they appeared to me to be vapor trails, the highest at approximately 40,000 ft, spaced down at 1,000 ft intervals as sketched below*.
 
 The trails were approximately one mile in length.
 
-DOWNGRADED AT 3 YEAR INTERVALS; DECLASSIFIED AFTER 12 YEARS  
+DOWNGRADED AT 3 YEAR INTERVALS,
+DECLASSIFIED AFTER 12 YEARS.
 DOD DIR 5200.10
 
 UNCLASSIFIED
+
 
 - page 15 -
 
-The image contains a photograph or diagram showing a peculiar formation of bright spots under the wing of an aircraft, as described in the text. The text states that the spots became unknown and gradually turned into a vertical line as the aircraft was observed.
+UNCLASSIFIED
+
+While returning from TDY, Kelly AFB on May 19,1952 at 2005 C.S.T. I ob-
+served out of the left blister a peculiar formation of bright spots (5) under
+the wing (left) at 12 o'clock. They were in a vertical line. As we came closer
+the spacing between the spots became uneven and gradually left a vertical line.
+They appeared as diagrammed below. Just before dusk, at the closest, I was able
+to see what was causing the spots. It appeared that some aircraft had left
+vapor trails in a spiral ascent or descent. The brightness of the spots ap-
+peared to me to be caused by the sun's reflection from these vapor trails.
+
+Altitude appeared to be some 15 to 20 thousand feet above our altitude of
+18,000 feet.
+
+[A hand-drawn diagram showing a wing shape labeled "W" with 5 spots in a vertical line, with times 2005 and 2015 noted]
+
+DOWNGRADED AT 8 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10
 
 UNCLASSIFIED
 
-While returning from TDY, Kelly AFB on May 17,1952 at 2005 G.S.T. I observed out of the left blister a peculiar formation of bright spots (5) under the wing (left) at 12 o'clock. They were in a vertical line. As we came closer the spots appeared to be becoming smaller and gradually left a vertical line. They appeared as diagrammed below this. As the aircraft climbed, I was able to see what was causing the spots. It appeared that some aircraft had left vapor trails in a spiral ascent or descent. The brightness of the spots appeared to be caused by the sun's reflection from these vapor trails. Altitude appeared to be some 15 to 20 thousand feet above our altitude of 18,000 feet.
-
-DOWNGRADED AT 3 YEAR INTERVALS: DECLASSIFIED AFTER 12 YEARS
 
 - page 16 -
 
-The image does not contain any photographs. It appears to be a typed document with text describing a sighting of several circular objects in the sky that were observed southwest of San Angelo, Texas on May 29, 1952. The text describes the objects as being higher than the observer's aircraft, and appearing as small circles in the sky. The text also mentions that the objects seemed to range in size from approximately 25,000 feet to 60,000 feet, and that they had a fuzzy, hazy appearance.
+STATEMENT    UNCLASSIFIED
 
-STATEMENT UNCLASSIFIED
+On May 19, 1952 at 2005 hrs C.S.T. approximately 30 miles southwest of San Angelo, Texas, a string of seven circular lights was observed ahead of and higher than our aircraft. The sighting was reported to the A/C and everyone within view of the objects attempted to determine what they were. Upon closer observation on my part they appeared to be very small circles such as a small jet plane might make if it were flying an extremely small circle. A better description might be of a white doughnut in the sky. There were seven such objects almost one above the other. The altitude of the objects seemed to me to range from approximately 25,000 ft (the lowest) to approximately 60,000 ft (the highest). As we got closer to the objects the circular part of the objects seemed larger and fuzzier as a vapor trail might appear after it begins to dissipate. They stayed in view, still appearing ahead of us, until dark. The extreme brightness of the objects upon first sighting seemed to come from the sun which was setting. Later on the objects definitely had the fuzzy, hazy appearance of a dissipating vapor trail.
 
-On May 29, 1952 at 2005 hrs C.S.T. approximately 30 miles southwest of San Angelo, Texas a group of seven circular lights was observed ahead of and higher than our aircraft. The sighting was reported to the A/C and everyone within view of the objects attempted to determine what they were. Upon closer observation on my part they appeared to be very small circles such as a small jet plane might make if it were flying an extremely small circle. A better description might be of a white doughnut in the sky. There were seven such objects chinate one above the other. The altitude of the objects seemed to range from approximately 25,000 ft (the lowest) to approximately 60,000 ft (the highest). As we got closer to the objects the circular part of the objects seemed larger and fuzzier as a vapor trail might appear after it begins to dissipate. They stayed in view, still appearing ahead of us, until dark. The extreme brightness of the objects upon first sighting seemed to come from the sun which was setting. Later on the objects definitely had the fuzzy, hazy appearance of a dissipating vapor trail.
-
-DOWNGRADED AT 3 YEAR INTERVALS
-DECLASSIFIED AFTER 12 YEARS
+DOWNGRADED AT 3 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS.
 DOD DIR 5200.10
 
 UNCLASSIFIED
+
 
 - page 17 -
 
-The shared image appears to contain a photograph of an unidentified flying object. The image shows a black silhouetted object in the sky, and the text describes the object as "bright white lights in vertical formation" that were observed by the navigator at an altitude of 18,000 ft.
+UNCLASSIFIED
+
+Shortly before sunset on the evening of the 19th of May 1952 we were flying at an altitude of 18,000 ft. The navigator called our attention to some objects in the air ahead of us. At first glance they looked like seven bright white lights in vertical formation. Looking at them thru 6 power binoculars they appeared to be small white clouds, as the edges could be noticed to be cloud-like in nature. The objects continued to be visible until dark (about one hour) without changing very much in size or distance although we were flying almost directly toward them for this time. They were ahead of the ship's course, slightly to the left and higher than us by about an angle of 10 to 15 degrees.
+
+DOWNGRADED AT 3 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 6200.10
 
 UNCLASSIFIED
-Shortly before sunset on the evening of the 19th of May 1952 we were flying at an altitude of 18,000 ft. The navigator called our attention to some objects in the air ahead of us. At first glance they looked like seven bright white lights in vertical formation. Looking at them thru 6 power binoculars they appeared to be small white clouds, as the edges could be noticed to be cloud-like in nature.
-The objects continued to be visible until dark (about one hour) without changing very much in size or distance although we were flying almost directly toward them for this time. They were ahead of the ship's course, slightly to the left and higher than us by about an angle of 10 to 15 degrees.
-DOWNGRADED AT 3 YEAR INTERVALS;
-DECLASSIFIED AFTER 10 YEARS.
-DOD DIR 5200.10
+
 
 - page 18 -
 
-The image contains a single photograph that appears to show a blurred, dark object in the sky. The text below the image states "RECLASSIFIED AFTER 12 YEARS - D OD DIR 5200.10", indicating that this document was originally classified but has since been declassified.
+UNCLASSIFIED
+
+On May 19, 1952 at 2005 C.S.T. while flying southwest of San Angelo, Texas at an altitude of 18,000 feet, seven bright objects were observed in the west in a vertical formation. There appeared to be no apparent movement for the first 15 minutes, then they appeared to be sending off vapor trails in a swirling motion, different from any vapor trails I've observed from high flying aircraft.
+
+After the vapor trails drifted off no objects were in sight. I took six pictures of this with my personal camera (35mm). The film is now being developed.
+
+DECLASSIFIED AFTER 12 YEARS,
+DOD DIR 5200.10
 
 UNCLASSIFIED
-On may 19, 1952 at 2005 C.S.T. while flying southwest of San Angelo, Texas
-at an altitude of 18,000 feet, seven bright objects were observed in the west
-in a vertical formation. There appeared to be no apparent movement for the first
-15 minutes, then they appeared to be sending off vapor trails in a swirling
-motion, different from any vapor trails I've observed from high flying aircraft.
-After the vapor trails drifted off no objects were in sight. I took six
-pictures of this with my personal camera (35mm). The film is now being developed.
+
 
 - page 19 -
 
-The image does not contain any photograph. The text in the document states:
-
+STATEMENT
 UNCLASSIFIED
-Objects in question were sighted approximately 45 minutes northwest of San Angelo. The observation was called to them and I observed them out of the line forward blister. There were seven objects about 50 to 75 miles away about 10 degrees above flight line at 11 o'clock of the aircraft. They were very white and had the appearance of having phosphorous trails, and were in a vertical line. No movement was apparent and as we drew closer I figured they must be vapor trails and so I returned to my work. This all occurred on 19 May 1952.
+
+Objects in question were sighted approximately 45 minutes northwest of San Antonio. My attention was called to them and I observed them out of the left forward blister. There were seven objects about 50 to 75 miles away about 10 degrees above flight line at 11 o'clock of the aircraft. They were very white and had the appearance of having phosphorous trails, and were in a vertical line. No movement was apparent and as we drew closer I figured they must be vapor trails and so I returned to my work. This all occurred on 19 May 1952.
 
 UNCLASSIFIED
 DOWNGRADED AT 3 YEAR INTERVALS
 DECLASSIFIED AFTER 12 YEARS
-DOD DIR 5200-10
+DOD DIR 5200.10
+
+52 W 668
+
 
 - page 20 -
 

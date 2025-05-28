@@ -1,825 +1,587 @@
-There is no photograph present on this page.
-
-Here is the transcribed text from the document:
-
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE
-22 August 52
+DATE
+23 August 52
 
-2. LOCATION
+LOCATION
 Navarro, Minnesota
 
-3. DATE-TIME GROUP
-Local  1015CST
+DATE-TIME GROUP
+1610 CST
+
 GMT
 
-4. TYPE OF OBSERVATION
-X Ground-Visual  C1 Ground-Radar
-C2 Air-Visual    C3 Air-Ground Radar
+PHOTOS
+[ Yes
+[ No
 
-5. PHOTOS
-X Yes            No
-
-6. SOURCE
-X Civilian
-
-7. LENGTH OF OBSERVATION
+LENGTH OF OBSERVATION
 5-6 seconds
 
-8. NUMBER OF OBJECTS
-1
-
-9. COURSE
-
-11. COMMENTS
-Report does not follow 200-5.
-
-10. BRIEF SUMMARY OF SIGHTING
+BRIEF SUMMARY OF SIGHTING
 Silver. Very fast. Erratic.
 
-12. CONCLUSIONS
-X Balloon
-C1 Possibly Balloon
-C2 Possibly Balloon
+TYPE OF OBSERVATION
+[ Ground-Visual
+[ Air Visual
+SOURCE
+civilian
 
-C3 Aircraft
-C1 Probably Aircraft
-C2 Possibly Aircraft
+NUMBER OF OBJECTS
+1
 
-C3 Mass Astronomical 
-C1 Probably Astronomical 
-C2 Possibly Astronomical
+COURSE
+N
 
-Other
-Insufficient Data for Evaluation 
-Unknown
+CONCLUSIONS
+[ Balloon
+[ Solar Pillow
+[ Possible Balloon
 
-ATIC FORM 329 (REV 26 SEP 52)
-```
+[ Was Aircraft
+[ Probably Aircraft
+[ Possibly Aircraft
+
+COMMENTS
+Report does not follow 200-5.
+
+ATCFORM 164 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present on the provided page.
+Here is the text from the document:
 
-OCR text output from the document:
-
-```
 Page 8
 
 30. Please add here any further comments which you believe are important.
-      Use additional sheets of the same size paper, if necessary.
+Use additional sheets of the same size paper, if necessary.
 
 THIS OBJECT TRAVELED AT A TERRIFIC
 RATE OF SPEED AND MOVED AS NO CONVEN-
 TIONAL AIRCRAFT I HAVE EVER SEEN
-```
+
 
 - page 2 -
 
-The document does not contain a photograph.
+Here is the OCR text from the document:
 
-Here is the OCR transcription of the text:
-
-```
 PROJECT 10073 WORKSHEET
 
 I. GENERAL
 
-1. DATE
-52 Aug 52
-Local: 1048 CST
-Zebra: 1448 GMT
+1. DATE: 52 8 50
+2. LOCATION: Delano, Minnesota
+3. TIME: Local: 10:45
+         Zulu: 16:45
 
-2. LOCATION
-Navarro, Minn.
+4. WAS OBJECT OBSERVED FROM THE GROUND? [Yes, Naked Eye checked]
 
-3. TIME
+5. WAS OBJECT OBSERVED BY GROUND RADAR? [No]
 
-4. WAS OBJECT OBSERVED FROM THE GROUND?
-[X] Yes
-[X] Naked Eye
-[ ] Binoculars
-[ ] Telescope
-[ ] Theodolite
+6. WAS OBJECT OBSERVED FROM THE AIR? [Yes, A/C Observed Object]
 
-[ ] No
+7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT? [No]
 
-5. WAS OBJECT OBSERVED BY GROUND RADAR?
-[ ] Yes
-[ ] By One Set
-[ ] By Two Sets
-[ ] By Three Sets
-[X] No
+8. DID OBJECT CHANGE DIRECTION AT ANY TIME? [No]
 
-6. WAS OBJECT OBSERVED FROM THE AIR?
-[ ] Yes
-[ ] AC Observed Object
-[ ] Interception Attempted
-[ ] No Intercept Attempted
-[X] No
+9. IF OBJECT WAS A "LIGHT", WAS IT: [Violent checked]
 
-7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT?
-[ ] Yes
-[ ] AC Scrambled
-[ ] Visual Contact Made
-[ ] AVI Contact Made
-[ ] No Contact Made
-[X] No
+10. LENGTH OF TIME IN SIGHT: [1-5 Seconds checked]
 
-8. DID OBJECT CHANGE DIRECTION AT ANY TIME?
-[ ] Yes
-[ ] Normal
-[ ] Violent
-[X] No
-
-9. IF OBJECT WAS A "LIGHT," WAS IT:
-[ ] Blinking
-[ ] Steady
-
-10. LENGTH OF TIME IN SIGHT:
-[ ] (1-5) Seconds
-[ ] (1-5) Minutes
-[X] Over 10 Minutes
-
-11. REPORTING AGENCY (Unit Number and Mailing Address)
-Hq. 31st Air Division, Fort Snelling, Minn.
+11. REPORTING AGENCY: HQ 3125 Minn. Div. Fort Snelling, Minn.
 
 II. ASTRONOMICAL DATA
 
-12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED?
+12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED? N/O
 
-N/A
+13. DID OBJECT APPEAR TO ARCH DOWNWARD? [No]
+14. DID OBJECT HAVE A TAIL? [No]
+15. DID OBJECT APPEAR TO DISINTEGRATE? [Yes]
 
-13. DID OBJECT APPEAR TO ARCH DOWNWARD?
-[ ] Yes
-[X] No
-
-14. DID OBJECT HAVE A TAIL?
-[ ] Yes
-[X] No
-
-15. DID OBJECT APPEAR TO DISINTEGRATE?
-[ ] Yes
-[X] No
-
-16.TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (Data From Air Almanac):
-[ ] Night
-[ ] Day
-[ ] Sunrise
-[ ] Sunset
+16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET: [Night checked]
 
 III. AIRCRAFT DATA
 
-17. WERE AIRCRAFT NOTED IN AREA?
-[X] Yes
-[ ] One Aircraft
-[X] More Than One Aircraft
-[ ] No
+17. WERE AIRCRAFT NOTED IN AREA? [No]
 
-18. WAS ANY SOUND HEARD?
-[ ] Yes
-[X] No
+18. WAS ANY SOUND HEARD? [Yes]
+19. WERE THERE INDICATIONS OF HIGH BACKGROUND NOISE? [Yes]
+20. WAS THE OBJECT VIEWED ABOVE 459 ELEVATION? [Yes]
 
-19. WERE THERE INDICATIONS OF HIGH ALTITUDE GROUND NOISE?
-[ ] Yes
-[X] No
+ATIC Form 164 (13 Aug 52)
 
-20. WAS THE OBJECT VIEWED ABOVE 45 DEG ELEVATION?
-[X] Yes
-[ ] No
-
-ATIC Test Form 334 (13 Aug 52)
-
-```
 
 - page 3 -
 
-No photograph is present on this page.
+Here is the text from the document:
 
-Here is the OCR transcription of the text:
-
-```
 IV. BALLOON DATA
 
-21. WERE BALLOONS RELEASED IN AREA:	[ ]Yes	[x]No
+21. WERE BALLOONS RELEASED IN AREA? [   ] Yes [✓] No
 
-22. TIME SINCE SCHEDULED BALLOON RELEASE:	__________ Minutes
+22. TIME SINCE SCHEDULED BALLOON RELEASE: ______ Minutes
 
 23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
 
-				Location		Type		| Launching Agency	| Lighted?	| Describe
-				a.									| Yes	No		| Lighting
-				b.									| Yes	No		| 
-				c.									| Yes	No		| 
-				d.									| Yes	No		| 
+[Table with columns: Location, Type, Launching Agency, Lighted Yes/No, Describable Lighting]
+(Empty table with note: "(attach overlay)")
 
-(attach overlay)
-								
 V. EVALUATION
 
 21. EVALUATION OF SOURCE:
-
-	[ ] Excellent
-	[ ] Good
-	[ ] Fair
-	[ ] Poor
-	[ ] Unreliable
-	[ ] Extremely Doubtful
-	[ ] Hoax
+[ ] Excellent
+[ ] Good
+[ ] Fair
+[ ] Poor
+[ ] Unreliable
+[ ] Extremely Doubtful
+[ ] Hoax
 
 22. DETAILS OF REPORT:
-
-	[ ] Good
-	[ ] Fair
-	[ ] Poor
-	[ ] Insufficient to Evaluate
+[ ] Good
+[ ] Fair
+[ ] Poor
+[✓] Insufficient to Evaluate
 
 23. FINAL EVALUATION:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
 
-	[ ] Was Balloon			[ ] Was Astronomical
-	[ ] Probably Balloon		[ ] Probably Astronomical
-	[ ] Possibly Balloon		[ ] Possibly Astronomical
-
-	[ ] Was Aircraft		[ ] Other: ________________
-	[ ] Probably Aircraft		[x] Insufficient Data For Evaluation
-	[ ] Possibly Aircraft		[ ] Unknown
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other: ___________
+[✓] Insufficient Data For Evaluation
+[ ] Unknown
 
 24. COMMENTS:
-	
 
+(Bottom of form notes: "ATIC Test Form 354 (15 Aug 52)")
 
-
-ATIG Teat Form 341 (13 Aug 52)
-```
 
 - page 4 -
 
-There are no photographs present on this page.
-
-OCR text output:
-
-```
 PROJECT 10073 WEATHER DATA SHEET
- 
+
 1. DATE OF OBSERVATION
- 
+[blank column]
+
 2. TIME OF OBSERVATION
- 
+[blank column]
+
 3. STATION OBSERVING
- 
+[blank column]
+
 4. WINDS ALOFT:
-   ALTITUDE (feet)
- 
-VELOCITY (knots)
- 
-DIRECTION (degrees)
- 
-ALTITUDE (feet)
- 
-VELOCITY (knots)
- 
-DIRECTION (degrees)
- 
+Altitude (feet):
 0
-   25,000
- 
 1,000
-   30,000
- 
 2,000
-   35,000
- 
 3,000
-   40,000
- 
 4,000
-   45,000
- 
 5,000
-   50,000
- 
 6,000
-   55,000
- 
 7,000
-   60,000
- 
 8,000
-   65,000
- 
 9,000
-   70,000
- 
 10,000
-   75,000
- 
 12,000
-   80,000
- 
 14,000
-   85,000
- 
 16,000
-   90,000
- 
 18,000
-   95,000
- 
 20,000
-   100,000
- 
+
+Velocity (knots):
+[blank column]
+
+Direction (degrees):
+[blank column]
+
+Altitude (feet):
+25,000
+30,000
+35,000
+40,000
+45,000
+50,000
+55,000
+60,000
+65,000
+70,000
+75,000
+80,000
+85,000
+90,000
+95,000
+100,000
+
+Velocity (knots):
+[blank column]
+
+Direction (degrees):
+[blank column]
+
 5. WAS AN INVERSION LAYER NOTED?
-   (If yes, at what altitude?)
-     [] Yes
-     [] No
- 
+(If yes, at what altitude?) [Unchecked]
+
 6. WERE ANY THUNDERSTORMS NOTED IN AREA?
-     (If yes, at what quadrant?) [ ] Yes  [] No
- 
-7. CLOUD COVER:
- 
-tenths at _____ feet.
- 
-tenths at _____ feet.
- 
-tenths at _____ feet.
- 
-tenths at _____ feet.
- 
-8. VISIBILITY WAS ___ MILES.
- 
+(If yes, at what quadrant?) [Unchecked]
+
+7. CLOUD COVERS:
+[blank spaces for tenths at various feet]
+
+8. VISIBILITY WAS
+GOOD MILES
+
 9. COMMENTS:
- 
+[blank space]
+
 ATIC Test Form 333 (13 Aug 52)
-```
+
 
 - page 5 -
 
-There are no photographs present on this page.
-
-The document contains the following text:
-
-```
-HEADQUARTERS 
-31ST AIR DIVISION 
+HEADQUARTERS
+315TH AIR DIVISION
 FORT SNELLING, MINNESOTA
 
-28 AUG 1952 
+WD 310.1
 
-TO 319.1
+SUBJECT: FLYORYPT                                                 28 AUG 1952
 
-SUBJECT: FLYOBRPT 
+TO:   Chief, Air Technical Intelligence Center
+       Wright-Patterson Air Force Base
+       Dayton, Ohio
 
-TO: 
-Chief, Air Technical Intelligence Center 
-Wright-Patterson Air Force Base 
-Dayton, Ohio 
+Forwarded herewith is FLYORYPT in accordance with AFR 200-5, 2 April
+1952.
 
-Forwarded herewith is FLYOBRPI in accordance with AFl 200-5, 27 April 1952. 
+FOR THE COMMANDING GENERAL:
 
-FOR THE COMMANDING GENERAL 
+[Signature]
 
-(signed) 
+1 Incl
+FLYORYPT (1 cy)                                     HALPIN
+                                                    MAJOR
+                                                    ADJUTANT
 
-BALEN r HERMAN ADJUTANT 
-
-1 Incl 
-FLYOBRPT (1 cy)
-```
 
 - page 6 -
 
-There are no photographs present on this page.
-
-Here is the OCR output of the text found in the document:
-
-```
 AIR TECHNICAL INTELLIGENCE CENTER
 WRIGHT-PATTERSON AIR FORCE BASE
 OHIO
 
 4 September 1952
-Mr. 
-Round, Minnesota
+
+Hound, Minnesota
 
 Dear Mr.
 
-Your recent report of unidentified aerial phenomena has been received by the Air Technical Intelligence Center. Inclosed is a questionnaire, which, when completed by you and returned in the inclosed, self-addressed envelope, will aid in standardizing the data and will provide a complete record of the occurrence.
+Your recent report of unidentified aerial phenomena has been received by the Air Technical Intelligence Center. Enclosed is a questionnaire, which, when completed by you and returned in the enclosed, self-addressed envelope, will aid in standardizing the data and will provide a complete record of the occurrence.
 
 Your interest in reporting the matter and your public spirited desire to be of service are greatly appreciated.
 
 Sincerely yours,
 
 [Signature]
-
 ROBERT E. KENNEDY
 Major, USAF
 Air Adjutant General
 
 2 Incls
 c/s
-```
+
 
 - page 7 -
 
-The document does not contain any photographs.
+TENTATIVE
+OBSERVERS QUESTIONNAIRE
 
-Here is the OCR transcription of the text found in the document:
+SECTION A
 
----
-TENTATIVE  
-OBSERVERS QUESTIONNAIRE  
-  
-SECTION A  
-  
-1. When did you see the object:  
-  
-1.1 Date:  23  Aug  1952
-    Day   Month  Year  
-  
-1.2 Time of Day  11  40     A.M. or P.M. (Circle One)  
-    Hrs.   Min.  
-  
-1.3 Time Zone: (Circle One):  
-    a. Eastern  
-    b. Central  
-    c. Mountain  
-    d. Pacific  
-    e. Other ________  
-  
-    (Circle One): a. Daylight Saving  
-                            b. Standard  
-  
-1.4 Circle one of the following to indicate how certain you are of your answer to the above question 1.2:   
-    a. Certain  
-    b. Fairly certain  
-    c. Not very sure  
-    d. Just a guess  
-  
-2. Where were you when you saw the object:  
-    ______________________
-    Postal Address            City or Town          State       Country  
-  
-    Additional Remarks: _________________
-  
-3. Where were you located when you saw the object:  
-  
-    (Circle One):  a. Inside a building   d. In an airplane  
-                       b. In a car                     e. At sea  
-                       c. Outdoors                 f. Other ____________  
-  
-3.1 Were you:  
-  
-    (Circle One):  a. In the business section of a city?  
-                       b. In the residential section of a city?  
-                       c. In open countryside?  
-                       d. Flying near an airfield?  
-                       e. Flying over a city?  
-                       f. Flying over open country?  
-                  g. Other ___________________
-                            _Small town
+1. When did you see the object:
+1.1 Date: 23 AUG 1952
+         Day   Month   Year
+
+1.2 Time of Day: 16 40 A.M. or P.M. (Circle One)
+               Hrs.  Min.
+
+1.3 Time Zone: (Circle One):
+    a. Eastern             d. Pacific
+    b. Central             e. Other
+    c. Mountain
+
+    (Circle One): a. Daylight Saving
+                  b. Standard
+
+1.4 Circle one of the following to indicate how certain you are of
+    your answer to the above question 1.2:
+    a. Certain
+    b. Fairly certain     c. Not very sure
+                          d. Just a guess
+
+2. Where were you when you saw the object:
+    Postal Address        NAVARRE   MINN
+                City or Town   State   Country
+
+    Additional Remarks:
+
+3. Where were you located when you saw the object:
+    (Circle One): a. Inside a building     d. In an airplane
+                  b. In-a-car              e. At sea
+                  c. Outdoors              f. Other
+
+3.1 Were you:
+    (Circle One): a. In the business section of a city?
+                  b. In the residential section of a city?
+                  c. In open countryside?
+                  d. Flying near an airfield?
+                  e. Flying over a city?
+                  f. Flying over open country?
+                  g. Other: SMALL TOWN
 
 
 - page 8 -
 
-This page does not contain a photograph.
+Here is the text from the document:
 
-Here is the extracted text:
-
-```
 Page 2
 
-4. How did you happen to notice the object? GLANCED UP TO
-WATCH TWO P51 FIGHTERS
+4. How did you happen to notice the object? GLANCED UP TO WATCH TWO POST FIGHTERS
 
 5. When did you report to some official that you had seen the object?
-Day   Month   Year
-                                                  NOT SURE OF DATE
-APPOX. 1 DAYS 
-LATER
-                                              
+NOT SURE OF DATE APPROX. 2-3 DAYS LATER
+
 SECTION B
 
-6. What were you doing at the time you saw the object? FILLING A
-CAR WITH GAS IN A FILLING STATION
+6. What were you doing at the time you saw the object? FILLING G CAR WITH GAS IN A FILLING STATION
 
-6.1. What had you been doing for the 30 minutes before you saw the object?
+6.1 What had you been doing for the 30 minutes before you saw the object?
 Try to list the activity or activities and the approximate amount of time spent on each.
+NOT POSITIVE - I BELIEVE I SPENT MOST OF THE 30 MIN. TALKING WITH FRIENDS IN STATION
 
-NOT POSITIVE - I RELIEVE I SPENT 
-MOST OF THE 30 MIN. TALKING WITH
-FRIENDS IN STATION
-
-7. Were you moving at any time you saw the object? (Circle One):
-Yes or NO
+7. Were you moving at any time while you saw the object? (Circle One): Yes or No
 
 IF you answered YES, then complete the following questions:
-7.1 What direction were you moving?
-(Circle One):
-a. North 
-b. Northeast
-c. East 
-d. Southeast 
-e. South
-f. Southwest
-g. West
-h. Northwest
+7.1 What direction were you moving? (Circle One):
+a. North                e. South
+b. Northeast            f. Southwest
+c. East                 g. West
+d. Southeast            h. Northwest
 
-7.2 How fast were you moving? ___________miles per hour.
+7.2 How fast were you moving? _______ miles per hour.
 
-7.3 Did you stop at any time while you were looking at the object?
-(Circle One): Yes or NO
+7.3 Did you stop at any time while you were looking at the object? (Circle One): Yes or No
 
 8. What direction were you looking when you first saw the object?
-(Circle One):
-a. North
-b. Northeast
-c. East
-d. Southeast
-e. South
-f. Southwest
-g. West
-h. Northwest
-```
+(Circle One): a. North             e. South
+               b. Northeast        f. Southeast
+               c. East             g. West
+               d. Southeast        h. Northwest
+
 
 - page 9 -
 
-The page does not contain any photographs.
-
-OCR Text:
-
-Page 3
-
 8.1 What direction were you looking when the object disappeared?
-(Circle One): a. North
-               b. Northeast
-               c. East
-               d. Southeast
-	       e. South
-	       f. Southwest
-	       g. West
-	       h. Northwest
-               
-8.2 Circle one of the following to indicate how certain you are of your answer to the above question and preceding question (8 and 8.1).
-		a. Certain
-		b. Fairly certain
-		c. Not very sure
-		d. Just a guess
+(Circle One): a. North                 e. South
+             b. Northeast             f. Southwest
+             c. East                  g. West
+             d. Southeast             h. Northwest
+
+8.2 Circle one of the following to indicate how certain you are of
+your answer to the above question and preceding question (8 and
+8.1).
+             a. Certain               c. Not very sure
+             b. Fairly certain        d. Just a guess
 
 9. Were you wearing eye glasses when you saw the object? (Circle One):
-		Yes or No
+Yes     or     No
 
 10. How was the object seen?
-		(Circle One): a. Through window glass
-		             b. Through windshield
-		             c. Through binoculars
-		             d. Through telescope
-		             e. Through theodolite
-		             f. Through sunglasses
-		             g. Through open space
-		             h. Other
+(Circle One): a. Through window glass    e. Through theodolite
+              b. Through windshield       f. Through sunglasses
+              c. Through binoculars       g. Through open space
+              d. Through telescope        h. Other ____________
 
-11. What do you remember about the weather conditions at the time you saw the object?
+11. What do you remember about the weather conditions at the time you saw the
+object?
+11.1 CLOUDS (Circle One)            11.3 WEATHER (Circle One)
+      a. Clear sky                         a. Dry
+      b. Hazy                              b. Fog, Mist, or light rain
+      c. Scattered clouds                  c. Moderate or heavy rain
+      d. Thick or heavy clouds             d. Snow
+      e. Don't remember                    e. Don't remember
 
-	11.1 CLOUDS (Circle One)
-		a. Clear sky
-		b. Hazy
-		c. Scattered clouds
-		d. Thick or heavy clouds
-		e. Don't remember
-
-	11.2 WIND (Circle One)
-		a. No wind
-		b. Slight breeze
-		c. Strong wind
-		d. Don't remember               
-
-11.3 WEATHER (Circle One)
-		a. Dry
-		b. Fog, Mist, or light rain
-		c. Moderate or heavy rain
-		d. Snow
-		e. Don't remember
-
-11.4 TEMPERATURE (Circle One)
-		a. Cold
-		b. Cool
-		c. Warm
-		d. Hot
-		e. Don't remember
+11.2 WIND (Circle One)               11.4 TEMPERATURE (Circle One)
+      a. No wind                           a. Cold
+      b. Light breeze                      b. Cool
+      c. Strong wind                       c. Warm
+      d. Don't remember                    d. Hot
+                                           e. Don't remember
 
 SECTION C
-12. Estimate how long you saw the object? ____   
-                       5 OR 6
-                             Hours        Minutes        Seconds
+12. Estimate how long you saw the object: _____ Hours _____ Minutes _____ Seconds   See 6
+
 
 - page 10 -
 
-There are no photographs on this page.
+Page 4
 
-Here is the OCR transcription of the text:
+12.1 Circle one of the following to indicate how certain you are of your
+answer to Question 12:
 
----
+a. Certain                                 c. Not very sure
+b. Fairly sure                             d. Just a guess
 
-Page 4  
+13. Did the object look: (Circle One) Solid or Transparent
 
-12.1 Circle one of the following to indicate how certain you are of your answer to Question 12:
-a. Certain
-b. (Fairly sure)  
-c. Not very sure  
-d. Just a guess  
+14. Did the object at any time:                 (Circle One for each question)
 
-13. Did the object look: (Circle One) Solid or Transparent  
+14.1 Change direction?                   Yes    No    Don't know
+14.2 Change speed?                       Yes    No    Don't know
+14.3 Change size?                        Yes    No    Don't know
+14.4 Change color?                       Yes    No    Don't know
+14.5 Break up into parts or
+      explode?                           Yes    No    Don't know
+14.6 Give off smoke?                     Yes    No    Don't know
+14.7 Change brightness?                  Yes    No    Don't know
+14.8 Flicker, throb, or
+      pulsate?                           Yes    No    Don't know
+14.9 Remain motionless?                  Yes    No    Don't know
 
-14. Did the object at any time:  
+15. Did the object give off a light? (Circle One): Yes    No    Don't know
+15.1 IF you answered YES, what was the color of the light? ____________
 
-  (Circle One for each question)  
+16. Tell in a few words the following things about the object?
+16.1 Sound        Nite - Too much noise 8-9-56
+16.2 Color        Some as silver aircraft - lots of reflection
 
-14.1 Change direction?  
-Yes (No) Don't know  
+17. IF there was MORE THAN ONE object, then how many were there? 1
+    Draw a picture of how they were arranged and put an arrow to show the
+    direction they were traveling.
 
-14.2 Change speed?  
-(Yes) No Don't know  
+18. Did the object at any time:
 
-14.3 Change size?  
-Yes (No) Don't know  
+18.1 Move behind something? (Circle One) Yes    No    Don't know
+    IF you answered YES, then tell what it moved behind.
 
-14.4 Change color?  
-Yes (No) Don't know  
-
-14.5 Break up into parts or explode?  
-Yes (No) Don't know  
-
-14.6 Give off smoke?  
-Yes (No) Don't know  
-
-14.7 Change brightness?  
-Yes (No) Don't know  
-
-14.8 Flicker, throb, or pulsate?  
-Yes (No) Don't know  
-
-14.9 Remain motionless?  
-(Yes) No Don't know  
-
-15. Did the object give off a light? (Circle One) Yes (No) Don't know  
-
-15.1 IF you answered YES, what was the color of the light?  
-
-16. Tell in a few words the following things about the object:  
-
-16.1 Sound   (illegible) - TOO HIGH NOISE LEVEL  
-  
-16.2 Color   SAME AS SILVER AIRCRAFT - LOTS OF REFLECTION  
-
-17. IF there was MORE THAN ONE object, then how many were there? / Draw a picture of how they were arranged and put an arrow to show the direction they were traveling.  
-
-
-18. Did the object at any time:  
-18.1 Move behind something? (Circle one) Yes (No) Don't know  
- 
- IF you answered YES, then tell what it moved behind.  
-
----
-
-Note: Some handwritten parts are illegible.
 
 - page 11 -
 
-There is no photograph present on this page of the document.
-
-Below is the extracted text from the document:
-
----
 Page 5
 
-18.2 Move in front of something? (Circle One) Yes  Don't know
+18.2 Move in front of something? (Circle One) Yes (No) Don't know
+IF you answered YES, then tell what it moved in front of.
 
-     IF you answered YES, then tell what it moved in front of.
-
-18.3 Blend with the background? (Circle One) Yes  Don't know
+18.3 Blend with the background? (Circle One) Yes (No) Don't know
 
 19. Which of the following objects is about the same actual size as the object you saw? (Circle One):
+a. Pea
+b. Baseball
+c. Basketball
+d. Bicycle wheel
+e. Office desk
 
-    a. Pea                              f. Automobile
-    b. Baseball                         g. Small airplane
-    c. Basketball                       h. Large airplane
-    d. Bicycle wheel                    i. Dirigible
-    e. Office desk                      j. Other  Golf Ball
+f. Automobile
+g. Small airplane
+h. Large airplane
+i. Dirigible
+j. Other GOLF BALL
 
 19.1 Circle one of the following to indicate how certain you are of your answer to Question 19:
+a. Certain
+b. Fairly certain
 
-    a. Certain                         c. Not very sure
-    b. Fairly certain                  d. Uncertain
+c. Not very sure
+d. Uncertain
 
 20. Try to tell the following things about the object:
-   
-20.1 How high above the earth was it?  Don't Know feet.
-20.2 How far was it from you?  Don't Know feet or ___ miles.
-20.3 How fast was it going?  Don't Know miles per hour. Extremely Fast
+20.1 How high above the earth was it? DONT KNOW feet.
+20.2 How far was it from you? BETWEEN feet or miles.
+20.3 How fast was it going? VERY FAST miles per hour. VERY FAST
 20.4 Circle one of the following to indicate how certain you are of your answer to the above questions:
+a. Certain
+b. Fairly certain
 
-    a. Certain                         c. Not very sure
-    b. Fairly certain                  d. Just a guess
+c. Not very sure
+d. Just a guess
 
 21. How did the object disappear from view?
+(Circle One): a. Suddenly
+b. Gradually
 
-    (Circle One):  a. Suddenly                       c. Other (Quite Fast but Not Suddenly)
-                   b. Gradually                      d. Don't remember
+c. Other QUITE FAST BUT NOT
+d. Don't remember SUDDENLY
 
 SECTION D
 
 22. In the following sketch, imagine your eye at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" to show where it was when you last saw it.
-
-              Overhead
-                       
-                      --------
-                     /        \
-                    /          \
-
-    A_________B___________Horizon
-          You
+[A diagram is included showing a curved line from horizon to overhead, with labels "You" and "Horizon"]
 
 
 - page 12 -
 
-There are no photographs present on this page of the UFO report document.
-
-**OCR Text Output:**
+Here is the text from the document:
 
 Page 6
 
 23. In the following sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it.
 
 Overhead
-   ____
- /____\
-Horizon    x      Horizon
-You
 
+Horizon                                   Horizon
+                You
 
 24. Draw a picture that will show the motion that the object made. Place an "A" at the beginning of its path and a "B" at the end of its path.
-   
-     B
 
-________________
+[Handwritten note on motion diagram]
 MOTIONLESS AT THIS
 POINT FOR A FRACTION
-OF A SECOND           A
+OF A SECOND
 
+25. Draw a picture that will show the shape of the object. Label and place in your sketch any details of the object that you saw and place an arrow beside the drawing to show the direction the object was moving.
 
-25. Draw a picture that will show the shape of the object. Label and include in your sketch any details of the object that you saw and place an arrow beside the drawing to show the direction the object was moving.
-
+[Handwritten notes]
 PERFECTLY ROUND - THE SIZE OF A GOLF BALL
 NO DISTINGUISHING MARKS VISIBLE
 
+
 - page 13 -
 
-There is no photograph present on this page of the document.
-
-Now, here is the OCR transcription of the text:
-
----
-
-Page 7
-
-SECTION I
+SECTION E
 
 26. Was this the first time that you have seen an object like this?
+(Circle One): Yes or No
 
-(Circle One): \[Yes\] or No
-
-26.1 IF you answered No, then when, where, and under what conditions did you see other ones?
-
-__________________________
-
-__________________________
+26.1 IF you answered NO, then when, where, and under what conditions did you see others?
 
 27. In your opinion what do you think the object was and what might have caused it?
-I DON’T KNOW
+I DON'T KNOW
 
 28. Give the following information about yourself:
-NAME \[Redacted\] \[Last Name\] \[Redacted\] \[First Name\] \[Redacted\] \[Middle Name\]
-ADDRESS \[Redacted\] MEVLID \[Redacted\] \[Street\] \[City\] \[Redacted\] ZONE MINN \[Redacted\] STATE
-
-TELEPHONE NUMBER \[Redacted\]
+NAME [redacted]
+ADDRESS [redacted]
+TELEPHONE NUMBER [redacted]
 What is your present job? MACHINIST INSPECTOR
-Age 28
+Age 33
 Sex MALE
 
 29. Was anyone else with you at the time you saw the object?
-(Circle One): \[Yes\] or No
+(Circle One): Yes or No
 
-29.1 IF you answered Yes, did they see the object too?
-(Circle One): \[Yes\] or No
+29.1 IF you answered YES, did they see the object too?
+(Circle One): Yes or No
 
 29.2 Please list their names and addresses:
 
----
+Page 7
 
-All redacted content appears to be manually censored with overlays.
 
 - page 14 -
 

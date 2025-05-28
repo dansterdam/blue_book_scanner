@@ -1,56 +1,83 @@
-The image does not contain a photograph. It appears to be a Project 10073 record card from the Project Blue Book, which was the United States Air Force's systematic study of unidentified flying objects.
-
 PROJECT 10073 RECORD CARD
 
-1. DATE: 3 Feb 51
-2. LOCATION: Galena, Ill.
-3. DATE/TIME GROUP: Not Given
-4. TYPE OF OBSERVATION: Ground-Visual 
-5. PHOTOS: No
-6. LENGTH OF OBSERVATION: Not Given
-7. BRIEF SUMMARY OF SIGHTING: Shaped like a "telephone pole". Color was brilliant red. Size 300' long. Speed was not very fast. All not very high.
-8. NUMBER OF OBJECTS: 1
-9. COURSE: N
-10. COMMENTS: Probably a large meteor. Report says it was viewed over Galena, where it appeared to be low.
+1. DATE
+3 Feb 51
 
-The text output from the document is as follows:
+2. LOCATION
+Calena, Ill
 
-PROJECT 10073 RECORD CARD
+3. DATE-TIME GROUP
+Local
+GMT Not Given
 
-1. DATE: 3 Feb 51
-2. LOCATION: Galena, Ill. 
-3. DATE/TIME GROUP: Not Given
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: No
-6. LENGTH OF OBSERVATION: Not Given
-7. BRIEF SUMMARY OF SIGHTING: Shaped like a "telephone pole". Color was brilliant red. Size 300' long. Speed was not very fast. All not very high.
-8. NUMBER OF OBJECTS: 1
-9. COURSE: N
-10. COMMENTS: Probably a large meteor. Report says it was viewed over Galena, where it appeared to be low.
-11. CONCLUSIONS: 
-Was Balloon
-Was Aircraft
-Was Astronomical
-Was Other
-Insufficient Data for Evaluation 
-Unknown
+4. TYPE OF OBSERVATION
+XII Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+XII No
+
+6. SOURCE
+Civilians
+
+7. LENGTH OF OBSERVATION
+Not Given
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+N
+
+10. BRIEF SUMMARY OF SIGHTING
+Shape like a "telephone Pole". Color was brilliant red. Size 300' long. Speed was not very fast. Alt. not very high. ♦
+
+11. COMMENTS
+Probably large meteor. Report says it was viewed over Wisconsin where it appeared to be blue.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+XII Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a newspaper article with text describing reports of a "saucer" or unidentified flying object sighting over the city of Galena, Illinois. The article discusses the mayor's response and eyewitness accounts of the object, which was described as moving rapidly and changing direction.
-
-Text transcription from the document:
-
 JOURNAL HERALD, MONDAY, FEBRUARY 5, 1951
 
-"New "Saucer" Reports Rise
+New "Saucer" Reports Rise
 "Telephone Pole" Flies Over City, People Say
-GALENA, ILL., Feb. 4 -(UP)- Mayor Roy Logan said today he has received calls from persons who claimed they saw a brilliant, brilliant red "telephone pole" fly over Galena just night. 
-"And it was only a typical mid-night night in Galena," the mayor said, meaning that the seerely people claimed they were seeing things.
-The report is the northern Illinois town near the Wisconsin border included with observations of brilliant blue flashes, believed caused by a meteor, over central Wisconsin.
-Witnesses here said the pole was shaped something like a baseball bat and glided noiselessly along, moving very fast.
-Logan said every reputable and responsible persons first called to report the sighting, and that since he has received numerous other calls from others, and in most communities "The descriptions given us were pretty much the same."
-The police department said that investigations into reports of the "saucers" or "flying objects" have been made, but no satisfactory explanation has been found.
+
+GALENA, Ill., Feb. 4.—(UP)— Mayor Ray Logan said today he was flooded with calls from persons who claimed they saw a 300-foot long, brilliant red "telephone pole" fly over Galena last night.
+
+And it was only a "typical Saturday night" in Galena, the mayor said, meaning that the revelry wasn't so great that people were seeing things.
+
+This report in this northern Illinois town near the Wisconsin border coincided with observations of a brilliant blue flash, believed caused by a meteor, over central Wisconsin.
+
+Witnesses said the pole was shaped something like a baseball bat and glided noiselessly along, not very high and not very fast. Logan said "very reputable and responsible" persons first called him about the object, and that since he has received numerous reports from others here and in communities to the north.
+
+"The descriptions given me were pretty much the same," Logan said. "I'm still getting calls."
+
+The police department said that a half dozen motorists reported that they nearly had accidents when they saw the pole pass over.
+
+Witnesses said the pole first appeared over a section known as Irish Hollow and was brilliant red in color.
+
+Virginia Bodie, the local telephone operator, said she saw the object while on her way to work and it nearly scared her to death.
+
+Later reports said the pole was seen from as far as 50 miles northward, and Logan said he received reports from the north that it was blue over Wisconsin.
+
 
 - page 2 -
 

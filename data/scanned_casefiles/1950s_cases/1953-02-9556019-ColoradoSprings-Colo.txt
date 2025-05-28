@@ -1,67 +1,66 @@
-This page does not contain a photograph.
+Here is the text from the document:
 
-**OCR Text Output:**
+1. DATE - TIME GROUP
+08 Feb 53  29/2002Z
 
-```
-1. DATE - TIME GROUP 2. LOCATION
-28 Feb 53 28/2000Z Colorado Springs, Colo.
-3. SOURCE 10. CONCLUSION
-2 Civ Mon BALLOON
+2. LOCATION
+Colorado Springs, Colo.
+
+3. SOURCE
+City Man
+
 4. NUMBER OF OBJECTS
-One Probably balloon observation.
-5. LENGTH OF OBSERVATION 11. BRIEF SUMMARY AND ANALYSIS
-1 1/2 Hrs Dull shiny object was observed 60° above E horizon at a
-bright clear point on 28 Feb.
+One
+
+5. LENGTH OF OBSERVATION
+1 1/2 hrs
+
 6. TYPE OF OBSERVATION
 Ground-Visual
-7. COURSE
-8. PHOTOS
-Q Yes FTD SEP 63 0-329 (TDE)
-X No Previous editions of this form may be used.
-9. PHYSICAL EVIDENCE
 
-Q Yes
-X No
-```
+7. COURSE
+3
+
+8. PHOTOS
+□ Yes
+[■] No
+
+9. PHYSICAL EVIDENCE
+□ Yes
+[■] No
+
+10. CONCLUSION
+Balloon observation.
+
+11. BRIEF SUMMARY AND ANALYSIS
+Ball shiny object was observed 30° above 3 horizon at a point directly above.
+
+FORM
+FTD SEP 83 0-329 (TDE)    Previous editions of this form may be used.
+
 
 - page 1 -
 
-There are no photographs present on this page.
-
-Text found in the document:
-
-```
-Multiple
-
 UNCLASSIFIED
 
-RO131
-UNCLASS 
-Y011477A
-CREIETWED   /
-RR MEG JEDNK JESPM J95
-DE JEDNK JNEY
-R 281447Z ZNU-/
-{IN CCC ADC ENT AFB COLO
-TO SEPRAD/DIR OF INTEL HQ USAF 
-JEDNT/ATIC WRIGHT PATTERSON AFB O ATTN ATT-AE-3C
-INFO JEDNE/BCC CADF IN3C
+20 FEB 23 092
 
-CCC 53 FLYOBPT (1) sHINY OBJECT HALF THE SIZE OF 
-PENNY, STATIONARY THEN DRIFTING. (2) 20/23192 TO 20/234-92 (3) UVISIAL, 
-SURFACE (4) 811 E. SAN MIGUEL, COLORADO SPRINGS, COLO; 54 DEGREES ABOVE 
-HORIZON TO SOUTH. (5) MR.         .      Air Force leg 
-AND THEIR FAMILIES, RELIABILITY UNKNOWN 96)
-CAPE 109 MILES, (7) NONE (8) NONE (9) NONE (19 (7-0-47 SOVERT 
-OF CI.APT 1909, 
-20/26147Z JOK SIT? 
+TO: COMMANDER OF INTEL 10 USAF
 
-UNCLASSIFIED
+IDENTIFICATION WRIGHT PATTERSON AFB 0 ANTI ATLAS-80
 
-DOWNGRADED AT 3 YEAR INTERVALS;
+SUBJECT: OC 53 FLYREPORT (1) SIGHT OBJECT HALF THE SIZE OF
+PENNY, STATIONARY THEN DRIFTING, (2) 22/2352 TO 22/2352 (3) VISUAL,
+SURFACE (4) 311 E. SAN MIGUEL, COLORADO SPRINGS, COLO. 58 DEGREES ABOVE
+HORIZON TO SOUTH. (5) [illegible text]
+
+[Bottom of document notes:]
+DOWNGRADED AFTER CERTAIN INTERVALS.
 DECLASSIFIED AFTER 12 YEARS.
 DOD DIR 5200.10
-```
+
+UNCLASSIFIED
+
 
 - page 2 -
 

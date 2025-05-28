@@ -1,223 +1,285 @@
-The image does not contain any visible photographs. It appears to be a typed document, likely an excerpt from a Project Blue Book report or record.
+Objects which looked like large stars were observed in straight, level flight by tower and officers at Patrick AFB.
 
-Objects which looked like large stars 2. Reported by Captain Holder, Lackland AFB and Capt. Wende at Patrick AFB.
+1. Reported by competent observers, tailhook launch etc.
+
+2. Sighting the same as other on Florida coast.
+
 
 - page 1 -
 
-There is no photograph present in this image. It appears to be a form or worksheet from Project 10073, which seems to be a report related to an unidentified flying object (UFO) observation.
-
-TEXT OUTPUT:
 PROJECT 10073 WORKSHEET
 I. GENERAL
-1. DATE 
-2. LOCATION
-3. TIME 
-Local:
-Zulu: 
+
+1. DATE: 21 July 52
+
+2. LOCATION: Patrick AFB, Fla.
+
+3. TIME:
+Local: Zubra:
+
 4. WAS OBJECT OBSERVED FROM THE GROUND?
-Yes No
-Naked Eye
-Binoculars
-Theodolite 
-Telescope
+[ ] Yes
+[ ] Naked Eye
+[ ] Binoculars
+[ ] Telescope
+[ ] Theodolite
+[ ] No
+
 5. WAS OBJECT OBSERVED BY GROUND RADAR?
-Yes No 
-By One Set
-By Two Sets
-By Three Sets
+[ ] Yes
+[ ] By One Set
+[ ] By Two Sets
+[ ] By Three Sets
+[ ] No
+
 6. WAS OBJECT OBSERVED FROM THE AIR?
-Yes No
-A/C Observed Object
-Interception Attempted
-No Interception Attempted
+[ ] Yes
+[ ] A/C Observed Object
+[ ] Interception Attempted
+[ ] No Intercept Attempted
+[ ] No
+
 7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT?
-Yes No
-A/C Scrambled
-Visual Contact Made
-A/I Contact Made
-No Contact Made
+[ ] A/C Scrambled
+[ ] Visual Contact Made
+[ ] A/T Contact Made
+[ ] No Contact Made
+[ ] No
+
 8. DID OBJECT CHANGE DIRECTION AT ANY TIME?
-Yes No
-If Normal
-If Unusual
-9. IF OBJECT WAS A "LIGHT", WAS IT?
-Blinking
-Steady
-10. LENGTH OF TIME IN SIGHT
-1-15 Seconds
-1-5 Minutes
-Over 10 Minutes
-11. REPORTING AGENCY (Unit Number and Mailing Address)
+[ ] Yes
+[ ] Normal
+[ ] Violent
+[ ] No
+
+9. IF OBJECT WAS A "LIGHT", WAS IT:
+[ ] Blinking
+[ ] Steady
+
+10. LENGTH OF TIME IN SIGHT:
+[ ] 1-5 Seconds
+[ ] 1-5 Minutes
+[ ] Over 10 Minutes
+
+11. REPORTING AGENCY (Unit Number and Mailing Address): [Partially illegible]
 
 II. ASTRONOMICAL DATA
+
 12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED?
+
 13. DID OBJECT APPEAR TO ARCH DOWNWARD?
-Yes No
+[ ] Yes [ ] No
+
 14. DID OBJECT HAVE A TAIL?
-Yes No
+[ ] Yes [ ] No
+
 15. DID OBJECT APPEAR TO DISINTEGRATE?
-Yes No
-16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (From Air Almanac)
-Daylight
-Twilight
-Sunset
+[ ] Yes [ ] No
+
+16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET:
+[ ] Night
+[ ] Day
+[ ] Sunrise
+[ ] Sunset
 
 III. AIRCRAFT DATA
+
 17. WERE AIRCRAFT NOTED IN AREA?
-Yes No 
-One Aircraft
-More Than One Aircraft
+[ ] Yes
+[ ] One Aircraft
+[ ] More Than One Aircraft
+[ ] No
+
 18. WAS ANY SOUND HEARD?
-Yes No
+[ ] Yes [ ] No
+
 19. WERE THERE INDICATIONS OF HIGH BACKGROUND NOISE?
-Yes No
-20. WAS THE OBJECT VIEWED ABOVE 1,000 ELEVATION?
-Yes No
+[ ] Yes [ ] No
+
+20. WAS THE OBJECT VIEWED ABOVE 15° ELEVATION?
+[ ] Yes [ ] No
+
+ATIC Test Form 334 (13 Aug 52)
+
 
 - page 2 -
 
-There is no photograph present in the image provided. It appears to be a page from an old UFO report document from Project Blue Book, containing a form with various sections to fill out information about balloon data, evaluation of the source, and final evaluation.
+Here is the text from the document:
 
-Output of the text in the document:
+IV. BALLOON DATA
 
-XV. BALLOON DATA
-21. WIRE BALLOONS OBSERVED IN AREA: Yes
-22. TIME SINCE SCHEDULED BALLOON RELEASE: Minutes
-23. POSSIBLE BALLOON LAUNCH SIZES DOWNWIND OF SIGHTING:
+21. WERE BALLOONS RELEASED BY AREA? [Checkbox] 169 [Checkbox] No
 
-Location | Type | Launching Agency | Sighted? | Describe Sighting
+22. TIME SINCE SCHEDULED BALLOON RELEASE? 20 Minutes
 
-a. 
-b. 
-c.
-d.
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING?
+(Table with columns: Location, Type, Launching Agency, Lighted Yes/No, Describe Lightning - all rows are blank)
 
-(Attach overlay)
+(attach overlay)
 
 V. EVALUATION
-21. EVALUATION OF SOURCE: 
-Excellent
-Good
-Fair
-Poor
-Unreliable
-Possibly Doubtful
-Insufficient to Evaluate
+
+21. EVALUATION OF SOURCE:
+[Checkboxes for: Excellent, Good, Fair, Poor, Unreliable, Extremely Doubtful, Hazy - none checked]
+
+22. DETAILS OF REPORT:
+[Checkboxes for: Good, Fair, Poor, Insufficient to Evaluate - none checked]
 
 23. FINAL EVALUATION:
-Was Balloon
-Probably Balloon 
-Possibly Balloon
-Was Astronomical
-Probably Astronomical
-Possibly Astronomical
-Other:
+[Checked] Possibly Balloon
+[Unchecked] Was Balloon
+[Unchecked] Probably Balloon
 
-Insufficient Data For Evaluation
-Unknown
+[Unchecked] Was Aircraft
+[Unchecked] Probably Aircraft
+[Unchecked] Possibly Aircraft
 
-24. COMMENTS:
+[Unchecked] Was Astronomical
+[Unchecked] Probably Astronomical
+[Unchecked] Possibly Astronomical
 
-ATIC Test Form 350 (13 Aug 52)
+[Unchecked] Others
+[Unchecked] Insufficient Data for Evaluation
+[Unchecked] Unknown
+
+24. COMMENTS: [Blank section]
+
+ATIC Test Form 34h (13 Aug 52)
+
 
 - page 3 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book report, specifically a data sheet for weather observations.
+NJECT 10073 WEATHER DATA SF T
 
-The text in the document is as follows:
-
-OBJECT 10073 WEATHER DATA SHEET
 1. DATE OF OBSERVATION
 2. TIME OF OBSERVATION
 3. STATION OBSERVING
-THE WINDS ALOFT
-ALTITUDE
-VELOCITY
-DIRECTION
-(DEGREES)
-1,000
-2,000
-3,000
-4,000
-5,000
-6,000
-7,000
-8,000
-9,000
-10,000
-12,000
-14,000
-16,000
-18,000
-20,000
-5. WAS AN INVERSION LAYER NOTED? Yes No
-6. (IF yes, at what altitude was it located?) - 
+
+4. WINDS ALOFT:
+   ALTITUDE      VELOCITY     DIRECTION
+   (feet)        (knots)      (degrees)
+
+   0
+   1,000
+   2,000
+   3,000
+   4,000
+   5,000
+   6,000
+   7,000
+   8,000
+   9,000
+   10,000
+   12,000
+   14,000
+   16,000
+   18,000
+   20,000
+
+   ALTITUDE      VELOCITY     DIRECTION
+   (feet)        (knots)      (degrees)
+
+   25,000
+   30,000
+   35,000
+   40,000
+   45,000
+   50,000
+   55,000
+   60,000
+   65,000
+   70,000
+   75,000
+   80,000
+   85,000
+   90,000
+   95,000
+   100,000
+
+5. WAS AN INVERSION LAYER NOTED?
+   (If yes, at what altitude? ____________)   □ Yes   □ No
+
+6. WERE ANY THUNDERSTORMS NOTED IN AREA?
+   (If yes, at what quadrant? ____________)   □ Yes   □ No
+
 7. CLOUD COVER:
-tenths at feet. tenths at feet. tenths at feet.
+   _____ tenths at _____ feet.
+   _____ tenths at _____ feet.
+   _____ tenths at _____ feet.
+
+8. VISIBILITY WAS _____ MILES.
+
 9. COMMENTS:
+   Partially illegible handwritten note
+
+ATIC Test Form 333 (13 Aug 52)
+
 
 - page 4 -
 
-There does not appear to be any photograph or image present in this page of the old UFO report document from Project Blue Book. The page contains only text and no visual elements.
+UNCLASSIFIED                                                24 July 1952
 
-UNCLASSIFIED 
-24 July 1952
 REPORT ON FLYING OBJECTS AS OBSERVED AT PATRICK AFB, FLORIDA
 
-On 30 July 1952, flying objects were observed over Patrick AFB, Florida. Between the hours of 2100 and 2230, four different objects were observed by several aircraft maintenance personnel. They observed an object approach the base from the South at a very high speed, come to a halt directly over the field, reverse its direction with no apparent turn. At this time an object was seen at high altitudes. This object subsequently one was seen at lower altitudes. This was approximately five seconds later. A fourth object was shortly seen in the West at an angle of approximately 20 degrees from the observers' position, proceeded West, made a wide 180 degree turn over the field and returned to the same original position. Time observed in this observance was ten seconds.
+On 18 July 1952, flying objects were observed over Patrick AFB, Florida, between the hours of 2115 and 2230. The first object was observed by four airmen who were on duty as aircraft maintenance personnel. They observed an object approach the base from the South at a very slow speed, come to a halt directly over the field, reverse its direction with no apparent turn. At this time an object was seen flying from the East, proceeding to the West at high speed. This was followed by a second object on the same course approximately five seconds later. A fourth object was shortly seen in the West at an angle of approximately 30 degrees altitude from the observers' position, proceeded West, made a wide 180 degree turn over the field and returned to the same original position to where it was first spotted. Time observed in this observance was ten seconds.
 
-The same type of objects still within a period of five to six minutes. The objects were reported as appearing like a great star of amber color, weather storm balloon with intermittent flashes of light directed on objects but no contacts were made. These two types of objects appear to be related and may have been part of the same tracking.
+The above four objects all were sighted within a period of five to six minutes. The objects were reported as appearing like a great star of amber color. Weather storm detection radars and Tavistock radars were directed on objects but no contacts were made. These two types of radars are not considered to be reliable for such tracking.
 
-Five additional personnel reported the same objects and performance which included the airborne officers on duty at the time, control tower operator, aircraft dispatcher and two transient pilots from Wright-Patterson AFB.
+Five additional personnel reported the same objects and performance which included the Airdrome officer on duty at the time, control tower operator, aircraft dispatcher and two transient pilots from Wright Patterson AFB.
 
-Two observations were made on 19 July; however, no report was made.
-On 21 July, the undersigned received a call from an airman at 2200 hours reporting a similar object over the field. Two minutes later a call was received from two Colonels on the base, one a former intelligence officer who reported the object had disappeared from the first observer's sight. The undersigned immediately went outdoors to observe the objects which had disappeared by that time. Approximately 3 or 4 minutes later an object was observed by me directly overhead flying on a course of 280 degrees at high altitudes with estimated speed in excess of 700 mph. The object was steady and was flying on an unvarying course with no variation observed. Altitude was estimated to be 20,000 feet. Based on this figure, the speed was approximately 700 mph.
+Two observances were made on 19 July; however, no report was made.
+
+On 21 July, the undersigned received a call from an airman at 2200 hours who reported a similar object over the field. Two minutes later a call was received from the Colonels on the base, one a former commercial test pilot, who reported three objects spread widely in their position which approached from the East. The undersigned immediately went outdoors to observe the objects which had disappeared by that time. Approximately 3 or 4 minutes later an object was observed by me directly overhead flying on a course of 280 degrees at high speed. Altitude was undetermined because of the unknown size of the object. It appeared as a bright star, amber in color. Its speed was steady and was flying on an unnerving course with no deviation observed during the entire flight until it eventually passed out of sight approximately 15 degrees above the horizon in the West. Altitude was estimated at 20,000 feet. Based on this figure, the speed was approximately 700 mph. The above observance were made in clear
+
 UNCLASSIFIED
 
-- page 5 -
 
-The image does not contain any photographs. It appears to be a page from a report on flying objects at Patrick AFB.
+- page 5 -
 
 Page 2 of report on flying objects at Patrick AFB
 
 and unlimited sky conditions. A check was made with all jet air bases in Florida who reported no operations during the reported hours.
 
-The undersigned is a rated pilot, has been based in the reported area for three years and states that he has never seen a phenomena such as this at any time previous.
+The undersigned is a rated pilot, has been based in the reported area for three years and states that he has never seen a phenomena such as this at any time previous
 
 BRADFORD A. EVANS
 Lt Colonel, USAF
-Executive
-Commanding General, AAFTC
+Asst Executive to
+Commanding General, AFTAC
 Patrick AFB, Florida
 
 UNCLASSIFIED
+UNCLASSIFIED
+
 
 - page 6 -
 
-The image does not contain any photographs. It appears to be a page from an old Project Blue Book report or document.
+24 July 1952
 
-Two observations were made on 19 July; however, no report was made.
-On 21 July, the undersigned received a call from an airman at 2200 hours who reported seeing a strange object over the field. Two minutes later a call was received from two colonels on the opposite side of the field. They reported that the object had disappeared from sight. The undersigned immediately went outdoors to observe the objects which had disappeared by that time. Approximately 30 or 40 minutes later an object was observed by me directly overhead flying on a course of 290 degrees at high altitude. It was undoubtedly the same object that had been reported earlier. The object was bright in color. Its speed was steady and was flying on an unerring course with no deviation observed during the entire flight, the object passed out of sight approximately 15 degrees above the horizon in the west. Altitude was estimated 75,000 to 80,000 feet. Based on time, distance and angles observed, its speed was computed to be in excess of 5,000 mph. All reports indicate that the sightings were made and unlimited sky conditions. A check was made with all jet air bases in Florida who reported no operations during the reported hours.
+Two observances were made on 19 July, however, no report was made.
 
-The undersigned is a rated pilot, has been based in the reported area for three years and states that he has never seen such phenomena as this at any time previous.
+On 21 July, the undersigned received a call from an airman at 2200 hours who reported a similar object near the field. Two minutes later a call was received from two Colonels on the base, one a former commercial test pilot, who reported three objects spread widely in their position which approached from the East. The undersigned immediately went outdoors to observe the objects which had disappeared by that time. Approximately 3 or 4 minutes later an object was observed by me directly overhead flying on a course of 280 degrees at high speed. Altitude was undetermined because of the unknown size of the object. It appeared as a bright star, amber in color. Its speed was steady and was flying on an average course in no deviation. The object was observed during the entire flight until it eventually passed out of sight approximately 15 degrees above the horizon in the West. Altitude was estimated at 20,000 feet. Based on this figure, the speed was approximately 700 mph. The above observances were made in clear and unlimited sky conditions. A check was made with all jet air bases in Florida who reported no operations during the reported hours.
+
+The undersigned is a rated pilot, has been based in the reported area for three years and a state that he has never seen a phenomena such as this at any time previous.
 
 BRADFORD A. EVANS
 Lt Colonel, USAF
 Asst Executive to
 Commanding General, AFMTC
 Patrick AFB, Florida
+
 
 - page 7 -
 
-The image does not contain any photographs. It appears to be a scanned document from the Project Blue Book UFO report, specifically a report on flying objects observed at Patrick AFB, Florida on July 18, 1952.
+24 July 1952
 
 REPORT ON FLYING OBJECTS AS OBSERVED AT PATRICK AFB, FLORIDA
 
-On 18 July 1952, flying objects were observed over Patrick AFB, Florida, between the hours of 2145 and 2220. The first object was observed to approach the base from the South at a very high speed, coming to a halt directly over the field, reversed its course, and departed to the East, proceeding to the West at high speed. This was followed by a second object on the same course approximately five seconds later. A fourth object was shortly seen in the West at an angle of approximately 20 degrees above the horizon from the observers' position, proceeded West, made a wide 180 degree turn over the field and returned to the same position as the above objects. This observation lasted approximately five to six minutes.
+On 18 July 1952, flying objects were observed over Patrick AFB, Florida, between the hours of 2145 and 2230. The first object was observed by four airmen who were on duty as aircraft maintenance personnel. They observed an object approach the base from the South at a very slow speed, come to a halt directly over the field, reverse its direction with no apparent turn. At this time an object was seen flying from the East, proceeding to the West at high speed. This was followed by a second object on the same course approximately five seconds later. A fourth object was shortly seen at an angle of approximately 30 degrees altitude from the observers' position, proceeded West, made a wide 180 degrees turn over the field and returned to the same original position to where it was first spotted. Time observed in this observance was ten seconds.
 
-The above four objects all were sighted within a period of five to six minutes. The objects were reported as appearing like a great star of amber color. The objects did not show any means of propulsion, and the tracking of these objects by the type of radars are not considered to be reliable for such tracking.
+The above four objects all were sighted within a period of five to six minutes. The objects were reported as appearing like a great star of amber color. Weather storm detection radars and Hawkinsound radars were directed on objects but no contacts were made. These two types of radars are not considered to be reliable for such tracking.
 
-Five additional personnel reported the same objects and performance which included the airborne officer on duty at the time, control tower operator, aircraft dispatcher and two transient pilots from Wright Patterson AFB.
+Five additional personnel reported the same objects and performance which included the Airdrome Officer on duty at the time, control tower operator, aircraft dispatcher and two transient pilots from Wright Patterson AFB.
 
 BRADFORD A. EVANS
 Lt Colonel, USAF
@@ -225,22 +287,29 @@ Asst Executive to
 Commanding General, AFMTC
 Patrick AFB, Florida
 
+
 - page 8 -
 
-The image does not contain any photographs. It appears to be a scanned document from Project Blue Book, a United States Air Force program to investigate unidentified flying objects. The text in the document is as follows:
+UNCLASSIFIED
+
+Patrick Air Force Base, Florida
+21 July, 1952
 
 MEMORANDUM TO LT COL EVANS:
 
-In compliance with your verbal request following is an account of my observation of the incident at Patrick AFB on 20 July 1952:
+In compliance with your verbal request following is an account of my observation of the incident at Patrick AFB on Friday evening, 18 July 1952.
 
-At approximately 2130, I, together with Mr. and Mr., both employees of Pass Supply, was waiting in a staff car in the parking lot outside the dormitory when the driver first noticed a peculiar light in the sky to the south of the Base. We all then noticed that the light was fluctuating and appeared to move in an erratic manner for a few minutes after which it remained stationary. The light appeared to be unusually bright and at first was thought by all of us to be a star. It was not until we had watched this light and a peculiar maneuver which it made that we concluded that it was not a normal celestial light. The light seemed to flare up and fade alternately. After watching for some time, the light shot off extremely rapidly towards the Southeast and disappeared from sight. It was not noticed again. The light was a reddish-orange or pinkish color. It appeared to be fairly close and definitely not a distant celestial light. It had a somewhat dancing or flickering appearance as it fluctuated in intensity. I am unable to estimate the size or distance but it was quite brilliant and discernable. It happened rather suddenly and left no trail in the sky. We watched this light and a peculiar maneuver which it made that we concluded that it was not a normal celestial light.
+At approximately 2150, I, together with Mr. [redacted] and Mr. [redacted] both employees of Base Supply, was sitting in a staff car in the parking lot beside the Provost Marshal's office while the driver. [redacted] was getting the trip ticket signed by the OD, 1st [redacted].
+
+"Sharp" light like a large bull's-eye 1 like a 14-inch shining through a frosted glass. It appeared 3 or 4 times the size of a large star. No shape of any kind was discernible. It had a slightly orange or reddish color. It appeared to blink but with no regularity whatever. It was turning off and on but like it was passing behind something. It appeared to be about 2 miles SSW of the Base at 5 to 6 thousand feet approximately over the Banana River. It was proceeding very slowly and was not perfectly stationary in a level path over the river. It seemed to move for 2 or 3 minutes and then stop for 50 seconds to a minute before proceeding. I would estimate that at no time was it traveling at more than 40 MPH. It was approximately west of the center of the Base when we left the South Gate and it faded from view as we proceeded south down A1A.
 
 Adjutant General's Office
 
-DOWNGRADED AT 3 YEAR INTERVALS; 
-DECLASSIFIED AFTER 12 YEARS
+DOWNGRADED AT 3 YEAR INTERVALS
+DECLASSIFIED PER E.O. 11652
 
 UNCLASSIFIED
+
 
 - page 9 -
 

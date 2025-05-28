@@ -1,8 +1,3 @@
-There is no photograph present on this page.
-
-Here is the text extracted from the document:
-
----
 PROJECT 10073 RECORD CARD
 
 1. DATE
@@ -12,20 +7,17 @@ PROJECT 10073 RECORD CARD
 Lackland AFB, Texas
 
 3. DATE-TIME GROUP
-Local 2240
-GMT 0440Z
+Local ____2240
+GMT ____10/0440Z
 
 4. TYPE OF OBSERVATION
-☒ Ground-Visual
-☐ Ground-Radar
-☐ Air-Visual
-☐ Air-Intercept Radar
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
 
 5. PHOTOS
-☐ Yes
-☒ No
+[X] No □ Yes
 
-6. SOURCE 
+6. SOURCE
 Airman
 
 7. LENGTH OF OBSERVATION
@@ -34,130 +26,93 @@ Airman
 8. NUMBER OF OBJECTS
 1
 
-9. COURSE 
-SSE to NW
+9. COURSE
+SW to NW
 
 10. BRIEF SUMMARY OF SIGHTING
 White color. Sphere shape.
 
 11. COMMENTS
-Source was w7tching C-97 talk off 
-when his attention was attracted
-to object with white trail.
+Source was watching C-97 take off when his attention was attracted to object with white trail.
 
 12. CONCLUSIONS
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
-☐ Was Aircraft
-☒ Probably Aircraft
-☐ Possibly Aircraft
-☐ Was Astronomical 
-☐ Probably Astronomical 
-☐ Possibly Astronomical 
-☐ Other 
-☐ Insufficient Data for Evaluation 
-☐ Unknown
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+[X] Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other: Insufficient Data for Evaluation
+□ Unknown
 
 ATIC FORM 329 (REV 26 SEP 52)
----
+
 
 - page 1 -
-
-There is no photograph present on this page.
-
----
 
 EXTRACT FROM STATUS REPORT # 7
 
 DATE: 10 Apr 52
 TIME (Local): 0415
-LOCATION: Adra, Minn.
-LENGTH OF TIME OBSERVED: Not Reported
+LOCATION: Adm, Minn.
+LENGTH OF TIME OBSERVED: XXXXXXX Not Reported
 SOUND: Unknown
 SPEED: Unknown
 ALTITUDE: Unknown
-HEADING: S
+HEADING: 3
 SOURCE: Civilians
 ACTION OR COMMENTS: Possibly Fire ball
-
-DESCRIPTION OF INCIDENT: Object traveled in horizontal plane. It started out as a circle became oval and then split into parts, all of equal brightness.
+DESCRIPTION OF INCIDENT: Obj trawle in horizontal plane. It started out as a circle became oval and then split into parts, all of equal brightness.
 
 UNCLASSIFIED
+
 
 - page 2 -
 
-The document does not contain any photographs. Here is the OCR transcription of the text found in the image:
+Here is the OCR text from the document:
 
-```
-AF FORM 112 - PART 1
-APPROVED 1 JUNE 1951
-UNCLASSIFIED 
-AFDR-E-AR
-
-USA
-AIR INTELLIGENCE INFORMATION REPORT
-
-REPORTING OF INFORMATION ON UNIDENTIFIED FLYING OBJECTS.
-
-REPORTER 
-INTELLIGENCE DIVISION
-
-AREA REPORT NO.
-SAN ANTONIO, TEXAS
-DATE OF INFORMATION
-9 April 1952
-
-LOCATION
-LACKLAND AIR FORCE BASE, TEXAS
-
-DATE & TIME OF INCIDENT
-1 April 1952
-HOURS OF OBSERVATION
-2245
-
-Lt. RICHARD J. JACKIN, Chief, Intel. Div.
-S3/Sgt
+AF FORM 112-PART 1    2647
 UNCLASSIFIED
 
-ACKNOWLEDGE YOUR RER 19 Dec 1951, Subject: RIDGEO. 1st Hq, MSAF, ATICONC/Cg, Jul 1951, Subjscts: RIDGEO
+AIR INTELLIGENCE INFORMATION REPORT
+
+LOCATION OF OBSERVATION OF UNIDENTIFIED FLYING OBJECTS:
+SAN ANTONIO, TEXAS
+
+U. S. April 1952                                                 INTELLIGENCE DIVISION
+                                                                  LACKLAND AIR FORCE BASE, TEXAS
+
+9 April 1952
+
+1st Lt. EDWARD J. JACKLIN, Chief, Intel. Div.
+
+Hq 3d Rec, 3700.48 bp, Lackland AFB
+
+Subj: UFO UFOB-AC/962-12 Dec 1951, Subject: Sighting
 
 The following report of the sighting of an unidentified flying object in the San Antonio area is the first such report to be received by Intelligence Division, Lackland Air Force Base.
 
-The observer could not give much detailed Information on the sighting. The object was sighted accidentally and was observed through a closed glass window. No sound attributable to the object was audible to the observer.
+The observer could not give much detailed information on the sighting. The object was accidentally and was observed through a closed window. No corroborative to the object was audible to the observer.
 
-The observer heard what he thought was a C-97 take off from Kelly AF Base and went to his window to watch for the plane. The lights of a plane were observed through the lover right half of the window, making its first right turn in the traffic pattern. The observer remained at his window and scanned the sky. Through the upper left half of the window he sighted an object which he could not identify. This object was de- scribed as being white, sphere shaped, with a white trail equal in length to the dia- meter of the sphere. The object was traveling at en apparently high rate of speed in a straight line from SE to NW. The altitude and actual size of the object could not be determined but the object appeared to the observer as an ordinary marble in size. The object was observed for approximately 7 second, disappeared behind a cloud momen- tarily and reappeared for another second. The initial sighting to final disappearance of the object occurred through an estimated 10 degree arc, passing through the arc in slightly over a second. The observer estiwated the time of sighting to be 2245 hours, 9 April 1952.
+The observer heard that he thought was a C-97 take off from Kelly AF Base and went to his window to watch for the plane. This light of a plane was on Kelly AF Base and lower right half of the window, making its first right turn in the traffic pattern. The observer remained at his window and scanned the sky. Through the upper left half of the window he sighted an object which he could not identify. This object was described as being white, sharp shaped, with a white trail or pull in length to the direction of the object. The object was traveling at a presumably high rate of speed in a straight line from SE to NW. The altitude and actual size of the object could not be determined but the observer estimated to the observer as approximately 1/2 second, disappeared behind a cloud movement. The object was observed for approximately 1/2 second and the disappearance of the object occurred through an estimated 10 degrees arc, passing through the arc in slightly over 1 second. The observer estimated the time as 225 hours, 9 April 1952.
 
-The Kelly AF Base Flight log records the take off of a C-97 at 2239 hours, 9 April 1952. The weather report of 2230 hours, same date, indicates the wind direction as 140, velocity, 17 knots; cloud condition, overcast (broken); cloud base, 6500 feet estimated.
+The Kelly AF Base Flight Log records the take off of a C-97 at 2229 hours, 9 April 1952, take off of 2230 hours, and data, including location, wind velocity, 17 knots; cloud condition, overcast (broken); cloud base, 6,500 feet estimated.
 
-The observer was alone in his room in barracks building 2162, Lackland AF Base, at the time of the sighting. This barrack building is located approximately 2 air miles E of Kelly AP Base flight line.
+The observer was alone in his room in barracks building 2102, Lackland AF Base, at the time of the sighting. This barracks building is located approximately 1/2 mile NW of Kelly AF Base flight line.
 
 No additional reports of this sighting have been received.
 
-The observer has worked as a Cryptographic Technician with an AG 4 unit and is presently working with Radio Voice of Lackland.
-APPROVED:
-BERNARD J. JACKIN
-1st Lt., USAF
-Chief, Intelligence Division
+The observer has worked as a Cryptographic Technician with an AG & T Unit and is presently working with Radio Voice of Lackland.
 
-F.R. KENNEY
-Colonel, USAF
-Wing Operations Officer
-
-HISTRIBUTION BY ORIGtrintOR
-
-CG, Hq TAC, Gulfport, Mississ3ppi
-CG, Hq ATSC, Scott Air Force Base, IL UNCLASSIFIED DOD DIR 5200.10
+[Signatures of EDWARD J. JACKLIN and a Colonel]
 
 DOWNGRADED AT 3 YEAR INTERVALS;
-DECLASSIFIED AFTER 12 YEARS.
+DECLASSIFIED AFTER 12 YEARS
+UNCLASSIFIED DOD DIR 5200.10
 
-NOTE ihis DOCUMFNT CONTAINS INFORMATIOO AFFCTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE FSNOAAGII ACT. as i. U. S E. A7D 32 as AKENDED. IIS TRANSMISSION OR THE REVELATION OF IIS CONTENTS IN ANY RANNEN TO AN UNAUTHORIZED PERSON IS PROHIBITED BT 29.
-IT MAY NOR SE RPRODUCeD IN WHOLE OR IN PARe, Of onYHR THAN UNIREB STATES AIR FORCE AGENCSES. EXCEPT By permisos OF THE oatEx OF
-NTELIGENCE, USAF.
-
- (08-34) US OMENMENT PRINTING OFFICE
-```
 
 - page 3 -
 
