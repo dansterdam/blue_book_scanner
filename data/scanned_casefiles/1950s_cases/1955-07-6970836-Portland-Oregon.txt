@@ -1,67 +1,151 @@
-The image does not contain any photographs. It appears to be a Project Blue Book record card from 1955 regarding an observation in Portland, Oregon.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 30 JUL 55
-2. LOCATION: Portland, Oregon
-3. DATE-TIME GROUP: GMT 30/2243Z
-4. TYPE OF OBSERVATION: Ground-Radar
-5. SOURCE: Civilian & military DCCL
-6. NUMBER OF OBJECTS: 1
-7. LENGTH OF OBSERVATION: 3 min
-9. BRIEF SUMMARY OF SIGHTING: Round, silver, no sound. "Sitting, did not maneuver" / disappeared over hill.
-11. COMMENTS: Probable A/C sighting.
-12. CONCLUSIONS: O Was Balloon
-X Probably Balloon
-O Was Aircraft
-O Probably Aircraft
-O Possibly Aircraft
-X Possibly Astronomical
-O Other (Explain in 9 & 10)
-O Unknown
+
+1. DATE
+30 Jul 55
+
+2. LOCATION
+Portland, Oregon
+
+3. DATE-TIME GROUP
+GMT 30/2237z
+
+4. TYPE OF OBSERVATION
+XFO Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+X No
+
+6. SOURCE
+civilian & military 100(
+1
+
+7. LENGTH OF OBSERVATION
+3 min
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+n/a
+
+10. BRIEF SUMMARY OF SIGHTING
+Round, silver, no sound. "Sitting, did not
+maneuver" / Disappeared over hill.
+
+11. COMMENTS
+Probable a/c sighting.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+X Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other:
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 164 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image appears to be a page from an old Project Blue Book UFO report document. There is no photograph or visual image present in this particular page. The page contains only text describing details of a UFO sighting report.
+Here is the OCR text from the document:
 
-ACTION -- IN
-6 JUL 1955
+ACTION IN
 
-NPPD124 YKC137 XDO84DM249
-RN RJEDEN RJFDFJC
-DB RAUBE. RO A RJFDP/CQNR AIR TECH R TELL CENTER OHIO
-RQLFHQC SION OF RUSSELL HA USAF WASH 25 D C
-20 COHN 25TH ADN MC.CHORD AFB WASH
+RF121
+IMPB124 YDA126 XYC137 XDB084DNB04S
+RN RJEDEN RJGDWP RJEPNQ
+DE RJMPDN 26A
+R 012100Z
 
-INUNC L/G.SSACU 2AO FOLLOWING UFOB REPORT SUBMITTED IN ACCORDANCE
+FN COMDR 635TH ACWRON MCCMORD AFB WASH
+TO RJEDEN/COMDR ADC ENT AFB COL SPRGS COLO
+RJDWPV/COMDR AIR TECH INTELL CENTER HQ AFB OHIO
+RJEPHQ/DIRECTOR OF INTELL HQ USAF WASH 25 D C
+25N/COMDR 25TH ADJW MCCMORD AFB WASH
+
+LT
+
+/U N C L/635ACW 250. FOLLOWING UFOB REPORT SUBMITTED IN ACCORDANCE
 WITH AFR 200-2 PARAGRAPH 7. 1. A. ROUND B. UNKNOWN C. SILVER D. 1
-MINUTE 2. A. NO PB. IS GOING 2. A. COULD AS HE STARTED AIRCRAFT E, COULDN'T
-TELL UNKNOWN D. SETTING NO MANEUVERING E. OVER HILL F. THREE
-MINUTE 3. A. VISUAL FROM GROUND B. NO 4. 3 JULY 1955, 2243Z B. DAY
-CLEAR BRIGHT 5. NE ROSEBURG OFF AVE A S. A. G.V. THOMAS, 725 N. MOSHER,
-HOUSEWIFE B. AIC T.N. TAYLOR, 4773 DET NR 3, GOC, PORTLAND, OREGON.
-THIS SUPERVISOR Y. CLEAR NO WIND B. NONE E. MONE D. NONE F. MONE 12. NONE 13. AF FORM 112 WILL
+E. NO F. NO G. NO H. NO I. NONE 2. A. SIGHTING AIRCRAFT E. COULDN'T
+TELL C. UNKNOWN D. SETTING NO MANEUVERING E. OVER HILL F. THREE
+MINUTE 5. A. VISUAL FROM GROUND B. NO 4. 3Z JULY 1955, 2243Z Be DAY
+CLEAR BRIGHT 5. NE ROSEBURG OFF AVE A S. A. S.W. THOMAS, 726 W. MOSHER,
+HOUSEWIFE E. A/1C T.N. TAYLOR, 4779 DET NR 3, GOC, PORTLAND, OREGON,
+AMIS SUPERVISOR 7. CLEAR NO WIND B. NONE C. NONE D. NONE E. NONE F. 
+NONE 8. NONE 9. NONE 10. NONE 11. NONE 12. NONE 13. AF FORM 112 WILL
 NOT BE SUBMITTED.
 
-03/01267 AUG RJJFDC
+BT
+03/01262 AUG RJHPBM
+
 
 - page 2 -
 
-The provided image contains a photograph of what appears to be a UFO sighting report document. The document is an UFOB INDEX CARD from Project Blue Book, dated July 30, 1955, and detailing a sighting that occurred in Portland, Oregon.
+UFOB INDEX CARD AISS-UFOB-254-55
 
-Performing optical character recognition on the text in the document, the output is as follows:
+1. DATE
+30 July 1955
 
-UFOB INDEX CARD AIS-UFOB-254-55
-1. DATE 30 July 1955
-2. LOCATION Portland, Oregon
-3. DATE-TIME GROUP 30/22/32 Jul 55
+2. LOCATION
+Portland, Oregon
+
+3. DATE-TIME GROUP
+Local 30/28/53 Jul 55
+GMT
+
 4. TYPE OF OBSERVATION
-Ground-Visual
-Air Visual
-Other
-5. SOURCE Civilian and Military (GOC)
-7. LENGTH OF OBSERVATION Three Minutes (3)
-10. BRIEF SUMMARY OF SIGHTING One (1) silver object, size unknown, was seen for a period of three (3) minutes.
-11. COMMENTS From description of the object, the fact that the object seemed to stand still, seem to indicate that the possibility of a balloon causing the sighting. NO RECOMMENDATION AUTHORIZED.
+X Ground-Visual
+□ Ground-Radar
+□ Air Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+X No
+
+6. SOURCE
+Civilian and Military (GOC)
+
+7. LENGTH OF OBSERVATION
+Three Minutes (3)
+
+8. NUMBER OF OBJECTS
+One (1)
+
+9. COURSE
+Stationary
+
+10. BRIEF SUMMARY OF SIGHTING
+One (1), round, silver object, size unknown, was seen for a period of three (3) minutes by GOC observers.
+
+11. COMMENTS
+The description of the object, the fact that the object seemed to stand still, seem to indicate that the possibility of a balloon causing the sighting. No investigation authorized. POSSIBLY BALLOON.
+
+12. CONCLUSIONS
+□ Was Balloon
+X Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other:
+□ Insufficient Data for Evaluation
+□ Unknown
+
+AISOP Form 5 (15 Oct 54)
+
 
 - page 3 -
 

@@ -1,24 +1,55 @@
-The image does not contain a photograph. It appears to be a Project Blue Book record card with various fields filled out, including the date, location, object description, and conclusions.
+PROJECT 10073 RECORD CARD
 
-PROJECT 10573 RECORD CARD
 1. DATE
-12 March 1955
+9 March 1955
+
 2. LOCATION
 Chesapeake Bay, Maryland
-3. TIME 
-2300L - 2330 EST
-4. TYPE OF OBSERVATION 
-Civilian
+
+3. DATE-TIME GROUP
+Local 1930-2000 EST
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
 5. PHOTOS
-None
-6. WEATHER 
-O Yes
+□ Yes
+■ No
+
+6. SOURCE
+Civilian
+
 7. LENGTH OF OBSERVATION
 15-20 minutes
-9. BRIEF SUMMARY OF SIGHTING
-Round object with no sound. Sighted twice. Second sighting showed a complete disappearance of a luminous mass. Flew in northwest direction and reappeared from the southeast and drifted to the ground or water.
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+Northwest
+
+10. BRIEF SUMMARY OF SIGHTING
+Round, red object with no sound. Sighted two twice. Second sighting showed a compaction, instead of a homogenous mass, flow in Northwest direction and reappeared from the Southeast of original sighting and drifted to the ground or water.
+
 11. COMMENTS
 Insufficient data for evaluation. Duration of each observation not specified, description vague, maneuvers not detailed.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+■ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 

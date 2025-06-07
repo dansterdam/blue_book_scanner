@@ -1,61 +1,80 @@
-The image does not contain any photographs. Here is the text from the document:
-
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE                              2. LOCATION                            12. CONCLUSIONS
-    13 October 1956                      Newburgh, Unionville, N.Y.           ☐ Was Balloon
-                                                                                  ☐ Probably Balloon
-3. DATE-TIME GROUP                4. TYPE OF OBSERVATION         ☐ Was Aircraft
-    GMT 13/2215 & 2230Z               ☐ Ground-Visual                   ☐ Possibly Aircraft
-    Local                                      ☐ Ground-Radar                   ☐ Was Astronomical
-                                           ☐ Air-Visual                          ☐ Probably Astronomical
-5. PHOTOS                           ☐ Air-Intercept Radar              ☐ Other
-    ☐ Yes
-    ☒ No                               6. SOURCE                             ☐ Insufficient Data for Evaluation
-                                            Civilian                                     ☒ Unknown
-7. LENGTH OF OBSERVATION      8. NUMBER OF OBJECTS             9. COURSE
-    0 hours 45 minutes                  One                                      Unionville to Newburgh up__down
-                                             
-10. BRIEF SUMMARY OF SIGHTING                                  11. COMMENTS
-    1) One circular white (w/red light)                                 According to rpting officer there
-    object, the size of the head of a pin                           have been a considerable number
-    at arm's length. Object was moving up                       of balloons launched in the area.
-    and down and was still in sight at                              Opinion ðs that sighting probably
-    time of report.                                                     caused by balloon.
-    2) One object, round, size of basketball
-    pinhead. Color blue white, fluores-
-    cont. Very bright. Object drifted over
-    to the moon and disappeared.
+1. DATE
+13 October 1956
 
-ATIC FORM 329 REV 26 SEP 52
-```
+2. LOCATION
+Newburgh, Unionville, N.Y.
+
+3. DATE-TIME GROUP
+Local 13/2215 & 2230Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+one hour, 45 minutes
+still in sight
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+Unionville E
+Newburgh up
+
+10. BRIEF SUMMARY OF SIGHTING
+1) One circular white (w/red light) object, the size of the head of a pin at arm's length, and moving up and down was still in sight at time of report.
+
+2) One object, round, size of basketball to pinhead. Color blue white, fluorescent. Very bright. Object drifted over to the moon and disappeared.
+
+11. COMMENTS
+According to rating officer there have been a considerable number of balloons launched in the area. Opinion is that sighting probably caused by balloon.
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+
 
 - page 1 -
 
-No photographs are present in this image of the document.
+Here is the text from the document:
 
-Here is the extracted text:
+[Handwritten at top left] Wilbur
+[Handwritten at top right] 13/223-4
+[Handwritten date stamp] 16 OCT 56 07 23
 
-```
-N
-WPA157 YDA875 TYC086 TMB296SNEA33
-
-PP RJEDEN RJEDWP RJEPNY RJEPHO
-DE RJEPNS 49S
+WPA157 YDA075 TYC066 TM506GN2A633-
+PF RJEDEN RJEDWP RJEPNY RJEPHQ
+DE RJEFNB 49
 P 151430Z
-
-FM CONDR EADF STEWART AFB NY
-TO RJEDEN/CCMDR ADC ENT AFE COLO
-RJEPNY/CONDR 25 ADD ROSLYN AFS NY
-RJEDWP/CONDR AIR TECHNICAL INTELLIGENCE CEN WPAFB OHIO
+FM CCNDR EADF STEWART AFB NY
+TO RJEDEN/CCMDR ADC ENT AFB COLO
+RJEPNY/CCMDR 26 ADD ROSLYN AFS NY
+RJEDWP/CCMDR AIR TECHNICAL INTELLIGENCE CEN WPAFE CHIC
 RJEPHO/DIR OF INTELLIGENCE HQ USAF WASH DC
+BT
 
-ET
-UNCLASSIFIED CIC 0601 PD SUEJ: UFOS
+(UNCLASSIFIED) CIC 0001 PD SUBJ: UFOB
 
 1. A. CIRCULAR
-   E. PIN HEAD
+   B. PIN HEAD
    C. WHITE WITH RED LIGHT
    D. NEG
    E. NEG
@@ -63,45 +82,40 @@ UNCLASSIFIED CIC 0601 PD SUEJ: UFOS
    G. NEG
    H. NEG
    I. NEG
-```
+
 
 - page 2 -
 
-There is no photograph on this page of the document.
+PAGE TWO RJEPNB 49
 
-Here is the text reproduced from the document:
+11. A. RED LIGHT
+    B. 7,000 TO 14,000 FEET.
+    C. NEG
+    D. UP AND DOWN
+    E. NEG
+    F. STILL IN SIGHT
 
----
-PAGE TWO REJPENP 49
+III. A. GROUND VISUAL
+     B. NEG
+     C. NEG
 
-II. A. RED LIGHT  
-   B. 7,000 TO 10,000 FEET.  
-   C. NEG  
-   D. UP AND DOWN  
-   E. NEG  
-   F. STILL IN SIGHT  
+IV. A. 13/2238Z
+    B. DUSK
 
-III. A. GROUND VISUAL  
-    B. NEG  
-    C. NEG  
+V. A. NEG
+   B. NJAM 5930
 
-IV. A. 13/22362  
-    B. DUSK  
+VI. A. [REDACTED] NEWBURGH, NEW YORK
+    B. NON APPLICABLE
 
-V. A. NEG  
-   B. NJAM 5932  
+VII. A. CLEAR
+     B. 1. SURFACE - NO WIND
+         2. THRU 3. NONE APPLICABLE
 
-VI. --------------------------------------------- NEWBURGH, NEW YORK  
-    B. NON APPLICABLE  
+VIII. A. NONE
+      B. NONE
+      C. NONE
 
-VII. A. CLEAR  
-     B. 1. SURFACE - NO WIND  
-        2. THRU 3. NONE APPLICABLE  
-
-VIII. A. NONE  
-      B. NONE  
-      C. NONE  
----
 
 - page 3 -
 

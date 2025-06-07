@@ -1,143 +1,200 @@
-The image does not contain any photographs. It appears to be a Project 10073 record card from Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
-
-The text in the document is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 6 August 1957
-2. LOCATION: New York City, New York
-3. DATE-TIME GROUP: 
-4. TYPE OF OBSERVATION: 1) Ground-Radar, 2) Air-Visual, 3) Air-Intercept Radar
-5. DURATION: Fifty minutes
-7. LENGTH OF OBSERVATION: Fifty minutes
-10. BRIEF SUMMARY OF SIGHTING: The objects were seen moving across the sky in an easterly direction, after which they returned to their original position and seemed to stop and hover. The sightings lasted about fifty minutes.
-11. COMMENTS: Several 164 were sent to the sources and the analysis of the forms indicated that the sightings were probably satellites. The initial report indicated that these sightings might represent evidence supporting this, and further investigation was not considered necessary.
+
+1. DATE
+14 August 1957
+
+2. LOCATION
+New York City, New York
+
+3. DATE-TIME GROUP
+Local
+GMT 14/08407
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual   ☐ Ground-Radar
+☐ Air-Visual     ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☐ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+fifty minutes
+
+8. NUMBER OF OBJECTS
+five or six
+
+9. COURSE
+Eastward
+
+10. BRIEF SUMMARY OF SIGHTING
+Five or six objects seen in pairs moving across the sky in easterly direction. Each object possessed a steady, bright light and the entire series of sightings lasted about fifty minutes.
+
+11. COMMENTS
+ATIC Forms 164 were sent to the sources and the analysis of the forms indicates that this sighting was probably caused by an a/c. The initial report indicates that this sighting was also seen on radar; however, no supporting evidence to this fact.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Possibly Balloon
+☐ Yes Aircraft
+☒ Probably Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other: Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 53)
+
 
 - page 1 -
 
-The image contains a handwritten document with detailed descriptions of an unidentified flying object (UFO) sighting. There is a sketch or diagram showing the trajectory of the object. The text describes the object as having a "steady bright white light" and making a "like loud thunder" sound. No human faces or identities are visible in the image.
-
-The output of the OCR (Optical Character Recognition) system is as follows:
-
-RA 15s
-WPB131 YDA139 TYA16SMB184 FF8 13LOWA 135
+RA158
+WPB181 YDA139 TYA168MB184 TRE113LQA139
 PP RJEDEN RJEDWP RJEPHQ RJEPNY
-DE RJEPOW 106 
-P 1419202
-FM COMDR 2502 ABWG MITCHEL AFB NY
+DE RJEPQW 106
+P 141900Z
+
+FM COMDR 2500 ABWG MITCHEL AFB NY
 TO RJEDEN/COMDR ADC ENT AFB COLO
 RJEPNY/COMDR 26 AIR DIV ADC ROSLYN AFB NY
 RJEDWP/COMDR AIR TECHNICAL INTEL CEN WPAFB OHIO
 RJEPHQ/DIR OF INTEL HQ USAF WASHDC
+BT
 
-UNCLAS ABOAB-B- UFOB
-(A) SIMILAR TO MEDIUM TRANSPORT TYPE AIRPLANE
-(B) PPA
-(C) NEGATIVE
-(D) 3 OR 5 
-(E) FILED TWO ABREAST
-(F) EACH OBJECT POSSESSED A STEADY BRIGHT WHITE LIGHT
-(G) NEGATIVE
-(H) LIKE LOUD THUNDER
-(I) NEGATIVE
+UNCLAS ABO28S-8, UFOS
 
-PAGE TWO RJEPOW 106
-(2A) (A) BRIGHT LIGHT OF EACH OBJECT
+(1) (A) SIMILAR TO MEDIUM TRANSPORT TYPE AIRPLANE
+    (B) PEA
+    (C) NEGATIVE
+    (D) 5 OR 6
+    (E) FILED TWO ABREAST
+    (F) EACH OBJECT POSSESSED A STEADY BRIGHT WHITE LIGHT
+    (G) NEGATIVE
+    (H) LIKE LOUD THUNDER
+    (I) NEGATIVE
+
+PAGE TWO RJEPQW 106
+
+(2) (A) BRIGHT LIGHT OF EACH OBJECT
+
 
 - page 2 -
 
-There is no photograph present in the image. The image appears to be a page from an old UFO report document from Project Blue Book.
+PAGE THREE RJEPQW 106
 
-PAGE THREE RJEPOW 195
+(B) NOT AVAILABLE
 (C) NOT AVAILABLE
+(D) NOT AVAILABLE
 (E) NOT AVAILABLE
-(F) NONE  
-(S) NONE
+(F) NONE
+(8) NONE
 (9) NIA
 (10) NEGATIVE
 (11) MAJOR RICHA
-LT COL D. RAMSEY, BASE OPERATIONS OFFICER, 2938TH
-AIR BASE GROUP (CONAC), MITCHEL AFS, NY PD REPORTS CONCERNING
-UFOs WERE RECEIVED FROM INDICATED CIVILIAN SOURCE - POSSIBLE
-CAUSE OF SIGHTINGS CAN NOT BE DETERMINED BY AFOREMENTIONED 
+
+RD D. RAMSEY, BASE OPERATIONS OFFICER, 2509TH
+AIR BASE GROUP (CONAC), MITCHEL AFB, NY PD REPORTS CONCERNING
+UFOB WERE RECEIVED FROM INDICATED CIVILIAN SOURCE. POSSIBLE
+CAUSE OF SIGHTINGS CAN NOT BE DETERMINED BY AFOREMENTIONED
 OFFICER PD
 (12) NONE
-(F) NONE
-M/19252Z AUG RJEPOW
+BI
+14/1925Z AUG RJEPQW
+
+There are also handwritten notes on the side of the document, including "military audit post" at the top right, and additional notes on the right side of the document that appear to be commentary about the report.
+
 
 - page 3 -
 
-There is no photograph contained in this image. The image appears to be a page from a UFO report document, likely from Project Blue Book, containing textual information about a UFO sighting.
+Here is the text from the document:
 
-<B> APPROXIMATELY 45 DEGREES LEFT ANGLE OF ELEVATION
-<C> APPROXIMATELY 45 DEGREES RIGHT ANGLE OF ELEVATION
-<D> APPROXIMATELY CENTER OF MANHATTAN EASTWARD TOWARD
+(B) APPROXIMATELY 45 DEGREES LEFT ANGLE OF ELEVATION
+(C) APPROXIMATELY 45 DEGREES RIGHT ANGLE OF ELEVATION
+(D) APPROXIMATELY CENTER OF MANHATTAN ENROUTE EASTWARD TOWARD
 LONG ISLAND
-<E> FLYING
-<F> 25 MINUTES
-<G> (A) SURVEILLANCE RADAR (GROUND ELECTRONIC
-<H> NIA
-<I> (A) 1700-1742
-<J> NIGHT
-<K> EMPIRE STATE BUILDING
-<L> (A) MISS *********** BRONX, NY
-<M> MR. ******** STREET BROOKLYN, NY
-<N> NIA
-<O> UNKNOWN
-<P> (A) NOT AVAILABLE
+(E) FLYING
+(F) 50 MINUTES
+
+(3) (A) SURVEILLANCE RADAR (GROUND ELECTRONIC)
+    (B) NIA
+    (C) NIA
+
+(4) (A) 1700/142
+    (B) NIGHT
+
+(5) EMPIRE STATE BUILDING
+
+(6) (A) MISS [REDACTED], BRONX, NY
+    (B) NIA
+
+(7) UNKNOWN
+    (A) NOT AVAILABLE
+
+There are also some handwritten notes on the right side of the document, but they are partially illegible.
+
 
 - page 4 -
 
-The given image does not contain any photographs. It is a scanned document from Project Blue Book, a United States Air Force program to investigate unidentified flying objects (UFOs).
+JOINT MESSAGEFORM
 
-Transcript of the text in the document:
+SECURITY CLASSIFICATION: UNCLASSIFIED
 
-JOINT MESSAGE FORM
-UNCLASSIFIED
+PRECEDENCE: ROUTINE
+ACTION: INFO
+FROM: COMDR, AWTC
+TO: COMSANDER, 4500TH AIR BASE WING, MITCHELL AFB, NEW YORK
 
-ACTION INFO: COMMANDER, NINTH AIR FORCE WING
-MITCHEL AFB, NEW YORK
+/UNCLAS/ FROM: AFCIN-434/ CITE NR. 8-1182-E
 
-UNCLAS AFCIN-43H/CITE NR: 8-1182-C
+REFERENCE ITEM 3A, UFO REPORT, ADO-286-8, 14 AUGUST 57. REQUEST RADAR OBSERVATIONS. REPORT INDICATES OBJECTS WERE AIRCRAFT, CLARIFY TYPE OF SIGHTING.
 
-SUBJECT: UFO REPORT, AD-206-59, 14 AUGUST 57, RE-WEST
+COORDINATION:
+AFCIN-434 [signature] DATE 15/8/57
 
-RADAR OBSERVATIONS - REPORT INDICATES OBJECTS WERE AIRCRAFT.
-CLARIFY TYPE OF SIGHTING.
+[Bottom of form]
+DATE: 15 AUG
+TIME: 230
+YEAR: 57
 
-COORDINATION: APRIL-AUG, DAILY
-LT. COL. T. R. PHILLIPS
-
-DATE: 31 AUG 57
-TIME: 2330
-
-ROBERT E. O'CONNOR
+Signature of ROBERT E. O'CONNOR
 Captain, USAF
 Assistant Adjutant
 
+DD FORM 173 (Replaces DD form 173, 1 OCT 48, which will be used until exhausted)
+SECURITY CLASSIFICATION: UNCLASSIFIED
+
+
 - page 5 -
 
-There is no photograph present in the image provided. The image appears to be a scanned page from a Project Blue Book UFO report document.
+Base Operations
+2SCCM 15 BASE GROUP
+United States Air Force
+Mitchell Air Force Base, New York
 
-As an OCR (Optical Character Recognition) system, I will extract all the text found in the document:
+19 August 1957
 
-SUBJECT: UFOS, 12 August 1957
+SUBJECT: UFO, 14 August 1957
+
 TO: Commander
 Air Technical Intelligence Center
 Wright-Patterson Air Force Base, Ohio
 
-ATTENTION: Your Headquarters, 15 August 1957
-
-1. The following information is forwarded in reference to message from your Headquarters, 15 August 1957:
+1. The following information is forwarded in reference to message
+AFOIN-424, your headquarters, 15 August 1957:
 
 a. Radar observations--negative.
-b. Time of sighting--14/0828Z August, 23'40" = 0370
 
-RICHARD P. WARREN
+b. Time of sighting--14/0840Z August, 5840-5 = 0340
+
+[Signed]
+RICHARD D. RANSEY
+Major, USAF
 Base Operations Officer
-Base Operations Center
-United States Air Force Base, New York
 
-19 August 1957
 
 - page 6 -
 

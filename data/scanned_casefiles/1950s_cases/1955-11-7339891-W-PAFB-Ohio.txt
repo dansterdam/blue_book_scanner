@@ -1,37 +1,83 @@
-There is no photograph present in this image. The image shows a page of a Project Blue Book record card that contains text fields filled out, but no visual components other than the printed form itself.
-
 PROJECT 10073 RECORD CARD
-1. DATE 10 NOV 55
-2. DATE/TIME GROUP 0500/06152
-3. LOCATION W-P AFB, OHIO
-4. TYPE OF OBSERVATION Ground-Visual
-5. DURATION 2 hrs  
-6. WEATHER Ground-Visual
-7. LENGTH OF OBSERVATION 2 hrs
-10. BRIEF SUMMARY OF SIGHTING Round, white and blue, no sound. Brightness appeared to decrease and increase.
-11. COURSE Stationary
-12. CONCLUSIONS 1. Was considered to be Unusual
-2. Astronomical (Jupiter and Regulus at 40 deg az, 25-30 deg el, Military group within 1 m and 2 Regulus).
+
+1. DATE
+10 Nov 55
+
+2. LOCATION
+W-P AFB, Ohio
+
+3. DATE/TIME GROUP
+Local GMT 10/0915Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+Yes No
+
+6. SOURCE
+military
+
+7. LENGTH OF OBSERVATION
+2 hrs
+
+8. NUMBER OF OBJECTS
+2
+
+9. COURSE
+Stationary
+
+10. BRIEF SUMMARY OF SIGHTING
+Round, white and blue, no sound. Brightness appeared to increase and decrease.
+
+11. COMMENTS
+Jupiter and Regulus at 80 deg az, 25-30 deg elev. AZ error within probability. Case eval as astro (Jupiter & Regulus).
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Probably Balloon
+Was Aircraft
+Probably Aircraft
+Probably Aircraft
+Was Astronomical Regulas/
+Probably Astronomical Jupiter
+Other
+Insufficient Data for Evaluation
+Unknown
+
+ATIC FORM 329 (REV 26 SEP 53)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document, specifically a report from Wright-Patterson Air Force Base in Ohio dated November 7, 1955.
+Here is the text from the document:
 
-The text from the document is as follows:
+JRA 124
 
-1 WITNESS  
-DRA 124  
-IR RJED9P  
-LT RJED9P C2  
-LT COL SE Z  
-P.O. BLOCK 1472ND FLIGHT SERVICE SO WRIGHT PATTERSON AFB OHIO  
-TO ASST/COMDR ADC ENT AFB COLO  
-MAJOR/CHIEF OF STAFF WASHINGTON 25, D.C.  
-RADAR/CHIEF AIR TECHNICAL INTELLIGENCE GN WRIGHT PATTERSON AFB OHIO  
-CGL F-11-C-31 UFO(S) FOUND (C) SEA GULL (C) INTERMEDIATE(C)C-2 NEGATIVE(C) C-3 NEGATIVE(C) RIGHTNESS APPEARED TO INCREASE AND DECREASE(C) AS LIGHT(C) WHICH INCREASED AND DECREASED AS IT ELEVATION.25 DEG AZIMUT(C) JUNCTION AND GROUND VISIBILITY(C) BINOCULAR(C) NA.64(C) C-2 1:32(C) HIGH(C) S4-32 WEST, 39-45 NORTH(C) C-2 RBA OF F I KOZAKEWSKI, ADC.C PATTERN FIELD GLASSES, CLEAR VISIBILITY(C) C-2 9B-25/29, 8030-9008. 0330-23/45, 0330-23/43, 0336-23/45 (C) CLEAR(C) 7 MILES(C) CLEAR (C) NEGATIVE NONE C-2 NONE(C) 13 PATTERN(C) A CAPTAIN 5/1/07  
-L/I /JOOZ NOV RJED9P  
-3-7-et-4-  
-et- GX- 
+NR RJEDMP
+LE RJEDMP 62
+
+FM COMDR 1475TH FLIGHT SERVICE SQ WRIGHT PATTERSON AFB OHIO
+TO RJEDEN/COMDR ADC ENT AFF CCLO
+RJDPN/CHIEF OF STAFF WASHINGTON 25, D.C.
+RJDPP/COMDR AIR TECHNICAL INTELLIGENCE CEN WRIGHT PATTERSON AFB OHIO
+
+MCLAM-11-5-E. UFO (LOCA) ROUND (1) PEA (C) WHITE AND BLUE
+(U) 2 (S) PARALLEL (1) NEGATIVE (2) NEGATIVE (H) NEGATIVE
+(I) FRIGHTNESS APPEARED TO INCREASE AND DECREASE (2) (A) LIGHT
+WHICH INCREASED AND DECREASED (3) 30 DEG ELEVATION, 55 DEF AZIMUTH
+(C) UNKNOWN (D) UNKNOWN (E) UNKNOWN (F) 2 HOURS (3) (A) GROUND-
+VISUAL (2) PINOCULAR (C) N/A (4) (A) 1/1615Z (T) NIGHT (5) (A)
+84-32 WEST, 35-48 NORTH (3) (A) N/A (3) K I KRAZEWSKI, A/2C
+PATTERSON FIELD TOWER OPERATOR, EXCELLENT (7) (A) CLEAR VISIBILITY
+UNRESTRICTED (F) 3630-255/125, 3630-265/125, 16:00-215/140, 2600-255/45,
+3630-255/32, 5260-27.740 (C) CLEAR (D) 7 MILES (E) CLEAR (F)
+MORE (2) NONE (9) NONE (10) NONE (11) PARKERN C A CAPTAIN
+NEGATIVE (12) NONE
+
+17:10:32 NOV RJEDMP
+
 
 - page 2 -
 

@@ -1,33 +1,82 @@
-The image does not contain any photographs. It appears to be a document titled "PROJECT 10073 RECORD CARD" which contains various information fields about a UFO sighting incident.
-
 PROJECT 10073 RECORD CARD
-1. DATE 10 SEP 55
-2. LOCATION Dakota City, Nebraska
-3. DATE-TIME GROUP 10/14/52
-4. TYPE OF OBSERVATION Ground
-5. PHOTOS G-Civilian
-7. LENGTH OF OBSERVATION 8 min.
-8. NUMBER OF OBJECTS 1
-10. BRIEF SUMMARY OF SIGHTING Hounds bellowed, cattle call.
-11. COMMENTS: Insufficient information for evaluation.
+
+1. DATE
+10 Sep 55
+
+2. LOCATION
+Dakota City, Nebraska
+
+3. DATE-TIME GROUP
+Local ____________
+GMT     10/1408z
+
+4. TYPE OF OBSERVATION
+☒ Ground-Visual   ☐ Ground-Radar
+☐ Air-Visual     ☐ Air-Intercept Radar
+
+5. SOURCE
+Civilian
+
+6. PHOTOS
+☐ Yes
+☒ No
+
+7. LENGTH OF OBSERVATION
+8 min
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+circled
+
+10. BRIEF SUMMARY OF SIGHTING
+Round, silver, orbited.
+
+11. COMMENTS
+Not much information. Insufficient Data for evaluation.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other: ____________
+☒ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-RE133
-UPA133 YRA149NGA@SIVA324
+Witness
+
+12 SEP 1955 07:41
+
+RE130
+WPA153 YMA149NGA268IVA024
 PP RJEDEN RJEDUP RJEPAG RJEDKF
-DE RJEDNG 4I
-P 121S&02
-FH COMDR 789TH ACAW SQ OMAHA NEBR
-TO RJEDND/COMDR ADC EMT APB COLO
-RJEDMF/COMDR ATIC WPAFB OHIO
+DE RJEDNG 41
+P 1016002
+FM COMDR 789TH AC&W SQ OMAHA NEBR
+TO RJEDEN/COMDR ADC ENT AFB COLO
+RJEDWP/COMDR ATIC WPAFB OHIO
 RJEPAG/DIR OF INTELL HQ USAF WASH DC
-RJEDKF/COMDR CADG GRANDVIEW AFB MO
-RJEDNG/COMDR 5IST ADIV 5T PAUL MINN
-BY
-U N C L A S S I F I E D/DOPIS 621 UFOB REPORT AS FOLLOWS
+RJEDKF/COMDR CADF GRANDVIEW AFB MO
+RJEDNG/COMDR 31ST ADIV SP PAUL MINN
+
+BT
+UNCLASSIFIED D/OPS 621 UFOB REPORT AS FOLLOWS
+
+1
 A ROUND
 B DIME
 C SILVER
@@ -38,46 +87,48 @@ G NONE
 H NONE
 I NEGATIVE
 
+
 - page 2 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book UFO report document.
+PAGE TWO RJEDNG 41
 
-PAGE TWO READING 41
 A BRIGHTNESS
 B 30 N
 C 30 N
 D ORBITED
 E FADEOUT
 F EIGHT (8) MINUTES
-3
-A GROUND VISUAL
-B WAHT
+
+A GROUND
+B GROUND/VISUAL
+C NONE
 C N/A
-4
-A 142SZ SEP 12
+
+A 1463Z SEP 10
 B DAYLIGHT
-C Jn 3425
-A MRS. XXXXXXXX, DAKOTA CITY HOUSEWIFE RELIABLE
+JN 3425
+
+A MRS. [REDACTED] DAKOTA CITY HOUSEWIFE RELIABLE
 B N/A
-7
-A SURFACE WINDS STRONG VISISBLITY CLEAR
-B 13A-279-32K 30A-322-33K 29A-272-49K 48A-260-79K
-C CLEAR
+
+A SURFACE WINDS STRONG VISIBILITY CLEAR
+B 10A-270-30K 30A-300-30K 20A-270-40K 40A-260-70K
+F CLEAN
 D NONE
 E NONE
 
+
 - page 3 -
 
-The image does not contain a photograph. It appears to be a page from a Project Blue Book report document.
-
-PAGE THREE RJED#: 41
+PAGE THREE RJEDNG 41
 8 NONE
-9 NONE
+9 NOWW
 10 YES
 11 NONE
 12 THERE WERE SOME DUCKS IN AREA AT THE TIME OR POSSIBLY A WEATHER BALLOON
 BT
-12/13/32 SEP RJED#
+10/1330Z SEP RJEDNG
+
 
 - page 4 -
 

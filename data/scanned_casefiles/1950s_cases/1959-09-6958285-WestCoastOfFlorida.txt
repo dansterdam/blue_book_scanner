@@ -1,87 +1,90 @@
-The provided image does not contain a photograph. It is a form with text entries. Below is the text from the document as requested:
+PROJECT 1007 RECORD CARD
 
-```
-1. DATE              2. LOCATION
-30 Sep 59            West Coast of Florida
+1. DATE
+30 Sep 59
 
-3. DATE-TIME GROUP   4. TYPE OF OBSERVATION
-Local 01/0302Z Oct 59 C Ground-Visual      O Ground-Radar
-GMT 01/0302Z Oct 59     O Air Visual        O Air-Intercept Radar
+2. LOCATION
+West Coast of Florida
 
-5. PHOTOS           6. SOURCE
-O Yes                24_writer & Civilian
-X No
+3. DATE-TIME GROUP
+Local 01/0130Z Oct 59
 
-7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS  9. COURSE
-one                       ONE                  SE
+4. TYPE OF OBSERVATION
+Ground-Visual
 
-10. BRIEF SUMMARY OF SIGHTING                                         11. COMMENTS
-Brilliant flare moving in SE direction                               Miami Coast Guard indicates that
-noted by numerous fishing vessels off                                flare associated w/missile test
-West Coast of Florida. In sight 30-40 mins.                          activity at Cape Canaveral.
+5. PHOTOS
+Yes
+
+6. SOURCE
+Military & Civilian
+
+7. LENGTH OF OBSERVATION
+30-40 mins
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+SE
+
+10. BRIEF SUMMARY OF SIGHTING
+Civilian Plane moving in SE direction noted by numerous fishing vessels off West Coast of Florida. In sight 30-40 mins.
+
+11. COMMENTS
+Miami Coast Guard indicates that flare associated w/missile test activity at Cape Canaveral.
 
 12. CONCLUSIONS
-O Prob Balloon
-Possibly Balloon
-O Was Aircraft
-Possibly Aircraft
-O Prob Missile
-O Was Astronomical
-Probably Astronomical
-Possibly Stare
-O Other
-X Insufficient Data for Evaluation
-Unknown
+Flare
 
-ATSC FORM 329 (REV 26 SEP 52)   
-``` 
+ATIC FORM 164 (REV 26 SEP 59)
 
-Please note the "X" and "O" markings are likely to indicate checked and unchecked options within the form.
 
 - page 1 -
 
-The image provided does not contain any photographs. Instead, it is a page of text, which appears to be from an official document. Below is the text reproduced as if it were read by an OCR (Optical Character Recognition) system:
-
-```
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE DIVISION
 UNCLASSIFIED MESSAGE
 
-AF IN: 919 (1 Oct 59) 
-ACTION: CIN 
+AF IN: 919 (1 Oct 59)
+ACTION: CIN
 INFO: OOP, SAPS
 
 SMD A074
-CZC HQES 142 CBU A 19
-* * * * YY RJ EZ HQ
-DE RBEKSN 033
-YI 010446Z
-FM CCGD SEVEN MIAMI BEACH FLA\
-T O RJFWAL/CINCINADCOM
-RJEZ HQ CHIEF OF STAFF USAF WASHDC
-ZEN/C0M0ESTSEAFRON
-ZEN/CINCLANTFLT
-INF0ZEN/C/COMDT COGARD
-ZEN/C0MEASTAREACOMGRAD
+
+CZCH0514ZCBJA119
+
+YY RJEZ HQ
+DE RBEKSN 035
+
+Y 010446Z
+
+FM CCG SEVEN MAMA BEACH FLA
+TO RJWFAL/CIN ONADCOM
+RJEZ HQ/CHIEF OF STAFF USAF WASHDC
+ZEN/COME OST SEA FRON
+ZEN/CIN CLANTFL
+INF OCEN/CMDT COGRAD
+ZEN/COME AREA COA GRAD
 USCG GRNC
 
-P OI O3 O22
-FM CCG. NEMESIS
-T O CCGD SEVEN
-BT.
-T. O X AT 203 OR WHEN IN POSIT 28-12N 83-15W OBSERVED BRILLIANT
-FLARE ON BEARING 085 DEGREES WHICH MOVED IN A SOUTH EASTWARD DIRECTION
-```
+PY 010302Z
 
-Please note that due to the quality of the text in the image, some characters may be misinterpreted or not recognize (indicated by *), and the formatting of the text may differ slightly from the original document.
+FM CCG NEMESIS
+TO CCG SEVEN
+
+BT
+
+TO 0 X AT 2030R WHEN IN POSIT 28-12N 83-15W OBSERVED BRILLIANT
+FLARE ON BEARING 085 DEGREES WHICH MOVED IN A SOUTHEASTWARD DIRECTION
+
+30 SEPT 59
+H,D/WG
+
+39
+
 
 - page 2 -
 
-There are no photographs present in this document. Instead, the document appears to be a page from a report.
-
-As an OCR (Optical Character Recognition) system, here is the output of the text found in the document:
-
-```
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE DIVISION
 UNCLASSIFIED MESSAGE
@@ -91,15 +94,14 @@ AF IN: 919 (1 Oct 59)
 
 TO ELEVATION 25 DEG AND REMAINED IN SIGHT FOR 30 TO 40 MINUTES
 X BELIEVED FLARE WAS ROCKET FROM CANAVERAL X ACCORDING TO
-TRANSMISSIONS OVER HEARD ON 2182 KCS THIS FLARE SIGHTD BY
+TRANSMISSIONS OVER HEARD ON 2182 KCS THIS FLARE SIGHT) BY
 NUMEROUS FISHING VESSELS FLA WEST COAST
-
 BT
-CFN 2030R 28-12N 83-15W 085 25 30 40 2182
-01/00440Z SEP RBEEEEEEEEE 01/0044Z OCT RBEKSN
+CFN 203OR 28-12N 83-15W 085 25 30 40 2182
+01/0440Z SEP RBEEEEEEEE 01/0449Z OCT RBEKSN
 
 Page 2 of 2 pages
-```
+
 
 - page 3 -
 

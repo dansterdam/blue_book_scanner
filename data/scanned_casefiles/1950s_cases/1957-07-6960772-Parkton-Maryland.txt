@@ -1,29 +1,55 @@
-The image does not contain a photograph. It appears to be a Project 10073 Record Card, which is a form used to document details about a UFO sighting.
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
-July 1957
+5 July 1957
+
 2. LOCATION
 Parkton, Maryland
-3. DATE-TIME GROUP
-8. TYPE OF OBSERVATION
-Ground-Visual
+
+3. DATE/TIME GROUP
+Local 7A025557
+
 4. TYPE OF OBSERVATION
-Ground-Visual
-9. SOURCE
-Civilian
+Ground-Visual BX □ Ground-Radar □ Air-Visual □ Air-Intercept Radar
+
 5. PHOTOS
-0 Yes
-10. BRIEF SUMMARY OF SIGHTING
-One object ball size of 1/4 dollar, color white, flared out and dimmed. Abruptly changed direction. Left to right movement.
+□ Yes
+■ No
+
 6. SOURCE
 Civilian
-11. COMMENTS
-Insufficient data for analysis. Possible error in direction (in which case invalid). Insufficient data for evaluation.
+
 7. LENGTH OF OBSERVATION
-1-2 minutes
+.35 minutes
+
 8. NUMBER OF OBJECTS
-1
+one
+
+9. COURSE
+North
+
+10. BRIEF SUMMARY OF SIGHTING
+One object ball, size of 1/2 dollar, color white, flared out and dimmed. Object brighter than a star moving slowly north.
+
+11. COMMENTS
+Winds to E and SE. Insufficient data for analysis. Possible error in direction (in which case could be balloon).
+
+12. CONCLUSIONS
+□ Was Balloon
+■ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+■ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 

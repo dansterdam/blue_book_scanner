@@ -1,149 +1,150 @@
-The image provided is a scanned page from a report document, which appears to be a form. There are no photographs present on this page; it is a text document with several fields filled out in typewritten text.
-
-Here is the transcribed text from the image:
-
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE                          2. LOCATION                       12. CONCLUSIONS
-    17 August 1958              Essex, Maryland                      □ Balloon
-                                                                     □ Possible Balloon
-3. DATE-TIME GROUP                TYPE OF OBSERVATION                □ Possibly Balloon
-Local      0400                □ Ground-Visual                       □ Aircraft
-GM/T 17/S.0400Z-              □ Ground-Rader                        □ Possibly Aircraft
-                                                                      □ Probably Aircraft
-                                                                    □ Astronomical
-5. PHOTOS                      6. SOURCE                            □ Probably Astronomical
- □ Yes                         Civilian                               □ Other
- □ No                                                                      □ Possibly Astronomical
-                                                                    □ Insufficient Data for Evaluation
-7. LENGTH OF OBSERVATION      8. NUMBER OF OBJECTS                  □ Unknown
- not given                    one
-9. COURSE
-                               Rising
-10. BRIEF SUMMARY OF SIGHTING                              11. COMMENTS
- Circular obj, no sound or exhaust,                      Insufficient info. Additional
- blur apparently powered. Obj self-                      data requested. Hovering &
- illuminated & cast a reflection on                      vertical sight indicators possible
- the water. Obj hovered, then rose ver-                 balloon rise in air. Duration not
- tically out of view.                                   rptd & wind info missing.
+1. DATE
+17 August 1958
 
-ATC FORM 329 (REV 16 SEP 52)
-```
+2. LOCATION
+Essex, Maryland
+
+3. DATE-TIME GROUP
+Local 0400
+GMT 18/0400Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+Air-Visual
+
+5. PHOTOS
+No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+not given
+
+8. NUMBER OF OBJECTS
+ONE
+
+9. COURSE
+Rising
+
+10. BRIEF SUMMARY OF SIGHTING
+Circular obj, no sound or exhaust, but apparently powered. Obj partially illuminated & cast a reflection on the water. Obj hovered, then rose vertically out of view.
+
+11. COMMENTS
+Insufficient info. Additional data requested. Hovering & vertical rise indicates possible balloon sighting. Duration not rptd & wind info missing.
+
+12. CONCLUSIONS
+Was Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other:
+Insufficient Data for Evaluation
+
 
 - page 1 -
 
-This document does not contain a photograph. Here is the text from the document:
+Here is the text from the document:
 
-```
-RAI's
-CZCSCC27CZUYE82H
+Multi 21 Aug 59 G7 (?)
 
-PP RJESDE
-DE RUETGH 98
-P 28/15W2
-
-FM AFDEVDLREDE AERRDZENF3 MD
-TO COMDAITC WPAFB OHIO
-
-DA GRVC
+RA1-9
+CZGSGC27ZCUYEZ2L
+FP RJEDS
+DE RUETGH 96
+P 2016OZ
+FM AFDVFLDREP ABERDEEN3 MD
+TO COMBATIC WFAFE OHIO
+DA GRNC
 BT
 
-FOR AFCIN-4E4A ATIC FRUM: ORFPS-ARC TO TT11715 SSG :CCD.OUGH
-
-SUBJECT IS UFO THIS OFFICE RECEIVED INFO VIA FONCOK ON 18 AUG
-58 WITH A MIRS. ESSEX 21 MD TELEPHONE
+FOR AFCIN-44 ATIC PREM-ORD-3-AND LO TT11715 SE MCDOOUGH
+SUBJECT IS UFO THIS OFFICE RECEIVED INFO VIA FORECON ON 18 AUG
+58 WITH A MRS. ESSEX 21 MD (TELEPHONE)
 THAT ON 2 OCCASIONS A UFO WAS OBSERVED BY HER DAUGHTER AND
-OTHERS IN THE VICINITY OF THE MARTIN PLANT NEAR THE MIDDLE RIVER. LAST
-OBSERVATION WAS 2040'S LOCAL TIME 16 AUG OBJECT WAS REPORTEDLY CIRCULAR
+OTHERS IN THE VICINITY OF THE MARTIN PLAIT NEAR THE MIDDLE RIVER. LATEST
+OBSERVATION WAS 2440 LOCAL TIME 18 AUG OBJECT WAS REPORTEDLY CIRCULAR
 IN SHAPE EMITTED NO NOISE OR EXHAUST BUT WAS APPARENTLY POWERED.
-OBJECT REPORTED TO EE SELF-ILLUMINATED AND CAST A REFLECTION IN THE
-WATER. OBJECT REPORTED HOVERIFG AND WHEN LAST SIGHTED APPARENTLY
-ROSE VERTICALLY OUT OF VIEW WEATHER: CONDITION: ANGLE AZIMUTH AND
+OBJECT REPORTED TO BE SELF-ILLUMINATED AND CAST A REFLECTION IN THE
+WATER. OBJECT REPORTED HOVERING AND WHEN LAST SIGHTED APPARENTLY
+ROSE VERTICALLY OUT OF VIEW WEATHER CONDITION ANGLE AZIMUTH AND
 ALTITUDE UNKNOWN. SUGGEST CONTACT WITH MISS AT
 ABOVE ADDRESS
+BT
+CFN TT11715 18 58 58 21 67128 2 0420 18
+20/1915Z
 
-ET
-CFN TT11715 18 SE 58 53 21 671228 2 0443 18
-
-20/19152
-```
 
 - page 2 -
 
-The image does not contain any photographs; it displays a page from a document. Below is the text extracted from the document:
+Here is the text from the document:
 
-```
-JOINT MESSAGE FORM
--------------------------------------
-SECURITY CLASSIFICATION
-UNCLASSIFIED
+JOINT MESSAGEFORM
 
-SPACE BELOW RESERVED FOR COMMUNICATION CENTER
+2 7 NOV 15 53::
 
-271049 1533Z
--------------------------------------
-PRECDENCE
+1448
 
-ACTION
-RTTUZYUW RUEKJCS0001
-                     XXXXXXXX
-TYPE MSG (Code)
-XXX
+ACTION: INFO
+FROM: ROUTE
 
-ACCOUNTING SYMBOL
-        X
+TYPE MSG (Chkd) X
+CODE: WUON
 
-ORIG. OR REFERS TO ORIG. MSG
-               IC TT ??????
+ACCOUNTING
+SYMBOL:
+23
 
-CLASSIFICATION OF MESSAGE
-UNCL
-               ---------------
-FROM:  
+ORIG OR REFS TO
+OSDFC-4DO
+LC TT1171-
 
-TO: CCGR, 1CCGWB ASS., WASH NB., COLORADO SPRINGS, COLORADO COL 5?54
+CLASSIFICATION
+OF MESSAGE:
 
+SPECIAL INSTRUCTIONS:
 
-THE COI COMDR, DT 10, 1600CB ASS, ARMS-23-APN, RY FL??X?????MD 48VX 
+TO: COMDR, WTIO
+COMSN 1066TH AISS, MCA AFB, COLORADO SPRINGS, COLORADO 57502
 
-FULLEST EXTENT:
-8-?/96 2-67
-"TW O INDML. IN VICINITY MARTIN FLMT" BLTGE MD AREA, FILE
-ORDG-ARDC LO RPT115, DTD 20 AUG 195?., COPY ONLY TY ATTC. REQUEST
-THRU-CHANNEL INVESTIGATION TO OBTNN FURTHER DATA ON INCIDENT. REQUESTING
-OFFICE: SUGGESTE CONNONICNI. WJS
-IN BRIEF:  AT 0400, LOCAL TIME,
-ON 18 AUG 58, A CIRCULAR OBJECT WAS OBSERVED: HOVERING, EMITTING NO
+INFO: COMDR, DT 10, 1066TH AISS, MORRIS AFB, RYVILLE MD
+
+UNCL ASSIFIED/DTRC: ACIN-424 8-196 20-6
+
+REF NTO INCIDENT IN VICINITY MARTIN PLANT IN BALTIMORE AREA, CWE
+OSDFC-ARLO LO TT1171, DTD 20 AUG 1958, ONLY WIRE MTTO. RESUCT
+PRELIMINARY INVESTIGATION TO OBTAIN MORE DATA ON INCIDENT. RELATING
+OFFICE: SUGGESTL CONTACT MISS [REDACTED] IN BRIEF: AT 0400, LOCAL TIME,
+
+ON 18 AUG 58, A CIRCULAR OBJECT WAS OBSERVED HOVERING, EMITTING NO
 NOISE OR EXHAUST, REPORTED TO BE SELF-ILLUMINATED AND CASTING A
-                                      Checked & oot x
-REFLECTION ON THE WATER. THEN ROSE VERTICALLY OUT OF VIEW.
-                                      Not urgent
-OCCURRENCE: SMJTHCOV
-ACTION-MAY
-  1st Lt Mary C. Markovich
-  Date 22 Day 57
-   MK Markopich CO
-ACTION-14E
-  Col Gilbert
-  Date AUG 26' 58
-  23 Oct 5-58
-ACTION-M21
-         (4)
+REFLECTION ON THE WATER, THEN ROSE VERTICALLY OUT OF VIEW.
 
-DATE
-22
-                                           TIME
-0700C
-MONTH 
-     AUG
-                                   YEAR
-                                    1958
+COORDINATION:
+AFOIN-424 Wm. Miley Date 22 Aug 58
+AFOIN-4E Dr. Wilber Date AUG 22 1958
+AFOIN-4E Col Gilbert
+4/11 Date
 
-DD FORM 173
-MAY 55
-REPLACES DD FORM 172, 1 OCT 49, WHICH WILL BE USED UNTIL EXHAUSTED
-```
+SYMBOL: AFOIN-424
+TYPED NAME AND TITLE: James A. Goff, Capt, USAF
+PHONE: 6-9216
+SECURITY CLASSIFICATION: UNCL ASSIFIED
+
+DD FORM 173 REPLACES DD FORM 178, 1 OCT 48, WHICH WILL BE USED UNTIL EXHAUSTED
+
+PAGE 1 OF 1
+
+TYPED (or rubber) NAME AND TITLE: MARY C. MARKEVICH
+1st Lt, USAF
+Assistant Administrative Officer
+
 
 - page 3 -
 

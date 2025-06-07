@@ -1,192 +1,171 @@
-There is no photograph present on this page.
-
-Here is the text extracted from the document:
-
-```
 PROJECT 10073 RECORD CARD
 
 1. DATE
-3 November 1957     
+3 November 1957
 
 2. LOCATION
 Belmar, New Jersey
 
 3. DATE-TIME GROUP
 Local
-GMT  03/2000Z
+GMT 03/2000Z
 
 4. TYPE OF OBSERVATION
-Ground-Visual    Ground-Radar   
-Air-Visual       Air-Intercept Radar   
+☐ Ground-Radar
+☐ Air-Visual
+☐ Source
 
 5. PHOTOS
-Yes
-No
+☐ Yes
+☒ No
 
-6. SOURCE
-Civilian
-
-7. LENGTH OF OBSERVATION
+6. LENGTH OF OBSERVATION
 not given
 
-8. NUMBER OF OBJECTS
+7. CIVILIAN
+a. NUMBER OF OBJECTS
 one
 
-9. COURSE
+8. COURSE
 N to S
 
-10. BRIEF SUMMARY OF SIGHTING
+9. BRIEF SUMMARY OF SIGHTING
 Oval object traveling North to South.
 
 11. COMMENTS
 Insufficient information for evaluation.
 
 12. CONCLUSIONS
-Was Balloon
-Probably Balloon
-Possibly Balloon
-Was Aircraft
-Probably Aircraft
-Possibly Aircraft
-Was Astronomical
-Probably Astronomical
-Possibly Astronomical
-Other
-Insufficient Data for Evaluation
-Unknown
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possible Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☒ Insufficient Data for Evaluation
+☐ Unknown
 
 ATIC FORM 329 (REV 26 SEP 52)
-```
+
 
 - page 1 -
 
-There are no photographs present on this page.
+Here is the text from the document:
 
-Here is the OCR text generated from the document:
+Witness
 
-```
-05/20027
-
-BELMAR
-
-Nov  5 00 39’57
+Nov 5 00 39'57
 
 INSUFF INFO
-                                    11
 
-     13       4E4
-     13       4X2O
-              RED
-
-O WPCO95 YD8991 TYE981 TMB873NYA953
+0 WPG095 YDB094 TYE981 TMB073NYA953
 MM RJEPNB RJEDDN RJEPHQ RJEDWP
 DE RJEPNY 63
-M 942045Z
+M 04204SZ
+
 FM 26TH-ADIV
 TO RJEDDN/CMDR ADC
 RJEDWP/CMDR ATIC
 RJEPHQ/DIR INTEL HQ WASH 25
 INFO RJEPNB/CMDR EADF
-BT
+ET
 /UNCLASSIFIED/CITE NBR 11786 SUBJ: UFOB
-(T) DESCRIPTION;
-(A) CVAL
-(B) UNKN                         sig?
-(C) UNK                        Color?
+
+(1) DESCRIPTION:
+(A) QUAL
+(B) UNKN
+(C) UNK - Color ?
 (D) ONE
-(E)      N/A
+(E) N/A
 (F) UNK
 (G) NONE
 (H) UNK
-```
+
 
 - page 2 -
 
-There is no photograph present on this page of the document.
-
-Below is the extracted text as per your request:
-
----
-
-PAGE TWO RJEPHY 63
+PAGE TWO RJEPNY 63
 
 (1) NONE
 
 (2) DESCRIPTION OF COURSE
 (A) UNK
-(b) UNK reelevations 
-                       azimuths 
-(c) UNK 
-(d) NORTH TO SOUTH 
-(e) UNK — How did it disappear? 
-(f) UNK — How Long was IT in sight?
- 
-(3) MANNER OF OBSERVATION:
+(B) UNK ELEVATIONS
+(C) UNK AZIMUTH
+(D) NORTH TO SOUTH
+(E) UNK - HOW DID IT DISAPPEAR?
+(F) UNK - HOW LONG WAS IT IN SIGHT?
+
+(3) MANNER OF OBSERVATIONS
 (A) GROUND VISUAL
-(b) NONE
-(c) N/A
+(B) NONE
+(C) N/A
 
 (4) TIME & DATE OF FIGHTING
-(A) BETWEEN 20002 Z ∧ 2030 Z 3 NOV 57  2000-5=1500 local 
-      DAY
+(A) BETWEEN 2000Z & 2030Z 3 NOV 57 2000-5= 1500 LOCAL
+DAY
 
-(5) BELMAR N. JERSEY 
+(5) BELMAR, N. JERSEY
 
 (6) IDENTIFYING INFO OF ALL OBSERVERS
-(A) MR. [Redacted]
+(A) MR.
 GS 9 METEOROLOGICAL TESTING BRANCH
+
 
 - page 3 -
 
-There is no photograph present on this page.
-
-OCR Text Output:
-
-```
 PAGE THREE RJEPNY 63
-    OF ENANS SIGNAL LAB.
-    FORT MONMOUTH NJ
+OF ENANS SIGNAL LAB.
+FORT MONMOUTH NJ
 
-    (7) WEATHER 
-    (A) UNK       A Meteorological expert can't give
- account of weather--AMAZING.
+(7) WEATHER
+(A) UNK A METEOROLOGICAL REPORT CANNOT GIVE
+ACCIDENT OF WEATHER - AMAZING
+
 (B) SURFACE 300 DEG 10 KT
-     6,000 320 DEG 18 KT
-    10,000 315 DEG 17 KT
-    15,000 280 DEG 15 KT
-    30,000 280 DEG 21 KT
-    39,000 260 DEG 30 KT
-    53,000 260 DEG 27 KT
-    89,000 X DEG X KT
+6,000 320 DEG 18 KT
+10,000 310 DEG 17 KT
+16,000 230 DEG 15 KT
+20,000 230 DEG 21 KT
+30,000 260 DEG 30 KT
+50,000 260 DEG 27 KT
+80,000 X DEG X KT
 
-(C) 30,000 
+(C) 30,000
 (D) 15 NM
+(E) NONE
 (F) NONE
-(S) NONE
-(Q) NONE
-(U) UNK
+(G) NONE
+(H) NONE
+(10) UNK
 (11) INTELLIGENCE STAFF OFFICER AIR DIV
-REPORT OVERLAYED TO THIS HQ. BY
+REPORT OVERLAYED TO THIS HQ, BY
 MAJOR ROSEN G2 15TH ARMY HQ
 (INFO INCOMPLETE) POSSIBLE
 BALLOON.
 
 (12) NONE
 BT
+041/2051Z NOV RJEPNY
 
-04/2051Z NOV RJEPNY
+Handwritten note on the side:
+ATIC comment:
+This is surprising that
+some in the meteorological
+branch cannot give specific
+elevation cannot give associated
+height. We are now the
+first ones who can definitely
+say something concerning it.
+N to S.
 
-ATIC Comment:
-This is surprising that a man in the Meteorological
-Branch cannot give size, color,
-elevation, approx. how object 
-disappeared, length of time or 
-sight. He saw the
-object twice, apparently, but could give no information
-concerning it other than the fact he saw it going N to S.
-          
-                               INSUFF INFO
-```
+Bottom of page:
+INSUFF INFO
+
 
 - page 4 -
 

@@ -1,34 +1,75 @@
-The image does not contain any photograph. It appears to be a page from a Project Blue Book record card, which is a form used to document UFO sightings.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 29 Jul 59
-2. LOCATION: Elmont, New York
-3. DATE-TIME GROUP: 2030/0127Z
-4. TYPE OF OBSERVATION: Ground-Radar
-5. PHOTOS: 0 Yes
-6. LENGTH OF OBSERVATION: 30 MINS.
-7. BRIEF SUMMARY OF SIGHTING: What old which looked like moving stars, slower than a plane.
-8. CONCLUSIONS: Insufficient Data
+
+1. DATE
+29 Jul 58
+
+2. LOCATION
+Elmont, New York
+
+3. DATE-TIME GROUP
+Local
+OUT. 30/0157
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+None
+
+6. LENGTH OF OBSERVATION
+7 mins
+
+10. BRIEF SUMMARY OF SIGHTING
+White obj which looked like moving star, slower than a plane.
+
+11. COMMENTS
+Insufficient Data.
+
+12. CONCLUSIONS
+Was Balloon
+Possibly Balloon
+Was Aircraft
+Possibly Aircraft
+Was Astronomical
+Possibly Astronomical
+Other: Insufficient Data for Evaluation
+Unknown
+
+7. NUMBER OF OBJECTS
+one
+
+8. COURSE
+SW to NE
+
+9. SOURCE
+Civilian
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a page from a Project Blue Book UFO report document.
+Here is the text from the document:
 
-ZCZCSPB27 SDB030 YDB768CZCTYCS92 TMBOSSNHA41
-PP RJBMH RJDSA RJEPQA RJEPMB
-DE RJEPFH 22
-P 301602Z
-S FM HQ 25TH ADIV
+Witness 30/01252 Jul 53
+
+ZCZSQP027 SQD030 YDB7602CZCTYCSS2 TMB059NHA041
+
+PP RJEDDN RJEDSO RJEPHQ RJEPNB
+DE RJEPNH 32
+P 3014002
+
+8 FM HQ 25TH ADIV
 TO RJEDDN/COMDR ADC
-RJDXSA/COMDR ATIC
-RJEPQA/AC OF S INTBL
-RJEPIQ/DPC OF INFO SEVCS
-INFO RJEPNB/COMDR NFBNR
-RJDMN/COMDR 100BTH AISS
+RJEDSQ/COMDR ATIC
+RJEPHQ/AC OF S INTEL
+RJEPHQ/OFC OF INFO SEVCS
+INFO RJEPNB/COMDR NFENR
+RJEDDN/COMDR 1006TH AISS
+
 BT
-/UNCIAS/FROM OIN 5713. SUBJECT: UFO
-A. DESCRIPTIONS
-1. UNKNOWN 
+/UNCLAS/FROM OIN 5713. SUBJECT: UFO
+
+A. DESCRIPTION:
+1. UNKNOWN
 2. UNKNOWN
 3. WHITE
 4. ONE
@@ -36,56 +77,73 @@ A. DESCRIPTIONS
 6. NONE
 7. NONE
 
+There are also some handwritten notes on the side of the document that appear to say "Rather I-han a white something was some" with an arrow.
+
+
 - page 2 -
 
-The image does not contain a photograph, it appears to be a typed page from a Project Blue Book UFO report document. The page details a report of a sighting, including information about the time, location, and observations made.
+PAGE TWO RJEPNI 32
 
-LOOKED LIKE MOVING STAR MOVING SLOWER THAN PLANE
-PAGE TWO RJEPNK 32
 B. DESCRIPTION OF COURSE:
 1. JUST LOOKING AT SKY
 2. OVERHEAD (FROM SW)
 3. NE
-4. LINK
+4. UNK
 5. INTO SPACE
 6. 7 MINUTES
-C. MANNER OF OBSERVATIONS:
+
+C. MANNER OF OBSERVATION:
 1. GROUND VISUAL
 2. NONE
 3. N/A
+
 D. TIME AND DATE OF SIGHTINGS:
-1. 9/25-5-2325 6:00pm
+1. 30/0125Z
 2. NIGHT
+
 E. ELMONT, N.Y. WALKING ALONG SIDEWALK.
+
 F. IDENTIFYING INFO OF ALL OBSERVERS:
-1. MRS. MILTON AVE. 
-2. ELMONT, LOWELL THOMAS PROGRMA.
+1. MR. [REDACTED], MILTON, [REDACTED] AVE.
+   ELMONT, [REDACTED] LOWELL, THOMAS PROGRMA.
+
 G. WEATHER:
+
+(Handwritten notes on the side include "See below" and "Note This!" with some calculations: "0125-5=2025 hrs" and "1.0. 0925 local")
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+PAGE THREE RJEPNH 32
 
-As an OCR (Optical Character Recognition) system, I have produced the following text found in the document:
+1. IDL 0100Z CLEAR 16 81/65 WEST 7
+2. SURFACE 270 DEG 7 KT 20,000' 280 DEG 45 KT
+   6,000' 328 DEG 20 KT 36,000' 280 DEG 66 KT
+   10,000 280 DEG 16 KT 50,000' 276 DEG 45 KT
+   16,000 280 DEG 36 KT 50,000'
 
-PAGE THREE RJEPNH 38
-1. IDL 9182 OVAR 15 S1/65 VEST 7
-2. SURFACE 270 DEC 7 KT 29,000( 260 DEC 45 KT
-6,000' (32) DEC 39 KT 39,000' 258 DEC 45 KT
-16,000' 259 DEC 38 KT 50,000'
-3. EXCELLENT
-4. NONE
+3.
+4. EXCELLENT
 5. NONE
 6. NONE
-7. NONE
-8. NONE
-9. NONE
-BT
-30/18452 JUL RJEPNH
+H. NONE
+I. NONE
+J. NONE
+L. NONE
 
-Comment: It's a somewhat singular that someone who claims to have seen a star-like object at first assumed it to be a satellite since the sighting was to the east rather than to the west, which would be more common for satellite sightings. The weather was clear and the object seemed to be at a relatively low altitude when first noticed, so it would not appear to have the characteristics of a satellite. It moved off rapidly in a west-northwest direction and disappeared from view, suggesting some type of powered aircraft rather than a satellite. A small craft of some kind does not seem an unreasonable inference from the details provided, though perhaps further investigation would be warranted to determine the exact nature of the sighting.
+BT
+30/1845Z JUL RJEPNH
+
+Comment: a. It's somewhat surprising that someone who claims to have observed a dim moving object at for almost 10 minutes - can not give even a general statement as to the object's size, shape, other picture, details, appearance, etc., particularly a source of well-known reporting program.
+
+b. Nothing here except a little something was drawn/moving some 10 miles, 6 the incident. Witness could not describe.
+
+c. Surprising that although the UFO passed over a small city like Elmont, no one else reported it.
+
+d. After reviewing this writing for this area...
 
 NNNN
+
 
 - page 4 -
 

@@ -1,44 +1,100 @@
-The image appears to contain a Project 10073 Record Card from the US Air Force's Project Blue Book, which was a program that investigated unidentified flying objects (UFOs). The card contains various fields to document details about a UFO sighting, such as the date, location, type of observation, and a brief summary of the sighting.
-
-The text produced by the OCR system is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE 13 October 1956
-2. LOCATION Colfax, Iowa 
-3. DATE-TIME GROUP 2315/13 Oct 1956
-4. TYPE OF OBSERVATION Radar
-5. DURATION 0-1 minutes
-6. NUMBER OF OBJECTS 1
-7. LENGTH OF OBSERVATION 0-1 minutes
-10. BRIEF SUMMARY OF SIGHTING The object with round shape and white, flashing red, green and white lights. Object moving slowly and white light.
-11. COMMENTS Probably is Balloon.
+
+1. DATE
+15 October 1956
+
+2. LOCATION
+Colfax, Iowa
+
+3. DATE-TIME GROUP
+Local 13/0459Z
+GMT
+
+4. TYPE OF OBSERVATION
+□ Ground-Visual
+□ Air Visual
+□ Source
+
+5. PHOTOS
+□ Yes
+■ No
+
+6. LENGTH OF OBSERVATION
+unknown
+
+7. CIVILIAN
+8. NUMBER OF OBJECTS
+one
+
+10. BRIEF SUMMARY OF SIGHTING
+One object with round shape and the
+size of a pea, was flashing red, green
+and white lights. Object moving slowly
+west.
+
+9. COURSE
+west
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Possibly Balloon
+□ Probably Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+■ Insufficient Data for Evaluation
+□ Unknown
+
+11. COMMENTS
+Probable a/c.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There does not appear to be any photograph or image present in this document. This appears to be a scanned page from a Project Blue Book report.
+Here is the text from the document:
 
-TEXT FROM THE DOCUMENT:
+10/10392
 
-17 OCT 56 0053
-GROUP HISS UFO39S UNIDNI YYBEXKAPRG2SKFQBGCFGK EMS
-RR RJEDEN WJODP NJAPC
-DE RJEDEN 4644
-4 IS17S5Z
-FM CODR 736TH ACRON HQVER
+[Witness]
+
+17 OCT 56 08 53
+
+JEDMP HBSG WPGBG YWBGG1 YYBZ43KFAG23KFGZ8GFGX 885
+RR RJEDEN RJEDWP RJEPHQ
+DE RJEDFKF 4&&4
+4 1617552
+
+FW CONDB 756TH ACURON WAVER
 IOWA
-TO RJEDEN/CODR ENT APB COLORADO SPRINGS COLO
-RJEDEN/CODR 25TH ADVON DET GRANDVIEW AFB MO
-RJEDEN/CODR AIR TECH INTELL CENTER WRIGHT PATTERSON OHIO
-RJEDEN/DIRECTOR INTELL HQ USAF WASH DC
-UNCLASSIFIED/ 756-15-J-044/AW AFR 205-2 CLF UFOB
-1. A. ROUND D. PEA C. RED GRN WHITE D. IS B. LIN
-FLASHING LIGHTS H. L.H.I. UNK 2. A. WORKING CGROUND
-OBSERVER) B. UNK C. UNK D. WEST SLOWLY E. UNK F. UNK 3. GROUND
-VISUAL B. BINOCULARS 7 X 50 C. N/A 4. A. 24532 16/12/55 B. NIGHT
-5. A. MM 4444 G. COLFAX CIA IOWA D. N/A
-7. A. CLEAR E. 5353-235 DEG - 7 KNOTS 10-95-27Z DEC - 12 KNOTS G.
-8. NONE 9. A. NONE 10. A. NONE 11. A. NONE 12. A. NONE
-16/21452Z OCT RJEBKF
+
+TO RJEDEN/COMDR ENT AFB COLORADO SPRINGS COLO
+RJEDWP/COMDR 28TH ADIV DEF GRANDVIEW AFB MO
+RJEDWP/COMDR AIR TECH INTELL CENTER WRIGHT PATTERSON OHIO
+RJEPHQ/DIRECTOR INTELL HQ USAF WASH DC
+
+BT
+U N C L A S S I F I E D/ 756-16-J-84/IAW AFR 205-2 CLN USFOB
+
+1. A. ROUND B. PEA C. RED CMN GREEN CMN WHITE D. 13 E. UNK
+F. FLASHING LIGHTS H. LTK I. UNK 2. A. WORKING (GROUND
+OBSERVED) B. UNK C. UNK D. WEST SLOWLY E. UNK F. UNK 3. GROUND
+
+VISUAL B. BINOCULARS 7 X 50 C. N/A 4. A. 04592 16/10/56 B. NIGHT
+
+5. A. NH 4441 6. [REDACTED] CMN COLFAX CMN IOWA B. N/A
+7. A. CLEAR B. 5000-239 DEG - 7 KNOTS 16°23'-277° DEG - 12 KNOTS C.
+N/A D. NONE E. NONE F. NONE G. A. NONE 9. A. NONE 10. A. NONE 11.
+A. NONE 12. A. NONE
+
+BT
+AG/21452 OCT RJEDEN
+
 
 - page 2 -
 

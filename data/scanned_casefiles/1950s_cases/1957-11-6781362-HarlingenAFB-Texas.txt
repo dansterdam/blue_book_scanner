@@ -1,172 +1,266 @@
-The image does not contain any photographs. It appears to be a Project Blue Book record card from Harlingen AFB, Texas, dated November 7, 1957. The text in the document is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE 	2. LOCATION
-7 November 1957		Harlingen AFB, Texas
-3. DATE-TIME GROUP 	4. TYPE OF OBSERVATION
-0737/1533Z	Ground-Visual
+
+1. DATE
+7 November 1957
+
+2. LOCATION
+Harlingen AFB, Texas
+
+3. DATE-TIME GROUP
+Local     GMT 07/15387
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual   ☒ Ground-Radar
+☐ Air-Visual      ☐ Air-Intercept Radar
+
 5. PHOTOS
-0 Yes
-6. LENGTH OF OBSERVATION
+☐ Yes
+☒ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
 2 to 3 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+E to N
+then N
+
 10. BRIEF SUMMARY OF SIGHTING
-Paint radar target similar to T-33. Target appeared to 5 miles E for NE, about 13 mi and disappeared. It reappeared 10 mi SW going E for 5 mi, then W and disappeared at 15 mi. Speed of target was an estimated 1900 mph.
+Faint radar target similar to T-29 a/c. Target appeared 10 mi NE going W to about 14 mi and disappeared 14 mi NW. Reappeared 10 mi SW going E for 10 mi then turned N for 10 mi then turned W and disappeared at 15 mi. Speed of target est An excess of 1900 mph.
+
+11. COMMENTS
+Obj not substantiated by any other evidence and was a faint target which appeared while the operator was working an a/c in traffic pattern. There is a possibility of radar malfunction.
+
 12. CONCLUSIONS
-Was Balloon - 
-Possibly Balloon
-Was Aircraft - 
-Possibly Aircraft
-Was Astronomical - 
-Possibly Astronomical
-Other Malfunction -
-Electronic Device or Unknown
+☐ Was Balloon
+☐ Probably Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other: Malfunction
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a page from a Project Blue Book report, discussing the analysis and comments on 11 UFO reports.
+7/15382
 
-SUBJECT: Request - Analysis and Comments, Electronic UFO Reports 
-TO: AFCIN-4E4
-FROM: AFCIN-4E31
-DATE: 3 Feb 59
+Much
 
-1. Reference is made to your request for review and analysis of eleven (11) UFO reports.
+SUBJECT: Request - Analysis and Comments, Electronic UFO Reports
 
-2. Comments follow in order of enclosure numbers.
-a. Enclosure #1: This UFO was not substantiated by any other evidence and was a faint target which appeared while the operator was working an aircraft and was a traffic pattern. Assistant Training Officer indicated a possibility of a traffic pattern. This office concurs that a radar malfunction was possible.
+TO: AFCIN-4e4                                                 DATE: 3 Feb 59                COMMENT NR: 2
+                                                               FROM: AFCIN-4e1a/w. Pickheimer/jc
+                                                               74201/Bldg 828/Rm 241
+
+1.    Reference is made to your request for review and analysis of eleven (11) UFO reports.
+
+2.    Comments follow in order of inclosure numbers.
+
+    a.  Inclosure #1: This UFO was not substantiated by any other evidence and was a faint target which appeared while the operator was working an aircraft in a traffic pattern. Assistant Wing Operations Officer indicated a possibility of a radar malfunction. This office concurs that a radar malfunction was possible.
+
 
 - page 2 -
 
-The image does not contain any photograph. It appears to be a typed document or report, possibly part of Project Blue Book, which was a United States Air Force program to investigate unidentified flying objects (UFOs).
+Here is the text from the document:
 
-Here is the text found in the document:
+Signed:
 
-TYPE TWO FLYING 25
-AT 2240 CST 22 NOV 57 OBJ FAILED TO FALLC FROM SCOPE (?) TO 2 MINUTES (?) 6 MILES (?) NO TIME (C) ARC (4) CAN NEVER (?) 7 NOV 57 (3) DAY (?) 20
-AGREE: 1-7 DEGREES AZIMUTH (3) (6) ALTITUDE: APPROXIMATELY 10,000 FT ABOVE GROUND LEVEL AIRCRAFT, LANDING CONTROL OPERATOR, REASONABLY
-RELIABLE. LOCATION AND DESCRIPTION OF MILITARY AACS DETACHMENT RADAR REPAIRMAN
-REASONABLY IT'LL UP (?) FOR SURFACE-5 SCS-300 CI-166/MK3
-TRACK ORIGIN 1944/4/5/264/2 07-25//24/CK. (C) SCATTERED CALM
-BROKEN ONLY (?) 6 MILES (?) 7:12 (?) NO TCN OR TSW ACTIVITY IN
+FIVE TWO POINTS 25
+IN EXCESS OF 200 MPH (A) FALSE FROM SCOPE (F) 2 TO 3 MINUTES (3)(A)
+MPH 1-C (2) NONE (C) N/A (4)(A) 15302 7 NOV 57 (3) DAY (5) 26
+DEGREES IN---57 DEGREES 50W (5)(A) N/A (8)
+AACS DETACHMENT AIRCRAFT LANDING CONTROL OPERATOR, REASONABLY
+RELIABLE.
+REASONABLY RELIABLE (7)(A) (4) (8) SURFACE---290- 360; 31-180/40K;
+12M-230/25K; 15M-240/30K; 21M-252/40K; 30M-250/44K. (C) SCATTERED-2M;
+BROKEN 10M. (D) 6 MILES E1 -- (E) 7442 (F) NO FM OF TGM ACTIVITY IN
 VICINITY:
-SOME TSK 125 NM NORTH (C) NEGATIVE (C) N/A (C) NEGATIVE; ONLY AIRCRAFT
-IN AREA UNSUBSTANTIATED UNCONTROLLED AT TIME OF INCIDENT (C) ASSISTANT WING OPT
-OPERATIONS OFFICER: POSSIBILITY EXISTS UNIDENTIFIED TARGET WAS ME TO STEAL
-DISCUSSIONS UNEERTAINTY PATTERN DIFFICULT TO COVER: UNABLE TO TAKE
-CONCLUSIVE SOLUTION BASED UPON FLIGHT CHARACTERISTICS EXISTING.
-USE OF A UPSF'UNOT CONFIRMED US TO 10 OTHER SUBSTANTIATION (C) NONE
+SOME TGM 150 NM NORTH (G) NEGATIVE (G) N/A (12) NEGATIVE; ONLY AIRCRAFT
+IN AREA OSSSSSSSSSSS OBSERVED AT TIME OF INCIDENT (H) ASSISTANT WING OPER
+OPERATIONS OFFICER: POSSIBILITY EXISTS UNKNOWN TARGET WAS DUE TO RADAR
+MALFUNCTION. HOWEVER REPORT PATTERN OF FLIGHT UNEXPLAINABLE. EXIST-
+NCE OF A UFOB NOT CONFIRMED DUE TO NO OTHER SUBSTANTIATION (12) NONE
 
-LINE 3 THRU 7 SLIM LEAF " WAS ON SCOPE AT TIME
-LINE 2 "20-" CP IS SAME AS : ON LINE 12
-END: NOW 1 COPIES
+C LINE 11 GP 3 THRU 7 CLOUD HEAD IN WAS ON SCOPE AT TIME
+
+C LINE 1 THRU GP IS SAME AS 1 ON LINE 10
+
+Incl # 1
+
 
 - page 3 -
 
-There is no photograph present in this scanned document. 
+Here is the text from the document:
 
-The OCR output of the text in the document is as follows:
+[HEADER ROUTING INFORMATION - PARTIALLY LEGIBLE]
+NOV 80 30 AT 43 570 7
+HQ COMD HARLINGEN AFB
+TO RJEDEN/COMET AEC 2XT AFB
+RJEDDX/COMET CADF RICHARDS-GEBAUR AFB
+JEMP/COMET AIR TECH INTELLIGENCE CENTER WPAFB
+JCPHO DIRECTOR INTELLIGENCE HQ USAF
 
-UPASL 93704 UYCCC HEASQUAQTEBR3?
-E PC-BEN P-DIRECTORS OFFICE* JEUPT
-TO RJDEN t COHR ACC ATT AFB
-JEDUP COMH GAPE RICHARDS-GESAUR AFB
-JEUPT COMMb AIR TECH INTELLIGENCE CENTER WPAVFB
-JEUPT DIRECTOR INTELLIGIVE HQ USAF
+UNCLAS FROM 0.151.
 
-UPCLAS FBOM 001314
-UFOR REPORT AS FOLLOWS: (1) m) UNDERSTRINED* (2) TARGET SIMILAR TO A
-I-29 AIRCRAFT AT 4*000 FEET* (3) UNDERBTIRNED* (4) ONE PAINT FAINT TARGET*
-(5) MM (6) FOUR (7) NINE (8) TWO HOURS (9)
-SUBJECT: INCIDENT OCCI'HRED 17-2 AGST 1957. TRAFFIC PATTERN (3) ALTERED laa BEFORE
-(4) TARGET APPEARED TOO ILLU NORTHFAST ABOUT 3O-4C HUES 5OUTH" ?r :
-TARGET DISAPPEARED 14 MILES SOD-HEST. AIRCRAFT RETURNED AGAIN FROM SOUTHEAST-
-WEST GOING EAST FOR I I* HILI7S THEN TURNED NORTH FOR TILL'S TIME. AIRBCBHE
-RADAR LOST AND DISAPPEARED AT 35 HILLS. OBJECT WAS REPORTED AT SPEED
+UFOB REPORT AS FOLLOWS: (A) UNDETWMINED. (B) TARGET SIMILAR TO A
+F-29 AIRCRAFT AT 4,000 FT (C) UNDETERMINED (D) ONE POINT RADAR TARGET
+(E) (F) NONE (G) NONE (H) NONE (I) NONE (J) NONE (K) WITHOUT TARGET
+PREPARED ON RADAR SCOPE WHILE OPMT WAS WORKING T-6 ACFT NOR 34476
+IN TRAFFIC PATTERN (L) ALTITUDE NOT DEFINED (M) NATURE OF DEGREES
+(N) TARGET APPEARED TEN MILES NORTHEAST GOING LEFT TO ABOUT 3 MILES
+AND DISAPPEARED 4 MILES NORTHWEST. (TARGET APPEARED 24 MILES SOUTH-
+WEST GOING EAST FOR 10 MILES THEN TURNED NORTH FOR TEN MILES THEN
+TURNED WEST AND DISAPPEARED AT 5 MILES. OBJECT WAS ESTIMATED AT SPEED
 
-75-1 Cometmeattof Coincidence f *
+45-1 Comments/Conclusions: -
+
 
 - page 4 -
 
-There is no photograph present in this image. It appears to be a page from an old UFO report document containing information in a structured format.
+Here is the text from the UFOB Index Card:
 
-OCR output:
+1. DATE
+7 Nov 57
+2 Jan 58
 
-UFOB INDEX CARD
-1. DATE 2-16-56 2. LOCATION Harlingen AFB, Texas
-3. DATE-TIME GROUP 07/15/56 NOW 57 4. TYPE OF OBSERVATION Ground-Visual
-5. PHOTOS Yes 6. SOURCE MATS Lab
-7. LENGTH OF OBSERVATION 3 MINS 8. NO. OF OBJECTS ONE
+2. LOCATION
+Harlingen AFB, Texas
+
+3. DATE-TIME GROUP
+07/1538Z Nov 57
+
+4. TYPE OF OBSERVATION
+Hand-Visual ✓Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+✓ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+Two to three minutes
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+See below
+
 10. BRIEF SUMMARY OF SIGHTING
-Object appeared in the sky going at high speed from east to west. Object was in sight for two to three minutes.
+One faint radar target similar to a T-29. Object appeared in NE going W, then SW, then E then W. Object was estimated 1900HPH. Object was in sight for two to three minutes.
+
 11. COMMENTS
-Investigating officer reports that this sighting was possibly caused by radar malfunction.
+Confer with Reporting Officer that this sighting was possibly caused by radar malfunction.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Other: Insufficient Data for Evaluation
+□ Unknown
+
+AISOP Form 5 (15 Oct 54)
+
 
 - page 5 -
 
-There is no photograph present in this image. This appears to be a page from an old Project Blue Book UFO report document.
-
-Performing OCR on the text in the document:
-
 SUBJECT: Request - Analysis and Comments, Electronic UFO Reports
-TO: AFOIN-4544 FROM: AFOIN-33E
-DATE: 15 NOV 57 COMMENT: AFOIN-33E/ACORN NR: 2
-AFOIN-4544/1956
+
+TO: AFCIN-4bh     FROM: AFCIN-4bE     DATE: 3 Feb 59     COMMENTS NO. 2
+                                        AFCIN-4bW. Photosmt/3c
+                                        TACON/Msg 828/MA 241
+
 1. Reference is made to your request for review and analysis of eleven (11) UFO reports.
-2. Comments follow in order of inclosure numbers:
-a. Inclosure #1: This UFO was not substantiated by any other evidence and was a false target which appeared while the operators were working on different radar equipment in a radio maintenance organization. An alternate explanation is a possibility of radar malfunction.
-b. Inclosure #2: This radar contact was probably due to unidentified aircraft passing through the area.
-c. Inclosure #3: From the rather meager information in this report, it is likely that the targets sighted were due to unknown aircraft.
-d. Inclosure #4: The evidence presented in this report indicates a good possibility of small targets of large birds.
-e. Inclosure #5: There are several unusual things about this reported UFO sighting which suggest that the targets were probably caused by malfunctioning or misinterpretations of the radar equipment by the personnel at the time of sighting. This could mean that the radar equipment was not operating properly. (There is no mention made in the reports as to the experience, expertise, or other special qualifications of these personnel.)
-Also, the report indicates the possibility of 'return to zero' indications on the scope which would rotate the antenna to determine whether the signals originated from a new bearing. (This would normally be an unusual maneuver but the report appears to indicate that the antenna was not rotating.) Further, it appears to indicate that the antenna was not rotating, possibly indicating a malfunction in the normal operating scope and could possibly be more reliable observers than maintenance personnel. It is concluded that the reported radar paint was rather an equipment malfunction than an actual target.
-f. Inclosure #6: This evidence indicates the possibility that radar reflections from clouds or rain storms caused the unexplained signals. Subsequent analysis which compares B-band equipment vs L-band equipment indicates the probability that radar anomalies of a meteorological origin rather than L-band equipment.
-g. Inclosure #7: It is difficult to understand how 3500 mph targets would stay on the scope for 60 miles. There is a possibility that weather or anomalous propagation caused the reported radar blips.
+
+2. Comments follow in order of inclosure numbers.
+
+a. Inclosure #1: This UFO was not substantiated by any other evidence and was a thin target which appeared while the operator was working in a different azimuth pattern. Assistant Wing Operations Officer indicated a possibility of a radar malfunction. This office concurs that a radar malfunction was possible.
+
+b. Inclosure #2: This radar paint was probably due to unidentified aircraft passing through the area.
+
+c. Inclosure #3: From the rather meager information in this report, it is likely that the radar sighting was due to unidentified aircraft.
+
+d. Inclosure #4: The evidence presented in this report indicates a good possibility of a small flock of large birds.
+
+e. Inclosure #5: There are several unusual things about this reported UFO sighting. First, the equipment was evidently under control of maintenance personnel at the time of sighting. This could mean that the radar equipment was not in perfect adjustment, or some sort of target simulator or other special equipment was being used in connection with the maintenance operation. (There is no mention of this in the report, however.) Also, the report gives no indication of any attempt to rotate the antenna to a new bearing to determine whether the original signal inside the equipment. (This question arises since the azimuth of the target was reported to be nearly the same throughout the time of interception and, therefore, appears to indicate that the antenna was not rotating.) Further, regular operating personnel are generally more familiar with the appearance of a particular radar scope and could possibly be more reliable observers than maintenance personnel, it is concluded that possibly a false target due to equipment malfunction rather than an actual target caused the reported radar paint.
+
+f. Inclosure #6: The evidence presented in this report indicates the possibility that radar reflections from clouds or rain storms caused the unexplained blips. Equipments which operate at S-band usually are more susceptible to weather phenomena than L-band equipments. It is assumed that the search equipment which did not pick up the reported blips was operating in the L-band.
+
+g. Inclosure #7: It is difficult to understand how 3600 mph targets would stay on a 40-mile scope for 41 minutes. There is a possibility that weather or anomalous propagation caused the reported radar blips.
+
 h. Inclosure #8: Same sighting as Inclosure #7.
+
 
 - page 6 -
 
-The image does not contain any photographs. It appears to be a Disposition Form from the USAF Project Blue Book, which was a program that investigated reports of unidentified flying objects (UFOs).
-
-Here is the text transcribed from the document:
-
 DISPOSITION FORM
-FILE NO.
-SUBJECT: Request - Analysis and Comments, Electronic UFO Reports
-TO: AFCIN-3EL1 FROM: AFCIN-3EL1 DATE: 13 Apr 1956 COMMENT NO. 1
 
-1. Attached are eleven (11) official UFO reports received from various Air Force radar units for your review and analysis.
+SECURITY CLASSIFICATION (U/Mw)
 
-2. It will be appreciated if you can only a limited summary which this division has found as follows:
+FILE NO.                      SUBJECT Request - Analysis and Comments, Electronic UFO Reports
 
-a. Nearly all reports contain data which, in our opinion, is of little scientific or technical value. The majority of reports consist of sighting of lights or objects in the sky which this division has found are common occurrences and pose no threat to the security of the United States.
+TO: AFCIN-41                  FROM: AFCIN-4sk                 DATE: 15 April 1958
+    Colonel Hoffman                                            ASSIGNMENT NO. 1
+                                                               AFCIN-4bg/Capt Gregory/ko
+                                                               Xt 6-9216/Msg. 263
 
-b. It would appear that radar UFO reports have increased in volume during the past few months. However, this trend will continue in the future, as in the past, if normal operations are maintained by Air Force radar units.
+1. Attached are eleven (11) official UFO reports received from various Air Force radio units for your review and analysis.
 
-3. This division is of the opinion that your office may consider obtaining the services of either a psychological or a technical consultant to assist you in the analysis and evaluation of these reports. Reference is made to your letter dated 13 Jan 56, copy attached.
+2. These represent only those which this division has found a little difficult to evaluate or conclude.
 
-4. Incls:
-a. Folder containing:
-1) UFO Radar Reports
-2. AFOIN-3EL1 
-3. Apr 1956
+3. It should be pointed out that radar UFO reports have increased noticeably the last six (6) months; and it appears that this trend will continue in the future.
+
+4. This matter was discussed with your staff earlier this year, in the possibility that your office may consider obtaining the services of either an electronic UFO specialist or consultant. Reference your DF, Comment Nr. 2, dated 13 Jan 58, copy attached.
+
+[Signature]
+Henry G. Miley
+Chief, Air Sciences Division
+AFCIN-4bk
+
+2 Incls:
+1. Folder containing
+   11 UFO Radar Reports
+2. Comment DF
+   dtd 13 Jan 58
+
+DD FORM 96 (REPLACES AGO FORM 34, 1 OCT 52, WHICH MAY BE USED)
+
 
 - page 7 -
 
-The image does not contain any photograph. It appears to be a page from a document or report related to Project Blue Book, a U.S. Air Force investigation into unidentified flying objects (UFOs).
-
-TEXT EXTRACTED FROM THE DOCUMENT:
-
 SUBJECT: Request - Analysis and Comments, Electronic UFO Reports
 
-1. Enclosure #9: Since no confirming evidence was presented, it is assumed that the conclusions presented in these reports could be exaggerated.
+1. Enclosure #9: Since no confirming evidence was presented, it is assumed that anomalous propagation of some sort caused the reported track.
 
-2. Enclosure #10: Radar range of the reported target is not given. This is a possible important clue is missing. The possibility of a balloon or an unidentified aircraft cannot be ruled out.
+j. Enclosure #10: Radar range of the reported target is not given. Thus, a possible important clue is missing. The possibility of a balloon or an unidentified aircraft cannot be ruled out completely.
 
-3. Enclosure #11: This reported UFO possibly could have been one object or two objects separated as to indicate unidentified aircraft. High rate of speed was described in the report, but no estimate is given as to the actual speed. The object described to traverse a given distance in a short period of time.
+k. Enclosure #11: This reported UFO possibly could have been one object or two objects seen at a time. Both might have been on a return as an indication unidentified aircraft. High rate of speed was mentioned in the report, but no attempt was made to estimate the speed. The object seemed to reverse direction at times, but no explanation is given, especially a light source or a helicopter. Suggestion is made that the radar station should have made every possible attempt to identify the object at the time of sighting.
+
+1 Incl
+Incl Nr. 2 w/o
 
 GORDON C. HOFFMAN
 Colonel, USAF
-APGIC-MI
+AFOIN-421
+
 
 - page 8 -
 

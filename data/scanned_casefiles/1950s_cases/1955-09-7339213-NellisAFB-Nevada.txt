@@ -1,27 +1,62 @@
-The image does not contain any photographs. It appears to be a Project 10073 Record Card from Nellis AFB, Nevada, dated 9 Sep 55.
-
-The text in the document is as follows:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
-9 Sep 55
+4 Sep 55
+
 2. LOCATION
 Nellis AFB, Nevada
-3. TYPE OF OBSERVATION
-Ground-Visual
-4. TYPE OF OBJECT
-Balloon
-5. PHOTOS
-No
-6. LENGTH OF OBSERVATION
-7 min
-7. NUMBER OF OBJECTS
+
+3. DATE-TIME GROUP
+Local    04/1258z
+GMT
+
+4. TYPE OF OBSERVATION
+XX Ground-Visual   □ Ground-Radar
+□ Air-Visual       □ Air-Intercept Radar
+
+5. SOURCE
+Military (pilot and forecaster)
+
+6. PHOTOS
+□ Yes
+XX No
+
+7. LENGTH OF OBSERVATION
+7 mins
+
+8. NUMBER OF OBJECTS
 1
-8. COURSE
+
+9. COURSE
 Stationary
-9. COMMENTS
-Obj appears to be that of balloon. MDI Balloon if 17 ft was sighted. Obj was seen stationary, but obscured thru clouds to be moving slightly. 
-NO CASE IN FILES
+
+10. BRIEF SUMMARY OF SIGHTING
+One, spherical, orange-red obj, size of dime held at arm's length, appeared as 1/2 whole obj was blazing. Various colors observed predominant color was orange. When obj (first observed) appeared stationary, but observed thru theodolite it appeared to be moving slightly.
+
+(NO CASE IN FILE)
+
+11. COMMENTS
+Obj appears to be that of balloon.
+MDH Balloon # 97W was in east over
+Nellis at time of sighting and obj was
+seen at 80 deg az confirming balloon
+evaluation.
+
+12. CONCLUSIONS
+XX Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other: Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 

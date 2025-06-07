@@ -1,66 +1,130 @@
-The image does not contain any photograph. It appears to be a page from a Project Blue Book record card, which includes information about a sighting of an unidentified flying object near Great Mills, Maryland on October 19, 1959.
-
 PROJECT 10073 RECORD CARD
-1. DATE 19 Oct 59
-2. LOCATION Great Mills, Maryland
-3. DATE-TIME GROUP 1925/2152
-4. TYPE OF OBSERVATION D Ground-Visual
-5. PHOTO Yes No
-6. NUMBER OF OBJECTS 2
-7. LENGTH OF OBSERVATION 25 mins
-8. NUMBER OF SUBJECTS 2
-9. BRIEF SUMMARY OF SIGHTING Pilots of two Airlines Flight. Obj was red, reddish-white 5-6 times as large as a star. Green wings protruded fm the Obj.
-10. COURSE Cts 2
-11. CONCLUSIONS Airlines pilots not available for interrogation according to the report. No follow-up was attempted. Insufficient data available for any attempt at analysis.
+
+1. DATE
+10 Oct 59
+
+2. LOCATION
+Great Mills, Maryland
+
+3. DATE-TIME GROUP
+Local 19/0755Z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual   ☐ Ground-Radar
+☒ Air-Visual     ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+Civilian Airlines Flights
+
+7. LENGTH OF OBSERVATION
+not given
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+not given
+
+10. BRIEF SUMMARY OF SIGHTING
+Rpts fm two Airlines flights. Obj was rnd, reddish-white 5-6 times as large as a star... Green wings protruded fm the obj.
+
+11. COMMENTS
+Airlines pilots not available for interrogation according to the initial rpt. No follow-up was attempted. Insufficient data available for any attempt at analysis.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other:
+☐ Insufficient Data for Evaluation
+☒ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
-
-The image does not contain any photographs. It appears to be a page from an old project Blue Book UFO report document.
-
-INCOMING
-ACTION: CIN
-INFO: 00F, SAFR
-
-SMD 2223 
-VCZCHOES25CYJF692
-00 RJEZH0
-DE RJEDKO 29H
-0 192352Z
-FM FSC OLMSTED AFB PA 
-TO RJEDF W/MCGUIRE AFB NEW JERSEY
-RJEDSQ/AIR TECH INTIL CENTER WRIGHT PATTERSON AFB OHIO
-RJWFAL/ADC ENT AFB COLORADO  
-RJEYNH/26TH ADCDEF) ROSLYN NEW YORK
-RJEZH W/DIR INTEL HQ USAF WASH DC
-RJEZS N/26TH AIR DIV SYRACUSE NEW YORK
-AT
-UFOB
-1. DESCRIPTION
-A. ROUND
-B. 5 TO 6 TIMES LARGER THAN AN AVERAGE STAR
-C. REDDISH AND WHITE
-D. ONE
-E. N/A
-F. GREEN WINGS PROTRUDED FROM OBJECT
-G. NONE
-H. NONE
-I. NONE
-
-- page 2 -
-
-There is no photograph present in the provided image. The image appears to be a page from an old UFO report document from Project Blue Book, containing text.
-
-Output of the text found in the document:
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE DIVISION
 UNCLASSIFIED MESSAGE
+
+AF IN : 19092 (19 Oct 59) L
+
+ACTION: CIN
+
+INFO : OOP, SAFS
+
+SMD B203
+
+VCZCHQE3QSZCYJF92
+
+OO RJEZHQ
+
+DE RJEDKO 29H
+
+O 19285OZ
+
+FM FSC OLMSTED AFB PA.
+
+TO RJEDFW/MCGUIRE AFB NEW JERSEY
+
+RJEDSO/AIR TECH INTL CENTER WRIGHT PATTERSON AFB OHIO
+
+RJWFAL/ADC ENT AFB COLORADO
+
+RJEYNH/26TH ADC DEP) ROSLYN NEW YORK
+
+RJEZHW/DIR INTL HQ USAF WASH DC
+
+RJESZN/26TH AIR DIV SYRACUSE NEW YORK
+
+BT
+
+UFOB
+
+1. DESCRIPTION
+
+A. ROUND
+
+B. 5 TO 6 TIMES LARGER THAN AN AVERAGE STAR
+
+C. REDDISH AND WHITE
+
+D. ONE
+
+E. N/A
+
+F. GREEN WINGS PROTRUDED FROM OBJECT
+
+G. NONE
+
+H. NONE
+
+I. NONE
+
+
+- page 2 -
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+
 INCOMING
 
-AF IN 19092 (19 OCT 59)
-PAGE TWO RJEDKO 29H
+AF IN: 10992 (19 Oct 59)
+PAGE TWO RJEDKQ 29H
 
-2. DESCRIPTION OF COURSE 
+2. DESCRIPTION OF COURSE
 A. UNK
 B. UNK
 C. UNK
@@ -74,9 +138,8 @@ B. NONE
 C. NATIONAL AIRLINES FLIGHT 118 AND EASTERN AIRLINES FLIGHT 642
 
 4. TIME AND DATE OF SIGHTING
-A. 19/0752Z
-
-5. NIGHT
+A. 19/0755Z
+B. NIGHT
 
 5. LOCATION OF OBSERVER
 30 MILES ENE PATUXENT RIVER NAS LF RADIO STATION AND 15-25 MILES
@@ -84,32 +147,48 @@ SOUTH CONLORD INTERSECTION ON RED77
 
 6. IDENTIFYING INFO OF OBSERVER
 A. AIRLINE CAPTAINS OF NATIONAL 118 AND EASTERN 642
-B. UNK
+7. UNK
 
 page 2 of 3
 
+
 - page 3 -
 
-The image does not contain any photograph. It appears to be a typed document or report from the Department of the Air Force.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+INCOMING
 
-AF IN: 15092 (19 OCT 59)
-PAGE THREE RJEDKO 29H
+AF IN: 15092 (19 Oct 59)
 
-B. LINK
-7. WEATHER AND WINDS ALOFT CONDITIONS AT TIME AND PLACE OF SIGHTING 
-A. CLEAR 15 MILES VSBYG. NONE
-C. 6,200 300 DEG 30 KT
+PAGE THREE RJEDK9 29H
+
+8. UNK
+
+7. WEATHER AND WINDS ALOFT CONDITIONS AT TIME AND PLACE OF SIGHTING
+A. CLEAR 15 MILES VSBY
+B. SURFACE
+6,000 300 DEG 30 KT
+C. NONE
 D. 15 MILES
 E. NONE
 F. NONE
-S. NONE
+8. NONE
 9. NONE
 10. NONE
-11. OPERATIONS OFFICER, OLMSTED FLIGHT SERVICE. THIS INFO WAS PASSED TO FLIGHT SERVICE THROUGH WASHINGTON ARTC. FLIGHT SERVICE UNABLE TO INTERROGATE THE AIRLINE CAPTAINS
+
+11. OPERATIONS OFFICER, OLMSTED FLIGHT SERVICE. THIS INFO WAS PASSED
+TO FLIGHT SERVICE THROUGH WASHINGTON ARTC. FLIGHT SERVICE UNABLE TO
+INTERROGATE THE AIRLINE CAPTAINS
+
 12. NONE
 
-19/2855Z OCT RJEDKO
-pg 3 of 3
+ST
+
+19/0855Z OCT RJEDK9
+
+Page 3 of 3
+
 
 - page 4 -
 

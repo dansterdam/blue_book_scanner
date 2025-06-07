@@ -1,8 +1,3 @@
-There is no photograph present on this page.
-
-Here is the OCR text output from the document:
-
-```
 PROJECT 10073 RECORD CARD
 
 1. DATE
@@ -12,14 +7,15 @@ PROJECT 10073 RECORD CARD
 Savannah Beach, Georgia
 
 3. DATE-TIME GROUP
-Local 22 AUG GMT 23/0232Z
+Local: 22 AUG
+GMT: 23/0323Z
 
 4. TYPE OF OBSERVATION
-  Ground-Visual  Ground-Radar
-  Air-Visual  Air-Intercept Radar
+☐ Ground-Visual   ☐ Ground-Radar
+☒ Air-Visual     ☐ Air-Intercept Radar
 
 5. PHOTOS
-  Yes  No
+☐ Yes   ☒ No
 
 6. SOURCE
 Civilian
@@ -34,38 +30,34 @@ Civilian
 S
 
 10. BRIEF SUMMARY OF SIGHTING
-No apparent shape. Point of light moving rapidly across sky. Yellowish-white color. Initial observation 45 deg elev, 360 deg az. Final sighting 20-25 deg. elevation 220 deg az. Initial flight to NNW, turned W, then headed South. Faded in distance.
+No apparent shape. Point of light moving
+rapidly across sky. Yellow-sw-white color.
+Initial observation 15 deg clay, 360 deg az.
+Final sighting 20-25 deg elevation 220 deg
+az. (initial flight to NNW, turned W, then
+headed South. Faded in distance.
 
 11. COMMENTS
-Probable a/c sighting.
+Possible a/c sighting.
 
 12. CONCLUSIONS
-  Was Balloon
-  Probably Balloon
-  Possibly Balloon
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
+☒ Unknown
 
-  Was Aircraft
-  Probably Aircraft
-  Possibly Aircraft
+(ATIC FORM 329 (REV 26 SEP 53))
 
-  Was Astronomical
-  Probably Astronomical
-  Possibly Astronomical
-
-  Other
-  Insufficient Data for Evaluation
-  Unknown
-
-ATIC FORM 329 (REV 26 SEP 52)
-```
 
 - page 1 -
 
-There is no photograph present on this page. 
-
-The text on the document is as follows:
-
-```
 HEADQUARTERS
 AIR DEFENSE COMMAND
 ENT AIR FORCE BASE
@@ -75,258 +67,222 @@ ADDOI
 
 SUBJECT: Unidentified Flying Object Report
 
-TO: 
-Commander
+TO: Commander
 Air Technical Intelligence Center
-Wright-Patterson Air Force base
+Wright-Patterson Air Force Base
 Ohio
 
-The inclosed report is forwarded for your information and retention.
+The inclosed report is forwarded for your information and
+retention.
 
 FOR THE COMMANDER:
 
 1 Incl
 AF Form 112
-fr Hq 38th
-AD, dtd 8 Sep 54,
-Subj, UFOB
+Br Hq 38th
+Ad, dtd 8 Sep 54
+Subj, UFO
 (2 cys)
-by destr raf of 11/26/55
 
 UNCLASSIFIED
-```
+
 
 - page 2 -
 
-There are no photographs present on this page. 
-
-Here is the OCR text from the document:
-
-```
 HEADQUARTERS STRATEGIC AIR COMMAND
 OFFUTT AIR FORCE BASE
 OMAHA, NEBRASKA
-
-DING
 
 7 OCT 1954
 
 SUBJECT: (UNCLASSIFIED) Transmittal of Air Intelligence Report
 
-TO:           Commander
-          Air Technical Intelligence Center          
-          Wright-Patterson AF Base
-          Ohio
+TO: Commander
+Air Technical Intelligence Center
+Wright-Patterson AF Base
+Ohio
 
-Forwarded herewith is Air Intelligence Report SAG 15-54
-received from the 38th Air Division, Hunter AF Base, Georgia.
+Forwarded herewith is Air Intelligence Report SAC 15-54 received from the 38th Air Division, Hunter AF Base, Georgia.
 
-FOR THE COMMANDER:
-
-                             Roy L DeRane
-
+FOR THE COMMANDER,
 
 1 Incl
 AIR SAC 15-54
 (1 cy)
 
-                                              ROY L. DeROSE
-                                              Major, USAE
-                                              Actg Chief, Collection Division
-                                              Directorate of Intelligence
+ROY L. DENSE
+Maj., USAF
+Asst Chief, Collection Division
+Directorate of Intelligence
+401
 
+If enclosure no. ____ is withdrawn for
+not _________, the __________ is withheld for
+correspondence with __________ or downgraded to __________.
+In accordance with AFR __________.
 
-If enclosure no... | ........ is withdrawn (or
-not athed tba etaensation of this
-correspondence will be regraded to. UT
-in accordance with APR «**-
+DOWNGRADED AT 3 YEAR INTERVALS
+DECLASSIFIED AFTER 12 YEARS
 
-               A.
+T54-14653-A
 
-SOUNOMADEU AT 3 YEAR INTERVALS
-DECLASSSIFED AFTER 12 YEARS
-
-MOD DR $_Gt6iMg..Ypp...
-UNCINASSAREA
-
-           \PMNE  sa
-1954-1465=uA
-```
 
 - page 3 -
 
-There are no photographs present on this page.
+AF FORM 112-PART I
+APPROVED 1 JUNE 1948
 
-Here is the OCR text from the document:
+COUNTRY
+UNITED STATES
 
-```
-FORM 112 - PART I 
-APPROVED 1 JUNE 1948 
-------------------------UNCLASSIFIED-----------------
------------------------ (LEAVE BLANK)---------------------------------
+REPORT NO.
+5AG CR 15-54
 
-COUNTRY 
-	UNITED STATES                REPORT NO. 
-	                                       	Sac IR 15-54 
-	
-AIR INTELLIGENCE INFORMATION REPORT 
-
-SUBJECT 
-	UFOB
-	
-AREA REPORTED ON 
-	GEORGIA
-
-DATE OF REPORT 
-	8 SEPTEMBER 1954	      
-
-DATE OF INFORMATION 
-	22 AUGUST 1954
-
-FROM (Unit/Part) 
-	HQ USAF
-
-SOURCE
-	HEADQUARTERS 38TH AIR DIVISION
-
-PREPARED BY (Officer) 
-	INTELLIGENCE OFFICER 308 BW 
-	2D LT JOHN C. KEGGAN		
-	MR. - - - (redacted)  - - -
-
-REFERENCES (Include number, director, previous report, etc, as applicable)
------------------AIR FORCE REGULATION 200-2 -----------------
-SUMMARY: (Enter exact number of report. Give importance in final sub-enclosure paragraph. List inclusive of lower left. Begin text of report on AF Form 112—Part II)
-
-	On the night of 22 August 1954 at 2233 the source observed one point of light moving rapidly across the sky. The object was a pale yellowish-white color. The object was observed for about fifteen minutes. Source location at the time was Fort Screven on Tybee Island, Savannah Beach, Georgia. There was no unusual condition or activity which might account for the sighting.
-
-	No particular significance can be attached to this report.
-
-	
-	APPROVED 
-		[signature]
-		
-	GEORGE Z. NEWTON, JR.
-	Colonel, USAF
-	Director of Operations
-	------------------------------
-
-	INCL:
-
-	DOWNGRADED AT 3 YEAR INTERVALS; 
-	DECLASSIFIED AFTER 12 YEARS. 
-	DOD DIR 5200.10 
-	------------------------------------------
-
-UNCLASSIFIED
-
-NOTE THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT SO U S C .,31 AND 92 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
-
-IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
-
-(unreadable)
-53848
-(CLASSIFICATION)              UNCLASSIFIED
-----------------------------------------
-
-15--(Unreadable)— 54—(Unreadable)
-```
-
-- page 4 -
-
-The document does not contain any photographs.
-
----
-
-TEXT:
-
-```
-UNCLASSIFIED 
-AF FORM 112- PART I 
-Air intelligence information report 
-Report No. SAC IR 1544 Page 2 Of 3 Pages 
-
-The following are answers to the questions in sub paragraphs of paragraph 6b, AVR 200-2: 
-
-(1) (a) No apparent shape, (1) (b) About the size of a silver dollar. 
-(1) (c) A pale yellowish white color, (1) (d) One. (1) (e) Not applicable, (1) (f) None, (1) (g) None. (1) (h) None, .(1) (i) First appeared as a dim yellowish glow and increased to a bright yellowish-white glow. (2) (a) The movement of light. (2) (b) 950 elevation, 3600 astiuth (2)(c) 200 to 25 elevation, 2200 astimth. (2(d) Object as first sighted heading MW, at 950  artimuth and approximately 380 angle of elevation, the object turned in a westerly direction to 3000 artimuth and about a 3500 angle of elevationat wich iime it headed in a southerly direction until disappearance. (2)( e) Object disaspeared by going out of slight due to distance.
-
-(3)(a) Ground visual. (3) (b) Nene. (3)(c) Not applicable, (4)(a)? Aug 540 033245. (4)(b) Night. (5) Fort Screven on Tybee Island, Savannah Beach, Georgia,
-(6)(a) .(b) sight. (c) 20, 119 Washington street, Savananh, Georgla, student University of Georea. Mrs.  appeared to be a reliable person, however not enough ft»
-known of individeus’ to’ ”make 2 positive declermination of reliability.  Miss
-Age 17 Savannah, Georgia, student University of Georgia, No estimate of reliability as Miss was not Interviewed.
-(6)(b) Not apllicable. (7) Very clear sight, very bright stars. (7)(b) The
-weather office at [miiter AFB, Georgia reported that from interceptlon of available data, varlalicns are quar follows arthe approximate time as concerned; surface, 8705f4kt, 6000 feet, 900 at Li, 10,000 feet, 990 at 10k, 16,000 feet,  09000 at 200, 20,000
-feei, 080 &t 25K; 30,000 feet, 070 at 25K, 35,000 Teet, 070 St 25K; 80.000 feat.
-atiimsted 060 at 20k.  (7)(e) Ne colling, (7)d) Hunter AFB raperted 8 mores visiblity, (7)(e) Ne cloud cover. (7)(f) N© phenomena during specific period 
-concerned. (g) None that is nown.  (9) None. (10) None. (11) Trafric was very hight at the 3514 intercepted RK-97J - LAND3 at? dtinter AR 2330452“ 6602 Thc
-K?-97 took off From Hunter AFB at 2015.  (12) trashring ef@icer ts as inilagence
-officer of the 308th Bomb Wmg, Hunter AFB, Georgia. Analysis of the possible cause of the sighting canmot be made by the preparing officer.
-
-COMMENTS OF PREPARING OFFICER;
-
-Mr.  was very cooperative und courteous and second to be ef average
-intelligence, His’ education includes compliance of high schoo! and 3 years of colledge. It was foenges necessary to interview Mss usa she win
-accompanying lu: Mr. ✱ at ime of sighting. 
-
-During the investigation I contueled the NATID AC&I unit at Travis Field, The Savanah Filter Center, the Weather Bureau at Travis Field, The Weather Officer at 
-Hunter ARE, Tower Operations officer at Hunter AFB and at Travis Field, Air 
-Operations Officer of Nar National Guard at Travis Field and Tae Radio Controlled 
-Aerial Targets Section at Camp Stewart, Georgia, none of which had seen the reported unidentified cbject or could account for same. Therefore, I am preparing officer
-un unable to determake what the object was or cound nave been.
-
-|s| JOHN C. KEEGAN
-JOHN C. KEEGAN
-2dn IL., USAF
-Intelligence Officer
-
-DOWNGRADED AT J YEAR INTERVALS; DECLASSIFED AFTER 12 YEARS
-DOD DIR 3200,10
-
-UNCLASSIFIED 
-NOTR: toonst CONTATNS INFORMATION REFECTING THE MATIONAL DEFENSE OF THE IWITED STATES WITHIN THE MEMING OF THE ESPIONAGE ACT, 50 U SC 31 AND 32, AS AMENDED ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBIED BY LAM.
-IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR CE
-INTELLIGENCE, USAF.
-
-5338   (CLASMIIFACTION)
-
-MA407J    o hT, seVATON PARNTHC OFFICE
-```
-
-
-- page 5 -
-
-There are no photographs present on this page. 
-
-Below is the OCR-transcribed text from the document:
-
-```
-AF FORM 112—PART II UNCLASSIFIED
-APPROVED I JUNE 1948 (CLASSIFICATION)
 AIR INTELLIGENCE INFORMATION REPORT
-FROM (Agency) REPORT NO.
-HEADQUARTERS 38TH AIR DIVISION SAC IR 15-54 PAGE 3 OF 3 PAGES
 
-COMMENTS OF APPROVING OFFICER:
+SUBJECT
+UFOB
 
-On 26 August 1954, Mr. Eugene T. York, Special Agent, OSI, Hunter AFB reported to Colonel Watkins, Base Commander that he had received a report from a Mr. of Savannah to the effect of some unusual sighting in the sky near Tybee Island.
+HEADQUARTERS 38TH AIR DIVISION
+DATE OF REPORT
+8 SEPTEMBER 1954
 
-Chief of Intelligence, 308th Bomb Wing was directed to conduct an investigation on the unusual sighting as reported by Mr.
-[Signature]
-GEORGE H. NEWTON, JR.
+DATE OF INFORMATION
+22 AUGUST 1954
+
+PREPARED BY (Officer)
+2D LT JOHN G. KOGAN
+
+INTELLIGENCE OFFICER 308 BW
+PAGE
+1-6
+
+REFERENCES (Current order, directs, previous report, etc. as applicable)
+AIR FORCE REGULATION 200-2
+
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List enclosures in lower left. Begin text of report on AF Form 112-Part (1).)
+
+On the night of 22 August 1954 at 2223 the sources observed one point of light moving rapidly across the sky. The object was a pale yellow-white color. The object was observed for about fifteen minutes. Sources location at the time was Fort Screven on Tybee Island, Savannah Beach, Georgia. There was no unusual condition or activity which might account for the sighting.
+
+No particular significance can be attached to this report.
+
+APPROVED:
+GEORGE L. NEWTON, JR.
 Colonel, USAF
 Director of Operations
 
-DOWNGRADED AT 3 VE.AR INTERVALS
-DE:'.:LAS:.:IFIED AFTER 12 YEARS. 
+DOWNGRADED AT 8 YEAR INTERVALS,
+DECLASSIFIED AFTER 12 YEARS
 DOD DIR 5200.10
 
 UNCLASSIFIED
 
-NOTE THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U. S. C.— 31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT SO U.S.C.
+50:31 AND 50:32. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
 
-C10772 (CLASSIFICATION)
-```
+
+- page 4 -
+
+Here is the OCR text from the document:
+
+UNCLASSIFIED
+
+AF FORM 112—PART II
+APPROVED 1 JUNE 1948
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+HEADQUARTERS 38TH AIR DIVISION    SAG TR 15-64    PAGE 2 OF 3 PAGES
+
+1. The following are answers to the questions in sub paragraphs of paragraph 6b, AFR 200-2:
+
+(a)(a) No apparent shape. (1)(b) About the size of a silver dollar.
+(1)(c) A pale yellowish white color. (1)(d) Approx. (1)(e) Not applicable. (1)(f)
+None. (1)(g) None. (1)(b) None. (1)(d) First appeared as a dim yellowish glow and
+increased to a bright yellowish-white glow. (2)(a) The movement of light. (2)(b)
+45° elevation, 360° azimuth. (2)(c) 20° - 25° elevation, 220° azimuth. (2)(d) Object
+was first sighted heading NNW. (4) At 350° approximately 38° angle of
+elevation, the object turned in a westerly direction to 300° azimuth and about a
+375° angle of elevation and then time is headed in a southerly direction until
+disappearance. (2)(e) Object disappeared by going out of sight due to distance.
+(3)(a) Ground visual. (3)(b) None. (3)(c) No known significant. (4)(a) 24 Aug 54
+0322. (4)(b) Night. (5)(a) Fort Stewart on Tybee Island, Savannah Beach, Georgia.
+(5)(b) University of Georgia, Mr. [REDACTED], a however not
+enough is known of individual to make a positive determination of reliability. Miss
+[REDACTED], Savannah, Georgia, student University
+of Georgia. No estimate of reliability as Miss [REDACTED] was not interrogated.
+(6)(b) Not applicable. (7)(a) Very clear night, very bright stars. (7)(b) The
+weather office at Hunter AFB, Georgia reported that from interpolation of available
+data wind was very calm, surface wind at 3N, 075° at 5 kts; 6000 feet, 090° at 15K; 10,000 feet, 090° at 10K; 15,000 feet, 090° at 20K; 20,000
+feet, 000° at 25K; 30,000 feet, 070° at 25K; 50,000 feet, 070° at 25K; 80,000 feet,
+estimated 060° at 20K. (7)(c) No ceiling. (7)(d) Hunter AFB reported 8 miles
+visibility. (7)(e) No clouds cover. (7)(f) No phenomena during specific period
+concerned. (8) None that is known. (9) None. (10) None. (11) Traffic was very
+light at the time of sighting. (12)(a) Location Hunter AFB at 2320, 0020, 0003, one
+KC-97 took off from Hunter AFB at 2015. (12) The preparing officer is an intelligence
+officer of the 3068th Bomb Wing. Hunter AFB. Decatur, Alabama, no analysis of the sighting cannot be made by the preparing officer.
+
+COMMENTS OF PREPARING OFFICER:
+Mr. [REDACTED] was very cooperative and courteous and seemed to be of average
+intelligence. His education includes completion of high school and 3 years of
+college. It was not deemed necessary to interview Mr. [REDACTED] as he was
+accompanying Mr. [REDACTED] at time of sighting.
+
+During the investigation I contacted the 117th ACW unit at Travis Field, The
+Savannah Filter Center, the Weather Bureau at Travis Field, The Weather Officer at
+Hunter AFB, Tower Operations Officer at Hunter AFB and at Travis Field, Air
+Operations Officer at Air National Guard at Travis Field and The Radio Controlled
+Aerial Targets Section at Camp Stewart, Georgia, none of which had seen the reported
+unidentified object or could account for same. Therefore, I as preparing officer was
+unable to determine what the object was or could have been.
+
+[Signature]
+JOHN G. HOGAN
+2d Lt, USAF
+Intelligence Officer
+
+DOWNGRADED AT 3 YEAR INTERVALS,
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR. 5200.10
+
+UNCLASSIFIED
+
+[Additional markings at bottom of page]
+
+
+- page 5 -
+
+Here is the text from the document:
+
+UNCLASSIFIED
+
+AF FORM 112—PART II
+APPROVED 1 JUNE 1948
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+FROM: (Agency)                                 REPORT NO.     SAC IR 15-64     PAGE 3     OF 3     PAGES
+
+COMMENTS OF APPROVING OFFICER:
+
+On 26 August 1954, Mr. Eugene T. York, Special Agent, OSI, Hunter AFB reported to Colonel Watkins, Base Commander that he had received a report from a Mr. [redacted] of Savannah to the effect of some unusual sightings in the sky near Tybee Island.
+
+Chief of Intelligence, 308th Bomb Wing was directed to conduct an investigation on the unusual sighting as reported by Mr. [redacted]
+
+GEORGE L. NEWTON, JR.
+Colonel, USAF
+Director of Operations
+
+DOWNGRADED AT 3 YEAR INTERVALS,
+DECLASSIFIED AFTER 12 YEARS,
+DOD DIR 5200.10
+
+UNCLASSIFIED
+
+[Note: The bottom of the document contains a standard disclaimer about the document containing information affecting national defense]
+
 
 - page 6 -
 

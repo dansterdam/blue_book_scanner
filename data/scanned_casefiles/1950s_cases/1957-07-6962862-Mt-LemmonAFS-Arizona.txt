@@ -1,123 +1,204 @@
-The image does not contain any photograph. It appears to be a Project 10073 Record Card from the Project Blue Book, containing text information about a UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE: July 2, 1957
-2. LOCATION: Mt. Lemmon AFS, Arizona
-3. DATE-TIME GROUP: 
-4. TYPE OF OBSERVATION: 
-O Visual
-O Ground-visual
-O Ground-Radar
-O Air-visual
-O Air-Radar
-5. PHOTOS: 
-O Yes
-6. LENGTH OF OBSERVATION: 54 minutes
-10. BRIEF SUMMARY OF SIGHTING: This information revealed to a limited investigation by this office evidence of an actual visual sighting of a metallic object liko a normal aircraft, which was tracked on ground radar. The sighting was observed for approximately 54 minutes.
-11. COMMENTS: This information revealed to a limited investigation by this office evidence of an actual visual sighting of a metallic object like a normal aircraft, which was tracked on ground radar. The sighting was observed for approximately 54 minutes. Location was Mount Lemmon AFS, Arizona. Possibly caused by internal causes. No physical evidence was obtained.
+
+1. DATE
+13 July 1957
+
+2. LOCATION
+Mt. Lemmon AFS, Arizona
+
+3. DATE-TIME GROUP
+Local: 1045MST
+GMT: 1845/4547
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+34 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+stationary
+
+10. BRIEF SUMMARY OF SIGHTING
+One object that looked like a normal mode 3 paint. Object was seen stationary at 42,000 feet, 308 dgr azimuth, 52 miles out. Object was seen for 34 minutes.
+
+11. COMMENTS
+The information revealed by a limited investigation by this office indicates that the sighting was not caused by a flying object. Consultation with office of Director, Communications Electronics & Electronics, DC, indicates that this sighting was possibly caused by internal causes. Foremost among those internal causes appears to be the possibility of a target simulator.
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other: Simulator
+Insufficient Data for Evaluation
+Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. The image appears to be a scanned page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-Text recognized from the document:
+WPH197 WPC23 YMA035HYYA06SDNA6 12DNS06 1;[?]JUL57
 
-WPH107 VPC223 YMAG35RWYAA6CDNA12DNS060 1:27 JULY 57 RIDE IJECED IRJDECD R JDECD R
-DE RJWFDN IS September 1,1937
-R 651782Z
-TO COMDR 684TH ACWRON MT LEMMON AF STA ARIZ
-TO RJEDEN/COMDR ADC ENT AFB COLO SPRINGS COLO
-R JWEDN/COMDR 34TH ADIV DEF KIRTLAND AFB N MEX
-R JDEDN/COMDR WRIGHT PATTERSON AFB OHIO
-R JDEDN/COMDR USAF WASH DC
+RR RJEDEN RJEDNA RJEDPUP
+DE RJWFDN IS
+R 451700Z
+
+PM COMDR 684TH ACWRON MT LEMMON AF STA ARIZ
+TO RJEDN/COMDR ADC ENT AFB COLO SPRINGS COLO
+RJWFDN/COMDR 34TH ADIV DEF KIRTLAND AFB N MEX
+RJEDWP/COMDR WRIGHT PATTERSON AFB OHIO
+RJEDNA/COMDR USAF WASH DC
 BT
+
 UNCLASSIFIED ACW-O 756. UFOB
 ATTN: AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB
 DIRECTOR OF INTELLIGENCE HEADQUARTERS WASH DC
 
+There is also a handwritten note on the side that appears to say "17 July 1957" and some other partially legible markings.
+
+
 - page 2 -
 
-The image does not contain any photograph. It appears to be a page from an old UFO report document.
-
-TEXT EXTRACTED FROM THE DOCUMENT:
+7. PHX 300 OVERCAST TOPS FORECASTED AT 400 40,000 FEET 200 DEGREES
+AT 20 KNOTS
 
 PAGE THREE RJWFDN IS
+
 (A) N/A
-(B) SATH ADD FORECAST FROM 18/2397Z TO 19/7397Z
-6,393 FEET - 239 DEGREES AT 25 KNOTS
-12,000 FEET - 229 DEGREES AT 13 KNOTS
-15,000 FEET - 139 DEGREES AT 13 KNOTS
-20,000 FEET - 229 DEGREES AT 10 KNOTS
-25,000 FEET - 159 DEGREES AT 30 KNOTS
-30,000 FEET - 159 DEGREES AT 30 KNOTS
-(C) 30,289
-(D) 13 NAUTICAL MILES
+
+(B) 348TH ADD FORECAST FROM 18/2300Z TO 19/0700Z
+6,200 FEET - 280 DEGREES AT 05 KNOTS
+10,000 FEET - 220 DEGREES AT 15 KNOTS
+BQINPPP FEET - 150 DEGREES AT 15 KNOTS
+25,000 FEET - 220 DEGREES AT 10 KNOTS
+34,000 FEET - 150 DEGREES AT 30 KNOTS
+50,000 FEET - 150 DEGREES AT 30 KNOTS
+
+(C) 30,000
+
+(D) 15 NAUTICAL MILES
+
 (E) OVERCAST
+
 (F) NONE
+
+8. NONE
+
 9. NO SCRAMBLE DUE TO WEATHER AND ALTITUDE OF OBJECT.
+
 10. NO AIR TRAFFIC
-11. SENSOR DIRECTOR, A VERY SLIGHT STROBE CAME FROM OBJECT APPEARING LIKE ECM JAMMING.
+
+11. SENIOR DIRECTOR, A VERY SLIGHT STROBE CAME FROM OBJECT
+APPEARING LIKE ECM JAMMING.
+
 12. NEGATIVE.
-31/3 1132 JUL RJWFDN
+
+BT
+
+13/1115Z JUL RJWFDN
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, providing details about an unidentified flying object (UFO) observation.
+PAGE TWO RAWDIN-15
 
-TEXT OUTPUT:
-
-PAGE TWO RAWFD-19
 2. OBJECT STATIONARY
 (A) APPARENT TO BE ON IFF PAINT.
-(B) 42,000 ST. 23 DEG AZIMUTH, 52 MILES
-(C) 238 DEG AZIMUTH, 52 MILES
+(B) 42,000 FT. 308 DEG AZIMUTH, 82 MILES
+(C) 308 DEG AZIMUTH, 82 MILES
 (D) NONE, OBJECT STATIONARY
 (E) NORMAL RADAR CONTACT LOSS
 (F) 34 MINUTES
+
 3. GROUND ELECTRONICS
-(A) GROUND ELECTRONICS. (AN/MPS-7, AN/MPS-14)
+(A) GROUND ELECTRONIC, AN/MPS-7, AN/MPS-14
 (B) N/A
 (C) N/A
-4. 23452 19 JULY 57
-(A) 12/20/5452 - 8 = 7:40 PM (EST)
+
+4. 95452 19 JULY 57
+(A) 19/0545Z
 (B) NIGHT
-(C) MISC
+
+There are also some handwritten notes on the document, such as "Willow AFS origin" and time calculations, but I have transcribed only the typed text as requested.
+
 
 - page 4 -
 
-The image does not contain a photograph. It appears to be a disposition form from the U.S. Air Force's Project Blue Book, which was a study of unidentified flying objects.
-
-TEXT EXTRACT:
 DISPOSITION FORM
-FILE NO.
-TO                  AFCIN-4E1           FROM            AFCIN-1E2                 DATE 6 Aug 57  COMMENT NO.1
-SUBJECT Request For Analysis of Electronics UFO Report
-1. Request review and analysis of attached radar report on an unidentified display observed by an AF radar station in Arizona.
-2. The following are made as matter of possible clues or assistance in this matter:
-a. Object stationary for 3-4 minutes.
-b. Radar unit is located in a mountainous area, and between AGOOD-5000 feet elevation, approximately 16 miles NE of Tucson, Arizona.
-c. Director of the unit indicates the possibility of ECM jamming.
-d. Plotted azimuth and distance of the paint places it just South of Williams AFB, Arizona.
-3. It would be appreciated if your customary analysis be made by comment hereon for proper filing.
 
-HARRY H. BLOUNT
-Chief, Air Sciences Div.
-AFCIN-4E1
+FILE NO.                  SUBJECT Request for Analysis of Electronics UFO Report
+
+TO    AFCIN-4El           FROM   AFCIN-4El           DATE 5 Aug 57 4:70   COMMENT NO. 1
+       ATTN:               ATTN:   AFCIN-4El/Capt. G.T.Gregory/vp
+                                   6216
+
+1. Request review and analysis of attached UFO report on an unidentified
+display observed by an AF radar station in Arizona.
+
+2. The following are made a matter of note as possible clues or
+assistance in this matter:
+
+   a. Object was stationary for 34 minutes.
+
+   b. Radar unit is located in a mountainous area, and between
+      1000-5000 feet elevation, approximately 18 miles NE of
+      Tucson, Arizona.
+
+   c. Director of the unit indicates the possibility of ECM
+      jamming.
+
+   d. Plotted azimuth and distance of the paint places it just
+      South of Williams AFB, Arizona.
+
+3. It would be appreciated if your summary analysis be made by comment
+hereon for proper filing.
+
+1 Incl
+Teletype                                  HENRY G. MILEY
+                                           Chief, Air Sciences Div.
+                                           AFCIN-4El
+
+DD FORM 96 REPLACES NARA FORM 96, 1 OCT 45, WHICH MAY BE USED.
+
 
 - page 5 -
 
-The image does not contain any photograph. It appears to be a typewritten document page from Project Blue Book, which was a U.S. Air Force program that investigated UFO sightings.
+SUBJECT: Request for Analysis of Electronics UFO Report
 
-SUBJECT: Request for Analysis of Electronlcs UFO Report
-TO: ATIC-AEL
-FROM: CAPT. Gregory
-DATE: 7-6-57
+To: AFOIN-484                FROM: AFOIN-481             DATE: 16 Aug 57
+ATTN: Capt. Gregory                                     COMMENT NR 2
+                                                        AFOIN-481/Mr. Bryant/jc
+                                                        T9121/2826-D/dm 6
 
-1. The abbreviated data available in this teletype is not sufficient to evaluate the report. Show movement (and duration) suggests the target may be a large balloon, weather balloon, or other manmade object.
+1. The abbreviated data available in this teletype is not sufficient to
+evaluate the report. Slow movement (and lack of motion) suggests possibly the
+target may be a large weather balloon.
 
-GORDON G. MUNNELLY
-Colonel, USAF
-DIRECTOR 
+                        Gordon C. Hoffman
+                        Colonel, USAF
+                        AFOIN-481
+
+1 Incl
+n/c
+
 
 - page 6 -
 

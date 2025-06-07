@@ -1,8 +1,3 @@
-There is no photograph present on this page.
-
-Here is the OCR transcription of the text found in the document:
-
-```
 PROJECT 10073 RECORD CARD
 
 1. DATE
@@ -12,138 +7,104 @@ PROJECT 10073 RECORD CARD
 Over Cincinnati, Ohio
 
 3. DATE-TIME GROUP
-Local
 GMT 21/0200Z
 
 4. TYPE OF OBSERVATION
-Ground-Visual
-Air-Visual
-Ground-Radar
-Air-Intercept Radar
+XK-Air Viewed
 
-5. PHOTOS 
-Yes
-No
+5. PHOTOS
+□ Yes
+□ No
 
-6. SOURCE
-Military
-
-7. LENGTH OF OBSERVATION
+6. LENGTH OF OBSERVATION
 21 mins
 
-8. NUMBER OF OBJECTS
-one
-
-9. COURSE
-West
-
 10. BRIEF SUMMARY OF SIGHTING
-Round obj, alternately flashing red,
-white, and green lights at about 5 second
-intervals. A/C followed obj for approxi-
-mately 21 minutes to the East.
+Round obj, alternately flashing red, 
+white, and green lights at about 5 second 
+intervals. 1/C followed obj for approxi-
+mately 21 minutes to the West.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
 
 11. COMMENTS
 Probably an aircraft.
 
-12. CONCLUSIONS
-Was Balloon
-Probably Balloon
-Possibly Balloon
-Was Aircraft
-Probably Aircraft
-Possibly Aircraft
-Was Astronomical
-Probably Astronomical
-Possibly Astronomical
-Other ___________
-Insufficient Data for Evaluation
-Unknown
+7. NUMBER OF OBJECTS
+One
 
-ATIC FORM 329 (REV 24 SEP 52)
-```
+8. COURSE
+West
+
+9. SOURCE
+Military
+
 
 - page 1 -
 
-The document does not contain a photograph. 
-
-Here is the transcribed text from the document:
-
-```
 DISPOSITION FORM
 
-                                SECURITY CLASSIFICATION (If any)
+SUBJECT: Extract from ATIC Duty Officers Report, 20-21 Feb
 
-FILE NO. ______________              SUBJECT _________________ 
-TO AFOIN-484                            Extract from ATIC Duty Officers Report, 20-21 Feb
-                                              
-FROM 4X2a                               DATE      24 Feb 59    COMMENT NO. 1
-                                               ATTN-4X2a/Capt McNeill/ps
-                                               59117/Blade 263/Hangar C/Rm 4 
+TO AFCIN-4E4                FROM 422a                DATE 24 Feb 59        COMMENT NO.1
+                                                      AFCIN-4X2a/Capt. McNeill/ps
+                                                      59117/3ldg 263/Hangar C/Rm 4
 
-Following is an extract from Captain Merwin J. Sherline’s report dated 20-
-21 Feb 59 for your information                             (Signed) John C. McNeill 
+Following is an extract from Captain Merwin J. Sherline's report dated 20-21 Feb 59 for your information and necessary action:
 
-                            2315. Captain Martin (Sugar Mike) Flight Service, WPAFB reported UFO 
-report as follows: (Copied verbatim)
+2315. Captain Martin (Sugar Mike) Flight Service, WPAFB reported UFO report as follows: (copied verbatim)
 
-“Object sighted by a Lt. Bradley, 165th TAC Recon Sq. Ky Air 
-National Guard, based at Standiford, Kentucky. He was flying 
-over Cincinnati (B-57) at 41,000 feet approximately 0200Z, 21 
-Feb 59. Sighted object flashing alternately red, white and 
-green. Object appeared to be round and whole object lighted 
-brilliantly in colors alternately changing red, white, green. 
-Object was approximately 15 miles west of pilot in level flight. 
-Pilot Bradley gave chase on heading 2700 under direction of Oak 
-Hill GCI control. He chased object for about 200 miles, object 
-gradually pulled away. Bradley flying B-57 at 0.8 mach. This 
-object also sighted by three other a/c, SAC Numbers Archie 23 
-and Archie 32 (other not reported). Reported to Moonshine and 
-Paycheck. Further reports are forthcoming. 
+"Object sighted by a Lt. Bradley, 165th TAC Recon Sq. Ky Air National Guard, based at Standiford, Kentucky. He was flying over Cincinnati (B-57) at 41,000 feet approximately 02000, 21 Feb 59. Sighted object flashing alternately red, white and green. Object appeared to be round and whole object lighted brilliantly in colors alternating red, white, green.
 
+Object was approximately 15 miles west of pilot in level flight. Pilot Bradley gave chase on heading 270° under direction of Oak Hill (GCI control). He chased object for about 200 miles. Object gradually pulled away. Bradley flying B-57 at 0.8 mach. This object also sighted by three other a/c, SAC Numbers Archie 23 and Archie 32 (other not reported). Reported to Moonshine and Paycheck. Further reports are forthcoming."
 
-                                                                   
-                                             JOHN C. MCNEILL
-                                             Captain, USAF 
-                                             4X2a
+                                    JOHN C. McNEILL
+                                    Captain, USAF
+                                    422a
 
-  FORM                                                U. S. GOVERNMENT PRINTING OFFICE: 1953 0 – 24835 
-  1 FEB 60 96 REPLACES RME FORM 1 OCT 48, WHICH MAY BE USED
-```
+DD FORM 96                                                    U.S. GOVERNMENT PRINTING OFFICE: 1959 O—463885
+
 
 - page 2 -
 
-This page does not contain a photograph. Here is the OCR output of the text:
-
-```
-DEPARTMENT OF THE AIR FORCI
+DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE DIVISION
-
+UNCLASSIFIED MESSAGE
 INCOMING
 
-21/020ZZ CINCINNATI
-
 20 FEB 59
+SITES
+UFO Study
+3
 
-STATS
-UFO
-fuller
+SID C 137
+CPP MCCS25ZCYJA062
 
-SID X J47 
-CZLHGG3252GYJA062
-PP RJZBHQ
-DE RJEDSG 37D
-P 21050Z
-FM COMDR 2046TH AACSRON WPAFB OHIO
-TO RJW A/COMDR ADC
-RJEDSW/COMDR 30TH ADIV
-RJEDSG/COMDR ATIC
-RJEZHQ/ASS! COPS INTELL USAF
-RJEZHQ/OFFICE OF INFO SVCS HO USAF
+PP RJEZHQ
+DE RJEDS0 370
+P 210500Z
 
-BT
+FY COMDR 2046TH AACRON WPAFB OHIO
+TO RJWFAL/COMDR ADC
+RJEDS/COMDR 30TH ADIV
+RJEDS0/COMDR ATIC
+RJEZHQ/ASST COFS INTELL USAF
+RJEZHQ/OFFICE OF INFO SVCS HQ USAF
+ET
 
-UNCLASS 2046FS-21-B-(1 UFO)
+INCL ASS 2046FS-21-B-C1 (UFO)
 
 A 1. ROUND
 2. UNK
@@ -153,84 +114,77 @@ A 1. ROUND
 6. WHOLE OBJECT ALTERNATELY FLASHED RED-WHITE-GREEN ABOUT 5
 SECOND INTERVALS
 7. NONE
-S. NONE
+8. NONE
 
-AF IN : 01840 (21 Feb 59) Page 1 of 3 pages
-```
+AF IN : 01840 (21 Feb 59)    Page 1 of 3 pages
+
 
 - page 3 -
 
-There are no photographs present on this page of the document.
-
-Here is the OCR output of the text found in the document:
-
-```
-DEPARTMENT OF THE AIR FORCI
+DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE DIVISION
 UNCLASSIFIED MESSAGE
 INCOMING
 
-PAGE TWO RJEDSQ 37D
+PAGE TWO RJEDS9 379
+
 9. NONE
-B1. BRILLIANT LIGHT
+
+B 1. BRILLIANT LIGHT
+
 2. 41 000 FT 270 DEGREES 15 MILES WEST OF CINCINNATI OHIO
 3. 41 000 FT 270 DEGREES
 4. STRAIGHT AND LEVEL
 5. GRADUALLY TO THE WEST
 6. TIME UNK 200 MILES AT SPEED POINT ZERO EIGHT MACH /FOLLOWED/
-C1. AIRBORNE VISUAL
+
+C 1. AIRBORNE VISUAL
+
 2. N/A
-3. B573 IDENT UNK 42 000 FT 270 DEGREES .08 MACH STANDIFORD KY
-D1. 2100Z
+3. 5573 IDENT UNK 42 000 FT 270 DEGREES .08 MACH STANDIFORD KY
+
+D 1. 21/0200Z
 2. NIGHT
+
 E AIRCRAFT OVER CINCINNATI OHIO
-F1. N/A
-2. LT BRADLEY 165TH TAC RECON SQ KY ANG STANDIFORD FIELD KY
-EXCELLENT
-G1. CLEAR GOOD VISIBILITY
-2. 230/6 250/20 290/30 300/60 300/60 290/60 290/60 N/A
+
+F 1. N/A
+2. LT BRADLEY 165TH TAC RECON SQ KY ANG STANDIFORD FIELD KY.
+   EXCELLENT
+
+G 1. CLEAR GOOD VISIBILITY
+2. 230/8 260/20 290/30 300/60 300/60 290/60 290/60 N/A
 3. NONE CLEAR
 4. 15 MILES PLUS
 
-AF IN : 01840 (21 Feb59) Page 2 of 3 pages
-```
+AF IN : 01840 (21 Feb59)    Page 2 of 3 pages
+
 
 - page 4 -
 
-The document does not contain any photographs. 
-
-Here is the text found in the document:
-
-```
 DEPARTMENT OF THE AIR FORCE
-STAFF MESSAGE DIVISION 
-UNCLASSIFIED MESSAGE 
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
 INCOMING
 
-PAGE THREE RJEDSQ 37D
+PAGE THREE RJED50 370
 
+5. NONE
+6. NONE
+H. NONE
 I. GAVE CHASE ON HEADING OF 270 DEGREES FOR 200 MILES
-
 J. UNKNOWN
-
-K. OPERATIONS OFFICER ON DUTY 2046TH AACSRON / FLIGHT SERVICE / W-P 
-
-AFB OHIO APPEARS TO BE ACCURATE AS THE POLIT OF THE B57 
-
+K. OPERATIONS OFFICER ON DUTY 2046TH AACSRON /FLIGHT SERVICE/ W-P
+AFB OHIO APPEARS TO BE ACCURATE AS THE PILOT OF THE B57
 HEARD THE PILOTS OF ARCHIE 23 AND 32 REPORT THE SAME OBJECT
-
-L. NONE 
-
-ST
-
-21/0506Z FEB RJEDSQ 
+L. NONE
+51
+21/0608Z FEB RJED50
 
 ACTION: CIN
+INFO : OOP, SAFIS
+AF IN : 01340 (21 Feb 59)     Page 3 of 3 pages     DB/jry
 
-INFO : OOP, SAPIS
-
-AF IN: 01840 (21 Feb 59) Page 3 of 3 pages DB/jry
-```
 
 - page 5 -
 

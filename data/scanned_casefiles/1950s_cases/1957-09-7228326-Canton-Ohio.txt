@@ -1,16 +1,57 @@
-The image does not contain any photographs. It appears to be a "PROJECT 10073 RECORD CARD" from Project Blue Book, an historical U.S. Air Force program that investigated unidentified flying objects.
-
-TEXT OUTPUT:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 7 SEPTEMBER 1937
-2. LOCATION: CANTON, OHIO
-3. DATE-TIME GROUP: 2200  
-4. TYPE OF OBSERVATION: GROUND-RADAR
-5. PHOTOS: 0 YES
-6. LENGTH OF OBSERVATION: ONE MINUTE
-10. BRIEF SUMMARY OF SIGHTING: ONE OBJECT WHICH WAS ABOUT THE SIZE OF A SOFT-BALL AT ARM'S LENGTH. OBJECT WAS HOVERING AND WAS IN SIGHT FOR 60 SECONDS.
-11. COMMENTS: DURATION, FLIGHT PATH INDICATE THAT THIS SIGHTING WAS PROBABLY CAUSED BY AN AIR-INTERSHIP RADAR. NO REPORT IN FILE.
+
+1. DATE
+1 September 1957
+
+2. LOCATION
+Canton, Ohio
+
+3. DATE-TIME GROUP
+Local
+GNT 02/0435Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual [ ] Ground-Radar [ ]
+Air-Visual [ ] Air-Intercept Radar [ ]
+
+5. PHOTOS
+[ ] Yes
+XXX No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+Thirty seconds
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+NE
+
+10. BRIEF SUMMARY OF SIGHTING
+One round white object the size of a soft-ball at arm's length. Object was seen moving NW and was in sight for 30 seconds.
+
+11. COMMENTS
+Description, duration, flight path indicate that this sighting was probably caused by an aircraft.
+
+No report in file.
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[X] Was Aircraft
+[X] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
 
 - page 1 -
 

@@ -1,40 +1,114 @@
-The image does not contain a photograph. The image is a page from a Project Blue Book record card, which appears to be a form used to document UFO sightings.
-
 PROJECT 10073 RECORD CARD
-1. DATE: SEPTEMBER 1, 1957
-3. DATE/TIME GROUP: 2229-2232
-5. DURATION: 3 MINUTES
-7. LENGTH OF OBSERVATION: 3 MINUTES
-10. BRIEF SUMMARY OF SIGHTING: OHO - Ground orange colored lights, coming from the west, disappearing, reappearing, then disappearing again. Object was sighted for one minute.
-12. CONCLUSIONS: Was Aircraft/Probably Aircraft; Was Missile/Probably Missile; Was Astronomical/Possibly Astronomical; Insufficient Data for Evaluation.
+
+1. DATE
+22 October 1957
+
+2. LOCATION
+Attapulgus, Georgia
+
+3. DATE/TIME GROUP
+Local 29/2282N4
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+□ Air-Visual
+□ Ground-Radar
+□ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[X] No
+
+6. SOURCE
+Civilian (GOC)
+
+7. LENGTH OF OBSERVATION
+one minute
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+see below
+
+10. BRIEF SUMMARY OF SIGHTING
+One round orange or reddish orange object was seen coming from the west, stopping and returning to the west. Object was in sight for one minute.
+
+11. COMMENTS
+Description, duration, flight path indicate that this sighting was probably caused by an aircraft.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+[X] Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other:
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image, which appears to be a page from an old Project Blue Book document. I will now proceed to extract and output all the text found in the document:
+Here is the text I can read from the document:
 
-JEDVP H041 WPB137 YDBBBD VYA156 VDCGG2BD AG37
-RR RJEEDN RJEDVP RJEPHG RJEPNB 
-DE RJEEKB 89
-R 341612Z
+JEDWP H041 WPB137 YDB090 VYA150 VDC662KBA637
+RR RJEDDN RJEDWP RJEPHQ RJEPNB
+DE RJESKB 69
+R 311612Z
+
+At the bottom right, there are some handwritten notes:
+29/2377Z
+Multi
+
+D 4971
+34 X 12
+
+There is also a date stamp: 11 NOV 57 10 32
+
+Most of the text in the upper portion of the document is too illegible for me to confidently transcribe.
+
 
 - page 2 -
 
-The image does not contain any photograph. It appears to be a scanned document from Project Blue Book, an Air Force program that investigated unidentified flying objects (UFOs).
-
-FM COMDR 35TH CADD DOBBINS AFB GA
+FM COMDR. 35TH CADD DOBBINS AFB GA
 TO RJEDDN/COMDR ADC ENT AFB COLO
 RJEDWP/COMDR ATIC WRIGHT PATTERSON AFB OHIO
-RJEPPG/AFOINTELLNORC HQ USAF WASHINGTON DC
-INFO RJEPNB/COMDR EADF STEWART AFB NY BY
-UNCLASSIFIED/POINT 5756-57
-H - NONE 5- REDDISH ORANGE,D- ONE BRIGHTNESS: MORE THAN ONE
-C - UNKNOWN FLAT BRILLIANCE OF OBJECT 2. UNKNOWN 3. UNKNOWN
-D - UNKNOWN OBJECT FROM OBSR STOPPED MOMENTARILY AND RETURNED TO WEST
-E - FADED FROM SIGHT F. APPROXIMATELY ONE MINUTE 3-A. GROUND VISUAL
-B. BINOCULARS C. N/A 4.A. 29/2322Z OCTOBER 1957 B. DUSK 5. GJF33343
-C.A. 18? ATTAPULGUS, GA. GOC POST SUPERVISOR
-D. NONE T.A. FAIR B. SURFACE-29/33 3030-239/13 13000-230/13
-31/1553Z OCT RJESKB
+RJEPHQ/ACS INTELLIGENCE HQ USAF WASHINGTON DC
+INFO RJEPNB/COMDR EADF STEWART AFB NY
+
+BT
+/UNCLASSIFIED/INT 673A UFOB SIGHTING D. ONE E. N/A F. NONE G. NONE
+H. NONE I. ATTN: EADF CIC 1.A. GROUND
+B. (UNKNOWN) C. ORANGE D. APPROACHED FROM WEST, STOPPED MOMENTARILY, AND RETURNED TO WEST
+E. FADED FROM SIGHT F. APPROXIMATELY ONE MINUTE G. GROUND VISUAL
+B. BINOCULARS C. N/A 4.A. 29/232TZ OCTOBER 1957 B. DUSK 5. GJFA3048
+6.A. 18; ATTAPULGUS, GA., GOC OBSERVER
+B. NONE 7.A. FAIR B. SURFACE-990/3; 6900-280/15; 10000-280/15;
+16000-280/25; 20000-290/30; 30000-290/50; 50000-290/90; 80000-UNKNOWN
+
+Pro. Supt.
+
+No significant elevation or size given, however, the maneuver and course described that of an A/C.
+The sums setting rays reflecting off the side of an acft. would often give a round appearance as
+PAGE TWO RJESKB 89 has been shown by prior reports.
+C. HIGH THIN SCATTERED D. UNRESTRICTED E. TWO TO THREE TENTHS F. NONE
+8. NEGATIVE 9. NONE 10. 678TH ACWRON REPORTED NO AIR TRAFFIC
+11. DIRECTOR OF INTELLIGENCE, 35TH AIR DIVISION; BRILLIANCE OF
+OBJECT PROBABLY CAUSED BY REFLECTION OF SUN WHICH SET AT 2245Z
+•LIGHT PATH OF OBJECT AS RELATED TO WINDS ALOFT PRACTICALLY RULES
+OUT POSSIBILITY OF BALLOON. MEAGER INFORMATION MAKES EVALUATION
+DIFFICULT. 12. NONE
+
+BT
+31/1853Z OCT RJESKB
+
 
 - page 3 -
 

@@ -1,448 +1,381 @@
-There are no photographs present on this page.
-
-Here is the text output from the document:
-
 PROJECT 10073 RECORD CARD
 
-1. DATE                           2. LOCATION
-28 July 1956                   Chilton, Wisconsin
+1. DATE
+28 July 1956
 
-3. DATE-TIME GROUP      4. TYPE OF OBSERVATION
-Local                                       X Ground-Visual           O Ground-Radar
-GMT _ 23/0745Z                       O Air-Visual                  O Air-Intercept Radar
+2. LOCATION
+Chilton, Wisconsin
 
-5. PHOTOS                       6. SOURCE
-O Yes                                       Civilian
-X No
+3. DATE-TIME GROUP
+Local: 28/0745Z
+GMT: 28/0745Z
 
-7. LENGTH OF OBSERVATION      8. NUMBER OF OBJECTS   9. COURSE
-3 and 1/4 hour                          NONE                                       ascending
+4. TYPE OF OBSERVATION
+☐ Ground-Visual
+☐ Air-Visual
+☐ Ground-Radar
+☐ Air-Intercept Radar
 
-10. BRIEF SUMMARY OF SIGHTING                  11. COMMENTS
-One solid object with arm protruding           There is no doubt that this
-rear, white in color, red at one end.          sighting was caused by the
-First seen at 90 degrs fm observer,            planet Venus. This analyst
-very low. Object appeared to ascend            observed the planet Venus
-during the time of the sighting.               at exactly the same time and
-Binoculars used.                               on the same date. All points
-                                               of this sighting fit the above
-                                               hypothesis.
+5. PHOTOS
+☐ Yes   ☒ No
 
-12. CONCLUSIONS
-O Was Balloon
-O Probably Balloon
-X Possibly Balloon
-O Was Aircraft
-O Probably Aircraft
-O Possibly Aircraft
-X Was Astronomical                             Venus
-O Possibly Astronomical
-O Other                                              ________
-O Insufficient Data for Evaluation
-O Unknown
+6. SOURCE
+Civilian
 
-No Report in File.
+7. LENGTH OF OBSERVATION
+3 and 1/4 hour
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+ascending
+
+10. BRIEF SUMMARY OF SIGHTING
+One solid object with arm protruding at rear, white in color, red at one end. First seen at 90 dgrs fm observer, very low. Object appeared to second during the time of the sighting. Binoculars used.
+
+11. COMMENTS
+There is no doubt that this sighting was caused by the planet Venus. This analyst observed the planet Venus at exactly the same time and on the same date. All points of this sighting fit the above hypothesis.
+
+No report in file.
 
 ATIC FORM 329 (REV 26 SEP 52)
 
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical Venus
+☐ Probably Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+
 - page 1 -
 
-There is one photograph at the bottom of the document. It shows a very wide, undefined expanse, which appears to be a sky or a backdrop without any discernible features. A linear, somewhat irregular formation, possibly a contrail or an artifact of the photograph, cuts across the expanse horizontally.
+UFOB INDEX CARD                                                 AISS-UFOB-206-56
 
-Here is the OCR output of the text in the document:
+1. DATE                                                                  2. LOCATION
+28 July 1956                                                             CHILTON, WISCONSIN
+                                                                          Calumet, Michigan
 
----
-UFOB INDEX CARD AISR-UFOB-206-56
+3. DATE-TIME GROUP                                                       12. CONCLUSIONS
+28/0800Z Jul 56                                                          □ Was Balloon
+                                                                          □ Probably Balloon
+4. TYPE OF OBSERVATION                                                   □ Possibly Balloon
+□ Ground-Visual     □ Ground-Radar                                       □ Was Aircraft
+□ Air-Visual        ■ Air-Intercept Radar                                □ Probably Aircraft
+                                                                          □ Possibly Aircraft
+5. PHOTOS                                                                ■ Was Astronomical
+□ Yes   ■ No                                                             □ Probably Astronomical
+                                                                          □ Possibly Astronomical
+6. SOURCE                                                                □ Other
+Civilian and AF                                                          □ Insufficient Data for Evaluation
+                                                                          □ Unknown
+7. LENGTH OF OBSERVATION                                                 11. COMMENTS
+Three (3) hours                                                          Limited investigation of this sighting by
+
+8. NUMBER OF OBJECTS                                                     this hq and TAC. Conversion with
+One (1)                                                                  pilot indicated that his contacts (radar)
+
+9. COURSE                                                                were not sharp and he was of the opinion
+Ascending                                                                that his contacts were not with the UFOB
+
+10. BRIEF SUMMARY OF SIGHTING                                            but with some other object such as a bird,
+One (1) object, described as being similar to                            cloud, carve on the horizon or "one of
+a large light bulb, white in color with a                                a thousand other things". The pilot saw
+colored exhaust. At times appeared to give                               no object although he made three passes
+off a different color. Ascended. Two (2)                                 each at a different altitude. It was his
+three second radar contacts by F-89.                                     velocity of the wind at this altitude that
+
+AISOP Form 5   (15 Oct 54)                                               it impossible for a balloon to be observed
+                                                                          for these hours. In his opinion of this
+
+
+- page 2 -
+
+Headquarters and the investigating flight that this sighting was definitely caused by the planet Venus.
+
+
+- page 3 -
+
+PROJECT 10073 RECORD CARD
 
 1. DATE
-28 JULY 1956
-3. DATE-TIME GROUP
-28/0800Z JUL 56
-5. PHOTOS
-O Yes
-X No
+28 July 1956
 
 2. LOCATION
-CHILTON, WISCONSIN
-CADILLAC, MICHIGAN
+Chilton, Wisconsin
+Calumet, Michigan
+
+3. DATE-TIME GROUP
+Local
+GMT 28/0800Z
+
 4. TYPE OF OBSERVATION
-O Ground-Visual
-X Ground-Radar
-O Air-Visual
-O Air-Intercept Radar
+Ground-Visual Ground-Radar Air-Intercept Radar
+
+5. PHOTOS
+No
+
 6. SOURCE
 Civilian and AF
 
 7. LENGTH OF OBSERVATION
-Three (3) hours
-9. COURSE
-Ascending and erratic
+three hours
 
 8. NUMBER OF OBJECTS
-One (1)
+one
 
-10. BRIEF SUMMARY OF SIGHING
-One (1) object, described as being similar to a large light bulb, white in color with a colored exhaust. At times appeared to give off different colors. Ascended. Two (2) three second radar contacts by F-89.
+9. COURSE
+ascending & extrapolating
+
+10. BRIEF SUMMARY OF SIGHTING
+One object, described as being similar to a large light bulb, white in color with a colored exhaust. At times appeared to give off different colors, ascended. Two three second radar contacts by F89--
 
 11. COMMENTS
-Limited investigation of this sighting by this hq and 1st 3-c. Conversation with pilot indicated that his contacts (radar) were not sharp and he was of the opinion that his contacts were not with the UFOB but with some other object such as a bird, cloud, large on the horizon or “one of a thousand other things.” The pilot saw no object although he made three passes each at a different altitude. It is impossible for a balloon to be observed for three hours. It is the opinion of 
+Limited investigation of sighting by Flt 3-C. Conversation w/ pilot indicated that his contacts (radar) were not sharp & he was of the opinion that they were not w/the UFOB but w/some other object such as bird, cloud, target on horizon or tone on a thousand other things! The pilot saw no obj although he made 3 passes at different alt at time. High velocity winds rule out balloon sighting of 8 hrs. Definitely evaluated Planet Venus
 
 12. CONCLUSIONS
-O Was Balloon 
-O Probably Balloon
-O Possibly Balloon
-X Was Aircraft
-O Probably Aircraft
-O Possibly Aircraft
-O Was Astronomical 
-O Probably Astronomical
-O Possibly Astronomical
-O Other. 
-X Insufficient Data for Evaluation 
-O Unknown
+Was Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Probably Aircraft
+Probably Astronomical Venus
+Other
+Insufficient Data for Evaluation
+Unknown
 
-AISOP Form 5 (15 Oct 54)
----
-
-- page 2 -
-
-The image does not contain any photographs. 
-
-The text in the document reads:
-
-Headquarters and the investigating Flight that this sighting was definitely caused by the planet Venus.
-
-- page 3 -
-
-There are no photographs present in this image.
-
-Here is the text found in the document:
-
-```
-PROJECT 10073 RECORD CARD
-
-1. DATE                                   2. LOCATION
-28 July 1956                             Chilton, Wisconsin
-                                        3. DATE-TIME GROUP
-                                        GMT  28/0800Z 4. TYPE OF OBSERVATION
-5. PHOTOS
-     OYes
-     X No                                   X Ground-Visual OGround-Radar
-                                                 O Air-Visual  Air-Intercept Radar
-6. SOURCE
-Civilian and AF 7. LENGTH OF OBSERVATION
-three hours 8. NUMBER OF OBJECTS
-one 9. COURSE
-ascending & erratic
-10. BRIEF SUMMARY OF SIGHTING
-One object, described as being similar to a large light bulb, white in color
-with a colored exhaust. At times appeared to give off different colors.
-Ascended. Three-three second radar contacts by F89-. COMMENTS
-LimitEed Investigation of sighting by FlT 3-C. Conversation w/
-pilot indicated that his contacts (radar) were not sharp & he was of the opinion that they were not w/the UFOs but w/some other obj such as bird, cloud, target on horizon or [one of a thousand other things" The pilot saw no obj although he made 3 passes, at different alt ea time. High velocity winds rule out balloon sighting 0-2 hrs. Definitely evaluated Planet Venus
-11. WEATHER
-12. CONCLUSIONS
-O Was Balloon
-X Possibly Balloon
-O Was Aircraft
-X Probably Aircraft
-O Was Astronornicel Venus
-O Possibly Astronomical
-   OProbable
-   OOther
-   Insufficient Data for Evaluation
-
-
-ATIC FORM 329 (REV 26 SEP 52)
-```
 
 - page 4 -
 
-The document contains two black and white images at the top, depicting what appears to be unidentified flying objects (UFOs). Both images show slender, elongated shapes in the sky, typical of many "classic" UFO sightings.
+Here is the OCR text from the document:
 
-Here is the text from the document:
+R:111
 
-```
-2111
-
-WPf157 YMB122AAE727AEJcZ4
-
-UU RJEDEN: RJEDNP RJEPHO RJEPNB
-
-DE RUJEDAE 4J
-
+WP167 WM122AEA27AEJ*34
+DE RJEDEN RJEDWP RJEPHQ RJEPNB
+DE RJEDAE 4J
 O 281145Z
 
 FM COMDR 676TH ACWRON ANTIGO WISC
 
-TO RJEDEN/COMDR AIRDEFENSE COMAND ENT AFB COLORADO SPRINGS COLORADO
+TO RJEDEN/COMDR AIRDEFENSE COMMAND ENT AFB COLORADO SPRINGS COLORADO
 
-RJEDAE/COMER 37TH AIR DIV TRUAX FLD MADISON WISC
+RJEDAE/COMDR 37TH AIR DIV TRUAX FLD MADISON WISC
 
 RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT-PATTERSON AFB OHIO
 
 RJEPHO/DIRECTOR OF INTELLIGENCE,HEADQUARTERS USAF,WASHINGTON 25,D C
 
-INFO RJEPEN/PJ/UTD EADF CIC
+INFO RJEPNB/AUTOB EADF CIC
 
-UNCLASSIFIED DTGOPS C7-175 PD UFCB IN COMPLIANCE WIT:
+DT
 
-AFR 200-2 UFC2 PAR 7A FOLLOWING REPORT IS SUBMITTER:
+N CL A S S I F I E D/ANOPS 37-17% PD UFOB IN COMPLIANCE WITH
+AFR 200-2 UFOB PAR 7A FOLLOWING REPORT IS SUBMITTED:
 
-DESCRIPTION OF OBJECT
-
+1. DESCRIPTION OF OBJECT
 1. SOLID BODY WITH ARM PROTRUDING FROM REAR
-
-2. SIZE OF BASEBALL.
-
-3. WHITE IN BODY,AND RED AT ONE END.
-
+2. SIZE OF BASEBALL
+3. WHITE IN BODY,AND RED AT ONE END
 4. 1 (ONE)
-
 5. N/A
-
 6. LOOKED LIKE SOLID BODY WITH ARM PROTRUDING FROM REAR
-
-7 7. NO TRAIL OR EXHAUST
-
-8. NNO SOUND
-
+7. NO TRAIL OR EXHAUST
+8. NMO SOUND
 9. N/A
 
-COURSE
-
+3. COURSE
 1. CALL FROM OTHER PERSON (UNKNOWN)
-
 2. 090 DEGREES FROM OBSERVER AND TREE TOP HEIGHT
+3* AZIMUTH N/A ELEVATION AT DISAPPEARANCE EST 14,200 FT
 
-3' AZIMUTH N/A ELEVATION AT DISAPPEARANCE EST 12,000 FT
-```
 
 - page 5 -
 
-There is no photograph in the document.
-
-Here is the text present in the document:
-
----
-4. STRAIGHT UP
 5. DISAPPEARED AS THE DAY GOT BRIGHTER
-6. 3 HRS. AND 15 MIN. 
 
-C.1. MANNER OF OBSERVATION:
+6. 3 HRS. AND 15 MIN.
+
+C.M. MANNER OF OBSERVATION:
 1. GROUND-VISUAL
 2. SIGHTED BY EYE BUT BINOCULARS WERE USED FOR OBSERVANCE ALSO
 
-D. TIME AND DATE OF SIGHTING
-1. 0745Z 26 JUL 1956
+D. TIME AND DATE OF SIGHTING:
+1. 27452 28 JUL 1956
 2. NIGHT TO DAWN
 
-E.1. LOCATION OF OBSERVER WAS 50 5202
+E.M. LOCATION OF OBSERVER WAS EO 5822
 
-F.
-[redacted]
-CHILTON WISCONSIN
+F. CHILTON WISCONSIN
 
-G. WEATHER
-1. WX WAS CLEAR AT TIME OF OBSERVATION. AND STAYED THROUGHOUT OBSERVATION
-2. SURFACE WINDS N/A WINDS AT 12,000' CALLED KTS
+G. WEATHER:
+1. WX WAS CLEAR AT TIME OF OBSERVATION AND STAYED THROUGHOUT
+
+OBSERVATION
+2. SURFACE WINDS N/A WINDS AT 14,000' GAUGE KTS
 3. NONE
 4. GOOD
 5. NONE
 6. NONE
 
-H.
-SIGHTING COULD BE THAT OF A BALLOON RELEASED AT MSP 27 JUL
-(AM) FOR WX RECONNAISANCE
-I.
-N/A
-J.
-N/A
-K.
-SENIOR DIRECTOR, 1ST LT. NO COMMENT
-L.
-DRAWING WAS MADE OF IT AND IS HELD BY OBSERVER
-[redacted]
-26/1345Z JUL
----
+H. SIGHTING COULD BE THAT OF A BALLOON RELEASED AT MSP 27 JUL (AND) FOR WX RECONNAISSANCE
+
+I. N/A
+J. N/A
+K. SENIOR DIRECTOR, 1ST LT. NO COMMENT
+L. DRAWING WAS MADE OF IT AND IS HELD BY OBSERVER
+
+20/13452 JUL
+
 
 - page 6 -
 
-There are no photographs present on this page. Here is the text from the document:
-
 IN
+
 30 JUL 1956 07 28 E
-WPED51 YMBD22 TYB142 TDD484BT121TB0339 YMA129AEAQSA22EAEC035
-PP RJEDEN RJEOWP RJEPHO RJEPNB RJ RJEPNB RJEDAE
-DE RJEDAE 3E
-P 2819302Z
-FM COMDR 752ND ACAW SQEN EMPIRE MICH
+
+1/2-4 E-4
+
+4472a
+
+WPE051 YMB022 TYB142 TDB048SBT21TB039 WMA129AEA092AEE005
+PP RJEDEN RJEDWP RJEPHO RJEPNB RJ RJEPNB RJEDAE
+DE RJEDAE 5E
+
+281930Z
+
+FM COMDR 752ND AC&W SQEN EMPIRE MICH
 TO RJEDEN/COMDR AIR DEFENSE COMMAND ENT AFB COLO
-RJEDNR/COMDR AIR TECHNICAL INTELLIGENCE CEN WPAFB OHIO
-RJEPHQ/DIRECTOR OF INTELLIGENCE HQ USAF WASHINGTON 25, D C
-RJEPNB/COMDR EADF STEWART AFB NEWBURGH NY
-RJEDAZ/COMDR 37TH ADIV (DEF) TRUAX FLD MADISON WISC
+REDNR/COMDR AIR TECHNICAL INTELLIGENCE CEN WPAFB OHIO
+REPHQ/DIRECTOR OF INTELLIGENCE HQ USAF WASHINGTON 25, D C
+RJEPNB/COMDR EADF STEWART AFB NEWSURGH NY
+RJEDAE/COMDR 37TH ADIV (DEF) TRUAX FLD MADISON WISC
+
 ET
-UNCLASSIFIED/OPS 89 PD ATT'N: INTELLIGENCE OFFICER IAW AFR 200-2 THE FCG
-UFO RPRT IS SUBM CMN ITEM 1A LARGE LIGHT BULB PD 1B UNK PD 1C WHITE CM
-WITH COLORED EXHAUST PD 1D ONE PD 1E NEG 1F NONE PD 1G NONE PD 1H NONE
-1I GIVING OFF DIFFERNT COLORED LIGHTS PD 2A VERTICAL MOVEMENT PD 2B
-3TMTD 3,393 FT PD 2C VERTICAL OUT OF SIGHT 3,000 FT PD 2D SLOW AND
+
+UNCLASSIFIED/ OPS 89 PD ATTN: INTELLIGENCE OFFICER IAW AFR 200-2 THE PGE
+UFOB RPT IS SUBM CMM ITEM 1A LARGE LIGHT BULB PD 1B UNK PD 1C WHITE CMM
+WITH COLORED EXHAUST PD 1D ONE PD 1E NOS IF NONE PD 1G NONE PD 1H NONE
+PD 1I GIVING OFF DIFFERENT COLORED LIGHTS PD 2A VERTICAL MOVEMENT PD 2B
+RMTD 3,000 FT PD 2C VERTICAL OUT OF SIGHT 3,000 FT PD 2D SLOW AND
 ERRATIC FLIGHT PATH CMM FAST VERTICALLY PD 2E VERTICALLY OUT OF SIGHT PD
-2F APPPOX 3 HRS' PD 3A STATE AND LOCAL POLICE AT CADILLAC MICH PD 3B UNK
-PD 2C TWO 3 SEC RADAR CONTACTS CMM AIRBORNE PD 4A 030302 28 JUL 56 PD 4B
-NIGHT AND DAWN PD 5 APPROX FQ 1523 GD S
-STATE POLICE CADILLAC POST PD 7A 2830/23 CMM 2730/43 CMM 2730/50 CMM 2730/73
-CMM 2830/35 CMM 2730/53 UNK PD 7B UNK PD 7C UNLIMITED PD 7D 15 PLUS PB
-7E NONE PD 7F NONE PD 8 NOE PD 9 UNK 1E F-89 WURTSMITH AFD OSCODA MICH
+2F APPGOX 3 HRS PD 3A STATE AND LOCAL POLICE AT CADILLAC MICH PD 3B UNK
+PD 2C TWO 3 SEC RADAR CONTACTS CMM AIRBORNE PD 4A 0302Z 23 JUL 56 PD 4B
+NIGHT AND DAWN PD 5 APPROX FQ 1520 SD 6
+
+STATE POLICE CADILLAC POST PD 7A 280/20 CMM 270/42 CMM 270/50 CMM 270/70
+CMM 230/65 CMM 270/50 UNK PD 7B UNK PD 7C UNLIMITED PD 7D 15 PLUS PB
+7E NONE PD 7F NONE PD 8 NOE PD 9 UNK 10 F-89 WURTSMITH AFB OSCODA MICH
 CMM TWO BRIEF RADAR CONTACTS PD 11 NONE BY GOC OR GRND RADAR PD 12 NO
 PROBABLE CAUSE AT THIS TIME CMM FIRST LT NORMA B BROOKS USAF OPS CONTROL-
 
+
 - page 7 -
 
-The image does not contain a photograph. It is a scanned document page. Here is the text present on the document:
-
-```
 LER PD
-
 BT
-28/20582 JUL RJEDAE
+28/2058Z JUL RJEDAE
 
 A. F. RADAR, PLANES FAIL
 IN HUNT FOR LIGHT IN SKY
-    CADILLAC, Mich., July 28.--(AP)--"A brilliant white light" was
-reported in the sky near this Michigan resort town early today by
-tourists and police. Air Force radar and interceptors could find
-nothing.
-    The first report was received by Sgt. Willard Irwin of the
-Cadillac police from Willard Wood of Covert, Mich., who said the
-object was moving north toward Cadillac.
-    The object was seen east of Cadillac by Sgt. Irwin too, before
-he notified Ptl. John Langley and M/M Earl Taylor.
-    The patrolmen said they interviewed three Illinois tourists,
-Allan Howe of Sterling and his wife and mother about the light.
-```
+
+CADILLAC, Mich., (JP) - A brilliant white light was reported in the sky near this Michigan resort town early today by tourists and police. Air Force radar and interceptors could find nothing.
+
+The first report was received by Sgt. Willard Irwin of the Cadillac police from Willard Wood of Cadillac, who said the object was moving north toward Cadillac.
+
+The object was seen near Cadillac by Sgt. Irwin too, before he notified Pt. John Langley and Merrill.
+
+The patrolmen said they interviewed three Illinois tourists, Allan Howe of Sterling and his wife and mother about the light.
+
 
 - page 8 -
 
-There is no photograph present in the image you've provided. This image is of a document, and I will now output the text found in the document:
+JOINT MESSAGEFORM
 
----
+FROM: COMDR ATIC
 
-JOINT MESSAGE FORM
-COMMUNICATIONS CENTER NO.
-
-[FORM BOX] 
-FROM: SPACE ABOVE FOR COMMUNICATIONS CENTER ONLY
-
-[FORM BOX] 
-3 JUL 56
-
-[FORM BOX] 
-ORIGINATOR
-
-[FORM BOX] 
-
-TO: COMDR, ILLINOIS AIR SUPPORT GP,
+TO: COMDR, 1110TH AIR SUPPORT GP,
 LOWRY AFB, COLORADO
-
-[FORM BOX] 
-DATE TIME GROUP SECURITY CLASSIFICATION
-31JUL56  JUL 56  UNCLASSIFIED 
-
-[FORM BOX] 
-PRECEDENCE  ACTION  INFORMATION
-FOR: ROUTINE 
-
-[FORM BOX] 
-
-[FORM BOX] 
-BOOK MESSAGE  ORIGINAL MESSAGE
-
-[FORM BOX] 
-MULTIPLE ADDRESS 
-
-[FORM BOX] 
-CRYPTOCONFIRMATION
-IDENTIFICATION  YES  NO
-REFERS TO MESSAGE CLASSIFCATION
 
 INFO:
 
-(UNCLASSIFIED) FROM: AFOM-1294 7 - 7 646-E
-
+(UNCLASSIFIED) FROM: AFOIN-484-7-646 L
 IAW AFR 200-2. Request any information concerning balloon tracks or launchings
-
-in general areas bound by Milwaukee, Grand Rapids and Flint, Michigan, north to
-
-Canadian border, on 28 July between 0630 - 0830 zone time. Specifically, UFOs
-
+in general area bound by Milwaukee, Grand Rapids and Flint, Michigan, north to
+Canadian border, on 28 July between 0630 - 0830 zone time. Specifically, UFOBs
 reported near Cadillac, Michigan and Clinton, Wisconsin. Possible any
-
 General Mills projects involved? This query to be considered separate from any
-
-made by 4602d A15S, R, ADC, in course of general UFO investigation.
+made by 4602d AIS, EG, ADC, in course of general UFO investigation.
 
 COORDINATION:
+AFOIN-484 Heavy Duty Date 31/7/56
 
-AFOM-1294 DATE 31/7/56
+Capt G.T. Gregory
+AFOIN-484
 
-DRAFTER'S NAME (and signature, when required) SECURITY CLASSIFICATION
+SYMBOL
+DD FORM 173
+1 OCT 49
 
-Capt G.T. Gregory UNCLASSIFIED ___ OF 1 PAGES
+TELEPHONE
+69216
 
-PLEASING OFFICER'S SIGNATURE SYMBOL TELEPHONE OFFICIAL TITLE
-(signature) AFOM-1294 69216
+SECURITY CLASSIFICATION
+UNCLASSIFIED
 
-DD FORM 173 REPLACES PRE FORM 17. 1 MAY 48, 
-1 OCT 49 WHICH MAY BE USED. 
+RELEASING OFFICER'S SIGNATURE
 
-GPO-1960-834281 U.S. GOVERNMENT PRINTING OFFICE
+OFFICIAL TITLE
 
---- 
+REPLACES WD FORM 172, 1 MAY 49,
+WHICH MAY BE USED.
 
-Please note there may be minor inaccuracies due to the quality of the document and its scanned image.
+PAGE 1 OF 1 PAGES
+
 
 - page 9 -
 
-There are no photographs present in the image.
+TWY
 
-The text on the document reads as follows:
-
-```
-TWX
 IN
 
-JEDWP H017WPF163 WVC9S1AM9A988
+JEDWP H01WPF163 WYCBS1AMA0SS
 RR RJEDWP
-DE RWJFAM 38
-R 052128Z
-FM COMDR 1110TH AIR SUPGRU LOWRY AFB COLO
+DE RJWFAM 38
+R 062126Z
+
+7 AUG 1956
+3 4E4
+3 4 2a
+
+FM COMDR 1106TH AIR SUPPGRU LOWRY AFB COLO
 TO COMDR ATIC WPAFB OHIO
 BT
 UNCLAS HU-8-4.
-
-REF MSG AFOIN-44-7-7-945-E TO OUR KNOWLEDGE THERE WERE NO BALLOONS IN
+REF MSG AFOIN-4E4-7-S4S-E TO OUR KNOWLEDGE THERE WERE NO BALLOONS IN
 THE AREA OUTLINED IN YOUR MSG AT THE TIME SPECIFIED. REPORTS TO THIS
 HQ FROM GENERAL MILLS INDICATE THEY DID NOT HAVE ANY BALLOONS IN AREA.
-
-BT
 062213Z AUG RJWFAM
 
-Place in
-C.J. folder
-For Capelle to look at
-Case file (Check to make sure file is not requested by)
-- action -
-```
+[Handwritten notes at bottom of document are partially illegible]
+
 
 - page 10 -
 
-There is no photograph present in this document. Here is the text from the document:
+Case 177, Cadillac, Mich., July 28, 1956—"A brilliant white light" was reported in the sky by tourists and police, but air force radar and interceptors could find nothing. According to the Detroit Free Press, the first report on the object was made by Willard Wood at 3:30 am.
 
----
-Case 177, Cadillac, Mich., July 28, 1956—"A brilliant white light” was reported in the sky by tourists and police, but air force radar and interceptors could find nothing. According to the Detroit Free Press, the first report on the object was made by Willard Wood at 3:30 a.m. “At first I thought it was a plane so I stopped my car and got out hoping to hear the motors—but I didn’t hear anything,” said Wood. He said the light looked like a clear glass light bulb. He then went to the Cadillac Police station and reported it. Two officers, John Langley and Merrill Taylor, were sent out to look. Langley said the object approached and withdrew several times and as night faded and stars disappeared, it seemed to grow brighter. “Suddenly it faded right out in the matter of a few minutes,” Langley said. Taylor said there was no doubt in his mind that it was not a star. Wood said that he saw occasional red flashes in the intense white light. He said the light appeared as close as 300 feet from the ground. The object was also seen near Bad Axe, Mich., according to the port Huron Times-Herald. Three Detroit men driving into the “Thumb” area stopped at the State Police post and. reported a “brilliant” object to Trooper Calvin Gissendaner. Said Gissendaner, “When I looked at it with the men, it was shining steadily although they told me that the light was on and off as they drove from Marlette to Bad Axe."
----
+"At first I thought it was a plane or I stopped my car and got out hoping to hear the motor," said Wood. "I didn't hear anything." Wood said the light looked like a clear glass light bulb. He then went to the Cadillac Police station and reported it. Two officers, John Langley and Merrill Taylor, were sent out to look.
+
+Langley said the object approached and withdrew several times and as night faded and stars disappeared, it seemed to grow brighter. "Suddenly it faded right out in the matter of a few minutes," Langley said. Taylor said there was no doubt in his mind that it was not a star. Wood said that he saw occasional red flashes in the intense white light.
+
+He said the light appeared as close as 300 feet from the ground. The object was also seen near Bad Axe, Mich., according to the Port Huron Times-Herald. Three Detroit men driving into the "Thumb" area stopped at the State Police post and said the object was "bright." They said it was hovering at it with the men, it was shining steadily, although they told me that the light was "on and off as they drove from Marlette to Bad Axe."
+
 
 - page 11 -
 

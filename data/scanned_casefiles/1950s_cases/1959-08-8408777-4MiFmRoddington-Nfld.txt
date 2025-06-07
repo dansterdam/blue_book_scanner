@@ -1,69 +1,94 @@
-The image does not contain any photograph. It appears to be a Project 10073 Record Card from the Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
-
-OCR output:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
-19 AUG 59
+19 Aug 59
+
 2. LOCATION
-1 Mi Fm Roddington, Nfld.
-3. DATE-TIME GRP
+4 Mi fm Roddington, Nfld
+
+3. DATE-TIME GROUP
 Local
+GMT 30/0320Z
+
 4. TYPE OF OBSERVATION
-D-Ground-Visual
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
 5. PHOTOS
-0 Yes
-X No
+[ ] Yes
+[X] None
+
+6. SOURCE
+Civilian
+
 7. LENGTH OF OBSERVATION
 not given
-10. BRIEF SUMMARY OF SIGHTING
-The informant stated to be willing in an easterly direction.
 
-12. CONCLUSIONS
-X Was Balloon
-Probably Balloon
-Possibly Balloon
-Was Aircraft
-Probably Aircraft
-Possibly Aircraft
-Was Astronomical
-Probably Astronomical
-Possibly Astronomical
-Other
-Insufficient Data for Evaluation
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+not given
+
+10. BRIEF SUMMARY OF SIGHTING
+Large blue ball, appeared to be falling in easterly direction.
 
 11. COMMENTS
-The identity of the object as a meteor. However, info too
-limited to form positive conclusion.
+Possibility exists obj could have been a meteor. However, info too limited to form positive conclusion.
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Possibly Balloon
+[ ] War Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[X] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 28 SEP 52)
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a page from an old Project Blue Book document, which is a collection of reports and investigations related to unidentified flying objects (UFOs) by the United States Air Force.
+Here is the text I can read from the document:
 
-The text on the page appears to be a teletype message or some other type of official document. The text reads:
+Teleformed MN...
 
-MMNNCGCS-P-63ZCGAT75-ZCJYD599
-yyyy yy rjed3o
-DE rjenf* 41a
-ton
-TELEPROMPTED 20 Aug 59
-20 AUG 15 43
-ATT:
+NNNZC2CS9P$3ZCS9A75$2CJY059
+
+DE RJENF 41A
+TON
+
+1959 AUG 20 15 25
+
+ATC 15 43
+
+50187
+
+20 AUG 59 15 43
+
+Some parts of the text are partially obscured or blacked out, so I've transcribed only the clearly legible text.
+
 
 - page 2 -
 
-There is no photograph present in this image. This appears to be a typed document containing detailed information and observations related to a reported UFO sighting.
+Here is the OCR text from the document:
 
-TO COMBAT CENTER HQ 54AIRDIVD
-TO CONTINENTAL/ADC
-RJEDS/AIC TECH INTELLIGENCE CENTER WRIGHT PATTERSON AFB
-RJEZH/ASST CHIEF OF STAFF INTELL HQ USAF
-JEZIK/OIS HQ USAF
-RFENUB/AIR OFFICER COMMANDING ADC
-SUPERL/12S AISS FT BELVOIR
-AF GNRC
-ST
-/UNCLAS/54TH CC 22154 ATTN COG INTEL
+V 201625Z ZEN
+FM COMBAT CENTER HQ 64AIRDIVD
+TO CORNUFAL/ADC
+RJEDSQ/AIC TECH INTELLIGENCE CENTER WRIGHT PATTERSON AFB
+RJEZHO/ASST CHIEF OF STAFF INTELL HQ USAF
+JEZHO/OIS HQ USAF
+RFEMVB/AIR OFFICER COMMANDING ADC
+RUEPEL/1625 AISS FT BELVOIR
+AF GRNC
+BT
+/UNCLAS/54TH CC 09154 ATTN COC INTL
 A. (1) BALL
 2. LARGE
 3. BLUE
@@ -73,30 +98,31 @@ A. (1) BALL
 7. NONE
 8. NONE
 9. NONE
-B. (1) EASTERLY
-2. LNK
-3. LNK
+1. (1) EASTERLY
+2. UNK
+3. UNK
 4. NONE
 5. APPEARED TO BE FALLING
-6. LNK
-C. (1) GROUND VISUAL
-9. NONE
-D. (1) 21/2232Z ALSO 11/UNK
-C. FLIGHT
-E. 55 DEGREES 5353 INCHES N 55 DEGREES 17 INCHES W 4 MI FROM RODDING-
-TON N FLD
+6. UNK
+C (1) GROUND VISUAL
+2. NONE
+3. N/A
+D (1) 20/20/3Z ALSO 11/UNK
+2. NIGHT
+3. 55 DEGREES 53S3 INCHES N 56 DEGREES 17 INCHES W 4 MI FROM RODDING-
+
 
 - page 3 -
 
-The image does not contain any photograph. It appears to be a page from an old document with handwritten text.
-
-F. CIVILIAN HRS
-G. N/A
-G I UNK
+F. CIVILIAN MR
+2. N/A
+G 1 UNK
 HIKJ UNK
 L. NONE
 BT
-21/16 442 AUG RJENFX
+215/1844Z AUG RJENFX
+NNNN
+
 
 - page 4 -
 

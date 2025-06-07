@@ -1,85 +1,185 @@
-The image does not contain any photographs. It appears to be a Project 10073 record card from Project Blue Book, which was a U.S. Air Force project that investigated unidentified flying objects (UFOs) between 1952 and 1969.
-
-The text in the document is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 1 Aug 55
-2. LOCATION: Danville, Calif.
-3. DATE/TIME GROUP: 02/0327Z 
-4. TYPE OF OBSERVATION: Ground-Visual
-5. SOURCE: Civ.
-6. NUMBER OF OBJECTS: 1
-7. LENGTH OF OBSERVATION: less than 1 min
-9. BRIEF SUMMARY OF SIGHTING: Brilliant, ruby colors, faded from view, passed through 40 degrees are in less than one min.
-11. COMMENTS: Possible meteor although description is vague. Possible meteor for evaluation.
-12. CONCLUSIONS: Possibly Astronomical, Possibly Meteor
+
+1. DATE
+1 Aug 55
+
+2. LOCATION
+Danville, Calif.
+
+3. DATE-TIME GROUP
+Local
+02/0327Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+□ Air-Visual
+
+5. PHOTOS
+□ Yes
+□ No
+
+6. SOURCE
+Air (GOC)
+
+7. LENGTH OF OBSERVATION
+less than 1 min
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+40 deg
+
+10. BRIEF SUMMARY OF SIGHTING
+Bulbous, ruby color, faded from view, passed through 40 deg are in less than one min.
+
+11. COMMENTS
+Possible meteor although description is vague. Possible a/c. Insufficient data for evaluation.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+[X] Insufficient Data for Evaluation
+□ Unknown
+
+ATC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book document, containing a typed letter from Major Lawrence J. Tacker of the Office of Information Services to a recipient whose name has been redacted.
+SATIS-3/Maj. Talker/md/T4956/22 Feb 58
 
-SAFIS-3/Maj Tacker/lma/7/10/56/22 Feb 58
 24 February 1958
-Dear Mrs. [redacted],
+
+Dear Mrs.
+
 This is to acknowledge your letter postmarked 23 January 1958 concerning an unidentified flying object sighted by you in August 1955.
-It is, of course, difficult to properly investigate or analyze an incident seven years old. However, your reported sighting will be added to our files.
+
+It is, of course, difficult to properly investigate or analyze an incident almost three years old. However, your report sighting will be added to our files.
+
 Thank you for your interest in this matter.
+
 Sincerely,
+
 LAWRENCE J. TACKER
 Major, USAF
 Executive Officer
 Public Information Division
 Office of Information Services
-Mrs. [redacted]
+
+Mrs.
 Cleveland 5, Ohio
+
+COMEBACK-SATIS-3
+READER-SATIS-1
+STAYBACK-SATIS-3
+
 
 - page 2 -
 
-The image appears to be a page from an old UFO report document from Project Blue Book. It does not contain any photographs, only text.
+Here is the OCR text from the document:
 
-Here is the text from the document:
-
-AIR INTELLIGENCE INFORMATION REPORT
+AF FORM 112
+APPROVED 1 JUNE 1948
 
 United States
 
-SUBJECT: Unidentified Flying Object Report
+REPORT NO.
+TRR 7-55
 
-SAN FRANCISCO, CALIFORNIA
+AIR INTELLIGENCE INFORMATION REPORT
 
-4 August 1955
+Unidentified Flying Object Report
+
+LOCATION
+San Francisco, California
+
+FROM (APTS) Director of Intelligence
+28th Air Div (Def), Hamilton AFB, Calif
+
+DATE OF INFORMATION
 2 August 1955
-Capt. Donald W. Calvin, DIR/Intel.
-SUMMARY:
 
-1. a. Pulbout 
-b. Negative
-c. Ruby (Radiar around the size and shape in the center)
-d. N/A
-e. Unknown
-f. Unknown 
-g. Unknown
-h. Unknown
+DATE OF REPORT
+4 August 1955
 
-2. a. Visual sighting at GCC Post 
-b. 20 degrees circular height line
-c. Line of flight 120 degrees
-d. Line of flight 80 degrees
-e. Faded from view
-f. Less than one minute
+PREPARED BY
+Capt Donald W Galvin, Dir/Intel
+
+SOURCE
+Letter
+
+P-6
+
+REFERENCES (Sull of number, directive, previous report, etc. as applicable)
+
+SUMMARY: (Note concise summary of report. Give significant facts in final and-summary paragraph. List inclosures in Incl col. Begin text on AF Form 112-Part III)
+
+In accordance with paragraph 74, AFR 200-2, the following report is submitted:
+
+1. a. Bulbous
+   b. Negative
+   c. Ruby (Redder around the edges and a red orange in the center)
+   d. One
+   e. N/A
+   f. Unknown
+   g. Unknown
+   h. Unknown
+   i. Unknown
+
+2. a. Visual sighting at GOC Post
+   b. 30 degrees angular height
+   c. Line of first sight 120 degrees
+   d. Line of last sight 80 degrees
+   e. Negative
+   f. Faded from view
+   g. Less than one minute
 
 3. a. Ground-visual
-b. 7.5 50 Navy binoculars
-c. N/A
+   b. 7 x 50 Navy binoculars
+   c. N/A
 
-4. 0930-1272 Aug 55 - P-51
+4. a. OD3272 Aug 55
+   b. Disk
 
-5. GGC Post at Danville, California
-Station 13 ALPHA
+5. GOC Post at Danville, California
+   Station 13 ALPHA
 
-6. Colonel, U.S. HOWARD BROWN, 08-772-45
+6. [Redacted] wife,
+   Danville, California
+   b. N/A
 
-APPROVED:
+7. a. CAVU
+   b. 10,000 - 200 deg at 10 kts
+      20,000 - 260 deg at 10 kts
+      30,000 - 200 deg at 20 kts
+      40,000 - 190 deg at 30 kts
+      50,000 - 200 deg at 30 kts
+   c. Unlimited
+   d. Unlimited
+   e. None
+   f. None
+
+8. None
+
+9. Unknown
+
+10. Unknown
+
+11. Director of Intelligence, 28th Air Div (Def). No comment.
+
+12. None
+
+[Signatures and stamps at bottom of document]
+
 
 - page 3 -
 

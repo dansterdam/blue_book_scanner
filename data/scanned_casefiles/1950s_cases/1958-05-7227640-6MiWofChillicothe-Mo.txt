@@ -1,178 +1,131 @@
-The document does not contain a photograph.
+Here is the text from the document:
 
-Below is the output of all the text found in the document:
-
-```
 PROJECT 10073 RECORD CARD
 
-12. CONCLUSIONS
 1. DATE
-
 11 May 58
 
 2. LOCATION
-
 6 Mi W of Chillicothe, Mo.
 
 3. DATE-TIME GROUP
-
-Local
+Local 11/15357
 GMT
 
-11/1535Z
-
 4. TYPE OF OBSERVATION
-
-D Ground-Visual
-Air-Visual
+✓Air-Visual
 
 5. PHOTOS
-Flight
-
-D Ground-Radar
-D Air-Intercept Radar
+□ Yes
+✓ No
 
 6. SOURCE
-
 Military
 
-D Yes
-No
-
 7. LENGTH OF OBSERVATION
-
 1 min
 
 8. NUMBER OF OBJECTS
-
 one
 
 9. COURSE
-
 stationary
 
 10. BRIEF SUMMARY OF SIGHTING
-
-Oblong obj. brownish color, looked like collapsed balloon w/particles hanging from mainbody. Pilot passed obj in view for 1 min.
-
-D XWas Balloon
-D Probably Balloon
-Possibly Balloon
-D Was Aircraft
-Probably Aircraft
-D Possibly Aircraft
-D Was Astronomical
-Probably Astronomical
-Possibly Astronomical
-D Other
-Insufficient Data for Evaluation
-Unknown
+Oblong obj, brownish color, looked like collapsed balloon w/particles hanging from mainbody. Pilot passed obj in view for 1 min.
 
 11. COMMENTS
-
 Was balloon w/radiosonde equipment.
+
+12. CONCLUSIONS
+✓Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
 
 ATIC FORM 329 (REV 26 SEP 52)
 
-RA 8 28
-
-M SQE195 YM8729KFA47KFG447GKO04
-
-PP RJEDDN RJEDSO RJEPHQ
-
-DE RJEDKF IGK
-P 111745Z
-
-FM COMDR 788TH ACWON WAVERLY AFSTA IOWA
-            
-TO RJEDDN/COMDR ADC
-
-RJEDKF/ COMDR 2° AIR DIV
-
-RJEDSQ/COMDR AIR TECH INTELL CENTER WPAFB
+[Additional text at bottom appears to be a coded message or transmission details]
 
 
 - page 1 -
 
-There is no photograph present on this page.
-
-OCR Text Output:
-```
-RJEPHQ/ C ASSN'T CHIEF OF STAFF INTEL HQDS USAF
+RJEPHQ/ CHIEF OF STAFF INTELL HDQS USAF
 RJEPHQ/OFFICE OF INFO SERV HDQS USAF
 BT
-UNCLASSIFIED FROM OP/788-11-E-31
-A. 1. OBLONGE LONG PART AT BOTTOM
-        2. NO REPORT AS TO SIZE
-        3. (BROWNISH COLOR)
-        4. ONE
-        5. N/A
-        6. LOOKED LIKE COLLAPSED BALLOON
-        7. PARTICALS HANGING FROM MAIN BODY
-        8. NONE
-NOTE!
-        9. NONE 
-                 Note!
-                 Radiosonde equipment
+UNCLASSIFIED FROM OP/788-11-E-01/
+
+A. 1. OBLONG LONG PART AT BOTTOM
+2. NO REPORT AS TO SIZE
+3. BROWNISH COLOR
+4. ONE
+5. N/A
+6. LOOKED LIKE COLLAPSED BALLOON
+7. PARTICALS HANGING FROM MAIN BODY
+8. NONE
+9. NONE
+
 PAGE TWO RJEDKF 1GK
+
 B. 1. PILOT THOUGHT IT WAS STRANGER DURING PRACTICE INTERCEPT
-        2. LEVEL--------130 DEGREES
-        3. LEVEL--------142 DEGREES
-        4. .STATIONARY
-        5. PILOT PASSED BY OBJECT
-        6. APPROXIMATELY ONE MINUTE
+2. LEVEL-------- 130 DEGREES
+3. LEVEL-------- 140 DEGREES
+4. STATIONARY
+5. PILOT PASSED BY OBJECT
+6. APPROXIMATELY ONE MINUTE
+
 C. 1. AIR VISUAL
-        2. NONE
-        3. F-84E AF492259 34200 FT.  290 DEGREES 250 KNOTS
-        INDICATED DES MOINES
+2. NONE
+3. F-84E AF49259 34000 FT. 090 DEGREES 250 KNOTS
+   INDICATED DES MOINES
+
 D. 1. 11/1535Z
-        2. DAY
-```
+2. DAY
+
 
 - page 2 -
 
-There is a drawing on the page that resembles a balloon floating upwards.
-
-OCR Output:
-
----
 E. 1. MK 2045
-    F. 1. NONE
-    2. 2/LT JERRY J. TROUT --- 124TH FIS--PILOT---RELIABLE
-    G. 1. CLEAR
-        2. NONE, 060/10 250/10 250/15 350/15 360/25 370/20
-        3. CLEAR
-        4. NONE
-        5. 15 PLUS
-    PAGE THREE RJEDKF 19K
-        6. NONE
-    H. 1. NONE
-    J. MK 3030 34002 362 DEGREES
-    K. DUTY DIRECTOR--1/ST LT. JAMES E. STILES---NO COMMENT
-    L. 1. NONE
-    BT
-    11/1841Z MAY RJEDKF
 
-1. Partly inflated ascending upper deck balloon
-2. Many reports on balloons released by service and national weather --- mistaken for UFOs.
+F. 1. NONE
+2. 2/LT JERRY J. TROUT ---124TH FIS--PILOT--RELIABLE
+
+G. 1. CLEAR
+2. NONE, 060/10 250/10 250/15 350/15 360/25 320/20
+3. CLEAR
+4. NONE
+5. 15 PLUS
+
+PAGE THREE RJEDKF 16K
+
+6. NONE
+
+H. 1. NONE
+
+J. MK 3030   34000   360 DEGREES
+
+K. DUTY DIRECTOR--1/ST LT. JAMES E. STILES--NO COMMENT
+
+L. 1. NONE
+
+BT
+11/1841Z MAY RJEDKF
 
 NNNN
 
+
 - page 3 -
 
-The provided page from the document appears to contain a photograph. The photograph is likely a very faint image, possibly related to a UFO sighting, as implied by the overall document type. However, due to the low quality and extreme faintness, it is difficult to discern details from the photograph.
+There is very little legible text on this page. There are some faint markings or lines, but they are not clearly readable. Most of the page appears to be a blank white or off-white document page with a border.
 
-Here is the OCR transcription of the text found on the document:
-
-(Note: The faintness of the image may result in incomplete or inaccurate OCR results. If there is no visible text, the output will be empty.)
-
----
-
-*No discernible text found.*
-
----
-
-If there are any specific details or notable text visible on your version of the document, please share them for a more accurate OCR transcription.
 
 - page 4 -
 

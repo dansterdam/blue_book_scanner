@@ -1,8 +1,4 @@
-There is no photograph present on this page.
-
-OCR Text:
-
-PROJECT 10073 RECORD CARD
+PROJECT 1007 RECORD CARD
 
 1. DATE
 19 November 1954
@@ -11,16 +7,16 @@ PROJECT 10073 RECORD CARD
 SE of New Orleans
 
 3. DATE-TIME GROUP
-Local 
-GMT 20/0314Z
+Local 20/0314Z
+GMT
 
 4. TYPE OF OBSERVATION
-□ Ground-Visual     □ Ground-Radar
-□ Air-Visual        □ Air-Intercept Radar
+☐ Ground-Visual   ☐ Ground-Radar
+☒ Air-Visual     ☐ Air-Intercept Radar
 
 5. PHOTOS
-□ Yes
-x No
+☐ Yes
+☒ No
 
 6. SOURCE
 Civilian - Pilot
@@ -41,20 +37,21 @@ Blue and white, flashing, moving up and down. Disappeared in NE
 Was definitely a star
 
 12. CONCLUSIONS
-Was Balloon
-□ Probably Balloon
-□ Possibly Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-x Was Astronomical/STAR
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other
-□ Insufficient Data for Evaluation
-□ Unknown
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical/SOLR
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
+☐ Unknown
 
-ATIC FORM 329 (REV 26 SEP 52)
+(ATIC FORM 329 (REV 26 SEP 52))
+
 
 - page 1 -
 

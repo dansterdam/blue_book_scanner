@@ -1,26 +1,21 @@
-There is no photograph present in the document.
-
-Here's the OCR transcript of the text on the document:
-
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE 
-25 November 1957 
+1. DATE
+25 November 1957
 
-2. LOCATION 
+2. LOCATION
 Frankfort, Kentucky
 
-3. DATE-TIME GROUP 
-Local 
-25/2335Z 
+3. DATE/TIME GROUP
+Local 25/2353Z
 
 4. TYPE OF OBSERVATION
-Ground-Visual
+Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
 
-5. PHOTOS 
-Yes
-No x
+5. PHOTOS
+☐ Yes
+☒ No
 
 6. SOURCE
 Civilian (ANG)
@@ -41,23 +36,23 @@ One round white object the size of a dime. Object was seen on a straight flight 
 Duration too short for a/c, probably meteor.
 
 12. CONCLUSIONS
-Was Balloon
-Possibly Balloon
-Probably Balloon
-Was Aircraft
-Probably Aircraft
-Possibly Aircraft
-Was Astronomical Meteor
-Probably Astronomical
-Possibly Astronomical
-Other
-Insufficient Data for Evaluation
-Unknown
+☐ Was Balloon
+☒ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
 
 No report in file.
 
-ATIC FORM 329 (REVISED 26 SEPT 52)
-```
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 

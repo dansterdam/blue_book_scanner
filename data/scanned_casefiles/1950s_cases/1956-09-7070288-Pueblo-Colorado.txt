@@ -1,65 +1,134 @@
-The image appears to be a page from an old Project Blue Book report. There is no photograph visible in this particular page. 
-
-The OCR output of the text in the document is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE 	2. LOCATION
-September 1956	Pueblo, Colorado
+
+1. DATE
+1 September 1956
+
+2. LOCATION
+Pueblo, Colorado
+
 3. DATE-TIME GROUP
-Latest GMT 02/05132
+Local    02/0513Z
+GMT
+
 4. TYPE OF OBSERVATION
-D Ground-Radar
-□ Air-Visual
-□ Air-Intercept Radar
+☒ Ground-Visual   ☐ Ground-Radar
+☐ Air-Visual      ☐ Air-Intercept Radar
+
 5. PHOTOS
-□ Yes
-6. LENGTH OF OBSERVATION
+☐ Yes
+☒ No
+
+6. SOURCE
+Civilian (GOC)
+
+7. LENGTH OF OBSERVATION
 two hours
-7. NUMBER OF OBJECTS
+
+8. NUMBER OF OBJECTS
 four
+
+9. COURSE
+Stationary
+
 10. BRIEF SUMMARY OF SIGHTING
-Round objects about size of pan at arm's length. Objs had red & green flashing lights. Objs were viewed stationary. Objects viewed visually & through binoculars for approximately two hours. At this time one of the four objects had disappeared behind the horizon.
+Four round objs, about size of pea at arm's length. Objs had red & green flashing lights. Objs were viewed in different parts of sky & were relatively stationary. Objects were viewed visually & through binoculars for approximately two hours. At this time one of the four objects had disappeared behind the horizon.
 
 11. COMMENTS
-Sights definitely caused by Stars Vega, Altair, Dubhe Capella.
+Sighting definitely caused by stars Vega, Alioth, Dubbe & Capella.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
+☐ Unknown
 
 No Report In File.
 
+ATIC FORM 329 (REV 26 SEP 52)
+
+
 - page 1 -
 
-The image does not contain a photograph. It appears to be a Project 10073 record card from the Project Blue Book, an official U.S. Air Force investigation of unidentified flying objects. The card contains various fields filled out, including the date, location, type of observation, source, length of observation, and comments about the sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 12 September 1956
-2. LOCATION: Pueblo, Colorado
-3. DATE-TIME GROUP: 
-4. TYPE OF OBSERVATION: Ground-Radar
-5. DURATION OF OBSERVATION: 30 minutes
-6. SOURCE: Civilian
-7. PHOTOS: Yes
-8. LENGTH OF OBSERVATION: 30 minutes
-9. NUMBER OF OBJECTS: 1
-10. BRIEF SUMMARY OF SIGHTING: Civilian object, size of a large aircraft, was detected on a ground-radar and was visually observed on the ground for 30 minutes. Its motion and behavior indicate that it might have been caused by an aircraft, but it was unseen on radar and did not register in the visual search.
-11. COMMENTS: Sighting flight path duration of 30 minutes and number of disappearance and indicate that it might have been caused by an unidentified aerial object.
+
+1. DATE
+17 September 1956
+
+2. LOCATION
+Pueblo, Colorado
+
+3. DATE-TIME GROUP
+Local: 13/02:??6
+GMT: 18/02:??6
+
+4. PHOTOS
+☐ Yes
+☒ No
+
+5. SOURCE
+Civilian
+
+6. LENGTH OF OBSERVATION
+two minutes
+
+7. NUMBER OF OBJECTS
+one
+
+8. BRIEF SUMMARY OF SIGHTING
+One oblang white object, size of a basketball at arm's length. Object was initially sighted at 45 dgr elevation in the east and flew on a straight flight path to the southwest. Object was viewed visually for two minutes and disappeared by simply flying out of sight.
+
+9. COURSE
+E to SW
+
+10. COMMENTS
+Straight flight path, duration of sighting, and manner of disappearance indicate that sighting was caused by an aircraft. Evaluated as aircraft.
+
+11. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☒ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 2 -
 
-There does not appear to be any photograph present in this image. This seems to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-OCR output:
+JEDWP H199PA162 YWB99SENA985
+RR RJEDWP HJEPHQ RJWFDN
+DE RJEDEN 14
+R 181515Z
 
-JEDWP H19PPAI62 YWBSSENSA3S5 
-RE RJEDON 14 
-R 1519362
-TO COMDR ASSD AISS ENT AFB COLO 
-TO RJWFDN/34TH AIR DIVISION DEF KIRTLAND AFB NMEx 
-RJEDUP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WPAFB OHIO 
-RUFPD/DIRECTOR OF INTELLIGENCE HEADQUARTERS USAF WASHINGTON DC 
-BY
-/UNCLAS/ ASOG 984D PD SUBJECT UFORS PD
-A. DESCRIPTION OF THE OBJECT CLN A. OBLONG CHM B. SIZE OF
-BASKETBALL CHM C. WHITE CHM D. ONE CHM E. N/A CHM
-B. NONE G. NONE H. NOTE Z. NONE PD
+FM COMDR 4902D AISS ENT AFB COLO
+TO RJWFDN/34TH AIR DIVISION DEF KIRTLAND AFB NMEX
+RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WPAFB OHIO
+RJEPHQ/DIRECTOR OF INTELLIGENCE HEADQUARTERS USAF WASHINGTON DC
+BT
+
+/UNCLAS/ AISOC 9849 PD SUBJECT UFOB PD
+
+1. DESCRIPTION OF THE OBJECT CLN A. OBLONG CMM B. SIZE OF
+BASKETBALL CMM C. WHITE CMM D. ONE CMM E. N/A CMM
+F. NONE G. NONE H. NONE I. NONE PD
+
 2. DESCRIPTION OF COURSE OF OBJECT
 A. OBSERVERS WERE WATCHING FOR AIRCRAFT AND SEARCHING FOR A
 PARTICULAR AIRCRAFT THEY THOUGHT THEY HAD SEEN WHEN SIGHTING
@@ -67,125 +136,197 @@ THE OBJECT PD
 B. FORTY FIVE DEGREE ANGLE EAST OF OBSERVER PD
 C. FORTY FIVE DEGREE ANGLE NORTHWEST OF OBSERVER PD
 
-PAGE TWO EJEDEN 14
-D. A STRAIGHT FLIGHT PATH WITH NO MANEUVERS PD
-E. SIMPLY FLEW OUT OF SIGHT PD
-F. TWO MINUTES
-G. MANNER OF OBSERVATION CLN A. GROUND VISUAL B. NONE
-
-- page 3 -
-
-The image does not contain any photograph. It appears to be a page from a document with text describing a UFO sighting.
-
+PAGE TWO RJEDEN 14
 D. A STRAIGHT FLIGHT PATH WITH NO MANEUVERS PD
 E. SIMPLY FLEW OUT OF SIGHT PD
 F. TWO MINUTES
 3. MANNER OF OBSERVATION CLN A. GROUND VISUAL B. NONE
-C. N/A 
-4. TIME AND DATE OF SIGHTING CLN A. 18/22472 SEP 26 D. NIGHT
-5. LOCATION OF OBSERVERS CLN A. AJ 5316 <PUEBLO COLORADO>
+
+There are also several date stamps on the document:
+18 Sep 56 15 50
+19 Sep 56 09 21
+
+And some handwritten notes in the top right corner including numbers like 37, 464, 3-4X24, 1980.
+
+
+- page 3 -
+
+PAGE TWO RJEDEN 14
+
+D. A STRAIGHT FLIGHT PATH WITH NO MANEUVERS PD
+E. SIMPLY FLEW OUT OF SIGHT PD
+F. TWO MINUTES
+
+3. MANNER OF OBSERVATION CLN A. GROUND VISUAL B. NONE
+C. N/A
+
+4. TIME AND DATE OF SIGHTING CLN A. 18/0247Z SEP 56 B. NIGHT
+
+5. LOCATION OF OBSERVERS CLN A. AJ 2316 (PUEBLO COLORADO)
+
 6. IDENTIFYING INFORMATION OF ALL OBSERVERS CLN
-A. C-- AGE 49 YEARS PD PUEBLO COLORADO EMPLOYEE OF PUEBLO ORDINANCE DEPOT PD 
-C-- AGE 45 PD COLORADO HOUSE WIFE PD
-LINDME----AND PLACE OF SIGHTING ACCORDING
+A. (1) [REDACTED] AGE 49 YEARS [REDACTED]
+PUEBLO COLORADO EMPLOYEE OF PUEBLO ORDINANCE DEPOT PD
+
+(2) [REDACTED] AGE 45 [REDACTED] PUEBLO
+COLORADO HOUSE WIFE PD
+
+TIME WEATHER AND PLACE OF SIGHTING ACCORDING
 TO OBSERVERS CLN CLEAR PD ACCORDING TO AWS CLN GROUND/EAST
-SOUTH EAST/NONE KNOTS 35EAST/ SOUTHSOUTHEAST/FIVE KNOTS 15KNOTS
-SOUTH/FIFTEEN KNOTS 22WEST/ NORTH /FIFTY FIVE KNOTS 35WEST
-/NORTHWEST/THIRTY FIVE TO FORTY KNOTS 45WEST/ NORTHWESTFORTY
-FIVE TO FIFTY KNOTS 45WEST/NORTHNORTHWEST /FORTY FIVE TO 
+
+SOUTH EAST/NONE KNOTS 5080/ SOUTH/SOUTHEAST/FIVE KNOTS 10020/
+SOUTHWEST /FIFTEEN KNOTS 25000/ NORTH /FIFTY FIVE KNOTS 30000
+/NORTHWEST/THIRTY FIVE TO FORTY KNOTS 40000/ NORTHWEST/FORTY
+FIVE TO FIFTY KNOTS 45000/NORTH NORTHWEST /FORTY FIVE TO
 FIFTY KNOTS PD
+
 C. CEILING VERY HIGH D. VISIBILITY FIFTEEN PLUS E.
+C
+
 
 - page 4 -
 
-The image does not contain any photographs. The text from the document is as follows:
-
 PAGE TWO RJEDEN 14
-D. A STRAIGHT FLIGHT PATH WITH NO MANEUVERS PD  
+
+D. A STRAIGHT FLIGHT PATH WITH NO MANEUVERS PD
 E. SIMPLY FLEW OUT OF SIGHT PD
 F. TWO MINUTES
-G. MANNER OF OBSERVATION CLN A. GROUND VISUAL D. NONE
-C. N/A 
-A. TIME AND DATE OF SIGHTING CLN A. 15/92472 SEP 26 B. NIGHT
-B. LOCATION OF OBSERVERS CLN A. AJ 2316 (PUEBLO COLORADO)
-C. IDENTIFYING INFORMATION OF ALL OBSERVERS CLN A. AGE 42 YEARS PUEBLO COLORADO EMPLOYEE OF PUEBLO ORDINANCE DEPOT PD
-C. AGE 45 WIFE PD COLORADO HOUSE WIFE PD
-X  *AND PLACE OF SIGHTING ACCORDING TO OBSERVERS CLN CLEAR PD ACCORDING TO AWS CLN GROUND/EAST SOUTH EAST/NONE KNOTS 5000/ SOUTHSOUTHEAST/FIVE KNOTS 13999/ SOUTHWEST /FIFTEEN KNOTS 23989/ NORTH /FIFTY FIVE KNOTS 33223/ NORTHWEST/THIRTY FIVE TO FORTY KNOTS 42280/ NORTHWEST/FORTY FIVE TO FIFTY KNOTS 48280/NORTHNORTHWEST /FORTY FIVE TO FIFTY KNOTS PD
+
+3. MANNER OF OBSERVATION CLN A. GROUND VISUAL B. NONE
+C. N/A
+
+4. TIME AND DATE OF SIGHTING CLN A. 18/0247Z SEP 56 B. NIGHT
+5. LOCATION OF OBSERVERS CLN A. AJ 2316 (PUEBLO COLORADO)
+6. IDENTIFYING INFORMATION OF ALL OBSERVERS CLN
+A. (1) [REDACTED] AGE 49 YEARS
+PUEBLO COLORADO EMPLOYEE OF PUEBLO ORDINANCE DEPOT PD
+(2) [REDACTED] AGE 45 [REDACTED] EBLO
+COLORADO HOUSE WIFE PD
+TIME AND PLACE OF SIGHTING ACCORDING
+TO OBSERVERS CLN CLEAR PD ACCORDING TO AWS CLN GROUND/EAST
+SOUTH EAST/NONE KNOTS 5080/ SOUTH/SOUTHEAST/FIVE KNOTS 10080/
+SOUTHWEST/FIFTEEN KNOTS 25080/ NORTH/FIFTY FIVE KNOTS 30080
+/NORTHWEST/THIRTY FIVE TO FORTY KNOTS 40080/ NORTHWEST/FORTY
+FIVE TO FIFTY KNOTS 45080/NORTH/NORTHWEST/FORTY FIVE TO
+FIFTY KNOTS PD
+
 C. CEILING VERY HIGH D. VISIBILITY FIFTEEN PLUS E.
+C
 
 PAGE THREE RJEDEN 14
 CLOUDS SCATTERED F. NONE PD
-G. NONE PD 9. NONE PD 10. NONE PD 11. 2/LT
-JOSEPH A. MACHYOWSKY ASSISTANT OPS CONTROL OFFICER
-.522D AISS ENT AFB COLORADO COMMENTS CLN PROBABLY AIRCRAFT PD
+8. NONE PD 9. NONE PD 10. NONE PD 11. 2/LT
+JOSEPH A. MACHYOVSKY ASSISTANT OPS CONTROL OFFICER
+4642D AISS ENT AFB COLORADO COMMENTS CLN PROBABLY
+AIRCRAFT PD
 12. NONE PD END
-13/15372 SEP RJEDEN
+BT
+13/1637Z SEP RJEDEN
+
 
 - page 5 -
 
-The image does not contain a photograph. It appears to be a scanned page from a Project Blue Book document, specifically a Project 10073 Record Card.
-
-TEXT OUTPUT:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
-21 September 1956
+24 September 1956
+
+2. LOCATION
+Pueblo, Colorado
+
 3. DATE-TIME GROUP
+Local
+GMT 25/0387%
+
 4. TYPE OF OBSERVATION
-5. SOURCE
+Ground-Visual
+
+5. PHOTOS
+No
+
+6. SOURCE
 Civilian
+
 7. LENGTH OF OBSERVATION
-30 SECONDS
+thirty seconds
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+north
+
 10. BRIEF SUMMARY OF SIGHTING
-One round object bright like a light and the size of a baseball at arm's length observed at 20 degree level path north away from the observer. This was observed visually for 30 seconds.
+One round object, bright like a light and the size of a washtub at arm's length. Object was sighted at 90 dgr elevation and flew in a straight & level path north away from the observer. Object was observed visually for 30 seconds.
+
+11. COMMENTS
+Description, shape, duration, and flight path indicate that an aircraft probably caused this sighting.
+
 12. CONCLUSIONS
-Was Ball-like
+Was Balloon
+Probably Balloon
 Possibly Balloon
 Was Aircraft
 Probably Aircraft
+Possibly Aircraft
 Was Astronomical
+Probably Astronomical
 Possibly Astronomical
+Other
 Insufficient Data for Evaluation
 Unknown
 
+ATIC FORM 329 (REV 26 SEP 52)
+
+
 - page 6 -
 
-The image does not contain a photograph. It appears to be a typewritten report or document from Project Blue Book, a US Air Force program that investigated unidentified flying objects (UFOs) during the 1950s.
+Here is the OCR text from the document:
 
-The text in the document reads as follows:
+21424
+3 4722
 
-19484
-3 7
-70288
-SUBJECT: SIGHTING OF 15 MULTI-COLORED LIGHTS
-1. On the night of 7 September 1956 at Pueblo, Colorado, approximately 20:30 hours, two military intelligence officers observed a phenomenon which they could not identify satisfactory.
-2. The sighting lasted approximately 3 minutes and 30 seconds.
-3. The phenomenon was described as follows:
-(a) Approximately 15 multi-colored lights (red, green, blue) flew in a definite pattern slightly higher than jet aircraft altitude.
-(b) The lights were spread out in a diamond formation, equally spaced from each other.
-(c) The lights dimmed and brightened in sequence, almost as if blinking, as they proceeded on a southeast course, steadily and silently.
-(d) The lights appeared to be solid, not blinking lights on an aircraft.
-(e) There was no sound associated with the lights.
-(f) The lights were in view for approximately 3 1/2 minutes.
-(g) Group visual PD (2) (2) (2) (2) (2) (2) (2) (2) (2) (2).
-(h) 2F 25FT the 35 FT (2) (2) (2) (2) RIGHT PD.
+TO COMDR 4602 USAF APO 680 COLO
+TO ASST/VICE COMDR/INDIV 3 MIRTLAND AFB NM ATTN
+DIRECTOR/COMM AIR TECHNICAL INTELLIGENCE CENTER USAF OHIO
+AFOIN/AIRFORCE OF INTELLIGENCE HEADQUARTERS USAF WASH DC
+DT
+
+UNCLAS/MISC PD TO THIS IS A USAF MESSAGE PD
+
+(1) (A) ROUND PD (2) (C) APPARATUS PD (3) (C) BRIGHT LENS A WEST PD
+(4) (B) CONE PD (5) (C) MAT PD (6) (F) BIG ROUND LIGHT PD (7) (GW) INA
+(8) (B) NO SOLID-ANOTHER ACTS PASSED OVER HEAD WHICH MAY HAVE OB-
+SERVED SOUND PD
+
+(2) (A) LIGHT PD (2) (B) 3 DEGREES ELEVATION PD (2) (C) NORTH PD
+(2) (B) STRAIGHT AND MOVED PD (2) (C) FLEW TRACK AWAY FROM AIR PD
+(3) (F) THIRTY SECONDS PD
+
+(3) (A) GROUND VISUAL PD (3) (B) SOME PD (3) (C) SPAN PD
+(4) (A) 250-3572 SHP 56 PD (4) (B) NIGHT PD
+
 
 - page 7 -
 
-The image does not contain any photographs. It appears to be a scanned document page from Project Blue Book, an official U.S. Air Force investigation of unidentified flying objects.
+PAGE TWO ADDEND 35
 
-Output of the text found in the document:
+(S) AND 2347 PD (S) CA...
 
-CASE M3JTAI2C IS
-(2) SEP. 21*5 FD (3) GAL?, OL0PJJT)0 PD
-(7) 4.9 GAVE FD (7) (3) SURFSCE WIND SY * 10-2 #
-IS VISIBLE 4 122 NESS FD C7) (3) CEILING AND VISIBILITY
-UNLIMITED FD (8) NONE (2) NONE (2. 3 HOURS (22) JOSEPH A MAOCHYUSKY
-USAF, ASSISTANT OPERATIONS OFFICER FL
-SIMMONDS GLD SIGHTING PROBABLY CAUSED BY A JET AIRCRAFT FD
-(.2) NONE FD END
+PUEBLO, COLORADO PD
 
-DEPUTY ID OFFICER
+(S) (A) CAME PD (T) (E) SURFACE WIND 83, S WC 759, 134-762,
+15 "C/S, 4 "HGT 55 PD (T) (C) SKILLS AND VISIBILITY
+UNLIMITED PD (S) NONE (S) NONE (S) NONE (11) JOSEPH A MACINTOSH
+2/LT USAF, ASSISTANT OPERATIONS CONTROL OFFICER PD
+
+COMMENTS CL: SIGHTING PROBABLY CAUSED BY A JET AIRCRAFT PD
+
+(S) NONE PD END
+
+CA
+CA/17 CE RPT RQMTS
+
 
 - page 8 -
 

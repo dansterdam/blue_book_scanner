@@ -1,121 +1,179 @@
-The image does not contain a photograph, but rather a Project 10073 record card from the Eastern Mediterranean region dated August 30, 1958. The card provides details about a sighting, including the date, time, location, military observer, number of objects, and a description of the observed object as "slow moving, intermittently pulsating star-like obj."
-
-TEXT EXTRACTED FROM THE IMAGE:
+Here is the text from the document:
 
 PROJECT 10073 RECORD CARD
+
 1. DATE
-30 AUGUST 1958
+20 August 1958
+
 2. LOCATION
-EASTERN MEDITERRANEAN
+Eastern Mediterranean
+
 3. DATE-TIME GROUP
-20/1840Z
+Local: 20/1840Z
+GMT: 20/1840Z
+
 4. TYPE OF OBSERVATION
-VISUAL
-5. SOURCE
-MILITARY
-6. NUMBER OF OBJECTS
-ONE
-7. LENGTH OF OBSERVATION
-NOT GIVEN
-8. BRIEF SUMMARY OF SIGHTING
-SLOW MOVING, INTERMITTENTLY PULSATING STAR-LIKE OBJ.
+Ground-Visual ☐
+Shipboard ☑
+Ground ☐
+
+5. LENGTH OF OBSERVATION
+not given
+
+6. BRIEF SUMMARY OF SIGHTING
+Slow moving intermittently pulsating star-like obj.
+
+7. MILITARY
+Yes ☑
+No ☐
+
+8. NUMBER OF OBJECTS
+one
+
 9. COURSE
-NOT GIVEN
-10. MILITARY COMMAND OR PROJECT
-NOT GIVEN
-11. COMMENTS
-SPUTNIK III.
-12. CONCLUSIONS
-WAS BALLOON
-PROBABLY SATELLITE
-WAS AIRCRAFT
-PROBABLY ASTRONOMICAL
-INSUFFICIENT DATA FOR EVALUATION
-UNKNOWN
+not given
+
+10. COMMENTS
+Sputnik III.
+
+11. CONCLUSIONS
+Was Balloon ☐
+Probably Balloon ☐
+Possibly Balloon ☐
+Was Aircraft ☐
+Possibly Aircraft ☐
+Was Astronomical ☐
+Possibly Astronomical ☐
+Was Astronomical ☐
+Possibly Astronomical ☐
+Other: Sputnik III ☑
+Insufficient Data for Evaluation ☐
+Unknown ☐
+
+(ATIC FORM 329 (REV 26 SEP 52) noted at bottom of form)
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a page from an old UFO report document, likely from Project Blue Book.
+Here is the text I can read from the document:
 
-CZCGOE35 ZCJYC75 
-CZREPO-
-IR ZEZKA 621
-Z 281235Z
-P¥ MOSCGW 
-INFO COSMIC
+20/18402
 
-23092142
+1 witness
+
+CZCS0R852CJC675
+ZZ R.RJZIQ 801
+2 218512
+TM MEDUSAF
+INFO COMATIC
+
+2 201914Z
+
+Telephoned
+To:
+No:
+Time:
+Date:
+By:
+
+Handwritten notes:
+1/24
+3-4/43
+4-4x2a
+grp
+
 
 - page 2 -
 
-There is no photograph present in this image. This appears to be a scanned page from a Project Blue Book UFO report document.
-
-OCR Output:
-
-FOR USS THORNBACK
-TO CINCLANT
-COMSEVENTHFLT
-COMNAVBASE
-COMTHIRDFLT
+FM USS THORNBACK
+TO CINCNELIN
+CONSIDENTLY
+CONDAIBELN
+COMIDEASTFOR
 INFO SECNAV
 CNO
 CINCLANTFLT
 USCINCEUR
-FLYTINGTALLY
-CINCUSAFE
-CONCORAD
-LT  
-LOCATING ONE UFO 38-35N 27-35E 3616482 143 SPD UNK VISUAL EXTREMELY
+FLEXMCNELN
+CINCUSATE
+CONCOMAD
+BT
+LOCATING ONE UFO 30-01N 27-35E 261840Z 145 SPD UNK VISUAL EXTREMELY
 HIGH RESEMBLES SPUTNIK
-BV 19142Z 26 AUG
+BT
+EASTERN MEDITERRANEAN
+20/1914Z JG 1E270
+
 Instructions by Capt Gregory
-For /1/57 Belliod
-Check with Capt Miateck-orbital data
-Capt Gregory
+For 7/Sgt Bolieu
+4E4G Capt Miafech - orbital data
+Check with Capt Gregory
+
+NNK
+
 
 - page 3 -
 
-The image does not appear to contain any photographs. It seems to be a typed document or report.
+Here is the text I can read from the document:
 
-OCZCSD979ZCJYB974
-IT BJEPSG
-9F 12:32+Z GT
-211023
-PW MEDSAY NASHDC
-INFO COMADC
+QCZCSQD9792CJYD974
+••••••TY RJEDS6
+IE LKZHR QRR
+Y 216932
+TW MEDUSAF WASKDC
+ZMFO COMATIC
 
-SUBJECT
-P 211632Z
-PW USB THORNBACK
-TO CINCNELT
-COMSEVENTHFLT
+TELEPHONED
+TO NO. 
+TIME 
+Date 21 AUG 53
+By PCS
+
+Fmr9
+Y 261932Z
+TW USS THORNBACK
+TO CINGNELI
+COMSETITULI
+
+Handwritten notes on the right side of the document:
+1 + E4
+2 - 4/23
+3 - 4/2a
+4 - 4/2a
+dir.p
+
 
 - page 4 -
 
-There is no photograph present in the image provided. The image appears to be a scanned page from a Project Blue Book report.
+Here is the text from the document:
 
-OCR Text Output:
-SPULN AIREIA
-CONT FE ASTOR
-SEGNAV
-CMO
-GINCLANTES T
-USCHNSCULT
-FLEINTECINELM
+SURF AIRELD
+COMIE ASTOR
+SECNAV
+CMD
+CINCLANTFLTS
+USCINCEUR
+FLEINTCRICLN
 CINCUSAFE
-CINCCONAD
+CINCOSAD
 BT
-MY 251957Z AMPLIFYING X LOST 201342PTS BRNG 145 ELEV 80 DEC X 1ST
-BRNG WHEN SIGHTED 155 ELEV 80 DEC X SEEN BY CO GOD AND SIX OTHERS
-X APPEARS SLOW MOVING INTERMITTENTLY PULSATING STAR X GOOD STATES
-SIMILAR SPUTNIK THREE SEEN BY HIM 14 JUL X VIS UNLIMITED X EVALN
+
+MY 281958Z AMPLIFYING X LOST 281825Z BRNG 145 ELEV 40 DEG X EST
+BRNG WHEN SIGHTED 110 ELEV 50 DEG X SEEN BY CO OOD AND SIX OTHERS
+X APPARG SLOW MOVING INTERMITTENTLY PULSATING STAR X JOOD STATES
+SIMILAR SPUTNIK THREE SEEN BY HIM 24 JUL / VIS UNLIMITED X EVALN
 UFO
 BT
-29/1352Z AUG 2 JJE2HQ X GREGORY
-Inspection by Capt Gregory
-Agt R$t Dalley
-Charles F.
-Cpt Mlchal data
+
+281958Z AUG B.E.2HQ
+
+Handwritten notes:
+Instructions by Capt Gregory
+Ten 15th bolieu
+1948
+Chalmette
+Capt Mich - orbital data
+
 
 - page 5 -
 

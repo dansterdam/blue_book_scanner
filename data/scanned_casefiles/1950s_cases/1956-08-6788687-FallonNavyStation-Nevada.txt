@@ -1,8 +1,5 @@
-The document contains no photographs.
+Here is the text from the document:
 
-Here is the OCR output of the text from the document:
-
-```
 PROJECT 10073 RECORD CARD
 
 1. DATE
@@ -12,19 +9,18 @@ PROJECT 10073 RECORD CARD
 Fallon Navy Station, Nevada
 
 3. DATE-TIME GROUP
-Local
-GMT 052108Z
+Local 05:21087
+GMT
 
 4. TYPE OF OBSERVATION
-☑ Ground-Visual
-☐ Ground-Radar
-☑ Binoculars
-☐ Air-Intercept Radar
-☐ Air-Visual
+[X] Ground-Visual
+□ Ground-Radar
+□ Air-Visual
+□ Air-Intercept Radar
 
 5. PHOTOS
-☐ Yes
-☑ No
+□ Yes
+□ No
 
 6. SOURCE
 Military
@@ -33,162 +29,88 @@ Military
 25 seconds
 
 8. NUMBER OF OBJECTS
-1
+2
 
 9. COURSE
-225 to 260 degs
+223 to 260 deg
 
 10. BRIEF SUMMARY OF SIGHTING
-White and silver, object with oblong
-shape appeared to have knobs on its
-surface and two ragged bumps in front.
-Estimated altitude and speed 20,000 ft
-at 1,000 mph. Flew out of sight.
+Thin, not silver, object with oblong shape and two ranged bumps on its surface and two ranged bumps in front. Estimated altitude 20,000 ft. at 1,000 mph. Flew out of sight.
 
 11. COMMENTS
-Observation indicates a/c in dive.
-Possible new configuration undergoing test.
+Observation indicates a/c in dive. Possible new configuration index.
 
 12. CONCLUSIONS
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
-☐ Was Aircraft
-☑ Probably Aircraft
-☑ Possibly Aircraft
-☐ Was Astronomical
-☐ Probably Astronomical
-☐ Possibly Astronomical
-☐ Other:
-☐ Insufficient Data for Evaluation
-☐ Unknown
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
 
-ATIC FORM 329 (REV 25 SEP 52)
-```
+ATC FORM 329 (REV 25 SEP 52)
+
 
 - page 1 -
 
-There is a photograph visible in the document, which appears to be of a message form with typed text.
+Here is the text from the document:
 
-Here is the OCR transcribed text from the document:
+MESSAGEFORM
 
-```
-       on                   JINT MES S SF E                      
+FROM: (Originator) SPACE ABOVE FOR COMMUNICATIONS CENTER ONLY
+DEPT 28 HAMILTON AFB
+Calif
 
-        SSAGEFORM                                               |
- 
-SPACE ABOVE FOR COMMUNICATIONS CENTER ONLY  
+TO: USAFOC HQ AF COIC SPRINGS
+COLO (MAIL)
 
-FROM (Originate)
-  4600ADIV HILHP 28 HAMILTON AFB
-  CALIF
+COMMANDE
+AIR TECHNICAL INTELLIGENCE CENTER
+ATTN: ATIC MCD GRID (MAIL)
 
-TO:  CONAC EN HAFB COLO SPRINGS
-       COLO (THL)
-       COMMANDER
-       AIR TECHNICAL INTELLIGENCE CENTER
-       RIGHT PATTERSON AFB OHIO  (THAIL)
-INFO:  DIRECTOR  I  INTELLIGENCE
-          HEADQUARTERS USAF
-          WASHINGTON 25  D.C.  (MAIL)
-  
-           COMMANDER
-           4602D AIR INTELLIGENCE SERVICE SQUADRAN
-           HAMILTON AFB CALIP   (CO) (RAID)(SA)
+INFO: DIRECTOR OF INTELLIGENCE
+HEADQUARTERS USAF
+WASHINGTON 25 D.C. (MAIL)
 
-(UNCLASSIFIED)     Z80         PLAN                   UUG.  (1)(A)          CEILING      (1)(b)
+COMDR 1ST INTELLIGENCE SERVICE SQUADRON
+HAMILTON AFB CALIF (DECLASSIFIED) 105844
 
-CONAC        (1)(c)  WHITE AND HERE / HOURS    CLASSO      (1)(d) ONS  (1)(e)  W/A,
-(?) (g) DISEO ON SURBAGS AND TWO LOOED PRMPS ET FICNAI  (1)(g) (?)                   (1)(3)
+[Several lines of text with alphanumeric codes are partially illegible]
 
-  OVI  (2)(A) ROWE,  (2)(a) CAME INTO VIE:   (2)(b) O66-SUBJECT + 225 
+The bottom of the document shows page numbers "PAGE 1 OF 2 PAGES" and has a "SECURITY CLASSIFICATION" marking.
 
-  (?)   (2)(C)( 0)/: DESENOED AT 250 DOOP EG    (2)(d) SEP-MMEDAR TO SGRSUCE  
-  (YMING MO (?) COME BLEM AO LIGHT. (2)(C)   FEMIT FIVE SEGONIC:
+Some sections of text in the middle and bottom of the document appear to be redacted or blacked out.
 
-(?) (A) GRAND VISION: B EM-COLLARS  750 PIGER:.  (3)(e)  W/A,
-4)    QG216 S AK 56.  (1b) ONE DAY. 5)  FALION NAVIL AIRS STATION NEV
-FALON NAVAL IN FALLON, NEVABA (8)
-4) w/a, (5) QA VSM.,56 A/wa   (51 ex
-      
-STANTALITION, NEVAL.  INYINE ON (BLABIMT UNDER
-EMFIBLE -   (7) 5,000 - 200/55         10,000 - 230/110;       15,000 290/05
-                                                             SECURITY CLASSIFICATION
-                                                UAREL-ULUO             PAGE 1 OF 2 PAGES
-DD MK 753
-```
 
 - page 2 -
 
-There is no photograph present on the page you provided.
-
-Here is the OCR transcription of the text found in the document:
-
-```
-ROUTING
+Here is the text from the document:
 
 JOINT MESSAGEFORM
 
-COMMUNICATORS CENTER NO.
+DATE-TIME GROUP: 081600Z AUG 56
+SECURITY CLASSIFICATION: UNCLASSIFIED
 
-FROM: (Originator)
-
-SPACE ABOVE FOR COMMUNICATIONS CENTER ONLY
-
-DATE-TIME GROUP
-
-081600Z AUG 56
-
-PRECEDENCE
-
-FOR: INFORMATION
-
-DEFERRED
-
-Original MESSAGE
-
-SECURITY CLASSIFICATION
-
-UNCLASSIFIED
-
-ACTION
-
-0 BOOK MESSAGE
-
-0uGMTIONAL MESSAGE
-
-TO:  
-0 MULTIPLE ADDRESS
-CRYPTOREcaution
-0 YES 0 NO
-
-REFERS TO MESSAGE:
-
-IDENTIFICATION
-CLASSIFICATION
 INFO:
-
-20,000 - 220/30: 30,000 - 240/45: 40,000 - 240/60. (7)(c) UNLIMITED. (7)(a) 
-FIFTEEN_files. (7)(e) NONE. (7)(F) NONE. (8) UNKNOWN. (9) NONE. (10) 
-NONE. (11) DIRECTOR OF INTELLIGENCE, 28TH AIR DIV (DEF) CAUSE OF SIGHTING
-UNKNOWN ESTIMATED HEIGHT OF OBJECT 20,000 FT. ESTIMATED SPD 2 1000 MPH. 
+20,000 - 220/301; 30,000 - 240/351; 40,000 - 240/60. (7)(c) VERIFIED. (7)(d)
+FIFTEEN ALS. (7)(c) NONE. (7)(c) NONE. (8) UNKNOWN. (9) NONE. (10)
+NONE. (11) DIRECT AIR INTELLIGENCE, 283RD AIR DIV (DEF), CAUSE OF SIGHTING
+UNKNOWN. ESTIMATED FIRST TO LAST 20,000 FT. ESTIMATED SPEED 1000 MPH.
 (12) NONE.
 
-Security CLASSIFICATION PAGE OF PAGES 2 2
+Additional form details:
+- DD FORM 173
+- Dated 1 OCT 49
+- Page 2 of 2 pages
+- Telephone: 2113
+- Official Title: ACTING ASSISTANT
 
-DRAFTER’S NAME (and signature, when required)
-F H NORT LT, USAF, CUST.
-SYMBOL 2113
-
-RELEASING OFFICER'S SIGNATURE
-
-OFFICIAL TITLE
-ACTU? 
-SIGNATURE
-E H NORT LT (?), USAF
-```
-
-Note: Some of the text may not be perfectly transcribed due to its handwritten or unclear nature in the provided image.
 
 - page 3 -
 

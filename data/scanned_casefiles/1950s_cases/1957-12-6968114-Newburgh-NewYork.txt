@@ -1,46 +1,41 @@
-This page does not contain a photograph.
-
-OCR Text Output:
-
 PROJECT 10073 RECORD CARD
 
-1. DATE     
+1. DATE
 5 December 1957
 
 2. LOCATION
 Newburgh, New York
 
 3. DATE-TIME GROUP
-Local       Z 06/0020Z
-GMT
+Local 06/00207
 
-4. TYPE OF OBSERVATION     
-Ground-Visual     Air-Visual
+4. TYPE OF OBSERVATION
+Ground-Visual
 
-5. PHOTOS      
-No
+5. PHOTOS
+Yes No
 
-6. SOURCE   
+6. SOURCE
 Civilian
 
-7. LENGTH OF OBSERVATION    
+7. LENGTH OF OBSERVATION
 twenty minutes
-
-8. NUMBER OF OBJECTS    
-one
-
-9. COURSE     
-stationary
 
 10. BRIEF SUMMARY OF SIGHTING
 One round orange and yellow object the size of a pea. Object was seen stationary and was in sight for 20 minutes.
 
-11. COMMENTS    
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+stationary
+
+11. COMMENTS
 Description, duration, flight path indicate probability of balloon.
 
-12. CONCLUSIONS    
+12. CONCLUSIONS
 Was Balloon
-X Probably Balloon
+Probably Balloon
 Possibly Balloon
 Was Aircraft
 Probably Aircraft
@@ -54,7 +49,8 @@ Unknown
 
 No report in file.
 
-ATIC FORM 329 (REV 26 SEP 52)
+ATIC FORM 329 (REV 26 SEP 53)
+
 
 - page 1 -
 

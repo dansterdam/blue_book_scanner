@@ -1,13 +1,60 @@
-There is no photograph present in this image. The image shows a Project 10073 Record Card, which contains various fields that are filled out with information about a UFO sighting incident.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 23 MAY 1957
-3. CAT.: 28/62002
-5. PHOTOS: [] Yes [x] No
-7. LENGTH OF OBSERVATION: 5-10 minutes
-10. BRIEF SUMMARY OF SIGHTING: One white object, the size of a star or the size of a dime at arm's length, as viewed was sighted and observed. Object was seen in the air, appeared as a bright light, and was seen visually for thirty minutes.
-12. CONCLUSIONS: [x] Possibly Balloon [x] Insufficient Data for Evaluation [x] Other
+
+1. DATE
+27 May 1957
+
+2. LOCATION
+A/V over Bristol, Tenn.
+
+3. DATE-TIME GROUP
+Local
+GMT 23/0200Z
+
+4. TYPE OF OBSERVATION
+[X] Val-Visual
+□ Ground-Radar
+□ Ground-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[X] No
+
+6. SOURCE
+Civilian (Airlines Personnel)
+
+7. LENGTH OF OBSERVATION
+30 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+stationary
+
+10. BRIEF SUMMARY OF SIGHTING
+One white object the size of a star or the size of a dime at/n's length, Obj was seen directly in front of the a/c as a bright light. Obj was seen air visually for thirty minutes.
+
+11. COMMENTS
+Balloon would not remain in front of a/c for 30 minutes. Since no closure was apparent case most likely sighting of astro-body.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+[X] Was Astronomical Planet or
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
 No report in file.
+
+ATIC FORM 329 (REV 29 SEP 59)
+
 
 - page 1 -
 

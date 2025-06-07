@@ -1,147 +1,207 @@
-The provided image does not contain any photographs or images. It is a document page from Project Blue Book, a historic U.S. Air Force program that investigated unidentified flying objects (UFOs).
+PROJECT 1007 RECORD CARD
 
-Performing optical character recognition (OCR) on the text in the image, the output is as follows:
-
-PROJECT 10073 RECORD CARD
 1. DATE
-6 November 1957
+21 November 1957
+
 2. LOCATION
-U. S. Airbase, Lynch, L. 1., New York
-3. DATE SIGHTED
-6 November 1957
-12. CONCLUSIONS
-1. Was Balloon
-Possibly Balloon
-2. Was Aircraft
-Probably Aircraft
-3. Was Astromonical
-Possibly Astronomical
-4. DESCRIPTION
+1. Jones Beach, L.I. New York
+2. Sandy Hook, New Jersey
+
+3. DATE-TIME GROUP
+Local
+GMT 22/0148Z & 22/0137
+
+4. TYPE OF OBSERVATION
+Ground-Visual   Air-Visual   Ground-Radar   Air-Intercept Radar
+
+5. PHOTOS
+Yes   No
+
+6. SOURCE
 1. Civilian 2. Military
-5. SOURCE
-1. Observer
-6. NUMBER OF OBJECTS
-1
-7. LENGTH OF OBSERVATION 
-2 minutes
-8. COURSE
-North given
+
+7. LENGTH OF OBSERVATION
+1. 3 seconds
+2. 6 seconds
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+1. not given
+2. North
+
 10. BRIEF SUMMARY OF SIGHTING
-1. Round object, size of baseball, color like lilac, very bright, with tail behind, dropping.  
-2. Brilliant white flash with white trail. Flash illuminated cockpit.
+1. Round object, size of baseball, electric blue, very bright with blue-ish trail. Exploded with sparks dropping.
+2. Brilliant white flash with white trail. Illuminated cockpit.
+
 11. COMMENTS
 Description is that of a meteor.
 
+12. CONCLUSIONS
+Was Balloon   Probably Balloon   Possibly Balloon
+Was Aircraft   Probably Aircraft   Possibly Aircraft
+Was Astronomical   Probably Astronomical   Possibly Astronomical (METEOR)
+Other   Insufficient Data for Evaluation   Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
+
 - page 1 -
 
-The image does not contain a photograph. It appears to be a page from a Project Blue Book report document.
+Here is the text from the document:
 
-R322245Z
-UN CULSR 7-1 ------7 17
-RE RJEPNB/COMDR AAFBPL
-DE RJEPNB/COMDR ADC
+RB063
+V86T26 TWDCGSYA17
+PR RJEDDW RJEDS6 RJEPNB RJERNS
+DE RJEPNW 6
 R 222245Z
-FM COMDR 2S ADIV DEF
-TO RJEPNB/COMDR ADC
-RJEPNB/COMDR AACG
-RJEPNB/COMDR ACC INTEL
-INFO RJEPNB/COMDR EADF
 
-UNCLASSIF/UEOB ATTN CIC
-(A) NONE - 
-(B) NONE -
+FM COMDR 26 ADIV DEF
+TO RJEDDW/COMDR ADC
+RJEDS6/COMDR ATIC
+RJEPNB/COMDR ACS INTEL
+INFO RJEPNB/COMDR EADF
+ET
+JUNCLASS/USGB ATTN CIC
+
+(1) DESCRIPTION:
+(A) NONE - shape?
+(B) NONE - size?
 (C) BRILLIANT WHITE FLASH
-(D) NONE -
-(E) NONE -
-(F) NONE 
-(G) WHITE BALL
-(I) NONE
-(J) FLASH ILLUMINATED COCKPIT
-(K) DESCRIPTION OF COURSE
-(L) CLASIFIED
-(M) HIGH ABOVE - elevation, azimuth ?
-(N) elevation, azimuth ?
-(O) LEVEL-HEADING 212 DEG
-(P) FADE
+(D) NONE - number?
+(E) NONE - formation?
+(F) NONE
+(G) WHITE TRAIL
+(H) NONE
+(I) FLASH ILLUMINATED COCKPIT
+
+(2) DESCRIPTION OF COURSE
+(A) FLASH
+(B) HIGH ABOVE - elevation, azimuth?
+(C) - elevation, azimuth?
+(D) LEVEL-HEADING 212 DEG - FLIGHT
+(E) FADE
+
+Handwritten notes on the right side of the document are partially illegible, but appear to say something about "seconds" and "very limited information".
+
 
 - page 2 -
 
-There is no photograph present in this image. This appears to be a scanned page from a Project Blue Book document containing text only.
-
-MANNER OF OBSERVATION:
-(A) CINE VISUAL
-(B) NONE 
-(C) SZ' 4323 FT 23' KTS VS32 QUONSET
-(4) TIME & DATE OF SIGHTING
-(A) 2432 22 NOV 57/43-9-210,53
-(5) NO OF MILES EAST SANDY HOOK DET JERSEY
-(6) IDENTIFYING INFO OF ALL OBSERVERS
+(3) MANNER OF OBSERVATION:
+(A) AIR VISUAL
+(B) NONE
+(C) SZF 4000 FT 200 KTS VS32 QUONSET
+(4) TIME & DATE OF SIGHTING:
+(A) 2143Z 22 NOV 0143-5-2043
+(5) 50 TO 60 MILES ESE SANDY HOOK NEW JERSEY
+(6) IDENTIFYING INFO OF ALL OBSERVERS:
 (A) -----
-(B) LT CARR VS 32 QUONSET PT RHODE ISLAND
-(7) WEATHER
+(9) LT CARR VS 32 QUONSET PT RHODE ISLAND
+(7) WEATHER:
 (A) CLEAR
-(B) SURFACE 23' DES 5 KT
-6232 23' DES 32 KT
-12323 27' DES 45 KT
-16232 28' DES 75 KT 
-27232 254 DES 92 KT
-33732 23' DES 133 KT
-55232 25' DES 133 KT
-66232 24' DES 93 KT
+(B) SURFACE 237 DEG 5 KT
+6000 262 DEG 32 KT
+18000 273 DEG 45 KT
+16000 269 DEG 72 KT
+27000 263 DEG 92 KT
+30000 260 DEG 126 KT
+52000 252 DEG 134 KT
+82000 240 DEG 58 KT
 (D) 15 MILES
-PICK:D NONE
-(E) NONE
-(I) NONE
+PKGD NONE
+(F) NONE
+(9) NONE
+(O) NONE
+(10) NONE
 (11) -----
 (12) -----
 ET
-21/24/52 NOV RAPIDLY
+228/24GZ NOV AJEPKY
+
+Handwritten note: This could have been a mistake, but there is insufficient data to conclude.
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-Transcription of the text in the document:
+Witness 22/01/62
 
-22 NOV 57 18 31
-FF: 248
-RR: UCLASSYUFOS ATTN: CIC
+PF246
+
+TO RJGDGW/COMDR ADC
+RJGDPO/COMDR ATIC
+RJGPN/COMDR AC INTEL
+INFO RJGDIS/COMDR EADF
+
 DESCRIPTION:
-(A) ROUND
-(C) BRIGHT, BLUE
+(A) SOUND
+(B) BASEBALL
+(C) ELECTRIC BLUE
 (D) NONE
-(E) VERY BRIGHT
-(X) BLUEISH TRAIL
-(Z) DESCRIPTION OF COURSE:
-(E) 2222 TO 2232 FEET
-(E) LEVEL FLIGHT (637 TO 232 KTS)
+(E) NONE
+(F) VERY BRIGHT
+(G) BLUSH TRAIL
+(H) NONE
+
+(2) DESCRIPTION OF COURSE
+(A) BRIGHTEST
+(B) 5400 TO 7300 FEET
+(D) LEVEL FLIGHT (437 TO 500 MI)
+
+Prob Meteorite
+(AS 100)
+
+Handwritten notes appear to ask "in what direction?" and "elevation azimuth?"
+
 
 - page 4 -
 
-There is no photograph present in the provided image. The image appears to be a page from a Project Blue Book report containing text-based information.
+Here is the text from the document:
 
-MANNER OF OBSERVATION
+(C) MANNER OF OBSERVATION
 (A) GROUND VISUAL
 (B) NONE
-(C) TIME AND DATE OF SIGHTING
-(A) 2148Z 23 NOV 1957
-(D) JONES BEACH L.I. NEW YORK
-(E) IDENTIFICATION BY ALL OBSERVERS
-(F) [REDACTED]
-(G) WEATHER
+
+(4) TIME AND DATE OF SIGHTING
+(A) 21452 22 NOV NIGHT 0146-5 2144
+
+(5) JONES BEACH LONG ISLAND NY
+
+(6) IDENTIFYING INFO OF ALL OBSERVERS
+(A) [REDACTED]
+[REDACTED] TRAVERS LONG ISLAND NY
+
+(7) WEATHER
 (A) CLEAR
-(B) TURBULENT
-82,000' 230 DEC 5 KT
-18,500' 270 DEC 32 KT
-15,900' 276 DEC 76 KT
-21,000' 255 DEC 93 KT
-33,000' 224 DEC 123 KT
-36,000' 233 DEC 123 KT
-(H) 19 MILES
-(I) NONE
-(J) NONE
-(K) NONE
-(L) NONE
+(B) SURFACE
+V
+-40 339 DEG 6 KT
+
+5,203' 234 DEG 38 KT
+10,370' 271 DEG 43 KT
+16,170' 261 DEG 71 KT
+24,190' 261 DEG 99 KT
+33,330' 261 DEG 129 KT
+50,210' 289 DEG 139 KT
+
+(C) 24,190' 244 DEG 21 KT
+
+(D) 15 MILEY
+
+(E) NONE
+(GRF) NONE
+
+(8) NONE
+(9) NONE
+(10) NONE
+(11) ---
+(12) NONE
+
+BT
+22/2237 NOV RSPVY
+
 
 - page 5 -
 

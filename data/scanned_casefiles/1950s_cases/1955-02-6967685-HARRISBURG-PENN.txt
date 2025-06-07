@@ -1,17 +1,54 @@
-The image does not contain any photographs. It appears to be a form or index card from Project Blue Book, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs) during the 1950s. The card contains various fields such as date, location, type of observation, source, number of objects, and course, as well as a "Brief Summary of Sighting" and "Conclusions" sections.
+Here is the text from the UFOB Index Card:
 
-The text found in the document is as follows:
+1. DATE
+7 FEB 1955
 
-1. DATE: 7 FEB 1955
-2. LOCATION: HARRISBURG, PENN
-3. DATE-TIME GROUP: GMT 0710132 (N)
-4. TYPE OF OBSERVATION: [X] Ground-Radar □ Air-Visual □ Ground-Visual □ Air-Intercept Radar
-5. SOURCE: CIVILIAN
-6. NUMBER OF OBJECTS: ONE
-7. LENGTH OF OBSERVATION: MOMENTARY
-8. COURSE: SOUTH
-9. CONCLUSIONS: □ Was Balloon □ Probably Balloon □ Possibly Balloon □ Was Aircraft □ Probably Aircraft □ Possibly Aircraft □ Was Astronomical □ Possibly Astronomical □ Other:______ □ Insufficient Data for Evaluation
-10. BRIEF SUMMARY OF SIGHTING: BRIGHT LIGHT FLASHED ACROSS THE HORIZON POSSIBLY A METEOR.
+2. LOCATION
+HARRISBURG, PENN
+
+3. DATE-TIME GROUP
+Local        GMT 071013Z (W)
+
+4. TYPE OF OBSERVATION
+☒ Air-Visual
+☐ Ground-Visual   ☐ Ground-Radar   ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes   ☒ No
+
+6. SOURCE
+CIVILIAN
+
+7. LENGTH OF OBSERVATION
+MOMENTARY
+
+8. NUMBER OF OBJECTS
+ONE
+
+9. COURSE
+SOUTH
+
+10. BRIEF SUMMARY OF SIGHTING
+BRIGHT LIGHT FLASHED ACROSS THE HORIZON.
+
+11. COMMENTS
+NO SPEED OR TIME IN SIGHT GIVEN. POSSIBLY A METEOR.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other: Insufficient Data for Evaluation
+☐ Unknown
+
+(AISOP Form 5 (15 Oct 54))
+
 
 - page 1 -
 

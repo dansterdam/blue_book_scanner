@@ -1,8 +1,3 @@
-The document contains no relevant photographs, only the printed record card.
-
-**Extracted Text:**
-
-```
 PROJECT 10073 RECORD CARD
 
 1. DATE
@@ -12,18 +7,17 @@ PROJECT 10073 RECORD CARD
 Palm Desert, California
 
 3. DATE-TIME GROUP
-Local
-GMT 17/0715Z
+Local: 
+GMT: 17/0715Z
 
 4. TYPE OF OBSERVATION
-XX Ground-Visual
-    Air-Visual 
-    Ground-Radar
-    Air-Intercept Radar
+☒Ground-Visual ☐Ground-Radar
+☐Air-Visual ☐Air-Intercept Radar
 
 5. PHOTOS
-    0 Yes
-XX No
+☐Yes
+☒No
+
 6. SOURCE
 Civilian
 
@@ -34,154 +28,113 @@ two minutes
 one
 
 9. COURSE
-westerly
+Westerly
 
 10. BRIEF SUMMARY OF SIGHTING
-One round object, the size of a pea held at arm’s length, yellow, in level flight heading west.
+One round object, the size of a pea held at arm's length, yellow, in level flight heading west.
 
 11. COMMENTS
 Concur with the opinion of the reporting officer that this sighting was possibly caused by an aircraft.
 
 12. CONCLUSIONS
-  0 Was Balloon
-  0 Probably Balloon
-  O Possibly Balloon
-  O Was Aircraft
-  0 Probably Aircraft
-XX Possibly Aircraft
-  O Was Astronomical
-  O Probably Astronomical
-  O Possibly Astronomical
-  O Other
-  0 Insufficient Data for Evaluation
-  O Unknown
+☐Was Balloon
+☐Probably Balloon
+☐Possibly Balloon
+☐Was Aircraft
+☒Probably Aircraft
+☐Possibly Aircraft
+☐Was Astronomical
+☐Probably Astronomical
+☐Possibly Astronomical
+☐Other
+☐Insufficient Data for Evaluation
+☐Unknown
 
-ATIC FORM 329 (REV 26 SEP 52)
-```
+(ATIC FORM 329 (REV 26 SEP 52))
+
 
 - page 1 -
 
-The page from the document does not contain any photographs.
+1. (A) ROUND (B) PEA (C) YELLOW TIME (D) ONE (E) N/A (F) UNK
+   (G) NEG (H) NEG (I) UNK.
 
-The extracted text is as follows:
+2. LEVEL FLIGHT HEADING WEST (A) UNK (B) 40DEGREE (C) 50DEGREE
+   (D) LEVEL FLIGHT PATH HEADING WEST (E) BLANDED OUT (F) TWO
+   MIN.
 
-```
-  1.    (A) ROUND (B) PEA (C) YELLOW TIME  (D) ONE  (E) N/A (F)  UNK 
-(G) NEG (H) NEG (I) UNK. 
-
-2. LEVEL FLIGHT HEADING WEST (A) UNK (B) 40DEGREE (C) 50DEGREE 
-(D) LEVEL FLIGHT PATH HEADING WEST (E) BLANKED OUT (F) TWO 
-MIN. 
-
-3. GROUND VISUAL (B) NEG (C) N/A 
+3. GROUND VISUAL (B) NEG (C) N/A
 
 4. 17 MAY 56 - 0015 PDST (A) 17 MAY 56 0715Z (B) NIGHT
 
 5. DD 3642
 
-6.  (A) 52, PALM DESERT, CALIF. 
+6. (A) [REDACTED], 52, [REDACTED], PALM DESERT, CALIF.
+   OCCUPATION UNKNOWN.
 
-    OCCUPATION UNKNOWN.
- 
-7. UNK (A) CLEAR FEW SCARTERED CLOUDS (B) LIGHT AND VARIABLE
-13Q DEGREE 9 KNTS, 17Q DEGREE 23 KNTS, 21Q DEGREE 27 KNTS,
-PAGE TWO RJWPJB 8G 
+7. UNK (A) CLEAR FEW SCATTERED CLOUDS (B) LIGHT AND VARIABLE
+   130 DEGREE 9 KNTS, 170 DEGREE 23 KNTS, 210 DEGREE 27 KNTS,
 
-32Q DEGREE 30 KNTS, UNK. (C) 25,000 BRKN (D) 15 MILES. (E)
- .8 (F) NEG.
- 
-8. NEG 
+PAGE TWO RJWPJB 8G
+   320 DEGREE 30 KNTS, UNK. (C) 25,000 BRKN (D) 15 MILES. (E)
+   .8 (F) NEG.
+
+8. NEG
 
 9. NEG
 
 10. ONE JET AIRCRAFT BY OBSERVER.
 
-11. THOMAS D. LUCAS, 1/LT, SR. DIR., POSSIBLE LANDING , WING
+11. THOMAS D. LUCAS, 1/LT, SR. DIR., POSSIBLE LANDING, WING
     OR TAIL LIGHT OF AIRCRAFT.
 
 12. NEG
 
-BT 
-
+BT
 17/2043Z MAY RJWPJB
-```
+
 
 - page 2 -
 
-The image shows page 3 of a report that appears to be from Project Blue Book. There is no photograph present on this page.
+Here is the text from the document:
 
-Below is the extracted text from the document:
+WPE257 YDC162 XYC021 XDD142JBA156JBG 008
 
-```
-\\ \\ \\\ \\\ NVA \ NVASB \\
-01
-15 Betty
-OF LVI eyi OR VItCHEVEL 
-.1: LFGWNŸ Po ~I VICTG 7/117 %U.% 111011... BO5GI2.18 'FVIGO° 8 ?t1.1.lo
-ORS FI IT/AL REJ, 9j \ 011,E
-%.% Oil€ ter VitG.AVEL 8N GG5LEICN literally.
-%.%
-%%C
-%.%
-2% RTE
-5. (1) LTEO°
-%N, . (c.) sY3aVo thua. (e)10 RILE'. (g)
-B WCE 1 D Q U13So3 So
-
-17/0715Z
-
-/12 
-122
-1 Witw"
-WPE257 YDQC2 NYC2o RdD142jBA15qjBG Od
-PP RJEPHQ RJEIQP BJEEN
-DE RJWPQB 8G
-P 171945Z
+PP RJEPHQ RJEWP RJEDEN
+DE RJW0PJB 8G
+P 1719452
 FM COMDR 751ST ACWRON MT LAGUNA CALIF
-TO RJEPRQ/DIRECTOR INTELLIGENCE, HQD USAF WASH825, D.C.
-BJEJWP/COMDR AIR TECHNICAL INTEL CENTER wRIGHT=PATTERSON AFB OHIO
-BFIEN/ COMDR ADC ENT AFB COLO
-BJ.JWP/COMDR 27TH ADIV DEF NORTON AFB CALIF
-B I
-```
+TO RJEPHO/DIRECTOR INTELLIGENCE, HQD USAF WASHS25, D.C.
+RJEWP/COMDR AIR TECHNICAL INTEL CENTER WRIGHT-PATTERSON AFB OHIO
+RJEDEN/COMDR ADC ENT AFB COLO
+RJWPJB/COMDR 27TH ADIV DEF NORTON AFB CALIF
+BT
+
+The document also has a handwritten note "1 witness" and "17/05/52" and some other handwritten markings.
+
+The top portion of the document contains some text that is partially illegible due to poor image quality.
+
 
 - page 3 -
 
-No photograph is present on this page.
+Here is the text from the document:
 
-Here is the OCR transcription of the text found in the document:
+Witness
 
-```
--·-
-ASS'T21HVA Z'H:IS:nH
-.of• :r:11s
-1 ALM
-j,SAL 
-ttC
- 
-01 ;:r;LIT 1rtCH1: On VlHCHV.Ll•
-' 1 u-1111n t • n1~v1·:N1:11 12:'' au'· MOfSe;iNI! 1nv:111r• hlo1o 
-qr.e Tl.Ll V1·'l1':lH::VL OR• OGGELATI 
-vrr.c
- 1,:nc:  mn
-"::2 (c) U:c:
-(j(JI
-::,c "':( :> tc:ntcr: ;:>. nALr_·nv. {c) W' .:>000 eHim. (n) :>c m1 :sn• (Cl
-15((:E IMD :ll!:')IB S.C
-1] r e·T--~
-1. 7 / 0 715 'Z
-~itness
-~
-VpE257 yDC1G2 XYco21 XDD142JBA15()?JBG 008
-PP RJEPHO RJPjbP RJEDEN 
-DE RJWPJB 86
-P 171945Z 
-FM COMDR 751ST ACWron MT LAGUNA CALIF 
-TO RJEPHO/DLRECTOR INTELLIGENCE, HQD USAF WASHS25, D.c.   
-RJEDWP/COMDR AIR TECHNICAL INTEL CENTER WRIGHT-PATTERSON AFB OHIO 
-RJDEN/COMDR ADC, ENT AFB COLO 
-RJWPJB/COMDR 27TH ADV DEF NORTON AFB CALIF BT
-```
+UPE257 YDC1@ XYC@1 XDD142JBA150JBC @@8
+PP RJEPQ@ RJEWP RJEDEN
+DE RJWPJB 8G
+P 1719457
+FM COMDR 751ST ACRON MT LAGUNA CALIF
+TO RJEPQ@/DIRECTOR INTELLIGENCE, HQD USAF WASHS25, D.C.
+RJEWP/COMDR AIR TECHNICAL INTEL CENTER WRIGHT-PATTERSON AFB OHIO
+RJEDEN/COMDR ADC ENT AFB COLO
+RJWPJB/COMDR 27TH ADIV DEF NORTON AFB CALIF
+BT
+
+The top portion of the document contains some text that appears to be partially illegible or obscured.
+
+The number "17/05152" is handwritten on the page, and the number "12" is written in the top right corner.
+
 
 - page 4 -
 

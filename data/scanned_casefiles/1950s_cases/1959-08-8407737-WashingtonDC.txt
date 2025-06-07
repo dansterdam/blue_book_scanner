@@ -1,95 +1,120 @@
-The image does not contain a photograph. It is a page from a Project Blue Book record card, which appears to be a form used to document observations of unidentified flying objects.
+PROJECT 1073 RECORD CARD
 
-OUTPUT OF TEXT FOUND IN THE DOCUMENT:
+1. DATE
+2 August 59
 
-PROJECT 10073 RECORD CARD
-1. DATE 2 AUGUST 59
-3. DATE-TIME GROUP Local
-4. TYPE OF OBSERVATION Ground-Visual
-5. PHOTOS 0 Y --
-7. LENGTH OF OBSERVATION 2-3 MIN
-10. BRIEF SUMMARY OF SIGHTING: A straight line blinking irregularly & then stopped abruptly. It then began behaving erratically, moving rapidly in vertical & horizontal directions & finally disappeared through slowing.
-2. LOCATION Washington D.C.
-6. SOURCE Military
-8. NUMBER OF OBJECTS One
-9. COURSE 
-11. COMMENTS: Insufficient data for proper evaluation.
-12. CONCLUSIONS: Was Balloon. Possibly Balloon. Other.
+2. LOCATION
+Washington DC
+
+3. DATE-TIME GROUP
+Local 20/0582
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[X] No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+seven mins
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+SE
+
+10. BRIEF SUMMARY OF SIGHTING
+White, light, moving rapidly fm NE to SW in a straight line blinking irregularly & then stopped instantly. It then began behaving erratically, moving rapidly in circles, and darting, & finally faded to SW. It dimmed gradually to extinction as though dimming.
+
+11. COMMENTS
+Insufficient data for proper eval.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+[X] Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 28 SEP 57)
+
 
 - page 1 -
 
-The image does not contain any photographs. The image appears to be a page from an old UFO report document from Project Blue Book.
-
 JOINT MESSAGEFORM
-UNCLASSIFIED 
-SPAKS BELOW RFAR7ARD FOR COMMUNICATION CENTER
 
-ACTION
-PRECEDENCE
+UNCLASSIFIED
 
-TYPE MSG (CSID
-SUBJECT
-ACCOUNTING
-SYMBOL
+ACTION PRIORITY: INFO
+FROM: HQ USAF
+TO: Commander, Air Defense Command, Ent Air Force Base
+    Colorado Springs, Colorado
 
-SECURITY
-CLASSIFICATION
+    Commander, Air Technical Intelligence Center,
+    Wright-Patterson Air Force Base, Dayton, Ohio
 
-SPECIAL INSTRUCTIONS
-
-INFO 
-FROM:
-
-X  
-
-TO: HQUSAF
-
-Commander, Air Defense Command, Ent Air Force Base 
-Colorado Springs, Colorado
-Commander, Air Technical Intelligence Center, 
-Wright-Patterson Air Force Base, Dayton, Ohio
-
-UNCLASSIFIED FROM ATICP-CP-TA 60013
+UNCLASSIFIED FROM AFCOP-CP-EA 60010
 
 UFO report submitted IAW AFR 200-2 format, par. 15:
 
 a. Description:
-(1) Shape - Unknown
-(2) Size - Unknown
-(3) Color - White light
-(4) Number - One (1)
-(5) Course - Straight line
-(6) No dissimilar features.
-(7) No trail or exhaust.
-(8) No sound.
-(9) Seemed to be a satellite until straight-line motion observed. Light course then believed erratic.
+   (1) Shape - Unknown
+   (2) Size - Unknown
+   (3) Color - White light
+   (4) Number - one (1)
+   (5) N/A
+   (6) No discernible features
+   (7) No trail or exhaust
+   (8) No sound
+   (9) Assumed to be a satellite until straight-line motion
+       suddenly ceased. Light source then behaved erratically.
 
 b. Description of Course of Object:
-(1) Motion of a light-source (sputnik fashion). 
-(2) H-E-S of sighting, D-C-Z angle unknown.
-(3) Duration of sighting approximately 45-60 seconds.
-(4) Object moved rapidly from N.E. to S.W. in a straight line trajectory. It then began behaving erratically, moving rapidly in circular and darting motions and finally faded to the horizon.
+   (1) Motion of a light-source (sputnik fashion)
+   (2) N.E. of Washington, D.C., angle unknown
+   (3) S.W. of Washington, D.C., angle unknown
+   (4) Object moved rapidly from N.E. to S.W. in a straight
+       line blinding irregularly and then stopped instantly.
+       It then began behaving erratically, moving rapidly
+       in circles, and darting motions and finally faded to
+       no course.
 
-ATCCP-CP-TA
-CONFIDENTIAL
-MAJOR, USAF
-C-3 Operations Officer
+DISTRIBUTION:
+Asst Chief of
+Staff, Intell,
+Hq USAF
+Office of
+Info Services
+Hqs USAF
 
-DD FDfrM 173 REPLACES ON FORM 173. 1 OCT 48. WHICH WILL BE USED UNTIL EXHAUSTED.
+Date: 2 MONTH 8 YEAR 1959
+
+Signature and name at bottom: RAS B. CUENT, Major, USAF, St. Operations Officer
+
 
 - page 2 -
 
-The image does not contain any photograph. It appears to be a page from a Project Blue Book document, specifically a "Joint Observation - Continuation Sheet" for an AFCOP-GP-EA sighting on August 22, 1959.
+JOINT INTELLIGENCE COMM - CONTINUATION SHEET
 
-The text in the document is as follows:
+HQ USAF, AFOOP-CP-EA
 
-JOINT OBSERVATION - CONTINUATION SHEET
+though climbing.
 
-1. HO USAF, AFOOP-GP-EA
-
-b. Time in sight: 
-(1) Gradually to southeast.
-(2) Seven (7) minutes.
+(5) Gradually to Southwest.
+(6) Seven (7) minutes.
 
 c. Manner of observation:
 (1) Ground visual.
@@ -97,125 +122,154 @@ c. Manner of observation:
 (3) N/A.
 
 d. Time and date of sighting:
-(1) 02/0522Z August 1959.
-(2) N/A.
+(1) 02/0522 August 1959.
+(2) Night.
 
-e. Rolling AFB, D. C.
+e. Bolling AFB, D. C.
 
 f. Identifying info on observers:
 (1) N/A.
-(2) Arr, pilot, seemed solid and reliable. Object also observed by five others.
+(2) Operations Group, Bolling AFB, pilot, seemed sober and reliable. Object also observed by five other party.
 
 g. Weather and winds aloft:
 (1) Clear starlit night, good visibility.
-(2) Surface - 22m.
-10,000' - 260°-25k.
-15,000' - 255°-27k.
-20,000' - 270°-35k. 
-30,000' - 270°-33k.
-40,000' - 260°-20k.
-50,000' - 250°-10k.
+(2) Surface - calm.
+   5,000' - 320°5K.
+   10,000' - 260°05K.
+   16,000' - 320°15K.
+   20,000' - 270°35K.
+   30,000' - 270°35K.
+   50,000' - 260°20K.
+   80,000' - 120°10K.
 
-(3) Ceilings: None (sight scattered).
-Visibility: 10 n.m.
-Altimeter setting: 30.06 in.
-No thunderstorms.
+(3) Ceiling: None (light scattered clouds).
+(4) Visibility: 10 M.M.
+(5) Slight scattered clouds.
+(6) No thunderstorms.
 
 h. Unknown.
 
 i. None.
 
-AFCOP-GP-EA
-NO. 2 PAGE 3 UNCLASSIFIED
-DD. MAY 173-1
+[Bottom of page shows document is page 2 of 3, UNCLASSIFIED, with page number 60010 in margin]
+
 
 - page 3 -
 
-The image does not contain any photograph. It appears to be a report or document page related to Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs).
+Here is the text from the document:
 
-Text extracted from the document:
+JOINT MESSAGEFORM - CONTINUATION SHEET
+HQ USAF, AFCOP-CP-EA
 
-Flight-path along W.R. approach to Washington National Airport: Observers establish this is an ordinary aircraft. Rate of speed and absence of engine noise rule out helicopter in opinion of observers. 
-Defense Identification Region: Operations Officer USAF Command Post. Comments: Air Andrews Operations had no helicopters airborne. Polling tower operators did not observe object.
+SECURITY CLASSIFICATION
+UNCLASSIFIED
+
+j. Flight-path along N.E. approach to Washington National Airport. Observers emphatic that it was not an ordinary aircraft. Rate of speed and absence of engine noise rule out helicopter in opinion of observers.
+
+k. Operations Officer USAF Command Post. Comments: Air Defense Identification reported no unusual radar tracks in area. Andrews Operations had no helicopters airborne. Rolling tower operators did not observe object.
+
+[Bottom of form details]
+AFCOP-CP-EA
+NR 3
+PAGES 3
+SECURITY CLASSIFICATION UNCLASSIFIED
+DD FORM MAY 55 173-1
+
+Number 60016 is handwritten on the right side of the document.
+
 
 - page 4 -
 
-The image does not contain any photographs. It appears to be a document from Project Blue Book, specifically a Joint Messageform regarding an investigation of an unidentified flying object (UFO) sighting.
-
-Text output from the document:
+Here is the text from the document:
 
 JOINT MESSAGEFORM
-SECURITY CLASSIFICATION
-UNCLASSIFIED
-SPACE BELOW RESERVED FOR COMMUNICATION CENTER
 
-1959 NOV 5 20 06 CTZ 952034 2/60
-PRECEDENCE ACTION ROUTINE
-ITEM TO AFOIN-DEPL5 1-2232-5
-FROM ATIC W-P AFB
+SECURITY CLASSIFICATION: UNCLASSIFIED
 
-TO BOLLING AFB, WASHINGTON, D.C. 57234
+[Handwritten notes: 4E48, 658]
 
-UFOLAS/FROM: AFOIN-DEPL5 1-2232-5
-OUR MSG AFOIN-DEPL5 B-1633-B, DTD 17 AUG 59, REQUESTING AN
-INVESTIGATION OF AN UFO SIGHTING MADE AND PARTY. REQ
+DATE: 1959 NOV 5
+PRECEDENCE: ROUTINE
+ACTION: ATTN W-P AFB
+INFO: 
+FROM: 
+
+TO: BOLING AFB, WASHINGTON, D.C. RTEZAL
+
+/UNCLAS/FROM: AFOIN-1EWS 1-2238-E
+
+OUR MSG AFOIN-4484 8-1683-E, DTD 17 AUG 59, REQUESTING AN INVESTIGATION OF AN UFO SIGHTING BY [REDACTED] AND PARTY. REQ.
+
 THIS CENTER BE ADVISED OF STATUS OF INVESTIGATION.
 
-AFOIN-DEPL5
-Lt Colonel Robert J. Friend
-SECURITY CLASSIFIED
+[Bottom of form details]
+DATE: 4 NOV 1959
+TIME: 0820
+
+[Signatures and typed names of Major Robert J. Friend and Nicholas Post]
+
+CLASSIFICATION: UNCLASSIFIED
+DD FORM 173, 1 MAY 56 REPLACES DD FORM 173, 1 OCT 45, WHICH WILL BE USED UNTIL EXHAUSTED
+
 
 - page 5 -
 
-The image does not contain any photographs. It appears to be a scanned document from Project Blue Book, which was a U.S. Air Force program that investigated UFO sightings.
-
-The text in the document is as follows:
-
 JOINT MESSAGEFORM
-SECURITY CLASSIFIED UNCLASSIFIED
-SPACE BELOW IS RESERVED FOR COMMUNICATION CENTER
-PRECEDENCE 
-ACTION 
-TYPE MSO (UMT) ACCOUNTING CITATION 
 
-PRIORITY 
-FROM: ATIC, W-P AFB
-TO: BOLLING AFB, WASHINGTON, D.C. RECORD
-UNCLAS/FROM: AFOIN-4ENG 8-1683-E
-HQ.. USAF MSG AFOOP-GP-EA 66010, LTD 2 AUG 59, REPORTING AN UFO SIGHTING. THE REPORT IS LIMITED IN NATURE, THUS PRECLUDING THE FORMATION OF A VALID CONCLUSION. REQUEST [REDACTED] 1100TH OFC OF, AND THE FIVE OTHER INDIVIDUALS IN HIS PARTY BE REINTERROGATED CONCERNING THE INCIDENT.
-COORDINATION, AFOIN-ENG B.D. SHAY AFIN-4H DATE 8-7-59
-AFOIN-4ER W.T. SMITH DATE 8-8-59
-SYMBOL AFOIN-4ENG 
-MAJOR Robert J. Friend OFFICE SYMBOL 62416
-PHONE 62416 GRADE OR RANK
-UNCLASSIFIED
-DD FORM 173 REPLACES DD FORM 173, 1 OCT 49, WHICH WILL BE USED UNTIL EXHAUSTED
+SECURITY CLASSIFICATION: UNCLASSIFIED
+
+SPACE BELOW RESERVED FOR COMMUNICATION CENTER
+
+PRECEDENCE: ROUTINE
+TYPE MSG (Check): X
+BOOK: MULTI
+ACCOUNTING SYMBOL: AF
+ORIG. OR REFERS TO: 60010 AF00P-CP-EA 2
+
+ACTION: ATIC, W-P AFB
+INFO: BOILING AFB, WASHINGTON, D.C. RJEBKL
+
+UNCLAS/FROM: AFCIN-4E4g 8-16833-E
+
+HQ. USAF MSG AF00P-CP-EA 60010, DTD 2 AUG 59, REPORTING AN UFO SIGHTING. THE REPORT IS LIMITED IN NATURE, THUS PRECLUDING THE FORMATION OF A VALID CONCLUSION. REQUEST 110CTH OBS GP, AND THE FIVE OTHER INDIVIDUALS IN HIS PARTY BE REINTERROGATED CONCERNING THE INCIDENT.
+
+COORDINATION: (Signatures partially illegible)
+
+DATE: 17 AUG 1959
+TIME: 0805
+
+TYPED NAME AND TITLE: Major Robert J. Friesel
+PHONE: 69216
+
+SIGNATURE: RD Harrell
+TYPED NAME AND TITLE: LOUIS J. HARRELL, CAPTAIN, USAF, ASSISTANT ADMINISTRATIVE OFFICER
+
+DD FORM 173, 1 MAY 58 REPLACES DD FORM 173, 1 OCT 49, WHICH WILL BE USED UNTIL EXHAUSTED
+
+SECURITY CLASSIFICATION: UNCLASSIFIED
+
 
 - page 6 -
 
-There is no photograph present in this image. The image appears to be a page from a document containing text-based information.
-
 ATIC
-8 MAY 59 03 13  
-1959 NOV 14 04 033  
-4-3
-2484
 
-LjJ
+RAO 53
+CZCSQE875ZCJVD259
 
-RA 53
-CZCSQES7DZCJYB232   
-MR Rjdes3: 
-
-DS RJEZEK 24
-R 1323212
-FM BASE OPS 
+RE RJEDS0
+DE RJEZEL 54
+R 132327
+FM BASE OPS
 TO ATIC
-BT
-UNCLASS//03//03141  HAS BEEN INTERROGATED AND
-HE IS UNABLf TO ADD ANYTHING TO ORIGINAL REPORT.
-BT
-14/ 2252 NOV RJESBL
+DT
+
+UNCLAS/03/G/~14 HAS BEEN REINTERROGATED AND
+HE IS UNABLE TO ADD ANYTHING TO ORIGINAL REPORT.
+
+DT
+
+14/02252 NOV RJEZEL
+
 
 - page 7 -
 

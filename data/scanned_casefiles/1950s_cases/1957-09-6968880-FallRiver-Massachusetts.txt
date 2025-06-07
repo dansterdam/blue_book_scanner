@@ -1,89 +1,141 @@
-The image provided does not contain any photograph. It appears to be a project record card from Project 10073, which is a document from the Project Blue Book, a US Air Force program that investigated unidentified flying objects (UFOs) in the 1950s.
-
-The text found in the document is as follows:
+Here is the text from the document:
 
 PROJECT 10073 RECORD CARD
-1. DATE: 24 September 1957
-2. DATE-TIME GROUP: 2330/0012
-3. PHOTOS: 0 Yes
-4. LENGTH OF OBSERVATION: 15 minutes
-10. BRIEF SUMMARY OF SIGHTING:
-A large round object, yellow in color, was observed between two houses and it disappeared slowly.
 
-11. CONCLUSIONS:
-An object as large as a house would have been seen and reported by other persons, but no other reports were received. a definite conclusion is not given - cannot conclude.
+1. DATE
+24 September 1957
+
+2. LOCATION
+Fall River, Massachusetts
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other:
+Insufficient Data for Evaluation
+Unknown
+
+3. DATE-TIME GROUP
+Local
+25/0001½
+
+4. TYPE OF OBSERVATION
+☒ Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+15 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+N/S
+
+10. BRIEF SUMMARY OF SIGHTING
+A large round object, yellow in color, was observed between two houses and it disappeared very slowly.
+
+11. COMMENTS
+An object as large as a house would have been seen and rptd by many. No other reports received. Since date, direction, elevation is not given cannot conclude.
+
+ATIC FORM 164 (REV 26 SEP 52)
+
 
 - page 1 -
 
-This image does not contain a photograph. It appears to be a page from a Project Blue Book report, containing text describing details of a UFO sighting.
-
-Here is the text extracted from the document:
-
-WPB127 YDB128 TYA128 TEP148EPNY
+WPB157 YD6166 TYA126 TDB146EPNY
 LTA132
-TD137NB229N285
-PP RJEDEN RJEHWP RJEPNY
-DE RJEPNE 3R
-P 221352
-FM COPLEY ACWRON NORTH TRURO AFSTA MASS
-TO RJEDEN/COMDR ADC ENT AFB COLORADO
-RJEDWP /COMDR ATIC WRIGHT PATTERSON AFB OHIO DIR INTEL HQ
+TDD167NB4229NBWL94
+PP RJEDN RJEDWP RJEPNY
+DE RJEPNE 3M
+P 2513362
+FM COMDR 762D ACWRON NORTH TRURO AFSTA MASS
+TO RJEDN/COMDR ADC ENT AFB COLORADO
+RJEDWP/COMDR ATIC WRIGHT PATTERSON AFB OHIO DIR INTEL HQ
 USAF WASH 25 D C
-RJEPNY/COMDR 26TH AD RGSLYN AFS ROSLYN NY
+RJEPNY/COMDR 26TH AD ROSLYN AFS ROSLYN NY
 INFO ZEN/DET 3 4602 AISS STEWART AFB NY
-ZEN/USAF STEWART AFB NY
+ZEN/EADF STEWART AFB NY
 BT
-/UNCLASSIFIED SCOOPS 09951 PD ATTN CIG
-(1) A. SOUND
-B. LARGE AS A HOUSE
-C. YELLOW
-D. ONE
-E. N/A 
-F. BRIGHT
-G. NO
-H. NO
-I. NO
+/UNCLASSIFIED SQ0OS 06081 PD ATTN CIC
+(1) A. ROUND
+    B. LARGE AS A HOUSE
+    C. YELLOW
+    D. ONE
+    E. N/A
+    F. BRIGHT
+    G. NO
+    H. NO
+    I. NO
+
 
 - page 2 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document.
+PAGE RJ TWO RJEPNB 3M
 
-PAGE RJ TWO RJEPM 3M
 (2) A. SPOTTED FROM OBSERVATION POST
-B. UNKNOWN
-C. DOWN BETWEEN TWO HOUSES
-D. N/A 
-E. VERY SLOW
-F. 15 MINUTES
+    B. UNKNOWN
+    C. DOWN BETWEEN TWO HOUSES
+    D. N/A
+    E. VERY SLOW
+    F. 15 MINUTES
 
 (3) A. GROUND VISUAL
-B. N/A
-C. N/A
-(4) A. 6002Z SEPT 57 - NO RADAR DATA
+    B. N/A
+    C. N/A
 
-(5) A. AT NIGHT
-(6) BM CG
-FALL RIVER MASS
+(4) A. 00012 SEPT 57
+    B. AT NIGHT
 
-FALL RIVER MASS
+(5) A. DM-5042, FALL RIVER MASS
+    FALL RIVER MASS
+    BM CG
+
+(6) (8) N/A
+
 (7) A. CLEAR
-B. 12,000 CLOUDS
-C. 12,000
-D. 15 MILES
+    B. 10,000 CLOUDS
+    C. 10,000
+    D. 15 MILES
 
-PAGE THREE RJEPM 3M
-(8) NO CLOUD COVERAGE
-(9) N/A
+(9) N/A    (10) NONE
+(11) NONE
+(12) NONE
+
+PAGE THREE RJEPNB 3M
+
+E. NO CLOUD COVERAGE
+F. N/A
+
+BT
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a page from a document with typed text.
+11. LT. FRANCE D. KENT, SENIOR DIRECTOR
 
-LT. FRANCE D. KENT. SENIOR DIRECTOR
-A. COMMENTS: BELIEVED TO BE LIGHTS OR REFLECTION OF LIGHTS ON HIGH CIRRUS CLOUDS IN THE AUGUSTA AREA.
-12. DONE
+A. COMMENTS: BELIEVED TO BE LIGHTS OR REFLECTION OF LIGHTS ON HIGH
+CIRUS CLOUDS IN THE AUGUSTA AREA.
+
+12. NONE
+
 BT
-26/06332 NOV RJESKB
+96/96362 NOV RJESKB
+
 
 - page 4 -
 

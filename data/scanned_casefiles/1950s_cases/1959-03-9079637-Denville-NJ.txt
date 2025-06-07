@@ -1,32 +1,67 @@
-The image contains a Project 10073 Record Card, which appears to be a document from Project Blue Book, a United States Air Force program to study unidentified flying objects (UFOs). The image does not contain any photographs, only a form with various fields filled out.
+PROJECT 1073 RECORD CARD
 
-TEXT FROM THE DOCUMENT:
+1. DATE
+1-9-50
 
-1. DATE: 3-12-59
-2. LOCATION: Denville, N.J.
-3. DATE-TIME GROUP: 0130Z
-4. TYPE OF OBSERVATION: Ground-Visual
-5. SOURCE: Civilian
-6. LENGTH OF OBSERVATION: 0.5 
-7. NUMBER OF OBJECTS: 1
-8. COURSE: N/A
-9. COMMENTS: Photo-graphic evidence discharged when sensor film was developed.
-10. CONCLUSIONS: Was Real, Definitely Balloon, Possibly Satellite, Unknown
-11. COMMENTS: Photo-graphic evidence discharged when sensor film was developed.
+2. LOCATION
+Denville, NJ
+
+3. DATE-TIME GROUP
+Local     2050 EST
+GMT       16/0150z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual     ☐ Ground-Radar
+☐ Air-Visual        ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☐ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+[Blank]
+
+8. NUMBER OF OBJECTS
+3
+
+9. COURSE
+[Blank]
+
+10. BRIEF SUMMARY OF SIGHTING
+Photograph submitted w/3 objs appearing to move away fm the noon. This were not noticed until after film was developed.
+
+11. COMMENTS
+Static electric discharge was observed as air the cause by photo analysis section.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+
+☐ Other: Insufficient Data for Evaluation
+☐ Unknown
+
 
 - page 1 -
 
-There is no photograph present in this image. The image shows handwritten text that reads "This one triolede are(1) 9/16" x 7/8" megasite".
+This case includes one(1) 9½" x 7⅜" negative
 
-Output of the OCR text:
-This one triolede are(1) 9/16" x 7/8" megasite
 
 - page 2 -
 
-The image does not contain any photograph, only handwritten text. The text states: "This one picture me(I) 96"x78" negative".
+This case includes one(1) 9½"x7¾" negative
 
-Project Blue Book Text Output:
-This one picture me(I) 96"x78" negative
 
 - page 3 -
 

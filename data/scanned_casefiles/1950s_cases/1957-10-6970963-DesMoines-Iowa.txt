@@ -1,87 +1,145 @@
-The image does not contain any photograph. It appears to be a Project 10073 record card from the Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
-
 PROJECT 10073 RECORD CARD
-1. DATE: 6 October 1957
-2. DATA-TIME GROUP: 2337Z
-3. LOCATION: Des Moines, Iowa
-4. TYPE OF OBSERVATION: Ground-Radar; Visual
-5. COURSE: One
-6. NUMBER OF OBJECTS: One
-7. LENGTH OF OBSERVATION: 9 minutes
-8. BRIEF SUMMARY OF SIGHTING: The size of a basketball at arm's length. Object was seen flying from NW to SW for one minute.
-9. CONCLUSIONS: Possibly balloon. Possibly aircraft.
+
+1. DATE
+6 October 1957
+
+2. LOCATION
+Des Moines, Iowa
+
+3. DATE-TIME GROUP
+GMT 06/2229Z
+
+4. TYPE OF OBSERVATION
+☒ Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes ☒ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+One minute
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+NW to SW
+
+10. BRIEF SUMMARY OF SIGHTING
+One round silver object, the size of a basketball at arm's length, object was seen flying from NW to SW for one minute.
+
+11. COMMENTS
+Description, duration, flight path indicate that this sighting was probably caused by an aircraft.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☒ Was Aircraft
+☒ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomic
+☐ Probably Astronomic
+☐ Possibly Astronomic
+☐ Other: Insufficient Date for Evaluation
+☐ Unknown
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-WPA0GG YMSS3KFAGSSKFGOBS
-PR RUDEN RJEKUP RJERIG
+6/20/52
+Multi
+
+7 Oct 57 11:50 7 Oct 57 04 52
+
+WPA008 YMB09JKFA009PKFG008
+RR RJDEN RJEDUP RJEPHQ
 DE RJEDKF 1G
-R 070023Z
-FM COMDR 29TH AIR DIV RICHARDS GEBAUR AFB MO
+R 8700023Z
+FM COMDR 20TH AIR DIV RICHARDS GEBAUR AFB MO
 TO RJEDEN/COMDR ENT AFB COLO
 RJEDWP/COMDR AIR TECH INTEL CEN WPAFB OHIO
-RJEPHO/DIR INTEL HQ USAF WASHDC
+RJEPHQ/DIR INTEL HQ USAF WASHDC
 BT
-/UNCLASSIFIED/29TH ADCOC 0302.
+/UNCLASSIFIED/20TH ADCOC 0302.
 IN ACCORDANCE WITH JCADF INTERIM CHANGE ONE TO CONADM
-FIFTY FIVE DASH ONE THE FOLLOWING UFOSP REPORT IS SUBMITTED:
+FIFTY FIVE DASH ONE THE FOLLOWING UFOB REPORT IS SUBMITTED:
+
 1. A. ROUND
-B. BASKETBALL
-C. SILVERED
-D. ONE
-E. ONE FLYING STRAIGHT LINE
-F. NONE
-G. NO VAPOR TRAIL
+   B. BASKETBALL
+   C. SILVER
+   D. ONE
+   E. ONE FLYING STRAIGHT LINE
+   F. NONE
+   G. NO VAPOR TRAIL
+
+Typed below the list is a handwritten note that appears to say "Typical balloon description" with a signature.
+
 
 - page 2 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book report that contains text-based information.
-
 PAGE TWO RJEDKF 1G
-1. B. - NO SOUND
-2. A. (RECEIVED FROM DES MOINES IOWA FILTER CENTER
-B. SIXTY DEGREES HIGH
-C. SIXTY DEGREES SOUTHWEST
-D. NORTHWEST TO SOUTHWEST
-E. FADED OUT
-F. ONE MINUTE
+
+1. NORTHWEST TO SOUTHWEST
+
+2. A. RECEIVED FROM DES MOINES IOWA FILTER CENTER
+   B. SIXTY DEGREES HIGH
+   C. SIXTY DEGREES SOUTHWEST
+   D. NORTHWEST TO SOUTHWEST
+   E. FADED OUT
+   F. ONE MINUTE
+
 3. A. GROUND VISUAL
-B. NAKED EYE
-C. N/A
-4. A. 96/22297 - 7 3 29-6 = 1629 C (4.21.57)
-5. A. "2034" LONG 4134 LAT 93.40
-6. A. FOURTEENTH STREET
-DES MOINES IOWA
-CHECKER ROCK ISLAND MOTOR TRANS CO
-OR
-ADDRESS UNKNOWN
+   B. NAKED EYE
+   C. N/A
+
+4. A. 96/2229Z
+   B. DAY
+
+5. A. MM "2834" LONG 4134 LAT 9340
+   
+6. A. [REDACTED] FOURTEENTH STREET
+   DES MOINES IOWA
+   CHECKER ROCK ISLAND MOTOR TRANS CO
+   [REDACTED]
+   ADDRESS UNKNOWN
 
 PAGE THREE RJEDKF 1G
+
 7. A. N/A
-B. 5800 FT 278 DEGREES 39 KNOTS 30000 FT 290 DEC 15 K
+   B. 5000 FT 270 DEGREES 30 KNOTS 30000 FT 200 DEG 15 K
+
 
 - page 3 -
 
-This image does not contain a photograph, it appears to be a page from an old UFO report document from Project Blue Book. 
+Here is the text from the document:
 
-The text in the document is as follows:
+15000 FT   WIP DEGREES   50 KNOTS   TPPP FT 180 DEG   19 K
+15000 FT   300 DEGREES   40 KNOTS   50000 FT UNK
+20000 FT   300 DEGREES   25 KNOTS
 
-26000 FT WIP DEGREES 35 KNOTS TIPPP FT 180 DEG 32 K
-12000 FT 320 DEGREES 49 KNOTS 52000 FT UNK
-25000 FT 320 DEGREES 25 KNOTS
-7. C. 14000 BROKEN 
+7. C. 14000 BROKEN
 D. TWELVE MILES
 E. UNK
 F. NONE
-G. NONE
-S. NONE
+
+8. NONE
+9. NONE
 10. NONE
-11. WND LT JAMES STILES, DIRECTOR, 758TH ACV WAVERLY IOWA
-12. COMMENTS OF REPORTING OFFICER--SOURCE--UNRELIABLE--
+
+11. WND LT JAMES STILES, DIRECTOR, 788TH ACW WAVERLY IOWA
+    COMMENTS OF REPORTING OFFICER--SOURCE--UNRELIABLE--
+
+12. NONE
+
 BT
-07/28/52 OCT RJEDKF
+07/8/52 OCT RJEDKF
+
 
 - page 4 -
 

@@ -1,26 +1,55 @@
-There is no photograph present in this image. This appears to be a UFO index card from Project Blue Book, containing textual information about a reported UFO sighting.
+UFOB INDEX CARD A158-UFOB-221-58
 
-UFOB INDEX CARD A133-UFOR-221-55
-1. DATE 4 July 1955
-2. LOCATION Orlando, Florida 
-3. PHOTOS Yes
-4. TYPE OF OBSERVATION Ground-Visual
-5. SOURCE Military and Civilian
-7. LENGTH OF OBSERVATION Sixty to seventy seconds
-10. BRIEF SUMMARY OF SIGHTING One (1) round, large, white object, with a brilliant white brilliant streak trailing in a straight course from east to west.
-11. COMMENTS This object was also seen by observers in Miami and Palm Beach. The report indicated that the object was probably a meteorite. The description fits and the time (duration) of sighting fits. This meteorite was probably a bright one, causing some speculation.
+1. DATE
+17 July 1956
 
-OCR output:
+2. LOCATION
+Orlando, Florida
+(also at Miami and Palm Beach)
 
-UFOB INDEX CARD A133-UFOR-221-55
-1. DATE 4 July 1955
-2. LOCATION Orlando, Florida
-3. PHOTOS Yes 
-4. TYPE OF OBSERVATION Ground-Visual
-5. SOURCE Military and Civilian
-7. LENGTH OF OBSERVATION Sixty to seventy seconds
-10. BRIEF SUMMARY OF SIGHTING One (1) round, large, white object, with a brilliant white brilliant streak trailing in a straight course from east to west.
-11. COMMENTS This object was also seen by observers in Miami and Palm Beach. The report indicated that the object was probably a meteorite. The description fits and the time (duration) of sighting fits. This meteorite was probably a bright one, causing some speculation.
+3. DATETIME GROUP
+Local
+GMT 15-0200Z July 1956
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[X] No
+
+6. SOURCE
+Military and Civilian
+
+7. LENGTH OF OBSERVATION
+Sixteen to Seventeen Seconds
+
+8. NUMBER OF OBJECTS
+One (1)
+
+10. BRIEF SUMMARY OF SIGHTING
+One (1), round, large, white object, with a long and brilliant trail traveled in a straight course from east to west.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+[X] Insufficient Data for Evaluation
+□ Unknown
+
+11. COMMENTS
+This object was also seen by observers in Miami and Palm Beach. In the opinion of the supporting authorities, the object was probably a meteor. The description fits and the time (duration) of sighting fits. The headquarters is of the opinion that the sighting was caused (probably) by a meteoric. PROBABLY ASTRONOMICAL
+
+AISOP Form 5 (15 Oct 54)
+
 
 - page 1 -
 

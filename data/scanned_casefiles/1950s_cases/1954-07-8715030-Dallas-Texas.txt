@@ -1,69 +1,108 @@
-There is no photograph present in this image. This appears to be a Project 10073 record card from the Project Blue Book archives, containing various details about a reported UFO sighting.
-
-TEXT OUTPUT:
-
 PROJECT 10073 RECORD CARD
 
 1. DATE
-12 July 1954
+19 July 1954
 
-2. LOCATION 
+2. LOCATION
 Dallas, Texas
 
-3. DATE-TIME GROUP 
-Local 2350 CST  
+3. DATE-TIME GROUP
+Local 2255CST
+GMT 20/0457
 
-4. TYPE OF OBSERVATION 
+4. TYPE OF OBSERVATION
 Ground-Visual
 
 5. PHOTOS
-O Yes
+0 Yes
+No
+
+6. SOURCE
+Military
 
 7. LENGTH OF OBSERVATION
 Not Reported
 
-10. BRIEF SUMMARY OF SIGHTING
-Round, dull rose color. High speed, 360 deg orbit.
+8. NUMBER OF OBJECTS
+1
 
-12. CONCLUSIONS
-[] Was Balloon
-[] Probably Balloon
-[] Possibly Balloon
-[] Astronomical
-[] Probably Aircraft  
-[] Possibly Aircraft
-[] Insufficient Data for Evaluation
-[X] Unknown
+9. COURSE
+360 deg orbit
+
+10. BRIEF SUMMARY OF SIGHTING
+Round, Dull rose color. Hight speed. 360 deg orbit.
 
 11. COMMENTS
 Not Reported. Insufficient data for analysis.
 
+12. CONCLUSIONS
+(Various checkboxes, none marked)
+- Was Balloon
+- Probably Balloon
+- Possibly Balloon
+- Was Aircraft
+- Probably Aircraft
+- Possibly Aircraft
+- Was Astronomical
+- Probably Astronomical
+- Possibly Astronomical
+- Other...
+- Insufficient Data for Evaluation
+- Unknown
+
+(Bottom of form notes: ATIC FORM 329 (REV 26 SEP 52))
+
+
 - page 1 -
 
-There is no photograph present in this image. The image appears to be a page from an old UFO report document, specifically from Project Blue Book. I will now act as an OCR (Optical Character Recognition) system and extract all the text found in the document:
+JEDMH 09
+JWFQB 54
+CO JEDWP
+DE JWFQB 01C
+O 2086002
 
-UNCLASSIFIED ACTION
-TO CARSWELL FLT SER CEN CARSWELL AFB FT WORTH TEX
-TO DJPRT GENERAL INTELLIGENCE CENTER PATTERSON AFB OHIO
-THRU DJPRT DIR OF INT DIV AFB COLORADO SPRINGS COLO
+TM CARSWELL FLT SER CEN CARSWELL AFB FT WORTH TEX
+TO JDWP/AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO/AES
+ZEN/DIRECTOR OF INTELLIGENCE HQ USAF WASH DC
 ZEN/CG ADC ENT AFB COLORADO SPRINGS COLO
-ZEN/CST AD CARSWELL AFB FT WORTH TEXAS
+ZEN/CG 19TH AD CARSWELL AFB FT WORTH TEXAS
 ZEN/COMDR MATS WASH DC
-INFO ZEN/COMDR FLT XV ORLANDO FLA
+INFO ZEN/COMDR FLT XB ORLANDO FLA
+/FLYOBPT NO. (3)
 
-1. DESCRIPTION OF OBJECT: ROUND COLOR ROSE - SPEED, HIGH SPEED 
-2. TIME - 2255C
-3. OBSERVATION - GROUND 
-4. LOCATION: DALLAS, TEXAS - PRESTON ROAD.
-5. RELIABILITY OBS.: RATED AIR FORCE OBSERVER.
-6. WEATHER: CLEAR 15 WINDS ALOFT 15222 (ASTERISK) 22(ASTERISK) 5
+1. DESCRIPTION OF OBJECT: ROUND COLOR DULL ROSE. SPEED, HIGH SPEED
+                           360 DEG ORBIT.
+
+2. TIME: 2255C
+
+3. OBSERVATION: GROUND
+
+4. LOCATION: DALLAS, TEXAS. PRESTON ROAD.
+
+5. RELIABILITY OBS: RATED AIR FORCE OBSERVER.
+
+6. WEATHER: CLEAR 15 WINDS ALOFT 15200 (ASTERISK)33 (ASTERISK) 5 /
+   22000 (ASTERISK)33 (ASTERISK) 5 /
+
 7. NO RECORD
+
 8. NONE
-9. PARAPHASE (REQUIRED, SEE CRYPTO-CENTER BEFORE DECLASSIFY: 80
+
+9. NONE
+
 10. NONE
-22/0352Z JUL JWFGB
+
+11. NONE
+
+22/063 02 JUL JWFQB
 
 UNCLASSIFIED
+
+PARAPHASE IS REQUIRED. SEE CRYPTO-CENTER
+BEFORE DECLASSIFYING 9501 THU 02
+
+UNCLASSIFIED
+
 
 - page 2 -
 

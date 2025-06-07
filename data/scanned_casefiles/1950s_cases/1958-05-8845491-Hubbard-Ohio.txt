@@ -1,66 +1,110 @@
-There is no photograph present in this image. This appears to be a page from a Project Blue Book record card.
-
-As an OCR system, the text output is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE                       2. LOCATION
-26 MAY 58                     Hubbard, Ohio
-4. DATE-TIME GROUP
-26 1700 Z
+
+1. DATE
+26 May 58
+
+2. LOCATION
+Hubbard, Ohio
+
+3. DATE-TIME GROUP
+2245
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+Local
+27/0345Z
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+Civilian
+
 7. LENGTH OF OBSERVATION
 unknown
-10. BRIEF SUMMARY OF SIGHTING
-one object was seen traveling at 600 knots at 5000 ft.
 
-12. CONCLUSIONS
-Was Balloon
-Possibly Balloon
-Was Aircraft
-Possibly Aircraft
-Was Astronomical
-Possibly Astronomical
-Other
-Insufficient Data for Evaluation
+8. NUMBER OF OBJECTS
+one
 
-OBJECT
-unkonwn
-
-COURSE
+9. COURSE
 SE to NW
 
-COMMENTS
-Object is typical of a jet a/c going away fm the observer.
+10. BRIEF SUMMARY OF SIGHTING
+A round obj orange was seen travelling 600 knots at 5000 ft.
 
-M SOCSI7 YMB7U3SWAI59
-PP RJBDDN RJDSO RJEPHO
-De RJBDDN 4b
-P 272800Z
-FM COMDR GS2ND ACWRON BROOKFIELD AFS OHIO
-TO RJBDDN/COMDR ADC BNT AFB COLORADO
-RJBDDN/COMDR 20TH AIR DIV WILLOW RUN AFS MICHIGAN  
-RJEDSO/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT-PATTERSON
-AFB OHIO
-RJEPHO/ASSISTANT CHIEF OF STAFF INTELLIGENCE HEADQUARTERS USAF
-WASHINGTON DC
-RJEPHO/OFFICE OF INFORMATION SERVICES HEADQUARTERS USAF
-WASHINGTON DC
-ET
+11. COMMENTS
+The description of the obj is typical of a jet a/c going away fm the observer.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Possibly Balloon
+☒ Was Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+The bottom half of the document appears to be a communication routing slip with various military communication destinations including:
+- FM CMDR 662ND ACWRON BROOKFIELD AFS OHIO
+- TO RJEDDN/COMDR ADC ENT AFB COLORADO
+- RJEDBW/COMDR 30TH AIR DIV WILLOW RUN AFS MICHIGAN
+- And several other military and intelligence headquarters locations in Ohio, Michigan, and Washington DC
+
 
 - page 1 -
 
-The image does not contain a photograph. The image appears to be a scanned page from a Project Blue Book document.
-
-DESCRIPTION OF OBJECTS: (1) ROUND (2) UNKNOWN (3) ORANGE
+A. DESCRIPTION OF OBJECT (1) ROUND (2) UNKNOWN (3) ORANGE
 (4) ONE (5) NEG (6) NEG (7) NEG (8) NEG (9) CONSTANT LIGHT NO
-FLASHING OR PULSATING.
-B. DESCRIPTION OF COURSES: (1) UNKNOWN (2) ELEVATION: 5 ANGELS
-(3) DIRECTION OF MOVEMENT: SOUTHEEST TO NORTHWEST (4) SPEED 600
-KNOTS (5) UNKNOWN (6) UNKNOWN - 8120 ids of s. disappear ?
+FLASHING OR PULSATING. Ref par 16 AFR 200-2
+
+B. DESCRIPTION OF COURSE: (1) UNKNOWN (2) ELEVATION 5 ANGELS
+(3) DIRECTION OF MOVEMENT SOUTHEAST TO NORTHWEST (4) SPEED 600
+KNOTS (5) UNKNOWN (6) UNKNOWN - How did obj. disappear?
+
 C. MANNER OF OBSERVATION: (1) GROUND VISUAL (2) NEG (3) NEG.
-D. TIME AND DATE: (1) 25:02, 27 MAY 1958 (2) NIGHT.
+
+D. TIME AND DATE: (1) 0345Z, 27 MAY 1958 (2) NIGHT.
+
 E. LOCATION OF OBSERVER: HUBBARD, OHIO.
 
-The observer doesn't give clear information on this sighting, primarily because several details were either unknown or unobserved. However, the object was described as round, orange, and exhibiting a constant light with no flashing or pulsating. It moved in a southeasterly to northwesterly direction at a speed of 600 knots.
+The observer doesn't give elevation, azimuth, how
+object disappeared or how long object was in sight.
+However, the description of the object is characteristic
+of a jet A/C going away from the source.
+
+Prob A/C
+
+PAGE TWO RJEDBW 4B
+
+F. IDENTIFICATION: (1) [REDACTED], AGE UNKNOWN, [REDACTED]
+HUBBARD, OHIO, OCCUPATION UNKNOWN, (2) NEG.
+
+G. WEATHER: (1) CLEAR AND COOL (2) WINDS ALOFT: 20,000 FEET:
+320 DEGREES, 50 KNOTS
+NW
+30,000 FEET: 320 DEGREES, 50 KNOTS
+50,000 FEET: 290 DEGREES, 49 KNOTS
+(3) NONE (4) 20 MILES (5) NONE (6) NONE.
+
+H. UNUSUAL ACTIVITY: NEG
+
+I. NO ACTION TAKEN.
+
+J. LOCATION OF AIR TRAFFIC IN AREA: UNKNOWN
+
+K. OBJECT MAY HAVE BEEN LOW FLYING JET AIRCRAFT. 1ST LT. HOWARD
+M. KELLY, INTELLIGENCE OFFICER. on what does he base this
+statement? Ref. par 17 AFR 200-2
+
+L. PHYSICAL EVIDENCE: NEG.
+ET
+
+27/2012 MAY RJEDBW
+
 
 - page 2 -
 

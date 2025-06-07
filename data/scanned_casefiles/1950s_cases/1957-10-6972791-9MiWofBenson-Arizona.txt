@@ -1,70 +1,129 @@
-There is no photograph present in this image. It appears to be a page from a Project Blue Book record card, which contains various details about a UFO sighting.
+PROJECT 10073 RECORD CARD
 
-Output of the text found in the document:
+1. DATE
+18 October 1957
 
-1. DATE 10/6/57
-2. LOCATION Mi Wi of Benson, Arizona
-3. DATE-TIME OF OBSERVATION 19/06/1:27
-4. TYPE OF OBSERVATION Ground-Visual
-5. DURATION 2 minutes
-7. LENGTH OF OBSERVATION 2 minutes
-10. BRIEF SUMMARY OF SIGHTING A group of civilians had not seen anything unudual so far, when suddenly around them appeared a bright object which moved rapidly east then north. It was sien for approximately 35 and 50 minutes, at which height the object is believed bright.
-11. NEW COMMENTS Around this time articles in local papers were running as to reports of UFO sightings in the Benson, Arizona area at that time.
+2. LOCATION
+9 Mi W of Benson, Arizona
+
+3. DATE-TIME GROUP
+Local 19/0127z
+
+4. TYPE OF OBSERVATION
+□ Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+□ No, none rec'd
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+6 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+NNW
+
+10. BRIEF SUMMARY OF SIGHTING
+A group of civilians had set up a camera to view and photograph expected Russian satellite. Satellite was not sighted, but a bright object appeared over SE horizon and traveled rapidly across the sky disappearing over the NNW horizon. The object was brighter than any star, but less bright than Venus. The light exhibited a yellowish hue giving the impression of a self-luminous sight. Three photos were taken.
+
+11. COMMENTS
+Around this time artificial meteors were being shot into the upper atmosphere to heights of between 35 and 50 miles at which height they glowed brightly enough to be photographed.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other: Probably meteor
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
-
-The image contains a diagram and some text. The diagram appears to be an illustration related to an "ESTIMATE OF HEIGHT" calculation, showing the rotation of the Earth and parallel light rays arriving from the sun. The text provides the details and calculations for this "ESTIMATE OF HEIGHT" process.
 
 ESTIMATE OF HEIGHT
 
 A simple calculation will yield the minimum height of an object over our location to reflect sunlight at 1827. Local sunset occurred at 1749. We first saw the unknown object thirty-eight minutes after sunset.
 
-The circumference of the earth at the equator is approximately 25,133 mi.
+The circumference of the earth at the equator is approximately 2π x 4000 = 25,133 mi.
 
-At latitude 32° this becomes 25,133 cos 32° = 21,713 mi.
+At latitude 32° this becomes:
+25/33 cos 32° = 21.3/3 mi.
 
-The speed of rotation of the earth at our latitude is: 21,713 / 1440 = 15.08 mi./min.
+The speed of rotation of the earth at our latitude is:
+21.3/33 = 14.80 mi./min.
 
-Thirty-eight minutes after sunset, the earth has traveled: 38/60 x 15.08 = 9.55 mi.
+Thirty-eight minutes after sunset, the earth has traveled:
+38 x 14.8 = 562.4 mi.
 
 Assuming parallel light rays arriving from the sun, the following diagram may be constructed:
 
+[A hand-drawn diagram showing a circle representing the Earth, with lines representing sunlight and the Earth's rotation, labeled with "FROM SUN" on the right side]
+
+
 - page 2 -
 
-The image contains a photograph that appears to be an excerpt from a technical report or document. The photograph shows a diagram or sketch that is labeled "The circle represents the 33rd parallel, viewed from the top (north)." It also includes various calculations and measurements related to the size and height of an unidentified object.
+The circle represents the 32nd parallel, viewed from the top (north).
+Assuming triangle A B D is a right triangle, the angle α is:
+α = "tan" 562/4000
+α = 8°0'
 
-The text extracted from the document is as follows:
+We may now calculate the hypotenuse A C of triangle A B C:
+AC = 4000/sin α = 4000/0.1392 = 4039.3 ml.
 
-The circle represents the 33rd parallel, viewed from the top (north). Assuming triangle A B D is a right triangle, the angle at D is 45°.
-A C = 1000
-A D = 1000
-We may now calculate the hypotinuse A C of triangle A B C:
-A C = \/ (1000)^2 + (1000)^2 = 1414.2 m.
+Since line A D is 1000 mi, line C D is 39.3 mi. This is the minimum height of the object above the earth.
 
-Since line A D is 1000 m, line C D is 39.3 m. This is the minimum height of the object above the earth.
+This calculation is based on an object directly over our location and reflecting the sun's rays thirty-eight minutes after sunset. This is a considerable simplification of the actual case. If the diffraction of the sun's rays by our atmosphere causes sunset to occur three minutes late (at 1752), then the distance C D is reduced to about thirty-five miles. However, the object was to the east of our location when seen at 1827, therefore the minimum height for reflection of sunlight should be increased. The above calculation was intended only to give a rough estimate of the heights involved, and appears to be a white minimum height.
 
-This calculation is based on an object directly over our location and reflecting the sun's rays thirty-three minutes after sunset. This is a consideration of the actual case. If the distortion of the sun's rays by our atmosphere causes sunset to occur three minutes later (at 17:52), then the distance C D is reduced to about thirty-five miles. However, the object was to be illuminated when it was three thousand yards (1827 m) from the minimum height for reflection of sunlight should be increased. The above calculation was intended only to give a rough estimate of the heights involved.
+If the object we saw was illuminated by sunlight, the absolute minimum height appears to be 39.3 miles.
 
-If the object was illuminated by sunlight the calculate minimum height appears to be 38.2 yards.
+Note:
+See A.P.G's analysis - 
+Rpt & Incl. Signed
+date June 9, 1958
+1st paragraph ( )
+
 
 - page 3 -
 
-The image appears to contain two rectangular shapes with a handwritten annotation below each shape. The annotation below the top shape reads "1,58'5x7", and the annotation below the bottom shape reads "#2. middle of sky". There does not appear to be any other text or visual elements in the image.
+Text found on the document:
 
-41,58'5x7
-#2. middle of sky
+#1. SE SKY
+
+#2. MIDDLE OF SKY
+
+The document contains two grayscale photographic images that appear very dark and indistinct, with no clear details visible. The images seem to be of sky scenes, labeled as "#1. SE SKY" (top image) and "#2. MIDDLE OF SKY" (bottom image).
+
 
 - page 4 -
 
-The image appears to show an unidentified object in the sky, as described in the handwritten text at the top of the image. The text states "Superimposed in middle as by disappear - may say". There is no photograph of people in this image.
+Text found on the document:
 
-Transcription of the text in the document:
+#3
+Superimposed in handle of
+big dipper - NNW sky
 
-Superimposed in middle as by disappear - may say
+The image appears to be a low-quality, grayscale photograph with a dark, somewhat blurry rectangular shape. There is a thin diagonal line visible in the image. The photograph seems to be part of a UFO or astronomical observation report.
+
 
 - page 5 -
 
-The image does not contain any photographs. It appears to be a scanned page of a document from the National Academy of Sciences, National Research Council of the United States of America, dated May 27, 1955. The text in the document is as follows:
+Here is the text from the document:
+
+2101 CONSTITUTION AVENUE
+WASHINGTON 25, D. C.
 
 NATIONAL ACADEMY OF SCIENCES
 NATIONAL RESEARCH COUNCIL
@@ -73,237 +132,327 @@ OF THE UNITED STATES OF AMERICA
 UNITED STATES NATIONAL COMMITTEE
 INTERNATIONAL GEOPHYSICAL YEAR 1957-58
 
-May 27, 1955
+May 27, 1958
 
-Dear Mr. ********:
+Mr.
+Assistant Director
+Research and Development
+Collins Radio Company
+Cedar Rapids, Iowa
 
-Your letter of April 27, 1955 to Dr. ********** has been passed on to this division. I understand that the details of this matter will be taken up directly with the appropriate authorities at their end.
+Dear Mr.
 
-I can assure you that this case has been processed with utmost care as all such matters require handling. The report will be made available for study as soon as possible.
+Your letter of April 24, 1958 to Dr. [redacted] has been passed on to this office. We have read with interest the detailed report on the October 19, 1957 sighting of an unidentified object and a raw forward copy of this report to the Smithsonian Astrophysical Observatory and the Department of Defense. As the report indicates, it does not appear likely that a object was associated with Sputnik I. However, the Smithsonian Astrophysical Observatory is still engaged in meteor research and will undoubtedly be glad to receive this information.
 
 Thank you.
 
 Sincerely yours,
 
-******-IGY Branch Coordinator
+USMC-IGY Earth Satellite Office
 
-cc: Dr. **********, ASPAC
-Dr. V. R. Eshleman, SU
+cc: Dr. [redacted] SAO
+Major Eugene E. DUKE, USAF
+Dr. W. H. Pickering, JPL
+
 
 - page 6 -
 
-The image contains a newspaper article titled "Meteors Held Prelude Of Rockets to Moon" with a photograph of what appears to be a rocket launch or explosion.
+Here is the OCR text from the document:
 
-The text of the article is as follows:
+Meteors Held Prelude
+Of Rockets to Moon
 
-LANSCOM AIR FORCE BASE, Mass. - The Air Force said today that it will make further tests soon of the first apparent breakthrough into space, which undoubtedly prepares the way for a rocket to the moon.
+Launching First Apparent
+Breakthrough Into Space
 
-The first test flight of an experimental rocket which reached a height of 135 miles above the earth's surface and which the Air Force said "could get to the moon" ended in an explosion over the White Sands, N.M., on Sunday.
+HANSCOM AIR FORCE BASE, Mass., Nov. 23 (UP) — An Air Force scientist said today that the successful launching of an artificial meteors into interplanetary space "undoubtedly" prepares the way for a rocket to the moon.
 
-The rocket experiment showed that the artificial meteors created by an exploding rocket can be detected by radar - a development which the Air Force said could be useful in helping to guide future rockets to the moon and other planets.
+Maurice Dublin, chief of the Geophysics force on the rocket from the Naval Research Directorate of the Air Force Cambridge Research Center, said that by using a technique similar to that employed for controlled experiments in the physics of the upper atmosphere, "artificial meteorites" blasted into space from over the New Mexico desert have "unquestionably" stepped into the interplanetary orbit.
 
-HE SAID the rocket would take about 10 minutes to reach the 220-mile distance to the moon and would create a gravitational problem since the moon's gravity would exert a service.
+HE SAID the rocket would take about 10 hours to travel the 250,000-mile distance to the earth's closest space neighbor since gravity would exert a greater pull.
 
-The report said that the rocket, which bore a 40-inch aluminum head, was developed by the Army Ordnance Missile Laboratories and the Johns Hopkins University Applied Physics Laboratory.
+THE SPACE experiment, which began Oct. 16, at the Holloman Air Force base at Alamogordo, N. M., was believed to be the first penetration into planetary space. The initial announcement of the project was made here yesterday.
 
-PEOPLE ROCKET
-This rocket, known as the Rockair which bears Oct. 15 at the White Sands range, reached an estimated maximum altitude of 135 miles. Its speed was calculated at about 4,000 miles an hour.
+Dublin said that only two of the original pellets were tracked and scientists "stand no control" over what direction the pellets take after the explosion. It was indicated that as many as 1000 pellets were used.
 
-The initial announcement of the Rockair experiment was that it had been a "completely successful" flight. However, the announcement said that the rockets' motors exploded as the missile reached the top of its course, during the coast period between the propelled portion of the flight and the return to earth.
+The launching was explained as a three-stage rocket, in effect a nose-tip containing three "shaped charges" of aluminum pellets and explosive, which automatically separated at the specific point and rose to more miles upwards where it exploded. Blasting the aluminum pellets into space.
+
+The blast of the "shaped charges" were caught by the tracking cameras because they glowed due to the resistance of the atmosphere and the heat of the explosive charge.
+
+He estimated the atmosphere at that altitude as approximately one one-tenth-thousandth of the density at the surface of the earth.
+
+Mt. Palomar Observes Blast
+The brightness of the explosion was placed at minus 10 magnitude or more than 5,000 times brighter than the Soviet satellites which at their brightest rival the brightest stars.
+
+The explosion was observed at Mt. Palomar about 600 miles away and even at that distance astronomers said it was brighter than any planet or star.
+
+Dublin refused to comment when asked if the experiment was a preliminary to a rocket-probed numerous reports of bright objects seen in the Southwestern United State about that time.
+
+Astronomers, however, discussed the experiment and pointed out that a maximum radius for observing a meteorite after it hits the earth's atmosphere is about 100 miles. The experiment was suggested by Prof. Fritz Zwicky, an expert in the institute of technology and was first attempted in 1947 using German V-2 rockets.
+
+[There is also an image of a rocket launch/explosion with the caption "AEROBEE ROCKET"]
+
 
 - page 7 -
 
-The image appears to contain a photograph of an Aerobee rocket. The text provides details about the experiment conducted with this rocket, including the use of "three 'shaped charges' of aluminum pellets" and the behavior of the rocket as it ascended. The text also mentions observations made by researchers from the Holloman observatory, located about 200 miles away.
+Here is the OCR text from the document:
 
-The text in the document is as follows:
+AERONEE ROCKET
+St. Mary, Above Perrin
 
-AEROBEE ROCKET
-A flight, above North
-AEROBEE ROCKET
-The flight of this Aerobee rocket was described in this way: A 1400-pound Aerobee model in effect a three-stage rocket, carried at its nose three "shaped charges" of aluminum pellets and rocket motors. The Aerobee automatically oriented itself at the zenith point, then more miles upwards where it released, igniting the aluminum pellets which were very bright - 200 times brighter than the Soviet Sputnik and more brilliant than a magnesium flare. Rflp Observers at the Holloman observatory, some 200 miles away, reported seeing the "shaped charge" release.
-SCIENTISTS SAID that most of the "grape-shot" pellets probably burned up within the first half-mile of flight. But the meteorites definitely escaped the earth's gravity. The bright glow of these objects attracted scientists to experiment on film with a ballistic camera.
-Dawn said the rocket contained instruments which gave it acceleration to sonic speed and before that released dust particles in the upper atmosphere.
-The experiment, which was sponsored by the California Institute of Technology, was first attempted in 1951 using former German V-2 rockets. The Oct. 18 project, however, was the first to use the Aerobee, which followed a series of failures, scientists said.
+The binning was explained this way: A 110-pound Aeronee rocket, in effect a three-stage rocket, carried a nose tip containing three "shaped charge" pellets of aluminum pellets and explosive sites. The Aeronee automatically separated at the 35-mile point and the nose tip continued 10 more miles upwards where it exploded, blasting the aluminum pellets into space.
+
+The blast of the "shaped charge" was very bright-500 times brighter than the Soviet Sputniks and more brilliant than any star in the heavens, according to reports from observers at the Mt. Palomar observatory some 690 miles away.
+
+SCIENTISTS SAID that most of the "space-ball" pellets probably burned up within the first half-mile of flight. But at least two of the meteorite definitely escaped the earth's gravity.
+
+The bright glow of these objects as they battled the forces of space enabled scientists to record the experiment on film with a ballistic camera.
+
+The Aeronee rocket, following the "shaped charge" by two or three miles, was undamaged by the explosion at the 35-mile point. It was removed by scientists about 20 miles from the launching site.
+
+Dublin said the rocket contained vital instrumental which gave information on cosmic rays and also meteoritic dust, making materially an the upper atmosphere.
+
+The experiment, which was suggested by Prof. F. Zwicky of the California Institute of Tech, was first attempted in 1951 using former German V-2 rockets. The Cal. Tec project, however, was not successful and followed a series of attempts, scientists said.
+
 
 - page 8 -
 
-There is no photograph present in the shared image. The image appears to be a page from a Project Blue Book document.
+Here is the text from the document:
 
-SMITHSONIAN INSTITUTION 
+Mutt
+
+SMITHSONIAN INSTITUTION
 ASTROPHYSICAL OBSERVATORY
-
 SECTION OF UPPER ATMOSPHERE STUDIES
-OF OPTICAL SATELLITE TRACKING PROGRAM
-TO ASCERTAIN STRATOSPHERIC DISTURBANCES
-:L:YOND 10 STASJLISMENIS
+BY OPTICAL SATELLITE TRACKING PROGRAM
+60 GARDEN STREET
+CAMBRIDGE 38, MASSACHUSETTS
 
-October 8, 1957
+Rpts No. -D 51
+Other
+(POSS ARTIFICIAL METEOR)
 
-Captain George T. Gregory
-AISS-4, ALISA, Lompoc
-California
+18 13. 1958
+
+Captain George E. Gregory
+Air Technical Intelligence Center
+Wright-Patterson AFB
+P. O. Box 9837
+Dayton, Ohio
 
 Dear Captain:
 
-We enclose a ray to - increase to i.1st
-carefully.
+The enclosed fax is of interest to you.
 
-JAHJC
+Cordially,
+J. Allen Hynek
+
+JAH:ic
 Encls.
 
 Please return at early date.
 
+
 - page 9 -
 
-The image appears to be a scanned document from Project Blue Book, which was a US Air Force program that investigated reports of unidentified flying objects. The document is a "MEMO ROUTING SLIP" with various fields for information such as the name or title, instructions for the recipient, and remarks.
-
-The OCR (Optical Character Recognition) output of the text in the document is as follows:
+SMITHSONIAN INSTITUTION
+(MAY 15, 1951)
 
 MEMO ROUTING SLIP
-TO: THE FOLLOWING: IN ORDER INDICATED
+TO THE FOLLOWING IN ORDER INDICATED
 
 1. Dr. J. A. Hynek
-2. Capt. Gregory - please return when finished 
-3. Sgt. Bowen
-Your information Note and return
-Your comments Proper signature
-Necessary action Note and file 
-Prepare reply See me
-Your recommendation Your initials
+2. Capt. Gregory--please return when finished
+3. Signature partially illegible
+4. Signature partially illegible
 
-REMARKS: Herewith made a record of this on will be same attached.
-Herewith another interesting note.
+Your information [X]                Note and return [X]
+Your comments [ ]                   Proper signature [ ]
+Necessary action [ ]                Note and file [ ]
+Prepare reply [ ]                   See me [ ]
+Your recommendation [ ]             Your initials [ ]
 
-FROM: ALAN P. BAILIE DATE 9/23/57
+REMARKS:
+Have made second of this as
+will be memo attached.
+Thanks for authorizing job!
+
+FROM: Signature partially illegible
+DATE: June 9/53
+PHONE:
+
 
 - page 10 -
 
-The image does not contain any photograph. It appears to be a scanned page from an old UFO report document, potentially from Project Blue Book.
+Here is the text from the document:
 
-Performing OCR on the text in the document:
+Dr. J.A. Hynek                                                                                                 June 4, 1958
 
-Dr. J.A. Hynek
+United Airlines
 
-Station general--near 31 Benson, Arizona
-Direction of flight--northwest--alt est 10,000 ft.
-Duration of observation--3-4 minutes
-Angular velocity--very rapid
+Station: Headquarters, 30
+Time: 16 October 57, approx. 1900-2000 hrs.
+Direction of Travel: S-W
+Magnetic Bearing: 225° (approx.)
+Angular Velocity: 0°3/sec.
 
-Appears to have been a fireball similar to that observed on the morning of the 3rd--and described in detail in a previous letter. The object was spherical, appeared to emit a bluish-white light and left a very long trail of sparks behind it. It was seen in the northwest traveling in a northwesterly direction. It appeared to be at an altitude of perhaps 10,000 feet and was traveling at a very high rate of speed--of the order of 1,000 mph or more. It might suggest a mix-up photo, if one could be obtained, such as the fireball seen in New Mexico and at several other stations in the south.
+Expects crossing of 1957 Alpha: It became rather odd that these observations were made of a satellite which was being observed by many stations, in the morning and late afternoon. Mr. X and Mr. Y, in
+Mr. ______'s company, were definitely within the area of activities of
+brightness computation. No work was done, however, and one
+might suspect a mix-up between NST and UT, and adding instead of
+subtracting. Seven known (NST) time fixes were made.
 
-The observation is corroborated by several other witnesses in the Benson area, and it is thought that there are probably additional unreported observations in that vicinity. The object was visible for 3-4 minutes.
+The actual observations: In the same time correction were applied, the observation was made with an unidentified object, with sightings, Texas, or Okla., at 11.26 TT. 1957 Mins. approx. The object in the case
+was very faint (+6). If this is a plane, however, the reason
+objects is not apparent, with other explanations being ruled out.
+On nearby October dates.
 
-Meteorite: This was about the time for a known meteor shower, the Orionids, and the object may have been a particularly bright meteor or fireball associated with that shower.
+Identification Possibilities:
 
-Artificial Satellite: Possible. Trajectory of travel, size, speed and duration of observation point to this possibility. However, there are no known artificial satellites in existence at that time capable of the performance exhibited by this object.
+Meteory: This was about the time for periodic meteors. The debris
+object appears too slow. Would not such objects as
+this be large meteorites which have been slowed down by
+previously "existing" through our atmosphere?
 
-Plane: Possible, but very doubtful. The object was several times larger than any conventional aircraft, very much faster, and the trajectory and duration of observation do not fit the characteristics of a plane.
+Artificial Satellite: Opposite direction of travel.
+
+Artificial Meteor?: Around this time (Oct. 16-19) artificial
+meteors were being shot into the upper atmosphere to
+barium jet releases. These, with satellites, were the
+flow trials through to be photographed by the Air
+Force. These later were part of a meteorology, Navy
+firing point is not clear, but they could probably have
+to be fired from the average south. I make to take the
+direction of the object seen at Tucson, Mensch's
+height of about 40 miles would agree with this.
+
+Plane ?: Suggest the origin be examined with a high power
+Magnifying glass. Suggest trail may consist of two
+trails, very close together, one very faint (suggesting
+plane), with slight.
+
 
 - page 11 -
 
-There is no photograph present in this image. This appears to be a scanned page from a Project Blue Book document, specifically a "Memo Routing Slip" form.
+SMITHSONIAN INSTITUTION
+(W.B. 1861)
 
-STAHARMA
-Your information □
-Your comments □
-Necessary action [X]
-Prepare reply □
-Ressarks: Ogta - your thru. 
-FLV.
+MEMO ROUTING SLIP
+TO THE FOLLOWING IN ORDER INDICATED
+
+NAME OR TITLE                 INITIALS-DATE
+
+1. JAHRMA
+
+Necessary action: [Checked box]
+Note and file
+
+Remarks: 
+Attention your letter
+No.?
+Crazy lighting here? 
+to just work in time.
+
+From: FLW
+
+The document is a Smithsonian Institution memo routing slip with a handwritten note and routing instructions. The page is numbered "9" in the top right corner.
+
 
 - page 12 -
 
-This image does not contain any photographs. It appears to be a letter from the National Academy of Sciences, National Research Council, addressed to Dr. J. Allen Hynek of the Smithsonian Astrophysical Observatory in Cambridge, Massachusetts. The letter is dated May 27, 1958 and discusses the 1957-58 International Geophysical Year.
-
-Here is the text from the document:
-
 NATIONAL ACADEMY OF SCIENCES
-NATIONAL RESEARCH COUNCIL 
+NATIONAL RESEARCH COUNCIL
 OF THE UNITED STATES OF AMERICA
 
 UNITED STATES NATIONAL COMMITTEE
 INTERNATIONAL GEOPHYSICAL YEAR 1957-58
 
-May 27, 1958
+May 27, 1958.
 
-Dr. J. Allen Hynek, Director
+Dr. V. L. Whipple, Director
 Smithsonian Astrophysical Observatory
+60 Garden Street
 Cambridge 38, Massachusetts
 
-Dear Dr. Hynek:
+Dear Dr. Whipple:
 
-Enclosed for your information is a detailed report of an October 13, 1957 sighting of an unidentified aerial object, transmitted to us by Major Duff of the USAF, except the prints of which only you have been supplied. It is hoped that any analysis you can make of this would be appreciated.
+Enclosed for your information is a detailed report of an October 13, 1957 sighting of an unidentified object. Similar information is being transmitted to Major Duff at AFCRC, except the prints, of which only one set was available. Please pass these prints on to Major Duff if you have no need for them.
 
 Sincerely yours,
 
-L. V. Berkner
-IGY-IGC Earth Satellites Office
+L. M. Corrigan
+USNS-IGY Earth Satellite Office
 
 Enclosures
 
+
 - page 13 -
 
-The image does not contain any photograph. It appears to be a scanned document from the Collins Radio Company, dated April 24, 1959. The document is addressed to Mr. William E. Pickering, of the California Institute of Technology, Pasadena, California.
-
-The text of the document is as follows:
+Original Report - 6
 
 COLLINS RADIO COMPANY
 CEDAR RAPIDS, IOWA, U.S.A.
+24 April 1958
 
-April 24, 1959
+Rec'vd 580
+5-19-58
+LNC - Ashtro
 
-Mr. William E. Pickering
+Dr. William H. Pickering
+Director, Jet Propulsion Laboratories
 California Institute of Technology
 Pasadena, California
 
-Dear Mr. Pickering:
+Dear Dr. Pickering:
 
-I am enclosing a draft copy of a report together with three small sketches which relate to the sighting of an unidentified object on 12 October 1957. This object was sighted from the Collins Cedar Rapids plant and appeared to be moving at a very high rate of speed.
+I am enclosing a draft copy of a report together with three photographs which amplify the report. The report will give you more details concerning the sighting of an unidentified object on 18 October 1957. Though this report is general in nature, it was not brought to attention until this month. In discussing it with Mr. Collins here in Cedar Rapids, he suggested that I send it to you for your information.
 
-Through our Technology Information Service, we have made this information available to the Air Technical Intelligence Center and the National Investigations Committee on Aerial Phenomena. It is our understanding that they are interested in any reports of this nature.
+I understand from Mr. Holliday that he has forwarded a copy of this report to the Jet Propulsion Laboratory in Pasadena. In progress to this, an Air Force officer has visited our Tucson office and interviewed the people who saw the sighting.
 
-We hope that the information contained in this report will be of interest to you. If you have any further questions, please feel free to contact me.
+This report is forwarded to you in the form of a draft in order that it could be forwarded quickly. If further use of the report is desired, we can supply it in finished form. I have furthermore promised the engineer involved that I would make a report to him and would appreciate its return to me when you have finished with it. I would be very pleased to discuss this matter with you in more detail in the future if you desire.
 
 Very truly yours,
 COLLINS RADIO COMPANY
 
-R.C. Leedom
-R.L. Secretary
-Assistant Vice President
+R. L. McCrary
+R. L. McCrary
+Assistant Director
+Research and Development
 Cedar Rapids Division
+
+dcp
+
 
 - page 14 -
 
-There is no photograph present in this image. It appears to be a scanned document from Project Blue Book, which contains a written report on the sighting of an unidentified object.
-
-Text extracted from the document:
-
 A REPORT ON THE SIGHTING OF AN UNIDENTIFIED OBJECT
 
-Location: 9 miles west of benson, Arizona
-Date: 18 October 1957
-Time: 1927-1939 MST
-Observers: [redacted]
+Location: 9 mile west of Benson, Arizona
+31° 57'38" N, 110° 25' 5" W
 
-The above (except for the last line) electronics company, and may be contacted through [redacted] Broadway, Tucson.
+Date: 18 October 1957
+Time: 1857-1833 MST
 
 Observations:
-On the evening of 18 October, our group was attempting to sight the Russian earth satellite, Sputnik I, or the third-stage rocket which accompanied the satellite in orbit. The satellite was scheduled to appear at 1939, and on that day some rockets were reported to be landing the satellite by remote-control minutes. Thus, we expected that the rocket, if seen at all, would appear about 1939. A camera was set up to record what we saw.
-The object was not seen at 1939, but was continued to watch the sky, and around 1927 a bright object appeared over the southeast horizon and traveled rapidly across the sky, disappearing over the north-northwest horizon at about 1932. The object was brighter than any star in the sky, but less bright than the planet Venus was on that night. The first exhibited a yellowish hue, and it was our opinion that it was reflected sunlight.
+On the evening of 18 October, our group was attempting to sight the Russian earth satellite, Sputnik I, or the third-stage rocket which accompanied the satellite in orbit. The satellite was scheduled to appear at 1839, and on this day the rocket was reported to be leading the satellite by twenty-six minutes. Thus, we expected that the rocket, if seen at all, would appear about 1832. A camera was set up to record what we saw.
+
+The rocket was not seen at 1832, but we continued to watch the sky, and around 1827 a bright object appeared over the southeast horizon and traveled rapidly across the sky, disappearing over the north-northwest horizon at about 1833. The object was brighter than any star in the sky, but less bright than the planet Venus was on that night. The light exhibited a yellowish hue, and it was our opinion that it was reflected sunlight.
+
 
 - page 15 -
 
-The image appears to contain text and no photographs. As requested, I will act as an OCR (Optical Character Recognition) system and produce the text found in the document:
+Here is the text from the document:
 
 No intensity variations were observed. The object crossed our parallel of latitude somewhat east of us at an angle of roughly 45° relative to our location.
 
-We later concluded that the object seen could not have been the satellite rocket, since the latter had a southeast-northwest orbit, while the object we saw traveled southeast-north-northwest. This object appeared fourteen minutes after the rocket was expected and exhibited none of the variation in light intensity which had been reported for the rocket.
+We later concluded that the object seen could not have been the satellite rocket, since the latter had a southwest-northeast orbit, while the object we saw traveled southwest-north-northwest. This object appeared fourteen minutes after the rocket was expected and exhibited none of the variation in light intensity which has been reported for the rocket.
 
-The satellite itself was not seen at 1939, but its radio signal on 20.005 me was heard from 1814 to 1915, passing around 1839. The signal appeared 2002 to 2022, speaking around 2015; the difference in time of the two signal peaks is ninety-six minutes, as expected. Thus, we believe that the satellite orbit information we had was correct.
+The satellite itself was not seen at 1839, but its radio signal on 20.005 mc was heard from 1834 to 1845, peaking around 1839. The signal appeared again from 2002 to 2022, seeking around 2015. The difference in time of the two signal peaks is ninety-six minutes, as expected. Thus, we believe that the satellite orbit information we had was correct.
 
-The objects we sighted have, so far, not been identified. Three photographs were taken, and these show clearly that what we saw was much too bright to have been airplane lights. The pictures were time exposures taken with a 1 x 5 camera mounted on a tripod. The exposure time was roughly five seconds, and the film was Royal Pan with an ASA speed of 400. The details of each shot accompany the respective prints.
+The object we sighted has, so far, not been identified. Three photographs were taken, and these show clearly that what we saw was much too bright to have been airplane lights. The pictures were time exposures taken with a 4 x 5 press camera mounted on a tripod. The exposure time was roughly five seconds, and the film was Royal Pan with an ASA speed of 400. The details of each shot accompany the respective prints.
 
 11-8-57
+
 
 - page 16 -
 

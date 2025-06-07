@@ -1,23 +1,52 @@
-The image does not contain any photographs. It appears to be a Project 10073 Record Card from 1957, providing details about a sighting near Lancaster, Pennsylvania. The text in the image is as follows:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
-13 February 1957
-2. REPORTED GROUP
+11 February 1957
+
+3. DATE-TIME GROUP
+Local
+GMT 11/1930Z
+
+4. SOURCE
 Civilian
-3. TYPE OF OBSERVATION
-V
-4. DURATION OF OBSERVATION
-Five minutes
-5. NUMBER OF OBJECTS
-One
-6. COURSE
-Stationary
-7. CONCLUSIONS
-X Was Balloon
-X Possibly Airplane
-X Was Astronomical
-Report on file.
+
+7. LENGTH OF OBSERVATION
+five minutes
+
+2. LOCATION
+(near) Lancaster, Penn!
+
+4. TYPE OF OBSERVATION
+□ Ground-Radar
+□ Air Visual
+□ Air-Intercept Radar
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+stationary
+
+10. BRIEF SUMMARY OF INCIDENT
+One brightly shining object the approximate size of a normal two engine prop-type aircraft. Object disappeared when source made a right turn on the road. Object was seen visually for five minutes. Object appeared to be hovering in the sky.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other:
+□ Insufficient Data for Evaluation
+□ Unknown
+
+Description and "hovering" effect indicates that this sighting was probably caused by a balloon. However data not conclusive and case is listed as insufficient data.
+
+Norpt on file.
+
 
 - page 1 -
 

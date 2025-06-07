@@ -1,140 +1,141 @@
-The image provided does not contain any photographs. It appears to be a form with typed text inside various boxes. Here is the text found in the document:
-
----
-
 PROJECT 10073 RECORD CARD
 
-1. DATE ------ 5 April 1956
-2. LOCATION Casablanca, Morocco
-DATE-TIME GROUP ----- 05/20155Z
-3. TYPE OF OBSERVATION
-Local ------ GMT -------
-[ ] Air-Visual [ ] Ground-Visual
-[ ] Ground-Radar [ ] Air-Intercept Radar
+1. DATE
+5 April 1956
+
+2. LOCATION
+Casablanca, Morocco
+
+3. DATE/TIME GROUP
+Local 2015
+GMT 05/2015Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
 5. PHOTOS
-[ ] Yes [ ] No
-6. SOURCE Civilian
+No
+
+6. SOURCE
+Civilian
+
 7. LENGTH OF OBSERVATION 2 RPTS
-BRIEF SUMMARY OF SIGHTING
-Two reports of fiery object, one by an employee of meteorological station at Casablanca Airport. Described as round fiery ball orange in color bluish on edge. East-West flight. Witness took for granted that object was a meteor. Additional report including maneuvers of circling city, low speed, 2-3 minute observation and disappearance behind clouds.
-[ ] 0-2 [X] 2-3 [ ] 3-8 minutes [ ] one
-8. NUMBER OF OBJECTS [ ] Two [ ] Several
-9. COURSE [ ] North [ ] South [ ] East [ ] West
-12. CONCLUSIONS
-[ ] Was Balloon [ ] Possibly Balloon
-[ ] Was Aircraft [ ] Possibly Aircraft
-[X] Possibly Astronomical Met[teor]
-[ ] Possibly Astronom[ical]
-[ ] Other,
-[ ] Insufficient Data for Evaluation
-Unknown
+1. not rptd/few seconds
+2. 2-3 minutes
+
+8. BRIEF SUMMARY OF SIGHTING
+Two reports of firey object, one by employee of meteorological station at Casablanca Airport. Described as round firey ball orange in color bluish on edge. East-West flight. Witness took for granted that object was a meteor. Additional report including maneuvers of circling city, low speed, 2-3 minute observation and disappearance behind clouds.
+
+9. COURSE
+West
+
+10. NUMBER OF OBJECTS
+One
+
 11. COMMENTS
 Meteor report. Additional rpt probable exaggeration of meteor, which initiated the report.
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+
 ATIC FORM 329 (REV 26 SEP 52)
 
----
 
 - page 1 -
 
-There is no photograph present in this document. Here is the text output as requested:
+Here is the OCR text from the document:
 
-```
-C I R Y I A L U S E O L Y
+FOR USE ONLY
 
-ST 201/2.
+6 April 1956                                                                 AM 76-56
+Assistant Naval Attaché
+Tangier (Resident Casablanca)                 Press local contacts             C3
 
-AN 76-56
-11 April 1956
+MOROCCO - REPORT OF UNIDENTIFIED FLYING OBJECT AT CASABLANCA                  4506.
 
-c3
+Ref: (a) OPNAYINST 3820.9
 
-Moroccan Naval Attache
-Tangier (Resident Casablanca) Press; local contacts
-MOROCCO REPORT OF UNIDENTIFIED FLYING OBJECT AT CASABLANCA
-4506.
-Ref:(a) ONI Chart 3820.9
-"e" shape Radio. On 6 April 1956 the local press carried as article stating that a mysterious
-flying object had flown over the city of Casablanca. The press article further state [sic]
-the the object was luminous with a flamey [sic] yellow color, appeared in the east and appeared four
-miles over the city at a low altitude, turning at the same time, and disappeared a few
-seconds later in a southeasterly direction.
-2. OBSERVER WHO. The object was reported by M. Tahiri, an employee at the local trans-
-paper La Vigie, who describes the object as follows (enclosure (1) to reference (a)):
+1. W.S.Rpt. On 6 April 1956 the local press carried an article stating that a mysterious flying object had flown over the city of Casablanca. The press article further stated that the object was luminous with a fiery yellow color, appeared in the east and appeared across river the city at a low altitude, turning at the same time, and disappeared a few seconds later in a southwest direction.
 
-Characteristics of object:
-a. Round or slightly oval shape.
-b. Yellow color.
-c. Size unknown.
+2. OBSERVER RPTS: The object was reported by M. Tahiri, an employee at the local newspaper LA VIE, who describes the object as follows (encl (1) to reference (a)):
+
+Pertition of object:
+a. Found or slightly oval shape.
+b. Size unknown.
+c. Yellow; fiery color.
 d. One in number.
 e. Not applicable.
-f. There may have been something below the bright object that was
-part of it.
+f. There may have been something below the bright object that was part of it.
 g. There was no tail or trail.
 h. There was no sound.
 
 Description of course of object:
 a. The observer first noticed the object because of its brightness.
-b. Object was first observed in the east and observer states it had an
-altitude of 2,000 - 3,000 meters.
+b. Object was first observed in the east and observer states it had an altitude of 2,000 - 3,300 meters.
 c. Object maintained its altitude throughout sighting.
-d. Object had a straight flight at a very low speed; however, observer further
-states object circled the city and disappeared toward the southeast
-(approximately Casas Airport direction).
+d. Object had a straight flight at a very low speed, however, observer states @block circling the city and disappeared toward the southeast (approximately near airport direction).
 e. Object disappeared behind a cloud.
 f. Object was in view during 2 or 3 minutes.
 
-FROM: CONSULATE ALUSNA TANGIER, 7429.3rd Investigation Wing, Detachment 62,
-Nouasseur Air Depot., Morocco
-```
+PICKENS, COSGROVE; ALDEN FAUNCE                 7493rd Investigation Wing, Detachment 62,
+                                                 Nouasseur Air Depot, Morocco
+
 
 - page 2 -
 
-The provided image does not contain any photographs. It seems to be a typed document page. Below is the text extracted from the document:
-
-```
-RHC
+Here is the OCR text from the document:
 
 UNCLASSIFIED
-Assistant Naval Attache
-Tangier (Resident Casablanca) AIA 75-56 11 April 1956
 
-Nature of observation - ground/visual.
+Assistant Naval Attache
+Tangier (Resident Casablanca) ANG 76-56                                11 April 1956
+
+Manner of observation - ground-visual.
 
 Time and date of sighting - 2015, 4 April 1956 (light condition - dusk)
 
-Location of observer - Across from Ministry in front of the Jardins Publiques,
-                       Casablanca, Morocco
+Location of observer - Across from Admiralty in Front of the Jardin Publics, 
+Casablanca, Morocco.
 
-Identification of observer - An Enlist, u/a w/ USNIFHE MAROCAINE Temporary,
-                            retd j'om "Francis" RAC
-                            Casablanca, Morocco
+Identification of observer - M. Zahiri, o/a LA VIGIE MAROCAINE Newspaper, 
+28, Bd Omar Tewfik, Casablanca, Morocco
 
-Translator at time of sighting - Skillfu, 75c/5'8 actually at 760 meters,
-                                 rather than observer, is knoxst.
+Weather at time of sighting - Ceiling was 7-8 cloudy at 1700 meters.
+Wind from the southwest, 15 knots.
 
-1. OBJECT: A. B. A. The object was viewed by observer observer, w/o Paul MILLION, who is
-                       employed at the Meterological Station, Camp Ayazent, Casablanca. He made the following
-                       statement.
+1. SUMMARY: The object was viewed by another observer, Mr. Paul Hillion, who is 
+attached to the local French Consulate, Casa Airpost, Casablanca, La Mamora, 
+Casablanca.
 
-"I left Camp Ayant Airport to go home at about 2755 on 5 April 1956. I live off-base
- at La J-ina Consellina (rue Margin). As I was about to open the gate to the house, I
- looked at the sky and saw something like a lusmini flery belle, orange color, always in the
- west, it stayed for nearly a few moments. It ran transmitting simitaneously (on a perpendicular
- with the horizon) and in an unexpected manner it made it toward the sea. I took it for
- some kind of meteorite."
+"I left Casa Airport to go home at about 2100 on 5 April 1956. I like normal 
+conditions (rue Mangin). As I was about to go on the gate to the hangar, I 
+looked up the sky and saw something like a round fiery ball, an orange color, moved on the 
+sky. It was useful for me to see it clearly. It was travelling eastward (on a perpendicular 
+with the Angin) and in my trajectory that seemed to take it toward the sea. I took it for 
+a meteor."
 
-COMMENT: The locations of the two observers was separated by a distance of approximately
-          two miles. Observer No. 2 (Mr. Million) would have had more opportunity to keep the object.
-          in uninterrupted view for a longer period of time than observer No. 2. It appears likely that
-          sighting was of a meteorite; however, this sighting is reported to make it a matter of record.
-          and is filed in accordance with reference (a).
+COMMENT: The locations of the two observers was separated by a distance of approximately 
+one mile. Observer No. 2 (M. Tahiri) would have had more opportunity to keep the object 
+under observation for a longer period of time than observer No. 2. It appears likely to 
+be a meteor, however, this sighting is reported to make it a matter of record.
 
-                              Forwarded
-                              /s/ Francisco D. RINCONES
-                              LCDR, U.S. NAVY
-                              R. K. ARMAGOS
-                              CAPT, USN
-```
+Forwarded:
+
+[Signatures]
+THOMAS J. O'MEARA                                                  H. K. EDWARDS
+LCDR, USN, NAVY                                                    CAPT, USN
+
 
 - page 3 -
 

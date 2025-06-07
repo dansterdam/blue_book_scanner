@@ -1,35 +1,80 @@
-The image does not contain any photograph. It appears to be a page from a Project Blue Book record card, which is a form used to document and investigate reported UFO sightings.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 6 November 1957
-2. LOCATION: Bellmore, L.I., New York
-3. DATE-TIME GROUP: Local
-4. TYPE OF OBSERVATION: Visual
-5. PHOTOS: Yes
-6. DURATION: 15 minutes
-7. LENGTH OF OBSERVATION: 15 minutes
-8. NUMBER OF OBJECTS: 1
-9. COURSE: N/A
-10. BRIEF SUMMARY OF SIGHTING: One elongated, white object, moving rapidly at high altitude
-11. COMMENTS: Prior investigation has revealed that this sighting was probably a missile test vehicle.
+
+1. DATE
+11-23-57
+
+2. LOCATION
+Bellmore, L. I., New York
+
+3. DATE/TIME GROUP
+Local    24/23 GMT
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual    ☐ Ground-Radar
+☐ Air-Visual       ☐ Air-Intercept Radar
+
+5. SOURCE
+Civilian
+
+6. PHOTOS
+☐ Yes
+☒ No
+
+7. LENGTH OF OBSERVATION
+5 minutes
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+One object, round, size of baseball, color - white.
+
+11. COMMENTS
+From meager information given this sighting was probably planet Venus.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☒ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+(ATIC FORM 329 (REV 26 SEP 55))
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
+
+29/23402
+Witness
 
 ATIC
-SIGHPTS TYAQJB TIMB71 ITSISNYAZ3H
-M RJEREDN RJERES RJEPH RJEPFD
-DE RJEPFY 3 
-T' 33252SZ
-i TM COC 3 STH AIR DIV DEF
-TO RJEPPY COMDR ADG GMT
-MESSED COMDR ARC
-RJEPH COMDR ACS INTEL HQ
-INFO RJEPFY COMDR EADE
-IE IMCLASSUJFOB ATTN: CIC
-1 DESCRIPTION:
-A. ROUND 
+
+SRF058 YDD058 TYA058 TMB071 TTE015NYA204
+MM RJEDDN RJEDSQ RJEPHQ RJEPND
+DE RJEPNY 3
+M 3200452
+FM COC 2 STH AIR DIV DEF
+TO RJEDDN/COMDR ADC ENT
+JEPSO/COMDR ARIC
+RJEPHO/COMDR ACS INTEL HQ
+INFO RJEPNB/COMDR EADF
+BT
+UNCLASS/UFOB ATTN: CIC
+
+1. DESCRIPTION:
+A. ROUND
 B. BASEBALL
 C. WHITE
 D. ONE
@@ -38,61 +83,91 @@ F. N/A
 G. NONE
 H. NONE
 I. N/A
+
 2. DESCRIPTION OF COURSE
 A. JUST GAZING INTO SKY
-B. 39-72 DEC SOUTHWEST
+B. 60-70 DEG SOUTHWEST
 C. N/A
 D. NONE
 E. N/A
-F. F MIN AND STILL VISIBLE
-3. MANNER OF OBSERVATION
+F. 2 MIN AND STILL VISIBLE
+
+3. MANNER OF OBSERVATION:
 A. GROUND VISUAL
-B. NONE 
+B. NONE
 C. N/A
+
 4. TIME & DATE OF SIGHTING
-A. 29/2348Z
+A. 29/2342Z
 B. NIGHT
-5. LOOAN: BELLMORE LONG ISLAND NEW YORK
+
+5. NORTH BELLMORE LONG ISLAND NEW YORK
+
+Additional handwritten notes include:
+- 1057
+- 53
+- 4-4X20
+- 2390-5
+- 500
+- 16700
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-DESCRIPTION OF COURSE
-A. JUST GAZING INTO SKY
-B. 92-72 DEC SOUTHWEST
-C. N/A
-D. NONE
-E. N/A
-F. P THIN AND STILL VISIBLE
+1. N/A
 
-MANNER OF OBSERVATION:
-A. GROUND VISUAL
-B. NONE 
-C. N/A
+2. DESCRIPTION OF COURSE
+   A. JUST GAZING INTO SKY
+   B. 63-76 DEG SOUTHWEST
+   C. N/A
+   D. NONE
+   E. N/A
+   F. PHDN AND STILL VISIBLE
 
-TIME & DATE OF SIGHTING:
-A. 22/2/4422
-B. NIGHT
-C. NORTH BELLMORE, LONG ISLAND NEW YORK
-D. IDENTIFYING INFO OF ALL OBSERVERS
-A. AGE 27 225 LBS
-E. WAKING SUPPLY BUS
+3. MANNER OF OBSERVATION:
+   A. GROUND VISUAL
+   B. NONE
+   C. N/A
 
-WEATHER:
-A. N/A
-B. SURFACE 332 DEG 5 KT
-C. 3222 252 DEG 42 KT
-D. 12223 262 DEG 52 KT 
-E. 15222 272 DEG 52 KT
-F. 22222 272 DEG 132 KT
-G. 52222 272 DEG 72 KT
-H. 52222 UNK DEG UNK KT
+4. TIME & DATE OF SIGHTING
+   A. 29/234OZ
+   B. NIGHT
 
-G. 40
-H. 1.5 PLUS
-I. SOFT CLOUDS
-J. NONE
+5. NORTH BELLMORE LONG ISLAND NEW YORK
+
+6. IDENTIFYING INFO OF ALL OBSERVERS
+   A. [REDACTED] AGE 27 2181 BELLMORE
+   B. MAKING SUPPLY BUS
+   C. N/A
+
+7. WEATHER
+   A. N/A
+
+   B. SURFACE 336 DEG 8 KT
+      6020 288 DEG 40 KT
+      10020 262 DEG 60 KT
+      16200 276 DEG 80 KT
+      20030 276 DEG PT KT
+      30000 276 DEG 130 KT
+      50000 276 DEG 70 KT
+      80000 UNK DEG UNK KT
+
+   C. 40
+   D. 15 PLUS
+   E. SCTD CLOUDS
+   F. NONE
+
+8. NONE
+9. NONE
+
+10. USUAL LOCAL TRAFFIC
+11. NONE
+12. NONE
+
+Handwritten notes on the side include: 2340-5, 500, 1640 PM, CITYS
+
 
 - page 3 -
 

@@ -1,97 +1,158 @@
-The image appears to be a Project 10073 record card that contains a description of a UFO sighting. The card includes details about the location, time, and description of the observed object. However, there is no photograph included in this specific record card.
-
 PROJECT 10073 RECORD CARD
-1. DATE 
+
+1. DATE
 13 December 1957
-2. LOCATION
-S. Weymouth Naval Station, N.J. 
-3. DESCRIBING OBJECT
-Blue, daly shaped object, with bright lights blinking steadily, SE to NW and NW to SE
-4. SOURCE
-14/01112
-5. PHOTOS 
-Yes
+
+3. DATE-TIME GROUP
+Local
+GMT        14/01112
+
+5. PHOTOS
+☐ Yes   ☒ No
+
 7. LENGTH OF OBSERVATION
-10 SECONDS
-8. BRIEF SUMMARY OF SIGHTING
-Blue, daly shaped object, with bright lights blinking steadily, SE to NW and NW to SE
+2 seconds
+
+10. BRIEF SUMMARY OF SIGHTING
+Blue, ball shaped object, with bright light traveling straight SE to NW and vanished instantly.
+
+2. LOCATION
+S Weymouth Naval Station, N.J.
+
+4. TYPE OF OBSERVATION
+☒ Ground-Visual   ☐ Ground-Radar
+☐ Air-Visual      ☐ Air-Intercept Radar
+
+6. SOURCE
+Military
+
+8. NUMBER OF OBJECTS
+one
+
 11. COMMENTS
-The time the object was observed was during the time the sighting took place. The object could possibly be a meteor.
+From the description and time duration given, the object could possibly be a meteor.
+
+9. COURSE
+SE to NW
+
 12. CONCLUSIONS
-Meteor
+☐ Was Balloon
+☒ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other: ____________
+☐ Insufficient Date for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a page from a document or report.
+Here is the text from the document:
 
-PP R-JED'7N RJED PTO RJEPNO RJEPNO 
-DE RJEPNO RI 1
-P 140230Z 
-FM COMDR 762L' ACWRON
-TO RJEDD'N/COMDR ADC
-RJED'N/COMDR ATIQ WRIGHT PATTERSON AFO 
-RJEPHO/DIR IHTEL HO LSAF
-RJEPNY/COMUR 26TH AIR DIV
-INFO RJEPKB/COHDR EADF
+13 1401112
+1 Witness
+
+13 DEC 57
+S Weymouth Naval Station N.J. Certified at 0833Z W.D. Cooper 39
+
+SQ878 YD872 TYB96 TMA958NBA072N2M906
+PP RJEDDN RJEDWP RJEPHO RJEPNY RJEPNB
+DE RJEPNB 1M
+P 1402302
+FM COMDR 762D ACWRON
+TO RJEDDN/COMDR ADC
+RJEDWP/COMDR ATIC WRIGHT PATTERSON AFB
+RJEPHQ/DIR INTEL HQ USAF
+RJEPNY/COMDR 26TH AIR DIV
+INFO RJEPNB/COMDR EADF
 BT
+
+Stamps/Markings:
+- 6 DEC 57
+- ATIC
+- ASTRO 1/2/464
+- 4-4X2a
+
 
 - page 2 -
 
-Based on the provided image, there does not appear to be any photograph present. The image shows a page from an old UFO report document with handwritten text.
+Here is the text from the document:
 
-OCR OUTPUT:
+SUBJECT: UFOB REPORT
 
-CALL
-(B) N/A  /2-0
-(CX BLUE  ----  97/-C.1 UP //-/ATENT.
+(A) BALL
+(B) N/A ->1/2°
+(C) BLUE - TYPICAL OF METEORITE
 (D) ONE
 (E) N/A
 (F) N/A
 (G) N/A
 (H) N/A
 (I) N/A
+
 (2) (A) BRIGHT LIGHT
 
 AGE TWO RJEPNB 1M
-(B) N/A 7-0 GLEVA "C. D
-(C) N/A  /- 22-57
+(B) N/A { ELEVATION
+(C) N/A   AZIMUTH
 (D) STRAIGHT SOUTHEAST TO NORTHWEST
 (E) VANISH INSTANTLY
-(F ( 2 SECONDS )
+(F) 2 SECONDS
+
 (3) (A) HUMAN EYE
 (B) N/A
-(4) (A) 14 DEC 57 Biss?" Ott - 3- = 2.011 PSRR .d
+(C) N/A
+
+(4) (A) 14 DEC 57 PQ0002 0111-5-2011 Local
+(B) NIGHT
+
 (5) SOUTH WEYMOUTH NAVAL STATION
+
 (6) (A) N/A
-(B) WATT, ROBERT A.  T. COMDR.
+(B) WATT, ROBERT A. LT COMDR
+
 
 - page 3 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book document, specifically a report from the Weymouth Naval Station in New Jersey dated December 6, 1957.
+Here is the text from the document:
 
-The text in the document is as follows:
+(7) (A) CLEAR
+(B) N/A
+(C) 0
+(D) 15
+(E) N/A
+(F) N/A
 
-C7) CAP CLEAR
-C8) N/A
-C9) 0
-C10) 15
-C11) N/A
-C12) N/A
-
-PAGE THREE RJEPNS 1M
-(S) N/A
+PAGE THREE RJEPNB 1M
+(8) N/A
 (9) N/A
 (10) LOCAL TRAFFIC
 (11) N/A
 (12) N/A
-
 BT
-14/0315T DEC RJEPNS
-This is a very poor report. The data and information acquired or written with general and low
-How easy from the observation and then allowing this information to be reported. It is
-a matter to metalized.
+14/0315T DEC RJEPNB
 
-ROSS
+This is a very poor report.
+No size, elevation, azimuth or
+wind info given.
+
+This sighting cannot be reported
+analytically without the data info.
+However, from the description
+and time duration given, the
+object could possibly be
+a meteorite.
+
+POSS
+METEORITE
+
 
 - page 4 -
 

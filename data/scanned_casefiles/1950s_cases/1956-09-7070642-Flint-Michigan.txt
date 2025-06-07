@@ -1,9 +1,4 @@
-There are no photographs present in this document.
-
-Below is the text output from the document:
-
-```
-PROJECT 10073 RECORD CARD
+PROJECT 1073 RECORD CARD
 
 1. DATE
 5 September 1956
@@ -12,16 +7,16 @@ PROJECT 10073 RECORD CARD
 Flint, Michigan
 
 3. DATE-TIME GROUP
-Local__________
-GMT 05/0540Z
+Local
+CMT 05/0540Z
 
 4. TYPE OF OBSERVATION
-XQ Ground-Visual [] Ground-Radar
-[] Air-Visual [] Air-Intercept Radar
+XR Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
 
 5. PHOTOS
-O Yes
-XQ No
+□ Yes
+XR No
 
 6. SOURCE
 Civilian
@@ -35,117 +30,82 @@ one
 9. COURSE
 N to S
 
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+XR Insufficient Data for Evaluation
+□ Unknown
+
 10. BRIEF SUMMARY OF SIGHTING
 One object with shape from triangle to umbrella. Size of baseball, color green. Object had a tail.
 
 11. COMMENTS
 Poor rpt but does indicate possible balloon from time observed. Wind data not included and case considered insufficient Data.
 
-12. CONCLUSIONS
-[] Was Balloon
-[] Probably Balloon
-[] Possibly Balloon
-[] Was Aircraft
-[] Probably Aircraft
-[] Possibly Aircraft
-[] Was Astronomical
-[] Probably Astronomical
-[] Possibly Astronomical
-[] Other
-X[] Insufficient Data for Evaluation
-[] Unknown
+ATC FORM 329 (REV 26 SEP 59)
 
-ATIC FORM 329 (REV 26 SEP 52)
-```
 
 - page 1 -
 
-There is no photograph on the page.
+Here is the text from the document:
 
-OCR Output of the text in the document:
+PG 52 52
 
-```
-3-4762
-TCDAE
+TO CODED 3610T ASSISTANT DIRECTOR AND VICE
+TO BUDDED/CODED AND HQ AFB COLORADO SPRINGS COLO
+JONES/CODED AND THOMAS AF TECH SGT
 
-TO: CODER: SSgt Kenneth Sherbeck-AF-1PJS
-TO RUJACG/CCD ARC UNIT AT LOWRY AFB COLORADO ZVVHH CCLG
-RUJPAU/CCDC AFSWP KIRTLAND AFB ALBRQUERQ 47
-RUJEZDP/CCDR 497TH INTEL.WING WRIGHT PATTERSCN AFB OHIO
-RUIOEWD/CCDR 1 ST RAD DIV DET WILLOW RON AFB STM EVANSTON MICH
-RUWPVQ/CCDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT-PATTERSON AFB OHIO
-RUCOPH/DIRMCTOR OF INTELLIGENCE. HODSEAF WASHINGTON 25 DC
+BUDDED/CODED 5 TH AIR DIV DET HILLS AFB AT THE HILLSVILLE TECH
+BUDDED/CODED AND THOMAS/L INTELLIGENCE CENTER WRIGHT-PATT AFB OHIO
+JOSEPH/DIRECTOR OF INTELLIGENCE MUAAC WASHINGTON 25 DC
 
-UNCLASSIFIED/CPRRHA UFO TR IN ACCORDANCE WITH AFR 200-2 2TD
-12 AUG 54 TEE FOLLOWING REPORT IS BREEFLY SUBMITTED.
+UNCLASSIFIED/GPIS - 1 UFO IN ACCORDANCE WITH AFR 2 - 102
+AND 54 THE FOLLOWING REPORT IS HEREBY SUBMITTED:
 
-(A) SHAPE.- FROM TRIANGLE TO UMBRELLA
-(B) SIZE - ALOVE LENGTH NO BASEBALL
-(C) COLOR:------
-(D) QD.
-(E) N/A
-(F:) TAIL
-(G) YES
-(H) N/A
+1. (A) SHAPE - SHARP TRIANGLE TO DISCUS
+   (B) SIZE - ARMS LENGTH TO BASEBALL
+   (C) COLOR - GREEN
+   (D) ONE
+   (E) N/A
+   (F) TAIL
+   (G) HEED
+   (H) N/A
 
-PAGE TWO EXHIBIT 45
-(J) N/A
-(K) CIRCULAR OBJECT
-(L) 45 DEG
-(M) N/A
-(N) OCTIL TO SCTTR
-```
+PAGE TWO RECORD 41
+
+   (I) N/A
+2. (A) UNUSUAL OBJECT
+   (B) ADDING
+   (C) N/A
+   (D) NORTH TO SOUTH
+
 
 - page 2 -
 
-There are no photographs present in the image you provided. Here's the text from the document:
+Here is the text I can read from the document:
 
-```
-(C) DATA
+(Some lines are partially or fully obscured/blacked out)
 
-(C) - - -
+• (first line partially illegible)
+• (several lines with abbreviated or partially visible text)
+• SKY CONDITION CLEAR SKY SEEING
+• NEGATIVE
+• UNLIMITED
+• NEGATIVE
+• N/A
 
-(C) GROUND VISUAL
+The document appears to be a form or report with multiple lines, some of which are redacted or blacked out. The visible text suggests it relates to some kind of observation or report with details about sky conditions.
 
-(C) GROUND RADAR
+The document has a series of holes punched along the right side, typical of archival document storage methods from that era.
 
-(C) ...
-
-(C) AIR VISUAL
-
-(C) ...
-
-(C) 24 & 25 SEPT 55
-
-(C) NIGHT
-
-(C) ...
-
-(C) ...
-
-(C) ...
-
-(C) ...
-
-(C) ...
-
-(C) AIR VISUAL
-
-(C) ...
-
-(C) VIS CONDITION: CLEAR. TEMP 55DEG.C
-
-(C) ...
-
-(C) UNLIMITED
-
-(C) ...
-
-(C) ...
-
-```
-
-The text mainly consists of categories or headings with placeholders for the corresponding data. However, many sections are either redacted (represented by a series of dashes) or marked with placeholders such as "..." or "N/A," indicating that there is no applicable information or that it's not provided. Unfortunately, due to the obscured or incomplete data, we cannot determine the exact content or context of the document.
 
 - page 3 -
 

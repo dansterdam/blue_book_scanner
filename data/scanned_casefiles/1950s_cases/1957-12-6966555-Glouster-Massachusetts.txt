@@ -1,28 +1,55 @@
-The image does not contain any photograph. It appears to be a Project 10073 record card from the Project Blue Book files.
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
 2 December 1957
-2. LOCATION
-Glouster, Massachusetts 
-3. DATE/TIME GROUP
-22/1905Z
-4. TYPE OF OBSERVATION
-Ground-Visual
-5. PHOTOS
-No
-6. LENGTH OF OBSERVATION
+
+2. DATE-TIME GROUP
+Level GMT 02/1905Z
+
+3. PHOTOS
+□ Yes ■ None
+
+4. LOCATION
+Glouster, Massachusetts
+
+5. TYPE OF OBSERVATION
+■ Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
 4 seconds
-7. BRIEF SUMMARY OF SIGHTING
-Object larger than a shooting star with long white trail, turned yellow prior to burning out. Object burned out into two pieces.
+
 8. NUMBER OF OBJECTS
 One
+
 9. COURSE
-S
-10. SOURCE
-Military
+S - N
+
+10. BRIEF SUMMARY OF SIGHTING
+Object larger than a shooting star with long white tail, turned yellow prior to burning out. Object burned out and appeared to break into two pieces.
+
 11. COMMENTS
-Object has all characteristics of satellite.
+Object has all characteristics of bolide.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+■ Was Astronomical Meteor
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other:
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 57)
+
 
 - page 1 -
 

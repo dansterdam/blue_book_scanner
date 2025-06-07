@@ -1,178 +1,145 @@
-There are no photographs present on this page. 
+PROJECT 1073 RECORD CARD
 
-Here is the OCR processed text from the document:
+1. DATE
+1 January 1957
 
-```
-PROJECT 10073 RECORD CARD
+2. LOCATION
+1/2 over Russell, Kansas
 
-1. DATE                   
-   1 January 1957
-
-2. LOCATION 
-   n/v over Russell, Kansas
-
-3. DATE-TIME GROUP
-   Local 
-   GMT 01/2100Z Jan 57
+3. DATE/TIME GROUP
+GMT 01/2100Z Jan 57
 
 4. TYPE OF OBSERVATION
-   Ground-Visual    
-   Air-Visual
+☐ Ground-Visual   ☐ Ground-Radar
+☒ Air-Visual     ☐ Air-Intercept Radar
 
 5. PHOTOS
-    No   
+☒ Yes
+☐ No
 
 6. SOURCE
-   Civilian
+Civilian
 
 7. LENGTH OF OBSERVATION
-   "few" seconds
+"few" seconds
 
 8. NUMBER OF OBJECTS
-   one
+one
 
-9. COURSE 
-   East to West
+9. COURSE
+East to West
 
 10. BRIEF SUMMARY OF SIGHTING
-    One round blue-white object, the size 
-    of a pea at arm's length. Object moved
-    from East to West and disappeared frm
-    sight at a high rate of speed, after 
-    having been seen air-visually for a 
-    "few" seconds.
+One round blue-white object, the size of a pea at arm's length. Object moved from East to West and disappeared from sight at a high rate of speed, after having been seen semi-visually for a "few" seconds.
 
 11. COMMENTS
-    Description, duration, flight 
-    path, and manner of disappear-
-    ance indicate that this sight-
-    ing was caused by a meteor.
+Description, duration, flight path, and manner of disappearance indicate that this sighting was caused by a meteor.
 
 12. CONCLUSIONS
-    Was Balloon          
-    Probably Balloon                   
-    Possibly Balloon
-    Was Aircraft                
-    Probably Aircraft             
-    Possibly Aircraft
-    Was Astronomical Meteor
-    Possibly Astronomical
-    Insufficient Data for Evaluation
-    Unknown
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical Meteor
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
 
-ATIC FORM 329 (REV 15 SEP 52)
-```
+(ATIC FORM 329 (REV 25 SEP 52))
+
 
 - page 1 -
 
-There is no photograph present on this page.
+Here is the text from the document:
 
-OCR Text Output:
-
-```
-XPWH96 WPD925M YMB992 WYB992 WDB927AMA33CWSA601
+XWPH096 WPD025M YMB096 WYB002 WDB007AMA036WSA001
 00 RJEDEN RJEDKF RJEDWP RJEPHQ
-DE RJWFAM 2S3
-0  021343Z
+DE RJNFAM 263
+O 9213032
 
 FM LOWRY FLIGHT SERVICE CENTER LOWRY AFB COLO
 TO RJEDEN/CMDR ADC ENT AFB COLO
-RJEDKF/CMDR 20TH AIR DIV (DEF) GRANDVIEW AFB MISSOURI
-RJEDWP/CMDR IR TECH INTEL'CEN WRIGHT PATTERSON AFB OHIO
-RJEPHQ/DIR OF INTEL HG USAF WASH 25 DC
+RJEDKF/CMDR 29TH AIR DIV (DEF) GRANDVIEW AFB MISSOURI
+RJEDWP/CMDR IR TECH INTEL CEN WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIR OF INTEL HQ USAF WASH 25 DC
+
 BT
 1. DESCRIPTION
-A'ROUND B PEA C BLUE WHITE D ONE E NO F OG TAIL H NONE I NONE
-2  DESCRIPTION OF COURSE
-A COLOR AND SPEED B ABOUT 5090 FT ABOVE C SAME AS B D HORIZONTAL PATH EX TO WEST O MANEUVERS E DISAPPEARED FROM SIGHT AT HIGH SPEED F FEW SECONB
-3  MANNER OF OBSERVATION
-```
+A ROUND B PEA C BLUE WHITE D ONE E NO F O G TAIL H NONE I NONE
+
+2 DESCRIPTION OF COURSE
+A COLOR AND SPEED B ABOUT 5000 FT ABOVE C SAME AS B D HORIZONTAL PATH E
+TO WEST O MANEUVERS E DISAPPEARED FROM SIGHT AT HIGH SPEED F FEW SECOND
+
+3 MANNER OF OBSERVATION
+
 
 - page 2 -
 
-There are no photographs present on this page.
+Here is the text from the document:
 
-OCR Text Output:
+XWPH896 WPD025M YMB036 WYB002 WDB007AMA23GWSA001
 
-```
-...
-XPMP396 WDP9251 YMB896 WYB802 WDB907AMA33QWSA801
-00 RJEDEN RJEDK RJEDWP RJEPHQ
-DE RJWFAN 25B
+OO RJEDEN RJEDKF RJEDWP RJEPHQ
+DE RJWFAM 2SB
 O 021303Z
-FM LOWRY FLIGHT SERVICE CENTER LOWRY AFB COLO
-TO RJEDEN/CMDR ADC ENTF AFB COLO
 
-RJEDK/CMDR 20TH AIR DIV (DEF) GRANDVIEW AFB MISSOURI
-R.JEDWP/CMDR IR TECH INTEL CEN WRIGHT PATTERSON AFB OHIO
-R.JEPHQ/DIR OF INTEL HQ USAF WASH 25 DC
+FM LOWRY FLIGHT SERVICE CENTER LOWRY AFB COLO
+TO RJEDEN/CMDR ADC ENT AFB COLO
+RJEDKF/CMDR 29TH AIR DIV (DEF) GRANDVIEW AFB MISSOURI
+RJEDWP/CMDR IR TECH INTEL CEN WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIR OF INTEL HQ USAF WASH 25 DC
+
 BT
 1. DESCRIPTION
-A ROUND B PEA C BLUE WHITE D ONE E NO F OG TAIL H NONE I NONE
-2 DESCRIPTION OF COURSE
-A COLOR AND SPEED B ABOUT 5000 FT ABOVE C SAME AS B D HORIZONTAL PATH
-TO WEST O MANEUVERS E DISSAPPEARED FROM SIGHT AT HIGH SPEED F FEW SECON0
-3 MANNER OF OBSERVATION
+A ROUND B PEA C BLUE WHITE D ONE E NO F O G TAIL H NONE I NONE
 
-A VISUAL (AIR) B NONE C CONVAIR-CONTINENTAL 500 15,000-DENVER
+2 DESCRIPTION OF COURSE
+A COLOR AND SPEED B ABOUT 5000 FT ABOVE C SAME AS B D HORIZONTAL PATH E TO WEST O MANEUVERS E DISAPPEARED FROM SIGHT AT HIGH SPEED F FEW SECOND
+
+3 MANNER OF OBSERVATION
+A VISUAL (AIR) B NONE C CONVAIR-CONTINENTAL 560 15,000-DENVER
 
 4. TIME AND DATE OF SIGHTING
 A 1 JAN 2100Z B NIGHT
+
 5. LOCATION OF OBSERVER(S)
 
-```
 
 - page 3 -
 
-There is no photograph present on this page.
-
-Text extracted from the document:
-
-```
-PAGE TWO RJWFAM 2GB
-
+PAGE TWO RJWFAM 28B
 OVER RUSSELL, KANSAS
 
 6 IDENTIFYING INFORMATION OF ALL OBSERVER(S)
-
-A --------- PILOT -------- DENVER 'COLO. B NO
+A -----PILOT ----- DENVER COLO. B NO
 
 7. WEATHER AND WINDS-ALOFT CONDITION AT TIME OF SIGHTING
-
 A CAVU
-
 B SURFACE
-
-     6,000'-273 DEG 20 KT
-
-    19,000'-310 DEG 30 KT
-
-    16,000'-330 DEG 45 KT
-
-    20,000'-333 DEG 49 KT
-
-     EPNPPPJÅEPP DEG 59 KT
-
-    59,933'-29 DEG 65 KT
-
-    89,999'-     DEG      KT
+6,000'-270 DEG 20 KT
+10,200'-310 DEG 30 KT
+16,000'-330 DEG 40 KT
+20,000'-330 DEG 40 KT
+EPNPPPJÄEPP DEG 50 KT
+50,000'-290 DEG 65 KT
+82,000'- DEG KT
 
 C CAVU D NO E NO F NO
 
 8. ONE
-
 9. NONE
-
 10. NONE
-
 11. FLT SVC OPS OFFICER NO COMMENTS
-
 12. NONE
-
 BT
 
-02/1352Z JAN RJWFAM
-```
+02/1305Z JAN RJWFAM
+
 
 - page 4 -
 

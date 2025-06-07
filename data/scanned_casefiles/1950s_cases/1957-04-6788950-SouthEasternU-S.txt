@@ -1,35 +1,29 @@
-There is no photograph present on this page.
+PROJECT 10073 RECORD CARD
 
-Here is the OCR output of the text found in the document:
+1. DATE
+22 April 1957
 
-```
-PROJECT 10073 RECORD CARD 
+2. LOCATION
+Fla, Ala, La, Ga, Mi
+South Eastern U.S.
 
-1. DATE 
-22 April 1957 
 3. DATE-TIME GROUP
-
-Local 
-GMT 23 0400X
-
-5. PHOTOS
-□ Yes
-[x] No
-
-7. LENGTH OF OBSERVATION 
-unk
-
-2. LOCATION F1a, Ain, La, Ga, SC,
-SouthEastern U.S.
+Local: 23/04 102
+GMT:
 
 4. TYPE OF OBSERVATION
-[X] Ground-Visual
-□ Ground-Radar
-□ Air-Visual
-□ Air-Intercept Radar
+Ground-Visual ☐ Ground-Radar
+☐ Air Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
 
 6. SOURCE
 Mil and Civ
+
+7. LENGTH OF OBSERVATION
+unk
 
 8. NUMBER OF OBJECTS
 3 or 4
@@ -38,96 +32,64 @@ Mil and Civ
 N to S
 
 10. BRIEF SUMMARY OF SIGHTING
-Three to four objects described as a green ball moved from North to South and disintegrated. Seen by numerous people all over S.E., U.S. at the same time which indicated object very high although appearing close to observer.
-
-12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Possibly Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-[X] Was Astronomical Meteor
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other
-                  [      ]
-□ Insufficient Data for Evaluation
-□ Unknown
+Three to four objects described as a green ball moved from North to South and disintegrated. Seen by numerous people all over S.E. U.S. at same time which indicated object very high although appearing close to observer.
 
 11. COMMENTS
 This sighting no doubt was a meteor of the bolide type.
 
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical/Meteor
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
 ATIC FORM 329 (REV 26 SEP 52)
-```
+
 
 - page 1 -
 
-There are no photographs present in the document.
+Here is the text from the document:
 
-Below is the OCR transcription of the text found in the document:
-
-```
-WPA968 YDE301 VYA861LVA913
-'****'YI RJEDEN RJEDWP
-23MR57 0117
-
-DE RJES 13A
-
-ZUI INO VMC917 DE RJESY2 2B X ZDKHMVC917YQAQ15
-****'YI RJEPNB RJEDEN RJEDWP RJEPhQ RJESKB
-
+WPAGSS YDS01 VYA0S1LVA013
+*****YY RJEDEN RJSDWP 07 17
+DC RJES 13A
+ZU1 INC VMC017 DE RJESYQ 2B X ZDKRVC017YQA015
+*****YY RJEPN8 RJEDEN RJSDWP RJEPHQ RJESKB
 DE RJESYQ 2B
-Y 235q227
-
-FM 2647 AACSRON MAXWELL AFB ALA
-
-TO RJEGNB/CMDR EAST ADC STEWART AFB NY
-
+Y 2305202
+FM 2047 AACSRON MAXWELL AFB ALA
+10 RJEPNB/CMDR EAST ADC STEWART AFB NY
 RJEDEN/CMDR ADC ENT AFB COLO SPRINGSN
-
-RJEDWP/CMiDR ATIC WRIGHT PATTERSON AFB OHIO
-rJEPhQ/DIRECTOR IF INTELLIGENCE HQ USAF WASH DC
-
+RJSDWP/CMDR ATIC WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIRECTOR IF INTELLIGENCE HQ USAF WASH DC
 RJESKB/CMDR 35AD DOBBINS AFB MARIETTA
-
 BT
-
 UNCLAS/ UFO/
 
-l. DESCRIPTION OF OBJECT
-
+1. DESCRIPTION OF OBJECT
 A. UNK
-
 B. UNK
-
 C. GREEN
-
 D. THREE OR FOUR
-
 E. UNK
-
 F. NONE
-
 G. H. NONE
-
 I. NONE
 
-Apr.22-Columbia,SC-11:30pm-Gliding,bright,green Fireball traveling' NE to 
-SW at low altitude. Object was large; silent,trailed smoke,..
-*Thomasville,Ga-11:30pm-Brilliant Fireball fell Earthward & dis-
-integrated in hundreds of brilliant,green,blue & white parts,. The
-Object appeared 3-4 ft,in Diameter,was silent.(Same, as above?).
-```
+Apr.22-Columbia,SC-11:30m-Gliding,bright,green Fireball traveling NE to SW at low altitude. Object was large,silent,trailed smoke.
+*Thomasville,Ga-11:30pm-Brilliant Fireball fell Earthward & disintegrated in hundreds of brilliant, green, blue & white parts. The Object appeared 3-4ft.in Diameter,was silent.(Same as above).
+
 
 - page 2 -
 
-The document does not contain any photographs. 
-
-Here is the text extracted from the document:
-
-```
-PAGE TWO RJESYQ 2B
+PAGE TWO RJEPQ 2B
 
 2. DESCRIPTION OF COURSE OF OBJECT
 A. GREEN BALL
@@ -143,7 +105,7 @@ B. NONE
 C. NONE
 
 4. TIME AND DATE OF SIGHTING
-A. 23 444Z
+A. 23844AZ
 B. NIGHT
 
 5. LOCATIONS OF OBSERVER
@@ -152,48 +114,44 @@ PANAMA CITY, FLA
 MOBILE, ALA MONTGOMERY ALA LAKE CHARLES LA ROBINS AFB GA SAVANNAH GA.
 
 PAGE THREE RJESYQ 2B
-
 MCCOMB MISS
 
 6. IDENTIFYING INFORMATION OF ALL OBSERVERS
 A. CIVILIAN
 UNK
+
 B. MILITARY
 UNK
 
 7. WEATHER AND WINDS ALOFT AT TIME AND PLACE OF SIGHTING:
 A. MONTGOMERY, ALA CLEAR AND 10
 A. PENSACOLA, FLA CLEAR AND 10
-
 B. SURFACE 180 DEGREES 5 KNOTS
 6000 FEET 180 DEGREES/ 10 KNOTS
 10,000 FEET 190 DEGREES/ 10 KNOTS
-16,000 FEET 225 DEGREES 10 KNOTS
-20,000 FEET 228 DEGREES/ 10 KNOTS
-26,000 FEET 232 DEGREES 10 KNOTS
-```
+16,000 FEET 220 DEGREES/ 10 KNOTS
+20/000 FEET 220 DEGREES/10KNOTS
+
 
 - page 3 -
 
-The provided page does not contain any photographs. Here is the OCR transcription of the text on the document:
-
-```
 7. WEATHER AND WINDS ALOFT AT TIME AND PLACE OF SIGHTING:
-A. MONTGOMERY, ALA CLEAR AND 10 
+A. MONTGOMERY, ALA CLEAR AND 10
 A. PENSACOLA, FLA CLEAR AND 10
 B. SURFACE 180 DEGREES 5 KNOTS
-6000 FEET 189 DEGREES 10 KNOTS
-16,000 FEET 190 DEGREES 10 KNOTS
-16,500 FEET 220 DEGREES 19 KNOTS
-29,000 FEET 220 DEGREES/12KNOTS
-30,000 FEET 230 DEGREES 10 KNOTS
-50,000 FEET 220 DEGREES/30 KNOTS
-80,000 FEET UNK DEGREES: UNK KNOTS
+6000 FEET 180 DEGREES/ 10 KNOTS
+10,000 FEET 190 DEGREES/ 10 KNOTS
+15,000 FEET 220 DEGREES 10 KNOTS
+20,000 FEET 220 DEGREES/10KNOTS
+30,000 FEET 250 DEGREES 10 KNOTS
+50,000 FEET 220 DEGREES/ 30 KNOTS
+60/000 FEET UNK DEGREES: UNK KNOTS
 C. CEILING CLEAR
 D. VISIBILITY UNLIMITED
-3. CLOUD COVER-CLEAR TO PARTLY CLOUDY
+5. CLOUD COVER-CLEAR TO PARTLY CLOUDY
+
 PAGE FOUR RJESYQ 2B
-F. THUNDERSTORMS- SCATTERED
+F.THUNDERSTORMS- SCATTERED
 8. UNK
 9. NONE
 10. UNK
@@ -203,8 +161,8 @@ ALABAMA METEORS
 OBJECT APPEARED VERY CLOSE TO ALL OBSERVERS NO NOISE HEARD BY ANY OF
 THE OBSERVERS SIGNED GOLINSKY END
 BT
-23/2353Z APR RJESYQ
-```
+23/0533Z APR RJESYQ
+
 
 - page 4 -
 

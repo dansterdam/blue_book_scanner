@@ -1,77 +1,130 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book record card with various fields filled out.
-
-OCR OUTPUT:
+Here is the text from the document:
 
 PROJECT 10073 RECORD CARD
-1. DATE  25 JUN 58   
-2. DATE-TIME GROUP  
-3. LOCATION  Bremerton, Washington 
-4. SHAPE & OBSERVATION  Disc Like - Visual
-5. PHOTOS  3 Yes
-7. LENGTH OF OBSERVATION  2 minutes
-8. INITIAL SUMMARY OF SIGHTING  Object 4 inches in angular diameter, stationary to North in level flight. 
-10. COMMENTS  Although observers did not give direction of travel, the direction of an errand motion. 
 
-RECD 14
-V SGCSICZCQYAOOOZCDMAO43
+1. DATE
+22 Jun 58
+
+2. LOCATION
+Bremerton, Washington
+
+3. DATE/TIME GROUP
+Local
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. GMT
+22211007
+
+6. SOURCE
+Military & Civilian
+
+7. LENGTH OF OBSERVATION
+2 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+North
+
+10. BRIEF SUMMARY OF SIGHTING
+Rnd, white obj, 6 to 8 inches in diameter. Passed South to North in level flight.
+
+11. COMMENTS
+Although observers did not give clear or azimuth, the direction of travel suggests the airliner en-route to Alaska mentioned in rpt.
+
+12. CONCLUSIONS
+[Checkboxes are present but not marked]
+
+Additional handwritten notes at bottom of page include:
+Multi 22/1100z Jun
+Prob OK
+1-4
+2-4
+3-4x4
+4-4x2a
+
+Codes at bottom of page:
+REO14
+V SQC851CZCQYA000ZCDMAO43
 RR RJEDDN RJEDSQ
-RR RJWZDM 32
+RR RJWZDM 3Z
+
 
 - page 1 -
 
-There is no photograph present in this image. The image appears to be a page from a Project Blue Book report containing text-based information.
+RJEZHO/ASSISTANT, CHIEF OF STAFF INTELLIGENCE
+RJEZHO/OFFICE OF INFORMATION SERVICES
+BT
+UNCLAS/25 CADD TAC F-90 PD
 
-HEADQUARTERS, 4410TH CHIEF OF STAFF INTELLIGENCE
-RESEARCH/OFFICE OF INFORMATION SERVICES
-BY
-SUNCLAS/23 CADD TAC F-90 PD
-1
-*ROUND*
-2 6 TO 8 INCHES IN DIAMETER
-3 WHITE
+I
+1 ROUND
+V 6 TO 8 INCHES IN DIAMETER
+Y WHITE
 4 ONE
 5 NONE
 6 NONE
-7 NONE 
+7 NONE
 8 NONE
 9 NONE
 
 PAGE TWO RJWZDM 32
+
 II
 1 BRIGHTNESS
-2 1607 SECONDS?
-3 1007? AZIMUTH?
+2 100 ELEVATION?
+3 100 AZIMUTHS?
 4 PASSED SOUTH TO NORTH IN LEVEL FLIGHT
 5 OBSTRUCTED BY BUILDINGS
-6 (RIM?)
+6 MIN
 III
 1 VISUAL; GROUND
 2 NONE
 
+
 - page 2 -
 
-The image does not contain any photographs. It appears to be a scanned document from Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
+2 22/1100 1100-8-0300
 
-Text extracted from the document:
+2 NIGHT
 
-PAGE THREE RWZDM 32
+V SHIP YARD, BREMERTON, WASH.
+
+V1 1 SCT
+SECURITY POLICE, SHIPYARD BREMERTON WASH
+
+2 NONE
+
+VII
+
+PAGE THREE RJWZDM 32
+
 1 NONE
 2 SURFACE 0/0
 6000 350/10
 1000 020/10
-14000 340/13
-20000 340/15
+16000 340/15
+20000 340/25
 30,000 330/30
 40,000 340/35
 50,000 360/25
+
 T. CLEAR
 Y. NONE
 VIII NONE
 IX NONE
 X NORTHWEST AIRLINE PLANE ENROUTE ALASKA
-XI POSSIBLE NORTHWEST AIRLINES AIRCRAFT HAS
-ROTATING LIGHT WHICH IS VERY BRIGHT.
+XI POSSIBLE NORTHWEST AIRLINER. AIRCRAFT HAS
+ROUTING WHITE LIGHT WHICH IS VERY BRIGHT.
+
 BT
+
+Handwritten text:
+"Although the observer didn't give the elevation or azimuth, the direction of items roughly the outlines seemed to Alaska, as reported."
+
 
 - page 3 -
 

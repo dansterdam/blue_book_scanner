@@ -1,146 +1,250 @@
-The image does not contain any photographs. It appears to be a form or document related to Project Blue Book, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs). The document is titled "PROJECT 10-C RECORD CARD" and contains various fields such as date, location, type of observation, source, length of observation, and a brief summary of the sighting.
+PROJECT 10 RECORD CARD
 
-TEXT OUTPUT:
+1. DATE
+January 58
 
-1. DATE: 17 DEC 58
-2. LOCATION: URUGUAY
-3. DATE-TIME GROUP: 071013
-4. TYPE OF OBSERVATION: 
-   X Ground-Radar
-   G Air-Visual
-5. SOURCE: C.I.C.V.I.
-6. NUMBER OF OBJECTS: 3
-7. LENGTH OF OBSERVATION: * * *
-10. BRIEF SUMMARY OF SIGHTING: This report number is alleged to have come from the files of a private organization in Uruguay. It is not certain that the incident was a sighting of some unusual air phenomenon. Essential elements missing such as exact time, location, description of objects, and visual and radar observations.
+2. LOCATION
+Uruguay
+
+3. DATE-TIME GROUP
+Local 0030
+GMT
+
+4. TYPE OF OBSERVATION
+Ground-Visual ☒
+Air-Visual ☐
+Ground-Radar ☐
+Air-Intercept Radar ☐
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+CIOVI
+
+7. LENGTH OF OBSERVATION
+*** 
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+maneuver
+
+10. BRIEF SUMMARY OF SIGHTING
+Rpt included in large number of sightings in Uruguay. Obj. saw off blush, smoke as it maneuvered and only did not appear to be other than flying saucer by observer.
+
+11. COMMENTS
+Essential elements missing such as duration, speed. Case listed
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☒ Insufficient Data for Evaluation
+☐ Unknown
+
 
 - page 1 -
 
-There is no photograph present in this image. The image appears to be a scanned page of text from a UFO report document.
-
 This case is extremely short, and that makes it difficult to draw any conclusions.
 
-In spite of that, CIOVT considers it authentic as the testimony comes from one of its best observer members. 
+In spite of that, CIOVI considers it authentic as the testimony comes from one of our best observer members.
 
-The main point that we should study is the way it maneuvered and the light it carried. According to the previous data on that kind of luminosity and maneuvers of flying saucers they do give out a whitishbluin light before they disappear when they shift and it disappears when they reappear as a plane, a rocket, or any known phenomenon.
+The main point that we should study is the way it maneuvered and the light it carried. According to previous data on that kind of luminosity and maneuvers of flying saucers they do give out a whitish-blush light before they do a sharp turn, and it disappears when they regain their uniform course. It is quite obvious it could not have been a plane, a rocket, or any known phenomenon.
 
-What the observer states is quite true, if it had been an "inert object" which could not have dropped by gravity. The observer thinks, and we do too that the object was controlled and guided.
+What the observer states is quite true, if it had been an "inert object" without control it would have dropped by gravity. The observer thinks, and we do too that the object was controlled and guided.
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a document header with the title "Centro de Investigacion de Objetos Voladores Identificados" (Center for the Investigation of Identified Flying Objects).
+Here is the text from the document:
 
-INFORME
+FEIDIR (logo/header)
+Centro de
+Investigaciones
+de Objetos Voladores
+Indentificados
 
-CENTRO DE INVESTIGACION DE OBJETOS VOLADORES IDENTIFICADOS
+I N F O R M E
 
-SERVICIO DE INTELIGENCIA - FUERZA AEREA URUGUAYA
+CENTRO DE INVESTIGACION DE OBJETOS VOLADORES INDENTIFICADOS
+
+A
+
+SERVICIO DE INTELIGENCIA-FUERZA AEREA URUGUAYA
+
 
 - page 3 -
-
-The image provided appears to be a political map of Uruguay. It shows the outline of the country and its internal political boundaries, but does not contain any photographs.
-
-OCR text from the document:
 
 URUGUAY
 MAPA POLITICO
 
+(Note: This is a political map of Uruguay showing its administrative divisions, with various regions/departments outlined by solid and dotted lines. The map is in black and white.)
+
+
 - page 4 -
 
-The image does not contain any photographs. It appears to be a scanned page from a UFO report document, likely from Project Blue Book, written in Spanish.
+Here is the OCR text from the document:
 
-El presente caso se concreta en una observacion sumamente breve, lo que hace dificultoso su analisis y mas aun arribar a conclusiones.
+El presente caso se concreta en una observación suma-
+mente breve, lo que hace dificultoso su análisis y más aún arribar
+a conclusiones.
 
-A pesar de ello, C.I.O.V.I. lo considera un testimonio autenlico ya que la observaction proviene de una de sus mejores miembros Observadores.
+A pesar de ello, C.I.O.V.I. lo considera un testimonio
+auténtico ya que la observación proviene de una de sus mejores
+Miembros Observadores.
 
-Como elemento central debemos tomar la maniobra efectuada por el objeto y la luminosidad que lo acompano.
+Como elemento central debemos tomar la maniobra efectuada
+por el objeto y la luminosidad que la acompañó.
 
-De acuerdo a los antecedentes que se poseen, relacionandolo con las luminicidades y maniobras de los discos voladores y teniendo en cuenta que dichos aparatos denotan una fuerte iluminacion blanco-azulada antes de iniciar una brusca maniobra, aparentando al retornar su trayectoria uniforme, consideramos que la presente observacion pudo ser motivada por un disco volador. Resulta evidente que no puede tratarse de un avion, satelite o fenomeno celeste conocido.
+De acuerdo a los antecedentes que se poseen, relaciona-
+dos con la luminosidad y maniobras de los discos voladores y te-
+niendo en cuenta que dichos aparatos desprendían una fuerte lumino-
+sidad blanco-azulada antes de iniciar una brusca maniobra, apagán-
+dose al retomar su traslación uniforme, consideramos que la presen-
+te observación pudo ser motivada por un disco volador. Resulta evi-
+dente que no pudo tratarse de un avión, satélite o fenómeno celeste
+conocido.
 
-Es muy acertada la aceveracion de la observadora de que si se tratara de "un objeto inerte, sin control, se hubiera precipitado a tierra una vez bajo el efecto de la gravedad". La observadora tuvo, sin lugar a dudas, la sensacion de que el objeto era controlado y dirigido, opinion que compartimos.
+Es muy acertada la aceveración de la observadora de que
+si se tratara de "un objeto inerte, sin control, se hubiera preci-
+pitado a tierra una vez bajo el efecto de la gravedad". La observa-
+dora tuvo, sin lugar a dudas, la sensación de que el objeto era
+controlado y dirigido, opinión que compartimos.
+
+-0-
+
 
 - page 5 -
 
-The image does not contain any photographs. It appears to be a page from a report or document related to the investigation of unidentified flying objects (UFOs) in Uruguay.
-
-CENTRO DE INVESTIGACION DE OBJETOS VOLADORES IDENTIFICADOS
+CENTRO DE INVESTIGACION DE OBJETOS VOLADORES INDENTIFICADOS
 (C.I.O.V.I.)
 REPUBLICA ORIENTAL DEL URUGUAY
-FICHA DE OBSERVACIÓN
+FICHA DE OBSERVACION
 
-Observación realizada por:
-Domicilio:
-Profesión u ocupación:
-Fecha de la observación:
-Hora de la observación: 
-Lugar de la observación: (Departamento, localidad, paraje, calle, etc.)
-Forma y tamaño del objeto:
-Movimiento:
-Duración de la observación:
-Condiciones meteorológicas:
-Dirección de los testigos:
-Se pudo observar más de un objeto o aparato simultáneamente? 
-De qué color era?
-Tamaño?
-Sonido que emitía?
-Que otra cosa notó o le Ilamó la atención?
-El movimiento fue rápido o lento?
-La velocidad era uniforme?
-La trayectoria fue recta, zigzagueante, etc.?
-Escrutinio efectuado:
-Se le observó movimiento de balanceo?
-Qué altura alcanzaba?
-Deslizó verticalmente?
-Hizo maniobras o evoluciones?
-Habitat: A) Diurno
-           B) Nocturno
-De qué tipo?
-Visible?
-En qué dirección se alejaba?
+Observación realizada por...
+Domicilio...
+Profesión u ocupación...
+Fecha de la observación... Enero de 1958
+Hora: 9:30
+Lugar de la observación (Departamento, Localidad, Paraje, Calle, etc)
+Dr. Antonio Legami S/N, Sta. Antonio Legani
+
+Testigos...
+
+Domicilio de los testigos...
+
+Se podía observar o precisar la existencia de un objeto o aparato aparentemente sólido?... No...
+De qué forma?...
+Tamaño?... Aproximadamente del tamaño de una naranja...
+Tenía apariencia de ser metálico?...
+Cree Ud. que tenía movimiento giratorio sobre si mismo?...
+
+El movimiento giratorio se apreciaba en todo el aparato? Todo el conjunto giraba?...
+Que parte giraba?...
+La visión u objeto, se trasladaba?... Sí...
+En qué dirección?... Primero, proyectil...
+La velocidad era uniforme?... Sí... se aceleraba?...
+La trayectoria era en línea recta?... No...
+Efecto alguna maniobra?... Sí...
+Puede describirla?... Pequeño, volvió a tomar altura, algunos movimientos en línea recta, desapareció...
+
+Se le observó movimiento de balanceo?...
+Qué altura llevaba?...
+Dejaba estela?...
+De qué características?... Corta, estirada, de un color blanco brillante...
+
+Había: A) Nubes?...
+De qué tipo?...
+B) Viento?...
+En qué dirección soplaba?...
+
 
 - page 6 -
 
-There is no photograph present in this image. This appears to be text transcribed from a page of the Project Blue Book UFO report document.
+Here is the OCR text from the document:
 
-Transcribing the text:
+-2-
 
-Lluvia 2. 
-Niebla 2.
-Riunedad 4. Nubes en cantidiad.
-Hacia que lugar2 Este, Azul, tormentas de las nubes.
-El fenomeno se detuve en cierto monento. 2.21, saliN de entre las nubes. 
-Que temperatura habia? 7 a 8 Grados C.
-El fenomeno se detuve en cigun monento. 2.21, se sali6 de entre las nubes. 
-Cual era su color?. Brillante, brilando. 
-Como cambiaba de color? 
-Pudo observar la ubicaci6n de los colores? 
-Indique la duracj6n general del fenomeno: v muy brillante.
-Destaque si el fen6meno se hPllaba formado a los miercoles
-Hasta ruido.: no.
-Nota: id a que la temperatura ambiente era semijante cuando
-Hacla ruido....Pudo describir:.o.
-Cyo si el ruRdo provecado por el fenomeno?: No lo advirtio?
-Note si despues de ocurrir el fen6meno se observer la precipitaci&n
-de algun material? No se observG ningrn precipitado. 
-Indique si entre los efectos observados hubo alqO que indicase que,
-el fenomeno pudo ser visto nor otras personas: (coio su casa, auto, de prado de etc.
-Indique si despues de la observaci6n del experimento alguna persona cercana en la zona, trastornos digestivcs, perdida de conocimiento, etc.?: No
-Pudo comprobar si el fenomeno fue observado en otros periodos anteriores o posteriores al memento de la observaci6n? no
-Otras caracteristicas: -Do lo advierte Que rota o movimiento no observe ni animal, nada anormal.
+D) Lluvia?...............................................
+D) Niebla?..............................................
+B) Humedad?............................................
+B) Tiempo tormentoso?................................
+Hacia que lugar estaba la tormenta?...............
+El fenómeno se produjo: a)Por encima de las nubes?
+                        b)Por debajo de las nubes?
+                        c)A través de las nubes?
+                        d)Por entre dos capas de nubes?
+
+Que temperatura había?......aire.......................
+El fenómeno se detuvo en algún momento? Si, al cambiar de orientación
+Cuál era su color?... Blanco, BRILLANTE, ROJO, AZULADO...............
+Cambiaba é o color?....................................
+Como cambiaba de color?................................
+Puede precisar la ubicación de los colores?..............
+
+Luminosidad general del fenómeno: a)muy brillante?...si...
+                                   b)irregular?
+                                   c)débil?.....................
+
+Duste que si el fenómeno se hallaba cerca de algún lugar importante (tal como aeropuerto, dependencia militar, industria, construcción vital, etc.)..................................
+
+Notó Ud. que la temperatura ambiente aumentaba?..........
+Hacia ruido?... Por?... Puede describirlo?...............
+
+Oyó el ruido:a)antes de apreciar el fenómeno?
+             b)simultáneamente?
+             c)después?..................................
+
+Notó si después de ocurrir el fenómeno se observó la precipitación
+de alguna materia extraña sobre la tierra?...............
+
+Notó Ud. alguna alteración eléctrica (en su casa, auto, alumbrado público, etc.)..............................................
+
+Indique si después de la observación Ud. experimentó algún trastorno físico (pérdida de bellos o de cabello, quemaduras en la piel, trastornos digestivos, pérdida de conocimiento, etc.)... No, pospuesto, si existe no lo relacioné con el hecho. Hoy sería diferente.
+
+Indique si antes de ocurrir el suceso o en el momento de éste, pudo apreciar algún estado de intranquilidad o excitación nerviosa en criaturas o animales.... no lo advierte..............
+
+Otras características que cree Ud. no cesarán de destacar: el objeto parecía una estrella, por su tonalidad, su brillo, aunque de menor tamaño; pienso que aún considerando esto, podría haberle tomado como un detalle. Los otros testigos vieron lo mismo?... En todo, menos en un detalle.
+
+En que dirección PEN. le pareció, de una, la apareja, dejaba, como un humo. Mi hermano no advirtió esto; claro que no pudo verlo por el mismo tiempo que yo; pués lo vi primero y luego llamé su atención. Además todo fué muy rápido.-
+
 
 - page 7 -
 
-The image does not contain any visible photographs. It appears to be a scanned page from an old document or report, likely related to Project Blue Book and UFO investigations.
+Here is the text from the document:
 
-Text Extracted from the Document:
+-3-
 
-Es la primera vez que Ud. ve un fenomeno como el que describe?.--
-Los otros testigos?.................................
-Detalle (si lo es posible) que se encuentraba Ud. haciendo previam ente a observar el fenomeno.--
-Los demas testigos, que observaron el fenomeno, que hacian y desde que distancia lo vieron?.-
-Grado de identidad N.o .501.502..
-Grado. Civico N.o...5259. ANB--...
+Es la primera vez que Ud. ve un fenómeno como el que describe? Si...
+Los otros testigos?...
+
+Detalle (si le es posible) qué se encontraba Ud. haciendo previamente o ocurrió al fenómeno...esactable con mi hermana en una tentativa de mi padre... pues, una noche de invierno calor, y no nos decidíamos a acostarnos...
+
+Concretamente: cuál es su opinión respecto a lo ocurrido?
+.Yo misma que con las demás oportunidades pienso que se trataba de un .objeto volador-volante-sabiendo controlado- que puede ejecutar en el espacio toda clase de maniobras- venciendo todas las dificultades, que han limitado hasta el momento los intentos terrestres.
+
+.Un objeto diverso a cuanto conocemos de la gravedad...
+
+.Verificadas las condiciones que siguen deseamos que Ud. relata el caso con sus propias palabras, lo más detalladamente que le sea posible...
+Poco o nada puedo agregar a los hechos ya manifestados en las preguntas anteriores.
+
+A las que mal o bien contestaré. El objeto, simplemente, como una luz que se enciende, simplemente. Recorrió una trayectoria corta, que apenas, segundos, desiguiendo luego-nada rápidamente, yendo a oscurecer, continuando su recorrido en líneas rectas, por dos o tres seguidos y luego desapareció, se apagó...
+
+Ced. de Identidad Nº... 591,502...
+Cred. Cívicos Nº... 5194 ANB...
 
 FIRMA DEL OBSERVADOR
+
 
 - page 8 -
 

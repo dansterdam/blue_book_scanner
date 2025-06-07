@@ -1,47 +1,102 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record card, which is a document used for logging and recording information about unidentified flying object (UFO) sightings during the Project Blue Book investigations. The record card contains various fields for recording information such as the date, location, type of observation, number of objects, length of observation, brief summary of sighting, and conclusions.
+Here is the text from the document:
 
-PROJECT 10073 RECORD CARD
-1. DATE: 11-7-57
-2. LOCATION: NOBLESVILLE, INDIANA
-3. DATE-TIME GROUP: 231700
-4. TYPE OF OBSERVATION: Ground-Radar
-5. SOURCE: GROUND-RADAR
-6. NUMBER OF OBJECTS: 8 OBJECTS
-7. LENGTH OF OBSERVATION: 2 HRS
-10. BRIEF SUMMARY OF SIGHTING: Radar, on-off, intermittent, metallic, shiny
-12. CONCLUSIONS: Was Aircraft, Possibly Balloon, Possibly Astronomical, Insufficient Data for Evaluation
+PROJECT 1007 RECORD CARD
+
+1. DATE
+26 November 1957
+
+2. LOCATION
+Noblesville, Indiana
+
+3. DATE-TIME GROUP
+Local
+GMT 26.17204
+
+4. TYPE OF OBSERVATION
+□ Ground-Visual
+□ Air-Visual
+
+5. PHOTOS
+□ Yes
+□ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+28 seconds
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+Northtolose
+
+10. BRIEF SUMMARY OF SIGHTING
+One "object, round, size of golf ball.
+Color, shiny, motionless.
+
+11. COMMENTS
+Very little information.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Possibly Balloon
+□ Probably Balloon
+□ Was Aircraft
+□ Possibly Aircraft
+□ Probably Aircraft
+□ Was Astronomic
+□ Possibly Astronomic
+□ Probably Astronomic
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+(ATIC FORM 329 (REV 26 SEP 52))
+
 
 - page 1 -
 
-There is no photograph present in this image. This appears to be a page from an old Project Blue Book document.
+Multi
 
-SCKB27V SQB3SS YWBD2IFLG47
-M RJEDEN RJED3B RJEPTA
-DF RJEDFL SP
-M 2910493
-TO COMDR 7B2ND ACWRON ROCKILLE AFS IND
-TO RJEDEN/COMDR ADC AND HQ AFB COLORADO SPRINGS COLORADO
-INFO RJEDFL/COMDR 55TH ADIV WPAFB OHIO
-RJED/COMDR AIR TECHNICAL INTELLIGENCE CENTER WPAFB OHIO
-RJED/DIRECTOR INTELLIGENCE HEADQUARTERS USAF WASHINGTON 25 DC
-UNCLASSIFIED/ INTEL 210 PD SUBJECT CLN UNIDENTIFIED FLYING OBJECT
-REPORT PD IN ACCORDANCE WITH AIR FORCE REGULATION 200-2 DATED 12
+26/17208
+
+SCN227V SQE038 YWB621FLAG47
+
+HQ RJEDEN RJEDS9 RJEPHO
+DE RJEDFL 2P
+W 291045Z
+
+FM COMDR 782ND ACURON ROCKVILLE AFS IND
+TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLORADO
+INFO RJEDFL/COMDR 58TH ADIV WPAFB OHIO
+RJEDS9/COMDR AIR TECHNICAL INTELLIGENCE CENTER WPAFB OHIO
+RJEPHO/DIRECTOR INTELLIGENCE HEADQUARTERS USAF WASHINGTON 25 DC
+
+BT
+
+UNCLASSIFIED/ INTEL 250 PD SUBJECT CLN UNIDENTIFIED FLYING OBJECT
+REPORT PD IN ACCORDANCE WITH AIR FORCE REGULATION 208-2 DATED 12
 AUGUST 1954 THE FOLLOWING IS SUBMITTED PD
-ITEM I
+
+ITEM 1
 A. ROUND
 B. GOLF BALL
 C. SHINY
-D. ONELI
+D. ONE(1)
 E. MOTIONLESS
 F. ROUND AND SHINY
 
+
 - page 2 -
 
-There is no photograph present in the provided image. The image appears to be a page from an old UFO report document from Project Blue Book.
+PAGE TWO RJEDFL 2P
 
-PAGE TWO RJDEFL 2P
 G. NONE
 H. NONE
+I. NONE
+
 ITEM II
 A. BECAUSE OF AN AIRCRAFT IN AN ORBIT
 B. UNKNOWN
@@ -49,45 +104,51 @@ C. UNKNOWN
 D. UNKNOWN
 E. VANISHED
 F. 25 SECONDS
-ITEM III  
+
+ITEM III
 A. GROUND VISUAL
 B. NONE
 C. NONE
+
 ITEM IV
-A. 26/17/57
+A. 26/172GZ
 B. DAY
+
 ITEM V
-A. DK 5534
+A. DK 5554
+
 ITEM VI
 
-PAGE THREE RJDEFL 2P
-A. MR. ATTORNEY, NOBLESVILLE, IND.
-B. MRS. NOBLESVILLE, IND.
+PAGE THREE RJEDFL 2P
+A. MR. [REDACTED] ATTORNEY, NOBLESVILLE, IND.
+   MR. [REDACTED] NOBLESVILLE, IND.
+
 ITEM VII
 A. CLEAR WITH LITTLE HAZE
 
+
 - page 3 -
 
-This image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
-
-B- SURFACE 159/8
-5,228 FT.-230/45
-13,323 FT.-249/55
-15,223 FT.-240/25
-27,878 FT.-246/54
-35,553 FT.-295/58
-52,828 FT.-277/57
-52,828 GT.-NOT AVAILABLE
-C. 15,000FT. TO 23,000 FT.
+B. SURFACE 150/8
+6,000 FT.-235/45
+13,000 FT.-240/35
+16,000 FT.-240/55
+20,900 FT.-240/54
+30/800 FT.-250/88
+50,000 FT.-273/57
+68,000 GT.-NOT AVAILABLE
+C. 1500 FT. TO 2000 FT.
 D. CLEAR
 E. NONE
 F. NO
+
 TEDBE
 VIII
 A. NONE
 B. NONE
 C. NONE
-PAGE FOUR RJEDF 2P
+
+PAGE FOUR RJEDFL 2P
 ITEM IX
 A. NONE
 ITEM X
@@ -96,15 +157,18 @@ ITEM XI
 A. NONE, INTELLIGENCE OFFICER
 ITEM VII
 A. NONE
+B. NONE
+
 
 - page 4 -
 
-The image does not contain any photographs. It appears to be a page from a document, possibly a Project Blue Book report, with only text visible.
-
 ITEM XIII
-A - NONE
-RT:
-25/18332 NOV RIEDPL
+A. NONE
+BT
+29/1833Z NOV RJDEFL
+
+Q
+
 
 - page 5 -
 

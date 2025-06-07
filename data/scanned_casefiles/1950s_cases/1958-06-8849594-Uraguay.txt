@@ -1,13 +1,52 @@
-The image does not contain any photograph. It appears to be a page from a Project Blue Book record card, which is a standardized form used to document UFO sightings and investigations.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 31 Jul 58
-2. LOCATION: URUGUAY
-3. TYPE OF OBSERVATION: Visual
-4. PHOTOS: None
-5. LENGTH OF OBSERVATION: 5 Yds
-6. BRIEF SUMMARY OF SIGHTING: Two unusual old objects observed to North, moving very high speed, very fast.
-7. CONCLUSIONS: Insufficient data to evaluate.
+
+1. DATE
+   30 Jun 58
+
+2. DATE-TIME GROUP
+   Level: 2200
+
+3. LOCATION
+   Uruguay
+
+4. TYPE OF OBSERVATION
+   ☒Ground Visual
+   ☐Air-Visual
+   ☐Air-Intercept Radar
+
+5. PHOTOS
+   ☐ Yes
+   ☒ No
+
+6. LENGTH OF OBSERVATION
+   Clo1
+
+7. NUMBER OF OBJECTS
+   one
+
+8. COURSE
+   SE
+
+9. BRIEF SUMMARY OF SIGHTING
+   Tube shaped obj observed to North, vertical flight. Disappearing to East. Very high speed, very fast.
+
+10. COMMENTS
+    Insufficient data to evaluate.
+
+11. CONCLUSIONS
+    ☐ Was Balloon
+    ☐ Probably Balloon
+    ☐ Possibly Balloon
+    ☐ Was Aircraft
+    ☐ Probably Aircraft
+    ☐ Possibly Aircraft
+    ☐ Was Astronomical
+    ☐ Probably Astronomical
+    ☐ Possibly Astronomical
+    ☐ Other
+    ☐ Insufficient Data for Evaluation
+    ☒ Unknown
+
 
 - page 1 -
 

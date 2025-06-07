@@ -1,125 +1,144 @@
-There is no photograph present in this image. This appears to be a page from a Project Blue Book record card, containing a filled-out form with various fields such as date, location, type of observation, source, number of objects, course, and comments.
-
-TEXT OUTPUT:
-
 PROJECT 10073 RECORD CARD
-1. DATE
-3. DATE-TIME GROUP
-LOCAL 03/10/59
 
-4. TYPE OF OBSERVATION
-0 Ground-Visual
-5. PHOTOS
-NO
+1. DATE: 7 Jan 59
 
-7. LENGTH OF OBSERVATION
+2. LOCATION: Hicksville, N.Y.
 
-10. BRIEF SUMMARY OF SIGHTING
-Object shaped cub, like car lesson. Color
-was distant yellow, time visuals around 5 it
-secs.
+3. DATE-TIME GROUP: Local
 
-2. LOCATION
-HICKSVILLE, N.Y.
-6. SOURCE
-WITNESS
-8. NUMBER OF OBJECTS
-1
-11. COMMENTS
-A single object, this was reported from
-witnesses. There were no identifications
-known by sources.
+4. TYPE OF OBSERVATION: Ground-Visual
 
-12. CONCLUSIONS
-0 Was Balloon
-0 Probably Balloon
-0 Possibly Balloon
-0 Was Aircraft
-0 Probably Aircraft
-0 Possibly Aircraft
-0 Was Astronomical
-0 Probably Astronomical
-0 Possibly Astronomical
-0 Other
-Insufficient Date for Evaluation
-0 Unknown
+5. GMT: 02/01/02
+
+6. PHOTOS: No
+
+7. LENGTH OF OBSERVATION: 2 min.
+
+8. NUMBER OF OBJECTS: 1
+
+9. COURSE: Westwardly
+
+10. BRIEF SUMMARY OF SIGHTING: Star shaped obj, size of lemon. Color bright white, then turned reddish as it faded.
+
+11. COMMENTS: A check w/ the star charts for this date was made & it was determined the object was not in location given by sources.
+
+12. CONCLUSIONS: (All checkboxes are empty)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a document from Project Blue Book, an official U.S. Air Force investigation of unidentified flying objects (UFOs). The text in the document is as follows:
+ATOC
 
-OPERATIONAL IMMEDIATE
+9MR59 0745
+
+REC29
+C2GSQ0C597ZCSJAQ41
+00 RJEDS0
+DE RJEDS3
+O 031730Z ZEX
+FM COMDR 2500 AB GP
+TO RJWFAL/COMDR ENT AFB
+RJEZSH/COMDR 26TH AIR DIV SAGE
+RJEDSQ/COMDR AIR TECH CTR
+RJFZHQ/ACS INTELLIGENCE HQ USAF
+RJEZHO/OIS HQ USAF
+BT
+
 TELEPHONED
-TO: CGC-2
-TIME: 2:10 P  
-DATE: 2 21 59
-By: _______
+TO
+NO.
+TIME
+Date
+By
 
-UFO UNCLAS FROM BASE OPS MTL 130-035P-D. FOLLOWING INFORMATION FURNISHED IN ACCORDANCE WITH AFR 200-2, 5 FEBRUARY 1952, ON UFOR RECEIVED:
-(1) STAR SHAPED (EXECUTIVES LARGE)
+2110L
+1-10-59
+
+UFO UNCLAS FROM BASE OPS MTL 130-03P.D. FOLLOWING INFORMATION
+FURNISHED IN ACCORDANCE WITH AFR 200-2, 5 FEBRUARY 1958, ON UFOB RECEIVE
+
+A. (1) STAR SHAPED (5X6TIMES LARGE)
 (2) LEMON
 (3) BRIGHT WHITE REDDISH AS IT FADED
 (4) ONE
-(5) NONE
-(6) NONE
+(5) NONZ
+(6) NO
 (7) NONE
 (8) NONE
 
+
 - page 2 -
 
-The image does not contain any photographs, only text. 
+PAGE TWO RJEDSJ 3
 
-PAGE TWO RJEPSJ 3
-(5) NONE
+(9) NONE
+
 B. (1) WEST NORTH WEST
 (2) AZ 320 EL 60
 (3) AZ 320 EL 35
 (4) WESTERLY
 (5) FADED
 (6) ONE HOUR
+
 C. (1) GROUND VISUAL
 (2) NONE
 (3) NOT APPLICABLE
-P. (1) OICO ZULU 8 MARCH 1959 2030 GMT
+
+D. (1) 0100 ZULU 8 MARCH 1959 2000 local
 (2) NIGHT
-(3) HICKSVILLE N.Y. MACHINIST
-(4) NOT APPLICABLE
+
+F. (1) HICKSVILLE N.Y. MACHINIST
+(2) NOT APPLICABLE
+
 G. (1) CLEAR 15 MILES
-(2) SFC 310/15225 GOOD 300/10 1000 280/50 16000
-270/75 20000 260/80 30000 260/145 50000
+(2) SFC 310/15126 6000 300/10 1000 280/501600
+    270/75 20000 260/80 30000 260/145 50000
 (3) CLEAR
 (4) 15 MILES
 (5) NONE
 
-PAGE THREE RJEPSJ 3
-(3) NONE
+PAGE THREE RJEDSJ 3
+
+(5) NONE
+
 H. (1) NONE
+
 I. NOTIFIED
+
 
 - page 3 -
 
-The image does not contain a photograph. It appears to be a page from a Project Blue Book document.
+(2) SFC 310/15426 6000 300/10 1000 280/501600
+270/75 20000 260/80 30000 260/145 50000
 
-(2) SFC 31C/15426 6000 300/10 1600 280/25/16000
-270/75 20000 260/60 30000 260/145 50000
 (3) CLEAR
+
 (4) 15 MILES
+
 (5) NONE
 
-PAGE THREE RJEDS J 3
+PAGE THREE RJEDSJ 3
+
 (6) NONE
-H. (1) NONE 
+
+H. (1) NONE
+
 I. NOTIFIED
+
 J. NOT AVAILABLE
-K. AIRBORNE OFFICER ON DUTY CAPT ROBERT K. HAGEL COMMENT: 
+
+K. AIRBORNE OFFICER ON DUTY CAPT ROBERT H. NAGEL COMMENT:
 FROM DESCRIPTION IT WOULD APPEAR THAT MR. ODDO HAS SIGHTED
 A PLANET WHOSE BRILLIANCE ATTRACTED HIM.
+
 L. NONE
 
 BT
-08/14452 MAR EJECTS
+
+08/1545Z MAR RJEDSJ
 
 OPERATIONAL IMMEDIATE
+
 
 - page 4 -
 

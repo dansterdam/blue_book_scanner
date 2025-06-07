@@ -1,36 +1,91 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record card, which is an official document used to record details about UFO sightings.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 29 Oct 59
-3. DATE-TIME GROUP: 30/03002
-5. PHOTOS: 0 Yes
-7. LENGTH OF OBSERVATION: 2-3 mins
-10. BRIEF SUMMARY OF SIGHTING: Circular or oval 1 1/2 - 2 ft in diameter, size red or orange color, no tail, sound, or other noticeable features. Object glowed & speed was estimated at 500 mph. No radar contact & no rptd air traffic in area.
-12. CONCLUSIONS: Was Balloon, Probably Balloon, Was Astronomical, Possibly Astronomical Phenomena, Other - insufficient data for evaluation.
+
+1. DATE
+29 Oct 59
+
+2. LOCATION
+Canada
+North Kamloops, British Columbia
+
+3. DATE-TIME GROUP
+Local 30/0300Z
+
+4. TYPE OF OBSERVATION
+☒Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+10-15 mins
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+West
+
+10. BRIEF SUMMARY OF SIGHTING
+Obj moved fm horizon to horizon in 10-15 mins. Circular or oval 1 1/2 -2 ft in diameter. Fire red or orange color, no tail, sound, or other noticeable features. Obj glowed & speed was estimated as 590 mpb. No radar contact & no rapid air traffic in area.
+
+11. COMMENTS
+Request for additional info not complied with case is considered as insufficient data.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other_______
+☒ Insufficient Data for Evaluation
+☐ Unknown
+
+ATC FORM 329 (REV 26 SEP 53)
+
 
 - page 1 -
 
-There is no photograph present in this image. This appears to be a page from a UFO report document from Project Blue Book.
-
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
 INCOMING
-AF FM : 34400 (3 NOV 59)
-ACTION : CIY
-INFO : 5269, OOP
-SMD 0056
-CZCOHAA56ZCOJA484
-FR RJEZJHQ
-DE RJWDM 10A
-R 021820Z
-FM 23 ADIV MCCHORD AFB WASHINGTON
-TO RJWFAL/AIR DEFENSE COMMAND
-RJEDS/AIR TECHNICAL INTELLIGENCE CENTER
-RJEZJH/HEADQUARTERS USAF AFCIN
-RJEZJHG/SECRETARY OF THE AIR FORCE SAFIS
 
-UNCLASSIFIED/25 DIN 11 8273. UFOB REPORT. THE FOLLOWING UFOB
+AF IN:  34400 (13 Nov 59)
+
+ACTION: CIN
+
+INFO: SXPS, OOP
+SMD C036
+
+CZCHA5652CQJAA84
+
+PR RJEZHO
+DE RJWZDM 10A
+R 021820Z
+
+FM 25 ADIV MCCHORD AFB WASHINGTON
+TO RJWFAL/AIR DEFENSE COMMAND
+RJEDS9/AIR TECHNICAL INTELLIGENCE CENTER
+RJEZHS/HEADQUARTERS USAF AFGIN
+RJEZHS/SECRETARY OF THE AIR FORCE SAFIS
+
+BT
+
+UNCLASSIFIED/25 OIN 11 8273. UFOB REPORT. THE FOLLOWING UFOB
 REPORT IS FORWARDED IN ACCORDANCE WITH AFR 200-2: SECTION ONE
+
 1. CIRCULAR - OVAL
-2. 1 1/2 - 2 FEET
+2. 11/2 - 2 FEET
 3. ORANGE - FIRE RED
 4. ONE
 5. NONE
@@ -39,33 +94,33 @@ REPORT IS FORWARDED IN ACCORDANCE WITH AFR 200-2: SECTION ONE
 
 SECTION TWO:
 
+
 - page 2 -
 
-The image does not contain a photograph. It appears to be a page from an old UFO report document from Project Blue Book.
-
-STAFF MESSAGE DIVISION 
+STAFF MESSAGE DIVISION
 UNCLASSIFIED MESSAGE
 INCOMING
 
-AT IN : 34400 (3 NOV 59)
+AF IN: 34400 (3 Nov 59)
 
 PAGE TWO RJWZDM 10A
+
 1. GLOW
-2. 45 - 090DEGREES 
-3. 45 - 270 DEGREES
+2. 45 -090DEGREES
+3. 45 -270DEGREES
 4. STRAIGHT AT ABOUT 500 KNOTS
 5. OVER HORIZON
-6. 10 - 15 MONUTES
+6. 10 - 15 MINUTES
 
 SECTION THREE:
 1. VISUAL GROUND 2. NONE 3. NONE
 
 SECTION FOUR:
-1. 3003OOZ
+1. 300300Z
 2. NIGHT
 
 SECTION FIVE:
-1. DK OF 3151 (NORTH KAMLOOPS, BRITISH COLUMBIA,CANADA) 
+1. DK OF 3151 (NORTH KAMLOOPS, BRITISH COLUMBIA, CANADA)
 
 SECTION SIX:
 1. NONE
@@ -73,28 +128,29 @@ SECTION SIX:
 
 SECTION SEVEN:
 1. CLEAR - CEILING INDEFINITE
-2. ALTITUDE    DEGREES    KNOTS
-PAGE 2 OF 4
+2. ALTITUDE                    DEGREES                    KNOTS
+
+Page 2 of 4
+
 
 - page 3 -
-
-The image does not contain any photographs. It appears to be a page from an old Project Blue Book report, which is a United States Air Force program to investigate unidentified flying objects. The text in the document is as follows:
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE DIVISION
 UNCLASSIFIED MESSAGE
-
 INCOMING
 
-AF IN : 34400 (3 NOV 59)
+AF IN : 34400 (3 Nov 59)
+
 PAGE THREE RJWZDM 10A
-SURFACE     170        15
-5,000       250        30
-10,000      270        40
-26,000      270        50
-18,000      280        60
-30,000      -          -
-40,000 - 80,000 -          -
+SURFACE                 170             15
+6,000                   250             30
+10,000                  270             40
+26,000                  270             50
+18,000                  280             60
+30,000                   -               -
+40,000 - 80,000          -               -
+
 3. CLEAR
 4. 15 PLUS
 5. ZERO
@@ -112,52 +168,65 @@ SECTION TEN:
 
 SECTION ELEVEN:
 1. INTELLIGENCE OFFICER - APPARENT SIZE AND SPEED OF OBJECT INDICATES
-PAGE 3 of 4
+Page 3 of 4
+
 
 - page 4 -
 
-The image does not contain any photographs. It appears to be a page from an old Project Blue Book UFO report document.
-
+UNCLASSIFIED MESSAGE
 INCOMING
 
-AF EN : 34400 (3 NOV 59)
+AF CIN : 34400 (3 Nov 59)
+
 PAGE FOUR RJWZDM 10A
-POSSIBLE WEATHER PHENOMENON. REPORTED SPEED APPARENTLY RULES OUT BALLOON POSSIBILITY.
+
+POSSIBLE WEATHER PHENOMENON. REPORTED SPEED APPARENTLY RULES OUT
+BALLOON POSSIBILITY.
+
 SECTION TWELVE:
 1. NONE
+
 ET
 02 2038Z NOV RJWZDM
+
 Page 4 of 4
+
 
 - page 5 -
 
-The image does not contain any photographs. It appears to be a scanned document from Project Blue Book, which was a United States Air Force program that investigated unidentified flying objects (UFOs).
-
-The text in the document is as follows:
+Here is the text from the document:
 
 JOINT MESSAGEFORM
-SPACE BELOW RESERVED FOR COMMUNICATION CENTER
 
-PRECEDENCE           TYPE MSG (Check)    ACCOUNTING DATA    CLASSIFICATION
-ROUTINE              X                   AS                  UNCLASSIFIED        
+SECURITY CLASSIFICATION: UNCLASSIFIED
 
-TO: ATIC, W-P AFB
-McGORD AFB, WASH.
+PRECEDENCE: ROUTING
+TYPE MSG (Check): MULTI
+BOOK: X   SINGLE
 
-UNCLAS/FROM: AFOIN-4312   11-22-59 
-ATTN 25TH ADIV. YOUR MSG 25 CIN 11 8273. DTD 2 NOV 59. REPORTING AN UFO SIGHTING OVER B.C. CANADA. WAS THE SIZE OF THE OBJ. AS REPORTED, AN ESTIMATE OF THE ACTUAL SIZE, OR IS IT A COMPARATIVE ESTIMATE? IN SECTION TWO, FAR THREE OF MSG. THE OBJ IS REPORTED TO HAVE DISAPPEARED AT 45 DEGREES ELE TO THE WEST. IN PAR FIVE OF SAME SEC. IT IS REPORTED TO HAVE DISAPPEARED OVER THE HORIZON. HAS CLARIFICATION ON THIS POINT. DID THE OBJ PASS DIRECTLY OVER OBSERVER? HOW DID OBSERVER ESTIMATE OBJECT'S SPEED? REQ A CHECK BE MADE FOR OTHER WITNESSES, AND THEIR DESCRIPTION OF THE INCIDENT. 
+ACCOUNTING SYMBOL: AF
+ORIG. OR REFERS TO: 25 OIN 11 8273
+CLASSIFICATION OF REFERENCE: UNCLAS
 
-DATE      TIME
-4 NOV     0732
-1959
+FROM: ATIC, W-P AFB
 
-SYMBOL
-RCOIN-4312
+TO: McGHORD AFB, WASH.
 
-NAME AND TITLE 
-YVONNE (NICHOLAS POST
-Administrative Asst.
-Science & Consultants
+/UNCLAS/FROM: AFOIN-4848     11-22-40-C
+
+ATTN 25TH ADIV, YOUR MSG 25 OIN 11 8273, DTD 2 NOV 59, REPORTING AN UFO SIGHTING OVER B. C. CANADA. WAS THE SIZE OF THE OBJ, AS REPORTED, AN ESTIMATE OF THE ACTUAL SIZE, OR IS IT A COMPARATIVE ESTIMATE? IN SECTION TWO, PAR THREE OF MSG, THE OBJ IS REPORTED TO HAVE DISAPPEARED AT 45 DEGREES ELE TO THE WEST. IN PAR FIVE OF SAME SEC, IT IS REPORTED TO HAVE DISAPPEARED OVER THE HORIZON.
+
+REQ CLARIFICATION ON THIS POINT. DID THE OBJ PASS DIRECTLY OVER OBSERVER? HOW DID OBSERVER ESTIMATE OBJECT'S SPEED? REQ A CHECK BE MADE FOR OTHER WITNESSES, AND THEIR DESCRIPTION OF THE INCIDENT.
+
+DATE: 4 NOV     TIME: 0732
+MONTH: NOV     YEAR: 1959
+
+TYPED NAME: ROBERT J. FRIEND    TYPED NAME AND TITLE: NICHOLAS POST
+                                 Assistant Deputy
+                                 Science & Computers
+
+DD FORM 173, 1 MAY 58 REPLACES DD FORM 173, 1 OCT 48, WHICH WILL BE USED UNTIL EXHAUSTED
+
 
 - page 6 -
 

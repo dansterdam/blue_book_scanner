@@ -1,59 +1,115 @@
-The image does not contain any photographs. As an OCR (Optical Character Recognition) system, I will produce the following text found in the document:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
 27 Sep 55
+
 2. LOCATION
 Tarrytown, New York
-3. CHARACTERISTIC GROUP
-Local
+
+3. DATE-TIME GROUP
+GMT 27/2315Z
+
 4. TYPE OF OBSERVATION
-Ground-Visual
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
 5. PHOTOS
-Yes
-6. AIR-GROUND
-0 Air 
-X Ground-Radar
-0 Air-Intercept Radar
+□ Yes
+[X] No
+
+6. SOURCE
+civilian
+
 7. LENGTH OF OBSERVATION
-5 minutes
+5 - 6 mins
+
 8. NUMBER OF OBJECTS
 1
+
 9. COURSE
-2 16-2 165
+zig-zag
+
 10. BRIEF SUMMARY OF SIGHTING
-The circular light obj. traveled a zig-zag course and seemed to collide with a/c in area of sighting. Obj. seemed to be elliptical in times.
-11. COMMENTS
-Description indicates probability or searching activity.
+One circular intense light. Obj traveled a zig zag course with 90 deg turns. Obj seemed to collide with a/c in area of sighting. Obj seemed to be elliptical at times.
+
+(NO CASE IN FILE)
+
 12. CONCLUSIONS
- Was Balloon
- Probably Balloon
- Possibly Balloon
- Probably Aircraft
- Possibly Aircraft
- Probably Astronomical
- Possibly Astronomical
- Other: Searchlight
- Unidentified Due to Evaluation
+□ Was Balloon
+□ Probably Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+[X] Other: Searchlight
+□ Insufficient Data for Evaluation
+□ Unknown
+
+11. COMMENTS
+Description indicates probability of searchlight activity.
+
+ATC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. The image appears to be a page from a Project Blue Book UFO report document.
+UFOB INDEX CARD AISS-UFOB-351-55
 
-Performing OCR on the text in the document:
-
+1. DATE
 27 September 1955
-2. LOCATION 
+
+2. LOCATION
 Tarrytown, New York
+
+3. DATE-TIME GROUP
+Local GMT 27/2315% Sep 55
+
 4. TYPE OF OBSERVATION
 Ground-Visual
-5. SOURCE
+
+5. PHOTOS
+Yes
+No
+
+6. SOURCE
 Civilian
-8. NUMBER OF OBJECTS 
+
+7. LENGTH OF OBSERVATION
+Five to Six Minutes
+
+8. NUMBER OF OBJECTS
 One (1)
+
+9. COURSE
+Zig-Zag
+
+10. BRIEF SUMMARY OF SIGHTING
+One (1) circular intense light. The object traveled a zig-zag course with 90 degree turns. The object seemed to collide with aircraft in the area of the sighting. The object seemed to be elliptical at times.
+
 11. COMMENTS
-Description indicates the probability of aeronological activity.
-(No case in file)
+Description indicates the probability of searchlight activity.
+
+(NO CASE IN FILE)
+
+AISOP Form 5 (15 Oct 54)
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Searchlight
+Other
+Insufficient Data for Evaluation
+Unknown
+
 
 - page 2 -
 

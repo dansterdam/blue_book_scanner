@@ -1,36 +1,86 @@
-The image does not contain any photograph. It appears to be a page from a Project Blue Book record card, which is a form used to document UFO sightings.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 23 January 1956
-3. DATA GROUP: Excel 23/18002
-5. PHOTO: 0 Yes
-7. LENGTH OF OBSERVATION: 1 Minute
-10. BRIEF SUMMARY OF SIGHTING: Circular disc, 1 1/2 feet in diameter, smaller than the moon, white, red, fuzzy object, moving up and down, out of level and into clouds.
-12. CONCLUSIONS: Was Balloon, Possibly Balloon, Was Aircraft, Possibly Aircraft, Insufficient Data for Evaluation.
+
+1. DATE
+23 January 1956
+
+2. LOCATION
+McChord AFB, Washington
+
+3. DATE-TIME GROUP
+Local 23/1800Z
+GMT
+
+4. TYPE OF OBSERVATION
+Air-Visual
+
+5. PHOTOS
+Yes
+No
+
+6. SOURCE
+Air-Visual
+
+7. LENGTH OF OBSERVATION
+1 minute
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+Circular disc, 1 1/2 feet in diameter. Smaller than the moon, fire, red, fuzzy and emitted flames. Traveled in level line into clouds.
+
+11. COMMENTS
+Limited data, Evaluation based upon description of object.
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+
+Meteor
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from an old Project Blue Book document, specifically a report from McChord AFB in Washington on January 25, 1956.
+MSG NBR 01352                                23 JAN 56
+OPERATIONAL IMMEDIATE
 
-OCR output:
+AM COMDR 25 ADIV MCCHORD AFB     V
+TO COMDR ADC ENT AFB
+COMDR ATIC WPAFB OHIO
+DIR OF INTL USAF WASH DC         AC      PARAPHRASE NOT REQUIRED EXCEPT PRIOR TO
+COMDR WADF HAMILTON AFB                  PHYSICALLY RETAINED
 
-MSG NBR 21352
-PD COMDR 25 ADIV MCCHOLD AFB
-ND-COMDR ATIC WPAFB OHIO
-COMDR KIRTLAND WASH DC
-COMDR WADP HAMILTON AFB
+CITE 25 AD A219.
 
-CITE 25 JAN A2123
-OBJECT IRREGULAR DISCS 8. 1 AND 1/2 FEET IN DIAMETER SMALLER THAN MOON
-2. REDDISH-WHITE IN COLOR VERY BRIGHT, FLAMED EXHAUST PLANES R 1/2 TO I 1/4 
-3. 1 ON A N/A LEVEL LINE 1 DIRECTED INTO CLOUDS F 1 MINUTE
-25 2357z JAN 56
-Classification Canceled
-cc: Historical Off. 
-ACTION
-Ti Scp:unc cs
+1. A. CIRCULAR DISC B. 1 AND 1/2 FEET IN DIAMETER SMALLER THAN MOON
+2. FIRE RED D. OBJECT E. FUZZY G. EMITTED FLAMES H. N/A I. N/A
+3. A. N/A B. LEVEL LINE C. N/A D. LEVEL CLOUDS F. 1 MINUTE
+   20 2072 JAN
+
+Classification Cancelled
+Changed to Unclassified
+Auth: AEB 205-10
+By: H. Gunther
+
 UNCLASSIFIED
-Tsb-16:5-1
+
+136-16581-1
+
 
 - page 2 -
 

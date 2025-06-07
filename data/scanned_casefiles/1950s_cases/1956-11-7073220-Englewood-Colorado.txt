@@ -1,93 +1,147 @@
-The image does not contain any photographs. It appears to be a Project 10073 record card from Project Blue Book, an official US Air Force program to investigate unidentified flying objects (UFOs).
-
 PROJECT 10073 RECORD CARD
-1. DATE: 6 November 1956
-2. LOCATION: Englewood, Colorado
-3. TYPE OF OBSERVATION: Visual
-4. WEATHER CONDITIONS: Clear
-5. DESCRIPTION OF OBJECT: One object moved up and down, just blinked out.
-6. NUMBER OF OBJECTS: 1
-7. LENGTH OF OBSERVATION: 30 minutes
-8. COURSE: Straight down
-9. CONCLUSIONS: Was Balloon, Probably Balloon
-10. BRIEF SUMMARY OF SIGHTING: One object, size of a star, light, moved up and down, just blinked out.
-11. COMMENTS: The balloon had been released prior to the time of sighting, 60 minutes. No wind would move objects in 30 minutes. Probably Astro sighting of Star/Planet. However, positional data omitted so report is insufficient data for evaluation.
+
+1. DATE
+6 November 1956
+
+3. DATE-TIME GROUP
+GMT 06/0800Z
+
+5. PHOTOS
+No
+
+7. LENGTH OF OBSERVATION
+30 minutes
+
+10. BRIEF SUMMARY OF SIGHTING
+One object bright light, size of street light, color white. Object moved up and down, just blinked out.
+
+2. LOCATION
+Englewood, Colorado
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+6. NUMBER OF OBJECTS
+One
+
+8. COURSE
+Up & down
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+[X] Insufficient Data for Evaluation
+□ Unknown
+
+11. COMMENTS
+WK Balloon had been released from Stapleton airport about time of sighting. 60 knot wind would move object in 30 minutes. Probably Astro sighting of Star/Planet. However, positional data omitted in report. Insufficient data for evaluation.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a scanned page from an old document, likely related to Project Blue Book, an official U.S. Air Force investigation of UFO reports.
+Here is the text from the document:
 
-WPH1655AM2539
+Written
+
+ACTION
+
+6 Nov 56 13 39
+
+WPH165AMA852
+
 00 RJEDEN RJWFDN RJEDVP RJEPHQ
 DE RJWFAM 1D
-O 061142Z
+O 061114Z
+
 FM LOWRY FLIGHT SERVICE CENTER LOWRY AFB COLO
 TO RJEDEN CMDR ADC ENT AFB COLO
-RJWFDN CMDR 37TH AIR DIV KIRKLAND AFB N MEX
-RJED3P CMDR AIR TECH INTEL CEN WRIGHT PATTERSON AFB OHIO
+RJWFDN CMDR 34TH AIR DIV KIRTLAND AFB N MEX
+RJEDGP CMDR AIR TECH INTEL CEN WRITHT PATTERSON AFB OHIO
 RJEPHQ DIR OF INTEL HQ USAF WASH 25 DC
-BT
+
+BT...
+
+The document appears to be a military communication with routing information and various Air Force base locations.
+
 
 - page 2 -
 
-There is no photograph present in the provided image. 
-
-The text from the document is as follows:
-
 1 DESCRIPTION
 A BRIGHT LIGHT
-B SIZE OF STREET LIGHT 
+B SIZE OF STREET LIGHT
 C WHITE
 D N/A
-E ONE
+E NONE
 F NONE
 G NONE
 H NONE
 I NONE
-2 DESCRIPTION OF COURSE
+
+2 DESCRIPTION OF COURSE:
 A SAME PLACE MOVES UP AND DOWN
 B TOWARDS MOUNTAIN
-C JUST BLINKED OUT AT 1:39H
+C JUST BLINKED OUT AT £139M
 D UP AND DOWN
-E JUST BLINKED OUT AT 1:59H 6 NOV 56
+E JUST BLINKED OUT AT £139M 6 NOV 56
 F THIRTY MINUTES
+
 3 MANNER OF OBSERVATION
 A GROUND VISUAL
 B NONE
 C N/A
+
 4 TIME AND DATE OF SIGHTING
-A 22:22 6 NOV 56
+A 8888Z 6 NOV 56
 B NIGHT
 
-PAGE TWO RJWFAM 1D
-5 LOCATION OF OBSERVER'S
+PAGE TWO RJWFAM 10
+5 LOCATION OF OBSERVER S
+
 
 - page 3 -
 
-There does not appear to be any photograph in this image. This appears to be a page from a Project Blue Book document containing text describing an unidentified flying object (UFO) sighting.
+COLO
 
-IDENTIFYING INFORMATION OF ALL OBSERVER
-A. AGE 27
-B. ENGLEWOOD COLO
-WEATHER AND WINDS ALOFT CONDITION AT TIME AND PLACE OF SIGHTING
-A. HIGH SCID
-B. SURFACE 182 DEG 8 KT
-9:22 LAND V DEG
-12:22 312 DEG 22 KT
-16:22 322 DEG 62 KT
-20:22 EWP DEG 62 KT
-35:22 EWP DEG 52 KT
-C. NO CEILING
-D. UNRESTRICTED
-E. 2/12
-F. NONE
-I. NONE
-G. NONE
+6 IDENTIFYING INFORMATION OF ALL OBSERVER S
+A                   AGE: 27
+B ENGLEWOOD COLO
+
+7 WEATHER AND WINDS ALOFT CONDITION AT TIME AND PLACE OF SIGHTING
+A HIGH SCTD
+B SURFACE 180 DEG 8 KT
+6,000 LAND V DEG
+10,000 310 DEG 20 KT
+16,000 320 DEG 60 KT
+25,000 EWP DEG 60 KT
+35,000 EXP DEG 60 KT
+
+C NO CEILING
+D UNRESTRICTED
+E 2/10
+F NONE
+I NONE
+O NONE
+
 12 NO KNOWN TRAFFIC
-11 LOWRY FLIGHT SERVICE CLEARANCE OFFICER CAPT STAPLETON AIRPORT REPORTED WEATHER BALOON WAS RELEASED ABOUT TIME OF SPOTTING WITH LIGHTS ATTACHED
+11 LOWRY FLIGHT SERVICE CLEARANCE OFFICER CAPT STAPLETON AIRPORT
+REPORTED WEATHER BALLOON WAS RELEASED ABOUT TIME OF SPOTTING WITH
+LIGHTS ATTACHED
+
 12 NONE
+
 BT
-26/11:22Z NOV FJ*FAM
+26/1225Z NOV FJGFAW
+
 
 - page 4 -
 

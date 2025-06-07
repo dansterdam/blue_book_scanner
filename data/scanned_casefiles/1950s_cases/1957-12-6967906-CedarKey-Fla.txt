@@ -1,85 +1,148 @@
-The image does not contain any photograph. It appears to be a project record card from Project 10073, which is part of the Project Blue Book archive. The card contains various fields filled out, including the date, location, type of observation, source, length of observation, number of objects, course, and comments. The comments indicate that the characteristics of the object observed are those of a "weather balloon."
-
 PROJECT 10073 RECORD CARD
-1. DATE                        2. LOCATION
-5 December 1957                Cedar Key, Fla.
-3. DATE-TIME GROUP              4. TYPE OF OBSERVATION
-05/17042                        Ground-Visual
-5. PHOTOS                       6. SOURCE
-[] Yes                          Civilian
-7. LENGTH OF OBSERVATION        8. NUMBER OF OBJECTS
-1 min/still present             One
+
+1. DATE
+5 December 1957
+
+2. LOCATION
+Cedar Key, Fla.
+
+3. DATE-TIME GROUP
+Local
+GMT        05/1704Z
+
+4. TYPE OF OBSERVATION
+☒Ground-Visual
+☐Ground-Radar
+☐Air-Visual
+☐Air-Intercept Radar
+
+5. SOURCE
+Civilian
+
+6. LENGTH OF OBSERVATION
+1 min/still present
+
 10. BRIEF SUMMARY OF SIGHTING
 Round, white object, drifting very slowly NE.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☒ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+7. NUMBER OF OBJECTS
+one
+
+8. COURSE
+ENE
+
 11. COMMENTS
 The characteristics in description of object are those of a weather balloon.
 
+ATIC FORM 329 (REV 26 SEP 52)
+
+
 - page 1 -
 
-This image does not appear to contain any photographs. It appears to be a page from a Project Blue Book report or document.
+Here is the text from the document:
 
-SQHC235V SQD145 YDB134 VYC155 VDE254KEA035
-PP RJEDDN RJEDSQ RJEPHO RJEPNB
-DE RJESKE 4D
-P 25155002
-IN CODN CSTH ACWRON MACDILL AFB FLA 
+5/17/47
+5 DEC 57
+Cedar Key Fla
+
+BALLOON
+
+SQH635V SQD145 YDB184 VYC156 VDE254KEA635
+PP RJEDDN RJEDSQ RJEPIQ RJEPNB
+DE RJESKB 4D
+P @G15002
+FM COMDR 668TH ACWRON MACDILL AFB FLA
 TO RJEDDN/COMDR ADC
-RJESKE/COMDR 35TH ADIV
-RJEDSQ/COMDR AIR TECH INT CNTR
+RJESKB/COMDR 35TH ADIV
+RJEDSO/COMDR AIR TECH INT CNTR
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-DAY 
-B - GHCQ 5513 
-S - NONE 
-7. A - CLEAR 
-B. SURFACE 6/50 15 12A VM/32 1GA 12240/25 28A 25K/45 33A 25K/121 
-The description of the object is characterized as a medium silver colored object approximately 30-40 feet in diameter. The object was observed hovering at an altitude between 1500 and 2000 feet for about 30 seconds before it accelerated at a high rate of speed and disappeared from view. 
-PAGE THREE RJESKS AD DRA 1/2/85 
-G - CLEAR  
-D - 23 MILES 
-E - NONE
-F - NONE 
-G - NONE
-S - NONE 
-10. JET OVERHEAD CMM MULTIJET BOMBER HEADING SOUTHEAST 
-1. DUTY DIRECTOR CMM PLANET VENUS 
-12. NONE   
-ST 
-36/133 12 DEC RJESKE
+B. DAY
+5. GHGQ 5513
+6. A.
 
-- page 3 -
+B. NONE
+7. A. CLEAR
+B. SURFACE 328/15 10A 300/30 16A 30/B/25 20A 250/45 30A 280/120
 
-The image does not contain a photograph. It appears to be a page from an old UFO report document.
+The description of the object as characteristic of a weather balloon, to check with balloon specialists show - a balloon was respectfully told released around 1300 local, but it is known they are released as much as our home early. Also, this balloon could be an unscheduled release from Eglin AFB or Tallahassee.
 
-BJERHO/DIR OF INTC HO USAF
-INFO RJEFNBZ/COMDR EADP
-BT
-/UNCLASSIFIED//OPS 2550 PD UFOB PD ATTN: EADF CIO PD
-1. A. WHITE SPHERE ROUND
-B. 5-4 13.7
-C. WHITE
-D. ONE
-E. NOT APPLICABLE
+PAGE THREE RJESKB 4D
+50A 270/85
+C. CLEAR
+D. 22 MILES
+E. NONE
 F. NONE
 G. NONE
 H. NONE
 I. NONE
+10. JET OVERHEAD CMM MULTI-JET BOMBER HEADING SOUTHEAST
+1. DUTY DIRECTOR CMM PLANET VENUS
+
+12. NONE
+BT
+06/1631Z DEC RJESKB
+
+Handwritten notes include:
+- "Balloon"
+- "Clark"
+- "At Noon? Astro clart IMPOSSIBLE!!"
+
+
+- page 3 -
+
+RJEPHQ/DIR OF INT HQ USAF
+INFO RJEPNB/COMDR EADF
+BT
+/UNCLASSIFIED/OPS 868O PD UFOB PD ATTN: EADF CIO PD
+
+1. A. WHITE SPHERE ROUND
+   B. 5-4 35.7
+   C. WHITE
+   D. ONE
+   E. NOT APPLICABLE
+   F. NONE
+   G. NONE
+   H. NONE
+   I. NONE
+
+   Characteristics of a balloon seen at noon
 
 PAGE TWO RJESKB 4D
+
 2. TRAVELING EAST NORTH EAST
-A. ANOTHER AIRCRAFT
-B. 40 DEGREE DUE NORTH
-C. UNKNOWN
-D. DRIFTING VERY SLOW
-E. STILL PRESENT
-F. 1 MINUTE
+   A. ANOTHER AIRCRAFT
+   B. 30 DEGREES DUE NORTH
+   C. UNKNOWN
+   D. DRIFTING VERY SLOW
+   E. STILL PRESENT
+   F. 1 MINUTE
+
+   Observers know where object came from but don't know where it disappeared to!
+
 3. NAKED EYE AND BINOCULARS
-A. BINOCULARS
-C. NOT APPLICABLE
-4. 1224 EST 5 DECEMBER 1957
+   B. BINOCULARS
+   C. NOT APPLICABLE
+
+4. 1204 EST 5 DECEMBER 1957
+
 
 - page 4 -
 

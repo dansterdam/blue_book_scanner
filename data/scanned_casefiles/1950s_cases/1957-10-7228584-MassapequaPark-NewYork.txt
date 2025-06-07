@@ -1,166 +1,303 @@
-The image does not contain any photographs. It appears to be a Project 10073 Record Card, which is a form used to document UFO sightings as part of Project Blue Book, a historic U.S. Air Force program that investigated unidentified flying objects.
-
-The text on the record card is as follows:
-
 PROJECT 10073 RECORD CARD
 
-1. DATE: 5-1 OCT 57 
-2. LOCATION: MASSAPEQUA PARK, NEW YORK
-3. SHAPE OF OBJECT: ROUND
-4. NUMBER OF OBJECTS: 1
-5. SIZE OF OBJECT: 20-30 FEET IN DIAMETER 
-6. DURATION OF OBSERVATION: NOT GIVEN
-7. LENGTH OF OBSERVATION: ONE-TWO MINUTES
-8. NUMBER OF WITNESSES: NOT GIVEN
-9. COURSE: NOT GIVEN 
-10. BRIEF SUMMARY OF SIGHTING: AN EXTREMELY BRIGHT OBJECT WAS SEEN TRAVELING VERTICALLY AT APPROX 10-12,000 FT, CHANGING TO HORIZONTAL AS IT MOVED AWAY, EMITTING A BRIGHT BLUE GLOW, NO SOUND. AIRCRAFT IN AREA APPEARED TO INCREASE SPEED AND CHANGE DIRECTION DURING THE SIGHTING.
-11. CONCLUSIONS: ALTHOUGH OBSERVER TENDS TO INDICATE THAT THIS COULD BE EXPLAINED AS A RUSSIAN SATELLITE OR AIRCRAFT, DESCRIPTION AND GROUND SPEED AND DIRECTION ALL POINT TO THE OBJECT BEING A METEOR.
+1. DATE
+31 October 1957
 
-ATIC FORM 329 (REV 28 SEP 52)
+2. LOCATION
+Massapequa Park, New York
+
+3. DATE-TIME GROUP
+Local 2030
+
+4. TYPE OF OBSERVATION
+✓ Ground-Visual
+Source: Civilian (Pilot & X FD)
+
+5. PHOTOS
+□ Yes
+✓ No
+
+6. LENGTH OF OBSERVATION
+not given /6-7 seconds
+
+10. BRIEF SUMMARY OF SIGHTING
+An extremely bright object was seen traveling very fast, (120 dgr in about 6-7 seconds). No reports of an UFO from radar, aircraft, air operations or others from that area.
+
+11. COMMENTS
+Although observer tends to discount the possibility of a meteor, the characteristics, speed and description all point to the object being a meteor.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Was Aircraft
+□ Probably Aircraft
+✓ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+North
+
+ATC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a page from a UFO report document, specifically from Project Blue Book.
+1-4 NOVEMBER 1957 SIGHTINGS
 
-The text in the document can be extracted as follows:
+DATE    LOCATION                           OBSERVER       EVALUATION
 
-PACE
-DATE LOCATION EVALUATION
-3 Braz11 (CASE MISSING) Civilian
-22 May 1957 Kerns, California Civilian
-22 May 1957 New Orleans, Louisiana Civilian
-25 May 1957 Arlington, Virginia Civilian
-29 May 1957 Detroit, Michigan Civilian
-30 May 1957 Atlanta, Georgia Civilian
-31 May 1957 Owensee, Illinois Civilian
-1 June 1957 Bronxville, Texas Civilian
-1 June 1957 Massapequa Park, New York Civilian
-1 June 1957 Fort Worth, Texas Civilian
-2 June 1957 Atlanta, Georgia (PHOTO ??? ) Military
-2 June 1957 White Sands, New Mexico Civilian
-3 June 1957 Salt Lake City, Utah Civilian
-3 June 1957 Nashua, New Hampshire Civilian
-3 June 1957 Asbury Park, New Jersey Civilian
-3 June 1957 Greenville, Louisiana Civilian
-4 June 1957 Mount Dora, Florida Civilian
-4 June 1957 Curlew, Washington (near Spokane) , New Mexico Civilian
-4 June 1957 Astoria, Missouri Civilian
-4 June 1957 Mitchell Field, Long Island, New York Civilian
-4 June 1957 Dothan, Alabama Civilian
-5 June 1957 Birmingham, Alabama Civilian
-5 June 1957 Brownsville, AFB, New Mexico (CASE MISSING) Military
-6 June 1957 Riverside, California Civilian
-6 June 1957 El Paso, Texas Military
-6 June 1957 Frayling, California Military
-7 June 1957 Hollandale, Louisiana Civilian
-7 June 1957 Killian, Louisiana (PHOTO TAKEN ???) Military
-DATE LOCATION SOURCE EVALUATION
-1 June 1957 White Mountain, North Carolina Science News Ltr INSUFFICIENT DATA
-1 June 1957 Ypsilanti, Michigan Newscl1 pping INSUFFICIENT DATA
-1 June 1957 Paradise, California Newscl ipping INSUFFICIENT DATA
-2 June 1957 Forthill, Alaska Newscl1 pping INSUFFICIENT DATA
-2 June 1957 Bronwood Park, Illinois Newscl1 pping INSUFFICIENT DATA
+Nov     - Brazil (CASE MISSING)            Civilian       Insufficient Data
+Nov     - Garda, Poland                    Civilian       Astro (METEOR)
+Nov     - Hewet, California                Civilian       Insufficient Data
 
-(k) Jn separate folder
+1       - New Orleans, Louisiana            Civilian       Aircraft
+1       - Huntington, West Virginia         Other (UNRELIABLE OBSERVED)
+1       - Detroit, Michigan                 Astro (VENUS)
+1       - Atlanta, Georgia                  Insufficient Data
+1       - Swansea, Illinois                 Astro (METEOR)
+
+2       - Canadian, Texas                   Other (UNRELIABLE REPORT)
+2       - Brooktondale, New York            Other (SEARCHLIGHT)
+2       - Ft Worth, Texas                   Insufficient Data
+2       - Atlantic Ocean                    Astro (METEOR)
+
+2-3     - Levelland, Texas (Fabled *)       Military       Astro (BALL LIGHTNING)
+3       - Whits Sands, New Mexico           Multi          Astro (MOON/VENUS)
+3       - Belmar, New Jersey                Insufficient Data
+3       - Long Beach, New York              Astro (VENUS)
+3       - Asbury Park, New Jersey           Balloon
+3       - Greenville, Alabama               Insufficient Data
+3       - Tucson, Arizona                   Astro (METEOR)
+
+4       - Mount Dora, Florida               Other (KITE)
+4       - Dundein, Florida                  Other (CONTRAILS)
+4       - Oro Grande (Alamogordo), New Mexico Other (MIRAGE/PSYCH)
+4       - Astoria, Missouri                 Insufficient Data
+4       - Mitchell Field, Long Island, New York Balloon
+4       - Marietta, Georgia                 Insufficient Data
+4       - Birmingham, Alabama               Insufficient Data
+4       - Kirkland AFB, New Mexico (CASE MISSING) Military Astro (METEOR)
+4       - Milwaukee, Oregon                 Astro (VENUS)
+4       - El Paso, Texas                    Other (UNRELIABLE REPORT)
+4       - Cayucos, California               Astro (VENUS)
+4       - Nolcant, Louisiana                Astro (METEOR)
+4       - Atlantic (Jamaica), Miami         Astro (METEOR)
+4       - Kirkland AFB, New Mexico (CASE MISSING) Astro (METEOR)
+                                            Aircraft
+
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+
+DATE    LOCATION                           SOURCE          EVALUATION
+
+Nov     - Universe                          Science News Ltr
+2       - Brown Mountain, North Carolina    Newsclipping
+3       - Amarillo, Texas                   Newsclipping
+4       - Klaipn Port, Brazil MISSING       Newsclipping
+         Kodiak, Alaska                     Newsclipping
+         Elmwood Park, Illinois             Newsclipping
+
+(R) In separate folder
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a page from a document or report related to Project Blue Book, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs).
+Here is the text from the document:
 
-Transcription of the text in the document:
+[CLASSIFICATION]
+
+COUNTRY OF ACTIVITY REPORTING: National AF Base, New York
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-COUNTRY OR AREA REPORT CONCERNED: Massapequa Park, New York
+COUNTRY OR AREA REPORT CONCERNS: Massapequa Park, New York
 
-DATE OF REPORT: 31 October 57
-DATE OF INCIDENT: 27 August 57
-TIME OF INCIDENT: 2500H (7:00 PM EDT)
-SUBJECT (DESCRIPTIVE TITLE): War Individual Report for Analysis Purposes
+ACTIVITY SUBMITTING REPORT: 2500th Air Base Wing
+National Air Force Base, New York
 
-SUMMARY: At approximately 2500H on 27 August 57, a resident of Massapequa Park, New York, observed a bright, self-luminous object in the night sky. The object was observed for approximately 3 minutes. The witness is a citizen whose reliability is unknown.
+PREPARING INDIVIDUAL: Director of Operations, 2500th Air Base Wing, National AF Base, N.Y.
 
-Attached letter from Mr. R. B. Mason, 77 Harmony Drive, Massapequa Park, New York, dated 5 December 1957, is forwarded for any investigation or action deemed necessary.
+NAME OR DESCRIPTION OF SOURCE: R. B. Mason
+
+REFERENCES (BAIR Subject, previous reports, etc. - as applicable): [blank]
+
+SUBJECT: [blank]
+
+SUMMARY: Attached letter from R. B. Mason, 77 Harmony Drive, Massapequa Park, New York dated 5 December 1957, is forwarded for any investigation or action you deem necessary.
 
 FOR THE COMMANDER:
-MARTHA J. O'TOOLE
+
+[Signature]
+MARTIN G. O'TOOLE
 Captain, USAF
 Adjutant
 
+[Bottom of document includes warning about transmission of document and distribution information]
+
+
 - page 3 -
 
-The image does not contain any photographs. It appears to be a scanned page from a UFO report document, specifically from Project Blue Book.
+Here is the OCR text from the document:
+
+Massapequa Park, New York
+December 5, 1957
 
 Director of Base Operations
 United States Air Force
-Mi+chel APD, New York
+Mitchell AFB
 Garden City, New York
 
 Sirs:
 
-This is for the UFO section of the "To whom it may concern" department; our Sensible Flight Sargent reports that he has had a strange occurrence within his section of the circular flight tests going on.
+This is for the UFO section of the "To whom it may concern" department; my feelings won't be hurt if in this up in the circular file, but after some weeks I've decided I should at least drop a note.
 
-Matter of fact, the winds were and still are what could be called "hallucinations", and objects including those that can be explained as regular targets. F-51's, F-84's and F-86's, appear to be zigzagging rapidly in their flight paths. This sort of thing has happened before, but the odd maneuvers observed this time appear to have no reasonable explanation - as if to the leit with someone else's control. 
+Matter of fact, the amide references in the press to hallucinations, and the repeated assurances that UFO can contain all or partial reports of unidentified objects, including those reported by professional and military and other citizens, for what it may be worth, I'd be glad to do with someone else's observation that it might just happen to be a good one.
 
-At this time I do not think I'm completely on flying status in the Reserve, but I would very much appreciate your personal, confidential comments, as you have already indicated you are normally one (still on flying status in the Reserve). You see, I don't want the report to appear to be a "phony", based on any impressions that I still get the flying pay. Also, I think from my experience, one or two other officers including the ones involved in the flights are convinced of the sincerity of the officer who made the report. Please let me know what you think.
+As a Naval Aviator (still on flying status in the Reserves), I don't think I'm completely ignorant of phenomena, pheneomena, and can at least claim general powers of observation and reasoning are at least normal.
 
-So may I normally confident, there was no hallucination involved, as the objects appeared to zigzag, shift positions, and accelerate at a rate of speed that was astounding to normal jet pilots. As they would go north, through an arc to the east, then south and through an arc to the west, they would reach a velocity that appeared to be faster than the fastest jet, and then again slow down to a crawl - so as to linear velocity. But the angular velocity seemed incredible. I think if these were the brightest planets, the maneuvers would still have been astounding, and I have a feeling these were not the brightest planets.
+So I'm morally confident here was no natural explanation within the frame of reference of 250 to no account for what I saw clearly at 6:30 p.m., local time (I forget the exact date, but it was on or about 25 Oct 1957). In moving north through an arc about 60 degrees above the eastern horizon from my vantage point at the above Long Island address. I'm speaking most advisedly. (Not noting its distance, I of course wouldn't hazard a guess to linear velocity) but its angular velocity took it through some 120 degrees of azimuth in perhaps six or seven seconds (say, ten times that of Sirius or one of the brighter planets).
 
-A weather would of course be the nearest natural phenomena, but I tend to discard that as a possibility, since these appeared to be silent, motionless, and having a trajectory entirely different from our modern jets.
+A meteor would of course be the nearest natural phenomena, but I tend to discount that possibility as several grounds, mainly because the trajectory, which appeared to parallel the horizon throughout its
 
 On the million-to-one chance this has any relevance to your work, I remain,
 
 Very truly yours,
 
+[Signature and additional handwritten notes are present but partially obscured]
+
+
 - page 4 -
 
-The image provided appears to be a page from an old UFO report document from Project Blue Book. It contains a map and text discussing "See Fall Constellations".
+Here is the OCR text from the document:
 
-The text is as follows:
+Science News Letter for September 28, 1957
 
 See Fall Constellations
-Some of the constellations which were visible in the southern sky during October, which also brings an unusual stellar eclipse visible from Antarctica.
+Some characteristic fall constellations are visible in the southern sky during October, which also brings an unusual solar eclipse visible only from Antarctica.
+
 By JAMES STOKLEY
 
-The image also contains a map showing the constellations of the zodiac, with labels for the different constellations.
+ALTHOUGH the autumn skies do not have some of the most interesting and characteristic constellations which are visible in the summer, there appear on the accompanying map, which depicts the sky's appearance at 10 o'clock, west of south, some interesting and charted constellations.
+
+In the middle of the month and eight o'clock at the time of observation, high in the southern sky are the four main stars of the constellation Pegasus, the great square of Pegasus. Alpheratz, the one in the upper left-hand corner, is in the neighboring group of Andromeda, the small lady constellation which is in the horse's neck, as the name was drawn on the old star maps.
+
+The star extending from the upper right-hand corner are his fore feet, or the animal is shown rapidly dashing to the southwest and will come to a right side of the square, was well known to the ancient Greeks as the constellation Pisces Australis, and is part of Pisces Austrinus.
+
+Though it is the first magnitude, according to the swarm nearby the corner reckons star brightness. Because it is so low, its light has to pass through a greater thickness of the earth's atmosphere, and if it were higher in the sky, the stars would appear brighter and they are only shown as they might brighten when they are fairly high.
+
+Constellations of the Zodiac
+Just below the square we find Pisces, the fishes, which is one of a row of constellations called the zodiac, which stretches across the sky, down to the southwestern horizon. The others are Aries, the ram; Aquarius, the water carrier; Capricornus, the goat; and Sagittarius, the archer.
+
+There are constellations the zodiac touches in the evening sky. Ursa Minor, the little bear, is low in the west, and Ursa Major, the big dipper, is earlier in the evening than in the times for which the maps are drawn, in Scorpius, the scorpion, also a contact constellation.
+
+The zodiac is the path through which the moon and planets seem to move, and Venus is in Scorpius. It was at its beginning of October, just as it will three-quarters after the sun, but by the end of the month it remains above the horizon for nearly two and a quarter hours after sunset.
+
+Another planet, Saturn, is in the same part of the sky. Although of the first magnitude, it is not as bright as Venus. At the beginning of October, Venus will be at the beginning of Scorpius, and Mars and Jupiter are now in the same region.
+
+Returning to the stars, we find that some of the brightest of these now visible appear to the right of Pegasus. High in the west is Capella, the well-known star in magnitude bright. Next below this star is Lyra, in Lyra, the star called Altair.
+
+[Two star charts are included in the image, showing the night sky for October 1957 with various constellations marked]
+
+Symbols for Stars in Order of Brightness:
+• • • (three different sized dots representing star brightness)
+
 
 - page 5 -
 
-The image does not contain any photographs, only text. As requested, I will act as an OCR (Optical Character Recognition) system and produce the text found in the document:
+Here is the OCR text from the document:
 
-The object was seen in Massapequa Park, Long Island, on 7 October 1957. The witness was a woman who observed the object for approximately 45 minutes. The object was circular in shape, silver in color, and hovered at an altitude of about 150 feet. At times it seemed to oscillate or wobble. The object had no visible means of propulsion, yet it moved silently across the sky. The object vanished suddenly, as if switching off a light.
+The tumult, however, will not grave
+the earth's atmosphere, hardly making a
+sling the Antarctic coast, near Halley
+Bay, where a British expedition is located.
+Scientists there will be able to take ad-
+vantage of this opportunity for some unique
+observations. If the eclipse should be total,
+it is not, the eclipse should still be viewed.
 
-Classified Siting Data for October:
+The important phase of the total eclipse
+concerned with the ionosphere, the layer
+of the atmosphere that reflects radio waves
+back to the ground, and is affected by the
+sun's radiation. When the moon cuts this
+layer, radio communication is disrupted.
 
-1. 10-7-57 Massapequa Park, Long Island 2:00 am (Woman)
-2. 10-5-57 Redding, Conn. 10:20 pm (Woman)
-3. 10-17-57 Hartford, Conn. 10:30 pm (Man)
-4. 10-17-57 Holyoke, Mass. 7:45 pm (Woman)
-5. 10-21-57 Woburn, Mass. 8:00 pm (Woman)
-6. 10-22-57 Greenfield, Mass. 7:00 pm (Man)
-7. 10-25-57 Westfield, Mass. 9:00 pm (Man)
-8. 10-27-57 Palmer, Mass. 8:30 pm (Man)
-9. 10-28-57 Agawam, Mass. 8:00 pm (Man)
+Without traveling to Antarctica, anyone
+who can see the coming eclipse in October
+will be able to see another eclipse—not once
+but several times. This will be of the same
+general character as the total eclipse of Per-
+sian, the champion, which is seen in the north,
+east, and west of Europe.
+
+Algol, also known as beta Persei, is the
+second brightest star in this constellation;
+the brightest is Mirfak, a little to the left.
+Ordinarily, Algol is of unequivocal 2.06
+brightness, varying from about 3.5 to about
+1.3 or 1.4 in a short 2.87, brighter.
+Below it (to the left) the star Persei
+(magnitude 2.38, and Algol is about twice
+as bright).
+
+However, if you look at these stars at
+about 9:07 p.m. on the evening of Oct. 18,
+you will find that their order of brightness
+has changed, and Persei is about 50%
+brighter than Algol. Normally the third
+and as bright as it is normally. On the
+evening of Oct. 19 and 20, Algol will
+shine with its normal brightness, but on
+the 21st, 22d there is a previous diminu-
+tion in brightness, and it will again have faded.
+
+Actually, Algol is not a single orb, but
+consists of two stars revolving around the
+center of gravity of the pair. There are
+many primary stars one of which (the main
+star) is bright, while its companion is much
+fainter with an eclipsing binary the plane
+of revolution is nearly in line with the earth,
+so that when one star passes in front of the
+other.
+
+Thus, every 2 days 21 hours 49 minutes,
+the dark component of Algol passes par-
+tially in front of the bright one and pro-
+duces a temporary eclipse. As this eclipse
+takes place about the center of the complete
+passage of the star.
+
+Celestial Time Table for October
+
+(No text legible in the table section)
+
+Note at bottom: Submitted over CST, two hours for MST and three for PST
+Science Service Letter, September 28, 1957
+
 
 - page 6 -
 
-The image does not contain a photograph. It appears to be a page from a Project Blue Book report or document, with text describing what seems to be a UFO sighting over London, England on October 28th. The text mentions a "UFO with lights seen over one of Britain's Atomic-Bomber bases" and provides some details about the incident, though it does not identify any individuals.
+Oct.28-London--UFO with Lights seen over one of Britain's Atomic-Bomber Bases by a Night-Fighter-Pilot & also picked-up by Radar Crews on the ground. (Being Investigated by Intelligence Agents of the Royal-Air-Force.) Object turned-off its' lights & sped away when it was discovered, according to the United-Press....
 
-Oct.28--London--UFO with lights seen over one of Britain's Atomic-Bomber bases by a USAF-Fighter-Pilot & picked up by Radar. Object turned-off its lights & was discovered according to the report "accelerating at an unbelievable speed away from the fighter in a matter of seconds."
 
 - page 7 -
 
-The image does not contain any photograph. It appears to be a typed letter on official-looking stationery.
-
-SAPIS-3/ma3 Tucker/jmd/7h966
+SAFIS-3/Maj Tacker/jmA/T4966
 
 8 January 1958
 
-Dear Mr. ____,
+Dear Mr. [redacted]
 
 Your letter of 17 December 1957, addressed to Air Technical Intelligence Center, has been referred to this office for reply.
 
-The Air Force has no objection to giving attention to the circumstances surrounding the unidentified flying objects sighting mentioned in your letter.
+The Air Force has no objection to your publishing the circumstances surrounding the unidentified flying object sighting mentioned in your letter.
 
 Sincerely,
 
@@ -170,55 +307,64 @@ Executive Officer
 Public Information Division
 Office of Information Services
 
-Mr. ____
-shippart Point
+Mr. [redacted]
+Shipman Point
 Stamford, Connecticut
 
-COMEBACK-SAPIS-3
-READER-SAPIS-1
-STAYBACK-SAPIS-3
+COMEBACK-SAFIS-3
+READER-SAFIS-1
+STAYBACK-SAFIS-3
+
 
 - page 8 -
 
-The image does not contain any photographs. It appears to be a memo routing slip from Project Blue Book, a United States Air Force program that investigated unidentified flying objects (UFOs) from 1952 to 1970.
-
-The text found in the document is as follows:
-
 MEMO ROUTING SLIP
-T.J. TUCKER
-3/21/5 - 520F
 
-REMARKS Ma.J. T.: Our stock answer to these letters has been that the Air Force can impose no restriction on the publication of anything he saw or did. 
+Name or Title: Maj. L. J. PARKER
+Organization and Location: SAFIS-OSAF
 
+Remarks: Maj. T- Our stock answer to these letters has been that the Air Force can impose no restriction on the publication of anything he saw or did.
 TJH
 
-FROM Carl Stewart TELEPHONE 66
-MAIL ROOM 
-OD1963-05 MAIL ROOM DISPATCH FORM
+From (Name or Title): Ted Minott
+Organization and Location: AFOIN-4X3
+Date: 23 Dec 57
+Telephone: 52-266
+
+Form DD 95 (1 FEB 50)
+
 
 - page 9 -
 
-The image does not contain any photographs. It appears to be a page from a UFO report document from Project Blue Book.
+Here is the text from the document:
 
-Transcription:
+Suive
+4/13
 
-Shipparr Point,
-Stonford, Conn.
+Shippan Point,
+Stamford, Conn.
 December 17, 1957.
 
-United States Air Force Intelligence Center, 
-Wright Patterson Air Force Base.
-Attention: Colonel W. Elwood, 
+Air Technical Intelligence Center,
+United States Air Force,
+Wright Patterson Air Force Base,
+Ohio
+Attention: Wallace W. Elwood,
+Captain, USAF
 Assistant Adjutant.
 
 Dear Sir:
 
-Enclosed please find a clipping from one of the New York papers. The difference being that this object was just passing by us for routes unknown. The object appeared to be hovering for a considerable length of time, and I am wondering if you would be interested in having details about it - or perhaps even using them for fuel. As far as I am concerned, I am not waiting to you about the flying objects seen over the New Jersey coast (CAN DID) , and I would just like to write about space government and classification between the people and the government. The little of them I have left, is very strange.
+Enclosed please find a clipping from one of the New York papers. This object is similar to the one I saw, the difference being that this object was just passing by us for routes unknown. The object that I saw was actually doing some reconnaissance work, moreover it was probably extracted some materials out of the sound and analysis-ing them, or perhaps even using them for fuel. As far as I am concerned nothing is impossible.
 
-So that I would like to have permission to have my sighting released, along with the look also deals with unexplainable objects.
+I am not writing to you about the flying objects seen over the New Jersey skies. I am writing to you about my own sighting, file reference JGA0-CC (29 Oct. 57). I have just recently gone in the writing field. I write about space, government and religion. My first book will be out, I hope, in the summer of 1958. The title of the book is "MAN FINDS GOD THROUGH SPACE".
+
+I would like to have permission to have my sighting released, so that I could publish it along with the book as the book also deals with unexplainable objects.
 
 Very truly yours,
+
 [Signature redacted]
+
 
 - page 10 -
 

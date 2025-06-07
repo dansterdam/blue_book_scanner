@@ -1,109 +1,168 @@
-The image does not contain any photograph. It appears to be a Project 10073 record card from the Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
-
 PROJECT 10073 RECORD CARD
-1. DATE: June 13, 1957
-2. DATE-TIME GROUP: Local
-3. TYPE OF OBSERVATION: Ground-Radar
-4. PHOTOS: None
-5. LOCATION: Glen Burnie, Md.
-6. DURATION OF OBSERVATION: 2 to 3 minutes
-7. LENGTH OF OBSERVATION: 2 to 3 minutes
-8. NUMBER OF OBJECTS: 1
-9. COURSE: Not applicable
-10. BRIEF SUMMARY OF SIGHTING: Object did not sound.
-11. COMMENTS: Object identified, therefore not UFO.
+
+1. DATE
+21 July 1957
+
+2. LOCATION
+Glen Burnie, Md.
+
+3. DATE-TIME GROUP
+Local
+GMT 25 023
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual   ☐ Ground-Radar
+☑ Air-Visual      ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☑ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+4-several minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+SW
+
+10. BRIEF SUMMARY OF SIGHTING
+Bright white object no sound, shape of A/C.
+
+11. COMMENTS
+Obj not identified a/c therefore not UFO.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Other:
+☑ Insufficient Data for Evaluation
+☐ Unknown
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a scanned document from Project Blue Book, which was a US Air Force project that investigated unidentified flying objects (UFOs) in the 1950s.
-
 Here is the text from the document:
+
+AF FORM 112
+APPROVED 1 JUNE 1948
+
+COUNTRY: United States of America     REPORT NO. 3-57     (LEAVE BLANK)
 
 AIR INTELLIGENCE INFORMATION REPORT
 
 SUBJECT: Unidentified Flying Object Report
-DATE OF REPORT: 13 August 1957
-LOCATION: Glen Burnie, Maryland
-DATE/TIME GROUP: 11 July 1957/2035Z
 
-SUMMARY: This is an analysis of a report on an unidentified flying object. General conclusions are that the object was described as a bright light which hovered motionless and then accelerated and disappeared. The Report of Unidentified Flying Objects, dated 12 August 1957.
+AREA REPORTED ON: Washington, D.C.     FROM (Agency): Headquarters of Tactical Air Command, SAC, Baltimore, MD
 
-JAMES E. O'BRIEN
+DATE OF REPORT: 21 August 1957     DATE OF INFORMATION: 12 August 1957     EVALUATION: Not evaluated
+
+SUMMARY: (Enter concise summary of report. Give significance in first one or two paragraphs. List incidents in lower left. Refer list of reports on AF Form 112-Part II.)
+
+The following information is reported in accordance with AFR 200-2, Unidentified Flying Object Report, dated 12 August 1954.
+
+[Signature]
+JAMES E. OEURTZ
 Major, USAF
-Chief, Aerial Phenomena and Intelligence
+Asst For Plans and Intelligence
+
+DISTRIBUTION OF ORGANIZATION:
+Comdr, ADC, Sgt APS, Colorado
+
+[Note: The bottom of the document contains a standard disclaimer about the document containing information affecting national defense.]
+
 
 - page 2 -
 
-There is no photograph present in the image provided. This appears to be a page from a UFO report document from Project Blue Book.
-
-The text produced by an OCR (Optical Character Recognition) system is as follows:
-
 SUPPLEMENT TO AF FORM 112
-PAGE 2 OF 3 PAGES
+Headquarters, USAF, Directorate of Plans and Programs, USAF
 
-1. Identification of the project:
+1. Description of the object:
 a. Aircraft
-b. Unidentified-white
-c. Vf4
-d. Negative
-e. No sound
+b. Unknown
+c. Weight pick-white
+d. Gray
+e. N/A
 f. Negative
+g. No sound
+h. Negative
 
 2. Description of course of object:
-a. Declined while standing in one yard.
+a. Noticed while standing in the yard.
 b. Negative
 c. Negative
-d. Negative
-e. Went out of sight
-f. Negative
+d. Straight-Southwest
+e. None or slight
+f. Several minutes
 
 3. Manner of observations:
 a. Ground-visual
-b. Sight
+b. None
 c. N/A
 
-4. Time and date of sightings:
-a. 22:55, 25 July 57
+4. Time and date of sighting:
+a. 0030L, 25 July 57
+b. Dusk
 
-5. Location of observers:
+5. Location of observer:
 a. 502 Kent Road, Glen Burnie, Maryland
 
-6. Identifying information of observer:
-a. Name withheld, a civilian, Glen Burnie, Md.
+6. Identifying information of observer: [Redacted]
 
-7. Weather and wind-aloft conditions at time of sighting:
-a. Clear good.
-b. Wind direction and velocity:
-13000 335/08
-10000 330/08
-9000 315/08
-7000 310/08
-6000 305/08
-5000 300/08
-4000 295/08
-3000 290/08
-2000 285/08
-1000 280/08
-Surface, Calm
+7. Weather and wind--aloft, conditions at time and place of sighting:
+a. Clearwood.
+b. Wind direction and velocity
+   Surface NNW/12
+   6000   310/08
+   10000  320/06
+   16000  320/15
+   20000  270/25
+   30000  360/31
+   50000  300/37
+   80000  090/24
 
-8. Remarks.
+c. Ceil'    Unlimited
+d. Vis     15 Miles
+e. Clo     1/10 Cn
+f. Temp    Warm None
+
+8. None
+
+[Note: Some details are partially obscured or redacted]
+
 
 - page 3 -
 
-The image does not contain any photographs, only text. As an OCR system, I will output the textual content of the document:
+Here is the text from the document:
 
 SUPPLEMENT TO AF FORM 112
-(SECURITY INFORMATION when filled in)
 
-2. SPECIAL SIGHTING DATA:
+ORIGINATING AGENCY: USAF, Flight and Pro
+Headquarters Command, USAF
 
-13. Negative.
+9. None
 
-14. Position, time and comments of the reporting officer:
+10. Negative
 
-Capt. who conducted the investigation indicates that a high flying aircraft was in the vicinity at the time of the sighting and was intelligible.
+11. Position title and comments of the reporting officer:
+    a. Asst for Plans and Intelligence
+    b. The description indicates that a high flying aircraft was in the
+       high-angle rays of the setting sun.
 
-13a. Negative.
+12. Negative.
+
+At the bottom of the document, there is a warning text about the document containing information affecting the national defense of the United States, but it is partially cut off.
+
+The document is marked as Page 3 of 3 Pages, with a Report No. of 3-57.
+
 
 - page 4 -
 

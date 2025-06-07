@@ -1,154 +1,134 @@
-There are no photographs present on this page of the document.
-
-Here is the text from the document:
-
-```
 PROJECT 10073 RECORD CARD
 
 1. DATE
 20 Sep 55
 
 3. DATE-TIME GROUP
-   Local         GMT
-   20/1730-1735Z
+Local
+20/1730-1735Z
 
-5. PHOTOS □ Yes
-             □ No
+5. PHOTOS
+Yes □
+No ■
+
+10. BRIEF SUMMARY OF SIGHTING
+Woblong, glowing red obj. Shaped like bananas.
+Flew out of sight to S in 5 min.
 
 2. LOCATION
 Martinsburg, Ohio
 
 4. TYPE OF OBSERVATION
-   □ Ground-Visual   □ Ground-Radar
-   □ Air-Visual      □ Air-Intercept Radar
+■ Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
 
 6. SOURCE
-   civilian (GOC)
+civilian (GOC)
 
 7. LENGTH OF OBSERVATION
-   5 min
+5 min
 
 8. NUMBER OF OBJECTS
-   1
+1
 
 9. COURSE
-   S
-
-10. BRIEF SUMMARY OF SIGHTING
-globbing, glowing red obj. Shaped like bananas. 
-Flew out of sight to S in 5 min.
+S
 
 12. CONCLUSIONS
-   □ Was Balloon
-   □ Probably Balloon
-   □ Possibly Balloon
-   □ Was Aircraft
-   □ Probably Aircraft
-   □ Possibly Aircraft
-   □ Was Astronomical
-   □ Probably Astronomical
-   □ Possibly Astronomical
-   □ Other
-   □ Insufficient Data for Evaluation
-   □ Unknown
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+■ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other:
+□ Insufficient Data for Evaluation
+□ Unknown
 
 11. COMMENTS
-   Possible a/c.
+Possible a/c.
 
-ATIC FORM 329 (REV 26 SEP 53)
-```
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There are no photographs present on this page.
+Here is the text from the document:
 
-Here is the extracted text:
+Witness
 
-```
-13
-
-WPGG5' YA-935HRA3R12
-RJEDNR KGI
-RR RJEDBW RJEDEN RJEDWP RJEPHO
-DE RJEDNR K1
-R 211243Z
-
-FM COMDR 664 T H ACWRQN BELLEFONTAINE AFS CHIO
-TO COMDR 3D ADIV WILLOM RUN AFB BELLEVILLE MICHIGAN
-INFO RJEDEN/RJEDWP/COMDR ADC ENT AFB COLORADO SPRINGS COLORADO
-RJEDWP/ COMDR AIR TECHICAL INTELIGENCE CENTER WRIGHT PATTERSON OHIO
-RJEPHO/DIRECTOR OF INTELLIGENCE HQ USAF WASHINGTON 25 D C
-
+WPGC65 YWASGMRA612
+RJEDHR K61
+RR RJSDBW RJEDEN, RJEDWP RJEPHO
+DE RJEDHK K1
+R 2112492
+FM CCMDR 634 TK ACWRCH BELLFONTAINE AFS OHIO
+TC CCMDR 3x ADIV WILLCOX AFB BELLEVILLE MICHIGAN
+INFO RJSDBW/CCMDR ADC SHQ AFS COLORADO SPRINGS COLORADO
+RJSDWP/ CCMDR AIR TECH INTELLIGENCE CENTER WRIGHT PATTERSON OHIO
+RJEPHO/DIRECTOR OF INTELLIGENCE HQ USAF WASHINGTON 25 D.C.
 ET
-/UNC L A S S I F I E D/FCODO 385S PD IN COMPLIANCE WITH AFR 2#42
-```
+UNCLASSIFIED FODO 2855 PD IN COMPLIANCE WITH AFR 2842
+
+Handwritten notes at top right include:
+21 Sept 55
+270 IN. 464
+3/4 " x 20
+4 " x 20
+
 
 - page 2 -
 
-The document contains no photographs.
+FCL INFO IS SUBMITTED.
 
-Here is the OCR text output from the document:
+1. A. BELONG
+   B. BANANAS
+   C. RED-GLOWING
+   D. 1
+   E. N/A
+   F. NEG
+   G. NEG
+   H. NEG
+   I. NEG
 
-```
-FOLLOWING INFO IS SUBMITTED.
-  
-1. A. CIS LONG
-   E BANANAS
-   C RED-GLOWING
-   D 1
-   E N/A
-   F NEG
-   G NEG
-   H NEG
-   I NEG
+4. A. 1735Z 1735Z 26 SEP 55
+5. WL 4155
+6. MRS. [REDACTED] OHIO
+   PHONE: [REDACTED] AGE 27.
 
-4. A 17347Z 1735Z 23 SEP 55 (V)
-   E DAY
-  
-5. ML 4155
-  
-6. MRS. [REDACTED]
-   PHONE [REDACTED]  OHIO
-         AGE 27. 
+7. A. FEW SCATTERED-NO CLOUDS AROUND
+   OBJECT. SMALL AMOUNT OF HAZE
+   B. 6W30-360-2KP13
+   16230-360-2GK P4
 
-7. A. FEW SCATTERED - NO CLOUDS AROUND OBJECT, SMALL AMOUNT OF HAZE
-   E. 62000-380-2KP13
-            10300-380-2KP P4
+PAGE TWO RJED# K:1
 
--PAGE TWO RJEDH K;1
+2. A. G,C,C. WOMAN ON DUTY
+   B. VERY HIGH
+   C. EAST 3 MILES GOING SOUTH
+   D. NEG
+   E. OUT OF SIGHT
+   F. 5 MINUTES
 
-2. A G.C.C. WOMAN ON DUTY  16305-2EJ-28K
-   E VERY HIGH             20300-28J-36K
-   C EAST 3 MILES GOING SOUTH  52400-2724-42K
-   D NEG                  C. 250 BROKEN 5000 OVERCAST
-   E OUT OF SIGHT         D. 6 MILES
-   F 5 MINUTES            E. OVERCAST
-3. A GROUND-VISUAL        F. NEG
-   B NEG
-   C N/A
-4. NEG
-5. NEG
-6. NEG
+3. A. GROUND-VISUAL
+   B. NEG
+   C. N/A
+   D. NEG
+   E. NEG
 
-10. AIRCRAFT IN AREA
+4. AIRCRAFT IN AREA
 
-11. OBJECT BELIEVED TO BE BALLCON CONTAINING HELIUM
-
+11. OBJECT BELIEVED TO BE BALLOON CONTAINING HELIUM
 12. NEG
-ET
-```
+
 
 - page 3 -
 
-There are no photographs present on this page.
+21/1312 SEP RJEDHK
 
----
-
-Here is the text from the document:
-
-```
-2171312 SEP RJEDHMR
-```
 
 - page 4 -
 

@@ -1,328 +1,469 @@
-The image does not contain a photograph. It appears to be a Project 10073 Record Card, which is a form used to document UFO sightings as part of Project Blue Book, a US Air Force program that investigated unidentified flying objects. The form includes fields for date, time, location, type of observation, number of objects, course, and a brief summary of the sighting.
-
-OCR TEXT OUTPUT:
 PROJECT 10073 RECORD CARD
-1. DATE  
+
+1. DATE
+31 July 1957
+
 2. LOCATION
-12. CONCLUSIONS
+Antigo, Wisconsin
+
 3. DATE-TIME GROUP
+01/00:25 Amt
 
 4. TYPE OF OBSERVATION
-D Air/Visual
+☐ Ground-Visual         ☐ Ground-Radar
+☐ Air-Visual            ☐ Air-Intercept Radar
 
-D Air-Intercept Radar
-Was Blloon
-Probably Balloon
-Was Aircraft 
-Probably Aircraft
-Insufficient Data for Evaluation
-Unknown
+5. PHOTOS
+☐ Yes
+☐ No
 
-5. DURATION
+6. LENGTH OF OBSERVATION
+25 sec.
 
-6. NUMBER OF OBJECTS
+7. SOURCE
+Civilian
 
-7. LENGTH OF OBSERVATION  
+8. NUMBER OF OBJECTS
+one
 
-8. BRIEF SUMMARY OF SIGHTING
-One object, white - reflecting sunlight - insufficient data.
+9. COURSE
+South
+
+10. BRIEF SUMMARY OF SIGHTING
+One object white - reflecting sunlight.
+
+11. COMMENTS
+Insufficient data.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☒ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 16 SEP 52)
+
 
 - page 1 -
 
-The image provided does not contain a photograph. It appears to be a typed list of locations, including cities and states, such as Miami, Florida; Hambula, New York; Toledo, Ohio; Aberdeen, Maryland; and others.
-
-Const MRKO3
+Comet MRKOS
 August 1957
 
-4 Miami, Florida
-5 Hambula, New York
-6 Toledo, Ohio 
-7 Aberdeen, Proving Ground, Maryland (No Rpt in File)
-8 Drexel Hill, Pennsylvania
-9 Batesville, New York
-10 Covallis, Montana
-11 Kimmich, Michigan
-12 Albin, Wyoming
-13 Midwest City, Oklahoma
-14 Tousawanda, New York
-15 Hill, New York
-16 Stanton, Nebraska
-34 Newburgh, New York
+4    Miami, Florida
+5    Hamburg, New York
+6    Toledo, Ohio
+6    Aberdeen Proving Ground, Maryland (No Rpt in File)
+7    McCord AFB, Washington
+8    Drexel Hill, Pennsylvania
+8    Botwood, Newfoundland
+8    Balmville, New York
+10   Covalis, Montana
+11   Mt Clemens, Michigan
+12   Albin, Wyoming
+13   Midwest City, Oklahoma
+13   Tonawanda, New York
+14   Lowry AFB, Colorado
+16   Stanton, Nebraska
+28   Newburgh, New York
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a page from an old Project Blue Book document containing text details regarding a report about an unidentified flying object (UFO) sighting.
+Here is the text from the document:
 
-The text found in the document is as follows:
+NX31
 
-"NEW YORK, AUG. 8 ---(UP)---HAYDEN PLANETARIUM SAID TODAY THAT A MYSTERIOUS "SPUTNIK-LIKE" OBJECT WAS SEEN IN THE NORTHERN SKY DURING EVENING HOURS IN 1957 BY THE CZECH ASTRONOMER WHO NAMED MARKOS CHOR FOR THE CZECHOSLOVAKIAN ASTRONOMER WHO MADE THE OBSERVATIONS. THIS PLANET-LIKE OBJECT WAS SEEN OVER THE ANTIGO, WISCONSIN, AREA 8 P.M. JULY 6TH. THE OBSERVERS WITH GOOD VISION CAN SEE FAR BEYOND OBSERVATIONS OF SPACE OFFICIALS AND DIRECT OBSERVATION PROVIDES CLUES" WHICH ASTRONOMICAL EQUIPMENT CANNOT SUPPLY
-...
-HQS CAG EVAI2A
+NEW YORK, AUG. 8. --(UP)--HAYDEN PLANETARIUM SAID TODAY THAT
+A NEW COMET, FIRST REPORTED SIX DAYS AGO AND NOW VISIBLE
+DISCOVERED BY 1957, WILL BE VISIBLE IN THE NORTHERN SKY DURING EVENING
+HOURS THIS WEEK AND NEXT.
 
-97-AC
-COMMENT, UNKNOWN, CITED NORTHWEST OF COLO SPRINGS, NIL., CUD WAS COMET HAD TAIL AND APPEAR TO BE PULSING AND PULSELO BY HIGH CEILOMG TO GROUND AND IS UNDER INVESTIGATION. SEE MXSI.
+THE COMET, NAMED MARKS (CQ) FOR THE CZECHOSLOVAKIAN ASTRONOMER
+WHO REPORTED IT AUG. 2, IS APPROXIMATELY 90 MILLION MILES FROM
+THE EARTH AND MOVING OUTWARD. THE PLANETARIUM SAID.
 
-HC (XX)
-WEATHER BUG AS. COLO. SPRINGS, COLO. PUEBLO, COLO., REPORTS GETTING THAT APPEARS TO BE A COMET IN NORTHWEST SKIES. AROUND COMI AND IT-ONE REGULARLY DISSEMINATORS IN AREA AS THEY CALLE ANY."
+"OBSERVERS WITH GOOD VISION CAN SEE THE COMET WITHOUT THE
+AID OF THE TELESCOPE. THE PLANETARIUM SAID. IT ADVISED THEM TO
+LOOK DIRECTLY BELOW THE BIG DIPPER ON CLEAR EVENINGS BEFORE 10 P.M."
+ED.   -(AG)
+                EV215A
+
+-95-
+AG
+COMMENT, UNKNOWN, CITED NORTHWEST OF COLO SPRINGS TNL. CUD
+BE SEEN FROM COLO SPRINGS AND PUEBLO BY NAKED EYE. HAD TAIL AND APPLY
+HAS COMET. FIRST SEEN 8-25-57 BY TOKER AT PUEBLO. FIELD
+FIELD NR COLO SPRINGS, COLO U AND DENVER U OBSERVATORIES UNMANNED.
+YEA EURO SEZ COMET, SEE NX31.
+
+-95-
+HC
+(DX)
+WEATHER BUG AG, COLO. SPRINGS, COLO., PUEBLO, COLO.
+REPORTS CITING WHAT APPEARS TO BE COMET IN NORTHWEST SKIES, AROUND
+5 P.M. MST. APPC CHECK OBSERVATORIES UR AREA IF THEY CITED ANY
+KOMET AND IF ONE REGULARLY DUE.
+
+First United Press Report on
+New Comet Marks
+
 
 - page 3 -
 
-Based on the image provided, there does not appear to be any photograph present. The image shows a scanned page from what seems to be a Project Blue Book document, containing handwritten text.
+Here is the text from the document:
 
-Here is the text from the document, produced as an OCR system output:
+130
 
-Whatit
-NAME 6/17/57 10:28
-TO: AFCIN-XE
-SUBJECT: UFOB REPORT
-ATTN: LT COLFAX
-TO: COMMANDING OFFICER
-3707TH ACIV DEP DOBLIN AFP GA
-AFCDP/CDMR AF TECH INT CTR WRIGHT PATTERSON AFB OHIO
-GAFCIN/CDMR USAF SECURITY SERVICE AF SA TX
-INTO RVJECPRO/CDMR EAFB/STEWART AFB NY
-PRIORITY PRIORITY
-TELECLAS SIFIED/EXP 5742 IS 6/27/57 GIO IT 43
-A. FOUND A DISC AT A GREAT DISTANCE
-B. DISC, GREEN AND WHITE
-C. ONE, TOT SIZE, AND SHAPE
-D. ROUND, TOP SIDE
-E. FOUR EXHAUST
-F. NOISE HEARD
-G. UNKNOWN
+Multi
+
+5/0100
+
+TO COMDR 6570TH ACFTCIV MACDILL AFB TLA
+TO AIRDEN/COMDR ADC ENT AFB COLO SPGS COLO
+INFO/COMDR 3570 ADIV DEF DOBBINS AFE GA
+JEADQT/COMDR AIR TECH INT CNTR WRIGHT PATTERSON AFE OHIO
+INFO RJLDFN/COMDR LADY STEWART AFB NY
+
+UNCLASSIFIED/COPS 644 DE ATINE EASE CIO PU
+
+1. ROUND
+
+2. SIZE OF A DISC AT A GREAT DISTANCE
+
+3. BLUE, GREEN AND WHITE
+
+4. CITY
+
+5. NONE
+
+6. ROUND TOP SIDE
+
+7. FOUR EXHAUST
+
+8. NONE HEARD
+
+9. NONE
+
+The document appears to be a military communication related to an unidentified flying object (UFO) sighting, with various details about the observed object.
+
 
 - page 4 -
 
-This image does not contain a photograph. It appears to be a typed report or document, likely part of Project Blue Book, which was a US Air Force program that investigated unidentified flying objects (UFOs) in the mid-20th century.
+PAGE TWO OUTSIDE 25
 
-The text in the image is as follows:
+A. CREDIT
 
-SIGHTING TIME UNIQUE 25
-DATE CREDIT
-LOOKING AT NATURE
-AS DECIDED AND AGAIN DECIDED
-IT WAS 
-REPORT
-FACE OUT
-APPROXIMATELY ONE HOUR
-AROUND VISUAL 
-BINOCULARS AND NAKED EYE
-CIVILIANS USED BY 132 TELESCOPE PP MILITARY USED 7.2
-BINOCULARS
-CIVILIANS: 4/28/66 EST MILITARY: 6/1/55
-AT CIVILIAN: 55/31/57 MILITARY: 02/11/57
-LATE DUSK--- NIGHT
-CIVILIANS: LAST BY 25 COUNT MIAMI, FLA
-MILITARY: CONTROL TOWER HOME TREAD AFB FLORIDA
-MR. & MRS. ** _ 42 G _
+A. LOOKING AT SATURN'S DISK
+
+B. 45 DEGREES AND 274 DEGREES
+
+C. N/A
+
+D. ORBIT
+
+E. FALL OUT
+
+F. APPROXIMATELY ONE HOUR
+
+G. GROUND VISUAL
+
+H. BINOCULARS AND NAKED EYE
+
+I. CIVILIAN USED 8" 132" TELESCOPE PD MILITARY USED 7.5"
+
+J. BINOCULARS
+
+K. N/A
+
+L. CIVILIAN: 04/2053 EST        MILITARY: PRTMPT EST
+
+M. CIVILIAN: 05/01052            MILITARY: 05/21152
+
+N. LATE DUSK-- NIGHT
+
+O. CIVILIAN: 4433 SW 99 COURT MIAMI, FLA
+
+P. MILITARY: CONTROL TOWER HOMESTEAD AFB FLORIDA
+
+Q. MR. & MRS. [REDACTED] 42 G [REDACTED] LAKE FLORIDA
+
+R. AIRCRAFT MECHANIC
+
 
 - page 5 -
 
-The image appears to be a page from an old UFO report document from Project Blue Book. There is no photograph present on this page. 
-
 Here is the text from the document:
 
-CONTROL FORM DISPOSITION: GOOD
-CONTROL ASSIGNED FILE NUMBER: 6965-146
-THUNDERSTORM ACTIVITY PREVALENT LIGHTING 2.3 TO 3.4 MILES
-SIZE: 15 FEET
-LOCATION: ANTIGO, WISCONSIN
-DISTANCE: 1-2 MILES
-THUNDERSTORMS IN NE QUADRANT SOUTH WEST OF MIAMI
-NO INFORMATION AVAILABLE
-TRAFFIC IN AREA OF SIGHTING
-NIGHT DUTY CONTROLLER JOSEPH ACKRISS AND FLA 
-AUGUST 6, 1957 RECORD
+OWC A/3C 2STH WEATHER SQUADRON AMCS GOOD
+
+1. CONTINUED THUNDERSTORM ACTIVITY FREQUENT LIGHTNING TO 40K
+
+2. CLEAR
+
+3. UNKNOWN
+
+4. NONE
+
+5. 10 MILES
+
+6. 1/4 SCATTERED
+
+7. THUNDERSTORMS IN NE QUADRANT SOUTH WEST OF MIAMI
+
+8. NO INFORMATION AVAILABLE
+
+9. NONE
+
+10. NO TRAFFIC IN AREA OF SIGHTING
+
+11. HOME DUTY CONTROLLER SOUTH ACRON MACDILL AFB FLA
+
+12. NONE
+
+13/1421Z AUG RJESKB
+
 
 - page 6 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, likely documenting a UFO sighting.
+Here is the text from the document:
 
-PL 57 YDD 32 UA 4.3
-PP HOOPER RD OWP
-PD GILES CO RD ID
-P 17 34 2
-PI CC LPR 75 4TH AGWRON PORT AUSTIN MICH
-TC BOULDER C COLO AFD COLO AFS COLORADO SPRIUGS COLORADC
-INFO Rt/DEPCDR 33TH AFIV DEF WRAPS BELLEVILLE MICH
-RJEE/DEPCDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT-PAT AFB OHIO
+7 AUG 57 10 1957 07419
+
+PL 57 YDS 2EMA 45
+PF RJDEM RJCEWP
+DE RJDEM ID
+F 67-54.2
+FI COLER 7547TH ACWRON PORT AUSTIN MICH
+TO RJEDEM/COMDR ADC ENT AFB COLORADO SPRINGS COLORADO
+INFO RJEDEM/COMDR 34TH ADIV DEF WRAFS BELLEVILLE MICH
+RJEDEM/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT-PAT AFB OHIO
 DIRECTOR OF INTELLIGENCE HQ USAF WASHINGTON 25 DC
+ET
 
-SUBJECT: BRIGHT GLOWING OBJECT PD
-1. ROUND WITH TAIL CHA LIKE A COMET PD
-2. UNKNOWN PD
-3. WHITE CHA AS AN ELECTRIC LIGHT PD
-4. ONE PD
-5. NA
-6. TRAILING TAIL PD
-7. TAIL CHA SIZE UNKNOWN PD 
-8. NO SOUNDS HEARD PD
-9. NONE PD
-E. 1. BRIGHT LIGHT ON HORIZON AT NIGHT PD
-2. 14 DEGREES ABOVE HORIZON AT 33D DEGREES MAGNETIC WHEN SIGHTED OVER TOLEDO CHA OHIO AT 43,995 FT PD
-3. 3 DEGREES ELEVATION AS OBJECT WAS DISAPPEARING BELOW HORIZON PD AZIMUTH 328 DEGREES MAGNETIC AT FORTY-MILE
-EAST OF CHICAGO CHA ILLINOIS PD
-4. FLIGHT PATH ESTIMATED TO BE 30T DEGREES MAGNETICPP NO MANEUVERS EVIDENT PD
+//UNCLASS//CPS 22-3 PD
+
+UFOB
+
+1. BRIGHT GLOWING OBJECT PD
+2. ROUND WITH TAIL CMA LIKE A COMET PD
+3. UNKNOWN PD
+4. WHITE CMA AS AN ELECTRIC LIGHT PD
+5. ONE PD
+6. N/A
+7. TRAILING TAIL PD
+8. TAIL CMA SIZE UNKNOWN PD
+9. NO SOUNDS HEARD PD
+10. NONE PD
+11. BRIGHT LIGHT ON HORIZON AT NIGHT PD
+12. 14 DEGREES ABOVE HORIZON AT 330 DEGREES MAGNETIC WHEN SIGHTED OVER TOLEDO CMA OHIO AT 45,000 FEET PD
+13. 2 DEGREES ELEVATION AS OBJECT WAS DISAPPEARING BELOW HORIZON PD AZIMUTH 330 DEGREES MAGNETIC AT FORTY MILES EAST OF CHICAGO CMA ILLINOIS PD
+14. FLIGHT PATH ESTIMATED TO BE 300 DEGREES MAGNETIC PD NO MANEUVERS EVIDENT PD
+
 
 - page 7 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document, providing details of a UFO sighting report.
+3. TAILING AND DISAPPEARING CONT NOTICED PD
 
-B. APPROXIMATELY 31 MINUTES PD
-C. 1. VISUAL PD
-C. 2. NONE REPORTED PD
-C. 3. 552 ADAMS HQ. 34 AND 51 CHA 45, AND ALD 45, - FEET CHA
-27.5 DEGREES MAGNETIC CHA 44° KNOTS GROUND SPEED CHA LORING
-AFB CHA MAINE PD
-D. 1. 17/2132 UNTIL 17/2442 AUGUST 1957 PD
-E. VISUAL PD
-E. CRIMINAL SIGHTING 43,000 FEET OVER TOLEDO CHA CHIC CHA FINAL
-SIGHTING 43,000 FEET CHA 40 MILES EAST OF CHICAGO CHA
-ILLINOIS PD
-F. MILITARY CHA UNKNOWN CHA RELIABLE PD
-G. WEATHER: CLEAR 15 MILES VISIBILITY CHA WINDS ALOFT: 340
-DEGREES AT 52 KNOTS TEMPERATURE 58 DEGREES CENTIGRADE PD
-H. CLEAR PD
-I. 1. SURFACE CALM: 6,000 FEET 344 DEGREES 14 KNOTS
-12,000 FEET 330 DEGREES 28 KNOTS
-15,000 FEET 328 DEGREES 32 KNOTS
-22,000 FEET 330 DEGREES 40 KNOTS
-30,000 FEET 344 DEGREES 72 KNOTS
-52,000 FEET 344 DEGREES 82 KNOTS
-3. CLEAR PD
-4. FIFTEEN MILES PD
-5. NONE PD
-6. NONE PD
+C. 1. AIR - VISUAL PD
+
+2. NONE REPORTED PD
+
+3. 852 ADAMS NO. 34 AND 51 CMA 41, 900 AID 43, 900 FEET CMA
+   27° DEGREES MAGNETIC CMA 44° KNOTS GROUND SPEED CMA LORING
+   AFB CMA MAINE PD
+
+D. 1. 7/0213Z UNTIL 7/0244Z AUGUST 1957 PD
+   2. NIGHT PD
+
+E. ORIGINAL SIGHTING 43,900 FEET CMA OVER TOLEDO CMA OHIO CMA FINAL
+   SIGHTING 43,900 FEET CMA 40 MILES EAST OF CHICAGO CMA
+   ILLINOIS PD
+
+F. MILITARY CMA UNKNOWN CMA RELIABLE PD
+
+G. WEATHER: CLEAR 15 MILES VISIBILITY CMA WINDS ALOFT: 340°
+   DEGREES AT 80 KNOTS TEMPERATURE 58 DEGREES CENTIGRADE PD
+
+   1. CLEAR PD
+   2. SURFACE CALM: 6,000 FEET 340 DEGREES 10 KNOTS
+      10,000 FEET 330 DEGREES 20 KNOTS
+      16,000 FEET 330 DEGREES 30 KNOTS
+      22,000 FEET 330 DEGREES 40 KNOTS
+      30,000 FEET 340 DEGREES 70 KNOTS
+      50,000 FEET 340 DEGREES 40 KNOTS
+
+   3. CLEAR PD
+   4. FIFTEEN MILES PD
+   5. NONE PD
+   6. NONE PD
+
 H. NONE KNOWN PD
 I. NONE PD
 J. UNKNOWN PD
-K. ASSISTANT OPERATIONS OFFICER DMA ACLU SITE CHA SUSPECT
-WATCH PD
-L. NC PHYSICAL EVIDENCE PD
-BT
+
+K. ASSISTANT OPERATIONS OFFICER DMA ACAW SITE CMA SUSPECT
+   METEOR PD
+
+L. NO PHYSICAL EVIDENCE PD
+
+ET
+
 
 - page 8 -
 
-The image does not contain a photograph. It appears to be a blank page with some handwritten text at the top that reads "37/47 42 7 AUG R.PDEW".
+The only clearly legible text on this page is:
 
-As an OCR system, the text found in the document is:
+.37/874-2-AUG RJEDEW
 
-37/47 42 7 AUG R.PDEW
+The rest of the document appears to be extremely faded and illegible, with only blurry, indistinct gray areas visible across the page.
+
 
 - page 9 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book report containing textual information.
-
-ENTE22SSA002 DMIS34
-CORJEDUPP RUEPW 
-DC RUEPW 1312 
-O 082 1382
-FR 23TH CADD CGO
-TO COMD
-RJEWPV/COMDR AIR TECHNICAL INTELLIGENCE GEN WRIGHT PATTERSON AFB OHIO
-RJEPHE/DIRECTOR OF INTELLIGENCE HQ USAF WASHINGTON 25 DC
-2ND/COMDR 39 CADD
+ENT622SBA002 DMA054
+OOP JEDWP RJEPHO
+DE RJWPDM 151A
+O 0821532
+FM 25TH CADD CCC
+TO CONAD
+RJEWP/COMDR AIR TECHNICAL INTELLIGENCE CEN WRIGHT PATTERSON AFB OHIO
+RJEPHO/DIRECTOR OF INTELLIGENCE HQ USAF WASHINGTON 25 DC
+ZEN/COMDR 25 CADD
 BT
-UNCLAS//25CADBTAC K-133 PD FOR COC 
-FOLLOWING UPON IS FORWARDED IN ACCORDANCE WITH AFR 200-2
-1. AECMET
-A BRITE
-B ONE
-E - 
-F COMET S TAIL
-G TAIL SWEEPING TOWARD POLARIS
-H -
+/UNCLASS/25CADDTAC H-183 PD FOR COC
+FOLLOWING UFOS IS FORWARDED IN ACCORDANCE WITH AFR 200-2
 
-PAGE TWO RAJWPDM 121A
-A - VISUAL SIGHTING
-B 20 DEGREES ABOVE HORIZON
-C 300 DEGREES MAG BEARING
-D - REMAINED IN SIGHT UNTIL WE PENETRATED UNDERCAST
-E WE PENETRATED UNDERCAST
-F STEADY POSITION FOR DURATION OF OBSERVATION 7 133)
-GOM A VISUAL
-B NONE
+1. ABCMET
+   C. WHITE
+   D CNE
+   E -
+   F COMET & TAIL
+   G TAIL SWEEPING TOWARD POLARIS
+   H -
+
+PAGE TWO RJWPDM 151A
+
+2. A VISUAL SIGHTING
+   B 20 DEGREES ABOVE HORIZON
+   300 DEGREES MAG BEARING
+   C REMAINED IN SIGHT UNTIL WE PENETRATED UNDERCAST
+   D'-
+   E WE PENETRATED UNDERCAST
+   F STEADY POSITION FOR DURATION OF OBSERVATION (115)
+   3GM A VISUAL
+   B NONE
+
 
 - page 10 -
 
-The image does not contain a photograph, it appears to be a page from a UFO report document. 
+O T-33-56-162. LAST CHANCE CHARLIE ONE 36,000 FT.
+360 DEGREES MIL 376K, MCCHORD
+4. A 0500Z - 8 AUGUST '57
+B NIGHT - LATE TWI
+IGHT
+5. NB 4030 APPROX 46 NM SOUTH OF MCCHORD
+6. B CAT1 [REDACTED], EXCELLENT PILOT HQ. 25TH ADIV
+LT. COMDR [REDACTED] EXCELLENT PILOT HQ 25TH ADIV & 2
+COPILOTS
+7. A UNDERCAST AT 33,000 FT TO 35,000 FT
+B 30,000 250 DEGREES 45 KNOTS
 
-The text in the document is as follows:
-
-C T-33-SG-272 - LAST CHANCE CHARLIE ONE 32,000 FT.
-300 DEGREES RHG 370, MCCHORD
-4- A 0508Z - 8 AUGUST '57
-B RIGHT - LATE TWO 
-LIGHT
-2. NE 4635 APPROX 40 M? SOUTH OF MCCHORD
-3. B 0516Z - EXCELLENT PILOT HQ 25TH ALIV & 2 COPILOTS
-LT. COMER [redacted], EXCELLENT PILOT HQ 25TH ALIV & 2 COPILOTS 
-7. A UNBERCAST AT 35,000 FT TO 35,000 FT
-B 30,000 330 DEGREES 45 KNOTS
-
-PAGE THREE RWPDM 151A
-C - 
-D 30 NM PLUS
+PAGE THREE RJWPDM 151A
+C -
+D 50 NM PLUS
 E NONE ABOVE
 F NONE
-G BELIEVE IT TO BE A COMET
-9 - 
-GOT -
-11 - 
+8 ELIEVE IT TO BE A COMET
+9 -
+GOP -
+11 -
 12 FLIGHT OPERATIONS OFFICER 25TH ADIV MCCHORD
-I AM SUBMITTING THIS REPORT OF CONT SIGHTING TO ASSIST IN
-POSSIBLE CORRELATION OF UFOB REPORTS THAT MAY BE RECEIVED
-ET
-30/2152Z AUG PVJPEM
+I AM SUBMITTING THIS REPORT OF COMET SIGHTING TO ASSIST IN
+POSSIBLE CORRELATION OF UTOB REPORTS THAT MAY BE RECEIVED
+BT
+08/215SZ AUG RJWPDM
+
 
 - page 11 -
 
-There is no photograph present in this image. This appears to be a page from an old Project Blue Book report.
+Here is the text from the document:
 
-REPORT YMBA92AEA2-AEJG91
-PP RJEDEN RJEDOP RJEPNO
-DE RJEDA13 IJ 
-P GHOLLAR*
-FM COMDR 67STH ACO SODN ANTIGO WIS
-TO RJEDA13/37TH ADIV TRAUX FLD MADISON WIS
-RJED/COMDR AIR DEF COMMAND ENT AFS COLORADO SPRING COLO 
-RJEDWP/COMDR AIR TECHNICAT INTELL CENTER WRIT PATTERSON AFO OHIO —
-RJEP10/DIRECTOR OF INTELLIGENCE HOPS USAF WASHINGTON 23 DC
-GT
-/UNCLAS/ ANCFS-92-001 ATTMTH UFOB
-1. A-SHAPE C
-B-WHITE
+3. 0/0025 2
+
+1 Witness
+
+WPCGSS YMBG8GAELA021EJG01
+PP RJEDEN RJEDWP RJEPHO
+DE PJEDAE 10
+P 020-0252
+FM COMDR 678TH ACW SQDN ANTIGO WIS
+TO RJEDAE/37TH ADIV TRUAX FLD MADISON WIS
+RJEDN/COMDR AIR DEF COMMAND ENT AFB COLORADO SPRING COLO
+RJEDWP/COMDR AIR TECHNICAL INTELL CENTER WRIT PATTERSON AFO OHIO
+RJEPHO/DIRECTOR OF INTELLIGENCE HQBS USAF WASHINGTON 25 DC
+OT
+ZUNCLASY ANCPS-03-801 ATTNGN UFOB
+
+1. A-SHAPE
+B-MED.
 C-WHITE
 D. 1
-E-NJA
+E-N/A
 F-NONE
 G-NONE
 H-NONE
-I-LIGHT
+I-NONE
+
 
 - page 12 -
 
-There is no photograph present in this image. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-The text in the document is as follows:
+JDO 24-109                                                                16 SEP 1957
 
-2 24-1099 
-SUBJECT: "Unidentified Flying Object" sighted at
-Antigo, Wisconsin, 15 September 1957.
-TO: Commander
-Air Technical Intelligence Center
-Wright-Patterson Air Force Base
-Ohio
-1. Reference is made to message, your Headquarters, dated 6 September 1957, concerning the above-captioned matter.
-2. A summary of technical service data covering this incident, dated 23 August 1957, was incorrectly stamped "FOR OFFICIAL USE ONLY CAPR 205-1." The enclosures (identified in this case) are the only copies known to be in existence.
-3. In view of the nature of this matter, the Commander, Air Defense Command, is being made aware of this incident (see Paragraph 2, supra).
-RICHARD J. DUFFY
-LT COLONEL, USAF
-DISTRICT COMMANDER
+SUBJECT: Unidentified Flying Object Sighted at
+          Drexel Hill, Pa., at approximately 0150OZ
+          August 1957
+
+TO:   Commander
+      Air Technical Intelligence Center
+      Wright-Patterson Air Force Base
+      Ohio
+
+1.    Reference is made to message, your Headquarters, dated 6 Sep-
+tember 1957, concerning the above-sighted matter.
+
+2.    Spot Intelligence Report, this District Office, dated 23
+August 1957, was correctly stamped "FOR OFFICIAL USE ONLY", (AFR 190-10).
+It is commented that you strike out the word (Confidential) at the top
+of Pages 2 and 3 of instant report.
+
+3.    By carbon copy of this letter, the Commander, Air Defense Com-
+mand, Lowry Air Force Base, Colorado Springs, Colorado; the Directorate
+of Special Investigations (DI) USAF, and the Commander, 62d Fighter
+Group (AD), Tom Castle County Air Base, Delaware, are requested to com-
+ply with paragraph 2, supra.
+
+                                                    RICHARD J. DUFFY
+                                                    Lt. Colonel, USAF
+                                                    District Commander
+
+cc:   Comdr, ADC
+      Dir OSI
+      Commander, 62d Ftr Gp
+
+FOR OFFICIAL USE ONLY
+
 
 - page 13 -
-
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, containing a "Spot Intelligence Report" describing an unidentified flying object sighted on August 15, 1957 near Antigo, Wisconsin.
 
 DEPARTMENT OF THE AIR FORCE
 HEADQUARTERS UNITED STATES AIR FORCE
@@ -330,582 +471,870 @@ WASHINGTON
 
 THE INSPECTOR GENERAL USAF
 3D DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
-1612 S. Cameron Street, Harrisburg, Pa. 
-CASE #:AD-OP-98336. BOOK I OF 1
-23 August 1957
+1612 S. Cameron Street, Harrisburg, Pa.
+MAILING ADDRESS: POST OFFICE BOX 709
+
+300 24-139                                                      23 August 1957
 
 SPOT INTELLIGENCE REPORT
 
-SUBJECT: Unidentified Flying Object Sighted at Antigo, Wis., 15 August 1957 
-at approximately 8:15 p.m.
+SUBJECT: Unidentified Flying Object Sighted at
+          Drexel Hill, Pa., at approximately 815C02
+          August 1957
 
-TO:    Commander
+TO:     Commander
         Air Defense Command
         Ent Air Force Base
         Colorado Springs, Colorado
 
-1. SYNOPSIS: Mrs. Interviewing was interviewed 18 August 1957, stated that while looking up from her residence hill, Pa., she noticed a bright light, approximately 2 miles away, hovering and then moving very rapidly at an extreme altitude. It appeared to her to be about 1/2 the size of the full moon and was a very bright light, neither blinking nor changing in intensity. After 3 to 4 seconds of rapid movement, the object came to an abrupt halt, remained stationary for a moment, and then moved too quickly to be seen.
+1. SYNOPSIS: Mrs. [redacted] interviewed 12 August 1957, stated
+that while watching the sky from her home in Drexel Hill, Pa., she noted a
+bright light, approximating an auto headlight in nature, moving down over an
+area of an estimated 5-25 degrees of elevation in a path approximately as
+directly east of her home. She was unable to describe the shape and
+movement of the object other than as a 14 that moved too quickly to be
+a plane and too slowly to be a meteor. U. S. Weather Bureau, Philadelphia,
+Pa., reports no unusual weather or celestial activity noted on that date.
 
-2. DETAILS: At ANTIGO, WIS. Pa. On 12 August 1957, Mrs. Housewife, Age 34 (witheld) was interviewed at her residence. She related that she had observed an unusual light in the sky at approximately 8:15 p.m. on 15 August 1957. She stated that she had been outside her residence looking up toward the Northwest and had observed a bright light, which appeared to be at an altitude of approximately 15,000 feet or more. The light was stationary at first, and then began to move very rapidly, covering an estimated distance of 2 miles in 3 to 4 seconds. The object then came to an abrupt halt, remained stationary for a moment, and then moved out of sight too rapidly to be seen. She described the light as being approximately 1/2 the size of the full moon and stated that it did not blink or change in intensity. There were no other unusual sounds or visual phenomena observed. Mrs. Housewife stated that she had not reported the incident to any authorities prior to being interviewed.
+2. DETAILS:
+   AT DREXEL HILL, PA.
+
+   a. On 12 August 1957, Mrs. [redacted] Housewife, Age withheld
+   (estimated as 35-50) was interviewed at her residence and accompanied
+   by Special Agent MARCEL E. D'HOOGH.
+
+   [redacted] related that she had seen a circular light, the size of
+   half of the moon (also described as one-half the diameter of a dime held
+   at arm's length) which appeared to proceed, the same color and half
+   of the brightness of an auto headlight. [redacted] advised that there was
+   only one or two lights visible about it. No trail, rail,
+   sound, or any other unusual features about it.
 
 FOR OFFICIAL USE ONLY
 
+
 - page 14 -
 
-The image does not contain any photographs. It appears to be a scanned page from a UFO report document related to Project Blue Book.
+300 24-189, 16 SEP 57
 
-As an OCR system, I will produce the text found in the document:
+SUBJECT: (Confidential) Sighting of Unidentified Flying Object at Drexel Hill, P.A., at approximately 615002, August 1957
+SPON INTELLIGENCE REPORT CCPID(R)
 
-SUBJECT: MRS. CPS 1771, SIGHTING OF UNIDENTIFIED FLYING OBJECT AT ANTIGO, WISCONSIN, AUGUST 1957 
+She advised that she noticed this light while scanning the sky in the hopes of seeing the celestial phenomenon known as the "tears of St. Augustine." Stated that the light was at an altitude of about 65 degrees elevation when she first noticed it and that it traveled to a point of about 25 degrees elevation when it won't out of sight. Azimuth was estimated as 90 degrees throughout the one or two moments of observation. The light's disappearance from sight was attributed to passing behind the dormer of a neighboring residence.
 
-SPOT INTELLIGENCE REPORT CONT'D
+Described the method of her sighting and observation of the light as ground-visual. No physical evidence of this sighting was available.
 
-Sky in the hopes of an aerial 'saucer' sighting led to the industrial phenomenon known as the "Antigo sighting" around sunset on the date 26 August 1957. The observer, a housewife, noticed the light while scanning the sky. She advised that she noticed this light while scanning the sky. She advised that she noticed this light at approximately 7:30 P.M.  About 20 minutes later, elevation when the first noticed it which she estimated to be about 50 degrees. According to the observer, the light traveled in a straight line from the southwest to the northeast and was estimated to be as low as 20 degrees above the horizon. The duration of the observation was estimated as between 15-30 seconds.
+Time of sighting was estimated as between 1500-1530. Light conditions were described as clear.
 
-The sighting was described the method of her sighting and observation of the light as coincidental. No physical evidence of this sighting was available.
+Location of observer was determined as: 40° - 10' - North, and 75° - 15' - West.
 
-Time of sighting is estimated as between 1900-1930 hours. Light conditions were described as 7:75 - twilight.
+Identified herself only as a housewife. Source claimed no military or other observer experience.
 
-The direction 225 degrees (Southwest) to 45 degrees (Northeast) was determined as Lo° - 10° - North, and 75° - 15° - West.
+WEATHER:
+a. Source was unable to describe the weather other than that it had been a clear night with no moon.
 
-The source identified herself only as Mrs. CPS 1771, a housewife. She claimed no military or other observer experience.
+On 13 August 1957, Miss [redacted] Meteorological Aide, furnished Special Agent D1800E with the following observations obtained 612502, August 1957:
 
-The source was unable to describe the weather other than that it was overcast.
+Winds Aloft:
+At the Surface   290 Degrees   at 2 MPH   350
+6,000'           350           14 Kn
+10,000'          320           20 Kn
+15,000'          350           27 Kn
+20,000'          310           23 Kn
+30,000'          350           27 Kn
+38,000'          20            61 Kn
 
-On 13 August 1957, data Meteorological Aids, furnished Special Agent (name redacted) with the following information:
-
-Winds Aloft:  
-At the Surface      230 Degrees   at 9 MPH
-3,000'                 330          23 KH
-6,000'                 330          27 KH 
-9,000'                 350          30 KH
-12,000'                340          27 KH
-18,000'                350          23 KH
-24,000'                350          21 KH
-
-Callings:  15,000
+Ceilings 15,000
 Visibility: 12 miles
+
+2
+
+FOR OFFICIAL USE ONLY
+
 
 - page 15 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document dated August 1957, which provides details about a reported unidentified flying object sighting.
+300 20-0/Air-CS1 LTR 300 29-187 16 SEP 57
+SUBJECT: (Supplemental) Sighting of Unidentified Flying Object at Drexel
+Hill, Pa., at approximately 81,000', August 1957
+FROM: WILLIAMS, HQCORN COMND
 
-Text extracted from the document:
+Cloud Cover: 9/10
 
-SUBJECT: SIGHTING OF UNIDENTIFIED FLYING OBJECT AT DRAVOL
-SIGHTINGS: Unidentified Flying Object at Dravol, August 1957
-SPOT INTELLIGENCE REPORT CONFIRMED
+[Redacted text] advised that she had been on duty as an observer at the time of
+the aforementioned observations and through midnight on that day and that
+she had witnessed no unusual or abnormal activity or condition
+that might account for the sighting.
 
-Cloud Caver: 9/10
+3. ACTION: No additional investigation of this matter is contemplated
+in this district unless directed by competent authority.
 
-The witness advised that she had been on duty as an observer at the time of the sighting. It appears she was able to observe the object for a brief period, but had no definite means or no unusual activity or condition that might suggest for the sighting.
-
-ACTION: No additional investigation of this matter is contemplated at this time unless directed by competent authority.
-
-STANLEY J. SZAPARL
+STANLEY J. SZAFRUK
 Lt Colonel, USAF
 District Commander
 
-CC: Dir, 5th AISS MD USAF, USAF Washigntion (Trip)
-CAIN, 602 ND FP OP (AD), HCSA, WILL DEL (dup)
-1st Ind
-27 AUG 1957
-Headquarters, 4th Air Force Command, at this place was, received this date. Original returned as requested together with incident as recorded. Request: Please forward to concerned authority.
+CC: Dir, Sp Inves, HQ USAF, TSEDC (trip)
+Comdr, 521 Ptr Gp (AD), MCCA, Wil., Del (dupe)
 
-R**
+1st End                                    27 AUG 1957
+Headquarters, Air Defense Command, Hq Air Force Base, Colorado
+
+To: Commander, Air Technical Intelligence Center, ATTN: AFCIN-HEL
+Wright-Patterson Air Force Base, Ohio
+
+RyH
+
+3
+
+FOR OFFICIAL USE ONLY
+
 
 - page 16 -
 
-The image does not contain any visible photographs. 
+Here is the OCR text from the document:
 
-WPBSTV YOOZSS JVAN75 JNCZASEXDZ444FTN315
-C EUYVVJJBDENJJVDWP RJEPHTV RFEKHV
-ET PJJEPV JNC
-V ONSSSIZ
-FN CONDR ATH CONAD CC
-TO RESPNSE/UIRECTOP 3F INTELLIGENCE HI) USAF WALK ZE DG.
-PJEPFN/CONDR ADC ENT AFE COLORADO SPRINGS COLO
-RJEPWP/COMDR AIR TECHNICAL INTELLIGENCE CEYFER
-USIGHT PATTERSON AFB DAYTON OHIO
-RTEVR/AIR OFFICER COMMANDING ADC HQ ST HUBERT QUEBEC
+WPG877 YDOGS5 JVAG79 JDC845EXD344FTA019
+.....YYRJEDENJJEDWP RJEPHQ RFEMVB
+DE RJEXFT JA
+Y W9G551Z
+FM COMDR 64TH COMAD CC
+TO RJEPHQ/DIRECTOR OF INTELLIGENCE HQ USAF WASH 25 D.C.
+RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLO
+RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER
+WRIGHT PATTERSON AFB DAYTON OHIO
+RFEMB/AIR OFFICER COMMANDING ADC HQ ST HUBERT QUEBEC
 ATTN: COC/INTEL
 BT
-CONAD CC 58 THIS IS A UFOB REPORT.
-ON 2E AUGUST 1957 AT APPROX 2200 NEWCOUNDLAYB DAYLIGHT SAVING TIME, 
-052/5JZ2627 LAG JEHYEON N. JOHNSON A RESIDENT 3F THE TOWN OF BOTWOOD, NEWFOUNDLAND.
-LAG JOHNSON STATED THAT HE SAW A VERY FAST MOVING BRIGHTLY LIGHTED 
-OBJECT PROCEEDING IN A NORTHERLY DIRECTION AT AN ESTIMATED ALTITUDE 
-OF 33,200 FEET AND ESTIMATED SPEED 3F 2500KT5. THE OBJECT WAS 
-DEFINATELY NOT AN AIRCRAFT, ACCORBING TS THE OBSERVER, AND AS IT PASSED 
-OVER NO SOUND OF ANY TYPE WAS HEARD. THE MAIN BOBY OF THE OBJECT 
-APPEARED TO BE ABOUT 15 FEET LONG, WITH A TAIL ABOUT 25 FEET LONG.
-TV OBJECT WAS OBSERVED TWICE, THE FIRST TIME FOR A PERIOD OF ABOUT
+COMAD CC 58 THIS IS A UFOB REPORT.
+ON 26 AUGUST 1957 AT APPROX 2200 NEWFOUNDLAND DAYLIGHT SAVING TIME,
+(09/0030Z) LAC LEROY N. JOHNSON A MEMBER OF THE RCAF REPORTED SIGHTING
+AN UNUSUAL FLYING OBJECT WHILE IN THE VILLAGE OF BOTWOOD, NEWFOUNDLAND.
+LAC JOHNSON STATED THAT HE SAW A VERY FAST MOVING BRIGHTLY LIGHTED
+OBJECT PROCEEDING IN A NORTHERLY DIRECTION AT AN ESTIMATED ALTITUDE
+OF 30,000 FEET AND ESTIMATED SPEED OF 500KTS.WTHE OBJECT WAS
+DEFINATELY NOT AN AIRCRAFT, ACCORDING TO THE OBSERVER, AND AS IT PASSED
+OVER NO SOUND OF ANY TYPE WAS HEARD. THE MAIN BODY OF THE OBJECT
+APPEARED TO BE ABOUT 12 FEET LONG WITH A TAIL ABOUT 25 FEET LONG.
+THE OBJECT WAS OBSERVED TWICE, THE FIRST TIME FOR A PERIOD OF ABOUT
+
 
 - page 17 -
 
-There is no photograph present in this image. It appears to be a page from an old UFO report document from Project Blue Book.
+PAGE TWO RJEXFT 3A
 
-PAGE TWO EJECT 3A
-ONE AND ONE HALF HOURS ARE THE SECOND FOR ABOUT FOUR MIN. DURING
-THE THIRD OBSERVATION THE OBJECT APPEARED TO MOVE VERY FAST AT
-TIMES AND THEN STOP AND STAND STILL FOR SHORT PERIODS. THE OBJECT GAVE
-OFF SOME TYPE OF SMOKE OR VAPOR WHICH APPEARED TO COME FROM THE AREA OF
-THE TAIL ALONG WITH A FILM OR SPARK. THIS SECOND OBSERVATION WAS AT ABOUT
-05/25.35CNT (25/22:21) AND AS PREVIOUSLY STATED WAS FOR ABOUT A FOUR
-MIN PERIOD. THE OBJECT AT THIS TIME WAS REPORTED MOVING IN A
-SOUTHERLY DIRECTION AT ABOUT 1,000 FEET AND 300NTS. NO
-AMPLIFYING INFO AS TO SIZE COLOR ETC WAS REPORTED. THE OBSERVER STATED
-THAT NO OTHER AIR TRAFFIC WAS VISIBLE IN THE AREA. THE WEATHER IN THE
-AREA WAS CLEAR WITH THE LOWEST CLOUD LEVEL A 2OOO FOOT SCATTERED
-CONDITION WITH 15 MILES VISIBILITY.
-THE VILLAGE OF BOTWOOD IS LOCATED AT APPROX 49ION AND 556OW. THE
-NEAREST AIR STRIP IS LOCATED AT GANDER, NEWFOUNDLAND 42 MILES TO THE
-EAST.
-THE OBSERVERS FULL NAME IS  AGE 18 YEARS
-OF AGE, A MEMBER OF THE ROCKCLIFF AIR STATION OTTAWA
-AND THE HIGHEST EDUCATION COMPLETED WAS THE 5TH GRADE. RCAF
-AUTHORITIES CONSIDER THIS INDIVIDUAL TO BE OF SOBER, INTELLIGENT AND
-COMPETENT FEATURES.
-THIS HEADQUARTERS HAS NO POSSIBLE CORRELATION, RADAR OR OTHERWISE
-AT THIS TIME.
+ONE AND ONE HALF HOURS AND THE SECOND FOR ABOUT FOUR MIN. DURING THE FIRST OBSERVATION THE OBJECT APPEARED TO MOVE VERY FAST AT TIMES AND THEN STOP AND STAND STILL FOR SHORT PERIODS. THE OBJECT GAVE OFF SOME TYPE OF SMOKE OR VAPOR WHICH APPEARED TO COME FROM THE AREA OF THE TAIL ALONG WITH A FLOW OF SPARKS. THE SECOND OBSERVATION WAS AT APPR 05/0255GMT (05/0025L) AND AS PREVIOUSLY STATED WAS FOR ABOUT A FOUR MIN PERIOD. THE OBJECT AT THIS TIME WAS REPORTED MOVING IN A SOUTHERLY DIRECTION AT ABOUT 1,000 FEET AND 500KTS. NO AMPLIFYING INFO AS TO SIZE COLOR ETC WAS REPORTED. THE OBSERVER STATED THAT NO OTHER AIR TRAFFIC WAS VISIBLE IN THE AREA. THE WEATHER IN THE AREA WAS CLEAR WITH THE LOWEST CLOUD LEVEL A 2500 FOOT SCATTERED CONDITION WITH 15 MILES VISIBILITY.
 
-ET
-25/26162 AUG REJECT
+THE VILLAGE OF BOTWOOD IS LOCATED AT APPROX 49ION AND 56I2W. THE NEAREST AIR STRIP IS LOCATED AT GANDER, NEWFOUNDLAND 42 MILES TO THE EAST.
+
+THE OBSERVERS FULL NAME IS [REDACTED] HE IS 15 YEARS OF AGE, A MEMBER OF THE [REDACTED] STATIONED AT ROCKCLIFF AIR STATION OTTAWA AND THE HIGHEST EDUCATION COMPLETED WAS THE 9TH GRADE. RCAF AUTHORITIES CONSIDER THIS INDIVIDUAL TO BE OF SOBER, INTELLIGENT AND COMPETANT NATURES..
+
+THIS HEADQUARTERS HAS NO POSSIBLE CORRELATION, RADAR OR OTHERWISE AT THIS TIME.
+
+BT
+
+05/06182 AUG RJEXFT
+
 
 - page 18 -
 
-There is no photograph present in this image. It appears to be a page from an old UFO report document from Project Blue Book.
+The text I can clearly read on this document includes:
 
-TEXT EXTRACTED FROM THE IMAGE:
+9 Aug 57
 
-9 AUG 57 15 28.9
+11484
+3-4X227
+160
 
-COMMANDER AIR TECHNICAL INTELLIGENCE CENTER 
-WRIGHT-PATTERSON AIR FORCE BASE OHIO
+The rest of the text is too illegible or blurry for me to confidently transcribe. There are some faint markings and stamps on the document, but the text is not clear enough to read with certainty.
 
-SUBJECT: UNIDENTIFIED AERIAL OBJECT
-
-REFERENCE: REPORT NO. XXXX-MM-57
-INCIDENT: JULY 20, 1957, ANTIGO, WISCONSIN
 
 - page 19 -
 
-The image does not contain any photograph. It appears to be a page from an old UFO report document with text.
+Here is the text from the document:
 
-THERE WAS A VERY BRIGHT FULL MOON
-1. LIGHT
-2. ROUND
-3. BRIGHT PEOPLE THAT GROUND
+6,000 FT: 330 DEGREES AT 15KTS.
+16,000 FT: 320 DO DO 20 KTS.
+16,000 FT: 330 DO DO 25 KTS.
+23,000 FT: 350 DO DO 25 KTS.
+30,000 FT: 350 DO DO 45 KTS.
+36,000 FT: 420 DO DO 52 KTS.
+40,000 FT: 350 DO DO 25 KTS.
+
+D. 10 MILES
+E. BROKEN
+F. NONE
+G. NONE
+H. N/A
+I. NONE
+J. THERE WAS A VERY BRIGHT FULL MOON
+K. ABLE TO BE SELF STARTING BALLOON.
+L. NONE
+M. NONE PEOPLE SAW OBJECT.
+
 
 - page 20 -
 
-The image does not contain a photograph. It appears to be a page from a scanned document related to Project Blue Book, a historical U.S. Air Force program that investigated unidentified flying objects (UFOs).
+Here is the text I can read from the document:
 
-Output of the text from the document:
+1. 
+2. 
+3. UNITED CITY OF WILSON
+4. 1950 -
+5. 1957 - CLOSED WEST
+6. MICROFILM
+7. TURNED NOT PASSED
+8. TWENTY MINUTES
+9. 
+10. RAISED BYE
+11. 
+12. NONE
+13. 
+14. 9/0220
+15. 
+16. NIGHT
+17. 
+18. ALBION - 74N5W
+19. DALVILLE, W.Y.
+20. 
 
-THIS IS A TYPED COPY OF WHAT
-PRESUMED TO BE A REPORT
-TO BLUE BOOK.
-WITNESS: CLARENCE HANAUER
-ADDRESS: LANGLADE COUNTY
-PHONED EYE
-PHONE NO:89/02100
-44.51 N - 84.25W
-BAILYVILLE, GA.
+At the bottom of the page:
+PAGE TWENTY EIGHT 32
+[Redacted text], DALVILLE, W.Y.
+[Partially illegible text]
+
+Some text appears to be very faint or blurry and difficult to read with complete certainty.
+
 
 - page 21 -
 
-The image does not contain any photograph. It appears to be a U.S. Air Force Technical Information Sheet, which is a form used to gather information about reported UFO sightings.
+U. S. AIR FORCE TECHNICAL INFORMATION SHEET
 
-U.S. AIR FORCE TECHNICAL INFORMATION SHEET
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomena that you have observed.
-Please try to answer as many questions as you possibly can. The information that you give will be used to research current and future sightings.
+This questionnaire has been prepared so that you can give the U. S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed.
+
+Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission.
+
 We request this personal information so that, if it is deemed necessary, we may contact you for further details.
 
-1. When did you see the object? DAY: 1 TIME: 3:57 
-2. Time of day: 3:57 (Circle One): A.M. or P.M.
-3. Time zone: (Circle One): a. Eastern b. Central c. Mountain d. Pacific e. Other
-4. Where were you when you saw the object? CAVALRY, WISCONSIN
-Additional remarks: ...
-5. Estimate how long you saw the object. HOURS: 30 MINUTES: 5
-6. What was the condition of the sky? (Circle One): a. Bright daylight b. Hazy daylight c. Twilight d. Full daylight e. Dark 
-7. If you saw the object during DAYLIGHT, TWILIGHT, or DAWN, where was the SUN located as you looked at the object? (Circle One): a. In front of you b. Behind you c. To your right d. To your left e. Don't remember
+1. When did you see the object?
+11     8/09     57
+
+2. Time of day: 0418.3
+(Circle One): A.M. or P.M.
+
+3. Time zone:
+(Circle One): a. Eastern
+             b. Central
+             c. Mountain
+             d. Pacific
+             e. Other
+
+(Circle One): a. Daylight Saving
+             b. Standard
+
+4. Where were you when you saw the object?
+G3 02.26                 COWELLS             MICHIGAN
+Nearest Postal Address    City or Town        State or Country
+
+5. Estimate how long you saw the object:
+                    30      Minutes     Seconds
+
+5.1 Circle one of the following to indicate how certain you are of your answer to Question 5:
+    a. Certain     c. Not very sure
+    b. Fairly certain   d. Just a guess
+
+6. What was the condition of the sky?
+(Circle One): a. Bright daylight    d. Just a trace of daylight
+             b. Dull daylight      e. No trace of daylight
+             c. Bright twilight    f. Don't remember
+
+7. IF you saw the object during DAYLIGHT, TWILIGHT, or DAWN, where was the SUN located as you looked at the object?
+(Circle One): a. In front of you    d. To your left
+             b. In back of you     e. Overhead
+             c. To your right      f. Don't remember
+
 
 - page 22 -
 
-The image contains a sketch or diagram, but no photographic image. The text extracted from the document is as follows:
+PAGE TWO RJEDAE 1J
 
-PAGE TWO RJJDAB 13
-2. A REFLECTING SUNLIGHT
-BKH-SOUTH 35 DEGREE RIGHT
-G-NONE
-D-N/A
-E-N/A
-3. A-RANGED EYE
-E-NCNE
-C-NCNE
-4. A 35 DEGREE
+2. A-REFLECTING SUNLIGHT
+   BGN-SOUTH 35 DEGREE RIGHT
+   C-NONE
+   D-N/A
+   E-N/A
+   F-GRT SEC
 
-5. (UNIX)
-STATE REFORMATORY
-T/SAGEM CONTROL TECH-
-GOC FILTER CENTER
+3. A-NAKED EYE
+   B-NONE
+   C-NONE
+
+4. A-TWILIGHT
+   B-DUSK
+   GTN A-N/A
+   B-DQ5929
+
+5. A-[REDACTED]
+   UNK
+   STATE REFORMATORY
+   T/SGTGM CONTROL TECH.
+   GOC FILTER CENTER
+
 
 - page 23 -
 
-This image does not contain any photographs. It appears to be a page from a document containing a questionnaire or survey regarding the sighting of unidentified flying objects (UFOs).
+Here is the text from the document:
 
-Text from the document:
+8. IF you saw the object AT NIGHT, TWILIGHT, or DAWN, what did you notice concerning the STARS and MOON?
+8.1 STARS (Circle One):
+a. None
+b. A few
+c. Many
+d. Don't remember
 
-8. IF you saw the object at NIGHT, TWILIGHT, or DAWN, what did you notice concerning the STARS and MOON?
-a. STARS (Circle One)
-1. NONE   2. Bright moonlight   3. Dull moonlight
-4. No moonlight -- pitch dark   5. Don't remember
+8.2 MOON (Circle One):
+a. Bright moonlight
+b. Dull moonlight
+c. No moonlight - pitch dark
+d. Don't remember
 
 9. Was the object brighter than the background of the sky?
-(Circle One): a. Yes   b. No   c. Don't remember 
+(Circle One): a. Yes b. No c. Don't remember
 
-10. IF it was BRIGHTER THAN THE SKY BACKGROUND, how much brighter was it? 
-(Circle One): a. Slightly   b. A mile or more away (or distant car?)   c. Several blocks away   d. A blaze of light   e. Several yards away   f. Other _____________
+10. IF it was BRIGHTER THAN the sky background, was the brightness like that of an automobile headlight?
+(Circle One): a. A mile or more away (a distant car)?
+b. Several blocks away?
+c. A block away?
+d. Several yards away?
+e. Other:
 
-11. Did the object: (Circle One for each question)
-a. Appear to stand still at any time?   YES   NO   DON'T KNOW
-b. Suddenly speed up and rush across the sky?   YES   NO   DON'T KNOW
-c. Break up into parts or explode?   YES   NO   DON'T KNOW
-d. Give off smoke or something?   YES   NO   DON'T KNOW
-e. Change shape?   YES   NO   DON'T KNOW
-f. Flicker, throb, or pulsate?   YES   NO   DON'T KNOW
+11. Did the object:
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Break up into parts or explode?
+d. Give off smoke?
+e. Change brightness?
+f. Change shape?
+g. Flicker, throb, or pulsate?
 
-12. Did the object move behind something at any time? (Circle One): YES   NO   Don't Know. IF you answered YES, then tell what it moved behind:
+(Circle One for each question)
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
 
-13. Did the object move in front of something at any time, particularly a cloud? (Circle One): YES   NO   Don't Know. IF you answered YES, then tell what it moved in front of:
+12. Did the object move behind something at anytime, particularly a cloud?
+(Circle One): Yes   No   Don't Know.
+IF you answered YES, then tell what it moved behind:
 
-14. Did the object appear: (Circle One) a. Solid   b. Transparent   c. Don't Know
+13. Did the object move in front of something at anytime, particularly a cloud?
+(Circle One): Yes   No   Don't Know.
+IF you answered YES, then tell what it moved in front of:
 
-15. Did you observe the object through any of the following? (Circle YES or NO for each)
-a. Eyeglasses   YES   NO
-b. Sun glasses   YES   NO
-c. Windshield   YES   NO
-d. Window glass  YES   NO
+14. Did the object appear: (Circle One): a. Solid?   b. Transparent?   c. Don't Know.
+
+15. Did you observe the object through any of the following?
+a. Eyeglasses   Yes   No
+b. Sun glasses   Yes   No
+c. Windshield   Yes   No
+d. Window glass Yes   No
+
+e. Binoculars   Yes   No
+f. Telescope    Yes   No
+g. Theodolite   Yes   No
+h. Other:
+
 
 - page 24 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book UFO report document.
+Here is the text from the document:
 
-The text in the document is as follows:
+16. Tell in a few words the following things about the object:
+• Sound: NO SOUND
+• Color: AMBER
 
-16. Tell us the shape of the object, the altitude, and any other details you can recall about the object.
-Correct answer:______________________________ 
-Carter.
+17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
 
-17. Draw a picture that will show the shape of the object as you saw it. Include in your sketch any details that will help show what the object was like - for example, if there was an arrow beside the drawing to show the direction the object was moving.
-
-[A sketch is shown, which appears to depict an oblong or elliptical object with a tail or trail.]
+[A hand-drawn sketch shows two circular objects, one with a trail/exhaust behind it, with an arrow indicating direction of movement]
 
 18. The edges of the object were:
-(Circle One) 1. Fuzzy or blurred
-2. Sharp and clear
-3. Other _____________
-4. Don't remember
+(Circle One) a. Fuzzy or blurred
+                b. Like a bright star
+                c. Sharply outlined
+                d. Don't remember
 
-19. IF there was MORE THAN ONE object, then how many were there? _____
+19. IF there was MORE THAN ONE object, then how many were there? ONE
 Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+
+[The bottom section for drawing multiple objects is left blank]
+
 
 - page 25 -
 
-The image does not contain a photograph. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-20. Give all you can show the motion that the object or objects made. Place an "X" at the beginning of the path, a "--" or the end of the path, and show any changes in direction during the course of the path.
+20. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
 
-21. IF POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension.
+[A hand-drawn diagram shows a curved path with a triangle at the start and a circle at the end]
 
-22. How large did the object or objects appear as compared with one of the following objects held in the hand (Circle One):
+21. IF POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension
+NEG. feet.
+
+22. How large did the object or objects appear as compared with one of the following objects held in the hand and at about arm's length?
+(Circle One):
 a. Head of a pin
-b. Pea 
+b. Pea
 c. Dime
-d. Quarter
-e. Half dollar
-f. Silver dollar
-g. Baseball
-h. Grapefruit
-i. Basketball
-j. Other
+d. Nickel
+e. Quarter
+f. Half dollar
 
-22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22.)
-a. Very certain
-b. Certain
-c. Fairly certain 
+g. Silver dollar
+h. Baseball
+i. Grapefruit
+j. Basketball
+k. Other
+
+22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22:
+a. Certain
+b. Fairly certain
+
+c. Not very sure
 d. Uncertain
 
-23. How did the object or objects disappear from view? GO OUT OF SIGHT RAPIDLY
+23. How did the object or objects disappear from view? GONE OVER HORIZON, FADED
 
-24. In order that you can give as clear a picture as possible of what you saw, we would like for you to imagine that you could have made a drawing of the object or objects which you saw. What appearance would it have? Describe in your own words what a drawing of the object or objects which you saw would reveal.
+24. In order that you can give as clear a picture as possible of what you saw, we would like for you to imagine that you could construct the object that you saw. OH what type of material would you make it? How large would it be, and what shape would it have? Describe in your own words a common object or objects which when placed up in the sky would give the same appearance as the object which you saw.
+JUST LIKE A COMET
+THE TYPE OF MATERIAL WOULD BE STELLAR
 
-THE OBJ CT WOULD BE SIMILAR TO A SMALL BALLOON OR BALL.
 
 - page 26 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document, which is a report on unidentified flying object (UFO) sightings.
+Here is the text from the document:
 
-Reported to Bice Center.
+Page 3
+
+25. Where were you located when you saw the object?
+(Circle One)
+a. Inside a building
+b. In a car
+(3) Outdoors
+d. In an airplane
+e. At sea
+f. Other
+
+26. Were you (Circle One)
+a. In the business section of a city?
+b. In the residential section of a city?
+(c) In open country?
+d. Flying near an airfield?
+e. Flying over a city?
+f. Flying over open country?
+g. Other
+
+27. What were you doing at the time you saw the object, and how did you happen to notice it?
+[Handwritten text appears to read: "In city at Sutter Center ADC. Reported to Filter Center"]
+
 28. If you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
+
 28.1 What direction were you moving? (Circle One)
-a. North b. Northeast c. East d. Southeast e. South f. Southwest g. West h. Northwest
-28.2 How fast were you moving? miles per hour. 28.3 Did you stop or slow down while you were looking at the object? (Circle One) Yes No
+a. North                 c. East                 e. South                 g. West
+b. Northeast             d. Southeast            f. Southwest             (h) Northwest
+
+28.2 How fast were you moving? N/A miles per hour
+
+28.3 Did you stop at any time while you were looking at the object?
+(Circle One)    Yes    (g) No
+
 29. What direction were you looking when you first saw the object? (Circle One)
-a. North b. Northeast c. East d. Southeast e. South f. Southwest g. West h. Northwest
+a. North                 c. East                 e. South                 (g) West
+b. Northeast             d. Southeast            f. Southwest             h. Northwest
+
 30. What direction were you looking when you last saw the object? (Circle One)
-a. North b. Northeast c. East d. Southeast e. South f. Southwest g. West h. Northwest
-31. If you are familiar with bearing terms (angular direction), try to estimate the number of degrees the object was from true North and also the number of degrees it was upward from the horizon (elevation).
-31.1 When it first appeared: a. From true North 330 degrees. b. From horizon 20 degrees upward.
-31.2 When it disappeared: a. From true North 330 degrees. b. From horizon 20 degrees upward.
+a. North                 c. East                 e. South                 (g) West
+b. Northeast             d. Southeast            f. Southwest             h. Northwest
+
+31. If you are familiar with bearing terms (angular direction), try to estimate the number of degrees the object was from true North or the number of degrees it was upward from the horizon (elevation):
+
+31.1 When it first appeared:
+a. From true North    530    degrees.
+b. From horizon    30    degrees.
+
+31.2 When it disappeared:
+a. From true North    330    degrees.
+b. From horizon    degrees.
+
 
 - page 27 -
 
-The image contains three sketches or diagrams. The first sketch appears to depict the sighting of a UFO object rising above the horizon. The second and third sketches show a person observing a landscape, possibly related to the UFO sighting.
+Text from the document:
 
-Text extracted from the document:
+Page 6
 
-32. In the following sketch, imagine that you are at the point shown. Please use an "X" to show how the curved line is used to show how high the object was above the horizon (skyline) when you first saw it. Please put a "Y" on the same curved line to show how high the object was above the horizon when you last saw it.
+32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it, and a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
 
-33. In the following larger sketch, place an "A" at the position the object was when you first saw it, and a "B" at the position when you last saw it. Refer to a similar sketch.
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to smaller sketch as an example of how to complete the larger sketch.
+
+The page contains two sketches with instructions for marking the position and height of an observed object.
+
 
 - page 28 -
 
-The shared image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
-
-EXTRACT OF TEXT FROM THE DOCUMENT:
+Here is the text from the document:
 
 34. What were the weather conditions at the time you saw the object?
-34.1 CLOSED (Cirle One): a. Clear sky, b. Partly cloudy, c. Scattered clouds, d. Overcast, e. Fog, f. Mist, or light rain, g. Moderate or heavy rain, h. Don't remember
 
-34.3 WEATHER (Circle One): a. Dry, b. Fog, mist, or light rain, c. Moderate or heavy rain, d. Don't remember 
+34.1 CLOUDS (Circle One)
+a. Clear sky
+b. Hazy
+c. Scattered clouds
+d. Thick or heavy clouds
+e. Don't remember
 
-34.4 TEMPERATURE (Circle One): a. Cold, b. Cool, c. Warm, d. Hot, e. Don't remember
+34.2 WIND (Circle One)
+a. No wind
+b. Calm
+c. Slight breeze
+d. Strong wind
+e. Don't remember
 
-35. When did you report this to an official that you had seen the object? 05-23-2
+34.3 WEATHER (Circle One)
+a. Dry
+b. Fog, mist, or light rain
+c. Moderate or heavy rain
+d. Snow
+e. Don't remember
+
+34.4 TEMPERATURE (Circle One)
+a. Cold
+b. Cool
+c. Warm
+d. Hot
+e. Don't remember
+
+35. When did you report to some official that you had seen the object? 
+11     Aug     1959
 
 36. Was anyone else with you at the time you saw the object?
-36.1 If you answered YES, did they see the object?
-36.2. Please list their names and addresses.
+(Circle One) Yes     No
+
+36.1 IF You answered YES, did they see the object too?
+(Circle One) Yes     No
+
+36.2 Please list their name and address:
+N/A
 
 37. Was this the first time that you had seen an object or objects like this?
-37.1 If you answered NO, then when, where, and under what circumstances did you see other ones?
+(Circle One) Yes     No
 
-38. In your opinion, what do you think the object was and what might have caused it? 
-COVER - PIECE OF PLASTIC
+37.1 IF you answered NO, then when, where, and under what circumstances did you see other ones?
+Seeing like past spring
+
+38. In your opinion what do you think the object was and what might have caused it?
+Comet - Piece of planet - flying
+
 
 - page 29 -
 
-The image does not contain any photograph. Instead, it appears to be a page from an old UFO report document, likely from Project Blue Book.
-
-Text extracted from the document:
-
 39. Do you think you can estimate the speed of the object?
-(Circle One) Yes No
-IF you answered YES, then what speed would you estimate? m.p.h.
+(Circle One) Yes   No
+IF you answered YES, then what speed would you estimate? ____________ m.p.h.
 
 40. Do you think you can estimate how far away from you the object was?
-(Circle One) Yes No
-IF you answered YES, then how far away would you say it was? feet.
+(Circle One) Yes   No
+IF you answered YES, then how far away would you say it was? ____________ feet.
 
 41. Please give the following information about yourself:
-NAME [REDACTED] 
-ADDRESS [REDACTED] 
-TELEPHONE NUMBER [REDACTED]
-What is your present job? TSGT U.S.A.F.
-Age 29 Sex MALE
-Please indicate any special educational training that you have had:
-a. Grade school
-b. High school
-c. College <REDACTED>
-d. Post graduate
-Other special training G.C.C.
+NAME [redacted]
+ADDRESS Street: [redacted] City: Helena   Zone: [redacted]   State: Montana
 
-42. Date you completed this questionnaire: 11 AUG 1957
+TELEPHONE NUMBER: [redacted]
+What is your present job? T/Sgt U.S.A.F.
+
+Age 29   Sex Male
+
+Please indicate any special educational training that you have had.
+a. Grade school ✓
+b. High school ✓
+c. College None
+d. Post graduate [blank]
+e. Technical school (Type) [blank]
+f. Other special training G.O.C.
+
+42. Date you completed this questionnaire:   11   Aug   1957
+
 
 - page 30 -
 
-The image does not contain a photograph. It appears to be a U.S. Air Force technical information sheet with a form that has been filled out.
+U. S. AIR FORCE TECHNICAL INFORMATION SHEET
+(SUMMARY DATA)
 
-U.S. AIR FORCE TECHNICAL INFORMATION SHEET (SUMMARY DATA)
-In order that your information may be filed and used as accurately as possible, please use the following space to set forth descriptions of the observational data you are submitting. You may use sketches that you believe are important. Try to present the details of the observation in the order in which they occurred. Additional pages of the same size paper may be attached if they are needed.
-NAME (First, Middle)
+In order that your information may be filed and coded as accurately as possible, please use the following space to write out a short description of the event that you observed. You may repeat information that you have already given in the questionnaire, and add any further comments, statements, or sketches that you believe are important. Try to present the details of the observation in the order in which they occurred. Additional pages of the same size paper may be attached if they are needed.
+
+NAME [REDACTED]
+(Please Print)
+
 SIGNATURE
-DATE: 11 Aug 57
-NO FURTHER COMMENT
+DATE 11 Aug. 57
+
+NO further Comment !
+
+CODE:
+(Do Not Write in This Space)
+
 
 - page 31 -
 
-The image does not contain any photograph. It appears to be a page from a document with written text.
+PAGE TWO RJECTO 38
 
-PART TWO
+2-A- THOUGHT TO BE FALLING STAR
+2-B- APPROXIMATELY 22 DEG ANGLE OF ELEVATION, AZIMUTH 272 DEG
+2-C- SAME AS ABOVE
+2-D- FIRST OBSERVED AT VERY HIGH ALTITUDE FALLING RAPIDLY AND THEN HOVERING AT ABOUT 15 OR 20 THOUSAND FEET
+2-E- FADED FROM SIGHT MOVING WESTWARD
+2-F- (TERM) MINUTES
 
-A- THOUGHT TO BE FALLING STAR
-B- APPROXIMATELY 20-25 DEG. ANGLE OF ELEVATION, AZIMUTH 270 DEG.
-C- SAME AS ABOVE
-D- FIRST OBSERVED AT A VERY HIGH ALTITUDE, FALLING RAPIDLY AND THEN
-HOVERING AT ABOUT 15 OR 20 THOUSAND FEET
-E- FADED FROM SIGHT, MOVING WESTWARD
-3-A- GROUND VISUAL 
-3- NO OPTICAL AIDS USED
-6-RVA
-4-A- 22 AUG 57
-5-A- LIGHT
-7-A- LANGLADE COUNTY JAIL
-5-A- SGT. #### 94TH FIS A/C CREW CHIEF
-8-A- VERY GOOD
-10-RVA
-9-C- 13,828 FT SCATTERED CONDITION
-10- 13 MILES
-11- NO CLOUDS VISIBLE TO NAKED EYE
-12-RVA
+3-A- GROUND VISUAL
+3-B- NO OPTICAL AIDS USED
+3-C- C-1/A
+
+4-A- #2487, 12 AUG 1957
+4-B- NIGHT
+4-C- MACOMB COUNTY JAIL
+4-D- SGT. [REDACTED], 94TH FIS A/C CREW CHIEF
+4-E- VERY GOOD
+4-F- B-N/A
+4-G- 15,000 FT SCATTERED CONDITION
+4-H- 13 MILES
+4-E- NO CLOUDS VISIBLE TO NAKED EYE
+4-F- N/A
+
+Handwritten notes on the side appear to read "Believe" and "New Comet" and "M. Keco"
+
 
 - page 32 -
 
-The image provided does not contain any photograph. It appears to be a page from a Project Blue Book UFO report document.
+Here is the text from the document:
 
-REPORT
-VT TPS 639 VISUAL 14f JAB 16
-PP HJEDFW RJEBDF RJEBDU RJBDFR RJEBQ
-DE RJEBFW 36
-P 15 AUG 54 NR-0279
-FH CONTROL 66435T ACURON SELFRIDGE AFB MICH
-TO RJEBDF/CCMDR ARC INT AFB COLORADO SPRINGS COLO
-SUBJ:/CCMDR AAHL STENBERG TECH DIV HQ WRIGHT-PATTERSON AFB OHIO
-RJEBDF/CCMDR 36TH ARIX DET WRAPS BELLEVILLE MICH
-RJEBDF/CCMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT-PATTERSON AFB OHIO
-DIRECTOR OF INTELLIGENCE, HQ USAF WASHINGTON DC
-UNCLASSIFIED/OPIS 9236 UFOB INACCORDANCE WITH AFR 200-2 DATED
-12 AUG 54 THE FOLLOWING REPORT IS HEREBY SUBMITTED:
-A- SHAPED APPEARED TO BE ROUND
+RC244
+VT WPF250 YMA214FJA0J8
+PP RJEBDW RJEPID RJEDDW RJEPHW RJEPHW
+DE RJSDFJ 38
+P 14-1252
+FH COMDR 6641ST ACWRON SELFRIDGE AFB MICH
+TO RJEDN/COMDR ADC HNT AFB COLORADO SPRINGS COLO
+RJEPH/COMDR EAST STEWART AFB NEWBURGH NY
+RJEPH/COMDR 38TH ADIV DEP WRAFS BELLEVILLE MICH
+RJEPH/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT-PATTERSON AFB CHIC
+RJEPH/DIRECTOR OF INTELLIGENCE, HQ USAF WASHINGTON DC
+ET
+UNCLASSIFIED/GPNS 0083 UFOB INACCORDANCE WITH AFR 200-2 DATED
+12 AUG 54 THE FOLLOWING REPORT IS HEREBY SUBMITTED.
+A-SHAPE APPEARED TO BE ROUND
 B- 3 FEET IN DIAMETER AT ARMS LENGTH
-C- CHANGING COLORS
-D- ONE (1) OBJECT
-E- N/A
-OBJECT SEEMED TO DART TAIL OF SPARKS
-CALL SIGN APPEARED TO BE S122 COMPARABLE TO THAT OF A JET
-USING WITH PLUMES
+C-CHANGING COLORS
+D-ONE (1) OBJECT
+E-N/A
+OBJECT SEEMED TO OMIT TAIL OF SPARKS
+TAIL OF SPARKS APPEARED TO BE SIZE-COMPARABLE TO THAT OF A JET
+USING M TELECHIMER
+H-N/A
 CONTINUOUS CHANGE FROM BRIGHT TO DIM
+
 
 - page 33 -
 
-The image does not contain any photograph. It appears to be a page from a UFO report document with handwritten text. 
+PAGE THREE RJEIDAE 1J
 
-PAGE THREE RJEDAD 1J 
-7.G A-CLEAR HIGH CEILING 
-S-NONE
-C-3-15 MILES
-C-NONE
-S-MAX
-GH A-N/A  
-B-NONE
-C-N/A 
-GCH A-NONE
-10. A-NONE  
+7.6 A-CLEAR HIGH CEILING
+
+B-N/A
+C-415234
+E-NONE
+F-N/A
+
+GIM A-N/A
+B-N/A
+C-N/A
+
+GCN A-NONE
+
+10. A-NONE
+
 11. A-NONE
-S-NONE
-12.GCL A-NONE
-B-NONE
+B-N/A
+
+12GV A-N/A
+B-N/A
+
 13. A-N/A
+
+OT
+AUG RJEIDAE
+
 
 - page 34 -
 
-The image does not contain a photograph or any visual elements. It appears to be a typed document or report from Project Blue Book.
+Here is the text I can read from the document:
 
-E-6A - FIGHTER PILOT PRESENT IN THE NORTHWESTERN SKY BOTH OBSERVERS
-STATED THAT THE OBJECT SIGHTED WAS NOT THAT OF A METEOR WHICH
-WAS ALSO VISIBLE
-E-6A
-12- SAC MISSION FLYING THROUGH AREA 
-11- H/C
-13- DIA 
-ET 
-14/24452 AUG AEDJF J
+8-A: METER WAS PRESENT IN THE NORTHWESTERN SKY BOTH OBSERVERS STATED THAT THE OBJECT SIGHTED WAS NOT THAT OF A METEOR WHICH WAS ALSO VISIBLE
+
+S- N/A
+
+10- SAC MISSION FLYING THROUGH AREA
+
+11- N/C
+
+12- N/A
+
+BT
+
+14/2245Z AUG RJDDFJ
+
+The rest of the document appears to be blurred or illegible.
+
 
 - page 35 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+7. A. N/A
+B. CLAM
+C. 45 SCATTERED
 
-PAGE THREE RJEDEW TE
-D. 12 MILES 
+PAGE THREE RJEDEW 7E
+D. 10 MILES
 E. SCATTERED
 F. NONE
-G. NONE
+
+8. NONE
+
 9. NONE
+
 10. CA 51, B-52, 33,000 FEET, ENE IN GJ LP
-11. DUTY DIRECTOR: POSSIBLE CORRELATION BETWEEN ACFT AND OBSERVED OBJECT
-12. NONE, PHOTOS OF BIG PHOTO SPOT RUN WERE BEING MADE AT 
-THE APPROX TIMES TIME OF SIGHTING 0340 TO 0347X PD 
+
+11. DUTY DIRECTOR, POSSIBLE CORRELATION BETWEEN ACFT AND
+OBSERVED OBJECT
+
+12. NONE, PHOTOS OF BIG PHOTO SPOT RUN WERE BEING MADE AT
+THE APROX TIME: TIME OF SIGHTING 0340 TO 0347X PD
 REMARKS: REPORT OF NO CONTRAILS ACCORDING TO WEATHER STATUS
 BOARD PD
+
 BT
-06/17/52 AUG RJEDEW
+06/1750Z AUG RJEDEW
+
 
 - page 36 -
 
-The image does not contain a photograph. It appears to be a page from an old UFO report document from Project Blue Book.
+0 WP003 YMB148RWAI83
+PP RJEDN RJEDWP RJEPHO RJEPNB
+DE RJDEBW 7E
+P 061230Z
+FM COMDR 763D ACWRON LOCKPORT AFSTA NY
+TO RJEDN/COMDR ADC ENT AFB COLO SPRINGS COLO
+RJEDWB/COMDR 30TH ADD WRAFS MICH
+RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER W P AFB OHIO
+RJEPHO/DIRECTOR OF INTELLIGENCE HQ USAF WAS 25 D C
+RJEPNB/COMDR EADF STEWART AFB NEWBURG NY
 
-OUTPUT TEXT:
+BT
+/UNCLASSIFIED/AFROT-OT 280019 ATTN: EADF-C/C
 
-UNCLASSIFIED/AFROT-OT 209319 ATTN: EADF-C/C
 THE FOLLOWING IS SUBMITTED IN ACCORDANCE WITH AFR 200-2:
-UFOP FD
+UFOB PD
 1. A. COMET SHAPE
-B. LINK
-C. WHITE & RED
-D. ONE
-E. N/A
-F. NONE
-G. TAIL 200 FEET-WHITE
+    B. UNK
+    C. WHITE & RED
+    D. ONE
+    E. N/A
+    F. NONE
+    G. TAIL 200 FEET-WHITE
 
-PAGE TWO RJEDSW 7E
+PAGE TWO RJEDPW 7E
+
 
 - page 37 -
 
-The image does not contain any photographs. It appears to be a scanned page from a Project Blue Book UFO report document.
+1. NONE
 
-I. NONE
-2. A OBSERVING AIRCRAFT
-B. HIGH 
-C. HIGH
-D. WEST STRAIGHT FLIGHT
-E. BEHIND CLOUD
-F. 30 TO 45 SECONDS
+2. A. OBSERVING AIRCRAFT
+   B. HIGH
+   C. HIGH
+   D. WEST STRAIGHT FLIGHT
+   E. BEHIND CLOUD
+   F. 30 TO 45 SECONDS
+
 3. A. GROUND VISUAL
-B. NONE
-C. N/A
-4. A. 6 AUG 57 PRPO
-B. NIGHT
-5. A. GJ-MN 0943
-6. A. HAMBURG, N.Y. DRUG SALESMAN, 28 YRS OLD, VFW MAPLE AVE.
+   B. NONE
+   C. N/A
+
+4. A. 6 AUG 57 PRPQ
+   B. NIGHT
+
+5. GJ-MN 0943
+
+6. A. [REDACTED], DRUG SALESMAN, 28 YRS OLD, WYP MAPLE AVE., HAMBURG, N.Y.
+
+The rest of the document appears to be mostly illegible or blank.
+
 
 - page 38 -
 
-There is no photograph present in this page from the Project Blue Book document.
+NB Case (Information Only)                                   23 July 1957
+                                                           Warren County, New Jersey
 
-LOW-FLYING DISC FRIGHTENS EARLY MORNING FISHERMAN
+                    LOW-FLYING DISC FRIGHTENS EARLY MORNING FISHERMAN
 
-July 23, 1957: Dominick Drago, a beauty-shop operator of Bethlehem, Pennsylvania, was fishing on a lake in Warren County, New Jersey, en route to Adelphia, New Jersey, where he was spending a few days' vacation. He was in a small rowboat about three-quarters of a mile away from the western shore of the lake.
+July 23, 1957: Dominick Drago, a beauty-shop operator of Bethlehem, Pennsylvania,
+was driving northeast on Route 521 in Warren County, New Jersey, en route to
+Stanhope Lake (Sussex County) to fish. It was 5:15 a.m., just before sunrise. He had just passed through Squire's Corner, a little village about three
+miles north of Blairstown. To the right of the road about a quarter of a mile
+away is White Pond. Drago was driving up a slight grade with he suddenly saw
+a large greyish oval-shaped object emerge from above a row of trees on the
+left side of the road some distance ahead. It moved swiftly, to his right
+(northwest to southeast) in a straight, level path at a 15 degree elevation
+until it passed beyond the right side of the road, when it descended slightly
+and made a sweeping counterclockwise U-turn toward the north and back toward
+the road. Stopping abruptly, it hung motionless in the air to his right,
+where between the road and White Pond. There it remained as the observer
+drove past, and it was still there when he lost sight of it.
 
-Drago was driving up a slight grade when he suddenly saw a low-flying object hovering straight overhead. Drago stated that it was in a straight, level path at an 8 degree elevation and was about 125 feet long and 30 feet wide. It was shaped like a saucer and had a bright blue light on the bottom. As it passed overhead, the object made no noise and gave off a bright light that lit up the entire road.
+Its altitude was relatively low--it seemed to Drago to be no more than
+a few hundred feet away from him. It appeared very much larger than the full
+moon; by actual comparison with coins, it was similar to a quarter of a solid
+arm's length, and tilted toward the observer from a horizontal position. It
+was a sharply defined solid body, but non-metallic in appearance; its color
+was grey. Like a dull matte (compare with previous reports), although darker
+than the brightening dawn sky behind it, the observer was certain that the object had a slightly, colorless luminosity. The shape was definitely circular;
+the bottom flat, or flattish; and the top might have been irregular, although
+it was uncertain of this detail. He did not see any cylindrical rim, or edge,
+as on a coin. When the object crossed the road, it presented a full ellipse;
+while hovering, it was visible elliptical in shape, and more pointed at the
+ends, and at this time it was inclined at a slight angle to the horizontal.
 
-Drago, becoming frightened, started to row rapidly to the shore. As the object passed, it hung motionless for a few seconds and then took off at a terrific speed in a westerly direction (northwest to southeast) in a straight, level path at what appeared to be in excess of 1,000 miles per hour. The object disappeared from sight within a few seconds.
+Mr. Drago had the object in view for at least two minutes, but since he
+was driving, it was not under unintentional surveillance. It was still ahead
+of him, and to the right of the road, when it commenced hovering, but he drove
+on past and let it behind as fast as possible, for he was alarmed by its
+sudden appearance and peculiar behavior. ("Nothing ever scared me before,"
+he remarked to us, adding that, uncertain as to what it might do next, it made
+him feel "trapped" in his car.) He finally lost sight of the object when the
+car passed under a bank of trees further along the road.
 
-Its altitude was relatively low - it seemed to Drago to be no more than a hundred feet from the water. It appeared to be approximately 125 feet in diameter and about 30 feet thick. There were no visible protrusions, and the object was smooth and without external markings or control surfaces. Its color was dull silver-gray, and it reflected the sunlight brightly. The bottom was flat, or flattish, and the top slightly domed. The color and configuration were distinctive and noticeable. There was a bright blue light located in the center of the bottom that illuminated the entire underside.
+Mr. Drago was interviewed in his home on Sept. 2nd by Ted Bloecher, Lex
+Mebane, Ivan Sanderson and Stefan Santessano. We have Chester Ehrie to thank
+for bringing the report to our attention. All the interviewers felt that Mr.
+Drago was a thoroughly trustworthy witness and that he gave a straightforward
+and unembroidered account of what he had seen.
 
-The object was flying at a constant speed and elevation and did not waver or fluctuate. There was no trail of vapor, smoke, or exhaust visible. The only visible change was the brightening and dimming of the blue light, which pulsed regularly and made the object seem to "throb" as it passed overhead. The witness was not under any sort of induced surveillance; it was still ahead of him and continuing on a straight course when it suddenly accelerated and disappeared.
-
-The witness's appearance and behavior were normal. ("Nothing out of the ordinary that would explain it.") Drago was an ordinary working man, an American citizen of Italian descent, with no known interest in or connection to any unidentified flying objects. He had no explanation for what he had seen, and was quite shaken by the experience.
 
 - page 39 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document describing a UFO incident. The text on the page is as follows:
-
-No Case (Information Only)
-Date: 24 July 1957
-Location: Las Cruces, New Mexico
-El Paso, Texas
+No Case (Information Only)                   24 July 1957
+                                between:   Las Cruces, New Mexico
+                                           El Paso, Texas
 
 THE UFO INVESTIGATOR
 
@@ -913,75 +1342,169 @@ Missile Flight
 Safety Chief Reports
 Sighting of Large UFO
 
-According to Mr. Wagner, missile flight safety chief, an entire UFO was visible from Las Cruces, New Mexico, to El Paso, Texas. This large UFO, estimated to be about 50 feet in diameter, was first seen in Las Cruces and was observed moving toward El Paso. The sighting lasted for about 15 minutes, and it was observed by many people.
+Nathan Wagner, missile flight safety
+chief for the White Sands Proving Ground,
+has reported the sighting of a "large, un-
+identifiable object" between Las Cruces,
+New Mexico and El Paso, Texas. This
+report has added importance because of
+Mr. Wagner's statement regarding the
+possibility that perhaps may be involved
+in near collisions on airways. (Story in
+this issue)
 
-Mr. Wagner reports that visibility was excellent, and the sky was clear. He and his assistants observed the UFO through high-powered binoculars. The UFO appeared to be under intelligent control, and its maneuverability may have involved some type of propulsion system unknown to us.
+According to Mr. Wagner, his entire
+family saw this large UFO for 25 to 40
+seconds while driving near the mountains
+sighted, the object was heading east
+toward the Organ Mountains. The missile
+safety chief was driving to El Paso when
+the UFO was first sighted by his wife, then
+by both their children.
 
-According to Mr. Wagner, his entire staff was greatly concerned by this sighting, as they were responsible for the safety of missile flights in that area. They felt that the UFO posed a potential hazard to flight operations. The UFO was observed to make sharp turns and to accelerate to high speeds, something beyond the capability of any known aircraft.
+Mrs. Wagner, the missile expert said,
+called it a "flying saucer." All agreed
+that it was not a familiar shape. The UFO
+was traveling so fast that by the time Mr.
+Wagner had stopped his car for a good look
+it had vanished.
+
 
 - page 40 -
 
-There is no photograph present in this image. It appears to be a typed document containing text related to a UFO sighting.
+No Case (Information Only)                                   25 July 1957
+                                                            Clackamas County, Oregon
 
-No case (Information only)
-25 July 1957 
-Clackamas County, Oregon
+July 25, 1957: While driving northward along Springwater Road, in Clackamas County, Oregon, in the vicinity of the Estacada-Springwater Highway, Brad Woodward and Carl Pollack, two county tax appraisers, were "almost blinded" at 12:35 p.m. when a brilliant disc-shaped object suddenly crossed the sky in front of them. They said the object resembled a "bright silver dollar" as it passed from their left to right at a "terrific" speed, about 150 above the horizon. "The object seemed to be spinning and was filled at a slight angle," are didn't hear the slightest sound or see any sign of a vapor trail, the men said. They had it in view only several seconds before it disappeared. From sight beyond the right-hand corner of the car's windshield. -- Oregon City Enterprise Courier, 7/23. (Since the object was definitely seen as a flat disc, there is no question of its being a daylight fireball; a fireball would have been reported by many observers over a wide area.)
 
-July 25, 1957: While driving northeast along Springwater Road, in Clackamas County, Oregon, R.S. Pallette, manager of Pallette Box and Lumber Company saw a circular object moving silently overhead. He stopped his car, and he and his wife got out and watched the object for almost two minutes. They said the object appeared to be disc-shaped, silvery, and moving very rapidly. It suddenly disappeared into the sky in front of them. 
-
-The object seemed to be of a bright glowing nature, and was tilted at a 45-degree angle. The family reported the sighting to the Blue Book Center at Altoona, Pennsylvania. The object was seen to be rotating or spinning and was followed by a tail-like projection as it suddenly disappeared. The object made no sound, and did not seem to disturb the surroundings. The sight has been reported by many observers over a wide area.
 
 - page 41 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-Text transcription:
+No Case (Information Only)                                   30 July 1957
+                                                             Galt, Canada
 
-THE CASE INCIDENT: From indefatigable Gene Duplantier, 1957 Brant Clair Avenue, Galt, Ontario, Canada. His report is as follows: On July 30 at approximately 12:30 a.m. we were awakened by a bright light, and as he said, "errors". There were three prints in a circular area as if some object had landed. We could not find any other indications of landing, but when we investigated in the morning as he said, "errors". There were three prints in a circular area as if some object had landed. We could not find any other indications of landing, but when we investigated in the morning the prints were still clearly visible.
+THE GALT INCIDENT: From indefatigable Gene Duplantie; 1157 Saint Clair Avenue, 
+West, Toronto 10, Ontario, Canada, besides the full account of the Galt incident, 
+when a boy saw a source and later three-toed footprints burn marks on ground were 
+found, we received the following comments: "I would like to add the following in-
+formation about the Galt sighting. I spoke to Jack, and he told me and showed me 
+various things the paper did not say. He also corrected some things the paper said 
+and as he said, 'error'. There were three prints in the circular area as if it 
+had a tripod landing gear. The distances were approximately 14, 15 and 17 feet 
+between prints. Jack didn't go to the scene after it took off. He went home. It 
+wasn't until Thursday that he and two friends went to view the scene. There was 
+slight radiation activity around the ground. A Geiger counter, which has been 
+checked by a local resident with a Geiger counter. An investigator for the NICAP 
+organization visited the youth. The official preferred to remain unknown. The 
+Royal Canadian Air Force up to then, hadn't investigated, which seemed strange to 
+me."
 
-"Monster" Theory Discarded in UFO Landing Case Witnessed in Galt, Canada
-An NICAP investigation of the Galt, Ontario "monster" story, which was published in a national magazine in 1957, was inconclusive, despite claims that some horrifying "monster" was involved. Stephens said the evidence strongly indicated this was actually a genuine UFO landing, rather than any "monster" theory.
+July 30-Galt, Canada-bright, humming, silver UFO hovered over field, sent dog 
+barking, then landed. & panicked witness. Newsman found several burned patches & 2 3-toed footprints (10 wide at toes, 18 long, taper). 
+to point at heel). Corroborated by 2nd witness. UFO into ground, RCAF & Po-
+lice made no comment. (I wish a Zoologist would investigate!)...(?)
 
-According to his signed statement, Duplantier said the object was about 50 feet in diameter and seemed to have landed on or near the ground. The area where the object landed or rested was found to have an indentation about 4 inches deep and about 10 feet in diameter. Stephens said there were three circular impressions or depressions in the ground, each about 18 inches in diameter and spaced about 3 feet apart, which could have been caused by the landing gear of the object.
+"Monster" Theory Discarded in 
+UFO Landing Case Witnessed 
+in Galt, Ontario, Canada
+
+An on-the-spot NICAP investigation of the Galt, Ontario "monster" story, which was 
+publicized on August 3, 1957, has now been completed and no evidence of a hoax 
+creature was involved, in the first known case of its kind. Careful checking of 
+evidence indicates the incident cannot be explained by known means, and has not 
+been discredited.
+
+The story began when 15-year-old Jack Stephens reported having seen 
+a round, one-stopped object four miles southwest of Galt on July 30. According to his 
+signed NICAP report, the brightly glowing UFO hovered and then descended to about 
+45 minutes. Then, after ascending vertically, it leveled out and disappeared at speed 
+exceeding that of a jet.
+
+When the UFO descended it made a throbbing sound, Stephens said. The lower part 
+was aluminum colored; the upper part brighter, like chromium. In an interview with 
+Ray Francis of the Galt EVENING REPORTER, Stephens said the domed top did not 
+rotate, but the main body did revolve at high speed. As the machine hovered near the 
+ground, he said, he could see a reddish flame beneath it. When the rotating action 
+slowed down, its glow resolved into several small lighted areas, which he called portholes.
+
+After the UFO took off, Stephens said, he was too frightened to tell anyone for 
+two days. When the area was examined by two investigators, some broken branches, several charred 
+spots on the ground, and indentations 18 inches long, shaped roughly like huge, 
+three-toed footprints, were found.
+
+An implication that it was a hoax—not
+
+This suggestion, forwarded by NICAP's 
+Special Adviser Wilson B. Smith, termed 
+head of the Canadian Government's UFO 
+project, came from Mr. Alfred Emond, 
+who made a personal check on the Galt
+
 
 - page 42 -
 
-There is no photograph present in this image. It appears to be a page from a Project Blue Book report or document, containing a table with information about various UFO sightings or incidents.
-
 1 - 19 AUGUST 1957 SIGHTINGS
 
-DATE LOCATION OBSERVER EVALUATION
-8-12 United States & Canada Military Astral (DOUBTFUL)
-10-9 Jeffersonville, Florida Military Other (UNIDENTIFIED RP:)
-10-12 Westchester, MD Military Astral (DOUBTFUL)
-10-21 Arlington, Virginia Military Aircraft
-11-1 Salt Lake City, Utarb Military Aircraft
-11-6 Kellogg, Idaho Military Other (METEOR?)
-11-7 Mifflin, Pennsylvania Civilian Aircraft (METEOR?)
-11-8 Assam, India Military Insufficient Data
-11-11 Little AAS, Indiana Civilian Military Insufficient Data
-11-13 South River, New Jersey Civilian Astro (VENUS) SUPT 23)
-11-15 Payton, Ohio Civilian Astral (METEOR)
-11-16 Westwood, New Jersey Civilian Aircraft (METEOR)
-12-5 Pawling, New York Civilian Astral (METEOR)
-12-7 Stoneham, California Civilian Insufficient Data
-12-9 Victorville, Texas Military Aircraft 
-12-10 Rockville, Tennessee Military Aircraft
-12-12 Cupertino, California Civilian Aircraft
-12-13 Jerome, Oregon Civilian Astro (METEOR) 
-12-14 New York, Maryland Civilian Aircraft
-12-15 Riverside, California Civilian Aircraft
+DATE    LOCATION                                OBSERVER    EVALUATION
 
-ADDITIONAL REPORTS
+Aug     United States & Canada                  Multi       Astro (CONR MEVG)
+1st Mon Jacksonville, Florida                               Other (UNRELIABLE SPT)
+1        Goffstown, New Hampshire               Military    Insufficient Data
+1        Livingston, Montana                                Astro (METEOR)
+1        Arlington, Virginia                    Multi       Aircraft
+1        Calif, Oregon, Washington, Idaho                   Other (METEOR SHOWERS)
+3        Northern California                    Military    Astro (METEOR)
+3        Pottsville, Pennsylvania               (Unknown/Civilian)
+5        Silver Springs, Maryland                           Other (UNRELIABLE REPORT)
+5        Atlanta, Georgia                                   Astro (METEOR)
+7        Indiana                                Multi       Insufficient Data
+7        Lamar Hill AFB, Indiana (CASE MISSING) Military    Aircraft
+7        Livingston Manor, New York                         Astro (METEOR)
+7        Dayton, Ohio                           Multi       Balloon
+7        Lakehurst, New Jersey                              Astro (VENUS & JUPITER)
+9        Dayton, Ohio                                       Astro (METEOR)
+9        Pawling, Sauerville, New York          Civilian   Balloon
+9        Geri Pelt, Michigan                                Misc
+9        Dayton, Ohio                                       Aircraft
+9-13    Bakersfield, California                             Astro (METEOR)
+10       Syracuse, Indiana                      Civilian   Insufficient Data
+12       New Haven, Connecticut                             Aircraft
+12       Victoria, Texas                                    Aircraft
+13       Knoxville, Tennessee                               Astro (METEOR)
+13       Belton, Missouri                       Military   Aircraft
+13       Fresno, California                                 Astro (METEOR)
+13       Elgin, Oregon                                      Other (HALLUCINATIONS)
+14       New York, New York                                 Insufficient Data
+14       Severna Park, Maryland                             Aircraft
+14       Woodland Hills, California                         Aircraft
+14       Los Angeles, California                            Insufficient Data
+15       Pikeville, Louisiana                   Civilian   Balloon
+15       Mabank, Texas (CASE MISSING)                       Other (UNRELIABLE REPORT)
+16       Nyack Creek, Oregon                                Insufficient Data
+16       Tacoma, Washington                                 Astro (METEOR)
+19       Cisco, Missouri                        Multi/Military
+19       Merced, California                                 Insufficient Data
 
-DATE LOCATION SOURCE EVALUATION
-?-?-?? Calverson, California Newspaper Insufficient Data 
-?-?-?? Springfield, New Jersey Newspaper Insufficient Data
-?-?-?? Los Angeles, California Newspaper Insufficient Data
-?-?-?? Riv. Park, Maryland Newspaper Insufficient Data
-?-?-?? Beverly Hills, California Newspaper Insufficient Data
-?-?-?? Springfield, Massachusetts Newspaper Insufficient Data
-?-?-?? Watertown, Massachusetts Newspaper Insufficient Data
+ADDITIONAL REPORTED SIGHTINGS (OF 1957)
+
+DATE    LOCATION                                SOURCE      EVALUATION
+
+Jul     Universe                                Science     Developing
+        Mineola, California                     News Ltd.
+        New Jersey                              Developing
+1       Millville, New Jersey                   Developing
+21      Jamacia, Connecticut                    Developing
+        News
+14      ATC, Colorado                           Developing
+        King, Massachusetts                     Developing
+        News
+15      York City, New York                     Developing
+20      Cape May, New Jersey                    Developing
+        Developing
+        Developing
+
 
 - page 43 -
 

@@ -1,35 +1,28 @@
-This page does not contain a photograph.
-
-Here is the extracted text from the document:
-
-```
 PROJECT 10073 RECORD CARD
 
 1. DATE
 27 August 1956
 
-3. DATE-TIME GROUP
-Local
-GMT 28/0200Z
-
-5. PHOTOS
-☐ Yes
-☒ No
-
 2. LOCATION
 Detroit, Michigan
 
+3. DATE-TIME GROUP
+Local 28/0200Z
+GMT
+
 4. TYPE OF OBSERVATION
-☒ Ground-Visual
-☐ Ground-Radar
-☐ Air-Visual
-☐ Air-Intercept Radar
+Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+■ No
 
 6. SOURCE
 Civilian
 
 7. LENGTH OF OBSERVATION
-unknown
+Unknown
 
 8. NUMBER OF OBJECTS
 one
@@ -38,59 +31,51 @@ one
 unknown
 
 10. BRIEF SUMMARY OF SIGHTING
-One object round-size of baseball.
-Color yellow-white. Object observed
-while observer was walking in yard.
-WX balloon in area. BX balloon launched
-Fm either SAFB or Willow Run.
+One object round-size of baseball. Color yellow-white. Object observed while observer was walking in yard. WX balloon in area. WX balloon launched in either SAFB or Willow Run.
 
 11. COMMENTS
 Possible Balloon.
 
 12. CONCLUSIONS
-☐ Was Balloon
-☒ Probably Balloon
-☐ Possibly Balloon
+■ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
 
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
+ATIC FORM 329 (REV 26 SEP 53)
 
-☐ Was Astronomical
-☐ Probably Astronomical
-☐ Possibly Astronomical
-
-☐ Other
-☐ Insufficient Data for Evaluation
-☐ Unknown
-----------------------------
-ATIC FORM 329 (REV 26 SEP 52)
-```
 
 - page 1 -
 
-There are no photographs present on this page of the document.
+Here is the text from the document:
 
-Now, here is the transcribed text from the image:
+Notation: 28/02097
 
-```
-Action
+29 Aug 56 10 09
 
-29Aug56 10 09
+JEDWP H858WPF653 YMA212 YVD591TFJA143
+PP RJEDGV RJEDEN RJEDWP RJEPNQ RJEPNB
+DE RJEDFJ JS
+P 2321097
 
-JEDWP H56WP633 YMAG12 YYD291TFJA143
-PP RJEDWP RJEDEN RJEDPP RJEPHO RJEPNE 
-DE RJEDFJ 3S
-P 2821987
-FM COMDR 651ST ACWRON SAFB MICH 
-TO RJEDEN/COCMDR ADC ENT AIR FORCE BASE COLORADO SPRINGS COLORADO 
+FM COMDR 6615T ACWRON SAFB MICH
+TO RJEDEW/COMDR ADC ENT AIR FORCE BASE COLORADO SPRINGS COLORADO
 RJEPNB/
-DR EADFOSTEWAFT AFB NEWBURGH N Y 
-RJEDW/COMDR 35TH AIR DIV DEF WRAFS BELLEVILLE MICH 
-RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB 
-OHIO 
-BT
-/UNCLASSIFIED/OPNS 0599 UFOB IN ACCORDANCE WITH AFR 200-2 DTD 12 
+DR EADFOSTENART AFB NEWBURGH N Y
+RJEDBW/COMDR 30TH AIR DIV DEF WRAPS BELLEVILLE MICH
+RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB
+OHIO
+DT
+
+/UNCLASSIFIED/OPNS 0099 UFOB IN ACCORDANCE WITH AFR 238-2 DTD 12
 AUG 54 THE FOLLOWING REPT IS HEREBY SUBMITTED.
 
 1 (A) ROUND
@@ -102,47 +87,53 @@ AUG 54 THE FOLLOWING REPT IS HEREBY SUBMITTED.
    (G) N/A
    (H) N/A
    (I) NEGATIVE
+
 2 (A) OBSERVED WHILE WALKING IN YARD
-   (B) 063
+   (B) 350
    (C) N/A
-```
+
 
 - page 2 -
 
-There is no photograph present in this document.
+3. (A) GROUND VISUAL
+   (B) BINOCULARS
+   (C) N/A
 
-OCR Output:
+4. (A) 28/2202Z
+   (B) NIGHT
 
-```
-3 (a) GROUND VISUAL
-      (b) BINOCULARS
-      (c) N/A
-4.  (a) 28/2206Z
-      (b) NIGHT
-5. '1 MI NORTH DETROIT
-6. (a) MRS xxxxxx xxxxxxxx
-      xxxxx DETROIT MICH
-      AGE 29
-      SALES LADY
-      (b) N/A
-7.  (a) SCTD CLOUDS
-      (b) 5xxxx 276-33
-           10xxxx 300-33
-           15xxxx 300-22
-           20xxxx 286-26
-           30xxxx 280-13
-           50xxxx 300-15
-      (c) 100x SCATTERED
-      (d) 7 MI
-      (e) 1/10
-      (f) N/A
-8.  WX BALLOONS IN LCL AREA
-9.  N/A
-10. N/A
-11. CAPT USAF SR DIR. WX BALLOONS LAUNCHED FROM SELFRIDGE WX OR WILLOW RUN
+5. 1 MI NORTH DETROIT
+
+6. (A) MRS
+    DETROIT MICH
+    AGE 29
+    SALES LADY
+    (B) N/A
+
+7. (A) SCTD CLOUDS
+    (B) 5'000 270-33
+    10'000 306-33
+    15'000 300-22
+    20'000 280-26
+    30'000 280-13
+    50'000 300-15
+
+    (C) 100 SCATTERED
+    (D) 7 MI
+    (E) 1/10
+    (F) N/A
+
+8. WX BALLOONS IN LCL AREA
+   9. N/A
+   10. N/A
+
+11. CAPT USAF SR DIR. WX BALLOONS LAUNCHED FROM SELFRIDGE WX OR WILLOW
+    RUN
+
 12. NEGATIVE
-ET' 25/2125Z AUG RJEDFJ
-```
+
+    26/2105Z AUG RJEDFJ
+
 
 - page 3 -
 

@@ -1,123 +1,109 @@
-The document does not contain any photographs.
-
-Here is the OCR output of the text presented in the document:
-
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE                                    2. LOCATION
-2 Feb 58                                  Albuquerque, N.M.
+1. DATE
+2 Feb 58
 
-3. DATE-TIME GROUP           4. TYPE OF OBSERVATION
+2. LOCATION
+Albuquerque, N.M.
+
+3. DATE-TIME GROUP
 Local
-CMT 02/1336Z                ☐ Ground-Visual       ☐ Ground-Radar
-                             ☐ Air-Visual             ☐ Air-Intercept Radar
-5. PHOTOS                    6. SOURCE 
-☐ Yes
-☒ No                       ☒ Military
-                            ☐ 
+CMT 02/13262
 
-7. LENGTH OF OBSERVATION       8. NUMBER OF OBJECTS             9. COURSE
-7 secs                                        one                                   SE to NW
+4. TYPE OF OBSERVATION
+☑ Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+☑ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+7 secs
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+SE to NW
 
 10. BRIEF SUMMARY OF SIGHTING
-White circular obj, size of pea.
-In sight for 7 secs, traveled fm SE
-to NW, disappearing behind terrain.
-Initial observation at 45 degs elev
-020 AZ, Disappearance 20 deg elev
-320 deg AZ. observer looking North.
+White circular obj, size of pan. In sight for 7 secs, traveled fm SE to NW, disappearing behind terrain. Initial observation at 45 deg elev 020 AZ. Disappearance 20 deg elev 320 deg AZ. Observer looking North.
 
 11. COMMENTS
-Obj viewed for 7 secs apparently
-moving good distance. Consistant
-with meteor however obj viewed at
-dawn & possessed sharp outline
-insufficient data to conclude
-analysis.
+Obj viewed for 47 secs apparently moving good distance. Consistent with meteor however obj viewed at dawn & possessed sharp outline insufficient data to conclude analysis.
 
 12. CONCLUSIONS
-☐ Balloon                                  ☐ Was Aircraft
-☐ Probably Balloon                      ☐ Probably Aircraft
-☐ Possibly Balloon                      ☒ Possibly Astronomical
-☐ Was Missile                            ☐ Probably Astronomical
-☐ Probably Missile                       ☐ Other
-☐ Possibly Missile                       ☐ Insufficient Data for Evaluation
-                                                             ☐ Unknown
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+☑ Insufficient Data for Evaluation
+□ Unknown
 
-ATSC FORM 329 (REV 26 SEP 52)
-```
+(ATIC FORM 329 (REV 26 SEP 52))
 
-Please note that the checkboxes (☐) in the original text have been replaced with appropriate marks (☒) to indicate selected options based on the visual representation in the document.
 
 - page 1 -
 
-The image contains no photographs. It appears to be a scanned page of a historical document with text and some handwritten annotations. Below is the text extracted from the document:
+Here is the text from the document:
 
-```
-02/1336
-Feb 3 22 18:59
-RAGE61
-V SQCE65 YDA661 WYE648 WDAE42DNAES4DNJ262
+Witness
 
-MM RJEDDN RJEDSO RJEPHQ
-
-DE RJWFNDN 2J
-
-M 232E162
-
-FM COMDR 667TH ACWRON WEST MESA AFS NM
-
-TO RJEDDN/COMDR ENT AFB
-
-RJWFND/COMDR 34TH ADD
-
+RAG81
+V SCE65 YDAG61 WYEX48 WDA642DNA654DJN202
+MY RJEDDN RJEDSG RJEPHO
+DE RJWFDN 2J
+N 0326162Z
+FM COMDR 667TH ACURON WEST MESA AFS NM
+TO RJEDDA/COMDE ENT AFS
+RJWFN/COMDR 34TH ADD
 RJEDSO/COMDR ATIC
-```
 
-The handwritten annotations include "02/1336" at the top-right corner, several numbers, and possibly a signature on the left side of the document. Additionally, there are numbers and letters scribbled near the edge of the page. These annotations might have been made by an individual who was reviewing or processing the document.
+FEB 3 22 18'53
+
+D 454
+3-4X20
+80
+
 
 - page 2 -
 
-There are no photographs on this page, only typewritten text. Here is the text output from the document:
-
-```
-DIRECTOR, INTELLIGENCE AC USAF
-
-BT
 UNCLAS OPS 44 PD UFOB
-1 - (A) CIRCULAR (B) PEA (C) WHITE (D) ONE (E) THROUGH (1) NEGATIVE
-2 - (A) PARKED IN DIRECTION OF SIGHTING (NORTH (B) <5 DEGREES AT
-<22 DEGREES (C) <2 DEGREES AT (330 DEGREES (D) TRAVELLING SOUTHEAST
-TO NORTHWEST (E) DISAPPEARED DUE TO TERRAIN (F)<SEVEN SECONDS
-3 - (A) GROUND VISUAL (B) NONE (C) N/U
-    - (A) 0336Z 7 - =0636
-    - (A) 02/1355Z FEBRUARY 1958 (B) DAWN
-4 - EJPP 180 COMM 57TH STREET SW AND CENTRAL AVE CMM ALBUQUERQUE
-CMM NMEX PD
-5- (E) MARSHALL CORSON CMM T/SCT CMM 687TH AC&W SQ CMM RADAR SUPER-
-PAGE TWO RUWFON 2J
+
+1- (A) CIRCULAR (B) PEA (C) WHITE (D) ONE (E) THROUGH (F) NEGATIVE
+
+2- (A) PARKED IN DIRECTION OF SIGHTING (NORTH) (B) 45 DEGREES AT (C) 220 DEGREES (D) 330 DEGREES AT (E) TRAVELING SOUTHEAST TO NORTHWEST (F) DISAPPEARED DUE TO TERRAIN (G) SEVEN SECONDS
+
+3- (A) GROUND VISUAL (B) NONE (C) N/U
+   (D)136-7/8/64
+
+4- (A) 32/153Y FEBRUARY 1958 (B) DAWN
+
+5- EJPT 130 COMM 57TH STREET SW AND CENTRAL AVE CMM ALBUQUERQUE
+   CMM NMEX PD
+
+6- (E) MARSHALL CORSON CMM T/SGT CMM 687TH AC&W SQ CMM RADAR SUPER-
+
+PAGE TWO RJWFDN 2J
 VISOR PD
-7 - (A) CLEAR (B) 352 DEGREES AT 13 KNOTS CMM 342 DEGREES AT 18 KNOTS
-CMM 314 DEGREES AT 15 KNOTS CMM 290 DEGREES AT 25 KNOTS CMM 360
-DEGREES AT 45 KNOTS CMM 314 DEGREES AT 72 KNOTS CMM 350 DEGREES AT
-30 KNOTS 090 DEGREES AT 28 KNOTS (C) CLEAR (D) 63 MILES (E) NONE
-(F) NONE
-- NONE
-CURRENT WEATHER BALLOON SCHEDULES SHOW A BALLOON
-WAS RELEASED AT ALBUQUERQUE ABOUT THE TIME OF
-SIGHTING, HOWEVER, WINDS TEND TO DISPROVE THIS DURING
-THE TIMES GIVEN. THE BALLOON SHOULD HAVE BEEN
-TRAVELING IN AN ALMOST EXACTLY WESTERLY DIRECTION.
-IF IT WAS LOOKING SOUTH INSTEAD OF NORTH,
-THE WINDS WOULD HAVE BEEN THE BALLOON HEADING 
-SE.
 
-                                   POSS BALLOON
-3/3/201252 FEB RUWFON
-```
+7- (A) CLEAR (B) 330 DEGREES AT 12 KNOTS CMM 340 DEGREES AT 10 KNOTS
+   CMM 310 DEGREES AT 15 KNOTS CMM 290 DEGREES AT 25 KNOTS CMM 300 DEGREES AT 45 KNOTS CMM 310 DEGREES AT 72 KNOTS CMM 300 DEGREES AT 20 KNOTS (C) CLEAR (D) 60 MILES (E) NONE (F) NONE
 
-Note: The text is formatted to reflect the layout of the original typewritten document. Some areas are not entirely clear due to the quality of the source material, marked by "<" to indicate uncertainty in the text accuracy.
+Handwritten note: A check with balloon schedule show a balloon was released at Albuquerque about the time of sighting. However, unable the observation help during inquiry. It would have had to go into the wind. If he was looking South instead of North, he would have seen the balloon heading SE.
+
+Bottom of page: POSS BALLOON
+
 
 - page 3 -
 

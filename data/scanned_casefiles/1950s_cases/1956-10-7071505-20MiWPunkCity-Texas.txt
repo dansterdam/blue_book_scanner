@@ -1,111 +1,126 @@
-There are no photographs present in this image.
-
-Here is the text from the document:
-
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE                     2. LOCATION
-October 1956               20 Mi W Punk City, Texas
-3. DATE-TIME GROUP         4. TYPE OF OBSERVATION
-GMT_____/10/_____/____     ☐ Ground-Visual  ☐ Ground-Radar
-                            ☑X Air-Visual   ☐ Air-Intercept Radar
-5. PHOTOS                  6. SOURCE
-☑ No                       ☑X Civilian
-☐ Yes
-7. LENGTH OF OBSERVATION   8. NUMBER OF OBJECTS   9. COURSE
-five seconds               two                    North to South
-10. BRIEF SUMMARY OF SIGHTING              11. COMMENTS
-Two white and bright trailing lights.      Duration & description indicate
-Objects emitted bright flashes followed    that this sighting was caused by
-by a trailing light. Objects seen          a meteor or meteors. Evaluation:
-above 20,000 ft. heading from N to S.      "probably meteors."
-Object was observed air visually for
+1. DATE
+1 October 1956
+
+2. LOCATION
+20 Mi W Punk City, Texas
+
+3. DATE-TIME GROUP
+Local
+
+4. TYPE OF OBSERVATION
+Ground-Visual [ ] Ground-Radar [ ]
+x Air-Visual [ ] Air-Intercept Radar [ ]
+
+5. PHOTOS
+No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+five seconds
+
+10. BRIEF SUMMARY OF SIGHTING
+Two white and bright trailing lights.
+Objects emitted bright flashes followed
+by a trailing light. Objects seen
+above 20,000 ft. Heading from N to S.
+Object was observed all visually for
 five seconds.
 
-                           12. CONCLUSIONS
-                           ☐ Was Balloon
-                           ☐ Possibly Balloon
-                           ☐ Possibly Aircraft
-                           ☑X Possibly Meteor
-                           ☐ Was Aircraft
-                           ☐ Possibly Astronomical
-                           ☐ Possibly Meteorological
-                           ☐ Other:
-                           ☐ Insufficient Data for Evaluation
-                           ☐ Unknown
+11. COMMENTS
+Duration & description indicate
+that this sighting was caused by
+a meteor or meteors. Evaluation:
+"probably meteors."
 
-ATTC FORM 329 (REV 25 SEP 52)
-```
+8. NUMBER OF OBJECTS
+two
 
-Please note that some parts of the document may include text that is difficult to decipher or not fully visible due to the quality of the scan. The text provided is reproduced to the best recognition ability based on the visible content.
+9. COURSE
+North to South
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[x] Was Astronomical
+[x] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other:
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image provided does not contain a photograph; it is a page with text, specifically a communication message, presumably from a military or official source, regarding an unidentified flying object (UFO). Below is the OCR output of all the text found in this document:
+Here is the text from the document:
 
-```
-1500 EST
-UFO RPT MSG
-
-CV. NF°L'' &o 7 _ FOG EVC'AMiT 
-
-TO: 52 
-
-39131042
-•    •    •    •    •    •    •    • 
-
-JEDWP M15 WPC:46 YDDEC9 YWC557 TWDC23DECDAHC:10C
-MM RUEDEN RUEDNP RUEPJA RJWFJDN
-DE RUWJLE ID
-FM COMDR 27TH AIR DIV DEF HAMILTON AFB CALIF
-TO RUEDEN/COMDR ADC ENT AFB COLO
-RUEDVP/COMDR AIR TECH INTEL CTR WRIGHT PATTERSON AFB OHIO
-RUPHMC/DIR OF INTEL HQ USAF WASHDC
-INFO RJWFJDN/COMDR 34TH AIR DIV DEF KIRTLAND AFB NMEX
-BT
-UNCLAS 2701 J—#215 UFOB PD
+[Top of document, partially illegible]
 
 01/09282
-```
 
-Please note that due to the quality of the scan, some characters may be incorrect or uncertain.
+[Witness]
+
+JEDMP M118 UPC-46 YDUOS TYCG57 THBG62JBAG1AG
+MH RJEDEN RJEMHP RJEMHQ RJMFDN
+DM RJMFPJL 10
+N 9126WEZ
+FM COMDR 27TH AIR DIV DET NORTON AFB CALIF
+TO RJFDEM/COMDR ADC ENT AFB COLO
+RJEMHP/COMDR AIR TECH INTL CTA WRIGHT PATTERSON AFE OHIO
+RJEMHQ/DIR OF INTEL HQ USAF WASHDC
+INFO RJMFDN/COMDR 34TH AIR DIV DET KIRTLAND AFE NMEX
+BT
+UNCLAS 2701 J-M819 UFOB PD
+
+[Handwritten notes on right side of document: 
+01/09282
+3. HEY
+2. 412...
+9]
+
+There are also some stamps at the bottom right of the document, including one that appears to say "ATTIC" and another with a date.
+
 
 - page 2 -
 
-There is no photograph present in this image. Below is the text contained in the image, produced as an OCR output:
+1. A. TRAILING LIGHT. B. UNK. C. WHITE AND BRIGHT. D. TWO. E. NONE.
+   F. BRIGHT FLASHES. G. TRAILING LIGHT FOLLOWING BRIGHT FLASHES. H. NONE. I. NONE.
 
-```
-A. TRAILING LIGHT; B. UNK. C. WHITE AND BRIGHT. D. TWO. E.NONE.
-F. BRIGHT FLASHES. C. TRAILING LIGHT FOLLOWING BRIGHT FLASHES.
-H. NONE. I. NONE.
+2. A. BRIGHT FLASHES. B. ABOVE 20 ANGLES HEADING FROM NORTH TO SOUTH. C. SAME AS B. D. NONE. E. FADED OUT AFTER TRAILING LIGHT. F. FIVE SECONDS.
 
-A. BRIGHT FLASHES; B. ABOVE 25 ANGELS HEADING FROM NORTH TO
-SOUTH. C. SAME AS B. D. NONE. E. FADED OUT AFTER TRAILING LIGHT.
-F. FIVE SECONDS.
+3. A. AIR VISUAL. B. NONE. C. DC-7 UNITED 747, 20 ANGLES, 300 KNOTS, LOS ANGELES.
 
-A. AIR VISUAL. B. NONE. C. DC-7 UNITED 707, 25 ANGELS, 330 KNOTS,
-LOS ANGELES.
+4. A. 9928. 1 OCT 57. B. NIGHT.
 
-A. 3928/1, 1 OCT 57. B. NICHT.
+5. 20 MILES WEST OF PUNKA CITY, TEXAS.
 
-PAGE TWO RJ/MPJB 1B
+6. A. CIVILIAN, CAPTAIN, UNITED AIRLINES.
 
-5. 28 MILES WEST OF PUNKA CITY, TEXAS.
+7. A. UNKNOWN. B. NOT AVAILABLE. C. N/A. D. N/A. E. N/A. F. N/A.
 
-A. CIVILIAN, CAPTAIN, UNITED AIRLINES.
-A. UNKNOWN. B. NOT AVAILABLE. C. N/A. D. NYA. E. N/A. F. N/A.
-H. NONE.
-I. NOT KNOWN.
-12. CAPT WE TAPPAN, ADCC CONTROLLER.
+8. NONE.
+
+9. NONE.
+
+10. NOT KNOWN.
+
+11. CAPT WE TAPPAN, ADCC CONTROLLER.
+
 12. NONE.
 
-31
+1/2013Z OCT RJMPB
 
-1/231352 OCT RJ/MPJB
+12 60 95400Z
 
-12 601 95 H302
-```
 
 - page 3 -
 

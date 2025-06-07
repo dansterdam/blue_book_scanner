@@ -1,70 +1,128 @@
-The image does not contain a photograph. The image appears to be a project record card from Project 10073, which contains textual information about a reported UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 10 September 1958
-2. DATE/TIME GROUP: LAST: 11:45Z/4
-3. PHOTO: ¨ Yes
-4. TYPE OF OBSERVATION: Ground-Visual
-5. LOCATION: N of San Bernardino, Calif.
-6. DURATION OF OBSERVATION: 2
-7. NUMBER OF OBJECTS: 1
-8. COURSE: 270
-9. BRIEF SUMMARY OF SIGHTING: Two objs fly large, one in front, small one above & behind, shape of ball, darlish in color, not fuzzy tail, caused buzzing on TV set.
-10. CONCLUSIONS: ¨ Was Balloon, Possibly Balloon Possibly Aircraft, Possibly Astronomical, ¨ Sufficient Data for Evaluation
-11. COMMENTS: An assist plot shows the larger objs to be in the exact loation of an aircraft on the airerspeed of about 300 mph & does not move a stir or in flaper flight.
+
+1. DATE
+10 September 1958
+
+2. LOCATION
+N of San Bernardino, Calif.
+
+3. DATE-TIME GROUP
+Local
+GMT 11:07:067
+
+4. TYPE OF OBSERVATION
+*Ground-Visual
+
+5. PHOTOS
+No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+1 hour
+
+8. NUMBER OF OBJECTS
+two
+
+9. COURSE
+NE 120°
+
+10. BRIEF SUMMARY OF SIGHTING
+Two objs one large one in front, small one above & behind, shape of rear drop, size of dime, changing fm bright yellow, orange to blue-red, had small fuzzy tail, caused buzzing on TV set.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+11. COMMENTS
+An astro plot shows the planet Mars to be in the exact location given. Atmospheric conditions can make a star or planet appear to move.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document, likely from Project Blue Book, containing textual descriptions of a UFO sighting.
+RECEIVED
+15EP58 09 06
+ATIC
 
-OCZSACS6SZCY B265
+OCZCS0G68ZCOYBZG5
 RR RJEDSQ
-ZFH-1
-ZCYSUB26SZJBA169
-R RJEDNO RJEDSQ RJEZHO
+ZFW-1
+ZCYSUB2G3ZCJBA10S
+R RJEDDN RJEDSQ RJEZHOQ
 DE RJWZJB 32A
-R 1211752Z SEP
+R 1217527 ZEX
 FM RJWZJB/COMDR 27TH AIR DIV DEF NORTON AFB CALIF
-TO RJEDNO/COMDR 102ND AISS ENT AFB COLO
-RJEDDN/COMDR AIR TECHNICAL INTEL CENTER WRIGHT PATTERSON AFB OHIO
+TO RJEDDN/COMDR 180TH AISS ENT AFB COLO
+RJEDSQ/COMDR AIR TECHNICAL INTEL CENTER WRIGHT PATTERSON AFB OHIO
 RJEZHQ/COMDR OFFICE OF INFORMATION SVCS HQ USAF WASH D C
 RJEZHQ/ACS INTELLIGENCE HQ USAF WASH D C
-INFO RJEDDN/COMDR ADC INT AFB COLO
+INFO RJEDDN/COMDR ADC ENT AFB COLO
 BT
-UNCLAS FROM 2701 000738. UFOB.
-1. A.(TEAR DROP? B.(DIME? C.CHANGING FROM BRIGHT YELLOW, ORANGE TO BLUE RED? D.TWO? E.ONE NEAR IN FRONT (LARGE ONE?>
-L.ABOVE AND BEHIND (SMALL ONE?>F.(SMALL FUZZY TAIL?)
-G(THREAD LIKE TRAILING TAIL? H.LIKE MACHINERY AT FIRST.
-LATER LIKE A PLANE (CAUSED BUZZING ON I.FF V. CHANNEL TWO?.
-1. NONE
-2. A.SOUND AND LIGHT. B.ABOUT 23 DEGREE AT 55 DEGREE. D.DOWN
-UP, BACK, LEFT, RIGHT, STOPPED AND SWAYED, THEN FADED. E.FADE.
-F.(ONE HOURS?)
+UNCLAS FROM 2701 000705B. UFOB.
+
+1. A. TEAR DROP. B. DIME. C. CHANGING FROM BRIGHT YELLOW, 
+ORANGE TO BLUE RED. D. TWO. E. ONE NEAR IN FRONT (LARGE ONE), 
+1 ABOVE AND BEHIND (SMALL ONE). F. SMALL FUZZY TAIL.
+GM THREAD LIKE TRAILING TAIL. H. LIKE MACHINERY AT FIRST, 
+LATER LIKE A PLANE (CAUSED BUZZING ON T. V. CHANNEL TWO).
+
+1. NONE.
+
+2. A. SOUND AND LIGHT. B. ABOUT 25 DEGREE AT 05° DEGREE. D. DOWN, 
+UP, BACK, LEFT, RIGHT, STOPPED AND SWAYED, THEN FADED. E. FADE.
+F. ONE HOUR.
+
 
 - page 2 -
 
-The image does not contain any photographs, only text. Here is the text extracted from the document:
+PAGE TWO OF RWZJB 32A
 
-PAGE TWO OF RJWZJB 32A
 3. A. NONE. B. NONE. C. NONE.
-4. A. 11/07292 . B. NIGHT. 0724-0=+2349
-5. EJCE 3128, 34DEGREE 95"N, 117 DEGREE 30'W N OF SAN BERNARDINO, CALIF.
-6. A. MRS. HIGHLAND, CALIFORNIA PHONE
+
+4. A. 11/07252 . B. NIGHT. 0729-4=2324
+
+5. EJCE 5106, 34DEGREE 08'N, 117 DEGREE 10'W (N.OF SAN BERNARDINO, CA)
+
+6. A. MRS [REDACTED] HIGHLAND, CALIFORNIA, PHONE [REDACTED]
+   RELIABILITY - UNKNOWN.
+
 7. A. UNKNOWN.
-B. SURFACA- CALM
-6,000' VRBL/10  20,000' 220/20 SW
-10,000' 215/20 S    30,000' 230/30 SSW
-15,000' 215/20 SW   50,000' 210/32 SSW
-16,000' 215/20 55W   80,000' 290/18 W/W
-C. UNLIMITED. D. SEVEN MILES E. CLEAR. F. NONE.
+   B. SURFACE- CALI                 28,000' 220/20 w
+       6,000' VRBJ/10                38,000' 230/30 5 w
+       10,000' 210/14 55W             50,000' 210/60 5 sw
+       16,000' 215/20 55W              80,000' 250/80 vvw
+
+   C. UNLIMITED. D. SEVEN MILES. E. CLEAR. F. NONE.
+
 8. NONE.
+
 9. NONE.
+
 10. UNKNOWN.
-11. SENIOR CONTROLLER- WOMAN REPORTED SIGHTING SEEMED SINCERE 
-AND SOBER.
+
+11. SENIOR CONTROLLER. WOMAN REPORTED SIGHTING SEEMED SINCERE AND SOBER.
+
 12. NONE.
+
 BT
-12/1/1958Z SEP RJWZJB
+12/1930Z SEP RWZJB
+
+[Handwritten note appears to be partially illegible]
+
+NNNN
+
 
 - page 3 -
 

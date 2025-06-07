@@ -1,110 +1,108 @@
-There are no photographs present on the page.
+PROJECT 1073 RECORD CARD
 
-The extracted text from the document is as follows:
+1. DATE
+28 January 1955
 
-```
-PROJECT 10073 RECORD CARD
-
-1. DATE 2. LOCATION
-28 January 1955 Boyinta Beach, Florida
+2. LOCATION
+Boy inta Beach, Florida
 
 3. DATE-TIME GROUP
-Local _ GMT
-
-28/06257
+Local: 28/062SZ
+GMT: 28/062SZ
 
 4. TYPE OF OBSERVATION
-
-Ground-Visual
-
-Ground-Radar
-
-Air-Visual
-
-Air-Intercept Radar
+Ground-to-Visual
 
 5. PHOTOS
-Yes
-X No
+No
 
-6. SOURCE Civilian
+6. SOURCE
+Civilian
 
-7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS 9. COURSE
-15 minutes one stationary
+7. LENGTH OF OBSERVATION
+15 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+Stationary
 
 10. BRIEF SUMMARY OF SIGHTING
-Object appeared as red light turn-ing to whitish blue. Turning to greenish blue. Stationary. Object 750 to 1000 feet overhead.
+Object appeared as red light turning to whitish blue. Turning to greenish blue. Stationary. Object 750 to 1000 feet overhead.
 
-11. COMMENTS Positional data not included. Possibly a balloon or astro body. No mention of disappear-ance. Insufficient data for evaluatbn.
+11. COMMENTS
+Positional data not included. Possibly a balloon or astro body. No mention of disappearance. Insufficient data for evaluation.
 
 12. CONCLUSIONS
-Was balloon Possibly Balloon Possibly Balloon
-
-Was Aircraft Probably Aircraft Possibly Aircraft
-
-Was Astronomical Probably Astronomical Possibly Astronomical
-
-Other Insufficient Data for Evaluation Unknown
+[ ] Was Balloon
+[x] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[x] Other: Insufficient Data for Evaluation
+[ ] Unknown
 
 ATIC FORM 329 (REV 26 SEP 52)
-```
+
 
 - page 1 -
 
-There appears to be no photograph present in the provided page.
+Here is the text from the document:
 
-Here is the extracted text from the document:
+28 JA..1955 07 37
 
-```
-28 Jun 1955 07 37
+MISC WA'51
+WA'73
+WA'44
+YO 410557
 
-TO 
-HD PA18 VIA91
-VIA73
-VIA44
+JO JEPO JEPO JEPO JESPO JEPO
 
-VIA 11V757
-CC JEDEM JEDW JEDMO JESP JUFIM
-DE JESP 1P
-O 2817 5Z
+E JESP 719
 
-FM CHR FLT SVC GCM MAXWELL AFB ALA 
-TO JEDEM/COMDR AIR DEF COMMAND AFB COLO
-JEDW/ COMDR AIR TECH INTELLIGENCE CENT WRIGHT-PATTERSON AFB OHIO 
-JEDMO/DIRECTOR OF INTELLIGENCE HQ USAF WASH 25 D C
-JESP/COMMANDER 35TH AIR DIVISION DUBINS AFB CA 
-JUFIM/ COMDR 33RD AIR DIVISION TINKER AFB OKLAHOMA
+2817 57
 
-U F O 3 X
+FT CDDR FLT SVC CEN MAXWELL AFB ALA
 
-1. DESCRIPTION OF OBJECT 
-   A. FLYING SAUCER
-   B. UNKNOWN
-   C. RED LIGHT TURNING TO WHITISH BLUE WHITE TURNING TO GREENISH BLUE
-   D. ONE
-   E. N/A
-   F. UNKNOWN
-```
+TO JEPO/COMDR AIR DEF COMM HQ AFB COLO
 
-If you have any further questions or need more information, feel free to ask!
+JEPO/COMDR AIR TECH INTELLIGENCE CEN WRIGHT-PATTERSON AFB OHIO
+
+JEPO/DIRECTOR OF INTELLIGENCE HQ USAF WASH 25 D C
+
+JEPO/COMDR 35TH AIR DIVISION DOBBINS AFB GA
+
+JEPO/COMDR 33RD AIR DIVISION TINKER AFB OKLAHOMA
+
+VIFOCY
+
+1. DESCRIPTION OF OBJECT
+
+A FLYING SAUCER
+B UNKNOWN
+C RED LIGHT TURNING TO WHITISH BLUE TURNING TO GREENISH BLUE
+D ONE
+E 3/4
+F UNKNOWN
+
 
 - page 2 -
 
-There are no photographs present on the page.
+PAGE TWO JESVO #1
 
-Text extracted from the document:
-
-```
-PAGE TWO JESYO 619
-
-G NONE
-H NONE
-I NONE
+1. HOME
+1. HOME
+1. HOME
 
 2. DESCRIPTION OF COURSE OF OBJECT
 A UNKNOWN
-B 75° TO 150° FT OVER LAND
-C SAME AS D
+B 750 TO 1750 FT OVER LAND
+C SAWBAS P
 D STATIONARY
 E STILL IN SIGHT
 F 15 MINUTES
@@ -115,132 +113,87 @@ B NONE
 C NONE
 
 4. TIME AND DATE OF SIGHTING
-A 286625Z
+A2886257
 B NIGHT
 
-5. LOCATIONS OF OBSERVER
-BOYINTA BEACH FLA BETWEEN NAPLES FLA AND FORT MYERS FLA 2618N 8149W
+5. LOCATION OF OBSERVER
+BOYINTA BEACH FLA BETWEEN NAPLES FLA AND PORT MYERS FLA 261°
+614GW
 
 6. IDENTIFYING INFORMATION OF ALL OBSERVERS
 A CIVILIAN
-BOAT CAPTAIN - MR [redacted] BOYINTA SPRINGS FLA
-```
+PORT CAPTAIN - MR [REDACTED]
+
 
 - page 3 -
 
-There is no photograph present on this page of the document.
+GET THREE USING CIP
 
-OCR Output:
-
-ACG THREE JESVO 519
-
-D MILITARY
+1. MILITARY
 NONE
 
-1. WEATHER AND WINDS ALOFT AT TIME AND PLACE OF SIGHTING
+2. WEATHER AND WINDS ALOFT AT TIME AND PLACE OF SIGHTING
 A.
+    SURFACE 83 DEGREES/5 KNOTS
+    STOPPED 28 DEGREES/25 KNOTS
+    10,000 FEET 28 DEGREES/35 KNOTS
+    16,000 FEET 27 DEGREES/50 KNOTS
+    20,000 FEET 27 DEGREES/77 KNOTS
+    30,000 FEET 117 DEGREES/77 KNOTS
+    , 170 FEET 27 DEGREES/70 KNOTS
+    , 500 FEET 27 DEGREES/82 KNOTS
 
-B SURFACE 93 DEGREES/3 KNOTS
+C. CEILING- CLEAR
+D. VISIBILITY- 12 MI
+E. CLOUD COVER- -0-
+F. THUNDERSTORMS- NONE
 
-800 FEET 250 DEGREES/25 KNOTS
+. NONE
+. NONE
 
-10000 FEET 250 DEGREES/35 KNOTS
-
-15000 FEET 270 DEGREES/50 KNOTS
-
-20000 FEET 270 DEGREES/70 KNOTS
-
-30000 FEET 270 DEGREES/73 KNOTS
-
-40000 FEET 270 DEGREES/90 KNOTS
-
-50000 FEET 270 DEGREES/80 KNOTS
-
-C CEILING - CLEAR
-
-D VISIBILITY - 12 MI
-
-E CLOUD COVER - NO
-
-F THUNDERSTORMS - NONE
-
-1. NONE
-
-2. NONE
-
-10. UNKNOWN
+7. UNKNOWN
 
 11. OPERATIONS OFFICE MAXWELL FLIGHT SERVICE CENTER MAXWELL AFB ALA
+12. NONE SCID COLINSKY FPO
 
-12. NONE SGND COLINSKY END
-
-27/7237 JAN ROESJ
+7282 JAN DOES-J
 
 
 - page 4 -
 
-There are no photographs present in the document.
+Here is the text from the UFO index card:
 
-Here is the OCR extracted text:
+1. DATE: 28 JAN 1955
 
-```
-UFOB INDEX CARD
+2. LOCATION: BOY INTA BEACH, FLORIDA
 
-1. DATE
-        
-2. LOCATION
+3. DATE-TIME GROUP:
+Local: 
+GMT: 20625 (T)
 
-3. 28 JAN 1955 DATE-TIME GROUP Local
-GMT
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual
+□ Ground-Radar
+□ Air-Visual
+□ Air-Intercept Radar
 
-4. TYPE OF OBSERVATION
-BOYINTA BEACH, FLORIDA
-5. PHOTOS
-Yes  No 22625 (7 1)
-Ground-Visual 
-Ground-Radar 
-Air-Visual 
-Air-Intercept Radar
+5. PHOTOS: [X] Yes
+□ No
 
-6. SOURCE
-CIVILIAN 7. LENGTH OF OBSERVATION
+6. SOURCE: CIVILIAN
 
-8. NUMBER OF OBJECTS
+7. LENGTH OF OBSERVATION: 15 MINUTES
 
-ONES
+8. NUMBER OF OBJECTS: ONE
 
-8. NUMBER OF OBJECTS
+9. COURSE: STATIONARY
 
-9. COURSE
-STATIONARY
-   10. BRIEF SUMMARY OF SIGHTING
+10. BRIEF SUMMARY OF SIGHTING: RED LIGHT CHANGING COLORS.
 
-RED LIGHT CHANGING COLORS.
+11. COMMENTS: DUE TO THE FACT THAT THE OBJECT WAS NOT MOVING AND STILL IN SIGHT WHEN REPORTED WOULD SEEM TO INDICATE AN ASTRONOMICAL PHENOMENON.
 
-11. COMMENTS
- 
-DUE TO THE FACT THAT THE OBJECT WAS NOT LOVING AND STILL IN SIGHT WHEN REPORTED WOULD SEEM TO INDICATE AN ASTRONOMICAL PHENOMENON.
+12. CONCLUSIONS: [X] Probably Astronomical
 
-12. CONCLUSIONS
-Was Balloon 
-Probably Balloon 
-Possibly Balloon
-
-Was Aircraft
-Probably Aircraft 
-Possibly Aircraft.
-
-Was Astronomical
-A Probably Astronomical 
-Possibly Astronomical
-   
-Other
-Insufficient Data for Evaluation 
-Unknown
-72
-
-AISOP FORM 5(13 OCT 54)
-```
 
 - page 5 -
 

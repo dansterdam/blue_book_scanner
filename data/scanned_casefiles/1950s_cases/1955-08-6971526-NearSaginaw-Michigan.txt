@@ -1,15 +1,41 @@
-The image does not contain a photograph. It appears to be a UFO index card from Project Blue Book. The card contains various fields with information about a UFO sighting near Saginaw, Michigan. The card indicates that the sighting was reported on August 6, 1955 and lasted for 1 hour and 12 minutes. The object observed was described as one (1) rectangular, white object, the size of a baseball held at arm's length, which was seen to move slightly. The card also mentions that balloons are released almost daily by the University of Minnesota and General Mills in Mobile, Minnesota, and that a check with the CONAD weather balloon program revealed that all balloons released were drifting in the general direction of the sighting.
+UFOB INDEX CARD                                    AISS-UFOB-259-54
 
-TEXT TRANSCRIPTION:
+1. DATE                   2. LOCATION
+   3 Aug 55                Near Saginaw, Michigan
 
-DATE: 6-Aug 55
-LOCATION: Near Saginaw, Michigan
-TYPE OF OBSERVATION: Ground-Visual
-SOURCE: Civilian
-LENGTH OF OBSERVATION: 1 hour 12 Min 
-NUMBER OF OBJECTS: One (1)
-DESCRIPTION: One (1), rectangular, white object, the size of a baseball held at arms length, was seen to move slightly.
-CONCLUSIONS: Balloons are released almost daily by the University of Minnesota and General Mills in Mobile, Minnesota. A check with the CONAD weather balloon program revealed that all balloons released were drifting in the general direction of the sighting.
+3. DATE-TIME GROUP                4. TYPE OF OBSERVATION
+   Local                          [X] Ground-Visual   □ Ground-Radar
+   GMT   08/0437 Aug 55           □ Air-Visual       □ Air-Intercept Radar
+
+5. PHOTOS                 6. SOURCE
+   □ Yes                          Civilian
+   [X] No
+
+7. LENGTH OF OBSERVATION  8. NUMBER OF OBJECTS   9. COURSE
+   1 hour, 12 Min                 One (1)           Stationary
+
+10. BRIEF SUMMARY OF SIGHTING
+    One (1), rectangular, white object, the size of a baseball held at arms length, was seen to move slightly.
+
+11. COMMENTS
+    Balloons are released almost daily by the University of Minnesota and General Mills in Mpls, Minn. A check with COL Weather at COXAD revealed that all balloons released lately at Mpls. have been drifting in the general direction of Saginaw.
+
+12. CONCLUSIONS
+    □ Was Balloon*
+    [X] Probably Balloon
+    □ Possibly Balloon
+    □ Was Aircraft
+    □ Probably Aircraft
+    □ Possibly Aircraft
+    □ Was Astronomical
+    □ Probably Astronomical
+    □ Possibly Astronomical
+    □ Other
+    □ Insufficient Data for Evaluation
+    □ Unknown
+
+AISOP Form 5 (15 Oct 54)
+
 
 - page 1 -
 

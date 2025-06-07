@@ -1,55 +1,104 @@
-The image does not contain any photographs. It appears to be a Project 10073 record card with various fields filled out, including the location (Pasadena, California), the date (23 Oct 55), a brief summary of sighting ("Object, white shape like a triangle, obj passed through searchlights of Pasadena."), and other details about the sighting.
-
-OCR output:
-
 PROJECT 10073 RECORD CARD
-1. DATE 23 Oct 55
-2. LOCATION Pasadena, Calif.
-3. TIME SIGHTING OCGURED 6:40 PM 
-4. TYPE OF OBSERVATION 8 Ground-Visual
-5. PHOTOS 0 Yes 5 No
-7. LENGTH OF OBSERVATION 12 SECONDS
-8. NUMBER OF OBJECTS 1
-9. COURSE Straight, Passed through searchlights
-10. BRIEF SUMMARY OF SIGHTING: Object, white shape like a triangle, obj passed through searchlights of Pasadena.
-11. COMMENTS INSUFFICIENT DATA FOR EVALUATION.
+
+1. DATE
+23 Oct 55
+
+2. LOCATION
+Pasadena, Calif
+
+3. DATE-TIME GROUP
+Local 24/0400Z
+GMT
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[X] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+8 seconds
+
+8. NUMBER OF OBJECTS
+12 (or) 1 (?)
+
+9. COURSE
+
+10. BRIEF SUMMARY OF SIGHTING
+Round, white, shaped like a triangle. Obj passed through searchlights of Pasadena.
+
+11. COMMENTS
+INSUFFICIENT DATA FOR EVALUATION.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+[X] Other
+[X] Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. The image appears to be a page from an old UFO report document from Project Blue Book.
-
-TO RJEDC/CMDR ENT AFB COLORADO SPRINGS COLORADO
-RJUP-PB/CMDR 27TH ADIC DEF NORTON AFB CALIF
-RJEP/CMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON
+TO RJED/COMDR ENT AFB COLORADO SPRINGS COLORADO
+RJWPJB/COMDR 27TH ADIV DEF NORTON AFB CALIF
+RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON
 AFB OHIO
-RJEPHQ/DIRECTOR OF INTELLIGENCE HQTRS USAF WASHDC
-
-UNCLASSIFIED/S69 ACWS 263-Y PD UFOB. 1. A. ROUND. B. 
-29 CENT PEIGE. C. WHITE. D. 12. E. TRIANGLE. F. NONE. G. NONE.
-I.H UNKNOWN. 2. A. UNKNOWN. B. 225 FT. C. SOUTH. D. ONE HALF MILE.
-3. THREE SECONDS- E. OBJECT PASSED THROUGH SEARCHLIGHTS OF PASADENA 
-CALIF. 3. A. VISUAL. B. NONE. 4. A. 23 OCTOBER 59. B. 2223PST.
-C. 24/23/32 ZULU. D. EDJE 2228. E. CITY OF PASADENA. F. TEMPLE 
-CITY, CALIF. G. 23 YEARS OLD. H. ENGINEER. 7. A. NONE AVAILABLE.
-B. CLEAR VIS. SEVEN MILES. C. 3902-970-22. 1928-92-29. 1962-993-
-29. 2999-292-29, 2992-96-32, 3983-262-32, 3988-262-33, 4221-
-242-29. 8. UNKNOWN. 9. NONE. 10. NONE 11. NONE. 12. NEGATIVE.
-/LT: A.E. SANDERS
+RJEPHO/DIRECTOR OF INTELLIGENCE HQTRS USAF WASHDC
 BT
-24/22162 OCT RJWPJB
+UNCLASSIFIED/669 ACWS 083-Y PD UFOB. 1. A. ROUND. B.
+50 CENT PIECE. C. WHITE. D. 12. E. TRIANGLE. F. NONE. G. NONE.
+HM UNKNOWN. 2. A. UNKNOWN. B. 200 FT. C. SOUTH. D. ONE HALF MILE.
+E. THREE SECONDS. F. OBJECT PASSED THROUGH SEARCHLIGHTS OF PASADENA
+CALIF. 3. A. VISUAL. B. NONE. 4. A. 23 OCTOBER 55. B. 2000PST.
+C. 24/4400 ZULU. 5. A. [REDACTED]. B. EJBE 5203. C.
+CITY OF PASADENA. 6. [REDACTED], TEMPLE
+CITY, CALIF. B. 25 YEARS OLD. C. ENGINEER. 7. A. NONE AVAILABLE.
+B. CLEAR VIS. SEVEN MILES. C. 500-070-22, 10000-090-25, 15000-090-
+25, 20000-090-25, 25000-050-15, 30000-060-35, 35000-060-25, 40000-
+043-20. 8. UNKNOWN. 9. NONE. 10. NONE 11. NONE. 12. NEGATIVE.
+1/LT. A.E. SANDERS
+BT
+24/2416Z OCT RJWPJB
+
 
 - page 2 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text I can read from the document:
 
-OCR output:
+SENSTOR OCL MCLAIN
+21
 
-RE#25
-WPD137 YDD139 XYDC66-XDE298JBA379JBE233
-RR RJEDEN RJEDUR-RJEPHQ
-DE RIVTDJ 6E
-R 2422832
+RE005
+WPD107 YDD100 XYD06S ADEO98JBA075JBE039
+RR RJDEN RJEDWP RJEPHQ
+DE RJWPJB 6E
+R 242000Z
+
 FM COMDR 669TH ACWRON PORT HUENEME CALIF
+
+The top portion of the document contains text that appears to be encoded or partially illegible.
+
+There is a handwritten "Written" note and a handwritten number "5" on the page.
+
+At the bottom right, there are some handwritten markings: "2 1/3 70 IN 4 EA" and "4" x 6a"
+
+The document is dated "Oct 25 00 26 55" in the bottom center.
+
 
 - page 3 -
 

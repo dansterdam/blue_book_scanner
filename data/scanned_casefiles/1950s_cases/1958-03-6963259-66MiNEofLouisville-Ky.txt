@@ -1,95 +1,77 @@
-There are no photographs present on this page.
+PROJECT 10079 RECORD CARD
 
-OCR text output:
-
-```
-PROJECT 10073 RECORD CARD
-
-1. DATE 
-
+1. DATE
 5 Mar 58
 
-3. DATE-TIME GROUP
-
-Local ________________
-GMT 06/0057Z
-5. PHOTOS 
-☐ Yes
-☒ No
-
 2. LOCATION
+66 Mi NE of Louisville, Ky.
 
-66 Mi NE of Louisville, Ky 
+3. DATE-TIME GROUP
+Local
+GMT 06/0057Z
 
 4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
 
-☒ Ground-Visual
-☐ Ground-Radar
-☐ Air-Visual
-☐ Air-Intercept Radar
+5. PHOTOS
+□ Yes
+[X] No
 
 6. SOURCE
-
 Military
 
-8. NUMBER OF OBJECTS
+7. LENGTH OF OBSERVATION
+2-6 secs
 
+8. NUMBER OF OBJECTS
 one
 
 9. COURSE
-
 not given
 
-7. LENGTH OF OBSERVATION
-
-2-6 secs
-
 10. BRIEF SUMMARY OF SIGHTING
- 
-Rnd bright green light. Either burned out or entered overcast.
+Red bright green light, Either burned out or entered overcast.
 
 11. COMMENTS
-
-On basis of limited data every-thing suggests a meteor.
+On basis of limited data everything suggests a meteor.
 
 12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+[X] Was Astronomical Meteor
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
 
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
+ATC FORM 329 (REV 26 SEP 52)
 
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
-
-☒ Was Astronomical Meteor
-☐ Probably Astronomical
-☐ Possibly Astronomical
-☐ Other
-☐ Insufficient Data for Evaluation
-☐ Unknown
-
-ATIC FORM 329 (REV 26 SEP 52)
-```
 
 - page 1 -
 
-There is no photograph present on this page.
+Here is the text from the document:
 
-Here is the OCR transcription of the text from the document:
+ADGIE YDC135 TYD315TDC192MAB5
+PP RJEPH9 RJSDDN RJEDS9
+DE RJEJPM 58A
+P 861715Z
 
-```
-QDD1B YDC135 TYD313TDC192JMA35
-PP RJEPHQ RJEDDN RJEDSQ
-DE RJEPJM 68A
-P 961717Z
 FM COMDR 85TH ADIV DEF ANDREWS AFB
 TO RJEPHQ/ASST CHIEF OF STAFF INTELL HQ USAF
 RJEPHQ/OIS HQ USAF
-RJEDDN/COMDR ADC ENT AFB
-RJEDSQ/COMDR ATIC WRIGHT-PATTERSON AFB
-BT
-UNCLASSIFIED 85 ADOIN 0091. SUBJ: UFO DESCRIPTION OF THE OBJECT(S):
+RJSDDN/COMDR ADC ENT AFB
+RJEDS9/COMDR ATIC WRIGHT-PATTERSON AFB
+
+51
+
+UNCLASSIFIED 35 ADOIN 8081, SUBJ: UFO DESCRIPTION OF THE OBJECT(S):
+
 (1) ROUND
 (2) COULD NOT ESTIMATE DUE TO LIGHT
 (3) BRIGHT GREEN LIGHT
@@ -99,57 +81,40 @@ UNCLASSIFIED 85 ADOIN 0091. SUBJ: UFO DESCRIPTION OF THE OBJECT(S):
 (7) NONE
 (8) NONE
 (9) NONE
-```
+
 
 - page 2 -
 
-There is no photograph present on the document.
+PAGE TWO RJEPJM 68A
 
-The text from the document is as follows:
-
-```
-PAGE TWO RJEPPM 58A
-DESCRIPTION OF COURSE OF OBJECTS:
-
-(1) CAME INTO FIELD OF VISION  ...
-
+DESCRIPTION OF COURSE OF OBJECT(S):
+(1) CAME INTO FIELD OF VISION
 (2) TEN DEGREES ABOVE HORIZON
-(3)  5-10DEGREE BELOW HORIZON
-
+(3) 5-10DEGREE BELOW HORIZON
 (4) NO DEVIATION
-
 (5) EITHER BURNED OUT OR ENTERED OVERCAST
-(6) 2-6 SECONDS
+(6) 2 - 6 SECONDS
 
-MANNER OF OBSERVATION 
-
+MANNER OF OBSERVATION
 (1) VISUALLY
-
 (2) NONE
-
 (3) NONE
 
 TIME AND DATE OF SIGHTING
-(1) 36/39577Z
+(1) 06/08572
 (2) NIGHT
 
 LOCATION OF OBSERVERS
 (1) N/A
-
-(2) 66 NM EAST OF LOUISVILLE, KY BB3DEGREE OUTBOUND
+(2) 56 NM EAST OF LOUISVILLE, KY 083DEGREE OUTBOUND
 
 IDENTIFYING INFO OF ALL OBSERVERS
-MAJOR   HQ USAF, AFPTR-D, EXTPENTAGON
-```
+MAJOR [REDACTED] HQ USAF, AFPTR-D, EXT [REDACTED] PENTAGON
+
 
 - page 3 -
 
-There is no photograph present on this page. 
-
-The text in the document is as follows:
-
-```
-PAGE THREE RJEPJM 69A
+PAGE THREE RJEPJM 58A
 
 WEATHER AND WINDS ALOFT CONDITIONS AT TIME OF SIGHTING:
 (1) 55,000 OVERCAST
@@ -160,21 +125,14 @@ WEATHER AND WINDS ALOFT CONDITIONS AT TIME OF SIGHTING:
 (6) NONE
 
 REMARKS: OBJECT DID NOT APPEAR TO BE FALLING AS FAST AS A STAR.
-
 MAJ KNAPP WAS FLYING A T-33 AND WAS AT 33,000 WHEN HE OBSERVED IT.
-
 ALL DATA UNANSWERED REMAINS N/A AT THE PRESENT TIME.
 
 BT
+05/2200Z MAR RJEPJM
 
-05/2280Z MAR RJEPJM
+[There are also some handwritten notes on the right side of the document, but they are partially illegible.]
 
-ATIC
-
-On basis of limited data probably lens ref., or meteor, unsure
-
-Bob Aster /Watters/
-```
 
 - page 4 -
 

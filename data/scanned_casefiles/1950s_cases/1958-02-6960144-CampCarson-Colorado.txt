@@ -1,9 +1,3 @@
-There are no photographs on this page.
-
-The text from the document reads as follows:
-
----
-
 PROJECT 10073 RECORD CARD
 
 1. DATE
@@ -16,17 +10,18 @@ Camp Carson, Colorado
 Local
 
 4. TYPE OF OBSERVATION
-☐ Ground-Visual
-☐ Ground-Radar
+☒ Ground-Visual
 ☐ Air-Visual
-☐ Air-Intercept Radar
+☐ GMT
 
-5. SOURCE
-Civilian
+02/00267
 
-6. PHOTOS
+5. PHOTOS
 ☐ Yes
-☑ No
+☒ No
+
+6. SOURCE
+Civilian
 
 7. LENGTH OF OBSERVATION
 4 mins
@@ -38,10 +33,10 @@ four lines
 Stationary
 
 10. BRIEF SUMMARY OF SIGHTING
-Four distinct parallel lines burning without flickering, pointing down, the size of a pencil, color red-orange. Extremly far away. Faded from a bright firey color to pink then out.
+Four distinct parallel lines burning like flares & pointing down, the size of a pencil, color red-orange. Extremely far away. Faded fm a bright fiery color to pink then out.
 
 11. COMMENTS
-This is a typical characteristic of the description of contrails seen near or at sunset as emanating from either multi-engine a/c or a/c in formation.
+This is a typical characteristic of contrails seen near or at sunset as emanating fm either multi-engine a/c or a/c in formation.
 
 12. CONCLUSIONS
 ☐ Was Balloon
@@ -53,86 +48,63 @@ This is a typical characteristic of the description of contrails seen near or at
 ☐ Was Astronomical
 ☐ Probably Astronomical
 ☐ Possibly Astronomical
-☐ Other 
+☒ Other: Contrails
 ☐ Insufficient Data for Evaluation
 ☐ Unknown
 
-ATC FORM 382 (REV 26 SEPT 52)
+ATIC FORM 329 (REV 26 SEP 52)
 
----
 
 - page 1 -
 
-There are no photographs in the image you provided. Here is the text transcribed from the document:
+Here is the text from the document:
 
----
-C7/00262
+02/00262
 
-MULTI
+Multi
 
-SGG947 YMB934 YYC033DNA842
+S06947 YMB034 YYC030DNA042
+HM RJEDS9 RJEPHO RJWFDN
+DE RJEDD 251
+M 0821402
+FM CONDR ADC
+TO RJWFDN/COMDR 34TH ADW
+RJEDS9/COMDR ATIC
+RJEPHO/COFS HQ USAF
+TEN/CCMDR 106TH AISS
+T
 
-M RJEDSQ RJEHPQ RJWFND
-
-DE RUEDN 251
-
-M 052143Z
-
-FM COMDR ADC
-
-TO RJWFND/COMDR 34TH ADW
-
-RJE DSQ/COMDR ATIC
-
-RJEHPQ/COFS HQ USAF
-
-ZEN/CCDR 1006TH AISS
-
-ET
-
-/UNCLAS/FR ADODB-I 193. ATTN: D/1, 34TH AIR DIVISION; AFCIN-4E4, 
-ATIC; AFCIN, HQ USAF. UFOB. 1.A. FOUR DISTINCT PARALLEL LINES
+UNCLASS/FR ADODI-B 103. ATTN: D/I, 34TH AIR DIVISION; AFCIN-424,
+ATIC; AFCIN, HQ USAF. UFOB, 1.A. FOUR DISTINCT PARALLEL LINES
 BURNING LIKE FLARES AND POINTING DOWN, B. ONE-HALF SIZE OF
-PENCIL, C. RED/ORANGE, D. {FOUR} E. PARRALLEL; F. SMALLER THAN
+PENCIL, C. RED/ORANGE, D. FOUR, E. PARRALLEL, F. SMALLER THAN
 CONTRAIL - EXTREMELY FAR AWAY (OBSERVER HAS SEEN CONTRAILS),
 G. N/A, H. NONE, I. NONE; 2.A. HAPPENED TO LOOK UP WHEN GETTING
-INTO CAR, B. 60 SEGREES ELEVATION, BEARING 219 (JUST SOUTH OF
-CHEYENNE MOUNTAIN), C. SAME, D.(STATIONARY) E. JUST FADED OUT
-FROM A BRIGHT FIREY COLOR TO PINK THAN OUT, F.{FOUR MINUTES};
+INTO CAR, B.@0 DEGREES ELEVATION, BEARING 215 (JUST SOUTH OF
+CHEYENNE MOUNTAIN), C. SAME, D. STATIONARY, E. JUST FADED OUT
+FROM A BRIGHT FIREY COLOR TO PINK THEN OUT, F. FOUR MINUTES;
 A. GETTING INTO CAR WHEN FIRST SAW IT, STILL IN SIGHT WHILE
 
----
-Note: The image text is cut off, so this transcription ends where the visible text ends.
 
 - page 2 -
 
-This image is a document page and does not contain any photographs.
-
-Here is the text from the page:
-
----
 PAGE TWO RJEDDN 251
-DRIVING SOUTH ON NEVADA, B. N/A, C. N/A; 4.A. 096ZS7, 2 FEB 58,
-DAYLIGHT, AT SUNSET, NO CHANGE IN SKY CONDITIONS; 5. NEAR
-HOYLES MARKET ON SOUTH NEVADA; 6.A. _______, AGE 33,
-QUARTERS ____, FORT CARSON, HOUSEWIFE, B. _________
-MAJOR, HQS FIRST BATTLE GROUP, 39TH INF, FORT CARSON. BATTLE
-GROUP ADJUTANT; 7.A. CLEAR, B. 03 DEGREES, 14 K, 330 DEG 25K,
-330 DEG 30K, 330 DEG 55K, 310 DEG 65K, 320 DEG 85K, 310 DEG 65K,
-140 DEG 9K, C. NONE, D. 100 MILES, 3.NONE, F. NONE; 8. NONE, BUT,
-ACC WEATHER OFFICER SAYS LESS THAN 50 PER CENT CHANCE OF CONTRAILS
-AT ANY ALTITUDE; 9. N/A; 10. NONE; 11. NEGATIVE, 12. NONE.
-  
-15/21427 FEB RJEDDN
+DRIVING SOUTH ON NEVADA, B. N/A, C. N/A; 4.A. 00267, 2 FEB 58,
+1. DAYLIGHT, AT SUNSET, NO CHANGE IN SKY CONDITIONS; 5. NEAR
+MOYLES MARKET ON SOUTH NEVADA, S.A. [REDACTED] AGE 33,
+QUARTERS [REDACTED] FORT CARSON, HOUSEWIFE, B. [REDACTED]
+MAJOR, HQS FIRST BATTLE GROUP, 39TH INF, FORT CARSON, BATTLE
+GROUP ADJUTANT; 7.A. CLEAR, B. 03 DEGREES, 14 K, 300 DEG 25K,
+300 DEG 30K, 330 DEG 55K, 310 DEG 65K, 320 DEG 85K, 310 DEG 65K,
+140 DEG 90K, C. NONE, D. 100 MILES, 3.INCNE, F. NONE; 8. NONE, BUT,
+OCC WEATHER OFFICER SAYS LESS THAN 50 PER CENT CHANCE OF CONTRAILS
+AT ANY ALTITUDE; S. N/A; 10. NONE; 11. NEGATIVE, 12. NONE.
 
-This is a typical characteristic and
-description of contrails seen near or
-at sunset as emanating pure white
-multiple serpentine aft & aft in formation
-has been proven many times,
-see attached DOD release to the public,
-regarding this.
----
+13/2142Z FEB RJEDDN
+
+[Handwritten note at bottom of page:]
+This is a typical characteristic and description of contrails seen near or at sunset as emanating from either multi-engine acft. at acft. in formation as has been proven many times. See attached 900 miles to the public, regarding this.
+
 
 - page 3 -
 

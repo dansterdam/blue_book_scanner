@@ -1,8 +1,3 @@
-There are no photographs present on the page. 
-
-The text on the document is as follows:
-
-```
 PROJECT 10073 RECORD CARD
 
 1. DATE
@@ -12,16 +7,13 @@ PROJECT 10073 RECORD CARD
 Newburgh, New York
 
 3. DATE-TIME GROUP
-Local ______________
-GMT __15/0100Z______
+GMT 15/0100Z
 
 4. TYPE OF OBSERVATION
-[X] Ground-Visual    [ ] Ground-Radar
-[ ] Air-Visual       [ ] Air-Intercept Radar
+Ground-Visual
 
 5. PHOTOS
-[ ] Yes
-[X] No
+No
 
 6. SOURCE
 Civilian
@@ -36,162 +28,125 @@ one
 E to W then N
 
 10. BRIEF SUMMARY OF SIGHTING
-Star shaped, blue-white obj, size of dime, traveled East to West w/a sharp right angle turn to North. Rose abruptly & disappeared. Observer states that he has reptd other phenomena previously.
-
-11. COMMENTS
-Probably an a/c indicated by rpting officer. Duration rather short however consist-tant w/WX listed as visibility 4 mi w/haze. .6 cloud cover and thunderstorms.
+Star shaped, blue-white obj, size of dime, traveled East to West w/a sharp right angle turn to North. Rose abruptly & disappeared. Observer states that he has rept'd other phenomena previously.
 
 12. CONCLUSIONS
-[ ] Was Balloon
-[ ] Probably Balloon
-[ ] Possibly Balloon
-[X] Was Aircraft
-[ ] Probably Aircraft
-[ ] Possibly Aircraft
-[ ] Was Astronomical
-[ ] Probably Astronomical
-[ ] Possibly Astronomical
-[ ] Other
-[ ] Insufficient Data for Evaluation
-[ ] Unknown
+Was Balloon
+Probably Balloon
+Was Aircraft
+Probably Aircraft
+Was Astronomical
+Probably Astronomical
+Other:
+Insufficient Data for Evaluation
+Unknown
+
+11. COMMENTS
+Probably an a/c indicated by rpting officer. Duration rather short; however consists-tant w/WX listed as visibility 4 mi w/haze, 6 cloud cover and thunderstorms.
 
 ATIC FORM 329 (REV 26 SEP 52)
-```
+
 
 - page 1 -
 
-The page does not contain any photographs.
+Here is the text from the document:
 
-Here is the OCR text from the document page:
+Witness
 
-```
-1t Witness 
+PCD
 
-151/?e2 Pg 
-
-51
-
-Prd ?/ TELEPHONED
+TELEPHONED
 TO
 NO.
 TIME
 Date
-By:
+By
 
-FM : CONAC 
-TO: CUDDY/COMGR 31ST AID 
-INFO: COMDR 26TH ADD 
-INFO: COMDR ATIC 
-INFO : ANT COF ; INTL HQ CDAF 
-INFO: HQ USAF 
+COMDR 26TH AER
+COMDR ATIC
+ASST CORP L HILL NG USAF
 
-AA-15,-/17/58
+CLASSIFIED PRINT 11 JUSCH UPDE
+STAR SHAPED
+BLUE
+BLUE WHITE
 
-CERTIFIED RELATED TO SUCH UFOB 
+NOT APPLICABLE
 
-A. FRANK DRAPER 
-B. LIGHT 
-C. LT. WHITE 
+NOT AVAILABLE Relevations?
+Ammunition?
+EAST TO WEST WITH A SHARP RIGHT ANGLE THEN TO NORTH
+ABRUPTLY IN AIR AND DISAPPEARED
+GOOD
 
-D. SIZE 
+The document appears to be a partially filled out form or report related to an unidentified flying object sighting, with handwritten notes and markings.
 
-A. ALTITUDE 
-
-F. SPEED 
-
-G. COURSE 
-
-H. ANGLE 
-
-I. COURSE 
-
-J. ?INTE 
-
-E. 
-
-D. NOT AVAILABLE
-
-ELEVATIONS? 
-
-C. NOT AVAILABLE AZIMUTHS? 
-
-E. EAST TO WEST WITH A SHARP RIGHT ANGLE TURN TO NORTH
-
-F. ROSE ABRUPTLY IN AIR AND DISAPPEARED
-
-F. ?.E.F.-GO.ID
-
-```
 
 - page 2 -
 
-There is no photograph present on this page.
-
-Output of all the text found in the document:
-
-```plaintext
-b. NEG
-c. NEG
-IV A. 13 71952 AUG 0100-5=:2000
-B. NIGHT
-V A. 442817:743200
-1. NEWBURGH NY
-VI A. XI LABORER, 
-NEWBURGH, NY
-VII A. CLEAR NO CLOUDS
-b. 1. 233 3 KTS
-2. 240 5 KTS
-w
-3. 250 25 KT
-4. 260 25 KTS
-5. 277 4 KT* inconsistent
-
-PAGE THREE RFPNFB 5
-6. 253 63 KT
-w
-7. 263 35 KTS
-c. 8. 999 13 KTS
-c. 31,233 BROKEN
-D. 4 MILES WITH HAZE NOTE: HAZE
-F. F TEMP.
-F. YES Thunderstorms in area at time of sighting
-VIII A. NEG
 B. NEG
+
 C. NEG
-IV NONE
-```
+
+I. A. 15 71802 AUG 0100-6-2000
+
+b. NIGHT
+
+V. A. 4142N-7433NO
+
+. NEWBURGH NY
+
+VI. A. [LABORER, text partially obscured]
+    NEWBURGH, NY
+
+VII. A. CLEAR NO CLOUDS
+     B. 1. 250 3 KTS
+         2. 250 23 KTS
+         3. 250 25 KTS
+         4. 260 25 KTS
+         5. 270 4 KTS
+
+     6. 250 63 KTS
+     7. 260 35 KTS
+C. 8. 350 13 KTS
+C. 31,200 BROKEN
+
+D. 4 MILES WITH HAZE
+
+F. VFR
+
+NOTE: HAZE
+Thunderstorms IN AREA
+AT TIME OF SIGHTING
+
+VIII. A. NEG
+      B. NEG
+      C. NEG
+
 
 - page 3 -
 
-The document contains no photographs.
+I FC-TELL JET ACT
+II 168
+III OBSERVER STATES THAT HE HAS
 
-Here is the extracted text from the document:
+PREVIOUS OCCASION:
+ET
+15/0855Z AUG 51 JEP 18
 
-```
-S I P D
+1. Lowers did not give elevations of azimuths of the object.
 
-I PS- TILLE JET ACFT
+2. There were 3 jet AC in area.
 
-III OBSERVES STATES THAT HE HA-----
-PRIVICU OCCATION
-ET 
+3. Thunderstorms and hogs.
 
-1848$2 AUG 131P*
+4. The observer claims weather clear, however, report from another source indicates hazy present and .6 cloud coverage.
 
-1. ????? dis not give elevations or azimuth of the object.
+5. This was 3 jet AC in this area.
+The observer probably saw one of its AC turning lights.
 
-2. There were 3 jet Afc in area.
+P.Dot AC
 
-3. Thunderstorms and haze
- 
-4. the observer claims weather “clear” however, report from weather bureau indicates haze present also 6 cloud coverage.
-
-5. There were 3 Jet A/c in the area
-
-The observer probably saw only the A/c running light.
-
-Prob A/c
-```
 
 - page 4 -
 

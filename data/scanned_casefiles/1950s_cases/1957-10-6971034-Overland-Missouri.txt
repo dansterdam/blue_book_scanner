@@ -1,9 +1,4 @@
-There is no photograph present on the page of the document.
-
-Here is the text output from the document:
-
-```
-PROJECT 10073 RECORD CARD
+PROJECT: 10073 RECORD CARD
 
 1. DATE
 7 October 1957
@@ -11,121 +6,116 @@ PROJECT 10073 RECORD CARD
 2. LOCATION
 Overland, Missouri
 
-3. DATE-TIME GROUP
-
-     Local 2005
-     GMT 08/02057
+3. DATE/TIME GROUP
+Local 2005
 
 4. TYPE OF OBSERVATION
+Ground-Visual
 
-    Ground-Visual X
-    Ground-Radar
-    Air-Visual
-    Air Intercept-Radar
+5. PHOTOS
+08/20957
+□ Yes
+■ No
 
-5. PHOTOS             7. LENGTH OF OBSERVATION
-    Yes                    ONE minute
+6. SOURCE
+Civilian
 
-6. SOURCE             8. NUMBER OF OBJECTS        9. COURSE
-    Civilian                                      one          East
+7. LENGTH OF OBSERVATION
+one minute
 
-10. BRIEF SUMMARY OF SIGHTING                   11. COMMENTS
-Round object, size of head of pin.
-Reddish orange, turning to white. No sound.     Probably a/c at high altitude
-                                                reflecting the sun's rays.
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+East
+
+10. BRIEF SUMMARY OF SIGHTING
+Round object, size of head of pin. Reddish orange, turning to white. No sound.
+
+11. COMMENTS
+Probably a/c at high altitude reflecting the sun's rays.
+
 12. CONCLUSIONS
+■ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other:
+□ Insufficient Data for Evaluation
+□ Unknown
 
-        Balloon    
-    Was Balloon
-    Possibly Balloon
-        Aircraft/spacecraft
-    Was Aircraft
-    Possibly Aircraft
-        Astronomical
-    Was Astronomical
-    Probably Atronomical
-    Possibly Astronomical
-    Other
-    Insufficient Data for Evaluation
-    Unknown
-
-ATIC FORM 329 (REV 26 SEP 52)
-```
 
 - page 1 -
 
-The image includes a scanned page of a document with text and hand-drawn illustrations, but no photographs are present.
-
-Here is the OCR extracted text from the document:
-
-```
-7 JEDWP HQ 695 WP6957 YM9D3KF9A41KFG930
-
-RR RJEDEN RJEDWP* RJEPHQ*
-
+JEDWP H0GG WPG57 YMB36KFA04 4KFG30
+RR RJEDEN RJEDWP RJEPHQ
 DE RJEDKF 4G
+R 0304152
 
-R 0504152
-
-FM COMDR 29TH AIR DIV RICHARDS GEBAUR AFB MO
-
+FM COMDR 20TH AIR DIV RICHARDS GEBAUR AFB MO
 TO RJEDEN/COMDR ADC ENT AFB COLO
-
 INFO RJEDKF/COMDR CADF RICHARDS GEBAUR AFB MO
-
 RJEDWP/COMDR AIR TECH INTELL CEN WPAFB OHIO
-
 RJEPHQ/DIR OF INTELL HQ USAF WASHDC
-
 BT
 
-/UNCLASSIFIED/20TH ADCOC 001649 IN ACCORDANCE WITH JCADF INTERIM
+/UNCLASSIFIED/20TH ADCOC 001645 IN ACCORDANC WITH JCADF INTERIM
+CHANGE 1 TO CONADM 55-1. THE FOLLOWING UFOB REPORT IS SUBMITTED.
 
-CHANGE 1 TO CONADIM 55-1. THE FOLLOWING UFOB REPORT IS SUBMITTED.
-A. 1 ROUND
-2 HEAD OF PIN
-3 REDISH ORANGE TURNING TO
+A. 1. ROUND
+2. HEAD OF PIN
+3. REDDISH ORANGE TURNING TO
 WHITE AS IT DISAPPEARED.
-B. 1 A GLANCE IN THE SKY.
-2 OVERHEAD-SLIGHT ANGLE OF
-CLIMB STRAIGHT UP!
-3 PASSED OVER HORIZON 90°-EAST
-DEGREES
-4 STRAIGHT PATH-FLIGHT PATH
-5 DISSAPPEARED OVER HORIZON.
-6 ONE MINUTE
-C. GROUND VISUAL
-1 NONE
-2 NONE
-3 N/A
-```
 
-The hand-drawn illustrations include a diagram of an object labeled with characteristics such as "ROUND" and "HEAD OF PIN," as well as "REDISH ORANGE TURNING TO WHITE AS IT DISAPPEARED." There is also a small drawing at the bottom of the document showing a crossed line labeled "GROUND" with an arrow pointing to the right, labeled "FLIGHT PATH ↑ OBJECT."
+B. 1. A GLANCE IN THE SKY.
+2. OVERHEAD
+3. PASSED OVER HORIZON 0 50 -EAST
+DEGREES
+
+R. ONE
+4. STRAIGHT PATH - FLIGHT PATH
+5. NEG.
+5. DISAPPEARED OVER HORIZON.
+6. NONE
+6. ONE MINUTE
+7. NONE
+8. NO SOUND
+9. NONE
+
+C. 1. GROUND VISUAL
+2. NONE
+3. N/A
+
 
 - page 2 -
 
-No photograph is present in the image, only text. Here's the text as an OCR output:
-
-```
 PAGE TWO RJEDKF 4G
-D. 1. 9/8/20 305Z - 0257Z C = 2057 local
-    NIGHT
-(E) 1. (FJQJ 3836) edge of ST. LOUIS
-F) 1. MR. ----------------- 29, -------------- OVERLAND MO, FIREMAN.
+
+D. 1. 08/032057 - 07052-6 = 2005 local
+
+(E) 1. FJQ 3836 edge of ST. LOUIS
+(F) 1. MR 29, [illegible name], OVERLAND MO, FIREMAN.
 (G) 1. CLEAR
-    2. SURFACE 124 DEGREES, 5 KNOTS
-                winds generally from
-    6,000 49-59 DEGREES, 8 KNOTS
-    10,000-109 DEGREES, 10 KNOTS
-    15,000-109 DEGREES, 10 KNOTS
-    20,000-250 DEGREES, 15 KNOTS
-    30,000-260 DEGREES, 20 KNOTS
-    50,000-279 DEGREES, 30 KNOTS
-    80,000: UNKNOWN
-    3. UNLIMITED
-    4. 1 PLUS
-    5. NONE
-    6. NONE
+
+2. SURFACE 124 DEGREES, 5 KNOTS
+6,000-50 DEGREES, 8 KNOTS
+10,000-100 DEGREES, 10 KNOTS
+16,000-100 DEGREES, 10 KNOTS
+20,000-250 DEGREES, 15 KNOTS
+3,000-20 DEGREES, 20 KNOTS
+50,000-270 DEGREES, 30 KNOTS
+80,000- UNKNOWN
+
+3. UNLIMITED
+4. 1 PLUS
+5. NONE
+6. NONE
+
 (H). NONE
 (I). NONE
 (J). NONE
@@ -133,9 +123,10 @@ F) 1. MR. ----------------- 29, -------------- OVERLAND MO, FIREMAN.
 (L). NONE
 
 BT
+08/0420Z OCT RJEDKF
 
-08/09423Z OCT RJEDKF
-```
+[Handwritten notes: "winds generally from ESE", "No other reports from a City of 85,000 people concerning this sighting.", "Probably an agt. at high altitude reflecting the sun rays which could be seen at high altitude."]
+
 
 - page 3 -
 

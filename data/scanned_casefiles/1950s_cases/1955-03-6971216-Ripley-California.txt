@@ -1,53 +1,76 @@
-This page does not contain any photographs.
-
-Here is the text from the document:
-
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE                                                    2. LOCATION                                                                            12. CONCLUSIONS
-17 March 1955                                         Ripley, California                                                    Was Balloon 
-                                                                                                        4. TYPE OF OBSERVATION                                     Probably Balloon
-3. DATE-TIME GROUP                ##                                                            Ground-Visual Ground-Radar                                    Possibly Balloon
-                                                                                                                                                                                Was Aircraft
-GMT 17/1724Z                            XX Air-Visual              Air-Intercept Radar                           Probably Aircraft
-                                                                                                                                                                                Possibly Aircraft 
-5. PHOTOS                                                                                             6. SOURCE                                                                            Was Astronomical 
-Yes No                                               Military                                                                    Probably Astronomical
-                                                                                                                                                                                Possibly Astronomical
-7. LENGTH OF OBSERVATION.       8. NUMBER OF OBJECTS              9. COURSE 
-                                                                                                                                                                                Other _____________________
-3 minutes                                     One                                                                           North                             Insufficient Data for Evaluation    
-                                                                                                10. BRIEF SUMMARY OF SIGHTING                                                      11. COMMENTS
-Round. Silvery, no sound. Straight                                                                                                                 Probable a/c 
-and level with no maneuvering.
-Traveled out of sight in 3 minutes. 
-Obj. heading 90 degrees.
+1. DATE
+17 March 1955
 
+2. LOCATION
+Ripley, California
 
-ATIC FORM 329 (REV 26 SEP 52)
+3. DATE-TIME GROUP
+Local: 17/1724Z
+GMT: 17/1724Z
 
-```
+4. TYPE OF OBSERVATION
+☒ Ground-Visual
+☐ Air-Visual
+☐ Ground-Radar
+☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+3 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+North
+
+10. BRIEF SUMMARY OF SIGHTING
+Round, Silver, no sound, Straight and level with no maneuvering. Traveled out of sight in 3 minutes. Old heading 90 degrees.
+
+11. COMMENTS
+Probable a/c.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☒ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Possibly Astronomical
+☐ Other...
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
 
 - page 1 -
 
-There is no photograph present on this page.
+PAGE TWO JMP/J 50
+FIVE SIX EIGHT FLEETWELL CHA ZAZUZA CHA CALIFORNIA
 
-Here is the OCR output of the text from the document:
+7. A. NONE
 
-```
-PAGE TWO JMPJE 4D
-FIVE SIX EIGHT FLEETWELL CMA ZAZUZA CMA CALIFORNIA
-7. A. VMR C. VMK C. ZERO D. UNLIMITED E. NONE F. NONE
 8. A. NONE
+
 9. A. NONE
-10. A. NONE OTHER THAN ONE OBSERVER ACKNOWLEDGES SIGHTING IN PAR TWO    
-ABOVE
-11. A. NONE CMA CAPTAIN CLIFFORD E. BRANDT INTELLIGENCE OFFICER USAF
-12. A. NONE     
-13/2382Z MAR JMP:JP
-CT n:#388 #0 57
-```
+
+10. A. NONE OTHER THAN ONE OBSERVER ACKNOWLEDGING IN PAR TWO
+
+11. A. NONE CHA CAPTAIN CLIFFORD E. BRANDT INTELLIGENCE OFFICER USAF
+
+12. A. NONE
+
+13/25/212 MAR JMP/J
+
 
 - page 2 -
 

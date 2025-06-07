@@ -1,31 +1,33 @@
-The image appears to be a page from a Project Blue Book document containing a UFO report. There is no photograph present on this particular page.
-
-Performing OCR on the text in the document:
-
 UFOB INDEX CARD
-1. DATE 11/9/57
-2. LOCATION Norwich, Conn.
-3. DATE-TIME GROUP 11/9/57 2200Z
-4. TYPE OF OBSERVATION
-[X] Ground-Radar
-[ ] Ground-Visual
-[ ] Air-Visual
-[ ] Air-Intercept Radar
-5. SOURCE Civ-111
-6. NUMBER OF OBJECTS One
-7. LENGTH OF OBSERVATION Four seconds
-8. BRIEF SUMMARY OF SIGHTING One round red and orange object the size of a basketball object was in sight for 4 seconds.
-9. COURSE Aro
-10. CONCLUSIONS
-[X] Probably Balloon
-[ ] Possibly Balloon
-[ ] Was Aircraft
-[ ] Possibly Aircraft
-[ ] Was Astronomical
-[ ] Probably Astronomical
-[ ] Unidentified
-[ ] Insufficient Data for Evaluation
-11. COMMENTS Description, duration, flight path indicate that this was probably a meteorological balloon.
+
+1. DATE: 3 Jan 58
+2. LOCATION: Norwich, Conn.
+3. DATE-TIME GROUP: 11/0262 Nov 57
+4. PHOTOS: No
+5. TYPE OF OBSERVATION: Ground-Visual
+6. SOURCE: Civilian
+7. LENGTH OF OBSERVATION: Four seconds
+8. NUMBER OF OBJECTS: One
+9. COURSE: Arc
+10. BRIEF SUMMARY OF SIGHTING: One round red and orange object the size of a basketball. Object was seen in an arc and was in sight for 4 seconds.
+11. COMMENTS: Description, duration, flight path indicate that this was probably a meteor.
+
+Conclusion Boxes:
+- Was Balloon: No
+- Probably Balloon: No
+- Possibly Balloon: No
+- Was Aircraft: No
+- Probably Aircraft: No
+- Possibly Aircraft: No
+- Was Astronomical: No
+- Probably Astronomical: No
+- Possibly Astronomical: Yes
+- Other: No
+- Insufficient Data for Evaluation: No
+- Unknown: No
+
+Bottom of form notes: AISOP Form 5 (15 Oct 54)
+
 
 - page 1 -
 

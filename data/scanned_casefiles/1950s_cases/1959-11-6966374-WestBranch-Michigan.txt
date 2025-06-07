@@ -1,35 +1,84 @@
-The image does not contain any photograph or visual elements. It appears to be a Project 10073 record card that provides details about a UFO sighting report. 
-
-OUTPUT TEXT:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 29 Nov 59
-2. LOCATION: West Branch, Michigan
-3. DATE-TIME GROUP: 23/2251Z
-4. TYPE OF OBSERVATION: Ground-Radar
-5. SOURCE: CIV
-6. NUMBER OF OBJECTS: Eight
-7. LENGTH OF OBSERVATION: 5 Min
-8. BRIEF SUMMARY OF SIGHTING: Eight visually spaced objs in view for 3 secs. Targets tracked on ground radar for 5 mins. Objects observed to merge and break up. Radar tracks fluctuated. Objs moved fast at great speed. Objs observed red. At first appeared to be reflections in red tower lights, however upon reappearing the same course, objs were assumed to be elliptical about 30 ft long.
-9. COURSE: Navy
-10. COMMENTS: Indications are that a reflection of something was observed, however there is insufficient data upon which to base an analysis. The case is listed as insufficient data.
-11. CONCLUSIONS: Was Balloon Possibly Balloon Probably Balloon Ground-Radar Air-Visual Was Aircraft Probably Aircraft Possibly Aircraft Was Astronomical Probably Astronomical Possibly Astronomical Other Unknown Insufficient Data for Evaluation
+
+1. DATE
+29 Nov 59
+
+2. LOCATION
+West Branch, Michigan
+
+3. DATE-TIME GROUP
+Local
+GMT 30/00152
+
+4. TYPE OF OBSERVATION
+☑ Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+☑ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+3 secs
+
+8. NUMBER OF OBJECTS
+8
+
+9. COURSE
+leight
+
+10. BRIEF SUMMARY OF SIGHTING
+Eight evenly spaced objs in view for 3 secs
+Direction NNW. Emerged in front of observer
+in the horizon & went up into the clouds at
+great speed. Objs showed red. At first
+believed to be reflections in red tower
+lights, however upon retracing the same course
+this was not apparent. Objs were assumed to
+elliptical about 30 ft long.
+
+11. COMMENTS
+Indications are that a reflection of
+some sort was observed, however there
+is not conclusive evidence to support
+this analysis & the case is listed as
+insufficient data.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+☑ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image contains two sketches. The first sketch shows a curved line with an "A" marked on it, and instructions to imagine the observer at the marked point and draw how the object appeared above the horizon when first seen. The second sketch shows a larger sketch of a road with buildings on the sides, and a smaller sketch of a view with distant mountains.
-
 32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
 
-33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to a smaller sketch as an example of how to complete the larger sketch.
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to smaller sketch as an example of how to complete the larger sketch.
+
+Page 6
+
 
 - page 2 -
 
-The image does not contain any photograph. It appears to be a page from an old UFO report document, specifically from Project Blue Book.
+34. What were the weather conditions at the time you saw the object?
 
-34. WHAT WERE THE WEATHER CONDITIONS AT THE TIME YOU SAW THE OBJECT?
-34.1 CLOUDS (Circle One) 
-a. Clear
+34.1 CLOUDS (Circle One)
+a. Clear sky
 b. Hazy
 c. Scattered clouds
 d. Thick or heavy clouds
@@ -41,9 +90,9 @@ b. Slight breeze
 c. Strong wind
 d. Don't remember
 
-34.3 WEATHER (Circle One) 
+34.3 WEATHER (Circle One)
 a. Dry
-b. Fog, mist, or light rain 
+b. Fog, mist, or light rain
 c. Moderate or heavy rain
 d. Snow
 e. Don't remember
@@ -55,347 +104,571 @@ c. Warm
 d. Hot
 e. Don't remember
 
-35. WHEN DID YOU REPORT TO SOME OFFICIAL THAT YOU HAD SEEN THE OBJECT?
-___ Day ___ Month ___ Year
+35. When did you report to some official that you had seen the object?
+Day            Month            Year
 
-36. WAS ANYONE ELSE WITH YOU AT THE TIME YOU SAW THE OBJECT? 
-(Circle One) YES NO
-36.1 IF YOU ANSWERED (YES) DID THEY SEE THE OBJECT TOO?
-(Circle One) Yes No
-36.2 PLEASE LIST THEIR NAMES AND ADDRESSES:
-[Redacted]
+36. Was anyone else with you at the time you saw the object?
+(Circle One) Yes            No
 
-37. WAS THIS THE FIRST TIME THAT YOU HAD SEEN AN OBJECT OR OBJECTS LIKE THIS?
-(Circle One) YES NO
-37.1 IF YOU ANSWERED NO, THEN WHEN, WHERE, AND UNDER WHAT CIRCUMSTANCES DID YOU SEE OTHER ONES?
-[No response]
+36.1 IF you answered YES, did they see the object too?
+(Circle One) Yes            No
 
-38. IN YOUR OPINION WHAT DO YOU THINK THE OBJECT WAS AND WHAT MIGHT HAVE CAUSED IT?
-[No response]
+36.2 Please list their names and addresses:
+[Redacted text]
+
+37. Was this the first time that you had seen an object or objects like this?
+(Circle One) Yes            No
+
+37.1 IF you answered NO, then when, where, and under what circumstances did you see other ones?
+[Blank lines]
+
+38. In your opinion what do you think the object was and what might have caused it?
+[Blank line]
+
+Page 7
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+39. Do you think you can estimate the speed of the object?
+(Circle One)   Yes   No
 
-39. Do you think you can estimate the speed of the object? (Circle One) Yes (No)
-IF you answered YES, then what speed would you estimate? _______ m.p.h.
-40. Do you think you can estimate how far away from you the object was? (Circle One) Yes (No) 
-IF you answered YES, then how far away would you say it was? _________feet
+IF you answered YES, then what speed would you estimate? ____________ m.p.h.
+
+40. Do you think you can estimate how far away from you the object was?
+(Circle One)   Yes   No
+
+IF you answered YES, then how far away would you say it was? ____________ feet
+
 41. Please give the following information about yourself:
-NAME __________ __________ __________
-Last Name First Name Middle Initial  
-ADDRESS __________ __________ ___________ _________
-Street City Zone State
-TELEPHONE NUMBER ______________ 
-What is your present job? ______________ 
-Age ___________ Sex __________
-Please indicate any special educational training that you have had: 
-a. Grade school 5 c. College - e. Technical school (Type) ___
-b. High school - d. Post graduate - f. Other special training ___ 
-42. Date you completed this questionnaire: 22 Day 11 Month 59 Year
+NAME [Redacted]
+ADDRESS [Redacted] Dayton City, Zone __, State ___
+
+TELEPHONE NUMBER [Redacted]
+What is your present job? Engraver
+
+Age ___   Sex ______
+
+Please indicate any special educational training that you have had.
+a. Grade school   9
+b. High school   2
+c. College
+d. Post graduate
+
+e. Technical school ____________
+    (Type)
+f. Other special training ____________
+
+42. Date you completed this questionnaire: 25   Nov   59
+                                        Day   Month   Year
+
 
 - page 4 -
 
-The image does not contain any photographs. It appears to be a U.S. Air Force technical information sheet with a handwritten report.
-
-U.S. AIR FORCE TECHNICAL INFORMATION SHEET
+U. S. AIR FORCE TECHNICAL INFORMATION SHEET
 (SUMMARY DATA)
 
-In order that your information may be filed and coded as accurately as possible, please use the following space to print a short description of the details of the observation. Use the information that you have already given in the questionnaire, and add any further comments that you believe are important. Try to present the details of the observation in the order in which they occurred. Additional pages of the same size paper may be attached if they are needed.
+In order that your information may be filed and coded as accurately as possible, please use the following space to write out a short description of the event that you observed. You may report information that you have already given in the questionnaire, and add any further comments, statements, or sketches that you believe are important. Try to present the details of the observation in the order in which they occurred. Additional pages of the same size paper may be attached if they are needed.
 
-[Handwritten text]:
-Gobshite and I were on our monthly fly home hunting trip. Some snoozing around this morning. Some red glowing around 10 got up took a walk out in a field in front of house, saw unidentified object hovering about 25 ft above ground about 300 yds south it made no sound seemed to hover for 2 to 3 minutes then just took off and disappeared. It seemed to have lights around edge and a light underneath in the center and seemed to be moving very fast when it took off. It seemed to take off up and back toward the east at a high rate of speed. When it took off it seemed to wobble or rock as it moved and noticed no exhaust. It was dark out and hard to make out exact shape but seemed to be round or oblong in shape. No other witnesses as far as I know.
+NAME: [redacted]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                (Please Print)
+
+SIGNATURE: [redacted]
+DATE: 6 Jan 60
+
+[Handwritten text, partially illegible due to image quality and handwriting:]
+
+Arrived and I were or with me on a hwy. driving trip. We were going north on highway 76 for miles south of West Branch when suddenly some red glowing round thing emerged from up horizon. They were in a straight line and equal distance to appear. My friend said to me "can you see that I see" he said "yes look at it". We were flying across the state of "that's what I was thinking" about it now. They were of my width but these looked close should I move because they were to get signs shaped and could see they were. They got discussion of the same kind and I wondered as they as thought it might have been a reflection of some kind or make more like turned around and then went north again over the same position of horizon. We were close to if they might be of more, towers, buildings. We flying and reported to state police in West Branch. I was near the road. They all disappeared.
+
 
 - page 5 -
 
-The image does not contain any photographs or images, only handwritten text on a page.
+Page 10
 
-Transcribing the text:
+[The text is handwritten and partially illegible. Here is the transcribed text to the best of my ability:]
 
-to ascertain if we could identify and possibly obtain a specimen of the object seen by the witness. I was advised by the witness that he had no such specimen to offer and that he did not have any photographs. I personally examined the site where the object was reported to have landed, but found no physical evidence to substantiate the report. The witness was unable to furnish any additional details regarding the object or its movements other than that reported earlier. I have therefore concluded that this report lacks sufficient evidence to warrant further investigation and recommend that it be classified as an INSUFFICIENT DATA case.
+[First few lines are mostly illegible]
+
+...against them long since... I was sent if... that they seemed so large and they were...
+
+Will you please tell me if you what read it or not?
+Of you did, who was it? Did any write it?
+I can not write big or type at the time just for
+it will if anyone else has type or the same found that more
+well, who had thought that anyone who shall see elsewhere
+work on that highway and coming at the end of them
+would have seen them.
+
 
 - page 6 -
 
-The image contained in this document is a diagram depicting a celestial sphere or a projection of the sky. The diagram shows a 360-degree view of the horizon with various compass directions labeled around the edge. The celestial sphere is divided into grid lines, and the central point represents the zenith, which is the point directly overhead. There are no human faces or identifiable individuals present in this image.
+Here is the text I can see in the image:
 
-OCR Text Output:
-90° 
-Zenith
+90° Zenith
 
-60° 30° S 0° 30° N 60°
-135 270 315
-SE NW
-90
-E
+225 SW
+270
+315 NW
+
+180 S
+135 SE
+90 E
+45 NE
+
+The image appears to be a diagram of a celestial sphere or sky map, showing various directional angles and compass points around a curved horizon line with a stylized cityscape or landscape.
+
 
 - page 7 -
 
-There is no photograph present in this image. The image shows a UFO analysis sheet from Project Blue Book, containing various details about a reported UFO sighting, such as the location, date, weather conditions, description of the object, direction of motion, and analysis and conclusions.
-
-Transcription of the text in the document:
-
 UFO ANALYSIS SHEET
 
-Location: WEST BRANCH, MICHIGAN
-Date: 28 NOV 57                       Hour (E): 1415
-WX: CLOUDY, DRY, COOL
-Description: RED AND ORANGE SPHERICAL SHAPED OBJECT TRAVELING IN A WAVY PATTERN AT APPROX. 1200 MPH ESTIMATED AT 20 FEET IN DIAMETER AND APPROX. 200 FEET IN ALTITUDE
-Direction of Motion: NNW
-Satellite: (AFCIN-4F3, Phone 68219)
-Astronomical Phenomena (Meteors, Comets, Planets, etc.)
-Radar Analysis (AFCIN-4E1)
-Natural Phenomena (Ball Lightning, etc.)
-Aircraft, Balloons, Airships, etc.
-Other
-Evaluation of Source Reliability: Unknown
+Location WEST BRANCH, MICHIGAN
+Date 28 NOV 59       Hour (?) 1415
+WX CLOUDY, DRY COOL
+Description RED WHITE SPHEROID - SHARP OUTLINES
+8 OBJECTS TRAVELING IN A LINE
+TOWARD THE N.N.W.   OBJECTS APPROXIMATELY
+30 FEET IN LONGEST DIMENSION
+Direction of Motion N.N.W.
+Satellite: (AFOIN-4F3, Phone 69219)
 
-Analysis and Conclusions: IT IS BELIEVED THAT THE WITNESS SAW A REFLECTION OF THE SUN ON AN AIRCRAFT WHICH APPEARED TO BE TRAVELING AT A HIGH RATE OF SPEED AND ALTITUDE DUE TO THE OPTICAL ILLUSION CAUSED BY THE ANGLE OF VIEW AND DISTANCE OF THE OBSERVED OBJECT.
+Astronomical Phenomena (Meteor, Comet, Planet, etc)
+
+Radar Analysis (AFOIN-481)
+
+Natural Phenomena (Ball Lightning, etc)
+
+Aircraft, Balloons, Airships, etc.
+
+Other
+
+Evaluation of Source Reliability UNKNOWN
+
+Analysis and Conclusions: IT IS BELIEVED THAT THE WITNESS SAW A REFLECTION OF SOME SORT HOWEVER THERE IS INSUFFICIENT EVIDENCE TO ALLOW A CONCLUSION -
+
 
 - page 8 -
 
-The image does not contain any photographs. It is a page from an old newspaper article discussing the "AF Discoverer VII" satellite and its successful re-entry into the Earth's atmosphere.
+Here is the text from the newspaper page:
 
-ON DAILY NEWS
-ON, OHIO:- SUNDAY, NOVEMBER 8, 1959
+DAYTON DAILY NEWS
 
-AF DISCOVERER VII IN ORBIT; RECAPTURE OF CONE SET TODAY
+DAYTON, OHIO, SUNDAY, NOVEMBER 8, 1959
 
-GEAR WEATHERPROOFED TO FACILITATE RETURN
+SECTION 1
+24 PAGES
 
-VANDENBERG AIR FORCE BASE, CALIF., NOV. 7-(UPI)- The "weatherproof" Discoverer VII satellite, successfully launched for a significant U.S. satellite breakthrough, roared into orbit today.
+172 PAGES 20 CENTS
 
-Unlike previous satellites in the Discoverer series, this vehicle carried special equipment, including heaters, insulation, and sheaves, that should permit the recovery of its "cone" after re-entry.
+AF Discoverer VII in Orbit;
+Recapture of Cone Set Today
 
-The cone, a small re-entry capsule attached to the 1,370-pound satellite, is expected to be recovered this afternoon by planes and ships in a massive "fishing" mission in the Pacific ocean, southeast of Hawaii, 2,800 miles from the launch site.
+Gear Weatherproofed
+To Facilitate Return
 
-The vehicle, weighing nearly a. 700-pound total, was boosted into a 133-by-322-mile orbit late yesterday by a Thor-Agena rocket.
+VANDENBERG AIR FORCE BASE, Calif., Nov. 7 — (UPI) — The "weatherproof" Discoverer VII satellite, carefully groomed for a significant U.S. scientific breakthrough, tested into orbit today.
 
-THE AIR FORCE announced that their "advanced" satellite had been placed successfully in orbit. 
+The goal of the shot is to recover a 30-pound capsule from the satellite after making 17 passes over the earth's poles.
 
-The recovery attempt was scheduled in U.S. government projection to be completed within 24 hours of the launch.
+The recovery attempt, a 700-to-1 shot at best, will be made tomorrow afternoon by planes and ships in a massive "ballpark" in the Pacific ocean, southeast of Hawaii, carefully prepared to catch the capsule.
 
-"This achievement is the next step in setting man into space," an Air Force spokesman said, "and it puts the U.S. satellite program in a long lead before we can send a man into space."
+Unlike previous satellites in the program, the Discoverer has been weatherproofed with special equipment like heaters, installation and absorbing live paint. This was done to keep tiny mercury batteries warm. The batteries, which should enable researchers to pop open a 10,000 foot, apparently did not operate in two previous tries.
 
-The Air Force said the 'Discoverer VII" satellite was launched Aug. 19 and since that time 21 engineers have worked continually to insure its chance of success.
+The Air Force said "preliminary data" obtained by tracking stations in Hawaii and Alaska showed the satellite to be in orbit with radio signals coming in "loud and clear." The orbital period for the satellite will be 15 minutes. It will be 550 miles from the earth at its farthest point, and 101 miles when it draws closest to the earth, the Air Force said.
 
-"When we do catch this thing, and it very well could be insane," the spokesman said, "What we'll have addition to the 'world's first' will be very limited scientific information from the interior of the satellite."
+THE AIR FORCE announced that orbit-shot achievement (time project engineers had hoped to achieve) was Aug. 19, and since that date, project engineers have worked diligently to "insure as much a chance of success as possible."
+
+"This achievement is the next step in getting man into space," the officer added. "It's more significant but less spectacular than the Sputnik. The Launchings probe the limits of space, but it will be a long time before we're ready to send a man out there."
+
+One precaution taken on the satellite is making as much a chance of success as possible was to keep on the cold air at altitude around the world.
+
 
 - page 9 -
 
-The image does not contain a photograph. It appears to be an article or text about a U.S. Fires Research Rocket that was launched and reached an altitude of over 150 miles into the upper atmosphere. The text describes the details of the rocket launch, including the mission objectives, the agencies involved, and the potential applications of the data collected from the experiment.
+U.S. Fires
+Research
+Rocket
+5-Stage Missile
+Goes 1,050 Miles
+into Atmosphere
 
-U.S. Fires Research Rocket
-3-Stage Missile Goes 150 Miles Into Atmosphere
-WASHINGTON, Nov. 10--(UP)--A five-stage Army research rocket successfully fired 150 miles into the upper atmosphere today.
-The rocket, launched by the Army Ordnance Missile Laboratories, reached an altitude of over 150 miles, it was announced. This is believed to be the highest altitude ever attained by a U.S. missile.
-The vehicle was launched by the Army in cooperation with the National Aeronautics and Space Administration to measure atmospheric densities. The data would be valuable in the intercontinental ballistic missile and satellite programs.
-The five-stage missile, smaller than a five-story building, was developed at the Army Ballistic Missile Agency, Redstone Arsenal, Ala. It was used for satellite launching and military shots of intercontinental ballistic missiles.
-The rocket was fired at 7 a.m. and finally plunged into the Atlantic Ocean about 300 miles away from the launching site. The rocket was designed to reach an altitude of 150 miles.
-IN ANNOUNCING the shoot, the Defense Department said the experiment was planned by various agencies in connection with the U.S. program for the International Geophysical Year cooperation in 1959. Information on the experiment will be made available to all nations participating in the international geophysical year program.
+WASHINGTON, Nov. 10—(UP)—
+A five-stage Army research
+rocket dubbed "The Strongarm"
+was successfully fired 1,050 miles
+into the upper atmosphere today,
+the highest ever recorded for
+the launching station at Wallops
+Island, Va.
+
+The vehicle was launched by
+the Army in cooperation with the
+National Aeronautics and Space
+administration to measure electronic densities. The Army said the
+data would be "valuable in the
+intercontinental ballistic missile
+and antimissile missile programs."
+
+The rocket assembly stood
+taller than a five-story building,
+but considerably shorter than the
+missiles used for satellite launching and military shots of intercontinental range.
+
+It was fired at 7 a.m. and
+finally plunged into the Atlantic
+ocean about 800 miles away from
+the NASA launching pad about
+20 minutes later. The rocket was
+designed to reach a speed of
+17,000 feet a second at burnout.
+Scientists from the Army ballistic research laboratories at
+Aberdeen Proving Ground, Md.,
+aided by a University of Michigan team, used an Army Honest
+John rocket, two Nike-Ajax
+boosters, a modified Recruit and
+a scaled down Sergeant to ram
+the nose cone into the upper
+atmosphere.
+
+IN ANNOUNCING the shoot,
+the Defense department said
+that it was one of a number
+of experiments by various agencies in connection with the U.S. program of geophysical cooperation in 1959.
+
+Information on the experiment
+will be made available to all nations participating in the international geophysical year program.
+
+Warren Bening, project chief
+for the ballistic research laboratories, said Army experts and
+NASA preliminary are interested in
+how ionization decreases with altitudes—above 167 miles, and
+measurements will be taken to
+furnish a profile throughout the
+upper flight of the rocket.
+
 
 - page 10 -
 
-There is no photograph present in this image. However, the image contains handwritten text that appears to be a report or document related to Project Blue Book, a historical U.S. Air Force program that investigated unidentified flying objects (UFOs).
+MANHATTAN BEACH, CALIF., NOV. 17--(UPI)--A MYSTERIOUS OBJECT OBSERVED BY A NUMBER OF PERSONS FLOATED OUT OF THE SKY YESTERDAY ON A LARGE PARACHUTE AND VANISHED IN THE PACIFIC OCEAN. WHAT WAS IT AND WHERE DID IT COME FROM? NOBODY SEEMS EVEN ABLE TO HAZARD A GUESS.
 
-The text in the document states:
+LIFEGUARD BUD STEVENSON SAID THE OBJECT DANGLING AT THE END OF A LARGE PARACHUTE WAS ABOUT TWO TO THREE FEET LONG, APPEARED TO BE METALLIC AND WAS SQUARE AT THE TOP AND CYLINDRICAL AT THE BOTTOM.
 
-445 MC MANHATTAN BEACH, CALIF., NOV. 17--C MAN SAID THAT "HAD AN OBJECT" AND "WHITISH PARACHUTE AND SANK IN THE PACIFIC OCEAN." STATED OBJECT APPEARED TO BE ROUND AND I TO 2 FEET IN DIAMETER. RESIDENT SAW IT AND SAID IT WAS LIKE A WHITE PARACHUTE AND SANK IN THE OCEAN, EVEN ABLE TO SECOND GUESS STEVENSON SAID THE OBJECT DANGLING AT THE END OF A PARACHUTE LIKE SHROUD. OBJECT APPEARED TO BE ROUND AND SQUARE AT THE TOP AND CYLINDRICAL AT THE BOTTOM. OBSERVED IT FOR SOMETIME. IT ROSE AND CAME DOWN IN PARACHUTE LIKE FASHION. THE PARACHUTE APPEARED MYSTERIOUS OBJECT SAID TO BE ABOUT 4 TO 5 FEET IN THE AIR. THERE APPEARED TO BE LIGHTS ON THE SIDES OF THE OBJECT. NORTH AMERICAN AVIATION HOUSE MOW OBSERVED MOVEMENT OF THE FLOATING PARACHUTE UNTIL IT DISAPPEARED. THE WEIGHT OF THE OBJECT PULLED THE CHUTE UNDER. RESIDENT CALLED COAST GUARD CONDUCTED SEARCH. COAST GUARD SHIPS DRAGGED THE AREA. ABOUT 45 FEET BELOW SURFACE. NO TRACE FOUND. NAVY'S MISSILE STATION AT POINT MUGU NORTH OF THE OBJECT. RESIDENT CLAIMED AS IT DISAPPEARED IT LET OUT A SMALL, COMPACT MASS WHICH WOULD BE CONSISTENT WITH THE NAVY'S MISSILE STATION AT POINT MUGU. NORTH OF THE SOUTHERN POINT. THE COAST GUARD SAID THERE WERE NO OTHER PLANS AT PRESENT TO ATTEMPT TO LOCATE THE OBJECT.
+AN AMERICAN AIRLINES TRAINING PLANE FOLLOWED THE PARACHUTE AND ITS MYSTERIOUS OBJECT DOWN FROM 51,500 FEET IN THE AIR. THERE APPEARED TO BE OTHER PLANES IN THE AREA AT THE TIME, SAID THE CREW.
+
+A NORTH AMERICAN AVIATION HELICOPTER GO TO THE SCENE ABOUT A MILE AND A HALF OFFSHORE AND HOVERED OVER THE FLOATING PARACHUTE SO BUOY COULD BE PLACED BY LIFEGUARDS BEFORE THE WEIGHT OF THE OBJECT PULLED THE CHUTE UNDER.
+
+THE COAST GUARD CONDUCTED A SEVERAL HOURS' LONG SEARCH. COAST GUARD SHIPS DRAGGED A MILE-SQUARE AREA IN ABOUT 46 FEET OF WATER.
+
+EVENTS IN THE AREA MIGHT HAVE SWEPT IT OUT TO SEA OR BUNGLED-UP THE PARACHUTE AND OBJECT INTO A SMALL, COMPACT MASS WHICH WOULD BE DIFFICULT TO LOCATE.
+
+THE NAVY'S MISSILE STATION AT POINT MUGU, NORTH OF THIS SOUTHERN CALIFORNIA COASTAL CITY, HAS MOST DONE ALONG WITH SURROUNDING AIR FORCE, MARINE AND ARMY INSTALLATIONS, BUT ALL DECLINED ANY KNOWLEDGE OF THE OBJECT.
+
+THE COAST GUARD SAID THERE WERE NO OTHER PLANS AT PRESENT TO ATTEMPT TO LOCATE THE OBJECT.
+
+R335A...
+
 
 - page 11 -
 
-The image does not contain any photograph. It appears to be a handwritten document, possibly an excerpt from a Project Blue Book report.
+To Whom It May Concern;
 
-To William J. Mayny
-A friend of mine had a strange experience with me the night of the flying saucer or whatever crashed on highway 2i just south of West Branch. We was on highway 2i and 15 at 9:15 pm. There was about eight of us in the car. We seen the thing coming down the highway at a great rate of speed and when it got just this side of us it seemed to settle slowly and settle right on the highway. There was a great glow to it and small bright objects started coming out of it. They seemed to be larger than any you've ever seen flying around with no noise and up and down through the whole works. It looked as though it was 25 to 30 feet across or more. They glowed red. We stood there with our mouths open and watched the whole performance. I have never seen anything like it before. They glowed red. We thought of the possibility of it being a machine or some kind of an aircraft or something and the way the smaller objects came out of it and did things made us wonder. There were only three in itas near as we could tell. When it straightened out and started up the highway slowly we all jumped in the car and took off like a rocket. We was scared stiff. 
-This must have been about a quarter of a mile from where it crashed and about the same distance from us. It seemed to light up the whole countryside. It settled right on the highway, then straightened out and started up the highway real slow.
-There was some of the people in the car that seemed to have been affected in some way by it. They had a funny feeling and a strange sensation in their heads and it didn't seem to wear off for quite a while. Some of them thought they would never get over it. The others was just plain scared to death. I was more interested in it than scared although I don't know why.
-This was Saturday night November 29, 1958. I thought I would give you the details of what we saw as I am sure it will be of interest to you.
+A friend of mine and I were what our thought must be flying saucers or unknown north or highway 76 just south of west Branch on Sunday 29 Nov 59. There were about eight to them in successive overly spaced.
+
+They emerged from the horizon ahead of us rising with and up thru the clouds with speed I have never seen before. They glowed red. We thought of the possibility of it being a reflection from some other later, said lights ahead of us. There was only three in each wave. We turned around and went north again over the east north of highway and our color see them go west. I have seen many missiles fired when some determined at Fort Riley, Kans. and I never saw any movement more not as fast as these things seemed to. I was what we to accelerate.
+
+This was the same spot again speed all the way up. Of course we know time could have
+
 
 - page 12 -
 
-The image provided appears to be a page from an old project blue book document. There is no photograph present in this particular page. I will now proceed to produce all the text found in the document:
+Sodium Cloud Shot Lights East's Sky
 
-Sodium Cloud Shot Lights
-Dust's Sky
-Space Agency Rocket
-Ejects Vapors Seen
-Hundreds Of Miles
-WASHINGTON, Nov. 13 - (UP) -
-A rocket-fired sodium cloud visible for hundreds of miles was spotted into the sky today from a rocket fired yesterday at the White Sands, N.M., proving ground of the air force and NACA, the National Advisory committee for Aeronautics.
-Residents of Richmond, Va., more than 1900 miles away, reported seeing the cloud, which was not nearly as bright or large as the one sighted off for a similar experiment in August.
-The US. Weather bureau at Richmond said that scores and dozens of telephone calls were received from excited persons who had seen the cloud and made one inquiry about it.
-Lou Caekman, a newsman for station WRNL, who watched the shot, said the cloud appeared "perhaps a little smaller than a first quarter moon." It faded into the darkness within about 15 minutes, he said.
-The experiment was designed to obtain information about the action of the upper atmosphere at high altitudes to the action of the gasses and vapors planned for this week's series of international rocket flights.
-Within minutes after its firing at 5:57 a.m. the rocket shot the sodium cloud high into the sky, spreading it over a wide area.
-The cloud is spotted at several points in Connecticut, Tennessee, Georgia and South Carolina. Observers in some states said it appeared to have a little tail on it.
-A similar shot was fired in New Mexico last Sept. 13. That was seen in Pennsylvania as far away as Massachusetts. 
-The NACA conducted its first sodium cloud experiment Aug. 19. The sodium vapor was seen over a wide area.
-NACA said the experiment was designed to obtain information on upper wind currents and atmospheric composition at high altitudes to aid in the design and to tear the rate of propellant vapors at high altitudes.
-The cloud was ejected into the upper atmosphere by a Nike-ASP launching rocket equipped with a timing device. The rocket propelled the sodium vapor out to an altitude of 50 miles, continuing until it reached its mark of 130 miles.
+Space Agency Rocket Ejects Vapors Seen Hundreds Of Miles
+
+WASHINGTON, Nov. 18—(UP)—A man-made sodium cloud, visible several hundred miles away, was ejected into the upper atmosphere at dusk today from a rocket fired 150 miles into the air above the Wallops Island, Va., government test center.
+
+The national aeronautics and space agency (NASA), which conducted the test, said it was designed to obtain information about the action of the winds at high altitudes. It was the first of three planned for this week as part of International Rocket Week.
+
+Within minutes after its firing at 5:17 p.m., the man-made cloud was sighted over a wide area of the Atlantic seaboard as it caught the rays of the setting sun already below the horizon at sea level.
+
+Cloud Is Spotted
+
+Several points in Connecticut reported spotting the luminous vapor. Residents in Schenectady in upper New York state said it looked like a simple red cloud with a little tail on it.
+
+Residents in Springfield, N.H., Quincy and Springfield, Mass., also reported seeing the vapor.
+
+NASA said the experiment was designed "to obtain geophysical information on upper wind and velocity, including its velocity and direction and to test the rate of spreading vapors at high altitudes."
+
+The cloud was ejected into the upper atmosphere by a two-stage Nike-ASP launching rocket with a timing device. Until now, it was pointed out, it has been impossible to track vapor at an altitude of 50 miles. Until now, until it reached its peak of 150 miles.
+
+Visible For Miles
+
+Residents of Richmond, Va., about 100 miles west of the launching site, said the cloud was not nearly as bright or large as they touched off by a similar experiment in August.
+
+The U. S. weather bureau at Richmond said it received "dozens and dozens" of telephone calls from excited persons when the first cloud was seen but had received only one inquiry about the original shot.
+
+Leo Backman, a newsman for radio station WRVA who stood on the roof of a Richmond hotel, said the cloud was visible for about a half hour.
+
+The cloud appeared perhaps a little bigger than a star but did not look like a star, Backman said. "As it faded, into the smoky glow," he said, "it became barely discernible."
+
 
 - page 13 -
 
-The image does not contain any photographs. It appears to be a page from an old Project Blue Book report document.
+Here is the OCR text from the document:
 
-Flotilla 
-At Ready 
-For Catch?
-
+Flotilla
+At Ready
+For 'Catch'
 Hope to Snag
-Discoverer VIII 
+Discoverer VIII
 Capsule From Sky
 
-VANDENBERG AIR FORCE BASE, Calif.-Nov. 17-a(AP)-a A flotilla of 6 naval ships and Air Force planes is ready to try to snare the Discoverer VIII satellite capsule from the sky after it comes down from orbit.
+VANDENBERG AIR FORCE BASE, Calif., Nov. 21—UPI)—A flotilla of naval ships and Air Force C119 "Flying Boxcars" stood ready today to snatch a Discoverer VIII satellite capsule out of the sky or sea.
 
-The capsule is expected to be over the Pacific Ocean near Hawaii in an area called "the splash zone"  The flotilla will be there waiting to try to catch it before it strikes the water.
+Joint sea-air forces were based somewhere in the mid-Pacific near Hawaii in an area called the "ballpark" to capture the parachute-rigged capsule from the satellite soaring far away as 1,000 miles from earth.
 
-If successful, this would be the first time a satellite has been recovered from space.
+Discoverer VIII, 78 feet long and weighing 1,700 pounds, roared successfully into orbit over a polar route yesterday. It was boosted into space by a Thor ballistic missile and thrust into an orbital velocity of 18,000 miles an hour by a second stage rocket.
 
-WITH THE LAUNCHING NEXT
-America's hopes to become the first nation to capture a man-made object returning from space. It trails the Soviet Union, as far as launching satellites is concerned, 
-The Air Force said that this effort is necessary step on the road toward orbiting a human being.
+WITH THE LAUNCHING went America's hopes to become the first nation to capture a man-made object from space. Neither the U.S. nor the Soviet Union, as far as known, has made such a recovery.
 
-Discoverer VIII was scheduled to launch the regular some Tests earlier today. Five previous Discoverer shots have all failed.
+Four earlier attempts were made by the Air Force but failed when the capsules were never sighted after their ejection. One plunged prematurely into the Arctic.
 
-The satellite is planned to snap the camera pictures of the U.S. and South Poles. Aircraft are planned to assist the flotilla in the Pacific in guiding the capsule back to earth while ships positioned to pick it up out of the water. 
+A capsule linked to Discoverer VII failed to eject because of an electrical system malfunction but scientists were more optimistic about the present attempt.
 
-The capsule, after it strikes the water, is expected to float. The satellite must be in position and stabilized prior to recovery.
+They said they have weatherproofed the satellite to withstand cold temperatures in space that caused tiny mercury batteries to freeze before activating the capsule. The capsule weighs 310 pounds and measures 27 inches in length and 33 inches in diameter.
 
-"7 9 - 66" 
+ODDS WERE quoted at 700-1 against recovery. The feat if successful would be the "most significant achievement to date in space," the Air Force said.
+
+It is a necessary step on the path toward orbiting a human into space.
+
+Discoverer VIII was scheduled to unleash the capsule some 17 hours after yesterday's launching at 2:55 p.m. EST and 17 passes over the North and South Poles.
+
+Aircraft planned to snag the object from the sky as it parachutes back to earth while ships prepared to pluck it out of the sea. The capsule is designed to float after it strikes the water.
+
+Before the radio-controlled ejection can be accomplished, however, "the satellite" must be in position and stabilized properly in orbit.
+
 
 - page 14 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book report. 
+Here is the OCR text from the document:
 
-The text in the document is as follows:
+No Case (Information Only)                   23 November 1959
+                                              Papua, New Guinea
 
-NO CASE (INFORMATION ONLY)
-23 NOVEMBER 1959
-REPORT, NEW ORLEANS
+Monday, 2nd November 1959. Observed by Rev. Albert M. Kirsa, of the Mission Station, Mapau, Papua (near Kwiagora). Mission teacher and Cecil Taimo, a Native Medical Assistant.
 
-MONDAY, 23D NOVEMBER 1959, OBSERVED WERE SIX OBJECTS AS BRIGHT AS STARS AND LARGER THAN STARS, MOVING FROM WEST TO EAST IN A STRAIGHT LINE. CIVILIAN OBSERVER. THEY WERE IN THE SKY AT ABOUT 7:30 P.M. OBSERVED BY PRIVATE CITIZENS AND OTHERS FROM WEST BRANCH, MICHIGAN.
+Time: First seen about 7:30 p.m. Observed by Father Albert and others until 8:30 p.m.
 
-THE OBJECTS WERE BRIGHT TO THE NORTHEAST, HOVERED FOR A MOMENT, THEN MOVED IN A STRAIGHT LINE TO THE EAST AT A VERY HIGH SPEED AND DISAPPEARED.
+The sky was cloudy to the north and west, but comparatively clear to the east (over the sea and Goodenough Bay).
 
-THE EVENING WAS CLOUDY TO THE NORTH AND WEST, BUT IT WAS COMPARATIVELY CLEAR TO THE EAST WHERE THE OBJECTS WERE OBSERVED.
+The observers were on the Mission Station at Kwiagora, one of the stations of Menapi and about 15 miles S.W. from there. The station is right on the shore with a clear view to the east and northeast across Goodenough Bay to the ranges of Fergusson and Goodra.
 
-THE OBJECTS WERE SEEN BY SEVERAL CITIZENS IN WEST BRANCH AND THE SURROUNDING AREA.
+Briefly, in approximately 20 miles across the Bay (or a bit less), they saw a brilliant, illuminated disc or "object" in the sky in the direction of Fergusson.
 
-SIGHTING NUMBER NINE. ONE OF THE OBJECTS APPEARED TO BE LARGER THAN A STAR AND ROUND. THERE WAS A DISTINCT GLOW AROUND THE EDGE. THREE OR FOUR OBJECTS WERE SMALLER THAN THE LARGE ONE AND APPEARED TO CHANGE COLOR SLIGHTLY. THEY WERE YELLOWISH-WHITE IN COLOR.
+It was above the level of the mountains but not at a high elevation. It was approximately half the size of the full moon, but much brighter. The light was pure white, and did not change. Beneath the bright object, which was described as "like a plate", was a dark "boat-shaped" object, like a black cloud. They watched the round object slowly descend until it was "disappeared" (and "went out").
 
-S/A RAYMOND F. SKOUSEN, AGENT, RECORDS AND REPORTS DIVISION, BUREAU, HAS CONTACTED WITNESSES AND OBTAINED ADDITIONAL DETAILS.
+The black "cloud" being gradually obscured until it went out. The bright object did not reappear. But the black object was still visible in the same position an hour later. Fr. Albert estimated the time from his sighting of the bright object until its passing into the dark object to be about ten minutes. But Cecil saw it from 7:30 to 8:30.
 
-RECORDER: NORMAN S.J. SQUINTANI
+There are a number of curious points about this sighting.
+
+First: The bright object could not have been the moon, which does not rise until about midnight or later, and in any case is now only a small crescent.
+
+Second: Although at first the "disc" was giving out a brilliant light so that the black "cloud" was quite visible, when the "disc" passed behind the "cloud" the slow disappearance of the light was not extinguished.
+
+Third: The black object never moved during the whole sighting, nor did it change its position shape (pointed at both ends or its size). It was in the same position as hour later. Surely had it been a cloud, it would have moved or changed its shape in a fraction of this time. I have never known a cloud to remain stationary and the same shape for more than five minutes, let alone so long.
+
+This suggests, that the object was a solid craft of some sort, probably a Mother Ship. Japan (the teacher) was sure that it was a craft, as the school children claim several times to have seen "things like boats in the sky" passing over Kwiagora at night. I remember hearing this in July, when "the object" was over their beach.
+
+There witnesses are absolutely reliable, Fr. Albert particularly so. He is well educated, steady, administrative and completely truthful person.
+
+(Signed) Witness: M. Kirsta
+                   Tapket Mission
+
+Recorder: Norman B. G. Cruttwell
+Note: Papuan is 20 m (app.) from Kova, bagira. The sighting appeared over Papuan, but must really have been much nearer to Kwiagora.
+
+N.E.G.C.
+
 
 - page 15 -
 
-The image does not contain any photographs. It appears to be an old document from Project Blue Book, a U.S. government program that investigated unidentified flying objects (UFOs).
+No Case (Information Only)                                   29 November 1959
+                                                                       Miami, Florida
 
-The text in the document reads as follows:
+On Nov.29 U.S. Navy Pharmaceutical Aviation
+Mechanician Joseph John Rehill photographed a "sudden flash", which
+showed 5 white objects in the sky, one which was followed by a
+faint streak over Miami, Florida.
 
-No Case (Information Only)                         29 November 1959
-Miami, Florida
+U.S. NAVY MAN
+PHOTOGRAPHS UAO
+Miami, Fla., 29 Nov. 1959—Joseph John
+Rehill, 30, U.S. Navy Pharmaceutical
+Aviation Mechanician, was focusing his
+camera at an empty parking lot. Cates
+Rd. a glimpse of a "sudden flash", he
+snapped the shutter. When the transparency was developed, it showed five white
+spots in the sky—one of them followed
+by a faint streak.
 
-Technician Joseph John Kuhail photographed a "sudden flash", which showed 5 white objects in the sky. The which was followed by a faint streak over Miami, Florida.
+Interrogated by N. F. Carey of
+S.P.A.C.E. (Sat Atambre), Coral Gables,
+Fla., Rehill was not cooperative. He
+admitted that he had had a session with
+Air Force intelligence officers. They had
+examined his Argus C3 camera as well
+as the complete set of transparencies
+from that particular roll of film and had
+found no evidence of fakery, he said.
+And yet this man with 19 years of naval
+aviation experience says he did not see any
+thing after taking the picture to see if the
+UFOs were still there.
 
-U. S. NAVY MAN
-PHOTOGRAPHS UFO
-Miami, Fla., 29 Nov. 59 U.S. Navy Pharmacutical Aviation Technician Joseph John Ruhail photographed a "sudden flash", which showed 5 white objects in the sky, the which was followed by a faint streak over Miami, Florida.
 
 - page 16 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book document containing a table of December 1959 UFO sightings, including the location, observer, and evaluation of each sighting.
+DECEMBER 1959 SIGHTINGS:
 
-DECEMBER 1959 SIGHTINGS  
-DATE	LOCATION	OBSERVER	EVALUATION  
-1	Kalispell, Montana	Military	Aircraft (FUEL OPR)  
-3	Greenville, Mississippi, Alpha, Ohio	Military	Aircraft (MISSILE)  
-11	Riviera Beach, Florida	Military	Other (MISSILE)  
-14	N Pacific (E of Hawaii)	Military	Astro (METEOR)  
-14	New York, New York	Military	Insufficient Data  
-14	Ottawa, Ontario, Canada	Military (RADAR)	Insufficient Data  
-19	Burgoon, Ohio	Military (RADAR)	Insufficient Data  
-21	Berlin, Germany	Military (RADAR)	Balloon  
-23	W of Albuquerque, New Mexico	Military (RADAR)	Balloon  
+DATE    LOCATION                   OBSERVER       EVALUATION
+1       Kalispell, Montana         Military       Aircraft (REFUEL OFR)
+2       Greenville, Mississippi    Military       Insufficient Data
+3       Alpha, Ohio                 Military       Aircraft
+8       Riviera Beach, Florida     Multi          Other (MISSILE)
+11      N Pacific (E of Hawaii)     Military       Astro (METEOR)
+14      New York, New York          Military       Insufficient Data
+18      Victoria Island, Canada     Military (RADAR) Insufficient Data
+19      Burgoyn, Ohio               Military       Insufficient Data
+21      Berlin, Germany             Military (RADAR) Astro (METEOR)
+23      W of Albuquerque, New Mexico Military (RADAR) Balloon
 
-ADDITIONAL REPORTED SIGHTINGS (NOT CASES)  
-DATE	LOCATION	SOURCE	EVALUATION  
-Dec	Universe	Science News Ltr	 -  
-Dec 1	Chevniler, Ohio	Newsclipping	 -  
-Dec 1	Fontana, California	Newsclipping	 -  
-Dec 9	Oakand, California	Newsclipping	 -  
-Dec 10	Cozaan, Connecticut	Newsclipping	 -  
-Dec 10	Willoughby, Ohio	Newsclipping	 -  
-Dec 16	Junction, Texas	Newsclipping	 -  
-Dec 16	Rapid City, South Dakota	Newsclipping	 -  
-Dec 18	Phoenix, Arizona	Newsclipping	 -  
-Dec 22	Oakland, California	Newsclipping	 -  
-Dec 29	Boston, Massachusetts	Newsclipping	 -
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES):
+
+DATE    LOCATION                   SOURCE         EVALUATION
+Dec     Universe                   Science News Ltr
+Dec     Cheshire, Ohio             Newsclippings
+1       Fontana, California        Newsclippings
+1       Oakland-Fremont Area, California Newsclippings
+10      Canaan, Connecticut        Newsclippings
+10      Willoughby, Ohio           Newsclippings
+10      Junction, Texas            Newsclippings
+16      Rapid City, South Dakota   Newsclippings
+17      Fulton, Mississippi        Newsclippings
+22      Oakdale, California        Newsclippings
+29      Boston, Massachusetts      Newsclippings
+
 
 - page 17 -
 
-The image does not contain any photograph. It appears to be a handwritten document with text and a signature at the bottom.
+Here is the text I can read from the document:
 
-Transcription of the text in the document:
+[First paragraph is partially illegible, but appears to start with "...not sure what shot..."]
 
-"It was about this time that word got started that I had seen something strange in the sky. I was back and forth all day waiting for some evidence that anyone else had seen or noticed anything, but I never could find a single person who had. 
+Wanted to place this as a year that they
+then in sight, and what you think they will
+or might have been?
 
-Seemed my sense of observance had become quite sharpened up and I had maybe seen things that weren't really there. Or could it be that I was the only one who had seen this thing? 
+Sincerely yours,
 
-Randolph Walsh."
+[Location appears to be] Sanborn, Mich.
+
+Note: There are some black redaction lines in the middle of the document, and some words in the first paragraph are difficult to make out clearly.
+
 
 - page 18 -
 
-The image does not contain any photographs. 
+Here is the text from the document:
 
-Text extracted from the document:
+SAPI-34/Maj Tacker/mby/7229]
 
-This is to acknowledge your undated letter regarding the sighting of an unidentified flying object on Sunday, 29 November, which was reported, Michigan.
+21 December 1959
 
-Your letter contains insufficient information for a valid conclusion. Therefore, requires you and your friend consider the attached air force questions in regard to the report you submitted. Furnish the completed questsies report as soon as possible, for analysis and evaluation.
+Dear Mr.
+
+This is to acknowledge your undated letter regarding the sighting of an unidentified flying object on Sunday, 29 November, south of West Branch, Michigan.
+
+Your letter contains insufficient information for a valid conclusion. Therefore, request you and your friend complete the attached Air Force questionnaire in regard to this sighting and forward the completed paper to the Aerospace Technical Intelligence Center, Wright-Patterson Air Force Base, Ohio, for analysis and evaluation.
 
 Sincerely,
 
 LAWRENCE J. TACKER
-Major USAF Intelligence Division
+Major, USAF
+Public Information Division
 Office of Information
+
+Mr.
+Dearborn, Michigan
+
+Comeback OI-34
+Header OI-4
+
 
 - page 19 -
 
-The image does not contain any photograph. It appears to be a U.S. Air Force Technical Information Sheet, which is a questionnaire used to gather information about unidentified flying object sightings.
+U. S. AIR FORCE TECHNICAL INFORMATION SHEET
 
-U.S. AIR FORCE TECHNICAL INFORMATION SHEET
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomena that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information so that, if it is deemed necessary, we may contact you for further details.
+This questionnaire has been prepared so that you can give the U. S. Air Force as much information as possible concerning the unidentified aerial phenomena that you have observed.
+
+Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission.
+
+We request this personal information so that, if it is deemed necessary, we may contact you for further details.
+
 1. When did you see the object?
+[Date fields are blank]
+
 2. Time of day:
-Hour
-Minutes
+[Time fields are blank]
 (Circle One): A.M. or P.M.
+
 3. Time zone:
-(Circle One): a. Eastern b. Central c. Mountain d. Pacific e. Other
+(Circle One): a. Eastern
+             b. Central
+             c. Mountain
+             d. Pacific
+             e. Other
+
+(Circle One): a. Daylight Saving
+             b. Standard
+
 4. Where were you when you saw the object?
-Address Postal Address
-City or Town
-State or Country
-Additional Remarks
-5. Estimate how long you saw the object.
-Hours
-Minutes
-Seconds
-5.1 Circle one of the following to indicate how certain you are of your answer to Question 5.
-a. Certain b. Fairly certain c. Not very sure d. Just a guess
+[Location fields are partially filled but mostly illegible]
+
+Additional remarks: [Some text is written but mostly illegible]
+
+5. Estimate how long you saw the object:
+[Duration fields are blank]
+
+5.1 Circle one of the following to indicate how certain you are of your answer to Question 5:
+a. Certain
+b. Fairly certain
+c. Not very sure
+d. Just a guess
+
 6. What was the condition of the sky?
-(Circle One): a. Bright daylight b. Dull daylight c. Bright twilight d. Just a trace of daylight e. No trace of daylight f. Don't remember
-7. IF you saw the object during DAYLIGHT, TWILIGHT, or DAWN, where was the SUN located as you looked at the object?
-(Circle One): a. In front of you b. In back of you c. To your right d. To your left e. Overhead f. Don't remember
+(Circle One): a. Bright daylight
+             b. Dull daylight
+             c. Bright twilight
+
+             d. Just a trace of daylight
+             e. No trace of daylight
+             f. Don't remember
+
+7. If you saw the object during DAYLIGHT, TWILIGHT, or DAWN, where was the SUN located as you looked at the object?
+(Circle One): a. In front of you
+             b. In back of you
+             c. To your right
+
+             d. To your left
+             e. Overhead
+             f. Don't remember
+
+ATIC FORM NO. 164 (13 OCT 54)
+
 
 - page 20 -
 
-There is no photograph present in this image. The image appears to be a page from an old UFO report document containing a questionnaire or form.
-
 8. IF you saw the object at NIGHT, TWILIGHT, or DAWN, what did you notice concerning the STARS and MOON?
 8.1 STARS (Circle One):
-a. Shine
+a. None
 b. A few
 c. Many
 d. Don't remember
@@ -403,128 +676,199 @@ d. Don't remember
 8.2 MOON (Circle One):
 a. Bright moonlight
 b. Dull moonlight
-c. No moonlight - pitch dark 
+c. No moonlight - pitch dark
 d. Don't remember
 
 9. Was the object brighter than the background of the sky?
-(Circle One): a. Yes b. No c. Don't remember
+(Circle One): a. Yes   b. No   c. Don't remember
 
 10. IF it was BRIGHTER THAN the sky background, was the brightness like that of an automobile headlight?
-(Circle One): a. A mile or more away (distant car)? b. Several blocks away? c. A block away? d. Several yards away? e. Other
+(Circle One)
+a. A mile or more away (a distant car)?
+b. Several blocks away?
+c. A block away?
+d. Several yards away?
+e. Other:
 
-11. Did the object: 
+11. Did the object:
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Break up into parts or explode?
+d. Give off smoke?
+e. Change brightness?
+f. Change shape?
+g. Flicker, throb, or pulsate?
+
 (Circle One for each question)
-a. Appear to stand still at any time? Yes No Don't Know
-b. Suddenly speed up and rush away at any time? Yes No Don't Know
-c. Break up into parts or explode? Yes No Don't Know
-d. Give off a trail? Yes No Don't Know
-e. Give off light? Yes No Don't Know
-f. Change shape? Yes No Don't Know
-g. Flicker, throb, or pulsate? Yes No Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
 
-12. Did the object move behind something at anytime, particularly a cloud? 
-(Circle One): Yes No Don't Know. IF you answered YES, then tell what
+12. Did the object move behind something at anytime, particularly a cloud?
+(Circle One): Yes   No   Don't Know
+If you answered YES, then tell what it moved behind: [partially illegible text]
 
 13. Did the object move in front of something at anytime, particularly a cloud?
-(Circle One): Yes No Don't Know. IF you answered YES, then tell what
+(Circle One): Yes   No   Don't Know
+If you answered YES, then tell what it moved in front of: [blank]
 
-14. Did the object appear: (Circle One): a. Solid? b. Transparent? c. Don't Know.
+14. Did the object appear: (Circle One): a. Solid?   b. Transparent?   c. Don't Know
 
 15. Did you observe the object through any of the following?
-a. Eyeglasses Yes No
-b. Sunglasses Yes No
-c. Windshield Yes No
-d. Window glass Yes No
+a. Eyeglasses   Yes   No
+b. Sun glasses   Yes   No
+c. Windshield   Yes   No
+d. Window glass Yes   No
+
+e. Binoculars   Yes   No
+f. Telescope    Yes   No
+g. Theodolite   Yes   No
+h. Other: [blank]
+
+Page 2 is noted in the top right corner of the document.
+
 
 - page 21 -
 
-The image does not contain a photograph. It appears to be a page from an old UFO report document, likely from Project Blue Book, that includes a drawing and some text prompts.
+Here is the text from the document:
 
-The text found in the document is as follows:
+Page 3
 
 16. Tell in a few words the following things about the object:
-a. Sound _________________
-b. Color __________________
+    a. Sound ____________________
+    b. Color ____________________
 
-17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc. and especially indicate trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
+17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
 
 18. The edges of the object were:
-(Circle One):   a. Fuzzy or blurred
-                   b. Like a bright star 
-                   c. Sharply outlined
-                   d. Don't remember
+    (Circle One): a. Fuzzy or blurred
+               b. Like a bright star
+               c. Sharply outlined
+               d. Don't remember
+    c. Other: ____________________
 
-19. If there was MORE THAN ONE object, then how many were there?
-Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+19. If there was MORE THAN ONE object, then how many were there? ____________
+    Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+
 
 - page 22 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book, containing a series of questions and instructions.
+Page 4
 
-20. Draw a picture that will show the motion that the object or objects made. Place an "X" at the beginning of the path, a "2" at the end of the path, and show any changes in direction during the course.
+20. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of its path, a "B" at the end of the path, and show any changes in direction during the course.
+
+[Handwritten note partially visible but mostly illegible]
 
 21. IF POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension.
+[No response filled in]
 
-22. How large did the object or objects appear as compared with one of the following objects held in the hand or about arm's length?
+22. How large did the object or objects appear as compared with one of the following objects held in the hand and at about arm's length?
+(Circle One):
+a. Head of a pin
+b. Pea
+c. Dime
+d. Nickel
+e. Quarter
+f. Half dollar
 
-23. (Circle One) How certain you are of your answer to Question 22?
+g. Silver dollar
+h. Baseball
+i. Grapefruit
+j. Basketball
+k. Other
+
+22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22):
 a. Certain
 b. Fairly certain
+
 c. Not very sure
 d. Uncertain
 
-23. How did the object or objects disappear from view?
+23. How did the object or objects disappear from view? [Handwritten response partially illegible]
 
-24. In order that you can give as clear a picture as possible of what you saw, we would like for you to imagine that you could construct the object that you saw. Of what type material would you make it? How large would it be, and what shape, color, etc.?
+24. In order that you can give as clear a picture as possible of what you saw, we would like for you to imagine that you could construct the object that you saw. Of what type material would you make it? How large would it be, and what shape would it have? Describe in your own words a common object or objects which when placed up in the sky would give the same appearance as the object which you saw.
+
+[Handwritten note partially illegible]
+
 
 - page 23 -
 
-The image does not contain a photograph. It appears to be a page from an old UFO report document, specifically from Project Blue Book.
+Here is the text from the document:
 
-TEXT EXTRACTED FROM THE DOCUMENT:
+Page 5
 
-25. Where were you located when you saw the object? (Circle One):
+25. Where were you located when you saw the object?
+(Circle One):
 a. Inside a building
-b. In a vehicle
+b. In a car
 c. Outdoors
 d. In an airplane
 e. At sea
-f. Other
+f. Other ____________________
 
-26. Were you (Circle One):
+26. Were you (Circle One)
 a. In the business section of a city?
 b. In the residential section of a city?
-c. In a rural area?
+c. In open countryside?
 d. Flying near an airfield?
 e. Flying over a city?
 f. Flying over open country?
-g. Other
+g. Other ____________________
 
 27. What were you doing at the time you saw the object, and how did you happen to notice it?
+[Handwritten text, partially illegible]
 
 28. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
+
 28.1 What direction were you moving? (Circle One)
-a. North c. East e. South g. West
-b. Northeast d. Southeast f. Southwest h. Northwest
-28.2 How fast were you moving? miles per hour.
-28.3 Did you stop at any time while you were looking at the object? (Circle One) Yes No
+a. North
+b. Northeast
+c. East
+d. Southeast
+e. South
+f. Southwest
+g. West
+h. Northwest
+
+28.2 How fast were you moving? _______ miles per hour.
+
+28.3 Did you stop at any time while you were looking at the object?
+(Circle One) Yes   No
 
 29. What direction were you looking when you first saw the object? (Circle One)
-a. North c. East e. South g. West 
-b. Northeast d. Southeast f. Southwest h. Northwest
+a. North
+b. Northeast
+c. East
+d. Southeast
+e. South
+f. Southwest
+g. West
+h. Northwest
 
 30. What direction were you looking when you last saw the object? (Circle One)
-a. North c. East e. South g. West
-b. Northeast d. Southeast f. Southwest h. Northwest
+a. North
+b. Northeast
+c. East
+d. Southeast
+e. South
+f. Southwest
+g. West
+h. Northwest
 
 31. If you are familiar with bearing terms (angular direction), try to estimate the number of degrees the object was from true North and also the number of degrees it was upward from the horizon (elevation).
-31.1 When it first appeared: 
-a. From true North degrees.
-b. From horizon degrees.
+
+31.1 When it first appeared:
+a. From true North _______ degrees.
+b. From horizon _______ degrees.
 
 31.2 When it disappeared:
-a. From true North degrees. 
-b. From horizon degrees.
+a. From true North _______ degrees.
+b. From horizon _______ degrees.
+
 
 - page 24 -
 

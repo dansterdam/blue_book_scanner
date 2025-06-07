@@ -1,102 +1,117 @@
-There is no photograph in the displayed image.
-
-Text content from the document:
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE                          2. LOCATION                         12. CONCLUSIONS
-25 Jul 58                       Mt. Holly, New Jersey               ☐ Was Balloon
-                                 Riverside, New Jersey              ☑ Probably Balloon
-                                                               ☐ Possibly Balloon
-3. DATE-TIME GROUP         4. TYPE OF OBSERVATION            ☐ Was Aircraft  
-Local                                                  ☐ Probably Aircraft
-GMT 25/23557-26/0020Z ☑ Ground-Visual                        ☐ Possibly Aircraft
-   ☐ Air-View                          ☐ Ground-Radar       ☐ Was Astronomical
-   ☐ Air-Intercept Radar ☐ Air-Intercept ☐ Possibly Astronomical
+1. DATE
+25 Jul 58
 
-5. PHOTOS              7. LENGTH OF OBSERVATION                        ☐ Other
-☐ Yes                          25 mins                                         ☐ Insufficient Data for Evaluation
-☑ No                                                                       ☐ Unknown
+2. LOCATION
+Mt. Holly, Riverside, New Jersey
 
-6. SOURCE              9. NUMBER OF OBJECTS                  10. COURSE
-Civilian & Military    One                             NW to SE
+3. DATE-TIME GROUP
+25/2355Z-26/0020Z
 
-10. BRIEF SUMMARY OF SIGHTING                                    11. COMMENTS
-Rnd, shiny obj on NW to SE track.                  There was a balloon actually
-                                                                       observed heading SE at same
-                                                                         time. Definitely balloon.
-```
+4. TYPE OBSERVATION
+Civilian & Military
 
-ATCC FORM 329 REV 6/52 SP
+5. PHOTOS
+□ Yes
+■ No
+
+6. LENGTH OF OBSERVATION
+25 mins
+
+9. BRIEF SUMMARY OF SIGHTING
+Rnd, shiny obj on NW to SE track.
+
+10. COMMENTS
+There was a balloon actually observed heading SE at same time. Definitely balloon.
+
+11. NUMBER OF OBJECTS
+one
+
+12. COURSE
+NW to SE
+
+12. CONCLUSIONS
+■ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Possibly Aircraft
+□ Probably Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
 
 - page 1 -
 
-There are no photographs in the image you provided. It only contains a scanned document page with text and various annotations.
-
 Here is the text from the document:
 
-```
 RE028
-
-TO SAB793 YMCO59ZCZCKAQ021BDD001
-00 RJEDDN RJEPNY RJEDSA RJEPHQ
+TO SQB953 YMCO59ZCZKQA021BDD001
+OO RJEDDN RJEPNY RJEDSQ RJEPHQ
 DE RJEDKQ 78
-0 260128Z
-
+O 2601282
 FM FSC OLMSTED AFB PA
 TO RJEDDN/COMDR ADC ENT AFB COLORADO
-RJEJPNY/COMDR 26TH AD (DEF) ROSLYN NY
-RJEJDP/COMDR AIR TECH INTEL CEN WRIGHT-PATTERSON AFB OHIO
-RJEHPA/DIR OF INTEL HQ USAF WASH 25 D C
+RJEPNY/COMDR 26TH AD (DEF) ROSLYN NY
+RJEDWP/COMDR AIR TECH INTEL CEN WRIGHT-PATTERSON AFB OHIO
+RJEPHQ/DIR OF INTEL HQ USAF WASH 25 D C
 GRNC
-
 BT
-
-1. (CA) ROUND (CB) UNK (CC)SHINY (CD) NONE (E) NIA (C) NONE (CH)NONE
-
-2. (CA) REFLECTION OF SUN ON OBJECT(CB) 2,000 FT (C) UNK (CD) NORTHWEST
+1. (A) ROUND (B) UNK (C)SHINY (D) ONE (E) NIA (G) NONE (H)NONE
+2. (A) REFLECTION OF SUN ON OBJECT (B) 2,000 FT (C) UNK (D) NORTHWEST
 TO SOUTHEAST TRACK (E) UNK (F) UNK
-
-3. (CA) GROUND-VISUAL (CB) NONE (CC) NIA
-
-4. (CA) 252355Z (BX) DUSK
-
+3. (A) GROUND-VISUAL (B) NONE (C) NIA
+4. (A) 2523552 (B) DUSK
 5. RIVERSIDE N.J.
+6. (A) [REDACTED] AGE UNK [REDACTED] RIVERSIDE, N.J. TELE HOBART
+AND A.M. STEVENS STATION, BURLINGTON N.J.
+X7. (A) UNK (B) CALM
 
-6. (CA) __________________ AGE UNK __________ RIVERSIDE, N.J. TELE HOBART
-AND A.M. _________________ STEVENS STATION, BURLINGTON N.J.
+There is also a "TELEPHONED" stamp in the top right corner with some details, but the specific information is not clearly legible.
 
-7. (CA) UNK (CB) CALM
-```
 
 - page 2 -
 
-The document features a hand-drawn illustration of an airborne object, resembling a dirigible or a balloon, with an arrow indicating its motion marked "SOUTH EAST."
-
-**OCR Transcription of the Document Text:**
-
-```
 6,999' 280 DEG 10KT
-10,000' 280 DEG 15 KT
-15,000' 300 DEG 15 KT
+10,000' 280 DEG 15X KT
+16,000' 300 DEG 15 KT
 20,000' 340 DEG 20 KT
 30,000' 320 DEG 40 KT
 50,000' 240 DEG 75 KT
-80,000' UNK DEG UNK KT
-(CC) HIGH BROKEN (D) EIGHT MILES (E) 6/10 TO 9/10 (CF) NONE
-6: UNK
+60,000' UNK DEG UNK KT
+
+Note: all winds flowing from
+NW to Southeast
+
+(C) HIGH BROKEN (D) EIGHT MILES (E) 6/10 TO 9/10 (F) NONE
+
+6. UNK
 9. NONE
 10. UNK
-11. A MAJOR SEENEY OF MT HOLLY N.J. SIGHTED WX BALLOON OVER MT
+
+11. A MAJOR SEEDNEY OF MT HOLLY N.J. SIGHTED WX BALLOON OVER MT
 HOLLY AT ALTITUDE OF 10,000 FT AT 0020Z. WX BALLOON WAS 15 FT IN
 DIAMETER WITH 20 POUND TRANSMITTER. HEADING WAS SOUTHEAST
-12. NONE.
+
+12. NONE
+
 OPERATIONS OFFICER MDTFS
-BT.
-CA W 7a. (C) UNK (B) CAL M TO READ 6,000
-26/0312Z JUL BREDKO
-```
-(Note: Additional handwritten annotations and signatures are included, which may indicate clarifications or confirmations by the document handlers.)
+
+BT
+C WA 7. (A) UNK (B) CAL M TO READ 6,000
+
+26/0131Z JUL BJEDKQ
+
+Additional handwritten notes include:
+- Balloon actually observed low during South East
+- ATC Comment: Observed cloud structure test
+- Various other notes about balloon movement and direction
+
 
 - page 3 -
 

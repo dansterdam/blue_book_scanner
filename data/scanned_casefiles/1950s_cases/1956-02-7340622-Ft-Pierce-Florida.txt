@@ -1,135 +1,132 @@
-There are no photographs present on this page.
-
-OCR text output:
-
-```
 PROJECT 10073 RECORD CARD
+
 1. DATE
-2. LOCATION
-3. TIME-GROUP
-Local GMT 28/0125Z
 27 February 1956
+
+2. LOCATION
 Ft. Pierce, Florida
+
+3. DATE-TIME GROUP
+Local GMT 28/0125Z
+
 4. TYPE OF OBSERVATION
-Sound-Visual
-Air-Visual
-Ground-Radar
-Air-Intercept Radar
-5. PHOTOS
-a Yes
-6. SOURCE
-a No
-civilian
+Ground-Visual ☑ Air-Visual ☐ Ground-Radar ☐ Air-Intercept Radar ☐
+
+5. SOURCE
+Civilian
+
+6. PHOTOS
+☑ Yes ☐ No
+
 7. LENGTH OF OBSERVATION
-one
-8. NUMBER OF OBJECTS
 30 minutes
+
+8. NUMBER OF OBJECTS
+one
+
 9. COURSE
-erratic arc to north
+erratic arc
+to north
+
+10. BRIEF SUMMARY OF INCIDENT
+One very bright object, round some-
+times cigar shaped, sometimes has
+prongs, size of 50¢ piece, color
+yellowish white, bright enough to
+see through clouds - faded.
+
 11. COMMENTS
-Possible flares associated with military operations in area.
+Possible flares associated with
+military operations in area.
 
 12. CONCLUSIONS
-Was Balloon
-Probably Balloon
-Possibly Balloon
-Was Aircraft
-Probably Aircraft
-Possibly Aircraft
-Was Astronomical
-Probably Astronomical
-Possibly Astronomical
+☐ Was Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☒Other: Poss Flares
+☐ Insufficient Data for Evaluation
+☐ Unknown
 
-Other Poss Flares Insufficient Data for Evaluation Unknown
+ATIC FORM 329 (REV 26 SEP 52)
 
-10. BRIEF SUMMARY OF SIGHTING
-One very bright object, round sometimes cigar shaped, sometimes has prongs. Size of 50£ piece, color yellowish white, bright enough to see through clouds - faded.
-ATIC FORM 329 (REV 24 SEP 52)
-```
 
 - page 1 -
 
-There are no photographs present on the document page.
+Here is the text from the document:
 
-Here is the OCR output of the text found in the document:
+57 x 0252
+Month
 
-```
-27/20252
-Multi ACTION!
-
-ZAM Feb 29 ao 19:53
-
-v
-
-MUBE2:4 VDEI47 VVC26S VDA142KPak.43
-MRRDEDEN 142DER ROEPHQ ROEPN9
-2ML AJCESKP
-Bo AJcSKP 30
-u 29163Z
-
-FM CMDR S6TH ACWRON MACDIIJ AFB FLA
-TO I4EDEN/COMDR ADC ENT AFB COLO SPRGS COLO
-AJCHKD/COMDR 35TH ADIV /D/ DOBBINS AFB GA
-A1EDWP/COMDR AIR TECH INT CNTR WPAFB OHIO
-RjEPHQ/DIR OF INT HQ USAF WASHDC
+WF 52 4 YD 142 WYC266 VDA 142KA 43
+RJEDEN RJDPMT RJEP10 RJEPN8
+ZWL RJCSKF
+DE RJCSKF 3D
+IN 25 1632 Z
+FM COMDR 62TH ACMRON MACDILL AFB FLA
+TO RJEDEN/COMDR ADC ENT AFB COLO SPRGS COLO
+RJCSKF/COMDR 35TH ADIV /D/ DOBBINS AFB GA
+RJDMP/COMDR AIR TECH INT CNTR WPAFB OHIO
+RJEPH9/DIR OF INT HQ USAF WASH DC
 INFO RJEPNE/COMDR EADF STEWART AFB NY
 BT
+/UN C L A S S I F I E D/OPS 202 UFOB PD/EADF ATTN CICA
 
-UNC*LASSIFIED D/OPS 282 UFOB PD/EADF ATTN CIC/
 1. VERY BRIGHT LIGHT
-A. ROUND SOMETIMES HAS PRONGS /CIGAR SHAPED/
-B. 50 CENT PIECE
-C. YELLOWISH WHITE
-D. ONE /1/
-E. NONE
-F. NONE
-G. NONE
-H. NONE
-I. BRIGHT ENOUGH TO SEE THROUGH CLOUDS
+   A. ROUND SOMETIMES HAS PRONGS /CIGAR SHAPED/
+   B. 50 CENT PIECE
+   C. YELLOWISH WHITE
+   D. ONE /1/
+   E. NONE
+   F. NONE
+   G. NONE
+   H. NONE
+   1. BRIGHT ENOUGH TO SEE THROUGH CLOUDS
+   2. ERRATIC MOVEMENTS N S E W
+      A. OCC SPOTTER
+      B. 30 DEGREES
+      C. ARC TO NORTH
 
-2.ERRATIC MOVEMENTS N S E W
-A. OCC SPOTTER
-B. 30 DEGREES
-C. ARC TO NORTH
-```
 
 - page 2 -
 
-There is no photograph in this document.
-
-```
-D. FADES OVER HORIZON
+1. FADES OVER HORIZON
 E. FADE
-F. 3 MINUTES
+F. 3% MINUTES
+
 3. GOC OBSERVER
 A. GROUND VISUAL CMA HAD BINOCULARS
-F. BINOCULARS
+B. BINOCULARS
 C. NONE
-4. 27 FEB 56 2225 EST
-A. 28/8 1257 FEP
-E. NIGHT
-5. KN 3229 FT PIERCE HM 3958
-6. 45 - - - - - OLDSMOPILE CMA FT PIERCE FLA
-33 CMA ORKIN COMPANY SMCLN TEKES - - - - - CMA
+
+4. 27 FEB 56 2025 EST
+A. 28/0 125Z FEB
+B. NIGHT
+
+5. KN 3929 FT PIERCE HM 3958
+OLDSMOBILE CMA FT PIERCE FLA
 FT PIERCE FLA CMA REAL ESTATE PD
-F. NONE
-7. SCATTERED STAT CUL - - - 
-A. BROKEN EST 500
-E. UNAVAIL
-C. EST 500
+B. NONE
+
+7. SCATTERED STAT CUL @020
+A. BROKEN EST 5000
+B. UNAVAIL
+C. EST 5000
 D. VIS 5 MILES UNLIMITED
 E. BROKEN
 F. NONE
-8. NONE
-9. NONE
+G. NONE
+J. NONE
 10. NONE
 11. NONE
 12. NONE
-REMARK SCMLN C.V. AT FLOWER STATED THAT THEY COULD NOT TAKE UFO
-ON TACTICAL CIRCUITS DUE TO EXERCISE "WINTERS END" PD
-BY 
-28/1257 FEP RBSKI  
-```
+
+REMARK SMCLN C.V. AT FLOWER STATED THAT THEY COULD NOT TAKE UFO
+DUE TO TACTICAL CIRCUITS DUE TO EXERCISE "WINTER END" PD
+29/10 52 PET RJESKI
+
 
 - page 3 -
 

@@ -1,94 +1,119 @@
-The provided image does not contain a photograph. It appears to be a Project 10073 Record Card from the Project Blue Book UFO investigation program.
-
-The text in the document is as follows:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
-25 November 1957
+23 November 1957
+
 2. LOCATION
 Berlin, New Hampshire
-3. TYPE OF OBSERVATION
+
+3. DATE-TIME GROUP
+Local 23/231½
+GMT
+
+4. TYPE OF OBSERVATION
 Ground-Visual
-4. TYPE OF OBJECTS
-One
+
 5. PHOTOS
-0 Yes
-[ ] No
-6. NUMBER OF OBJECTS
-One
+No
+
+6. SOURCE
+Civilian
+
 7. LENGTH OF OBSERVATION
-6 SECONDS
+2 seconds
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+NW
+
 10. BRIEF SUMMARY OF SIGHTING
-Arrow shaped object, 1 inch long, tail, white, flashed across the sky at high speed.
+Arrow shaped object, 1 inch long, No tail. White. Flashed across the sky at high speed.
+
+11. COMMENTS
+Probably a meteor.
+
 12. CONCLUSIONS
-D Was Balloon
-D Possibly Balloon
-[x] Probably Meteor
+[Checked box] Probably Astronomical - Meteor
+
 
 - page 1 -
 
-The image contains a handwritten document that appears to be a page from a Project Blue Book report. The document includes a sketch or diagram labeled "UNCLASSIFIED/INT 11077. ATTN: DIRECTOR OF INTELLIGENCE 32D AIR DIV". The sketch depicts an arrow-shaped object with some descriptive annotations. No specific individuals are named or identified in the image.
+Here is the text from the document:
 
-R210
-SCAO07FLAGOS
-PP RJJESG.
-ZOV RJEDFFL.
-PP RJEFNR RJEFNQ RJEBFL RJEFDN 
-DS 23234O2
-FH CODR G3ATH ACURON 
-TO RJEFDN/CODR ADC ENT AFD
-RJEFSK/CODR 32D AIR DIV DEF
-RJEFDI/CODR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFD
-RJEFHO/CODR DIR OF INTELLIGENCE HQ USAF
-RJEPNE/CODR EADE
-RJEFSK/CODR DET 9 100STH AIR INTELLIGENCE SG
+23/2311 2
+1 witness
+
+SQA0007FLAG009
+PP PJESQO
+20V PJEDFL
+PP PJEPNB PJEPHQ PJEDFL PJEDDN
+DE PJEFS1: 1*
+
+P 2523402
+
+FM COMDR 654TH ACURON
+TO PJEDN/COMDR ADC ENT AFP
+PJEPSN/COMDR 32D AIR DIV DEF
+PJEDFL/COMDR AIR TECHNICAL INTELIGENCE CENTER WRIGHT PATTERSON AFB
+PJEPHQ/COMDR DIR OF INTELLIGENCE HQ USAF
+PJEPNE/COMDR EADF
+PJEPSN/COMDR DET 9 1006TH AIR INTELLIGENCE SQ
 ET
+
 UNCLASSIFIED/INT 11077. ATTN: DIRECTOR OF INTELLIGENCE 32D AIR DIV
-SUBJ: CIC STEWART AFB, SUBJECTS UNIDENTIFIED FLYING OBJECT REPORT.
-A. ARROW SHAPED 
-B. 1 INCH
-C. WHITE
-D. 1 CONE
-E. BXO
-F. ARROW SHAPED NO TAIL
-G. NONE
-H. NONE
+ATTN: CIC STEWART AFB. SUBJECT: UNIDENTIFIED FLYING OBJECT REPORT.
+
+(1) A. ARROW SHAPED
+    B. 1 INCH
+    C. WHITE
+    D. 1 (CONE)
+    E. N/A
+    F. ARROW SHAPED NO TAIL
+    G. NONE
+    H. NONE
+
 
 - page 2 -
 
-The image does not contain a photograph. It appears to be a page from a Project Blue Book report, containing a description of a sighting event.
+PAGE TWO RJEPSH 1K
 
-TEXT OUTPUT:
+(1) FLASHED ACROSS SKY AT HIGH SPEED
 
-PAGE TWO UEFER. 1K
-1. FLASHER ACROSS SKY AT HIGH SPEED
 (2) A. JUST HAPPENED TO BE ATTRACTED BY OBJECT
-B. STRAIGHT 
-C. NL
-D. STRAIGHT AND VERY FAST
-E. OUT OF SIGHT
-F. 3 SEC
+    B. STRAIGHT
+    C. NW
+    D. STRAIGHT AND VERY FAST
+    E. OUT OF SIGHT
+    F. 2 SEC
+
 (3) A. GROUND VISUAL
-B. NONE
-C. NONE
+    B. NONE
+    C. NONE
+
 (4) A. 2311Z 23 NOV 57
-B. NIGHT
-(5) DQ4928, BERLIN, NEW HAMPSHIRE
-(6) A. ***** 33, ***** BERLIN, NEW HAMPSHIRE, LABORER.
-TEL *****
-B. NA
+    B. NIGHT
+
+(5) D04928, BERLIN, NEW HAMPSHIRE
+
+(6) A. [REDACTED] 33, [REDACTED], BERLIN, NEW HAMPSHIRE, LABORER,
+    B. N/A
+
 (7) A. COLD AND CLEAR
-B. FOR ETV 23/2000Z - 24/0200Z
-6,000 FEET 260/20 DEGREES 10,000 FEET 310/35 DEGREES
-15,000 FEET 310/40 DEGREES 20,000 FEET 310/55 DEGREES
+    B. FOR BTV 23/2000Z - 24/0200Z
+    6,000 FEET 280/20 DEGREES 10,000 FEET 310/35 DEGREES
+    15,000 FEET 310/40 DEGREES 20,000 FEET 310/55 DEGREES
+
+There is a handwritten note on the side that appears to say: "Aircraft across sky in the 70° of sky - probably meteor"
+
 
 - page 3 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book document containing textual information.
+PAGE THREE RJEPSN 1K
 
-PAGE THREE RJEPSH 1K
-30,000 FEET 290/130 DEGREES 50,000 FEET 260/70 DEGREES
-50,000 FEET N/A
+30,000 FEET 290/150 DEGREES 50,000 FEET 280/70 DEGREES
+
 C. CLEAR
 D. GOOD
 E. NONE
@@ -97,11 +122,16 @@ F. NONE
 (9) NONE
 (10) NONE
 (11) NO RADAR TRAFFIC IN AREA AT TIME OF SIGHTING
-(12) LT WRIGHT-DUTY DIRECTOR-BELIEVE UNIDENTIFIED OBJECT TO
-BE A METEOR.
-RT ANOSG55Z NOV RJEPSH
-Angon:
-One Milton
+(12) LT WRIGHT-DUTY DIRECTOR-BELIEVE UNIDENTIFIED OBJECT TO BE A METEOR.
+
+BT
+24/0055Z NOV RJEPSN
+
+Radar reports no c/c
+
+Ancur:
+Only meteor
+
 
 - page 4 -
 

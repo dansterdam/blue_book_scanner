@@ -1,41 +1,59 @@
-The image provided is a scanned document of a Project 10073 Record Card. There are no photographs within this document. Below is the text from the document as an OCR system would produce:
-
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE                   2. LOCATION
-27 June 1954              Norton, Kansas
+1. DATE
+27 June 1954
 
-3. DATE-TIME GROUP        TYPE OF OBSERVATION
-Local   _________         ☐ Ground-Visual    ☐ Ground-Radar
-GMT   25/0722             ☐ Air-Visual       ☐ Air-Intercept Radar
+2. LOCATION
+Norton, Kansas
 
-4. PHOTOS                 SOURCE
-☐ Yes                     ☐ Civilian
-☐ No 
+3. DATE-TIME GROUP
+Local
+GMT 28/0437Z
 
-5. LENGTH OF OBSERVATION  6. NUMBER OF OBJECTS 7. COURSE
-________________________  1                    /
+4. TYPE OF OBSERVATION
+☑ Ground-Visual
+☐ Air-Visual
+☐ Ground-Radar
+☐ Air-Intercept Radar
 
-8. BRIEF SUMMARY OF SIGHTING             11. COMMENTS
-Orange object moving west.               Insufficient Data for analysis
+5. PHOTOS
+☐ Yes
+☑ No
 
-9.            _____         12. CONCLUSIONS
-              _____         ☐ Probably Balloon
-                            ☐ Possibly Balloon
-                            ☐ Was Balloon
-                            ☐ Was Aircraft
-                            ☐ Possibly Aircraft
-                            ☐ Probably Aircraft
-                            ☐ Was Astronomical
-                            ☐ Probably Astronomical
-                            ☐ Possibly Astronomical
-                            ☐ Other:
-                            ☐ Insufficient Data for Evaluation
-                            ☐ Unknown
+6. SOURCE
+Civilian
 
-ATC FORM 329 (REV 8-53) 52
-```
+7. LENGTH OF OBSERVATION
+1
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+W
+
+10. BRIEF SUMMARY OF SIGHTING
+Orange object moving West.
+
+11. COMMENTS
+Insufficient Data for analysis
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☑ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 

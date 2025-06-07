@@ -1,121 +1,99 @@
-There is no photograph on this page.
-
-Below is the OCR transcription of the text found in the document:
-
-```
 PROJECT 10073 RECORD CARD
 
 1. DATE
-
 8 December 1957
 
 2. LOCATION
-
 Loving, Texas
 
 3. DATE-TIME GROUP
-
-Local 
-GMT    
-08/2107Z
+Level
+GMT        08/21027
 
 4. TYPE OF OBSERVATION
-
-Ground-Visual    Ground-Radar
-Air-Visual       Air-Intercept Radar
-Binoculars
+Ground-Visual ☑ Ground-Radar ☐
+Air-Visuals ☐ Air-Intercept Radar ☐
 
 5. PHOTOS
-
-Yes
-No  
-None
+☐ Yes ☑ No
 
 6. SOURCE
-
 Civilian
 
-7. LENGTH OF OBSERVATION  
-
+7. LENGTH OF OBSERVATION
 1 hour
 
 8. NUMBER OF OBJECTS
-
 one
 
 9. COURSE
-
 not given
 
 10. BRIEF SUMMARY OF SIGHTING
-
 Round object, silver, size of dime. Faded from sight.
 
 11. COMMENTS
-
-No azimuth, elevation, flight path given. Possible balloon or astronomical sighting. Insufficient information.
+No azimuth, elevation, flight path given. Possible balloon or astronomical sightings. Insufficient information.
 
 12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☑ Insufficient Data for Evaluation
+☐ Unknown
 
-Was Balloon 
-Probably Balloon 
-Possibly Balloon 
-Was Aircraft 
-Probably Aircraft 
-Possibly Aircraft 
-Was Astronomical 
-Probably Astronomical  
-Possibly Astronomical
-Other 
-Insufficient Data for Evaluation 
-Unknown
-
-ATIC FORM 329 (REV 26 SEP 52)
-```
 
 - page 1 -
 
-There are no photographs present in this document.
+RJEPHO/DIRECTOR INT HQ USAF
+BT
 
-OCR Text Output:
-
-RJEPHQ/DIRECTOR INT HQ USAF 
-BT 
 UNCLAS (INT) 12-412 PD SUBJECT: UFOB
+
 A) 1. ROUND
-2. DIME
-3. SILVER
-ONE
-5. N/A
-6. NONE
-7. NONE
-8. NONE
-9. NONE
+    2. DIME
+    3. SILVER
+    4. ONE
+    5. N/A
+    6. NONE
+    7. NONE
+    8. NONE
+    9. NONE
 
 PAGE TWO OF RJWFHZ 8Q
-B) 1. GOC EXERCISE
-NOT! GOC WAS having exciqso 
-2. NONE - ElevAtion-Azimuth?
-3. NONE - Elevation-Azimuth?
-4. NONE - Flight Path?
-5. FADED
-ONE HOUR
+
+B) 1. GOC EXERCISE - NOT: GOC was having exercise
+    2. NONE - Elevation-Azimuth?
+    3. NONE - Elevation-Azimuth?
+    4. NONE - Flight Path?
+    5. FADED
+    6. ONE HOUR
+
 C) 1. GROUND VISUAL
-2. BINOCULARS v
-3. N/A 
-D) 1. 8 DEC 1957 2107Z 2107-6 =1507 
-2. DAY 
-E) GD 2917 
-F) 1. CIVILIAN .16 TEXASOIL  FIELDWORKER.
+    2. BINOCULARS
+    3. N/A
+
+D) 1. 8 DEC 1957 2107Z 2107-6=1507 local
+    2. DAY
+
+E) 1. CIVILIAN -46 TEXAS OIL FIELD WORKER
+
 
 - page 2 -
 
-The document does not contain any photographs. Below is the transcribed text from the image:
+Here is the text from the document:
 
-```
 1. CLEAR
-     NNW N N NNW N N N N N 2.
-     348-28 350-35 350-50 349-88 350-99 369-115 350-55 NONE
+
+2. NW    N    NW    N    NW    N    NONE
+   340-28 350-35 350-50 340-39 350-90 360-115 350-55 NONE
 
 3. N/A
 
@@ -124,48 +102,34 @@ The document does not contain any photographs. Below is the transcribed text fro
 5. N/A
 
 6. N/A
-
- NO AZIMUTH, ELEVATION, FLIGHT PATH,
- watched it for an hour through
- binculars in Clear, broad daylight
- and couldn't identify it.
-
-/) N/A
+   NO AZIMUTH, ELEVATION, FLIGHT PATH,
+   WATCHED IT FOR AN HOUR THROUGH
+   BINOCULARS IN CLEAR, BROAD DAYLIGHT
+   AND COULDN'T IDENTIFY IT
 
 INSUFF INFO
 
 PAGE THREE OF RJWFHW 8Q
 
-I.) NONE
-
-J.) NONE
-
-K.) INT OFFICER NONE
-
-L.) NONE
-
+I) NONE
+J) NONE
+K) INT OFFICER NONE
+L) NONE
 BT
 
-10/18/1Ø2 DEC RJWFHW
+10/18102 DEC RJWFHW
 
-3ØH3Ø3M SQB 152 YDD117 WYB139 WDC189 HWAØ3Z
+3GH93GM 3QB 159 YDD117 WYB139 WDC129 HWA022
 
-PP RJEDDN RJEDWP RJEPHQ
-
+PP RJEDDN RJEDUP RJEPHQ
 DE RJWFHW 8Q
+P 1018952
 
-P 1Ø1895Z
-
-FM COIDR 745TH ACWRON DUNCANVILLE AF STA TEX
-
-TO RJEDDN/COIDR ADC
-
+FM COMDR 7456TH ACWRON DUNCANVILLE AF STA TEX
+TO RJEDDN/COMDR ADC
 RJWFHW/COMDR 33D ADIV
+RJEDUP/COMDR ATIC
 
-RJEDWP/COMDR ATIC
-
-             atic.
-```
 
 - page 3 -
 

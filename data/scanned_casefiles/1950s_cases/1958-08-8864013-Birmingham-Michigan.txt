@@ -1,94 +1,123 @@
-The image does not contain a photograph. It appears to be a Project Blue Book record card that documents a UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 17 August 1958
-2. DATE/TIME GROUP: 18/00222
-3. PHOTOS: 0 Yes
-4. LOCATION: Birmingham, Michigan
-5. TYPE OF OBSERVATION: 26 Ground-Visual
-6. DURATION: 3 mins
-7. NUMBER OF OBJECTS: one
-8. BRIEF SUMMARY OF SIGHTING: Rnd, bluish-white obj, larger than star, blowing, all lights surr to N, moved ENE at 35 kts for 3 mins, then turn to NNW as approved.
-9. COMMENTS: Data given indicates possible sighting of Satellite. No confirmation.
+
+1. DATE
+17 August 1958
+
+2. LOCATION
+Birmingham, Michigan
+
+3. DATE-TIME GROUP
+Local: 18/0022Z
+GMT: 18/0022Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+Civilian
+
+5. PHOTOS
+No
+
+6. LENGTH OF OBSERVATION
+3 mins
+
+7. NUMBER OF OBJECTS
+one
+
+8. COURSE
+ENE
+
+9. BRIEF SUMMARY OF SIGHTING
+Rnd, bluish-white obj, larger than star, glowing, slight turn to North as it approached. Observed in WSW at 35 dgr elev. Moved ENE & made slight turn to North as approached.
+
+10. COMMENTS
+Data given indicates possible sighting of Sputnik III. No confirmation.
+
+11. CONCLUSIONS
+(Various checkboxes, none marked)
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a page from an old Project Blue Book UFO report document.
-
-RC 916
-MC 26SGDA12ZCSUB133
-ER RJEDEGL
-ZFD RJEU
-ZCF JAP37
-RR RJEDIN RJEDSQ RJEDEW RJEZHQ
-DE RJEPFJ43
-R 181765Z
-FY GODR 6SIST ACWRON SAFE
-TO RJEDDW/COMDR ADCENT AFB 
-INFO RJEDW/COMDR 32ADIV WRAF.S
-RJEDSO/COMDR AIR TECH INTEL CTR WRIGHT PATTERSON AFB
-RJEZHQ/ASST CHIEF OF STAFF INTELL HDQTS USAF
-RJEZHQ/OFFICE OF INFORMATIONS SERVICES HDQTS USAF
-/UNCLAS/OPNS 9353. SUBJECT: UFP REPORT IAW AFR 200-2.
+RC916
+MC2C5QD415ZCSUB135
+RR RJED5Q
+ZD RJEU
+ZCF JA057
+RR RJED6N RJED5Q RJED6W RJEZH1Q
+DE RJED6J15
+R 1617032
+FM COMDR 661ST ACWRON SAFB,
+TO RJEDD/COMDR ADCENT AFB
+INFO RJED6W/COMDR 36ADIV WRAFS
+RJED5Q/COMDR AIR TECH INTELL CTR WRIGHT PATTERSON AFB
+RJEZH1Q/ASST CHIEF OF STAFF INTELL HDQTS USAF
+RJEZH1Q/OFFICE OF INFORMATIONS SERVICES HDQTS USAF
+BT
+/UNCLAS/OPNS 8553. SUBJECT: UFP REPORT IAW AFR 200-2.
 A. 1. ROUND
 2. LARGER THAN STAR
 3. BLUISH-WHITE
 4. ONE
 5. N/A
-6. FLUTTERING
+6. GLOWING
 7. NONE
+
 
 - page 2 -
 
-There is no photograph present in this image. The image appears to be a page from a UFO report document, containing only text.
+PAGE TWO RJEDFJ
 
-PAGE TWO RJED:J
-2. 35 DEG ABOVE HORIZON(VSU)
-3. STRAIGHT ABOVE POINT OF OBSEVAION 
+2. 35 DEG ABOVE HORIZON USV
+3. STRAIGHT ABOVE POINT OF OBSEVATION
 4. SLIGHT TURN TO N AS APPROACHING
-5. UNK<— // ed did i' di s-y/x-a/
+5. UNK-- how did it disappear
 6. 3 MINUTES
-C. VISUAL
+
+C. 1. VISUAL
    2. NONE
-3. N/A
-D. OBJECT AS AUGUST 1958 /721 evi^-'
-E. 1. (DAY) 
-   2. BIRMINGHAM MICH.
-   BOTH EX AF OFFICERS-
-BIRMINGHAM MICH.
-G. 1. GOOD SELFRIDGE AFB WEATHER
-   2. SURFACE NW S 0D0 32S DEG (25)
-   3. 18000 322 DEG 32 N/W--' 
-   4. 33000 330 DEG 20 N/W
-   OTHER -
+   3. N/A
+
+D. 1. 00222 18 AUGUST 1958 1972 seen
+   2. DAY
+
+E. BIRMINGHAM, MICH.
+   BOTH EX AF OFFICERS
+   BIRMINGHAM MICH.
+
+F. 1. GOOD SELFRIDGE AFB WEATHER
+   2. SURFACE NW 6 6000 320 DEG 25
+   10000 320 DEG 35 NW
+   16000 310 DEG 40 NW
+
 
 - page 3 -
 
-The image does not contain any photographs or images. It appears to be a page from an old Project Blue Book document, specifically a report with the filename "1958-08-8864013-Birmingham-Michigan.pdf4.txt".
+PAGE THREE RJEDJ
+20000 340 DEG 45 NW
+30000 300 DEG 70 NNW
+50000 290 DEG 60 JNW
+50000 280 DEG 45 W
 
-Performing optical character recognition (OCR) on the text in the image:
-
-PAGE THREE RJEDFJ
-29900 312 DEC 45 W
-29900 325 DEC 70 M
-29900 302 DEC 68 MM
-29900 288 DEC 65 M
---3--NONE
-1. UNRESTRICTED
-2. 2 TENTHS
-3. NO STORMS IN AREA
-H. SPUTNIK 3
-I. NO ACTION TAKEN 
-J. ONE DIRECTION OF TRAVEL?
-K. SENIOR DIRECTOR COST ACVRON
-CAPTAIN HARRY L. SHUMATE, INFORMATION RELAYED THROUGHAIR-
-DRONE OFFICER, CAPTAIN MATTIES, SAFB, MICH. BELIEVE OBSERVER
-SAW A STAR OR LED STAGE OF SPUTNIK 3.
+3. NONE
+4. UNRESTRICTED
+5. 2 TENTHS
+6. NO STORMS IN AREA
+4. SPUTNIK 3
+I. NO ACTION TAKEN
+J. ENE DIRECTION OF TRAVEL - WHAT?
+K. SENIOR DIRECTOR 661ST ACWRON
+CAPTAIN HARRY L. SHUMATE, INFORMATION RELAYED THROUGHAIRDROME OFFICER, CAPTAIN MATTESS, SAFB, MICH. BELIEVE OBSERVER SAW A STAR OR 3RD STAGE OF SPUTNIK 3.
 L. NONE.
-PT
-15/1758Z AUG RJEDFJ
+BT
+18/17582 AUG RJEDJ
 
-The text appears to be a report detailing some observations or details related to Project Blue Book, likely regarding a sighting of some kind. It includes information about wind directions, observer comments, and a reference to Sputnik 3.
+can locate plot and note charts indicate the planet jupiter may be in the exact location given by the observer.
+ASTRO
+
+NNNN
+
 
 - page 4 -
 

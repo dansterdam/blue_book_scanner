@@ -1,9 +1,8 @@
-There are no photographs present in the given page of the document. Below is the OCR-processed text from the document:
+Here is the text from the document:
 
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE 
+1. DATE
 22 Nov 55
 
 2. LOCATION
@@ -14,17 +13,15 @@ Local
 GMT 22/0630Z
 
 4. TYPE OF OBSERVATION
-Ground-Visual
-Ground-Radar
-Air-Visual
-Air-Intercept Radar
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
 
 5. PHOTOS
-Yes
-No
+□ Yes
+[X] No
 
 6. SOURCE
-civilian
+Civilian
 
 7. LENGTH OF OBSERVATION
 2 seconds
@@ -41,71 +38,55 @@ Round, red and blue, fire from back.
 Meteor observation.
 
 12. CONCLUSIONS
-Was Balloon
-Probably Balloon
-Possibly Balloon
-Was Aircraft
-Probably Aircraft
-Possibly Aircraft
-Was Astronomical 
-Meteor
-Was Astronomical
-Probably Astronomical
-Possibly Astronomical
-Other
-Insufficient Data for Evaluation
-Unknown
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+[X] Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
 
-ATIC FORM 329 (REV 26 SEP 52)
-```
+(ATIC FORM 329 (REV 26 SEP 52))
+
 
 - page 1 -
 
-There are no photographs present on this page.
+Here is the OCR text from the document:
 
-Here is the OCR text output from the document:
+Witness
 
-`10
-1 Witness 
-5
-14H4
-11/1
-JY 17
-K240A5319 A130S
-EHS
+DE168
+WPA172 WDC144 WYC154 WDC185...J...JDC22
+AZ JEDEN TJETP RJEPKO
+DE RJNPJP 20
+2217532
 
-5
+FROM: COMDG 67TH ACWRON SPERO CALIF
+TO: JJEPJC/COMD 27TH AIR DIV DET NORTON AFB CALIF
+JJEPJC/COMD ADC ENT AFB COLO
+JJEPJC/COMDG 2D AIR TECH INT CEN WRIGHT PATTERSON AFD OHIO
+JJEPJC/COMD HQ OF INT WASH WASHINGTON DC
 
-EX 1A3
-SPAU12 YDC144 WYC159 XE2165U4YCED52SE
-PJBS20
-K?P ED E3 JEDP JJ ERP BJ ERP10
-DE FJMP JE 2D
-E 221730Z
+BT
 
-FM CONDR 67TH ADNGH SPBNCO CALIF
-TO LBJEX/COMDR 27TH AIR DIV DEF NORTON AFB CALIF
-JEDEN/COMDR ADC ENT AFB COLO
-JEDRP/CC DED AIT TECH INT CEN WRIGHT PATTERSON AFB OHIO
-JEDRP/COMDR. D I OF INT USAF WASHINGTON 25 D C
+UNCLASSIFIED JACK-686. UFOB IN ACCORD WITH AFR22-5-2
+PAR 75, RPT OF UNID FLY NTE FOLO IS SUBR CLN
 
-SUBJ CLASSIFIED JNTTAEC K-206. UPON IN ACCORD WITH AFB2U8-2
-PAR 2B, RPT OF UNID FLY THE FOLG IS SUBJ CLF.
-A. ROUND E CPARTER D. X BELG D. ONE Z. N/A F. ROUND
-B. FIRE OUT BACK B. NONE I. NONE
-
-2. A. LOOKING M/C = FOUR JN DEGREES AT ONE FIGHT ZERO C. FOUR FIVE DEGREES AT TWO SEVEN ZERO D. STRAIGHT LINE E. FADE OUT F. TWO SECONDS 
-
-3. A. GRND VISUAL B. NONE C. N/A 4. A. 22B33 ZULU D. NIGHT 5. A.
-N/A E. CHARLEY EASY 3847 6.  A.   AGE ONE FIVE, 
-SANTA ANNA, CALIF  B. N/A 7. A.  CLEAR B. NONE
-
-C. NONE D. NONE E. NONE F. NONE G. G. NONE 8. A. NONE 9. A. NONE 10. A. NONE 11.
+1. A. ROUND B. QUARTER C. ... D. BLUE D. ONE E. N/A F. ROUND
+2. FIRE OUT BACK H. NONE I. NONE
+3. A. LOOKING A/C B. FOG WD DEGREES AT ONE EIGHT ZERO C. FOUR FIVE
+DEGREES AT TWO SEVEN ZERO ... STRAIGHT LINE D. FADE OUT F. TWO SECONDS
+4. A. GRND VISUAL B. NONE ... N/A 4. A. 223653 ZULU B. NIGHT 5. A.
+N/A B. CHARLEY EASY 5847 C. A. ... AGE ONE FIVE, ...
+C. NONE D. NONE E. NONE F. NONE G. A/C NONE 9. A. NONE 10. A. NONE 11.
 A. NONE 12. NONE
 
-ET
-
-22/1748Z NOV .J.HJPJE
+22/17482 NOV JJNPJP
 
 
 - page 2 -

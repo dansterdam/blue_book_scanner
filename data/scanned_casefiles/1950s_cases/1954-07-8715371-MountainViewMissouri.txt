@@ -1,61 +1,114 @@
-The image does not contain any photograph. It appears to be a Project 10073 Record Card that provides details about a UFO sighting. 
-
-The text contained in the document is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 30 July 1954
-2. LOCATION: Mountain View Missouri
-3. DATE-TIME GROUP: - - -
-4. TYPE OF OBSERVATION: Ground-Radar
-5. PHOTOS: PHOTOS
-6. SOURCE: Civilian
-7. LENGTH OF OBSERVATION: 2 min
-8. NUMBER OF OBJECTS: 2
-9. COURSE: - - -
-10. BRIEF SUMMARY OF SIGHTING: Photos of two objects forwarded to ATIC for evaluation. Source is a civilian.
-11. COMMENTS: Source has admitted contacting stories are a hoax.
-12. CONCLUSIONS: Was unidentified, probably Balloon - Possibly Aircraft
+
+1. DATE
+30 July 1954
+
+2. LOCATION
+Mountain View Missouri
+
+3. DATE-TIME GROUP
+Local -----
+GMT -----
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+[X] Yes PHOTOS
+□ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+-----
+
+8. NUMBER OF OBJECTS
+2
+
+9. COURSE
+-----
+
+10. BRIEF SUMMARY OF SIGHTING
+Photos of two objects forwarded to ATIC for evaluation. Source is [redacted] (Contactee stories are a hoax)
+
+11. COMMENTS
+Source has admitted contactee stories are a hoax
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book, likely a list of UFO sightings from August 1954.
-
 AUGUST 1954 SIGHTINGS
-OBSERVER   EVALUATION
-Fairfayette, Indiana   (PHYSICAL)   CHROMIUM
-Unknown   (INSUFFICIENT Data)(INFO)
-MARS (METEOR SHOWER)
-Astro (MARS)
-Astro (MARS)
-Insufficient Data
-Astro (COLLISION)
-Balloon
-UNIDENTIFIED
-A/C
-Insufficient Data
-Balloon
-A/C
-Astro (MARS)
-UNIDENTIFIED
-Astro (MARS)
-Insufficient Data
-A/C
-UNIDENTIFIED
-Astro (METEOR)
-Insufficient Data
-Other (UNRELIABLE RPT)
-Astro (METEOR)
-Balloon
-A/C
-Insufficient Data
-Astro (METEOR)
-UNIDENTIFIED
-Astro (METEOR SHOWER)
-UNIDENTIFIED
-Astro (METEOR)
-UNIDENTIFIED
-Insufficient Data
-Balloon
+
+DATE    LOCATION                                   OBSERVER                   EVALUATION
+Aug     Lafayette, Indiana                         Unknown                    (PHYSICAL S) Other (CHRONICUM)
+Aug     Europe                                                                in R. Monthly Rep.
+Aug     Lincoln, Nebraska (Flying Saucer News, May 58)                        (INFO)     Insufficient Data
+Aug-Sep Inglis, Florida                                                       Mars
+2       Korea m/s/ng                                                          Astro (METEOR SHOWER)
+2       Westlake, Ohio                                                        UNIDENTIFIED
+4       Washington, D. C.                                                     Astro (MARS)
+4       Neustadt, Germany                           Unknown Civilian          Astro (MARS)
+4       Netherlands                                                           Insufficient Data
+5       West Germany (CASE MISSING)                 Military                  Astro (METEOR)
+6       Homerville, Georgia                                                   Balloon
+6       San Antonio, Texas                                                    UNIDENTIFIED
+7       Kaiserslautern, Germany                     Military                  A/C
+8       San Antonio, Texas                                                    A/C
+8       San Antonio, Texas                                                    Insufficient Data
+9       St Cloud, Minnesota                         Military                  Balloon
+9       Atlantic Ocean 41,200 30.20W                                          A/C
+11      Maxwell AFB, Alabama                        Military & Civilian       Astro (MARS)
+11      Pacific Ocean                                                         UNIDENTIFIED
+12      Columbus, Georgia                           Military & Civilian       Astro (MARS)
+13      Stavern, Norway                             Military & Civilian       Insufficient Data
+13      Greenbelt, Maryland                         Military & Civilian       A/C
+15      San Marcos, Texas                                                     UNIDENTIFIED
+17      Langley AFB, Hampton, Newport News,         Military
+         Virginia
+17      Harlowton, Montana                          Multi                     Astro (METEOR)
+19      Austria                                     Unknown                   Astro (METEOR)
+19      Noundsville, West Virginia                                            Insufficient Data
+20      Norway (Trondheim)(Flying Saucer Landing In Norway Reported)(INFO)    Other (UNRELIABLE RPT)
+21      Patrick AFB, Florida                        Civilian & Military       Astro (METEOR)
+22      Greenwich, Connecticut (Rosa)(INFO)
+22      New York City, New York                     Military                  Balloon
+22      Philadelphia, Pennsylvania                                            Balloon
+22      Savannah Beach, Georgia                                               A/C
+23      West Germany (CASE MISSING)                 Unknown Civilian          Insufficient Data
+23      San Antonio, Texas                                                    Astro (METEOR)
+24      Roanoke, Virginia (The Roanoke Newspaper)(INFO)
+24      Lagarjot River, Iceland                     Multi Civilian            UNIDENTIFIED
+24-25   Bismarck, North Dakota                                                Astro (METEOR SHOWER)
+26      Danville, Virginia                                                    UNIDENTIFIED
+27      Woodside, California (CRIFO Newsletter, 1 Oct 54)(INFO)
+27      Point Pleasant, New Jersey                  Unknown Civilian          Astro (METEOR)
+27      Dorchester, Massachusetts                                             UNIDENTIFIED
+28      Lambert Field, Missouri                     Military                  Balloon
+28      Duxbury, Beacon Hill, England               Military                  Astro (METEOR)
+29      Oklahoma City, Oklahoma (Many)(INFO)
+30      Prince Christian, Greenland                 Civilian - Unknown        UNIDENTIFIED
+30      Paris, France                                                         Insufficient Data
+30      Minneapolis, Minnesota                      Civilian - Unknown
+31      Korea                                       Military                  Balloon
+
 
 - page 2 -
 

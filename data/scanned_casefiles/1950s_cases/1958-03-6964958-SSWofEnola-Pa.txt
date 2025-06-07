@@ -1,233 +1,366 @@
-The image does not contain a photograph. It appears to be a Project 10073 Record Card from Project Blue Book, which was a United States Air Force program that investigated unidentified flying objects (UFOs) from 1947 to 1969.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 22 AUG 59
-2. LOCATION: NEAR SW of ENOLA, PA
-3. DATE-TIME GROUP: 220315Z
-4. TYPE OF OBSERVATION: Ground-Radar
-5. DURATION: 12 Min
-6. NUMBER OF OBJECTS: 1
-7. COURSE: SSW
-8. CAT HILL, CASPER 22/01/52
-9. SOURCE: YES
-10. BRIEF SUMMARY OF SIGHTING: Extremely high, moving rapidly, leaving no trail, varying in color, pink & white.
-11. COMMENTS: Insufficient data for evaluation. More data requested for analysis.
+
+1. DATE
+22 Mar 58
+
+2. LOCATION
+SSW of Enola, Pa.
+
+3. DATE-TIME GROUP
+Local 2045
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[X] No
+
+6. SOURCE
+not given
+
+7. LENGTH OF OBSERVATION
+not given
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+SSW
+
+10. BRIEF SUMMARY OF SIGHTING
+Bright obj. extremely high, moving in radius of 2 to 4 ft., varying in color blue, pink & white.
+
+11. COMMENTS
+Insufficient data for evaluation.
+(No requests for added info
+did not aid in obtaining essential
+data for analysis.)
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Possibly Aircraft
+□ Probably Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+[X] Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. The image appears to be a page from an old UFO report document from Project Blue Book.
-
 RECEIVED
-15 SEP 58 03 48
+15 SEP 58 09 48
 ATIC
-RR RJEDQK
-DE RJEDKQ 323
-R 1213337
-FH COMDR 1912TH AACS RON OLMSTED AFB
+
+RD431
+CZCSGA7B3ZCKB3059
+RR RJEDSQ
+DE RJEDKQ 328
+R 121239Z
+
+FM COMDR 1912TH AACSRON OLMSTED AFB
 TO COMDR ATIC WPAFB
+
 BT
-UNCLAS FROM 19122 12-J-1 YOUR AFOITN-454-9-2353-E ACTION TAKEN CONSISTED OF CONTACT WITH OLMSTED AFB TOWER AND HARRISBURG PA TOWER AND IN TURN QUESTIONED AIRCRAFT IN THE VICINITY WITH NEGATIVE RESULTS
-BT
-13/1313Z SEP RJEDKQ
+
+UNCLAS FROM 1912D 12-J-1 YOUR AFCIN-424-9-2058-E ACTION TAKEN
+
+CONSISTED OF CONTACT WITH OLMSTED AFB TOWER AND HARRISBURG PA TOWER
+WHO IN TURN QUESTIONED AIRCRAFT IN THE VICINITY WITH NEGATIVE
+RESULTS
+
+Final reply to 4 TWX and
+our data Concerning UFO sighting
+by O.E. YETRO. Nothing more added
+to info already on file.
+
+Incl hgs
+
 
 - page 2 -
 
-The image does not contain a photograph. It appears to be a scanned page from a Project Blue Book document, with handwritten notes and text.
+Here is the OCR text from the document:
 
-Transcript of the text in the document:
+PAGII YMB034KQA099 EBX021-
+RJEDN RJEPNY RJEMP RJEPHO RJEPJM
+3002
+RJEDN 5IH
+032152
+FSC OLMSTED AFB PA
+RJEDDN/COMDR ADC ENT AFB COLO.
+CPNY/COMDR 25TH AD DEF ROSLYN NY
+EDQ/COMDR AIR TECH INTEL CEN WRIGHT PATTERSON AFB OHIO
+CPHO/DIR OF INTEL HQ USAF WASH DC
+CPJM/35TH AD ANDREWS AFB MD
 
-32311 YMBC334KA229 EXOP-
-RJEDN RJEPNY RJEEWP RJEPHO RJEPJM
-ADZ
-RJJEDN 3H 77 west
-33221Z
-FSO OLMSTEZ AFB PA
-RJEDN/COMDR ADC ENT AFB COLO.
-EPNY/COMDR 3STH AD DEF ROSLYN NY
-EPNY/COMDR AIR TECH INTEL GEN WRIGHT PATTERSON AFB OHIO
-EPH/DIR OF INTEL HQ USAF WASH DC
-EJAW/5TH AD ANDREWS AFB MD
-
-REPT OF BRIGHT OBJECT EXTREMELY HIGH MOVING IN RADIUS OF 3FT.
+REPORT OF BRIGHT OBJECT EXTREMELY HIGH MOVING IN RADIUS OF 2FT.
 4FT VARYING IN COLOR BLUE PINK WHITE LOCATION SOUTH SOUTH WEST
-ENOLA PENNA. REPORTED TO MET FLT SVG 2343E BY PILOT. PHONE PERSHING 2-2331 NOT OBSERVED BY MET
-OR OR HAR TOWER ON CHECK
+ENOLA PENNA. REPORTED TO MDT FLT SVC 2045E BY [REDACTED]
+[REDACTED] ENOLA PENNA. PHONE PERSHING [REDACTED] NOT OBSERVED BY MDT
+[REDACTED] OR WAR TOWER IN CHECK
 
-21ST MAR RJEFKO
+032152 MAR RJEDN
 
-This wind did it
-not apparently mean to 
-use to way to mind the
-not that in with
+There are also handwritten notes on the right side of the document, but they are partially illegible.
+
 
 - page 3 -
 
-The image does not contain any photograph. It appears to be a scanned document from Project Blue Book, a United States Air Force project that investigated unidentified flying objects (UFOs).
+JOINT MESSAGEFORM
 
-Here is the text found in the document:
+PRECEDENCE: ROUTINE
+TYPE MSG (Check) 460
+BOOK MULTI   SINGLE
+X           AF
 
-JOINT MESSAGE FORM
-SECURITY CLASSIFICATION
-UNCL.
-CITE
-2578
-PRIORITY ROUTINE 23 Mar 58
-CMDR, ATIC
-CMDR, FTG, OLMSTED AFB, PA.  
-UNCLASSIFIED/FROM AFOIN-4H4
-Reference your UFO Report, 23 Mar 58.  Intelligence Analysts cannot perform analysis or attempt identity based on report or mere blue-pink-white object in sky - without correlating information.
-Request full compliance with USAF Regulation AFR 200-2 dtd 5 Feb 58.  For your guidance, specific attention invited to paras.
-3b, 5, 6a, 6g, and required data outlined in para. 12.
+FROM: COMDR, AITC
+
+TO: COMDR, FSC, OLMSTED AFB, PA.
+
+UNCLASSIFIED/FROM AFCIN-484     3-573-E
+
+Reference your UFO Report, 23 Mar 58. Intelligence Analysts cannot only perform analysis or attempt identify based on report of mere blue-pink-white object in sky - without correlating information.
+
+Request full compliance with USAF Regulation AFR 200-2 dtd 5 Feb 58. For your guidance, specific attention invited to para.is. 4b, 5, 6b, 6e, and required data outlined in para. 15.
+
 In reply refer to UFO Case File - 23 Mar 58, Yetter, Enola, Pa.
+
 COORDINATION:
-AFOIN-4EH  DATE 2/23/58  NAME E.B. DATE 3/26/58
-AFOIN-4B  DATE 2/26/58  Mr. Fort
-20 MAR 58 1300
-MONTH YR 58
-SIGNATURE
-C. A. GOOD
-Assistant Administrative Officer
+AFCIN-484 [signature]   DATE 26 MAR 58
+D. MILEY
+
+AFCIN-48 [signature]   DATE 3/26
+M. POST
+
+DATE    26    TIME 1200
+MONTH   MAR   YEAR  58
+
+[Bottom of form contains additional signatures and administrative details]
+
 
 - page 4 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book UFO report document.
+Here is the text from the document:
 
 JOINT MESSAGEFORM
-SECURITY CLASSIFICATION EF70
-ACTION
 
-COMDR, ATIC
-COMDR, FCI SO OLMSTED AFB, PENNSYLVANIA
-UNCLASSIFIED/AFCIN-hh4
-Re para 1, AFR 200-2 dtd 5 Feb 58 which prescribes prompt
-identification of UFO's reported over U.S. This is follow-up
-to our ITT Msg 3-573-E dtd 26 Mar 58 requesting further info
-to data submitted in your original UFO report dtd 23 Mar 58.
-Our case files show no reply to message sent your organization
-26 Mar 58. Request immediate reply as to status, intended
-action, or disposition of this matter.
+PRECEDENCE: ROUTINE
+TYPE MSG: (Civil)
+BOOK: MULTI   SINGLE: X
+
+FROM: COMDR, ATIC
+
+TO: COMDR, FSC, OLMSTED AFB, PENNSYLVANIA
+
+UNCLASSIFIED/AFOIN-484 EF70
+
+Re para 1, AFR 200-2 dtd 5 Feb 58 which prescribes prompt identification of UFO's reported over U.S. This is follow-up to our TT Msg 3-573-B dtd 26 Mar 58 requesting further info to data submitted in your original UFO report dtd 23 Mar 58.
+
+Our case files show no reply to message sent your organization 26 Mar 58. Request immediate reply as to status, intended action, or disposition of this matter.
+
 COORDINATION:
-AFCIN-h4 LT COL H. E. MILEY DATE 22 22 May 55
-AFCIN-h2 MAJOR C. WHIT DATE 26'May 55
+AFOIN-484 [Signature]   DATE 22 May 58
+Dr. Wiley
+
+AFOIN-484 [Signature]   DATE 26 May 58
 Colonel Gilbert
 
-SYMBOL TYPED NAME GRADE AND TITLE
-GEORGE E. GREGORY, CAPT USAF
-MARY C. BARKEVICH
-KELLY, GS-11, ADMINISTRATIVE OFFICER
+[Bottom of form details]
+TYPED NAME: GEORGE T. GREGORY, CAPT USAF
+PHONE: 6916
+PAGE 1   OF 1
+
+SECURITY CLASSIFICATION: EF70
+
+DD FORM 173, MAY 58 REPLACES DD FORM 173, 1 OCT 49, WHICH WILL BE USED UNTIL EXHAUSTED
+
 
 - page 5 -
 
-The image does not contain a photograph. It appears to be a page from an old document, possibly a military report or record.
+Here is the text from the document:
 
-The text in the document is as follows:
+20038
+RJE014
 
-DB 91504
-DR RJDPQ
-DB RJEDKQ 313
-R 2315402
+HR RJESQ
+DE RJEDKQ 31B
+R 251542Z
 
-TO COMDR 1912TH AACSRON OLMSTED AFB
+TO COMDR 1942TH AACSRON OLMSTED AFB
 TO COMDR ATIC WPAFB
 
-YNGLAS FROM 19122 E-28-S. REFERENCE YOUR MESSAGE EFTO AFOIN-424
+BT
+
+UNCLAS FROM 19120 E-28-3. REFERENCE YOUR MESSAGE ETO AFCIN-424
 THIS UNIT HAS NO INFO ON YOUR TT MESSAGE 3-573-E AND NO RECORD OF A UFO
 ORIGINATING FROM THIS STATION ON 23 MARCH 58. REQUEST IF POSSIBLE
-QUANTITY NUMBER OF MESSAGE INDICATING UFO FROM THIS UNIT ON 23 MARCH
+RELATIVE NUMBER OF MESSAGE INDICATING UFO FROM THIS UNIT ON 23 MARCH
 
-WILLIAM MAY RJEDKQ
+/1362Z MAY RJEDKQ
+
+atch
+6-1077-E
+
 
 - page 6 -
 
-The image does not contain any photographs. It appears to be a scanned document from Project Blue Book, which was a US Air Force investigation of unidentified flying objects (UFOs).
-
-OCR text output:
+Here is the text from the document:
 
 JOINT MESSAGEFORM
-SPACE BELOW RESERVED FOR COMMUNICATION CENTER
-PRECEDENCE  TYPE MSG (GRP) SECURITY CLASSIFICATION
-ROUTINE  FLASH   UNCLASSIFIED
-FROM  TO 
-COMDR, ATIC  COMDR, 1912TH AACGRON, OLMSTED AFB, PA.
-FROM: AFCIN-4E/UNCLASSIFIED/EPIC
-SEE YOUR MESSAGE: 1312 E-28-3 DATED 28 MAY 58. The original
-IT HAS DOES NOT HAVE A CITE NUMBER. The msg states, "I'M FSC
-OLMSTED AFB, PA." It does say the sighting was "reported to 
-This could mean it was
-reported to Middletown, but it originated from Olmsted AFB,
-your station.
-COORDINATION: 
-AFCIN-4E   DR. RILEY   DATE 2 JUNE 58
-AFCIN-4E   COLONEL GILBERT   DATE 4 JUNE 58
-DECL: WHEN REVIEWED DATE 
-SPECIAL INSTRUCTIONS
-ENCODED
-HANDLE AS SPECIAL INFORMATION
-CHECKED BY: Lts. MC, RM, Sig C, Sgy c
+
+SECURITY CLASSIFICATION: UNCLASSIFIED/ETTO
+
+PRECEDENCE: ACTION ROUTINE
+TYPE MSG: BOOK MULTI SINGLE X
+ACCOUNTING SYMBOL: AP
+ORIG. OR REFS TO: 1912 B-28-3
+CLASSIFICATION: UNCL
+
+FROM: COMDR, ATIC
+TO: COMDR, 1912TH AACSRON, OLMSTED AFB, PA.
+
+FROM: AFOIN-48/UNCLASSIFIED/ETTO
+
+Ref your message 1912 B-28-3 dated 28 May 58. The original IT msg does not have a cite number. The msg states, "FM FSC OLMSTED AFB, PA." It does say the sighting was "reported to [redacted]. This could mean it was reported to Middletown, but it originated from Olmsted AFB, your station.
+
+COORDINATION:
+AFOIN-434 [Signature] Dr. Wiley DATE: 2 June 58
+AFOIN-44 [Signature] Colonel Gilbert DATE: 4/24/13
+
+DATE: 2 MONTH: JUNE YEAR: 58 TIME: 1500
+
+TYPED NAME AND TITLE:
+GEORGE T. GREGORY, CAPT, USAF
+SIGNATURE: [Signature]
+
+TYPED NAME AND TITLE:
 MARY C. MARKEVICH
-ASRT PERS, AFCIN-4E
-G8-1 759 2-1-53  98723
+Assistant Administrative Officer
+SIGNATURE: [Signature]
+
+FORM 173 REPLACES GO FORM 173, 1 OCT 49, WHICH WILL BE USED UNTIL EXHAUSTED
+
 
 - page 7 -
 
-The image does not contain any photograph. It appears to be a typed document from Project Blue Book, an official U.S. Air Force program for investigating unidentified flying objects (UFOs).
-
-Text from the document:
-
-SPHER2531 SOF2944KOC385
-IN RJREDS
-DE RJEHKO 43B
-031222Z
-FM COMDR 1912TH AACGRON OLMSTED AFB PA 
+SGH052M SQF004AXQ0085
+FM RJEDSQ
+DE RJEDKQ 43B
+051200Z
+FM COMDR 1912TH AACSRON OLMSTED AFB PA
 TO COMDR ATIC AMC
-INFO
-CINCLAS FROM 15122 25-5-1
-YOUR AFCIN-4E-6-1277-E A SCREENING OF THIS UNITS FILES REVEALED 
+BT
+BT
+UNCLAS FROM 19120 05-F-1
+YOUR AFCIN-46-6-1077-6 A SCREENING OF THIS UNITS FILES REVEALED
 THAT INFORMATION ON DATE OF MESSAGE REFERRED TO HAS BEEN DESTROYED.
 REQUEST YOUR FORWARD A COPY OF MESSAGES RECEIVED BY YOU AND INDICATED
 TO HAVE BEEN TRANSMITTED FROM THIS STATION.
-15/1535Z JUN RJEDKO
+B/15592 JUN RJEDKQ
+
 
 - page 8 -
 
-The image does not contain any photographs. It appears to be a routing and coordination sheet from Project Blue Book, an official US Air Force program to investigate unidentified flying objects (UFOs).
+Here is the text from the document:
 
-TEXT EXTRACTED FROM THE DOCUMENT:
+FILE CLASS.
+OFFICIAL FILE COPY
+
+484/T/Sgt J.O. Bolieu/rm
+
+20 JUN 1958
 
 SUBJECT: (U) Transmittal of Messages
-COMMANDER
+
+TO: Commander
 1912th Aircraft Control and Warning Squadron
-Olasted Air Force Base
+Olmsted Air Force Base
 Pennsylvania
 
-1. Transmitted herewith are the three messages which you requested in your message 1819, dated 9 June 1952.
-2. In reply refer to Enola, Pa., case, AFCIN-4H2.
+1. Transmitted herewith are the three messages which you requested in your message 19120 05-F-1, dated 5 June 1958.
+
+2. In reply refer to Enola, Pa. case, ATZIN-484.
 
 FOR THE COMMANDER:
 
+Nicholas Post 20 Jun 57
 NICHOLAS POST
 Assistant Deputy
 Science and Components
 
+Incls:
+1. Msg, B-28-3
+2. Msg, 23 Mar 58
+3. Msg, 05-F-1
+
+Copy of all records
+attached
+
+ROUTING AND COORDINATION SHEET
+
+(Bottom of page has checkboxes for PERM, TEMP, 90 DAYS, INITIAL)
+
+
 - page 9 -
 
-The provided image does not contain any photographs. It appears to be a scanned page from a Project Blue Book document, specifically a Joint Messageform.
-
 JOINT MESSAGEFORM
-SECURITY CLASSIFICATION: TOP SECRET
-PRECEDENCE: PRIORITY
-TYPE MSG (CIRC): OUTGOING
-ACCOUNTING GUID, OR REFERS TO: 
-CLASSIFICATION AUTHORITY: 
-SPECIAL INSTRUCTIONS:
-ACTION: GUIDE, AUTO
-CONTENT: COMMANDER, ASTR, WRIGHT-PATT, OHIO
-TEXT: OUR LTR OF TRANSMITTAL, DTD 20 JUNE 1958, FORWARDING THE INFO FORS PERTAINING TO THE UFO SIGHTING BY MR. - - - - - OF ENOLA, PA. REQ THIS OFFICE BE INFORMED OF ACTION TAKEN IN REGARD TO OPERATING FURTHER INFO CONCERNING THE SIGHTING.
+
+SECURITY CLASSIFICATION: UNCLASSIFIED
+
+SPACE BELOW RESERVED FOR COMMUNICATION CENTER
+
+Received stamp: 11 SEP 58 11 35A 140.12
+                 0814 443
+
+PRECEDENCE: ROUTINE
+TYPE MSG (Code): BOOK   MULTI   SINGLE
+ACCOUNTING SYMBOL: AE
+ORIG. OR REFERS TO: USAF
+CLASSIFICATION OF REFERENCE: ATCH
+
+FROM: CONDR, ATOC
+
+TO: CONDR, 1912 ADDISON, OLMSTED AFB, PA.
+
+UNCLASSIFIED/FROM: AFOIN-464   9- 2058-2
+
+REF OUR LTR OF TRANSMITTAL, DTD 20 JUNE 1958, FORWARDING THE
+UFO MSGS PERTAINING TO THE UFO SIGHTING BY MR. [REDACTED] OF ENOLA, 
+PA. PER THIS OFFICE BE INFORMED OF ACTION TAKEN IN REGARD TO
+OPERATING FURTHER INFO CONCERNING THE SIGHTING.
+
 COORDINATION:
-ADDRESSEE: COL GLASSER
-USAF, UIP-LR
-ACTION: COL GLASSER  DATE: 5 AUG
-TYPED NAME AND TITLE: MARY G. MARKEVICH, ADMINISTRATIVE OFFICER
+[Signatures of Col Glaser and Col Gilbert with dates]
+
+DATE: 1 SEP
+MONTH: 9
+YEAR: 1958
+
+TIME: 1300
+
+TYPED NAME AND TITLE:
+W/Sgt James O. Pollock
+PHONE: 5-5216
+
+SIGNATURE:
+[Signature of Mary C. Markevich]
+
+TYPED NAME AND TITLE:
+MARY C. MARKEVICH
+1st Lt, USAF
+Assistant Administrative Officer
+
+DD FORM 173, 1 MAY 58 REPLACES DD FORM 173, 1 OCT 49, WHICH WILL BE USED UNTIL EXHAUSTED
+
 
 - page 10 -
 

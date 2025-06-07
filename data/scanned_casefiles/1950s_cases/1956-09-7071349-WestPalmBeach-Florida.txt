@@ -1,112 +1,102 @@
-There are no photographs present on this page.
-
-OCR Text Output:
-
-```
 PROJECT 10073 RECORD CARD
 
 1. DATE
-                     2. LOCATION
+29 September 1956
+
+2. LOCATION
+West Palm Beach, Florida
+
 3. DATE-TIME GROUP
-3 Oct       .                             West      Palm      Beach,      Florida
-                      4. TYPE OF OBSERVATION
-         GM                 30/0000Z             Local
-                                                      [] Ground-Visual               [] Ground-Radar
-                                                      [] Air-Visual                           [] Air-Intercept           Radar
-                        5. PHOTOS
-[] Yes           SAm
-                      6. SOURCE
+Local
+GMT 30/0030Z
 
-                   Civilian                    12. CONCLUSIONS
-                                                                                            []   Was        Balloon
-                                                                                            []   Probably          Balloon
-                several     seconds                                                []   Possibly           Balloon
-                       8. NUMBER OF OBJECTS
-               57rN                                                                        []   Was      Aircraft
-                           seven                                                                  []   Probably         Aircraft
-                                                                                          [] Possibly              Aircraft
-10.           BRIEF   SUMMARY                  OF        SIGHTING
-                                                                                        []   Was Astronomical
-                                                                                        [] Probably Astronomical
-Three objects square - four objects
-                                                                                        [] Possibly Astronomical
-round - three objects size of dime,
-four objects size of pin, Co 1 or light
-                                                                                         [] Other
-pink - three objects flew straight,
-line North to South; three northeast                                        [] Insufficient Data for Evaluation
-to southwest, zigzag; one object
-                                                                                        [] Unknown
-south to north straight line – disap-
-peared at horizon . Three separate                    sign t
-ines .
+4. TYPE OF OBSERVATION
+□ Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
 
-ATIG FORM 329 (REV 26 SEP 52)
-```
+5. PHOTOS
+□ Yes
+■ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+several seconds
+
+8. NUMBER OF OBJECTS
+seven
+
+9. COURSE
+three objects size of dime, four objects size of pin. Color light pink - three objects flow straight, line North to South; three northwest to southeast; zigzagged; one object south to north straight; line disappeared at horizon. Three separate signals.
+
+10. BRIEF SUMMARY OF SIGHTING
+Various objects square - four objects
+
+11. COMMENTS
+Insufficient data. Possible meteors, possible a/c, multiple witnesses, no breakdown in rpt.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Possibly Astronomical
+□ Other
+■ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-This page does not contain any photographs. Now, I will extract and output all the visible text from the document:
+Here is the text I can read from the document:
 
-Multi 80/00302
+Multi 30/0030 = Will Pickup 1/4
+1 OCT 56 07 19
 
-1Oct56 07 18
+[Several lines of text in the middle appear to be illegible]
 
-WWL pickup up
-ident site 30-184
+464
+6-HRCo
+4.0
 
-50 LP 08 56
-
-DISAC??
-
-ADG17
-TUPB28 SYDCQ28 WYCD30 VMA241QMAG07
-PP RJEDN RJEDF RJEPHQ RJESDD
-OP RJE SCM 1
-P 34Q47
-
-56
-122345
-4E4
-6-4X2c
-
-BDD
 
 - page 2 -
 
-There is no photograph present on this page of the document.
+Here is the OCR text from the document:
 
-Here's the OCR output of the text found in the document:
+HQ COMDR ATAC ARTS PEPE WPG FLA
+TO RADEOWN/COMDR AEC HHT APO COLO
+JUDSDS/COMDR 35TH AIR DIV, ADC DOBBINS AFB GA
+AMEDD/COMDR ATIC WRIGHT-PATTERSON AFB OHIO
 
-```
-INF COMDR 17 47 AFWG PBB WPB FLA 
-TO RADEF/COMDR ADC ENT AFB COLO
-RADEF/COMDR 35TH AIR DIV, ADC GEODING AFB CA
-RADEF/COMDR ATIC WRIGHT-PATTERSON AFB OHIO
-RADEF/DIROCTOR INTELLIGENCE HQ USAF WASH 0 C
-BT
-17 1700 3  1 UFOB. (1) (A) THREE OBJECTS SQUARID. FOR OBJECT ROUND 
-(B) THREE D10 FOUR PIN (C) LIGHT PINK (D) SEVEN (E) SINGLE 
-(F) (G) (G) NONE (I) NONE (2) (A) SITTING IN THE 
-YARD LOOKING SKYWARD (B) DIRECTLY OVERHEAD (C) HORIZON 
-NORTH TO SOUTH STRAIGHT LIN E, THRIE NORTHEAST TO SOUTHWEST 
-ZIGZAGGED, ONE SOUTH TO NORTH STRAIGHT LIN E) A DRUPLY AT 
-HORIZON (F) EVERAL SECONDS (3) (A) GROUND-VISUAL (F) NONE H/A 
-(A) TO 3:15 (B) NIGHT (5) WEST PALM DEACH, FLA (5) (A) 
-2:5… 4: MISS 05.
-PA PALM BEACH, FLA, INTERIOR DECORATOR (B) N/A (7) (A) PARTLY
+ASAFIC/DIRECTOR INTELLIGENCE HQ USAF WASH D C
 
-PAGE RJECSM 1
-CLOUDY, WARM AND HUMID (B) SURFACE 13: AT 5:7; 801)5: AT 7;, 
-Z 88 AT 14, 89306 5: AT 1 ‘ K, 8:56:   18, S 36: 6:0 AT 
-14: (C) NOT REPORTED; VERY HIGH CIRRUS (D) 15 MILES (X) BROKEN
-(F) NONE (S) NONE (K) NONE (H) ONE CONVAIR AND ONE LOCKHEED 
-11) LODESTAR HEADING SOUTH (11) INTELLIGENCE OFFICER POSSIBLE CAUSE 
+DT 1TO 3 1 DUTCH (1) (A) THREE OBJECTS SQUARE, TOP OBJECT ROUND
+(B) THREE BLUE FOUR PLS (C) LIGHT PINK (D) SEVEN (E) SINGLE
+(F) (G) NONE (H) MORE (I) NONE (J) TONE (K) (A) SITTING IN THE
+YARD LOOKING SKYWARD (L) DIRECTLY OVERHEAD (M) HORIZON (N) THREE
+NORTH TO SOUTH STRAIGHT LINE, THREE NORTHEAST TO SOUTHWEST
+PROJECTED, ONE SOUTH TO NORTH STRAIGHT LINE (O) ABRUPTLY AT
+HORIZON (P) SEVERAL SECONDS (Q) (R) GROUP-VISUAL (S) NONE (T) N/A
+(U) (A) SUNSET TO 8:30 (B) EIGHT (C) WEST PALM BEACH, FLA (D) (E) (A)
 
-BT SIGHTING UN KNOWN (12) NONE
+WEST PALM BEACH, FLA, INTERIOR DECORATOR (B) N/A (C) (A) PARTLY
 
-764372 SEP RJ E S C M
-```
+BASIC SIGHTING 1
+CLOUDY, HAZY AND HUMID (A) SURFACE 12 AT 5%; SEA 50, AT 7%;
+WIND 12 AT 1°; 15 AT 2°; AT 4°; 2 AT 1°; SEA AT 1°; SOME LOW AT
+WIND (B) NOT REPORTED, VERY HIGH CIRRUS (L) 25 MILES (M) BROKEN
+(N) NONE (O) MORE (P) MORE (Q) ONE CONVAIR AND ONE LOCKHEED
+COASTAL HEADING SOUTH (R) INTELLIGENCE OFFICER POSSIBLE CAUSE
+OF SIGHTING UNKNOWN (S) NONE
+
+A4572 SEP SIGHTING
+
 
 - page 3 -
 

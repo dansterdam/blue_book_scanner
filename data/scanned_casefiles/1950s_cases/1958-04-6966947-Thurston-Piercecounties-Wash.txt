@@ -1,32 +1,61 @@
-The image does not contain any photographs. It appears to be a Project 10073 Record Card with various fields filled out, including the date, location, type of observation, source, number of objects, and comments.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 9 Apr 58
-2. LOCATION: Thurston-Pierce counties, WASH.
-3. DATE-TIME GROUP: 0921-1332
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: Yes
-6. SOURCE: Civilian
-7. LENGTH OF OBSERVATION: 4 hours, 11 minutes
-8. NUMBER OF OBJECTS: 4
-9. COURSE: Very bright.
-10. BRIEF SUMMARY OF SIGHTING: White spherical obj. very bright.
-11. COMMENTS: Precisely exact positions of Venus at that time. Observation of lights.
+
+1. DATE
+9 Apr 58
+
+2. LOCATION
+Thurston-Pierce counties, Wash.
+
+3. DATE-TIME GROUP
+Local     GMT 09/13157
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+15 mins
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+Stationary
+
+10. BRIEF SUMMARY OF SIGHTING
+White, triangular obj, very bright.
+
+11. COMMENTS
+Practically exact positions of Venus at that time. Observation at dawn.
+
+12. CONCLUSIONS
+[Checkboxes include: Was Balloon, Possibly Balloon, Was Aircraft, Possibly Aircraft, Was Astronomical/Venus, Possibly Astronomical, Other, Insufficient Data for Evaluation]
+
+ATIC FORM 329 (REV 28 SEP 52)
+
 
 - page 1 -
 
-The image does not contain a photograph, but rather appears to be a page from an old UFO report document from Project Blue Book. The text on the page includes various details and descriptions related to a UFO sighting.
+Here is the OCR text from the document:
 
-3GR623 SER137 YDD14* XYA279 XDBS9ADMAIS
-HR RJEDON RJEDS9 RJEPHO
-DE RJUCPDR 744A
-R 231938Z
-FM COMDR 29TH CADU
-TO RJED3Z/CONDR AIR TECHNICAL INTEL CEN
-/CONDR 25 CADU
-F/TO WASH D C
-RJEPHO/OFFICE OF INFORMATION SERVICES HO USAF WASH DC
-UNCLAS/25CADBTAC D-31
+SG0623 SGE137 YDD114 XYA279 XDB094DMA135
+RR RJEDDN RJEDSQ RJEPHQ
+DE RJWPDM 74A
+R 0315502
+FM COMDR 25TH CADD
+TO RJEDDN/COMDR NORAD
+RJEDSQ/COMDR AIR TECHNICAL INTEL CEN
+ZEN/COMDR 25 CADD
+RJEPHO/G2 HQ USAF WASH D C
+RJEPHO/OFFICE OF INFORMATION SERVICES HQ USAF WASH DC
+BT
+/UNCLAS/25CADDTAC D-31
+
 1. 1. TRIANGULAR
 2. PIN HEAD
 3. WHITE (BRIGHT)
@@ -37,86 +66,113 @@ UNCLAS/25CADBTAC D-31
 8. NONE
 9. NONE
 
-PAGE TWO RJUPDM 7:4A
-1. A ONLY BRIGHT LIGHT IN THE SKY
-2. 52 DEGREES ELEVATION 292 DEGREES AZIMUTH
-3. 52 DEGREES ELEVATION 292 DEGREES AZIMUTH
-4. MOVING AWAY (EAST)
-5. FADED
+PAGE TWO RJWPDM 74A
 
-25.5 HAST TO 22:32 PST
+11. 1. ONLY BRIGHT LIGHT IN THE SKY
+    2. 50 DEGREES ELEVATION: 090 DEGREES AZIMUTH
+    3. 50 DEGREES ELEVATION 090 DEGREES AZIMUTH
+    4. MOVING AWAY (EAST)
+    5. FADED
+    6. 0515 PST TO 0533 PST
+
 
 - page 2 -
 
-There is no photograph present in this image. It appears to be a page from an old Project Blue Book document containing handwritten text.
-
-Output of the text found in the document:
+PAGE TWO RJWPDM 74A
 
 II. 1. ONLY BRIGHT LIGHT IN THE SKY
-2. 25-29 DEGREES ELEVATION 229 DEGREES AZIMUTH
-3. 25 DEGREES ELEVATION 233 DEGREES AZIMUTH
-4. MOVING AWAY FAST
-5. FADED - 00:25
-6. 0215 PST TO 0232 PST
+    2. 50 DEGREES ELEVATION 890 DEGREES AZIMUTH
+    3. 50 DEGREES ELEVATION 290 DEGREES AZIMUTH
+    4. MOVING AWAY (EAST)
+    5. FADED (Close)
+    6. 0516 PST TO 0530 PST
+
 III. 1. VISUAL 2. NONE 3. NONE
-IV. 1. 39/131SZ 2. DAWN
-V. 1. SEVEN HILLS CORNER HIWAY 99
-VI. 1. THURSTON CO. SHERIFF OFFICE
-VII. PIERCE CO. SHERIFF OFFICE
-1. GOOD 2. 233 - 25
-272 - 25
-252 - 25
-239 - 25
-229 - 75
-229 - 45
-3. CLEAR 229 -15
-PAGE THREE R.J.PDDI 7/A
-A. 29 MILES 5. 12/13
+     IV. 1. 09/1316Z 2. DAWN
+     V. 1. SEVEN MILES CORNER HIWAY 99
+     VI. 1. THURSTON CO. SHERIFF OFFICE
+         PIERCE CO. SHERIFF OFFICE
+
+VII. 1. GOOD     2. 260 - 25
+                 270 - 25
+                 280 - 35
+                 290 - 50
+                 290 - 75
+                 290 - 45
+     3. CLEAR
+         290 -15
+
+PAGE THREE RJWPDM 74A
+4. 50 MILES 5. 1/16 6. NONE
+
 VIII. NONE
 IX. NONE
 X. NONE
-XI. NONE
-39/1351Z APR RJWPMI
+XI.
+XII. NONE
+BY
+89/1557Z APR RJWPDM
+
 
 - page 3 -
 
-There is no photograph present in this image. The image appears to be a page from a scanned document with handwritten text.
+Here is the text from the document:
 
-OCR Output:
-XII. NONE
+X11. NONE
+
 BT
-29/15272 APR RJWPDN
+89/15572 APR RJWPDM
 
-Added/Later - Seems to be a report or note with handwritten text. The text mentions "Aerial Phenomena" and discusses some details related to an observation or investigation, but no further specifics are provided.
+Added
+
+UTC Findings:
+Colo. obj, comm -
+and y'd most complete
+o'clock - show
+that the obj's of
+own the 7 dimen-
+clown with pictorly
+comes with views
+the point of view
+now a very brief
+obj in the
+clown
+
 
 - page 4 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-OCR output:
-JOINT MESSAGEFORM                   SECURITY CLASSIFICATION 
-                                    Unclassified
-                                
-                                    OAGDPAC 9-31
-                                    SPECIAL INSTRUCTIONS
+JOINT MESSAGEFORM
 
-TO: COMDR, ATIC
-COMDR, 2529 CADD, McOHORD AFB, WASH.
+SECURITY CLASSIFICATION: Unclassified
 
-UNCLASSIFED /FSD/FROM: AFCIN-3J4
+PRECEDENCE: ROUTINE
+TYPE MSG (Check): BOOK MULTI SINGLE X
+FROM: CMDR, AWTC
+CMDR, 25TH CADD, McCHORD AFB, WASH.
 
-Ref your UFO Report, 25CADD-TAC-D-31, dtd 9 Apr 58. Aitro checks and plot^ show whjte, bright, stationary object seen in early dawn and in ciofle track position of planet Venus, now very bright in pre-sunrise sky. Believe this could have been determined and confirmed from checks in Source's area, Ref. para. 's
-hb and 5, APR 200-2, dtd 5 Feb 58. 
+UNCLASSIFIED/FROM: AFCIN-434 4-725-E
 
-For purposes of record request specific locations and names of persons reporting UFO's. Not given in your UFO report. Requests for same submitted daily by persons throughout U.S. demanding AF findings on UFO reports alleged to have been submitted by them.
+Ref your UFO Report, 25CADD-TAC-D-31, dtd 9 Apr 58. Astro checks and plots show white, bright, stationary object seen in early dawn was in almost exact position of planet Venus, now very bright in pre-sunrise sky. Believe this could have been determined and confirmed from checks in Source's area, Ref. para's 4b and 5, AFR 200-2, dtd 5 Feb 58.
+
+For purposes of record request specific locations and names of persons reporting UFO's. Not given in your UFO report. HQ USAF besieged daily by persons throughout U.S. demanding AF findings on UFO reports alleged to have been submitted by them.
 
 COORDINATION:
-AFCIN-3J4 Ej •. ' DATE     /fi Ap*i L $8
-AFCIN-3J DATE        $/S£ S£
+AFCIN-434 [signature] DATE 15 April 58
+[name] Miley
 
-WILLIAM E. WOOD
-TELEPHONE 
-G-9225 CODE 104                        SECURITY STATUS CAPTION
+AFCIN-434 [signature] DATE 4/17/58
+Mr. Post
+
+TYPED NAME AND TITLE:
+GEORGE T. GREGORY, CAPT, USAF
+G-9215
+
+SECURITY CLASSIFICATION: Unclassified
+
+DATE: 14 TIME: 1600 MONTH: APR YEAR: 58
+
 
 - page 5 -
 

@@ -1,18 +1,59 @@
-The image does not contain a photograph. It appears to be a Project 10073 record card with various fields filled out, including the date, location, type of observation, source, length of observation, brief summary of sighting, and conclusions. The text states "No report in file" under the "COMMENTS" field.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 9 November 1957
-2. LOCATION: Tullahoma, Tennessee
-3. DATE/TIME OBSERVATION: 1952/15
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: No
-6. SOURCE: Civilian
-7. LENGTH OF OBSERVATION: Unknown
-8. NUMBER OF OBJECTS: One
-9. COURSE: Descending
-10. BRIEF SUMMARY OF SIGHTING: One ball shaped object, bright silvery white which appeared to be descending.
-11. COMMENTS: No report in file.
-13. CONCLUSIONS: Was Balloon; Possibly Balloon; Possibly Aircraft; Possibly Astronomical.
+
+1. DATE
+9 November 1957
+
+2. LOCATION
+Tullahoma, Tennessee
+
+3. DATE-TIME GROUP
+Local
+GMT 09/21-57
+
+4. TYPE OF OBSERVATION
+[✓]Ground-Visual □Ground-Radar
+□Air-Visual □Air-Intercept Radar
+
+5. PHOTOS
+□Yes
+[✓]No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+unknown
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+descending
+
+10. BRIEF SUMMARY OF SIGHTING
+One ball shaped object, bright silvery white which appeared to be descending.
+
+11. COMMENTS
+Description of balloon. However insufficient data for evaluation.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Possibly Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+[✓]Insufficient Data for Evaluation
+□ Unknown
+
+No report in file.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 

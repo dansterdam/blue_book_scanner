@@ -1,196 +1,318 @@
-The image does not contain a photograph, it is a Project 10073 Record Card from Project Blue Book. 
-
 PROJECT 10073 RECORD CARD
-1. DATE: 20 Oct 59
-2. LOCATION: Dayton, Ohio
-3. DATE-TIME GROUP: Local - 1935
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: Yes
-6. SOURCE: Civilian
-7. LENGTH OF OBSERVATION: 1/2 min
-8. BRIEF SUMMARY OF SIGHTING: One red light, first observed in the ENE & disappeared at horizon in NNW. Sighting was made near a private pasture. Light was seen in line & disappeared 20° above Eastern horizon.
-9. COURSE: A to B
-10. COMMENTS: Probably one or more a/c.
-11. CONCLUSIONS: Was Balloon; Probably Balloon; Possibly Balloon
 
-After processing the text in the record card, the output is:
+1. DATE
+20 Oct 59
 
-PROJECT 10073 RECORD CARD
-1. DATE: 20 Oct 59
-2. LOCATION: Dayton, Ohio 
-3. DATE-TIME GROUP: Local - 1935
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: Yes
-6. SOURCE: Civilian
-7. LENGTH OF OBSERVATION: 1/2 min
-8. BRIEF SUMMARY OF SIGHTING: One red light, first observed in the ENE & disappeared at horizon in NNW. Sighting was made near a private pasture. Light was seen in line & disappeared 20° above Eastern horizon.
-9. COURSE: A to B
-10. COMMENTS: Probably one or more a/c.
-11. CONCLUSIONS: Was Balloon; Probably Balloon; Possibly Balloon
+3. DATE/TIME GROUP
+Local 1935
+GMT 21/0035Z
+
+5. PHOTOS
+□ Yes
+■ No
+
+7. LENGTH OF OBSERVATION
+1/2 min
+
+10. BRIEF SUMMARY OF SIGHTING
+One red light, first observed in the ENE
+& disappeared at horizon in NE. Either the
+same, or another, light reappeared at horizon in NNE & disappeared 20° above Eastern
+horizon.
+
+2. LOCATION
+Dayton, Ohio
+
+4. TYPE OF OBSERVATION
+□ Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+6. SOURCE
+Civilian
+
+8. NUMBER OF OBJECTS
+two
+
+9. COURSE
+1. S to N
+2. SSE
+
+11. COMMENTS
+Probably one or more a/c.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+■ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 57)
+
 
 - page 1 -
 
-The provided image does not contain any photographs. It appears to be a Project Blue Book record card, which includes details about a UFO sighting report.
+PROJECT 1073 RECORD CARD
 
-PROJECT 10073 RECORD CARD
-1. DATE: 29 OCT 59
-2. LOCATION: Dayton, Ohio
-3. DATE-TIME GROUP: 2130
-4. TYPE OF OBSERVATION: 1) Visual, 2) Ground-Visual
-5. PHOTOS: No
-6. LENGTH OF OBSERVATION: 3 minutes
-8. NUMBER OF OBJECTS: 1
-9. COURSE: SE to NW & back
-10. BRIEF SUMMARY OF SIGHTING: A yellowish or blue-white light w/bright, white glow circled & went back over SE horizon. Witness then saw a min later, either the same, or another object, little North of observer's position, turned & went back to the SE.
-11. COMMENTS: Probably a/c.
-12. CONCLUSIONS: Was Balloon, Possibly Balloon
+1. DATE
+20 Oct 59
+
+2. LOCATION
+Dayton, Ohio
+
+3. DATE-TIME GROUP
+Local 2130
+GMT 21/0230Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[X] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+15 mins
+
+8. NUMBER OF OBJECTS
+two
+
+10. BRIEF SUMMARY OF SIGHTING
+A yellowish or blue-white light w/bright, white glow came fm SE horizon, passed overhead, circled & went back over SE horizon. Less than a min later, either the same, or another, light came fm SE passed a little North of observer's position, turned & went back to the SE.
+
+9. COURSE
+1. S to N & back
+2. SE to NW & back
+
+11. COMMENTS
+Probably a/c
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+[X] Was Aircraft
+[X] Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other: Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 59)
+
 
 - page 2 -
 
-There is no photograph present in this image, which appears to be a page from an old UFO report document from Project Blue Book. As requested, I will now act as an OCR system and produce the text found in the document:
+U. S. AIR FORCES TECHNICAL INFORMATION SHEET
 
-U. S. AIR FORCE TECHNICAL INFORMATION SHEET
+This questionnaire has been prepared so that you can give the U. S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information so that, if it is deemed necessary, we may contact you for further details.
 
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon they you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission.
-We request this personal information so that, if it is deemed necessary, we may contact you for further details.
+1. When did you see the object?
+20 OCT 59
+Day   Month   Year
 
-1. When did you see the object? 20 DAY ± OCT 59
-2. Time of observation: 2:52 Minuies (Circle One): A.M. @ P.M.
-3. Time zone: (Circle One): a. Eastern b. Daylight Saving c. Mountain d. Pacific e. Other
-4. Where were you when you saw the object? Nearest Postal Address:
-Additional remarks: 
-5. Estimate how long you saw the object. 2 Minutes Seconds
-5.1 Circle one of the following to indicate how certain you are of your answer to Question 5. a. Certain b. Fairly certain c. Not very sure d. Just a guess
+2. Time of day: 21:30
+Hour         Minutes
+(Circle One): A.M. or P.M.
+
+3. Time zone:
+(Circle One): a. Eastern
+             b. Central
+             c. Mountain
+             d. Pacific
+             e. Other
+
+(Circle One): a. Daylight Saving
+             b. Standard
+
+4. Where were you when you saw the object?
+[Location details are blacked out]
+Nearest Postal Address           City/Town            State or Country
+
+5. Estimate how long you saw the object:
+Hours   5-10 Minutes   Seconds
+21 6 min. #2 15 min.
+
+5.1 Circle one of the following to indicate how certain you are of your answer to Question 5:
+(Circle One): a. Certain   c. Not very sure
+             b. Fairly certain   d. Just a guess
+
 6. What was the condition of the sky?
-(Circle One): a. Clear b. Dull daylight c. Bright twilight d. Just a trace of daylight e. No trace of daylight f. Don't remember
+(Circle One): a. Bright daylight   d. Just a trace of daylight
+             b. Dull daylight     e. No trace of daylight
+             c. Bright twilight   f. Don't remember
+
 7. IF you saw the object during DAYLIGHT, TWILIGHT, or DAWN, where was the SUN located as you looked at the object?
-(Circle One): a. In front of you b. In back of you c. To your right d. To your left e. Overhead f. Don't remember
+(Circle One): a. In front of you   d. To your left
+             b. In back of you    e. Overhead
+             c. To your right     f. Don't remember
+
+ATIC FORM NO. 164 (13 OCT 54)
+
 
 - page 3 -
 
-The image does not contain a photograph, but rather a page from an old Project Blue Book UFO report document. The document appears to be a questionnaire or form for collecting information about UFO sightings.
+8. IF you saw the object at NIGHT, TWILIGHT, or DAWN, what did you notice concerning the STARS and MOON?
 
-Here is the text output from the document:
-
-9. IF you saw the object at NIGHT, TWILIGHT, or DAWN, what did you notice concerning the STARS and MOON?
-9.1 STARS (Circle One):
+8.1 STARS (Circle One):
 a. None
 b. A few
 c. Many
 d. Don't remember
-9.2 MOON (Circle One):
+
+8.2 MOON (Circle One):
 a. Bright moonlight
 b. Dull moonlight
 c. No moonlight - pitch dark
 d. Don't remember
 
 9. Was the object brighter than the background of the sky?
-(Circle One):
-a. Yes
-b. No
-c. Don't remember
+(Circle One): a. Yes   b. No   c. Don't remember
 
-10. IF it was BRIGHTER THAN the sky background, was the brightness like that of an automobile headlight?:
-(Circle One)
-a. A mile or more away (a distant car)
-b. Several blocks away?
-c. A block away?
-d. Several yards away?
-e. Other
+10. IF it was BRIGHTER THAN the sky background, was the brightness like that of an automobile headlight?
+(Circle One) a. A mile or more away (a distant car)   b. Several blocks away?   c. A block away?   d. Several yards away?   e. Other
 
 11. Did the object:
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Break up into parts or explode?
+d. Give off smoke?
+e. Change brightness?
+f. Change shape?
+g. Flicker, throb, or pulsate?
+
 (Circle One for each question)
-a. Appear to stand still at any time? Yes No Don't Know
-b. Suddenly speed up and rush away at any time? Yes No Don't Know
-c. Break up into parts or exploded? Yes No Don't Know
-d. Give off smoke? Yes No Don't Know
-e. Change brightness? Yes No Don't Know
-f. Change shape? Yes No Don't Know
-g. Flicker, throb, or pulsate? Yes No Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
 
 12. Did the object move behind something at anytime, particularly a cloud?
-(Circle One):
-Yes No Don't Know.
-IF you answered YES, then tell what it moved behind:
+(Circle One): Yes   No   Don't Know.   IF you answered YES, then tell what it moved behind:
 
 13. Did the object move in front of something at anytime, particularly a cloud?
-(Circle One):
-Yes No Don't Know.
-IF you answered YES, then tell what it moved in front of:
+(Circle One): Yes   No   Don't Know.   IF you answered YES, then tell what it moved in front of:
 
-14. Did the object appear: (Circle One):
-a. Solid?
-b. Transparent?
-c. Don't Know.
+14. Did the object appear: (Circle One): a. Solid?   b. Transparent?   c. Don't Know.
 
 15. Did you observe the object through any of the following?
-a. Eyeglasses Yes No
-b. Sun glasses Yes No
-c. Windshield Yes No
-d. Window glass Yes No
-e. Binoculars Yes No
-f. Telescope Yes No
-g. Theodolite Yes No
-h. Other
+a. Eyeglasses   Yes   No
+b. Sun glasses   Yes   No
+c. Windshield   Yes   No
+d. Window glass   Yes   No
+
+e. Binoculars   Yes   No
+f. Telescope    Yes   No
+g. Theodolite   Yes   No
+h. Other        Yes   No
+
+Page 7
+
 
 - page 4 -
 
-This page does not contain a photograph. It appears to be a form or questionnaire related to the reporting of a UFO sighting.
+Here is the text from the document:
 
-15. Tell in a few words the following things about the object: 
-a. Sound - No
-b. Color - Yellowish or Beige/white
+Page 3
 
-17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the objects that you saw such as wings, projections, etc., and particularly exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
-The witness has provided a hand-drawn sketch and detailed written description of the object they observed, including that it appeared to have a rounded shape and a "tail" that left a trail as it moved across the sky.
+16. Tell in a few words the following things about the object:
+a. Sound: NO
+b. Color: YELLOWISH or BLUE WHITE
+
+17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
+
+came from SE horizon, passed overhead, when approx 45° above NW horizon. It circled and went back over SE horizon. Less than a minute later, within the same area, or at different light came from the SE, passed a little north of last position, turned and went back to the SE.
+
+(The above gives general info)
+Mr Hall.
 
 18. The edges of the object were:
-a. Circle (one) or Fuzzy or blurred
-b. Like a bright star
-c. Sharply outlined
-d. Don't remember
+(Circle One): a. Fuzzy or blurred
+               b. Like a bright star
+               c. Sharply outlined
+               d. Don't remember
 
-19. If there was MORE THAN ONE object, then how many were there?
-Sketch a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
-The witness indicates there was a single object observed.
+19. IF there was MORE THAN ONE object, then how many were there? 2
+Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
 
-Text transcription:
-15. Tell in a few words the following things about the object: 
-a. Sound - No
-b. Color - Yellowish or Beige/white
-17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the objects that you saw such as wings, projections, etc., and particularly exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
-(Handwritten description)
-"Object approx 35-40 ft in diameter. Tail approx 50 ft long. Object approx 5-6 ft from the ground. Moved from NW to SE very fast. Made no noise. Also observed 'falling' object a few seconds later approx 1/2 mile away."
-(The sketch shows a rounded object with a long trailing tail.)
-18. The edges of the object were:
-a. Circle (one) or Fuzzy or blurred
-b. Like a bright star
-c. Sharply outlined
-d. Don't remember
-19. If there was MORE THAN ONE object, then how many were there?
-Sketch a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
-Shaped Like V
+SHAPED LIKE V
+
 
 - page 5 -
 
-The image contains a hand-drawn sketch depicting the motion of an unidentified object. There is no photograph present in this particular page of the UFO report document.
+Here is the text from the document:
 
-20. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
+Page 4
+
+20. Draw a picture that will show the motion that the object or objects made. Place on "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
+
 21. IF POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension.
-22. How large did the object or objects appear as compared with one of the following objects held in the hand: (Circle One): a. Head of a pin, b. Pea, c. Dime, d. Silver dollar, e. Baseball, f. Grapefruit, g. Nickel, h. Basketball, i. Other
-22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22): a. Very certain, b. Fairly certain, c. Not very sure, d. Uncertain
-23. How did the object or objects disappear from view? 227 - DISAPPEAR HORIZON
-24. In order that you can give as clear a picture as possible of what you saw, we would like for you to imagine that you could construct the object that you saw. Of what type material would you make it, and what shape would it be, and how large would it be?
 
-S. TO N. REVEALED
-S
-(5 -) GIVEN BY MR. WHITE
+22. How large did the object or objects appear as compared with one of the following objects held in the hand and about arm's length?
+(Circle One):
+a. Head of a pin
+b. Pea
+c. Dime
+d. Nickel
+e. Quarter
+f. Half dollar
+
+g. Silver dollar
+h. Baseball
+i. Grapefruit
+j. Basketball
+k. Other
+
+22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22.
+a. Certain
+b. Fairly certain
+
+c. Not very sure
+d. Uncertain
+
+23. How did the object or objects disappear from view? TO DISTANT HORIZON
+FADED OUT DUE TO DISTANCE
+
+24. In order that you can give as clear a picture as possible of what you saw, we would like for you to imagine that you could construct the object that you saw. Of what type material would you make it? How large would it be, and what shape would it have? Describe in your own words a common object or objects which when placed up in the sky would give the same appearance as the object which you saw.
+
+#1 S. TO N. overhead
+
+(as given by) 
+MR. WOLF
+
 
 - page 6 -
 
-The image does not contain any photographs. It appears to be a page from a UFO report document with a questionnaire format.
+Here is the text from the document:
 
-STANDING IN OPEN AREA
+Page 5
+
+25. Where were you located when you saw the object?
+(Circle One)
+a. Inside a building
+b. In a car
+c. Outdoors
+d. In an airplane
+e. At sea
+f. Other STANDING IN OPEN AREA
+
+26. Were you (Circle One)
 a. In the business section of a city?
 b. In the residential section of a city?
 c. In open countryside?
@@ -199,319 +321,475 @@ e. Flying over a city?
 f. Flying over open country?
 g. Other
 
-TRAVELING WITH MANEUVERS AND SPEED
-COULD NOT BE DESCRIBED TO STARS
+27. What were you doing at the time you saw the object, and how did you happen to notice it?
+MOVING LIGHT IN COMPARISON TO STARS
 
-- What direction were you looking when you first saw the object? (Circle One)
+28. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
+
+28.1 What direction were you moving? (Circle One)
 a. North
 b. Northeast
 c. East
-d. Southeast 
+d. Southeast
+
 e. South
 f. Southwest
 g. West
 h. Northwest
 
-- What direction were you looking when you last saw the object? (Circle One)
+28.2 How fast were you moving? _______ miles per hour.
+
+28.3 Did you stop at any time while you were looking at the object?
+(Circle One) Yes No
+
+29. What direction were you looking when you first saw the object? (Circle One)
 a. North
 b. Northeast
 c. East
 d. Southeast
+
 e. South
 f. Southwest
-g. West 
+g. West
 h. Northwest
 
-- If you are familiar with bearing terms (angular direction), try to estimate the number of degrees the object was from true North and also the number of degrees it was upward from the horizon (elevation).
+30. What direction were you looking when you last saw the object? (Circle One)
+a. North
+b. Northeast
+c. East
+d. Southeast
+
+e. South
+f. Southwest
+g. West
+h. Northwest
+
+31. If you are familiar with bearing terms (angular direction), try to estimate the number of degrees the object was from true North and also the number of degrees it was upward from the horizon (elevation).
+
 31.1 When it first appeared:
-a. From true North ________ degrees.
-b. From horizon ________ degrees.
+a. From true North _______ degrees.
+b. From horizon _______ degrees.
+
 31.2 When it disappeared:
-a. From true North ________ degrees. 
-b. From horizon ________ degrees.
+a. From true North _______ degrees.
+b. From horizon _______ degrees.
+
 
 - page 7 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report form, with various questions and options related to the sighting of an unidentified flying object.
+Here is the text from the document:
 
 34. What were the weather conditions at the time you saw the object?
+34.1 CLOUDS (Circle One)
+    a. Clear sky
+    b. Hazy
+    c. Scattered clouds
+    d. Thick or heavy clouds
+    e. Don't remember
+
+34.2 WIND (Circle One)
+    a. No wind
+    b. Slight breeze
+    c. Strong wind
+    d. Don't remember
+
+34.3 WEATHER (Circle One)
+    a. Dry
+    b. Fog, mist, or light rain
+    c. Moderate or heavy rain
+    d. Snow
+    e. Don't remember
+
+34.4 TEMPERATURE (Circle One)
+    a. Cold
+    b. Cool
+    c. Warm
+    d. Hot
+    e. Don't remember
+
+35. When did you report to some official that you had seen the object?
+[Blank fields for Day, Month, Year]
+
+36. Was anyone else with you at the time you saw the object?
+(Circle One) Yes No
+36.1 IF you answered YES, did they see the object too?
+(Circle One) Yes No
+36.2 Please list their names and addresses:
+[Blacked out/redacted]
+
+37. Was this the first time that you had seen an object or objects like this?
+(Circle One) Yes No
+37.1 IF you answered NO, then when, where, and under what circumstances did you see other ones?
+[Blank lines]
+
+38. In your opinion what do you think the object was and what might have caused it?
+HIGH SPEED AIRCRAFT
+
+
+- page 8 -
+
+39. Do you think you can estimate the speed of the object?
+(Circle One) Yes No
+If you answered YES, then what speed would you estimate? Approx. Excess 500 m.p.h.
+
+40. Do you think you can estimate how far away from you the object was?
+(Circle One) Yes No
+If you answered YES, then how far would you say it was? Approx. Same as B-52 3-5 feet.
+
+41. Please give the following information about yourself:
+NAME [Redacted]
+ADDRESS [Redacted] DAYTON, 7 OHIO
+TELEPHONE NUMBER [Redacted]
+What is your present job? DAYTON POWER & LIGHT
+Age 20 Sex M
+
+Please indicate any special educational training that you have had.
+a. Grade school YES e.g. Technical school
+b. High school YES
+c. College NO
+d. Post graduate N/G
+f. Other special training ELECTRONICS
+
+42. Date you completed this questionnaire: [Blank]
+
+Page 8 is noted at the top right of the document.
+
+
+- page 9 -
+
+PROJECT 10073 RECORD CARD
+
+1. DATE
+30 Oct 59
+
+2. LOCATION
+Dayton, Ohio
+
+3. DATE-TIME GROUP
+GMT 31/0011Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+4 secs
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+West
+
+10. BRIEF SUMMARY OF SIGHTING
+Obj shaped like a comet w/a bright red tail & white sparks observed to explode. Movement East to West. In sight for 4 secs.
+
+11. COMMENTS
+Probably a bolide observation. Case listed as astronomical. Meteor.
+
+12. CONCLUSIONS
+[Checked box for] Was Astronomical Meteor
+[Checked box for] Probably Astronomical
+
+
+- page 10 -
+
+U. S. AIR FORCE TECHNICAL INFORMATION SHEET
+
+This questionnaire has been prepared so that you can give the U. S. Air Force as much information as possible concerning the unidentified aerial phenomena that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information so that, if it is deemed necessary, we may contact you for further details.
+
+1. When did you see the object?
+30 Oct 59
+Day   Month   Year
+
+2. Time of day: 2011
+(Circle One): A.M. or P.M.
+
+3. Time zone:
+(Circle One): a. Eastern
+             b. Central
+             c. Mountain
+             d. Pacific
+             e. Other
+
+(Circle One): a. Daylight Saving
+             b. Standard
+
+4. Where were you when you saw the object?
+Dayton                 Ohio
+Nearest Postal Address   City or Town   State or Country
+
+Additional remarks:
+
+5. Estimate how long you saw the object.
+Hours    Minutes    Seconds
+
+5.1 Circle one of the following to indicate how certain you are of your answer to Question 5.
+a. Certain
+b. Fairly certain
+c. Not very sure
+d. Just a guess
+
+6. What was the condition of the sky?
+(Circle One): a. Bright daylight
+             b. Dull daylight
+             c. Bright twilight
+
+d. Just a trace of daylight
+e. No trace of daylight
+f. Don't remember
+
+7. IF you saw the object during DAYLIGHT, TWILIGHT, or DAWN, where was the SUN located as you looked at the object?
+(Circle One): a. In front of you
+             b. In back of you
+             c. To your right
+
+d. To your left
+e. Overhead
+f. Don't remember
+
+ATIC FORM NO. 164 (13 OCT 54)
+
+
+- page 11 -
+
+U.S. AIR FORCE TECHNICAL INFORMATION SHEET
+
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information so that, if it is deemed necessary, we may contact you for further details.
+
+1. When did you see the object?
+20   Oct   '59
+
+2. Time of day:
+7   35
+Hour   Minute
+(Circle One): A.M. or P.M.
+
+3. Time zone:
+(Circle One): a. Eastern
+            b. Central
+            c. Mountain
+            d. Pacific
+            e. Other
+
+(Circle One): a. Daylight Saving
+             b. Standard
+
+4. Where were you when you saw the object?
+[Nearest Postal Address is blacked out]
+Dayton   Ohio
+City or Town   State or Country
+
+Additional remarks: Reserve Park Area
+
+5. Estimate how long you saw the object:
+    Hours   Minutes   Seconds   After Time
+
+5.1 Circle one of the following to indicate how certain you are of your answer to Question 5:
+    a. Certain
+    b. Fairly certain   c. Not very sure
+                        d. Just a guess
+
+6. What was the condition of the sky?
+(Circle One): a. Bright daylight   d. Just a trace of daylight
+              b. Dull daylight    e. No trace of daylight
+              c. Bright twilight   f. Don't remember
+
+7. IF you saw the object during DAYLIGHT, TWILIGHT, or DAWN, where was the SUN located as you looked at the object?
+(Circle One): a. In front of you   d. To your left
+              b. In back of you    e. Overhead
+              c. To your right     f. Don't remember
+
+ATIC FORM NO. 164 (13 OCT 54)
+
+
+- page 12 -
+
+Here is the text from the document:
+
+Page 2
+
+3. IF you saw the object at NIGHT, TWILIGHT, or DAWN, what did you notice concerning the STARS and MOON?
+
+8.1 STARS (Circle One):
+a. None
+b. A few
+c. Many
+d. Don't remember
+
+8.2 MOON (Circle One):
+a. Bright moonlight
+b. Dull moonlight
+c. No moonlight - pitch dark
+d. Don't remember
+
+9. Was the object brighter than the background of the sky?
+(Circle One): a. Yes   b. No   c. Don't remember
+
+10. IF it was BRIGHTER THAN the sky background, was the brightness like that of an automobile headlight?
+(Circle One) a. A mile or more away (a distant car)?   b. Several blocks away?   c. A block away?   d. Several yards away?   e. Other
+
+11. Did the object:                                                   (Circle One for each question)   Yes   No   Don't Know
+a. Appear to stand still at any time?                                 
+b. Suddenly speed up and rush away at any time?                       Yes   No   Don't Know
+c. Break up into parts or explode?                                    Yes   No   Don't Know
+d. Give off smoke?                                                    Yes   No   Don't Know
+e. Change brightness?                                                 Yes   No   Don't Know
+f. Change shape?                                                      Yes   No   Don't Know
+g. Flicker, throb, or pulsate?                                        Yes   No   Don't Know
+
+12. Did the object move behind something at anytime, particularly a cloud?
+(Circle One): Yes   No   Don't Know.   IF you answered YES, then tell what it moved behind:
+
+13. Did the object move in front of something at anytime, particularly a cloud?
+(Circle One): Yes   No   Don't Know.   IF you answered YES, then tell what it moved in front of:
+
+14. Did the object appear: (Circle One): a. Solid?   b. Transparent?   c. Don't Know.
+
+15. Did you observe the object through any of the following?
+a. Eyeglasses                 Yes   No
+b. Sun glasses                Yes   No
+c. Windshield                 Yes   No
+d. Window glass               Yes   No
+
+e. Binoculars                 Yes   No
+f. Telescope                  Yes   No
+g. Theodolite                 Yes   No
+h. Other
+
+
+- page 13 -
+
+Here is the text from the document:
+
+Page 3
+
+16. Tell in a few words the following things about the object:
+a. Sound ______________________
+b. Color ______________________
+
+17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
+
+Comet
+
+18. The edges of the object were:
+(Circle One): a. Fuzzy or blurred
+               b. Like a bright star
+               c. Sharply outlined
+               d. Don't remember
+
+19. IF there was MORE THAN ONE object, then how many were there? ____________
+Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+
+
+- page 14 -
+
+Here is the text from the document:
+
+Page 4
+
+20. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
+
+From E-W Great speed falling
+
+21. IF POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension.
+10 feet. Definite
+
+22. How large did the object or objects appear as compared with one of the following objects held in the hand and at about arm's length?
+(Circle One):    a. Head of a pin    g. Silver dollar
+                b. Pea             h. Baseball
+                c. Dime            i. Grapefruit
+                d. Nickel          j. Basketball
+                e. Quarter         k. Other
+                f. Half dollar
+
+22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22.
+        a. Certain            c. Not very sure
+        b. Fairly certain     d. Uncertain
+
+23. How did the object or objects disappear from view? Slipped out with motion
+
+24. In order that you can give us a clear a picture as possible of what you saw, we would like for you to imagine that you could construct the object that you saw. Of what type material would you make it? How large would it be, and what shape would it have? Describe in your own words a common object or objects which when placed up in the sky would give the same appearance as the object which you saw.
+
+N.P.
+
+
+- page 15 -
+
+Here is the text from the document:
+
+25. Where were you located when you saw the object?
+(Circle One):
+a. Inside a building
+b. In a car
+c. Outdoors
+d. In an airplane
+e. At sea
+f. Other ___________
+
+26. Were you (Circle One)
+a. In the business section of a city?
+b. In the residential section of a city?
+c. In open countryside?
+d. Flying near an airfield?
+e. Flying in an airfield?
+f. Flying over a city?
+g. Other ___________
+
+27. What were you doing at the time you saw the object, and how did you happen to notice it?
+Driving South Putt. 4
+
+28. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
+28.1 What direction were you moving? (Circle One)
+a. North         c. East          e. South         g. West
+b. Northeast     d. Southeast     f. Southwest     h. Northwest
+
+28.2 How fast were you moving?    50    miles per hour.
+
+28.3 Did you stop at any time while you were looking at the object?
+(Circle One)   Yes   No
+
+29. What direction were you looking when you first saw the object? (Circle One)
+a. North         c. East          e. South         g. West
+b. Northeast     d. Southeast     f. Southwest     h. Northwest
+
+30. What direction were you looking when you last saw the object? (Circle One)
+a. North         c. East          e. South         g. West
+b. Northeast     d. Southeast     f. Southwest     h. Northwest
+
+31. If you are familiar with bearing terms (angular direction), try to estimate the number of degrees the object was from true North and also the number of degrees it was upward from the horizon (elevation).
+31.1 When it first appeared:
+a. From true North    180    degrees.
+b. From horizon       30     degrees.
+
+31.2 When it disappeared:
+a. From true North    120    degrees.
+b. From horizon       35     degrees.
+
+
+- page 16 -
+
+32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
+
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to smaller sketch as an example of how to complete the larger sketch.
+
+
+- page 17 -
+
+Here is the text from the document:
+
+34. What were the weather conditions at the time you saw the object?
+
 34.1 CLOUDS (Circle One)
 a. Clear sky
 b. Hazy
 c. Scattered clouds
 d. Thick or heavy clouds
-e. Don't remember
-
-34.2 WIND (Circle One) 
-a. No wind
-b. Light wind
-c. Strong wind
-d. Don't remember
-
-34.3 WEATHER (Circle One)
-a. Dry
-b. Fog, mist, or light rain
-c. Moderate or heavy rain
-d. Overcast
-e. Don't remember
-
-34.4 TEMPERATURE (Circle One)
-a. Cold
-b. Cool
-c. Warm
-d. Hot
-e. Don't remember
-
-35. When did you report to some official that you had seen the object?
-Day - Month - Year
-
-36. Was anyone else with you at the time you saw the object?
-(Circle One) Yes No
-
-36.1 IF you answered YES, did they see the object too?
-(Circle One) Yes No
-
-36.2 Please list their names and addresses:
-[Redacted]
-
-37. Was this the first time that you had seen an object or objects like this?
-(Circle One) Yes No
-
-37.1 IF you answered NO, then when, where, and under what circumstances did you see other ones?
-[Blank]
-
-38. In your opinion what do you think the object was and what might have caused it?
-MANY SPEED AIRCRAFT
-
-- page 8 -
-
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report document, with a form filled out by an observer providing information about a UFO sighting.
-
-39. Do you think you can estimate the speed of the object?
-(Circle One) Yes No
-If you answered YES, then what speed would you estimate? APPROX. EXCEED 500 m.p.h.
-
-40. Do you think you can estimate how far away from you the object was?
-(Circle One) Yes No
-If you answered YES, then how far away would you say it was? APPROX. SAME AS B-52
-
-41. Please give the following information about yourself:
-NAME (redacted) 
-ADDRESS (redacted)
-TELEPHONE NUMBER (redacted)
-What is your present job? Dayton Police Station
-Age 20
-Sex M
-Please indicate any special educational training that you have had:
-a. Grade school YES
-b. High school 
-c. College 
-d. Post graduate
-e. Technical school (TYPE)
-f. Other special training FIREFIGHTER
-
-42. Date you completed this questionnaire: (redacted)
-
-- page 9 -
-
-The image does not contain any photographs. It appears to be a Project 10073 record card filled out with details about a UFO sighting.
-
-PROJECT 10073 RECORD CARD
-1. DATE: 30 OCT 55
-3. DATE-TIME GROUP: 20:40
-3. PHOTOS: O Yes
-7. LENGTH OF OBSERVATION: 1 min
-10. BRIEF SUMMARY OF SIGHTING: Obj sighted like a comet w/a bright red tail & white sparks observed to explode. Movement east to west. In sight for 1 sec.
-13. CONCLUSIONS: Possibly a bolide observation as astronomical. Meteor.
-11. COMMENTS: Probably a bolide observation. Case listed as astronomical. Meteor.
-
-- page 10 -
-
-The provided image does not contain any photographs. It appears to be a U.S. Air Force Technical Information Sheet, which is a questionnaire used to gather information about unidentified flying object sightings.
-
-U. S. AIR FORCE TECHNICAL INFORMATION SHEET
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomena that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information so that, if it is deemed necessary, we may contact you for further details.
-1. When did you see the object? 3 - 5 Day 9 Year
-2. Time of day: 2011 Hour Minutes (Circle One): A.M. or P.M.
-3. Time zone: (Circle One): a. Eastern b. Central c. Mountain d. Pacific e. Other
-4. Where were you when you saw the object? DAYTON OHIO
-5. Estimate how long you saw the object. Hours Minutes Seconds
-5.1 Circle one of the following to indicate how certain you are of your answer to Question 5. a. Certain b. Fairly certain c. Not very sure d. Just a guess
-6. What was the condition of the sky? (Circle One): a. Bright daylight b. Dull daylight c. Twilight d. Just a trace of daylight e. No trace of daylight f. Don't remember
-7. IF you saw the object during DAYLIGHT, TWILIGHT, or DAWN, where was the SUN located as you looked at the object? (Circle One): a. In front of you b. In back of you c. To your right d. To your left e. Overhead f. Don't remember
-Additional remarks: -
-
-- page 11 -
-
-There is no photograph present in this image. It appears to be a U.S. Air Force Technical Information Sheet, likely a questionnaire or form related to unidentified aerial phenomena observations.
-
-U.S. AIR FORCE TECHNICAL INFORMATION SHEET
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. The information that you give will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission.
-1. When did you see the object? 20 OCT 59
-2. Time of day: 7:55 (Circle One): A.M. or P.M.
-3. Time zone: (Circle One): a. Eastern
-4. Where were you when you saw the object? Dayton, Ohio
-5. Estimate how long you saw the object. 1-2 Minutes
-5.1 Circle one of the following to indicate how certain you are of your answer to Question 5: b. Fairly certain
-6. What was the condition of the sky? (Circle One): a. Bright daylight
-7. IF you saw the object during DAYLIGHT, TWILIGHT, or DAWN, where was the SUN located as you looked at the object? (Circle One): b. To back of you
-
-- page 12 -
-
-There is no photograph present in the image provided. Instead, it appears to be a page from an old UFO report document, likely part of Project Blue Book.
-
-3. IF you saw the object at NIGHT, TWILIGHT, or DAWN, what did you notice concerning the STARS and MOON?
-9.1 STARS (Circle One): a. Bright moonlight b. A few c. Many d. Don't remember
-9.2 MOON (Circle One): a. Bright moonlight b. Dull moonlight c. No moonlight - pitch dark d. Don't remember
-
-9. Was the object brighter than the background of the sky?
-(Circle One): a. Yes b. No c. Don't remember
-
-10. IF it was BRIGHTER THAN the sky background, was the brightness like that of an automobile headlight?:
-(Circle One) a. A mile or more away (a distant car)? b. Several blocks away? c. A block away? d. Several yards away? e. Other
-
-11. Did the object: (Circle One for each question) Yes No Don't Know
-a. Appear to stand still at any time? Yes No Don't Know
-b. Suddenly speed up and rush away at any time? Yes No Don't Know
-c. Break up into parts or explode? Yes No Don't Know
-d. Change direction? Yes No Don't Know
-e. Change brightness? Yes No Don't Know
-f. Flicker, throb, or pulsate? Yes No Don't Know
-
-12. Did the object move behind something at anytime, particularly a cloud?
-(Circle One): Yes No Don't Know. IF you answered YES, then tell what it moved behind:
-
-13. Did the object move in front of something at anytime, particularly a cloud?
-(Circle One): Yes No Don't Know. IF you answered YES, then tell what it moved in front of:
-
-14. Did the object appear: (Circle One): a. Solid? b. Transparent? c. Don't Know.
-
-15. Did you observe the object through any of the following?
-a. Binoculars Yes No
-b. Sun glasses Yes No
-c. Windshield Yes No
-d. Window glass Yes No
-
-e. Telescope Yes No
-f. Theodolite Yes No
-g. Other
-
-- page 13 -
-
-The image does not contain a photograph. It appears to be a page from a UFO report document with a section for the witness to draw a picture of the object they observed.
-
-16. Tell in a few words the following things about the object:
-a. Sound - 
-b. Color - Partial red, yellow
-
-17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
-
-The witness has provided a hand-drawn sketch in the designated area.
-
-18. The edges of the object were:
-(Circle One): a. Fuzzy or blurred 
-b. Like a bright star
-c. Sharply outlined
-d. Don't remember
-
-19. IF there was MORE THAN ONE object, then how many were there?
-12
-Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
-
-- page 14 -
-
-The image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book.
-
-20. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
-
-21. IF POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension. 15 feet.
-
-22. How large did the object or objects appear as compared with one of the following objects, held in the hand (Circle One):
-a. Head of a pin 
-b. Pea
-c. Dime 
-d. Nickel
-e. Quarter
-f. Half dollar
-
-23.1 (Circle One of the following to indicate how certain you are of your answer to Question 22): 
-a. Certain
-b. Fairly certain 
-c. Not very sure
-d. Uncertain
-
-23. How did the object or objects disappear from view? Apparently disappeared gradually
-
-24. In order that you can give as clear a picture as possible of what you saw, we would like for you to imagine that you could construct the object that you saw. Of what type material would you make it? How large would it be, and what shape would it have? Describe in your own words a common object or objects which when placed up in the sky would give the same appearance as the object which you saw.
-
-M.P. (apparently the witness initials)
-
-- page 15 -
-
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
-
-Performing OCR (Optical Character Recognition) on the text in the document:
-
-25. Where were you located when you saw the object? (Circle One):
-a. Inside a building
-b. In a car
-c. On the ground
-d. In an airplane
-e. At sea
-f. Other _____________
-
-26. Were you (Circle One):
-a. In the business section of a city?
-b. In the residential section of a city? 
-c. In open country/side?
-d. Flying over a city?
-e. Flying over open country?
-f. Flying over a city?
-g. Other _____________ 
-
-27. What were you doing at the time you saw the object, and how did you happen to notice it?
-Driving search aircraft
-
-28. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
-28.1 What direction were you moving? (Circle One)
-a. North   b. Northeast   c. East   d. Southeast   e. South   f. Southwest   g. West   h. Northwest
-28.2 How fast were you moving? 50 miles per hour.
-28.3 Did you stop at any time while you were looking at the object? (Circle One) Yes No
-
-29. What direction were you looking when you first saw the object? (Circle One)
-a. North   b. Northeast   c. East   d. Southeast   e. South   f. Southwest   g. West   h. Northwest
-
-30. What direction were you looking when you last saw the object? (Circle One) 
-a. North   b. Northeast   c. East   d. Southeast   e. South   f. Southwest   g. West   h. Northwest
-
-31. If you are familiar with bearing terms (angular direction), try to estimate the number of degrees the object was from true North and also the number of degrees it was upward from the horizon (elevation).
-31.1 When it first appeared:
-a. From true North 130 degrees.
-b. From horizon 35 degrees.
-31.2 When it disappeared: 
-a. From true North 130 degrees.
-b. From horizon 35 degrees.
-
-- page 16 -
-
-The image does not contain a photograph, but rather sketches and illustrations. The first sketch shows a curved line to indicate the trajectory of an object that was above the horizon when the observer first saw it. The second sketch shows two larger sketches - the one on the left depicts a person standing on a road, while the one on the right shows a person silhouetted against a domed sky.
-
-Now, acting as an OCR (Optical Character Recognition) system, the text found in the document is:
-
-32. In the following sketch, imagine that the curved line is to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
-
-33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to smaller sketch as an example of how to complete the larger sketch.
-
-- page 17 -
-
-There does not appear to be any photograph or image present in this document. It seems to be a page from a Project Blue Book report that contains text-based questions and answers related to an unidentified flying object sighting.
-
-34. What were the weather conditions at the time you saw the object?
-34.1 CLOUDS (Circle One)
-a. Clear sky
-b. Hazy
-c. Scattered clouds
-d. Overcast heavy clouds
 e. Don't remember
 
 34.2 WIND (Circle One)
@@ -522,7 +800,7 @@ d. Don't remember
 
 34.3 WEATHER (Circle One)
 a. Dry
-b. Fog, mist, or light rain 
+b. Fog, mist, or light rain
 c. Moderate or heavy rain
 d. Snow
 e. Don't remember
@@ -535,519 +813,826 @@ d. Hot
 e. Don't remember
 
 35. When did you report to some official that you had seen the object?
-____3_0___Day ___10____Month ____1959___Year
+[Date fields are blank]
 
 36. Was anyone else with you at the time you saw the object?
 (Circle One) Yes No
-
 36.1 If you answered YES, did they see the object too?
-(Circle One) (Yes) No
-
+(Circle One) Yes No
 36.2 Please list their names and addresses:
+[Field is blank]
 
 37. Was this the first time that you had seen an object or objects like this?
-(Circle One) Yes (No)
-
-37.1 If you answered NO, then when, where, and under what circumstances did you see other ones?
+(Circle One) Yes No
+37.1 IF you answered NO, then when, where, and under what circumstances did you see other ones?
+[Partially illegible text]
 
 38. In your opinion what do you think the object was and what might have caused it?
-Unknown
+[Partially illegible text]
+
+Page 7 is noted in the top right corner of the document.
+
 
 - page 18 -
 
-There is no photograph present in this image. It appears to be a page from an old UFO report document containing a questionnaire or form to be filled out.
+Here is the text from the document:
 
 39. Do you think you can estimate the speed of the object?
-(Circle One) Yes No
-IF you answered YES, then what speed would you estimate? _________ m.p.h.
+(Circle One) Yes   No
+IF you answered YES, then what speed would you estimate? ____________ m.p.h.
 
 40. Do you think you can estimate how far away from you the object was?
-(Circle One) Yes No 
-IF you answered YES, then how far away would you say it was? __________ feet.
+(Circle One) Yes   No
+IF you answered YES, then how far away would you say it was? ____________ feet.
 
 41. Please give the following information about yourself:
-NAME: [REDACTED] [REDACTED] [REDACTED]
-ADDRESS: [REDACTED] [REDACTED], [REDACTED] [REDACTED]
-TELEPHONE NUMBER: [REDACTED]
-What is your present job? Transportation Equip.
-Age: 45 Sex: _
-Please indicate any special educational training that you have had:
-a. Grade school _
-b. High school X
-c. College _
-d. Post graduate _
-e. Technical school (Type) _
-f. Other special training _
+NAME [redacted]
+ADDRESS [partially redacted]
+TELEPHONE NUMBER [redacted]
 
-42. Date you completed this questionnaire: __ Day __ Month __ Year
+What is your present job? Transptn. Supt.
+
+Age 45   Sex [blank]
+
+Please indicate any special educational training that you have had.
+a. Grade school ____________
+b. High school   X
+c. College ____________
+d. Post graduate ____________
+
+e. Technical school ____________
+   (Type)
+f. Other special training ____________
+
+42. Date you completed this questionnaire: [blank spaces for Day, Month, Year]
+
+Page 8 is noted in the top right corner of the document.
+
 
 - page 19 -
 
-The image does not contain any photograph. It appears to be a scanned page from an old document related to Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs).
+Here is the OCR text from the document:
 
-The text in the document is as follows:
+"Such Goin's Scare Me"                Dayton Daily News
+                                        25 OCT 57
 
-"Such Goin's On Scare Me"
-100-Foot Balloon Shot To 250-Mile Altitude
-From Wire Dispatches
-WALLOPS ISLAND, Va. Oct. 28 - Space scientists shot a 100-foot balloon to an altitude of 250 miles over the Atlantic Ocean about dawn today. The big inflatable sphere, which was created by the National Aeronautical and Space Administration, was launched from South Carolina to Maine.
-The launching was a test of the inflatible satellites experimentation, as reflectors of radio and radar beams in space. 
-The national aeronautical and space administration (NASA) said the experiment achieved its aim of testing the functioning and inflation machinery.
-The two-stage balloon, filled with a solid propellant rocket, was launched to an altitude of about 250 miles. The sphere, as painted, poured out a bright vapor trail in the pre-dawn sky, which was visible from radio and police headquarters for miles.
-"The craziest thing in the world," said Dr. Robert Jastrow, the launching director at the satellite center in New Haven, Conn., who tracked the object with his telescope. "It was."
-An elderly unidentified lady bureau said "such goin's on scare me, it surely does." At takeoff, the inflatable balloon was carried by a 35-ton rocket container only 8 inches in diameter. After its inflation, it measured some 100 feet. So large it would barely fit in some buildings. It weighed only about 300 pounds.
-The first stage consisting of a rocket case with small solid-prorpellant booster, weighing about 10 pounds, was used to carry the balloon from its launching pad to an altitude of about 20 miles. The second stage was an Atlas ballistic missile without warhead, which later will serve as a third stage for the Delta satellite launcher. This powered the vehicle.
-The sphere was made of military laminated acrylic plastic and its thickness was about thousands of an inch thick.
-It was visible for about 10 minutes. NASA said it was unable to determine at once how the inflation was completed when it was separated from the rocket about 250 miles over the Atlantic. Its peak altitude was 232 statute miles.
-The inflation was completed when the sphere was already deep in the upper atmosphere, begun by residual air inside it. After inflation was completed when from two plastic bags, vapored, fully inflating the 100-foot sphere.
+100-Foot Balloon Shot
+To 250-Mile Altitude
+                From Wire Dispatches
+WALLOPS ISLAND, Va. Oct. 28—Space scientists shot
+a 100-foot balloon to an altitude of 250 miles over the
+Atlantic ocean about dusk today. The big inflatable sphere
+created wonderment among millions along the eastern seaboard from South Carolina to Maine.
+
+The launching was a test of the inflatable satellites
+which later will be used in communication experiments, as
+reflectors of radio and radar beams in space.
+
+The national aeronautics and space administration (NASA)
+said the experiment achieved (its) aim of testing the vehicle's ejection and inflation machinery.
+
+The two-stage launching rocket, producing 120,000 pounds of
+thrust, poured out a bright vapor trail in the evening sky which
+contributed to the wide visibility.
+
+Newspaper, radio and police switchboards all along the coast
+were flooded with calls.
+
+"The craziest thing in the world," said Prof. Robert Brown,
+director of the moonwatch station in New Haven, Conn. who
+tracked the object with his telescope without knowing what it
+was.
+
+An elderly unidentified lady told the Portland, Maine, weather
+bureau: "Such goin's scare me. It
+looked like the Russians to me."
+
+At takeoff, the inflatable balloon carried by a 5½-ton rocket
+was jammed into a magnesium container only 25½ inches in
+diameter. After ejection, it measured 100 feet in diameter.
+So large it would barely fit in the street between two big city
+buildings, it weighed only about 130 pounds.
+
+The first stage consisted of a Sergeant solid propellant rocket
+with two smaller Recruit rockets to increase the initial thrust.
+
+The second stage was an Alcyon ballistics laboratory X-248 solid propellant rocket which later will serve as a third stage for the Delta launching vehicle.
+
+The sphere was made of mylar plastic coated with aluminum
+half of one-thousandth of an inch thick.
+
+It was visible for about 10 minutes before it dropped. NASA said it was unable to determine at once how far the sphere traveled before it fell into the Atlantic. Its peak altitude was 253 statute miles.
+
+Inflation of the balloon was begun by residual air inside it. Inflation was completed when a four pounds of water, released from two plastic bags, vaporized, fully inflating the 523,598 cubic foot sphere.
 
 Good Morning
-Start The Day With Chuckle
-CANANDAIGUA, N.Y. Oct. 28 - UP - The Dorchester county judge ordered a bounty on any remaining stars in the county. The reason? He said the stars are mocking charges against the former treasurer. He remarked that "such goin's on scare me. It surely does."
+Start The Day
+With Chuckle
+CAMBRIDGE, Md., Oct. 28—
+(AP)—The Dorchester county
+grand jury ended a two-day
+session by recommending,
+among other things, the removal of chewing gum from
+jury room chairs.
+
 
 - page 20 -
 
-The image contains a photograph of a large space balloon that was inflated 350 miles above the Earth. The caption reads "HUGE SPACE BALLOON PAYS TECHNICIANS INFLATED 350 MILES ABOVE EARTH - Big Balloon Spectacular Thing to See".
+Here is the text from the document:
 
-TEXT IN THE DOCUMENT:
-
+Dayton Daily News
 THURSDAY, OCTOBER 29, 1959
 
-HUGE SPACE BALLOON PAYS TECHNICIANS 
-INFLATED 350 MILES ABOVE EARTH
+HUGE SPACE BALLOON DWARFS TECHNICIANS
+Inflated 350 Miles Above Earth
 
-Big Balloon 
+Big Balloon
 Spectacular
 Thing to See
 
-WASHINGTON, Oct. 29 --The United States succeeded in the space program by sending up a huge balloon to the highest altitude ever reached for a high altitude scientific observation. The balloon, 100 feet in diameter, was the biggest ever inflated in the fringe of space. But it made an unscheduled landing from a record-high altitude of over 350 miles when high-altitude winds and space administration difficulties forced the balloon to break up and the gondola and instruments to descend out of hundreds of miles of space on the Eastern seaboard.
+WASHINGTON, Oct. 29.—(JP)—
+The United States has a spec-
+tacular new entry in the space
+age—a balloon as big a 1 1/2
+city building that inflates 250
+miles above the earth.
+
+The first space balloon launch-
+ing yesterday at Wallops Island,
+Va., was a smashing success.
+Not only did the balloon perform
+as planned, but it also startled
+the dickens out of hundreds
+of witnesses all over the Eastern Seaboard.
+
+The balloon, 100 feet in di-
+ameter, was the biggest object
+ever sent up into the vast re-
+gions of space. But it only
+weighed 130 pounds.
+
+It was not meant to go into
+orbit, and soon fell back into
+the atmosphere. It was visible
+for 10 minutes. Later, the Na-
+tional Aeronautics and Space Administration put some of these giant travelers into orbit around
+the earth.
+
+The photograph shows a large inflated white balloon against a dark background, appearing to fill most of the image.
+
 
 - page 21 -
 
-The image contains a typed document or report related to a "Civil Defense Officer" and a folded item described as a "fold up nylon balloon". There is no photograph present in this image.
+Here is the text from the document:
 
-CIVIL DEFENSE OFFICER 
-Quarters taken by officer quarters C..A.P. for two men. 
-This contains a package located which was suspended from a balloon. At that altitude the balloon could not be seen from the ground, and the following notes are contained on a paper inside the package: 
-It contains a pocket with an instrument or instruments, the nature of which is unknown. Inside the package is a fold up nylon balloon, a small container and all weighs 120 pounds. 
-The package is aluminum outside with white aluminum inside. After the balloon was released it began to expand (length four feet) and at that altitude the balloon contained 80 cubic feet of gas. This balloon carried no identification and no instructions.
+CIVIL DEFENSE Official
+checked in with their head-
+quarters within minutes. News-
+paper, police and radio station
+switchboards were alerted with calls from the pub-
+lic or the newspapers.
+
+The balloon was sent up in a
+two-stage rocket with a thrust
+of 100,000 pounds. This is about
+the space agency's payload.
+
+The whole huge balloon was
+folded into a container 20 x
+inches in diameter. The entire
+payload, container and all
+weighed 150 pounds.
+
+The sphere was made of plas-
+tic and coated with silvery
+aluminum outside.
+
+After the balloon was released
+20 miles up, air trapped inside
+it began to expand. The point
+where it was released was a
+bag was released inside the
+water expanding into vapor and
+completed the blowing up of the
+balloon. A full size 11 contained
+50,338 cubic feet.
+
+The balloon carried no elec-
+tronic instruments.
+
 
 - page 22 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-9. IF YOU SAW THE OBJECT AT NIGHT, TWILIGHT, or DAWN, what did you notice concerning the STARS and MOON?
+Page 2
+
+9. IF you saw the object at NIGHT, TWILIGHT, or DAWN, what did you notice concerning the STARS and MOON?
+
 9.1 STARS (Circle One):
-    a. None
-    b. A few
-    c. Many
-    d. Don't remember
+a. None
+b. A few
+c. Many
+d. Don't remember
+
 9.2 MOON (Circle One):
-    a. Bright moonlight
-    b. Dull moonlight
-    c. No moonlight - pitch dark
-    d. Don't remember
+a. Bright moonlight
+b. Dull moonlight
+c. No moonlight -- pitch dark
+d. Don't remember
 
 9. Was the object brighter than the background of the sky?
-    a. Yes
-    b. No
-    c. Don't remember
+(Circle One): a. Yes   b. No   c. Don't remember
 
-10. IF it was BRIGHTER THAN the sky background, was the brightness like that of an automobile headlight?:
-    (Circle One) a. A mile or more away (a distant car)?
-    b. Several blocks away?
-    c. A block away?
-    d. Several yards away?
-    e. Other __D._SEVERAL_YARDS_AWAY_
+10. IF it was BRIGHTER THAN the sky background, was the brightness like that of an automobile headlight?
+(Circle One) a. A mile or more away (a distant car)?
+b. Several blocks away?
+c. A block away?
+d. Several yards away?
+e. Other Discovered smears
 
 11. Did the object:
-    a. Appear to stand still at any time?      Yes  No  Don't Know
-    b. Suddenly speed up and rush away at any time?       Yes  No  Don't Know
-    c. Break up into parts or exploded?      Yes  No  Don't Know
-    d. Change brightness?       Yes  No  Don't Know
-    e. Change shape?         Yes  No  Don't Know
-    f. Flicker, throb, or pulsate?       Yes  No  Don't Know
+a. Appear to stand still at any time?
+b. Suddenly speed up and run away at any time?
+c. Break up into parts or explode?
+d. Give off smoke?
+e. Change brightness?
+f. Change shape?
+g. Flicker, throb, or pulsate?
 
-12. Did the object move behind something at anytime, particularly a cloud? 
-    (Circle One): Yes  No  Don't Know. IF you answered YES, then tell what it moved behind: ___
+(Circle One for each question)
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+Yes   No   Don't Know
+
+12. Did the object move behind something at anytime, particularly a cloud?
+(Circle One): Yes   No   Don't Know. IF you answered YES, then tell what it moved behind:
 
 13. Did the object move in front of something at anytime, particularly a cloud?
-    (Circle One): Yes  No  Don't Know. IF you answered YES, then tell what: ___
+(Circle One): Yes   No   Don't Know. IF you answered YES, then tell what it moved in front of:
 
-14. Did the object appear: (Circle One): a. Solid?  b. Transparent?  c. Don't Know.
+14. Did the object appear: (Circle One): a. Solid?   b. Transparent?   c. Don't Know.
 
 15. Did you observe the object through any of the following?
-    a. Eyeglasses         No
-    b. Sun glasses         Yes  No
-    c. Windshield         Yes  No
-    d. Window glass         Yes  No
-    e. Telescope          Yes  No
-    f. Binoculars          Yes  No
-    g. Theodolite          Yes  No
-    h. OTHER __NAKED_EYE___
+a. Eyeglasses   Yes   No
+b. Sun glasses   Yes   No
+c. Windshield   Yes   No
+d. Window glass   Yes   No
+Took glasses off for other views.
+
+e. Binoculars   Yes   No
+f. Telescope    Yes   No
+g. Theodolite   Yes   No
+h. Other _______________
+
 
 - page 23 -
 
-The provided image does not contain any photographs. It appears to be a page from an old Project Blue Book report document, containing handwritten text.
+Here is the OCR text from the document:
 
-OCR output:
+154
 
-THE VEHICLE OR OBJECT SAID TO HAVE BEEN VIEWED AND
-THE PHYSICAL DETAILS:
-THE BALLOON? WAS LAUNCHED BY THE NATURAL SCIENCE
-SECTION OF THE DAYTON POWER & LIGHT CO. AND AFTER
-IT WILL LEAD TO PLACING ONE OF THE BALLOONS. 
-I WILL BE SHOT. TRE BALLOON WAS TO DO STUDIES ON
-THE UPPER AIR AND WEATHER CONDITIONS AND NO FURTHER
-DESCRIPTION WAS GIVEN. THIS BALLOON WAS ORANGE 
-AND ABOUT 15 TO 20 FEET IN DIAMETER AND HAD TtB TYPE
-OF DOUBLE EXHAUST USUALLY ASSOCIATED WITH TWO-STAGE
-ROCKET-POWERED VEHICLES. IT PRODUCED A BRIGHT VAPOR 
-TRAIL IN THE EVENING SKY. WITNESS SAID THEY RECEIVED
-A 78' CALL FROM WITNESS 6.15 -
+WALLOPS ISLAND, VA., OCT. 22.--CPIB--AMERICAN ROCKET SOCIETY SYMPOSIUM DELEGATES WITNESSED A SUCCESSFUL TWO-STAGE LAUNCHING OF A RESEARCH ROCKET HERE TODAY.
 
-AND IN ADDITION, IT APPEARED TO ME ALMOST INVISIBLE 
-AT FIRST, AND WAS NOTICED ONLY BECAUSE OF THE BRIGHT 
-VAPOR TRAIL IT LEFT. IT CLIMBED VERY RAPIDLY AND ONCE 
-IT REACHED ITS PEAK ALTITUDE LEVEL, IT APPEARED TO HOVER
-ALMOST MOTIONLESS FOR A SHORT PERIOD OF TIME. WITNESS
-SAID THEY RECEIVED ONLY 7 CALLS. IT'S A QUITE LIMITED 
-PARTICIPATION AND EXAMINATION.
+THE FIRST STAGE CONSISTED OF A CAJUN ROCKET WHICH LIFTED A SECOND STAGE CARRYING LIGHTS FLYING KINEVAL OVER A WIDE AREA FROM RICHMOND, VA., AS FAR NORTH AS NEW YORK AND CONNECTICUT.
 
-TAKE IT - IT'S A FAMILIAR BALLOON. ALLOW IT TO CONTINUE 
-ON ITS WAY. I DIDN'T DROP ANYTHING AND I CERTAINTY DIDN'T 
-LAUNCH ANYTHING. THEY DIDN'T SEE WHAT THEY THOUGHT THEY SAW.
+THE BALLOON WAS LAUNCHED BY THE NATIONAL ADVISORY COMMITTEE AND SPACE ADMINISTRATION (NASA) IN ITS CONTINUING EFFORT TO DEVELOP TECHNIQUES THAT WILL LEAD TO PLACING ONE OF THE BALLOONS IN ORBIT AROUND THE EARTH.
 
-IT'S POSSIBLE THAT THIS OBJECT THAT THEY OBSERVED WAS 
-SIMPLY A BALLOON THAT WAS LAUNCHED BY THE NATURAL SCIENCE 
-SECTION OF THE DAYTON POWER & LIGHT CO AND WAS INTENDED
-TO DO STUDIES ON THE UPPER AIR AND WEATHER CONDITIONS.
-ALTHOUGH IT MAY HAVE APPEARED SOMEWHAT UNCONVENTIONAL 
-BECAUSE OF ITS ORANGE COLOR AND DOUBLE EXHAUST CONFIGURATION,
-IT DOES FIT THE DESCRIPTION OF A FAIRLY COMMON WEATHER 
-BALLOON THAT WOULD BE USED FOR THAT TYPE OF UPPER AIR STUDY.
+THE SPACE AGENCY SAID THE EXPERIMENT ACHIEVED ITS ALTITUDE-SEEKING OBJECTIVE. THE VEHICLE'S FUNCTION AND INFLATION MECHANISM WAS SUCCESSFULLY TESTED AND PAROLED BACK TO EARTH. THE BALLOON WAS NOT MEANT TO GO INTO ORBIT.
+
+THE TWO-STAGE LAUNCHING ROCKET PRODUCED 135,000 POUNDS OF THRUST, PRODUCED A BRIGHT VAPOR TRAIL IN THE WESTERN SKY WHICH CONTRIBUTED TO VIEWERS VISIBILITY.
+
+VIEWERS IN NEW YORK CITY AND OTHER PORTIONS OF THE EASTERN SEABOARD OBSERVED THE OBJECT SHORTLY BEFORE 6 P.M., EST., ALONG THE VIRGINIA COAST. IT WAS LAUNCHED AT 5:45 P.M., EST., ALONG THE VIRGINIA COAST. NEW YORK POLICE SAID THEY RECEIVED 75 CALLS BY 5:15 P.M.
+
+37A
+
+ADD 1ST NIGHT LEAD BALLOON ALLOWS TEAM TO SEE 6.5 P.M. SOME WITNESSES CALLED THE BALLOON LOOKED LIKE A GIANT HELICOPTER. OTHERS SAID IT WAS SHOOTING JUST WHAT THEY SAW. SOME IN THE NEW YORK AREA SAW IT AS A GIANT HELICOPTER THAT WAS SHOOTING UP FLAMES. OTHERS SAID IT AS A VERY BRIGHT OBJECT.
+
+AT ALEXANDRIA, VA., SAID THE BALLOON OR VAPOR TRAIL LOOKED LIKE A BLIP. THE LITTLE STILL LIES LIGHT.
+
+THE GOVERNMENT HOPES TO PUT ONE OF THE BALLOONS INTO ORBIT TO CARRY OUT EXPERIMENTS WITH LONG-RANGE SCIENTIFIC PURPOSES.
+
+USING GROUND-BASED EQUIPMENT IN THIS TRIAL AT TAKE-OFF, THE INFLATABLE BALLOON CAN BE 20-1/2 FEET IN DIAMETER. GROUND TRACKING A MAXIMUM CONTROL ONLY 20-1/2 MILES IS POSSIBLE.
+
+THE BALLOON IS MADE OF PLASTIC WITH AN AL CORE ONLY 1/2 INCH THICK.
+
+INFLATION OF THE BALLOON WAS COMPLETED WHEN IT DESCENDED AND LANDED IN THE ATLANTIC.
+
 
 - page 24 -
 
-The image does not contain a photograph. It appears to be a page from a document, possibly a report, regarding the Project Blue Book investigation of a UFO incident.
+Here is the OCR text from the document:
 
-ALL ISLAND ISLAND 26 OCT 1959 (UNID) ALIEN SIGHTS OVER OHIO. OCTOBER 23, 1959, DAYTON, OHIO - AIRCRAFT INDUSTRIES RELEASE: A SILVERY SPHERICAL OBJECT ABOUT 50 FEET IN DIAMETER WAS OBSERVED FOR SEVERAL MINUTES OVER DAYTON, OHIO ON OCTOBER 23, 1959. THE OBJECT WAS FIRST SEEN BY SEVERAL PERSONS EMPLOYED AT THE NATIONAL CASH REGISTER COMPANY PLANT.
-THE SPACE AGENCY SAID THE EXPERIMENT ACHIEVED ITS AIM OF TRACKING THE UNIDENTIFIED FLYING OBJECT. DATA ON ITS PERFORMANCE WAS RADIOED BACK TO EARTH. THE BALLOON WAS EJECTED AFTER PHOTOGRAPHING THE OBJECT. THRUST PRODUCED 150,000 POUNDS OF FORCE WHICH CONTRIBUTED TO ITS HIGH VELOCITY.
-WITNESSES DIFFERED WIDELY IN DESCRIBING THE OBJECT. SOME SAID IT LOOKED METALLIC, WHILE OTHERS DESCRIBED IT AS HAVING NO EXTERNAL FEATURES. THE GOVERNMENT HOPES TO PUT ON A SIMILAR EXPERIMENT VERY SOON.
-THE OBJECT WAS A MATTER OF CONSIDERABLE PUBLIC INTEREST. NATIONAL CASH REGISTER REPORTS A RUN ON BINOCULARS AND CAMERAS FROM DAYTON AREA RESIDENTS WANTING TO VIEW THE STRANGE VISITOR FROM THE SKIES.
-TAKE-OFF OF THIS BALLOON IS THE LARGEST EVER CONDUCTED BY THE US SPACE AGENCY. IT WAS OBSERVED BY MANY PERSONS WITHIN A 50 MILE RADIUS OF DAYTON. THE OBJECT LANDED ABOUT 70 MILES FROM THE BIG CITY BUILDING.
+277A
+
+WALLOPS ISLAND, VA., OCT. 25.--(UP)--AMERICAN SCIENTISTS LAUNCHED A BALLOON TODAY ROCKETED A 100-FOOT ALUMINUM BALLOON TO AN ALTITUDE OF 250 MILES OVER THE ATLANTIC OCEAN.
+
+THE LAUNCHING TOUCHED OFF "FLYING SAUCER" REPORTS FROM BOSTON TO FLORIDA.
+
+THE BALLOON WAS LAUNCHED BY THE NATIONAL AERONAUTICS AND COAST ADMINISTRATION (NASA) IN A SERIES OF EXPERIMENTS THE GOVERNMENT HOPES WILL LEAD TO BETTER UNDERSTANDING OF EARTH.
+
+THE SPACE AGENCY SAID THE EXPERIMENT ACHIEVED ITS AIM OF TESTING THE VEHICLE'S BALLOON AND INFLATION MACHINERY. DATA ON ITS PERFORMANCE WAS RADIOED BACK TO EARTH. THE BALLOON WAS "NOT MEANT TO GO INTO ORBIT."
+
+THE TWICE-LAUNCHING ROCKET, PRODUCING 150,000 POUNDS OF THRUST, PRODUCED A BRIGHT VAPOR TRAIL IN THE EVENING SKY WHICH DISTRIBUTED TO THE WIDE VISIBILITY.
+
+WITNESSES IN THE NEW YORK CITY AREA BEGAN REPORTING THE FLASHING OBJECT ABOUT 20 MINUTES AFTER IT WAS LAUNCHED AT 5:40 P.M., EST., FROM THE VIRGINIA COAST. NEW YORK POLICE SAID THEY RECEIVED 75 CALLS BY SELF POLICE.
+
+WITNESSES DIFFERED WIDELY IN DESCRIBING JUST WHAT THEY SAW. SOME IN THE NEW YORK AREA SAID IT LOOKED LIKE A GIANT HELICOPTER THAT WAS FLOATING OFF PLACE. OTHERS SAID IT APPEARED TO RESEMBLE TWO PLANES IN FLASHLIGHT LIGHTS. THE BALLOON OF VAPOR METAL ALSO DESCRIBED AS LOOKING LIKE "A BLINK WITH LITTLE SILVER LIGHTS."
+
+THE GOVERNMENT HOPES TO PUT ONE OR SIX BALLOONS INTO ORBIT NEXT YEAR TO CARRY OUT EXPERIMENTS IN THE LOWER UPPER ATMOSPHERE. THE BIG SPHERES ALSO COULD BE USED FOR RADAR EXPERIMENTS.
+
+AT TAKEOFF, THE INFLATABLE BALLOON, AS JAMMED INTO A PACKAGE CONTAINER ONLY 26-1/2 INCHES IN DIAMETER, ATOP THE 3-1/2 TON ROCKET. AFTER EJECTION, IT ASSUMED 135 FEET IN DIAMETER. SO LARGE IT WOULD EASILY FIT IN THE CITY BUILDING, IT WEIGHED ONLY ABOUT 15 POUNDS.
+
+IT WAS MADE OF PLASTIC WITH AN ALUM COAT ONLY 1/2-MIL THICK.
+
 
 - page 25 -
 
-The image contains a photograph of a "day lead balloon" which appears to be the subject of a report. The text in the document discusses the characteristics and behavior of this balloon, including that it was tracked by radar and telescopes, and that it crumpled into a 30-inch container after reaching high altitudes. The text also mentions that such balloons could be used for scientific research purposes, but discusses concerns about their size and low weight.
+Here is the OCR text from the document:
 
-WASHINGTON, OCT. 30--(UP)--PUZZLED SCIENTISTS SOUGHT AN EXPLANATION TODAY FOR A STRANGE BALLOON LAUNCHED HERE SATURDAY NIGHT.
+UNITED PRESS INTERNATIONAL
+WASHINGTON, OCT. 30--(UPI)--PUZZLED SCIENTISTS SOUGHT AN EXPLANATION TODAY FOR THE MYSTERIOUS DANCING LIGHTS SPOTTED HIGH IN THE SKY WHEN A GIANT BALLOON LAUNCHED WEDNESDAY EVENING AT WALLOPS ISLAND, VA.
 
-THE BALLOON, ABOUT 30 FEET IN DIAMETER, WAS DESCRIBED AS BEING SPOTTED ABOUT 9,000 FEET ABOVE THE DISTRICT SHORTLY AFTER MIDNIGHT SUNDAY. IT THEN ROSE AT A STEADY RATE TO AN ALTITUDE OF ABOUT 60,000 FEET.
+THEY HAD EXPECTED THE ALUMINUM-COATED BALLOON, SIX AS A LONG THIN CYLINDER, TO GLOW BRIGHTLY AS A CAUSE TO SETTING SUN, BUT THEY WERE COMPLETELY UNPREPARED, SAID A SPOKESMAN FOR THE NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA), FOR WHAT THEY ACTUALLY SAW.
 
-ACCORDING TO REPORTS, THE BALLOON WAS TRACKED BY RADAR AND TELESCOPES AND WAS OBSERVED TO CRUMPLE INTO A 30-INCH CONTAINER.
+THIS HAS BEEN VARIOUSLY DESCRIBED BY COMPETENT OBSERVERS AS DANCING LIGHTS, SCINTILLATIONS, SHOOTING SPARKS, AND FLASHING BEAMS REMINISCENT OF TWINKLING CHRISTMAS TREE LIGHTS.
 
-THE TEST, PRONOUNCED A COMPLETE SUCCESS, PAVES THE WAY FOR AN ATTEMPT TO LAUNCH A SIMILAR BALLOON AT CAPE CANAVERAL, FLA., ON MONDAY. 
+IT WAS AN ENTIRELY UNEXPECTED PHENOMENON, THE NASA SPOKESMAN SAID, "AND THE SCIENTISTS ARE HUNTING FOR AN EXPLANATION."
 
-SUCH SATELLITE SCIENTISTS SAY SHOULD MAKE AN IDEAL REFLECTOR FOR USE IN LONG-DERANGE COMMUNICATIONS BECAUSE OF ITS LARGE SIZE AND LOW WEIGHT. ABOUT 15 POUNDS, THE BALLOON ALSO COULD BE USEFUL IN STUDYING THE CONDITION OF THE UPPER ATMOSPHERE.
+THE BIG BALLOON, CRUMPLED INTO A 30-INCH CONTAINER, WAS ROCKETED INTO SPACE 250 MILES ABOVE THE ATLANTIC OFF NASA'S WALLOPS ISLAND STATION. TEST MECHANISMS FOR EJECTING IT FROM THE CONTAINER AND INFLATING IT TO ITS FULL 100-FOOT SIZE.
 
-HOWEVER, THERE IS SOME QUESTION OF WHETHER SUCH BALLOONS, SHOT UP TO 60,000 FEET, COULD WITHSTAND THE TEMPERATURE CHANGE. THIS WOULD BE DETERMINED IN THE TEST.
+THE TEST, PRONOUNCED A COMPLETE SUCCESS, PAVES THE WAY FOR AN ATTEMPT TO LAUNCH AN ARTIFICIAL BALLOON AT CAPE CANAVERAL, FLA., INTO A SATELLITE ORBIT AROUND THE EARTH.
+
+SUCH A SATELLITE, SCIENTISTS SAY, SHOULD MAKE AN IDEAL REFLECTOR FOR USE IN LONG-DISTANCE RADIO COMMUNICATIONS, BECAUSE OF ITS HUGE SIZE AND LOW WEIGHT, ABOUT 150 POUNDS. THE BALLOON ALSO WOULD BE USEFUL IN MEASURING THE AIR DENSITY AT SATELLITE ALTITUDES.
+
+THIS WOULD BE DETERMINED BY ATMOSPHERIC DRAG ON THE BALLOON.
+
+IN WEDNESDAY'S ROCKET SHOT, THE BALLOON CAME DOWN ABOUT 500 MILES AT SEA, FIFTEEN DIFFERENT STATIONS FROM NEW HAMPSHIRE TO CAPE CANAVERAL TRACKED THE SPHERE WITH RADARS, TELESCOPES OR CAMERAS FOR THE HALF-HOUR IT WAS ALOFT.
+
+MORE M114JA
+
+XNSA
+ADD DAY LEAD BALLOON WASHINGTON X X X WAS ALOFT.
+THEIR DATA AND FILMS HAVE BEEN SENT TO NASA'S LANGLEY RESEARCH CENTER, HAMPTON VA., FOR SCIENTIFIC STUDY. THIS WILL DISCLOSE HOW LONG IT TOOK THE BALLOON, AFTER EJECTION FROM ITS CANISTER, TO INFLATE TO FULL SIZE.
+
+SCIENTISTS HOPE ALSO TO FIND AN EXPLANATION FOR THE STRANGE LIGHT EFFECTS WHICH CAUSED HUNDREDS OF PERSONS UP AND DOWN THE COAST TO WONDER IF THEY WERE SEEING A GENUINE FLYING SAUCER.
+
+ONE QUALIFIED OBSERVER SAID THE BALLOON PLOUGHED LIKE A FANTASTIC LIGHT WITH A GLOWING CENTRAL GLOBE RINGED BY MANY SPARKS. A LOT OF OFF-THE-CUFF EXPLANATIONS HAVE BEEN OFFERED. ONE SUGGESTION WAS THAT THE PARTLY CRUMPLED BALLOON, BEFORE COMPLETE INFLATION, REFLECTED THE SUNLIGHT WITH VARYING INTENSITY AS IT TURNED, PRODUCING A SPARKING EFFECT.
+
+ANOTHER WAS THAT SOME OF THE WATER VAPOR, USED TO SWELL THE BALLOON, LEAKED OUT AND KNOW PARTICLES WHICH FLASHED ELECTRICALLY. THE POSSIBILITY ALSO WAS RAISED THAT ATMOSPHERIC ELECTRICAL EFFECTS WERE INVOLVED.
+
+M145A
+
 
 - page 26 -
 
-The image does not contain any photographs or images. It is a page from a document that appears to be discussing a total solar eclipse occurring on October 2, 1959. The page contains detailed text describing the eclipse, including when and where it will be visible, as well as a star chart showing the positions of various celestial bodies around the time of the eclipse.
+Here is the OCR text from the document:
+
+202
+
+SCIENCE NEWS LETTER for September 26, 1959
 
 ASTRONOMY
 
-TOTAL SOLAR ECLIPSE COMING
+Total Solar Eclipse Coming
+A total solar eclipse, taking place on Oct. 2, is a highlight of the astronomical year. It will be visible in part of the United States.
 
-A total solar eclipse, taking place on Oct. 2, is a high-
-light of the astronomical year. It will be visible in part of the
-United States and Canada.
+By JAMES STOKLEY
 
-BY JAMES STOKLEY
+THE MAIN feature on the astronomical program for October is the first total eclipse of the sun visible in any part of the United States or Canada since 1954 and the last until 1970. On Friday morning, Oct. 2, people who live east of a line extending from Lake Michigan to Tallahassee, Fla., will see the sun rise as a partial eclipse. The moon, that is, they will see it if the sky is clear along the eastern horizon.
 
-THE MAIN FEATURE on the astronomical
-program for October is the first total solar eclipse
-visible in the United States and Canada since 1954
-and the last until 1963. This eclipse will be total
-only for a narrow strip of land extending from the
-eastern shores of southern Alaska approximately from
-eastern Canada to Florida. The belt of maximum
-eclipse, where the moon completely blocks out the sun, will be
-only about 60 miles wide.
+And, for a few favored locations in Massachusetts (including Boston) and southern New Hampshire, the rising sun will be totally eclipsed. It will be completely hidden by the moon and its outer most layer, the corona, will be visible around it. With the intense glare of the solar disc cut off, the faint corona comes into view.
 
-But the eclipse will be visible as a partial one over a much
-larger area, as the moon passes between the earth and sun. This
-will be the case in the rest of Alaska, northern Canada, most of the
-states, and southern parts of Canada. The eclipse will be seen in
-eastern parts of the United States and in Maritime Provinces and
-Newfoundland shortly after sunrise, as the eclipse begins. And in
-the far western states, it will be visible as the eclipse is ending.
+Of course, clouds or early-morning mists may well interfere with the view of the total eclipse around Boston. However, from Massachusetts, the path along which it is visible extends over the Atlantic Ocean, toward the Canary Islands and the coast of Africa. There a much better view is likely. Many astronomical expeditions have traveled to these locations, to make the observations that can best be carried out when the sun is thus hidden.
 
-MANY PECULIAR effects are observed during a total eclipse. As
-the moon's dark shadow sweeps across the earth, birds and other
-animals may become confused, and even start going through their
-nighttime routines. The sudden dark may cause some to think that
-night is approaching and to take proper nighttime actions.
+Jupiter and Saturn Seen
 
-The air temperature drops several degrees, and there is a general
-feeling of gloom and apprehension. For just as the eclipse reaches
-its maximum, the sky becomes as dark as on a moonless night, ex-
-cept for the glow of the sun's outer atmosphere, or corona, which
-becomes visible. Around the edge, the "sunset" colors of the chromo-
-sphere, the next layer below the corona, may also be glimpsed.
+As for the evening skies of October, two bright planets are visible, but you will have to look rather early to see one of them. Jupiter, the brighter, is in the constellation of Scorpius, the scorpion, and sets at the beginning of October, only two hours after sunset. Thus it does not appear on the accompanying map, which depicts the sky as it appears about 10 p.m. your own kind of standard time (add one hour for daylight saving time) at the first of October, an hour earlier at the middle and two hours earlier at the end.
 
-Stars and planets that are normally invisible in the daytime glare
-of the sun can be seen quite plainly. Mercury, Venus, Mars, Jupiter
-and Saturn will be visible, as well as some of the brighter stars.
+Jupiter is now about seven and a half times as bright as Saturn, the other planet, which is in Sagittarius, the archer. Part of this constellation is shown on our maps.
 
-BUT THE CORONA is the main attraction. It is a halo of silvery-
-white light surrounding the sun, at first mostly in the form of long
-streamers, but toward the end of totality tending to become more
-circular. Prominences, or flamelike projections from the sun's surface,
-may be seen during the brief moments when the moon's shadow
-covers the surface.
+Just after the sun rises, Saturn will be a planet set in early October about four hours after the sun, just a little before the times for which our maps are drawn.
 
-The whole phenomenon lasts less than 30 seconds in areas of
-maximum eclipse. During the eclipse, the total area over which the
-shadow sweeps is elongated from east to west. It is about 10,000
-miles long and from 60 to 150 miles wide.
+The brightest star of these evenings is Vega, high in the west in Lyra, the lyre. Second brightest is Capella, in Auriga, the charioteer, which is in the northeast. Then comes Altair, toward the southwest, in Aquila, a little to the left of Lyra.
 
-JUPITER AND SATURN, the two largest planet, will be visible
-both before and after the eclipse. They are on the same side of the
-sun, and Jupiter is the brighter of the two. Look for them rising in
-the east about three hours before the sun.
+And above Lyra (shown partly on the three hours before the sun). It is in the constellation of Leo, the lion, and it will be of maximum brilliance on Oct. 8. After that it will gradually fade and will go behind the sun next June, reappearing next autumn as a brilliant evening star. Mercury and Mars are now too nearly in line with the sun to be seen; the latter passes behind it on Oct. 20.
 
-Referring again to the total eclipse, it is important to caution that
-one should never look directly at the sun, except during the brief
-moments of totality, when the moon's shadow covers the sun's surface.
-Even then, one should avoid looking, as the sun's light is still much
-too bright. A total eclipse, however, offers an opportunity to observe
-the sun's corona and other rare phenomena associated with solar
-eclipses.
+Referring again to the total eclipse, it is rather curious that the last two such events which were visible in the United States also were seen just after sunrise.
 
-But when the total eclipse is over, the sun will gradually become
-brighter and brighter, and will continue to shine in all its usual bright-
-ness throughout the rest of the day.
+A total eclipse of the sun occurs when the moon's shadow sweeps across the earth. Because the sun is so much bigger than the moon the lunar shadow tapers to a point at about our distance. Sometimes it fails to reach earth at all. If at such a time the moon passes in front of the sun that body is not completely hidden; there is a ring of the solar disc visible around the moon, and we have what is called an annular eclipse.
+
+But with a total eclipse, the tip of the shadow does reach the earth. It may be a hundred miles or so in diameter, and it sweeps across land and sea, from west to east, tracing out the long ribbon-shaped path of totality, from which the total eclipse is visible. Over a much larger area there is a partial eclipse, with the moon coming only partly in front of the sun.
+
+On July 9, 1945, the shadow touched earth at sunrise in Idaho, so the path of totality started there and went northeast.
+
+[The rest of the page contains two star charts showing the night sky for October 1959]
+
 
 - page 27 -
 
-The image does not contain a photograph, but rather a table displaying the Celestial Time Table for October. The table lists various astronomical events and times, such as the new moon, partial eclipse, and positions of planets like Jupiter, Saturn, and Venus.
+Here is the OCR text from the document:
+
+ward across Canada. 11 Halton Park.
+Then came one on June 30, 1954. The path
+began at sunrise, in Nebraska and again
+it went to the northeast.
+
+This time the shadow touches earth as
+the sun is rising. Then the path extends to
+Gardner, Mass. Then the path goes from
+the east, and on the coast near Boston.
+Newbury, at the north, where the total
+south. The center line, about 55 seconds,
+eclipse lasts longest, about 15 seconds is
+through Marblehead. Downtown Boston, but
+miles northeast of downtown will be only
+even from Marblehead the sun will be above
+the horizon as totality stars. Even at this
+above is clear, I low-lying mist may well
+prevent observations.
+
+Despite this, however, many astronomers
+from the Boston area, as well as from other
+parts of the United States, will set up instruments along the Massachusetts coast with
+this region, hoping that luck will be with
+them, and they will see this rare event.
+But if they do not, they will only have
+to wait until 1970 for the next total eclipse
+of the sun visible in the United States. On
+March 7, the path of totality will pass across
+northern Florida and the coastline of Georgia and the Carolinas. This will be in mid-afternoon, so the weather chances should
+be fairly good.
 
 Celestial Time Table for October
-Oct. 5 - 7:11 a.m. New moon (start) eclipse of sun
-Mass., partial eclipse U.S. and Canada.
-9:35 p.m. Moon nearest Earth, distance 225,000 miles.
-14 10:45 p.m. Moon farthest from Earth, distance 252,000 miles.
-15 7:32 p.m. Moon at maximum brightness.
-22 3:00 p.m. Moon passes Jupiter.
-24 5:05 p.m. Moon passes Saturn.
-27 4:35 p.m. Full moon.
-Mov. and Dec. ranges. Sunrise, Sept. 25, 1959.
+
+Oct.    EST
+2 - 7:11 a.m. New moon (total eclipse of sun
+visible partial eclipse visible at
+Midway Island, eastern U. S. and
+Canada).
+4 - 8:10 p.m. Variable star in Perseus
+at minimum brightness.
+5 - 4:00 a.m. Moon nearest, distance 221,630
+miles.
+7 - 6:16 p.m. Moon passes Jupiter.
+8 - 1:50 p.m. Moon at greatest brilliancy in
+east, near Venus.
+16 - 10:52 a.m. Full moon.
+21 - 1:24 a.m. Moon at minimum.
+22 - 3:50 a.m. Moon in last quarter.
+24 - 8:12 p.m. Moon at minimum.
+25 - 3:13 p.m. Moon in last quarter.
+28 - 5:42 p.m. New moon.
+
+MST, and there is 1951.
+Science News Letter, September 26, 1959
+
 
 - page 28 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document that describes multiple UFO sightings in the New Guinea area. The text in the document is as follows:
+No Case (Information Only)                                   23 October 1959
+                                                                       foot of Mt. Gwora Range
+                                                                       New Guinea
 
-MORE SIGHTINGS IN NEW GUINEA AREA
-Several sightings of unidentified flying objects have been reported in the Mt. Hagen area, including sightings by Peter S. Norris and others.
-Observations of Unidentified Flying Objects
-On September 16, 1959 between 5:15 and 5:30 p.m. Mirish ARAGAP, Reggie Mirarin, Anthony ARAGAP, and Timothy ARAGAPA Witness observation from near Mt. Giluwe, dist. Weetebula, Engl. N.E.I. (Papua) M.B.D. of Mt. Giluwe Range, country is about 5 miles in length over which the object moved. The object was first sighted when it appeared over the mountain at an elevation of about 40 degrees, suddenly diving down rapidly and closely approaching the mountain, but when it reached the vicinity of Mt. Giluwe it suddenly stopped and remained stationary for a long time (about 1 hour), the observers had no time to time it accurately. The object appeared to the naked eye to be brilliantly illuminated and seemed almost to touch the top of the mountain. It then hovered stationary for a long time (an hour), the observers had no time to time it accurately. The object appeared to the naked eye to be brilliantly illuminated and seemed almost to touch the top of the mountain. It then hovered stationary for a long time (about 1 hour) the observer had no time to time it accurately. When it finally moved away, it accelerated rapidly and disappeared in the direction of the coastline, travelling over the mountain. 
-The appearance of the light was round a disc or a sphere. It was dazzlingly brilliant, the colour changing continuously, the hues being green, red and yellow at various times of the period of observation. The colours changed about every three minutes. (This seems quite uncommon, but the reference that it was about equal to the size of the moon, but was brilliant, leads one to suspect it was actually much smaller and closer. As it was an observation through the low atmosphere, local atmospheric and optical effects would tend to enhance the apparent size and brilliance.)
-Other witnesses: Anastasia MIRAH's son, Wm John Mirah, Station Assistant, and others unnamed.
+MORE SIGHTINGS IN
+NEW GUINEA AREA
+Two new "x" band sightings have been
+forwarded by our Australian Representative, Peter E. Norris, and indicate
+continuing activity in the New Guinea
+area.
+
+Observations of Unidentified Flying
+Objects:
+Friday, 23rd October 1959 Between 10
+and 11 p.m. by Micah AIGABA, Registered Mission Teacher, Anglican Mission,
+Fumani M.B.D. Papua. In the Daga
+country at foot of Mt. Gwora Range.
+A very big light came over from the
+direction of Boiani (about 40 miles to
+the S.E.) It came straight toward Mount
+Gwora (a precipitous mountain about
+4500 ft. high, which stands about 5 miles
+E. of Fumani, dominating the scene).
+At first it was quite low, but when it
+reached the vicinity of Mt. Gwora it
+ascended until it appeared to be vertically over the summit of the mountain.
+It then hovered stationary for a long
+time (an hour). The observer had no
+watch. Finally it descended until it
+seemed almost to touch the top of the
+mountain, but moved away in a northward direction, keeping about the same
+night, passing over Moiani and Medilo
+and then veering eastwards and circling
+round the coastline of the Cape Vogel
+Peninsula (apparently), though it was
+probably much nearer) and finally disappearing in the direction of Boiani
+again.
+
+The appearance of the light was round
+a disc or a globe. It was dazzlingly
+bright, especially when moving and
+changed colour continuously, the basic
+colours being green, red and yellow.
+Parts of the object showed different
+colours simultaneously. "It twinkled."
+The colours changed about every three
+minutes. (This seems contradictory, but
+there it is). It was about equal to half
+the size of the moon, but was far brighter. The "twinkle" when moving was "faster
+than an aeroplane" i.e. a light aircraft.
+It seemed to move larger and brighter
+when moving. "Like a fire in the sky."
+There was no roll or rays for the it
+could be illuminated the ground (it was
+probably too high).
+
+Other witnesses: Anastasia Micah's
+sister, John (mission helper) and Bawara, village chief and others unspecified.
+
 
 - page 29 -
 
-The image does not contain any photographs. The text appears to be a report from Project Blue Book, an official U.S. Air Force investigation of unidentified flying objects (UFOs). The text describes an incident on October 23, 1959 in Los Angeles, California where a bright object was seen streaking across the sky, causing police and sheriff departments to receive calls from residents. The object was reported to have a greenish-white light before disappearing over the horizons, and a federal aviation agency spokesman was quoted commenting on the event.
-
 No Case (Information Only)
+
 23 October 1959
 Los Angeles, California
 
-A METEOR STREAKED ACROSS SOUTHERN CALIFORNIA LAST NIGHT, CAUSING HUNDREDS OF CALLS TO POLICE AND SHERIFF DEPARTMENTS FROM SAN DIEGO TO SANTA BARBARA.  ABOUT 250 MILES APART--REPORTED RECEIVING CALLS FROM RESIDENTS WHO SPOTTED THE BRIGHT OBJECT FLASHING ACROSS THE HORIZONS. IT WAS DESCRIBED AS A GREENISH-WHITE LIGHT BEFORE DISAPPEARING.  A FEDERAL AVIATION AGENCY SPOKESMAN SAID THE OBJECT WAS A LARGE METEOR BURNING UP IN THE EARTH'S ATMOSPHERE.
+LX26A
+
+LOS ANGELES, OCT. 23--(UPI)--A BRIGHT OBJECT BELIEVED TO HAVE BEEN A METEOR STREAK ACROSS SOUTHERN CALIFORNIA LAST NIGHT, CAUSING HUNDREDS OF RESIDENTS TO REPORT SEEING A BURNING AIRPLANE PLUNGING TO EARTH.
+
+POLICE AND SHERIFF DEPARTMENTS FROM SAN DIEGO TO SANTA BARBARA--ABOUT 250 MILES APART--REPORTED RECEIVING CALLS FROM RESIDENTS WHO SPOTTED THE BRIGHT OBJECT.
+
+IT WAS DESCRIBED AS CASTING A GREENISH-WHITE LIGHT BEFORE DISAPPEARING OVER THE HORIZON. A FEDERAL AVIATION AGENCY SPOKESMAN SAID HE BELIEVED THE OBJECT WAS A LARGE METEOR BURNING UP IN THE EARTH'S ATMOSPHERE.
+
+LL456A
+
 
 - page 30 -
 
-There is no photograph present in this image. It appears to be a page from an old UFO report document from Project Blue Book.
+No Case (Information Only)   28 October 59
+near Hong Kong
+China
 
-NO CASE (INFORMATION ONLY) 28 OCTOBER 59
-NEAR HONG KONG
-CHINA
+Dear Sirs:
 
-Your letter - 
-My husband and I would appreciate very much further information in Headquarters flying saucer. The news reporting of it sounds very disturbing to us.
+My husband and myself are very much interested
+in "Unidentified Flying Objects."
 
-Reguests to OUSAF information on niggers or questions as to their identification are very disconcerting. For this reason I have held from reporting an unusual sighting on October 28, 1957. The incident occurred near Hong Kong, China. My husband and I regretfully felt it best to disregard the sighting and not dispatch any further information. Please advise us as to a proper procedure for reporting unusual sightings if you consider this report of possible interest.
+We were wondering if it would be in
+your limits to disclose information we are seeking.
+
+If so, we are very anxious for sighting or
+observations on October 28, 1959. For it was
+on that morning, near Hong Kong, China my husband
+sighted an "fly" of craft. Supposed to be G.
+ 
+If you can't further disclose the requested information. Please refer me to a part
+or parts that can.
 
 Thank you.
 
-As the time of my husband's sighting was among the U.S. Navy and a limited number of civilian witnesses, I would appreciate his name not being further disclosed. Please reply to a post office box number if you have any questions or require additional information. The incident information is factual.
+At the time of my husband's sighting he was
+member of the U.S. Navy and it should be on file
+with U.S.S. Shangri La. Carrier - CVA-38.
+
+Sincerely yours,
+
+[Signature and location details are blacked out]
+
 
 - page 31 -
 
-This image appears to be a page from a Project Blue Book document with details about various UFO sightings in November 1959. The document does not contain any photographs, only a table with details such as the date, location, observer, and evaluation of each sighting.
-
 NOVEMBER 1959 SIGHTINGS
 
-DATE LOCATION OBSERVER EVALUATION
-Nov-Dec Clarkson, Michigan Civilian Balloon (VENUS)
-Dec 31 Yuma, Arizona Air Force (METEOR)
-Dec 10 Phoenix, Arizona Civilian Insufficient Data
-2 05 Mt N of Greenville, North Carolina Asst Air Attach MILITARY (RADAR)
-3 Bagdad, Iraq Civilian Balloon (VENUS) 
-Astro (METEOR)
-Insuff Data
-5-07 Trinidad, West Indies Asst Air Attach MILITARY (RADAR)
-10 Phoenix, Arizona Civilian Insufficient Data
-11 Garden City, Long Island, New York Civilian Balloon (METEOR)
-12 S of Santa Catalina, Mexico Civilian Balloon (VENUS)
-13 263 Mi E of Resolution Island Military Insufficient Data
-15 Rapid House, N.W.T. Canada Carolina Balloon (METEOR)
-17 Duncawville, Texas Civilian Balloon (METEOR)
-18 Dayton, Ohio 100 Mi N of Guam Military Insufficient Data
-25 Farmington, Michigan Civilian Astro (METEOR)
-INSUFFICIENT
-26 Bushbrook, New Jersey Civilian Insuff Data
-26 Roselle Rapids, North Carolina Military Astro (METEOR)
-INSUFFICIENT Data
+DATE       LOCATION                                OBSERVER           EVALUATION
+
+Nov-Dec    Clarksoa, Michigan                       Multi             Balloon
+1          Eugene, Oregon                                             Astro (VENUS)
+1          31.14N 61.51W (Atlantic)                                   Astro (METEOR)
+2          20 MI N of Statesville, North Carolina                     Astro (VENUS)
+3          Utica, New York                          Military          Insufficient Data
+4          Baghdad, Iraq                            Asst Air Attache  Astro (METEOR)
+4          E of Trindad, West Indies                                  Other (MISSILE)
+5          Nairobi AFS, Long Island, New York       Military (RADAR)  Balloons
+7          NW of San Antonio, Texas                                   Aircraft
+7          N of Hawaiian Islands (Pacific)                            Astro (METEOR)
+10         Phoenix, Arizona                                           Other (UNRELIABLE REPORT)
+11         Portland, Maine                                            Insufficient Data
+12         Garden City, Long Island, New York                         Balloons
+12         S of Punta Canoas, Mexico                                  Astro (METEOR)
+13         260 MI E of Resolution Island             Military         Astro (VENUS)
+13         Indian House, NWT, Canada                 Unknown          Insufficient Data
+16         320 MI E of Manteo, North Carolina        Military         Astro (METEOR)
+17         Duncanville, Texas                                         Balloons
+18         Dayton, Ohio                                               Astro (METEOR)
+18         100 MI N of Guam                          Military         Astro (METEOR)
+18         S of Crystal Springs, Mississippi                          UNIDENTIFIED
+24         11.53N 73.15W (Atlantic)                                   Astro (METEOR)
+25         Farmington, Michigan                                       Insufficient Data
+25         Boundbrook, New Jersey                                     Aircraft
+26         Roanoke Rapids, North Carolina            Military         Astro (METEOR)
+29         West Branch, Michigan                                      Insufficient Data
 
 ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
-DATE LOCATION SOURCE EVALUATION
-16 Vandenberg AFB, California Newclipping Insufficient Data
-18 Washington, D.C. Newclipping Insufficient Data
-18 Wallops Island, Virginia Newclipping Insufficient Data
-20 Vandenberg AFB, California Newclipping Insufficient Data
-23 Papua, New Guinea Newclipping Insufficient Data
-25 Miami, Florida Newclipping Insufficient Data
+
+DATE       LOCATION                                SOURCE            EVALUATION
+
+7          Vandenberg AFB, California               Newsclipping
+10         Washington, D. C.                        Newsclipping
+17         Manhattan Beach, California              Newsclipping
+18         Vallejo Island, Virginia                 Newsclipping
+20         Vandenberg AFB, California               Newsclipping
+23         Papua, New Guinea                        Newsclipping
+29         Miami, Florida                           Newsclipping
+
 
 - page 32 -
 
-The image does not contain a photograph, it appears to be a page from a report form related to a UFO sighting. 
+Here is the text from the document:
 
-The text OCR for the document is as follows:
+Page 3
 
-14. Tell in a few words the following things about the object:
-a. Sound: None
-b. Color: Red (center area very bright)
+16. Tell in a few words the following things about the object.
+    a. Sound - NONE
+    b. Color - RED. (CAME THRU LIGHT)
 
 17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
 
-POINT OF LIGHT -
-[An arrow pointing upwards is drawn]
+    POINT OF LIGHT -
+    NORTH -
+    ↑
+    o
 
 18. The edges of the object were:
-(Circle One): a. Fuzzy or blurred b. Like a bright star c. Sharply outlined d. Don't remember
+    (Circle One): a. Fuzzy or blurred
+               b. Like a bright star
+               c. Sharply outlined
+               d. Don't remember
 
-19. IF there was MORE THAN ONE object, then how many were there?
-Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+19. IF there was MORE THAN ONE object, then how many were there? 
+    Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
 
-Object was over horizon and then came back - two objects or more on one instance never saw two at once.
+    OBJECT WENT OVER HORIZON AND
+    THEN CAME BACK - POSSIBLY
+    TWO OBJECTS OR SAME OBJECT.
+    NEVER SAW TWO AT ONCE.
+
 
 - page 33 -
 
-The image does not contain any photograph. It appears to be a page from a Project Blue Book report with a form containing questions related to the observation of an unidentified object.
+Here is the text from the document:
 
-Text from the document:
+Page 4
 
-20. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
-21. IF POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension. Test: 
-22. How large did the object or objects appear as compared with one of the following objects held in the hand and at about arm's length?
-(Circle One): a. Head of a pin b. Dime c. Silver dollar d. Baseball e. Grapefruit f. Basketball g. Other h. Half dollar
-22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22.
-a. Certain b. Fairly certain c. Not very sure d. Uncertain
-23. How did the object or objects disappear from view? First disappeared over sensing time 
-24. In order that you can give as clear a picture as possible of what you saw, we would like for you to imagine that you could construct the object that you saw. Of what type material would you make it? How large would it be, and what shape would it have? Describe in your own words a common object or objects which would have the same appearance as the object which you saw.
+20. Draw a picture that will show the motion that the object or objects made. Place on "A" at the beginning of the path, "B" at the end of the path, and show any changes in direction during the course.
 
-Lighy souffe at edge y distance
+South to North
+in Eastern Sky
+
+21. IF POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension.
+No. Feet
+
+22. How large did the object or objects appear as compared with one of the following objects held in the hand and about arm's length?
+(Circle One): a. Head of a pin   g. Silver dollar
+                b. Pea             h. Baseball
+                c. Dime            i. Grapefruit
+                d. Nickel          j. Basketball
+                e. Quarter         k. Other
+                f. Half dollar
+
+22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22)
+        a. Certain
+        b. Fairly certain   c. Not very sure
+                            d. Uncertain
+
+23. How did the object or objects disappear from view?
+FIRST DISAPPEARED OVER
+N.E. HORIZON - SECOND TIME FADED
+INTO CITY LIGHT E.
+
+24. In order that you can give as clear a picture as possible of what you saw, we would like for you to imagine that you could construct the object that you saw. Of what type material would you make it? How large would it be, and what shape would it have? Describe in your own words a common object or objects which when placed up in the sky would give the same appearance as the object which you saw.
+
+LIGHT SOURCE AT GREAT DISTANCE
+
 
 - page 34 -
 
-This page does not contain any photographs. It appears to be a form or questionnaire with various multiple-choice and short answer questions related to a UFO sighting.
+Here is the text from the document:
 
-Here is the text transcribed from the document:
+Page 5
 
-25. Where were you located when you saw the object? (Circle One):
-1. Inside a building
-2. In a car
-3. Outdoors
-4. In an airplane 
-5. Other Car of car.
+25. Where were you located when you saw the object?
+(Circle One):
+a. Inside a building
+b. In a car
+c. Outdoors
+d. In an airplane
+e. At sea
+f. Other GOT OUT OF CAR
 
-26. Were you (Circle One):
-2. In the business section of a city?
-3. In the residential section of a city?
-4. In open country/side?
-5. Flying near an airfield?
-6. Flying over a city?
-7. Flying over open country?
-9. Other
+26. Were you (Circle One)
+a. In the business section of a city?
+b. In the residential section of a city?
+c. In open countryside?
+d. Flying near an airfield?
+e. Flying over a city?
+f. Flying over open country?
+g. Other
 
-27. What were you doing at the time you saw the object, and how did you happen to notice it?
-Parked car waiting on driver
+27. What were you doing at the time you saw the object, and how did you notice it?
+PARKED CAR WAITING ON MOTHER
+AND LOOKED AT STARS - N.E.
+APPROX 50-60°
 
 28. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
-28.1 What direction were you moving? (Circle One) 
-28.2 How fast were you moving? 65 miles per hour.
-28.3 Did you stop at any time while you were looking at the object? (Circle One) Yes No
+
+28.1 What direction were you moving? (Circle One)
+a. North     c. East     e. South     g. West
+b. Northeast     d. Southeast     f. Southwest     h. Northwest
+
+28.2 How fast were you moving? [blank]
+
+28.3 Did you stop at any time while you were looking at the object?
+(Circle One) Yes     No
 
 29. What direction were you looking when you first saw the object? (Circle One)
-b. Northeast
+a. North     c. East     e. South     g. West
+b. Northeast     d. Southeast     f. Southwest     h. Northwest
 
 30. What direction were you looking when you last saw the object? (Circle One)
-c. East
+a. North     c. East     e. South     g. West
+b. Northeast     d. Southeast     f. Southwest     h. Northwest
 
-31. If you are familiar with bearing terms (compass bearings), try to estimate the number of degrees the object was from true North and also the number of degrees it was upward from the horizon (elevation).
+31. If you are familiar with bearing terms (angular directional), try to estimate the number of degrees the object was from true North and also the number of degrees it was upward from the horizon (elevation).
+
 31.1 When it first appeared:
-a. From true North 70° degrees.
-b. From horizon 20° degrees.
+a. From true North 70° degrees
+b. From horizon 60° degrees
 
-31.2 When it disappeared: 
-a. From true North 20° degrees.
-b. From horizon 20° degrees.
+20°
+NEARLY
+
+31.2 When it disappeared:
+a. From true North 20° degrees
+b. From horizon AT LOWEST 30° 90°
+                    20°
+
 
 - page 35 -
 
-The image contains two sketches. The first sketch shows a curved line with an object above the horizon (skyline). The instructions ask the viewer to place an "A" on the curved line to show how high the object was above the horizon when first seen, and a "B" on the curved line to show the position of the object when last seen.
+Here is the text from the document:
 
-The second sketch contains two smaller sketches. The larger one shows a road with buildings on either side, and a person standing in the middle. The smaller sketch shows a silhouette of a person against a hilly landscape.
-
-As for the text, the OCR output is as follows:
+Page 6
 
 32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
 
 33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to smaller sketch as an example of how to complete the larger sketch.
 
+The document contains two sketches with instructions for marking the height and position of an observed object.
+
+
 - page 36 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book. 
+39. Do you think you can estimate the speed of the object?
+(Circle One) Yes   No
+IF you answered YES, then what speed would you estimate? 50°/HALF MINUTE...     m.p.h.
 
-The text contained in the document is as follows:
-
-39. Do you think you can estimate the speed of the object? YES (Circle One) NO IF you answered YES, then what speed would you estimate? 50 M.P.H.
-
-40. Do you think you can estimate how far away from you the object was? (Circle One) YES NO IF you answered YES, then how far away would you say it was? MORE THAN 5 MILES feet.
+40. Do you think you can estimate how far away from you the object was?
+(Circle One) Yes   No
+IF you answered YES, then how far away would you say it was? MORE THAN 5 MILES     feet.
 
 41. Please give the following information about yourself:
-NAME Last Name First Name Middle Name
-ADDRESS Street City Zone State 
-TELEPHONE NUMBER
-What is your present job? Student (Other Service)
-Age 16 Sex Male
-Please indicate any special educational training that you have had.
-a. Grade school b. High school Trained (Basic) c. College d. Post graduate e. Technical school (Type) f. Other special training
+NAME [Redacted]
+ADDRESS [Blank]
+TELEPHONE NUMBER [Redacted]
 
-42. Date you completed this questionnaire: 3y 6 59 Month Year
+What is your present job? STUDENT (HIGH SCHOOL)
+Age 16   Sex MALE
+
+Please indicate any special educational training that you have had.
+a. Grade school
+b. High school JUNIOR (PRESENT)
+c. College
+d. Post graduate
+e. Technical school
+f. Other special training
+
+42. Date you completed this questionnaire: 21   OCT   57
+                                          Day   Month   Year
+
 
 - page 37 -
 
-The image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book.
-
-OCR Output:
+Here is the text from the document:
 
 34. What were the weather conditions at the time you saw the object?
 34.1 CLOUDS (Circle One)
-a. Clear or blue sky
+a. Clear sky
 b. Hazy
 c. Scattered clouds
 d. Thick or heavy clouds
@@ -1056,15 +1641,14 @@ e. Don't remember
 34.2 WIND (Circle One)
 a. No wind
 b. Slight breeze
-c. Blowing wind
-d. Strong wind
-e. Don't remember
+c. Strong wind
+d. Don't remember
 
 34.3 WEATHER (Circle One)
 a. Dry
 b. Fog, mist, or light rain
 c. Moderate or heavy rain
-d. Thunderstorm
+d. Snow
 e. Don't remember
 
 34.4 TEMPERATURE (Circle One)
@@ -1075,25 +1659,28 @@ d. Hot
 e. Don't remember
 
 35. When did you report to some official that you had seen the object?
-Day [Redacted] Month [Redacted] Year [Redacted]
+21   OCT    59     CALLED DUTY OFFICER AT S.A. OFFICE THAT NON. 22 OCT 59.
 
 36. Was anyone else with you at the time you saw the object?
-(Circle One) Yes No 
+(Circle One) YES   No     SECOND OBJECT.
 
-36.1 IF you answered YES, did they see the object too?
-(Circle One) Yes No
+36.1 If you answered YES, did they see the object too?
+(Circle One) YES   No
 
-36.2 Please list their names and addresses.
+36.2 Please list their names and addresses:
 [Redacted]
+DAYTON, OHIO
 
 37. Was this the first time that you had seen an object or objects like this?
-(Circle One) Yes No
+(Circle One) YES   No
 
 37.1 IF you answered NO, then when, where, and under what circumstances did you see other ones?
-[No response provided]
+[Blank lines]
 
 38. In your opinion what do you think the object was and what might have caused it?
-[Redacted]
+TOO FAST FOR A BALLOON. -
+USERS DON'T KNOW.
+
 
 - page 38 -
 

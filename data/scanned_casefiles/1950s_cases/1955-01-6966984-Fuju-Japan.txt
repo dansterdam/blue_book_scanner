@@ -1,16 +1,59 @@
-The image does not contain any photograph. It appears to be a Project 10073 Record Card from Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
-
-TEXT FOUND IN THE DOCUMENT:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 31 January 1955
-3. DATE-TIME GROUP: GMT 13332
-5. PHOTO: None
-7. LENGTH OF OBSERVATION: 6 minutes
-10. BRIEF SUMMARY OF SIGHTING: Circular, willow, no discernable features - no trail. First thought object to be balloon but seemed to be going against winds. Observed by AF at 17,000 feet, estimated 45-50,000 feet.
-12. CONCLUSIONS: Was Balloon, Probably Balloon, Possibly Balloon
-11. COMMENTS: Motion picture film poor. No features on light blob in frames. Insufficient data for evaluation.
-REFERENCE: ATIC # 209035, dtd 2 Feb 55 on file in ATIC repository.
+
+1. DATE
+31 January 1955
+
+3. DATE TIME GROUP
+Local
+GMT 1333Z
+
+5. PHOTOS
+☒Yes
+☐No
+
+7. LENGTH OF OBSERVATION
+6 minutes
+
+10. BRIEF SUMMARY OF SIGHTING
+Circular, white, no discernible features. No trail. First thought to be balloon but seemed to be going against winds. Observing a/c at 37,000 feet, object at estimated 45-52,000 feet.
+
+2. LOCATION
+Fuji, Japan
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual ☐ Ground-Radar
+☒ Air-Visual ☐ Air-Intercept Radar
+
+6. SOURCE
+Military (pilots)
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+[No course information filled in]
+
+11. COMMENTS
+Motion picture film poor. No features, on light blob in a few frames. Insufficient Data for evaluation.
+
+Reference: ATIC # 209035,
+IR-13-55, D/I FEAF ATILO
+dtd 2 Feb 55 on file in ATIC repository.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☒ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
 
 - page 1 -
 

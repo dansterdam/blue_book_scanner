@@ -1,52 +1,60 @@
-There are no photographs present on this page.
-
-Here is the text extracted from the document:
-
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE  2. LOCATION
-   9 Jul 55 Newport Beach, Calif
+1. DATE
+9 Jul 55
 
-3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
-   Local x / Ground-Visual
+2. LOCATION
+Newport Beach, Calif
 
-   GMT x Air-Visual Air-Intercept Radar
+3. DATE-TIME GROUP
+Local 09/213PZ
+GMT
 
-5. PHOTOS 6. SOURCE
-   x Yes x civilian 
+4. TYPE OF OBSERVATION
+Visual (Water Visual)
 
-7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS 9. COURSE 
-   unknown one toward SanDiego from location of observer
+5. PHOTOS
+☐ Yes
+☑ No
+
+6. SOURCE
+civilian
+
+7. LENGTH OF OBSERVATION
+unknown
+
+8. NUMBER OF OBJECTS
+one
+
+☐ Ground-Radar
+☐ Air-Visual
+☐ Air-Intercept Radar
+
+9. COURSE
+Toward San Diego
+from location of sighting
 
 10. BRIEF SUMMARY OF SIGHTING
-   One flying saucer, gray-white in color, 
-   was estimated to be 2,000' above the ocean by
-   observer. The object seemed to rotate on 
-   its axis. THE UFO was flying at a slow speed
-   and disappeared into a cloud.
+One flying saucer, grey-white in color, was estimated to be 2,000' above the ocean by observer. The object seemed to rotate on its axis. THE UFOB was flying at a slow speed and disappeared into a cloud.
 
 11. COMMENTS
-   Flight 1-c, 4602d AISS, was instructed
-   to make a limited follow-up investigation.
-   No followup received. Case carried as
-   Insufficient Data for evaluation.
+Flight 146, 4602d AISS, was instructed to make a limited follow-up investigation. No follow-up received. Case carried as Insufficient Data for Evaluation.
 
 12. CONCLUSIONS
-   Was Balloon 
-   Probably Balloon
-   Possibly Balloon
-   Was Aircraft
-   Probably Aircraft
-   Possibly Aircraft 
-   Was Astronomical
-   Probably Astronomical
-   Possibly Astronomical
-   Other
-   Insufficient Data for Evaluation
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☑ Insufficient Data for Evaluation
 
 ATIC FORM 329 (REV 26 SEP 52)
-```
+
 
 - page 1 -
 

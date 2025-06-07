@@ -1,23 +1,45 @@
-This image does not contain any photographs, but rather a document from Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs). The document is a project record card that appears to be related to an observation made in Georgetown, Massachusetts in February 1957.
-
-OCR output:
-
 PROJECT 10073 RECORD CARD
-1. D-78
-2. LOCATION Georgetown, Massachusetts
-3. DATE-TIME GROUP 6 February 1957
-4. TYPE OF OBSERVATION Ground-Visual
-5. PHOTOS 0 Yes 0 No
-6. LENGTH OF OBSERVATION One hour
-7. BRIEF SUMMARY OF SIGHTING Outlines a number of theories concerning the circular object observed at 17:20 hours. Also refers to books on the subject of UFOs.
-10. BRIEF SUMMARY OF SIGHTING
-First officer observed a bright unidentified object, described as a bright light initially, which made a clockwise circuit and then moved in a straight line out of sight. Second officer observed the same object. Ground personnel observed an extremely bright object which remained stationary for a period and then disappeared. Observations concluded no visible exhaust trail or sound and no trail discernible. Object was observed through 7 x 50 binoculars.
-11. COMMENTS Only the date is firmly established. There is no report to identify the report source or to establish where the information originated. The details remain very limited. No report on file.
-12. CONCLUSIONS
-Possibly Balloon
-Possibly Aircraft
-Possibly Astronomical
-Insufficient data for positive determination
+
+1. DATE: 8 February 1957
+
+2. LOCATION: Georgetown, Massachusetts
+
+3. DATE/TIME GROUP: Local UNK but daylight
+
+4. TYPE OF OBSERVATION:
+☐ Ground-Visual
+☐ Air-Visual
+☐ Air-Interceptor Radar
+
+5. SOURCE: Civilian, FBI report
+
+6. NUMBER OF OBJECTS: unk
+
+7. LENGTH OF OBSERVATION: unk
+
+8. COURSE: unk
+
+9. BRIEF SUMMARY OF SIGHTING:
+A very lengthy report to the FBI, which outlines a number of theories concerning "flying saucers," makes only brief mention of a UFO sighting. A few days after reading books by so-called UFO experts Scully and Keyhoe, source saw a group of saucers. In the clear, blue sunlit sky (his quote). One half hour later source has observed two more in more detail.
+
+10. COMMENTS:
+Only the date is firmly established. Files show no reports of any strange or unusual objects for that particular date or area. Source is obviously a strong believer in "saucers" which may have colored his very limited report.
+
+11. CONCLUSIONS:
+☐ Was Balloon
+☐ Probably Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other: Unrelatable Rpt
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+NO REPORT ON FILE.
+
 
 - page 1 -
 

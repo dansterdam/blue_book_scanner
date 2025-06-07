@@ -1,100 +1,121 @@
-The image contains a Project 10073 record card, but it does not include any photographs. 
-
-TEXT OUTPUT:
-
 PROJECT 10073 RECORD CARD
 
 1. DATE
-13 January 1957
+9 January 1957
 
 3. DATE/TIME GROUP
-1900
+Local: 1900
+GMT: 09/2400Z
 
 5. PHOTOS
-D Yes
+☐ Yes
+☒ No
 
 7. LENGTH OF OBSERVATION
 30 minutes
 
 10. BRIEF SUMMARY OF SIGHTING
-Object noticed for 30 minutes at 15 miles of 20 degrees. Appeared to be vibrating in same spot until it disappeared. Source stated that it disappeared and reappeared twice, in azimuth given.
+Object noticed for 30 minutes at elevation of 20 degs. Appeared to be orbiting in same spot until it disappeared. Source states that it appeared both green and red. No azimuth given.
 
 2. LOCATION
 Miami, Florida
 
 4. TYPE OF OBSERVATION
-Ground-Visual
+☒ Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
 
 6. SOURCE
 Civilian
 
 8. NUMBER OF OBJECTS
-ONE
+one
 
 9. COURSE
-Disappeard
+none
+disappeared
 
 11. COMMENTS
-Obj's. officer of submitting unit believes it to be star, twinckling and having apparent movement because of being observed through evening haze.
+Ops, officer of submitting unit believes it to be a star, twinkling, and having apparent movement because being observed through evening haze.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical planet
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Other:
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+(ATIC FORM 329 (REV 26 SEP 52))
+
 
 - page 1 -
 
-There is no photograph present in this image. 
+Here is the text from the document:
 
-RA132
-PD494 YDB132 VXA223 VDD123KBA243
-PP RJEDWP RJEDWP RJEPIQ RJEPNB
-DE RJESKB 1D
-P 1113292
-FM COMDR S52TH ACWRON MACDILL AFB FLA
+09/162
+
+[Writing]
+
+RA180
+PD194 YDB138 VVA203 VDD123KBA148
+PP RJEDEN RJEDWP RJEPHQ RJEPNB
+DE RJESKB ID
+P 111890Z
+FM COMDR 660TH ACWRON MACDILL AFB FLA
 TO RJEDEN/COMDR ADC ENT AFB COLO SPGS COLO
-RJESKB/COMDR 35TH ADIV DOBBINS AFB GA
-RJEDFM/COMDR AIR TECH INT CNTR WRIGHT PATTERSON AFB OHIO 
-RJEPHQ/DIR OF INT HQ USAF WASH 25 DC
+RJESKB/COMDR 55TH ADIV DOBBINS AFB GA
+RJEDWP/COMDR AIR TECH INT CNTR WRIGHT PATTERSON AFB OHIO
+RJEPHO/DIR OF INT HQ USAF WASH 25 DC
 INFO RJEPNB/COMDR EADF STEWART AFB NY
 BT
 
+
 - page 2 -
 
-The image does not contain any photograph. It appears to be a typed document with text describing an unidentified flying object (UFO) sighting.
+UNCLASSIFIED/OPS 0022PD ATTN: EADF-CIC PD
 
-UNCLASSIFIED/OPS 3822PD ATTN: EADF-CIG PD
-UFO3 P3
-1. RED HAND GREEN GLARE
-A- UNKNOWN
-B- 3 TIMES SIZE OF STAR
-C- RED AND GREEN
-D- ONE
-E- N/A
-F- ONE 
-G- ONE
+1. RED AND GREEN GLARE
+A. UNKNOWN
+B. 3 TIMES SIZE OF STAR
+C. RED AND GREEN
+D. ONE
+E. N/A
+F. ONE
+G. ONE
 
-PAGE TWO RJDESKS ID
-H- NO SOUND
-I- NONE
-J- ORBITING
-CA- HAPPENED TO LOOK UP
-CB- 23 DEGREES
-CC- 20 DEGREES
-D- ORBITING
-K- DISAPPEARED
-F- 30 MINUTES
-S- VISUAL
-A- ONE
-B- NO AIDS
-C- N/A 
-G- 09/13/57
-A- 09/24/57
-J- NIGHT
-S- KL 5132
-PHONE _______ MIAMI BEACH FLA
+PAGE TWO RJESKB 1D
+
+H. NO SOUND
+1. NONE
+2. ORBITING
+A. HAPPENED TO LOOK UP
+B. 20 DEGREES
+C. 20 DEGREES
+D. ORBITING
+K. DISAPPEARED
+F. 30 MINUTES
+3. VISUAL
+A. ONE
+B. NO AIDS
+C. N/A
+4. 09/1900Z
+A. 09/2400Z
+B. NIGHT
+5. KL 5135
+A. [REDACTED] AVE ELECTRICAL ENGINEER
+PHONE [REDACTED] MIAMI BEACH FLA
+
 
 - page 3 -
 
-There is no photograph present in this image. The image appears to be a page from an old UFO report document from Project Blue Book.
-
 ELECTRICAL ENGINEER
-PHONE #### MIAMI BEACH FLA
+PHONE [illegible] MIAMI BEACH FLA
 
 PAGE THREE RJESKB 1D
 B. N/A
@@ -103,17 +124,18 @@ A. CLEAR
 B. UNKNOWN
 C. UNKNOWN
 D. UNKNOWN
-E. UNKNOWN
+• UNKNOWN
 F. UNKNOWN
-G. UNKNOWN
+8. UNKNOWN
 9. NONE
 10. NONE
-11. OPERATIONS OFFICER PD BELIVED TO BE AN EVEING STAR IN THE
-EVERING HAZE PD
+11. OPERATIONS OFFICER PD BELIEVED TO BE AN EVENING STAR IN THE
+EVENING HAZE PD
 12. NONE
 
-ST
-11/12/52Z RJAN RJESKB
+ET
+11/1916Z RJAN RJESKB
+
 
 - page 4 -
 

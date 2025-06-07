@@ -1,17 +1,58 @@
-The shared image does not contain any photographs. It appears to be a project record card from Project 10073, which is a form used to record details about a UFO observation.
+PROJECT 1073 RECORD CARD
 
-PROJECT 10073 RECORD CARD
-1. DATE: March 1955
-2. LOCATION: California, Catalina Isle
-3. DATE-TIME GROUP: Unstated
-4. TYPE OF OBSERVATION: Ground-Visual, Air-Visual
-5. SOURCE: Unknown
-6. SHAPE: Civilian
-7. LENGTH OF OBSERVATION: 2 seconds
-8. NUMBER OF OBJECTS: One
-9. COURSE: Straight down
-10. BRIEF SUMMARY OF SIGHTING: Observed. Changed color from orange to red. Very bright. Fell straight down.
-11. CONCLUSIONS: Probable meteor.
+1. DATE
+15 March 1955
+
+3. DATE/TIME GROUP
+Local: unknown
+GMT: unknown
+
+5. PHOTOS
+☒No ☐Yes
+
+7. LENGTH OF OBSERVATION
+2 seconds
+
+10. BRIEF SUMMARY OF SIGHTING
+Round. Changed from orange to red.
+Very bright. Fell straight down.
+
+2. LOCATION
+California
+Avalon, Catalina Isle
+
+4. TYPE OF OBSERVATION
+☐Ground-Visual ☐Ground-Radar
+☐Air-Visual ☐Air-Intercept Radar
+
+6. SOURCE
+Civilian
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+straight down
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical - Meteor
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other: ____________
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+11. COMMENTS
+Probable meteor.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 

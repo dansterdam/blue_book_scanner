@@ -1,118 +1,125 @@
-The image does not contain a photograph. It is a form with text and various checkboxes. Here is the text from the document:
-
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE                       2. LOCATION                      12. CONCLUSIONS
-    14 December 1957             3 MI N of Albany, Oregon          ☐ Was Balloon
-3. DATE-TIME GROUP               ☐ Probably Balloon                ☐ Possibly Balloon
-    Local                           ☑ Ground-Visual                  ☐ Was Aircraft
-    GMT 14/1359Z                  ☐ Ground-Radar                   ☐ Probably Aircraft
-5. PHOTOS                        ☐ AI Intercept? Radar             ☐ Possibly Aircraft
-    ☑ Yes                        ☑ SOURCE                          ☐ Was Astronomical
-    ☐ No                           Civilian                         ☐ Probably Astronomical
-4. TYPE OF OBSERVATION                                 ☐ Possibly Astronomical
-          ☐ Binoculars                         6. LENGTH OF OBSERVATION        9. COURSE
-          ☐ Rig                         two hrs 28 mins                    one stationary
-7. NUMBER OF OBJECTS       10. BRIEF SUMMARY OF SIGHTING           11. COMMENTS
-   one                         Red hazy, round object, brightening then      Intercept was requested. Pilot
-                                    dimming. Brighter on one side. Two        Scoured area - nothing there
-                                    bars 25 ft below object resembling wing   except bright full moon on
-                                    span.                                     horizon. Possible mirage. Insuf-
-                                                                              ficient data for analysis.
+1. DATE
+14 December 1957
+
+2. LOCATION
+3 Mi N of Albany, Oregon
+
+3. DATE-TIME GROUP
+Local GMT 14/13592
+
+4. TYPE OF OBSERVATION
+XGround-Visual
+XAircraft
+
+5. PHOTOS
+□ Yes
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+2 hrs 28 mins
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+Stationary
+
+10. BRIEF SUMMARY OF SIGHTING
+Red hazy, round object, brightening then dimming. Brighter on one side. Two bars 25 ft below object resembling wing-span.
+
+11. COMMENTS
+Intercept was requested. Pilot scouted area - nothing there except bright full moon on horizon. Possible mirage. Insufficient data for analysis.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+X Other: Insufficient Data for Evaluation
+□ Unknown
 
 ATIC FORM 329 (REV 26 SEP 52)
-```
 
-Please note that the checkboxes in the form have been represented with ☐ (unchecked) or ☑ (checked).
 
 - page 1 -
 
-The image does not contain any photographs to describe.
+Here is the text from the document:
 
-Here is the text output from the document:
-
-```
 RB365
-BM SQA125 YDA104 XVA259 XDC1144DM421
-OO RJEJDN RJESDA RJUEP/HQ
-DE RUJVPDM 118A
-O 141515Z
+BM SQA125 YDA104 XYA259 XDC114DMA13
+00 RJEDDN RJEDSQ RJEPHQ
+DE RJWPDM 118A
+O 1415152
 FM 25CADD COC
-TO RJEJDN/COMDR NORAD
-RJESDA/COMDR AIR TECHNICAL INTELLIGENCE CENTER
+TO RJEDDN/COMDR NORAD
+RJEDSQ/COMDR AIR TECHNICAL INTELLIGENCE CENTER
 RJEPHQ/DIRECTOR OF INTELLIGENCE USAF
 ZEN/COMDR 25CADD
 BT
+UNCLA S/25CADD TAC L62 PD FOR COC FOLLOWING UFOB IS FORWARDED IN
+ACCORDANCE WITH ADCR 203-7
 
-/U N C L A S/S25CADD TAC L62 PD FOR COC FOLLOWING UFOB IS FORWARDED IN
-ACCORDANCE WITH ADCR 23-7-7
+The document also has several handwritten notes, including "RUSH!" at the top right, and some other markings that are partially illegible.
 
-RUSH!
-
-ATIC
-
-1) L62 PD FOR COC FOLLOWING UFOB IS FORWARDED IN
-ACCORDANCE WITH ADCR 23-7-7
-```
 
 - page 2 -
 
-The image appears to contain a hand-drawn sketch of an object described as a "round" object with a "six-foot diameter" that was "red-hazy, brightens then dims, brighter on one side." No photograph is present in this image.
+Here is the text from the document:
 
-A-ROUND 
+1. A. ROUND
 B. SIX FEET DIAMETER
-C. RED-HAZY, BRIGHTENS THEN DIMS, BRIGHTER ON ONE SIDE 
+C. RED-HAZY, BRIGHTENS THEN DIMS, BRIGHTER ON ONE SIDE
 D. ONE
 E. NONE
 F. NONE
 G. NONE
 H. NONE
 
-PAGE TWO AJJPDM 113A
+PAGE TWO RJWPDM 113A
+
 I. TWO BARS 25 FEET BELOW OBJECT RESEMBLING WINGSPAN
+
 II A. HER OCCUPATION GOC
-B. 45 DEGREES NNE 32 DEGREES 
-C. 45 DEGREES NNE 32 DEGREES
+B. 45 DEGREES NNE 83 DEGREES
+C. 45 DEGREES NNE 80 DEGREES
 D. STATIONARY
 E. FADED BECAUSE OF CLOUD LAYER
 F. 2 HRS 28 MIN
+
 III A. VISUAL- GROUND
 B. BINOCULARS
 C. NONE
-IV A. 14/13592
+
+IV A. 14/1359Z
 B. NIGHT
-V 3 MI NE OF DJ-Q 5532
-VI A.
+
+V. 3 MI NE OF DJ-WQ 5532
+
+VI A. 
 B. N/A
+
 VII A. DRIZZLING RAIN
+B. 3.5/7.15
+
+There are also some handwritten notes and markings on the document.
+
 
 - page 3 -
 
-The image does not contain a photograph; it is a scanned page from a document with handwritten notes and typed text.
+PAGE THREE RJWPDM 118A
 
-Here is the text from the document:
-
-```
-LO: 3.
-233/4/3
-233/6/3
-
-This is a classic 
-"hot potato" that's 
-saturation - I f
-yet  frantically &
-with lines) with blue (or)
-2'd hand to yet
-comment 
-about it. 
-why
-
-PAGE THREE RVJ/PDM 118A
-
-253/9/0
-250/6/3
-27/3/5
+250/90
+250/60
+270/35
 
 C. HIGH
 D. GOOD
@@ -122,18 +129,19 @@ F. NONE
 VIII NONE
 IX NONE
 X NONE
-XI DUTY COITROLLER - NO COMMENTS
+XI DUTY CONTROLLER - NO COMMENTS
 XII NONE
 
 BT
-141625Z DEC RVJ/PDM 
+1416252 DEC RJWPDM
 
-1. Aircraft reported as - nothing there 
-    Pilot scared - almost made 
-    except kept fld (field) lites + tower - nice, large, fuzzy and 
-    red.
-2. Misinterpretation of the rising sun.
-```
+1. Misinterpret request.
+2. Pilot sent ace - noting these except but follows in de
+   from - nice, corps, frog and
+   put.
+
+3. Misinterpretation of the rising sun.
+
 
 - page 4 -
 

@@ -1,72 +1,84 @@
-The image does not contain a photograph. It appears to be a project record card from Project 10073, which contains information about a sighting west of Portugal on October 6, 1957. The record card includes details such as the location, the type of objects observed, the source, the duration of the observation, and the comments and conclusions.
-
-TEXT OUTPUT:
-
 PROJECT 10073 RECORD CARD
 
 1. DATE
-6 OCT 1957
+22 October 1957
 
 2. LOCATION
-WEST OF PORTUGAL
+West of Portugal
 
 3. DATE-TIME GROUP
-22/1952Z
+Local 22/1957
 
-4. TYPE OF OBJECTS
-1) 57 D Ground-Radar
-2) Air Visual 
+4. TYPE OF OBSERVATION
+2D Ground-Visual   Ground-Radar
+X Air-Visual       Air-Intercept Radar
 
-5. SOURCE
+5. PHOTOS
+Yes
+No
+
+6. SOURCE
 Civilian
 
-6. NUMBER OF OBJECTS
-ONE
-
 7. LENGTH OF OBSERVATION
-3-5 MIN
+not given
 
-8. BRIEF SUMMARY OF SIGHTING
-Strange object approximately 10 
-miles above horizon moving 
-east to west. No further information available.  
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+S to N
+
+10. BRIEF SUMMARY OF SIGHTING
+Strange object approximately 40 dgrs above western horizon passing south to North high & fast. No further information avail 1/2x
+
+11. COMMENTS
+Definitely not sputnik. Probably a meteor.
 
 12. CONCLUSIONS
-1. Was not Balloon
-2. Possible Aircraft
-3. Possibly Satellite
-4. Definitely not Sputnik. Probably 
-an Unknown.
+[Checkboxes include options like Was Balloon, Probably Balloon, Was Aircraft, Probably Aircraft, Astronomical, etc. - no specific boxes are checked]
+
 
 - page 1 -
 
-The shared image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-V UPA236 YMRSELSBSSO FXRX4-
-OO RJEDEH RJEPNY RJEWUP RJEPIQ
-DE RJEDIS 91+
-O 232l+902
-FH VSC OASTEAD AFB PA
-TO RJEDEN/ADC ENT AFN COLORADO
-RJEPNY/CGDR ADC AD (DEF) ROSLYN NY
-RJED'AP/CGDR AIR TECHNICAL INTELWRIGHT PATTERSON AFB OHIO
-RJEPH/DIR OF INTEL HQ USAP WASH DC
+V WPA646 YM8021LS8850 EBX004-
+OO RJEDEN RJEPNY RJEDWP RJEPHQA
+DE RJEDLS 9H
+O 230402Z
+
+FM FSC OMSTED AFB PA
+TO RJEDEN/ADC ENT AFB COLORADO
+RJEPNY/COMDR ADC AD (DEF) ROSLYN NY
+RJEDWP/COMDR AIR TECHNICAL INTELWRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIR OF INTEL HQ USAF WASH DC
 BT
-FOLLOWING INFO RECEIVED BY MDTS FROM NEW YORK DAC 232138
-A VISRLIIITED AOUT CALL SIGN VUCARITE CALIF 2100K AEDT
-SIGHTING A STRANGE OBJECT BELIEVED TO BE SPUTNIK AT 2219352 POSITION
-3529N-12500 APPROX IG DEGREES ABOVE WESTERN HORIZON PASSING SOUTH TO
+
+FOLLOWING INFO RECEIVED BY MDTFS FROM NEW YORK OAC 220019E
+A VENEZUELAIN ACFT CALL SIGN YVCAME INROUTE CSLA ZQUK,REQUESTED
+SIGHTING A STRANGE OBJECT BELIEVED TO BE SPUTNIK AT 2219382 POSITION
+3800N 1500W APPROX 40 DEGREES ABOVE WESTERN HORIZON PASSING SOUTH TO
 NORTH HIGH AND FAST. NO FURTHER INFO AVAILABLE THIS CENTER
 BT
-23/04222 OCT RCSBB
+23/0422Z OCT ROEB8D
+
+NNNN
+
 
 - page 2 -
 
-The image does not contain a photograph or any visual element other than a blank page. It appears to be a cover page or divider page from a Project Blue Book document.
+The text I can clearly read on this document is:
 
-OCR text output:
-Oct 23 u 2 2 '57
-RD2448
+RD248
+
+OCT 23 64 22 57
+
+7
+
+63
+244
+
 
 - page 3 -
 

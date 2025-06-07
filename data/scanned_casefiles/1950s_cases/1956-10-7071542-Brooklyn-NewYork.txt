@@ -1,38 +1,77 @@
-There is no photograph present in this image. This appears to be a scanned page from a Project Blue Book record card, which is a government document containing information about a UFO sighting report.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 1 October 1956
-2. LOCATION: Brooklyn, New York
-3. DATE-TIME GROUP: 0952
-4. TYPE OF OBSERVATION: Ground-Radar
-5. PHOTOS: 0 Yes
-6. SOURCE: Civilian 
-7. LENGTH OF OBSERVATION: three to five minutes
-8. NUMBER OF OBJECTS: one
-9. COURSE: SW to NW
-10. COMMENTS: Description, duration and manner of disappearance indicate that this sighting was probably caused by an aircraft.
-11. SW to NW
-12. CONCLUSIONS: D - Was Balloon
-D - Probably Balloon
-D - Possible Balloon
+
+1. DATE
+1 October 1956
+
+2. LOCATION
+Brooklyn, New York
+
+3. DATE-TIME GROUP
+Local ________
+GMT 02/0100Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+□ Air-Visual
+□ Air-Intercept
+
+5. PHOTOS
+□ Yes
+■ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+three to five minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+SW to NW
+
+10. BRIEF SUMMARY OF SIGHTING
+One round white object, size of the head of a pin at arm's length. Object came from southwest, hovered for approximately two minutes and disappeared over the NW horizon. Object was observed visually for three to five minutes.
+
+11. COMMENTS
+Description, duration & manner of disappearance indicate that this sighting was probably caused by an aircraft.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+■ Was Aircraft
+■ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other:
+□ Insufficient Data for Evaluation
+□ Unknown
+
 
 - page 1 -
 
-The provided image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
-UPA922C921 IULSCA48 EDABC2-BDB917 
-....YY RJEPNY RJEDEN RJEDWP RJEPHQ
-DE RJED 17H
-Y. 0228282
-FIT FLIGHT SERVICE CENTER OLMSTED AFB PA 
-TO RJEPRY/COMS 26 TH AD ROSLYN NY
+HPAS52C008IULSC048 EBA002-BDB017
+•••••••VY RJEPNY RJEDEN RJEDWP RJEPHQ
+DE RJED&S 17H
+Y.020209Z
+
+FM FLIGHT SERVICE CENTER OLMSTED AFB PA
+TO RJEPNY/COMDR 26TH AD ROSLYN NY
 RJEDEN/TO COMDR ADC ENT AFB COLORADO
 RJEDWP/COMDR AIR TECHNICAL INTEL CEN WRIGHT PATTERSON AFB OHIO
-RJEPHQ/DIR OF INTEL HQ USAF WASH 25 DC
-ET
-UFOB
-A. ROUND, HELD AT ARMS LENGTH
-B. WHITE
+RJEPHO/DIR OF INTEL HQ USAF WASH 25 DC
+BT
+UF08
+
+1. DESCRIPTION
+A. ROUND
+B. PINHEAD HELD AT ARMS LENGTH
 C. WHITE
 D. ONE
 E. N/A
@@ -40,59 +79,77 @@ F. NO TAIL NO WINGS
 G. NONE
 H. NONE
 
+
 - page 2 -
 
-The image does not contain any photographs. It appears to be a typed document with text describing an unidentified flying object (UFO) sighting.
+PAGE TWO RJEDLS 17TH
 
-PAGE TWO RJEDL5 17H
 1. NONE
+
 2. DESCRIPTION OF COURSE
 A. MOVEMENT IN SKY
-B. 15 DEG 
-C. DISSAPPEARED OVER N/W HORIZON
-D. CAME FROM S/W HOVERED FOR APPROX 2 MIN AND DISSAPPEARED OVER
- N/W HORIZON
+B. 15 DEG
+C. DISAPPEARED OVER N/W HORIZON
+D. CAME FROM S/W HOVERED FOR APPROX 2 MIN AND DISAPPEARED OVER N/W HORIZON
 E. WENT OUT OF SIGHT
 F. 3 TO 5 MINS
-3. MANNER OF OBSEVATION
+
+3. MANNER OF OBSERVATION
 A. GROUND VISUAL
 B. NONE
 C. N/A
+
 4. TIME AND DATE OF SIGHTING
-A. 22 1957-928 1952
+A. 220 1952-220 1952
 B. NIGHT
+
 5. LOCATION OF OBSERVERS 74TH ST BROOKLYN
+
 6. IDENTIFYING INFORMATION OF ALL OBSERVERS
-A. _____ 20 ______ NY TELEPHONE
-B. OCCUPATION NOT KNOWN IN COMPANY WITH 5 OTHER PEOPLE
-C. NONE
+A. [REDACTED] 20 [REDACTED] NY TELEPHONE
+   OCCUPATION NOT KNOWN IN COMPANY WITH 5 OTHER PEOPLE
+B. NONE
+
 
 - page 3 -
 
-There is no photograph present in this page of the UFO report document. The image appears to be a typed report with details about the weather and wind conditions at the time and place of a reported sighting.
-
 PAGE THREE RJEDLS 17H
+
 7. WEATHER AND WINDS ALOFT CONDITIONS AT TIME & PLACE OF SIGHTING
+
 A. CLEAR
-B. SURFACE 350 DEG 8KT
-6200 340 DEG 8KT
-13000 310 DEG 33KT
-15000 310 DEG 32KT
+
+B. SURFACE 350 DEG SKT
+6000 340 DEG 22KT
+10000 310 DEG 35KT
+16000 310 DEG 30KT
 20000 310 DEG 40KT
-30000 320 DEG 62KT
-45000 320 DEG 49KT
+30000 300 DEG 60KT
+45000 300 DEG 49KT
+
 C. CLEAR
+
 D. 15 MILES
+
 E. NONE
-F. NONE UX FROM FLT SVC
+
+F. NONE WX FROM FLT SVC
+
 G. NONE
-H. NONE
+
+9. NONE
+
 10. UNKNOWN
-11. CAPT OFFICER OLMSTED F/S NO COMMENTS
+
+11. OPNS OFFICER OLMSTED F/S NO COMMENTS
+
 12. NONE
+
 BT
-22/22257 SEP RJEDLS
-61 20 95 1302
+02/02057 SEP RJEDLS
+
+61 LO 99 1902
+
 
 - page 4 -
 

@@ -1,251 +1,214 @@
-The document does not contain any photographs. 
+PROJECT 10073 RECORD CARD
 
-Here is the text from the document:
+1. DATE
+29 January 1955
 
-```
-PROJECT 100/3 RECORD CARD
+2. LOCATION
+Guam
 
-1. DATE                                   2. LOCATION
-   29 January 1955                         Guam
+3. DATE-TIME GROUP
+Local
+GMT 29/1500Z
 
-3. DATE-TIME GROUP                4. TYPE OF OBSERVATION
-   GMT 29/1500Z                             ❍ Ground-Visual
-   Local                                                     ❍ Ground-Radar
-                                                               ❍ Air-Visual
-                                                               ❍ Air-Intercept Radar
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
 
-5. PHOTOS                              6. SOURCE
-   ❍Yes                                    Civilian
-   ✔No
+5. PHOTOS
+□ Yes
+[X] No
 
-7. LENGTH OF OBSERVATION      8. NUMBER OF OBJECTS       9. COURSE
-   3-5 seconds                          two                               straight
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+3 seconds
+
+8. NUMBER OF OBJECTS
+Two
+
+9. COURSE
+Straight
 
 10. BRIEF SUMMARY OF SIGHTING
-   Appeared rectangular when viewed
-   at 90 dgr cylindrical when viewed
-   fm rear. length 12-15 feet; width
-   5 feet. Leading portion of object
-   was the color of bright light,
-   changing to orange towards rear.
-   No sound. Appeared as trail or
-   exhaust. No maneuvers. Straight
-   flight path.
+Appeared rectangular when viewed at 90 dgr cylindrical when viewed in rear. Length 12-15 feet; width 5 feet. Loading portion of object was the color of bright light, changing to orange towards rear. No sound. Appeared as trail or exhaust. No maneuvers. Straight flight path.
 
 11. COMMENTS
-  Possible meteor.
+Possible meteor.
 
 12. CONCLUSIONS
-   ❍ Was Balloon
-   ❍ Possibly Balloon
-   ❍ Was Aircraft
-   ❍ Possibly Aircraft
-   ❍ Probably Aircraft
-   ❍ Was Astronomical
-   ❍ Probably Astronomical
-   ♥︎ Was Astronomical Meteor
-   ❍ Possibly Astronomical
-   ❍ Other...
-   ❍ Insufficient Data for Evaluation
-   ❍ Unknown
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+[X] Was Astronomical Meteor
+[X] Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
 
-ATTC FORM 339 (REV 26 SEP 52)
-```
 
 - page 1 -
 
-The image does not contain any photographs. Here's the transcription of all the text found in the document:
-
----
 HEADQUARTERS STRATEGIC AIR COMMAND
 OFFUTT AIR FORCE BASE
 OMAHA, NEBRASKA
 UNCLASSIFIED
 
-2 MAR 1955
+DING
 
-DINC
 SUBJECT: Transmittal of Air Intelligence Report
 
-TO:
-Commander
-Air Technical Intelligence Center
-Wright-Patterson Air Force Base
-Ohio
+TO:   Commander
+       Air Technical Intelligence Center
+       Wright-Patterson Air Force Base
+       Ohio
 
-Enclosed are three (3) copies of Air Intelligence Report SAC 3-55
-received from the 3d Air Division, APO 334, San Francisco, California.
+Enclosed are three (3) copies of Air Intelligence Report SAC 3-55 received from the JD Air Division, APO 334, San Francisco, California.
 
 FOR THE COMMANDER:
 
-(Signature)
-HAYFORD P. SHERMAN
+[Signature]
+BRADFORD P. SHUMAN
 Major, USAF
-Actg Chief, Collection Division
+Asst. Chief, Collection Division
 Directorate of Intelligence
 
 1 Incl
 a/s
 
-If Enclosure No. __ is withdrawn (or not attached) the classification of this correspondence will be downgraded to...UNCLASSIFIED in accordance with AFR 205-1.
+[Bottom of document notes:]
+If enclosure No. 1 is withdrawn for not attached the classification of this correspondence will be downgraded to UNCLASSIFIED in accordance with AFR 205-1.
+
 UNCLASSIFIED
----
+
 
 - page 2 -
 
-There are no photographs visible in the document you provided.
-
 Here is the text from the document:
 
-```
 UNCLASSIFIED
 
-AF FORM 112—PART I
-ACPROVED [JUNE 1948
+AF FORM 112-PART 1                                                                PAGE 2 OF 3 PAGES
 
-REPORT CONTROL SYM 5720
-(LOCATION) GUAM
-
+582 IR-323
 AIR INTELLIGENCE INFORMATION REPORT
 
-REPRODUCED AT AIR DIRECTORATE OF INTELLIGENCE,
-EG 7TH AB INFELIGENCE. AFO 234, SR, CALIF
+[Partially illegible header information]
 
-FROM:
-SOURCE:
-SUBMITTED BY: DATE OF INFORMATION:
-SUMMARY:
-REMARKS:
-c. Elevation 25 degrees; Amount 20 met es.
-d. Horizontal flight path; - no maneuvers observed;
-e. Abrupt extinguishing of light.
-f. Three seconds.
-g. One single visual.
-h. None used.
-i. /A
-k. 699602 Jan 25.
-h. Night
-b. Coordinates, 13°27’N - 144°9’15”E
-6. a. [*Text redacted*] age 37 years. Mailing address: Camp Asan, Guam.
-Civilian Manager of Property Accounts (Civil Service). [*Text redacted*] stated that he
-had been inspecting army activities in the Christmas Island area in aircraft
-artillery. He proceeded at—he Guam Artillery training including the re-island observation and tracking. He also had observed Y-1 Bombers during World War II.
-b. [*Text redacted*] age 40 years. Mailing address: Camp Asan, Guam.
-(Civilian Plant Superintendent (Civil Service). Mr. [*Text redacted*] stated he had previous
-military experience with the Engineers.
-7. c. Visibility good with intermittent clouds.
-a. Samples, 1000 123 11
-2,000, 1003 23 X
-        
-500, 999 21 X
-1,600, 140 31 X
-2,000, 1290 51 X
-700, 1200 70 R
-50,000, 400 10 Z
-c. 540m scattered, (70,0% scattered).
-d. 1 miles.
+4. Summary:
+    a. Elevation 25 degrees; Azimuth 20 c.p.s.
+    b. Calculated flight path - no reserves observed.
+    c. Abrupt extinguishing of light.
+    d. Three seconds.
+    e. Ground visual
+    f. One track.
+    g. N/A
+    h. a. 291002 Jan 55
+        b. 11.16
 
-ESTIMATED BY EXAMINED
+5. Continuation, 13°47'N, 144°46'E - 14°46'N, 148°E:
+    [Several lines are redacted/blacked out]
 
-UNCLESIFIED
-```
+6. Visibility good with intermittent clouds.
+
+7. a. Surface, 1000 10 K
+       5,000, 1000 10 K
+       10,000, 1000 10 K
+       16,000, 1800 10 K
+       20,000, 1700 10 K
+       25,000, 2700 10 K
+       30,000, 1200 10 K
+
+    b. 2500 scattered (10,000 scattered)
+
+    c. 1 mile.
+
+Classification Cancelled
+OR Declassified
+[Signature and date partially visible]
+
+UNCLASSIFIED
 
 
 - page 3 -
 
-There are no photographs present on the page.
-
-Here is the OCR output of the text found in the document:
-
-```
 UNCLASSIFIED
 
-AF FORM 112—PART I
-INITIAL DISTRIBUTION
-
-SEC IR 5-55
+AF FORM 112 - PART 1
 AIR INTELLIGENCE INFORMATION REPORT
 
-SUBJECT: SIGHTING OF Unidentified Flying Object
-REPORT NUMBER:
-PLACE AND DATE OF SIGHTING: Guam, Mariana Islands, 6 February 1955
-SOURCE: Civilian employee
-AGENCIES/OFFICES CONCERNED: Air Force, USAF
-EVALUATION OF SOURCE: Credible, reliable
-METHOD OF OBSERVATION: Visual, unaided
-CLASSIFICATION: UNCLASSIFIED
+Date of Occurrence: Marianas Islands                Date of Transmission: 24 January 1955
+Date of Receipt: 24 January 1955                   Time of Transmission: 49 Ch, wh, Conf.
 
-NARRATIVE:
+Source: (Blacked out)
 
-SIGNIFICANT FACTS:
+Subject: Unidentified Flying Object
 
-A. Two lights were seen, stated at 50 degrees, commercial air viewed from northeast.
-B. Length 12-15 feet; Width 5 feet.
-C. Leading portion of object was the color of bright light changing to
-    orange towards the rear.
-D. Two lights appeared to be on the same horizontal plane with an estimated
-    15 feet between them. Observants stated that the two lights were either coming from
-    or going towards the objects flying in a tight formation.
-E. None
-F. No object was actually visible. Observation appeared to be a trail or
-    exhaust as described in paragraph II and IC.
-G. None
-H. None
-I. None
-J. Observation was filed in a small newly constructed air traffic control tower
-    not under other services.
+Summary: (First paragraph is mostly illegible)
 
-MEASUREMENT/MANIPULATION:
-A. None
-B. Elevation 70 degrees; Azimuth 270 degrees.
-```
+(Signature of a Colonel, name blacked out)
+Colonel, USAF
+
+1. Basic Data:
+   a. Sighting and Five-D at 20 degrees: Official observer from zero
+      altitude.
+
+   b. Length 10-15 feet, Width 5 feet.
+
+   c. Locally portion of object was the color of bright light somewhat
+      brown, toward the rear.
+
+   d. Etc.
+
+   e. Two lights appeared to be on the most principal plane with an estimated
+      15 degrees between them. Observation held that the lights were close, some
+      distance, at the object side in a light formation.
+
+   f. (Illegible)
+
+   g. The object was actually visible. Observation seemed to be a trail or
+      something described in paragraph 11 and 10.
+
+   h. (Illegible)
+
+   i. Observation was made in a well-known condition of atmospheric that
+      (rest of text is cut off or illegible)
+
+   j. Flew 70 degrees, point 20 degrees.
+
+UNCLASSIFIED
 
 
 - page 4 -
 
-There is no photograph on this page. Here is the extracted text from the document:
+Here is the text from the document:
 
----
-AF FORM 112—PART I
-Air Intelligence Report
-Approved June 1950
-
-CLASSIFICATION: UNCLASSIFIED
-PROJECT NO: AF-2000
-SYMBOL
+AF FORM 112-PART 1
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-From Director of Intelligence
-HQ USAF Intelligence, ADC 270-54, SR-2025
-CANCELLED
+[Most of the header details are partially illegible]
 
-DATE OF REPORT
-DATE OF INFORMATION PALO ALTO, CALIFORNIA
+a. 1st cover 5/10, low cover 5/10.
 
-EVALUATION PAGE
+b. Hocus.
 
-SOURCES (Outline of the source, describe photographs, etc., if applicable)
+c. Petition, waived.
 
-SUMMARY (Under concise summary of report. Give synopsis of individual sections paragraphs. Indicate location of sketch, types of equipment, etc., if appropriate, if map is Section III)
+d. N/A
 
-e. Total cover: 1/10, low cover: 3/10.
+10. Incl. AAF proj free circulation report thru channels. Memo by author of report to be attached.
 
-f. Time.
+11. Hq. USAF, Directorate of Intelligence, Attn: Intl Div, Pentagon, Washington 25, D.C.
 
-g. Nothing unusual.
+[The rest of the text in the body of the document is partially obscured or illegible, with only fragments visible]
 
-h. Alt.
+At the bottom of the document, it is marked "UNCLASSIFIED"
 
-i. Loc'n: AACS non-Erase-Correction report that no known aircraft in the area concerned and no indication construction was made.
-
-j. OSI, 6th Collection Branch, "Inspector of Installations, HQ 14th Air Division, APO 334, San Francisco, California.
-
-k. As a result of the interview and interrogation of the observer named in para E, it is my opinion that at no time did the 3 aircraft reported have been an UFO no indication indicated any unusual aspect of an optical or electronic malfunction of the data generated. Also, due to the unextensive nature of the object(s) and the short time observed, the accuracy of the descriptive data is somewhat questionable.
-
-l. Preliminary investigation with ATIC and Control Tower records gave no indication that the observation made was caused by a misidentified aircraft or 'natural' phenomena.
----
-Note: The document layout and details (such as project number and report description) indicate it is an official form, but the text occasionally includes unclear or fragmented phrases, possibly due to scanning errors or original typographical issues.
 
 - page 5 -
 

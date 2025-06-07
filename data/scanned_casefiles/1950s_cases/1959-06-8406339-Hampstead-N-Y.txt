@@ -1,49 +1,41 @@
-The image does not contain any photographs. It appears to be a page from a document titled "PROJECT 10073 RECORD CARD" which seems to be a form used for recording details of a sighting or observation. The form contains various fields such as "DATE", "DATE-TIME GROUP", "TYPE OF OBSERVATION", "NUMBER OF OBJECTS", "COURSE", and "COMMENTS" where information about the sighting would be recorded.
-
 PROJECT 10073 RECORD CARD
-1. DATE
-2. DATE-TIME GROUP
-Local
-GMT
-3. PHOTOS
-4. TYPE OF OBSERVATION 
-[Blank]Ground Visual
-D.A.Ground Radar
-D.A.Visual
-Air Intercept Radar
-5. LOCATION
-6. NUMBER OF OBJECTS
-7. LENGTH OF OBSERVATION
-8. BRIEF SUMMARY OF SIGHTING
-9. COURSE
-10. COMMENTS
-11. CONCLUSIONS 
-Unidentified
-Probably Aircraft
-Insufficient Data
-Possibly Satellite
-Possibly Balloon
-Probably Aircraft
-Under Investigation
-Insufficient Data for Evaluation
+
+1. DATE: [blank]
+2. LOCATION: [blank]
+3. DATE-TIME GROUP: Local
+4. TYPE OF OBSERVATION: [no boxes checked]
+5. PHOTOS: ☐ Yes ☐ No
+6. SOURCE: [partially illegible]
+7. LENGTH OF OBSERVATION: [blank]
+8. NUMBER OF OBJECTS: [blank]
+9. COURSE: [blank]
+10. BRIEF SUMMARY OF SIGHTING: Bright silver sky, low of ten height, slight changes (trail).
+
+11. COMMENTS: Observation tends to be short duration. Object was probably a high flying jet.
+
+Bottom of form notes: ATIC FORM 164 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain a photograph. It shows a blank page with some handwritten notations in the margins.
+Visible text on the page:
 
-Performing optical character recognition (OCR) on the text in the image:
+1464
+2
+3 4/5 x 22
 
-134-6-11
-4
-Hampstead, N-Y.
-8406339
+ATC
+
+Attn.
+08
+
+The rest of the page appears to be mostly blank, with a large black horizontal bar obscuring part of the bottom of the page. Most of the document text is illegible or not clearly visible.
+
 
 - page 2 -
 
-The image provided does not contain a photograph. It appears to be a blank page with a single black horizontal line across the center.
+There is a single horizontal black line across the center of an otherwise blank white page. No other text is legible on this document.
 
-Text output:
-(None)
 
 - page 3 -
 

@@ -1,37 +1,80 @@
-The image does not contain any photograph. It appears to be a Project 10073 Record Card from Project Blue Book, which was a United States Air Force program to investigate unidentified flying objects (UFOs).
-
 PROJECT 10073 RECORD CARD
-1. DATE: 13 May 1956
-2. LOCATION: Lake Leelanau, Michigan
-3. DATE-TIME GROUP: 12/0330Z
-4. TYPE OF OBSERVATION: 
-   Ground-Visual 
-   Air-Visual
-   Air-Intercept Radar
-5. SOURCE: Civilian
-7. LENGTH OF OBSERVATION: One hour, five minutes
-10. BRIEF SUMMARY OF SIGHTING: One object appeared to be round, yellow streaks with green center. Red sides was the description of the colors. Seen through binoculars.
-11. COMMENTS: Concluding officer that this sighting was caused by the planet Venus.
+
+1. DATE
+11 May 1956
+
+2. LOCATION
+Lake Leelanau, Michigan
+
+3. DATE-TIME GROUP
+Local GMT 12/0330Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual ☒ Ground-Radar ☐
+Air-Visual ☐ Air-Intercept Radar ☐
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+one hour, five minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+erratic movement
+
+10. BRIEF SUMMARY OF SIGHTING
+One object appearing to be round, funnel shaped, and sometimes circular. Yellow streaks with green center and red sides was the description of the colors. Seen through binoculars.
+
+11. COMMENTS
+Concur with the opinion of the reporting officer that this sighting was caused by the planet Venus.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical Venus
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a page from a Project Blue Book report or document.
+WPD279 YMA945HRA933HRE 035
 
-WPD279 YMA345HRA23SHR 235
-FP RJEDAEFR1EDENRJEDUPRUPHO S/ERCH
-DE RJEOHR SE
-P 14/290°2
+PP RJEDAE RJEDEN RJEDWP RJEPHQ RJEPNX
+DE RJEIHR 5E
+
+P 14/20M02
+
 FM COMDR 752ND ACWRON EMPIRE MICH
-TO RJJEDAE/COMDRH 37TH ADIV TRUAX FLD MADISON WISCONSIN
+TO RJEDAE/COMDR 37TH ADIV TRUAX FLD MADISON WISCONSIN
 INFO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLORADO
-RJEDUP/COMDR AIR TECH INTELLIGENCE CENTER WRIGHT PATT AFB OHIO
+RJEDWP /COMDR AIR TECH INTELLIGENCE CENTER WRIGHT PATT AFB OHIO
 RJEPHQ/DIRECTOR OF INTELLIGENCE HQ USAF WASHINGTON 25 DC
 RJEPNB/COMDR EADF STEWART AFB NEWBURG N Y
+
 BT
-UNCLASSIFIED/ OPS 62 PD UFOB LAW PAR SIX BRAVO TWO ZERO DASH TWO CMM
+UNCLASSIFIED/ OPS 62 PD UFOB IAW PAR SIX BRAVO TWO ZERO DASH TWO CMM
 THE FOL RPT IS SBMT PD
+
 PART 1 (A) ROUND, CIRCULAR AND OCASSIONALLY CHANGED TO
-FUNNEL SHAPE —
+FUNNEL SHAPE
+
 (B) NICKEL
 (C) YELLOW STREAKS, GREEN CENTER WITH JED SIDES
 (D) ONE
@@ -39,57 +82,67 @@ FUNNEL SHAPE —
 (F) NONE OTHER THAN SIZE AND SHAPE
 (G) TAIL OF FUNNEL
 
+
 - page 2 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book report describing an unidentified object sighting near Lake Leelanau, Michigan.
+PAGE TWO RJEDHR 5E
+
+(H) NONE
+(I) DIMS AND BRIGHTENS
 
 PART 2 (A) ACCIDENTAL - OBJECT CAUGHT OBSERVERS ATTENTION
-(B) ITS BRIGHTNESS
-(C) NORTHWEST 52 DEG ABOVE THE HORIZEN
-(D) 59 DEG - 315 DEG
-(E) IRREGULAR STOPS AND GOES 
-(F) FADE OVER LAKE MICHIGAN
-(G) ONE HOUR AND FIVE MINUTES
+BY ITS BRIGHTNESS
+
+(B) NORTHWEST 60 DEG ABOVE THE HORIZON
+(C) 60 DEG - 315 DEG
+(D) IRREGULAR STOPS AND GOES
+(E) FADE OVER LAKE MICHIGAN
+(F) ONE HOUR AND FIVE MINUTES
 
 PART 3 (A) GROUND VISUAL
 (B) BINOCULARS
 (C) NONE
 
-PART 4 (A) 23302 12 MAY 1956 TO 24352 12 MAY 1956
+PART 4 (A) 2330Z 12 MAY 1956 TO 2435Z 12 MAY 1956
 (B) DARK
 
-PART 5 (A) EQ 3559
+PART 5 (A) EQ 3560
 
-PART 6 7A) LAKE LEELANAU ALE 48 USED
+PART 6 7A) [REDACTED] LAKE LEELANAU ALE 48 USED
 CAR DEALER AND LIVE BAIT DEALER, GOOD
+
 
 - page 3 -
 
-There is no photograph present in this image. The image appears to be a page from a Project Blue Book document containing text only.
+PAGE THREE RJEDHR 5E
 
-PAGE THREE RJRDHR SE
 PART 7 (A) CLEAR
-(B) 6,000 25/30P12
-10,000 24/58P23
-16,000 24/56-28
-28,000 24/55-15
-30,000 24/76-39
-52,000 25/75-57
-59,000 N/NAVAL
-(C) CLEAR
-(D) 15 PLUS
-(E) CLEAR
-(F) NONE
+        (B) 6,000   25/30P12
+        10,000    24/50P03
+        15,000    24/60-48
+        20,000    24/55-15
+        30,000    24/70-39
+        50,000    25/75-57
+        60,000    N/AVAIL
+
+Q       (C) CLEAR
+        (D) 15 PLUS
+        (E) CLEAR
+        (F) NONE
+
 PART 8 (A) NONE
 PART 09 (A) NONE
 PART 10 (A) NONE
 PART 11 (A) TRAVERSE CITY CAA REPORTS NO TRAFFIC IN THAT AREA
 PART 12 (A) 1ST LT RICHARD H. ERICSON OPERATIONS OFFICER PD THIS
-OBJECT HAS BEEN SIGHTED AND REPORTED NUMEROUS TIMES
-IN THE PAST THREE MONTHS PD THE OBJECT WAS INVESTIGATED BY INTELLIGENCE PERSONNEL FROM SELFRIDGE AFB
-MICHIGAN IN APRIL OF THIS YEAR AND DETERMI ED TO BE
-THE PLANET VENUS PD I BELIEVE THIS TO BE THE SAME
-OBJECT.
+                OBJECT HAS BEEN SIGHTED AND REPORTED NUMEROUS TIMES
+                IN THE PAST THREE MONTHS PD THE OBJECT WAS INVESTIGATED BY INTELLIGENCE PERSONNEL FROM SELFRIDGE AFB
+                MICHIGAN IN APRIL OF THIS YEAR AND DETERMINED TO BE
+                THE PLANET VENUS PD I BELIEVE THIS TO BE THE SAME
+                OBJECT.
+
+BT
+
 
 - page 4 -
 

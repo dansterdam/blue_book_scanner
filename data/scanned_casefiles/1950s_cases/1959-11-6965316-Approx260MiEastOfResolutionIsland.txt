@@ -1,280 +1,391 @@
-There is no photograph present in the image. The image appears to be a scanned document from Project Blue Book, a U.S. Air Force program that investigated UFO reports.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 13 NOV 59
-2. LOCATION: Approx. 560 mi East of Resolution Island
-3. DATE/TIME GROUP: 2/1/1952
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: 0 Yes
-6. IDENTIFICATION OF OBJECT: Small silvery and cbl. Navigational turns caused the object to be identified as the planet Venus.
-7. LENGTH OF OBSERVATION: 10-15 Mins.
-8. NUMBER OF OBJECTS: 1
-9. COURSE: Not Available
-10. BRIEF SUMMARY OF SIGHTING: Small silvery and cbl. Navigational turns caused the object to be identified as the planet Venus.
-11. COMMENTS: Astro pilots indicate the planet Venus to be in the position rprd.
-12. CONCLUSIONS: Was Balloon, Probably Balloon, Astronomical, Probably Astronomical.
+
+1. DATE
+13 Nov 59
+
+2. LOCATION
+Approx 260 mi East of
+Resolution Island
+
+3. DATE-TIME GROUP
+Local
+GMT 13/13:152
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual         ☐ Ground-Radar
+☒ Air-Visual            ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+1 hr. 11 mins
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+Stationary
+
+10. BRIEF SUMMARY OF SIGHTING
+Small, silvery, rnd. obj. Navigational turns caused loss of obj. Pilots identified it as the planet Venus.
+
+11. COMMENTS
+Astro plots indicate the planet Venus to be in the position rptd.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical Venus
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-This page from the Project Blue Book document does not contain any photographs. The image shows a scanned document with text only.
-
 DEPARTMENT OF THE AIR FORCE
-STATE MESSAGE DIVISION
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE COPY
 
 INCOMING
 
-AS IN: 45129 (13 NOV 59)
+AF IN: 45129 (13 Nov 59)
 
-(45). ONE (1).
-
-(59). N/A
+(4). ONE (1).
+(5). N/A
 (6). NEGATIVE
 (7). NEGATIVE
 (8). NEGATIVE
 (9). MAINTAINED PARALLEL COURSE
 
 B. (1). VISUAL
-(2). -66 DEGREES - 22 DEGREES RIGHT OF NOSE
-(3). - 50 DEGREES - 5 DEGREES LEFT OF COURSE
-(4) PARALLEL TO COURSE
-(5) UNK. (6). - 1 HOUR 21 MINUTES
+   (2)-60 DEGREES - 20SDEGREES RIGHT OF NOSE
+   (3)-50 DEGREES - 5 DEGREES LEFT OF COURSE
+   (4). PARALLEL TO COURSE
+   (5). UNK. (6). - 1 HOUR 21 MINUTES
 
-C. (1). - AIR VISUAL
-(2). - NEGATIVE
-(3). - B52, EYEPLAY SS PLUS 11, 34,000 FT
-HEADING 262, 422 KTS, WESTOVER AFB
+C. (1) - AIR VISUAL
+   (2) - NEGATIVE
+   (3) - B52, BYPLAY 68 PLUS 11, 34,000 FT
+   HEADING 260, 422 KTS, WESTOVER AFB
 
-D. (1). -13 NOV 1-1225Z
-(2). - DAY
+D. (1)-13 NOV -1225Z
+   (2) - DAY
 
-E. 6158N 5640 W
+E. 61 18N 5640 W
 
 F. (1) N/A
-(2). UNK.
+   (2)-INK.
 
 G. (1). THROUGH J. N/A
 
 K. - NO COMMENT
 
-L- TAPE OF REPORT AT 924TH ACWS SQ
+L. - TAPE OF REPORT AT 924TH AC&W SQ
 
-31/1302Z NOV RJSNFX
-COPY P. 1, AF IN 45083 (13 NOV 59)
+BT
+
+31/1422Z NOV RJENFX
+NOTE 5. Corrected copy of AF IN 45083 (13 Nov 59)
+Page 2 of 2
+
 CORRECTED COPY
+
 
 - page 2 -
 
-The image does not contain a photograph. It appears to be a page from a Project Blue Book document, likely a report on an unidentified flying object (UFO) sighting.
+Here is the text from the document:
 
-Text Produced by OCR:
+JOINT MESSAGE FORM                                SECURITY CLASSIFICATION    UNCLASSIFIED
 
-JOINT MESSAGEFORM
-SPACE BELOW RESERVED FOR COMMUNICATION CENTER
-SECURITY CLASSIFICATION UNCLAS EROD
-From: ATIC WP-AFB
-TO: WESTOVER AFB, MASS
-UNCLAS FROM: APOTN-U-490 11-3-59
-ATTN 99TH BOMB WING. THIS ATIC HAS RECEIVED A REPORT FROM IT'S USAF
-RGIONAL AIR 4/0 CUTER WASH DO C LOGGED AN UFO AT 1204, 13 NOV 59.
-ACCO1DING TO THE WITNZJSES BE CONTACTED AND QU7TIONED IN DETAIU, AND THAT A
-REPORT BE MADE IN ACCORDANCE WITH THE PROVISIONS OF PARS 14 & 15 OF
-AFR 200-2, 14 SEP 59. THIS WAS REPORTED AS AN AIRBORNE SIGHTING;
-THEREFORE, IT IS REQUESTED THAT A/O HEADINGS, ALTITUDES, POSITIONS
-AND SPEEDS, AS RELATED TO THIS INCIDENT, BE SPECIFICALLY RECORDED.
-DATE TIME
-13 1225
-MONTH YEAR
-NOV 1959
-SYMBOL
-APOTN-U-490
-TYPED NAME AND GRADE
-ROBERT G. LEWIS
-Colonel, USAF
-Assistant Chief, ATIC
-DD FORM 173 REPLACES DD FORM 173, 1 OCT 52, WHICH WILL BE USED UNTIL EXHAUSTED.
+[Handwritten notes in top right corner: "Chicopee Mass 352" "TCT 18/31-18" "69"]
+
+PRECEDENCE    TYPE MSG (Check)    ACCOUNTING     ORIG. OR REFS TO    CLASSIFICATION
+ACTION        ROUTINE             SYMBOL         ORIG                OF REFERENCE
+INFO          BOOK    MULTI   SINGLE    X        AF
+FROM:         ATIC W-P AFB
+TO:           WESTOVER AFB, MASS
+
+/UNCLAS/FROM: ATIC-W-4406                         11-24-E
+                                                  2
+ATTN 999TH BOMB WNG. THE ATIC HAS RECEIVED A REPORT FROM HQ, USAF THAT AN A/C CREW FROM YOUR ORG SIGHTED AN UFO AT 1204, 13 NOV 59.
+
+REQ THE WITNESSES BE CONTACTED AND QUESTIONED IN DETAIL, AND THAT A REPORT BE MADE IN ACCORDANCE WITH THE PROVISIONS OF PARAS 14 & 15 OF ATIC 200-2, 14 SEP 59. THIS WAS REPORTED AS AN AIRBORNE SIGHTING; THEREFORE, IT IS REQUESTED THAT A/C HEADINGS, ALTITUDES, POSITIONS AND SPEEDS, AS RELATED TO THIS INCIDENT, BE SPECIFICALLY REPORTED.
+
+[Bottom of form]
+DATE        13    NOV    1959    TIME    1225
+
+[Signature section with typed name: PHILIP G. EVANS, Colonel, USAF, ATIC-W-4406]
+
+DD FORM 173    REPLACES DD FORM 173, 1 OCT 49, WHICH WILL BE USED UNTIL EXHAUSTED
+
 
 - page 3 -
 
-This image contains a page from an old UFO report document from Project Blue Book. The page has two main elements - text and a redacted or blacked-out image.
+UNCLASSIFIED
 
-The text on the page is as follows:
+1959 NOV 25 23 44
 
-FAC ENGINE 3997 FOR ARCTIC CR, INITIAL 1S 1.15 PM. RECEIVED A CALL FROM USN AS 543-S 1050 ON 15 NOV 59. SHOW D-55. AIRCRAFT CALL SIGN 21G1 HAS REPORTED UNIDENTIFIED OBJECT AT BEARING 270 DEGREES FOR 57 MILES AT VARYING ELEVATIONS BETWEEN 9,000 AND 13,000 FEET ALTITUDE. THIS CONVOCATION CONTINUED FROM 22:16Z TO 22:57Z AND CONCLUDED WITH THE OBJECT DEPARTING THE AREA AT A VERY HIGH SPEED. THE ART TAG USED. GET TRANSPORT REQUESTED T? N-38 FILE A CLAIMS IWT OUT RESPONSE WAS DECLINED BY SINCE AFTER THE POSITIVE IDENTIFICATION OF SUSPECTED UFO WAS FINALLY VENUS.
+PARAGRAPH NOT REQUIRED WHEN BLANK
 
-As for the redacted or blacked-out image, it appears to be some kind of graphical element, but the content has been obscured and is not visible.
+TO: ATIC MIGT PATTERSON AFB AO/
+
+FROM: 9BGOE 3527 FC. AGCM. SUBJECT: (U) UFO.
+
+REFERENCE YOUR MSG AGCM-CG DID 12 NOV 59. 9500 P-52.
+
+ACFT 2576 A/C WENT WAS ON A STILL TASK II MISSION WHEN SIGHTED
+
+SIGHTING OCCURRED. GCI SITE AT SAGLEK, LABRADOR, CALL SIGN:
+
+TRANSPORT WAS QUERIED BY GCI AS TO POSITION OF ACFT IN THE
+
+AREA, RELATIVE TO A BRIGHT OBJECT AHEAD OF AND LEFT OF TRACK AT
+
+APPROX 45 DEGREES ELEVATION. THIS CONVERSATION CONTINUED FROM
+
+14:52 TO 14:52 AND CONCLUDED WITH THE -52 IDENTIFYING THE SUSPECTED
+
+FO AS THE PLANET VENUS. THE ACFT WAS AT 54 24'N 59 25'W AT 14:22
+
+ALT 24000FT. THE 217 TAG ACFT. GCI SITE TRANSPORT REQUESTED THE
+
+-52 FILE A CIVID APT BUT ACFT WAS DECLINED BY -52 AFTER
+
+POSITIVE IDENTIFICATION OF SUSPECTED UFO AS PLANET VENUS.
+
+DOWNAIS 11-2316-E
+
+Classification Cancelled
+
 
 - page 4 -
 
-The image does not contain any photographs. It appears to be a typed text document describing a UFO sighting.
+UFO from SAC Command Post to our Command Post
 
-The text in the document is as follows:
+Two steel trap aircraft, 99th bomb wing, sighted a UFO at 1205 zulu, object was silver - 16 degrees - 18 minutes north 56 degrees, 14 minutes west. Aircraft were on a heading of 260 degrees at 34,000'. Object was sighted 20 degrees to the right and 60 degrees above the aircraft. It was kept in sight for 1 hour, 20 minutes at which time the aircraft changed heading 330 degrees and then changed back to 260 degrees. Last sighted at 58 degrees north, 61 degrees, 5 minutes west.
 
-UFO FROM SAC COMMAND POST TO OUR COMMAND POST
-Two steel trap aircraft, 99th Bomb Wing, sighted a UFO at 1205 Allis. Object was silver - 15 degrees - 15 minutes north 56 degrees, 14 minutes west. Aircraft were on a heading of 260 degrees at 34,000'. Object was sighted 20 degrees to the right and 60 degrees above the aircraft. It was kept in sight for 1 hour, 20 minutes at which time the aircraft changed heading 330 degrees and then changed back to 260 degrees. Last sighted at 55 degrees north, 61 degrees, 5 minutes west.
 
 - page 5 -
 
-The image does not contain any photograph. It is a page from an old UFO report document, specifically from Project Blue Book. The text describes an aircraft sighting from the 99th Bomb Wing on November 13, 1959. The aircraft was observed at an altitude of 13,000 feet, and its location was originally 15.5 nautical miles. The aircraft maneuvered between 330 degrees and 260 degrees, losing sight of the object at one point, before it was located again at 58 degrees. The object was viewed for 1 hour and 20 minutes.
+An Aircraft from the 99th Bomb Wing sighted silver object at 1205.
 
-An aircraft from the 99th Bomb Wing sighted a silver object at 1206z, 13 NOV 1959. Original location of aircraft was 15.5: 56.0w. Aircraft on heading of 250 degrees at 13,000 feet. Object sighted 20 degrees to right and 60 degrees above observing aircraft. Aircraft maneuvered course to 330 degrees, then back to 260 degrees, at which time lost sight of object. At this time aircraft location was 58 degrees. Object viewed for one hour 20 minutes.
+13 Nov 1959. Original location of aircraft was 151st 561od. Aircraft on heading of 260 degrees at 34,000 feet. Object sighted 20 degrees to right and 60 degrees above observing aircraft. Aircraft changed course to 330 degrees, then back to 260 degrees, at which time lost sight of object. At this time aircraft location was 58 degrees N 61.5W. Object viewed for one hour 20 minutes.
+
 
 - page 6 -
-
-The provided image does not contain any photograph. It appears to be a page from a Project Blue Book UFO report document, specifically a staff message division of the Department of the Air Force.
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE DIVISION
 UNCLASSIFIED MESSAGE
-
 INCOMING
 
-AF IN: 46585 (14 NOV 59) B/N/L--
-ACTION: CEN
-INFG: 0OP SAFG
-VZQHDS93ZCCJEP96
-TO RUEZHS
-DE RUEOPQS
-R 131906Z
-FM GKJZ 92 38 ACTION SAGELY'S LASAGCR
-TO RJHFAL/COMDR ADC ENT AFB
-RJDNR/COMDR ATIC WRIGHT PATTERSON AFB
-RJEZRHO/ASSISTANT C/S INTELLIGENCE HO USAF WASHINGTON DC
-RJEZRHO/DEPUTY OF INFORMATION HO USAF WASHINGTON DC
-RJENRY/COMCEN 64TH ADFV PEPPERRELL AFB NFLD
+AF IN: 46585 (14 Nov 59) B/N/121
+
+ACTION: CIN
+
+INFO: 00P/SAFS
+
+VZCNDS53ZCOJD96
+
+TO RJEZHO
+
+DE RJEO9PD 3
+
+R 131500Z
+
+FM COMSR 9218 ACRON SAGLEAS LABROR
+
+TO RJMFAL/COMDR ADC ENT AFB
+
+RJEOS9/COMDR ATIC WRIGHT PATTERSON AFB
+
+RJEZHO/ASSISTANT C/S INTELLIGENCE HQ USAF WASHINGTON DC
+
+RJEZHO/OFFICE OF INFORMATION HQ USAF WASHINGTON DC
+
+RJENFX/COMDR 64TH ADIV PEPPERELL AFB NFLD
+
 BT
-UNOLAS FROM ALOP 1717, REFERENCE AFR 200-2, DATED 3 FEB 1956,
-PARAGRAPH 14 AND 15. FOLLOWING INFORMATION IS APPLICABLE TO:
+
+UNCLAS FROM ALOP 1717, REFERENCE AFR 200-2, DATED 5 FEB 1958,
+
+PARAGRAPH 14 AND 15, FOLLOWING INFORMATION IS APPLICABLE TO
 PARAGRAPH 15:
 
 1. SHAPE-ROUND
+
 2. SMALL
+
 3. SILVER
+
 4. ONE
+
 5. FORMATION-NONE
+
 6. NONE
+
 
 - page 7 -
 
-The image does not contain any photographs. However, it appears to be a page from an old UFO report document from Project Blue Book.
-
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
 INCOMING
-AF IN 46585 (14 NOV 59)
-PAGE TWO
+
+AF IN: 46585 (14 Nov 59)
+PAGE TWO RJE03PD 3
+
 7. NONE
 8. NONE
 9. NONE
+3.
 1. SILVER COLOR
 2. 20 DEGREES LEFT OF NOSE 68 DEGREES IN ELEVATION, A/C HEADING 260 DEGREES.
 3. 5 DEGREES LEFT OF NOSE 50 DEGREES IN ELEVATION A/C HEADING 230 DEGREES.
 4. UNDETERMINED
 5. NAVIGATIONAL TURNS CAUSED LOSS OF OBJECT.
-6. 1 HOUR 11 MINUTES 1215Z TO 1326Z 15 NOV 59.
-7. NONE
-8. NONE
-9. 2 B-52* DISPLAY 62 AND BYPLAY 11. ALTITUDE 34,000 HEADING 260 DEGREES SPEED 420 K.
-D. 1215Z TO 1326Z 15 NOV 59.
+6. 1 HOUR 11 MINUTES 1215Z TO 1326Z 13 NOV 59.
+C.
+10. NONE
+2. NONE
+3. 2 B-52 BYPLAY 68 AND DYPLAY 11, ALTITUDE 34,000 HEADING 260 DEGREES SPEED 420 K.
+D.
+1. 1215Z TO 1326Z 13 NOV 59.
 2. DAY
 
 Page 2 of 3
 
+
 - page 8 -
 
-The image does not contain a photograph. It appears to be a page from a Project Blue Book report, likely from 1959, detailing information about a sighting observed by military pilots. The text on the page provides details about the sighting, including coordinates, visibility conditions, and observations by the pilots.
-
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
 INCOMING
-PAGE THREE RJEOIPB 3
 
-E. 
+AF IN : 46585 (14 Nov 59)
+PAGE THREE RJE08PD 3
 
-1. 58 DEGREES 18 MINUTES N. 36 DEGREES 40 MINUTES W. (12152)
-2. 58 DEGREES 20 MINUTES N. 60 DEGREES 30 MINUTES W. (13262)
+E.
+1. 61 DEGREES 18 MINUTES N. 56 DEGREES 40 MINUTES W. (1215Z)
+   58 DEGREES 20 MINUTES N. 60 DEGREES 30 MINUTES W. (1325Z)
 
-F. 
-1. MILITARY PILOTS OF C-52'S.
+F.
+1. MILITARY PILOTS OF B-52'S.
 
-G. 
+G.
 1. UNLIMITED VISIBILITY, SKY CLEAR.
-2. 10,000 (207 DEGREES-35X) 20,000 (200 DEGREES 75)
-30,000 (210 DEGREES-70K) 40,000 (210 DEGREES 50K)
-3. HIGH SCATTERED 
+2. 10,000 (207 DEGREES-35K) 20,000 (200 DEGREES 85K)
+   30,000 (210 DEGREES-70K) 40,000 (210 DEGREES 50K)
+3. HIGH SCATTERED
 4. 20PLUS
 5. 1/10
 6. NONE
+
 H. NONE
+
 I. NONE
+
 J. NONE
-K. DUTY CONTROLLER (924TH ACWRON) - PILOTS REPORTED POSSIBLE PLANET.
+
+K. DUTY CONTROLLER (924TH ACWRON). PILOTS REPORTED POSSIBLE PLANET.
+
 L. NONE
 
-EMARK: RADAR UNIT DID NOT OBSERVE ANYTHING UNUSUAL ON SCOPES
+MARKS: RADAR UNIT DID NOT OBSERVE ANYTHING UNUSUAL ON SCOPES
 DURING ABOVE PERIOD.
 
-ST
-14/1533Z NOV RJEOIPB
-PAGE 3 OF 3
+BT
+14/1533Z NOV RJE08PD
+Page 3 of 3
+
 
 - page 9 -
 
-There is no photograph present in this image. This appears to be a page from an old Project Blue Book UFO report document.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE:
+INCOMING
+
+AF IN : 45589 (13 NOV 59) K/R/cem
+ACTION : CIN
+INFO : COP, SAFS
+BD C319
+GCZCHG297CZJ81 40
+PP RJEZHG
+PE RJENFX 51A
+P 130025Z ZEX
+FM COMDR 64TH AIR DIV PEPPERED AFB NFLD
+TO RJ'WF'AL/ADO
+RJEDS0/ATIC WRIGHT PATTERSON AFB
+RJEZHO/HQ USAF
+RJEZHO/SAFIS WASH DC
+BT
+UNCLAS FROM 64 OIN 1010. UFO, A. (1) ROUND, (2) NEGATIVE
+(3) BRIGHT SILVER, (4) ONE, (5) N/A, (6) NEGATIVE, (7)
+NEGATIVE, (8) NEGATIVE, (9) MAINTAINED PARALLEL COURSE.
+3. (1) VISUAL, (2) 60 DEGREES - 20 DEGREES RIGHT OF NOSE,
+(3) 50 DEGREES - 5 DEGREES LEFT OF COURSE, (4) PARALLEL TO
+COURSE, (5) UNK, (6) 1 HOUR 21 MINUTES, G. (1) AIR VISUAL
+(2) NEGATIVE, (3) 351, BYPLAY 68 POS 11, 34,000 FT. HEADING
+080, 420 KTS, WESTOVER AFB, D. (1) 13 NOV - 1205Z, (2)
+DAY, E, 6118N 5S40W, F. (1) N/A, (2) UNK, G. (1) THROUGH
+J. N/A, K. NO COMMENT, L. TAPE OF REPORT AT 924 ACWRON.
+BT
+13/2027Z NOV RJENFX
+
+
+- page 10 -
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE DIVISION
 UNCLASSIFIED MESSAGE
 
-INCOMING
-AF IN : 45589 (13 NOV 59) K/R/cem
-ACTION : GIN
-INFO : 0025 GARS
-MD G319
-CCZHQ 2972CZ UBI 40
-PP RJEZHO
-DE RJENFX 31A
-P 132025Z LEX
-RM COMBAT 54TH AIR DIV PEPPERRED AFB NFLD
-TO RJ\AF/ADC
-RJEDSQ/ATIC WRIGHT PATTERSON AFB
-RJEZHO/HQ USAF
-RJEZHO/SAFIS WASH DC
-UNCLASS FROM 64 GCI 1010. UFO. A. (1) ROUND. (2) NEGATIVE. (3) BRIGHT SILVER. (4) ONE. (5) N/A. (6) NEGATIVE. (7) NEGATIVE. (8) NEGATIVE. (9) MAINTAINED PARALLEL COURSE. B. (1) VISUAL. (2) 60 DEGREES - 20 DEGREES RIGHT OF NOSE. (3) 50 DEGREES - 5 DEGREES LEFT OF COURSE. (4) PARALLEL TO COURSE. (5) UNK. (6) 1 HOUR 21 MINUTES. C. (1) AIR VISUAL. (2) NEGATIVE. (3) 211, DISPLAY 60 X 34,000 FT. HEADING 30, 420 KTS, WESTOVER AFB. D. (1) 13 NOV - 12052. (2) DAY. E. 611651 340W. F. (1) N/A. (2) UNK. G. (1) THROUGH TO N/A. K. NO COMMENT. L. TAPE OF REPORT AT 924 ACDRON.
+13 NOV 59
 
-13/2027Z NOV RJENFX
+LF IN.: 45129 (13 Nov 59) A/W/cfd
 
-- page 10 -
+ACTION: INFO
+SMD B 133
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
-
-As an OCR system, the text found in the document is as follows:
-
-DEPARTMENT OF THE AIR FORCE
-STAFF MESSAGE DIVISION
-
-INCO-M
-
-13 NOV 59 A/N/ord
-
-SUMMARY:
-COY (SASS)
-
-COPY COPY
-GZOKQSSZACZCJAQ9S
-GG 9 JEZRG
+CORP COPY
+CZCHQB224ZCZA9Q8
+OO RJEZHQ
 ZEL
 FXA139
-GG DJEDS9 RJEZHO RJVFAL RFENVE
-DE PJENF% BA
-I 131415Z ZEX
+OO RJEDSQ RJEZHQ RJWFAL RFEMVB
+DE RJENFX 8A
+O 1314152 ZEX
 FM 64TH CONAD CC PEPPERRELL AFB NFLD
-TO PJNFAL/COMDR ADC ENT
-RJDSD9G/COMDR AIR TECH INTELL CENTER
-9JEZRH9/AST COMD INTELL HC USAF
-RJEZHC/OIS HQ USAF
-RFENVB/AOC ADC HQ ST HUBERTS
-AF GRN'C
-ST
-/UNCLAS$/ CONAD CC 02195. ATTN COC/ INTELL
-A. ROUND
-(2).NEGATIVE
-(3). BRIGHT SILVER
+TO RJWFAL/COMDR ADC ENT
+RJEDSQ/COMDR AIR TECH INTELL CENTER
+RJEZHQ/ASST CONF INTELL HQ USAF
+RJEZHQ/OIS HQ USAF
+RFEMVB/ADC ADC HQ ST HUBERTS
+AF GPNC
+BT
+/UNCLASS/ CONAD CC 02195. ATTN: COC/ INTELL
+
+A. (1). ROUND
+   (2). NEGATIVE
+   (3). BRIGHT SILVER
+
+CORRECTED COPY
+
 
 - page 11 -
 

@@ -1,39 +1,85 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record card, which contains text describing an observation of a meteor-like object.
-
 PROJECT 10073 RECORD CARD
-1. DATE  2 Jan 69
-2. LOCATION  35-06N 129-57W (Pacific)
-3. TIME OF OBSERVATION  1820 
-4. PHOTOS  0 Yes
-5. LENGTH OF OBSERVATION  45 minutes  
-6. NUMBER OF OBJECTS  1
-8. COURSE  Flew Nest to East along horizon, disappeared over horizon.
-10. CONCLUSIONS  Was Probably Meteor.
+
+1. DATE
+2 Jan 59
+
+2. LOCATION
+35.05N 129.57W (Pacific)
+
+3. DATE-TIME GROUP
+GMT 02/0946, Jan 59
+
+4. PHOTOS
+☒ Yes
+☐ No
+
+5. SOURCE
+Military
+
+6. LENGTH OF OBSERVATION
+4 secs
+
+7. NUMBER OF OBJECTS
+One
+
+8. BRIEF SUMMARY OF SIGHTING
+Obj travelling from West to East along
+Southern horizon from position of a/c, 30 deg
+illumination brilliant, Clear sky. In sight for
+4 seconds.
+
+9. COURSE
+Flat
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+11. COMMENTS
+Typical observation of meteor.
+
 
 - page 1 -
 
-The image does not contain a photograph, but rather an official document from the Department of the Air Force. The document appears to be a report or notification regarding an "EMERGENCY" sighting of a "SHINY BELLS SIGHTED OBJECT" that was traveling from west to east in the southern horizon. The document provides details about the object's magnetic heading, altitude, and duration of observation. There are also instructions for distributing the information to various military and government agencies.
-
+DEPARTMENT OF THE AIR FORCE
 INCOMING
-ZECCHODC2992GRAN2849
-ITYY RJEZ HO
-DE RJJZAW 38
-PRIORITY
-TO RJEDDVG 1NG CARD ENT AFB
-RJJZAWCOR5 GLUSAF WASH
-RJJZAWCORG GLUSAF WASH
-SECONCEVENT OPERATION
-EMERGENCY
-BELLS BELLS SIGHTED OBJECT TRAVELING FROM WEST TO EAST SOUTHERN
-HORIZON GENERAL COURSE 120 MAGNETIC HEADING OUR PSN 39-55N 129-57W
-HEADING 157 DEGREES MAGNETIC BEARING FROM OUR COURSE SPEED OF OBJECT
-APPEARED SLOW ALTITUDE WAS QUITE BRILLIANT MAY HAVE BEEN CLEAR TRAIL
+
+SMD A 025
+ZCCHOE293ZCQAJA249
+
+DE RJWZAW 38
+
+FM BW543/AFP
+
+TO RJEDDMVOTNG DADS ENT AFB
+RJEZH2/COS TDLUSAR WASH
+RSWPI/CO*DR WESTSEAFRON TI
+AF GRNC
+BTI
+
+HELLS BELLS SIGHTED OBJECT 0941Z TRAVLING FROM WEST TO EAST SOUTHERN
+HORIZON GENERAL COURSE 120 MAGNETIC HEADING OUR PSN 3506N 12957W
+HEADING 127 DEGREES MAGNETIC BEARING FROM OUR COURSE SPEED OF OBJECT
+APPEARED SLOW ALUMINATION WAS QUITE BRILLIANT SKY WAS CLEAR DURATION
 OF ALUMINATION WAS APPROX 4 SECONDS
-2711161Z JAN RJJZAW
-NOTE: Advance copies delivered to GIN & OOP-OP
-ACTION : ARMY, NAVY, JCS, OSD, NSA; CIA, OOP-OP; CMC
-AF IN 21586 (2 JAN 55)
-DB/JyY
+
+021610Z JAN RJWZAW
+
+NOTE * ADVANCE COPIES DELIVERED TO CIN & OOP-CP
+ACTION * CIN
+INFO * ARMY, NAVY, JCS, OSD, NSA, CIA, OOP-CP, CMC
+AF IN: 21586 (2 Jan 59)                                                 DB/jry
+
 
 - page 2 -
 

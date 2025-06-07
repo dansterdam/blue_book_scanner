@@ -1,102 +1,61 @@
-There is no photograph present on this page.
-
-Here is the OCR output of the text found in the document:
-
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE
-8 August 1958
-DATE-TIME GROUP
-local           
-GMT 09/0424Z
+1. DATE: 8 August 1958
 
-PHOTOS
-  Yes
-  No
+2. LOCATION: Flat Rock, Michigan
 
-2. LOCATION
-Flat Rock, Michigan
+3. DATE-TIME GROUP: 09/0242Z
 
-4. TYPE OF OBSERVATION
-  Ground-Visual
-  Ground-Radar
-  Air-Visual
-  Air-Intercept Radar
+4. TYPE OF OBSERVATION: Ground-Visual
 
-5. SOURCE
-Unknown
+5. SOURCE: Unknown
 
-8. NUMBER OF OBJECTS
-one
+6. LENGTH OF OBSERVATION: Unknown
 
-9. COURSE
-unknown
+7. NUMBER OF OBJECTS: one
 
-10. LENGTH OF OBSERVATION
- unknown
+8. BRIEF SUMMARY OF SIGHTING: obj. rising & falling, leaving vapor trail, traveling E to W.
 
-11. BRIEF SUMMARY OF SIGHTING
-obj, rising & falling, leaving major trail, traveling E to W.
+9. COURSE: unknown
 
-11. COMMENTS
-Insufficient data.
+10. COMMENTS: Insufficient data.
 
-12. CONCLUSIONS
-  Was Balloon
-  Probably Balloon
-  Possibly Balloon
+11. CONCLUSIONS:
+- Was Balloon: Not checked
+- Probably Balloon: Not checked
+- Was Aircraft: Not checked
+- Probably Aircraft: Not checked
+- Was Astronomical: Not checked
+- Probably Astronomical: Not checked
+- Other: Not checked
+- Insufficient Data for Evaluation: Checked
 
-  Was Aircraft
-  Probably Aircraft
-  Possibly Aircraft
-  Was Astronomical
-  Probably Astronomical
-  Possibly Astronomical
-  Other
-Insufficient Data for Evaluation
-  Unknown
-
-FORM 329 (REV 26 SEP 52)
-```
 
 - page 1 -
 
-There are no photographs present on this page of the document.
+Flat Rock, Mich. - 9 Aug 1958
 
-OCR transcription of the text:
+Source: Unknown
+Location: Flat Rock, Michigan, 3 rd distant
+Time of sighting: 0424E, 9 Aug 58 (1145 PM 8 Aug)
+Elevation: UNK
+Direction: E to U
+No Azimuth: UNK
+True & Sight: Unknown
+Reliable: Rumor & Felt O, etc. (...)
 
-```
-?    Flat Rock, Mich _ 9 Aug 1958              17
+Size: The den R-cl
+Object: Round
+Color: UNK
 
-Source: Unknown       call   T/o   5 ft F/o
-
-Location: Flat Rock    vicinity - 6 miles
-                                           distant 
-Time & date: 0424 E        9 Aug 58                     
-
-Evaluations:  UNK
-Direction: E to U. 
-No. objects: unk
-Type & Light:   unknown
-Details: Racing - I falling, being
-            seen & tail.
-Size:       Medium - ball
-Shape:    Round
-Color:      unk
-
-Comments:  
-
-Info
-                  received from:
-           Capt. T.C. Warner 
-               WP Air Services
+Comments:
+Rec'd from
+Capt. T.C. Weaver
+WPFB - Source -
 
 Insuff
-                          Data
+Data
 
-:esp
-```
 
 - page 2 -
 

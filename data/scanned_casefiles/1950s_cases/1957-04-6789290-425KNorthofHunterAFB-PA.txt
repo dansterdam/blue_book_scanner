@@ -1,154 +1,165 @@
-No photograph is present on this page.
-
-Here is the text extracted from the document:
-
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE            2. LOCATION             12. CONCLUSIONS
-22 April 1957      425 K North of Hunter AFB,  ❑ Was Balloon
-                   Ga.                       ❑ Probably Balloon
-3. DATE-TIME GROUP 4. TYPE OBSERVATION      ❑ Possibly Balloon
-GMT                                         ❑ Was Aircraft
-0110 --0128X       ❑ Ground-Visual          ❑ Probably Aircraft
-Local:2010         ❑ Ground-Radar           ❑ Possibly Aircraft
-                   ❑ Air-Visual             ❑ Was Astronomical Comet
-5. PHOTOS          ❑ Air-Intercept Radar    ❑ Probably Astronomical
-❑ Yes              6. SOURCE                ❑ Possibly Astronomical
-❑ No               ❑ military               ❑ Other
-                                         ❑ Insufficient Data for Evaluation
-                                         ❑ Unknown
-7. LENGTH OBSERVATION  8. NUMBER OBJECTS   9. COURSE
-18 minutes            one               NW
-10. BRIEF SUMMARY OF SIGHTING           11. COMMENTS
-One object described as a pencil shape  Probably Orend Leland comet.
-5 inches long, bright star color. Obj
-had trail of light at 20 dgr angle of
-actual object. Object on a NW heading
-traveling at a very high speed hovered
-with trail of light.
+1. DATE
+22 April 1957
 
-ATCC FORM 329 (REV 16 SEP 52)
-```
+2. LOCATION
+425 K North of Hunter AFB
+
+3. DATE-TIME GROUP
+Local 2010
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual   ☐ Ground-Radar
+☒ Air-Visual     ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+military
+
+7. LENGTH OF OBSERVATION
+18 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+NW
+
+10. BRIEF SUMMARY OF SIGHTING
+One object described as a pencil shape 5 inches long, bright star color. Obj had trail of light at 20 deg angle of actual object. Object on a NW heading traveling at a very high speed hovered with trail of light.
+
+11. COMMENTS
+Probably Oernd Leland comet.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical Comet
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. Here is the text output:
+Here is the text from the document:
 
-```
-22     22/10/3282                          ATIC        22043572513
-                                                       NTFO 
-                                                       23/04/57 
+22 23/0/282
 
-[ZC249
-TPC2AMC YHC2211SA4331 LEAD32H-DDA356
+ATIC
 
-00 RJEDIN REJNDP RJEPHO
-DE REJDLS SGHI ZEX
-20 233337Z
+23MR57 07 05
 
-OL:OLMSTED AFB PA
+10349
 
-TO RJEDIN/COMDR ADC ENT AF3 COLORADO COMDR AD (DEF)
-:RJEDIP/COMDR AIR TECHNICAL INTEL WRIGHT -PATTERSON AFB OHIO
-/RJEPHO/DIR OF INTEL HQ USAF WASH 25D C
-DT
+MCGRAW MCGZLLSAG31 EDA331-EDA366
+
+DO RJDGMN RJDGMP RJEPIQ
+
+DO RJDLS 66W ZEX
+
+O 2303322
+
+FM OLMSTED AFB PA
+
+TO RJDEWCOMBR ADC ENT AFB COLORADO COLO AD COPR)
+RJDGMTV/CODIR AIR TECHNICAL INTEL WRIGHT -PATTERSON AFB OHIO
+RJEPIQ/DIR OF INTEL HQ USAF WASH 250 C
+
+JT
 
 1. DESCRIPTION
-...PENCIL
-...SINCERES
-...BRIGHT STAR COLOR
-...1 
-...N/A
-...NONE
-3. TAIL-TRAIL OF LIGHT AT 20 DEGREE ANGLE OF ACTUAL OBJECT UNK
-...NONE
-...NONE
+..PENCIL
+..INCHES
+..BRIGHT STAR COLOR
+..1
+..N/A
+..NONE
+..TAIL-TRAIL OF LIGHT AT 20DEGREE ANGLE OF ACTUAL DEGREES UNK
+..NONE
+1. NONE
 
-TMPQ
-ZAE *.*..*RJDLES SGHI
+TWO
 
-...DESCRIPTION OF COURSE...
-...UNK
-...LEVEL
-...UNK
-...NW HEADING TRAVELING VERY HIGH SPEED - HOVERED WITH TRAIL OF LIGHT
-AT 20 DEGREE ANGLE
-```
+..DESCRIPTION OF COURSE
+..DIR
+..LEVEL
+..UNK
+..NO HEADING TRAVELING VERY HIGH SPEED - HOVERED WITH TRAIL OF LIGHT
+
 
 - page 2 -
 
-The image provided does not contain any photographs. The content of the image is textual. Below is the transcribed text from the document:
-
-```
-2.DESCRIPTION OF COURSE 
-A. UNK.
-B. LEVEL.
-C. UNK.
-D. *** HEADING TRAVELING VERY HIGH SPEED - HOVERED WITH TRAIL OF LIGHT
-AT 20 DEGREE ANGLE
-E. *** AT HIGH?SPEED
-F. 10 MIN
-
+2. DESCRIPTION OF COURSE
+A. UNK
+B. LEVEL
+C. UNK
+D. IN HEADING TRAVELING VERY HIGH SPEED - HOVERED WITH TRAIL OF LIGHT
+E. AT 200DEGRE ANGLE
+F. IN AT HIGH SPEED
+G. 16 MIN
 3. MANNER OF OBSERVATION
-A. AIR (B47 OVR RICK=RichMONd,/VA.
+A. AIR (247 OVR RIG) - Richmond, Va.
 B. NONE
-C. B-47 OPTICAL 43-35, 7302FT. NORTH 425*K HUNTER AFB GA
-
+C. B-47 OATMEAL 43-35,382FT. NORTH 425K HUNTER AFB GA
 4. TIME AND DATE OF SIGHTING
-A. 23/31122 - 23/0125Z
+A. 25/2112Z -23/0125Z
 B. NIGHT
-
-5. LOCATION OF OBSERVANT(S)
-..AC VICINITY SN NORTH
-
+5. LOCATION OF OBSERVER(S)
+   RIO VICINITY 5MI NORTH
 6. IDENTIFYING INFORMATION OF ALL OBSERVER(S)
 A. N/A
 
-PAGE 3 RJEDLS 694//
+PAGE 3 RJEWLS 56M
 
-2. WASSIL, M.G CAPT
-347TH BOMB SQ, HUNTER AFB SVN GA. PILOT -GOOD
+7. WASSIL, M.G. CAPT
+   374TH BOMB SQ, HUNTER AFB SVM GA. PILOT -GOOD
+8. WEATHER AND WINDS - ALOFT CONDITIONS TIME AND PLACE OF SIGHTING
+A. OVERCAST
+B. SURFACE WD 7
+C. ... -2400 10 KT
+D. ... -2400 15 KT
+E. 16,700 -250 DEG 20 KT
+F. ... -250 DEG 25 KT
+G. 25,100 -250 DEG 30 KT
+H. 35,100 -,/~DEG N/A KT
 
-7. WEATHER AND WINDS - ALOFT CONDITIONS; TIME AND PLACE OF SIGHTING
-.. OVERCAST
-.. SURFACE-NE 7
-.. 3,000-2-4 KTS E
-.. 9,000 -224DEG 45 KT
-15,000 -225DEG 30 KT
-30,000 -250DEG 25 KT
-54,000 -240DEG 30 KT
-```
-
-Please note that some text may be unclear due to the quality of the document or the typewriter's ink. There are a series of asterisks that appear to be placeholding missing or redacted information, and some text is crossed out or amended, which I have tried to represent with equal signs or slashes as appropriate.
 
 - page 3 -
 
-The image you provided does not contain a photograph. It appears to be a page from a typed report.
+A. OVERLAST
+B. SURFACE ME 7
+9,000 -22MDEG 16 KT
+10,000 -24MDEG 15 KT
+16,000 -250 DEG 20 KT
+30,000 -29DEG 25 KT
+52,000 -21DEG 32 KT
+62,000 -7/-DEG MA KT
+C. 1000 OVERCAST
+D12
+D. OVERCAST
+F. NONE
+G. NONE
+H. NONE
+I. NONE
+J. NONE
+11.
+12. OPERATIONS OFFICER NONE
+BY
+237/6352 APR NEEDLS
 
-Here is the text output from the document:
-
----
-A. OVERCAST 
-B. SURFACE WIND 7 
-5,000 -280DEG 10 KT 
-10,000 -245DEG 15 KT 
-15,000 -255 DEG 20 KT 
-20,000 -255DEG 25 KT 
-25,000 -260DEG 30 KT 
-30,000 -270/290 DEG 40 KT 
-C. 10,000` OVERCAST 
-D13 
-E. OVERCAST 
-F. NONE 
-G NONE 
-H. NONE 
-J1 
-I4. OPERATIONS OFFICER NONE 
-12. NONE 
-BT 
-ZMJU5524 APR
----
 
 - page 4 -
 

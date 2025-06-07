@@ -1,98 +1,115 @@
-This image does not contain any photographs. It is a form with text entries. Below is the reproduction of the text found in the document:
-
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE                2. LOCATION               12. CONCLUSIONS
-25 Aug 55              Plattilion, Nebr          ☐ Was Balloon
-                                                ☐ Possibly Balloon
-3. DATE-TIME GROUP     4. TYPE OF OBSERVATION   ☐ Was Aircraft
-GMT_25/0153Z           ☐ Ground-Visual           ☐ Possibly Aircraft
-                       ☐ Ground-Radar
-                       ☒ Air-Visual             ☐ Was Astronomical
-                       ☐ Air-Intercept Radar    ☐ Possibly Astronomical     
-                       ☐ Other                  ☐ Other
-                                               ☐ Insufficient Data for Evaluation
-5. PHOTOS              6. SOURCE                ☐ Unknown
-☒ No                   ☒ civilian
-                                               11. COMMENTS
-7. LENGTH OF OBSERVATION                        Positional data etc., missing. Insufficient
-9 No                                           Data for Evaluation.
-8. NUMBER OF OBJECTS   9. COURSE
-One                    Stationary
+1. DATE
+25 Aug 55
 
-10. BRIEF SUMMARY OF SIGHTING 
+2. LOCATION
+Pattillon, Nebr
+
+3. DATE-TIME GROUP
+Local
+GMT 26/0153Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[X] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+Still visible at rpt time
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+Stationary
+
+10. BRIEF SUMMARY OF SIGHTING
 Round, white stationary.
 
+11. COMMENTS
+Positional data etc. missing. Insufficient
+Data for Evaluation.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other_______
+[X] Insufficient Data for Evaluation
+□ Unknown
+
 ATIC FORM 329 (REV 26 SEP 52)
-```
 
 
 - page 1 -
 
-The image does not contain any photographs, only text. Here is the transcription of the text:
+Here is the text from the document:
 
-```
-333882  Z78 63
-443030 283 78
-
-J NONE
-4 333030 BKN
+30000 270 60
+40000 230 70
+3 NONE
+4 33000 BKN
 5 NONE
-I.
-II.
+H.
 NEG
 1. NEG
-J. NONE
-K. NONE
-L. NONE
-DT
-25/43452 AUG RJEDNG
-```
+3. NONE
+4. NONE
+5. NONE
+BT
+25/034 52 AUG RJEDNG
+
 
 - page 2 -
 
-The image does not contain any photographs, only typewritten and handwritten text.
+Here is the text from the document:
 
-OCR Transcription of the typed and handwritten text:
+Witness 111
 
-```
-Writings
+WPD254 YMAGSGNGA227NVAGG 07 19
 
-WPIC54 YMA56GN27LTVBBG 07 19 25 U85 QTII
+PP RJEDN RJEDMP RJEDKF RJEPAG
+DE RJEDNG 41
+P 2G03422
 
-PP_RJEDN RJEDMP RJEDKF RJEPAG
-
-DE RJEIDG 11 7
-
-P 25C3427
-
-FM COMDR 7ES8 TACW AC&W SQDN OMAHA NEBR
-TO RJEDEN/COMDR ADC ENT AFE COLO
-RJEDWP/COMDR ATIC WPATF OHIO
-RJEPAG/DIR OF INTELLIGENCE HC USAF WASH D C
+FM COMDR 789TH AC&W SQDN OMAHA NEBR
+TO RJEDN/COMDR ADC ENT AFE COLO
+RJEDWP/COMDR ATIC WPAFB OHIO
+RJEPAG/DIR OF INTELLIGENCE HQ USAF WASH D C
 INFO RJEDKF/COMDR CADF GRANDVIEW AFB MO
 RJEDNG/COMDR 31ST ADIV ST PAUL MINN
 
 ET
+UNCLASSIFIED/OPS 581 UFOB REPORT AS FOLLOWS
 
-A/U N C L A S S I F I E D D/OPN S581 UFOB REPORT AS FOLLOWS:
+A.
+1 ROUND
+2 QUARTER
+3 WHITE
+4 ONE
+5 NONE
+6 NONE
+7 NONE
+8 NONE
 
-ROUND
-QUARTER
-WHITE
-ONE
-NONE
-NONE
-NONE
-NONE
-```
 
 - page 3 -
 
-The image does not contain a photograph. Here is the text from the document:
+Here is the text from the document:
 
-```
 C.
 1 LIGHT OF OBJECT
 2 UNK
@@ -107,23 +124,23 @@ C.
 3 N/A
 
 D.
-1 25/1532
-2 NITE
+1 26/153Z
+2 MITE
 
 E.
-1 JN 5925
+1 JW 5935
 
 F.
-[REDACTED] STATION NEBR POST NR 5871
+1 [REDACTED] ON NEBR POST NR 5871
 2 N/A
 
-G.
+C.
 1 NONE
 2 NEG
 
-PAGE THREE REDUCING 11
-3 162339 25Q 2D
-```
+PAGE THREE RJCDNG 11
+3 12000 250 2M
+
 
 - page 4 -
 

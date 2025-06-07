@@ -1,111 +1,173 @@
-The image does not contain a photograph. It appears to be a Project 10073 Record Card from Project Blue Book, which was a U.S. Air Force program to investigate Unidentified Flying Objects (UFOs). The card contains information about a UFO sighting that occurred on 7 November 1957 in Manchester, New Hampshire. The details of the sighting are provided in the "CHIEF SUMMARY OF SIGHTING" section of the card.
+PROJECT 10073 RECORD CARD
 
-Project 10073 Record Card
+1. DATE
 7 November 1957
-Manchester, New Hampshire 
-Location: Manchester, New Hampshire
-Reported Obj: Round object, size of grapefruit, red, electric salty fluid. Electricity in house went out. Very irregular path field.
-Photos: Yes
-Length of Observation: 1 minute
-Number of Objects: One
-Course: Not given
-Comments: Probable aircraft sighting.
+
+2. LOCATION
+Manchester, New Hampshire
+
+3. DATE-TIME GROUP
+Lost
+07/2303Z
+
+4. TYPE OF OBSERVATION
+Binoculars
+Ground-Radar
+Air-Visual
+Air-Intercept Radar
+
+5. PHOTOS
+None
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+1 minute
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+not given
+
+10. BRIEF SUMMARY OF SIGHTING
+Round object, size of grapefruit, red and white. When object was in sight, electricity in house went out. Very irregular path. Faded.
+
+11. COMMENTS
+Probable a/c sighting.
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+
 
 - page 1 -
 
-There does not appear to be any photograph present in this image. This appears to be a page from a Project Blue Book UFO report document.
+Here is the text from the document:
 
-OCR Text output:
-7/23/57
-MEMO:
+7/23052
 
-INSUFF INFOS 28 OCT 1957
-APR 25 YEG 225 TYP217 TMC3 INCASSENB334
-P3 FJEDENFUINY F3J PHQ FJJPHNY
-ID: FJJENE 444
-P 0723182
-F/I COMET 75'F ACTION 
-TO FJJENT/COMET ACC ENT AFB
-JJJENCYCOND! ATIC WRIGHT PATTERSON AFB
-JJJEPHU/LLF INFL NU USAF
-JJJJRNY/COND 2 FS7U ADV
-INFO FJJJPNN/COMET DET 3 4025 AISS STEWART AFB 
-FJJJPNO/COMET CAPT STEWART AFB
-UNCLASSIFIED; 5TOPS 11933 SUAD: UFOB
-(1) *DESCRIPTION:
-(A) ROUND
-(B) GRAPEFRUIT 
-(C) RED & WHITE - the color of a gaslight.
+Multi                INSUFF INFO                     28 00
+
+VPB825 VDE283 TYV217 TMB81MBAB85MB1B234
+PP RJEDEN RJEWPF RJEPHQ RJEPPY
+DE RJENB 4M
+P 273152
+FM COMDR 7581 ACWRON
+TO RJEDEN/COMET ADC ENT AFB
+JJEWP/COMD ATIC WRIGHT PATTERSON AFB
+RJEPHQ/DIR INTEL HQ USAF
+RJEPNV/COMD 2GTH ADIV
+INFO RJEPNB/COMD DET 3 462 AISS STEWART AFB
+RJEPNB/COMD SALF STEWART AFB
+
+BT
+UNCLASSIFIED STOPS 11033 SUBJ UFOB
+
+(A) FOUND:
+
+(B) PAPERTUIT
+
+(C) RED & WHITE - the color of soft lights.
+
 (D) ONE
+
 (E) N/A
+
 (F) NONE
+
 (G) NONE
+
 (H) NONE
+
 
 - page 2 -
 
-There is no photograph present in this image. This appears to be a page from a Project Blue Book UFO report document.
+(7) WEATHER:
 
 (A) CLEAR WITH GOOD VISIBILITY
-(B) SURFACE: 24,000 FT
-(C) HEIGHT: DEG 57 FT
-(D) MOVEMENT: DEG 45 FT
-(E) TILT 20.00 DEG 58 FT
-(F) 3 DEG 33 DEG 58 FT
-(G) 32.232 300 DEG 45 FT
-(H) 52.232 UNKNOWN FT
-(C) CLEAR
-(D) 15
-(E) NONE
-(F) NONE
-(G) NONE
-(H) MANCHESTER, N.H. GOC HAD FOUR OTHER REPORTS OF THIS UFOB
-ALL SUBSTANTIALLY THE SAME.
-(J) NONE UNDER OUR
-(K) 1LT 33 FISHER JR. 7TH AENTON NORTH TRURO MASS.
-SENIOR DIRECTOR.
-(L) NONE
 
-576.3337 NOV PUPFNG
-INSUFE INFO
+(B) SURFACE 240 DEG 8 KT
+NW
+8,000 315 DEG 30 KT
+16,000 300 DEG 45 KT
+22,500 300 DEG 50 KT
+32,000 300 DEG 50 KT
+50,000 300 DEG 45 KT
+20,200 UNKNOWN KT
+
+(C) CLEAR
+
+(D) 15
+
+(E) NONE
+
+(F) NONE
+
+(G) NONE
+
+(H) MANCHESTER, N.H. GOC HAD FOUR OTHER REPORTS OF THIS UFOB
+ALL SUBSTANTIALLY THE SAME
+
+(10) NONE UNDER OUR
+
+(11) 1/LT BD FISHER JR. 702D ARWRON NORTH TEURON MASS.
+SENIOR DIRECTOR.
+
+(12) NONE
+
+No elevation, azimuth or direction
+of target given without which
+this report cannot be properly
+analyzed.
+
+INSUFF INFO
+
+27/2333Z NOV DJEPNB
+
 
 - page 3 -
 
-The image contains a scanned document page from Project Blue Book, a U.S. Air Force investigation into UFO reports. There is no photograph present in this particular document page.
+PAGE TWO REPORTS AM
 
-Performing OCR (Optical Character Recognition) on the document:
+(2) WHEN OBJECT WAS IN SIGHT, ELECTRICITY IN HOUSE WENT OUT
 
-PAGE TWO COPIES AM
-
-PLEASE REPORT BY:
-
-(1) APPARENT OBJECT AS IT SIGHT, ELECTRICITY IN HOUSE WENT OUT
-
-(2) DESCRIPTION OF COURSE:
 (A) LOOKING OUT WINDOW OF HIS HOME
-(B) UNKNOWN ELEVATION?
-(C) UNKNOWN AZIMUTH?  
+(B) UNKNOWN ELEVATIONS?
+(C) UNKNOWN AZIMUTHS?
 (D) VERY IRREGULAR
 (E) FADED
 (F) ONE MINUTE
 
 (3) MANNER OF OBSERVATION:
 (A) GROUND VISUAL
-(B) 25 POWER BINOCULARS
-(C) NO SOUND
+(B) 50 POWER BINOCULARS
+(C) N/A
 
-(4) TIME AND DATE OF SIGHTSEEING:
-(A) 27-3-52 = 1803
+(4) TIME AND DATE OF SIGHTING:
+(A) 27'0382 230-3-5-1803
 (B) NIGHT - TWILIGHT
 
-(5) LOCATIONS OF OBSERVERS:
-JON 3435
+(5) LOCATIONS OF OBSERVER:
+MJDN 3456
 
 (6) IDENTIFYING INFO ALL OBSERVERS:
-AGE: 17
+(A) [REDACTED] AGE: 17 [REDACTED]
 STREET MANCHESTER, N.H.
 
-PAGE THREE REFERS AM
+PAGE THREE REPORTS AM
+
 
 - page 4 -
 

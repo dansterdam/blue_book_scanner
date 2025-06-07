@@ -1,8 +1,3 @@
-There are no photographs present on this page of the document.
-
-Here is the OCR transcription of the text from the document:
-
----
 PROJECT 10073 RECORD CARD
 
 1. DATE
@@ -11,100 +6,66 @@ PROJECT 10073 RECORD CARD
 2. LOCATION
 Lake City, Florida
 
-3. DATE-TIME GROUP
+5. DATE-TIME GROUP
 Local 1240 EST
-GMT 05/1740Z
+GMT 05/17402
 
-4. TYPE OF OBSERVATION
-☑ Ground-Visual
-☐ Ground-Radar
-☐ Air-Visual
-☐ Binoculars
-☐ Air-Intercept Radar
+3. TYPE OF OBSERVATION
+Ground-Visual
+Air-Visual
 
-5. PHOTOS
-☐ Yes
-☑ No
-
-6. SOURCE
+4. SOURCE
 Civilian
 
-7. LENGTH OF OBSERVATION
+6. LENGTH OF OBSERVATION
 15 minutes
 
-8. NUMBER OF OBJECTS
+7. NUMBER OF OBJECTS
 one
 
-9. COURSE
-NE
-
 10. BRIEF SUMMARY OF SIGHTING
-Round, silvery object with appearance of large light bulb, bright in color, moving slowly to NE directly overhead.
+Round, silver object with appearance of large light bulb, bright in color, moving slowly to NE directly overhead.
 
 11. COMMENTS
 Due to insufficient information, cannot properly evaluate.
 
 12. CONCLUSIONS
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
-☐ Was Astronomical
-☐ Probably Astronomical
-☐ Possibly Astronomical
-☐ Other
-☑ Insufficient Data for Evaluation
-☐ Unknown
+[Checkboxes marked for:]
+- Insufficient Data for Evaluation
+- Unknown
 
-ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
-There are no photographs on this page of the document.
+Here is the text from the document:
 
-Here is the OCR output of the text from the document:
+Witness 5/17402
 
----
-6 Dec 57 1400
+6 DEC 57 14 58
 
-5 Dec 57
-Lake City Fla
-
+5 DEC 57 Lake City Fla
 Other
+55
 
-SQH933 SQC133 YDC122 YVDQ53 VDCQ62SKBA938
-
-PP RJEDDN RJEDSQ RJEPRH RJEPNB
-
+SQH033 SQC133 YDC102 VYD054 VDC062KBA038
+PP RJEDDN RJEDSO RJEPHQ RJEPNB
 DE RJESKB 5D
+P 061502Z
+FM COMDR 668TH ACWRON MACDILL AFB FLA
 
-P 6215302 
-
-FM COMDR 6570TH ACWRON MACDILL AFB FLA
----
 
 - page 2 -
 
-The document appears to be a scanned page from Project Blue Book, as indicated, and does not contain any photographs, but rather text and handwritten notes.
-
-Here is the OCR-transcribed text from the document:
-
----
-TO RJEDDN/CO/DR ADC
+TO RJEDDVN/COMDR ADC
 RJESKB/COMDR 35TH ADIV
-RJEDSO/COMDR AIR TECH INT CNTR
-RJEHPA/COMDR OF INT
-
+RJESDS/COMDR AIR TECH INT CNTR
+RJEPHG/COMDR OF INT
 INFO RJEPNB/COMDR EADF
 
 BT
-
 //UNCLASSIFIED//OPS 9679 PD UFOB PD ATTN: EADF CIO PD
 
-1.
-   A. ROUND
+1. A. ROUND
    B. LARGE LIGHT BULB
    C. SILVER
    D. ONE
@@ -116,41 +77,32 @@ BT
 
 PAGE TWO RJESKB 5D
 
-2.
-   MOVING SLOWLY TO NORTHEAST DIRECTLY OVERHEAD PD
+2. MOVING SLOWLY TO NORTHEAST DIRECTLY OVERHEAD PD
    A. LOOKED UP
-   B. UNKNOWN VELOCITY
-   C. UNKNOWN AZIMUTH
+   B. UNKNOWN
+   C. UNKNOWN
    D. STRAIGHT PATH
    E. FADE FROM VIEW
    F. 15 MINUTES
+   
+3. A. GROUND VISUAL
+   B. BINOCULARS
 
-3.
-   A. GROUND VISUAL
-   B. (BINOCULARS) — NOTE: Binoculars
----
-
-Note: The text includes classifications and descriptions in a typical report structure, evidently discussing a UFO sighting.
 
 - page 3 -
 
-The image provided is a scanned document page and does not contain any photographs.
+4. A. 1240 EST 5 DECEMBER 1957
+   A. 1743Z 5 DECEMBER 1957
+   B. DAY
 
-Here is the text output from the document:
+5. GHHQ 2555
 
-```
-A. 1249 EST 5 DECEMBER 1957
-A. 174742 5 DECEMBER 1957
-B. DAY
-5. 
-GHQ 2555
+6. A. [REDACTED] LAKE CITY FLORIDA
+   B. NONE
 
-A. ███████████████ LAKE CITY FLORIDA ███████████████
-B. NONE
-
-A. CALM
-SURFACE 320/15 19A 330/33 16A 330/35 23A 290/45 32A 280/122
-50A 270/85
+7. A. CALM
+   B. SURFACE 320/15 10A 300/30 16A 300/35 20A 290/45 39A 280/120
+       50A 270/85
 
 PAGE THREE RJESKB 5D
 
@@ -158,160 +110,184 @@ C. UNLIMITED
 D. 15 MILES
 E. NONE
 F. NONE
-G. NONE
+
+8. NONE
+
 9. NONE
 
 10. JET PASSED OVER
 
-11. PLANET VENUS CMN DUTY CONTROLLER
-12. NONE NOT overhead!
+11. PLANET VENUS CMM DUTY CONTROLLER
+    NOT overhead!
+
+12. NONE
 
 BT
-ZG/16512 DEC RJESKB
-```
+26/1651Z DEC RJESKB
+
+Handwritten notes:
+ATC Comment:
+"As observer says it went to the NE yet cannot give elevation or azimuth of where he first saw it or where it disappeared. This would indicate an incredible observer."
+
+Signed with a signature at the bottom.
+
 
 - page 4 -
 
-The image does not contain any photographs. It is a form with text entries.
+Here is the text from the document:
 
-Here is the OCR transcription of the text in the document:
-
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE                                2. LOCATION
-   5 December 1957                     Lake City, Florida
+1. DATE
+5 December 1957
 
-3. DATE-TIME GROUP                     4. TYPE OF OBSERVATION
-   Local                                   Ground-Visual
-   GMT 05/1842                             Air-Visual
+2. LOCATION
+Lake City, Florida
 
-5. PHOTOS                               6. SOURCE
-   ❑ Yes                                  Civilian
-   ð No
+3. DATE/TIME GROUP
+Local _________ GMT 05/184117
 
-7. LENGTH OF OBSERVATION                8. NUMBER OF OBJECTS 9. COURSE
-   5 minutes                                 one                    South
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
 
-10. BRIEF SUMMARY OF SIGHTING           11. COMMENTS
-   Round object, with appearance of 300  Balloon schedules show balloons
-   watt light bulb, silver. Moving south are released just prior to time of
-   slowly. Slight up and down movement. sighting.
+5. PHOTO
+□ Yes [X] No
+
+6. LENGTH OF OBSERVATION
+5 minutes
+
+7. SOURCE
+Civilian
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+South
+
+10. BRIEF SUMMARY OF SIGHTING
+Round object, with appearance of 300 watt light bulb, silver. Moving south slowly. Slight up and down movement.
+
+11. COMMENTS
+Balloon schedules show balloons are released just prior to time of sighting.
 
 12. CONCLUSIONS
-   ❑ Was Balloon
-   ❑ Probably Balloon
-   ❑ Possibly Balloon
-   ❑ Was Aircraft
-   ❑ Probably Aircraft
-   ❑ Possibly Aircraft
-   ❑ Was Astronomical
-   ❑ Probably Astronomical
-   ❑ Possibly Astronomical
-   ❑ Other:
-   ❑ Insufficient Data for Evaluation
-   ❑ Unknown
+[X] Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other: Insufficient Data for Evaluation
+□ Unknown
 
-ATIC FORM 329 (REV 26 SEP 52)
-```
+(ATIC FORM 164 (REV 26 SEP 52))
 
-This transcription is accurate based on the visible text in the image.
 
 - page 5 -
 
-There is no photograph in this image. The image contains handwritten annotations and typewritten text. Here is the OCR text output from the document:
+Here is the text from the document:
 
-```
-DSAH0292 SQB125 YADA993 VVB647 VDC0514KBA032
+1 Witness
+2 Mts.
 
-PP RJEDDN RJEDSQ RJEPHQ RJEPNB
+5 DEC
+Balloon
+
+DSQH023 SQB125 YDA093 VYD047 VDC054KBA032
+
+PP RJEDDN RJEDSQ RJEPIQ RJEPNB
 
 DE RJESKB 3D
 
-P 615962Z
+P 061500Z
 
-FM COMDR 56TH ACWRON! MACDILL AFB FLA
+FM COMDR 6623TH ACWRON MACDILL AFB FLA
 
 TO RJEDDN/COMDR ADC
 
 RJESKB/COMDR 35TH ADIV
 
-RJESKB/COMDR AIR TECH INT CNTR
-```
+RJEDSQ/COMDR AIR TECH INT CNTR
+
+Handwritten notes on the side include:
+40
+2/14
+3 4x5a
+(illegible signature/initials)
+
 
 - page 6 -
 
-The image you provided does not contain any photographs, only text and handwritten annotations. Here is the transcription of the text from the document:
-
----
-```
-RJEPRG/DIR OF INT HQ USAF
+RJEPNG/DIR OF INT HQ USAF
 INFO RJEPNB/COMDR EADF
 
 BT
-UNCLASSIFIED/OPS 2681 PD UFOB PD ATTN: EADF CIO PD
+/UNCLASSIFIED/OPS 6681 PD UFOB PD ATTN: EADF CIO PD
 
-1. A: ROUND
-   B: 100 WATT LIGHT BULB
-   C: SILVER
-   D: ONE
-   E: NOT APPLICABLE
-   F: NONE
-   G: NONE
-   H: NONE
-   I: NONE
+1. A. ROUND
+   B. 300 WATT LIGHT BULB
+   C. SILVER
+   D. ONE
+   E. NOT APPLICABLE
+   F. NONE
+   G. NONE
+   H. NONE
+   I. NONE
 
-PAGE TWO RJE SKB 3D
+PAGE TWO RJESKB 3D
+
 2. SOUTH SLOWLY
-   A: LOOKED UP
-   B: UNKNOWN ELEVATION
-      UNKNOWN AZIMUTH
-   C: LIGHTS AND DON'T KNOW
-   D: SLIGHT UP AND DOWN MOVEMENT
-   E: NONE
-   F: MINUTES
+   A. LOOKED UP
+   B. UNKNOWN elevation
+             azimuth
+   C. UNKNOWN
+   D. SLIGHT UP AND DOWN MOVEMENT 6 allow characteristics
+   E. NONE
+   F. 5 MINUTES
 
 3. GROUND VISUAL
-   B: NONE
+   B. NONE
    C9 NOT APPLICABLE
 
 4. 1341 EST 5 DECEMBER 1957
-```
+
 
 - page 7 -
 
-There are no photographs on this page.
+Here is the text from the document:
 
-Text from the document:
-```
 B. DAY
-C. LOCATION! Where is IT?
-5. & - 3804K--------
+5. & - 3804 LOCATION! Where is it?
+S.
 B. NONE
 7. CLEAR VISIBILITY UNLIMITED
-gw/yw gw/w gw/w gw/w
-8. SURFACE NE12 50 52/35 10A 30/30 16A 30/35 22A 2997/45
-30A 20/20 59A 2T0/85
+B. SURFACE INE 10 5A 320/35 10A 300/30 16A 300/35 20A 290/45
+30A 280/120 5A 270/85
 C. CLEAR
-I Cannot make out location of
-sighting.
-R. Balloon schedules show balloon
-are released year prior, i,t,time
-of sighting.
+1. Cannot make out location of sighting.
+2. Balloon schedules show balloons are released just prior to time of sighting.
+
 PAGE THREE RJESKB 3D
 D. 15 MILES
-51/64/7E
+5/184/2
 E. NONE
-F. NONE Venus
-8. STAR VENICE was FOLLOWING SIGN BY 3D DEGREES
+F. NONE
+VENUS
+8. STAR VENICE WAS FOLLOWING SIGN BY 30 DEGREES
 9. NONE
 10. NONE
 11. DIRECTOR CMM PLANER VENUS
 12. NONE
-BT
-***1322 DEC RJESKB
-Balloon
-```
+ET
+03/1592Z DEC RJESKB
+
+[A small sketch of a balloon is at the bottom of the page]
+
 
 - page 8 -
 

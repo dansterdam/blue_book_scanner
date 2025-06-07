@@ -1,49 +1,92 @@
-The image does not contain any photograph. It appears to be a page from a Project Blue Book record card, which contains a form with various fields filled out.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 19 NOV 59
-2. LOCATION: 31.55N 15W, Atlantic Ocean
-3. DATE-TIME GROUP: 25/09/52
-4. TYPE OF OBSERVATION: C-Ground-Radar
-5. SOURCE: C-Ground-Radar
-6. NUMBER OF OBJECTS: ONE exploding
-7. LENGTH OF OBSERVATION: 5 mins  
-10. BRIEF SUMMARY OF SIGHTING: Bright fiery obj heading East at 45 degrees, exploded into a reddish candle.
-11. COMMENTS: Description characteristic of a ballide observation, and case is listed as a meteor sighting.
+
+1. DATE
+24 Nov 52
+
+2. LOCATION
+11.5N 73.15W Atlantic Ocean
+
+3. DATE-TIME GROUP
+Local _________ GMT 25/0045Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual □ Ground-Radar
+□ Air Visual □ Air-Intercept Radar
+
+5. SOURCE
+Civilian
+
+6. PHOTOS
+□ Yes
+[X] No
+
+7. LENGTH OF OBSERVATION
+3 secs
+
+8. NUMBER OF OBJECTS
+one exploding
+
+9. COURSE
+---
+
+10. BRIEF SUMMARY OF SIGHTING
+Bright fizey obj heading East at 45° elev observed to explode like a roman candle.
+
+11. COMMENTS
+Description characteristic of a bolide observation, and case is listed as a meteor sighting.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+[X] Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other: Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
-
 DEPARTMENT OF THE AIR FORCE
-HQUSAF DIRECTOR OF INTELLIGENCE
-INCOMING MESSAGE
+UNCLASSIFIED MESSAGE
 
-AF IN : 56425 (25 NOV 59) 
-INFO : GIN, OOP, OOP-CP, (AFS)
-TD C 041
-ZZCCHGC176ZCBJAO41  
-DR RJEZNG  
-DE RBEGUN 017
-Y 230159Z
-FM ADMINO COMEASEAFRON NEW YORK
-D RBHKGC/CINCLANLFLT  
-GEZSNV/COMDT 26 NORADIV  
-RBEUC/COMEASEAFRON  
-INFO RBEPU/CNO  
-RJWFALB/CINCNORAD  
-RJEZNG/COPS AF
+AF IN: 56425 (25 Nov 59)
+INFO: CIN, OOP, OOP-CP, AFS
 
-JM-35 SANTA MONICA 25/0100 GMT 
-TO COMEASEAFRON
-ST
+SMD C 041
+ZCZCHOQ(176ZCBJA041
+''''YY RJEZHQ
+
+DE RBEGUH 017
+Y 250159Z
+
+FM ADMINO COMEASTSEAFRON NEW YORK
+D RBEK HC/CINCLANTFLT
+BEZSN/CMDT 26 NORADIV
+RBEJC/COMCARIBSEAFRON
+INFO RBEPV/CNO
+RJWFALB/CINCORAD
+RJEZHQ/COFS AF
+
+FM-SS SANTA MONICA 25/0100 GMT
+TO COMEASTSEAFRON
+BT
+
 MERINT 11 55N 73 15W BRIGHT FIERY OBJECT HEADING EAST BEARING
 340 DEGREES AT 45 DEGREE ALTITUDE EXPLODED AND BURST LIKE ROMAN
-CANDLE DURATION A 5-8 ENDS 230649 GMT YOUNG OBSERVER MASTER
-LT
-GFN 11 55N 73 15W 340 45 4 240045
-25/0159Z NOV RBEGUN
-NOTE : Advance copies delivered to CIN and GOP-CP
+CANDLE DURATION 4 SECONDS 250045 GMT YOUNG OBSERVER MASTER
+BT
+CFN 11 55N 73 15W 340 45 4 240045
+25/0159Z NOV RBEGUH
+
+NOTE: Advance copies delivered to CIN and OOP-CP
+
 
 - page 2 -
 

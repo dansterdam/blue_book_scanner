@@ -1,65 +1,98 @@
-The image does not contain a photograph, but rather a document titled "PROJECT 10973 RECORD CARD" that appears to be a report form used for recording details about a sighting of an unidentified flying object. The form includes fields for capturing information such as the date, location, type of observation, source, length of observation, number of objects, course, conclusions, and a brief summary of the sighting.
+PROJECT 10073 RECORD CARD
 
-PROJECT 10973 RECORD CARD
 1. DATE
-22 OCT 55
-3. DATE-TIME GROUP
-Local
-5. PHOTOS
-✓ Yes
-7. LENGTH OF OBSERVATION
-120 seconds
-10. BRIEF SUMMARY OF SIGHTING
-One trail of light, having the appearance of trailing a visible flame, was observed from view after being observed for approximately 2 minutes.
+22 Oct 55
 
 2. LOCATION
-Sonora, Calif
+Sonora, Calif.
+
+3. DATE-TIME GROUP
+Local: 23/0042
+GMT: 23/0042
+
 4. TYPE OF OBSERVATION
-✓ Ground-Visual
+[X] Ground-Visual
+□ Air-Visual
+□ Ground-Radar
+□ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[X] No
+
 6. SOURCE
-Civilian (GOC)
+civilian (GOC)
+
+7. LENGTH OF OBSERVATION
+two seconds
+
 8. NUMBER OF OBJECTS
-One
+one
+
+9. COURSE
+unk
+
+10. BRIEF SUMMARY OF SIGHTING
+One trail of light, having the appearance of leaving a trail, faded from view after being observed for a period of two seconds.
+
 11. COMMENTS
-The trail of light and duration of sighting suggest a phenomenon as astronomical.
+The trail of light and duration of sighting suggest an astronomical sighting (Meteor).
 
 12. CONCLUSIONS
-Was Balloon
-✓ Probably Balloon
-Was Aircraft
-✓ Probably Aircraft
-Was Astronomical Meteor
-✓ Probably Astronomical
-Other (Specify for Evaluation)
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical Meteor
+[X] Probably Astronomical
+□ Possibly Astronomical
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain a photograph. It appears to be a scanned page from a document, likely an old UFO report from Project Blue Book.
+PAGE TWO RJMPKL 110
 
-TEXT OUTPUT:
+5080-24/33, 1932-132/13; 15000-120/15; 22383-122/15; 30332-360/25 PD
+(7)(C) NONE PD (7)(D) FOUR MILES (7)(E) NONE PD (7)(F) NONE PD (8) NONE
+PD (9) NONE TAKEN PD (10) SEVERAL PD (11) DIRECTOR IF INTELLIGENCE OMA
+25 TH AIR DIV (DET) OMA MAY HAVE BEEN A POSSIBLE AIRCRAFT PD (12) NONE PD
 
-PAGE TWO RJIIPKL 212
-15-3h-38 1-322-1-55/15 15:20-12a/15j 2:23-1-22/15 3:253-2-260/25 FD
-C9 ) NONE FD C7C) FOUR FILES C7C NONE FD C72C) NONE FD C82 NONE
-C62) NONE TAKEN FD C12) SEVERAL FD C11) DIRECTOR IF INTELLIGENCE CMA
-TX AIR DIV (3S) CMA MAY HAVE BEEN A POSSIBLE AIRCRAFT FD C12) NONE FD
-2 h/1 4 :42 OCT RJUPKL
+24/1542 OCT RJMPKL
+
 
 - page 2 -
 
-The image does not contain any photograph. It appears to be a page from an old Project Blue Book document.
+Here is the text I can read from the document:
 
-Here is the text from the document:
+Multi
 
-Matter
-USAF 7T9C17 XYDOC RED 45KLA 234KLA 031
-RE: SIGHTED UNUSUAL AERIAL OBJECT
-DE WITT, AR
-OCT 24 1955
-FYI COL/INTOPS AS HAMILTON AFB CALLS
-TO DETERMINE AND FURNISH ALL FACTUAL DATA GOLDGEOD/INTCORD AFTE,INTGL GHQ ASEIGHT PATTRS- AF C/S
-JEFFORMED 0/2 INTL IS BUT WASHINGTON DO
-SIGNIFIGANCE OR CAUSE ABOVE CURRENT ON WHITSTS AF CALLS /INCL,--,0`/* 20 1) ES1 2024
+RCGC
+UPBC77 YDCX7 XYBNSC XDD-ASKLA 334CILX 331
+IN RJEDEN RJDBUP RJEPHO RJNPHL
+DE RJNPHL 117
+241653Z
+
+TO COMARDIGDEF 20 HAMILTON AFB CALIF
+TO RJEDEN/CODIR ADC ENT AFB COLO
+RJED/CODIR AIR TECH INTL GEN WRIGHT PATTERSON AFB O
+RJEP/CODIR INTL TO USAF WASHINGTON DC
+RJNPHL/CODIR 4620 AIR INTL SERVICE SQ HAMILTON AFB CALIF
+ET
+
+[The rest of the text is partially illegible or cut off]
+
+There are also some handwritten notes:
+- "Multi" at the top left
+- "Oct 24" and "17 58 '55" on the right side
+- "270IN-AE4" and "4" "AX20" also handwritten on the right side
+
 
 - page 3 -
 

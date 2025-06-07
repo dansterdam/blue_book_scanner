@@ -1,25 +1,57 @@
-There is no photograph present in this image. This appears to be a page from a Project Blue Book record card, containing textual information about a reported UFO sighting in Kuopio, Finland on August 19, 1956.
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
 19 August 1956
-3. LOCATION
+
+2. LOCATION
 Kuopio, Finland
+
+3. DATE-TIME GROUP
+Local 2100
+GMT 19/1900Z
+
 4. TYPE OF OBSERVATION
-Ground - Visually
+✔Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
 5. PHOTOS
-Yes
+□ Yes
+✔No
+
+6. SOURCE
+Helsinki Newspaper
+
 7. LENGTH OF OBSERVATION
-TWO HOURS
-10. BRIEF SUMMARY OF SIGHTING
-On Sunday, late on August 19, 1956, a strange light phenomena was sighted in the skies over Kuopio. The light was visible for more than 2 hours and finally disappeared. When approached, Kuopio at 2100 looked exactly like the phenomenon seen in Kuopio during mid-summer.
-12. CONCLUSIONS
-Was Balloon, Probably Balloon
-Probably Aircraft, Probably Aircraft
-Was Astronomical, Probably Astronomical
-Insufficient Data for Evaluation
+two hours
+
+8. NUMBER OF OBJECTS
+one
+
+9. BRIEF SUMMARY OF SIGHTING
+News article
+Flying Saucer Kuopio, Sunday. Late on Saturday night a strange light phenomenon was sighted in the skies over Kuopio. The light was visible for more than 2 hours and finally disappeared in a cloud. The ball of light which approached Kuopio at 2100 looked exactly like the phenomena seen in Kuopio during mid-summer.
+
+10. COURSE
+unknown
+
 11. COMMENTS
-Unknown
+Insufficient data for evaluation
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+✔ Other: Insufficient Data for Evaluation
+□ Unknown
+
+ATIC FORM 329 (REV 26 SEP 51)
+
 
 - page 1 -
 

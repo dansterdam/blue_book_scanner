@@ -1,69 +1,124 @@
-The image does not contain a photograph. It appears to be a Project Blue Book record card from August 23, 1956 regarding an unidentified flying object sighting in Farmington, New Hampshire. The card provides details about the sighting, including the date, location, type of observation, number and appearance of the objects, and brief comments.
-
-TEXT FROM THE DOCUMENT:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 23 AUGUST 1956
-3. DATE-TIME GROUP: Least 26/0100Z
-5. PHOTOS: ○ Yes ● No
-7. LENGTH OF OBSERVATION: One hour
-10. BRIEF SUMMARY OF SIGHTING: One yellow round object, size of a weather balloon in the sky, object moved south and was still visible after having been observed visually for one hour.
-12. CONCLUSIONS: ○ Was Balloon ● Probably Balloon ○ Was Aircraft ○ Probably Aircraft ○ Air-Intercept Radar ○ Ground-Radar ○ Air-Intercept Radar and Ground-Radar ● Insufficient Data ○ Other Disposition (Insufficient Data for Evaluation)
+
+1. DATE
+25 August 1956
+
+2. LOCATION
+Farmington, New Hampshire
+
+3. DATE-TIME GROUP
+GMT 26/0100Z
+
+4. TYPE OF OBSERVATION
+☒Ground-Visual ☐Ground-Radar
+☐Air-Visual ☐Air-Intercept Radar
+
+5. SOURCE
+Civilian
+
+6. PHOTOS
+☐Yes
+☒No
+
+7. LENGTH OF OBSERVATION
+One hour
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+South
+
+10. BRIEF SUMMARY OF SIGHTING
+One yellow round object, size of a weather balloon in the sky. Object moved south and was still visible after having been observed visually for one hour.
+
+11. COMMENTS
+Insufficient Data.
+
+12. CONCLUSIONS
+☐Was Balloon
+☒Probably Balloon
+☐Possibly Balloon
+☐Was Aircraft
+☐Probably Aircraft
+☐Possibly Aircraft
+☐Was Astronomical
+☐Probably Astronomical
+☐Possibly Astronomical
+☐Other:
+☒Insufficient Data for Evaluation
+☐Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs or images. It appears to be a page from an old report document, likely from Project Blue Book. I will now proceed to act as an OCR system and produce the text found in the document.
-
-JEDWP H023 WP2641 YD9026 TYE019 TMA027DGAG5SDF GES.
-PP EJEDEN RJEPNY RJEDWP RJEPHQ RJEPNB
-DE RJEPDC 2F WILLARD 9/1 0105-2
-P 269335Z
-FM COMDR 762ND ACVRON NO TRURO MASS
-TO RJEDEN/COMDR ADC ENT APC AND COLO SPRINGS COLO
-RJEPNB/COMDR 26TH AD ADC BOLLING AFB ROSLYN NY
+JEDWP H003 WPB041 YDB008 TYE019 TMA027DGAO08DGT005
+PP RJEDEN RJEPNY RJEDWP RJEPHQ RJEPNB
+DE RJEPDG 2F
+P 262352
+FM COMDR 762ND ACWRON NO TRURO MASS
+TO RJEDEN/COMDR ADC ENT AFB COLO SPRINGS COLO
+RJEPNY/COMDR 26TH AD ROSLYN AFS ROSLYN NY
 RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO
-RJEPHQ/DIRECTOR OF INTELLIGENCE HEADQUARTERS WASHINGTON 25 DC
+RJEPHO/DIRECTOR OF INTELLIGENCE HEADQUARTERS WASHINGTON 25 DC
 INFO RJEPNB/COMDR EADF STEWART AFB NEWBURGH NY ATT CRC
-RJEPNB/COMDR DETACHMENT3 4682D AIR INTELLIGENCE SERVICE SQ STEWART AFB
-RJEPNB/COMDR DET S 4682D AIR INT SERVEIC SQ STEWART AFB NEWBURGH NY
+RJEPNB/COMDR DETACHMENT 3 4602D AIR INTELLIGENCE SERVICE SQ STEWART AFB
+RJEPNB/COMDR DET 3 4602D AIR INT SERVIC SQ STEWART AFB NEWBURGH NY
+BT
+/UNCL/SAINT 8186 PD SUBJECT UFOB PD
 
-/UNCL/SAINT 98186 PD SUBJECT UFOB PD
 1. A. ROUND
-B. WX BOLLON
-C. ROUND
-D. 1
-E. YELLOW
-F. NONE
-G. NONE
-H. NONE
-I. NONE
+   B. WX BOLLON
+   C. ROUND
+   D. 1
+   E. YELLOW
+   F. NONE
+   G. NONE
+   H. NONE
+   I. NONE
 
 PAGE TWO OF RJEPDG 2F
 
+
 - page 2 -
 
-The image does not contain any photographs. As requested, I will act as an OCR system and produce the text found in the document:
+Here is the text from the document:
 
 C. UNK
 D. MOVED SOUTH
 E. STILL VISUAL
 F. 1 HOUR
+
 3. A. GROUND VISUAL
-E. NONE
-DC. NONE
-4. A. 26/21/52Z
-B. NIGHT
+   B. NONE
+   DC. NONE
+
+4. A. 26/0100Z
+   B. NIGHT
+
 5. FARMINGTON N. H.
-AGE 38, HOUSEWIFE
+
+6. [REDACTED], AGE 30, HOUSEWIFE, [REDACTED]
+
 7. A. CLEAR
-B. N/A
-C. NONE 
-D. D. GOOD
-E. NONE
-F. NONE
-9. NONE
+   B. N/A
+   C. NONE
+   D. GOOD
+   E. NONE
+   F. NONE
+
+8. NONE
+
+PAGE THREE OF RJEPG 2F
+
+09. NONE
 10. NONE
-11. IAG IN AREA
+11. 1A/C IN AREA
+
+BT
+
 
 - page 3 -
 

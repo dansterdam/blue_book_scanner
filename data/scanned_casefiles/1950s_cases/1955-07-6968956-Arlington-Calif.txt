@@ -1,34 +1,55 @@
-The image does not contain a photograph. It appears to be a Project Blue Book record card that provides details about a UFO sighting.
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
-3. JUL 55
-3. TIME GROUP
-0907/0652 (R)
-4. PHOTO
-□ Yes
-□ No
-7. LENGTH OF OBSERVATION
-1 SECOND
-10. BRIEF SUMMARY OF SIGHTING
-Round, white, flew in straight line.
+8 JUL 55
+
 2. LOCATION
-Arlington, Calif
+Arlington, Calif.
+
+3. DATE-TIME GROUP
+Local 09/0648Z (N)
+
 4. TYPE OF OBSERVATION
-a Visual
-6. NUMBER OF OBJECTS
-1
+XB Ground-Visual
+
+5. PHOTOS
+□ Yes
+■ No
+
+6. SOURCE
+civilian
+
+7. LENGTH OF OBSERVATION
+4 seconds
+
+8. NUMBER OF OBJECTS
+one
+
 9. COURSE
 East
+
+10. BRIEF SUMMARY OF SIGHTING
+Round, white, flew in straight line.
+
 11. COMMENTS
 Witness believed obj to be meteor.
-13. CONCLUSIONS
+
+12. CONCLUSIONS
 □ Was Balloon
-□ Was Airborne Refuse
+□ Probably Balloon
+□ Possibly Balloon
 □ Was Aircraft
-□ Was Astronomical
+□ Probably Aircraft
+□ Possibly Aircraft
+■ Was Astronomical Meteor
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other
 □ Insufficient Data for Evaluation
-□ Meteor
+□ Unknown
+
+(ATIC FORM 329 (REV 26 SEP 55))
+
 
 - page 1 -
 

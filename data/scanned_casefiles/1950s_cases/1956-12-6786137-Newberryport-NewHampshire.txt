@@ -1,94 +1,157 @@
-There is no photograph present in this image. This appears to be a page from a Project Blue Book report containing a record card with details about a UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 17 December 1956
-2. LOCATION: Newberryport, New Hampshire
-3. DATE-TIME GROUP: 17/063207 
-4. TYPE OF OBSERVATION: 
-   Ground-Radar
-   Visual
-   Air-Visual
-5. PHOTOS: Yes
-6. DURATION: One
-7. LENGTH OF OBSERVATION: TWO HOURS
-10. BRIEF SUMMARY OF SIGHTING: One red and green star-shaped object size of a dime at arm's length. (Obj) was seen blinking and stationary and was seen visually for two hours.
-11. COMMENTS: Description, duration, blinking indicated that sighting was caused by the planet Venus.
+
+1. DATE
+17 December 1956
+
+2. LOCATION
+Newberryport, New Hampshire
+
+3. DATE-TIME GROUP
+Local: GMT 17/0630Z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual ☐ Ground-Radar
+☐ Air-Visual ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+two hours
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+Stationary
+
+10. BRIEF SUMMARY OF SIGHTING
+One red and green star-shaped object, size of a dime at arm's length. Obj was seen blinking and stationary and was seen visually for two hours.
+
+11. COMMENTS
+Description, duration, blinking indicate that sighting was caused by a star or planet, probably the planet Venus.
+
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☒ Was Astronomical Venus
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from an old Project Blue Book report document.
+Here is the text from the document:
 
-Here is the text output from the document:
+17/06 30 2
+ATIC
 
-WP#: 25 WPG:15 YDZ:20 TYC:51 THATCHER,ROBERTS, DEUALLS
-RE SUBJECT:ROBERT ROBERT RICHARD MURPHY
-DR RUPPE 4-
-R 17.72 Z
-FR COND'R 752D ACURN SJ NORTH TRUNK MASS
-TO RUDD'R/CONDR ADC AFT APC COLORADO
-RUDD'R/CONDR ATIC WRIGHT PATTERSON AFB OHIO
-RUDD'R/LTR UNTIL NO FURTHER MARCH 25 DEC
-RUDD'R/CONDR 25TH AD ROSLYN AFB ROSLYN NY
-INFO RUDD'R/CONDR D'T 3 45 12 LT STEWART AFB NY
-RUDD'R/CONDR HALF STEWART AFB NY
-ET
-UNCLASSIFIED/SCOPE 12-69 ATTIC SUBJECT UFOS
-A. 2 STAR
+22
+
+17 DEC 56 14 18
+
+WRITE WPG16 YDE20 TYC 31 TKIAEMEAS OMEMIS
+RR RJDEDW RJDEDWP RJEPHQ RJEPPY
+DE RJEPPC 441
+R 17:72:Z
+FM COMDR 762D ACURON SQ NORTH TRURO MASS
+TO RJDED/COMDR ADC EWT APE COLORADO
+RJEPH/COMDR ATIC WRIGHT PATTERSON AFB OHIO
+RJEPH/DIR INTEL HQ USAF WASH 25 D.C.
+RJEPH/COMDR 26TH AD ROSLYN AFS ROSLYN NY
+INFO RJEPH/COMDR DET 3 4542 AISS STEWART AFB NY
+RJEPH/COMDR EADF STEWART AFB NY
+BT
+/UNCLASSIFIED/SAOP 12569 ATIC:CIG SUBJECT UFOB
+
+1. DESCRIPTION:
+
+A. STAR
 B. BLUE
 C. RED AND GREEN
-D. HVY
-E. NONB
+D. SUN
+E. HVA
 F. NONE
+G. NONE
+H. NONE
+
 
 - page 2 -
 
-There is no photograph present in this scanned document page from Project Blue Book. 
+PAGE TWO JUDGE 41.
 
-PAGE TWO REPORT 411
-1. SIGHTING
-A. DESCRIPTION OF COURSE
-A. SLANTED UP AND SAW IT
-B. DING
-C. 45 DES
-D. STATIONARY
-E. DING
-F. TWO (2) HOURS
-G. MANNER OF OBSERVATION:
-A. GROUND VISUAL
-B. BINOCLULARS (75-X)
-C. (WA WAGON)"
-4. TIME AND LOCATION OF SIGHTING:
-A. ?7:53 P.M.
-B. SLIGHT.
+1. BLINKING
+
+2. DESCRIPTION OF COURSE
+    A. GLANCED UP AND SAW IT
+    B. UNK
+    C. 45 DEG
+    D. STATIONARY
+    E. UNK
+    F. TWO (2) HOURS
+
+3. MANNER OF OBSERVATION:
+    A. GROUND VISUAL
+    B. BINOCULARS (7X50)
+    C. 1/4 MILE
+
+4. TIME AND LIGHTING:
+    A. 1745SL2
+    B. NIGHT
+
 5. LOCATIONS OF OBSERVERS:
-3. IDENTIFYING INFO OF ALL OBSERVERS:
-A SEAMEN APPRENTICE U.S. COAST GUARD NEWBERRYFORT NEW HAMPSHIRE
+    TEN 1149 NORTH OF BOSTON
+
+6. IDENTIFYING INFO OF ALL OBSERVERS:
+    A. [REDACTED] SEAMAN APPRENTICE U.S. COAST GUARD NEWBERRYPORT
+    NEW HAMPSHIRE
+
+PAGE THREE JUDGE 41
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a page from an old Project Blue Book UFO report document, containing text and some tabulated information.
+PAGE THREE RJEPNS 141
 
-PAGE THREE REPORT 41
-P. 5/SGT DETACHMENT 12 4572 GOC
-- WEATHER:
+B. W/ S/SGT DETACHMENT 12 4572 COS.
+
+WEATHER:
 A. CLEAR
-P. SURFACE 270 DEG 11 KT
-32-09 EPP DEG 30 KT
-13030 EPP DEG 25 KT
-15308 VUP DEG 5.0 KT
-20,002 SC5 DEG 6.0 KT
-25300 VUP DEG 7.0 KT
-59.50 VUP DEG 82 KT
-O DEG KT
+B. SURFACE 273 DEG 11 KT
+    5000 EPP DEG 30 KT
+    10000 EPP DEG 25 KT
+    16000 WIP DEG 54 KT
+    20000 265 DEG 61 KT
+    30000 WIP DEG 70 KT
+    50000 WUP DEG 65 KT
+    C 5000 DEG KT
+
 C. UNLIMITED
-P. EXCELLENT
-R. NORTH
-R. NONE
-S. NONE
-1. NONE
-2. NONE
+
+D. EXCELLENT
+E. NONE
+F. NONE
+
+G. NONE
 3. NONE
-- 17.5.54 Z DEG SUNRISE
+
+(Bottom of page partially cut off/illegible)
+
+7/144 Z DEC RJEPNS
+
 
 - page 4 -
 

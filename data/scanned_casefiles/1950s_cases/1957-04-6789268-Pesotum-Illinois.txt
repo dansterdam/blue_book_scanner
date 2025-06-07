@@ -1,95 +1,129 @@
-The image does not contain a photograph. It appears to be a Project 10073 record card from the Project Blue Book, which was a systematic study of unidentified flying objects (UFOs) conducted by the United States Air Force. The record card provides details about a UFO sighting, including the date, location, brief summary of the sighting, and comments. The text on the record card is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 3-5-1957
-3. DATE/TIME GROUP: 25/0329Z
-5. TIME: 0300
+
+1. DATE: 25 April 1957
+2. LOCATION: Pesotum, Illinois
+3. DATE-TIME GROUP: Local 2125
+4. GMT: 26/0325Z
+5. PHOTOS: Yes
+6. SOURCE: Civilian
 7. LENGTH OF OBSERVATION: 20 to 25 minutes
-10. BRIEF SUMMARY OF SIGHTING: One object, round, size of dime, color bright red. Object had long white trail 3 times as long as used.
-11. COMMENTS: Very probably the Ground-Leland comet.
-12. CONCLUSIONS: Probably Astronomical - Possibly Astronomical
+8. NUMBER OF OBJECTS: one
+9. COURSE: West
+
+10. BRIEF SUMMARY OF SIGHTING: One object, round, size of dime, color bright red. Object had long white tail 3 times as long as head.
+
+11. COMMENTS: Very probably the Orend-Leland comet.
+
+12. CONCLUSIONS: [Checked boxes for "Possibly Astronomical"]
+
+ATIC FORM 329 (REV 28 SEP 52)
+
 
 - page 1 -
 
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report documenting an "Unidentified Flying Object Report".
+Here is the text from the document:
 
-V UPGL95FLA 74
-RR RJEDFPL
-ADV RJEDFPL
-RR RJEDFN RJEDFLO
-DE RJEDFFL 4P
+V WPG168FLA774
+RR RJELDWP
+ZOV RJEDFLL
+RR RJEDEM RJEPHQ
+DE RJEDFLL 4P
 R 261735Z
-TO CSDFX 7650ND ACVROX ROCKVILLE AFS IN
-TO RJRDSPDX/CSDFFL AGC ENT AF E COLORADO SPRINGS COLO
-INC RJEDFFL/3DR 28TH AIR DIV/DEFF WPAFE OHIO
-RJEDFFL/CI:DR AIR TECHNICAL INTEL CENT WPAFE OHIO
-RJEDFLO/DIRECTOR INTELLIGENCE HQ USAF WASHINGTON 25 DC
+
+FR CMDR 762ND ACMRON ROCKVILLE AFS IND
+TO RJEDEM/CMDR ADC ENT AFB COLORADO SPRINGS COLO
+INFO RJEDFLL/ MDR 58TH AIR DIV /DEP/ WPAFE OHIO
+RJEDFLL/CMDR AIR TECHNICAL INTELL CENTER WPAFE OHIO
+RJEPHQ/DIRECTOR INTELLIGENCE HQ USAF WASHINGTON 25 DC
+
 FT
-/ UNCLASSIFIED INTEL 237. SUBJECT: UNIDENTIFIED FLYING OBJECT REPORT.
-IN ACCORDANCE WITH AIR FORCE REGULATION 2 4-2, DATED 12 AUGUST 1952, 
-THE FOLLOWING IS SUBMITTED:
+/ UNCLASSIFIED/ INTEL 287. SUBJECT: UNIDENTIFIED FLYING OBJECT REPORT.
+IN ACCORDANCE WITH AIR FORCE REGULATION 244-2, DATED 12 AUGUST 1954,
+THE FOLLOWING IS SUBMITTED:/
+
 ITEM 1. A. ROUND
-B. DISE
+B. DIME
 C. BRIGHT RED
 D. ONE
 E. NOT APPLICABLE
 F. LONG WHITE TAIL
 G. TAIL THREE TIMES AS LONG AS HEAD
 
+
 - page 2 -
 
-The image does not contain any photographs, only text. Here is the transcribed text from the document:
+PAGE TWO OF RUEDFL 4P
 
-PAGE TWO OF RUBDFL 4P
 4. NONE
-5. NONE
-ITEM II
+
+1. NONE
+
+ITEM II.
 A. GROUND OBSERVER CORPS
 B. EAST VERY HIGH
-C. NORTH WEST VERY HIGH 
+C. NORTH WEST VERY HIGH
 D. WEST COURSE
 E. LOST VISUAL SIGHTING
 F. TWENTY TO TWENTY FIVE MINUTES
+
 ITEM III.
 A. GROUND VISUAL
-B. NONE
+1. NONE
 C. NOT APPLICABLE
+
 ITEM IV.
-A. 26-3232
+A. 26-3252
 B. NIGHT
-ITEM V. FK-3553
-ITEM VI. - AGE 62, PESOTUM, ILLINOIS
-- NOT APPLICABLE
+
+ITEM V. PK-3853
+
+ITEM VI. [REDACTED] AGE 64, [REDACTED], PESOTUM, ILLINOIS
+A. NOT APPLICABLE
+
 ITEM VII.
 A. CLEAR, WINDS SOUTH SOUTH EAST AT FIVE KNOTS.
-B. SURFACE SOUTH SOUTH EAST 5 KNOTS
-9:30 23 1/2
-10:00 25 1/5
-10:30 23 1/45
-11:00 24 1/45
-11:30 23 1/5
-12:00 NOT AVAILABLE
+B. SURFACE   SOUTH SOUTH EAST/ KNOTS
+   6,300     23 1/2"
+   10,000    26"/15
+   16,000    XXXXXXXXXX     23°/45
+   20,000    24"/45
+   30,000    23°/50
+   50,000    24/TTT7 23°/50
+   61,000    NOT AVAILABLE
+
 
 - page 3 -
 
-The image does not contain any photographs. It appears to be a typed document page from Project Blue Book, a United States Air Force project that investigated unidentified flying objects (UFOs) in the 1950s.
+PAGE THREE OF RJEDFL 4P
 
-PAGE THREE OF RJEBFL 4P 
 C. CLEAR
-D. TEN MILES 
+
+D. TEN MILES
+
 E. NONE
+
 F. NONE
+
 ITEM VIII.
+
 A. NONE
+
 ITEM IX.
-A. 1-22 FROM CHANUTE AFB SEARCHED 
+
+A. F-25 FROM CHANUTE AFB SEARCHED
 AREA WITH NO RESULTS
-ITEM X. 
+
+ITEM X.
+
 A. NONE
+
 ITEM XI.
-A. BOTH: INTELLIGENCE OFFICER, POSSIBLE COMET
-BT
-26/2 -4632 APR RJEDFL
+
+A. SODN. INTELLIGENCE OFFICER, POSSIBLE COMET
+ET
+
+26/2/46Z APR RJEDFL
+
 
 - page 4 -
 

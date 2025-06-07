@@ -1,38 +1,57 @@
-The image does not contain a photograph, but rather a UFO index card with information about a sighting. 
-
-Here is the text from the UFO index card:
-
 UFOB INDEX CARD
+
 1. DATE
-9 JUNE 1955
-2. LOCATION 
+28 June 1955
+
+2. LOCATION
 San Diego, California
-3. TYPE OF OBSERVATION
-4. Air-Visual
+
+3. DATE-TIME GROUP
+Local 10/0050z June 1955
+GMT
+
+4. TYPE OF OBSERVATION
+■ Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
 5. PHOTOS
 □ Yes
+■ No
+
 6. SOURCE
-Civ.Jilian
+Civilian
+
 7. LENGTH OF OBSERVATION
-5543.3 in SECONDS
+Still in sight at time of report
+
 8. NUMBER OF OBJECTS
 One (1)
+
 9. COURSE
-To the south-west
+South-west
+
 10. BRIEF SUMMARY OF SIGHTING
-Witness saw a round or elliptical object (8-9) feet in diameter at an altitude of 1,000 feet, has observed to be "drifting" to the south-west.
+One (1) round, silver object, estimated to be six to eight (6-8) feet in diameter at an altitude of 1,000 feet, was observed to be "drifting" to the south-west.
+
 11. COMMENTS
-The object was moving south-west at an altitude of about 80,000 feet. The description of the sighting has the characteristics of a balloon. Resolved by this investigation as probably a balloon.
-13. CONCLUSIONS
+Winds aloft at the time of sighting were blowing south-west at all altitudes to 80,000 feet. The description of the sighting has the characteristics of a balloon. Resolved by this hqs as probably a balloon
+
+12. CONCLUSIONS
 □ Was Balloon
 ■ Probably Balloon
 □ Possibly Balloon
+□ Was Aircraft
 □ Probably Aircraft
 □ Possibly Aircraft
 □ Was Astronomical
+□ Probably Astronomical
 □ Possibly Astronomical
+□ Other
 □ Insufficient Data for Evaluation
 □ Unknown
+
+AISOP Form 5 (15 Oct 54)
+
 
 - page 1 -
 

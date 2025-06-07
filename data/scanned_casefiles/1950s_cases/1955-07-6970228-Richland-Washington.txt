@@ -1,101 +1,170 @@
-There is no photograph present in this image. This appears to be a page from a Project Blue Book UFO report document, specifically the UFOB index card for a sighting that occurred on 6 July 1955 in Richland, Washington.
+Here is the text from the document:
 
-The text contained in the document is as follows:
+UFOB INDEX CARD A188-UFOB-229-55
 
 1. DATE
-6 July 1955
+21 July 1955
+
 2. LOCATION
 Richland, Washington
-3. TYPE OF OBSERVATION
-Visual
-4. TYPE OF SIGHTING
-Ground-Visual
+
+3. DATE-TIME GROUP
+Local
+GMT 21/1397 to 1600 Jul 55
+
+4. TYPE OF OBSERVATION
+Ground-Visual Ground-Radar
+Air-Visual Air-Intercept Radar
+
 5. PHOTOS
-No
-6. DURATION OF OBSERVATION
-15 to 20 minutes
+Yes No
+
+6. SOURCE
+Military and Civilian
+
 7. LENGTH OF OBSERVATION
-15-20 minutes
+Forty-three (43) Minutes
+
 8. NUMBER OF OBJECTS
 One
+
 9. COURSE
 Drifting Slowly
+
 10. BRIEF SUMMARY OF SIGHTING
-The object was round, gray or white in color, and having the appearance of a plastic bottom. It was about 25 feet in diameter and appeared to be hovering about 15,000 feet altitude. The object was then observed to descend to about 8,000 feet. No sound was heard. The object was observed by two pilots of a Civil Air Patrol plane. One pilot stated the object was over the area of sighting at about 30,000 feet.
+One (1), tear-drop shaped object, silver in color, and having the appearance of a large balloon, and also having the appearance of a plastic bottom. Intercept action was taken but the object was above the 45,000 foot altitude above received by the pilots. One pilot stated the object was a balloon.
+
 11. COMMENTS
-The description of the object is consistent with the characteristics of a weather balloon. The object was checked by this headquarters with OSC and was positive a weather balloon was released at the time and place of sighting. A balloon was over the area at the time of sighting at an altitude of about 30,000 feet and was the OBJECT observed. WAS BALLOON.
+The description of the object has the characteristics of a balloon. One pilot stated this object was a balloon. A check by this headquarters with COC Weather at ADC was positive. A balloon was over the area of sighting at the time of the sighting at an altitude of 80,000 feet. Resolved as WAS BALLOON
+
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+
+AFSOP Form 5 (15 Oct 54)
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a project record card from Project 10073, which records an observation made on July 21, 1955 in Richland, Washington. The card provides details about the type of observation, which was a tear-drop shaped object in silver color that exhibited some balloon-like appearance. The comments indicate that the object was tracked by pilots and their ABC was positive, but it was over an area of lighting at the time of sighting. The conclusion is that the object was a weather balloon.
-
-TEXT TRANSCRIPTION:
 PROJECT 10073 RECORD CARD
-1. DATE: 21 Jul 55
-2. LOCATION: Richland, Washington
-3. DATE-TIME GROUP: 1235Z to 1302Z
-4. TYPE OF OBSERVATION: D Ground-Visual, E Air-Visual
-5. SOURCE: Military and civilians
-6. NUMBER OF OBJECTS: 1
-7. COURSE: Drifting slowly
-8. COMMENTS: Description of obj has characteristics of balloon. Check with CCC weather at ABC was positive. Balloon was over area of lighting at time of sighting.
-9. CONCLUSIONS: Was Balloon, Probably Balloon, Possibly Balloon, Was Aircraft, Probably Aircraft, Possibly Aircraft, Was Astronomical, Probably Astronomical, Possibly Astronomical, Insufficient Data to Evaluate, Unknown.
+
+1. DATE
+21 Jul 55
+
+2. LOCATION
+Richland, Washington
+
+3. DATE-TIME GROUP
+Local
+GMT 21/1337Z to 14:30Z
+
+4. TYPE OF OBSERVATION
+☐ Ground-Visual    ☐ Ground-Radar
+☒ Air-Visual       ☐ Air-Intercept Radar
+
+5. PHOTOS
+☐ Yes
+☒ No
+
+6. SOURCE
+military and civilian
+
+7. NUMBER OF OBJECTS
+1
+
+8. COURSE
+Drifting Slowly
+
+9. LENGTH OF OBSERVATION
+43 mins
+
+10. BRIEF SUMMARY OF SIGHTING
+One tear-drop shaped obj, silver in color, appearance of large balloon also appearance of plastic bottom. Intercept action was taken but obj was above 15,000 ft alt reached by pilots. One pilot stated obj was balloon.
+
+11. COMMENTS
+Description of Obj has characteristics of balloon. Check with COC Weather at ADC was positive. Balloon was over area of sighting at time of sighting at an alt of 80,000 feet. Balloon.
+
+12. CONCLUSIONS
+☒ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other:
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)
+
 
 - page 2 -
 
-The provided image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+Multi IN
+22 JUL 1958 07 45
 
-As an OCR (Optical Character Recognition) system, I will produce the following text found in the document:
-
-MULTI IN
-22 JUL 1955 07 45 -
-UPB181 YDD311 XYA179 XHA355 XXE235GRAG15
-RR RJEDEN RJDUP RJEPHO RJWPKL RJUPDR
-DE RJUPGR 32A
-R 211822Z
-FN CO NINEAIRD1I GEIGER FLD SPKANE AN
-TO RJEDEN/CONDR ADC ENT AFB COLORADO SPRINGS COLO
-RJJEPHO/CONDR WRIGHT PATTERSON AFB OHIO
-RJWPHO/DOI HQ USAF WASHINGTON 25 DC
-RJWPKL/COMWADF HAMILTON AFB HAMILTON CALIF
-RJWPDH/CONDR FLT 1-A 4522ND AISSRON MCCHOLD AFB TACOMA AR
+VPBI51 YDD111 XVA179 XMA365 XXB39GRAC15
+RR RJEDEN RJEDHP RJEPHQ RJWPKL RJWPDM
+DE RJMPGR 32A
+R 21182BZ
+FM CO NINEARDII GEIGER FLD SPKANE AN
+TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLO
+RJEDWP/COMDR WRIGHT PATTERSON AFB OHIO
+RJWPHQ/DOI HQ USAF WASHINGTON 25 DC
+RJWPKL/COMGADF HAMILTON AFB HAMILTON CALIF
+RJWPDM/COMDR FLT 1-A 4522ND AISRON MCCHORD AFB TACOMA AN
 ET
+
 
 - page 3 -
 
-The image does not contain any photographs. This appears to be a page from a Project Blue Book document, likely an incident report.
-
-UNCLASSIFIED/S0DI 5232 PD UFOB PD 1 CLN A CMA TEAR DROI PD B CNA
-VERY LARGE BALLOON TYPE OBJECT PD C SILVER PD D CMA ONE ID E CMA N/A 
-PD F CMA SILVER WHITE WITH PLASTIC BOTTOM PD G CNA NONE PD H CMA NONE
-PD I CMA ALTITUDE OF 52,323 FT OR MORE PD J CLN A OBSERVED FROM GROUND
-BY GOC PD B CMA 25 TO 32 DEG ELEVATION CMA REG DEC FROM RICHLAND
-WASHINGTON AIRPORT PD E CMA NW/IA PD D CMA SLOW MOVING TO SOUTH PD E CMA
+UNCLASSIFIED/SODI 5232 PD UFOB PD 1 CLN A CMA TEAR DROI PD B CNA
+VERY LARGE BALLOON TYPE OBJECT PD C SILVER PD D CMA ONE ID E CMA N/A
+PD F CMA SILVER WHITE WITH PLASTIC BOTTOM PD G CMA NONE PD H CMA NONE
+PD 1 CMA ALTITUDE OF 62,622 FT OR MORE PD 2 CLN A OBSERVED FROM GROUND
+BY GOC PD B CMA 25 TO 32 DEG ELEVATION CMA 180 DEG FROM RICHLAND
+WASHINGTON AIRPORT PD C CMA NW/1A PD D CMA SLOW MOVING TO SOUTH PD E CNA
 UNK PD F CMA UNK PD 3 CLN A CMA GROUND-VISUAL AND AIR VISUAL PD B CMA
-22 POWER TELESCOPE PD C CMA OVERTONE 16 AND 13 CMA 32,323 TO 45,522FT
-CGMA 156 DEG CMA 352 KTS CMA LARSON AFZ UN PD 4 CLN A CMA 21/13372 TO
-APPBOX 21/1422Z PD B CMA DAY PD 5 CLN AB 4445 PD 6 CLN A CMA G AJ
+20 POWER TELESCOPE PD C CMA OVERTONE 10 AND 13 CMA 32,200 TO 45,225FT
+QCMA 160 DEG CMA 350 KTS CMA LARSON AFZ WN PD 4 CLN A CMA 21/1337Z TO
+APPROX 21/1423Z PD B CMA DAY PD 5 CLN AB 4418 PD 6 CLN A CMA G. A.1
 
-PAGE TWO RJWPGR 327-
-UDIE CMA _____ DRIVE CMA _____ UN CMA AEC SECURITY PATROL
-CMA _____ PICHAND UN CMA G E PATROL
-PD B CMA 1/LT R. T. CAMERON CMA OVERTONE 13 323RD FIS LARSON AFB ALERT 
-PILOT PD CLN CAPT RAVENBURG CMA OVERTONE 13 323RD FIS CMA LARSON AFB
+PAGE TWO RJMPGR 327-
+UBIE CMA [REDACTED] DRIVE CMA [REDACTED] WN CMA AEC SECURITY PATROL
+CLN [REDACTED] CMA [REDACTED] CMA RICHLAND WN CMA G. E. PATROL
+PD B CMA 1/LT R. T. CAMERON CMA OVERTONE 15 323RD FIS LARSON AFE ALERT
+PILOT PD CLN CAPT RAVENSBURG CMA OVERTONE 10 323RD FIS CMA LARSON AFB
 CMA PILOT BOTH VERY RELIABLE PD 7 CLN A CMA CLEAR PD B CMA SURFACE CALUM
-CMA 6226 FT 212 AT 7 KTS CMA 6226 FT 222 AT 12 KTS CMA 5252 FT 212 AT
-20 KTS CMA 5252 FT 222 AT 25 KTS CMA 5252 FT 222 AT 32 KTS CMA 5252 FT 222 AT 20 KTS CMA 8226 FT 182 AT 12 KTS PD 6 CMA NONE PD D CMA
-UNLIMITED PD E CMA NONE PD F CMA NONE PD 8 CLN NONE PD 5 CLN TWO ACFT
-FROM 323RD FIS LARSON AFB WERE SCRAMBLED FOR INTERCEPTION PD ACFT CLIMBED
-TO 45,522 FT WITH OBJECT STILL FAR ABOVE THEM PD 9 CLN NONE PD 14 CLN 
-OEVVILLE E PIXEI. HAD USAF DO 5TH AIR DIV DO ONE PILOT OF LISG ACFT
-STATED HE WAS SURE OBJECT WAS LARGE BALLOON PD SHAPE CMA COLOR CMA SIZE 
+CMA 6200 FT 210 AT 7 KTS CMA 16000 FT 220 AT 10 KTS CMA 16030 FT 210 AT
+20 KTS CMA 20000 FT 210 AT 25 KTS CMA 30000 FT 220 AT 35 KTS CMA 50000
+FT 220 AT 20 KTS CMA 80000 FT 130 AT 10 KTS PD C CMA NONE PD D CMA
+UNLIMITED PD E CMA NONE PD F CMA NONE PD 8 CLN NONE PD 9 CLN TWO ACFT
+FROM 323RD FIS LARSON AFB WERE SCRA ELED FOR INTERCEPTION PD ACFT CLIMBED
+TO 45000 FT WITH OBJECT STILL FAR ABOVE THEM PD 1 CLN NONE PD 11 CLN
+ORVILLE E PIXEL MAJ USAF D/I 9TH AIR DIV PD ONE PILOT OF INTCP ACFT
+STATED HE WAS SURE OBJECT WAS LARGE BALLOON PD SHAPE CMA COLOR CMA SIZE
 AND SPEED OF OBJECT SUGGESTS IT WAS A BALLOON PD 12 CMA NONE PD END
+
 
 - page 4 -
 
-The image provided does not contain any photograph or visual element. It appears to be a scanned document page from Project Blue Book, with the heading "22/2 1547 JUL RJWPGR" visible at the top.
+22/1547, JUL RJWPGR
 
-22/2 1547 JUL RJWPGR
+D3157
+
 
 - page 5 -
 

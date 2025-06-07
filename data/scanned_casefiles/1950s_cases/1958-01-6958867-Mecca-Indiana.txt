@@ -1,38 +1,63 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book record card, which is a form used to document observations of unidentified flying objects as part of the United States Air Force's UFO investigation project.
+PROJECT 1073 RECORD CARD
 
-Here is the text extracted from the image:
+1. DATE
+19 Jan 53
 
-PROJECT 10073 RECORD CARD
-1. DATE: 19 Jan 53
-3. HOUR: 20/02:30
-5. DURATION: 6 min.
-7. LENGTH OF OBSERVATION: 6 min.
-10. BRIEF SUMMARY OF SIGHTING: Small round object, flashing red. No sound. Turned sharply North & disappeared.
-2. LOCATION: Mecca, Indiana
-4. TYPE OF OBSERVATION: 0 Ground-Radar
-6 Air/Visual
-4. SOURCE: Civilian
-8. NUMBER OF OBJECTS: 1
-11. COMMENTS: Observers probably saw only the navigation light
+2. LOCATION
+Mecca, Indiana
+
+3. DATE-TIME GROUP
+Local 20/0235Z
+GMT 20/0235Z
+
+4. TYPE OF OBSERVATION
+Ground-Visual
+
+5. PHOTOS
+No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+16 mins
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+North
+
+10. BRIEF SUMMARY OF SIGHTING
+Small round obj, flashing red. No sound. Obj was moving South, then turned sharply North & disappeared.
+
+11. COMMENTS
+Observer probably saw only the flashing red portion of an a/c navigation light.
+
+12. CONCLUSIONS
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
 
 - page 1 -
 
-The image does not contain any photograph. It appears to be a scanned page from an old report document, possibly related to Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs).
+SQH029M SQAB42 YMB929FLAG43FLP059
 
-OCR output:
-
-SQHO29M SQA342 YMB29FLAZ43FLP269
-BR RJELDN RJEDSQ RJEPHQ
+DE RJEDDN RJEDSQ RJEPHQU
 DE RJEDFL 3P
-R 2016092
-TH COMDR 732ND ACWRON ROCKVILLE AFS IND
+R 281600Z
+
+FM COMDR 782ND ACWRON ROCKVILLE AFS IND
 TO RJEDDN/COMDR AIR DEFENSE COMMAND ENT AFB COLORADO
 INFO RJEDSQ/COMDR AIR TECHNICAL INTELLIGENCE CENTER WPAFB OHIO
-RJEPHQ/DIRECTOR INTELLIGENCE HEADQUARTERS USAF WASHINGTON 25 D C
-UNCLASSIFIED/INTEL 133 PD SUBJECT CLN UNIDENTIFIED FLYING OBJECT
+RJEPHQ/DIRECTOR INTELLIGENCE HEADQUARTERS USAF WASHINGTON 25 D-C
+
+UNCLASSIFIED/INTEL 153 PD SUBJECT CLN UNIDENTIFIED FLYING OBJECT
 REPORT PD IN ACCORDANCE WITH AIR FORCE REGULATION 200-2 CMM DATED
-20 AUGUST 1954 CMM THE FOLLOWING IS SUBMITTED CLN.
-ITEM 1.
+12 AUGUST 1954 CMM THE FOLLOWING IS SUBMITTED CLN.
+
+ITEM 11.
 A. ROUND
 B. SMALL
 C. RED (FLASHING)
@@ -40,70 +65,116 @@ D. ONE
 E. N/A
 F. NONE
 
+
 - page 2 -
 
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book.
+PAGE TWO RJEDFL 3P
 
-PAGE TWO RJEDFLJP
 G. NONE
+
 H. NOISELESS
+
 I. NONE
-ITEM: iii
+
+ITEM 411.
 A. LOOKED UP AND SAW RED FLASHING OBJECT
-B. 1.656 DEGREES FROM SIGHTING (1 MI. NORTH MECCA INDIANA)
-C. 1,880 FT (362 DEGREES
-D. OBJECT WAS MOVING SOUTH, THEN TURNED SHARPLY NORTH AND
-DISAPPEARED.
+
+B. 1,000 FT (360 DEGREES FROM SIGHTING (1 MI. NORTH MECCA INDIANA))
+
+C. 1,000 FT (360 DEGREES)
+
+D. OBJECT WAS MOVING SOUTH, THEN TURNED SHARPLY NORTH AND DISAPPEARED.
+
 E. MOVED NORTH UNTIL OUT OF SIGHT
-F. TEN MINUTES
-ITEM: iv
+
+ITEM 111.
 A. NAKED EYE
+
 B. NONE
+
 C. N/A
-ITEM: v
-A. 22/823SZ
+
+ITEM IV.
+A. 20/2235Z
+
 B. NIGHT
 
-PAGE-THREE RJEDFLJP
-ITEM: v
-A. 39 36 N/ 87 38 W
+PAGE THREE RJEDFL 3P
+
+ITEM V.
+A. 39 36 N/ 87 36 W
+
 B. MECCA INDIANA
-ITEM: vi
+
+ITEM VI.
+
 
 - page 3 -
 
-The image does not contain a photograph, only handwritten text.
+Here is the text from the document:
 
-24/1392 JAN RJEDFL
-This student appears to have seen a glowing red pattern in the sky. The witness notes that the object was such a bright intensity that they could not look at it directly. The text suggests the witness was unable to provide a detailed description of the object.
+TELX11.
+A. NONE
+B. NONE
+
+ITEM X111.
+A. NONE
+
+BT
+
+29/1300Z JAN RJEDFL
+
+[Handwritten note:]
+This student appears to
+have see only the flashing
+red picture of a/c's
+magnetic light (Phenomena
+reports below but this a/c
+after in such points dot
+only not light slow. Have
+few instances where only
+with a/c lights was out.
+OAA says not too crazy but happened
+- P.B. a IC
+
 
 - page 4 -
 
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book.
+Here is the text from the document:
 
+ITEM VIII.
 A. CLEAR
-B. SURFACE WINDS CLN SOUTH SOUTHEAST TEN KNOTS
-6,222 FT - 240/22 SW
-12,222 FT - 240/32 SW
-16,222 FT - 252/52 SW
-20,222 FT - 252/52 
-30,222 FT - 252/58 
-50,222 FT - 252/70
-80,222 FT - N/A
-C. SIXTY SCATTERED NINETY OVERCAST
-D. SEVEN
-E. NONE -- ALTERED COURSE
-F. NONE -- THUNDERSTORMS
 
-AGE FOUR RJDEFL 3P
-ITEM V111
+B. SURFACE WINDS CLN SOUTH SOUTHEAST TEN KNOTS
+6,200 FT - 240/20 SW
+10,300 FT - 240/32 SW
+16,000 FT - 250/59 SW
+20,000 FT - 250/50 SW
+30,000 FT - 250/50 SW
+50,000 FT - 250/70
+80,000 FT - N/A
+
+C. SIXTY SCATTERED NINETY OVERCAST
+
+D. SEVEN 3000 feet
+
+E. NONE - Cloud Cover
+
+F. NONE - Thunderstorms
+
+PAGE FOUR RJEDFL 3P
+
+ITEM VIII.
 A. NONE
 B. NONE
 C. NONE
+
 ITEM IX.
 A. NONE
+
 ITEM X.
-A. NONE
+A. NONE None and Officer
+
 
 - page 5 -
 

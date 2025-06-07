@@ -1,7 +1,3 @@
-There are no photographs on this page. Here is the OCR transcription of the text in the document:
-
----
-
 PROJECT 10073 RECORD CARD
 
 1. DATE
@@ -11,30 +7,28 @@ PROJECT 10073 RECORD CARD
 Omaha, Nebraska
 
 3. DATE-TIME GROUP
-Local ________________
-GMT 2/00:45Z
+Local 23/0045Z
+GMT
 
 4. TYPE OF OBSERVATION
-☐ Ground-Visual
-☐ Ground-Radar
-☐ Air-Visual
-☐ Air-Intercept Radar
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
 
 5. PHOTOS
-☐ Yes
-☑ No
+□ Yes
+□ No
 
 6. SOURCE
 Civilian
 
 7. LENGTH OF OBSERVATION
-still in sight
+Still in sight
 
 8. NUMBER OF OBJECTS
 one
 
 9. COURSE
-stationary
+Stationary
 
 10. BRIEF SUMMARY OF SIGHTING
 Round, blue flash of light, seemed to get brighter.
@@ -43,52 +37,39 @@ Round, blue flash of light, seemed to get brighter.
 Astro plot shows Venus in SW at time of sighting.
 
 12. CONCLUSIONS
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Ballon
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
-☑ Possibly Astronomical
-☐ Was Astronomical Venus
-☐ Probably Astronomical
-☐ Astro Shows Venus
-☐ Other
-☐ Insufficient Data for Evaluation
-☐ Unknown
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+[X] Was Astronomical Venus
+[X] Probably Astronomical
+□ Possibly Astronomical
+□ Other:
+□ Insufficient Data for Evaluation
+□ Unknown
 
 ATIC FORM 329 (REV 26 SEP 52)
 
----
 
 - page 1 -
 
-The image contains a sketch rather than a photograph. The sketch appears to depict a simple illustration of a round object with a tail, suggesting motion. 
+Here is the text from the document:
 
-Here is the text content from the document:
+SCN024 SOBG63 YMB021 YYB007KFA055KFG032PGN005
 
-```
-SAH924 SDB953 YMB921 YYBD@@KFA55KG@G32FGM@05
-
-PP RJDEDN RJEDWP RJEPHQ
-
-DF. RJEDFK 2G@I 24/005Z
-P 251630Z NOV##7
-FM COMDR 789TH ACWRON OMAHA AF ST OMAHA NEBR
-
-TO RJEDFK/COMDR 29TH AIR DIV
-
+PP RJEDDN RJEWP RJEPHQ
+DE RJEDKF 2GM 24/00452
+P 251602Z
+FM COMDR 789TH ACURON OMAHA AF ST OMAHA NEBR
+TO RJEDKF/COMDR 20TH AIR DIV
 RJEDDN/COMDR ADC
-
-RJEDWP/COMDR ATIC
-
-RJEHPA/DIR OF INTELL HQ USAF
-
-RJEDFK/COMDR CADF
-
+RJEDUP/COMDR ATIC
+RJEPHQ/DIR OF INTELL HQ USAF
+RJEDKF/COMDR CADF
 BT
-
-/U N C L A S S I F I E D/ OPNS 576 THE FOL IS A UFOB
+/UNCLASSIFIED/ OPNS 576 THE FOL IS A UFOB
 
 1.
 A.ROUND
@@ -102,33 +83,24 @@ H.NONE
 I.NONE
 
 2.
-F.COMING HOME FROM STORE
-B.42 DEGREES – SW
+A.COMING HOME FROM STORE
+B.40 DEGREES - SW
 C.STILL IN SIGHT
 D.NONE
 E.UNK
-```
 
-The text includes coding and acronyms typical of military communication, specifically referencing UFO reporting. Also, items listed are part of a standardized form for reporting unidentified flying objects.
 
 - page 2 -
 
-The image you provided does not contain any photographs. It is a text document.
-
-Here is the text from the document:
-
-```
-P 251632Z
-FM COMDR 789TH ACWRON OMAHA AF ST OMAHA NEBR
-TO RJEDFX/COMDR 29TH AIR DIV
+FM COMDR 789TH ACERON OMAHA AT ST OMAHA NEBR
+TO RJEDKF/COMDR 28TH AIR DIV
 RJEDDN/COMDR ADC
 RJEDWP/COMDR ATIC
-RJEPAA/DIR OF INTELL HQ USAF
-RJEDFK/COMDR CADF
+RJEPHO/DIR OF INTELL HQ USAF
+RJEDKF/COMDR CADF
 
 BT
-
-/U N C L A S S I F I E D/ OPNS 576 THE FOL IS A UFO
+UNCLASSIFIED/ OPNS 576 THE FOL IS A UFOB
 
 1.
 A.ROUND
@@ -155,38 +127,37 @@ B.N/A
 C.N/A
 
 4.
-A.24/0345
-```
+A.24/0845
+
 
 - page 3 -
 
-There are no photographs included in this document. Here is the OCR transcription of the text from the document:
-
-```
-B.NIGHT
-5.UNK
+4. NIGHT
+5. UNK
 6.
-A.MRS ███████████ HOUSEWIFE, 34, OMAHA,
-NEBR, █████
-B.UNK
-C.9
+A. MRS [REDACTED] HOUSEWIFE, 34, [REDACTED] OMAHA, 
+NEBR. [REDACTED]
+B. UNK
+C.0
 D.15
 E.0
-F.NONE
+F. NONE
 8. NONE
 9. NONE
 10. NONE
 11. NONE
-A.CHECKED WITH OMAHA TOWER, HE SAYS THERE IS A REAL BRIGHT STAR
-WHICH HE BELIEVES IS(VENUS)THIS CHECKS WITH THE ABOVE REPORT.
-BT
-25/17172 NOV RJEDKF
+
+A. CHECKED WITH OMAHA TOWER, HE SAYS THERE IS A REAL BRIGHT STAR
+WHICH HE BELIEVES IS VENUS. THIS CHECKS WITH THE ABOVE REPORT.
+
+BT-----
+25/1717Z NOV RJEDKF
 
 Concur,
-Astro plat. shows venus 
-in SW at that time approx.
+Astro plot shows venus
+in SW at that time approx
 30° above horizon
-```
+
 
 - page 4 -
 

@@ -1,120 +1,98 @@
-There is no photograph present on this page. 
-
-Here is the OCR-transcribed text from the document:
-
-```
-PROJECT 10073 RECORD CARD
+PROJECT 1007 RECORD CARD
 
 1. DATE
-   21 March 1957
+21 March 1957
 
 2. LOCATION
-   Highland Park
-   N.E. of Los Angeles, Calif.
+Highland Park
+N.E. of Los Angeles, Calif.
 
 3. DATE-TIME GROUP
-   Local  
-   GMT 22/0705Z
+Local
+GMT 22/07037
 
 4. TYPE OF OBSERVATION
-   [_] Ground-Visual  [_] Ground-Radar
-   [X] Air-Visual     [_] Air-intercept Radar 
+[✓] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
 
 5. PHOTOS
-   [_] Yes
-   [X] No
+□ Yes
+[✓] No
 
 6. SOURCE
-   Civilian
+Civilian
 
 7. LENGTH OF OBSERVATION
-   ≈10 minutes/still in sight
+10 minutes/still in sight
 
 8. NUMBER OF OBJECTS
-   one
+one
 
 9. COURSE
-   stationary
-   
+stationary
+
 10. BRIEF SUMMARY OF SIGHTING
-    One object, round, size of head of pin, color bright-green. Observed 230 dgr from highland, California.
+One object, round, size of head of pin, color bright green. Observed 230 dgr from highland, California.
 
 11. COMMENTS
-    Most possibly a balloon with a green light. Direction of sighting toward Norton AFB (about 3-5 miles)
+Most possibly a balloon with a green light. Direction of sighting toward Norton AFB (about 3-5 miles)
 
 12. CONCLUSIONS
-   [_] Was Balloon
-   [_] Was Aircraft
-   [_] Was Astronomical
-   [X] Possibly Balloon
-   [_] Probably Aircraft
-   [_] Probably Astronomical
-   [_] Other 
-   [_] Probably Balloon
-   [_] Possibly Aircraft
-   [_] Possibly Astronomical
-   [_] Insufficient Data for Evaluation
-   [_] Unknown
+[✓] Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
 
-ATIC FORM 329 (REV 26 SEP 52)
-```
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+
+□ Other
+□ Insufficient Data for Evaluation
+□ Unknown
+
+(ATIC FORM 329 (REV 26 SEP 52))
+
 
 - page 1 -
 
-There are no photographs present on this page.
+Here is the OCR text from the document:
 
-Here's the OCR text output from the document:
+21 22/03/52
 
-```
-21       21/03/57
-UNICAS                           ATIC  24
- Wyman $_                   ATIC_47035
-______________  ______________            59117
-          __________           -1160101
-                                                -1-., 23/653/7102
-                                                   7
-        1             4EL
-        2/             46X28
-25Mar57                07 26
+UNCLAS 21035-1 59117
+NTPD 23 010-2
 
-WPH38 WPC14 YDA38 YXC28 KDB138JBA149JRED91
-
+WPH058 WPC14 YDA008 XYC028 XDB138JBA14SJR2001
 PP RJEDEN RJEDWP RJEPHQ
-
 DE RJWPJB 1E
-P 222215Z
+P 222L5Z
 
-FM COMDR-669 ACWRON PORHUE CALIF
-
-TO RJEDENDCMDR ADC ENT AFB COLORADO SPRINGS COLORADO
-
+FM COMDR 669 ACWRON PORHUE CALIF
+TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLORADO
 RJWPJB/COMDR 27 ADIV DEF NORTON AFB CALIF
-
-RJEPWP/COMDR AIR TECH INTELL CENTER BRIGHT PATTERSON AFB OHIO
-
-RJEHPQ/DIRECTOR OF INTELL HQTRS USAF 25 D C
-
-ET
-
-UNCLAS 669Ops 08 t-PD UFOB PD 1.A.ROUND. B.PIN HEAD. C.BRIGHT GREEN.
-
-D .ONE. E .NONE. F .NONE.  G .NONE. H .NONE. I .NONE. 2.A.LOOKING UP IN
-
-THE SKY AND SAW IT AS A GREEN LIGHT, LIKE A STOP LIGHT. B .239 DEG.
-
-C .230 DEG. D .STATIONARY. E .N/A  F .I0 MINUTES SO FAR. 3.A.GROUND-
-VISUAL. B.NONE. C.NONE. 4.A.22/0/7252 B.NIGHT. 5. HIGHLAND PARK NORTHEAST OF LOS ANGELES. 6.A. 
-
-MR _____PAGE 44____ _____ AVENUE, HIGHLAND, HANDYMAN. B.N/A. 7 A.CLEAR AND WINDY.
-B.N/A. C.N/A.  D. UNLIMITED. E.N/A. F.N/A. 8.NONE. 9.S/A  10 UNKNOWN, NONE ON RADAR. 11. PROBABLY THE RIGHT HAND WINGTIP OF AN
-AIRCRAFT. SENIOR DIRECTOR, EDWARD R. MARTIN 1ST LT. USAF.
-
-A03004737. QMWN /A PD END
+RJEDWP/COMDR AIR TECH INTELL CENTER WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIRECTOR OF INTELL HQTRS USAF 25 D C
 
 BT
+UNCLAS 669OPS 087-Y PD UFOB PD 1.A.ROUND. B.PIN HEAD. C.BRIGHT GREEN.
+D.QME. E.N/A. F.NONE. G.NONE. H.NONE. I.NONE. 2.A.LOOKING UP IN
+THE SKY AND SAW IT AS A GREEN LIGHT. LIKE A STOP LIGHT. B.230 DEG.
+C.230 DEG. D.STATIONARY E.N/A F.10 MINUTES SO FAR. 3.A.GROUND-
+VISUAL. B.NONE. C.NONE. 4.A.22/0 0352 B.NIGHT. 5. HIGHLAND PARK
+NORTHEAST OF LOS ANGELES. 6.A. [REDACTED] AGE 44, [REDACTED]
+AVENUE, HIGHLAND, HANDYMAN. B.N/A. 7.A.CLEAR AND WINDY.
+B.N/A. C.N/A. D. UNLIMITED. E.N/A. F.N/A. 8.NONE. 9.N/A. 10.UNKNOWN,
+NONE ON RADAR. 11. PROBABLY THE RIGHT HAND WINGTIP OF AN
+AIRCRAFT. SENIOR DIRECTOR, EDWARD R. MARTIN 1ST LT. USAF.
+A0304737. QWMN/A PD END
 
-22/2502 Z MAR RJWPJB
-```
+BT
+22/2308Z MAR RJWPJB
+
 
 - page 2 -
 

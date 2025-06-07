@@ -1,8 +1,3 @@
-There is no photograph present on this page of the document.
-
-Here is the OCR text output:
-
-```
 PROJECT 10073 RECORD CARD
 
 1. DATE
@@ -12,22 +7,22 @@ PROJECT 10073 RECORD CARD
 Along Gila River, Arizona
 
 3. DATE-TIME GROUP
-GM +7 26/0222Z
 Local
-5. PHOTOS
-       ☐ Yes
-       ☒ No
-7. LENGTH OF OBSERVATION
-3 minutes
+GMT 25/0922Z
 
 4. TYPE OF OBSERVATION
-☒ Ground-Visual
-☐ Air-Visual
-☐ Ground-Radar
-☐ Air-Intercept Radar
+[X] Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes
+[X] No
 
 6. SOURCE
 Civilian
+
+7. LENGTH OF OBSERVATION
+3 minutes
 
 8. NUMBER OF OBJECTS
 one
@@ -36,99 +31,91 @@ one
 SE
 
 10. BRIEF SUMMARY OF SIGHTING
-A pea-sized streak, bright red.
+A pea sized streak, bright red.
 
 11. COMMENTS
 Sputnik II.
 
 12. CONCLUSIONS
+□ Was Balloon
+□ Probably Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Probably Aircraft
+□ Possibly Aircraft
+□ Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+[X] Other: Sputnik II
+□ Insufficient Date for Evaluation
+□ Unknown
 
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
+(ATIC FORM 329 (REV 26 SEP 52))
 
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
-
-☐ Was Astronomical
-☒ Probably Astronomical
-☐ Possibly Astronomical
-
-☐ Other
-☒ Sputnik II
-☐ Insufficient Data for Evaluation
-☐ Unkown
-
-ATIC FORM 329 (REV 25 SEP 52)
-```
 
 - page 1 -
 
-This document does not contain a photograph.
+Here is the text from the document:
 
-Here is the OCR transcription of the text found in the document:
+116/0045?
 
-```
-DSQ#@S2 SQC154 YDD192 VYE371DNAS2DNS@03
-MM RJEDD/RJEDS@. . . . . . . .
+DSCN652 SOC154 YDD102 WYE971DNA052DN5003
+MN RJEDD...RJEDS0
 DE RJWFDN 3S
-#! 26163%2
+R 2616302
 
-FM COMDR 8#TH ACWRON MT LEMMON AFSTA ARIZ
-TO RJEDD/COMDR ADC ENT AFB
-RJWFDN/COMDR 34TH ADD 
-RJEDS@/COMDR AIR TECHNICAL INT CENTER WRIGHT PATTERSON AFB
+FM COMDR 66 4TH ACWRON MT LEMMON AFSTA ARIZ
+TO RJEDDV/COMDR ADC ENT AFB
+RJWFDN/COMDR 34TH ADD
+RJEDS0/COMDR AIR TECHNICAL INT CENTER WRIGHT PATTERSON AFB
+
 ST
 
-UNCLAS/ACW=0 1181. UFOB
+UNCLAS/ACW-O 1181. UFOB
 
-1. 2. 4. 7. 
-A. STREAK A. MOVING OBJECT A. 26/2222Z A. CLEAR
-B. PEA B. 99 DEGREES B. NIGHT B. 50,&&FT 360 DEGREES 
-C. BRIGHT REDC. 99 DEGREES 5. EJKD 0$110=ALONG C. UNLIMITED 
-D. ONE D. STRIGHT GILA RIVER, ARIZ D. UNLIMITED 
-E. N/A E. FADED 6. E. N/A 
-F. N/A F. 3 MIN A. -------------- F. N/A 
-G. N/A AGE- 47 8. N/A 
+1.                  2.                  4.                  7.
+A. STREAK           A. MOVING OBJECT    A. 26/0222Z        A. CLEAR
+B. PEA              B. 09 DEGREES       B. NIGHT           B. 50,000FT
+                                                            300 DEGREES
+C. BRIGHT REDG. 90 DEGREES              5. BJKD 0110-ALONG C. UNLIMITED
+D. ONE              D. STRAIGHT                GILA RIVER, ARIZ D. UNLIMITED
+E. N/A              E. FADED            6.                  E. N/A
+F. N/A              F. 3 MIN            A.                  F. N/A
+G. N/A                                   AGE- 47            8. N/A
 
-PAGE TWO RJWFDN 3S 
-#. N/A 3. ---------------SONORA, ARIZ 9. N/A
-I. N/A A. N/A PHARMACIST 10. N/A
-B. BINOCULARS B. N/A 11. N/A 
-C. N/A 12. N/A
-```
+PAGE TWO RJWFDN 3S                       SONORA, ARIZ 9. N/A
+                                          PHARMACIST        10. N/A
+1. N/A              3.
+                    A. N/A                                  11. N/A
+                    B. BINOCULARS        B. N/A
+                    C. N/A                                  12. N/A
+
 
 - page 2 -
 
-This image does not contain any photographs.
+The text I can read on this page is:
 
-OCR text output:
 25
-
-26/00458
-
-375 L.---
-
+26/0852
+1785 Loc.
 13. N/A
+
+The rest of the page appears to be blank or too faint to read clearly.
+
 
 - page 3 -
 
-The document does not contain a photograph.
+UFO SIGHTINGS & SOME ACTIVITIES
+CU POSTED FROM SOCIAL CAPITAL TRACES
 
-Here is the OCR output of the text found in the document:
+1. 8 Oct 1957     Elmendorf, Alaska.
 
-```
-UFO SIGHTINGS FOUND TO 
-BE BONA FIDE SATELLITES
-(AS PLOTTED FROM OFFICIAL SATELLIR TRACKS
+2. 25 Nov 1957    Globe, Greenwood
 
-1. 8 Oct 1957	              /	   Elmendorf, Alaska
-2. 25 Nov 1957	                 /    Globe, Arizona	
-3. 27 Nov 1957	                 /    Maram'sburg, Ohio
-4. 25 Nov 1957 (Cont) (f/Dids) San Diego, California
-					                      {As Reported}
-```
+3. 27 Nov 1957    Mansfield, Ohio
+
+4. 25 Nov 1957    (Continuation) San Diego, California
+
 
 - page 4 -
 

@@ -1,60 +1,95 @@
-The image does not contain any photograph. It appears to be a page from a Project Blue Book report, specifically a "Project 10073 Record Card" dated December 3, 1957, detailing an observation of a "very bright object" in southern New Jersey.
-
-The text on the document is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 3 December 1957
-2. LOCATION: Cape May, New Jersey
-3. DATE-TIME GROUP: 7.15 PM
-4. TYPE OF OBSERVATION: a. Ground-Radar
-   b. Ground-Visual
-   c. Air-Visual
-   d. Air-Intercept Radar
-5. SOURCE: Naval Air Station personnel
-6. NUMBER OF OBJECTS: One
-7. LENGTH OF OBSERVATION: 40 minutes
-10. BRIEF SUMMARY OF SIGHTING: Very bright object noted in southern sky, moved slightly to SW in 10 minutes. Sources stated that there appeared to be an explosion before it disappeared beyond the horizon.
-12. CONCLUSIONS: 
-   B Was Balloon
-   Definitely Balloon
-   Possibly Balloon
-   Was Aircraft
-   Possibly Aircraft
-   Was Astronomical
-   Possibly Astronomical
-   D Insufficient Data for Evaluation
-   Unknown
+
+1. DATE
+3 December 1957
+
+2. LOCATION
+Cape May, New Jersey
+
+3. DATE-TIME GROUP
+Local: 7:15 PM
+GMT: 04/00157
+
+4. TYPE OF OBSERVATION
+XE Ground-Visual □ Ground-Radar
+□ Air-Visual □ Air-Intercept Radar
+
+5. PHOTOS
+□ Yes    XE No
+
+6. SOURCE
+Naval Air Station Personnel
+
+7. LENGTH OF OBSERVATION
+40 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+S to SW
+
+10. BRIEF SUMMARY OF SIGHTING
+Very bright object noted in southern sky. Moved slightly to SW in 40 minutes. Source stated that there appeared to be an explosion before it disappeared beyond the horizon.
+
+11. COMMENTS
+Definitely Venus on the basis of bearings and elevations given. This planet now so bright that newspapers have commented how many persons have been reporting it. Re: H.Q. Euphemens, Astro. Charts - computers.
+
+12. CONCLUSIONS
+□ Was Balloon
+□ Possibly Balloon
+□ Was Aircraft
+□ Possibly Aircraft
+XE Was Astronomical
+□ Probably Astronomical
+□ Possibly Astronomical
+□ Other: Insufficient Data for Evaluation
+□ Unknown
+
+(ATIC FORM 328 (REV 28 SEP 52))
+
 
 - page 1 -
 
-The image appears to contain a page from a historical Project Blue Book document. There is no photograph or image visible in the provided document. 
+Here is the text from the document:
 
-The OCR output of the text in the document is as follows:
+214425
+64 DEC 57
 
-UNCLASSIFIED
-21 4225 24 DEC 57
 AC OPERATIONAL IMMEDIATE
-FM COMCFCGR STEWART APE NY
-TO COMDR ATIC WPAFA OHIO 
+
+FM COMGFCH STEWART AFE NY
+TO CMDR ATIC WAFE OHIO
 DIR OF INTEL HQ USAF WASHDC
 COMDR ADC ENT AFB COLO
-CINCNORAD 
+CINCNORAD
 ET
-REF MSG FR AFCIN 53285, FOLG INFO RECD FR COMER 3 SEAFROC:
-"FOLG RECD FR NAVAL FACILITY CAPE MAY NJ "AT APPROX 6:45 UNIDENTIFIED
-OBJECT SIGHTED IN SKY. BEARING 182-222, WATCHED FOR 45 MINUTES. 
-BINOCULARS. SHOWED FOLG CHARACTERISTICS: BRIGHT ORANGE LIGHT FALLING 
-OR DISAPPEARING OVER HORIZON, OBJECT DISAPPEARED OVER HORIZON AT 
-APPROX 7:30. AZFPL LOCATION NOTED AT 0041 BEARING 182, OBJECT BELIEVED 
-TO BE TOO LARGE FOR AIRCRAFT. COAST GUARD STATION REQUESTED TO LOOK
-FOR OBJECT BUT OBJECT DISAPPEARED BEFORE ACTION TAKEN".
 
-LT 
-L 4/40362
+UNCLASSIFIED
 
-UNCLASSIFIED 
-0015 - 7:15 PM
-2 Dec 3
+AC PARAPHRASE NOT REQUIRED
+Classification Canceled
+OR Changed to UNCL
+Auth. AEC 205-10
+ZAB BUTTON
+By HL Guntrip
+
+REF MSG FR AFCIN 53269, FOLG INFO RECD FR COMEASTSEAFRO.
+"FOLG RECD FR NAVAL FACILITY CAPE MAY NJ" AT APPROX G6142 UNIDENTIFIED
+OBJECT SIGHTED IN SKY. BEARING 186-282. WATCHER FOR 40 MINUTES.
+INOCULARS, SHOWED FOLG CHARACTERISTICS: BRIGHT ORANGE LIGHT FALLING
+OR DISSAPEARING OVER HORIZON. OBJECT DISSAPEARED OVER HORIZON AT
+APPROX G6042 EXPLOSION NOTED AT G041 BEARING 156. OBJECT BELIEVED
+TO BE TOO LARGE A STAR OBJECT. COAST GUARD STATION REQUESTED TO LOOK
+FOR OBJECT BUT OBJECT DISSAPEARED BEFORE ACTION TAKEN."
+
+ET
+64/0362Z
+
+UNCLASSIFIED
+0015-5 = 7:15 PM
+Local Time, DEC 3
+
 
 - page 2 -
 
