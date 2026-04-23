@@ -3,8 +3,11 @@
 Re-extract flagged suspect cases using Claude vision with a strict, grounded prompt.
 
 Reads suspect_cases.csv, re-runs OCR on each PDF page, then does a structured
-metadata extraction pass from the transcribed text. Writes new .txt and .json
-files to output dirs so originals are preserved for diffing.
+metadata extraction pass from the transcribed text. By default overwrites the
+searcher repo's casefiles; pass --out-txt-dir/--out-json-dir to redirect.
+
+Idempotent: skips any case whose JSON already carries a `reextracted_by` key,
+unless --force is given.
 
 Usage:
     python reextract.py --keyfile api_key.json --min-score 3
@@ -30,7 +33,8 @@ from prompts import OCR_PROMPT, METADATA_PROMPT, METADATA_SCHEMA
 
 REPO = Path(__file__).parent.parent
 DEFAULT_SUSPECTS = REPO / "suspect_cases.csv"
-DEFAULT_OUT = REPO / "data" / "reextracted"
+DEFAULT_TXT_DIR = Path("/Users/foster/git/blue_book_searcher/casefiles/txt")
+DEFAULT_JSON_DIR = Path("/Users/foster/git/blue_book_searcher/casefiles/json")
 
 
 def encode_pdf_page(pdf_path: Path, page_number: int, max_width: int = 2048) -> str:
@@ -171,7 +175,6 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--keyfile", required=True, type=Path, help="JSON file with anthropic_api_key")
     p.add_argument("--suspects", type=Path, default=DEFAULT_SUSPECTS)
-    p.add_argument("--out-dir", type=Path, default=DEFAULT_OUT)
     p.add_argument("--model", default="claude-opus-4-7")
     p.add_argument("--min-score", type=int, default=3)
     p.add_argument("--only", help="process only this specific case filename")
@@ -183,8 +186,8 @@ def main():
     keys = json.loads(args.keyfile.read_text())
     client = anthropic.Anthropic(api_key=keys["anthropic_api_key"])
 
-    out_txt = args.out_dir / "txt"
-    out_json = args.out_dir / "json"
+    out_txt = DEFAULT_TXT_DIR
+    out_json = DEFAULT_JSON_DIR
 
     suspects = load_suspects(args.suspects, args.min_score, args.only, args.limit)
     print(f"Re-extracting {len(suspects)} cases using {args.model}")
