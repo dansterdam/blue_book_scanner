@@ -1,0 +1,323 @@
+score,case,reasons,pdf
+7,1961-01-8628192-SouthernCalif.txt,A:witnesses=1000; B:witnesses_1000_not_in_text; E:hedges=6; F:location_mismatch,/Volumes/Expansion/data/1960s/1961-01-8628192-SouthernCalif.pdf
+7,1965-08-9370907-MissileSiteInNebraska.txt,B:witnesses_11_not_in_text; C:dur_meta=5148000.0s_vs_form=120.0s; E:hedges=9; F:location_mismatch,/Volumes/Expansion/data/1960s/1965-08-9370907-MissileSiteInNebraska.pdf
+6,1952-05-9613278-Seattle-Washington.txt,A:witnesses=1000; B:witnesses_1000_not_in_text; E:hedges=13,/Volumes/Expansion/data/1950s/1952-05-9613278-Seattle-Washington.pdf
+6,1958-10-7200293-15MiSOfCameron-Arizona.txt,C:dur_meta=1200.0s_vs_form=3.0s; E:hedges=15; F:location_mismatch; G:form='one'_vs_obj='four strange lighted objects in the sky',/Volumes/Expansion/data/1950s/1958-10-7200293-15MiSOfCameron-Arizona.pdf
+6,1963-03-9316858-PacificHawaiianIslandsandarea.txt,A:witnesses=1000; B:witnesses_1000_not_in_text; F:location_mismatch,/Volumes/Expansion/data/1960s/1963-03-9316858-PacificHawaiianIslandsandarea.pdf
+6,1965-08-9370948-NebraskaArea.txt,C:dur_meta=900.0s_vs_form=120.0s; E:hedges=7; F:location_mismatch; G:form='one'_vs_obj='three unidentified flying objects',/Volumes/Expansion/data/1960s/1965-08-9370948-NebraskaArea.pdf
+5,1951-02-7006612-EastAfrica.txt,B:witnesses_11_not_in_text; E:hedges=7; F:location_mismatch,/Volumes/Expansion/data/1950s/1951-02-7006612-EastAfrica.pdf
+5,1953-02-9555238-Borneo.txt,B:witnesses_100_not_in_text; C:dur_meta=2400.0s_vs_form=300.0s,/Volumes/Expansion/data/1950s/1953-02-9555238-Borneo.pdf
+5,1954-10-8727450-ALBUQUERQUE-NEWMEXICO.txt,C:dur_meta=900.0s_vs_form=3.0s; E:hedges=7; G:form='one'_vs_obj='three bright glowing objects in the sky',/Volumes/Expansion/data/1950s/1954-10-8727450-ALBUQUERQUE-NEWMEXICO.pdf
+5,1954-12-6963465-EDINTEN-NORTHCAROLINA.txt,C:dur_meta=300.0s_vs_form=20.0s; E:hedges=22; G:form='one'_vs_obj='multiple unidentified flying objects',/Volumes/Expansion/data/1950s/1954-12-6963465-EDINTEN-NORTHCAROLINA.pdf
+5,1960-07-7817616-COLUMBUS-OHIO.txt,C:dur_meta=7362000.0s_vs_form=5.0s; E:hedges=20; G:form='one'_vs_obj='two dark elongated objects in the sky',/Volumes/Expansion/data/1960s/1960-07-7817616-COLUMBUS-OHIO.pdf
+5,1965-01-8722383-Bethel-Vermont.txt,"C:dur_meta=900.0s_vs_form=25.0s; E:hedges=61; G:form='one'_vs_obj='two round, reddish-orange objects'",/Volumes/Expansion/data/1960s/1965-01-8722383-Bethel-Vermont.pdf
+5,1965-04-9071223-Dayton-Ohio.txt,C:dur_meta=120.0s_vs_form=3600.0s; E:hedges=20; G:form='one'_vs_obj='one stationary object and two luminous o',/Volumes/Expansion/data/1960s/1965-04-9071223-Dayton-Ohio.pdf
+4,1947-07-9669075-[ILLEGIBLE]-[ILLEGIBLE]-.txt,"E:hedges=168; F:location_mismatch; G:form='one'_vs_obj='two circular, shiny objects'",/Volumes/Expansion/data/1940s/1947-07-9669075-[ILLEGIBLE]-[ILLEGIBLE]-.pdf
+4,1948-11-6387743-10mi-EVaugn-N-M--225-.txt,C:dur_meta=7920000.0s_vs_form=300.0s; E:hedges=47; F:location_mismatch,/Volumes/Expansion/data/1940s/1948-11-6387743-10mi-EVaugn-N-M--225-.pdf
+4,1949-09-6313543-GooseBay-Labrador.txt,"E:hedges=36; F:location_mismatch; G:form='one'_vs_obj='multiple round, shiny objects'",/Volumes/Expansion/data/1940s/1949-09-6313543-GooseBay-Labrador.pdf
+4,1952-04-6311632-[ILLEGIBLE].txt,C:dur_meta=25200.0s_vs_form=1200.0s; E:hedges=13; F:location_mismatch,/Volumes/Expansion/data/1950s/1952-04-6311632-[ILLEGIBLE].pdf
+4,1952-05-9614342--SEOfJapan-34DEG15N-139DEG30E.txt,C:dur_meta=6948000.0s_vs_form=600.0s; E:hedges=16; F:location_mismatch,/Volumes/Expansion/data/1950s/1952-05-9614342--SEOfJapan-34DEG15N-139DEG30E.pdf
+4,1952-07-7482181-NOVASSEURAFBMOROCCO.txt,C:dur_meta=15.0s_vs_form=2100.0s; E:hedges=121; F:location_mismatch,/Volumes/Expansion/data/1950s/1952-07-7482181-NOVASSEURAFBMOROCCO.pdf
+4,1952-08-6996614-[ILLEGIBLE].txt,C:dur_meta=120.0s_vs_form=2100.0s; E:hedges=51; F:location_mismatch,/Volumes/Expansion/data/1950s/1952-08-6996614-[ILLEGIBLE].pdf
+4,1952-08-8763445-MacDillAFB-Florida.txt,B:witnesses_22_not_in_text; E:hedges=6,/Volumes/Expansion/data/1950s/1952-08-8763445-MacDillAFB-Florida.pdf
+4,1952-10-9169473-LONGISLANDNY.txt,C:dur_meta=120.0s_vs_form=1200.0s; E:hedges=18; F:location_mismatch,/Volumes/Expansion/data/1950s/1952-10-9169473-LONGISLANDNY.pdf
+4,1952-xx-9614502-[ILLEGIBLE].txt,C:dur_meta=900.0s_vs_form=60.0s; E:hedges=176; F:location_mismatch,/Volumes/Expansion/data/1950s/1952-xx-9614502-[ILLEGIBLE].pdf
+4,1953-02-9555833-SanAntonio-Texas.txt,B:witnesses_24_not_in_text; E:hedges=8,/Volumes/Expansion/data/1950s/1953-02-9555833-SanAntonio-Texas.pdf
+4,1953-04-6384529-NWKorea.txt,C:dur_meta=15.0s_vs_form=300.0s; E:hedges=7; F:location_mismatch,/Volumes/Expansion/data/1950s/1953-04-6384529-NWKorea.pdf
+4,1953-11-6982274-[ILLEGIBLE].txt,C:dur_meta=1200.0s_vs_form=60.0s; E:hedges=29; F:location_mismatch,/Volumes/Expansion/data/1950s/1953-11-6982274-[ILLEGIBLE].pdf
+4,1953-xx-9543021-UpperNewYork.txt,B:witnesses_200_not_in_text; F:location_mismatch,/Volumes/Expansion/data/1950s/1953-xx-9543021-UpperNewYork.pdf
+4,1954-07-8715290-Hampton-Virginia.txt,C:dur_meta=10.0s_vs_form=600.0s; E:hedges=29; F:location_mismatch,/Volumes/Expansion/data/1950s/1954-07-8715290-Hampton-Virginia.pdf
+4,1954-08-8716066-PacificOcean.txt,C:dur_meta=120.0s_vs_form=900.0s; E:hedges=7; F:location_mismatch,/Volumes/Expansion/data/1950s/1954-08-8716066-PacificOcean.pdf
+4,1955-02-6967352-20MiEOfCochise-N-M.txt,C:dur_meta=900.0s_vs_form=180.0s; E:hedges=11; F:location_mismatch,/Volumes/Expansion/data/1950s/1955-02-6967352-20MiEOfCochise-N-M.pdf
+4,1956-12-6786302-Denver-Colorado.txt,C:dur_meta=5.0s_vs_form=7200.0s; E:hedges=7; F:location_mismatch,/Volumes/Expansion/data/1950s/1956-12-6786302-Denver-Colorado.pdf
+4,1957-05-6790266-GreatFalls-Montana.txt,C:dur_meta=120.0s_vs_form=1200.0s; G:form='one'_vs_obj='two spherical silver objects',/Volumes/Expansion/data/1950s/1957-05-6790266-GreatFalls-Montana.pdf
+4,1957-10-6972552-Almogordo-NewMexico.txt,C:dur_meta=1500.0s_vs_form=300.0s; E:hedges=24; F:location_mismatch,/Volumes/Expansion/data/1950s/1957-10-6972552-Almogordo-NewMexico.pdf
+4,1957-10-7227704-Milwaukee-Wisconsin.txt,C:dur_meta=2700.0s_vs_form=180.0s; E:hedges=13; F:location_mismatch,/Volumes/Expansion/data/1950s/1957-10-7227704-Milwaukee-Wisconsin.pdf
+4,1957-11-6781772-Waverly-Illinois.txt,B:witnesses_16_not_in_text; E:hedges=6,/Volumes/Expansion/data/1950s/1957-11-6781772-Waverly-Illinois.pdf
+4,1957-11-6783202-MiamiBeach-Fla.txt,C:dur_meta=900.0s_vs_form=90.0s; E:hedges=7; F:location_mismatch,/Volumes/Expansion/data/1950s/1957-11-6783202-MiamiBeach-Fla.pdf
+4,1957-11-7232817-DelRosa-California.txt,C:dur_meta=1620.0s_vs_form=90.0s; E:hedges=24; F:location_mismatch,/Volumes/Expansion/data/1950s/1957-11-7232817-DelRosa-California.pdf
+4,1957-12-6970849-WofGibralter.txt,C:dur_meta=600.0s_vs_form=60.0s; E:hedges=6; F:location_mismatch,/Volumes/Expansion/data/1950s/1957-12-6970849-WofGibralter.pdf
+4,1958-03-6964857-Dayton-Ohio.txt,C:dur_meta=300.0s_vs_form=60.0s; G:form='one'_vs_obj='three lights in the sky',/Volumes/Expansion/data/1950s/1958-03-6964857-Dayton-Ohio.pdf
+4,1959-02-9079001-8-10MiNofPagelandandShawAFB-S-C.txt,C:dur_meta=300.0s_vs_form=30.0s; E:hedges=15; F:location_mismatch,/Volumes/Expansion/data/1950s/1959-02-9079001-8-10MiNofPagelandandShawAFB-S-C.pdf
+4,1959-04-8405772-BetweenPortugal&Morocco.txt,B:witnesses_29_not_in_text; F:location_mismatch,/Volumes/Expansion/data/1950s/1959-04-8405772-BetweenPortugal&Morocco.pdf
+4,1959-08-8409143-MobileBay-Alabama.txt,C:dur_meta=300.0s_vs_form=5.0s; E:hedges=9; F:location_mismatch,/Volumes/Expansion/data/1950s/1959-08-8409143-MobileBay-Alabama.pdf
+4,1960-02-6970199-SanJuan-PuertoRico.txt,C:dur_meta=600.0s_vs_form=60.0s; E:hedges=10; F:location_mismatch,/Volumes/Expansion/data/1960s/1960-02-6970199-SanJuan-PuertoRico.pdf
+4,1961-07-8694215-2240N15414WPACIFIC.txt,C:dur_meta=900.0s_vs_form=15.0s; E:hedges=6; F:location_mismatch,/Volumes/Expansion/data/1960s/1961-07-8694215-2240N15414WPACIFIC.pdf
+4,1962-07-8681154-WestoverAFB-Massachusetts.txt,A:witnesses=17000; C:dur_meta=40.0s_vs_form=2400.0s,/Volumes/Expansion/data/1960s/1962-07-8681154-WestoverAFB-Massachusetts.pdf
+4,1962-09-8724151-SouthernOhio.txt,C:dur_meta=600.0s_vs_form=20.0s; E:hedges=23; F:location_mismatch,/Volumes/Expansion/data/1960s/1962-09-8724151-SouthernOhio.pdf
+4,1962-10-8726250-6Mile-SWPass-Mississippi.txt,C:dur_meta=900.0s_vs_form=45.0s; E:hedges=21; F:location_mismatch,/Volumes/Expansion/data/1960s/1962-10-8726250-6Mile-SWPass-Mississippi.pdf
+4,1962-12-9316523-02-18N162-09W-Pacific-.txt,C:dur_meta=5.0s_vs_form=1200.0s; E:hedges=17; F:location_mismatch,/Volumes/Expansion/data/1960s/1962-12-9316523-02-18N162-09W-Pacific-.pdf
+4,1963-01-9316555-NantucketPoint-LongIsland-NY.txt,C:dur_meta=20.0s_vs_form=28800.0s; E:hedges=10; F:location_mismatch,/Volumes/Expansion/data/1960s/1963-01-9316555-NantucketPoint-LongIsland-NY.pdf
+4,1963-03-9316841-SouthernCalifornia.txt,C:dur_meta=180.0s_vs_form=900.0s; E:hedges=12; F:location_mismatch,/Volumes/Expansion/data/1960s/1963-03-9316841-SouthernCalifornia.pdf
+4,1963-06-8662515-14-27N69-57E-IndianOcean-.txt,C:dur_meta=3.0s_vs_form=240.0s; E:hedges=8; F:location_mismatch,/Volumes/Expansion/data/1960s/1963-06-8662515-14-27N69-57E-IndianOcean-.pdf
+4,1963-11-9736923-KindlyAFB-Bermuda.txt,C:dur_meta=15.0s_vs_form=600.0s; E:hedges=24; F:location_mismatch,/Volumes/Expansion/data/1960s/1963-11-9736923-KindlyAFB-Bermuda.pdf
+4,1965-07-9075138-[ILLEGIBLE].txt,E:hedges=12; F:location_mismatch; G:form='one'_vs_obj='two disc-shaped objects in the sky',/Volumes/Expansion/data/1960s/1965-07-9075138-[ILLEGIBLE].pdf
+4,1965-11-8676425-LakeErie-InCanada-.txt,B:witnesses_10_not_in_text; F:location_mismatch,/Volumes/Expansion/data/1960s/1965-11-8676425-LakeErie-InCanada-.pdf
+4,1966-03-8663407-Aswego-NewYork.txt,E:hedges=15; F:location_mismatch; G:form='one'_vs_obj='two round objects emitting bluish-white ',/Volumes/Expansion/data/1960s/1966-03-8663407-Aswego-NewYork.pdf
+4,1966-04-7094546-TruthorConsequences-NewMexico.txt,E:hedges=15; F:location_mismatch; G:form='one'_vs_obj='one then two oval-shaped unidentified ob',/Volumes/Expansion/data/1960s/1966-04-7094546-TruthorConsequences-NewMexico.pdf
+4,1966-07-8724436-Kokomo-Indiana.txt,B:witnesses_12_not_in_text; E:hedges=11,/Volumes/Expansion/data/1960s/1966-07-8724436-Kokomo-Indiana.pdf
+4,1966-09-8297442-EnglandAFB-La.txt,C:dur_meta=1800.0s_vs_form=30.0s; E:hedges=8; F:location_mismatch,/Volumes/Expansion/data/1960s/1966-09-8297442-EnglandAFB-La.pdf
+4,1966-10-8297687-StoneHarbor-NewJersey.txt,E:hedges=12; F:location_mismatch; G:form='one'_vs_obj='one object resembling three triangles in',/Volumes/Expansion/data/1960s/1966-10-8297687-StoneHarbor-NewJersey.pdf
+4,1966-11-8274195-[ILLEGIBLE].txt,E:hedges=37; F:location_mismatch; G:form='one'_vs_obj='three unidentified lights in the sky',/Volumes/Expansion/data/1960s/1966-11-8274195-[ILLEGIBLE].pdf
+4,1967-10-7284044-LakeCharles-La.txt,C:dur_meta=600.0s_vs_form=60.0s; E:hedges=27; F:location_mismatch,/Volumes/Expansion/data/1960s/1967-10-7284044-LakeCharles-La.pdf
+4,1968-07-7200019-[ILLEGIBLE].txt,C:dur_meta=180.0s_vs_form=10.0s; E:hedges=138; F:location_mismatch,/Volumes/Expansion/data/1960s/1968-07-7200019-[ILLEGIBLE].pdf
+4,1968-08-7202791-Memphis-Tennessee.txt,B:witnesses_26_not_in_text; E:hedges=13,/Volumes/Expansion/data/1960s/1968-08-7202791-Memphis-Tennessee.pdf
+4,1968-11-7170982-Bismark-NorthDakota.txt,E:hedges=12; F:location_mismatch; G:form='one'_vs_obj='two star-like light sources in the sky',/Volumes/Expansion/data/1960s/1968-11-7170982-Bismark-NorthDakota.pdf
+4,xxxx-xx-8773449-Bakersfield-California.txt,B:witnesses_40_not_in_text; E:hedges=13,/Volumes/Expansion/data/19XXs/xxxx-xx-8773449-Bakersfield-California.pdf
+4,xxxx-xx-8774681-41degrees05N719Degrees30W.txt,C:dur_meta=10.0s_vs_form=300.0s; E:hedges=6; F:location_mismatch,/Volumes/Expansion/data/19XXs/xxxx-xx-8774681-41degrees05N719Degrees30W.pdf
+3,1948-10-6387484-GooseBay-Labrador.txt,C:dur_meta=240.0s_vs_form=1500.0s; E:hedges=6,/Volumes/Expansion/data/1940s/1948-10-6387484-GooseBay-Labrador.pdf
+3,1949-07-6311208-Columbus-Ohio-417-.txt,E:hedges=6; G:form='one'_vs_obj='one or two round lights',/Volumes/Expansion/data/1940s/1949-07-6311208-Columbus-Ohio-417-.pdf
+3,1950-07-9615263-Jacksonville-Fla.txt,B:witnesses_100_not_in_text,/Volumes/Expansion/data/1950s/1950-07-9615263-Jacksonville-Fla.pdf
+3,1951-01-7005375-FtBenningGa.txt,C:dur_meta=30.0s_vs_form=1200.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1951-01-7005375-FtBenningGa.pdf
+3,1951-01-7005516-OakRidge-Tenn.txt,C:dur_meta=1800.0s_vs_form=300.0s; E:hedges=6,/Volumes/Expansion/data/1950s/1951-01-7005516-OakRidge-Tenn.pdf
+3,1951-02-7006388-CapeWalesAlaska.txt,C:dur_meta=7200.0s_vs_form=900.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1951-02-7006388-CapeWalesAlaska.pdf
+3,1951-02-7006888-LaddAFB-Alaska.txt,C:dur_meta=5.0s_vs_form=720.0s; E:hedges=8,/Volumes/Expansion/data/1950s/1951-02-7006888-LaddAFB-Alaska.pdf
+3,1951-08-7008360-SpokaneWashington.txt,C:dur_meta=180.0s_vs_form=1200.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1951-08-7008360-SpokaneWashington.pdf
+3,1951-08-7008515-EllingtonAFB-Texas.txt,C:dur_meta=1800.0s_vs_form=240.0s; E:hedges=12,/Volumes/Expansion/data/1950s/1951-08-7008515-EllingtonAFB-Texas.pdf
+3,1951-10-7010564-EllingtonAFB-Texas.txt,C:dur_meta=15.0s_vs_form=14400.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1951-10-7010564-EllingtonAFB-Texas.pdf
+3,1951-10-7011175-St-CroixFalls-Wisconsin.txt,C:dur_meta=1800.0s_vs_form=120.0s; E:hedges=9,/Volumes/Expansion/data/1950s/1951-10-7011175-St-CroixFalls-Wisconsin.pdf
+3,1951-10-7011649-BuenaVista-Colorado.txt,C:dur_meta=1800.0s_vs_form=20.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1951-10-7011649-BuenaVista-Colorado.pdf
+3,1951-11-7011823-47N57-35W-Atlantic-.txt,C:dur_meta=900.0s_vs_form=180.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1951-11-7011823-47N57-35W-Atlantic-.pdf
+3,1951-12-6308872-Buffalo-N-Y.txt,C:dur_meta=15.0s_vs_form=120.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1951-12-6308872-Buffalo-N-Y.pdf
+3,1951-12-6309001-Keck-Kentucky.txt,C:dur_meta=300.0s_vs_form=10800.0s; E:hedges=18,/Volumes/Expansion/data/1950s/1951-12-6309001-Keck-Kentucky.pdf
+3,1952-01-6310451-KOREA.txt,C:dur_meta=300.0s_vs_form=60.0s; E:hedges=6,/Volumes/Expansion/data/1950s/1952-01-6310451-KOREA.pdf
+3,1952-04-6311719-Miami-Florida.txt,C:dur_meta=30.0s_vs_form=2.0s; E:hedges=9,/Volumes/Expansion/data/1950s/1952-04-6311719-Miami-Florida.pdf
+3,1952-04-6312795-Dallas-Texas.txt,C:dur_meta=30.0s_vs_form=1200.0s; E:hedges=8,/Volumes/Expansion/data/1950s/1952-04-6312795-Dallas-Texas.pdf
+3,1952-04-6313725-Fargo-NorthDakota.txt,C:dur_meta=900.0s_vs_form=120.0s; E:hedges=8,/Volumes/Expansion/data/1950s/1952-04-6313725-Fargo-NorthDakota.pdf
+3,1952-05-9613455-Greenville-S-Carolina.txt,C:dur_meta=10.0s_vs_form=300.0s; E:hedges=11,/Volumes/Expansion/data/1950s/1952-05-9613455-Greenville-S-Carolina.pdf
+3,1952-05-9613512-Mayagnez-PuertoRico.txt,C:dur_meta=6948000.0s_vs_form=1800.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1952-05-9613512-Mayagnez-PuertoRico.pdf
+3,1952-07-7274454-HollomanAFB-NewMexico-1448-.txt,D:text_len=227; F:location_mismatch,/Volumes/Expansion/data/1950s/1952-07-7274454-HollomanAFB-NewMexico-1448-.pdf
+3,1952-07-7481423-Portland-Oregon.txt,C:dur_meta=1920.0s_vs_form=5.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1952-07-7481423-Portland-Oregon.pdf
+3,1952-09-6383087-SanAntonio-Texas.txt,C:dur_meta=600.0s_vs_form=60.0s; E:hedges=9,/Volumes/Expansion/data/1950s/1952-09-6383087-SanAntonio-Texas.pdf
+3,1952-09-6383498-Rabat-Fr-Morocco.txt,A:witnesses=6000; E:hedges=7,/Volumes/Expansion/data/1950s/1952-09-6383498-Rabat-Fr-Morocco.pdf
+3,1952-11-9169959-WASHINGTON-D-C.txt,C:dur_meta=1200.0s_vs_form=8.0s; E:hedges=59,/Volumes/Expansion/data/1950s/1952-11-9169959-WASHINGTON-D-C.pdf
+3,1952-12-9170248-LADDAFB-ALASKA.txt,C:dur_meta=1800.0s_vs_form=150.0s; E:hedges=55,/Volumes/Expansion/data/1950s/1952-12-9170248-LADDAFB-ALASKA.pdf
+3,1952-12-9170549-SANANTONIO-TEXAS.txt,C:dur_meta=10.0s_vs_form=120.0s; E:hedges=33,/Volumes/Expansion/data/1950s/1952-12-9170549-SANANTONIO-TEXAS.pdf
+3,1953-01-9544858-Suwon-Korea.txt,C:dur_meta=600.0s_vs_form=5.0s; E:hedges=21,/Volumes/Expansion/data/1950s/1953-01-9544858-Suwon-Korea.pdf
+3,1953-01-9545795-Stuttgart-Germany.txt,C:dur_meta=90.0s_vs_form=600.0s; E:hedges=6,/Volumes/Expansion/data/1950s/1953-01-9545795-Stuttgart-Germany.pdf
+3,1953-02-9549651-Victorville-Calif.txt,C:dur_meta=180.0s_vs_form=900.0s; E:hedges=13,/Volumes/Expansion/data/1950s/1953-02-9549651-Victorville-Calif.pdf
+3,1953-02-9551193-OKINAWA.txt,C:dur_meta=900.0s_vs_form=20.0s; E:hedges=6,/Volumes/Expansion/data/1950s/1953-02-9551193-OKINAWA.pdf
+3,1953-02-9551580-Richmond-Va.txt,"E:hedges=7; G:form='one'_vs_obj='two circular, luminous objects'",/Volumes/Expansion/data/1950s/1953-02-9551580-Richmond-Va.pdf
+3,1953-02-9551871-Olean-NewYork.txt,C:dur_meta=30.0s_vs_form=420.0s; E:hedges=14,/Volumes/Expansion/data/1950s/1953-02-9551871-Olean-NewYork.pdf
+3,1953-02-9552688-LakeCharlesAFB-La.txt,C:dur_meta=12.0s_vs_form=120.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1953-02-9552688-LakeCharlesAFB-La.pdf
+3,1953-04-6384595-SheavesCove-Newfoundland.txt,C:dur_meta=30.0s_vs_form=2.0s; E:hedges=23,/Volumes/Expansion/data/1950s/1953-04-6384595-SheavesCove-Newfoundland.pdf
+3,1953-06-6385210-NorthKorea.txt,C:dur_meta=2700.0s_vs_form=240.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1953-06-6385210-NorthKorea.pdf
+3,1953-08-6979042-Creola-Alabama.txt,C:dur_meta=10.0s_vs_form=180.0s; E:hedges=9,/Volumes/Expansion/data/1950s/1953-08-6979042-Creola-Alabama.pdf
+3,1953-08-6979093-Satsuma-Alabama.txt,C:dur_meta=120.0s_vs_form=720.0s; E:hedges=37,/Volumes/Expansion/data/1950s/1953-08-6979093-Satsuma-Alabama.pdf
+3,1953-09-6980012-RapidCity-SouthDakota.txt,C:dur_meta=7002000.0s_vs_form=1200.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1953-09-6980012-RapidCity-SouthDakota.pdf
+3,1953-09-6980440-LakeCharles-Louisiana.txt,C:dur_meta=900.0s_vs_form=7200.0s; E:hedges=42,/Volumes/Expansion/data/1950s/1953-09-6980440-LakeCharles-Louisiana.pdf
+3,1953-10-6980801-Harrisville-Michigan.txt,C:dur_meta=7.0s_vs_form=240.0s; E:hedges=13,/Volumes/Expansion/data/1950s/1953-10-6980801-Harrisville-Michigan.pdf
+3,1953-12-6778994-MEDITERRANEANAREA.txt,F:location_mismatch; G:form='one'_vs_obj='multiple unidentified flying objects on ',/Volumes/Expansion/data/1950s/1953-12-6778994-MEDITERRANEANAREA.pdf
+3,1954-01-6779499-BerlinGermany.txt,C:dur_meta=180.0s_vs_form=15.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1954-01-6779499-BerlinGermany.pdf
+3,1954-03-6780601-Nouasseur-FrenchMorocco.txt,C:dur_meta=600.0s_vs_form=30.0s; E:hedges=26,/Volumes/Expansion/data/1950s/1954-03-6780601-Nouasseur-FrenchMorocco.pdf
+3,1954-03-6780917-Seranton-Pennsylvania.txt,C:dur_meta=300.0s_vs_form=30.0s; E:hedges=7,/Volumes/Expansion/data/1950s/1954-03-6780917-Seranton-Pennsylvania.pdf
+3,1954-03-6780965-HahnAB-Germany.txt,C:dur_meta=300.0s_vs_form=6.0s; E:hedges=6,/Volumes/Expansion/data/1950s/1954-03-6780965-HahnAB-Germany.pdf
+3,1954-05-6781667-55UticaSt-Hamilton-NewYork.txt,C:dur_meta=300.0s_vs_form=30.0s; E:hedges=7,/Volumes/Expansion/data/1950s/1954-05-6781667-55UticaSt-Hamilton-NewYork.pdf
+3,1954-06-8713990-NewYork-N-Y.txt,C:dur_meta=15.0s_vs_form=900.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1954-06-8713990-NewYork-N-Y.pdf
+3,1954-06-8714244-IndianLake-Ohio.txt,C:dur_meta=900.0s_vs_form=180.0s; E:hedges=14,/Volumes/Expansion/data/1950s/1954-06-8714244-IndianLake-Ohio.pdf
+3,1954-07-8714516-FairchildAFB-Washington.txt,C:dur_meta=360.0s_vs_form=3600.0s; E:hedges=10,/Volumes/Expansion/data/1950s/1954-07-8714516-FairchildAFB-Washington.pdf
+3,1954-07-8714575-ClevelandHeights-Ohio.txt,C:dur_meta=30.0s_vs_form=900.0s; E:hedges=11,/Volumes/Expansion/data/1950s/1954-07-8714575-ClevelandHeights-Ohio.pdf
+3,1954-08-8716134-Stavern-Norway.txt,B:witnesses_50_not_in_text,/Volumes/Expansion/data/1950s/1954-08-8716134-Stavern-Norway.pdf
+3,1954-10-6957770-MONBRIDGE-SOUTHCAROLINA.txt,C:dur_meta=240.0s_vs_form=10.0s; E:hedges=7,/Volumes/Expansion/data/1950s/1954-10-6957770-MONBRIDGE-SOUTHCAROLINA.pdf
+3,1954-10-8727265-KILLEEN-TEXAS.txt,C:dur_meta=180.0s_vs_form=900.0s; E:hedges=7,/Volumes/Expansion/data/1950s/1954-10-8727265-KILLEEN-TEXAS.pdf
+3,1954-10-8727607-ENID-OKLAHOMA.txt,C:dur_meta=180.0s_vs_form=5.0s; E:hedges=11,/Volumes/Expansion/data/1950s/1954-10-8727607-ENID-OKLAHOMA.pdf
+3,1954-11-6958296-40MiSE-SANJUAN-PR.txt,C:dur_meta=180.0s_vs_form=2.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1954-11-6958296-40MiSE-SANJUAN-PR.pdf
+3,1954-11-6958717-Okinawa.txt,C:dur_meta=5868000.0s_vs_form=30.0s; E:hedges=12,/Volumes/Expansion/data/1950s/1954-11-6958717-Okinawa.pdf
+3,1954-11-6960120-CORVALLIS-OREGON.txt,C:dur_meta=180.0s_vs_form=900.0s; E:hedges=8,/Volumes/Expansion/data/1950s/1954-11-6960120-CORVALLIS-OREGON.pdf
+3,1954-12-6962969-Gulfport-Mississippi.txt,C:dur_meta=1200.0s_vs_form=30.0s; E:hedges=7,/Volumes/Expansion/data/1950s/1954-12-6962969-Gulfport-Mississippi.pdf
+3,1954-12-6963303-PalmBeach-Florida.txt,C:dur_meta=8.0s_vs_form=300.0s; E:hedges=6,/Volumes/Expansion/data/1950s/1954-12-6963303-PalmBeach-Florida.pdf
+3,1955-02-6970048-EdwardsAFB-California.txt,C:dur_meta=300.0s_vs_form=30.0s; E:hedges=10,/Volumes/Expansion/data/1950s/1955-02-6970048-EdwardsAFB-California.pdf
+3,1955-05-6963391-Cheyenne-Wyoming.txt,C:dur_meta=10.0s_vs_form=180.0s; E:hedges=12,/Volumes/Expansion/data/1950s/1955-05-6963391-Cheyenne-Wyoming.pdf
+3,1955-06-6966143-Dallas-Texas.txt,C:dur_meta=600.0s_vs_form=120.0s; E:hedges=23,/Volumes/Expansion/data/1950s/1955-06-6966143-Dallas-Texas.pdf
+3,1955-07-6968816-MiraLoma-California.txt,E:hedges=10; G:form='one'_vs_obj='one or multiple unidentified bright obje',/Volumes/Expansion/data/1950s/1955-07-6968816-MiraLoma-California.pdf
+3,1955-08-6971261-Rialto-California.txt,D:text_len=146; F:location_mismatch,/Volumes/Expansion/data/1950s/1955-08-6971261-Rialto-California.pdf
+3,1955-09-7339351-MOUNTAINVIEW-CALIF.txt,C:dur_meta=3.0s_vs_form=60.0s; E:hedges=8,/Volumes/Expansion/data/1950s/1955-09-7339351-MOUNTAINVIEW-CALIF.pdf
+3,1955-11-7339979-Cleveland-Ohio.txt,C:dur_meta=600.0s_vs_form=20.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1955-11-7339979-Cleveland-Ohio.pdf
+3,1955-12-7340117-CARIBOU-MAINE.txt,C:dur_meta=15.0s_vs_form=480.0s; E:hedges=12,/Volumes/Expansion/data/1950s/1955-12-7340117-CARIBOU-MAINE.pdf
+3,1956-04-6785634-Vuyyuru-India.txt,B:witnesses_60_not_in_text,/Volumes/Expansion/data/1950s/1956-04-6785634-Vuyyuru-India.pdf
+3,1956-06-6786685-Charlston-WestVirginia.txt,C:dur_meta=300.0s_vs_form=60.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1956-06-6786685-Charlston-WestVirginia.pdf
+3,1956-06-6786728-SEofLouisville-Kentucky.txt,E:hedges=22; G:form='one'_vs_obj='one or two white objects',/Volumes/Expansion/data/1950s/1956-06-6786728-SEofLouisville-Kentucky.pdf
+3,1956-08-6788718-LaJolla-California.txt,E:hedges=6; G:form='one'_vs_obj='jet-like object with three white lights',/Volumes/Expansion/data/1950s/1956-08-6788718-LaJolla-California.pdf
+3,1956-08-7070250-Worthington-Ohio.txt,E:hedges=16; G:form='one'_vs_obj='various unidentified flying objects desc',/Volumes/Expansion/data/1950s/1956-08-7070250-Worthington-Ohio.pdf
+3,1956-10-7071514-10MiWofCareyIslands-NF.txt,C:dur_meta=5.0s_vs_form=25.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1956-10-7071514-10MiWofCareyIslands-NF.pdf
+3,1956-10-7071888-Cincinnati-Ohio.txt,C:dur_meta=900.0s_vs_form=60.0s; E:hedges=18,/Volumes/Expansion/data/1950s/1956-10-7071888-Cincinnati-Ohio.pdf
+3,1956-10-7276824-Cincinnati-Ohio.txt,D:text_len=225; F:location_mismatch,/Volumes/Expansion/data/1950s/1956-10-7276824-Cincinnati-Ohio.pdf
+3,1956-11-7073985-RedfieldandMcLoughlin-S-D.txt,C:dur_meta=1800.0s_vs_form=120.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1956-11-7073985-RedfieldandMcLoughlin-S-D.pdf
+3,1956-11-7074121-CapeMay-NewJersey.txt,C:dur_meta=15.0s_vs_form=120.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1956-11-7074121-CapeMay-NewJersey.pdf
+3,1957-03-6786949-Oxnard-California.txt,C:dur_meta=30.0s_vs_form=300.0s; E:hedges=57,/Volumes/Expansion/data/1950s/1957-03-6786949-Oxnard-California.pdf
+3,1957-03-6787842-Pasadena-California.txt,B:witnesses_75_not_in_text,/Volumes/Expansion/data/1950s/1957-03-6787842-Pasadena-California.pdf
+3,1957-04-6788965-Guam-Marianas14-27N124-00E-.txt,C:dur_meta=12.0s_vs_form=2.0s; E:hedges=7,/Volumes/Expansion/data/1950s/1957-04-6788965-Guam-Marianas14-27N124-00E-.pdf
+3,1957-05-6789965-KingsParkLongIsland-NY.txt,C:dur_meta=10.0s_vs_form=120.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1957-05-6789965-KingsParkLongIsland-NY.pdf
+3,1957-09-7228605-NEFrance.txt,C:dur_meta=10.0s_vs_form=300.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1957-09-7228605-NEFrance.pdf
+3,1957-10-6970782-SanAntonio-Texas.txt,C:dur_meta=5.0s_vs_form=1860.0s; E:hedges=10,/Volumes/Expansion/data/1950s/1957-10-6970782-SanAntonio-Texas.pdf
+3,1957-10-6972791-9MiWofBenson-Arizona.txt,C:dur_meta=3000.0s_vs_form=120.0s; E:hedges=13,/Volumes/Expansion/data/1950s/1957-10-6972791-9MiWofBenson-Arizona.pdf
+3,1957-11-6782935-AlpineArizona.txt,C:dur_meta=300.0s_vs_form=1860.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1957-11-6782935-AlpineArizona.pdf
+3,1957-11-6962833-Wayne-Michigan.txt,C:dur_meta=6480000.0s_vs_form=20.0s; E:hedges=7,/Volumes/Expansion/data/1950s/1957-11-6962833-Wayne-Michigan.pdf
+3,1957-11-7231497-notgiven.txt,C:dur_meta=3.0s_vs_form=120.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1957-11-7231497-notgiven.pdf
+3,1958-01-6959370-2MiSofOdessa-Fla.txt,C:dur_meta=45.0s_vs_form=600.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1958-01-6959370-2MiSofOdessa-Fla.pdf
+3,1958-03-6964419-ESECorpusChristi-Texas.txt,C:dur_meta=15.0s_vs_form=180.0s; E:hedges=6,/Volumes/Expansion/data/1950s/1958-03-6964419-ESECorpusChristi-Texas.pdf
+3,1958-06-8848084-Knoxville-Tennessee.txt,C:dur_meta=3.0s_vs_form=180.0s; E:hedges=17,/Volumes/Expansion/data/1950s/1958-06-8848084-Knoxville-Tennessee.pdf
+3,1958-08-8860613-MalmstromAFB-Montana.txt,C:dur_meta=900.0s_vs_form=30.0s; E:hedges=6,/Volumes/Expansion/data/1950s/1958-08-8860613-MalmstromAFB-Montana.pdf
+3,1958-10-7200114-Laredo-Texas.txt,C:dur_meta=28.0s_vs_form=3.0s; E:hedges=9,/Volumes/Expansion/data/1950s/1958-10-7200114-Laredo-Texas.pdf
+3,1959-02-9078919-BalboaBasin-CanalZone.txt,F:location_mismatch; G:form='one'_vs_obj='cone-shaped object with three colors',/Volumes/Expansion/data/1950s/1959-02-9078919-BalboaBasin-CanalZone.pdf
+3,1959-02-9079081-Benghazi-Libya.txt,C:dur_meta=15.0s_vs_form=900.0s; E:hedges=7,/Volumes/Expansion/data/1950s/1959-02-9079081-Benghazi-Libya.pdf
+3,1959-03-9079537-GrandBahamaIsland-WestIndies.txt,C:dur_meta=120.0s_vs_form=1500.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1959-03-9079537-GrandBahamaIsland-WestIndies.pdf
+3,1959-03-9079542-OroGrande-Calif.txt,C:dur_meta=600.0s_vs_form=30.0s; E:hedges=6,/Volumes/Expansion/data/1950s/1959-03-9079542-OroGrande-Calif.pdf
+3,1959-08-8407910-OceanBeach-N-J.txt,C:dur_meta=2700.0s_vs_form=14400.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1959-08-8407910-OceanBeach-N-J.pdf
+3,1959-09-8409252-10NMSOfMontereyPeninsula-Cal.txt,C:dur_meta=5.0s_vs_form=180.0s; F:location_mismatch,/Volumes/Expansion/data/1950s/1959-09-8409252-10NMSOfMontereyPeninsula-Cal.pdf
+3,1959-10-6960346-Mobile-Alabama.txt,C:dur_meta=180.0s_vs_form=900.0s; E:hedges=7,/Volumes/Expansion/data/1950s/1959-10-6960346-Mobile-Alabama.pdf
+3,1959-10-6963933-Vandalia-Ohio.txt,C:dur_meta=7308000.0s_vs_form=60.0s; E:hedges=8,/Volumes/Expansion/data/1950s/1959-10-6963933-Vandalia-Ohio.pdf
+3,1960-02-6969904-Alexandria-Louisiana.txt,C:dur_meta=3.0s_vs_form=120.0s; E:hedges=16,/Volumes/Expansion/data/1960s/1960-02-6969904-Alexandria-Louisiana.pdf
+3,1960-03-6970661-Leibnitz-Austria.txt,C:dur_meta=10.0s_vs_form=600.0s; E:hedges=6,/Volumes/Expansion/data/1960s/1960-03-6970661-Leibnitz-Austria.pdf
+3,1960-03-6971376-HawaiianIslands.txt,C:dur_meta=5.0s_vs_form=25.0s; F:location_mismatch,/Volumes/Expansion/data/1960s/1960-03-6971376-HawaiianIslands.pdf
+3,1960-04-7811868-VicinityBitburgAB-Germany.txt,C:dur_meta=900.0s_vs_form=3.0s; E:hedges=7,/Volumes/Expansion/data/1960s/1960-04-7811868-VicinityBitburgAB-Germany.pdf
+3,1960-04-7812127-Dayton-Ohio.txt,E:hedges=9; G:form='one'_vs_obj='a light with two dim red lights',/Volumes/Expansion/data/1960s/1960-04-7812127-Dayton-Ohio.pdf
+3,1960-05-7812441-Dayton-Ohio.txt,C:dur_meta=420.0s_vs_form=3300.0s; E:hedges=13,/Volumes/Expansion/data/1960s/1960-05-7812441-Dayton-Ohio.pdf
+3,1960-05-7812612-JaffreyCenter-NewHampshire.txt,C:dur_meta=60.0s_vs_form=300.0s; F:location_mismatch,/Volumes/Expansion/data/1960s/1960-05-7812612-JaffreyCenter-NewHampshire.pdf
+3,1960-07-7814733-Misawa-Japan.txt,B:witnesses_11_not_in_text,/Volumes/Expansion/data/1960s/1960-07-7814733-Misawa-Japan.pdf
+3,1960-07-7814824-Mason-Ohio.txt,C:dur_meta=5.0s_vs_form=1800.0s; E:hedges=19,/Volumes/Expansion/data/1960s/1960-07-7814824-Mason-Ohio.pdf
+3,1960-07-7817785-St-Louis-Missouri.txt,C:dur_meta=40.0s_vs_form=1800.0s; E:hedges=14,/Volumes/Expansion/data/1960s/1960-07-7817785-St-Louis-Missouri.pdf
+3,1960-07-7818315-Alexandria-Louisiana.txt,C:dur_meta=900.0s_vs_form=180.0s; E:hedges=22,/Volumes/Expansion/data/1960s/1960-07-7818315-Alexandria-Louisiana.pdf
+3,1960-08-7819897-Sandersville-Georgia.txt,C:dur_meta=30.0s_vs_form=5.0s; E:hedges=8,/Volumes/Expansion/data/1960s/1960-08-7819897-Sandersville-Georgia.pdf
+3,1960-08-7820016-SiouxFalls-SouthDakota.txt,C:dur_meta=3.0s_vs_form=300.0s; F:location_mismatch,/Volumes/Expansion/data/1960s/1960-08-7820016-SiouxFalls-SouthDakota.pdf
+3,1960-08-7820327-Fairborn-Ohio.txt,C:dur_meta=15.0s_vs_form=360.0s; E:hedges=10,/Volumes/Expansion/data/1960s/1960-08-7820327-Fairborn-Ohio.pdf
+3,1960-08-7821660-NNWofLebreville-Africa.txt,C:dur_meta=180.0s_vs_form=1.0s; E:hedges=7,/Volumes/Expansion/data/1960s/1960-08-7821660-NNWofLebreville-Africa.pdf
+3,1960-10-8234064-Sweetwater-SouthCarolina.txt,C:dur_meta=900.0s_vs_form=12.0s; E:hedges=24,/Volumes/Expansion/data/1960s/1960-10-8234064-Sweetwater-SouthCarolina.pdf
+3,1960-12-8610063-TyndalAFB-Florida.txt,C:dur_meta=7200000.0s_vs_form=300.0s; E:hedges=8,/Volumes/Expansion/data/1960s/1960-12-8610063-TyndalAFB-Florida.pdf
+3,1960-12-8611175-Buckingham-Iowa.txt,C:dur_meta=180.0s_vs_form=5.0s; E:hedges=10,/Volumes/Expansion/data/1960s/1960-12-8611175-Buckingham-Iowa.pdf
+3,1961-01-8614346-EofDayton-Ohio.txt,C:dur_meta=60.0s_vs_form=10.0s; E:hedges=10,/Volumes/Expansion/data/1960s/1961-01-8614346-EofDayton-Ohio.pdf
+3,1961-02-8637640-SanJuan-PuertoRico.txt,C:dur_meta=1800.0s_vs_form=120.0s; F:location_mismatch,/Volumes/Expansion/data/1960s/1961-02-8637640-SanJuan-PuertoRico.pdf
+3,1961-03-8639118-Cincinnati-Ohio.txt,C:dur_meta=25.0s_vs_form=1500.0s; E:hedges=41,/Volumes/Expansion/data/1960s/1961-03-8639118-Cincinnati-Ohio.pdf
+3,1961-05-8687080-FallsChurch-Virginia.txt,C:dur_meta=300.0s_vs_form=15.0s; E:hedges=36,/Volumes/Expansion/data/1960s/1961-05-8687080-FallsChurch-Virginia.pdf
+3,1961-06-8692648-BunkerHillAFB-Indiana.txt,C:dur_meta=7200.0s_vs_form=36000.0s; E:hedges=6,/Volumes/Expansion/data/1960s/1961-06-8692648-BunkerHillAFB-Indiana.pdf
+3,1961-07-8293326-3930N12558WPACIFIC.txt,C:dur_meta=25200000.0s_vs_form=600.0s; F:location_mismatch,/Volumes/Expansion/data/1960s/1961-07-8293326-3930N12558WPACIFIC.pdf
+3,1961-07-8695580-Palatka-Florida.txt,C:dur_meta=900.0s_vs_form=60.0s; E:hedges=22,/Volumes/Expansion/data/1960s/1961-07-8695580-Palatka-Florida.pdf
+3,1961-09-8303052-67-50N165w-BEARINGSEA-.txt,C:dur_meta=6120000.0s_vs_form=1200.0s; F:location_mismatch,/Volumes/Expansion/data/1960s/1961-09-8303052-67-50N165w-BEARINGSEA-.pdf
+3,1961-10-8681464-SaltLakeCity-Utah.txt,C:dur_meta=900.0s_vs_form=120.0s; E:hedges=96,/Volumes/Expansion/data/1960s/1961-10-8681464-SaltLakeCity-Utah.pdf
+3,1961-12-8699508-TyndallAFB-Florida.txt,C:dur_meta=30.0s_vs_form=900.0s; E:hedges=60,/Volumes/Expansion/data/1960s/1961-12-8699508-TyndallAFB-Florida.pdf
+3,1962-04-8649099-Wurtland-Kentucky.txt,C:dur_meta=10800.0s_vs_form=360.0s; E:hedges=6,/Volumes/Expansion/data/1960s/1962-04-8649099-Wurtland-Kentucky.pdf
+3,1962-04-8652568-19-06N168-12ENearWakeIsland.txt,C:dur_meta=300.0s_vs_form=60.0s; F:location_mismatch,/Volumes/Expansion/data/1960s/1962-04-8652568-19-06N168-12ENearWakeIsland.pdf
+3,1962-04-8655247-EdwardsAFB-Calif.txt,C:dur_meta=7758000.0s_vs_form=60.0s; E:hedges=59,/Volumes/Expansion/data/1960s/1962-04-8655247-EdwardsAFB-Calif.pdf
+3,1962-08-8687716-Dayton-Ohio.txt,C:dur_meta=4806000.0s_vs_form=120.0s; E:hedges=31,/Volumes/Expansion/data/1960s/1962-08-8687716-Dayton-Ohio.pdf
+3,1962-08-8722800-Bermuda.txt,E:hedges=6; G:form='one'_vs_obj='three or one bright round objects',/Volumes/Expansion/data/1960s/1962-08-8722800-Bermuda.pdf
+3,1962-08-8722876-Cleveland-Ohio.txt,C:dur_meta=180.0s_vs_form=1200.0s; E:hedges=8,/Volumes/Expansion/data/1960s/1962-08-8722876-Cleveland-Ohio.pdf
+3,1962-09-8725208-ArlingtonHeights-Illinois.txt,C:dur_meta=1200.0s_vs_form=180.0s; E:hedges=13,/Volumes/Expansion/data/1960s/1962-09-8725208-ArlingtonHeights-Illinois.pdf
+3,1962-09-8725286-Israel-Cairo-Egypt.txt,C:dur_meta=2700.0s_vs_form=55.0s; E:hedges=7,/Volumes/Expansion/data/1960s/1962-09-8725286-Israel-Cairo-Egypt.pdf
+3,1962-09-8725369-SilverSprings-Maryland.txt,C:dur_meta=12.0s_vs_form=60.0s; E:hedges=11,/Volumes/Expansion/data/1960s/1962-09-8725369-SilverSprings-Maryland.pdf
+3,1962-10-8726536-Wells-Maine.txt,C:dur_meta=300.0s_vs_form=5.0s; E:hedges=7,/Volumes/Expansion/data/1960s/1962-10-8726536-Wells-Maine.pdf
+3,1962-10-9316089-24-14N151-26W-Pacific-.txt,C:dur_meta=3.0s_vs_form=180.0s; E:hedges=7,/Volumes/Expansion/data/1960s/1962-10-9316089-24-14N151-26W-Pacific-.pdf
+3,1962-11-9316276-Tampa-Florida.txt,C:dur_meta=3.0s_vs_form=900.0s; E:hedges=14,/Volumes/Expansion/data/1960s/1962-11-9316276-Tampa-Florida.pdf
+3,1963-02-9316705-Maysville-Kentucky.txt,C:dur_meta=600.0s_vs_form=30.0s; E:hedges=18,/Volumes/Expansion/data/1960s/1963-02-9316705-Maysville-Kentucky.pdf
+3,1963-05-9317324-Pequannock-NewJersey.txt,E:hedges=6; G:form='one'_vs_obj='multiple circular objects in the sky',/Volumes/Expansion/data/1960s/1963-05-9317324-Pequannock-NewJersey.pdf
+3,1963-06-8660889-Xenia-Ohio.txt,C:dur_meta=5.0s_vs_form=60.0s; E:hedges=9,/Volumes/Expansion/data/1960s/1963-06-8660889-Xenia-Ohio.pdf
+3,1963-06-8662106-Houston-Texas.txt,C:dur_meta=180.0s_vs_form=1980.0s; E:hedges=8,/Volumes/Expansion/data/1960s/1963-06-8662106-Houston-Texas.pdf
+3,1963-06-8668676-39-38N172-30W-PACIFIC-.txt,C:dur_meta=7560000.0s_vs_form=420.0s; F:location_mismatch,/Volumes/Expansion/data/1960s/1963-06-8668676-39-38N172-30W-PACIFIC-.pdf
+3,1963-07-8672597-26-04N127-53E-FarEast-.txt,C:dur_meta=7200000.0s_vs_form=540.0s; F:location_mismatch,/Volumes/Expansion/data/1960s/1963-07-8672597-26-04N127-53E-FarEast-.pdf
+3,1963-07-8673077-SiouxCity-Iowa.txt,C:dur_meta=2.0s_vs_form=900.0s; E:hedges=11,/Volumes/Expansion/data/1960s/1963-07-8673077-SiouxCity-Iowa.pdf
+3,1963-09-9734316-Vernon-Texas.txt,C:dur_meta=480.0s_vs_form=60.0s; E:hedges=6,/Volumes/Expansion/data/1960s/1963-09-9734316-Vernon-Texas.pdf
+3,1963-09-9734461-KeeslerAFB-Miss.txt,C:dur_meta=15.0s_vs_form=120.0s; E:hedges=8,/Volumes/Expansion/data/1960s/1963-09-9734461-KeeslerAFB-Miss.pdf
+3,1963-10-9736319-Jacksonville-Fla.txt,C:dur_meta=600.0s_vs_form=60.0s; E:hedges=17,/Volumes/Expansion/data/1960s/1963-10-9736319-Jacksonville-Fla.pdf
+3,1963-11-9737049-Nebraska-andIowa.txt,C:dur_meta=25.0s_vs_form=1500.0s; E:hedges=8,/Volumes/Expansion/data/1960s/1963-11-9737049-Nebraska-andIowa.pdf
+3,1963-Spring-9316810-Toussville-Alabama.txt,C:dur_meta=360.0s_vs_form=3600.0s; E:hedges=7,/Volumes/Expansion/data/1960s/1963-Spring-9316810-Toussville-Alabama.pdf
+3,1964-01-9738998-Gainsville-Fla.txt,C:dur_meta=20.0s_vs_form=600.0s; F:location_mismatch,/Volumes/Expansion/data/1960s/1964-01-9738998-Gainsville-Fla.pdf
+3,1964-02-8687271-Trenton-Michigan.txt,E:hedges=12; G:form='one'_vs_obj='two unidentified flying objects',/Volumes/Expansion/data/1960s/1964-02-8687271-Trenton-Michigan.pdf
+3,1964-03-8688569-SilverSprings-Maryland.txt,C:dur_meta=2700.0s_vs_form=50.0s; E:hedges=12,/Volumes/Expansion/data/1960s/1964-03-8688569-SilverSprings-Maryland.pdf
+3,1964-03-8689084-Roswell-NewMexico.txt,C:dur_meta=30.0s_vs_form=300.0s; E:hedges=25,/Volumes/Expansion/data/1960s/1964-03-8689084-Roswell-NewMexico.pdf
+3,1964-04-8690879-Monticello-Wisconsin.txt,E:hedges=24; G:form='one'_vs_obj='one unidentified flying object with four',/Volumes/Expansion/data/1960s/1964-04-8690879-Monticello-Wisconsin.pdf
+3,1964-05-8705871-MountVernon-Virginia.txt,E:hedges=18; G:form='one'_vs_obj='one/two light sources in the sky',/Volumes/Expansion/data/1960s/1964-05-8705871-MountVernon-Virginia.pdf
+3,1964-05-8709056-Palmetto-Florida.txt,C:dur_meta=180.0s_vs_form=7.0s; E:hedges=17,/Volumes/Expansion/data/1960s/1964-05-8709056-Palmetto-Florida.pdf
+3,1964-06-8724626-CrystalLake-Michigan.txt,C:dur_meta=600.0s_vs_form=3000.0s; E:hedges=6,/Volumes/Expansion/data/1960s/1964-06-8724626-CrystalLake-Michigan.pdf
+3,1964-07-8725694-CapeGirardeau-Missouri.txt,C:dur_meta=1200.0s_vs_form=180.0s; E:hedges=35,/Volumes/Expansion/data/1960s/1964-07-8725694-CapeGirardeau-Missouri.pdf
+3,1964-07-8727350-Lynn-Massachusetts.txt,C:dur_meta=15.0s_vs_form=300.0s; E:hedges=32,/Volumes/Expansion/data/1960s/1964-07-8727350-Lynn-Massachusetts.pdf
+3,1964-09-9421408-Ulysses-Kansas.txt,C:dur_meta=300.0s_vs_form=3.0s; E:hedges=7,/Volumes/Expansion/data/1960s/1964-09-9421408-Ulysses-Kansas.pdf
+3,1964-09-9421431-Centerville-Ohio.txt,E:hedges=9; G:form='one'_vs_obj='one or two erratically moving objects wi',/Volumes/Expansion/data/1960s/1964-09-9421431-Centerville-Ohio.pdf
+3,1965-02-8723624-Janesville-Wisconsin.txt,C:dur_meta=240.0s_vs_form=10.0s; E:hedges=11,/Volumes/Expansion/data/1960s/1965-02-8723624-Janesville-Wisconsin.pdf
+3,1965-02-8723676-Liberty-Ohio.txt,C:dur_meta=30.0s_vs_form=300.0s; E:hedges=24,/Volumes/Expansion/data/1960s/1965-02-8723676-Liberty-Ohio.pdf
+3,1965-02-8723772-ElkGrove-Village-Illinois.txt,E:hedges=15; G:form='one'_vs_obj='two interconnecting ovals of light',/Volumes/Expansion/data/1960s/1965-02-8723772-ElkGrove-Village-Illinois.pdf
+3,1965-04-9071466-KeeslerAFB-Mississippi.txt,E:hedges=7; G:form='one'_vs_obj='a black oblong object with four lights',/Volumes/Expansion/data/1960s/1965-04-9071466-KeeslerAFB-Mississippi.pdf
+3,1965-06-9074563-PopeAFB-NorthCarolina.txt,C:dur_meta=4.0s_vs_form=180.0s; F:location_mismatch,/Volumes/Expansion/data/1960s/1965-06-9074563-PopeAFB-NorthCarolina.pdf
+3,1965-07-7434057-SweetHome-Oregon.txt,C:dur_meta=2700.0s_vs_form=14400.0s; E:hedges=24,/Volumes/Expansion/data/1960s/1965-07-7434057-SweetHome-Oregon.pdf
+3,1965-07-7436395-Kettering-Ohio.txt,C:dur_meta=115200.0s_vs_form=240.0s; E:hedges=6,/Volumes/Expansion/data/1960s/1965-07-7436395-Kettering-Ohio.pdf
+3,1965-08-7461311-ColoradoSprings-Colorado.txt,C:dur_meta=1200.0s_vs_form=60.0s; E:hedges=10,/Volumes/Expansion/data/1960s/1965-08-7461311-ColoradoSprings-Colorado.pdf
+3,1965-08-7464900-SanMateo-California.txt,E:hedges=172; G:form='one'_vs_obj='a bright light in the sky that emitted f',/Volumes/Expansion/data/1960s/1965-08-7464900-SanMateo-California.pdf
+3,1965-08-7468665-HawaiianIsland--Pacific-.txt,"E:hedges=6; G:form='one'_vs_obj='object that fell from the sky, possibly '",/Volumes/Expansion/data/1960s/1965-08-7468665-HawaiianIsland--Pacific-.pdf
+3,1965-08-7472268-SanPablo-California.txt,E:hedges=10; G:form='one'_vs_obj='a formation of three aircraft',/Volumes/Expansion/data/1960s/1965-08-7472268-SanPablo-California.pdf
+3,1965-08-9370081-NewMilford-Connecticut.txt,E:hedges=13; G:form='one'_vs_obj='three bright red-orange lights',/Volumes/Expansion/data/1960s/1965-08-9370081-NewMilford-Connecticut.pdf
+3,1965-09-8677345-Renton-Washington.txt,E:hedges=6; G:form='one'_vs_obj='a large round disc with two circling obj',/Volumes/Expansion/data/1960s/1965-09-8677345-Renton-Washington.pdf
+3,1965-09-8680465-RioVista-California.txt,C:dur_meta=5.0s_vs_form=1200.0s; E:hedges=9,/Volumes/Expansion/data/1960s/1965-09-8680465-RioVista-California.pdf
+3,1965-09-9372600-Pittsburgh-Pennsylvania.txt,C:dur_meta=45.0s_vs_form=300.0s; E:hedges=22,/Volumes/Expansion/data/1960s/1965-09-9372600-Pittsburgh-Pennsylvania.pdf
+3,1965-10-8690352-KenoAFS-Oregon.txt,C:dur_meta=15.0s_vs_form=240.0s; E:hedges=6,/Volumes/Expansion/data/1960s/1965-10-8690352-KenoAFS-Oregon.pdf
+3,1965-10-8694398-Miamisburg-Ohio.txt,C:dur_meta=240.0s_vs_form=1500.0s; E:hedges=13,/Volumes/Expansion/data/1960s/1965-10-8694398-Miamisburg-Ohio.pdf
+3,1965-10-8694964-Soeaux-France.txt,C:dur_meta=900.0s_vs_form=180.0s; E:hedges=13,/Volumes/Expansion/data/1960s/1965-10-8694964-Soeaux-France.pdf
+3,1965-11-6978256-Mexico-10057-.txt,D:text_len=230; F:location_mismatch,/Volumes/Expansion/data/1960s/1965-11-6978256-Mexico-10057-.pdf
+3,1965-11-8678143-DesPlaineschicago-Illinois.txt,C:dur_meta=1320.0s_vs_form=120.0s; E:hedges=10,/Volumes/Expansion/data/1960s/1965-11-8678143-DesPlaineschicago-Illinois.pdf
+3,1965-12-8694319-Oregon-Area.txt,E:hedges=6; G:form='one'_vs_obj='one to two round beam shafts of light',/Volumes/Expansion/data/1960s/1965-12-8694319-Oregon-Area.pdf
+3,1966-01-8697772-Indianapolis-Indiana.txt,C:dur_meta=10.0s_vs_form=1140.0s; E:hedges=12,/Volumes/Expansion/data/1960s/1966-01-8697772-Indianapolis-Indiana.pdf
+3,1966-01-8722594-NorthofMarlboro-NewYork.txt,F:location_mismatch; G:form='one'_vs_obj='one object with two bright lights and a ',/Volumes/Expansion/data/1960s/1966-01-8722594-NorthofMarlboro-NewYork.pdf
+3,1966-03-8665576-Baker-Montana.txt,C:dur_meta=90.0s_vs_form=7200.0s; E:hedges=14,/Volumes/Expansion/data/1960s/1966-03-8665576-Baker-Montana.pdf
+3,1966-03-8675242-Sheboygan-Wisconsin.txt,C:dur_meta=1200.0s_vs_form=240.0s; E:hedges=23,/Volumes/Expansion/data/1960s/1966-03-8675242-Sheboygan-Wisconsin.pdf
+3,1966-03-8675598-CentralWisconsin.txt,F:location_mismatch; G:form='one'_vs_obj='one or two spherical objects',/Volumes/Expansion/data/1960s/1966-03-8675598-CentralWisconsin.pdf
+3,1966-03-8678625-Kent-Tacoma-McCordAFB-Washington.txt,E:hedges=16; G:form='one'_vs_obj='one to three transparent objects',/Volumes/Expansion/data/1960s/1966-03-8678625-Kent-Tacoma-McCordAFB-Washington.pdf
+3,1966-04-7094194-Houston-Texas.txt,E:hedges=22; G:form='one'_vs_obj='two dark objects flying side by side',/Volumes/Expansion/data/1960s/1966-04-7094194-Houston-Texas.pdf
+3,1966-04-7096508-Philadelphia-Pennsylvania.txt,C:dur_meta=300.0s_vs_form=60.0s; E:hedges=12,/Volumes/Expansion/data/1960s/1966-04-7096508-Philadelphia-Pennsylvania.pdf
+3,1966-04-7101059-Shaprsville-Pennsylvania.txt,C:dur_meta=120.0s_vs_form=14400.0s; E:hedges=11,/Volumes/Expansion/data/1960s/1966-04-7101059-Shaprsville-Pennsylvania.pdf
+3,1966-04-7107262-Brunswick-Maine.txt,E:hedges=11; G:form='one'_vs_obj='one object (possibly a meteor) and three',/Volumes/Expansion/data/1960s/1966-04-7107262-Brunswick-Maine.pdf
+3,1966-05-7092055-ColoradoSprings-Colorado.txt,E:hedges=9; G:form='one'_vs_obj='two unidentified flying objects',/Volumes/Expansion/data/1960s/1966-05-7092055-ColoradoSprings-Colorado.pdf
+3,1966-05-7092210-Leetonia-Ohio.txt,"E:hedges=6; G:form='one'_vs_obj='three bright, metallic-appearing objects'",/Volumes/Expansion/data/1960s/1966-05-7092210-Leetonia-Ohio.pdf
+3,1966-06-7092726-Columbus-Ohio.txt,C:dur_meta=1200.0s_vs_form=180.0s; E:hedges=77,/Volumes/Expansion/data/1960s/1966-06-7092726-Columbus-Ohio.pdf
+3,1966-06-8277311-Cleveland-Ohio.txt,C:dur_meta=180.0s_vs_form=30.0s; E:hedges=7,/Volumes/Expansion/data/1960s/1966-06-8277311-Cleveland-Ohio.pdf
+3,1966-07-8285791-WestJefferson-Ohio.txt,C:dur_meta=1500.0s_vs_form=240.0s; E:hedges=6,/Volumes/Expansion/data/1960s/1966-07-8285791-WestJefferson-Ohio.pdf
+3,1966-07-8289353-Girard-Ohio.txt,C:dur_meta=5.0s_vs_form=30.0s; E:hedges=56,/Volumes/Expansion/data/1960s/1966-07-8289353-Girard-Ohio.pdf
+3,1966-07-8290445-Exit7-OhioTurnpike.txt,F:location_mismatch; G:form='one'_vs_obj='two blinking lights',/Volumes/Expansion/data/1960s/1966-07-8290445-Exit7-OhioTurnpike.pdf
+3,1966-07-8716469-Washington-DC.txt,C:dur_meta=660.0s_vs_form=120.0s; E:hedges=8,/Volumes/Expansion/data/1960s/1966-07-8716469-Washington-DC.pdf
+3,1966-08-8288163-Gaylesville-Alabama.txt,C:dur_meta=600.0s_vs_form=120.0s; E:hedges=30,/Volumes/Expansion/data/1960s/1966-08-8288163-Gaylesville-Alabama.pdf
+3,1966-08-8726570-Broomall-Pennsylvania.txt,E:hedges=8; G:form='one'_vs_obj='unidentified object with lights and thre',/Volumes/Expansion/data/1960s/1966-08-8726570-Broomall-Pennsylvania.pdf
+3,1966-08-8726631-Holly-Michigan.txt,E:hedges=9; G:form='one'_vs_obj='one to three unidentified flying objects',/Volumes/Expansion/data/1960s/1966-08-8726631-Holly-Michigan.pdf
+3,1966-10-8280958-HAZLET-NEWJERSEY.txt,C:dur_meta=300.0s_vs_form=3600.0s; E:hedges=139,/Volumes/Expansion/data/1960s/1966-10-8280958-HAZLET-NEWJERSEY.pdf
+3,1966-10-8289631-ShemyaAFS-Alaska.txt,C:dur_meta=2.0s_vs_form=1800.0s; E:hedges=7,/Volumes/Expansion/data/1960s/1966-10-8289631-ShemyaAFS-Alaska.pdf
+3,1966-10-8290050-Greenlawn-LongIsland-NewYork.txt,E:hedges=14; G:form='one'_vs_obj='cigar-shaped object with three diamond-s',/Volumes/Expansion/data/1960s/1966-10-8290050-Greenlawn-LongIsland-NewYork.pdf
+3,1966-11-8266034-Philadelphia-Penn.txt,C:dur_meta=900.0s_vs_form=60.0s; E:hedges=10,/Volumes/Expansion/data/1960s/1966-11-8266034-Philadelphia-Penn.pdf
+3,1966-xx-8287147-St-Paul-Minnesota.txt,C:dur_meta=8388000.0s_vs_form=20.0s; E:hedges=31,/Volumes/Expansion/data/1960s/1966-xx-8287147-St-Paul-Minnesota.pdf
+3,1967-01-8541564-LakeCity-Pennsylvania.txt,C:dur_meta=1200.0s_vs_form=180.0s; E:hedges=9,/Volumes/Expansion/data/1960s/1967-01-8541564-LakeCity-Pennsylvania.pdf
+3,1967-02-8550606-Denver-Colorado.txt,C:dur_meta=5.0s_vs_form=30.0s; E:hedges=15,/Volumes/Expansion/data/1960s/1967-02-8550606-Denver-Colorado.pdf
+3,1967-02-8553128-GrandRapids-Michigan.txt,C:dur_meta=120.0s_vs_form=10.0s; E:hedges=15,/Volumes/Expansion/data/1960s/1967-02-8553128-GrandRapids-Michigan.pdf
+3,1967-02-9665856-Davidsonville-Maryland.txt,C:dur_meta=60.0s_vs_form=1200.0s; E:hedges=17,/Volumes/Expansion/data/1960s/1967-02-9665856-Davidsonville-Maryland.pdf
+3,1967-02-9665900-Irvington-NewJersey.txt,C:dur_meta=1200.0s_vs_form=6.0s; E:hedges=10,/Volumes/Expansion/data/1960s/1967-02-9665900-Irvington-NewJersey.pdf
+3,1967-02-9666056-MtClemens-Michigan.txt,C:dur_meta=120.0s_vs_form=5.0s; E:hedges=13,/Volumes/Expansion/data/1960s/1967-02-9666056-MtClemens-Michigan.pdf
+3,1967-02-9666070-ElkinsPark-Pennsylvania.txt,C:dur_meta=180.0s_vs_form=10.0s; E:hedges=17,/Volumes/Expansion/data/1960s/1967-02-9666070-ElkinsPark-Pennsylvania.pdf
+3,1967-02-9733833-Newman-Georgia.txt,C:dur_meta=1800.0s_vs_form=300.0s; E:hedges=11,/Volumes/Expansion/data/1960s/1967-02-9733833-Newman-Georgia.pdf
+3,1967-03-7448824-Denver-Colorado.txt,C:dur_meta=900.0s_vs_form=3.0s; E:hedges=18,/Volumes/Expansion/data/1960s/1967-03-7448824-Denver-Colorado.pdf
+3,1967-03-7465121-Hamtramck-Michigan.txt,C:dur_meta=40.0s_vs_form=4.0s; E:hedges=8,/Volumes/Expansion/data/1960s/1967-03-7465121-Hamtramck-Michigan.pdf
+3,1967-03-7465634-Wapello-Iowa.txt,C:dur_meta=900.0s_vs_form=60.0s; E:hedges=10,/Volumes/Expansion/data/1960s/1967-03-7465634-Wapello-Iowa.pdf
+3,1967-04-7449742-Hatboro-Pennsylvania.txt,E:hedges=10; G:form='one'_vs_obj='a bright white object with two white lig',/Volumes/Expansion/data/1960s/1967-04-7449742-Hatboro-Pennsylvania.pdf
+3,1967-05-9077475-Dayton-Ohio.txt,C:dur_meta=2400.0s_vs_form=180.0s; E:hedges=35,/Volumes/Expansion/data/1960s/1967-05-9077475-Dayton-Ohio.pdf
+3,1967-08-7408309-Kettering-Ohio.txt,C:dur_meta=10.0s_vs_form=60.0s; E:hedges=16,/Volumes/Expansion/data/1960s/1967-08-7408309-Kettering-Ohio.pdf
+3,1967-09-7279630-ITHACA-NEWYORK.txt,"E:hedges=80; G:form='one'_vs_obj='two elongated, metallic-appearing object'",/Volumes/Expansion/data/1960s/1967-09-7279630-ITHACA-NEWYORK.pdf
+3,1967-10-7282590-Tucson-Arizona.txt,C:dur_meta=600.0s_vs_form=17.0s; E:hedges=54,/Volumes/Expansion/data/1960s/1967-10-7282590-Tucson-Arizona.pdf
+3,1967-11-6973662-Aiken-SouthCarolina.txt,C:dur_meta=15.0s_vs_form=180.0s; E:hedges=9,/Volumes/Expansion/data/1960s/1967-11-6973662-Aiken-SouthCarolina.pdf
+3,1967-11-6977540-Mason-Texas.txt,C:dur_meta=600.0s_vs_form=14400.0s; E:hedges=15,/Volumes/Expansion/data/1960s/1967-11-6977540-Mason-Texas.pdf
+3,1967-11-6977652-Syracuse-NewYork.txt,C:dur_meta=15.0s_vs_form=600.0s; E:hedges=7,/Volumes/Expansion/data/1960s/1967-11-6977652-Syracuse-NewYork.pdf
+3,1967-12-6888370-Dayton-Ohio.txt,C:dur_meta=3000.0s_vs_form=5.0s; E:hedges=43,/Volumes/Expansion/data/1960s/1967-12-6888370-Dayton-Ohio.pdf
+3,1967-12-6888593-Richardson-Texas.txt,C:dur_meta=3.0s_vs_form=300.0s; E:hedges=17,/Volumes/Expansion/data/1960s/1967-12-6888593-Richardson-Texas.pdf
+3,1968-02-6889711-Medway-Ohio.txt,C:dur_meta=60.0s_vs_form=900.0s; E:hedges=9,/Volumes/Expansion/data/1960s/1968-02-6889711-Medway-Ohio.pdf
+3,1968-02-6889723-Appleton-Wisconsin.txt,C:dur_meta=1200.0s_vs_form=240.0s; E:hedges=17,/Volumes/Expansion/data/1960s/1968-02-6889723-Appleton-Wisconsin.pdf
+3,1968-02-6889842-Fayetteville-NorthCarolina.txt,C:dur_meta=60.0s_vs_form=900.0s; E:hedges=6,/Volumes/Expansion/data/1960s/1968-02-6889842-Fayetteville-NorthCarolina.pdf
+3,1968-03-6890315-Kettering-Ohio.txt,C:dur_meta=3600.0s_vs_form=180.0s; E:hedges=12,/Volumes/Expansion/data/1960s/1968-03-6890315-Kettering-Ohio.pdf
+3,1968-06-6888374-NEWALBANY-INDIANA.txt,E:hedges=390; G:form='one'_vs_obj='a square configuration with four red lig',/Volumes/Expansion/data/1960s/1968-06-6888374-NEWALBANY-INDIANA.pdf
+3,1968-07-7200260-SouthZanesville-Ohio.txt,C:dur_meta=1800.0s_vs_form=10.0s; E:hedges=11,/Volumes/Expansion/data/1960s/1968-07-7200260-SouthZanesville-Ohio.pdf
+3,1968-07-7201170-GARFIELD-NEWJERSEY.txt,C:dur_meta=600.0s_vs_form=30.0s; E:hedges=22,/Volumes/Expansion/data/1960s/1968-07-7201170-GARFIELD-NEWJERSEY.pdf
+3,1968-08-9677150-Cincinatti-Ohio.txt,E:hedges=7; G:form='one'_vs_obj='two round reddish-orange objects',/Volumes/Expansion/data/1960s/1968-08-9677150-Cincinatti-Ohio.pdf
+3,1968-08-9677305-Freeville-NewYork.txt,C:dur_meta=15.0s_vs_form=120.0s; E:hedges=14,/Volumes/Expansion/data/1960s/1968-08-9677305-Freeville-NewYork.pdf
+3,1968-09-9677754-Aiken-SouthCarolina.txt,E:hedges=13; G:form='one'_vs_obj='ufo described as fiery red with multiple',/Volumes/Expansion/data/1960s/1968-09-9677754-Aiken-SouthCarolina.pdf
+3,1968-10-9678412-Richmond-Indiana.txt,E:hedges=9; G:form='one'_vs_obj='two white lights with a flickering orang',/Volumes/Expansion/data/1960s/1968-10-9678412-Richmond-Indiana.pdf
+3,1968-11-7170789-Sommerville-Ohio.txt,E:hedges=13; G:form='one'_vs_obj='multiple lights in the sky',/Volumes/Expansion/data/1960s/1968-11-7170789-Sommerville-Ohio.pdf
+3,1968-12-7171211-Dayton-Ohio.txt,C:dur_meta=2.0s_vs_form=25.0s; E:hedges=8,/Volumes/Expansion/data/1960s/1968-12-7171211-Dayton-Ohio.pdf
+3,1969-02-7171858-Hamburg-NewYork.txt,C:dur_meta=900.0s_vs_form=120.0s; E:hedges=15,/Volumes/Expansion/data/1960s/1969-02-7171858-Hamburg-NewYork.pdf
+3,1969-02-7171920-VirginiaBeach-Virginia.txt,C:dur_meta=7920000.0s_vs_form=900.0s; E:hedges=19,/Volumes/Expansion/data/1960s/1969-02-7171920-VirginiaBeach-Virginia.pdf
+3,1969-02-7171982-Dayton-Ohio.txt,C:dur_meta=3900.0s_vs_form=8.0s; E:hedges=12,/Volumes/Expansion/data/1960s/1969-02-7171982-Dayton-Ohio.pdf
+3,1969-03-6779714-Billings-Oklahoma.txt,C:dur_meta=60.0s_vs_form=10800.0s; E:hedges=37,/Volumes/Expansion/data/1960s/1969-03-6779714-Billings-Oklahoma.pdf
+3,1969-07-6781985-Denver-Colorado.txt,C:dur_meta=900.0s_vs_form=7200.0s; E:hedges=16,/Volumes/Expansion/data/1960s/1969-07-6781985-Denver-Colorado.pdf
+3,1969-10-7444446-NearDefuniakSprings-Florida.txt,E:hedges=7; G:form='one'_vs_obj='two metallic circular objects',/Volumes/Expansion/data/1960s/1969-10-7444446-NearDefuniakSprings-Florida.pdf
+3,1969-11-7446090-Dayton-Ohio.txt,C:dur_meta=300.0s_vs_form=22.0s; E:hedges=36,/Volumes/Expansion/data/1960s/1969-11-7446090-Dayton-Ohio.pdf
+3,xxxx-xx-8773924-Constantine-Algeria.txt,C:dur_meta=6912000.0s_vs_form=300.0s; E:hedges=6,/Volumes/Expansion/data/19XXs/xxxx-xx-8773924-Constantine-Algeria.pdf
+3,xxxx-xx-9736415-DENVER-COLO.txt,B:witnesses_12_not_in_text,/Volumes/Expansion/data/19XXs/xxxx-xx-9736415-DENVER-COLO.pdf
