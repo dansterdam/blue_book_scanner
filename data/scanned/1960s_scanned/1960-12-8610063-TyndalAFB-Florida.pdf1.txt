@@ -1,19 +1,43 @@
-The image appears to be a page from a Project Blue Book UFO report document. There is no photograph present on this page. The text on the page appears to be a Project Blue Book record card, containing information about a UFO sighting that occurred on 16-20 Dec 60 near Tyndall AFB, Florida. The record card provides details about the type of sighting, the location, the weather conditions, and the conclusions drawn from the observation.
-
-PROJECT 10073 RECORD CARD
 1. DATE: 16-20 Dec 60
-2. DATE-TIME GROUP: 1800-2000
-3. LOCATION: Tyndall AFB, Florida
-4. TYPE OF OBSERVATION: D Ground-Visual
-5. PHOTOS: 0 Yes
-7. LENGTH OF OBSERVATION: 5 Min
-10. BRIEF SUMMARY OF SIGHTING: Bright lights seen between hours of 1800-2000 hours. Lights were moving in a 2-5 zig-zag path. Very high and moved rapidly between 10-12,000 feet in about 3 minutes.
+
+2. LOCATION: Tyndall AFB, Florida
+
+3. DATE-TIME GROUP: 1800-2000
+
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual
+[ ] Ground-Radar
+[ ] Air-Visual
+[ ] Air-Intercept Radar
+
+5. SOURCE: Military
+
+6. NUMBER OF OBJECTS: one
+
+7. LENGTH OF OBSERVATION: 15 min average
+
+8. PHOTOS:
+[ ] Yes
+[X] No
+
+9. COURSE: 22
+
+10. BRIEF SUMMARY OF SIGHTING: Sightings each night between hours of 1800-2000 of object appearing with a bright star moving in spurts and zig-zag motion. Very high and moved from NW to SE.
+
 12. CONCLUSIONS:
-1. Was Balloon
-2. Was Aircraft
-3. Was Any-thing
-4. Possibly Balloon
-5. Possibly Aircraft
-6. Possibly Astronomical
-7. Insufficient Data for Evaluation
-8. Unidentified
+[ ] Was Balloon
+[X] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+11. COMMENTS: General characteristic of balloon observation added to observation on consecutive nights indicated that probable balloon release at same time and airport release. Winds aloft to nearby weather station. Winds aloft not given in report, however if winds were prevailing to NE balloon would follow same general path.
+
+ATIC FORM 329 (REV 26 SEP 53)

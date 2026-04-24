@@ -1,12 +1,55 @@
-There is no photograph present in this image. This appears to be a page from a Project Blue Book document, specifically a record card with information about an observation event.
-
 PROJECT 10073 RECORD CARD
-1. DATE 8/06/1962
-2. DATE-TIME GROUP  
-3. LOCATION WELLS, MAINE
-4. TYPE OF OBSERVATION 
-5. DURATION 5 minutes
-6. GMT PRIORITY 21/04302
-7. LENGTH OF OBSERVATION 5 seconds
-10. BRIEF RESUME OF SIGHTING Object appeared to be a meteor leaving a trail, as two trails were observed after the object passed, one above the other. Object dimmed after about 5 seconds and disappeared. 
-11. COMMENTS Witness indicates object was like a meteor or decay; however, was not the usual meteor, due to unusual aspects of the case which were considered as possible meteor observation.
+
+1. DATE S
+20 October 1962
+
+2. LOCATION
+Wells, Maine
+
+12. CONCLUSIONS
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical Meteor
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_______________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP
+Local_________________
+DATE    21/0430Z
+
+4. TYPE OF OBSERVATION
+[XX] Ground-Visual
+[ ] Air Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS?
+[X] Yes
+[ ] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+3 seconds 6 seconds
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+NE
+
+10. BRIEF SUMMARY OF SIGHTING
+Object that appeared to be a meteor leaving a trail, or two trails - one from each side. Suddenly increased in size and became circular. Had points of light. Object claimed after about 2 seconds. Sparks trailing. Almost disappeared three times during flight. Trail appearing to glow remained for about 5-8 minutes after object was gone. Dogs barked and howled although sound not audible to witness.
+
+11. COMMENTS
+Witness indicates object was like meteor or decay; however, was curious at the persistence of the trail. No reported decay for this date. Case considered as possible meteor observation.
+
+ATIC FORM 329 (REV 24 SEP 52)

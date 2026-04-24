@@ -1,13 +1,56 @@
-The image does not contain any photograph. It appears to be a Project 10073 record card from Project Blue Book, an official U.S. Air Force program that investigated unidentified flying objects (UFOs).
+PROJECT 10073 RECORD CARD
 
-Project 10073 Record Card
-1. DATE: 12 Sep 1954
-2. LOCATION: Stavern, Norway
-3. DATE-TIME GROUP: N/A
-4. TYPE OF OBSERVATION: Ground-Visual
-5. SOURCE: D Air-Visual
-6. DURATION OF OBSERVATION: 55 minutes
-7. LENGTH OF OBSERVATION: 55 minutes
-10. BRIEF SUMMARY OF SIGHTING: "Luminous object appeared and disappeared several times during a period of seven minutes and then disappeared at a speed many times that of sound. Object was circular, lower part was dark and upper part luminous aluminum."
-11. COMMENTS: "This appears to be a second hand report."
-W/Capt. TISCA-51, USAA Norway - CO file in ATIC repository.
+1. DATE
+13 Aug 1954
+
+2. LOCATION
+Stavern, Norway
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP
+Local
+GMT: NOT GIVEN
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+Military and Civilian
+
+7. LENGTH OF OBSERVATION
+Stationary for 7 Min.
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+<blank>
+
+10. BRIEF SUMMARY OF SIGHTING
+The object remained stationary for seven minutes and then disappeared at a speed many times that of sound. Object was round, lower surface flat. Appeared like silver or aluminum
+
+11. COMMENTS
+Insufficient data. Second hand report.
+
+W/Rpt. IR204-54 UFO-AA Norway - On file in ATIC repository.
+
+ATIC FORM 329 (REV 26 SEP 52)

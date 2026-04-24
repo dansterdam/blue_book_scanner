@@ -1,30 +1,37 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, consisting of a table with information about various UFO sightings, including the date, location, observer, and evaluation.
+25 - 31 JANUARY 1953 SIGHTINGS
 
-TEXT OUTPUT:
+DATE          LOCATION                           OBSERVER                    EVALUATION
 
-25 - 11 JANUARY 1953 SIGHTINGS
+25            Pinewood South Carolina            [redacted]                  A/C
+25            Swampon AB, New York               [redacted]                  A/C
+26            Parsonville, Wisconsin             [redacted]                  Astro (STAR/PLANET)
+26            Continental Divide L.M., New Mexico Visual                     Astro (VENUS)
+                                                 Ground (RADAR)              WX
+26            Alaska                             Not Stated                  Insufficient Data
+27            March AFB, California              [redacted]                  Insufficient Data
+27            Mather AFB, California             [redacted]                  Balloon
+27            Cottonwood, Arizona                Military Air                A/C
+27            Tuscon, Arizona                    [redacted]                  Astro (METEOR)
+27            Davenport, Iowa                    [redacted]                  Astro (VENUS)
+28            Stuttgart, Germany                 Military Air                Astro (STAR/PLANET)
+                                                                             Astro (STAR/PLANET)
+28            Point Mugu, California             [redacted]                  UNIDENTIFIED
+23            St Georges, Delaware               *FSIA                       Other (UNRELIABLE RPT)
+23            Patrick AFB, Florida               Not Reported                Insufficient Data
+23            Corona, California                 [redacted]                  UNIDENTIFIED
+23            Albany Georgia Area                Ground Visual               Astro (VENUS)
+                                                 Air Visual                  Astro (VENUS)
+                                                 Ground (RADAR)              UNIDENTIFIED
 
-DATE LOCATION OBSERVER EVALUATION
-22 Swansea, South Carolina M.. Simpson AFB, New York Astra (STAR/PLANET)
-25 Hermiston, Wisconsin Astra (VENUS)
-26 Continental Divide C.W., New Mexico Visual (RADAR) NO STATEMENT
-26 Alaska VISIBLE Insufficient Data
-26 Moyes AFB, California Insufficient Data
-27 Covina, California Balloon
-27 Tucson, Arizona A/C 
-27 Davenport, Iowa Insufficient Data
-28 Salt Lake City, Germany Military Air
-23 Point Mugu, California ASIA Not Reported
-23 St George's Delaware Visual (PHOTO)
-23 Patrick AFB, Florida Ground Control Visual
-23 Corona, California Ground Control Visual Air Visual
-23 Albany Georgia Area Military Air
-23 Grand Island, Nebraska Astro (VENUS)
-23 North Platte, Nebraska Astro (METEOR)
-23 Mitchell AFB, New York Astro (STAR) 
-23 Bethlehem, Pennsylvania, Pa Multiple Not Stated
-29 Houlton, Maine Military Air
-29 Malibu Beach, California Military Air 
-29 Conway, South Carolina Civilian (PHOTO)
-31 Bataan, Philippine Islands Astro (METEOR)
-31 Lexington, Kentucky Insufficient Data Astro (METEOR)
+23            Grand Island, Nebraska             Air Visual                  
+                                                 Ground Visual               Astro (VENUS)
+23            North Platte, Nebraska             [redacted]                  Astro (VENUS)
+23            Mitchell AFB, New York             Multiple                    Astro (METEOR)
+23            Dahlgren, Va-Philadelphia, Pa     Multiple                    Astro (METEOR)
+29            Patrick AFB, Florida               Not Stated                  Other (CLOUD)
+29            Houlton, Maine                     Military Air                Astro (VENUS)
+29            Malibu Beach, California           Military Air                A/C
+29            Conway, South Carolina            [redacted]                  A/C (Navy Blimp)
+30            Batan, Philippines                 Civilian                    Astro (METEOR)
+31            Albuquerque, New Mexico            [redacted](PHOTO)           Insufficient Data
+31            Lexington, Kentucky                [redacted]                  Astro (METEOR)

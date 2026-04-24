@@ -1,10 +1,53 @@
-The image does not contain a photograph. It appears to be a Project 10073 record card from Project Blue Book, containing information about a sighting report.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 8 Dec 61
-3. DATE-TIME GROUP: 2113 GMT 21/10/61
-5. TYPE OF OBSERVATION: D Air Visual
-7. LENGTH OF OBSERVATION: 15 min
-9. NUMBER OF OBJECTS: 1
-11. COMMENTS: Weather data was reportedly poor at the time. The object was reported to be moving generally toward the North and disappeared by fading from sight. Event was reported to have lasted for 15 min.
-12. CONCLUSIONS: Possible aircraft; possibly balloon; possible satellite/re-entry; possible meteor; probable aircraft; probable balloon; probable satellite/re-entry; probable meteor.
+
+1. DATE
+21 Dec 61
+
+2. LOCATION
+Tyndall AFB, Florida
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP
+Local 0545
+GMT 21/1045
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+15 min.
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+N to E
+
+10. BRIEF SUMMARY OF SIGHTING
+Witness observed an object; similar to star, in NW. Object appeared radiant and elliptical. Was reported to be moving generally toward N. Witness reported it disappearing by fading from sight. Object was reported to have lasted for 15 min.
+
+11. COMMENTS
+Weather data reveals that an inversion was present in Tyndall area on date of sighting. Bright star Betelgeuse was located on an AZ equal to that reported for UFO. Is concluded that witness let observed star distorted due to inversion then his over active imagination took charge. Witness has made other reports, considers himself an expert at observing phenomena. Fact that his imagination is overworked is substantiated by his belief that he can estimate speed and (OVER)
+
+ATIC FORM 329 (REV 25 SEP 52)

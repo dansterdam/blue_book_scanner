@@ -1,14 +1,47 @@
-The image does not contain a photograph. It appears to be a Project 10073 Record Card from the United States Air Force's Project Blue Book, which was a program that investigated unidentified flying objects (UFOs).
-
-The text in the document is as follows:
-
-PROJECT 10073 RECORD CARD
 1. DATE: 6 Aug 60
-2. DATE-TIME GROUP: 00/0445Z  
-3. PHOTOS: (   ) None
-4. TYPE OF OBSERVATION: Ground-Radar
-5. DURATION: 5 sec
-6. NUMBER OF OBJECTS: 1
-7. LENGTH OF OBSERVATION: 5 sec
-8. BRIEF SUMMARY OF SIGHTING: Disc-shaped, 30-50 ft in diameter, white and greenish-blue in color. Moved in a level course and did not disappear. Held a straight course and did not disappear. Radar indicated a slow and fast moving target, which disappeared simultaneously to the radar.
-11. COMMENTS: Information received is vague and conflicting. No conclusion can be reached. Other sightings in the area and follow-up is being made. Case listed as Unidentified Data.
+
+2. LOCATION: Sandersville, Georgia
+
+12. CONCLUSIONS: 
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
+
+3. DATE-TIME GROUP:
+Local 2345
+GMT 07/0445Z
+
+4. TYPE OF OBSERVATION:
+☒ Ground-Visual
+☐ Ground-Radar
+☐ Air-Visual
+☐ Air-Intercept Radar
+
+5. PHOTOS:
+☐ Yes
+☒ No
+
+6. SOURCE: Civilian
+
+7. LENGTH OF OBSERVATION: 20 sec - 1 min
+
+8. NUMBER OF OBJECTS: 4-6
+
+9. COURSE: NW
+
+10. BRIEF SUMMARY OF SIGHTING:
+Dots of light about size of a grain of corn, white and grayish-blue. V-type or echelon formation with 3 or 4 lights on each side of V. Traveled at erratic speeds, alternating slow and fast. Held a straight course and did not execute any maneuvers. Disappeared instantaneously to the NW.
+
+11. COMMENTS:
+Information received is vague and conflicting. No conclusion can be reached. Due to evaluation of no threat and difficult access to witnesses, no follow-up is being made. Case listed as Insufficient Data.
+
+ATIC FORM 329 (REV 26 SEP 53)

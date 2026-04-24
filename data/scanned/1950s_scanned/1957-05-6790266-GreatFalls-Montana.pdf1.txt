@@ -1,16 +1,39 @@
-The image does not contain a photograph, but rather a Project 10073 record card from the Project Blue Book UFO investigation. 
+1. DATE: 25 May 1957
 
-The text in the document is as follows:
-
-PROJECT 10073 RECORD CARD
-1. DATE: 29 MAY 1957
 2. LOCATION: Great Falls, Montana
-3. DATE-TIME GROUP: - 
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: One round bright white light
-6. SOURCE: C.D. Jackson
-7. LENGTH OF OBSERVATION: about 20 minutes
-8. NUMBER OF OBJECTS: One
-9. COURSE: Unknown
-10. BRIEF SUMMARY OF SIGHTING: One round bright white light about the size of the North Star. Object seemed to be spinning around at high speed and then slowing down. Object seemed to be disappearing in the clouds.
-11. COMMENTS: Description, duration, manner of disappearance indicate this sighting was probably caused by a balloon.
+
+3. DATE-TIME GROUP: Local _______________
+GMT: 2070300Z
+
+4. TYPE OF OBSERVATION: XD Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS: [ ] Yes
+[X] No
+
+6. SOURCE: Civilian
+
+7. LENGTH OF OBSERVATION: twenty minutes
+
+8. NUMBER OF OBJECTS: one
+
+9. COURSE: unknown
+
+10. BRIEF SUMMARY OF SIGHTING: One round bright white light about the size of the North Star. Object seemed to go spinning around at high speed and then slowing down. Object seemed to be disappearing in the clouds. Object was seen for about 20 minutes.
+
+12. CONCLUSIONS: [ ] Was Balloon
+[X] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other _______________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+11. COMMENTS: Description, duration, manner of disappearance indicate that this sighting was probably caused by a balloon.
+
+ATIC FORM 329 (REV 26 SEP 52)

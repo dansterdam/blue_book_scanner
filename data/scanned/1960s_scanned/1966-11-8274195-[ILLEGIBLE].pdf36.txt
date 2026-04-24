@@ -1,17 +1,40 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book report, with a form-like layout containing various fields such as "DATE/TIME GROUP", "LOCATION", "SOURCE", "NUMBER OF OBJECTS", "TYPE OF OBSERVATION", and "PHYSICAL EVIDENCE".
+1. DATE • TIME GROUP
+17 NOV. 66     22L03
 
-The text in the image reads:
+2. LOCATION
+[illegible], Ohio
 
-DATE/TIME GROUP: 8 JULY 66
-LOCATION: CITY or TOWN SALEM, MASS.
-SOURCE: OBSERVER 
-CONCLUSION: ASTRONOMICAL (OBSERVER)
-NUMBER OF OBJECTS: ONE
-LENGTH OF OBSERVATION: 7-30 SECONDS
-TYPE OF OBSERVATION: VISUAL
-COURSE: STATIONARY
-MANEUVER: VISUAL
-PHOTOS: X YES NO
-PHYSICAL EVIDENCE: ( ) YES ( X ) NO
+3. SOURCE
+Civilian
 
-TD FR 85-0-329 (TDE)  Previous editions of this form may be used.
+4. NUMBER OF OBJECTS
+one
+
+5. LENGTH OF OBSERVATION
+7-10 seconds
+
+6. TYPE OF OBSERVATION
+Ground. Visual
+
+7. COURSE
+westward
+
+8. PHOTOS
+[ ] Yes
+[X] No
+
+9. PHYSICAL EVIDENCE
+[ ] Yes
+[X] No
+
+10. CONCLUSION
+(astronomer)     [handwritten: PSI]
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+Observer noted a reddish-orange wavti board the westward sky. A common matchhead would have covered about 2/3 of the object. The object was described to that of a circular ball of fire moving at a constant rate of speed.
+
+This description is consistent with that of an astronomical observation (meteor).
+
+FORM
+TO SEP 63 0-329 (TDE)   Previous editions of this form may be used.

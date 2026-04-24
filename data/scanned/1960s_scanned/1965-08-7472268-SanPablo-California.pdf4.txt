@@ -1,17 +1,29 @@
-The provided image does not contain a photograph. It appears to be a document titled "ENGINEERING SUPPORT WORK REQUEST" that is used to request various types of engineering support work, including photo analysis, engineering analysis, and machine computation.
-
 ENGINEERING SUPPORT WORK REQUEST
-PPT NUMBER: 4050301
-DESCRIPTION OF WORK: Request photo analysis of the attached Case film.
 
-REFERENCE MATERIAL: One Case film and report describing unidentified objects. Request all materials for evaluation for analysis.
+[ ] ENGINEERING ANALYSIS     [X] PHOTO ANALYSIS     [ ] MACHINE COMPUTATION
 
-REQUESTED BY: 
+PPT NUMBER: A6010201
+DESCRIPTION OF WORK:
+Request photo analysis of the attached 8m film.
 
-I CERTIFY THAT THIS WORK IS AUTHORIZED BY ME AND THAT IT HAS THE FOLLOWING PRIORITY AND DEADLINE:
+REFERENCE MATERIAL:
+One 8mm film and report describing unidentified object. Request all materials be returned upon completion of analysis.
 
-PRIORITY: 
-FINAL WORK TO BE IN FORM OF: [ ] ENGINEERING NOTE [ ] P1 REPORT [ ] DRAWING [ ] PROGRAM
-WORK REQUEST APPROVED BY:
-PRIORITY NUMBER: [ ] ONE [ ] TWO [ ] THREE
-DEADLINE DATE: 
+REQUESTED BY _________________ SYMBOL _________________ PHONE _________________
+
+I CERTIFY THAT THIS WORK IS AUTHORIZED BY ME AND THAT IT HAS THE FOLLOWING PRIORITY AND DEADLINE WITHIN MY DIVISION.
+
+20 Oct 65
+PRIORITY          DEADLINE DATE          SIGNATURE OF APPROVING DIVISION CHIEF          DATE
+
+ENGINEERING SUPPORT MONITOR _________________ ASSISTANT _________________
+FINAL WORK TO BE IN FORM OF:
+
+[ ] ENGINEERING NOTE     [ ] COMPUTATION     [ ] PI REPORT     [ ] DRAWING     [ ] PROGRAM
+
+WORK REQUEST APPROVED BY: _________________ DEADLINE DATE: _________________
+
+PRIORITY NUMBER     [ ] ONE     [ ] TWO     [ ] THREE     WORK ORDER NUMBER _________________
+
+FORM
+FTD SEP 64 462 Previous editions may be used.

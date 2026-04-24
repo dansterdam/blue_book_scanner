@@ -1,14 +1,53 @@
-There is no photograph present in this image. This appears to be a page from a Project Blue Book UFO report document, specifically a "Project 10073 Record Card" for an incident that occurred on December 6, 1954 in Palm Beach, Florida.
+1. DATE
+5 December 1954
 
-OCR Output:
-6 December 1954
-LOCATION
+2. LOCATION
 Palm Beach, Florida
-TYPE OF OBSERVATION
-G Ground-Radar
-D Air-Visual
-PERSONS OBSERVING
-SUMMARY OF SIGHTING
-Oblong object, very bright, orange-colored. Observed approx. 6-8 seconds.
-COURSE
+
+3. DATE-TIME GROUP
+Local
+06/01532
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+[ ] Ground-Radar
+[ ] Air-Visual
+[ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+Aviation
+
+7. LENGTH OF OBSERVATION
+Less than 10 seconds
+
+8. NUMBER OF OBJECTS
 1
+
+9. COURSE
+N-S
+
+10. BRIEF SUMMARY OF SIGHTING
+Brush green. 2 uss at angle. Orange trail with smell. Motion from N to South descending disappearing beyond trees.
+
+11. COMMENTS
+Probable meteor.
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical [illegible]
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)

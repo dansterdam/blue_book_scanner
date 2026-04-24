@@ -1,13 +1,48 @@
-The image does not contain any photographs. It appears to be a Project 10073 Record Card containing various details about a UFO sighting report.
-
 PROJECT 10073 RECORD CARD
+
 1. DATE: 17 November 1962
-2. PLACE: Tampa, Florida
-3. TYPE OF OBSERVATION: Ground-Radar  
-4. PHOTOS: 0
-5. DURATION: 15 mins
-6. NUMBER OF OBJECTS: three
-7. LENGTH OF OBSERVATION: 15 mins
-8. BRIEF SUMMARY OF SIGHTING: Cluster of 3 second mag star-like objects approached ground-radar station, hovered momentarily, and departed straight up at high speed. No shape or color determined. Blip approached CPS-12 radar scope to 15 mile range, hovered for 2-3 minutes, then departed at high speed disappearance off scope in 10-15 seconds.
-10. CONCLUDED AS: Probably BALLOON
-11. COMMENTS: UNIDENTIFIED at this time. Not the same as that sighted visually at about the same time by the tower personnel of the U.S. Air Force. Possibly aerial phenomena existing in the atmosphere and demonstrated flight capabilities. Possibly astronomical. Unknown.
+
+2. LOCATION: Tampa, Florida
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other__UNIDENTIFIED
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP:
+Local____
+GMT 19/0200Z
+
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual        [ ] Ground-Radar
+[ ] Air-Visual           [ ] Air-Intercept Radar
+
+5. PHOTOS:
+[ ] Yes
+[X] No
+
+6. SOURCE:
+Civilian
+
+7. LENGTH OF OBSERVATION: 11-15 mins
+
+8. NUMBER OF OBJECTS: three
+
+9. COURSE: varied
+
+10. BRIEF SUMMARY OF SIGHTING:
+Cluster of 3 second mag star-like objs in horizontal flight. Approached & hovered. Disappeared, riding into star background. No shape. Approached fm 20 dgr elev to 45 dgr elev where objs hovered 3-5 mins. Approach consumed 3-4 mins, while departure lasted for an additional 3-8 mins. Depart to SE. Impression that objs were under intelligent control at all times. Approach fm NE. After hover made90 dgr turn.
+
+11. COMMENTS:
+UNIDENTIFIED at this time. No indication that the objs presented a threat to the security of the U.S.
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,16 +1,53 @@
-The image appears to be a Project 10073 record card, which seems to be a form used for documentation related to UFO sightings. There is no photograph present in this particular image.
-
 PROJECT 10073 RECORD CARD
-1. DATE 22 FEB 54
-2. TIME 23/30 - 21:52 (Z)
-3. LOCATION Hahn AB, Germany
+
+1. DATE
+23 Mar 54
+
+2. LOCATION
+Hahn AB, Germany
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[X] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP
+Local
+GMT 23/0100 - 2130Z (M)
+
 4. TYPE OF OBSERVATION
-9 Ground-Visual
-5. DESCRIPTION
-6 seconds + 1 air travl1er
-6. LENGTH OF OBSERVATION 6 seconds
-8. OTHER SUMMARY OF SIGHTING
-Round, size of half dollar white, slow, no sound, observed as we1l as possible.
-11. COMMENTS
-Possible s/c.
-Info ex to ATIC Report #180961 on file.
+[X] Ground-Visual
+[ ] Ground-Radar
+[ ] Air-Visual
+[ ] Air-Intercept Radar
+[ ] Nocturnal
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. LENGTH OF OBSERVATION
+
+7. NUMBER OF OBJECTS
+
+8. COURSE
+NW
+
+9. BRIEF SUMMARY OF SIGHTING
+Round, size of half dollar white, fluorescent color. Reciprocating ang. sound, or "copping" noise.
+
+10. COMMENTS
+Possible a/c.
+
+Info est from ATIC Report #180961 on file in [illegible]
+
+ATIC FORM 329 CRET 12 APP 53D

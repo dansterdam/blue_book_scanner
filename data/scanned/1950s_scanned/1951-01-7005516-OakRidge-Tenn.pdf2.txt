@@ -1,19 +1,52 @@
-The image does not contain a photograph. It appears to be a page from a Project 10073 record card document.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 21 Jan 51
-2. LOCATION: Oak Ridge, Tenn. 
-3. DATE-TIME GROUP: 1630
-4. TYPE OF OBSERVATION: Ground-Radar
-5. PHOTOS: 0 Yes, 0 No
-7. LENGTH OF OBSERVATION: Three minutes
-10. BRIEF SUMMARY OF SIGHTING: 3-32 aircraft were intercepted to intercept an unknown target. Three passes were made at the object, which at times was over Oak Ridge. The radar data indicates a double diversion existed in the air.
-13. CONCLUSIONS: 
-Was Balloon
-Was Possibly Balloon
-Was Aircraft
-Possibly Aircraft
-Possibly Astronomical
-Possibly Astronomical
-Other Explanations: Unknown. Cause for Evaluation.
-11. COMMENTS: Explanation is "dusting" - caused by the inversion. Probable source being a ground target.
+
+1. DATE
+21 Jan 51
+
+2. LOCATION
+Oak Ridge, Tenn
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Ground Target
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP
+Local          1630
+GMT            21/2320Z
+
+4. TYPE OF OBSERVATION
+[ ] Ground-Visual     [ ] Ground-Radar
+[X] Air-Wxxxx Radar   [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+
+7. LENGTH OF OBSERVATION
+Three radar runs
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+Not given
+
+10. BRIEF SUMMARY OF SIGHTING
+F-82 attempted to intercept an unknown target. Three passes were made at the object but since it was over Oak Ridge the pass could not be completed. Weather data indicates a double inversion existed in the air.
+
+11. COMMENTS
+Explanation is"ducting",caused by the inversion. Probable source being a ground target.
+
+ATIC FORM 329 (REV 26 SEP 52)

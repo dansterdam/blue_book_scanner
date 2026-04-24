@@ -1,14 +1,47 @@
-The image does not contain a photograph. It appears to be a Project 10073 record card from Project Blue Book, which was a U.S. Air Force program to investigate unidentified flying objects (UFOs).
-
-The text found in the document is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 12 AUG 59
+
+1. DATE: 12 Aug 59
+
 2. LOCATION: Ocean Beach, N.J.
-3. DATE-TIME GROUP: 13/0352Z - 0435Z
-4. TYPE OF OBSERVATION: Ground-Visual
-5. SOURCE: O.No
-6. NUMBER OF OBJECTS: 1
-7. LENGTH OF OBSERVATION: 3/4 hr
-8. BRIEF SUMMARY OF SIGHTING: Obj which looked like a searchlight in the sky, about the size of a football, red in color. First it moved back and forth over the water, then it faded out. Obj orbited & went back & forth over the same area, then faded out to this line.
-11. COMMENTS: There was a high thin layer of stratus clouds, and this was a hazy night. A strange light, probably reflected lights in a city, the object grew in size at times.
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other Explanation
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP: Local ____ GMT 13/0230Z - 0415Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION: 1 3/4 hrs
+
+8. NUMBER OF OBJECTS: 1
+
+9. COURSE
+varied
+
+10. BRIEF SUMMARY OF SIGHTING
+Obj which looked like a saucer in the side, about the size of a nickel, red in color, turned golden at times, a slight trail at first. Obj orbited & went back & forth over some area, then faded out to the life.
+
+11. COMMENTS
+There was a high thin layer of cirrus clouds present, as was a large layer. A combination of the two probably reflected lights in a city north of observer.
+
+ATIC FORM 329 (REV 28 SEP 53)

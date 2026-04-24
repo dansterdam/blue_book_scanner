@@ -1,15 +1,28 @@
-The image does not contain a photograph. It appears to be a Project 10073 Record form from the Project Blue Book files. 
+PROJECT 10073 RECORD CARD
 
-The text in the document is as follows:
+1. DATE: 7 February 1953
+2. LOCATION: Okinawa
+3. DATE-TIME GROUP:
+Local: [0122Z local]
+GMT: 7/1222Z Feb 53
+4. TYPE OF OBSERVATION:
+[ ] Ground-Visual [X] Ground-Radar
+[ ] Air-Visual [X] Air-Intercept Radar
+5. PHOTOS: [ ] Yes [X] No
+6. SOURCE: Military
+7. LENGTH OF OBSERVATION: 9 days [?] 15 minutes [radar track 15 min]
+8. NUMBER OF OBJECTS: One (1)
+9. COURSE: [various]
+10. BRIEF SUMMARY OF SIGHTING: Radar picked up object; F-94 scrambled; visual contact — bright orange changing to red/green; F-94 chased approximately 15 min then broke off (fuel); Venus identified at 273° azimuth 10° above horizon at time of sighting; Mars also nearby.
+11. COMMENTS: Venus at 10° above horizon, azimuth approximately 270° at time of sighting. Mars also in vicinity.
+12. CONCLUSIONS: [X] Was Astronomical — Venus (Visual) / Radar: False Targets
+[ ] Possibly Astronomical
+[ ] Was Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Possibly Aircraft
+[ ] Other:
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-1. DATE - TIME GROUP 7 FEB 53 7/12222
-2. LOCATION OKINAWA
-3. SOURCE MILITARY, VENUS - VISUAL 
-4. NUMBER OF OBJECTS COMMENTED: WAS PROBABLY VENUS WHICH AT THIS TIME OF YEAR IS THE LARGEST OBJECT IN THE SKY."
-5. LENGTH OF OBSERVATION 20 SEC
-6. BRIEF SUMMARY AND ANALYSIS: OBJECT WAS OBSERVED FROM P-54 A/C AT A LOWER ALT DIMINISHED IN SIZE AND COLOR AND CHANGED TO INTERMITTENT RED AND GREEN COLOR. OBJ MOVED AWAY AND DISAPPEARED TO A HIGHER SPEED. OBJ WAS OBSERVED AGAIN ON RADAR. 
-7. PHOTOS 2 YA
-8 NO
-9. PHYSICAL EVIDENCE 0 YES 0 NO
-
-FORM FTD SER 39 D-329 (TDE) Previous editions of this form may be used.
+FTD SEP 63 0-329 (TDE)

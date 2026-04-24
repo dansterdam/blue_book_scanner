@@ -1,16 +1,24 @@
 #!/usr/bin/env python3
 """
-Re-extract flagged suspect cases using Claude vision with a strict, grounded prompt.
+Re-extract flagged suspect cases using Claude vision, writing per-page .txt files
+directly into the scanned/ directory tree — same layout as vision.py, so the
+normal combine_pages → full_case_set pipeline picks them up automatically.
 
-Reads suspect_cases.csv, re-runs OCR on each PDF page, then does a structured
-metadata extraction pass from the transcribed text. By default overwrites the
-searcher repo's casefiles; pass --out-txt-dir/--out-json-dir to redirect.
+Output path per page:
+    {scanned_root}/{decade}_scanned/{casename}.pdf{N}.txt
 
-Idempotent: skips any case whose JSON already carries a `reextracted_by` key,
-unless --force is given.
+Where decade is derived from the case filename year (e.g. "1950s").
+
+Idempotent by default: skips pages whose output file already exists.
+Pass --overwrite to force re-extraction.
 
 Usage:
-    python reextract.py --keyfile api_key.json --min-score 3
+    python reextract.py \\
+        --keyfile api_key.json \\
+        --pdf-root /Volumes/Expansion/data \\
+        --scanned-root /path/to/blue_book_scanner/data/scanned \\
+        --min-score 3
+
     python reextract.py --keyfile api_key.json --only 1962-07-8681154-WestoverAFB-Massachusetts.txt
 """
 import argparse
@@ -29,22 +37,27 @@ import PyPDF2
 from pdf2image import convert_from_path
 from PIL import Image
 
-from prompts import OCR_PROMPT, METADATA_PROMPT, METADATA_SCHEMA
+from prompts import OCR_PROMPT
 
 REPO = Path(__file__).parent.parent
 DEFAULT_SUSPECTS = REPO / "suspect_cases.csv"
-DEFAULT_TXT_DIR = Path("/Users/foster/git/blue_book_searcher/casefiles/txt")
-DEFAULT_JSON_DIR = Path("/Users/foster/git/blue_book_searcher/casefiles/json")
+DEFAULT_PDF_ROOT = Path("/Volumes/Expansion/data")
+DEFAULT_SCANNED_ROOT = REPO / "data" / "scanned"
 
 
-def encode_pdf_page(pdf_path: Path, page_number: int, max_width: int = 2048) -> str:
-    pages = convert_from_path(str(pdf_path), first_page=page_number, last_page=page_number, dpi=300)
+# ---------------------------------------------------------------------------
+# Image encoding
+# ---------------------------------------------------------------------------
+
+def encode_pdf_page(pdf_path: Path, page_number: int, dpi: int = 150, max_width: int = 2048) -> str:
+    """Convert a single PDF page to a base64-encoded JPEG."""
+    pages = convert_from_path(str(pdf_path), first_page=page_number, last_page=page_number, dpi=dpi)
     img = pages[0]
     if img.width > max_width:
         ratio = max_width / img.width
         img = img.resize((max_width, int(img.height * ratio)), Image.LANCZOS)
     buf = io.BytesIO()
-    img.save(buf, format="JPEG", quality=92)
+    img.save(buf, format="JPEG", quality=88)
     return base64.b64encode(buf.getvalue()).decode("utf-8")
 
 
@@ -52,6 +65,10 @@ def page_count(pdf_path: Path) -> int:
     with open(pdf_path, "rb") as f:
         return len(PyPDF2.PdfReader(f).pages)
 
+
+# ---------------------------------------------------------------------------
+# API helpers
+# ---------------------------------------------------------------------------
 
 def call_with_retry(fn, *, max_retries: int = 4, base_delay: float = 4.0):
     for attempt in range(max_retries):
@@ -67,7 +84,8 @@ def call_with_retry(fn, *, max_retries: int = 4, base_delay: float = 4.0):
     raise RuntimeError("exceeded retries")
 
 
-def ocr_page(client, model: str, b64_image: str, stem: str, page_number: int, total_pages: int) -> str:
+def ocr_page(client, model: str, b64_image: str, filename_hint: str) -> str:
+    """Send one page image to the API and return the transcribed text."""
     def _call():
         return client.messages.create(
             model=model,
@@ -82,7 +100,7 @@ def ocr_page(client, model: str, b64_image: str, stem: str, page_number: int, to
                     },
                     {
                         "type": "text",
-                        "text": f"Page {page_number} of {total_pages} from case file: {stem}",
+                        "text": f"Filename (for context only): {filename_hint}",
                     },
                 ],
             }],
@@ -91,72 +109,110 @@ def ocr_page(client, model: str, b64_image: str, stem: str, page_number: int, to
     return resp.content[0].text.strip()
 
 
-def extract_metadata(client, model: str, transcript: str, stem: str) -> dict:
-    schema_text = json.dumps(METADATA_SCHEMA, indent=2)
-    def _call():
-        return client.messages.create(
-            model=model,
-            max_tokens=2000,
-            system=[
-                {"type": "text", "text": METADATA_PROMPT, "cache_control": {"type": "ephemeral"}},
-                {"type": "text", "text": f"Schema:\n{schema_text}", "cache_control": {"type": "ephemeral"}},
-            ],
-            messages=[{
-                "role": "user",
-                "content": f"Case file: {stem}\n\nTranscribed document text:\n\n{transcript}\n\nReturn ONLY a JSON object matching the schema.",
-            }],
-        )
-    resp = call_with_retry(_call)
-    text = resp.content[0].text.strip()
-    start = text.find("{")
-    end = text.rfind("}") + 1
-    if start == -1 or end <= start:
-        raise ValueError(f"no JSON object in response: {text[:200]}")
-    return json.loads(text[start:end])
+# ---------------------------------------------------------------------------
+# Path helpers
+# ---------------------------------------------------------------------------
 
+def decade_for(casename: str) -> str:
+    """Return e.g. '1950s' from a case filename like '1952-04-...'."""
+    year_str = casename.split("-", 1)[0]
+    try:
+        decade = f"{year_str[:3]}0s"
+        if decade[0].isdigit():
+            return decade
+    except Exception:
+        pass
+    return "19XXs"
+
+
+def scanned_subdir(scanned_root: Path, casename: str) -> Path:
+    """Return the decade subdir, falling back to 19XXs if it doesn't exist."""
+    decade = decade_for(casename)
+    candidate = scanned_root / f"{decade}_scanned"
+    if candidate.exists():
+        return candidate
+    fallback = scanned_root / "19XXs_scanned"
+    fallback.mkdir(parents=True, exist_ok=True)
+    return fallback
+
+
+def pdf_path_for(casename: str, pdf_root: Path) -> Path | None:
+    """Locate the source PDF under pdf_root."""
+    stem = casename.replace(".txt", "")
+    decade = decade_for(stem)
+    candidate = pdf_root / decade / f"{stem}.pdf"
+    if candidate.exists():
+        return candidate
+    for d in ("1940s", "1950s", "1960s", "19XXs"):
+        c = pdf_root / d / f"{stem}.pdf"
+        if c.exists():
+            return c
+    return None
+
+
+# ---------------------------------------------------------------------------
+# Core extraction
+# ---------------------------------------------------------------------------
 
 def reextract_case(case_fname: str, pdf_path: Path, client, model: str,
-                   out_txt_dir: Path, out_json_dir: Path, overwrite: bool = False) -> dict:
+                   scanned_root: Path, overwrite: bool = True,
+                   dpi: int = 150) -> dict:
+    """
+    Re-extract one case: one API call per page, write to scanned/<decade>_scanned/.
+    Returns a status dict.
+    """
     stem = case_fname.replace(".txt", "")
-    txt_out = out_txt_dir / case_fname
-    json_out = out_json_dir / (case_fname + ".json")
-
-    if txt_out.exists() and json_out.exists() and not overwrite:
-        return {"case": case_fname, "status": "skipped (exists)"}
+    out_dir = scanned_subdir(scanned_root, stem)
 
     if not pdf_path.exists():
         return {"case": case_fname, "status": f"missing pdf: {pdf_path}"}
 
     n_pages = page_count(pdf_path)
-    per_page_text = [""] * n_pages
 
-    def _do_page(i):
+    def _do_page(page_num):
+        """Process a single page; returns (page_num, status_str)."""
+        out_file = out_dir / f"{stem}.pdf{page_num}.txt"
+        if out_file.exists() and not overwrite:
+            return page_num, "skipped"
         try:
-            b64 = encode_pdf_page(pdf_path, i + 1)
-            return i, ocr_page(client, model, b64, stem, i + 1, n_pages)
+            b64 = encode_pdf_page(pdf_path, page_num, dpi=dpi)
+            text = ocr_page(client, model, b64, f"{stem}.pdf{page_num}.txt")
+            out_file.write_text(text, encoding="utf-8")
+            return page_num, "ok"
         except Exception as e:
-            return i, f"[EXTRACTION ERROR: {e}]"
+            return page_num, f"error: {e}"
 
+    # Process pages in parallel (inner pool, 3 threads per case)
+    page_results = {}
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as ex:
-        for i, text in ex.map(_do_page, range(n_pages)):
-            per_page_text[i] = text
+        futures = {ex.submit(_do_page, p): p for p in range(1, n_pages + 1)}
+        for fut in concurrent.futures.as_completed(futures):
+            page_num, status = fut.result()
+            page_results[page_num] = status
 
-    combined = "\n\n".join(
-        f"{t}\n\n- page {i+1} -" for i, t in enumerate(per_page_text)
-    )
-    txt_out.parent.mkdir(parents=True, exist_ok=True)
-    txt_out.write_text(combined, encoding="utf-8")
+    errors = [f"p{p}:{s}" for p, s in sorted(page_results.items()) if s.startswith("error")]
+    skipped = sum(1 for s in page_results.values() if s == "skipped")
+    done = sum(1 for s in page_results.values() if s == "ok")
 
-    try:
-        meta = extract_metadata(client, model, combined, stem)
-    except Exception as e:
-        meta = {"_error": str(e)}
+    overall = "ok"
+    if errors:
+        overall = "partial" if done > 0 else "error"
+    elif skipped == n_pages:
+        overall = "skipped (all pages exist)"
 
-    json_out.parent.mkdir(parents=True, exist_ok=True)
-    json_out.write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
+    return {
+        "case": case_fname,
+        "status": overall,
+        "pages": n_pages,
+        "done": done,
+        "skipped": skipped,
+        "errors": errors,
+    }
 
-    return {"case": case_fname, "status": "ok", "pages": n_pages}
 
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
 
 def load_suspects(csv_path: Path, min_score: int, only: str | None, limit: int | None):
     with open(csv_path) as f:
@@ -165,45 +221,119 @@ def load_suspects(csv_path: Path, min_score: int, only: str | None, limit: int |
         rows = [r for r in rows if r["case"] == only]
     else:
         rows = [r for r in rows if int(r["score"]) >= min_score]
-    rows = [r for r in rows if r["pdf"]]
+    rows = [r for r in rows if r.get("pdf", "")]
     if limit:
         rows = rows[:limit]
     return rows
 
 
+def build_skip_set(skip_dirs: list[Path]) -> set[str]:
+    """Return set of case filenames already present in any of the given dirs."""
+    done = set()
+    for d in skip_dirs:
+        if d.exists():
+            done.update(os.listdir(d))
+    return done
+
+
 def main():
-    p = argparse.ArgumentParser()
-    p.add_argument("--keyfile", required=True, type=Path, help="JSON file with anthropic_api_key")
+    p = argparse.ArgumentParser(
+        description="Re-extract Blue Book suspects; overwrites scanned/ per-page txts."
+    )
+    p.add_argument("--keyfile", required=True, type=Path, help="JSON file with API key")
     p.add_argument("--suspects", type=Path, default=DEFAULT_SUSPECTS)
-    p.add_argument("--model", default="claude-opus-4-7")
+    p.add_argument("--pdf-root", type=Path, default=DEFAULT_PDF_ROOT,
+                   help="Root dir containing 1940s/, 1950s/, etc. subdirs with PDFs")
+    p.add_argument("--scanned-root", type=Path, default=DEFAULT_SCANNED_ROOT,
+                   help="Root dir containing 1940s_scanned/, etc. subdirs")
+    p.add_argument("--skip-if-in", nargs="+", type=Path, metavar="DIR",
+                   help="Skip cases whose filename already appears in these dirs "
+                        "(e.g. reextracted_claude/txt or a --done-dir). Can pass multiple dirs.")
+    p.add_argument("--done-dir", type=Path, metavar="DIR",
+                   help="After each successful case, write a marker file here so future "
+                        "runs can skip it via --skip-if-in. Created automatically if needed.")
+    p.add_argument("--model", default="claude-haiku-4-5-20251001")
+    p.add_argument("--dpi", type=int, default=150,
+                   help="DPI for PDF→image conversion (150 is safe; 300 may OOM)")
     p.add_argument("--min-score", type=int, default=3)
-    p.add_argument("--only", help="process only this specific case filename")
-    p.add_argument("--limit", type=int, help="cap number of cases")
-    p.add_argument("--workers", type=int, default=2, help="parallel cases")
-    p.add_argument("--overwrite", action="store_true")
+    p.add_argument("--only", help="Process only this specific case filename")
+    p.add_argument("--limit", type=int, help="Cap number of cases")
+    p.add_argument("--workers", type=int, default=2, help="Parallel cases")
+    p.add_argument("--overwrite", action="store_true", default=True,
+                   help="Overwrite existing page files (default: True for re-extraction)")
+    p.add_argument("--no-overwrite", dest="overwrite", action="store_false",
+                   help="Skip pages that already have output files")
     args = p.parse_args()
 
     keys = json.loads(args.keyfile.read_text())
-    client = anthropic.Anthropic(api_key=keys["anthropic_api_key"])
+    # Support both field names
+    api_key = keys.get("dontuse") or keys.get("anthropic_api_key")
+    if not api_key:
+        raise ValueError(f"No API key found in {args.keyfile} (tried 'dontuse', 'anthropic_api_key')")
+    client = anthropic.Anthropic(api_key=api_key)
 
-    out_txt = DEFAULT_TXT_DIR
-    out_json = DEFAULT_JSON_DIR
+    # Set up done-dir if requested
+    done_dir = args.done_dir
+    if done_dir:
+        done_dir.mkdir(parents=True, exist_ok=True)
+        # Auto-include done_dir in the skip set
+        skip_dirs = list(args.skip_if_in or []) + [done_dir]
+    else:
+        skip_dirs = list(args.skip_if_in or [])
+
+    # Build skip set from any --skip-if-in dirs (+ done_dir)
+    already_done = build_skip_set(skip_dirs)
+    if already_done:
+        print(f"Skipping {len(already_done)} cases already found in: "
+              f"{[str(d) for d in skip_dirs]}")
 
     suspects = load_suspects(args.suspects, args.min_score, args.only, args.limit)
-    print(f"Re-extracting {len(suspects)} cases using {args.model}")
+
+    # Filter out already-done cases BEFORE applying --limit so limit means "N new cases"
+    if already_done:
+        before = len(suspects)
+        suspects = [r for r in suspects if r["case"] not in already_done]
+        print(f"  {before - len(suspects)} skipped, {len(suspects)} remaining")
+
+    print(f"Re-extracting {len(suspects)} cases → {args.scanned_root}")
+    print(f"Model: {args.model}  DPI: {args.dpi}  Workers: {args.workers}  Overwrite: {args.overwrite}")
+    print()
+
+    # Resolve PDF paths at load time
+    cases = []
+    for r in suspects:
+        pdf = pdf_path_for(r["case"], args.pdf_root)
+        if pdf is None:
+            print(f"  [skip] no PDF found for {r['case']}")
+            continue
+        cases.append((r["case"], pdf))
+
+    print(f"  {len(cases)} cases with PDFs found\n")
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as ex:
         futures = {
-            ex.submit(reextract_case, r["case"], Path(r["pdf"]), client, args.model,
-                      out_txt, out_json, args.overwrite): r["case"]
-            for r in suspects
+            ex.submit(
+                reextract_case,
+                case_fname, pdf, client, args.model,
+                args.scanned_root, args.overwrite, args.dpi
+            ): case_fname
+            for case_fname, pdf in cases
         }
+        done_count = 0
         for fut in concurrent.futures.as_completed(futures):
+            case_fname = futures[fut]
             try:
                 result = fut.result()
-                print(f"  {result['status']}: {result['case']}")
+                done_count += 1
+                errs = f"  ERRORS: {result['errors']}" if result.get("errors") else ""
+                print(f"[{done_count:>3}/{len(cases)}] {result['status']:30s} {case_fname}{errs}")
+                # Write marker so future runs can skip this case
+                if done_dir and not result.get("errors"):
+                    (done_dir / case_fname).write_text("")
             except Exception as e:
-                print(f"  ERROR on {futures[fut]}: {e}")
+                print(f"[ERR] {case_fname}: {e}")
+
+    print(f"\nDone. Output in {args.scanned_root}")
 
 
 if __name__ == "__main__":

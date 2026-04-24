@@ -1,26 +1,34 @@
-The image does not contain any photographs. It appears to be a table or data sheet from a UFO report document, specifically from Project Blue Book. The text in the image is as follows:
+Proj# 59920 - STAR TUBE - TIME: 00092
 
-ALTITUDE PRESSURE TE. DIRES TICN DIST
-4217 549 25 21 250 12 
-4166 550 23 24 250 13
-4129 750 15 26 250 26
-3372 700 9 27 270 28
-3280 650 3 34 280 26
-4323 600 -3 39 280 28
-5000 550 -7 24 290 23
-5743 550 -9 18 300 24
-5550 450 -15 13 310 26
-7111 400 -23 13 290 22
-2560 380 -32 5 320 40
-3454 330 -39 7 320 14
-1239 255 -48 - 330 26
-4514 200 -65 - 330 48
-13278 175 -56 - 310 44
-13746 150 -61 - 300 35
-15426 135 -69 - 280 38
-17754 80 -68 - 280 33
-23594 50 -69 - 280 16
+SOUNDING # 1 LOCATION: Truth or Consequences, New Mexico DATE: APRIL 3, 1956
+
+HEIGHT | PRESSURE | TEMP | R.H. | DIRECTION | SPEED
+ft | mb | °C | % | ° | knots
+1447 | 850 | 25 | 21 | 250 | 12
+1944 | 800 | 20 | 24 | 250 | 23
+2430 | 750 | 15 | 26 | 250 | 26
+2972 | 700 | 9 | 27 | 270 | 28
+3589 | 650 | 3 | 34 | 280 | 26
+4323 | 600 | -3 | 39 | 280 | 28
+5000 | 550 | -7 | 24 | 290 | 28
+5745 | 500 | -9 | 18 | 300 | 24
+5550 | 450 | -15 | 18 | 310 | 25
+7431 | 400 | -23 | 15 | 290 | 22
+7339 | 350 | -29 | 12 | 280 | 19
+9431 | 300 | -39 | 23 | 290 | 14
+[illegible] | 250 | -48 | [illegible] | 320 | 26
+10114 | 200 | -50 | [illegible] | 340 | 48
+13193 | 175 | -56 | [illegible] | 310 | 44
+13746 | 150 | -61 | [illegible] | 300 | 35
+15088 | 125 | -64 | [illegible] | 300 | 50
+16426 | 100 | -69 | [illegible] | 230 | 38
+17754 | 80 | -68 | [illegible] | 280 | 38
+20594 | 50 | -63 | [illegible] | 250 | 16
 
 REMARKS:
-DATA SOURCE: USAF Upper-air History Files.
-ANALYST: TSgt Dunham
+
+DATA SOURCE: ETAC Upper-air History Files.
+
+ANALYST: TS+4 Dunham
+
+C-3

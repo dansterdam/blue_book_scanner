@@ -1,27 +1,82 @@
-There is no photograph present in this image. The image appears to be a page from an old document containing various topographical symbols and legend information.
-
 TOPOGRAPHICAL SYMBOLS
-CITIES AND TOWNS:
-Metropolitan Areas - NEW YORK
-Large Cities - RICHMOND
-Cities - ARLINGTON
-Small Cities - GRANVILLE
-Large Towns - CORINTH
-Towns & Villages - ARCOLA
 
-HIGHWAYS AND ROADS:
-Dual Lane and Super Highways
-Primary Roads
-Secondary Roads 
-Trails
-U.S. Road Markers
-National, State or Provincial Road Markers
+CITIES AND TOWNS                          HIGHWAYS AND ROADS
 
-RELIEF FEATURES:
-Contours, Revetments, Sand, Lava Flow
+Metropolitan Areas...............NEW YORK [symbol]    Dual Lane and Super Highways..............._______
 
-HYDROGRAPHIC FEATURES:
-Swamps & Marshes, Tidal Flats, Danger Line, Rocks Atwash, Shoals, Springs, Wells & Water Holes, Reefs, Coral & Rocky Ledges
+Large Cities .......................RICHMOND [symbol]   Primary Roads........................._______
 
-CULTURAL AND MISCELLANEOUS:
-Landmarks, Oil Tanks, Oil Fields, Dams, Elevations, Mines and Quarries, Mountain Passes, Lookout Stations, Pipe Lines, Railroads, Bridges, Tunnels, Stranded Wrecks
+Cities................................ARLINGTON [symbol]   Secondary Roads........................._______
+
+Small Cities..................................Freehold [symbol]   Trails ......................................___ ___ ___
+
+Large Towns....................................Corville [symbol]   U.S. Road Markers..................................[US symbol]
+
+Towns & Villages...................................Arcola o   National, State or..................................[shield symbol]
+                                                         Provincial Road Markers
+
+                                                    Road Names...................................ALASKA HIGHWAY
+
+
+RELIEF FEATURES
+
+                    Elevation                        Sand    Areas...............................
+Contours    Approximate intervals                          Ridge..............................
+            At a glance     In general area          Lava Flow...........................[symbol]
+
+Levees or Eskers.........................
+Hatching.................................
+Bluffs, Cliffs & Escarpments ..........
+
+
+HYDROGRAPHIC FEATURES
+
+Swamps & Marshes..........................[symbol]              Perennial.............................
+                                                             Intermediate..........................
+Tidal Flats                                        Streams & Rivers    Probable or........................
+(Exposed at low tide)                                         Unsurveyed
+                                                             Braided...............................
+Danger Line...............................
+                                                    Intermittent Lakes (Show stipple)...............[symbol]
+Rocks Awash .............................
+                                                    Drainage Ditches..........................
+Shoals.....................................
+(Exposed at low tide)                              Canals    In use.................................
+                                                             Abandoned............................_________
+Springs...................................
+
+Wells & Water Holes.......................    *     Dry Lake Beds (brown stipple)................[symbol]
+
+Reefs, Coral & Rocky Ledges..........             Sand Deposits in river bed.................
+(Awash at low tide)                               Dry Washes (brown stipple)..................
+
+                                                    Glaciers and Ice Caps......................[symbol]
+
+CULTURAL AND MISCELLANEOUS
+
+Landmarks (with approval)                         Boundaries    International......................._ _ _ _
+(Diamonds indicate elevation above sea level of top)              State & Provincial................._ _ _ _
+
+Oil Wells.............................    ⊗       
+Oil Fields.............................    ⊗ ⊗ ⊗    Abandoned or..................... + _ + _ + _
+                                                    Under Construction
+Dams.....................................________    Single Track.............................
+
+                                                    Railroads    Multiple Track.......................
+            Highest on chart           x1115'
+Elevations    Highest in a general area   x1088'               Sidings & Spurs.......................
+(in feet)    Lowest shown               x 982'
+                                                             Crossings............................
+Mines and Quarries.......................  ⊗
+                                                             Underpass.............................
+Mountain Passes".........................)  (
+
+Lookout Stations (elevation is base of tower)    & 7510'
+                                                    Bridges    Highway............................
+Coast Guard Stations......................  ⊗ G
+                                                             Railroad...........................
+Pipe Lines.............................  OIL GAS
+                                                    Tunnels    Highway............................
+Race Tracks or Stadiums.................  - - ∞
+
+Stranded Wrecks..........................[symbol]

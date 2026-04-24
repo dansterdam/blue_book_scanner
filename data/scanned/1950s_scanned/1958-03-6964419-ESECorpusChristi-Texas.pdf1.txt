@@ -1,14 +1,48 @@
-There is no photograph present in this image. It appears to be a page from a Project Blue Book record card, which contains various information fields about a UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE
-2. LOCATION: ESECorpus Christi, Texas
-3. DAY-TIME GROUP: 1/15/1958, 0:30-0:32
-4. TYPE OF OBSERVATION: Ground-Visua
-5. SOURCE: Military
-6. NUMBER OF OBJECTS: 1
-7. LENGTH OF OBSERVATION: 2-3 minutes
-8. NUMBER OF OBJECTS: 1
-9. BRIEF SUMMARY OF SIGHTING: The object was a bluish-white color, about the size of a lime, climbing upward in a straight course. The object was observed for 2-3 minutes and then disappeared to the northeast.
-10. CONCLUSIONS: Possibly Balloon, Probably Balloon
-11. COMMENTS: Description indicates object could have been a star, the moon, or possibly a balloon.
+
+1. DATE: 14 Mar 58
+
+2. LOCATION: ESE Corpus Christi, CONCLUSIONS
+2. Three Rivers, Texas
+3. San Antonio, Texas
+
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+
+3. DATE-TIME GROUP: 4. TYPE OF OBSERVATION
+Local_________________ [ ] Ground-Visual [ ] Ground-Radar
+GMT 15/0130, 0230, 0235 [X] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS: 6. SOURCE
+[ ] Yes Military
+[X] No
+
+7. LENGTH OF OBSERVATION: 8. NUMBER OF OBJECTS: 9. COURSE
+1 sec 1 one descending
+
+10. BRIEF SUMMARY OF SIGHTING: 11. COMMENTS
+
+1. Circular obj, glowing bluish-white Description indicates obj was a
+color, about size of dime fm position meteor. Corpus Christi & other
+observed, obj disintegrated & parts sightings at 2030 local. All
+continued downward. The glowing bluish three sightings of same
+white color seemed to trail obj until obj.
+merging with color of sky.
+
+2. Red, orange blue & white obj, size
+of grapefruit.
+
+3. Darker, shaped obj, size of banana,
+red color, had exhaust. Seemed to
+be disintegrating.
+
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 26 JNP 53)

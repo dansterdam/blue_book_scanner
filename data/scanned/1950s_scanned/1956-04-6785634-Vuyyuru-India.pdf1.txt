@@ -1,14 +1,53 @@
-The image does not appear to contain any photographs. It is a page from a Project Blue Book record card that includes information about a UFO sighting.
-
 PROJECT 10073 RECORD CARD
+
 1. DATE: 27 April 1956
+
 2. LOCATION: Vuyyuru, India
-3. DATE-TIME GROUP: 27/1500Z
-4. TYPE OF OBSERVATION: SE Ground-Visual
-5. DURATION: 22 Seconds
-6. NUMBER OF OBJECTS: 5
-7. LENGTH OF OBSERVATION: 22 Seconds
-8. BRIEF SUMMARY OF SIGHTING: Cigar shaped objects. No noise - luminous color: Triangular formation. Speed estimated at 200 mph. Objects with luminous trail.
-9. COURSE: S then ESE
-10. COMMENTS: Bolide observation.
-11. CONCLUSIONS: Probably Balloon Possibly Balloon Possibly Aircraft Probably Astronomical Meteor Possibly Astronomical Unknown Insufficient Data for Evaluation
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[X] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical Meteor
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Unknown
+[ ] Insufficient Date for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP:
+Local _______________
+27/1500Z
+
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS:
+[ ] Yes
+[X]No
+
+6. SOURCE:
+Civilian
+
+7. LENGTH OF OBSERVATION:
+22 seconds
+
+8. NUMBER OF OBJECTS:
+five
+
+9. COURSE:
+S then ESE
+
+10. BRIEF SUMMARY OF SIGHTING:
+Cigar shaped objects. No noise - luminous color. Triangular formation. Speed estimated at 200 mph. Objects with luminous tail.
+
+11. COMMENTS:
+Bolide observation.
+
+ATIC FORM 329 (REV 26 SEP 52)

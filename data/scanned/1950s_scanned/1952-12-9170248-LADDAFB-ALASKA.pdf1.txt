@@ -1,15 +1,56 @@
-The image does not contain a photograph. It appears to be a project record card from Project 10073, documenting a sighting that occurred on December 6, 1952 at Ladd AFB in Alaska.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 6 DEC 52
-2. LOCATION: LADD AFB, ALASKA
-3. CATEGORY OF OBSERVATION: Visual
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: No
-6. WEATHER CONDITIONS: Air-Visual
-7. BRIEF SUMMARY OF SIGHTING: White oval shaped object (light) traveled at a 3 to 600 milers per hour. Object appeared to change from white to red to white to red to white again and took up a 180 degree heading gaining speed until it disappeared as if falling to the earth.
-8. NUMBER OF OBJECTS: One
-9. COURSE: -
-10. DURATION: 30 MINUTES
-11. COMMENTS: 1. Too long for a meteor. 2. No A/C were reported in area.
-13. CONCLUSIONS: A - Probably Balloon, B - Possibly Balloon, C - Was Not Aircraft, D - Possibly Aircraft
+
+1. DATE
+8 Dec 52
+
+2. LOCATION
+LADD APB, ALASKA
+
+3. DATE-TIME GROUP
+used 1200Z AST
+2-T 9/0516 &
+
+4. TYPE OF OBSERVATION
+[ ] Ground-Visual
+[X] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+AF PILOT & RADAR OBS
+
+7. LENGTH OF OBSERVATION
+10 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+VEW
+
+[checkmark] 12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other _______________
+[X] Insufficient Data for Evaluation
+[ ] Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+White oval shaped object (light) traveled at a considerable speed on straight course on a 210° heading. Obj appeared to change from white to red as if atmosphere had something to do with it as it gained altitude. Obj then took up a 160° heading gaining speed until it appeared as falling star falling to the earth.
+
+11. COMMENTS
+1. Too long for a meteor.
+2. No a/c were reported in area.
+
+ATIC FORM 329 (REV 1-52 JUN 52)

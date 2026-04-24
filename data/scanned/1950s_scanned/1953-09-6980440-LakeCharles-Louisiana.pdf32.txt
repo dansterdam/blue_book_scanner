@@ -1,34 +1,87 @@
-The image does not contain any photographs. It appears to be a page from a document that provides a legend or key for various topographical symbols used in maps, such as symbols for cities, roads, hydrographic features, cultural and miscellaneous features. The text in the document is as follows:
-
 TOPOGRAPHICAL SYMBOLS
-CITIES AND TOWNS	HIGHWAYS AND ROADS
-Metropolitan Area: NEW YORK	Dual Lane and Super Highways
-Large Cities: RICHMOND	Primary Roads
-Cities: ARLINGTON	Secondary Roads
-Small Towns: Carlsville	Trails
-Large Towns: Carlsville	U. S. Road Markers
-Towns & Villages: Areas	National, State or
-	Provincial Road Markers
-RELIEF FEATURES	Road Signs
-Contours: Reliable, Intermediate, supplementary	HYDROGRAPHIC FEATURES
-Cliffs & Escarpments 	Perennial
-Swamps & Marshes	Intermittent
-Tidal Flats (Covered at high tide)	Streams & Rivers
-Danger Line	Intermittent Lakes (Dry in Summer)
-Rocks Awash	Drainage Ditches
-Shoals (Danger at low tide)	Canals
-Springs	Dry Lake Beds (Known Samples) 
-Wells & Water Holes	Sand Deposits (in river beds)
-Reefs, Coral & Rocky Ledges	Dry Washes (Known samples)
-	Glaciers and Ice Caps
+
+CITIES AND TOWNS                                          HIGHWAYS AND ROADS
+
+Metropolitan Areas...............NEW YORK ⊗         Dual Lane and Super Highways....................__________
+
+Large Cities .......................RICHMOND ⊗       Primary Roads.....................................____________
+
+Cities .....................................ARLINGTON ⊗    Secondary Roads.....................................____________
+
+Small Cities.......................................Frehold ⊗    Trails ..................................................___ ___ ___
+
+Large Towns.........................................Carvile □    U. S. Road Markers..................................[25]
+
+Towns & Villages......................................Arcola o    National, State or ....................................[17]
+                                                                Provincial Road Markers
+
+                                                                Road Names.................................ALASKA HIGHWAY
+
+RELIEF FEATURES
+
+                    Reliable...........................      Dam ...................................................
+Contours  Approximate.................       Sand  Areas............................................ [dotted pattern box]
+           Doubtful..................                     Ridges...........................................
+
+Levees or Eskers.........................      
+Hachures                                                  Lava Flow ...........................................[dotted pattern box]
+
+Bluffs, Cliffs & Escarpments....................
+
+
+HYDROGRAPHIC FEATURES
+
+Swamps & Marshes...........................      Perennial ...............................
+                                                Streams & Rivers  Intermittent..................
+Tidal Flats ...............................                     Probable or
+(Exposed at low tide)                                         Unsurveyed..................
+                                                              Braided ......................
+
+Danger Line...............................      
+                                                Intermittent Lakes (blue stipple)...................
+
+Rocks Awash ..............................      Drainage Ditches..................................
+
+Shoals.....................................      Canals  [In use .......................................
+(Exposed at low tide)                                    [Abandoned...............................
+
+Springs ...................................      Dry Lake Beds (brown stipple)........................
+
+Wells & Water Holes.......................      Sand Deposits in river bed.........................
+
+Reefs, Coral & Rocky Ledges................      Dry Washes (brown stipple)...........................
+(Awash at low tide)
+                                                Glaciers and Ice Caps..............................
+
+
 CULTURAL AND MISCELLANEOUS
-International Boundaries (State & Provincial)
-Abandoned or Under Construction
-Railroads: Multiple Track, Single Track, Overpasses
-Tunnels
-Mines and Quarries
-Mountain Passes
-Lookout Stations (Located at base of tower)
-Pipe Lines
-Aqueducts
-Standard Wrecks
+
+Landmarks (with appropriate note)...........      Boundaries  [International ......................
+(Numerals indicate elevation above sea level of top)           [State & Provincial..............
+
+Oil Fields.................................      
+Oil Fields...................................      [Abandoned or.......................
+                                                          [Under Construction
+Dams.........................................                Single Track .......................
+
+                     [Elev on chart ...........................1115   Railroads  [Multiple Track ......................
+Elevations  [Approx., or chart in general area...1085            [Sidings & Spurs ..................
+(in feet)   [Chart in a general area ...................950        [Overpasses .......................
+                                                                   [Underpasses .......................
+
+Mines and Quarries.........................      
+
+Mountain Passes.............................     Bridges ............................
+
+Lockout Stations (elevation in feet of lowest)..      [Overhead
+                                                      [Drawbridges ........................
+
+Water Level Elevations......................      
+                                                Tunnels  [Highway.........................
+Pipe Lines.................................      
+
+Race Tracks or Stadia......................      
+
+Stranded Wrecks............................      
+
+                                                                                           8-73-42

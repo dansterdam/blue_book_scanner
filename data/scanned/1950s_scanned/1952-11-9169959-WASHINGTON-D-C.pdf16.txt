@@ -1,17 +1,28 @@
-The image contains a diagram with various labels and measurements. There is no photograph present in this image.
+[stamp: SECURITY INFORMATION CLF]
 
-SECURITY INFORMATION GLF
-INTEL IS FD-HIS
-*TARE 30-1752 
-*Object was between the clouds + apparently stationary motion 
-0-47 (25 notes tnue) with which the observer is familiar 
-Object disappeared at angle of 50° 
+Incl 2
+ATIC 24-25-52
+
+Stars visible, clear night. Object was between the
+stars and City of Wichita. Due to erratic movement, speed
+cannot be estimated. It was considerably faster than a
+B-47 (425 knots true) with which the observer is familiar
+
+Object disappeared at angle of 50°
 to horizon and to observer, trailing
-red-orange glow
-Erratic flight path here
-20° 
-HORIZON
-Flight path of observed aircraft 
-lights blinking, steady flight path
-70°
-OBSERVER
+red-orange glow.
+
+Erratic flight path here          Hovered here
+
+[DIAGRAM showing:]
+- Horizon line at bottom
+- "HORIZON" label on left
+- Angles marked: "20°" and "40°"
+- "CITY OF WICHITA" label with dark silhouette
+- Flight path arrows showing "Erratic flight path here" at top
+- Dashed line showing "Hovered here"
+- North arrow (N) at top right
+- "OBSERVER" label with angle marking at bottom right
+- Text: "Flight path of observed aircraft, lights blinking, steady flight path."
+
+[stamp: GLF]

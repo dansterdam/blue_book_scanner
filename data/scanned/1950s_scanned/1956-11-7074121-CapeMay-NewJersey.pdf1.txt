@@ -1,12 +1,54 @@
-The image does not contain any photograph. It appears to be a Project 10073 record card filled out with handwritten details about a UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 19 November 1956
-3. LOCATION: Cape May, New Jersey
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: Yes
-7. LENGTH OF OBSERVATION: 60 to 120 seconds
-8. NUMBER OF OBJECTS: One
-9. COURSE: NE to SW
-10. BRIEF SUMMARY OF SIGHTING: One large, white ball, 20 feet in diameter or the size of a volleyball, left a bluish trail in the air unlike a rocket. The object was seen in a trajectory arc and disappeared into woods at visible distance after having been seen for 10 to 15 seconds.
-11. COMMENTS: Description, duration, path and manner of disappearance indicate sighting was caused by a meteor.
+
+1. DATE
+19 November 1956
+
+2. LOCATION
+Cape May, New Jersey
+
+12. CONCLUSIONS
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP
+Local
+GMT     19/0610Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+ten to fifteen seconds
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+NE to SW
+
+10. BRIEF SUMMARY OF SIGHTING
+One large blue fire ball, 20 feet in diameter or the size of a volleyball at half a mile. Object left a bluish trail. Object left, or there was, an indescribable odor in the air unlike ozone burning. Object moved high and fast. Object was seen in a trajectory arc NE to SW. Object disappeared into woods at visible range after having been seen for 10 to 15 seconds.
+
+11. COMMENTS
+Description, duration, flight path and manner of disappearance indicate sighting was caused by a meteor.
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,37 +1,159 @@
-The image contains a page from a document titled "TOPOGRAPHICAL SYMBOLS" that provides information about various geographic and cultural features, such as cities and towns, highways and roads, relief features, hydrographic features, and cultural and miscellaneous symbols. There does not appear to be any photograph included in this particular page.
-
-Performing OCR on the text in the document, the output is as follows:
-
 TOPOGRAPHICAL SYMBOLS
-CITIES AND TOWNS	HIGHWAYS AND ROADS
-Metropolitan Areas.........NEW YORK	Dual Lane and Single Highways
-Large Cities..................RICHMOND	Primary Roads
-Cities...........................ARLINGTON	Secondary Roads
-Small Cities.................Freehold	Trails
-Large Towns.....................Danville	U. S. Road Markers
-Towns & Villages.................Ewing	National, State or
-RELIEF FEATURES	Provincial Road Markers
-Contours (Reliefs 4000')	Road Names
-Lakes or Ponds	HYDROGRAPHIC FEATURES
-Marshes or Swamps	Swamps & Marshes
-Bluffs, Cliffs & Escarpments	Tidal Flats
-Danger Line	(Exposed at Low Tide)
-Rocks Awash	Streams & Rivers
-Shoals	Intermittent Lakes (Show Stipple)
-Springs	Drainage s Ditches
-Wells & Water Holes	Canals (In Land)
-Sand, Gravel & Boulders	Dry Lake Beds (Shown Stippled)
-Landmarks (with appropriate notes)	Sand Deposits in river bed
-Oil Fields	Dry Washes (Shown Stippled)
-Elevations	Glaciers and Ice Caps
-(In Feet)	CULTURAL AND MISCELLANEOUS
-Mines and Quarries	Boundaries
-Mountain Passes	International
-Lookout Stations	State & Provincial
-Coast Guard Stations	National Boundaries
-Pipe Lines	Railroads
-Race Tracks or Stadiums	Sidings & Spurs
-Stranded Wrecks	Underpasses
-Bridges (Railroad)
-Tunnels (Railroad)
-Overhead
+
+CITIES AND TOWNS
+
+Metropolitan Area.................NEW YORK [symbol]
+
+Large Cities.......................RICHMOND [symbol]
+
+Cities...............................ARLINGTON [symbol]
+
+Small Cities..................................Freehold [symbol]
+
+Large Towns.......................................Coraville ☐
+
+Towns & Villages.....................................Arcola ●
+
+HIGHWAYS AND ROADS
+
+Dual Lane and Super Highways................___________
+
+Primary Roads.................................___________
+
+Secondary Roads.................................___________
+
+Trails ................................._____ _ _ _ ___
+
+U. S. Road Markers.............................[US shield]
+
+National, State or..........................[shield]
+Provincial Road Markers
+
+Road Names.....................................ALASKA HIGHWAY
+
+RELIEF FEATURES
+
+Contours {Reliable
+{Approximate
+{Depressions
+
+[hatched pattern shown]
+
+Hachures Showing
+Hachures,
+Bluffs, Cliffs & Escarpments
+
+Sand {Dunes......................................[dotted pattern]
+
+{Ridges.......................................
+
+Lava Flow.......................................
+
+[lava flow pattern shown]
+
+HYDROGRAPHIC FEATURES
+
+Swamps & Marshes.................................
+
+[marsh pattern shown]
+
+Tidal Flats
+(Exposed at low tide)
+
+{Perennial ................................[line pattern]
+
+Streams & Rivers {Intermittent...................
+
+{Probable or............
+{Unconfirmed
+
+{Unsiked
+
+Danger Line........................ _ _ _ _ _ _
+
+Intermittent Lakes (When stipple)...............[symbol]
+
+Rocks Awash ...................................[dotted pattern]
+
+Drainage Ditches...............................
+
+Shoals
+(Exposed at low tide)
+
+{In use......................................
+
+Canals {Abandoned.............................___________
+
+Springs.......................................●
+
+Dry Lake Beds (Brown stipple)..................[symbol]
+
+Wells & Water Holes.............................* •
+
+Sand Deposits in river bed.....................
+
+Reefs, Coral & Rocky Ledges
+(Awash at low tide)
+
+Dry Washes (Brown stipple)......................
+
+Glaciers and Ice Caps...........................
+
+[glacier pattern shown]
+
+CULTURAL AND MISCELLANEOUS
+
+Landmarks (with appropriate note)...........5 1405' 9'/5"
+(Steeples indicate elevation at top of spire)    ⊕ Stm
+
+Oil Fields.....................................● ● ● ●
+
+Oil Wells......................................∧ ∧
+
+Dams............................................
+
+[dam symbol shown]
+
+⊕ 1115
+
+Elevations {Highest on chart
+(in feet) {Highest in immediate vicinity of place
+{Highest in a general area....................⊕ 1088
+{Bench mark.................................⊕ 980
+
+Mines and Quarries.............................⊗
+
+Mountain Passes................................)(
+
+Lookout Stations (Elevation is base of tower).... ⊕ 75(msl)
+                                                    1025 (Elev)
+
+Coast Guard Stations.............................● CG 78
+
+Pipe Lines.....................................PIPE LINE
+
+Race Tracks or Stadiums........................├—— ——┤
+
+Stranded Wrecks.................................
+
+[wreck symbol shown]
+
+Boundaries {International......................._ _ _ _
+{State & Provincial..........._ _ _ _
+
+{Abandoned or
+{Under Construction...................—╪—┬—╪—╪
+{Single Track...........................╪
+Railroads {Multiple Track.......................●———●———●
+{Sidings & Spurs........................
+{Overpass.................................╞════════╡
+{Underpass.................................╞════════╡
+
+{Railroad.................................╪═══════╪═══════╪
+Bridges {Highway..............................━━━━━━━
+         ╪═══════╪═══════╪
+
+{Railroad.................................╪———╪———╪
+Tunnels {Highway.............................━━━━━━
+
+3-25-53

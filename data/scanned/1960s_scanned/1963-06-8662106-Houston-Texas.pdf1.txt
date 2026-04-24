@@ -1,14 +1,39 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book record card, which is a document used to record details about UFO sightings.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 16 June 1963
+
+1. DATE: 14 June 1963
+
 2. LOCATION: Houston, Texas
-3. DATE-TIME GROUP: GMT 21:56/06 25/63
-4. TYPE OF OBSERVATION: Ground-Radar
-5. CAUSE: Unknown
-6. SOURCE: Civilian/Visual
-7. LENGTH OF OBSERVATION: 33 minutes
-8. NUMBER OF OBJECTS: One (1)
-9. COURSE: Satellite ECHO I
-10. BRIEF SUMMARY OF SIGHTING: Objects observed to move from 8 degrees of Polaris to 20 degrees elevation heading NE. Faded after 3 minutes observation. Moved 60 degrees to original position. Lost from sight due to darkness. Speed rapid, but much slower than meteor. Appeared to stop twice. Intensity seemed to fluctuate.
-11. COMMENTS: Satellite ECHO I passed Houston North of the city at 21:56 GMT on 25 June 1963 at 23 degrees elevation heading NE as discussed in the text. Analysis.
+
+3. DATE/TIME GROUP: Local GAT 15/03572
+
+4. TYPE OF OBSERVATION: [X] Ground-Visual [ ] Ground-Radar [ ] Air-Visual [ ] Air-Intercept Radar
+
+5. SOURCE: civilian
+
+6. PHOTOS: [ ] Yes [X] No
+
+7. LENGTH OF OBSERVATION: 3½ minutes
+
+8. NUMBER OF OBJECTS: one (1)
+
+9. COURSE: Curve NE
+
+10. BRIEF SUMMARY OF SIGHTING: Object observed to move from S of Polaris to NE. Duration 3½ minutes observation. Moved through arc from original position to point below pointer stars in dipper. (toward Draco) Speed rapid, but much slower than meteor. Appeared to stop twice. Intensity seemed to fluctuate.
+
+11. COMMENTS: Satellite ECHO I passed Houston North of the city at 30 deg elevation heading NE at 15/0346Z. Direction of flight and position of object in accord with this analysis.
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Probably Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other Satellite ECHO I
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 24 AUP 52)

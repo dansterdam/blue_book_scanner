@@ -1,15 +1,22 @@
-The image does not contain a photograph. It appears to be a project record card from Project 10073. The text on the card describes the details of the case, including the location (Washington, D.C.), the date (30 Nov 52), and various observations about the radar operators' sightings, such as "Radar which had normal A/C characteristics with exception of sporadic appearance and disappearance" and "Adiabatic charts coming from Wash. Radar sighting from Control Center on 15 Jul and 26 Jul 52".
+PROJECT 10073 RECORD CARD NO [illegible]
 
-Project 10073 Record Card
-30 Nov 52
-Location: WASHINGTON, D.C.
-Type of Observation: Radar
-Conclusions:
-1. Radar Tracking
-2. Visual Sighting
-Radar Operators:
-Numerous
+1. DATE                                2. LOCATION                           13. CONCLUSIONS
+30 Nov 52                             WASHINGTON, D.C.                       [ ] Was Balloon
+                                                                             [ ] Probably Balloon
+3. DATE TIME GROUP                    4. TYPE OF OBSERVATION                 [X] Was Aircraft
+Exact 30/0530Z                        [ ] Ground-Visual                      [ ] Probably Aircraft
+Appx. 30/0530Z                        [X] Ground Radar                       [ ] Was Astronomical
+                                      [ ] Air-Visual                         [ ] Probably Astronomical
+7. LENGTH OF OBSERVATION              [ ] Air Intercept Radar                [ ] Was Astronomical
+2 hrs                                                                        [ ] Probably Astronomical
+                                      6. SOURCE                              
+8. NUMBER OF OBJECTS      5. NUMBER OF OBJECTS  7. COURSE                    [X] [illegible text or strikethrough]
+Indefinite              Numerous
 
-Radar which had normal A/C characteristics with exception of sporadic appearance and disappearance were seen on radar from Wash. National Airport. Object could not be sighted visually.
+9. CONCLUSION
+Radar blips which had normal a/c characteristics with exception of sporadic appearance and disappearance, were seen on radar from "Wash. National Airport. Object could not be sighted visually.
 
-No temperature inversions present. Adiabatic charts coming from Wash. Radar sighting from Control Center on 15 Jul and 26 Jul 52.
+1. No temperature inversions present. Adiabatic charts coming from Maj Fournier.
+2. Source states blips very similar to Wash. Radar sightings from Control Center on 19 Jul and 26 Jul 52.
+
+ATIC FORM 329 (REV. 23 JUL 51)

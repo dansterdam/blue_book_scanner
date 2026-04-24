@@ -1,13 +1,48 @@
-The image does not contain any photograph, only a record card from Project 10073.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 13 Feb 59
-2. LOCATION: 9-10 mi N of Pageland and Shaw AFB
-3. DATE-TIME GROUP: Last # of DATE 9
-4. TYPE OF OBSERVATION: D Ground-Radar
-5. DURATION: 5 min
-6. NUMBER OF OBJECTS: 1
+
+1. DATE: 11 Feb 59
+
+2. LOCATION: 0-10 Mi N of Pageland and Shaw AFB, S.C.
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical (Meteor)
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Date for Evaluation
+[ ] Unidentified
+
+3. DATE-TIME GROUP:
+Local_______________
+GMT: 11/0200 & 0315Z
+
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS:
+[ ] Yes
+[X] No
+
+6. SOURCE:
+USAF/Army & Civilian
+
 7. LENGTH OF OBSERVATION: 5-30 sec
-8. NUMBER OF OBJECT/S: One
-9. BRIEF SUMMARY OF SIGHTING: Round ball with tail, size of grape fruit. Ball was white, tail was blue-green. Obj very bright and lit up entire area. Ball appeared to come from general area, no sound. Obj moving very fast, no sound.
-10. CONCLUSIONS: Was large meteor. Possibly Balloon. Was Astronomical. Other, Unknown (Meteor?)
+
+8. NUMBER OF OBJECTS: one
+
+9. COURSE: SW
+
+10. BRIEF SUMMARY OF SIGHTING:
+Round ball with tail, size of grapefruit. Ball was white, tail was blue-red. Obj very bright and lit up entire area. Tail appeared to come from center rather than edge of ball. No sound. Obj moving very fast.
+
+11. COMMENTS:
+No doubt a very large meteor. Reported from 6 sources in same general area.
+
+ATIC FORM 329 (REV 28 SEP 52)

@@ -1,27 +1,45 @@
-The provided image does not contain any photographs, only a Project 10073 Record Card form. I will now act as an OCR system and produce the text found in the document:
-
 PROJECT 10073 RECORD CARD
-1. DATE
-2 Mar 61
-2. LOCATION 
-Cincinnati, Ohio
-3. DATE-TIME GROUP
-2005002
-4. TYPE OF OBSERVATION
-Ground-Visual
-5. PHOTOS
-None
 
-6. DURATION
-30-60 sec
-7. LENGTH OF OBSERVATION
-30-60 sec
+1. DATE: 2 Mar 61
 
-8. NUMBER OF OBJECTS 
-1
+2. LOCATION: Cincinnati, Ohio
 
-9. COURSE
-SE to NW
-10. BRIEF SUMMARY OF SIGHTING:Light green object with smoke trailing behind. Appeared to be an airplane at 5000'. Disappeared over the horizon.
+12. CONCLUSIONS:
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-11. COMMENTS:Description of object is character istic of a craft one would expect to be an aircraft. However, witness stated it was not an aircraft and as it seemed to disappear over the horizon, this was most likely case here. Other reports in this area indicated Cincinnati area frequently reports this type of observation.
+3. DATE-TIME GROUP: Local 1230
+GMT 0300202
+
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual
+[ ] Ground-Radar
+[ ] Air-Visual
+[ ] Air-Intercept Radar
+
+5. PHOTOS:
+[ ] Yes
+[X] No
+
+6. SOURCE: Civilian
+
+7. LENGTH OF OBSERVATION: 30-60 sec
+
+8. NUMBER OF OBJECTS: 1
+
+9. COURSE: S-NE
+
+10. BRIEF SUMMARY OF SIGHTING: Light green objt with ground nose, and smoke trailing behind. Appear-ently bigger than an airplane at 5000'. Disappeared over horizon.
+
+11. COMMENTS: Description of objt is char-acteristic of metoro. Reported duration is excessive for metoro; however, wit-ness said it was only a guess. Normal tendency is to overestimate, which was most likely case here. Other reports fm same area witnessed this objt. Dayton, Richmond, Indiana and Cincinnati.
+
+ATIC FORM 329 (REV 26 SEP 57)

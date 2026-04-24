@@ -1,25 +1,45 @@
-The image appears to be a page from a Project Blue Book record. There is no photograph visible in this image.
-
-Transcribing the text from the document:
-
 PROJECT 10073 RECORD
-1. DATE TIME GROUP
-: 0315 13
+
+1. DATE - TIME GROUP
+1 Oct 65    2430Z
+
 2. LOCATION
-: Stone Harbor, New Jersey
-10. CONCLUSION
-: INSUFFICIENT DATA FOR EVALUATION
+Stone Harbor, New Jersey
+
+3. SOURCE
+Civilian
+
 4. NUMBER OF OBJECTS
-: One
+One
+
 5. LENGTH OF OBSERVATION
-: 15 MINUTES
+15 minutes
+
 6. TYPE OF OBSERVATION
-: Ground Visual
+Ground Visual
+
+7. COURSE
+SW-NW-S
+
 8. PHOTOS
-: 0 Yes
-: 30 No
+[ ] Yes
+[X] No
+
 9. PHYSICAL EVIDENCE
-: 0 Yes
-: X No
-FORM 
-FTD SEP 49 0-329 (TDE) Previous editions of this form may be used.
+[ ] Yes
+[X] No
+
+10. CONCLUSION
+INSUFFICIENT DATA FOR EVALUATION
+
+11. BRIEF SUMMARY AND ANALYSIS
+SEE CASE FILE
+
+[Box containing stamp and handwritten text:]
+[stamp: REFERRED TO]
+[handwritten: K-2306-1
+OC
+65]
+
+FORM
+FTD SEP 63 0-329 (TDE)   Previous editions of this form may be used.

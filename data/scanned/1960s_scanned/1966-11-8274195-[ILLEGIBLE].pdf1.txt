@@ -1,21 +1,39 @@
-The image appears to be a page from a document related to Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs). There is no photograph present in this particular image.
+1. DATE ; TIME GROUP
+15 Nov 66        06202
 
-Performing optical character recognition (OCR) on the text in the image, the output is as follows:
+3. SOURCE
+Civilian
 
-15 NOV 66 06202
-CIVILIAN
-1. NUMBER OF OBJECTS
+4. NUMBER OF OBJECTS
 One
+
 5. LENGTH OF OBSERVATION
 30 minutes
+
 6. TYPE OF OBSERVATION
-Ground Visual (GR)
+Ground Visual      (BX)
+
 7. COURSE
 N/A
+
 8. PHOTOS
-NO
+☐ Yes
+☒ No
+
 9. PHYSICAL EVIDENCE
-NO
-ITEM FORM (U.S. AIR FORCE) FORM 1 OCT 63 0-329 (TDE) - Previous editions of this form may be used.
+☐ Yes
+☒ No
+
+2. LOCATION
+Minneapolis, M
+
 10. CONCLUSION
-INSUFFICIENT DATA EVALUATION
+INSUFFICIENT DATA - VS EVALUATION
+
+11. BRIEF SUMMARY AND ANALYSIS
+SEE CASES
+
+[handwritten: appears to be stamped/marked box with illegible handwritten annotations in upper right corner of the form]
+
+FORM
+FTD SCP 63 0-329 (TDE)  Previous editions of this form may be used.

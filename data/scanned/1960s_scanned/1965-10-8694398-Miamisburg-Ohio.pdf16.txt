@@ -1,23 +1,39 @@
-The image does not contain any photographs, only a document with text. As requested, I will act as an OCR system and produce the text found in the document:
-
 PROJECT 10073 RECORD
-1. DATE - TIME GROUP 2. LOCATION
-28 October 65 28/1922 Miamisburg, Ohio
-3. SOURCE 10. CONCLUSION
-Civilian Astro (VENUS)
+
+1. DATE - TIME GROUP
+28 October 65  28/1920Z
+
+2. LOCATION
+Miamisburg, Ohio
+
+3. SOURCE
+Civilian
+
+10. CONCLUSION
+Astro (VENUS)
+
 4. NUMBER OF OBJECTS
 One
+
 5. LENGTH OF OBSERVATION
-25 minute s
+25 minutes
+
+11. BRIEF SUMMARY AND ANALYSIS
+Object appeared as a light, was brighter than a bright gold when viewed through binoculars. Looked like a huge star. It round off like a round ball when viewed at with both binoculars and telescope. With out th with of the binoculars the object had jagged edges. Appeared to float out of sight b behind a group of trees. Stationary. Mother of the observer saw a similar object two weeks prior. Binoculars were used.
+
 6. TYPE OF OBSERVATION
-Ground-Visual (EX, TX)
+Ground-Visual (EX,TX)
+
 7. COURSE
 West
-8. PHOTOS
-None
-9. PHYSICAL EVIDENCE
-No
 
-BRIEF SUMMARY AND ANALYSIS
-Object appeared as a light, was brighter than a bright gold when viewed through binoculars. Looked like a huge star. The object had some characteristics of a round ball when viewed at high both binoculars and telescope. With out the use of the binoculars the object had dazzled edges. Appeared to shine out of sight. Binoculars were used.
-A similar object was seen two weeks prior. Binoculars were used.
+8. PHOTOS
+[ ] Yes
+[X] No
+
+9. PHYSICAL EVIDENCE
+[ ] Yes
+[X] No
+
+FORM
+FTD SEP 53 0-329 (TDE)  Previous editions of this form may be used.

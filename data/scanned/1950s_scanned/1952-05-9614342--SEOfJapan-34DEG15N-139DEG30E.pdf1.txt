@@ -1,14 +1,54 @@
-The image does not contain any photograph. It appears to be a project record card from Project 10073, which seems to be a document related to UFO sightings.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 30 KAY 1952
-2. LOCATION: SE of Japan
-3. DATE-TIME GROUP: 19005 
-4. TYPE OF OBSERVATION: Ground-Visual  
-5. PHOTOS: 0 Yes  
-6. DURATION: 5-10 Min
-7. LENGTH OF OBSERVATION: 5-10 Min
-8. NUMBER OF OBJECTS: 1
-9. COURSE: -
-10. BRIEF SUMMARY OF SIGHTING: Color: Dark Round Shape: Round
-11. COMMENTS: Believed by pilot to be cloud.
+
+1. DATE
+30 Ma y 1952
+
+3. DATE-TIME GROUP
+Local .... 1900 LocAL
+GMT ..... [illegible]
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+7. LENGTH OF OBSERVATION
+5-10 Min
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Color: Dark
+Shape: Round
+
+2. LOCATION
+(SE of Japan)
+34°15'N-139°30'E
+
+4. TYPE OF OBSERVATION
+[ ] Ground-Visual          [ ] Ground-Radar
+[X] Air-Visual            [ ] Air-Intercept Radar
+
+6. SOURCE
+C-54 Crew
+
+8. NUMBER OF OBJECTS: 9. COURSE
+1
+
+11. COMMENTS
+
+Believed by pilot to be cloud.
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possible Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possible Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possible Astronomical
+[X] Other... Cloud
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)

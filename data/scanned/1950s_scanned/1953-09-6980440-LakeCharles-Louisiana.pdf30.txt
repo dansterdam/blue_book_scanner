@@ -1,9 +1,72 @@
-There is no photograph present in this image. This appears to be a page from an old document related to aeronautical symbols, aerodromes, and air navigation lights.
-
 AERONAUTICAL SYMBOLS
+
 AERODROMES
-AERODROME DATA AND LANDING FACILITIES INFORMATION
+
+Aerodromes with facilities
+LAND                WATER
+
+◇                    ⊕ Civil
+
+◇                    ⊕ Joint Civil and Military
+
+○                    ⊗ Military
+
+Aerodromes with emergency or no facilities
+LAND                WATER
+
+○                    ⚓ Landing Area
+                     ⚓ Sheltered Anchorage
+
+AERODROME DATA
+AND LANDING FACILITIES INFORMATION
+
+LAND                                          WATER
+608 Elevation in feet                         90 Elevation in feet
+m   Minimum lighting                          L  Minimum floating
+H   Hard-surfaced runway                      S  Normal sheltered take-off area
+L   Length of longest runway                  e9 Length of longest runway
+    in hundreds of feet                          in hundreds of feet
+
+*The facility code-character information is not available or if the facility itself is not available
+
+GCA SYSEM - Ground Control Approach System. Other controlled
+approach systems by appropriate abbreviation
+LF-UHF-VFS Control tower transmitting frequencies
+
 AIR NAVIGATION LIGHTS
+
+Rotating Light.........................*          Flashing Light (With side)..................... fL *
+
+Rotating Light (With flashing-code lights)....... ....*   Lightship.........................................  ⚓
+
+Rotating Light (With code lights and........... fL∟     Marine Light.................................C=W=G●
+                                    [illegible])
+
+Flashing Light ...................................... fl *
+
+F—Fixed               G=F—Grotto Flashing          Occ—Occalting         Gp—Group     W—White
+Fl—Flashing          Alt—Alternating      Alt Flashing    Al—Alternating      R—Red       G—Green      (+)—Unvatched    SEC—Sector
+Marine lights are white unless colors are indicated; alternating lights are red and white unless otherwise indicated
+
 MISCELLANEOUS
 
-This document provides information and legends for various aeronautical symbols, aerodrome facilities, landing areas, air navigation lights, and other miscellaneous information relevant to aviation.
+Obstruction ............................................. [illegible]    Reporting Point (Compulsory).................... ▲
+    (Obscure heights are marked,
+    above sea level of obstruction top.)
+
+Group Obstruction........................................ ⋀       Reporting Point (Non-compulsory)................... ▲
+
+Prominent Transmission Line.........___—___—
+
+Mooring Mast............................................. ⊢       Ocean Station Vessel (Normal position)......... ═══
+
+Isogonic Line.............. —— —— d°E —— —    International Boundary
+                                   (Values for 1948)    (Closed to passage of aircraft
+                                                        except through air corridor)
+Restricted areas are numbered, and are indicated on the charts as follows:
+
+[HATCHED RECTANGLE]                    Prohibited Area—Flight of aircraft prohibited except by specific authority of some agency
+
+[HATCHED RECTANGLE]                    [illegible section]
+
+[HATCHED RECTANGLE]                    Caution Area—Visible hazards to air navigation

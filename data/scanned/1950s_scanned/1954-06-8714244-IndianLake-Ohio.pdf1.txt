@@ -1,14 +1,39 @@
-The image does not contain a photograph. It appears to be a Project 10073 Record Card with various fields filled out, including the date, location, type of observation, number of objects, course, and a brief summary of the sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 6/8/54 
+
+1. DATE: 25 June 1954
+
 2. LOCATION: Indian Lake, Ohio
-3. DATE-TIME GROUP: 23:30 
-4. TYPE OF OBSERVATION: D Ground-Visual
-5. PHOTOS: 0 Yes
-6. LENGTH OF OBSERVATION: 3 Min.
-7. NUMBER OF OBJECTS: 1
-9. COURSE: 350
-10. BRIEF SUMMARY OF SIGHTING: Balloon, Suddenly speed up. Hesitated, slowed for a while, speed up and disappeared.
-11. COMMENTS: Tentative conclusion - Probable Balloon.
-ATIC FORM 329 (REV 75 SEP 53)
+
+3. DATE-TIME GROUP: Local - 0532-0735 EDT, 2027-1032Z
+
+4. TYPE OF OBSERVATION: [X] Ground-Visual [ ] Ground-Radar, [ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS: [ ] Yes, [X] No
+
+6. SOURCE: Civilian
+
+7. LENGTH OF OBSERVATION: 2 - 5 Minutes
+
+8. NUMBER OF OBJECTS: 1
+
+9. COURSE: 35
+
+10. BRIEF SUMMARY OF SIGHTING: Polished metal ball (Very light). Suddenly speeded up. No sound. Underside of object appeared flat. Inverted cone on top. Speed - 2000mph, 40' in diameter.
+
+11. COMMENTS: Contradictions in accounts. Bright - balloon Radar-Unidentified
+
+12. CONCLUSIONS:
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other_____________________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)

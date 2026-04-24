@@ -1,12 +1,34 @@
-This image does not contain a photograph. It appears to be a page from a document or report, containing handwritten mathematical equations and calculations.
+[handwritten: original, colonization by]
+[handwritten: clear object flies, 26]
+[handwritten: Numerical Integration]
+[handwritten: lots in nimbus.]
 
-Original unintegrated.
-when Fr = 0
-Fr = - a/x
-when Fr = 0
-Fr = (a/x)^2
-h = (a/x)^2
-a = (2/3)^1/2
-let h = a/15
-a = (2/3)^1/2
-UFO^2 = (a + a^2)^1/2 = .707 + .707 = 2.001 = 2.
+[handwritten mathematical diagram showing coordinate axes with notation including: circle labeled "a", angles marked with "x", "y", "4", "a", and "Fx"]
+
+[handwritten: Fx = 2(∂²u/∂x² eddy - ∂²u/∂t)]
+
+[handwritten: Fy = (u²-ut L)/(x²+u)^(1/2)]
+
+[handwritten: when u Fy = 0]
+
+[handwritten: a/x = (uL)/((x²+u)^(1/2))]
+
+[handwritten: L/x = (b)/((x²+u)^(3/2))]
+
+[handwritten: a = √((x²+u)^(3/2))/b]
+
+[handwritten: let b = a/(x²)]
+
+[handwritten: a² = ((x²+u)^(1/2))/a]
+
+[handwritten: ∫3a² = (x²+a)³ ⟹ 3a⁶ = (x²+a)³]
+
+[handwritten: ∛3a⁶ = y²+a⁶ ⟹ a²=∛a-a⁻]
+
+[handwritten: a=a(∛3-1)]
+
+[handwritten: 159]
+
+[handwritten signature, appears to be: Humboldt, Ala.]
+
+O-34

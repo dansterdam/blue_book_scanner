@@ -1,15 +1,19 @@
-The image contains a diagram and some text. The diagram appears to be an illustration related to an "ESTIMATE OF HEIGHT" calculation, showing the rotation of the Earth and parallel light rays arriving from the sun. The text provides the details and calculations for this "ESTIMATE OF HEIGHT" process.
-
 ESTIMATE OF HEIGHT
 
 A simple calculation will yield the minimum height of an object over our location to reflect sunlight at 1827. Local sunset occurred at 1749. We first saw the unknown object thirty-eight minutes after sunset.
 
-The circumference of the earth at the equator is approximately 25,133 mi.
+The circumference of the earth at the equator is approximately
+2π × 4000 = 25,133 mi.
 
-At latitude 32° this becomes 25,133 cos 32° = 21,713 mi.
+At latitude 32° this becomes:
+25,133 cos 32°. 2/3/3 mi.
 
-The speed of rotation of the earth at our latitude is: 21,713 / 1440 = 15.08 mi./min.
+The speed of rotation of the earth at our latitude is:
+21,330° / 24 × 60° = 14.80 mi/min.
 
-Thirty-eight minutes after sunset, the earth has traveled: 38/60 x 15.08 = 9.55 mi.
+Thirty-eight minutes after sunset, the earth has traveled:
+38 × 14.8 = 562.4 mi.
 
 Assuming parallel light rays arriving from the sun, the following diagram may be constructed:
+
+[DIAGRAM: A geometric illustration showing a circle labeled "ROTATION OF EARTH" with points labeled C, D, B, A, E, and W. The circle is intersected by parallel lines arriving from the right, labeled "FROM SUN". The diagram shows angles and geometric relationships relevant to the height calculation.]

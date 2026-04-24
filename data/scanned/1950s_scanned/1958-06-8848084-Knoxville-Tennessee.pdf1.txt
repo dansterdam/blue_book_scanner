@@ -1,33 +1,71 @@
-The image does not contain any photographs. It appears to be a scanned page from a Project Blue Book record card.
-
-OCR text output:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
 22 Jun 58
+
 2. LOCATION
 Knoxville, Tennessee
-3. DATE-TIME GROUP
-2227/22 Jun 58
-4. TYPE OF OBSERVATION
-Ground-Visual
-5. PHOTO
-Yes
-6. LENGTH OF OBSERVATION 
-2-3 mins
-7. NUMBER OF OBJECTS
-ONE
-8. COURSE 
-South
-10. BRIEF SUMMARY OF SIGHTING
-Obj smaller than a plane, brilliant white round obj, observer sighted obj above a thunderstorm.
-INSUFF INFO (case report)
 
-REO 19
-T SAF 723 VMB6331TLAO40
-PP RJEPNB RJEPHQ RJEDDN RJEDSQ
-DE RJEDFL 1A
-P 2219007
-FM COMDR 28TH ADD WPAFB
-TO RJEPNPJACS I HQ USAF WASH DC
-RJEPHO/DIS HQ USAF WASH DC
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[X] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP
+Local ________________
+Z 22/15562
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual     [ ] Ground-Radar
+[ ] Air-Visual        [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+2-3 secs
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+South
+
+10. BRIEF SUMMARY OF SIGHTING
+Obj smaller than a pencil, brilliant white color. No trail. No sound. Observer sighted obj above a thunderstorm.
+
+11. COMMENTS
+Typical description & characteristics of a meteor.
+
+ATIC FORM 329 (REV 25 SEP 52)
+
+[handwritten: INSUFF INFO (1st Report)]
+
+[handwritten: appears to show notations on right side: 2-7 464, 3-5, 4-4x8+, 220M]
+
+RE019
+T SQF753 YMB633IFLAO40
+
+PP RJEPNB RJEPHQ RJEDDN RJEDSO
+
+DE RJEDF1 12,
+
+P 2219002
+
+FM COMDR 58TH ADD VPAFB
+
+TO RJEPHQ/ACS I HQ USAF WASH DC
+
+RJEPHQ/OIS HQ USAF WASH DC

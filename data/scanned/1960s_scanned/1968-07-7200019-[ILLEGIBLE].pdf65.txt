@@ -1,14 +1,18 @@
-The image appears to be a daily weather map from the Department of Commerce, Environmental Science Services Administration, dated July 8-14, 1968. The map shows the surface weather conditions across the United States at that time, including fronts, pressure systems, and precipitation. There is no photograph present in this image.
-
-Text output:
+DEPARTMENT OF COMMERCE/Environmental Science Services Administration/Environmental Data Service
 
 DAILY WEATHER MAPS
-WEEKLY SERIES JULY 8-14, 1968
 
-The charts in this publication are a reduction of the original charts which are prepared and distributed daily by the U.S. Weather Bureau. They include the Surface Weather Map, the Constant Pressure Charts, the 1000-500 mb Thickness Charts, the 700 mb Height Chart, and the Daily Precipitation Chart. All of these charts are arranged from Monday through Sunday. They are copied from operational weather charts and facsimile weather maps used daily in the U.S. Weather Bureau's National Meteorological Center.
+WEEKLY SERIES JULY 8-14, 1953
 
-The Surface Weather Map and the Constant Pressure Charts are the same as those used on the Daily Weather Map. The Constant Pressure Charts are the same as those used on the Daily Weather Map. Copies may be obtained without charge by writing to: Environmental Science Services Administration, Weather Bureau, Washington, D.C. 20235.  AD 686 906.
+The charts in this publication are a continuation of the principal charts of the Weather Bureau publication, Daily Weather Map. They include the Surface Weather Map, the 500-Millibar Chart, the Highest and Lowest Temperatures Chart, and the Daily Precipitation Chart. All of the charts for one day are arranged in a single page of this publication. They are copied from the official weather maps prepared by the National Meteorological Center, Weather Bureau. The symbols used on the Surface Weather Map and the 500-Millibar Chart are those used originally in Daily Weather Map. An explanatory sheet is available, and extra copies may be obtained without charge by writing to: Environmental Science Services Administration, Public Section, AD 143, Rockville, Maryland 20852. Bill copies may also be ordered at a cost of $2.30 per 50 copies. Checks should be made payable to the Superintendent of Documents.
 
-Checks should be made payable to the Superintendent of Documents.
+The Surface Weather Map presents station data and the analyses of 6 a.m., E.S.T. on the tracks of well-defined low pressure areas are indicated by chains of arrows; the locations of these centers at times 6, 12, and 18 hours preceding map time are indicated by small black squares enclosing white crosses. Areas of precipitation are indicated by shading. The weather reports that are printed here are only a fraction of those that are included in the operational weather maps, and on which the analyses are based. Those small apparent discrepancies between the printed station data and the analyses result from these station reports that cannot be included in the published maps because of lack of space.
 
-FIRST CLASS MAIL
+The 500-Millibar Chart presents the height contours and isotherms of the 500 millibar surface at 7:00 a.m., E.S.T. The height contours are shown as continuous lines, and are labeled in feet above sea level. The isotherms are shown as dashed lines, and are labeled in degrees Fahrenheit. The arrows shown with the small circles and named at the preceding are obtained from the Surface Weather Map. The maximum temperature printed above the station locator and the minimum temperature is shown below the chart.
+
+The Precipitation Areas and Chart indicates by means of shading the areas that will produce rain during 24 hours ending at 1200 a.m. amounts in inches to the hundredth of an inch are for the period. Incomplete totals are shown. IT indicates a trace of precipitation. Dashed lines show the extent of snow on the ground at 7:00 a.m. of the previous day.
+
+[SPECIMEN STATION MODEL] [U.S. DEPARTMENT OF COMMERCE ENVIRONMENTAL SCIENCE SERVICES ADMINISTRATION] [IMMEDIATE - U.S. Weather Report] [FIRST CLASS MAIL]
+
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO 45433

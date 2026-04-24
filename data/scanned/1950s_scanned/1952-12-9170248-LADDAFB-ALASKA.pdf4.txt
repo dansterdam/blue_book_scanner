@@ -1,31 +1,60 @@
-The image appears to be a page from an old UFO report document from Project Blue Book. There is no photograph visible in the image, but it contains text that appears to be a joint message form.
-
-TEXT EXTRACTED FROM THE IMAGE:
+ROUTING: <blank>
 
 JOINT MESSAGEFORM
+
+AMUNICATIONS CENTER NO: <blank>
+
+SPACE ABOVE FOR COMMUNICATIONS CENTER ONLY
 
 UNCLASSIFIED
 
 FROM: (Originator)
-CG ATIC
-TO: 
+DATE: [stamp] AUG 53
+SECURITY CLASSIFICATION: [redacted]
 
-INFO:
-1. Did radar in area carry any unknown targets or aircraft previous to, during, or after the sighting?
-2. As discussed, subject was apparently no a balloon. Latest check made of all weather stations within 40 mile radius that launch weather balloons - none any balloons lost in the area or had all definite bursts been recorded on all previous flights?
-3. Desired weather data are wind slant, plot of temperature and moisture lapse rates if available.
+CQ ATIC
 
-DOWNGRADED AT 3 YEAR INTERVALS; 
+PRECEDENCE FOR: | ACTION | INFORMATION
+
+TO: <blank>
+
+[_] BOOK MESSAGE | [_] ORIGINAL MESSAGE
+
+[_] MULTIPLE ADDRESS | CRYPTORECAPTION
+                      [_] YES [_] NO
+
+REFERS TO MESSAGE:
+
+INFO: IDENTIFICATION | CLASSIFICATION
+
+3. Did radar in area carry any unknown tracks or targets previous to, during, or after the sighting?
+
+4. Although object apparently was not a balloon, request check is made of all weather stations within 40 mile radius that launch weather balloons. Note any balloons lost in the area or had all definite bursts been recorded on all previous flights?
+
+5. Desired weather data are winds aloft, plot of temperature and moisture lapse rates if available.
+
+DOWNGRADED AT 8 YEAR INTERVALS;
 DECLASSIFIED AFTER 12 YEARS.
-DID DIR 5200.10
+DOD DIR 5200.10
 
-UNCL ASSIFIED
+COORDINATES:
+AFTAA ___________
 
-PAGE 2 of 2 PAGES
+AFTAA ___________
+
+UNCLASSIFIED
+
+[redacted section] PAGE ___ OF ___ PAGES
+
+DRAFTER'S NAME (and signature, when required)
 
 RELEASING OFFICER'S SIGNATURE
 
-CAST MAJOR USAF
-TELEPHONE 35969 OFFICIAL TITLE ASCI CUM SEC C ATIC
+CAPT E.E. RUPPELIE/vb
 
-DD FORM 173 1 MAY 44 REPLACES WAR DEPT AGO FORM 6, I MAY 44 WHICH MAY BE USED.
+SYMBOL 13-2 | TELEPHONE [illegible] | OFFICIAL TITLE [illegible]
+
+DD FORM 173 REPLACES RIME FORM 172, 1 MAY 45
+1 OCT 49
+
+15-23022-3 X U.S. GOVERNMENT PRINTING OFFICE

@@ -1,12 +1,51 @@
-The image does not contain a photograph. It appears to be a page from a document titled "WINDS ALOFT COMPUTATION SHEET" from the U.S. Department of Commerce, Weather Bureau.
+[stamp: 121 610 12]
 
-WINDS ALOFT COMPUTATION SHEET
-LYNN, BOSTON, MASS.
-429 23TH 'D' OCT
-SERIAL DATE
-(CARD-DECK) 7867 11'11 MSL
-Type of balloon: 100 GR
-Date        : 1/ 17/ 64
-Time        : 0002
+**Identification**
 
-The document contains a table with various meteorological data, including Elevation Angle, Azimuth, Wind Speed, Wind Direction, Pressure, Temperature, Altitude, and Elapsed Time.
+NANTUCKET CO. MASS.
+42° 05'N 73° 00'W
+PIBAL THEODOLITE
+730 A.M. JULY 11 MSL
+
+U.S. DEPARTMENT OF COMMERCE
+WEATHER BUREAU
+
+WINDS-ALOFT COMPUTATION SHEET
+(LAND STATION FORM)
+WBAN-20
+
+Actual (local standard): 1/11, Jul, 14, 0009
+
+Schedule (GMT): [illegible], [illegible], [illegible], [illegible]
+
+Ascension No. 6549
+
+Orientation, 360° = South
+
+Rawinsonde Time-Altitude Data
+
+Type of balloon: 100 GR.
+
+| Pibal site (m.) | Slope range (m.) (yds.) | Wind site (m.) above surface (m.) | Elevation angle° Observed | Smoothed | Distance from observation (m.) | Azimuth angle ° | Wind Direction° 360° N. | Wind Speed (m.p.h.) | Corrections | Pressure (mb.) | Altitude (m., m.s.l.) | Elapsed Time (min.) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 218 1 | 240 | 755 | 2366 | 1 | 245 | 17.1 | | | | |
+| 356 | 18.1 | 2050 | 2449.8 | 2 | 259 | 20.0 | 5 | | |
+| 612 2 | 17.9 | 3120 | 2521.1 | 3 | 265 | 16.8 | 10 | | |
+| 670 3 | 18.4 | 3970 | 2594.5 | 4 | 269 | 11.8 | 15 | | |
+| 991 4 | 19.3 | 4570 | 2555 | 5 | 262 | 9.8 | 20 | | |
+| 1589 5 | 20.4 | 5053 | 2566.9 | 6 | 266 | 9.7 | 25 | | |
+| 1590 6 | 21.5 | 5595 | 2572.5 | 7 | 270 | 8.9 | 30 | | |
+| 1970 7 | 22.0 | 6475 | 2582.8 | 8 | 271 | 7.7 | 35 | | |
+| 1710 8 | 22.5 | 6520 | 2596.9 | 9 | 267 | 7.0 | 40 | | |
+| 2340 9 | 7.6 | 6910 | 2596.8 | 10 | 265 | 6.5 | 45 | | |
+| 1620 10 | | | | 11 | | | 50 | | |
+| 2070 11 | | | | 12 | | | 55 | | |
+| 2260 12 | | | | 13 | | | 60 | | |
+| 2430 13 | | | | 14 | | | 65 | | |
+| 3350 14 | | | | 15 | | | 70 | | |
+| 2610 15 | | | | 16 | | | 75 | | |
+| 3130 16 | | | | 17 | | | 80 | | |
+| 4105 17 | | | | 18 | | | 82 | | |
+| 2240 18 | | | | 19 | | | 90 | | |
+| 2570 19 | | | | 20 | | | 92 | | |
+| 2825 20 | | | | | | | | | |

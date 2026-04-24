@@ -1,22 +1,25 @@
-The image does not contain any photographs, it appears to be a property record form with a "Chain of Custody" table and a "Certificate of Final Disposition" section.
-
-Text extracted from the document:
-
 CHAIN OF CUSTODY
-(Include typed or printed name and organization, or address of the transferor and transferee and their signature)
+(Include typed or printed name and organization, or address of
+the transferor and transferee and their signature)
 
-ITEM QUANTITY DATE FROM TO (Include Name, Registry Mr. Voucher Nr., etc.)
-PURPOSE OF CHANGE OF CUSTODY
+ITEM
+NR. | QUANTITY | DATE | FROM | TO (Include Postal Registry
+Nr. Voucher Nr. etc) | PURPOSE OF CHANGE OF CUSTODY
+
+[Multiple blank rows in table]
 
 CERTIFICATE OF FINAL DISPOSITION
+
 The undersigned certify that the final disposition of the property listed on the face of this Property Record was as follows:
 
-PERSON MAKING FINAL DISPOSITION: TYPED OR PRINTED NAME: DUDLEY V. LEDBETTER, GS-11
-ORGANIZATION OR ADDRESS: USAF
-SIGNATURE: [Signature] 
+PERSON MAKING FINAL
+DISPOSITION | TYPED OR PRINTED NAME | ORGANIZATION OR ADDRESS | SIGNATURE
+Robert K. Harpley, Capt. | AFLAC | [handwritten signature]
 
-PERSON TO WHOM FINAL DISPOSITION WAS MADE: TYPED OR PRINTED NAME: WILLIAM S. HURLBURT, JR.
-ORGANIZATION OR ADDRESS: ITEM
+PERSON TO WHOM FINAL
+DISPOSITION WAS MADE | TYPED OR PRINTED NAME | ORGANIZATION OR ADDRESS | [handwritten signature]
+William S. Bulltin, AIC | WPLO
 
-PERSON WITNESSING FINAL DISPOSITION: TYPED OR PRINTED NAME: EMALY V. LAWSON, GS-13
-ORGANIZATION OR ADDRESS: USAF
+PERSON WITNESSING
+FINAL DISPOSITION | TYPED OR PRINTED NAME | ORGANIZATION OR ADDRESS | [handwritten signature]
+Paul V. Lameter, P.d. | AFLAC

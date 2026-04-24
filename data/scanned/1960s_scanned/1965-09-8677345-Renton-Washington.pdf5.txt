@@ -1,32 +1,51 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book document with various data and observations recorded.
+[stamp: UNCLASSIFIED]
 
-UNCLASSIFIED
 DEPARTMENT OF THE AIR FORCE
-STAFF INFORMATION MESSAGE
-AP IN : 28441 (8 OCT 65)                                                       PG 4 OF 5
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
 
-10000       350       25
-15000       363       51
-20000       368       58
-30000       829       79
+AF IN : 25441 (8 Oct 65)                                                                                                                  Pg 4 of 5
 
-PAGE 4 RUNBHB 856 UNCLASS  
-30000        818       53
+10000          350          25
+
+16000          360          51
+
+20000          369          58
+
+30000          020          79
+
+PAGE 4 RUNWBH 856 UNCLAS
+
+50000          010          53
 
 3. CEILING: NONE.
-4. VISIBILITY WAS 18 MILES.  
+
+4. VISIBILITY WAS 10 MILES.
+
 5. AMOUNT OF CLOUD COVER WAS 3/8.
+
 6. NO THUNDERSTORMS IN AREA.
+
 7. VERTICAL TEMPERATURE GRADIENT:
-   ALTITUDE      VERTICAL TEMP (CENT)
-   SURFACE       PLUS 7
-   10000        PLUS 2
-   15000        PLUS 1
-   20000         -10
-   30000         -39
-   50000         -69
+
+   ALTITUDE          VERTICAL TEMP (CENT)
+
+   SURFACE                    PLUS 7
+
+   6000                       PLUS 5
+
+   10000                      PLUS 1
+
+   15000                      - 10
+
+   20000                      -16
+
+   30000                      -39
+
+   50000                      -69
+
 8. NO OTHER UNUSUAL ACTIVITY
 
-AFHQ                  0-309C
 
-UNCLASSIFIED
+AFHQ      FORM          0-309C          [stamp: UNCLASSIFIED]
+          JAN 63

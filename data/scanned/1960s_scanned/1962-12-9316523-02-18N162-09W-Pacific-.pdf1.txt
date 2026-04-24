@@ -1,14 +1,51 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record card.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 9 December 1962
-2. LOCATION: 19-15N 162-09W (Pacific)
-3. DATE-TIME GROUP: 0310/09Z
-4. SOURCE: 9 Air-Visual, 9 Ground-Radar
-5. LENGTH OF OBSERVATION: 20 min
-6. NUMBER OF OBJECTS: one
-7. LENGTH OF OBSERVATION: one
-8. COURSE: No. No speed or course observed, any movement
-9. ALTITUDE: 39 dgr elevation on course of 055 dgr at one time - elevation varied without distinct cloud coverage. High stratus.
-10. RADAR: Was detected by 9 Acft Ground Radar. But was not picked up by 9 Air-Intercept Radar.
-11. CONCLUSIONS: Was probably a balloon. Possibly aircraft. Weather phenomena, possibly natural.
+
+1. DATE: 30 December 1962
+
+2. LOCATION: 02.18N 182.09W (Pacific)
+
+3. DATE-TIME GROUP
+Local: <blank>
+GMT: 31/0505Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+Merint USS Matagorda
+
+7. LENGTH OF OBSERVATION
+not rptd
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+055 dgr
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other: Satellite
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+small bright obj with 2nd mag observed at 39 dgr elevation on course of 055 dgr true. Visible without optical aids. Possible satellite. 50 per cent cloud coverage. High stratus.
+
+11. COMMENTS
+ECHO data not available; however, all indications are that the obj was a satellite.
+
+ATIC FORM 329 (REV 26 SEP 52)

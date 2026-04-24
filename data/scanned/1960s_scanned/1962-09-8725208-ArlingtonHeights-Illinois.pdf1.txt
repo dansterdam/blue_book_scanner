@@ -1,15 +1,48 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record card, which is a form used to document UFO sightings and investigations.
-
-The text on the image is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 22 September 1962
+
+1. DATE: 25 September 1962
+
 2. LOCATION: Arlington Heights, Illinois
-3. SOURCE: 36/32322
-4. TYPE OBSERVATION: Ground-Visual
-6. DURATION: 2-3 minutes
-7. LENGTH OF OBSERVATION: 2-3 minutes 
-9. BRIEF SUMMARY OF SIGHTING: 200-300 feet diameter saucer with 20 evenly spaced windows, dull silver color. Appeared out of clouds, hovered momentarily, then disappeared into clouds. Ground-Visual.
-10. NUMBER OF OBJECTS: ONE
-11. COURSE: Sounds like a bird with lights. No confirmed maneuvers. Considered as UNIDENTIFIED.
-13. CONCLUSION: Was ball-shaped, silver color, hovered, disappeared into clouds. Probable: Aircraft, Balloon, Astronomical, Other. Definite: Unidentified.
+
+3. DATE-TIME GROUP: GMT 26/03257
+
+4. TYPE OF OBSERVATION:
+[ ] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Interest Radar
+
+5. PHOTOS:
+[ ] Yes
+[X] No
+
+6. SOURCE: Military
+
+7. LENGTH OF OBSERVATION: 3-4 minutes
+
+8. NUMBER OF OBJECTS: one
+
+9. COURSE: varied
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other (UNIDENTIFIED)
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+10. BRIEF SUMMARY OF SIGHTING:
+200-300 feet diameter saucer with 20 evenly spaced windows except for a gap of 8 spaces. Whining similar to jet. Circled, hovered, disappeared at high rate of speed.
+
+11. COMMENTS:
+Sounds like a/c with advertising lights. No confirmation of plane of this type in area. Case considered as UNIDENTIFIED.
+Confirmed Advertising A/C on 11 Sept 1962. Notification received from JAH A/C schedule shows operation in Chicago area for this date.
+
+ATIC FORM 329 (REV 28 SEP 52)

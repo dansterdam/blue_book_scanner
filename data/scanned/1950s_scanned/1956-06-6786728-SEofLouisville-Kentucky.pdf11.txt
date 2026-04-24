@@ -1,46 +1,53 @@
-The image does not contain any photographs. It appears to be a page from an old Project Blue Book report, displaying a list of sighting locations and various evaluations such as "Ayad (PHOTO)", "Multi (AIR & RADAR)", and "Military (CASE).
+1 - 19 JULY 1956 SIGHTINGS
 
-Text OCR output:
+DATE          LOCATION                                    OBSERVER                          EVALUATION
 
-1 - 19 JULY 1956 315-TnITis
-LOCATION EVALUATION
-Cairo, Egypt Ayad (PHOTO)
-Columbus, Ohio Other (BIRDS)
-Green Cove Florida (CASE MISSING) Insufficient Data
-El Segundo, California Balloon
-Winchester, Massachusetts (CASE MISSING) Civilian
-Kingston, Washington Airplane (STAR)
-Jackson, Mississippi Astro (METEOR)
-29.251-135.105 (Alaska) Balloon
-Stanton, Nebraska Balloon
-Budd, Ohio Balloon 
-Big Rock Candy Mt., Utah Aircraft 
-Arecibo, South America Other (ARILLERY SHELL)
-Dountiful, Utah Aircraft 
-Clintonville, Ohio (CASE MISSING) Astro (STARS/PLANETS)
-Saugerteis, New York Other (GROUND LIGHT)
-Wilmington, Delaware Aircraft 
-Wurtsmith AFB, Michigan Insufficient Data 
-Carline, Texas Balloon
-Monrovia, Indiana (CASE MISSING) Aircraft
-Craryville, New York Insufficient Data 
-Ravalli, Montana (27-28 MISSING) Aircraft
-Colvilles Ins. (39-38 MISSING) Civilian GOC
-Los Angeles, California Aircraft
-Long Beach, California Insufficient Data
-Hays, Kansas Other (LOCATION)
-Watertown Conn. Other (FLASHING LIGHT
-PHOTO)
-Westford, Massachusetts Insufficient Data
-Cote S.AIr' Texas (CASE MISSING) Insufficient Data
-Seattle, Kansas Balloon
-Dexter, Maine Aircraft 
-San Bernardino, California Astro (METEOR)
-OTHER (LIGHT?)
-DATE LOCATION EVALUATION
-1 Browns Ferry, Kentucky Unidentified
-3 Little Roclk, Arkansas Unidentified
-10 Hutchinson, Indiana Unidentified
-11 Fort Monroe, Virginia Unidentified
-13 Gary, Indiana Unidentified
-15 Clifton, Kansas Unidentified
+Jul           Cairo, Egypt                                Ayad (PHOTO)                      Other (BIRDS)
+1             Columbus, Ohio                              TWA A/C Fire Dept                 Insufficient Data
+1             Crescent City, Florida (CASE MISSING)       Civilian GOC                      Insufficient Data
+2             NAS North Island, California                Military                          Balloon
+2             Winchester, Massachusetts (CASE MISSING)     Civilian                          Aircraft
+3             Kingston, Washington                        [redacted]                        Astro (STAR)
+3             Jackson, Mississippi                        [redacted]                        Astro (METEOR)
+5             58.25N 135.42W (Alaska)                     Military                          Aircraft
+5             Fairbanks, Alaska                           Multi (Civ & Mil)                 Balloon
+5             Stanton, Nebraska                           [redacted]                        Balloon
+6             Euclid, Ohio                                Multi (Air & RADAR)               Balloon
+6             Big Rock Dam, Utah                          [redacted]                        Aircraft
+6             Arenda, Columbia, South America             Panafiel (PHYS SPEC)              Other (ARTILLERY SHELL PROJ)
+
+7             Bountiful, Utah                             [redacted]                        Balloon
+8             Cincinnati, Ohio (CASE MISSING)             Civilian GOC                      Astro (STARS/PLANETS)
+8-13          Saugerties, New York                        [redacted]                        Other (GROUND LIGHT)
+9             Wilmington, Delaware                        [redacted]                        Aircraft
+11            Brooklyn, New York                          Multi Carn                        Aircraft
+12            Custer AFB, Michigan                        Military Radar                    Insufficient Data
+12            Amarillo, Texas                             [redacted]                        Balloon
+12            Monrovis, Indiana (CASE MISSING)            Civilian                          Aircraft
+14            Greenwood Lake, New York                    [redacted]                        Insufficient Data
+15            Puyallup, Washington (CASE MISSING)         Civilian                          Balloon
+15            Oklahoma City, Oklahoma (CASE MISSING)      Civilian GOC                      Aircraft
+16            Somerville, Ohio                            [redacted]                        Aircraft
+16            Los Angeles, California                     [redacted]                        Insufficient Data
+16            Long Beach, California                      [redacted]                        Astro (MARS)
+17, 19-30     Tin Buys, Arizona                           [redacted]                        Other (HOAX)
+17            Windham Center, Connecticut                 [redacted]                        Other (IMAGINATION)
+17            Mastic, Long Island, New York               Military Air                      Other (FLARES)
+17            Westborough, Massachusetts                  Military (RAPCON)                 Insufficient Data
+17            Otis AFE, Massachusetts                     Military Air                      Insufficient Data
+18            Arkansas City, Kansas                       Multi                             Balloon
+18            Seattle, Washington                         [redacted]                        Aircraft
+18            Seattle, Washington                         [redacted]                        Aircraft
+19            Medway, Maine                               Multi                             Astro (METEORS)
+19            San Bernardino, California                  [redacted] (PHOTO)                Other (HOAX)
+
+ADDITIONAL REPORTS OF SIGHTINGS (NOT O-333)
+
+DATE          LOCATION                                    SOURCE                            EVALUATION
+
+3-2           Bowling, Kentucky                           Newscliping                       [blank]
+9             Little Rock, Arkansas                       Newscliping                       [blank]
+10            Washington, Indiana                         Newscliping                       [blank]
+10            Cincinnati, Ohio & Northern Kentucky        Newscliping                       [blank]
+11            Gary, Indiana                               Newscliping                       [blank]
+19            Wichita, Kansas                             Newscliping                       [blank]

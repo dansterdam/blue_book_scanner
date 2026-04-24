@@ -1,14 +1,53 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book record card that documents a UFO sighting. The text in the document is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 26 February 1960
-2. LOCATION: San Juan, Puerto Rico
-3. DATE-TIME GROUP: 2030Z
-4. TYPE OF OBSERVATION:
-   A. Ground-Visual
-   B. Air-Visual 
-5. DURATION: Less than 1 min.
-6. NUMBER OF OBJECTS: 1
-7. LENGTH OF OBSERVATION: Less than 1 min.
-10. BRIEF SUMMARY OF SIGHTING:
-Round object, size of large pea at times larger, briliant with yellow-the-orange-lights. Left a contrail which persisted at least 10 min. Four additional reports of similar activity by friends and others in the general area. Not observed by ground observers of neighboring air force base, possibly obscured by clouds. No further sightings or possible subsequent identification.
+
+1. DATE
+26 February 1960
+
+2. LOCATION
+San Juan, Puerto Rico
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other___Illumination
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP
+Local
+GMT 0130Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual      [ ] Ground-Radar
+[X] Air-Visual         [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+Military and Civilian
+
+7. LENGTH OF OBSERVATION
+Less than 1 sec.
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+NW & SE
+
+10. BRIEF SUMMARY OF SIGHTING
+Round object, size of large pea at arms length, bright red with yellowish-orange tinge on right side left concitrail which persisted at point of disappearance for 10 min. Four additional reports of similar activity by ground and air observers of pyrotechnic activities. Also described as possible missile reentry.
+
+11. COMMENTS
+Evaluated as Navy surface unit conducting night illumination training exercise by USN.
+
+ATIC FORM 329 (REV 25 SEP 52)

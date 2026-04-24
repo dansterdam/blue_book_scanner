@@ -1,19 +1,45 @@
-This image does not contain any photographs. It appears to be a Project 10073 Record Card for an incident that occurred on 23 March 1957 in Oxnard, California.
+1. DATE: 22 March 1957
 
-The text in the document is as follows:
-
-PROJECT 10073 RECORD CARD
-1. DATE: 23 March 1957
 2. LOCATION: Oxnard, California
-3. DATE-TIME GROUP: 1530L - 1630L PST
+
+3. DATE-TIME GROUP: Local 1115 PST
+
 4. TYPE OF OBSERVATION:
-   a. Ground-Visual
-   b. Air-Visual
-   c. Air-Intercept Radar
-5. OBJECT(S): 3 round objects
-6. NUMBER OF OBJECTS: 3
-7. LENGTH OF OBSERVATION: 5 minutes
-8. BRIEF SUMMARY OF SIGHTING: One object was seen round, objects seemed to flutter, change shape, became smaller until two small red objects appeared and still later five small red objects appeared.
-9. COURSE: 2nd
-10. MANEUVERS: Round, objects seemed to flutter, change shape, became smaller, two small red objects appeared, five small red objects appeared.
-11. COMMENTS: See case file, objects were stars but the light fluctuations and changes in shape caused confusion. Weather was good.
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS:
+[ ] Yes
+[X] No
+
+6. SOURCE: Civilian
+
+7. LENGTH OF OBSERVATION: 5 hours 15 minutes
+
+8. NUMBER OF OBJECTS: 3
+
+9. COURSE: 1st 0 - 3rd, 2nd
+
+10. BRIEF SUMMARY OF SIGHTING:
+One bright, round meter, color green, object seemed to throb and pulsate & change shape occa sionally. No sound, object snappily defined alternately, and did not have a tail. A shiny aluminum pole like pole appeared at times atop object. Later two small red objects appeared. And still later two red objects appeared.
+
+11. COMMENTS:
+See case file. Objects were stars and lights on barn.
+
+12. CONCLUSIONS:
+[ ] Definitely Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical: Stars
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_a_[illegible]
+[X] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 24 SEP 52)

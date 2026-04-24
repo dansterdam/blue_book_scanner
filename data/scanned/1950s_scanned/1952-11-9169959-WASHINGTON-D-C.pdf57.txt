@@ -1,23 +1,51 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book report, listing various UFO sightings and observations from December 1-15, 1952.
-
 1 - 15 DECEMBER 1952 SIGHTINGS
-DATE LOCATION OBSERVER EVALUATION
-Dec 1 St Augustine, Florida Multiple Insufficient Data
-Dec 1 Mitchell AFB, New York OD (RADAR) ASTRONOMICAL (JUPITER)
-Dec 1 Concord APB, South Carolina Other (ELECTROMAGNETIC)
-Dec 4 Colorado Springs, Colorado 
-Leeds APB, Texas Astro (METEOR)
-Dec 4 Tannna, Alaska Astro (METEOR) 
-Dec 4 USSR (Artic Document)(Probable Meteor Shower) INFOT
-Dec 6 Sittburg, Germany Insufficient Data
-Dec 6 Angoon, Alaska UNIDENTIFIED
-Dec 6 McGuire, New Jersey Military Air (Gd & Air)
-Dec 8 Gulf of Mexico Indian Ocean (H.O. Bulletin) INFOT
-Dec 9 Ladd APB, Alaska Meteor Report
-Dec 10 Madison, Wisconsin in Insufficient Data
-Dec 10 Odessa, Washington UNIDENTIFIED
+
+DATE          LOCATION                                    OBSERVER                        EVALUATION
+
+Dec           St Augustine, Florida                       [redacted]                      Insufficient Data
+1             Mitchell AFB, New York                      Multiple                        Astro (JUPITER)
+4             Congaree AFB, South Carolina                Gd (RADAR)                      Other (ELECTRONIC
+                                                                                          INTERFERENCE)
+
+4             Colorado Springs, Colorado                  [redacted]                      A/C
+4             Laredo AFB, Texas                           [redacted]                      Balloon
+4             Tanana, Alaska                              (Native)                        Astro (METEOR)
+
+6             USSR (ATIC Document)(Probable Meteor Showers)(INFO)                        Astro (METEOR)
+6             Bitburg, Germany                           [redacted]                       Insufficient Data
+6             Angoon, Alaska                             [redacted]                       Astro (VENUS)
+6             McGuire AFB, New Jersey                    Military (Gd & Air)             Astro (VENUS)
+6             Gulf of Mexico                             Military Air (RADAR)             Other (Radar Analysis)
+7             Indian Ocean (H.O. Bulletin)(INFO)         Meteor Report
+
+8             Ladd AFB, Alaska                           [redacted]                      UNIDENTIFIED
+9             Madison, Wisconsin                         [redacted]                      UNIDENTIFIED
+10            Pope AFB, South Carolina                   [redacted] (RADAR)              Weather Inversion
+10            Odessa, Washington                         (RADAR)                         Balloon
+
+10            Ladd AFB, Alaska                           Air Visual                      Astro (METEOR)
+10-12         Greenland (CARD MISSING)                   Military                        Other (CONTRAILS)
+11            Karachi, Pakistan                          Not Stated                      Insufficient Data
+11            Woodland Hills, California                 [redacted]                      Insufficient Data
+11            Leonardo, New Jersey (CARD MISSING)        [redacted]                      A/C
+12            London, England                            Not Reported                    Insufficient Data
+12            McGuire AFB, New Jersey                    [redacted]                      A/C
+13            Los Alamos, New Mexico                     [redacted]                      Astro (METEOR)
+13            Southern Japan                             Military                        Astro (AURORA)
+14            Charlottesville, Virginia                  [redacted]                      Other (Debris in Air)
+15            Honshu, Japan (CARD MISSING)               Ground (RADAR)                  
+15            Hartsville, South Carolina                 Military Air                    Balloon
+15            Greensboro, North Carolina                 Military Air
+
+15            Gross AFB, Labrador                        [redacted]                      1. Visual: Astro (VENUS)
+                                                         Ground/Air (RADAR)              2. Radar: Probable(RADAR
+                                                                                         MALFUNCTION)
+
 ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
-DATE LOCATION SOURCE EVALUATION
-Dec Joliet, Illinois Msg. "Possible MALFUNCTION)
-Dec Hollywood, California News Report
-15-35 North Pacific Msg "Report"
+
+DATE          LOCATION                                    SOURCE                         EVALUATION
+
+Dec           Chicago, Illinois                          [redacted - 16h)                
+Dec           North Hollywood, California                Ltr                            
+23            Indian Ocean                               News Report                     
+15-16         North Pacific                              News Report

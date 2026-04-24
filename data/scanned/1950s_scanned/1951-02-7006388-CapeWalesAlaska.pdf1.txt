@@ -1,12 +1,28 @@
-The shared image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book, specifically the Project 10073 Record Card.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 2 Feb 1951
-2. LOCATION: Cape Wales Alaska
-3. DATE-TIME GROUP: GMT- 03/05/02
-4. TYPE OF OBSERVATION: D - Visual
-5. SOURCE: O - Air-Visual
-6. NUMBER OF OBJECTS: Multiple
-7. LENGTH OF OBSERVATION: 1 15 min then 1 hr 15 min
-10. BRIEF SUMMARY OF SIGHTING: Alternating red and green light. Observed on bearing 242 deg from the station. Red light below intermingling with and glow below, indicating ship although not visible. In view until 03/05/52. Disappeared for 1 hr and then viewed for 1/2 hr which obscured by fog bank.
-11. COMMENTS: Ship oft hours at 03/4/002 - 04/5/002. Most probable cause of sighting.
+
+1. DATE: February 9, 1951
+2. LOCATION: Cape Wales, Alaska
+3. DATE-TIME GROUP:
+Local: [0305Z - 0700Z with gap]
+GMT: 9/0305Z - 9/0700Z Feb 51
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+5. PHOTOS: [ ] Yes [X] No
+6. SOURCE: Military
+7. LENGTH OF OBSERVATION: [intermittent; 0305Z to 0700Z with gap]
+8. NUMBER OF OBJECTS: One (1)
+9. COURSE: Stationary (bearing 242°)
+10. BRIEF SUMMARY OF SIGHTING: Alternating red and green lights observed at bearing 242° from weather station at Wales, Alaska. Identified as USN icebreaker using 24-inch searchlights to locate leads in ice.
+11. COMMENTS: Lights identified. USN icebreaker operating in area using 24" searchlights.
+12. CONCLUSIONS: [X] Other: Lights from Ship
+[ ] Was Astronomical
+[ ] Possibly Astronomical
+[ ] Was Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Possibly Aircraft
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC Form 329 (Rev 26 Sep 52)

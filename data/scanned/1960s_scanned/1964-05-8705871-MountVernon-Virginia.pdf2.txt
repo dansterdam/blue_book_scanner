@@ -1,15 +1,99 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book document, which seems to be a table or report containing various data fields such as "Identification", "Date-Time Group", "Duration of Observation", "Azimuth", "Elevation", and others. The text in the document is as follows:
+FORM 610-12
+Cummlative
 
-Identification: (SPECIFIC, VA.) 
-Date-Time Group: (S*)1620Z-1630Z 
-Duration of Observation: 10 MIN 
-Observed: DIM WHITE LIGHT 
-Smeared: NO
-Bearing from Station: 0O°
-Elevation: 36.6°
-Azimuth: 250° 
-Direction of Travel: STATIONARY
-Remarks: Visual 
-Station: MOUNT VERNON, VA.
-Reported by: 
-Forwarded by:
+*Identification
+WASHINGTON, D.C.
+ARLINGTON, VA.BALTIMORE FOR BALTIMORE 29° W
+RAWINS BALLOON - CALIBRATION 260=S
+OBSERVATION POINT CO LOCATED ABOVE SEA LEVEL
+
+Page 1
+
+Type of Balloon: 1000
+
+U.S. DEPARTMENT OF COMMERCE
+WEATHER BUREAU
+
+WINDS-ALOFT COMPUTATION SHEET
+(SANDSTON FORM)
+WBAN-20
+
+Year
+Actual
+Time
+Scheduled
+(G.S.T.)
+
+1965
+1934
+
+Accession No.: _______
+
+Orientation
+360° = South
+
+Eastward;
+Wind
+
+Slant
+range
+(m.) (yds.)
+
+Pilot
+aft. shear
+Elev., ft.
+
+Rawin
+Aft. shear
+Elev., ft.
+
+Elevation angle °
+Observed | Smoothed
+
+Distance from
+observation
+point (ft.)
+
+Azimuth
+angle
+
+Direction°
+360°=N.
+
+Speed
+(m.p.h.)
+
+Can-
+ved
+5
+
+Pressure
+(mbs.)
+
+[Extensive data table with numerical entries arranged in rows and columns, containing measurements and calculations]
+
+Termination
+Remark: 110 & 300 m. rise with
+respect to prod. alt.
+Pressure reduced
+at ndord levels
+or in 1 mi. bal.
+
+Coded Data for Computation
+
+[Additional coded data section at bottom]
+
+Type of
+Equipment
+
+Maxim
+Wind m.p.h. or
+speed Alts. of maximum
+values, feet. (approx.)
+Dir. (degrees)
+(in 10's) of above
+speeds.
+Wind
+45 m.p.h. or met
+Enter check if
+app,aor on rever

@@ -1,35 +1,96 @@
-The image does not contain any photographs. It appears to be a page from a document containing technical diagrams and descriptions of various aeronautical symbols and radio facilities.
-
 AERONAUTICAL SYMBOLS
+
 RADIO FACILITIES
 
-All radio facility data are prescribed in the with the following of and symbols aerial facilities as provided by station:
+All radio facility data are printed in blue with the exception of certain LF/MF facilities such as lower frequencies, radio ranges and associated airways, which are printed in magenta.
 
-Radio Range ----------------------------------
-(With voice)
+Methods of indicating specific voice and CP calls are shown below. Use of the word "Radio" within the box indicates voice facilities.
 
-Radio Range ----------------------------------
-(Without voice)
+Radio Range................○——[DALEVILLE RADIO
+(With voice)                    116.0 CMT VOR
 
-Non-Directional Radiobeacon ---------------
-(With voice)
+Radio Range................○——[SOLID RANGE
+(Without voice)                 115.2-67
 
-Non-Directional Radiobeacon ---------------
-(Without voice)
+Nondirectional Radiobeacon ....○  [MOBILE RADIO
+(With voice)                       190.5 CMT
 
-Marine Radiobeacon ------------------------
+Nondirectional Radiobeacon ......○ [BIHI
+(Without voice)                    343 BITE VOR
 
-Radio Direction Finder ---------------------
-(With voice) 
+Marine Radiobeacon .............——[ASHTABULA
+                                   283
+                                   FS-1024 & 1-25-kpm
 
-Radio Direction Finder ---------------------
-(Without voice)
+Radio Direction Finder...........○——[MACON FS
+(Without voice)                    400 X-TCS
+
+Radio Direction Finder ...........○——[WM 16 W HOURS
+(With voice)                       1.5
+
+Radio Communication Station.....○——[ROME RADIO
+(With voice)                       121.5/10
+
+Radio Communication Station......○——[VAXAS
+(Without voice)                    1273.5-11
+
+Radio Broadcasting Station.......○——[RS
+                                    CTRS
+
+Radar Beacon (Racons).............○——[BACON
+                                    UBC
+
+Radio Fan Marker Beacons——{   [NFF
+                               100 watts
+                               
+                               [IVATE
+                               
+                               4 watts   [COEE
 
 AURAL RANGE
+        A     N
+     [BLUE RANGE]
+        
+A                                                N    ←27.0°
+— 0°/180°————— ——————————————— ——————————
+N                                    A
 
-VHF OMNI-DIRECTIONAL RANGE (VOR)
+                    N    A
 
-VHF FOUR COURSE VISUAL-AURAL RANGE (VAR)
+The heavy line indicates the "N" quadrant. The bearings shown are magnetic and the magnetic
+variation at the position of the ground station is used for computing them.
 
-Air Traffic Control
-Blue bars where shown indicate air traffic controlled areas. Uncontrolled Civil Airways.
+VHF OMNI-DIRECTIONAL RANGE (VOR)     VHF FOUR COURSE VISUAL-AURAL RANGE (VAR)
+
+        N                                    A      N           B
+        |                                         /
+        |  [CHICAGO RADIO          [Arrow indicating ←27.0°]     /
+        |  1160 CMT VOR]           [Across 076°]                /
+        |                                        /SECTOR
+        |                                       /              Visual
+    W —|— E                                   /——————————————          Aural
+        |                                   /    /           N
+        |                              B —/—— [RUSSIAN RADIO      A
+        |                                /    1122.5 CMT VAR]
+        |
+        S
+        |
+      270°    180°     090°     000°
+                  090°
+
+Bearings are magnetic from the station.
+Radius of circle is 15 nautical miles.
+
+Letters preceding frequency in box
+indicates channel identification.
+
+AIR TRAFFIC CONTROL
+
+[Control Zone diagram showing:]
+                                        ←Control Zone
+    ————————————————————————————
+    Blue dot where shown              [circle symbol]
+    indicates air traffic controlled areas
+
+    ————————————————————————————
+    Controlled Civil Airway          Uncontrolled Civil Airway

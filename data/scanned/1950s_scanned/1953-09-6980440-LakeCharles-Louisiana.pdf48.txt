@@ -1,7 +1,76 @@
-There is no photograph present in this image. This appears to be a page from an old UFO report document from Project Blue Book, containing text with aeronautical symbols and information related to aerodromes, air navigation lights, and miscellaneous elements.
-
 AERONAUTICAL SYMBOLS
+
 AERODROMES
-AERODROME DATA AND LANDING FACILITIES INFORMATION
+
+Aerodromes with facilities
+LAND                    WATER
+
+◇                        ◇ Civil
+◇                        ◇ Joint Civil and Military
+◉                        ◉ Military
+
+Aerodromes with emergency or no facilities
+LAND                    WATER
+
+○                        ○ Landing Area
+                         ⚓ Sheltered Anchorage
+
+AERODROME DATA
+AND LANDING FACILITIES INFORMATION
+
+LAND                                                                    WATER
+ELEVATION                        268 Elevation in feet              59 Elevation in feet
+IN FEET                          1 Minimum lighting                 1 Minimum lighting
+GCA SYSTEM                        4 Hard surfaced runway            5 Normal sheltered; take-off area
+[multiple stamps/marks]           41 Length of longest runway        63 Length of longest runway
+                                      in hundreds of feet                in hundreds of feet
+
+The facility code character is replaced by a dash if specific
+information is not available or if the facility itself is not available
+
+GCA SYSTEM Ground Control Approach System. Other controlled
+approach systems by appropriate abbreviation.
+278 or 379 Control tower transmitting frequencies
+
+[STAMP: NAS ANACOSTIA
+20 9 10
+379]
+
 AIR NAVIGATION LIGHTS
+
+Rotating Light............................ * | Flashing Light (Wtn code)........................ FL *
+
+Rotating Light (wth flasting code lights)........ .... * | Lightship...................................... ⚓
+
+Rotating Light (wtn flashing lights and........ [symbol] | Marine Light...................................... Oo • WAS ●
+                    site number)
+
+Flashing Light............................ Fl * 
+
+F = Fixed        Q = Quick Flashing        Oc = Occulting        Gp = Group        W = White        B = Blue        SEC = Sector
+Fl = Flashing    LQ = Interrupted Flashing        Alt = Alternating        P = Red        G = Green        (u) = Unvatched        = Second
+Marine lights are white unless color are indicated; alternating lights are red and white unless otherwise indicated
+
 MISCELLANEOUS
+
+Obstruction............................ ▲ | Reporting Point (Compulsory)...................... ▲
+   (lights on obstruction top.)          |
+   (reports not least of obstruction top.)
+
+Group Obstruction...................... △ | Reporting Point (Non-compulsory)................. △
+
+Prominent Transmission Line........... ———T——  |
+
+Mooring Mast.......................... ⎣      | Ocean Station Vessel (Normal position)........ ⏠
+
+Isogonic Line........................ — — 4°E — — | International Boundary
+                                   Values for 1953    (Cloud to prohibit aircraft
+                                                      crossing boundary)
+
+Restricted areas are numbered, and are indicated on the charts as follows:
+
+[Hatched rectangle].................. Prohibited Area — Flight of aircraft prohibited except by specific authority of island agency
+
+[Rectangle with hatching]............ Danger, Restricted or Warning Areas — see type boundary for air navigation
+
+[Hatched diagonal rectangle]........ Caution Area — Visible hazards to air navigation

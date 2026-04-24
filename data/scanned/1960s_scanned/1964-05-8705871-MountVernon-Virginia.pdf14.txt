@@ -1,17 +1,39 @@
-The provided image does not contain any photographs. It appears to be a page from a U.S. Department of Commerce Weather Bureau surface weather observations report, which includes various meteorological data such as wind direction, wind speed, temperature, dew point, and other related information. 
-
 U.S. DEPARTMENT OF COMMERCE, WEATHER BUREAU
 SURFACE WEATHER OBSERVATIONS
-STATION: 
-DATE: 1964 MAY 18
-TIME: 0600
-WIND DIR: 26
-WIND SPD: 4
-WIND CHAR: AC
-VISIBILITY: 15
-CEILING: 20008
-TEMP: 47
-DEWPT: 40
-SLP: 1010.3
-WEATHER: 
-REMARKS:
+STATION _________________________________ Washington, D.C. D.C._______ DATE _______1954 MAY 18__
+
+[This is a weather observation form with multiple columns and rows containing meteorological data. The form has the following main sections:]
+
+REL. HUM. | TOTAL CLOUD | LOWEST LAYER | SECOND LAYER | LOWER THIRD LAYER | FOURTH LAYER | TOTAL SKY COVER | NET RADIATION | SUB-CLOUD | PRECIP. AMOUNT
+% | # | AMT. DIR. # | AMT. DIR. HEIGHT # | AMT. DIR. HEIGHT TOTAL # | AMT. DIR. HEIGHT # | # | # | # | # | ##
+
+[Data rows contain various numerical entries and symbols including:]
+66 F — O | 6 0 | 6 0 | 6 3 010
+[Multiple rows of data with numbers and symbols like O, 2, 7, etc.]
+
+SYNOPTIC OBSERVATIONS
+
+[Lower section with columns for:]
+MAX. TEMP. | MIN. TEMP. | MGT. MIN. | STATE OF SEA | SEA STATE CODE | SWELL PERIOD | SWELL PERIOD | SURF HEIGHT | WATER TEMP. | SOIL TEMP.
+
+[Entries include:]
+55 56 | 70 56
+61 57 | 10 61
+72 | 73 72
+72 57
+
+[Multiple sections for observation data and measurements]
+
+DAY (MIDNIGHT TO MIDNIGHT) | PRECIP. & RUNOFF | DUR. | PRESENT & INTENSITY | BEGAN # | ENDED #
+
+[Bottom section contains:]
+PHENOMENA
+Sunrise _____________ Sunset _____________ m.p.h. or
+Speed_____________ associated direction _____________ and time: _____________
+
+[Scale bar at bottom:]
+15 20 30 45 60 80 100 120 150 180
+
+[Several blank lines at bottom of page]
+
+U.S. GOVERNMENT PRINTING OFFICE 1958—O-477395

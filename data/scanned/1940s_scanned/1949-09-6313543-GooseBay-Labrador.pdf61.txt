@@ -1,11 +1,7 @@
-This page does not contain a photograph, but rather a collection of illustrations or symbolic representations commonly used on maps. Below is the text reproduced from the document:
+[This page contains a topographic map excerpt in the upper left, body text in the upper right, and cartographic symbols reference tables below. The document appears to be from a U.S. Geological Survey publication dated November 1937.]
 
----
-
-Large maps of each State and of Alaska showing
-the areas covered by topographic and geologic atlas folios
-issued by the United States Geological Survey may be obtained
-free. Copies of the standard topographic maps may be purchased
+the areas covered by topographic maps and geologic folios published by the United States Geological Survey may be obtained
+from Copies of the standard topographic maps may be obtained
 for 10 cents each; some special maps are sold at different prices.
 A discount of 40 percent is allowed on an order amounting to
 $5 or more at the retail price. The discount is allowed on an
@@ -21,9 +17,33 @@ addressed to
 
 THE DIRECTOR,
 United States Geological Survey,
-Washington, D. C.
-November 1937.
+November 1937.                    Washington, D.C.
 
----
+STRUCTURE
+(i in black)
 
-The remaining part of the document shows various symbols used on maps and are labeled according to their representation, such as "Water" (printed in blue), various types of roads, tunnels, power transmission lines, and others. The labels are too small and blurry to be read accurately through OCR capabilities.
+[Grid showing map symbols including:]
+Grid     Tunnel     Power-    Wharves    Breakwater    Bridge    Drawbridges    Ferry
+Road              transmission          and jetties
+                  line
+
+Oil Township     Reservation   Land Grant   Canyville or    Small park or    Triangulation    U.S mineral
+district line    line          line         township line   cemetery line from a transit  monument
+                                                            station
+
+Mine or      Prospect     Shaft     A         Mine tunnel    Lighthouse     Coast Guard
+quarry                              Mine named  (showing direction)  or beacon   station
+
+WATER
+(printed in blue)
+
+Falls and     Intermittent    Canals or     Aqueducts or    Aqueduct    Locks or    Stream
+rapids        streams and     ditches       waterways                   guard       abandoned canal
+              washes                                                     gates
+
+Intermittent   Glacier      Spring Well    Marsh       Salt marshes
+lake          (uncertain limits)                      or swash
+
+[Text at bottom, partially visible:]
+One
+[illegible section]

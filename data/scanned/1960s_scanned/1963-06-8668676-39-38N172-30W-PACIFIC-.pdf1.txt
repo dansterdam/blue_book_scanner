@@ -1,13 +1,46 @@
-The image does not contain any photographs. It appears to be a Project 10073 record card with various details filled out, including the date, location, type of observation, source, number of objects, course, and comments.
-
 PROJECT 10073 RECORD CARD
-1. DATE
-24 June 1963
-3. DATE-TIME GROUP
-2100
-5. NO. PHOTOS
-6. LENS
-9. LENGTH OF OBSERVATION
-7 MINUTES
+
+1. DATE: 24 June 1963
+
+2. LOCATION: 39.39N 172.30W (PACIFIC)
+
+3. DATE-TIME GROUP: Local ___________
+GMT 25/0829Z
+
+4. TYPE OF OBSERVATION
+[ ] Ground-Visual          [ ] Ground-Radar
+[X] Air-Visual             [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+
+7. LENGTH OF OBSERVATION: Not reported
+
+8. NUMBER OF OBJECTS: one
+
+9. COURSE: 075 degrees
+
+10. BRIEF SUMMARY OF SIGHTING
+Visible Satellite on course of 075 deg with brightness of 2d magnitude star. Speed unknown, altitude unknown.
+
 11. COMMENTS
-On June 24, 1963 at 2100 ECHO crossed the equator heading NE at 100 deg East. This would place the 16263 satellite at about 17 deg S latitude or about 1400 miles south of the time reported for this observation. This position and the descriptions confirms the identity of the object as the 16263 satellite ECHO I.
+On 25 June at 0601Z ECHO crossed the equator heading NE at 100 deg East. This would place the Satellite at about 47 deg North latitude 170 deg W longitude at the time reported for this observation. This position and the description conforms with the analysis of the sighting as the Satellite ECHO I.
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other Satellite (ECHO I)
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 28 SEP 52)

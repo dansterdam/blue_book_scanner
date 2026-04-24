@@ -1,10 +1,49 @@
-There is no photograph present in this image. This appears to be a document titled "WINDS-ALOFT COMPUTATION SHEET (LAND STATION FORM)" from the U.S. Department of Commerce Weather Bureau.
+610-12 - Identification
+
+U.S. DEPARTMENT OF COMMERCE
+WEATHER BUREAU
 
 WINDS-ALOFT COMPUTATION SHEET
 (LAND STATION FORM)
 WBAN-20
-Ascension 4/7/64
-Type of balloon: 700 gr
-Released: 18:00 Z
 
-The document contains a table with various meteorological data, including Elevation angle, Distance from observation point, Wind direction, Wind speed, and other measurements.
+Year: 1960 JUL
+Month: 12
+Day: [illegible]
+Time: [illegible]
+
+Actual
+(Sand.
+contr.)
+
+1960 JUL
+12 [illegible]
+
+Ascension No.: [illegible]
+
+Type of balloon / [illegible]
+
+Pilot balloon observation data table with the following columns:
+- Slant range (m.) (yds.)
+- Pilot balloon ht. above ht. above surface (m.)
+- Elev [illegible]
+- Elevation angle° (Observed / Smoothed)
+- Distance from observation point (m.)
+- Azimuth angle °
+- Wind (Direction° 360°-N, Speed (m.s.))
+- Rowinsonde Time-Altitude Data (Can. / Pressure (mb.) / Altitude (m., m.a.l.) / Elapsed time (min.))
+
+Data rows with values:
+Row 1: 270, 150, 2116, 1, [illegible], 980, 215.5, 1, 9.19, 1510
+Row 2: [illegible], 2, 20.6, 1285, 219.3, 2, 233, 155
+Row 3: 670, 3, 19.7, 273.5, 227.4, 3, 242, 151
+Row 4: 612, 4, 20.1, 254.5, 233.7, 4, 256, 126
+Row 5: 891, 5, 21.2, 664.6, 239.9, 5, 273, 114
+Row 6: 1001, 6, [blank cells], , , 6, [blank], [blank]
+Row 7: 1350, 7, [blank cells], , , 7, [blank], [blank]
+Row 8: 2170, 8, [blank cells], , , 8, [blank], [blank]
+...continuing through rows 9-20 with mostly blank cells
+
+Orientation: 260°-S
+
+[stamp: appears present at top of form]

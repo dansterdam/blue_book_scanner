@@ -1,10 +1,53 @@
-The image does not contain any photograph. It appears to be a Project 10073 record card from the Project Blue Book, a U.S. Air Force operation that investigated unidentified flying objects (UFOs) in the 1950s.
+PROJECT 10073 RECORD CARD
 
-The text from the document is as follows:
-
+1. DATE
 24 Apr 52
-2221
-Ground-Visual
-Female civilian
+
+2. LOCATION
+Dallas, Texas
+
+12. CONCLUSIONS
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP
+Local ______
+GMT: 2S/1217Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS
+Yes ___
+6 No ___
+
+6. SOURCE
+female civilian
+
+7. LENGTH OF OBSERVATION
+
+8. NUMBER OF OBJECTS
 5
-Source had previously made similar reports.
+
+9. COURSE
+
+10. BRIEF SUMMARY OF SIGHTING
+2-red, 2-white, 1-green.
+Small -like a star. Straight and level with one 50 degree turn.
+
+11. COMMENTS
+Source had previously made similar report.
+
+ATIC FORM 329 (REV 26 SEP 52)

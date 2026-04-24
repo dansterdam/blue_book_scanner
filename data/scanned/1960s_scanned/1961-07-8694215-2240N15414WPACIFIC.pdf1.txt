@@ -1,15 +1,53 @@
-The image does not contain any photographs. It appears to be a Project 10073 record card from the Project Blue Book files. I will now proceed to transcribe all the text found in the document:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
-2. DATE-TIME GROUP
-3. DURATION
+5 JUL 61
+
+2. LOCATION
+GUAM 13°34'N [illegible]
+
+3. DATE-TIME GROUP
+Local [illegible]
+ZULU 2130Z
+
 4. TYPE OF OBSERVATION
-5. LOCATION
-6. NUMBER OF OBJECTS
+[ ] Ground-Visual
+[ ] Air-Visual
+[X] [illegible]
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+[illegible]
+
 7. LENGTH OF OBSERVATION
-8. BRIEF SUMMARY OF SIGHTING: The object was observed by the observer for about 15 seconds at an altitude of 15,000 to 20,000 feet. It was brilliant white in color and appeared to be travelling at a high rate of speed. The observer believes it was about the size of a thumbnail held at arm's length. No trail or sound was noted.
-9. COMMENTS: This appears to be a meteor, although the brilliant white color and high speed is unusual for a typical meteor sighting. Possibility of satellite or other man-made object is low. Possibility of aircraft or balloon is remote. Classification as Balloon is doubtful. Other possibilities are:
-a) Meteor
-b) Satellite
-c) Unidentified
+15 min
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+[illegible]
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+10. BRIEF SUMMARY OF SIGHTING: [illegible] object hovering [illegible] initially 25° and disappearing in cloud in bearing 02°. Altitude 1°. Then brilliant orange in blue Vega, white in color.
+
+11. COMMENTS: [illegible] obj was 500 feet for a minute or more, and too slow for a balloon observation is characteristic of Echo I satellite. A pilot of Echo I reports that an object was in area to flying in exact sight path as reported for objt. Therefore, objt was probably Echo I.
+
+ATIC FORM 329 (REV 24 SEP 52)

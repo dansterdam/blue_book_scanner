@@ -1,17 +1,26 @@
-The image does not contain a photograph. It appears to be a page from an old UFO report document from Project Blue Book that contains text describing the examination of a photo.
-
 EXAMINATION OF PHOTO B:
-The photo was not of objects in the sky but rather of an object on the ground. There are no observations or measurements of the object itself, but rather an examination of the photographic quality and technical details. The report describes the shutter speed, exposure time, and other details of the photographic process that was used to capture the image. It also notes that the shutter was opened and closed, suggesting this was not a single exposure photograph.
 
-The text output from the OCR is as follows:
+Camera position: By observation, it was obvious that the photo was not of object D as first reported. There is no pole in the proper position from anywhere near the observation scene. From the NW corner of 78th and Main the pole would be in the correct position, but the lighting and wires different. Thus, the only possible alternative is that the photo was of object A in the West. The approximate camera position was determined by memory and observation of the apparent positions of the cross wires with respect to the pole. Thus it was determined that the camera position was approximately 134 feet east and between 52' 55"N and 51'N south of the pole, elevated on a ladder 5'7" high, with the camera pointing at about a 25° angle. The three test photos (photo 1) were taken from 21'4"N, 22'52"E and 32'8" south of the pole, determining that the correct position is approx. 52° S south.
 
-EXAMINATION OF PHOTO B:
-This photo was not of objects in the sky but rather an object on the ground. The photo was obtained from a witness who claimed to have observed the object on the ground. There were no actual observations or measurements of the object itself, but rather an examination of the photographic quality and technical details. The report describes the shutter speed, exposure time, and other details of the photographic process that was used to capture the image. It also notes that the shutter was opened and closed, suggesting this was not a single exposure photograph.
-OPEN	CLOSED
-30 sec.	30 sec.
-GO sec.	30 sec.
-60 sec.	30 sec.
-60 sec.	30 sec.
-60 sec.	Underline
-60 sec.	END
-Producing the dotted star trails, by comparison with photo 3, the exposure length was determined to be at least 3 minutes. The film used was a high speed panchromatic film. The characteristics of this photo indicate that it was obtained under relatively poor conditions, with a low ambient light level. COMMENTS ON THIS PHOTO: The fact that no other star trails are visible indicates that the UFO object is illuminated, unlike the background stars. The object appears to be stationary. The report concludes that this film was developed and printed by OTHERS elsewhere than the Project Blue Book lab, and that the quality is less than that normally obtained.
+See determination: From this position, Arcturus was observed to east" over the pole, as in the UFO photo, at 12:02 A.M. August 3, determining that is indeed was the correct star.
+
+Exposure determination: Trial interrupted exposures of the blurred were made to determine the length of the UFO exposure. The shutter was open and closed as follows:
+
+OPEN                    CLOSED
+30 sec.                 30 sec.
+30 sec.                 30 sec.
+30 sec.                 30 sec.
+60 sec.                 30 sec.
+30 sec.                 2 min.
+30 sec.                 30 sec.
+30 sec.                 30 sec.
+30 sec.                 30 sec.
+60 sec.                 30 sec.
+30 sec.                 indefinite
+60 sec.                 60 sec.
+60 sec.                 60 sec.
+60 sec.                 end.
+
+producing the dotted star trails. By comparison with photo B in which the pole is the same size as in photo 3, the exposure length was determined to be at least 2 min 50 sec. and at most 2 min 40 sec. depending on how far behind the pole the star went before the exposure was stopped. The approximate angular velocity of the UFO (trail). 2 of the varying light trail is taken to mean light intensity change, is about 49'/min.
+
+COMMENTS ON THE PHOTO: The fact that no other star trails are visible in the UFO photo is probably due to the increase in background illumination near the horizon, compounded by slower film. The test shots were taken with Tri-X developed in Acufine, a much faster film than the XX used for the UFO shots. This film was developed and printed by the Lincoln Journal staff, and as yet no information about their processes has been obtained.

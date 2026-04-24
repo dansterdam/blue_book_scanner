@@ -1,20 +1,33 @@
-There is no photograph or image present in this page from the Project Blue Book UFO report document. 
+b. Light conditions (use on of the following names: night, day, dawn, dusk) ________night________
 
-Text Output:
-Location of Observer:    Denver, Colo.    Latitude and Longitude of each sighting location: 39 deg, 8 min N. - 105 deg, 12 min W. (Near Aurora, Colo.)
-Description of object(s): Bright, circular ground light reported by observer; brighter and "more brilliant" than surrounding area or ground.
-EXAMPLES:  89 1547, 192 7:15 for 39 4:51, 102 23.7.
+c. Location of Observer(s). Known latitude and longitude of each observer, and/or geographical position. A position with reference to a known landmark or with a given in electrical reports, such as "2 mi N of Decaying 1942, SE of Blue Lake". Typographical errors or "garbling" often result in electrically transmitted messages, making location plots difficult or impossible.
 
-In Aurora at Time of sightings in greater park.
+EXAMPLE: 89 USN, 192 7W for 39 USN, 102 2W.
 
-a.  Identifying information on observer(s):
-     (1) Civilian - Name, occupation, address: XXXXXX Aurora (Colo.)
+________In Aurora at East Fence of Missiomous in trailer park.
 
-     (2) Military - Name, grade, organization, duty, and statement of:
+________________________________________________________________________
 
-b. Weather and winds -- Alert conditions at time and place of sighting:
-     (1) Observer(s) account of weather conditions: Clear
-     (2) Report from nearest AWS or U.S. Weather Bureau Office of current weather data available - Temp 37, clear.
-     (3) Ceiling: clear
-     (4) Visibility: 60 miles
-     (5) Thunderstorms in area and quadrant in which located: None.
+f. Identifying Information on Observer(s):
+
+(1) Civilian - Name, age, mailing address, occupation, and estimate of reliability. [redacted] Aurora (widow) Phone [redacted]
+
+(2) Military - Name, grade, organization, duty, and estimate of reliability. ________N/A
+
+g. Weather and Winds -- ALOFT conditions of wind and places of sightings:
+
+(1) Observer(s) account of weather conditions. ________Clear
+
+(2) Report from nearest AWS or U.S. Weather Bureau Office of wind direction and velocity in degrees and knots at surface, 6,000, 10,000, 16,000, 20,000, 30,000, 50,000, and 50,000 if available. ________calm, temp 27, dew point 15,
+
+Alt 20,C8
+
+(3) Ceiling. ________clear
+
+(4) Visibility. ________60 miles
+
+(5) Amount of cloud cover. ________some Cirrus N.W.
+
+(6) Thunderstorms in area ad quadrant in which located. ________None
+
+5

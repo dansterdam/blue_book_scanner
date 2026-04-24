@@ -1,13 +1,59 @@
-The image does not contain any photographs. It appears to be a table or document with various data fields, likely containing information related to a UFO sighting or report.
+Proj: 5992D - STAR TREK                                    TIL#: 00602
 
-Proj: 5992B - STAR TREK
-OBSERVED 7/26/66
-WEIGHT: 300 LBS
-PRESSURE: 29.83 PRESSUEE
-TEMP: 23 C
-AL TITUDE: 63,000 FT
+SOUND NO #36        LOCATION: Rome, Georgia                    DATE: August 27, 1966
+HEIGHT    PRESSURE      TEMP          ELEVATION
+gpm        mb           oc           R.H. %    DIRECTION    DIR
+                                                            o
+
+590         950           23            63           080         8
+
+1059        900           19            62           330         2
+
+1556        850           14            68           310         6
+
+2064        800           10            69           310         12
+
+2590        750            9            31           330         16
+
+3168        700            6            21           310         18
+
+3750        650            4            17           290         24
+
+4420        600            0            17           310         24
+
+5100        550           -3            18           320         32
+
+5562        500           -7            18           320         36
+
+6070        450          -13            18           320         40
+
+7570        400          -17            18           320         46
+
+8554        350          -25            18           310         44
+
+9652        300          -35            19           310         48
+
+10894       250          -46                         300         46
+
+12336       200          -57                         280         48
+
+13174       175          -60                         290         46
+
+14124       150          -63                         220         34
+
+15246       125          -63                         250         32
+
+16624       100          -61                         280         24
+
+17014        80          -61                         200          8
+
+20063        50          -57                         100         16
+
+24233        30          -51                         090         24
+REMARKS:
 
 DATA SOURCE: ETAC Upper-air History Files.
-ANALYST: T. J. Dunham
 
-D-3
+ANALYST: T3t Dunham
+
+P-3

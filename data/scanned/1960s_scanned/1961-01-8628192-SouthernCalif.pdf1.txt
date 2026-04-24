@@ -1,33 +1,32 @@
-The image does not contain any photographs. It appears to be a Project 10073 record card documenting a UFO sighting. I will now proceed to perform optical character recognition (OCR) on the text in the document:
-
 PROJECT 10073 RECORD CARD
-1. DATE
-16 Jan 61
-3. DATE-TIME GROUP
-2400
-5. PHOTOS
-6/16/2002
-7. LENGTH OF OBSERVATION
-15 sec
-10. BRIEF SUMMARY OF SIGHTING: Port Hueneme, Point Mugu, California. Lights shaped like footballs, blue-green, erratic color, object with long fiery tail, traveling up-down. Descending down to horizon in 15 sec. Duration 2 sec.
 
-2. LOCATION
-Port Hueneme, Calif.
-4. TYPE OF OBSERVATION
-CG Ground-Radar
-D Air-Visual
-6. NUMBER OF OBJECTS
-1
-8. COURSE
-Descending.
-11. COMMENTS
-Meteor fighting.
+1. DATE: 16 Jan 61
+2. LOCATION: Southern Calif.
+3. DATE-TIME GROUP:
+Local: <blank>
+GMT: 16/2400Z
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual [ ] Air-Visual
+[ ] Ground-Radar [ ] Air-Intercept Radar
+5. PHOTOS: [ ] Yes [X] No
+6. SOURCE: Civilian
+7. LENGTH OF OBSERVATION: 2 sec
+8. NUMBER OF OBJECTS: 1
+9. COURSE: W
+10. BRIEF SUMMARY OF SIGHTING: Fm Port Hueneme, Point Mugu, Santa Barbara - egg shaped size of football, blue irredesent color. Objt with long firey red tail breaking up. Tail had white center. Descending fm 60° elev in E to horizon in W. Duration 2 sec.
+11. COMMENTS: Meteor sighting.
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical Meteor
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_______________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-13. CONCLUSIONS
-Was Balloon
-Possibly Balloon
-Was Aircraft
-Possibly Aircraft 
-Was Astronomical
-Possibly Astronomical
-Insufficient Data for Evaluation
+ATIC FORM 329 (REV 26 SEP 52)

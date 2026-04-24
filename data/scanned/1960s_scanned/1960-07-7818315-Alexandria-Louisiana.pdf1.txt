@@ -1,14 +1,51 @@
-The image does not contain any photograph. It appears to be a page from a Project Blue Book record card, which is a document used to record details of unidentified flying object (UFO) sightings investigated under Project Blue Book, a historical U.S. Air Force program that investigated UFO reports.
-
-TEXT FROM THE DOCUMENT:
-
 PROJECT 10073 RECORD CARD
-1. DATE 23 Jul 60
-2. DATE-TIME GROUP 2332Z
-3. LOCATION Alexandria, Louisiana
-4. TYPE OF OBSERVATION D Ground-Radar
-5. PHOTOS 0 Yes
-6. LENGTH OF OBSERVATION 2-3 minutes
-7. NUMBER OF OBJECTS Several
-8. COURSE descending
-9. COMMENTS The description given to the USAF investigator apparently referred to several aircraft with rotating lights or rotating beacon lights which were observed on radar. The report indicates the objects were descending.
+
+1. DATE: 23 Jul 60
+
+2. LOCATION: Alexandria, Louisiana
+
+12. CONCLUSIONS:
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical Meteor
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP:
+Local ___
+GMT 24/0235Z 50 0500Z
+
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS:
+[ ] Yes
+[X] No
+
+6. SOURCE:
+Military and Civilian
+
+7. LENGTH OF OBSERVATION:
+2-5 sec Trails - 2+ sec
+
+8. NUMBER OF OBJECTS:
+seven
+
+9. COURSE:
+descending
+
+10. BRIEF SUMMARY OF SIGHTING:
+Bright flashes of light which left trails of varying sizes were observed by 4 persons from 0230 to 0502. In all there were 7 objects. All of the objects were seen in the S.E. portion of big dipper. The flashes visible for 2-5 seconds. The trail persisting up to 2+ seconds.
+
+11. COMMENTS:
+The observations reported are very similar to meteors entering the earth's atmosphere. This was probably part of a meteor shower.
+
+ATIC FORM 329 (REV 20 SEP 52)

@@ -1,26 +1,35 @@
-There is no photograph present in this image. The image appears to be a page from a Project Blue Book document containing a table of UFO sightings from November 16-30, 1952. The table includes information such as the date, location, observer, and evaluation for each sighting.
-
 16 - 30 NOVEMBER 1952 SIGHTINGS
-DATE      LOCATION                  OBSERVER        EVALUATION
-16        Landrum, South Carolina    Military (RADAR)Other (SUN DOG)
-16        Imperial Beach, California Military       Balloon
-16        Bisten-Bin Rh, Germany     Military       Other (INTERFERENCE)
-16        McAndrew AFB, Newfoundland Military       Balloon
-16        Newfoundland (CARD MISSING)                Insufficient Data
-17        Lumerton, North Carolina   Military       Aircraft
-19        Florence, South Carolina   Military       Astro (METEOR)
-19        Newfoundland (CARD MISSING)                Aircraft
-20        Curtis Indies, Louisiana   Civilian       Balloon
-21        Salton Sea, California     Military (PHOTO)Insufficient Data
-21        Caribbean Sea               Military       Astro (PLANETS)
-21        Redwing, Wisconsin         Civilian       Insufficient Data  
-21        Redwood City, California   Civilian       Astro (METEOR)
-22        Aiken, South Carolina      Germany (CARD MISSING) Other (REFLECTION)
-23        Gannett Hill, New York     Civilian        Insufficient Data
-24        Glendale, California (CARD MISSING)        UNIDENTIFIED
-25        Hunanie, Virginia          Military        Aircraft
-27        White Sands, New Mexico    Military        UNIDENTIFIED
-28        Albuquerque, New Mexico    Military        UNIDENTIFIED
-29        Dequincy, Louisiana        Military        Astro (STARS/PLANETS)  
-30        Ogden, Utah, 39°N          Military        Aircraft
-30        Washington, D.C.           Military        UNIDENTIFIED
+
+DATE     LOCATION                                    OBSERVER              EVALUATION
+
+16       Landrum, South Carolina                     [PHOTO]               Other (SUN DOG)
+16       Imperial Beach, California                  [illegible]           Balloon
+16       Rhein-Main AB, Germany                      Military (RADAR)      Other(INTRASSENCE)
+16       Mandrew AFB, Newfoundland                   Military              Balloon
+16       Newfoundland (CARD MISSING)                 [illegible]
+16       North Korea (CARD MISSING)                  [illegible]
+16       Limerton, North Carolina                    [illegible]           Insufficient Data
+17       Foronce, South Carolina                     Military              Aircraft
+17       Newfoundland (CARD MISSING)                 [illegible]
+18       Quetta, India                               Civilian              Astro (METEOR)
+19       Guanarito, Venezuela                        [illegible]           Aircraft
+20       Salton Sea, California                      [illegible]           Balloon
+21       Cuba (CARD MISSING)                         Military (PHOTO)
+21       Caribbean Sea                               Military              Insufficient Data
+21       Redwing, Wisconsin                          [illegible]           Astro (STARS/PLANETS)
+21       Port Benning, Georgia                       Unknown               Insufficient Data
+21       Aiken, South Carolina                       [illegible]           Astro (METEOR)
+22       Germany (CARD MISSING)                      [illegible]
+23       Gannett Hill, New York                      [illegible]           Other (REFLECTION)
+24       Glendale, California (CARD MISSING)         [illegible]
+24       Ojibwa, Wisconsin                           Civilian              Insufficient Data
+24       Annandale, Virginia                         [illegible]           UNIDENTIFIED
+25       White Sands, New Mexico                     Military              Aircraft
+25       Albuquerque, New Mexico                     Military              UNIDENTIFIED
+27       Dequincy, Louisiana                         [illegible]           Astro (STARS/PLANETS)
+28       Ogden, Utah                                 Military              Aircraft
+29       112954'W - 39°N                             Military              Aircraft
+30       Washington, D. C.                          [illegible]           Aircraft
+30       Washington, D. C.                          Military              UNIDENTIFIED
+
+[handwritten: CARD 2648 (MISC MISSING)     MILITARY(ANDING)]

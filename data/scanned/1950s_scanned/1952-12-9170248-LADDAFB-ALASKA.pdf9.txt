@@ -1,14 +1,48 @@
-The image appears to contain a hand-drawn diagram or sketch rather than a photograph. The diagram depicts a gunnery range with various coordinates and markings, including a section labeled "FAIRBANKS D-2 SE, ALASKA".
-
 GUNNERY RANGE
-PRINTED BY ARMY MAP SERVICE, CORPS OF ENGINEERS, 8-51-707756
+
+-81
+
+-71          -72     36'00"          -73                    -74              -75          -76 147°30'00"
+                                                                                          64°40'00"
+-25,000
+                                                    PRINTED BY ARMY MAP SERVICE, CORPS OF ENGINEERS, 8-51, 70178
+           1 Mile
+                                                    INDEX TO ADJOINING SHEETS
+      1000         2000 Meters
+      
+      1000         2000 Yards
+
 INTERVAL 50 FEET
-CONTOURS AT 25 FOOT INTERVALS
-POLAR PROJECTION
+OURS AT 25 FOOT INTERVALS
+MEAN SEA LEVEL
+
+ATOR PROJECTION
 NORTH AMERICAN DATUM
-TRANSVERSE UNIVERSAL TRAVERSE MERCATOR PROJECTION
-11
-APPROXIMATE MEAN DECLINATION 1951 - 19 DEG 30 MIN E
-MAGNETIC DECLINATION OF MAP 19 DEG 30 MIN EAST
-EFFECTIVE MAGNETIC DECLINATION IN AREA OF MAP MAY BE SLIGHTLY DIFFERENT FROM ABOVE
+
+1:1 000 METER UNIVERSAL TRANSVERSE
+:RID, ZONE 6
+
+4 GRID NUMBERS ARE OMITTED
+
+USE PUBLIC LAND LINES
+
+[illegible section - appears to be technical notes about datum and coordinates]
+
+[The page contains a detailed military topographic map with grid references. There is also a diagram showing declination information with an arrow labeled "ANNUAL MAGNETIC CHANGE 4° WESTERLY" and text reading:]
+
+APPROXIMATE MEAN DECLINATION 1951
+ANNUAL MAGNETIC CHANGE 4° WESTERLY
+
+Use diagram only to obtain converted values.
+To convert from grid to magnetic add
+angle given "F" on the north side of the same
+with the value of the angle between GRID
+NORTH and MAGNETIC NORTH as shown on
+the diagram north of the north edge of the map.
+
+[Index to adjoining sheets grid showing 9 boxes arranged 3x3]
+
+Sheet 1:250 M SE Seq indice hgt 5; e1L AMG GH4L
+1:250,000
+
 FAIRBANKS D-2 SE, ALASKA

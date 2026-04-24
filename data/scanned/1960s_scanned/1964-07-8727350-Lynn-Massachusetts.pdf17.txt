@@ -1,7 +1,41 @@
-The image does not contain any photographs. It appears to be a page from a report or document titled "WINDS-ALOFT COMPUTATION SHEET" from the U.S. Department of Commerce.
+FORM 60-12
+
+*Identification
+Portland, Maine (City Airport)
+43° 38'N 70° 19'W 75th Mer.
+Rawin WDRT 60 Eft. 25%
+
+U.S. DEPARTMENT OF COMMERCE
+WEATHER BUREAU
 
 WINDS-ALOFT COMPUTATION SHEET
-(LAND STATIONS)
+(LANDSTATION FORM)
 WBAN-20
 
-The document contains a table with various data fields such as "Station", "Pilot balloon no.", "Rawln or pilot balloon", "Elevation angle", "Distance from observation point", "Wind direction", "Wind speed", and other related information.
+Year: 1964
+Month: JUL
+Day: 15
+Time: 1200
+
+Ascension No. 777
+
+Page: D
+
+Type of balloon: Pilot
+
+[THIS IS TABLE: A detailed winds-aloft computation sheet with multiple columns including:
+- Pilot balloon sighting range (m), (yds.)
+- Observation parameters (Mt. elev., etc., in.)
+- Elevation angle
+- Observed
+- Smoothed
+- Distance from elevation point (m)
+- Azimuth angle
+- Direction of 360° N.
+- Speed (m.p.s.)
+- Height (m)
+- Altitude data columns
+
+The table contains 19 rows of numerical data with various measurements and observations. The data appears to be hand-written entries with elevations ranging from approximately 214 to 6432 feet and various directional and speed measurements.]
+
+[handwritten notes on left margin are partially visible but not fully legible]

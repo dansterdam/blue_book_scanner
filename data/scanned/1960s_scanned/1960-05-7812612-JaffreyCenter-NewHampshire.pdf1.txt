@@ -1,11 +1,46 @@
-The image does not contain any photograph. It appears to be a Project Blue Book record card with various fields filled out, such as the date, location, type of observation, number of objects, conclusions, and a brief summary of the sighting.
-
 PROJECT 10073 RECORD CARD
+
 1. DATE: 20 May 60
-3. DATE-TIME GROUP: 2005022 May 60
-5. PHOTOS: None
-7. LENGTH OF OBSERVATION: 5 mins
+
+2. LOCATION: Jaffrey Center, New Hampshire
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP:
+Local ___0002___
+GMT ___2005/22 May 60___
+
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual        [ ] Ground-Radar
+[ ] Air-Visual           [ ] Air-Intercept Radar
+
+5. SOURCE: Civilian
+
+6. PHOTOS:
+[ ] Yes
+
+7. LENGTH OF OBSERVATION: 1 min
+
+8. NUMBER OF OBJECTS: ODB
+
+9. COURSE: SW
+
 10. BRIEF SUMMARY OF SIGHTING:
-Large white sphere, halo around it, object disappeared to the west or observer's view at high speed - about 1 second. Disappeared W or S, low in sky. Appeared to be descending.
+Very bright and deep gold, about 3 times as large as a planet, size similar to the sun seen high through thick clouds, clear-cut circle or disc. Motion was plainly visible as it crossed a window aprox 5 ft x 3 ft high diagonally from top to bottom. Appeared E of S, high in sky. Disappeared W of S, low in sky, seemed to be descending.
+
 11. COMMENTS:
-It is believed that the object of this sighting probably reflects one, or a series of small, dim oscillating or oscillating points of light. If the object had a real solid form, the witness could not have observed it in the manner described. The speed at which the object disappeared would probably have precluded its being observed. It is believed the witness made a wrong estimate of the time elapsed.
+It is believed that the object of this sighting was probably a reflection, however there is not sufficient data to support this claim. If the object had been a balloon it probably would not have crossed the area covered by the window so quickly and an a/c would probably have crossed much faster. This case contains insufficient data to reach a conclusion.
+
+ATIC FORM 329 (REV 24 SEP 52)

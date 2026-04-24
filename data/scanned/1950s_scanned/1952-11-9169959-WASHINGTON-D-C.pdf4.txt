@@ -1,24 +1,49 @@
-There is no photograph present in this image. This appears to be a project blue book record card from 1952, containing various details about a UFO sighting, including the date, location, type of object, source, number of objects, course, and a brief summary of the sighting. The text in the image has been fully transcribed below:
+1. DATE: 15 Nov 52
 
-PROJECT 10073 RECORD CARD
-1. DATE 15 Nov 52
-2. LOCATION Washington, D.C.
-3. DATE/TIME LOCAL 0240
-4. TYPE Ground-Visual
-5. PHOTOS □ Yes
-6. LENGTH OF OBSERVATION 7 - 8 seconds
-7. NUMBER OF OBJECTS 1
+2. LOCATION: Washington, D.C.
+
+3. DATE-TIME GROUP
+Local          0240
+GMT            0740
+
+4. TYPE OF OBSERVATION
+[X]Ground-Visual     [ ] Ground-Radar
+[ ] Air-Visual       [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X]No
+
+6. SOURCE
+OSI Agent - Captain
+
+7. LENGTH OF OBSERVATION
+7 - 8 seconds
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+S
+
 10. BRIEF SUMMARY OF SIGHTING
-White or pale blue color. Took left turn to the south and made 15 degree ascent. Light traveling very fast to the south and return and went into 15 degree climb. Total time of observation was 7 or 8 sec.
-11. COMMENTS
-Object attracted attention of observer as it passed over his house making noise compared to jet or discernible speed. sound characteristic of jet a/c.
-12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Was Aircraft
-□ Possibly Aircraft
-□ Was Astronomical
-□ Possibly Astronomical
-□ Other
+White or pale blue color. Made left turn to the south and made 45 degree ascent. Light traveling very fast tl the south and made U-turn and went into a 45 degree climb. Total time of observation was 7 or 8 sec.
 
-Insufficient Data for Evaluation
+11. COMMENTS
+Object attracted attention of observer as it passed over his house making noise compared to 6 jet aircraft. Speed, sound light and maneuvers are characteristic of jet a/c.
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[X] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Date for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 24 SEP 52)

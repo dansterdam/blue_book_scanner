@@ -1,28 +1,36 @@
-The image does not contain any photographs. It appears to be a "PHOTO SERVICE REQUEST" form, which is a document used to request photographic services.
-
-TOPP WORK ORDER NO. 2-88
 PHOTO SERVICE REQUEST
-TO: TOPP
-DATE FEB 65
-PROJECT NO. AB 5927
-TASK NO. 
-INITIATOR EXP. DATE COMPLETION  COMPLETED DATE  QUALITY CONTROL
-2-20 SEP65  
-ORGAN CODE EXT.  CLASSIFICATION TAB. 61-1
-SHDR CLASSIFICATION:  UNCLASSIFIED
+
+TO: TODPP | DATE: 9 Feb 65 | PROJECT NO.: ADSXO1 | TASK NO.: [blank]
+
+INITIATOR: S-5 Jones | EXP. DATE COMPLETION: 10 Feb 65 | COMPLETED DATE: [blank] | QUALITY CONTROL: [blank]
+
+ORGN CODE: TUD | EXT: [illegible] | CLASSIFICATION: Unclass | TAB: [blank]
+
 DESCRIPTION OF SERVICES: (Include purpose of request, time and place of requirement, and other pertinent information).
-Shoot item from all angles using a ruler for measurements.
+
 PHOTOGRAPHIC SPECIFICATIONS
- Caps 4x5  By: Projection Prints - 8x10
-Continuous-Tone Negatives  By: Continuous Prints
-Diapositive By: Enlargements - 8x10
-Glass Plates By: 
-No. of Copies Four (4) 3A
+
+[X] Copy | 4x5 | By [blank] | [X] Projection Prints | 8x10 | By [blank]
+[ ] Duplicate Negative | By [blank] | [ ] Continuous Prints | By [blank]
+[ ] Duplicate Positive | By [blank] | [X] Other | By [blank]
+[ ] Develop | By [blank] | [X] Glass | [X] Single Wt
+[ ] Contact Prints | By [blank] | [ ] Matte | [ ] Double Wt
+
+No. of Copies: Four (4) EA
+
 MATERIAL FURNISHED:
-Shoot item from all angles using a ruler for measurements.
+
+Shoot item from all angles using a ruler for measurement
+
 REMARKS/ADDITIONAL INFORMATION:
 
+[blank section]
+
 RECEIPT FOR PHOTOGRAPHIC WORK
-I certify that I have received the original(s) and_____________ print(s), all to be used in the service of the UNITED STATES GOVERNMENT ONLY.
-NAME BANK DATE
-TOPP WORK ORDER NO. 2-88
+
+I certify that I have received ________ originals, ________ negatives and ________ prints, all to be used in the service of the UNITED STATES GOVERNMENT ONLY.
+
+NAME: [blank] | RANK: [blank] | DATE: [blank]
+
+TDOPP WORK ORDER NO. (top right): 2-88
+TDOPP WORK ORDER NO. (bottom right): 2-88

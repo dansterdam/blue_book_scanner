@@ -1,28 +1,106 @@
-The image does not contain any photographs. It appears to be a form or report related to Project 1007, with various fields and checkboxes.
+PROJECT 10073 WORKSHEET
+I. GENERAL
 
-HEADING: PROJECT 1007? WORKSHEET
+1. DATE
+[illegible]
 
-1. DATE: 1. 
-2. LOCATION:  
-3. TYPE: 
-4. WAS OBJECT OBSERVED FROM THE GROUND?:  Naked Eye, Binoculars, Telescope, Theodolite
-5. WAS OBJECT OBSERVED BY GROUND RADAR?: Yes, By One Set, By Two Sets, By Three Sets, No
-6. WAS OBJECT OBSERVED FROM THE AIR?: Yes, A/C Observed Object, Description Attempted, Attempted Attachment
-7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT?: Yes, A/C Scrambled, Visual Contact Made, V/I Contact Made, No Contact Made
-8. DID OBJECT CHANGE DIRECTION AT ANY TIME?: Yes, No
-9. IF OBJECT WAS A "LIGHT", WAS IT?: Brillliant, Blinking, Steady
-10. LENGTH OF TIME IN SIGHT: 1-10 seconds, 11-20 seconds, Over 30 minutes
-11. REPORTING AGENCY (Unit Number and Mailing Address):  
+2. LOCATION
+D.C.
+
+3. TYPE
+Locals
+Zebras
+
+4. WAS OBJECT OBSERVED FROM THE GROUND?
+[ ] Yes
+[ ] Naked Eye
+[ ] Binoculars
+[ ] Telescope
+[ ] Theodolite
+[X] No
+
+5. WAS OBJECT OBSERVED BY GROUND RADAR?
+[X] Yes
+[ ] By One Set
+[ ] By Two Sets
+[ ] By Three Sets
+[ ] No
+
+6. WAS OBJECT OBSERVED FROM THE AIR?
+[ ] Yes
+[ ] A/C Observed Object
+[ ] Interception Attempted
+[ ] No Interception Attempted
+[X] No
+
+7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT?
+[ ] Yes
+[ ] A/C Scrambled
+[ ] Visual Contact Made
+[ ] A/I Contact Made
+[ ] No Contact Made
+[X] No
+
+8. DID OBJECT CHANGE DIRECTION AT ANY TIME?
+[X] Yes
+[ ] Normal
+[ ] Violent
+[ ] No
+
+9. IF OBJECT WAS A "LIGHT", WAS IT:
+[ ] Blinking
+[ ] Steady
+
+10. LENGTH OF TIME IN SIGHT
+[ ] 1-15 Seconds
+[ ] 1-5 Minutes
+[ ] Over 10 Minutes
+
+11. REPORTING AGENCY (Unit Number and Mailing Address)
+[black redaction]
 
 II. ASTRONOMICAL DATA
-12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED?: 
-13. DID OBJECT APPEAR TO ARCH DOWNWARD?: Yes, No
-14. DID OBJECT APPEAR TO HAVE A TAIL?: Yes, No
-15. DID OBJECT APPEAR TO DISINTEGRATE?: Yes, No
-16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET: Night, Day, Sunrise, Sunset
+
+12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED?
+[illegible]
+
+13. DID OBJECT APPEAR TO ARCH DOWNWARD?
+[X] Yes
+[ ] No
+
+14. DID OBJECT HAVE A TAIL?
+[ ] Yes
+[ ] No
+
+15. DID OBJECT APPEAR TO DISINTEGRATE?
+[X] Yes
+[ ] No
+
+16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (Data from Air Almanac)
+[ ] Night
+[ ] Day
+[ ] Sunrise
+[ ] Sunset
 
 III. AIRCRAFT DATA
-17. WERE AIRCRAFT NOTED IN AREA?: Yes, No
-18. WAS ANY SOUND HEARD?: Yes, No
-19. WERE THERE INDICATORS OF HIGH BACKGROUND NOISE?: Yes, No
-20. WAS THE OBJECT VIEWED ABOVE HORIZON?: Yes, No
+
+17. WERE AIRCRAFT NOTED IN AREA?
+[X] Yes
+[ ] One Aircraft
+[ ] More Than One Aircraft
+[ ] No
+
+18. WAS ANY SOUND HEARD?
+[ ] Yes
+[ ] No
+
+19. WERE THERE INDICATIONS OF HIGH NEIGHBORING NOISE?
+[X] Yes
+[ ] No
+
+20. WAS THE OBJECT VIEWED ABOVE L50 ELEVATION?
+[ ] Yes
+[illegible]
+[ ] No
+
+ATIC Form 339 (13 Aug 52)

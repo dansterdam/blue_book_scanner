@@ -1,18 +1,30 @@
-There is no photograph present in this image. The image shows a page from an old report document, likely from Project Blue Book, containing a questionnaire with questions about estimating the speed and distance of an unidentified object.
+Page 8
 
-The text in the document is as follows:
+39. Do you think you can estimate the speed of the object?
 
-39. Do you think you can estimate the speed of the object? (Circle One) Yes No
-IF you answered YES, then what speed would you estimate?
+(Circle One)     Yes     No
 
-40. Do you think you can estimate how far away from you the object was? (Circle One) Yes No 
-IF you answered YES, then how far away would you say it was?
+IF you answered YES, then what speed would you estimate?_________________________
+
+40. Do you think you can estimate how far away from you the object was?
+
+(Circle One)     Yes     No
+
+IF you answered YES, then how far away would you say it was?_____________________
 
 41. Please give the following information about yourself:
-NAME: Last Name First Name Middle Name
-ADDRESS: Street City Zone State 
-TELEPHONE NUMBER:
-Age: Sex: MALE
+
+NAME_________________________     ____________     _____________     ____________
+            Last Name                First Name           Middle Name
+
+ADDRESS_______________________     ____________     _____     ______
+            Street                      City            Zone      State
+
+TELEPHONE NUMBER____________________________
+
+Age________     Sex MALE
+
 Indicate any additional information about yourself, including any education, which might be pertinent.
 
-42. Date you completed this questionnaire: Day Month Year
+42. Date you completed this questionnaire:     _________     _________     _________
+                                               Day         Month        Year

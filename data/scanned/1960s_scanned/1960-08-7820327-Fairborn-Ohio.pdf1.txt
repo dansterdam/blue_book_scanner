@@ -1,11 +1,47 @@
-The image does not contain a photograph. It appears to be a page from a project blue book record card, which includes various fields such as date, location, type of observation, duration of observation, number of objects, and comments.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 16 AUG 60
-3. DATE-TIME GROUP: 2300
-4. LOCATION: FAIRBORN, Ohio
-5. TYPE OF OBSERVATION: O Ground-Radar
-6. DURATION: 6 MIN
-7. LENGTH OF OBSERVATION: 6 MIN
-10. BRIEF SUMMARY OF SIGHTING: THE STAR ALPHA AQUILAE AND TWO SMALLER OBJECTS WHICH SEEMED TO TRAIL THE STAR, COLOR BLUISH-WHITE AND TWO SMALLER OBJECTS APPEARED SUDDENLY, CHANGED BRIGHTNESS, THEN DISAPPEARED. THE SMALLER OBJECTS SEEMED TO BE PROJECTED IN FRONT OF THE STAR, BRIGHT THROUGH DARK, NO SOUND. IT IS POSSIBLE THAT THE SMALLER OBJECTS WERE SATELLITES TRAILING THE STAR ALPHA AQUILAE.
-11. COMMENTS: IT IS POSSIBLE THAT THE TWO SMALLER OBJECTS WERE SATELLITES TRAILING THE STAR ALPHA AQUILAE.
+
+1. DATE: 16 Aug 60
+
+2. LOCATION: Fairborn, Ohio
+
+3. DATE-TIME GROUP
+Local: 2100
+GMT: 17/0200Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE: Civilian
+
+7. LENGTH OF OBSERVATION: did not disappear
+
+8. NUMBER OF OBJECTS: THREE
+
+9. COURSE: NW?
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[X] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+Two starlike dots with larger object which seemed to trail the dots, color bluish-white to faded yellow. Object appeared as a light with rays. It appeared to stand still, explode, give off smoke, change brightness. The elevation increased 5-10° as it proceeded NW. Object still visible after 40 min after initial sighting.
+
+11. COMMENTS
+It is possible that the objects were the star Alpha Aquila (Altair) mag 0.9 and two smaller stars.
+
+ATIC FORM 329 (REV 28 SEP 52)

@@ -1,47 +1,60 @@
-The image appears to be a page from an old UFO report document. It contains explanatory diagrams and symbols related to aeronautical and radio communication facilities. There is no photograph present in this image.
-
-The text extracted from the document is as follows:
-
 AERONAUTICAL SYMBOLS
 RADIO FACILITIES
 
-Radio Range............................---------............. Radio Communication Station............ O
-(With voice)                                                            (Without voice)
+All radio facility data are printed in blue with the exception of certain LF/MF facilities such as outer frequencies, radio range and associated airways, which are printed in magenta.
+Methods of indicating specific voice and CW calls are shown below.                    Use of the word "Radio" within the box indicates voice facilities.
 
-Radio Range............................---------............. Radio Communication Station............ O
-(Without voice)                                                        (With voice)  
+Radio Range........................ O—[BARFIELD RADIO](With voice)                    Radio Communication Station.....O—[DEAN RADIO](With voice)
 
-Non-directional Radio-beacon.........---------............. Radio Broadcasting Station............... O
-(With voice)                                                                  
+Radio Range........................ O—[COLIN RANGE](Without voice)                    Radio Communication Station.....O—[DEAN](Without voice)
 
-Non-directional Radio-beacon.........---------............. Radar Beacon (Racon).................... O
-(Without voice)
+Nondirectional Radiobeacon ....... O—[GOODALL RADIO](With voice)                    Radio Broadcasting Station.........O—[WBT 1022]
 
-Marine Radio-beacon..................---------............. Radio Fan Marker Beacon................. O
+Nondirectional Radiobeacon ....... O—[AM 327 2+N](Without voice)                    Radar Beacon (Racon)................O—[358 'X' 1.5]
 
-Radio Direction Finder................---------............. 
-(Without voice)
+Marine Radiobeacon ................O—[AIRASULA 385 kc./s, 600m-l/3m]               VERT
 
-Radio Direction Finder................---------............
-(With voice)
+Radio Fan Marker Beacon ......... [SVLT]
+[200 on 3]
+[WLT]
+[5 watts]
+[WLT]
 
-AERIAL RANGE
-    A
- ------  ------
-N         A
-    N
+Radio Direction Finder ............O—[W GRIFFITH](Without voice)
 
-VHF OMNI-DIRECTIONAL RANGE (VOR)         VHF FOUR COURSE VISUAL-AURAL RANGE (VAR)
- --
- |
- |
- |
- |
- |
- |
- --
+Radio Direction Finder ............O—[ADAM OF WOMEN](With voice)
+
+AURAL RANGE
+A [N]
+[BARFIELD 2470]
+[200 on 3/2]
+
+A                                                                                                                              N
+←—991°—————— . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ——171°→
+N                                                                                                                               A
+
+A
+N [N]
+
+The heavy line indicates the "N" quadrant. The bearings shown are magnetic and the magnetic variation at the position of the ground station is used for computing them.
+
+VHF OMNI-DIRECTIONAL RANGE (VOR)                            VHF FOUR COURSE VISUAL-AURAL RANGE (VAR)
+
+[CHICAGO RADIO                                                                               N
+113.9 250° 25.0°]                                                                             A            B
+                                                                                                                Y
+                                                                                                    SECTOR
+                                                                                            Line preceding frequency in box
+                                                                                            indicates channel bandwidth notation
+
+Visual                Aural
+[VAN RADIO
+117.5 237° 15.0°]
+
+Bearings are magnetic from the station.                                        A            N
+Radius of sheds is 10 nautical miles.
 
 AIR TRAFFIC CONTROL
 
-Blue line where shown................Controlled Civil Airway
-Red line where shown................Uncontrolled Civil Airway
+Blue line where shown          Controlled Civil Airway          Uncontrolled Civil Airway
+indicates air traffic controlled areas

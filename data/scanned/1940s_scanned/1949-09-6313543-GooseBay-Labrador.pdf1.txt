@@ -1,10 +1,7 @@
-There are no photographs in the image provided. Here is all the text found in the document:
-
-```
 PROJECT 10073 RECORD
 
 1. DATE - TIME GROUP
-10 Sep 10/01562
+10 Sep 10/0152Z
 
 2. LOCATION
 Goose Bay, Labrador
@@ -12,32 +9,36 @@ Goose Bay, Labrador
 3. SOURCE
 Military
 
+10. CONCLUSION
+Astro(METEOR)
+
 4. NUMBER OF OBJECTS
 One
 
 5. LENGTH OF OBSERVATION
 Not Reported
 
+11. BRIEF SUMMARY AND ANALYSIS
+Object was egg shaped,. The front section was yellow and red
+though it was on fire while aft portion was brilliant incandescent.
+Ob ject was green about the size of a railroad oil car. Objo,
+was traveling very fast and disappeared into a cloud. No scowl
+exhaust, or trail was observed. Object was in a steady slight.'
+curved descent and did not flutter,.
+
 6. TYPE OF OBSERVATION
 Air Visual
 
 7. COURSE
-Descending at 70 Deg Angle
+Descending at 70 Deg Angl
 
 8. PHOTOS
-o Yes
-X No
+☐ Yes
+☒ No
 
 9. PHYSICAL EVIDENCE
-o Yes
-X No
-
-10. CONCLUSION
-Astro(METEOR)
-
-11. BRIEF SUMMARY AND ANALYSIS
-Object was egg shaped,. The front section was yellow and red though it was on fire while aft portion was brilliant incadescent, Object was green about the size of a railroad oil car. Obju; was travelling very fast and disappeared into a cloud. No sound exhaust, or trail was observed. Object was in a steady slightl,y curved descent and did not Flutter;.
+☐ Yes
+☒ No
 
 FORM
-FTD SEP 63-329 (TDE)                 Previous editions of this form may be used.
-```
+FTD SEP 63 0-329 (TDE) Previous editions of this form may be used.

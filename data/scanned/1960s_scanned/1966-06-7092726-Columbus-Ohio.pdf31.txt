@@ -1,22 +1,41 @@
-The image does not contain any photographs. It appears to be a page from a project blue book UFO report document.
-
-TEXT OUTPUT:
-
 PROJECT 10073 RECORD
-1. DATE - TIME GROUP 2. LOCATION
-12 June 66 13/28/52 Columbus, Ohio
-3. SOURCE Multiple
-4. CONCLUSIONS
+
+1. DATE - TIME GROUP
+12 June 66 13/0240Z
+
+2. LOCATION
+Columbus, Ohio                                Multiple
+
+3. SOURCE
 Civilian
+
+10. CONCLUSION
+Satellite (Echo II)
+
 4. NUMBER OF OBJECTS
 One
+
 5. LENGTH OF OBSERVATION
 15 Minutes
-6. TYPE OF OBSERVATION Ground Visual
-7. COURSE Southerly
+
+11. BRIEF SUMMARY AND ANALYSIS
+Observers noted object that appeared as a light comparable with the brightest star. On both accounts light was whitish in color and no sound was noted.
+
+6. TYPE OF OBSERVATION
+Ground Visual
+
+Aircraft were in the area; however, Echo II was passing overhead at 0244Z and believed responsible for the sighting.
+
+7. COURSE
+Southerly
+
 8. PHOTOS
-? YS
+[ ] Yes
+[X] No
+
 9. PHYSICAL EVIDENCE
-? YS
-? NO
-FTD FORM 0-129 (TDE) Previcn, editions of this form may be used.
+[ ] Yes
+[X] No
+
+FORM
+FTD SEP 63 0-329 (TDE)   Previous editions of this form may be used.

@@ -1,37 +1,40 @@
-The image does not contain a photograph, but rather a table with information about altitude and air temperature observations. 
+Clouds Aloft Observation for S.S. Cloud, Minnesota
+Proj: 3-0081 - STAR TRAK - St. Paul, Minnesota (27 Dec 66 [illegible]) 3331 Dunha-
 
-Cranks Alert Observation for St. Cloud, Minnesota
-Project 10123 - STAR TRACK - St. Paul, Minnesota (27 Dec 65)
-Journal no. 22
+Journis: 22
 
-Altitude (FT)     Air Temperature
-2,200            030
-3,200            030
-4,000            100
-5,000            110
-6,000            120
-7,000            130
-8,000            140
-9,000            140
-10,000           140
-12,000           150
-14,000           200
-16,000           200
-18,000           200
-20,000           210
-23,000           220
-25,000           220
-30,000           220
-31,000           220
-32,000           240
-37,000           240
-38,000           240
-40,000           250
-45,000           260
-50,000           260
-53,000           260
-60,000           320
-70,000           350
-80,000           350
-90,000           350
-92,000           350
+Altitude (ft) | Wind Direction | Wind Speed(kts)
+---|---|---
+2,000 | 080 | 11
+2,200 | 090 | 7
+4,000 | 100 | 15
+5,000 | 110 | 15
+6,000 | 120 | 15
+7,000 | 130 | 10
+8,000 | 140 | 10
+9,000 | 140 | 10
+10,000 | 140 | 13
+12,000 | 180 | 9
+14,000 | 200 | 1½
+16,000 | 200 | 11
+18,000 | 200 | 1½
+20,000 | 210 | 26
+23,000 | 220 | 43
+25,000 | 220 | 45
+30,000 | 220 | 68
+31,000 | 220 | 68
+35,000 | 240 | 54
+37,000 | 240 | 45
+38,000 | 240 | 47
+40,000 | 250 | 33
+45,000 | 260 | 10
+50,000 | 260 | 23
+53,000 | 280 | 20
+63,000 | 320 | 7
+70,000 | 050 | 10
+80,000 | 040 | 20
+90,000 | 050 | 4
+97,000 | 050 | 5
+
+MAC FORM 364 PREVIOUS EDITIONS OF THIS FORM ARE OBSOLETE GENERAL PURPOSE WORK SHEET
+JAN 66

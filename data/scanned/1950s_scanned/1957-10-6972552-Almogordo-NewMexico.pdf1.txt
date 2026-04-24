@@ -1,16 +1,50 @@
-The image does not contain any photographs. It appears to be a Project 10073 record card from Alamogordo, New Mexico dated 16 October 1957. The card contains information about the type of observation, details of the object observed, and the conclusions drawn from the observation, which include that the object was possibly a Balloon, Possibly Aircraft, and Definitely Not Astronomical.
-
-The text visible on the image is as follows:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE: 16 October 1957
-2. DATE-TIME GROUP:
-3. LOCATION: Alamogordo, New Mexico
-4. TYPE OF OBSERVATION: D Ground-Radar
-5. DURATION: 3-5 minutes
-6. COURSE: NE
-7. LENGTH OF OBSERVATION: 3-5 minutes
-8. NUMBER OF OBSERVERS: Employees at Alamogordo on 16 October 1957
-9. RELIABILITY OF REPORTING: Good
-10. DESCRIPTION OF OBJECTS: Single, White, Bright, Round, Steady
-11. COMMENTS: Personnel at Holloman A.F.B. concluded that object was a balloon or possibly an aircraft. Photo analysis at ATIC showed object to be unidentified. Final conclusion without analysis shows photo to be unidentified aerial cloud.
+
+2. LOCATION: Almogordo, New Mexico
+
+3. DATE-TIME GROUP: Local
+
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS:
+[X] Yes
+[ ] No
+
+6. SOURCE: APRO
+
+7. LENGTH OF OBSERVATION: not reported
+
+8. NUMBER OF OBJECTS: one
+
+9. COURSE: stationary
+
+12. CONCLUSIONS:
+[ ] Probably Balloon
+[ ] Probably Aircraft
+[ ] Probably Aircraft
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other_Lenticular cloud
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+10. BRIEF SUMMARY OF SIGHTING:
+Photo allegedly taken by government employee at Almogordo on 16 October 1957 released to news media by APRO in August 1958 as a supposed flying saucer.
+
+See: Film
+7-3445-441
+
+11. COMMENTS:
+Photo analysis at Holloman arrived at conclusion the object was a lenticular cloud. APRO would not accept this conclusion. Photo analysis at ATIC showed object to be lenticular cloud. Visual observation of photo without analysis shows photo to be of lenticular cloud. Evaluation: cloud.
+
+ATIC FORM 329 (REV 25 SEP 52)

@@ -1,25 +1,87 @@
-The image does not contain a photograph. It appears to be a page from a document with text and a table of celestial time information for the month of October.
+size, the internal temperature goes down
+and the nuclear furnace reduces its output.
+This permits it to contract again, and the
+cycle occurs over and over.
+
+Delta Cephei, with a period of 5.4 days,
+has a mean magnitude of four. This, how-
+ever, is its apparent magnitude—how bright
+it looks—which depends partly on its dis-
+tance. The farther away a star is, the more
+brilliant one that is farther away.
+
+So to compare the intrinsic luminosity—
+the candlepower—of a star, we use absolute
+magnitude, which is what they would be
+if all were at a standard distance. The mean
+absolute magnitude of delta Cephei is about
+minus 2; it is some 660 times more lumi-
+nous than the sun.
+
+Thus if one Cephei were seen in a day, the mean absolute magnitude
+would be minus 0.5, while one with a 20-
+day period would be ten times as bright,
+or minus four.
+
+Cepheids are usually recognized from the
+way their light changes—brightening rap-
+idly, dimming more slowly. Then the period
+of a cephei is measured, in days and frac-
+tions of days. This period versus luminos-
+ity tells how bright the star really is
+(on the average); you can see how bright
+it looks in the sky. Knowing the effect of
+distance on brightness, how far away it is
+can be calculated.
+
+Thus cephei variable stars are important
+tools in measuring distance. Their use has
+been complicated in recent years as astrono-
+mers have found that the distances they
+so they had formerly assumed. This meant
+that some of the distant galaxies—huge sys-
+tems of stars like the whole Milky Way
+system, of which the earth is a part—were
+more than twice as far as they had formerly
+believed.
+
+That is the way science advances, how-
+ever: one man observes an effect and arrives
+at a conclusion; then comes another who
+refines it, ever getting closer and closer to
+ultimate truth.
 
 Celestial Time Table for October
-Oct. EST
-1 4:00 a.m. Moon passes Venus
-1 14:18 a.m. Aldebaran in conjunction with moon in Perseus
-2 11:45 a.m. Moon at first quarter
-3 18:23 p.m. Pleiades in conjunction with moon
-5 6:00 a.m. Moon passes Jupiter
-6 7:14 p.m. Mars at stationary point
-10 7:15 a.m. Full moon
-11 3:30 p.m. Moon in last quarter
-12 18:26 p.m. Saturn about 5 degrees north of moon
-13 3:00 p.m. Venus at greatest brilliancy, about 5 degrees north of moon
-14 18:00 p.m. Moon perigee
-15 0:10 a.m. Aldebaran in conjunction with moon
-17 18:55 p.m. New moon
-21 19:56 p.m. Moon at first quarter
-23 18:00 p.m. Moon perigee
-25 16:00 p.m. Moon passes Venus
-27 1:05 a.m. Aldebaran in conjunction with moon
-30 5:19 a.m. Full moon
+
+Oct.    EST
+3  4:00 a.m.   Moon passes Venus
+    4:44 a.m.   Algol (variable star in Perseus)
+             at minimum brightness
+5  1:33 a.m.   Algol at minimum
+6  11:00 a.m.   Mercury between earth and sun
+7  10:32 p.m.   Algol at minimum
+8  6:00 a.m.   Moon passes Saturn
+    5:00 p.m.   Venus at greatest brilliancy
+10 6:00 a.m.   Moon passes Jupiter
+11 8:17 a.m.   Full moon
+12 1:00 p.m.   Moon nearest, distance 221,800
+             miles
+13 7:33 a.m.   Full moon
+20 3:48 a.m.   Moon in last quarter
+21 [illegible]   Moon passes Mars
+21 11:00 p.m.   Mercury farthest east of sun;
+             visible for a few days about
+             one hour in east before sunrise
+25 11:00 p.m.   Moon farthest, distance 253,900
+             miles
+26 2:00 p.m.   Moon passes Mercury
+28 1:30 a.m.   Algol at minimum
+30 7:22 a.m.   Full moon
+    8:53 p.m.   Algol at minimum
+Subtract one hour for CST, two hours for
 MST, and three hours for PST.
-(Please note: Latest evidence of underground nuclear tests:
-sism ic pressures in earth claim have been developed.)
+* Science News Letter, 82:194 September 22, 1962
+
+Piezometers for the measurement of pore-
+fluid pressures in earth dams have been
+developed.

@@ -1,22 +1,135 @@
-The image appears to be a page from a Project Blue Book document containing aeronautical symbols and radio facilities information, as well as diagrams related to VHF omni-directional range (VOR) and air traffic control. There is no photograph present in this particular image.
-
-Text extracted from the document:
-
 AERONAUTICAL SYMBOLS
+
 RADIO FACILITIES
-Methods of indicating specific radio facilities are shown by symbols as indicated:
-Radio Range.........................O—LF/MF, LF, or Compass Locator
-Radio Range.........................O—VHF/UHF Station
-Nondirectional Radiobeacon........O—LF/MF
-Nondirectional Radiobeacon........O—VHF/UHF Station
-Marine Radiobeacon................O—LF/MF
-Radio Direction Finder............O—LF/MF, VHF/UHF
-Radio Direction Finder............O—VHF/UHF (Radar)
+
+All radio facility data are shown by use of certain LF/MF facilities such as tower frequencies, radio ranges and associated airways, which are printed in magenta.
+
+Methods of indicating specific voice and CW stations are shown below. Use of the word "radio" within the box indicates voice facilities.
+
+Radio Station............................. ○—[ENTRANCE RADIO BOX OUTLINE]—— Radio Communication Station..... ○——[POWER RADIO BOX OUTLINE]——
+
+(With voice)                                                                    (With voice)
+
+Radio Range............................ ○——[NOB 200 KCS BOX OUTLINE]—— Radio Communication Station..... ○——[KANSAS 250 KCS BOX OUTLINE]——
+
+(Without voice)                                                              (Without voice)
+
+Nondirectional Radiobeacon....... ○—[COASTAL RADIO 264 KCS BOX OUTLINE]— Radio Broadcasting Station........ ○——[XFAN 1010 BOX OUTLINE]——
+
+(With voice)                                                                    
+
+Nondirectional Radiobeacon....... ○—[DYAL 195 DLT-24-J BOX OUTLINE]— Radar Beacon (Racon)................. ○——[BACON DTN 7 ID BOX OUTLINE]——
+
+(Without voice)
+
+Marine Radiobeacon................... ○——[ASHFABOLA 316 KCS BOX 6m-10m & 30m-50m]—— [BOPP BOX] Radio Fan Marker Beacons....... 100 watts    [DATE BOX]
+
+(Without voice)
+
+Radio Direction Finder............... ○——[RDF BOX OUTLINE]—— [DOXR BOX]
+
+(Without voice)
+
+Radio Direction Finder............... ○——[ROGGLE & HOMEY BOX OUTLINE]——
+
+(With voice)
+
 AURAL RANGE
-A_____________N
-The arrow heads indicate the "ON" quadrant. The arrow shafts are magnetic and the magnetic variation at the position of the ground station is used for computing these.
-VHF OMNI-DIRECTIONAL RANGE (VOR)
+A    N
+
+[LOOP RADIO BOX]
+←——————————A————————N————————————→
+←N                    A                 A→
+
+The heavy line indicates the "N" quadrant. The bearings shown are magnetic and the magnetic
+variation at the position of the ground station is used for computing them.
+
+VHP OMNI-DIRECTIONAL RANGE (VOR)                VHP FOUR COURSE VISUAL-AURAL RANGE (VAR)
+
+[CHICAGO RADIO BOX with                        
+1135 CST diagram]                              [VAR diagram showing N, E, S, W with Visual/Aural markings
+                                                and WAYFAIR RADIO BOX]
+
+DME where shown indicates
+Distance Measuring Equipment
+
+Bearings are magnetic from the station
+Radius of circle is 15 nautical miles.         Letter preceding frequency in box
+                                                Indicates channel identification.
+
 AIR TRAFFIC CONTROL
-Controlled Civil Airway
-Uncontrolled Civil Airway
-Blue line where shown indicates IFR traffic controlled areas.
+
+[Blue tint diagram showing Controlled Civil Airway with Control Zone and Uncontrolled Civil Airway]
+
+Blue tint where shown
+Indicates six traffic controlled area
+
+Metro
+
+Large
+
+Cities
+
+Small
+
+Large
+
+Towns
+
+Conto
+
+Levee
+
+Hautc
+
+Bluffs
+
+Swam
+
+Tidal
+
+(Stages
+
+Damg
+
+Rocks
+
+Shoal
+
+(Escap
+
+Sprin
+
+Wells
+
+Reefs
+
+(Awar
+
+Landt
+
+Quar
+
+Oil T
+
+Oil P
+
+Dams
+
+Elevu
+
+(in
+
+Mine
+
+Moun
+
+Looki
+
+Coast
+
+Pipe
+
+Race
+
+Stran

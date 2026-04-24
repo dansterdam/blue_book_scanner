@@ -1,13 +1,139 @@
-The image does not contain any photograph. It appears to be a page from a Project Blue Book document, specifically a "WINDS-ALOFT COMPUTATION SHEET" containing tabular data.
+U.S. DEPARTMENT OF COMMERCE
+WEATHER BUREAU
 
-U.S. DEPARTMENT OF COMMERCE WEATHER BUREAU
 WINDS-ALOFT COMPUTATION SHEET
+(RADIOSONDE FORM)
 WBAN-20
-LOCATION: MOUNT VERNON, VIRGINIA 
-DATE: MAY 8, 1964
-TIME: 1320 EST
-ELEVATION: 12" 
-OBSERVED WIND DIRECTION AND SPEED
-OBSERVED SMOTHED ELEVATION ANGLE AZIMUTH WIND WIND
 
-The rest of the text in the document consists of numerical data in a tabular format.
+41.70° N LONG.77° 28' W
+STATION 390=S
+U.S LONG AND SEA LISTEN
+
+Year Month Day Time
+1964 MAY 18 1400
+1964 MAY 19 0200
+
+Orientation, 360°= South
+
+Rawin
+ht. above
+surface
+(m.)
+
+Elevation angle °
+Observed Smoothed
+
+Distance from
+observation
+point
+(m.)
+
+Azimuth
+angle
+°
+
+Wind
+sfcs.
+
+Direction °
+(360°=N, 0°
+from obs.)
+
+Speed
+(knots)
+
+Computed
+(mls.)
+
+Rawinsonde Time-Altitude Data
+Pressure Altitude Elapsed
+(mb.) (m., msl.) time (min.)
+
+1 270 495 200 12.9 349 211 5 2
+2 510 6.6.3 600 24.7 237 55 10 3
+3 160 6.53 420 25.76 320 56 15 730 2.4
+4 1120 60.3 850 325.4 320 654 20 1280 6.9
+5 1420 56.6 970 228.1 335 656 25 1700 7.1
+6 1649 52.5 1300 225.3 373 7.1 30 1746 267.0 9.4
+7 1920 48.0 1800 323.9 242 7.7 35 1687 2330 14.8
+8 2109 46.5 2200 319.3 320 1.2 40 687 2630 16.2
+9 2642 41.0 2300 325 325 10.3 45 514 2550 21.1
+10 2720 38.6 2500 3264 162 10.6 50 919 6110.0 21.5
+11 2910 37.8 2500 324.5 368 12.0 55 640 6100.0 25.9
+12 32.70 35.9 4600 327.5 362 12.0 60 799 7560 25.9
+13 4600 32.1 5300 329.4 376 12.5 65 764 7860.0 29.8
+14 3900 32.1 4700 329.6 350 6.5 70 524 9600 31.1
+15 4700 32.6 6500 325.5 303 5.4 75 288 9100.0 [illegible]
+16 4470 31.2 7100 326.5 303 14.2 80 216 7600.0 [illegible]
+17 4970 31.0 7100 322.9 335 7.8 85 227 11941.0 35.9
+18 5060 29.8 3800 324.4 373 16.0 90 9.0 1220.0 44.5
+19 5360 28.1 3700 324.4 314 15.8 95 193 2830.0 46.9
+20 5560 28.2 4600 324.9 312 15.0 100 152 13860.0 44.9
+21 5930 27.2 11500 330.2 362 12.0 105 125 19310.0 49.9
+22 6220 26.3 12200 319.8 354 16.9 110 191 1930.0 58.9
+23 6530 26.0 13200 319.3 343 19.0 115 54 1630.0 56.5
+24 6340 25.0 1420.0 3153 297 15.8 120 28 1922.0 64.2
+25 7160 [illegible] 1510.0 [illegible] [illegible] [illegible] 125 50 2078.0 63.0
+26 [illegible] 25.0 1500 320.0 339 16.8 130 8 2310.0 64.2
+27 7940 25.3 1690.0 320.5 139 16.8 135 2.1 5800.0 82.44
+28 [illegible] 24.4 [illegible] 320.5 [illegible] [illegible]
+29 8510 24.2 1940.0 320.5 324 12.4
+30 [illegible] 24.1 3210.7 325 11.0
+31 8320 24.0 1970.0 320.7
+32 [illegible] 24.0 3210.7 332 11.0
+33 9440 24.0 2110.0 321.4
+34 [illegible] [illegible] 3223 356.0 11.5
+35 10120 24.2 22300 323.9
+36 [illegible] 24.2 324.1 334 14.3
+37 10730 24.0 24000.0 324.0
+38 [illegible] 23.9 3231.0 340 15.0
+39 11340 2.26 2570.0 3220.3
+40 [illegible] 2.26 2700.0 3224 355 21.0
+41 11950 23.0 2790.0 3274.3
+42 [illegible] 3.2.7 3270.3 357 2.0.2
+43 12600 3.2.6 3000.0 3270.3
+44 [illegible] 2.2.5 3270.2 324 16.0
+45 13200 2.2.3 3190.0 3224
+46 [illegible] 2.2.0 3226.2 314 17.0
+47 13500 2.2.2 3200.0 3224
+48 14110 1.9.7 3570.0 3220.9
+49 16310 2.0.6 6120.0 3227.3 356 19.0
+50 14730 2.0.2 3710.0 3226 313 14.4
+
+Coded Data for Transmission
+
+35.03 *33.06 32.20 32*10 32*32 *3/116 30.17 *32.17
+23.24 43/7 63227 8239 03/26 3232.1 23229 00322
+[illegible] 03230 332264 [illegible] 03/26 [illegible] [illegible]
+[illegible] [illegible] [illegible] 00362 03/46 0031 [illegible]
+
+[stamp: DECLASSIFIED]
+
+Maximum Wind Speed Data
+
+Min. alt. wind speed
+(mphg., in msl. (m.)
+Max. wind speed (msl.)
+(mph.)
+Div. (degrees) and speed
+(mph.) at Max. wind
+speed at two levels
+above (cont. next sheet)
+
+Enter check if additional levels
+above 150 mb are included.
+
+Type of
+equipment
+
+16
+
+Type of
+equipment
+
+16
+
+Cold No. 15
+Cold No. 15
+
+[THIS IS TABLE: A detailed data table with columns showing altitude, wind direction, wind speed, and other meteorological measurements]

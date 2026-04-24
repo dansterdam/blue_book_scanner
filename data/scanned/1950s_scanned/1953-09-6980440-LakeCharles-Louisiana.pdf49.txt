@@ -1,19 +1,56 @@
-The image appears to be a page from a Project Blue Book document containing a photograph of aeronautical symbols and radio facilities. The photograph provides detailed diagrams and explanations of various radio, radar, and navigation symbols used in air traffic control.
-
 AERONAUTICAL SYMBOLS
-RADIO FACILITIES
-All radio facilities used are shown in this diagram with the indicating symbols.
-Methods of indicating specific voice and CV aids are shown below.
-Radio Range --...--..-- (with voice)
-Radio Communication Station------- (with voice)
-Radio Communication Station------- (without voice)
-Non-Directional Radiobeacon-...-.--- (with voice) 
-Non-Directional Radiobeacon-...-.--- (without voice)
-Marine Radiobeacon-----.------- (emitting 315m-405m)
-Radio Direction Finder--.---.-------- (with voice)
-Radio Direction Finder--.---.-------- (without voice)
 
-VHF OMNI-DIRECTIONAL RANGE (VOR)
-VHF FOUR COURSE VISUAL-AURAL RANGE (VAR)
+RADIO FACILITIES
+
+All radio facility data are printed in blue with the exception of certain LF/MF facilities each as lower frequency. Radio ranges and associated airways are printed in magenta. The word "Radio" within the box indicates voice facilities.
+Methods of indicating asenite voice and CW are shown below:
+
+Radio Range........................── [RADIO RANGE box with "With voice"] | Radio Communication Station.....─ [LOWER RADIO LTD box]
+(With voice)
+
+Radio Range........................── [VOR RANGE box] | Radio Communication Station......─ [RADAR TOWER STATION box]
+(Without voice)
+
+Nondirectional Radiobeacon ..... ○ [NONDIRECTIONAL RADIO box] | Radio Broadcasting Station.........─ [BCST box]
+(With voice)
+
+Nondirectional Radiobeacon ..... ○ [DIXIE 385 CW box] | Radar Beacon (Racon)....................─ [RACON 1200 21.0 box]
+(Without voice)
+
+Marine Radiobeacon.............─ [AZIMUTH 305 80m-4.30m-4.0m box] | Radio Fan Marker Beacons [165 watts box] [INNR box]
+                                                                      | [3 watts box] [OUT box]
+
+Radio Direction Finder       ─ [DF box]
+(Without voice)
+
+Radio Direction Finder ......... ─ [RADIO DF HOMER box]
+(With voice)
+
+AURAL RANGE
+      A    N
+[AURAL RANGE box]
+A                                                                    N
+├─────────────────┼─────────────────┤
+  0/180                           A
+         N
+
+The heavy line indicates the "N" quadrant. The bearings shown are magnetic and the magnetic
+variation at the position of the ground station is used for computing them.
+
+VHF OMNI-DIRECTIONAL RANGE (VOR)          VHF FOUR COURSE VISUAL-AURAL RANGE (VAR)
+
+[Circular compass rose diagram]            [Four-way directional diagram with labels A, N, B, Y]
+
+CHICAGO RADIO
+[110.0 CKT W P]
+
+Bearings are magnetic from the station.
+Altitude of orbits is 10 nautical miles.
+
 AIR TRAFFIC CONTROL
-The blue line where shown indicates air traffic controlled areas.
+
+[Blue shaded area diagram]              [Circle diagram]
+Blue tint where shown                   Uncontrolled Civil Airway
+indicates air traffic controlled areas
+
+Controlled Civil Airway

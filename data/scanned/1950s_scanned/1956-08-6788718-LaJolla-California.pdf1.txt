@@ -1,12 +1,43 @@
-The image does not contain any photograph. It appears to be a page from the Project Blue Book record card, which is a document used to record UFO sightings and investigations.
-
 PROJECT 10073 RECORD CARD
+
 1. DATE: 6 August 1956
-2. LOCATION: La Jolla, California  
-3. DATE-TIME GROUP: Local 2130/6/800Z
-4. TYPE OF OBSERVATION: Ground-visual
-5. PHOTOS: No
-6. LENGTH OF OBSERVATION: 30 seconds
-7. NUMBER OF OBJECTS: One
-10. BRIEF SUMMARY OF SIGHTING: One object size about the size of a thumbnail.
-12. CONCLUSIONS: Probable arc; however, the report contains insufficient data for evaluation.
+
+2. LOCATION: La Jolla, California
+
+12. CONCLUSIONS: [ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[X] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP: Local 2000
+GMT 07/0500Z
+
+4. TYPE OF OBSERVATION: [X] Ground-Visual
+[ ] Ground-Radar
+[ ] Air-Visual
+[ ] Air-Intercept Radar
+
+5. PHOTOS: [ ] Yes
+[ ] No
+
+6. SOURCE: Civilian
+
+7. LENGTH OF OBSERVATION: not reported
+
+8. NUMBER OF OBJECTS: one
+
+9. COURSE: maneuvered
+
+10. BRIEF SUMMARY OF SIGHTING: One object size head of thumbnail. Color pinkish glow.
+
+11. COMMENTS: Probable n/c; however, the report contains insufficient data for evaluation.
+
+ATIC FORM 329 (REV 28 SEP 57)

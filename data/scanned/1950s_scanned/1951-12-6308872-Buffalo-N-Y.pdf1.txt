@@ -1,24 +1,55 @@
-There is no photograph present in this image. The image shows a page from a Project Blue Book record card, containing various fields filled out with information about a reported UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE 
-30 Dec 1951
+
+1. DATE
+10 Dec 1951
+
+2. LOCATION
+Buffalo, N.Y.
+
 3. DATE-TIME GROUP
-2345
+Local 1820E
+GMT 10/23Z02
+
 4. TYPE OF OBSERVATION
-Visual
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
 5. PHOTOS
-Yes - 3 photos
+[ ] Yes
+[X] No
+
+6. SOURCE
+Military
+
 7. LENGTH OF OBSERVATION
-2 minutes seconds
+[illegible] seconds
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+S to N
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical [illegible]
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_______________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
 10. BRIEF SUMMARY OF SIGHTING
-Large white brilliant object, like light of similar in shape - 100 ft. Diameter. Center indicator then edge. Trail of exhaust pulsating red-orange exhaust. Trail of exhaust 2 to 3 miles in length. Speed estimated 2,000 mph. Flight to North.
-13. CONCLUSIONS
-Was Balloon
-Possibly Balloon
-Was Aircraft
-Possibly Aircraft
-Was Astronomical
-Probably Astronomical
-Insufficient Data for Evaluation
-Unknown
+Large white brilliant object, like light of welders torch. Globular in shape - 400 ft diameter. Center brighter than edge. Had blue-white brilliance and outer edge was white. Fiery taper cone appeared to trail object with pulsating red-orange exhaust. Trail of apparent to be ½ mi in length. Speed estimated 2,000mph. Alt was 2 to 4000 ft. Flight was North.
+
+11. COMMENTS
+Astro (Meteor)
+
+ATIC FORM 329 (REV 26 SEP 52)

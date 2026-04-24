@@ -1,12 +1,48 @@
-There is no photograph present in this image. It appears to be a page from a Project Blue Book record card, which contains various details about a UFO sighting.
+PROJECT 10073 RECORD CARD
 
-Output of the text found in the document:
+1. DATE: 6 October 1957
 
-1. DATE 10/6/57
-2. LOCATION Mi Wi of Benson, Arizona
-3. DATE-TIME OF OBSERVATION 19/06/1:27
-4. TYPE OF OBSERVATION Ground-Visual
-5. DURATION 2 minutes
-7. LENGTH OF OBSERVATION 2 minutes
-10. BRIEF SUMMARY OF SIGHTING A group of civilians had not seen anything unudual so far, when suddenly around them appeared a bright object which moved rapidly east then north. It was sien for approximately 35 and 50 minutes, at which height the object is believed bright.
-11. NEW COMMENTS Around this time articles in local papers were running as to reports of UFO sightings in the Benson, Arizona area at that time.
+2. LOCATION: 9 mi W of Benson, Arizona
+
+3. DATE/TIME GROUP:
+Local 1297
+GMT 19/0127Z
+
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS:
+[ ] Yes
+[X] Nothing rec'd
+
+6. SOURCE:
+Civilian
+
+7. LENGTH OF OBSERVATION: 6 minutes
+
+8. NUMBER OF OBJECTS: one
+
+9. COURSE: NNW
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other—[illegible] meteor
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+10. BRIEF SUMMARY OF SIGHTING:
+A group of civilians had set up a camera to view and photograph expected Russian satellite. Satellite was not sighted, but a bright object appeared over SE horizon and traveled rapidly across the sky disappearing over the NNW horizon. The object was brighter than any star, but less bright than Venus. The light exhibited a yellowish hue giving the impression of reflected sunlight. Three photos were taken.
+
+11. COMMENTS:
+Around this time artificial meteors were being shot into the upper atmosphere to heights of between 35 and 50 miles at which height they glowed brightly enough to be photographed.
+
+ATIC FORM 329 (REV 26 SEP 52)

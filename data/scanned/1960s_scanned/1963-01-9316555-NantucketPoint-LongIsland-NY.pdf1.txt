@@ -1,30 +1,51 @@
-The image appears to be a page from a Project Blue Book UFO report document. There is no photograph present in this particular image. I will now proceed to act as an OCR system and produce the text found in the document:
-
 PROJECT 10073 RECORD CARD
-1. DATE
-5 Jan 63
+
+1. DATE: 5 Jan 63
+
+2. LOCATION: Nantucket Point, Long Island, N Y
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical Star/Planet
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other___________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
 3. DATE-TIME GROUP
-Local 3:20 still dawn
-GMT 05/08002
-7. LENGTH OF OBSERVATION
-8 hours
-10. BRIEF SUMMARY OF SIGHTING
-Shape rounded object with shiny top of obj. Appeared to be at 1,000 alt. 75 ft diameter of obj. Obj executed turns, flips and maneuvers at fantastic speeds. Blue light on obj. Obj disappeared top on illuminating bright stars.
-2. LOCATION
-Nantucket Point, Long Island, N.Y.
+Local 3 AM till dawn
+GMT 0/0800Z
+
 4. TYPE OF OBSERVATION
-Ground-Radar
-6. SOURCE
-Civilian
+[X] Ground-Visual     [ ] Ground-Radar
+[ ] Air-Visual        [ ] Air-Intercept Radar
+
+5. SOURCE
+civilian
+
+6. PHOTOS
+[ ] Yes
+[X] No
+
 8. NUMBER OF OBJECTS
 one
-13. CONCLUSIONS
-[X] Probably Balloon
-[ ] Possibly Balloon
-[X] Probably Aircraft
-[ ] Possibly Aircraft
-[ ] We Identified as Star/Planet
-[ ] Possibly Astronomical
-[ ] Other:
-Insufficient Data for Evaluation
-[ ] Unknown
+
+9. COURSE
+West
+
+7. LENGTH OF OBSERVATION
+1 hours
+
+10. BRIEF SUMMARY OF SIGHTING
+Clear moonlit night. Round obj with shiny metallic structure. Bright blue light on top of obj. Appeared to be at 1,000 alt. 75 ft diameter of obj. Obj executed turns, flips and maneuvers at fantastic speeds. Blue light on top onlyoutstanding feature. Obj disappeared as a "morning bright star."
+
+11. COMMENTS
+At time of initial report Regulus over-head 60° 36' zero magnitude; Venus 15.43.43(low in East) -4.3 mag; Mars (near Regulus) 9.51.09 +17.02 declination, -0.5 mag. Obj has character-istics of astronomical obj with distortion due to the atmospheric conditions present and the interpretations of the objs behavior by the witness under these unusual conditions.
+
+ATIC FORM 329 (REV 24 ARP 53)

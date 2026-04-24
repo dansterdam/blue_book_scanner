@@ -1,12 +1,53 @@
-There is no photograph present in this document. The image shows a Project 10073 Record Card from Ellington AFB in Texas, containing various details about a sighting on August 26, 1951.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 26 Aug 1951
-2. DATE-TIME GROUP: Level 0315
-3. PHOTOS: 0 Yes
-4. TYPE OF OBSERVATION: Ground-Visual
-5. LENGTH OF OBSERVATION: 3 - 4 minutes
-6. NUMBER OF OBJECTS: ONE
-7. COURSE: Straight
-8. CONCLUSIONS: X Was Balloon
-9. COMMENTS: Case evaluated as balloon.
+
+1. DATE
+26 Aug 1951
+
+2. LOCATION
+Ellington AFD, Texas
+
+12. CONCLUSIONS
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE/TIME GROUP
+Local___0118
+GMT 2 6/0'7/8'7
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual     [ ] Ground-Radar
+[ ] Air-Visual        [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X]No
+
+6. SOURCE
+military
+
+7. LENGTH OF OBSERVATION
+3-4 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+North, rising
+
+10. BRIEF SUMMARY OF SIGHTING
+O3J bright (as bright as the brightest star), yellow in color. No definite shape. Deviated but returned on course of North. Disappeared by ris ing. Altitude approx 25,000 was observed 3-4 min.
+
+11. COMMENTS
+Case evaluated as balloon.
+
+ATIC FORM 329 (REV 26 SEP 52)

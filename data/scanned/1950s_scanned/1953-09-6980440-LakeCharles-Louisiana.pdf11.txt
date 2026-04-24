@@ -1,14 +1,40 @@
-The image contains a table titled "U.S. DANGER AREAS ON WORLD AERONAUTICAL CHART 468" which lists various danger areas, their activities, using agencies, and altitude and time restrictions. There is no photograph present in this image.
+FROM ___________________________________
 
-Text from the document:
+PENALTY FOR PRIVATE USE TO AVOID
+PAYMENT OF POSTAGE, $300
+
+___________________________________
+
+___________________________________
+
+OFFICIAL BUSINESS
+PERMIT NO. 1003
+
 
 To:
 The Director
 U.S. Coast and Geodetic Survey
 Washington, 25, D.C.
 
-U.S. DANGER AREAS ON WORLD AERONAUTICAL CHART 468
-NO. NAME ACTIVITY USING AGENCY ALTITUDE TIME
-W-137 Bermuda Island Air-to-Air Firing US Air Force, Central AFB, Bermuda 0-60,000 ft. H24
-W-138 Cape Fear Area Air-to-Air Firing US Air Force, Seymour Johnson AFB, N.C. 0-60,000 ft. H24
-W-139 Gulf of Mexico Air-to-Air Firing Tactical Air Command 0-60,000 ft. H24
+
+.......................MAKE EXTRA FOLD HERE TO RETURN TO DIRECTOR, USCGS.......................
+
+
+U. S. DANGER AREAS ON WORLD AERONAUTICAL CHART 468
+
+| NO. | NAME | ACTIVITY | USING AGENCY | ALTITUDE | TIME |
+|-----|------|----------|--------------|----------|------|
+| W-92 | New Orleans | Gunnery, Bombing, Rocket Firing | NAS New Orleans, La. | Y to 20,000 | [illegible] |
+| C-111 | [illegible] | Aerobatics | NAS New Orleans, La. | 1,000 to 5,000 | [illegible] |
+| D-134 | Pearl River | Strafing, Rocket Firing, Glide and Dive Bombing | NAS New Orleans, La. | Unlid. | 0800-1830 |
+| W-253 | Mississippi Island | Aerial Gunnery | 8th Air Force, Carewell AFB, Fla. | Y to 20,000 | [illegible] |
+| D-328 | New Port | Field Artillery Firing | 8th Army, Camp Polk, La. | Y to 10,000 | [illegible] |
+| W-262 | Sabine Pass | Aerial Gunnery | NAS Corpus Christi, Texas | Y to 20,000 | [illegible] |
+| W-377 | Gulf of Mexico | Air-to-Air Gunnery by Jet Aircraft | Various Air Command | Y to 20,000 | [illegible] |
+| | Lower Pearl | [illegible] Aerial Target | Louisiana National Guard | Y to 8,000 | 0900-1630 |
+
+Altitude given in feet.       AIR - Airspace Reservation (Prohibited)       C - Caution       D - Danger       W - Warning
+
+No person shall operate an aircraft within an Airspace Reservation or Danger Area unless permission for such operation has been issued by appropriate authority.
+
+Aircraft assigned restrictions from filing through Caution Areas, however, extreme caution should be exercised by pilots flying through such areas.

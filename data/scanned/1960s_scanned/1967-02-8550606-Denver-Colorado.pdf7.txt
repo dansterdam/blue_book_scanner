@@ -1,12 +1,29 @@
-There is no photograph present in the provided image. The image appears to be a page from an old UFO report document from Project Blue Book.
+(2) Light conditions. (use on of the following terms: Night, day, dusk, dawn) ___Night_______
 
-EXAMPLE: 89 USAF, 19-4 TIC for 39 SEC, 102 SMC
-a. Identifying Information on Observer(s): 
-   Name, address, etc same as per a. above.
-(2) Military -- Name, grade, organization, duty, and estimated experience
-c. Weather and Wind -- Wind conditions at time and place of sighting.
-(1) Observer(s) account of weather conditions: Clear
-(2) Remarks from nearest U.S. Weather Bureau Office or Military Weather Office if available. 6,000'; 10,000'; 16,000' at surface
-(3) Visibility: 
-(4) Amount of cloud cover: 
-(5) Thunderstorms in area adjacent quadrant in which located:
+D. Location of Observer(s). Exact latitude and longitude of each observer, and/or description of location. A position with reference to a known landmark also should be given in electrical reports, such as "2mi X of Decatur" or "3mi S of Blue Lake". Typographical errors or "eyeballing" often results in electrical transmitted messages, making location plots difficult or impossible.
+
+EXAMPLE: 89 L5W, 19. 7W for 39 N5W, 102 2lW.
+
+Denver, Colo
+
+E. Identifying Information on Observer(s):
+
+(1) Civilian - Name, home mailing address, occupation, and estimate of reliability. [redacted], Address same as para D. above
+
+(2) Military - Name, grade, organization, duw, and estimate of reliability. _______________________________________________________________________________
+
+F. Weather and Winds -- Are conditions at time and place of sightings:
+
+(1) Observer(s) account of weather conditions. Clear
+
+(2) Report from nearest NWS or U.S. Weather Bureau Office of wind direction and velocity in degrees and knots at surface, 6,000', 10,000', 16,000', 20,000', 30,000', 50,000', and 50,000' if available. _______________________________________________________________________________
+
+(3) Ceiling. _______________________________________________________________________________
+
+(4) Visibility. _______________________________________________________________________________
+
+(5) Amount of cloud cover._______________________________________________________________________________
+
+(6) Thunderstorms in area of quadrant in which located. _______________________________________________________________________________
+
+3

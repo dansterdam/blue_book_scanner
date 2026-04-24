@@ -1,16 +1,58 @@
-There is no photograph present in this image. The image appears to be a page from a Project Blue Book record card, which is a form used to document UFO sightings and related information.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 9 Jul 55
-3. REPORTING GROUP: Civilian
-4. TYPE OF OBSERVATION:
-Level 09/054952 (N)
-5. PHOTOS: Yes
-6. SOURCE: Civilian
-7. LENGTH OF OBSERVATION: 15 seconds
-10. BRIEF SUMMARY OF SIGHTING: Found, white, looked like meteor. Appeared suddenly, then faded out.
-11. COMMENTS: With the exception of a time element (was observed for a considerable time before), this appears to be meteor. Case closed.
-12. CONCLUSIONS: Was Balloon
-Possibly Balloon
-Was Astronomical Meteor
-Insufficient Data for Evaluation
+
+1. DATE
+3 Jul 55
+
+2. LOCATION
+Mira Loma, California
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+
+3. DATE-TIME GROUP
+Local
+GMT, 09/0545Z (d)
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+civilian
+
+[ ] Was Astronomical Meteor
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+
+7. LENGTH OF OBSERVATION
+1.5 seconds (?)
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+W
+
+[ ] Unknown
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+Round, white, looked like meteor. Appeared suddenly, then faded out.
+
+11. COMMENTS
+With exception of time element has obj appears to be meteor. Case evaluated as Meteor.
+
+ATIC FORM 329 (REV 26 SEP 52)

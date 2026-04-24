@@ -1,12 +1,32 @@
-The image does not contain any photograph, only a Project 10073 Record Card from the Project Blue Book archive. The text in the image is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE 31 MAR 53
-2. DATE-TIME GROUP GMT 21/1300Z
-3. LOCATION DAYTON, OHIO
-4. TYPE OF OBSERVATION  Ground-Radar
-5. COURSE S,OURCE 21-1111R
-6. NUMBER OF OBJECTS ONE
-7. LENGTH OF OBSERVATION SLOW 1 MIN WAY
-8. BRIEF SUMMARY OF SIGHTING: ON YOUR WAY TO SCHOOL OBSERVED BALLOON VERY SLOWLY MOVING IN AIR. APPEARED SPHERICAL.
-9. CONCLUSIONS: WAS BALLOON
+
+1. DATE: 21 Mar 58
+2. LOCATION: Dayton, Ohio
+3. DATE-TIME GROUP:
+Local: 0820
+GMT: 21/1320
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+5. PHOTOS: [ ] Yes [X] No
+6. SOURCE: Civilian
+7. LENGTH OF OBSERVATION: 10 mins
+8. NUMBER OF OBJECTS: one
+9. COURSE: slowly away
+10. BRIEF SUMMARY OF SIGHTING: Three youths on way to school observed balloon released fm Sulphur Grove at 0640. Winds 25 mph & you bring this balloon over Dayton. No obj on radar fm 0730-0830. No a/c in area. Since the obj possess the characteristics of a balloon & the rpt was turned in at 0820 it is believed that the obj was obs prior to this time & the balloon fm Sulphur Grove initiated the sighting.
+11. COMMENTS: [see brief summary]
+12. CONCLUSIONS:
+[ ] Was Balloon
+[X] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_______________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 26 SEP 52)

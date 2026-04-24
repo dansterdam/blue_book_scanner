@@ -1,15 +1,53 @@
-There is no photograph present in this image. It appears to be a page from a Project Blue Book UFO report document.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 25 Feb 51
-2. LOCATION: Ladd AFB, Alaska
-3. DATE-TIME GROUP: 26/1702Z
-4. TYPE OF OBSERVATION: O Ground-Radar, O Air-Visual, D Air-Intercept Radar
-5. GHT - MINUTES: 12
-6. SOURCE: EN
-7. LENGTH OF OBSERVATION: 12 Min
-8. NUMBER OF OBJECTS: 1
-9. COURSE: W
-10. BRIEF SIGHTING: Object first appeared to be hovering over a field, gray in color. Object hovered for 4-5 sec, then emitted one puff of white smoke, proceeded 3 leaving no trail or sound.
 
-12. CONCLUSIONS: was balloon, Possibly Military, Possibly Aircraft, Possibly Astronomical, UNIDENTIFIED.
+1. DATE
+26 Feb 51
+
+2. LOCATION
+Ladd AFB, Alaska
+
+3. DATE-TIME GROUP
+Local
+GMT         25/1701Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual          [ ] Ground-Radar
+[ ] Air-Visual             [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+M/L
+
+7. LENGTH OF OBSERVATION
+1½ min
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+W
+
+10. BRIEF SUMMARY OF SIGHTING
+Object, obj. first appeared to be hovering over AB, dull grey metallic color. Obj hovered for 45 sec, then emitted one puff of white smoke, proceeded S leaving no trail or sound.
+
+10. CONCLUSION:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] UNIDENTIFIED
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+11. COMMENTS
+WX included light snow and visibility 18,000 ft. Sighting indicates possibility of WX balloon landing or disappearing into overcast, however, report indicated no balloon in area. Some data conflicting Case carried evaluation of unidentified in 1951.
+
+ATIC FORM 329 (REV 24 SEP 52)

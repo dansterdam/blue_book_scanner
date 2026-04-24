@@ -1,82 +1,104 @@
-## Description of Photograph:
-There is no photograph present on this page.
-
-## OCR Text Output:
-```
 PROJECT 10073 RECORD CARD
 
-1. DATE 2. LOCATION 12. CONCLUSIONS
-29 Jan 52 KOREA 
-3. TYPE OF OBSERVATION
-a Ground-Visual
-DATE-TIME GROUP
-29/2300 I
-29/1300 Z
-ftd* 6. SOURCE
-B-29 Aircrew
-LENGTH OF OBSERVATION
-1 min.
+1. DATE
+29 Jan 52
+
+2. LOCATION
+KOREA
+
+3. DATE-TIME GROUP
+2052/2000 I
+2053/1300 Z
+
 4. TYPE OF OBSERVATION
-a Ground-Radar
-d Air Intercept Radar
-7 PHOTOS
-*1 Cus * NO 8. NUMBER OF OBJECTS 9- COURSE
-1 270
-Was Balloons
-Probably Balloons
-Possibly Balloons
-Was Aircraft
-Probably Aircraft Possibly Aircraft 
-Was Astronomical
-Probably Astronomical Possibly Astronomical
-Insufficient Data for Evaluation
-(Unknown)
-.
-1 alt:
-Globe-shaped, orange object occasionally
-changing to a bluish tint appeared to be
-moving on "churning” horizontal course. 
+☐ Ground-Visual
+☒ Air-Visual
+☐ Ground-Radar
+☐ Air Intercept at [illegible]
 
-11. COMMENTS:
-1. Observers, who have made various com
-bat missions over N. Korea, stated that they had never seen any similar objects before.
-2. It is believed that object was same type of a/c (enemy or UN).
+5. SOURCE
+B-29 Aircrew
 
-UNCLASSIF IED
+6. NUMBER OF OBJECTS
+1
 
-Dtrir NO
+7. LENGTH OF OBSERVATION
+1 min.
 
-BACK OF IFB 29 Jan. 52
--. Korea TWO B-29 crewm
-B-29, local and 220U local
-FLAF wire
+8. BRIEF SUMMARY OF SIGHTING
+Globe-shaped, orange object occasionally changing to a bluish tint appeared to be moving on "churning" horizontal course.
 
-DATE OF THE SIGHTING 30 Jan. 52
-DATE IN INTEL 1 Pcb 52
-DATE IN INTEL
+12. CONCLUSIONS
+☐ Not Identifiable
+☒ Probably Balloon
+☐ Probably Aircraft
+☐ Not Astronomical
+☐ Probably Astronomical
+☐ Probably Meteor
+☐ St
+☐ Insufficient Data for Evaluation
+☐ Unknown
 
-FLAF
+[handwritten: All listed for Analysis]
 
-COLOR: Fiery-like sun
-Same as B-29
-DIMF Appeared to be 3 diameter
-ALTITU PAMA as B-29
-12 LENGTH THE OBJECT: 
- I minute and 2 5 minutes 
-TYPE OF OBSERVATION # Pulled up to B-29 from 6 o clock and flew formation.
-HARNDRI
-None
-PUOto
+9. COURSE
+27°
 
-None
+10. COMMENTS
+1. Observers, who have made various combat missions over N. Korea, stated that they had never seen any similar objects before.
 
-SR” None
+2. It is believed that object was same type of a/c (enemy or U).
 
-OKeV ATIC Form 
+---
 
-OS”EPA LASSIFIED
+AFF NO. _______
 
-Seen by two different men at two different times and different locations
-DOWNGRADED AT 3 YR INTERVALS DECLASSIFIED AFTER 12 YRS
-DOD DIR 520.Q
-```
+AP NO. _______
+
+DIAGRAM _FEAF Wire
+
+DATE OF REPORT _30 Jan 52
+
+DATE OF INCIDENT _29 Jan 52
+
+IN REPORT _Korea
+
+SOURCE _Two B-29 Crews
+
+DATE IN TO ATIC _1 Feb 52
+
+TIME OF SIGHTING _2300 Local and 2320 Local
+
+SHAPE _Fiery-like sun.
+
+SHAPE _Disk
+
+SIZE _Appeared to be 3' diameter
+
+COLOR _Same as B-29
+
+NO. OF CREW _one
+
+COLOR _None
+
+SPEED _None
+
+DIRECTION _None
+
+COMMENTS _Same as B-29
+
+ALTITUDE _Same as B-29
+LENGTH OF TIME _1 Minute and 5 Minutes
+
+TYPE OF OBSERVATION _Visual-Air
+Pulled up to 29 from 8 o'clock and flew formation.
+
+Seem to check air speed at two different times at two different locations
+DOWNGRADED AT 3 YR INTERVALS
+DECLASSIFIED AFTER 12 YRS
+DOD DIR 5220.10
+
+[stamp: UNCLASSIFIED]
+
+[handwritten: ATIC Form 329]
+[handwritten: Declassified]

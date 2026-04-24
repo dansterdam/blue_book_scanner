@@ -1,20 +1,46 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book report, specifically a form titled "IV. BALLOON DATA" and "V. EVALUATION".
-
-The text found in the document is as follows:
-
 IV. BALLOON DATA
-21. WERE BALLOONS SIGHTED IN AREA? [No checkbox selected]
-22. TIME SINCE SCHEDULED BALLOON RELEASE: 3- - 27 minutes 
-23. POSSIBLE BALLOON LAUNCH TIMES CONSIDERED: SIGHTING
-a. Farmingdale, L.I. , N.Y.
-b. 
-c.
-d.
+
+21. WERE BALLOONS RELEASED IN AREA: [X] Yes [ ] No
+
+22. TIME SLICE SCHEDULED BALLOON RELEASE: 2 Aug + 42 minutes
+
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+
+| Location | Type | Launching Agency | Lighted? | Describe |
+|----------|------|------------------|----------|----------|
+| | | | Yes No | Lighting |
+| a. | [handwritten: Minneapolis, Minn, W.V.] | weather | AWS | [checkmark] | [handwritten: white?] |
+| b. | | | | | |
+| c. | | | | | |
+| d. | | | | | |
+
+(attach overlay)
 
 V. EVALUATION
-21. EVALUATION OF SOURCE: [Excellent checkbox selected, all others unchecked]
-22. FINAL EVALUATION:
-[Possibly Balloon checkbox selected, all others unchecked]
-24. COMMENTS:
 
-ATTIC Test Form 331; (13 Aug 52)
+21. EVALUATION OF SOURCE: | 22. DETAILS OF REPORT:
+[X] Excellent | [X] Good
+[ ] Good | [ ] Fair
+[ ] Fair | [ ] Poor
+[ ] Poor | [ ] Insufficient to Evaluate
+[ ] Unreliable |
+[ ] Extremely Doubtful |
+[ ] Hoax |
+
+23. FINAL EVALUATION:
+
+[ ] Was Balloon | [ ] Was Astronomical
+[ ] Probably Balloon | [ ] Probably Astronomical
+[X] Possibly Balloon | [ ] Possibly Astronomical
+
+[ ] Was Aircraft | [ ] Other: _______________
+[ ] Probably Aircraft |
+[ ] Possibly Aircraft | [ ] Insufficient Data For Evaluation
+
+| [ ] Unknown
+
+24. COMMENT:
+
+[Large blank space for comments]
+
+ATIC Test Form 329 (13 Aug 52)

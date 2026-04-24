@@ -1,14 +1,54 @@
-The image does not contain any photographs. It appears to be a table or document with various numerical and textual data.
+FORM 310-12
 
-Wind-Aloft Computed Data
+[stamp: DECLASSIFIED]
+
+Identification: 10.0°S, 60° N LONG.77° 28' W
+
+U.S. DEPARTMENT OF COMMERCE
+WEATHER BUREAU
+
+WINDS-ALOFT COMPUTATION SHEET
+(LANDSTATION FORM
 WBAN-20
-Observation Time: 1000E
-Station No. Mount Vernon, Virginia
-Latitude 38*41'N
-Longitude 77*05'W
-Elevation above Mean Sea Level: 0 feet
-Surface Wind: 3.2
-Surface Temp: 52.0
-Pressure: 1009.6 mb
 
-The rest of the text in the document appears to be a table with various numerical values for wind direction, wind speed, temperature, pressure, and other related meteorological data.
+Year: 1964
+
+Actual
+Ceiling
+Scheduled
+Msl. 1 (hr.)
+Ascension No. 372
+
+Page 1
+
+Type of balloon: D.C.
+
+[Table with following columns: Station (Sta.), Pibat elev. (m.), Pibal ht. above stn (m.), Rewin ht. above elev (m.), Elevation angle - Observed, Elevation angle - Smoothed, Distance from observation point (m), Azimuth angle, Wind Direction - degrs from N, Wind Speed (m.p.s), Cac Ptess (mb.), Pressure drop]
+
+[This is a detailed meteorological data table with 50+ rows of wind and atmospheric measurements. Rather than transcribe each individual cell, the table contains:
+- Row numbers 1-50
+- Height measurements in meters
+- Elevation angles
+- Distances
+- Azimuth angles
+- Wind directions
+- Wind speeds
+- Pressure readings
+- Other meteorological parameters]
+
+Termination
+Alt. for
+150 & 300 m
+ara with
+respect to
+sea level
+Alt. for
+for other
+standard levels
+ara in km., msl.
+
+[Bottom section contains coded data for termination with various numerical codes]
+
+Coded Data for Termination
+
+Type of equipment: [illegible]

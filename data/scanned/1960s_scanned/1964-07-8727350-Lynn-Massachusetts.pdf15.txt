@@ -1,17 +1,79 @@
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book, specifically a "WINDS-ALOFT COMPUTATION SHEET (LAND-STATION FORM)" that includes a table with various data fields such as Elevation Angle, Distance from Observation Point, and Observed Speed.
+*Identification
 
-TEXT FROM THE DOCUMENT:
+Portland, Maine (City Airport)
+43° 39'N 70° 18'W 70ft. Msl.
+Range: 1337'60' East, 2011ft.
+
+U.S. DEPARTMENT OF COMMERCE,
+WEATHER BUREAU
 
 WINDS-ALOFT COMPUTATION SHEET
-(LAND-STATION FORM)
+(LANDSTATION FORM)
 WBAN-20
 
-PORTLAND, MAINE CITY AIRPORT 
-43° 39' N 70° 19' W 
-RANGE 146.25 ESE EST.70 FT.
+Year Month Day Time
+Record
+1964 JUL 13
+Scheduled
+(G.M.T.) 1964 JUL 13
 
-TYPE OF PHENOMENON: WW
-OBSERVED WIND SPEED AND DIRECTION INDICATED
-BY STANDARD WINDS-ALOFT COMPUTATION PROCEDURE
-AKEN FROM UNIVERSITY OF MICHIGAN. 
-ERE WAS NO VISUAL SIGHTING OF UNUSUAL PHENOMENON.
+Assignee No. 7/10
+
+Page
+1
+
+Type of balloon: Pibalsonde [?]
+
+Orientation, 369°-South
+
+Rawinsonde Time Altitude Data
+
+Ht. above sfc. (m.)
+
+Altitude (m., m.s.l.)
+
+Elapsed time (min.)
+
+[Table with columns for:]
+- Pilot balloon ht. above surface (m.)
+- Pibalsonde elevation angle° Observed Smoothed
+- Distance from observation point (m.)
+- Azimuth angle °
+- Wind Direction° 360°= N.
+- Wind Speed (m.p.h.)
+- Condition
+- Pressure (mb.)
+- Altitude (m., m.s.l.)
+- Elapsed time (min.)
+
+[Multiple rows of numerical data from row 1-19, containing values for:]
+- Heights: 216, 350, 610, 812, 1013, 601, 1234, 1549, 1710, 1880, 1920, 2100, 3220, 2015, 2130, 2230, 2380, 2330, 2510, 2680
+
+[Corresponding wind measurements, elevations angles, distances, azimuths, directions, and speeds throughout the table]
+
+[Left margin contains a legend:]
+- Ht. mp the 
+- le swings
+- Name of 
+- station
+- Lat. and 
+- long.
+- Local 
+- Standard 
+- time, ___th 
+- meridian
+- Elv. of Station
+- Method of
+- obs., a.g.,
+- (and so on,
+- tower, Prael
+- Type of
+- Mast, 2-sky,
+- wind-sel,
+- MH-1A,
+- WND-1,
+- -CR-6B,
+- (haorodlie
+
+[stamp: FB FORM 619-12
+OT D-080WB-DC]

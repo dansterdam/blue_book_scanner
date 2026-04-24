@@ -1,25 +1,58 @@
-The image provided does not contain any photographs, only a document titled "PROJECT 10073 RECORD CARD" with various fields filled out.
-
-Here is the text extracted from the document:
-
 PROJECT 10073 RECORD CARD
+
 1. DATE
 25 Jan 64
+
 2. LOCATION
-Gainsville, Fla
+Gainsville, Fla.
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+
 3. DATE-TIME GROUP
-Aerial
+Local
+2170-354
+
+[ ] ⊟t Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+
+GMT
+
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
 4. TYPE OF OBSERVATION
-Ae Ground-Visual
-5. GMT
-5. PHOTOS O Yes 
-   No X
-6. LENGTH OF OBSERVATION
-10 minutes
-8. BRIEF SUMMARY OF SIGHTING
-Yellow-orange light in flight to SW. Sky conditions and small objects visible were seen and UFO. Believed to be too high for A/C.
+⊟Ground-Visual    [ ] Ground-Radar
+[ ] Air-Visual     [ ] Air-Intercept Radar
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+30 minutes
+
+8. NUMBER OF OBJECTS
+One
+
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
 9. COURSE
 SW
+
+10. BRIEF SUMMARY OF SIGHTING
+Yellow-orange light in flight to SW. Sky overcast and only objects visible were moon and UFO. Believed to be too high for a/c.
+
 11. COMMENTS
 Possible a/c sighting. Flight characteristics consistent with this analysis.
+
+ATIC FORM 329 (REV 24 SEP 52)

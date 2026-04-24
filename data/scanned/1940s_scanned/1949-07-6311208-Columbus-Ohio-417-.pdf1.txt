@@ -1,36 +1,39 @@
-There is no photograph present in this document image.
-
-The text of the document is as follows:
-
-```
 PROJECT 10073 RECORD
 
-1. DATE + TIME GROUP                2. LOCATION
-31 Jul 49 01/0015Z                   Columbus, Ohio
+1. DATE - TIME GROUP
+31 Jul 49  01/00152
 
-3. SOURCE                           10. CONCLUSION
-Civilian                            AIRCRAFT    
+2. LOCATION
+Columbus, Ohio                                    4/7
 
-4. NUMBER OF OBJECTS                
+3. SOURCE
+Civilian
+
+10. CONCLUSION
+AIRCRAFT
+
+4. NUMBER OF OBJECTS
 One or Two
 
-5. LENGTH OF OBSERVATION            11. BRIEF SUMMARY AND ANALYSIS
-Not Reported                        One object or two lights. The lights were round and approx
-                                    the size of floodlights and gave out a brilliant light
-6. TYPE OF OBSERVATION              similar to white hot or molten metal. The lights were
-Ground-Visual                       traveling slowly southward.
+5. LENGTH OF OBSERVATION
+Not Reported
+
+11. BRIEF SUMMARY AND ANALYSIS
+One object or two lights. The lights were round and approx ale size of floodlights and gave out a brilliant light similar to white hot or molten metal. The lights were traveling slowly southward.
+
+6. TYPE OF OBSERVATION
+Ground-Visual
 
 7. COURSE
 Southerly
 
 8. PHOTOS
-x Yes
-   No
+[ ] Yes
+[X] No
 
 9. PHYSICAL EVIDENCE
-   Yes
-x No
+[ ] Yes
+[X] No
 
 FORM
-FTD SEP 63 2500 (TNF) Duplicate editions of this form may be used
-```
+FTD SEP 43 0429 (TDP)  [illegible section]

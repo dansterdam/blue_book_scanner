@@ -1,10 +1,30 @@
-The image appears to be a page from an old Project Blue Book record card, which contains a form with various fields for recording details about a UFO sighting. The form includes sections for date, location, description of the observation, and conclusions drawn from the incident.
+MULTIPLE                PROJECT 10073 RECORD CARD
 
-PROJECT 10073 RECORD CARD
-1. DATE: 6 Jul 60
-2. LOCATION: Misawa, Japan
-3. TYPE OF OBSERVATION: Ground-Visual
-4. COURSE:
-5. CONCLUSIONS: a. Weather Balloon b. Insufficient Data for Evaluation
-7. LENGTH OF OBSERVATION: ONE
-10. BRIEF SUMMARY OF SIGHTING: A reddish-orange ball appeared with flame protrusions and moved at an estimated 16,000 ft observed to move at a steady or slightly erratic pace for 1-2 min. The balloon seemed quite small and the color was brighter than normal weather balloons. The vapor released at the time of explosion. Could not be tracked by radar. Positive identification not possible due to lack of information.
+1. DATE                          2. LOCATION                          12. CONCLUSIONS
+   6 Jul 60                          Misawa, Japan                      [X] Probably Balloon
+                                                                        [ ] Probably Balloon
+3. DATE-TIME GROUP               4. TYPE OF OBSERVATION               [ ] Possibly Balloon
+   Local  0150                      [X] Ground-Visual    [ ] Ground-Radar
+   GMT    05/16Z06                  [ ] Air-Visual       [ ] Air-Intercept Radar  [ ] Was Aircraft
+                                                                        [ ] Possibly Aircraft
+5. PHOTOS                        6. SOURCE                            [ ] Possibly Aircraft
+   [X] Yes                           Civilian                           [ ] Was Astronomical
+   [ ] No                                                               [ ] Possibly Astronomical
+                                                                        [ ] Possibly Astronomical
+7. LENGTH OF OBSERVATION         8. NUMBER OF OBJECTS  9. COURSE
+   5 min                            One                   NW-SE        [ ] Insufficient Data for Evaluation
+                                                                        [ ] Unknown
+10. BRIEF SUMMARY OF SIGHTING    11. COMMENTS
+    Ground object appearing as a white luminous    Probable cause of this sighting was a
+    cloud at estimated 35,000 ft observed to move  weather balloon which reached an altitude
+    in a slow rate of speed from N to SE. Cloud    sufficient to cause it to scintillate and the
+    appeared to spread at the center, at which time following phenomena attributed to water
+    a bright multi-colored ball appeared with flames vapor released at the time of explosion.
+    shooting out from the sides. Assumed the shape  The cloud was illuminated by the moon,
+    of a donut and retained this configuration while which itself was 89% illuminated. Wind
+    drifting on a course due E of Misawa. Amateur   direction conforms to direction of the
+    astronomer with group observing phenomena at    object.
+    first assumed object to be spiral nebula.
+
+
+ATIC FORM 329 (REV 28 SEP 51)

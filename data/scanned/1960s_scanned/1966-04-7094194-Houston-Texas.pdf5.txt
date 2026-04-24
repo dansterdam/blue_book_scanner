@@ -1,13 +1,27 @@
-The image does not contain any photographs. However, the text in the document can be extracted and output as follows:
-
 PROJECT 10073 RECORD
-1. DATE / TIME GROUP: 15 April 66 16/0940-0402
+
+1. DATE / TIME GROUP: 15 April 66  16/0410-0140Z
+
 2. LOCATION: Houston, Texas
+
 3. SOURCE: Civilian
+
 4. NUMBER OF OBJECTS: One
-5. LENGTH OF OBSERVATION: 20 Minutes
-6. TYPE OF OBSERVATION: Ground-visual
-7. COURSE: -
-8. PHOTOS: No
-9. PHYSICAL EVIDENCE: No
-10. CONCLUSION: BALLOON
+
+5. LENGTH OF OBSERVATION: 4 - 20 Minutes
+
+6. TYPE OF OBSERVATION: Ground-Visual
+
+7. COURSE: SW
+
+8. PHOTOS: [ ] Yes
+[X] No
+
+9. PHYSICAL EVIDENCE: [ ] Yes
+[X] No
+
+10. CONCLUSION: BALLOON & [handwritten: Hoax, puff]
+
+11. BRIEF SUMMARY AND ANALYSIS: All observers viewed a red object slowly moving to the SW. Newspaper clippings prove that objects was a balloon launched by Rice University students. Object was two weather balloons rigged with railroad flares and an aluminum foil reflector.
+
+FORM FTD SEP 63 0-329 (TDE)  Previous editions of this form may be used.

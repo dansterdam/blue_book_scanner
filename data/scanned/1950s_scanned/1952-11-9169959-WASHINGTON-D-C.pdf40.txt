@@ -1,42 +1,41 @@
-The image does not contain any photographs. It appears to be a page from an old Project Blue Book report, which is a US Air Force program that investigated unidentified flying objects (UFOs).
-
-OCR Output:
-
 IV. BALLOON DATA
-22. TIME SIMCE SCHEDULED BALLOON RELEASE _ Minutes
-23. POSSIBLE BALLOON LAUNCH SITE: DOWNWIND OF SIGHT
-Type Launch Agency Yes No Describe
-a.
-b.
-c.
-d.
+
+21. WERE BALLOONS RELEASED IN AREA [ ] Yes [X] No
+22. TIME OF HIGHEST SCHEDULED BALLOON RELEASE __________ Minutes
+
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING 2-7 [illegible]
+Location | Type | Launching Agency | Lighting Yes No | Describe Lighting
+a. [illegible] p[illegible]ee. | p[illegible] | [illegible] Name | [ ] | white.
+b. D[illegible] R[illegible] km +r T | [illegible] | U[illegible] | [ ] | "
+c. | Communiuty | " | [X] | "
+d. | | | | 
 (attach overlay)
 
 V. EVALUATION
-21. EVALUATION OF SOURCE:
-Excellent
-Good
-Fair
-Poor
-Unreliable
-Extremely Doubtful
-Poor Insufficient to Evaluate
+
+21. EVALUATION OF SOURCE: | 22. DETAILS OF REPORT:
+[ ] Excellent | [X] Good
+[ ] Good | [ ] Fair
+[ ] Fair | [ ] Poor
+[ ] Poor | [ ] Insufficient to Evaluate
+[ ] Unreliable |
+[ ] Extremely Doubtful |
+[ ] Hoax |
 
 23. FINAL EVALUATION:
-Was Balloon
-Probably Balloon
-Possibly Balloon
-Was Astronomical
-Probably Astronomical
-Possibly Astronomical
-Aircraft 
-Probably Aircraft
-Possibly Aircraft
-Other:
-Insufficient Data For Evaluation
-Unknown
+
+[ ] Was Balloon | [ ] Was Astronomical
+[ ] Probably Balloon | [ ] Probably Astronomical
+[ ] Possibly Balloon | [ ] Possibly Astronomical
+
+[ ] Was Aircraft | [ ] Other: _______________
+[ ] Probably Aircraft |
+[ ] Possibly Aircraft | [ ] Insufficient Data For Evaluation
+
+| [X] Unknown
 
 24. COMMENTS:
-May Astronaut examining horizon? Light or camera for evaluation of size, etc. Attempted to find matching sightings through our files, but could find nothing similar that had been reported previously.
 
-ATIC Form 33* (13 Aug 52)
+[handwritten: Many Government installations sighted for some time. Attempted to send weightlifting authorities Northern]
+
+ATIC Form 33½ (13 Aug 52)

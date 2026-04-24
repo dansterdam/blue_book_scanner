@@ -1,19 +1,49 @@
-The image does not contain any photograph. It appears to be a Project 10073 Record Card from Project Blue Book, which was a U.S. Air Force program to study unidentified flying objects (UFOs).
+PROJECT 10/73 RECORD CARD
 
-OCR Text Output:
-9 December 1954
-2. LOCATION
-Palm Beach, Florida
-3. TIME OF SIGHTING
-Local 18:11 EST
-4. TYPE OF OBSERVATION
-G Ground-Visual
-5. PHOTOS
-Yes
-7. LENGTH OF OBSERVATION
-3-5 minutes
-10. BRIEF SUMMARY OF SIGHTING
-Bright cloud-like object was observed. Had round outline and bright glow. Object stopped and reversed course towards the west at terrific rate of speed. Object stopped and dropped in altitude.
-12. CONCLUSIONS
-Insufficient Information for Evaluation
-Other
+1. DATE: 9 December 1954
+
+2. LOCATION: Palm Beach, Florida
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Was Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP:
+Local: 1070-50Z
+GMT: <blank>
+
+4. TYPE OF OBSERVATION:
+[ ] Ground-Visual
+[ ] Air-Visual
+[X] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS:
+[ ] Yes
+[ ] No
+
+6. SOURCE: Civilian
+
+7. LENGTH OF OBSERVATION: 2 - 3 Minutes
+
+8. NUMBER OF OBJECTS: 1
+
+9. COURSE: South
+
+10. BRIEF SUMMARY OF SIGHTING:
+Bright cloud, center of object. Had brown glow. Object would stop in mid-air and go straight up and down. Object first observed moving towards the west at terrific rate of speed. Object stopped and dropped in altitude.
+
+11. COMMENTS:
+Subsequent information from the observer [redacted] indicated the reported sighting was stimulated by three T-33 a/c in the area.
+
+ATIC FORM 329 (REV 28 SEP 52)

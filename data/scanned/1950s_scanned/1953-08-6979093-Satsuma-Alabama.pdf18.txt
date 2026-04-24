@@ -1,151 +1,40 @@
-The image does not contain any photographs. It appears to be a page from an old UFO report document from Project Blue Book, containing a table with various data entries.
+[stamp: UNCLASSIFIED]
 
-UNCLASSIFIED
-DLRE: 3--0 MID DL--SD-- TEMP DL -- F CITY COMMENTS
+DATE          WD HT      WD DIR-SED      TEMP      DEW PT      WGTY      SKY CONDITION
 
-11 July
-2330 ER
+31 July       Surface    Cal.            78        72           9         25,000 scattered
+2030 HR       3000       170/5
+              5000       140/10          63
+              10,000     110/15          64
+              15,000     130/10
+              20,000     170/15
 
-Surface
-3000
-5000
-10,000
-15,000
-20,000
+1 Aug         Surface    240/6           82        74           10        Clear
+2030 HR       3000       180/10
+              5000       150/10          61
+              10,000     140/10          46
+              15,000     120/15
+              20,000     160/15
 
-279/9
-340/19
-130/15
-170/15
-179/15
+2 Aug         Surface    260/5           80        74           10        Clear
+0030 HR       3000       140/10
+              5000       170/15          59
+              10,000     100/10          43
+              15,000     160/5
+              20,000     170/10
 
-72
-62
-64
+2 Aug         Surface    280/6           87        73           12        2500 scattered
+1730 HR       3000       230/5                                             25,000 scattered
+              5000       270/10          64
+              10,000     250/10          61
+              15,000     140/10
+              20,000     170/10
 
-72
-74
+17 Aug        Surface    040/6           62        71           10        25,000 scattered
+2055 HR       3000       160/5
+              5000       120/5           64
+              10,000     020/5           48
+              15,000     200/5
+              20,000     250/10
 
-9
-10
-
-25,000 scattered
-
-1 Aug 
-2330 LR
-
-Surface
-3000
-5000
-10,000
-15,000
-20,000
-
-240/6
-280/10
-150/10
-140/10
-120/15
-160/15
-
-82
-61
-46
-
-74
-74
-
-10
-10
-
-Clear
-
-2 Aug
-0030 HR
-
-Surface
-3000
-5000
-10,000
-15,000
-20,000
-
-260/5
-140/10
-170/15
-120/10
-160/15
-170/15
-
-80
-59
-45
-
-74
-74
-
-10
-10
-
-Clear
-
-2 Aug
-1730 HR
-
-Surface
-3000
-5000
-10,000
-15,000
-20,000
-
-240/9
-260/7
-280/10
-250/10
-170/10
-170/10
-
-87
-64
-61
-
-73
-71
-
-12
-12
-
-2500 scattered
-25,000 scattered
-
-17 Aug
-2035 LR
-
-Surface
-3000
-5000
-10,000
-15,000
-20,000
-
-040/6
-150/5
-120/5
-220/5
-200/5
-250/10
-
-82
-64
-48
-
-71
-74
-
-10
-10
-
-25,000 scattered
-
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]

@@ -1,55 +1,36 @@
-There is no photograph present in this image. The image appears to be a page from a Project Blue Book report containing a table of data related to UFO sightings.
+FORM 610-12
+CIMM-WB-DC
 
-WASHINGTON, D.C.
-LATITUDE 38 DEG 59' N LONGITUDE 77 DEG 28' W
-ALTITUDE 300 FEET ABOVE GROUND
+*Identification
 
-PAGE 7
---:---
-Date/Time (Gr.)
-1958 OCT 21 153
+WASHINGTON, D. C.
+(STERLING, VA.) 37°39'09" N LONG.77° 28' W
+RADIO WIND-20                    ELEVATION 300=S
+BALLOON RELEASE TIME              GROUND ELEV ISSUED
 
-Identification
-1958-58-42
+Page
+1
 
-Location 
-WINDS-ALOFT STATION
+Type of balloon 600
 
-2830 OBS.
+[THIS IS TABLE: A detailed wind data table with the following columns: Slant range (m.) (yds.), Ht. above sfc. (km.) (yds.), Ht. above sfc. (m.), Elevation angle°, Observed, Smoothed, Distance from observation point (m.), Azimuth o, Direction° 360°=N., Speed (mps)]
 
-Time (Z)
-1553
+The table contains 50 rows of data with measurements for various heights and wind parameters.
 
-Elapsed
-0.0 Hrs
+U.S. DEPARTMENT OF COMMERCE
+WEATHER BUREAU
 
-Number on Obs. Log 
-4
+ACE
+[?]
+Ascer
 
-Shape
-Lens
+Orientation: 360°=South
 
-Color
-White
+Wind
+Direction° 360°=N.
 
-No. Obs.
-2
+[The table continues with detailed numerical data for each row from row 1 to row 50]
 
-Observed Smashed
-No
+Coded Data for Transmission
 
-Duration
-0.10 Min.
-
-Azimuth
-338
-
-Elevation
-55
-
-Angular size
-L
-
-"AZI - 338, EL - 55, D - 0.10 MIN., LENS
-SHAPED, WHITE, 2 OBSERVERS. APPROX. 2 MI. S.
-OF WIND-ALOFT STN."
+[Bottom section contains coded data in compressed format]

@@ -1,16 +1,59 @@
-The image does not contain a photograph. It appears to be a document titled "USAF UFO SURFACE CLASSIFICATION DATA SHEET" that lists various locations, dates, and categorization information related to UFO sightings.
+SURFACE OBSERVATIONS DATA SHEET
 
-SURFACE CLASSIFICATION DATA SHEET
-Amarillo AFB, Texas - March 6, 1969
-Winona, Minnesota - April 3, 1966
+Amarillo AFB, Texas - March 6, 1968
+
+0/00L *3505 74.02* 10205 ##### 52###
+0700L *3505 74.02* 10505 ##### 52###
+0600L 33303 74.012 10205 20977 53303
+0700L *3304 74.02* 13202 ##### 55###
+0900L *0204 74.02* 13005 ##### 52219
+
+Winona, Minnesota - April 3, 1968
+
+1800L 91321 08315 95211 9#### 10329 70030
+1900L 61213 56.45* 92510 ##### 09###
+2200L 81610 56.45* 91708 ##### 08###
+
 Salisbury, N.C. - February 3, 1966
+
+0130Z 03002 74.000 14200 00900 55###
+
 Houston, Texas - February 4, 1966
-Spearville, Kansas - March 20, 1966
+
+1200Z 00204 74.000 32101 00900 52###
+
+Surfside, Texas - March 20, 1966
+
+0732Z 72112 74.022 20819 754## 163C2
+
 Truth or Consequences, N.M. - April 3, 1966
-Inyokern, New York - April 5, 1966
+
+0100Z 22915 74.031 02323 00901 00###
+
+Lycoming, New York - April 5, 1966
+
+0800Z 82710 58858 99600 883## 51###
+
 Bloomington, Indiana - July 4, 1966
+
+0130Z 22.05 6603* 14432 214## 23###
+
 Donnybrook, North Dakota - August 19, 1966
-Sweed, Texas - August 27, 1966
+
+2250Z 61208 64.03* 18421 6087# 07###
+
+Pecos, Texas - August 27, 1966
+
+0300Z 21605 74.02* 13124 214## 13###
+
 Rome, Georgia - August 27, 1966
+
+0251Z 33005 74.02* 19323 3086# 18###
+
 East Dennis, Mass. - October 8, 1966
-STAG Surface History Files D-2
+
+2350Z 81808 48585 14512 872## 12###
+
+STIC Surface History Files
+
+D-2

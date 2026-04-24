@@ -1,22 +1,41 @@
-The image does not contain a photograph. It appears to be a page from a Project Blue Book record that documents a UFO sighting.
-
 PROJECT 10073 RECORD
-1. DATE-TIME GROUP 2. LOCATION 
-2/7/62 2022 LAKE CITY, PENNSYLVANIA
-3. COMPLAINT
+
+1. DATE - TIME GROUP
+24 Jan '67     24/2300Z
+
+2. LOCATION
+Lake City, Pennsylvania
+
+3. SOURCE
 Civilian
+
 4. NUMBER OF OBJECTS
 One
+
 5. LENGTH OF OBSERVATION
-2-3 minutes
-6. TYPE OF OBSERVATION 
-Ground and Airborne (Visual) (TX)
+3-7 minutes
+
+6. TYPE OF OBSERVATION
+Ground / Visual (TX)
+
 7. COURSE
-Toward east
-8. PHYSICAL EVIDENCE
-No
-9. CONCLUSIONS
-Possible (ATIC APT) 
+E-W
+
+8. PHOTOS
+[ ] Yes
+[X] No
+
+9. PHYSICAL EVIDENCE
+[ ] Yes
+[X] No
+
+10. CONCLUSION
+Possible (ATIC AFT)
+
 No data presented to indicate object was not an aircraft.
-10. BRIEF SUMMARY AND ANALYSIS
-Object was oval shaped, and appear to have hazy edges. Object seems to have been from a white to a golden color. A yellowish light was seen through two portlights.
+
+11. BRIEF SUMMARY AND ANALYSIS
+Object was oval shaped, and appeared to have fuzzy edges. Color of the object by the observers was from a white to a yellowish white. Observers stated they watched the object through two telescopes.
+
+FORM
+FID SEP 63 0-327 (TDE)     Previous editions of this form may be used.

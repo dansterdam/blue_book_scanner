@@ -1,22 +1,38 @@
-The image does not contain any photographs, but rather it shows a form titled "U.S. DANGER AREAS ON WORLD AERONAUTICAL CHART 264" which lists various "ACTIVITY" areas and their associated "ALTITUDE USING AGENCY" and "TIME" information.
+FROM ___________________________________
 
-FROM
+PENALTY FOR PRIVATE USE TO AVOID
+PAYMENT OF POSTAGE, $300
+
+___________________________________
+
+___________________________________
+
+___________________________________
+
 OFFICIAL BUSINESS
-PERMIT NO. 1099
+PERMIT NO. 1009
 
-TO:
+
+To:
 The Director
 U.S. Coast and Geodetic Survey
 Washington, 25, D.C.
 
-MAKE EXTRA FOLD HERE TO RETURN TO DIRECTOR, USCGS
+
+...................................... MAKE EXTRA FOLD HERE TO RETURN TO DIRECTOR, USCOGS .....................................
+
 
 U.S. DANGER AREAS ON WORLD AERONAUTICAL CHART 264
-NO. NAME ACTIVITY ALTITUDE USING AGENCY TIME
-12-31 Lake Mead Aerial Gunnery 6,000 to 20,000 Ft. ATC, Williams AFB, Ariz Daily
-12-32 Lake Mead Aerial Gunnery 6,000 to 20,000 Ft. ATC, Luke AFB, Ariz Daily
-12-33 Lake Mead Aerial Gunnery 6,000 to 20,000 Ft. ATC, Luke AFB, Ariz Daily
-12-34 Lake Mead Aerial Gunnery 6,000 to 20,000 Ft. ATC, Luke AFB, Ariz Daily
-14-33 Hammond Bay Aerial Gunnery, Air-to-Air Armament 7,000 to 15,000 Ft. ATC, Kinross AFB, Mich. Daily
 
-Aircraft are not permitted from flying through Caution Areas, however, extreme caution should be exercised by pilots flying through such areas.
+NO. | NAME | ACTIVITY | USING AGENCY | ALTITUDE | TIME
+D-31 | Oscoda | Bombing and Gunnery | Wurtsmith AFB, Mich. | Unlid. | 0-ys
+D-32 | Grayling | Aerial Gunnery | Wurtsmith AFB, Mich. | Unlid. | D-ys
+D-362 | Lake Margrethe | Small Arms, Flying | Hdqrs. 5th Army, Chicago, Ill. | To 2,000 | Untd.
+D-423 | Camp Grayling | Small Arms, Flying | Hdqrs. 5th Army, Chicago, Ill. | To 20,000 | Untd.
+D-424 | Hammond Bay | Air-to-Air Gunnery | Kinross AFB, Mich. | Untid. | D-ys
+
+Altitude given in feet.
+AR - Airspace Reservation (Prohibited) C - Caution D - Danger W - Warning
+
+No person shall operate an aircraft within an Airspace Reservation or Danger Area unless permission for such operation has been issued by appropriate authority.
+Aircraft are not restricted from flying through Caution Areas; however, extreme caution should be exercised by pilots flying through such areas.

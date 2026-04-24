@@ -1,6 +1,622 @@
-The provided image does not contain any photographs. It appears to be a page from a weather surface observation report from the U.S. Department of Commerce.
+U. S. DEPARTMENT OF COMMERCE, WEATHER BUREAU
 
-U.S. DEPARTMENT OF COMMERCE, WEATHER SURFACE WEATHER OBSERVATION
+SURFACE WEATHER OBSERVATIONS
+
+STATION .....................Washington, D.C. - AIRPORT..................... DATE.................1964 MAY 18...
+
+TIME
+(L.S.T.)
+#
+
 STATION
-DATE PRECIPITATION WIND DIRECTION WIND VELOCITY WAVES WIND HIGHER CLOUD COVER/TYPE LOWER CLOUD COVER/TYPE
-SURFACE CONDITION SEA LVL PRES TEMP. DEW. PT. VISIBILITY
+ELEV.
+(FT.)
+#
+
+DRY
+BULB
+(°F.)
+#
+
+WET
+BULB
+(°F.)
+#
+
+REL.
+HUM.
+(%)
+#
+
+TOTAL
+CLOUD
+COVER
+#
+
+CLOUDS AND OBSCURING PHENOMENA
+LOWEST LAYER
+RECORD LAYER
+SECOND LAYER
+THIRD LAYER
+FOURTH LAYER
+TOTAL
+OPAQUE
+SKY
+COVER
+
+AMT.
+#
+
+TYPE &
+HEIGHT
+#
+
+HEIGHT
+(100 FT.)
+#
+
+AMT.
+#
+
+TYPE &
+HEIGHT
+#
+
+HEIGHT
+(100 FT.)
+#
+
+AMT.
+#
+
+TYPE &
+HEIGHT
+#
+
+HEIGHT
+(100 FT.)
+#
+
+AMT.
+#
+
+TYPE &
+HEIGHT
+#
+
+HEIGHT
+(100 FT.)
+#
+
+AMT.
+#
+
+TYPE &
+HEIGHT
+#
+
+HEIGHT
+(100 FT.)
+#
+
+#
+
+00 55 24778 56
+
+6 6 F - 0
+
+6 0
+
+6 0
+
+G 3
+
+01 55 24778 57
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0
+
+03 55 25 75 57
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0
+
+03 59 25 2 20 57
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0 2
+
+04 51 25 8 57 57
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0
+
+05 8 24 8 61 52
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0
+
+06 7 24 10 61 61
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0 2
+
+017 5 24 10 66
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0
+
+08 7 24 187 63
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0
+
+09 57 24 105 74
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0 1
+
+10 72 25 710 77
+
+0 0
+
+0
+
+0 0
+
+0 6
+
+0
+
+11 72 28 50 28
+
+0 0 Cu Up
+
+0 Cu 0
+
+0 0
+
+0
+
+12 59 21 170 50
+
+4 1 Cu Vo ? Cu 1 V 0
+
+V 0
+
+/ 7
+
+13 49 25 715 67
+
+3 3 Cu 40 0
+
+3 0
+
+3 0
+
+3
+
+14 59 23 E! 63
+
+1 2 Cu 40 0
+
+2 0
+
+2 0
+
+2
+
+18 57 29 8 50 73
+
+1 1 Cu 40 0
+
+1 0
+
+1 0
+
+1 7
+
+18 57 29 8 00 73
+
+1 0 Cu 40 1 Cu
+
+1 1 0
+
+1 0
+
+0
+
+18 59 29 9 67 57
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0
+
+18 59 29 9 60 76
+
+4 4 Ci
+
+0
+
+4 0
+
+4 0
+
+/ 
+
+19 52 21 276 66
+
+6 6 Ci /
+
+0
+
+6 0
+
+6 0
+
+3
+
+19 58 29 13 61
+
+8 3 Ci /
+
+0
+
+9 0
+
+9 0
+
+3
+
+21 58 21 900 60
+
+8 9 M / 0
+
+8 0
+
+8 0
+
+3
+
+22 76 21 700 60
+
+6 6 Ci / 0
+
+6 0
+
+6 0
+
+3
+
+23 55 21 700 57
+
+4 4 Cs / 0
+
+4 0
+
+4 0
+
+3
+
+SYNOPTIC OBSERVATIONS
+
+TIME
+(L.S.T.)
+#
+
+TIME
+OF
+OBS.
+#
+
+IN
+PRECIP
+GAGE
+(IN.)
+#
+
+SNOW
+DEPTH
+(IN.)
+#
+
+SNOW
+FALL
+(IN.)
+#
+
+MAX.
+TEMP.
+(°F.)
+#
+
+MIN.
+TEMP.
+(°F.)
+#
+
+TIME
+MAX.
+TEMP.
+(L.S.T.)
+#
+
+STATE
+OF
+GRD.
+#
+
+STATE
+OF
+WTHR.
+#
+
+SWELL
+GND.
+#
+
+SWELL
+PERIOD
+#
+
+SWELL
+DIR.
+#
+
+WATER
+TEMP.
+(°F.)
+#
+
+SOIL
+TEMP.
+(°F.)
+#
+
+STATION PRESSURE
+
+TIME (L.S.T.)
+#
+
+00 HRS 29.90 W 1955 28.1
+
+00 55 1 0 0 0 72 56
+
+00 HRS 1938.6 102
+
+0.055 1 0 0 0 61 51
+
+OBS'VD. BAR.
+READING
+
+12 30
+
+0.653 1 0 0 0 61 51
+
+TOTAL CORR.
+BAROMETER
+
+13 57 1 0 0 0 70 60
+
+29.753 27.
+
+18 53 1 0 0 0 72 72
+
+STA. PRESS.
+(SEA LEVEL)
+
+29.753 27.
+
+MID. X 0 0 0 72 57 X X X X X X X X X X X X X
+
+BAR. CORR.
+#
+
+± 0 ±
+
+SUMMARY OF DAY (MIDNIGHT TO MIDNIGHT)
+
+#
+
+24-HR.
+MAX.
+TEMP.
+(°F.)
+#
+
+24-HR.
+MIN.
+TEMP.
+(°F.)
+#
+
+24-HR.
+MEAN
+WATER
+BODY
+TEMP.
+(°F.)
+#
+
+24-HR.
+PRECIP.
+(UNWTD.
+TOTAL)
+(IN.)
+#
+
+MEAN
+DEPTH
+(IN.)
+#
+
+MEAN
+SPEED
+(M.P.H.)
+#
+
+DIR.
+OF
+WIND
+#
+
+TIME
+OF
+GUST
+#
+
+TIME
+ICE ON
+LAKE
+(L.S.T.)
+#
+
+RIVER
+STAGE
+(FT.)
+#
+
+RIVER
+MAX.
+N. H.
+#
+
+RIVER
+MIN.
+N. H.
+#
+
+TEMP.
+AT
+TIME
+(L.S.T.)
+#
+
+WEATHER
+#
+
+PRECIP.
+& DIR.
+#
+
+BEGAN
+#
+
+ENDED
+#
+
+DUR.
+HOURS
+#
+
+OSCTH.
+OF
+#
+
+#
+
+83 57 0 0 0 14 [illegible]
+
+CF J2
+
+CF 92
+
+CF 92
+
+50 REMARKS, NOTES AND MISCELLANEOUS PHENOMENA
+
+Total sunshine ____________ Sunrise ____________ Sunset ________________
+
+Fastest observed 1-minute wind speed _________________ m.p.h.; or _________________ m.p.h.
+
+Fastest mile _________________ m.p.h.; associated direction _________________ and time: _________________
+
+Excessive precipitation: ________________________________________________________________________
+
+(1 (MINUTES)
+5
+10
+15
+20
+30
+45
+60
+80
+100
+120
+150
+180
+
+PRECIPITATION
+(INCHES)
+
+U.S. GOVERNMENT PRINTING OFFICE 166—Q-477595

@@ -1,20 +1,44 @@
-The image appears to be a scanned page from a report which includes a simple line drawing or track plot, rather than a photograph. Due to the quality of the scan, the text is difficult to read, blurred, and some parts are virtually illegible. There are some annotations and markers that suggest a route or trajectory, and a small inset with a plotted line and two points labeled "1" and "2" with times noted next to them. Here is an attempt to transcribe the visible and legible text, but please note that some parts may not be accurately captured due to the poor quality of the image:
+Dr HYNEK'S EVALUATIONS EXTRACTED FROM PROJECT GRUDGE REPORT.
 
-```
-[ILLEGIBLE MARKINGS]
+INCIDENT INDEX
 
-...000' [Arrow indicating upwards trajectory?]
-...ILES
-...2000'...
-...1000'...
-[Rest of the text along the trajectory is illegible]
+1. Astronomical
 
-[In the Inset]
-Contact #2
-Time 1032
+   a. High probability:
+      #20, 27, 30, 31, 32, 33, 34, 48, 49, 59, 60, 66, 69, 70, 94,
+      95, 96, 97, 98, 101, 102, 103, 104, 116, 119, 132, 136, 140,
+      147, 148, 158, 174, 184, 185, 187, 197, 203, 204, 208, 216,
+      219, 238.
 
-[Along the bottom part of the image]
-UNCLAS [Presumably short for 'UNCLASSIFIED']
-```
+   b. Fair or low probability:
+      #15, 23, 23, 24, 25, 35, 36, 46, 50, 63, 67, 80, 82, 83, 160,
+      112, 120, 121, 122, 130, 144, 153, 155, 166, 167, 175, 192,
+      199, 202, 205, 220, 230, 240.
 
-Unfortunately, many details are illegible in the provided scan, making a complete and accurate transcription difficult.
+2. Non-astronomical but suggestive of other explanations
+
+   a. Balloons or ordinary aircraft:
+      #3, 11, 22, 41, 42, 53, 54, 73, 81, 85, 91, 92, 113, 114, 115,
+      126, 131, 133, 141, 145, 155, 156, 157, 159, 160, 161, 163,
+      169, 171, 175, 178, 180, 182, 188, 190, 194, 195, 196, 198,
+      209, 201, 209, 210, 217, 222, 235, 237, 239.
+
+   b. Meteors, flares or falling bodies:
+      #4, 5, 6, 7, 8, 9, 12, 13, 14, 15, 16, 29, 58, 65, 79, 106, 107,
+      108, 109, 133, 170, 211, 212.
+
+   c. Miscellaneous (reflections, auroral streamers, birds, etc.):
+      #39, 89, 123, 124, 128, 146, 164, 181, 189, 214, 221, 231, 234.
+
+3. Non-astronomical, with no explanation evident
+
+   a. Lack of evidence precludes explanation:
+      #38, 44, 45, 47, 55, 57, 72, 85, 87, 88, 90, 99, 110, 117, 118,
+      125, 127, 137, 139, 149, 150, 177, 179, 191, 205, 212, 213,
+      229, 232, 233.
+
+   b. Evidence offered suggests no explanation:
+      #1, 2, 10, 17, 21, 26, 37, 40, 51, 52, 56, 61, 62, 64, 68, 71,
+      76, 78, 77, 79, 84, 105, 111, 122, 135, 151, 152, 154, 162,
+      168, 172, 173, 183, 186, 196, 207, 218, 223, 224, 225, 226,
+      227, 228, 241, 242, 243, 244, 234.

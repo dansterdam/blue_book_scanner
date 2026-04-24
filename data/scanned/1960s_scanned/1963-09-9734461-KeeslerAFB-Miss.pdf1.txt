@@ -1,11 +1,46 @@
-This image does not contain any photograph. It appears to be a page from a Project Blue Book record card, which is a document used to record details of a reported UFO sighting.
-
 PROJECT 10073 RECORD CARD
+
 1. DATE: 21 Sep 63
-2. LOCATION: Keesler AFB, Miss.
-3. DATE-TIME GROUP: Local
-4. TYPE OF OBSERVATION: Ground-Visual 
-5. LENGTH OF OBSERVATION: 2 min
-6. NUMBER OF OBJECTS: 1
-7. COURSE: Moving slowly downward and slowly increasing in brightness.
-8. COMMENTS: Object was at first circular or spherical in shape and very bright, appearing to come from an invisible plane. Object remained stationary for about 15 seconds, then started moving slowly downward, increasing in brightness slightly. Moved in a semi-elliptic trajectory toward the southwest. Object faded out and disappeared.
+
+2. LOCATION: Keesler AFB, Miss
+
+12. CONCLUSIONS
+[X] Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Wex Aircraft
+[ ] Probably Aircraft
+[ ] Possible Aircraft
+[ ] Astronomical
+[ ] Probably Astronomical
+[ ] Possible Astronomical
+[ ] Other Controls
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP: 21 2430Z
+4. TYPE OF OBSERVATION
+[X] Ground-Visual    [ ] Ground-Radar
+[ ] Air-Visual       [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+military
+
+7. LENGTH OF OBSERVATION: 5-30 seconds    1-2 min
+
+8. NUMBER OF OBJECTS: two
+
+9. COURSE
+varied
+
+10. BRIEF SUMMARY OF SIGHTING
+WH-blue-green obj exhibiting specific shape or size. Appeared to be a control cooling from an invisible plane. Initial observation at 45 deg elev in ESE disappearing after flight to WSW. Reappeared after 10 sec break heading ES. Looked E of 5-10 sec at zenith time it seemed to explode but not break up. Continued at 3/4 orig speed in a slightly downward trajectory. Downward glow increased and size became a cloud-like enlargement which persisted.
+
+11. COMMENTS
+Sighting at night about 1030 pm. Object not observed, however report was of contrails. Quite possible for a/c to generate contrails and not be visible. A/c source theory.
+
+ATIC FORM 329 (REV 24 SEP 53)

@@ -1,15 +1,57 @@
-The image does not contain any photograph. It appears to be a Project Blue Book record card with various fields filled out, including the date, location, type of observation, conclusions, and a brief summary of the sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 25 Jan 38
-2. LOCATION: 2 Mi SE of Odessa, Fla.
-3. NATURE OF OBSERVATION: Visual
-4. TYPE OF OBSERVATION: D Ground-Visual
-5. PHOTOS: Yes
-6. CIVILIAN OR MILITARY: Civilian
-7. LENGTH OF OBSERVATION: 5-10 mins
-8. NUMBER OF OBJECTS: One
-9. COURSE: Straight
-10. BRIEF SUMMARY OF SIGHTING: "Obj. didn't halt the size or a large airliner, was NW bound it vanished suddenly & silently after travelling about 1/2 to 3/4 of a minute (est). Obj bank to the right & travelled SE at a very rapid rate of speed."
-11. COMMENTS: "This description raises a probability that this unidentified observation as a coincidence that may not be associated with any technical phenomena."
-12. CONCLUSIONS: Was Balloon, Probably Balloon, Possibly Aircraft, Probably Aircraft, Insufficient Data for Evaluation, Other.
+
+1. DATE
+27 Jan 58
+
+2. LOCATION
+2 Mi S of Odessa, Fla.
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP
+Local ________
+CMT 27/1643Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Air-Intercept Radar
+
+[ ] Ground-Radar
+[ ] [illegible]
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+5 mins
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+SE
+
+10. BRIEF SUMMARY OF SIGHTING
+Red, white obj. about half the size of a large airliner. Was NW bound in trail of a large A/C getting as close as about 1½ miles. It then seemed to bank to the right & traveled SE at a very rapid rate of speed.
+
+11. COMMENTS
+The description is that of an a/c. Probably coincidence that a/c passed crossed at different alt.
+
+ATIC FORM 329 (REV 24 SEP 52)

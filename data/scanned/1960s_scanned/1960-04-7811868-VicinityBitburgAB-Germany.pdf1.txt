@@ -1,24 +1,38 @@
-There is no photograph present in this image. The image appears to be a Project Blue Book record card containing text information about a reported UFO sighting.
+1. DATE: 14 Apr 60
 
-OUTPUT TEXT:
-PROJECT 10073 RECORD CARD
-1. DATE
-14 Apr 60
-3. DATE-TIME GROUP
-Late Afternoon
-6. GMT
-15:55
-7. LENGTH OF OBSERVATION
-3 sec
-10. BRIEF SUMMARY OF SIGHTING
-Round, one-half size of dime at arm's length, white, appeared as falling star which passed behind hills and disappeared.
-12. CONCLUSIONS
-Was Ball seen
-Possibly Balloon
-Was Observed
-Probably Aircraft
-Probably Astronomical
-Probably Astronomical
-Insufficient Data for Evaluation
+2. LOCATION: Vicinity Bitburg AB, Germany
 
-DESCRIPTION is typical of a meteor disintegrating in the earth's atmosphere
+3. DATE-TIME GROUP: Local _________________ GMT 1915Z
+
+4. TYPE OF OBSERVATION: [X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS: [ ] Yes [X] No
+
+6. SOURCE: Military
+
+7. LENGTH OF OBSERVATION: 3 sec
+
+8. NUMBER OF OBJECTS: One
+
+9. COURSE: descending
+
+10. BRIEF SUMMARY OF SIGHTING: Round, one-half size of dime at arm's length, white, appeared as Falling star with pieces falling off. Curved toward earth, disappearing behind building.
+
+11. COMMENTS: Description is typical of a meteor disintegrating in the earth's atmosphere
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical Meteor
+[X] Possibly Astronomical
+[ ] Other_____________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 25 SEP 59)

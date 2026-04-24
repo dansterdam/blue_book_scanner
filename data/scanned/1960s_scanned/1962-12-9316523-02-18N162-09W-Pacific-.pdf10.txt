@@ -1,40 +1,46 @@
-The image does not contain any photographs. It appears to be a scanned page from a UFO report document from Project Blue Book.
-
-As an OCR (Optical Character Recognition) system, I will now produce the text found in the document:
-
 1 - 31 JANUARY 1963 SIGHTINGS
-DATE	LOCATION	OBSERVER	EVALUATION
-2	Forbes AFB, Kansas	Military	Astro (METEOR) INSUFFICIENT DATA
-5	Akron, Ohio (Ravenna)	-	Astro (STAR/PLANET) INSUFFICIENT DATA
-5	Naushket Point, Long Island, N.Y.	Military	AIRCRAFT INSUFFICIENT DATA
-5	Mayaguans, Bahamas	Military	AIRCRAFT BALLOON
-7	West Carrollton, Ohio	Military	Astro (METEOR) INSUFFICIENT DATA
-14	Silver Spring, Maryland	Military	AIRCRAFT INSUFFICIENT DATA
-17	Ludlow, Massachusetts	Military	SATELLITE AIRCRAFT
-18	3.59N 124.51W (Pacific)	Military	Astro (METEOR) INSUFFICIENT DATA
-25	Rosebud AFS, Texas	Military	AIRCRAFT INSUFFICIENT DATA
-29	Minneapolis, Minnesota	Military	SATELLITES AIRCRAFT
-30	60.37N 11.02 W (North Atlantic)	Military	Astro (METEOR)
-31	33.30N 56.55W (Atlantic)	Military	Astro (METEOR)
+
+DATE        LOCATION                                    OBSERVER              EVALUATION
+2           \Forbes AFB, Kansas                         Military              Astro (METEOR)
+3           \Akron, Ohio (Ravenna)                                            INSUFFICIENT DATA
+5           \Nantucket Point, Long Island,              
+            N. Y.                                                            
+5           \Mayaguana, Bahamas                         Military              Astro (STAR/PLANET)
+7 (DR)      \Akron, Ohio                                [redacted]            INSUFFICIENT DATA
+8           \College Park, Maryland                     [redacted]            Other (CHAFF)
+9           \West Carrollton, Ohio                      [redacted]            AIRCRAFT
+14          \Silver Spring, Maryland                    [redacted]            AIRCRAFT
+17          \Ludlow, Massachusetts                      [redacted]            BALLOON
+19          \N.55W 124.51W (Pacific)                    [redacted]            Astro (METEOR)
+21          \Rockport AFS, Texas                        [redacted]            INSUFFICIENT DATA
+21          \Bellflower, California                     [redacted]            SATELLITE
+25          \Minneapolis, Minnesota                     [redacted]            AIRCRAFT
+29          \Loring AFB, Maine                          Military              INSUFFICIENT DATA
+30          \60.37N 11.02 W (North Atlantic)            Military              SATELLITE
+30          \Chicago, Illinois                          [redacted]            AIRCRAFT
+31          \33.30N 55.55W (Atlantic)                   Military              Astro (METEOR)
 
 ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
-DATE	LOCATION	SOURCE	EVALUATION
-1963 Jan	Detroit, Michigan	Science News Ltr	-
-Jan	Universat, Argentina	News Clipping	-
-Jan	(Tucuman, Argentina	"	-
-1	Canton, Ohio	"	-
-3	Cordoba, Tucuman, Argentina	"	-
-5	Guyana Falls, Ohio	"	-
-17	Puerto San Braulio, Argentina	"	-
-18	Puerto Ger, South Africa	"	-
-21	Solon, Ohio	"	-
-23	Arica, Chile	"	-
-24	North Royalton, Ohio	"	-
-24	Guyana Falls, Ohio	"	-
-28	Arica, Chile, South America	"	-
-28	Arica, Chile	"	-
-28	Durban, South Africa	"	-
-28	Shilton, England	"	-
-29	Arica, Chile	"	-
-30	Ica, Peru	"	-
-31	Tucuman, Argentina	"	-
+
+DATE        LOCATION                          SOURCE                    EVALUATION
+1963        \Detroit, Michigan                [redacted] (Ltr)
+Jan         \Universe                         Science News Ltr
+Jan         \Bahia Blanca, Argentina          News Clipping
+Jan         \Tucuman, Argentina               "      "
+1           \Canton, Ohio                     "      "
+3           \Cordoba, Tucuman, Argentina      "      "
+9           \Cuyahoga Falls, Ohio             "      "
+14          \Canton, Ohio                     "      "
+17          \Puerto Garibaldi, Argentina      "      "
+18          \Kimberley, South Africa          "      "
+21          \Solon, Ohio                      "      "
+23          \Arica, Chile                     "      "
+23          \North Royalton, Ohio             "      "
+24          \Cuyahoga Falls, Ohio             "      "
+24          \East London, South Africa        "      "
+28          \Arica, Chile                     "      "
+28          \Durban, South Africa             "      "
+29          \Shilton, England                 "      "
+29          \Arica, Chile                     "      "
+30          \Ica, Peru                        "      "
+31          \Tucuman, Argentina               "      "

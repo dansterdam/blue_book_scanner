@@ -1,14 +1,56 @@
-The image does not contain a photograph. It appears to be a Project 10073 Record Card from the Project Blue Book records, which was a United States Air Force program to investigate unidentified flying objects (UFOs).
-
-The text from the record card is as follows:
-
 PROJECT 10073 RECORD CARD
-1. DATE: 9 March, 1950
-2. LOCATION: Leibnitz, Austria 
-3. TIME: 6:30
-4. TYPE OF OBSERVATION: G-Ground-Visual
-5. PHOTOS: 0 Yes Not Received
-7. LENGTH OF OBSERVATION: 10 minutes
-8. NUMBER OF OBJECTS: 1
-9. COURSE: Straight line
-11. COMMENTS: The observer described an object that looked like a silver disc hovering over a wooded area at about 45 degrees. It then accelerated to high speed and disappeared after about 10 seconds. The sighting was reported by a newspaper photographer. No film was taken.
+
+1. DATE
+2 March, 1960
+
+2. LOCATION
+Leibnitz, Austria
+
+12. CONCLUSIONS
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP
+Local 0130
+GMT
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS
+[X] Yes
+[ ] Not Received
+[ ] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+10 seconds
+
+8. NUMBER OF OBJECTS
+One
+
+9. COURSE
+Not given
+
+10. BRIEF SUMMARY OF SIGHTING
+A white glowing object that looked like a spiked hovering over a wooded area at about 45 feet in the air for about 10 seconds. Heat could be felt coming from the object. It moved off and disappeared after a few seconds, and a muffled sound is jet a/c could be heard. Picture taken by a newspaper photographer. Negatives not received at ATIC.
+
+11. COMMENTS
+No analysis made of negative. Without which no evaluation can be made. It is possible that the witness had developed a leak and was being carried along by surface winds. The wings probably made up most of the story in order to create sensationalism, which in turn sells newspapers. The picture is not very clear and as such precludes a valid conclusion as to the nature of the object
+
+ATIC FORM 329 (REV 28 SEP 52)

@@ -1,26 +1,105 @@
-The image does not contain any photographs. It appears to be a document or worksheet related to Project Blue Book, which was a U.S. Air Force project to investigate unidentified flying objects (UFOs).
-
-Here is the text of the document:
-
 PROJECT 10073 WORKSHEET
 I. GENERAL
-1. DATE: 9-10-52
-2. LOCATION: LONGISLAND, N.Y.
-3. TIME LOCAL: 0552
-ZULU: 0522
-4. WAS OBJECT OBSERVED FROM THE GROUND? Yes
-5. WAS OBJECT OBSERVED BY GROUND RADAR? Yes
-6. WAS OBJECT OBSERVED FROM THE AIR? Yes
-7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT? No
-8. DID OBJECT CHANGE DIRECTION AT ANY TIME? No
-9. IF OBJECT WAS A "LIGHT", WAS IT: Blinking
-10. LENGTH OF TIME IN SIGHT: 1-5 minutes
-11. REPORTING AGENCY (Unit Number and Mailing Address): C.I.D., Mitchell Air Force Base, Garden City, N.Y.
+
+1. DATE
+29 Oct 52
+
+2. LOCATION
+Long Island N.Y.
+
+3. TIME
+Local: 0550 EST
+Zulu: 1050
+
+4. WAS OBJECT OBSERVED FROM THE GROUND?
+[X]Yes
+[ ]No
+[ ]Naked Eye
+[ ]Binoculars
+[ ]Telescope
+[ ]Theodolite
+
+5. WAS OBJECT OBSERVED BY GROUND RADAR?
+[ ]Yes
+[ ]No
+[ ]By One Set
+[ ]By Two Sets
+[ ]By Three Sets
+
+6. WAS OBJECT OBSERVED FROM THE AIR?
+[X]Yes
+[ ]No
+[ ]A/C Observed Object
+[X]Interception Attempted
+[ ]No Intercept Attempted
+
+7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT?
+[ ]Yes
+[X]No
+[ ]A/C Scrambled
+[ ]Visual Contact Made
+[ ]A/I Contact Made
+[ ]No Contact Made
+
+8. DID OBJECT CHANGE DIRECTION AT ANY TIME?
+[ ]Yes
+[X]No
+[ ]Normal
+[ ]Violent
+
+9. IF OBJECT WAS A "LIGHT", WAS IT:
+[ ]Blinking
+[X]Steady
+
+10. LENGTH OF TIME IN SIGHT:
+[ ]1-15 Seconds
+[X]1-5 Minutes (?)
+[ ]Over 10 Minutes
+
+11. REPORTING AGENCY (Unit Number and Mailing Address)
+C.D. [illegible] Office 5th FTR. [illegible] State Mach [illegible]
+
 II. ASTRONOMICAL DATA
-13. DID OBJECT APPEAR TO ARCH DOWNWARD? No
-14. DID OBJECT HAVE A TAIL? No
-15. DID OBJECT APPEAR TO DISAPPEAR? Yes
-16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (Data From Air Almanac): Sunrise
+
+12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED?
+No
+
+13. DID OBJECT APPEAR TO ARCH DOWNWARD?
+[ ]Yes
+[X]No
+
+14. DID OBJECT HAVE A TAIL?
+[ ]Yes
+[X]No
+
+15. DID OBJECT APPEAR TO DISINTEGRATE?
+[ ]Yes
+[X]No
+
+16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (Data From Air Almanac)
+[X]Night
+[ ]Day
+[ ]Sunrise
+[ ]Sunset
+
 III. AIRCRAFT DATA
-17. WERE AIRCRAFT NOTED IN AREA? No
-18. WAS ANY SOUND HEARD? No
+
+17. WERE AIRCRAFT NOTED IN AREA?
+[ ]Yes
+[X]No
+[ ]One Aircraft
+[ ]More Than One Aircraft
+
+18. WAS ANY SOUND HEARD?
+[ ]Yes
+[ ]No
+
+19. WERE THERE INDICATIONS OF HIGH BACKGROUND NOISE?
+[X]?
+[ ]No
+
+20. WAS THE OBJECT VIEWED ABOVE 400 ELEVATION?
+[X]Yes
+[ ]No
+
+ATIC Test Form 324 (13 Aug 52)

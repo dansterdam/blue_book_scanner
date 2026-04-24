@@ -1,12 +1,45 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book record card, which is a form used to document UFO sightings and observations.
-
-PROJECT 10073 RECORD CARD
 1. DATE: 6 July 1963
+
 2. LOCATION: Sioux City, Iowa
-3. DATE-TIME GROUP: 0707-0902
-4. TYPE OF OBSERVATION: Ground-Radar
-5. DURATION: 15 min
-6. NUMBER OF OBJECTS: 1
-7. LENGTH OF OBSERVATION: 15 min
-8. BRIEF SUMMARY OF SIGHTING: One high-intensity light every 2 seconds in flight on course of 225° estimated at high altitude, no discernible size, shape or color. No maneuverability. Path of object lowered in elevation over the horizon.
-10. COMMENTS: Description or flash indicates possible sighting constituting a threat to security and military operations. Possible usage of this object for reconnaissance or intelligence gathering purposes. Not an A/C observation.
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[X] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP: Local
+GMT 07/0250Z
+
+4. TYPE OF OBSERVATION:
+[ ] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS:
+[ ] Yes
+[X] No
+
+6. SOURCE: military
+
+7. LENGTH OF OBSERVATION: one min
+
+8. NUMBER OF OBJECTS: one
+
+9. COURSE: West
+
+10. BRIEF SUMMARY OF SIGHTING:
+One white object flashing high-intensity light every 5 seconds in flight on course of 250 degrees observed for maximum of one minute at which time object disappeared over the horizon. No maneuverability noted. Path of object followed by estimating position of next flash. To a/c on radar this could ensure for object. Estimated object at high altitude.
+
+11. COMMENTS:
+Description of flash indicates strobe light of a/c. Duration of sighting indicates speed consistent with jet a/c operations. Nothing to indicate threat to security of US. IRS site at Scenic Badlands, South Dakota is on course of 250 deg from point of observation. Possible usage of this target. Nothing other than absence of radar pickup to indicate that this was not an a/c observation.
+
+ATIC FORM 329 (REV 28 AUG 52)

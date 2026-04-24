@@ -1,16 +1,26 @@
-The image does not appear to contain any photograph. It is a page from a Project Blue Book report, which is a form with various fields to be filled out regarding a UFO sighting.
-
 PROJECT 10073 RECORD
-1. DATE - TIME GROUP: 19 June 66 20/0130Z
-2. LOCATION: Columbus, Ohio (eye witness)
-3. SOURCE: CIVILIAN
+
+1. DATE - TIME GROUP: 19 June 66     20/0130Z
+
+2. LOCATION: Columbus, Ohio     (UNO Witness)
+
+3. SOURCE: Civilian
+
+10. CONCLUSION: (other)  INSUFFICIENT DATA FOR EVALUATION
+
 4. NUMBER OF OBJECTS: One
-5. LENGTH OF OBSERVATION: See Case
+
+5. LENGTH OF OBSERVATION: minutes
+
+11. BRIEF SUMMARY AND ANALYSIS: SEE CASE
+
 6. TYPE OF OBSERVATION: Ground Visual (Tel)
+
 7. COURSE: SW-NE
-8. PHOTOS: Yes No
-9. PHYSICAL EVIDENCE: Yes No
 
-10. CONCLUSION: (Other) INSUFFICIENT DATA FOR EVALUATION
+8. PHOTOS: [X] Yes     [ ] No
 
-11. BRIEF SUMMARY AND ANALYSIS: See Case
+9. PHYSICAL EVIDENCE: [ ] Yes     [X] No
+
+FORM
+F-TD SEP 63 0-329 (TDF) Previous editions of this form may be used.

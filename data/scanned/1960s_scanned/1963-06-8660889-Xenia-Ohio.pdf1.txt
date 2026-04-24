@@ -1,14 +1,55 @@
-The image does not contain a photograph, but rather a project report form from Project Blue Book, a U.S. Air Force program that investigated unidentified flying objects (UFOs).
-
 PROJECT 10073 RECORD CARD
-1. DATE: 6 Jul 1963
-3. DATE/TIME GROUP: 0210/03102
-5. DURATION OF OBSERVATION: less than 1 min
-7. LENGTH OF OBSERVATION: less than 1 min
-9. BRIEF SUMMARY OF SIGHTING: Series of blue flashes spaced about 3-5 seconds apart. Object observed moving across the horizon. About 15 or 20 flashes. Flashes similar to a flashbulb. No sound. Starlike visible with scattered clouds. Flashes evenly spaced.
-2. LOCATION: Xenia, Ohio
-4. TYPE OF OBSERVATION: D Ground-Radar
-D A/C Visual 
-6. NUMBER OF OBJECTS: One
-8. NUMBER OF OBJECTS: One
-10. COMMENTS: Check with VP Operations 6-33 from Minneapolis, Minn., who was in the area overXenia at the time. NC Minn-153 was over Xenia according to Pattern Check. No other object it is considered ??? 11. CONCLUSIONS: c
+
+1. DATE
+9 Jun 1963
+
+2. LOCATION
+Xenia, Ohio
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[X] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Was Instrument
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP
+Local
+0430/0310Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+military
+
+7. LENGTH OF OBSERVATION
+Less than 1 min
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+North
+
+10. BRIEF SUMMARY OF SIGHTING
+Series of blue flashes spaced about 3 seconds apart observed to the right of overhead moving toward 3 o'clock and the right extremity of the horizon. No. 15 or 20 flashes. Flashes similar to a flashbulb. No sound. Stars visible with scattered clouds. Flashes evenly spaced.
+
+11. COMMENTS
+Check with WP Operations revealed that a T-33 from Minneapolis with Home Base at Maxwell landed at 2223 (0323Z) and was over Xenia at the time in a normal landing pattern. No a/c was noted by the witness. Since the witness did not observe any other object it is assumed that this a/c is the cause of the report.
+
+ATIC FORM 329 (REV 18 SEP 52)

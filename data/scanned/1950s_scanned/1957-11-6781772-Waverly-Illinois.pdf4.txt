@@ -1,9 +1,32 @@
-The image contains a Project 10073 Record Card document. There does not appear to be any photograph present on this page.
+PROJECT 10073 RECORD CARD
 
-As an OCR system, I will now produce the text found in the document:
+1. DATE: 9 November 1957
+2. LOCATION: Waverly, Illinois
+3. DATE-TIME GROUP:
+Local: <blank>
+GMT: 09/0001Z [or 10/0001Z]
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+5. PHOTOS: [ ] Yes [X] No
+6. SOURCE: Civilian
+7. LENGTH OF OBSERVATION: not given
+8. NUMBER OF OBJECTS: one
+9. COURSE: stationary
+10. BRIEF SUMMARY OF SIGHTING: Large, round object, very bright reddish green. No tail or exhaust, no sound.
+11. COMMENTS: Object stationary, reddish green, etc., are characteristic of planet Venus, but not enough information given upon which to base conclusion.
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_______________
+[X] Insufficient Data for Evaluation
+[ ] Unknown
 
-6 NOVEMBER 1957
-CAT1 Q00-Z
-C: CIVILIAN 
-MINUTES
-LARGE, ROUND, OBJECT, VERY BRIGHT, REDDISH-GREEN. NO TAIL OR EXHAUST, NO SOUND. STATIONARY, REDDISH-GREEN, ETC. ARE CHARACTERISTIC OF PLANTS OR ELECTRONIC EQUIPMENT VIS UPON WHICH THIS CONCLUSION IS BASED.
+ATIC FORM 329 (REV 26 SEP 52)

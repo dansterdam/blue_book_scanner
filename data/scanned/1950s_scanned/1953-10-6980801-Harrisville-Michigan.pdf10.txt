@@ -1,31 +1,90 @@
-The image does not contain any photograph. It appears to be a page from an old document related to aeronautical symbols and aerodrome data/landing facilities information.
-
 AERONAUTICAL SYMBOLS
-AERODROMES
-Aerodromes with facilities     Aerodromes with emergency or no facilities
-LAND    WATER    Civil    LAND    WATER    Landing Area
-* Airciil     Sheltered Anchorage
 
-AERODROME DATA 
+AERODROMES
+
+Aerodromes with facilities          Aerodromes with emergency or no facilities
+LAND        WATER                   LAND        WATER
+
+◇           ◇  Civil               ○           Landing Area
+
+◇           ◇  Joint Civil and Military    ⚓  Sheltered Anchorage
+
+⊚           ⊚  Military
+
+
+AERODROME DATA
 AND LANDING FACILITIES INFORMATION
-LAND    WATER
-Elevation in feet    Elevation in feet
-Minimum landing distance    Minimum take-off area
-Hard surfaced runway    Normal minimum take-off area
-Length of longest runway    Length of longest runway
-In hundreds of feet    In hundreds of feet
+
+LAND                                WATER
+
+[HARRISONVILLE   268  Elevation in feet     09  Elevation in feet
+   MUNI AIRPT        l   Minimum lighting       l   Minimum lighting
+   CASS    COUNTY     h   Hard surfaced runway  s   Normal sheltered take-off area
+   GCA SYSTEM      4l  Length of longest runway  6s  Length of longest runway
+   270 HDLS]             in hundreds of feet        in hundreds of feet
+
+[BAS ANACOSTIA
+    GCA L-17
+    270]
+
+The facility code character is replaced by a dash if specific
+information is not available or if the facility itself is not available.
+
+GCA SYSTEM - Ground Control Approach System. Other controlled
+approach systems by appropriate abbreviation.
+275  125.8  2870 - Control tower transmitting frequencies
+
 
 AIR NAVIGATION LIGHTS
-Rotating Light    Flashing Light (with code)
-Rotating Light (with flashing code lights)    Lighthouse
-Rotating Light (with steady and flashing lights)    Marine Light
+
+Rotating Light.........................................★     Flashing Light (With code)...................... FL ★
+
+Rotating Light (with flashing code lights)...... ★      Lightship..........................................Ls
+
+Rotating Light (with flashing code lights and......[○★]   Marine Light.................................GW★@
+   the number)
+
+Flashing Light.......................................Fl ★
+
+F—Fixed      Qt—Quick Flashing      Oc—Occulting    Gp—Group      W—White      R—Red      SEC—Sector
+Fl—Flashing   IQu★—Interrupted Quick Flashing    Alt—Alternating    R—Red      G—Green    (u)—Unwatched    __—Second
+Marine lights are white unless color is indicated; alternating lights are red and white unless otherwise indicated
+
 
 MISCELLANEOUS
-Obstruction, less than 500 feet above ground    Reporting Point (compulsory)
-Obstruction, 500 feet or higher above ground    Reporting Point (non-compulsory)
-Ground Obstruction    Ocean Station Vessel (Normal position)
-Prominent Transmission Line    International Boundary
-Magnetic North    Restricted areas are numbered, and are indicated on the charts as follows:
-Magnetic Line    Prohibited Area - Flight of aircraft prohibited except by specific authority of using agency
-Danger, Restricted or Warning Area - Invisible hazards to air navigation
-Caution Area - Visible hazards to air navigation
+
+Obstruction, less than 500 feet above ground ..... △      Reporting Point (Compulsory)........................ △
+                                                   12l9
+Obstruction, 500 feet or higher above ground .....  ◽     Reporting Point (Non-compulsory).................. △
+                                                   0712
+(Numerals indicate elevation above sea level if top)
+
+Group Obstruction.....................................△      
+
+Prominent Transmission Line........—∣—∣—       Ocean Station Vessel (Normal position)........ ⌢—
+
+Mooring Mast........................................ ⌢      
+
+Isogonic Line.........................—    —A°E   International Boundary................[___][___]
+                                    Value for 1950    (Closed to passage of aircraft
+                                                      except through air corridor)
+Restricted areas are numbered, and are indicated on the charts as follows:
+
+[Diagonal hatching pattern]_______________Prohibited Area—Flight of aircraft prohibited except by specific authority of using agency
+
+[Crosshatched box with text]______________Danger, Restricted or Warning Area—Invisible hazards to air navigation
+
+[Diagonal hatching pattern]______________Caution Area—Visible hazards to air navigation
+    CAUTION    AREA
+
+
+TIME
+
+Days
+Hours
+Minutes
+Secs.
+GMT
+U.T.C.
+
+[illegible]

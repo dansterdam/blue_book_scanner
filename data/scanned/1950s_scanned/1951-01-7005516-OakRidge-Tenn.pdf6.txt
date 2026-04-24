@@ -1,13 +1,12 @@
-The image does not contain any photographic elements. It appears to be a page from a declassified document related to Project Blue Book, which was a U.S. Air Force program that investigated unidentified flying objects (UFOs).
-
-The text in the document is as follows:
+[stamp: UNCLASSIFIED]
 
 HEADQUARTERS
 AIR MATERIEL COMMAND
 WRIGHT-PATTERSON AIR FORCE BASE
 DAYTON, OHIO
 
-SUBJECT: Unconventional Aircraft, ATI Project No. 10073
+[handwritten: 10 OCT 1992]
+[handwritten: 20 MAR 81]
 
 TO: Director of Intelligence
 Headquarters, USAF
@@ -15,19 +14,26 @@ ATTN: Evaluation Division
 Technical Capabilities Branch
 Washington 25, D.C.
 
-1. It is considered highly probable that the radar target detected three times by the airborne aircraft on 21 January was a ground target in the vicinity of the Y-12 plant.
+SUBJECT: Unconventional Aircraft, ATI Project No. 10073
 
-2. The peculiar phenomena of having the target first appear at an altitude above the interceptor and then below the aircraft is considered to be due to abnormal refraction or the radar shadow effect. Under these conditions, the target was lost to the radar when the temperature and/or moisture duct that was located at about the same altitude as the interceptor closed on the target.
+1. It is considered highly probable that the radar target detected three times by the airborne radar set in the F-82 aircraft on 21 January was a ground target in the vicinity of the X-10 plant.
 
-3. A check with the local A.W.S. office indicates that the Nashville weather station reported the following temperature data for 200 EST, 21 January 1951:
+2. The peculiar phenomena of having the target first appear at an altitude above the interceptor and then below the aircraft is considered to be due to the abnormal refraction of the radar electromagnetic emissions. The airborne radar transmitted energy was refracted to the ground by a "temperature and/or moisture duct" that was located at about the same altitude as the interceptor; more details are given in paragraph 3 below. When the interceptor closed on the target, the target first appeared to be above the interceptor until the apex of the tent radar "rays" was reached, end after that the target appeared below the interceptor.
 
-Altitude     Temperature Conditions
-0 to 2000 ft       No Change
-2000 to 5000 ft    Six degrees increase
-5000 to 8000 ft    Normal decrease in temp/increased altitude
-8000 to 11000 ft   Three degree increase
-Above 11000 ft     Normal decrease in temp/increased altitude
+3. A check with the local AVC base weather office indicates that the Pikeville weather station reported the following temperature data for 2100 EST, 21 January 1951:
+
+Altitude                    Temperature Conditions
+
+0 to 2000 ft               No Change
+2000 to 5000 ft            Six degree increase
+5000 to 8000 ft            Normal decrease in temp/increased altitude
+8000 to 11000 ft           Three degree increase
+Above 11000 ft             Normal decrease in temp/increased altitude
 
 DOWNGRADED AT 3 YEAR INTERVALS;
 DECLASSIFIED AFTER 12 YEARS.
-DOD DIR 5200.10
+DOD DIR 5200.19
+
+515-20281-C
+
+No AMC form No. 9 (Rev 8 Feb 49)          [stamp: UNCLASSIFIED]          Air Force-WP/AFR-1-3 SEP 53 1280M

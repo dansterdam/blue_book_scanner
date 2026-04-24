@@ -1,27 +1,54 @@
-The image does not contain a photograph. It appears to be a map or topographical drawing with various markings and legends.
+7182
 
-AMS 0601 
-FIRE CONTROL-AINS
-Prepared by the Army Map Service (GEAU), Corps of Engineers, U.S. Army, Washington, D.C. Compiled in 1951 by photogrammetric (uncontrolled) methods for the U.S. Geological Survey. Aerial photography 1940. Horizontal and vertical control by USGS and USCGS. Public land lines are based on the Fairbanks Principal Meridian, keep not field checked.
+7181000m N.
+64°48'00"
+147°45'00"
+
+SLUG BUCKET
+SLOUGH
+
+465000m E.
+465                466                467                468                40'00"
+
+AMS Q901
+First Edition—AMS
+
+Prepared by the Army Map Service (GEAA), Corps of Engineers, U.S. Army, Washington, D.C. Compiled in 1951 by
+photogrammetric (multiplex) methods by the U.S. Geological Survey. Aerial photography 1949. Horizontal and
+vertical control by USGS and USCGS. Public land lines are based on the Fairbanks Principal Meridian. Map not
+field checked.
 
 LEGEND
-This indicates built-up areas in which only landmark buildings are shown.
-ROAD DATA 1955
-In developed areas, both through roads and trails are classified.
-Hard surface, heavy duty road, four or more lanes
-Hard surface, heavy duty road, two lanes 
-Hard surface, light duty road, four or more lanes
-Hard surface, light duty road, two lanes
-Loose surface, graded and drained
-Unsurfaced dirt road, Trail
-Unimproved dirt road; Trail
-Route markers: Federal; State
-Bench mark, monumented
-Spot elevation (in feet) Checked; Unchecked
-Traverse line; Ornot
-Intermittent lake
-Intermittent stream; Dam
-Swamp, marsh
-Rapids, Falls
-Rivers, roads and trails
-Public land lines, unreliable
+Tint indicates built-up areas in which only landmark buildings are shown.
+
+ROAD DATA 1950
+In developed areas, only through roads are classified.
+
+Hard surface, heavy duty road; four or         Loose surface, graded road and draised,
+    more lanes wide                               requires hard surface road
+Hard surface, heavy duty road; Two lanes    Improved dirt road or street
+    wide; Three lanes wide
+Hard surface, medium duty road; four or      Unimproved dirt road; Trail
+    more lanes wide
+Hard surface, medium duty road; Two lanes    Route markers: Federal; State
+    wide; Three lanes wide
+Buildings                                          Horizontal control point
+School; Church                                    Bench mark, monumented
+Standard gauge railroad          Single track   Double track    Bench mark, non-monumented
+Narrow gauge railroad                           Spot elevation in feet; Checked; Unchecked
+Railroad in street                              Woods or brushwood
+Carline                                         Scrub; Orchard
+National boundary                               Intermittent lake
+State boundary (with monument)                  Intermittent stream; Dam
+County boundary                                 Swamp, marsh
+County subdivision boundary                     Rapids; Falls
+Corporate limits                                Large rapids and falls
+Reservation boundary                           Public land line, unreliable
+Public land line, reliable
+
+[handwritten: filed # 2]
+
+7190 [—]                                                                                    [—]
+50'00"              65                                    67                                    SLOU
+
+                 16—                    15

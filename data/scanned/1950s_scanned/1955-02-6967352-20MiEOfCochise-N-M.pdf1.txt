@@ -1,23 +1,55 @@
-The image contains a Project 10073 Record Card, which appears to be a report form related to a UFO sighting. The image does not contain any photograph, only the filled-out report form.
-
-Performing OCR on the text in the document:
-
 PROJECT 10073 RECORD CARD
-1. DATE - February 9, 1955
-2. LOCATION - 20 mi. E of Cochise, N.M.
-3. DATA FORM - 29/02255
-4. TYPE OF OBSERVATION - Visual
-5. DURATION - 3 minutes
-6. NUMBER OF OBJECTS - Single
-7. LENGTH OF OBSERVATION - 3 minutes
-8. BRIEF SUMMARY OF SIGHTING - Single object hovered off to the left, very bright. Object disappeared at approximately 9 minutes, course of object extremely high, disappearance in 3 minutes.
-9. COURSE - Not obtained.
-10. CONCLUSIONS - D Was Balloon
-D Probably Balloon
-D Was Aircraft
-D Probably Aircraft
-D Was Astronomical
-D Probably Astronomical
-D Insufficient Data for Evaluation
-D Unknown
-11. COMMENTS - UNIDENTIFIED
+
+1. DATE
+1 February 1955
+
+2. LOCATION
+20 Mi E of Cochise, N.M.
+
+3. DATE-TIME GROUP
+Local
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+2 minutes
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+-
+
+10. TIME GROUP
+0012/0255Z
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[X] Unknown
+
+13. BRIEF SUMMARY OF SIGHTING
+Spherical, Red & White, Very bright. Object hovered off left wing of observation a/c approx 5 min, then began steady climb parallel to course of a/c at extremely high speed. Disappeared in 3 minutes.
+
+11. COMMENTS
+[handwritten: UNIDENTIFIED]
+
+ATIC FORM 329 (REV 25 SEP 52)

@@ -1,13 +1,49 @@
-There is no photograph present in this image. This appears to be a Project 10073 record card containing text information.
-
 PROJECT 10073 RECORD CARD
-1. DATE
-16 Feb 59
-3. DATE/TIME GROUP
-2130
-5. PHOTOS
-GX Yes
-7. LENGTH OF OBSERVATION
-15 min
+
+1. DATE: 16 Feb 59
+
+2. LOCATION: Benghazi, Libya
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_____
+[X] Insufficient Date for Eveluation
+[ ] Unknown
+
+3. DATE-TIME GROUP:
+Local 1930
+GMT 16/10Z/02Z
+
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual
+[ ] Ground-Radar
+[ ] Air-Visual
+[ ] Air-Intercept Radar
+
+5. PHOTOS:
+[ ] Yes
+
+6. SOURCE:
+British Military
+
+7. LENGTH OF OBSERVATION: 15 min
+
+8. NUMBER OF OBJECTS: One
+
+9. COURSE: NNW
+
 10. BRIEF SUMMARY OF SIGHTING:
+Round obj with dome which had vents of green light. Obj was sllway blue changing to a reddish color, than back again. No sound. Obj was sharply outlined and appeared about the size of a baseball at arm's length.
+
+11. COMMENTS:
 Report classified as insufficient data.
+
+ATIC FORM 329 (REV 28 SEP 52)

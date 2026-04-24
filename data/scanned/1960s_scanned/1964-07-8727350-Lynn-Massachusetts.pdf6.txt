@@ -1,35 +1,64 @@
-There is no photograph present in this image. The image appears to be a document titled "WIND-ALOFT COMPUTATION SHEET (LANDSTATION FORM)" from the U.S. Department of Commerce.
-
 U.S. DEPARTMENT OF COMMERCE
-WIND-ALOFT COMPUTATION SHEET
+WEATHER BUREAU
+
+WINDS-ALOFT COMPUTATION SHEET
 (LANDSTATION FORM)
-WBN-20
-Orientation, 349° South
-Wind Direction Azimuth Angle ° Speed (knots) Time (GMT)
-1 215 6 9
-2 215 6 15
-3 253 6 20
-4 252 4 25
-5 225 4 30
-6 204 5 35
-7 220 6 40
-8 217 5 45
-9 233 5 50
-10 231 4 55
-11 252 5 60
-12 257 6 65
-13 274 6 70
-14 281 6 75
-15 281 6 80
-16 266 7 85
-17 286 7 90
-18 316 7 95
-19 277 9 100
-20 267 9 105
-21 270 7 110
-22 272 7 115
-23 261 7 120
-24 252 5 125
-25 244 6 130
-26 239 6 135
-27 235 8 140
+WBAN-20
+
+Actual
+Time
+(h GMT)
+Scheduled
+(G.M.T.)
+Ascension No.
+
+Year
+1964
+[illegible]
+
+Month
+JUL
+
+Day
+8
+
+Time
+
+Orientation. 360° = South
+
+Rawindande Time-Altitude Date
+
+[Table with following columns: Story (in meters above ground level), Floust aloft above sfc., Remain ht. above vertical (m.), Elevation angle º, Observed/Smoothed, Distance from observation point (m.), Azimuth angle º, Wind Direction ª 360°=N., Wind Speed (m.p.s.), Computed (mb.), Pressure (mb.), Altitude (m., above sfc.), Elapsed Time (min.)]
+
+Row data (transcribed as legible):
+
+1 | [illegible] | [illegible] | [illegible] | 1420 | 2117.7 | [illegible] | 21.7 | 9.9
+2 | 214 | 21 | [illegible] | 2930 | 2932.7 | 2 | 24.9 | 9.9
+3 | 612 | 21 | [illegible] | 6800 | 6752.3 | 3 | 25.9 | 8.1
+4 | [illegible] | [illegible] | [illegible] | 7140 | [illegible] | 4 | 25.9 | 9.2
+5 | [illegible] | [illegible] | [illegible] | [illegible] | 7952.7 | 5 | 27.9 | 9.9
+6 | [illegible] | [illegible] | [illegible] | 17.7.2 | 9355.9 | 6 | 29.1 | 35.6
+7 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 7 | 27.0 | 5.0
+8 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 8 | 27.0 | 5.9
+9 | [illegible] | [illegible] | [illegible] | 25590 | 23.23.8 | 9 | 26.5 | 9.6
+10 | [illegible] | [illegible] | [illegible] | [illegible] | 25329 | 10 | 27.1 | 9.5
+11 | [illegible] | [illegible] | [illegible] | 29290 | 25.5.0 | 11 | 26.9 | 9.5
+12 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 12 | 27.0 | 9.3
+13 | [illegible] | [illegible] | [illegible] | 27290 | 23149.2 | 13 | 27.7 | 9.5
+14 | [illegible] | [illegible] | [illegible] | [illegible] | 25.3 | 14 | 27.1 | 6.5
+15 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 15 | 26.9 | 7.6
+16 | [illegible] | [illegible] | [illegible] | 26290 | 25920 | 16 | 26.6 | 8.0
+17 | [illegible] | [illegible] | [illegible] | 27.7 | 23.6.3 | 17 | 27.1 | 7.3
+18 | [illegible] | [illegible] | [illegible] | [illegible] | 23.6.0 | 18 | 26.6 | 9.9
+19 | [illegible] | [illegible] | [illegible] | [illegible] | 25.3 | 19 | 27.6 | 9.5
+20 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 20 | 27.9 | 9.7
+21 | [illegible] | [illegible] | [illegible] | [illegible] | 26012 | 21 | 27.0 | 7.6
+22 | [illegible] | [illegible] | [illegible] | [illegible] | 26.9.7 | 22 | 27.2 | 7.5
+23 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 23 | 26.9 | 5.9
+24 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 24 | 27.0 | 7.7
+25 | [illegible] | [illegible] | [illegible] | [illegible] | 26.4 | 25 | [blank] | [blank]
+26 | [illegible] | [illegible] | [illegible] | [illegible] | 25.9 | 26 | 27.2 | 7.60
+27 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 27 | [illegible] | [illegible]
+28 | [illegible] | [illegible] | [illegible] | [illegible] | 27.9.9 | 28 | 27.7 | 2.9
+
+[Right side contains additional data columns for Rawindande measurements with altitude values and elapsed times, many entries illegible or blank]

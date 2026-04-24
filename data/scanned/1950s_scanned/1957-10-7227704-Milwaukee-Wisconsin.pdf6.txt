@@ -1,27 +1,38 @@
-The image does not contain any photograph. It appears to be a page from a Project Blue Book document, displaying a list of UFO sightings reported between October 26-31, 1957. The document provides details such as the location, observer, and evaluation of each sighting.
-
 26 - 31 OCTOBER 1957 SIGHTINGS
-DATE	LOCATION	OBSERVER	EVALUATION
-26-29	Kassel, Germany	Civilian	Astro (METEOR)
-27	Sioux Falls, South Dakota, Peru	Military	Astro (VENUS)
-27	Casllinville, Missouri	Civilian	Astro
-27	Tinton Lo Deschenes, Canada	Military	Insufficient Data
-27	St. Louis, Missouri	Civilian	Astro (METEOR)
-28	Williston, North Dakota	Military	Astro (METEOR)
-28	Ft. Lauderdale, Florida	Civilian	Insufficient Data
-29	Port Washington, New York	Civilian	Astro (METEOR)
-29	Peymaont, Missouri	Military	Insufficient Data
-29	Chardan, Ohio	Civilian	Astro (VENUS)
-29	Mindanao, Philippines	Civilian	Astro (METEOR)
-29	Baton Rouge, Louisiana	Military	Balloon
-29	Ivy, Nevada (CASE MISSING)	Civilian	Balloon
-30	Bathu, Louisiana	Military	Astro (METEOR)
-30	Mcgill AFB, Florida	Military	Insufficient Data
-31	Wiliam, Oklahoma	Military (UTILITY)	Insufficient Data
-31	Kanepolis, Kansas	Civilian	Balloon
-31	Dayton, Ohio	Civilian	Astro (VENUS)
 
-ADDITIONAL REPORTED SIGHTINGS (NOT CASES):
-DATE	LOCATION	SOURCE	EVALUATION
-Oct 23	London, England	Western Air Ltr	-
-29	Stamford, Connecticut	News (UPI)	-
+DATE          LOCATION                                    OBSERVER              EVALUATION
+
+26            Kassell, Germany                            Civilian              Astro (METEOR)
+26-29         S of Caja Marca, Peru                       [redacted]            Astro (VENUS)
+27            Carlinville, Missouri                       [redacted]            Astro (VENUS)
+27            Minot, North Dakota                         [redacted]            Aircraft
+27            Humboldt, Saskatchewan, Canada              [redacted]            Insufficient Data
+27            St Louis, Missouri                          [redacted]            Aircraft
+28            Kisalon, Mindinao                           [redacted]            Astro (METEOR)
+28            Wilmington, Delaware                        Military              Astro (METEOR)
+28            Ft Lauderdale, Florida                      [redacted]            Aircraft
+28            E of Kerhonkson, New York                   [redacted]            Insufficient Data
+28            Peru                                        Multi                 Astro (METEOR)
+28            Piedmont, Missouri                          [redacted]            Insufficient Data
+28            Dayton, Ohio                                [redacted]            Astro (VENUS)
+28            Charlerot, Pennsylvania                     [redacted]            Astro (VENUS)
+28            Mindanao, Phillipines                       Civilian              Astro (METEOR)
+29            Bakery, Florida                             [redacted]            Balloon
+29            Attapulgus, Georgia                         [redacted]            Aircraft
+29            Ely, Nevada (ASIS MISSING)                  Civilian              Astro (METEOR)
+30            Metairie, Louisiana                         [redacted]            Astro (METEOR)
+30            Hutton, Maine                               Military              Astro (METEOR)
+30            McDill AFB, Florida                         [redacted]            Insufficient Data
+31            44.43N 141.45E (Japan)                      [redacted]            Insufficient Data
+31            Bartelsville AFS, Oklahoma                  [redacted] (Multi)     Balloon
+31            Kaneopolis; Kansas                          [redacted]            Balloon
+31            Dayton, Ohio                                [redacted]            Astro (VENUS)
+31            Massapeque Park, New York                   [redacted]            Astro (METEOR)
+
+ADDITIONAL REPORTED SIGHTINGS (HOT CASES)
+
+DATE          LOCATION                                    SOURCE               EVALUATION
+
+Oct           Universa                                    Science News Ltr
+28            London, England                             Newsclipping
+29            Stamford, Connecticut                       [redacted] (Ltr)

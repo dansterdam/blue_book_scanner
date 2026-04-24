@@ -1,15 +1,47 @@
-There is no photograph present in this image. This appears to be a page from a Project Blue Book record card.
-
 PROJECT 10073 RECORD CARD
+
 1. DATE: 10 October 1951
+
 2. LOCATION: St. Croix Falls, Wisconsin
-3. DATE-TIME GROUP: 1940
-4. TYPE OF OBSERVATION: Ground-Visual
-5. SOURCE: Civilian
-6. DURATION: 2 minutes
-7. LENGTH OF OBSERVATION: 2 minutes
+
+3. DATE-TIME GROUP
+Local: 1010
+GMT: 10/1610Z
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE: Civilian
+
+7. LENGTH OF OBSERVATION: 2 Minutes
+
 8. NUMBER OF OBJECTS: One
+
 9. COURSE: West
-10. BRIEF SUMMARY OF SIGHTING: Object in flight from east to west, at altitude of 20,000 ft., about 1/2 mile away, peculiar yellow-orange glow to object, rapid in flight, balloons involved off and turned sharply so left at 50 to 60 degrees are in 12 min.
-11. COMMENTS: Object characteristic of a/c.
-12. CONCLUSIONS: Probably Aircraft, Possibly Balloon, Insufficient Data for Evaluation.
+
+10. BRIEF SUMMARY OF SIGHTING
+Object in flight from east to west, at altitude much greater than balloon at 20,000. 1/4 size of balloon. Peculiar glow to object rapid in slight dive, levelled off and turned sharply to left and climbed at 50 to 60 degrees to SE with terrific acceleration. 40-50 degrees are in 12 min.
+
+11. COMMENTS
+Object characteristic of c/c.
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possible Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possible Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possible Astronomical
+[X] Other
+[X] Insufficient Data for Evaluation
+[ ] Unknown
+
+ATIC FORM 329 (REV 26 AUP 52)

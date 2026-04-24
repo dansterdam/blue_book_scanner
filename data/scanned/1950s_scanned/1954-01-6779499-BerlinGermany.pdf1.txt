@@ -1,21 +1,51 @@
-There does not appear to be a photograph present in this image. The image shows a project record card from Project Blue Book, which contains details about a reported sighting of an unidentified object in Berlin, Germany on January 8, 1954.
-
-TEXT OUTPUT:
-
 PROJECT 10073 RECORD CARD
-1. DATE
-8 Jan 54
-2. LOCATION
-Berlin Germany
-3. TYPE OF OBSERVATION
-Ground-Visual
-4. SOURCE
+
+1. DATE: 8 Jan 54
+
+2. LOCATION: Berlin Germany
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP:
+Local: 2027
+GMT: 03/1927Z
+
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual
+[ ] Ground-Radar
+[ ] Air-Visual
+[ ] Air-Intercept Radar
+
+5. PHOTOS:
+[ ] Yes
+[X] No
+
+6. SOURCE:
 Civilian
-5. LENGTH OF OBSERVATION
-10-15 seconds
-6. COURSE
-One
-7. BRIEF SUMMARY OF SIGHTING
-Object described as about the brightness of the sun. Straight flight. No features, no sound or trail, speed twice that of meteor. 
-11. COMMENTS
-Meteor speeds consistent with the distance in degrees of arc through which the object traveled. Case evaluated as a meteor.
+[handwritten circle around "Civilian"]
+
+8. NUMBER OF OBJECTS: One
+
+9. COURSE: SE
+
+7. LENGTH OF OBSERVATION: 5 - 10 seconds
+
+10. BRIEF SUMMARY OF SIGHTING:
+Object described as about the brightness of the full moon observed in flight from the NW to the SE. Straight flight. No features, no sound or trail. Speed twice that of jet a/c yet slower than meteor.
+
+11. COMMENTS:
+Meteor speeds consistent with the distance in degrees of arc through which the object traveled. Case evaluated as a meteor sighting.
+
+ATIC FORM 329 (REV 24 SEP 52)

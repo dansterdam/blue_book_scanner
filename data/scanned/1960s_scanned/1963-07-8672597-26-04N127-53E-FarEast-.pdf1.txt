@@ -1,14 +1,52 @@
-The image does not contain any photograph. It is a Project Blue Book record card that provides details about a UFO sighting.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 4 July 1963
-2. LOCATION: 26-04N 127-53E (Far East)
-3. DATE-TIME GROUP: Actual
-4. TYPE OF OBSERVATION: Radar
-5. PHOTOS: 0 Yes
-6. SOURCE: Military
-7. LENGTH OF OBSERVATION: 9 min
-8. NUMBER OF OBJECTS: One
-9. COURSE: Not stated
-10. BRIEF SUMMARY OF SIGHTING: Radar observed a fast moving star-like object at 2000 hrs, estimated speed 2500 mph, altitude 30,000 ft, observed for 9 min, then disappeared. Total duration observed 9 min, disappearance gradual, 7X ILS used.
-11. COMMENTS: As of 1/1/1965 echo was leading SE and observer possible observation of other visible satellite, such as 1962 Beta,1962 Delta, 1963 Alpha etc. No further observation since all information comes with this analysis.
+
+1. DATE
+8 July 1953
+
+2. LOCATION
+26.04N 127.53E (Far East)
+
+3. DATE-TIME GROUP
+Local _______________________
+GMT 04/11252
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visuel     [ ] Ground-Radar
+[ ] Air Visuel        [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+
+6. SOURCE
+military
+
+7. LENGTH OF OBSERVATION
+5 min
+
+8. NUMBER OF OBJECTS
+one
+
+9. COURSE
+NE
+
+12. CONCLUSIONS
+[ ] Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other Satellite
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+00) appearing as a last mag star observed at 200 deg azimuth 10 deg elevation in flight to 085 deg azimuth 17 deg elevation after steady flight with max altitude of 25 deg. Total duration observed 6 min. Disappeared suddenly. 7X DX used. Object believed to be Satellite.
+
+11. COMMENTS
+At 04/11252 ECHO was heading SE and not visible at the location of the observer. Possible observation of other visible satellite, such as 1961 Beta Theta. Case considered as a Satellite observation since all information confirms with this analysis.
+
+ATIC FORM 329 (REV 28 SEP 52)

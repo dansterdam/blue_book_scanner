@@ -1,14 +1,46 @@
-The image provided does not contain any photographs. It appears to be a project record card from Project 10073, which details an observation of a white circular object moving across the sky in Sioux City, Iowa on 6 July 1963.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 6 JULY 1963
-2. LOCATION: SIOUX CITY, IOWA
-3. DATE-TIME GROUP: 2355
-4. TYPE OF OBSERVATION: GROUND-RADAR
-5. PHOTO: 
-6. SHAPE: CIRCULAR
-7. LENGTH OF OBSERVATION: 10-20 MIN
-8. NUMBER OF OBJECTS: 1
-9. COURSE: ZZZZZZZZZ
-10. BRIEF SUMMARY OF SIGHTING: White circular object moving across sky in straight line pattern. Disappeared below horizon.
-11. COMMENTS: Believed to be satellite vehicle passing overhead. Negative conclusion.
+
+1. DATE: 6 July 1963
+
+2. LOCATION: Sioux City, Iowa
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Was Satellite ECHO I
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP: Loco1
+DAT 07/0320Z
+
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS:
+[ ] Yes
+[X] No
+
+6. SOURCE: civilian
+
+7. LENGTH OF OBSERVATION: 10-20 min
+
+8. NUMBER OF OBJECTS: one
+
+9. COURSE: zig-zag
+
+10. BRIEF SUMMARY OF SIGHTING:
+White circular object moving across sky in zig-zag pattern. Disappeared below horizon in 10-20 min observation. Observed same object on 2,3 and 7 July.
+
+11. COMMENTS:
+Believed to be Satellite vehicle by reporting officials. Repeated observations of identical object tend to confirm this conclusion.
+
+ATIC FORM 329 (REV 26 SEP 52)

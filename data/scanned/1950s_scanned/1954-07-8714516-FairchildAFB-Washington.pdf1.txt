@@ -1,13 +1,62 @@
-The image appears to contain a Project 10073 Record Card, which is a document used for logging details about unidentified flying object (UFO) sightings. There is no photograph present in this image.
-
 PROJECT 10073 RECORD CARD
-1. DATE: 3-31-54
-2. LOCATION: Fairchild AFB, Washington
-3. DATE-TIME GROUP: 2130l
-4. TYPE OF OBSERVATION: Visual
-5. DURATION: 6 min.
-6. NUMBER OF OBJECTS: 1
-7. LENGTH OF OBSERVATION: 1 hrs. 30 min.
-8. BRIEF SUMMARY OF SIGHTING: Shaped, no sound. Shaped like balloon.
-9. CONCLUSIONS: Was Balloon, Probably Balloon, Possibly Balloon, Possibly Aircraft.
-10. ATTIC Eval: Balloon tracks checked. This balloon is too small to account for sighting.
+
+1. DATE
+3 July 1954
+
+2. LOCATION
+Fairchild AFB, Washington
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_______________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP
+Local 1830-2000
+GMT 03/2102Z
+
+4. TYPE OF OBSERVATION
+[ ] Ground-Visual
+[ ] Air-Visual
+[X] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS
+[X] Yes
+[ ] No
+
+6. SOURCE
+Hill
+
+7. LENGTH OF OBSERVATION
+1 hr. 20 min
+
+8. NUMBER OF OBJECTS
+1
+
+9. COURSE
+NNE SW
+
+10. BRIEF SUMMARY OF SIGHTING
+Appeared translucent. No sound. Shaped like teardrop.
+
+[handwritten: (SHRULED IS PIN)]
+[handwritten: Deer Film, 7-2/4/45-429]
+[handwritten: AEC Separate Accession]
+[handwritten: (Film in Specimen File)]
+
+11. COMMENTS
+F/I scrambled. Rptd looked like balloon.
+
+ATIC Eval: Balloon tracke checked. Res. Balloon in are a at time of sighting.
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,22 +1,95 @@
-The image does not contain any photographs. It appears to be a form or document related to a project called "Project 10073 Worksheet" from the Project Blue Book, which was a U.S. Air Force investigation of unidentified flying objects.
-
 PROJECT 10073 WORKSHEET
+
 I. GENERAL
-1. DATE OBJECT FIRST OBSERVED: 15 Aug 52
-2. LOCATION: Lubbara a, Colo.
-3. WAS OBJECT OBSERVED FROM THE GROUND? 
-4. WAS OBJECT OBSERVED BY GROUND RADAR?
-5. WAS OBJECT OBSERVED FROM THE AIR?
-6. WAS AIRCRAFT SCRAMBLED TO INTERCEPT?
-7. DID OBJECT CHANGE DIRECTION AT ANY TIME?
-8. IF OBJECT WAS A "LIGHT", WAS IT: 
-9. LENGTH OF TIME IN SIGHT: 
-11. REPORTING AGENCY (Unit Number and Mailing Address): GG, Chemate AFB, Colo.
+
+1. DATE: 15 Aug 52 | 2. LOCATION: Urbana, Sel. | 3. TIME: local: 2/32- Zulu: 2200
+
+4. WAS OBJECT OBSERVED FROM THE GROUND?
+[X] Yes
+[ ] Naked Eye
+[ ] Binoculars
+[ ] Telescope
+[ ] Theodolite
+
+5. WAS OBJECT OBSERVED BY GROUND RADAR?
+[ ] Yes
+[ ] By One Set
+[ ] By Two Sets
+[ ] By Three Sets
+
+6. WAS OBJECT OBSERVED FROM THE AIR?
+[ ] Yes
+A/C Observed Object
+[ ] Interception Attempted
+[ ] No Intercept Attempted
+
+7. WERE AIRCRAFT SCRAMBLED TO INTERCEPT?
+[ ] Yes
+A/C Scrambled
+[ ] Visual Contact Made
+[ ] A/I Contact Made
+[X] No Contact Made
+
+8. DID OBJECT CHANGE DIRECTION AT ANY TIME?
+[ ] Yes
+[ ] No
+[ ] Normal
+[ ] Violent
+
+9. IF OBJECT WAS A "LIGHT", WAS IT:
+[ ] Blinking
+[ ] Steady
+
+10. LENGTH OF TIME IN SIGHT:
+[ ] 1-15 Seconds
+[ ] 1-5 Minutes
+[ ] Over 10 Minutes
+
+11. REPORTING AGENCY (Unit Number and Mailing Address)
+
+CG, Chanute AFB, Sel.
+
 II. ASTRONOMICAL DATA
-12. WHAT ASTRONOMICAL ACTIVITY WAS RULED?
+
+12. WHAT ASTRONOMICAL ACTIVITY WAS NOTED?
+None
+
 13. DID OBJECT APPEAR TO ARCH DOWNWARD?
+[ ] Yes
+[ ] No
+
 14. DID OBJECT HAVE A TAIL?
+[ ] Yes
+[ ] No
+
 15. DID OBJECT APPEAR TO DISINTEGRATE?
-16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (Date From Air Almanac):
+[ ] Yes
+[ ] No
+
+16. TIME OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (Data From Air Almanac)
+[ ] Night
+[ ] Day
+[ ] Sunrise
+[ ] Sunset
+
 III. AIRCRAFT DATA
+
 17. WERE AIRCRAFT NOTED IN AREA?
+[X] Yes
+[ ] No
+[ ] Own Aircraft
+[ ] More Than One Aircraft
+
+18. WAS ANY SOUND HEARD?
+[ ] Yes
+[ ] No
+
+19. WERE THERE INDICATIONS OF HIGH BACKGROUND NOISE?
+[ ] Yes
+[ ] No
+
+20. WAS THE OBJECT LINED ABOVE 150 ELEVATION?
+[ ] Yes
+[ ] No
+
+ATIC Fast Form 334 (13 Aug 52)

@@ -1,14 +1,49 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book record card, which is a form used to document UFO sightings and investigations.
-
 PROJECT 10073 RECORD CARD
-1. DATE 3-28-62
-2. TIME - DURATION 2155
-3. SITE - TYPE OF OBSERVATION Edward s AFB, CALIF.
-4. TYPE OF OBSERVATION Ground-Visual
-5. WEATHER Ground-Visual
-6. DESCRIPTION 3 Bright lights in triangular formation, 2 in line leading 1 trailing. Traveled from West to East.
-7. LENGTH OF OBSERVATION 1 MINUTE
-8. NUMBER OF OBJECTS 3
-9. COURSE Westerly to Easterly
-10. BRIEF SUMMARY OF SIGHTING 3 bright lights in triangular formation, 2 in line leading 1 trailing. Traveled from West to East.
-11. COMMENTS Analysis of the data that was gathered on this sighting indicates that it has been considered unidentified. Case is classified as unidentified. Additional data required for evaluation.
+
+1. DATE: 28 Apr 62
+
+2. LOCATION: Edwards AFB, Calif.
+
+12. CONCLUSIONS
+[  ] Was Balloon
+[  ] Probably Balloon
+[  ] Possibly Balloon
+[  ] Was Aircraft
+[  ] Probably Aircraft
+[  ] Possibly Aircraft
+[  ] Was Astronomical
+[  ] Probably Astronomical
+[  ] Possibly Astronomical
+[X] Insufficient Data for Evaluation
+[  ] Unknown
+
+3. DATE-TIME GROUP
+Local: _______________
+GMT: _______________
+
+4. TYPE OF OBSERVATION
+[  ] Ground-Visual          [  ] Ground-Radar
+[X] Air-Visual              [  ] Air-Intercept Radar
+
+5. PHOTOS
+:B.Y.s
+[ ] No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+
+8. NUMBER OF OBJECTS
+
+9. COURSE
+
+10. BRIEF SUMMARY OF SIGHTING
+X-15 photos on movie film. Partial strip sent to FITD for analysis. Con-tract organization having the film promised into to be forwarded, however, this was not received by FITD.
+
+Note: Film strip sent to Dr Hynek since no obj was depicted. To be used by him as illustration of high alt photography.
+
+11. COMMENTS
+Analysis of the strip that was received showed only the "chase plane" as an obj which have been considered unidentified. Case considered as insufficient data until such time as the film is supplied for analysis.
+
+ATIC FORM 329 (REV 24 SEP 52)
