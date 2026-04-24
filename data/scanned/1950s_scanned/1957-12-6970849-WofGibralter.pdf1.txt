@@ -22,9 +22,9 @@ GMT: 18/0702Z
 [ ] Was Aircraft
 [ ] Probably Aircraft
 [ ] Possibly Aircraft
-[ ] Was Astronomical
+[X] Was Astronomical Meteor
 [ ] Probably Astronomical
-[X] Possibly Astronomical Meteor
+[ ] Possibly Astronomical
 [ ] Other_______________
 [ ] Insufficient Data for Evaluation
 [ ] Unknown

@@ -1,28 +1,32 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE: January 12, 1951
-2. LOCATION: Ft. Benning, Georgia
+1. DATE: 12 Jan 51
+2. LOCATION: Ft Benning Ga
 3. DATE-TIME GROUP:
-Local: 1445 EST
-GMT: 12/1945Z Jan 51
+Local: ___
+GMT: 13/0401Z
 4. TYPE OF OBSERVATION:
-[X] Ground-Visual [ ] Ground-Radar
-[ ] Air-Visual [ ] Air-Intercept Radar
-5. PHOTOS: [ ] Yes [X] No
-6. SOURCE: Civilian
-7. LENGTH OF OBSERVATION: 20 minutes
-8. NUMBER OF OBJECTS: One (1)
-9. COURSE: [stationary then departed SE]
-10. BRIEF SUMMARY OF SIGHTING: Round object with fan-shaped wake. Stationary for 20 minutes then departed to the SE at high speed.
-11. COMMENTS: Nine (9) civilian observers. Object was stationary, then departed rapidly to the SE.
-12. CONCLUSIONS: [X] Was Astronomical [X] UNIDENTIFIED
-[ ] Possibly Astronomical
+[ ] Ground-Visual  [ ] Ground-Radar
+[ ] Air-Visual  [ ] Air-Intercept Radar
+5. PHOTOS: [ ] Yes  [X] No
+6. SOURCE: 9 Civilians
+7. LENGTH OF OBSERVATION: 20 Minutes
+8. NUMBER OF OBJECTS: one
+9. COURSE: SE
+10. BRIEF SUMMARY OF SIGHTING: Shape — Round w/fan shaped wake. Color very bright star. Speed — Hover to high speed. Alt- Well above clouds. Remained stationary 20 min then took off to SE. (Note: Clouds also moving SE) Left very thin visible wake.
+11. COMMENTS: Object appeared to be a star, or other astronomical, or ballon until object disappeared at sudden speed.
+12. CONCLUSIONS:
 [ ] Was Balloon
+[ ] Probably Balloon
 [ ] Possibly Balloon
 [ ] Was Aircraft
+[ ] Probably Aircraft
 [ ] Possibly Aircraft
-[ ] Other:
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other  UNIDENTIFIED
 [ ] Insufficient Data for Evaluation
 [ ] Unknown
 
-ATIC Form 329 (Rev 26 Sep 52)
+ATIC FORM 329 (REV 26 SEP 52)

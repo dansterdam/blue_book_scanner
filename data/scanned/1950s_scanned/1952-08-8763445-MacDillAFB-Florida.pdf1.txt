@@ -6,15 +6,27 @@ PROJECT 10073 RECORD CARD
 Local: 1411
 GMT: 13/1911Z
 4. TYPE OF OBSERVATION:
-[X] Ground-Visual [ ] Ground-Radar
-[ ] Air-Visual [ ] Air-Intercept Radar
-5. PHOTOS: [ ] Yes [X] No
-6. SOURCE: 20 Airmen, 2 Civilians
+[X] Ground-Visual  [ ] Ground-Radar
+[ ] Air-Visual  [ ] Air-Intercept Radar
+5. PHOTOS: [ ] Yes  [X] No
+6. SOURCE: 20 airmen, 2 civilians
 7. LENGTH OF OBSERVATION: 20 minutes
 8. NUMBER OF OBJECTS: 1-3
 9. COURSE: <blank>
 10. BRIEF SUMMARY OF SIGHTING: elongated - shape.
 11. COMMENTS: <blank>
-12. CONCLUSIONS: [no checkbox checked]
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
 ATIC FORM 329 (REV 26 SEP 52)
