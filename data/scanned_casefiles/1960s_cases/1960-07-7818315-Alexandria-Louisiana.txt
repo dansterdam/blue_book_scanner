@@ -1,500 +1,625 @@
-PAGE TWO NWSFT JA
+PROJECT 10073 RECORD CARD
 
-(6.) AFC
+1. DATE: 23 Jul 60
 
-(6.) INSTANTANEOUSLY
+2. LOCATION: Alexandria, Louisiana
 
-(c.) FIVE (5) SECONDS
+12. CONCLUSIONS:
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical Meteor
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-C. MANNER OF OBSERVATION:
-(1) GROUND VISUAL
-(2) NONE
-(3) NONE
+3. DATE-TIME GROUP:
+Local ___
+GMT 24/0235Z 50 0500Z
 
-F. TIME AND DATE OF SIGHTING:
-(1) OBSERVER "A" OBSERVED OBJECT THREE TIMES BETWEEN
-24:05BZ AND 24:41BZ (EXACT TIME UNKNOWN)
-OBSERVER "A" 24:36BZ
-(2) NIGHT
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
 
-E. LOCATION OF OBSERVERS:
-OBSERVER "A" ALEXANDRIA, LOUISIANA, 31 DEGREES, 17 MINUTES
-NORTH, 92 DEGREES 28 MINUTES WEST; BATON
-ROUGE TRAFFIC CIRCLE, JOY DRIVE-IN THEATRE.
+5. PHOTOS:
+[ ] Yes
+[X] No
 
-OBSERVER "B" ALEXANDRIA, LOUISIANA, 31 DEGREES, 04 MINUTES
-NORTH, 92 DEGREES 28 MINUTES WEST, HIGHWAY 165.
+6. SOURCE:
+Military and Civilian
 
-F. IDENTIFYING INFORMATION OF OBSERVERS:
-(1) NONE
+7. LENGTH OF OBSERVATION:
+2-5 sec Trails - 2+ sec
 
-PAGE THREE NWSFT JA
+8. NUMBER OF OBJECTS:
+seven
 
-(2) OBSERVER "A": [REDACTED], A/1C, 4MIST AIR
-POLICE SQUADRON, FAIRLY RELIABLE
+9. COURSE:
+descending
 
-OBSERVER "B": [REDACTED], A/1C 4MIST AIR
-POLICE SQUADRON, FAIRLY RELIABLE
+10. BRIEF SUMMARY OF SIGHTING:
+Bright flashes of light which left trails of varying sizes were observed by 4 persons from 0230 to 0502. In all there were 7 objects. All of the objects were seen in the S.E. portion of big dipper. The flashes visible for 2-5 seconds. The trail persisting up to 2+ seconds.
 
+11. COMMENTS:
+The observations reported are very similar to meteors entering the earth's atmosphere. This was probably part of a meteor shower.
+
+ATIC FORM 329 (REV 20 SEP 52)
 
 - page 1 -
 
-VC CSO AGP/SCW/APO 60
-PP 1,2,3,180
-TO RJWFFF JA
-P 050452 ZBX
-FM 441 TFW ENGLAND AFB
-TO RJWFAI/ALC ENT
-RJWFVF/3SET ALV
-RJEIS/STATIC
-RJEC/NOTES USAF
-RJEC/SECRECY OF THE AIR FORCE
+VC-CST ASF'S2CWVAFSS
 
-BY
-UNCLA/FW/TO/INTSI 7-551. FINAL SECTION OF TWO
+FP TWSLTSJ
 
-(P) NO SOUTH AGAIN
+15 FUWSFF JA
 
-(C) NOISE
+P S2T34S2 TEX
+
+FM 4-1 IFW ENGLAND AFE
+
+TO FUWFAI/ALC 0NT
+
+FUWSFAF/JSSFI ALV
+
+FUEISO/ATIC
+
+FUEISO/HQFS USAF
+
+FUEISO/SECRETARY OF THE AIR FORCE
+
+3A
+
+UNCLASSIFIED -FINAL SECTION OF TWO
+(S) TO SUNFF HEAII
+
+2) NONE
 
 • DESCRIPTION OF COURSE OF OBJECT:
-(1) HIGH LIGHT
-(2) OBSERVE "A" 45 DEGREES ELEVATION; 300 DEGREES
-AZIMUTH
-OBSERVE "B" 45 DEGREES ELEVATION; 300 DEGREES
-AZIMUTH
 
-(3) OBSERVE "A" 30 DEGREES ELEVATION; 320 DEGREES
-OBSERVE "B" 45 DEGREES ELEVATION; 320 DEGREES
+(1) SIGH LIGHT
 
-Handwritten note on right side: TELEPHONED 4 4x2A
+(2) OBSERVER "A"; 45 DEGREES ELEVATION; 200 DEGREES
+AZIMUTH.
 
+OBSERVER "B"; 45 DEGREES ELEVATION; 30 0 DEGREES
+AZIMUTH.
+
+(3) OBSERVER "A"; 30 DEGREES ELEVATION; 300 DEGREES
+OBSERVER "S"; 45 DEGREES ELEVATION; 320 DEGREES
+
+[handwritten: 426
+THN-[illegible]
+4/27-26
+3:45
+0/w LA
+]
+
+[stamp: C2 02]
 
 - page 2 -
 
-Here is the OCR text from the document:
+[stamp: OFFICIAL FILE COPY]
 
-TP:/DO/LM                                                                16 Aug 60
+962
+
+TF/JO/EXT                                                                    16 aug 60
 
 Temperature Gradients
 
-Air Technical Intelligence Center (AFCIN-L82g (Major Friend))
+Air Technical Intelligence Center (ATIC-USAF) (Major Friend))
 Wright-Patterson AFB, Ohio
 
-1.  Reference paragraph 15g(7), AFR 200-2.
+1. Reference paragraph 15e(7), AFM 200-2.
 
-2.  Request that temperatures gradient be defined. The weather forecasters
-    this base say that temperatures gradients could be measured at one
-    elevation or between two or more elevations. Moreover it could be measured
-    between two points on the ground.
+2. Request that temperature gradient be defined. The weather forecasters
+at this base say that temperature gradients could be measured at one
+elevation or between two or more elevations. Moreover it could be measured
+between two points on the ground.
 
-3.  The answer to the above request will enable this headquarters to fully
-    fill more adequately the provisions of AFR 200-2 in reporting of tempera-
-    ture gradients.
+3. The answer to the above request will enable this headquarters to ful-
+fill more adequately the provisions of AFM 200-2 in reporting of tempera-
+ture gradients.
 
-1st Ind (AFCIN-L82x)                                                     30 AUG 1960
+[illegible section]
+
+1st Ind (ARCL-w-22x)                                                       30 AUG 1960
 
 Aerospace Technical Intelligence Center, Wright-Patterson AFB, Ohio
 
-FOR: 9g Assist Tactical Fighter Wing (TAC), Attn: TP/DO/LM,
-     England Air Force Base, Louisiana
+1O: 1O 1st Tact Ftr Wing (AAC), Attn: TF/JO/EXT,
+England Air Force Base, Louisiana
 
 Reference paragraph two of basic correspondence, temperature gradient
-as used in AFR 200-2 is considered as being the vertical temperature
+as used in AFM 200-2 is considered as being the vertical temperature
 gradient, or lapse rate. For analysis purposes, the requirement is for
 the temperature change with altitude in the vicinity of the sighting
 in order to determine the presence or absence of a temperature inversion.
 
-FOR THE COMMANDER:
+FOR TLE COMMANDER:
 
-PHILIP G. EVANS
+PHILIP O. EVANS
 Colonel, USAF
 Deputy for Science and Components
 
 COORDINATION:
-AFCIN-L82x ________________ Date 16 Aug 60
-AFCIN-L82 ________________ Date 16 Aug 60
 
+AFCIN-4E2x [illegible] [illegible] Date [illegible]
+
+AFCIN-4E2 [illegible] Date [illegible]
 
 - page 3 -
 
-Here is the text from the document:
+CLASSIFICATION
+
+COUNTRY OF ACTIVITY REPORTING | REPORT NO. | (leave blank)
+USA | 1R-5-60
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-Country of Activity Reporting: USA
-Country or Area of Report Concerns: Louisiana
-Activity Submitting Report: 4013t TFW, England AFB, La.
-Date of Information: 23 Jul 60
-Date of Collection: 24 Jul 60
-Preparing Individual: M/Sgt Robert F. Plympton AF17L8303
-Date of Report: 3 Aug 60
+COUNTRY OR AREA REPORT CONCERNS | DATE OF INFORMATION
+Louisiana | 23 Jul 60
 
-References: AFR 200-2, Paragraph 151 TFV/DOINTEL Msg 7-591, 25 July 1960; telephone conversation between M/Sgt Plymton, this headquarters and Sgt Bolieu ATIC, 3Aug60
+ACTIVITY SUBMITTING REPORT | DATE OF COLLECTION
+401st TPW, England AFB, La. | SRI STATUS (if applicable)
+| SRI NO.
+PREPARING INDIVIDUAL | 24 Jul 60 | CANCELLED/COMPLETE
+W/Sgt Robert F. Plympton | DATE OF REPORT | SRI NO.
+AFI7143303 | | CANCELLED/INCOMPLETE
+NAME OR DESCRIPTION OF SOURCE | 3 Aug 60 | SRI NO.
+[redacted/blacked out] | EVALUATION | ADDITIONAL INFORMATION ON (Date) ACTIVE
 
-Subject: Supplemental Information on UFO sighted 25 July 1960 at Alexandria, Louisiana
+REFERENCES (EAIR Subject, previous reports, etc., as applicable) | B-6
 
-SUMMARY:
-1. Attached as Inclosure 1 is a narrative written in long hand by an observer of an unidentified flying object observed over Alexandria, Louisiana on 25 July 1960.
+APR 200-2, Paragraph 15; TPW/DO/INTL Msg 7-501, 25 July 1960; telephone conversation between M/Sgt Robert F. Plympton, this headquarters and Sgt Bolieu, ATIC, 3Aug60
+SUBJECT (Descriptive title, the individual reports for separate subject)
 
-2. Airman was asked to prepare this narrative shortly after he was interviewed in regards to the sighting on 24 July 1960.
+Supplemental information on UFO sighted 25 July 1960 at Alexandria, Louisiana
 
-3. Sgt. Bolieu, ATIC, requested this narrative by telephone conversation with M/Sgt Robert F. Plympton, of this headquarters, on 3 Aug 1960.
+SUMMARY (Give summary which highlights the salient factors of narrative report. Begin narrative text on AF Form 112a unless more space is needed. Refer back to Form 112. List inclosures, including number of pages)
 
-Preparing Official: ROBERT F. PLYMPTON, M/Sgt, USAF Intelligence NCOIC
-Approving Official: RAY F. GROHAUS, Major, USAF HQ Intell Office
+1. Attached as inclosure 1 is a narrative written in long hand by an observer of an unidentified flying object observed over Alexandria, Louisiana on 25 July 1960.
 
-Distribution: ATIC, WRIGHT PATTERSON AFB, OHIO
-ATTN: AFCIN-4BA3
+2. Airman was asked to write this narrative shortly after; he was interviewed in regards to the sighting on 24 July 1960.
 
-Warning: This document contains information affecting the national defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C., Sections 793 and 794. Its transmission or the revelation of its contents in any manner to an unauthorized person is prohibited by law.
+3. Sgt. Bolieu, ATIC, requested this narrative by telephone conversation with W/Sgt Robert F. Plympton, of this headquarters, on 3 August 1960.
 
+1 | INCL
+Narrative
+
+PREPARING OFFICIAL: ROBERT F. PLYMPTON | APPROVING OFFICIAL: RAY F. GROEHAUS
+W/Sgt, USAF | Major, USAF
+Intelligence NCOIC | WG Intel Officer
+
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Duel Wor and copies w/o inclosures, if applicable)
+
+ATIC, WRIGHT PATTERSON AFS, OHIO
+ATTN: APOIN-4E4
+
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C., Sections 793 and 794. Its transmission or the revelation of its contents in any manner to an unauthorized person is prohibited by law.
+
+AF FORM 112 REPLACES AF FORM 112. 1 OCT 52. WHICH MAY BE USED
+U.S. GOVERNMENT PRINTING OFFICE 1964 — 315475
+
+CLASSIFICATION
 
 - page 4 -
 
-24 July 1960
+[handwritten: 3rd July 1960]
 
-This report on ... with ... camp Lewis, with
-... to turn ... my fly Captain Lewis, 16th
-... 2 1760, ... find the facts here, Louisiana.
+This report is submitted at headquarters at Camp Polvoron model Army Base, Alexandria, Louisiana on the 3rd of July. I saw at about 9:30 p.m., Flying saucer like formation. Later in my backyard at estimate eighty-five of the we made object-seen already of time. The object sighted first two have direct account to the best of my knowledge has.
 
-After ... my account of unusual sighting of
-... ... with object ... ... over the
-... ... and ... ... time and account
-to ... ... of my ... here.
+[handwritten underline]
 
-... ... ... ... ... ... ... ... melts
-... ... ... ... ... ... ... ... of others
-... ... ... ... ... ... ... ... ...
+In early July, with a sewer ring, a mobile, the at the they where in their swing obtained a light filled a the system it is as bad of.
 
-... ... ... ... ... ... ... ... ...
-
-... ... ... ... ... ... ... ... ...
-
-Some words and phrases are illegible or partially obscured in this handwritten document.
-
+[remainder of page is largely illegible handwriting]
 
 - page 5 -
 
-The text on this page is handwritten and partially illegible. While I can see that it is a handwritten document with cursive script, many words are difficult to make out clearly. The text appears to be a report or letter, but I cannot confidently transcribe most of the specific words due to the handwriting's complexity and the image quality.
+[handwritten: (2)]
 
+[handwritten: " object 'commenced' to descend by slow, low — flat —'abrupt' port. Indication on it "side that I sight have been a door. The entire object glowed great glowing while above in the Southern part of floor (south) St. Lawrence, looked a UFO as described on the local broadcast, maybe it was from there to me as well and... a/c with other U. S. craft... which back at the local group...the... new instrument in control, one motored plane a mile...
+[illegible section]
+
+[illegible section]
+
+[illegible section]
+
+believed it or [illegible], I can't ]
 
 - page 6 -
 
-The text on this page is partially legible. Here is the text I can confidently read:
+[handwritten: The object hovered and moved slowly, with bursts of speed, in a clear sky at 2000 ft. altitude. The witness observed a "disc-like" craft with a brilliant light underneath, which illuminated the ground below. The object made no sound, and the witness felt the heat from the object as it hovered overhead. At 2 seconds interval, there appeared to be stationary, not moving. At placed lead vibrant the size of a house half height of coconut long the vibrant moving white iait style other houses overhead]
 
-[First paragraph is mostly illegible]
-
-"... the upper part of the sky appears to be
-part not in sharp copy - just as an
-eye picture. ... the soft copy appears at one point.
-... track appears to have ... stationary, not
-moving. The plane was about the size of
-... both fairly at same ... along the. It was
-... able with not very the ... concluded.
-... track lasted ... about ... to 3 seconds
-... it started very carefully."
-
-Some words and phrases are unclear or illegible due to the handwritten nature and image quality of the document.
-
+[handwritten: Then swerved up there straight in at 2 seconds and there turned slow completely over the same spot it staticed over eagerly]
 
 - page 7 -
 
-Here is the OCR text from the document:
+[handwritten: This immediately, as if having one slight to it at the same time same given. The object, the lake separated on all entirety. There once, as in the front card, as appeared it complete back it motion in a stationery opick. The law seemed to be smaller than the after - made it the placed card up bunted slightly, beyond the right hand side of the supper. I sued all the same width city and width. It held ets business get oldest it wildred, and the lights a [illegible] sand fringe-out of is shaded to writings and messages, it well a [illegible] in it so mentioned elevaten form, pull to send in door less of the tree. There I carried that to relieve, the pastoral transferred or of falling then support from biganning to end.
 
-How immediately, as of turning on light at the same time some turn to other. Sgt. law approached an old airship. There was, as we with great care, an appreciable complete black of motion was a stationary object the law appeared to be stationary. Then the dim - mute of the finish and somewhat slightly suspense the light hand side of the dipper. It gives all the same entirely unity and white. It takes into considerable after about 15 minutes and the digging a truly rapid fade - out of about 5 to 10 min. and the object. I will a little if about to pick to just not push out of the little. Began to report. Then some other mutual, however to of falling from sighting beginning to end of the new 2 miles gradually slanting, as a percentage to the total death was sudden as possible. The several sighting there about 9:30 p.m. to self the ticket got that I had a positively will see the base would have to come her place. After in assuring that the channel of the leaving the job near the gulf on at once a military business call as we to call.
-
+By our I used rarely uttered, and I preferred to the right slight in friendly as possible. There issued keeping their slight 5:30 pm. I led the object just that I had a military portion tall for the [illegible] not would bode to one his place. After it motoring le flat the stingy of he loading he job tear the calt as at used in military munned to all sbe cllanmed in bc cast.]
 
 - page 8 -
 
-Here is the OCR text from the document:
+[handwritten: 15)]
 
-(15)
+[handwritten: Immediately called msg dispatcher, the 65-D power SPD, and asked if the full Chd on Radar Class action if he had spotted wthr of the things. I had seen on radar, he explained me that he hadnt, and wpired me to the shwelder on duty - Capt. [redacted] [redacted] and he reported guite it light [redacted] and he informed the procedures of if plan on the Radar and expred me to the staff duty office of the se unit.
 
-Immediately called my wing/section, the 6.5 P move 5rd. and asked the Radar Chief on Radar Close-action of the land spotted with the things, I had only, on radar, the information that he hadn't, and referred me to the Shevlin on duty - Capt. _______ equally to light _______ and he _______ not the _______ logs of no pilots on the Radar _______ referred me to the Staff duty officer of the 4th _______ Told _______ called the Staff duty officer of the 4th and gave my information to him.
+Called the staff duty office at the o.i at wind gate my explanation. to find.
 
-Instructed to watch the side ops on the _______ during of the planning _______ for the _______ of the radar and went midnight with _______ my other watching of any kind.
+Iordering to watch the sky oft's on the case defenses of the premeses, ightlong for the misells of the motor and soared midnight with said, they other weighties & any bond.
 
-1st sighting at 9:16 PM - "FLUSH"
-2nd _______ heard _______ was from center of eye
-3rd _______ sighting
-4th _______ vicinity of _______ bug sighted
-5th sighting - "TANK"
-6th _______ and _______ and white
-_______ in wind across center of fire sighted
-_______ of _______ of sighting last _______ nice
+including in a simpl numbering of both sightings!
 
-Note: Some words are illegible or blacked out in the original document.
-
+1st sighting at 9.w.M. - LIGHT"
+1/2. "Hide, lead new man from center of edge" to deep, ought
+2. "( acty of big pliying"
+1st sighting I TRAIL."]
+c. bed bright and ordell.
+c. "wisting in wind straind sides of the lighter"
+o. all rites ] seen ]f sighting last ] used]
 
 - page 9 -
 
-Here is the OCR text from the document:
+[handwritten: Re: No apparent motion
 
-To Cognizant Notation:
+Second sighting - 15 minutes later
 
-Second Sighting - 15 minutes later
+"FIRST"
+C - Size of object ball at some length
+C 45° angle from ground
+C Duration - about 2 to 3 seconds (approximate time)
 
-FACTS:
-1. Size of mass shall at same length.
-2. 45° angle from ground
-3. Duration - about 5 to 7 seconds (Approximate time)
+"2ND"
 
-THEN:
-1. Appeared momentarily unite east out of plank
-2. Slightly on curved surface center of big saucer
-3. Wider than the plank diameter
-4. By further review slight sway slight
-5. Intensity limited for sighting 15 seconds, then
-   passed out in 5 seconds (See note total)
-6. With sightings appeared to be substantiated in
+C Appeared simultaneously with each craft of black
+C Bearing on west across center of Bay (actually
+C Upper - that the flashlike character
+C Windows spaced and slightly... lags of light 
+   ... side of key shopper
+C Intensity lasted for approx. 15 seconds, then
+   pulled over sea to seconds (so-so. Total)
+C Each sightings appeared to be unrelated in
    all respects.
 
 End of Report
 
+(Circled: 1)     (Circled: 2nd)
+
+[redacted sections]
+
+ATIC, ILS.]
 
 - page 10 -
 
-Here is the text from the document:
+(3) WHEELS
 
-(3) WHILE
 (4) ONE (1)
+
 (5) N/A
+
 (6) NONE
-(7) OBSERVER "A": ORANGE (TFAIL)
-OBSERVER "B": WHITE (SIX INCHES IN LENGTH) (TFAIL)
+
+(7) OBSERVER "A": ORANGE (IFAIL)
+
+OBSERVER "B": WHITE (SIX INCHES IN LENGTH) (IFAIL)
+
 BY
-2 or 3 JUL PJMFFF
 
-NONE
+29 JULY 1960 PWFF
 
+NOTE:
 
 - page 11 -
 
-LOCATION: ALEXANDRIA, LOUISIANA, HOUSEWIFE, PART-
+[illegible], ALEXANDRIA, LOUISIANA, HOUSEWIF., PART-
+[illegible] RELIABILITY, UNK.
 
-(C) OBSERVER "A": A/IC
+C) OBSERVER "A": [illegible] A/1C, [illegible]
+AC & 4 SQUADRON, ENCLAK AF3, LOUISIANA, COMMUNICATIONS
+SPECIALIST, FAIRLY RELIABLE.
 
-AC & W SQUADRON, ENGLAND AFB, LOUISIANA, COMMUNICATIONS SPECIALIST, FAIRLY RELIABLE.
-
-C. WEATHER AND WINDS ALOFT CONDITIONS AT TIME AND PLACE OF SIGHTINGS:
+G. WEATHER AND WINDS ALOFT CONDITIONS AT TIME AND PLACE OF
+SIGHTINGS:
 
 (1) CLEAR
 
-(2) WIND DIRECTION                      VELOCITY      DIFFERENT ALTITUDES
-     FROM    244 DEGREES                 5 KNOTS       SURFACE     6,200
-             229 DEGREES                15 KNOTS       13,200      13,700
-             220 DEGREES                12 KNOTS       16,700
-             288 DEGREES                 2 3 KNOTS      23,200
-             280 DEGREES                 2 4 KNOTS      27,200
-             270 DEGREES                15 KNOTS       37,200
+(2) WIND DIRECTION          VELOCITY    DIFFERENT ALTITUDES
+FROM 242 DEGREES           5 KNOTS     SURFACE
+220 DEGREES               15 KNOTS     9,200
+220 DEGREES               12 KNOTS     12,700
+280 DEGREES               20 KNOTS     18,200
+283 DEGREES               27 KNOTS     20,200
+270 DEGREES               15 KNOTS     32,000
 
-PAGE FOUR FOUR 5 A
-             180 DEGREES                 5 KNOTS       50,200
-             157 DEGREES                 2 KNOTS        8,200
+
+PAGE FOUR NAWF'TA
+
+180 DEGREES               5 KNOTS     59,200
+327 DEGREES               20 KNOTS     82,000
 
 (3) NONE
 
-(4) 15 MILES
+(4) 10 MILES
 
-(5) 7/1/65
+(5) 24 LTHS
 
 (6) NONE
 
-(7) 3 DEGREES F/10 MILES
+(7) 3 DEGREES FROM MILES
 
-H. REFERENCE PART II OF THIS MESSAGE
+REFERENCE PART II OF THIS MESSAGE
 
-I. (ILLEGIBLE)
-
+A. NON
 
 - page 12 -
 
-Here is the text from the document:
+UNCLASSIFIED OXYSSIS
+PP ADJTSQ
+EX JUNFFF 2A
+P 250u457 ZZX
+FM 4311FW ENGLAND AFS
+TO PWWFAL/ADC
+FUNFIF/3JEL AIV
+FUSJSO/ATIC
+FUZZN/YSDFS USAF
+FUZZ2/YSCCFTAR1 OF TiiE AIR FORCE
 
-PSCBCBZGCWYBSIS                                   1260 CH 02 14
-PP RJBTSO
-E: JWFFF 2A
-P 250452 ZEX
-PK 4JITFW ENGLAND AFS
-TO PJWFAL/ALC
-PJWFHF/33RD ALV
-PJGISN/AITC
-PJGZPN/HQSPS USAF
-PJGZPN/SECRETARY OF THE AIR FORCE
+UNCLASSIFIED -- SPECIAL OUT OF [illegible]
 
-UNCLAS/FOUO/NITEL--VOL. SECTION ONE OF TWO
-UFO REPORT, FLORENCE AFB 2-4, PAR GRAPH 15. THIS MESSAGE
-IN TWO PARTS.
+UFO REPORT, SUBMITTED BY ALEXANDRIA, PAMCCAMP, IS, THIS MESSAGE IN TWO PARTS.
 
-PART 1:
+PART 1.
+
 A. DESCRIPTION OF OBJECT:
-(1) FOWL
+
+(1) ROUND
+
 (2) BASEBALL
+
 (3) WHITE
-(4) ONE (1)
+
+(4) ORE (1)
+
 (5) N/A
 
+[handwritten: 1-7/16 2C
+"2 3/4" 4H 2H
+H]
+
+[stamp: C2 14]
 
 - page 13 -
 
-Here is the text from the document:
+(6) RINGS IRREGULAR
 
-(7) SIZES IRREGULAR
-(7) WILL AID LONG (4 INCH BY 15 INCH)
-(7) NO SOUND HEARD
+(7) WIDE AND LONG ( 4 INCH BY 12 INCH)
+
+(2) NO SOUND HEARD
+
 (9) EXTREMELY BRIGHT
 
-3. DESCRIPTION OF COURSE OF OBJECT:
+B. DESCRIPTION OF COURSE OF OBJECT:
+
 (1) THE FLASH AND THE BRIGHTNESS OF THE OBJECT
-(2) ELEVATION, 45 DEGREES; AZIMUTH 280 DEGREES (MAGNETIC)
-(3) ELEVATION, 45 DEGREES; AZIMUTH 293 DEGREES (MAGNETIC)
+
+(2) ELEVATION, 45 DEGREES; AZIMUTH 289 DEGREES (MAGNETIC)
+
+(3) ELEVATION, 45 DEGREES; AZIMUTH 303 DEGREES (MAGNETIC)
+
 (4) STATIONARY
+
 (5) LIGHT DIMINISHED RAPIDLY
+
 (6) TWENTY SECONDS
 
 C. MANNER OF OBSERVATION:
+
 (1) GROUND VISUAL
+
 (2) NONE
+
 (3) N/A
 
-F. TIME AND DATE OF SIGHTING:
-(1) OBSERVE "A": 4-JUL-1960; 14:05 PDT
-OBSERVE "B": 4-JUL-1960; 14:05 PDT
-(2) LIGHT
+D. TIME AND DATE OF SIGHTING:
+
+(1) OBSERVER "A": 2330 HOURS, 2 AUGUST
+
+OBSERVER "B": 2324 HOURS
+
+(2) NIGHT
 
 LOCATION OF OBSERVATION:
-ALEXANDRIA, LOUISIANA (31 DEGREES 17 MINUTES NORTH, 92 DEGREES WEST MINUTES)
 
-F. SCIENTIFIC INFORMATION OBSERVED:
+PAGE THREE EWSFT 2A
 
-PAGE THREE DWJFP PA
-ALEXANDRIA, LOUISIANA
+ALEXANDRIA, LOUISIANA (31 DEGREES 17 MINUTES NORTH, 92 DEGREES
+25 MINUTES WEST [redacted section])
 
+E. IDENTIFYING INFORMATION OBSERVERS:
 
 - page 14 -
 
-W. INTELLIGENCE OFFICER, CAPTAIN [ILLEGIBLE] ENGLAND
-AFB LOUISIANA. BOTH OBSERVERS, A & B, WERE ATTENDING A FIVE-
-IN MOVIE. OBSERVER "A" STATED THAT HE HAD WITNESSED A
+X. INTELLIGENCE OFFICER, CAPTAIN [redacted] ENGLAND
+
+AFE LOUISIANA. POI: OBSERVERS, A & S, WERE ATTENDING A DRIVE-
+
+IN MOVIE. OBSERVER "A" STATED THAT HE HAD WITNESSED
+
 FALLING STARS AND METEORITES BEFORE AND THAT THIS SIGHTING
+
 APPEARED QUITE DIFFERENT IN AS MUCH AS IT DID NOT APPEAR TO
+
 MOVE. OBSERVER "B" HAD BEEN SCANNING THE SKY FOR THIS OBJECT
+
 AFTER HAVING BEEN TOLD BY OBSERVER "A" THAT HE HAD SEEN A
+
 BRIGHT OBJECT IN THE SKY. BOTH OBSERVERS PLACED THE OBJECT
+
 AT APPROXIMATELY THE SAME POINT IN THE SKY. OBSERVER "A"
-STATED THAT IN BOTH OF HIS OBSERVATIONS, THE OBJECT WAS LOCATED
 
-PAGE FIVE FJWJFT 2A
-IN THE "LITTLE OF THE CUP PORTION OF THE "BIG DIPPER". TWO OTHER
+STATED THAT IN BOTH OF HIS OBERVATIONS, THE OBJECT WAS LOCATED
+
+
+PAGE FIVE JWWFF?A
+
+IN THE MIDDLE OF THE CUP PORTION OF THE "BIG DIPPER". TWO OTHER
+
 OBSERVERS, ONE AT THIS DRIVE IN AND ONE AT THE "WINGS" DRIVE-IN
-LOCATED IN ANOTHER SECTION OF TOWN, OBSERVED SIMILAR OBJECTS
-AT APPROXIMATELY THE SAME TIME. IN THE LATTER CASE THE OBJECTS
-WERE MOVING. A REPORT OF THE LATTER SIGHTING IS COVERED IN
-PART II OF THIS REPORT. EVERY AVAILABLE MEANS WAS USED BY THE
-INTELLIGENCE OFFICER TO ARRIVE AT A POSSIBLE CONCLUSION.
-THE EXACT CAUSE OF THE PHENOMENA CAN NOT BE DETERMINED AT THIS
-LEVEL.
-PART II
-A. DESCRIPTION OF OBJECT
-(1) FOUND
-(2) OBSERVER "A" QUARTER
-OBSERVER "B" PEA
-(3) [ILLEGIBLE]
 
+LOCATED IN ANOTHER SECTION OF TOWN, OBSERVED SIMILAR OBJECTS
+
+AT APPROXIMATELY THE SAME TIME. IN THE LATTER CASE THE OBJECTS
+
+WERE MOVING. A REPORT OF THE LATTER SIGHTING IS COVERED IN
+
+PART II OF THIS REPORT. EVERY AVAILABLE MEANS WAS USED BY THE
+
+INTELLIGENCE OFFICER TO ARRIVE AT A POSSIBLE CONCLUSION.
+
+THE EXACT CAUSE OF THE PHENOMENA CAN NOT BE DETERMINED AT THIS
+
+LEVEL.
+
+PART II
+
+A. DESCRIPTION OF OBJECT
+
+(1) ROUND
+
+(C) OBSERVER "A" QUANTIFI
+
+OBSERVER "B": PEA
+
+[remainder illegible]
 
 - page 15 -
 
-C. WEATHER AND WINDS-ALOFT CONDITIONS AT TIME AND PLACE OF SIGHTINGS:
+C. WEATHER AND WINDS-ALOFT CONDITIONS AT TIME AND PLACE OF
+SIGHTINGS:
 
 (1) CLEAR
-(2) SAME AS PART 1.
-(3) SAME AS PART 1.
-(4) SAME AS PART 1.
-(5) SAME AS PART 1.
-(6) SAME AS PART 1.
-(7) SAME AS PART 1.
 
-H. REFER TO PART 1.
+(2) SAME AS PART I.
+
+(3) SAME AS PART I.
+
+(4) SAME AS PART I.
+
+(5) SAME AS PART I.
+
+(6) SAME AS PART I.
+
+(7) SAME AS PART I.
+
+H. REFER TO PART I.
+
 I. NONE
+
 J. NONE
 
-K. INTELLIGENCE OFFICER, CAPTAIN [REDACTED] ENGLAND AFB, LOUISIANA. FROM THE DESCRIPTION PRESENTED BY THE ABOVE OBSERVERS, IT IS POSSIBLE THAT THE OBJECT COULD HAVE BEEN A METEORITE DUE TO THE PROXIMATE PLACE AND TIME OF THIS
+K. INTELLIGENCE OFFICER, CAPTAIN [redacted] P-C-LAIN
+AFT, LOUISIANA. FROM THE DESCRIPTION PRESENTED BY THE ABOVE
+OBSERVERS, IT IS POSSIBLE THAT THE OBJECT COULD HAVE BEEN A
+METEORITE. DUE TO THE PROXIMATE PLACE AND TIME OF THIS
 
-PAGE FOUR BJWFFT SA
-SIGHTING AND THESE IN PART II OF THIS REPORT, THIS REPORT IS SUBMITTED FOR YOUR FURTHER REFERENCE AND EVALUATION.
+
+PAGE FOUR JWWTF 3A
+
+SIGHTING AND THESE IN PART II OF THIS REPORT, THIS REPORT IS
+SUBMITTED FOR YOUR FURTHER REFERENCE AND EVALUATION.
 
 BY
-26/26-12 JUL BJWFFT
 
+26/26:12 JUL JWWTF
 
 - page 16 -
 
 NNNN
-RA156
-CZCSQB573ZCWYB494
-PP RJEDSO
-DE RJWFFD 22A
-P 832092 ZEX
-FM 401ST TFW ENGLAND AFB
-TO RJWFAL/ADC
-RJVKF/33RD ADIV
-RJEDSO/ATIC WP AFB
-RJEZHO/HQ USAF (AFCIN)
-RJEZHO/SAF (SAFIS)
-BT
-UNCLAS TFW/DO/INTEL 8-76.
-IMMEDIATE ATTENTION REQUIRED. THIS MESSAGE IN TWO PARTS. PART I.
-SUPPLEMENTAL INFORMATION TO UFO REPORT SUBMITTED ON 25 JULY 1960.
-CITE: TFW/DO/INTEL 7-591. REFERENCE AFR 200-2, PARAGRAPH 15G(2).
-ADD THE FOLLOWING TEMPERATURES FOR THE ALTITUDES INDICATED:
-ALTITUDES    TEMPERATURE    ALTITUDES    TEMPERATURE
-SURFACE      PLUS 35C       6,000        PLUS 15C
-10,000       PLUS 11C       16,000       MINUS 4C
-20,000       MINUS 13C      30,000       MINUS 33C
-50,000       MINUS 68C      80,000       NOT AVAILABLE
 
+RA 15E
+
+C2CSQB573ZCWYB4 94
+
+PP RJEDSQ
+
+DE RJWFFD 22A
+
+P 032202 ZEX
+
+FM 4@1ST TFW ENCLAND AFB
+
+TO RJWFAL/ADC
+
+RJWFKF/33RD ADIV
+
+RJEDSQ/ATIC WP AFB
+
+RJEZHQ/HQ USAF (AFCIN)
+
+RJEZHC/SAF (SAFIS)
+
+BT
+
+UNCLAS TFW/DO/INTEL E-76.
+
+IMMEDIATE ATTENTION REQUIRED. THIS MESSAGE IN TWO PARTS. PART I.
+
+SUPPLEMENTAL INFORMATION TO UFO REPORT SUBMITTED ON 25 JULY 1962,
+
+CITE: TFW/DO/INTEL 7-591. REFERENCE AFR 203-2, PARAGRAPH 15C(2),
+
+ADD THE FOLLOWING TEMPERATURES FOR THE ALTITUDES INDICATED:
+
+ALTITUDES     TEMPERATURE     ALTITUDES     TEMPERATURE
+
+SURFACE       PLUS 33C        6,000         PLUS 15C
+
+10,200        PLUS 11C        15,200        MINUS 4C
+
+20,000        MINUS 13C       30,002        MINUS 33C
+
+50,000        MINUS 68C       80,000        NOT AVAILABLE
+
+[handwritten: 32 4E2]
+
+[handwritten: 4-442-]
 
 - page 17 -
 
-PAGE TWO NWSFT JA
+PAGE 1 OF 2 UNWFF 3A
 
-(6.) AFC
-
-(6.) INSTANTANEOUSLY
-
-(6.) FIVE (5) SECONDS
-
+(1) A/C
+(2) INSTANTANEOUSLY
+(3) FIVE (5) SCORES
 C. MANNER OF OBSERVATION:
 (1) GROUND VISUAL
 (2) NONE
 (3) NONE
-
-F. TIME AND DATE OF SIGHTING:
-(1) OBSERVER "A" OBSERVED OBJECT THREE TIMES BETWEEN
-24:0382 AND 24:0402Z (EXACT TIME UNKNOWN)
-OBSERVER "A" 24:0382Z
+D. TIME AND DATE OF SIGHTING
+(1) OBSERVER "A": OBSERVED OBJECT THREE TIMES BETWEEN
+2430Z AND 2441Z (EXACT TIME UNKNOWN)
+OBSERVER "B": 2438Z
 (2) NIGHT
-
 E. LOCATION OF OBSERVERS:
-OBSERVER "A" ALEXANDRIA, LOUISIANA, 31 DEGREES, 17 MINUTES
-NORTH, 20 DEGREE 20 MINUTES WEST; BATON
+OBSERVER "A": ALEXANDRIA, LOUISIANA, 31 DEGREES, 17 MINUTES
+NORTH, 92 DEGREES 22 MINUTES WEST; BATON
 ROUGE TRAFFIC CIRCLE, JOY DRIVE-IN THEATRE.
-
-OBSERVER "B" ALEXANDRIA, LOUISIANA, 31 DEGREES, 20 MINUTES
-NORTH, 20 DEGREES 20 MINUTES WEST, HIGHWAY 165.
-
+OBSERVER "B": ALEXANDRIA, LOUISIANA, 31 DEGREES, 20 MINUTES
+NORTH, 92 DEGREES 20 MINUTES WEST, HIGHWAY 165.
 F. IDENTIFYING INFORMATION OF OBSERVERS:
 (1) NONE
 
-PAGE THREE NWSFT JA
-
-(2) OBSERVER "A": [REDACTED], A/1C, 4015T AIR
+PAGE 1 OF 2 UNWFF 3A
+(C) OBSERVER "A": [redacted], A/IC, 4-181 AIR
 POLICE SQUADRON, FAIRLY RELIABLE
-
-OBSERVER "B": [REDACTED], A/1C, 4015T AIR
+OBSERVER "B": [redacted], A/1C 4-181 AIR
 POLICE SQUADRON, FAIRLY RELIABLE
-
 
 - page 18 -
 

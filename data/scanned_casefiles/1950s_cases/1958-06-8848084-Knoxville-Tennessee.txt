@@ -1,5 +1,3 @@
-Here is the text from the document:
-
 PROJECT 10073 RECORD CARD
 
 1. DATE
@@ -8,23 +6,36 @@ PROJECT 10073 RECORD CARD
 2. LOCATION
 Knoxville, Tennessee
 
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[X] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
 3. DATE-TIME GROUP
-GMT 22/1556Z
+Local ________________
+Z 22/15562
 
 4. TYPE OF OBSERVATION
-XE Air-Visual
+[X] Ground-Visual     [ ] Ground-Radar
+[ ] Air-Visual        [ ] Air-Intercept Radar
 
 5. PHOTOS
-Yes
+[ ] Yes
+[X] No
 
-6. LENGTH OF OBSERVATION
-2-3 secs
-
-10. BRIEF SUMMARY OF SIGHTING
-Obj smaller than a pencil, brilliant white color. No trail. No sound. Observed sighted obj above a thunderstorm.
-
-7. SOURCE
+6. SOURCE
 Military
+
+7. LENGTH OF OBSERVATION
+2-3 secs
 
 8. NUMBER OF OBJECTS
 one
@@ -32,70 +43,112 @@ one
 9. COURSE
 South
 
+10. BRIEF SUMMARY OF SIGHTING
+Obj smaller than a pencil, brilliant white color. No trail. No sound. Observer sighted obj above a thunderstorm.
+
 11. COMMENTS
 Typical description & characteristics of a meteor.
 
-12. CONCLUSIONS
-Not Balloon
-Probably Balloon
-Probably Aircraft
-Probably Astronomical
-Other:
-Insufficient Data for Evaluation
-Unknown
+ATIC FORM 329 (REV 25 SEP 52)
 
-INSUFF INFO (1st Report)
+[handwritten: INSUFF INFO (1st Report)]
+
+[handwritten: appears to show notations on right side: 2-7 464, 3-5, 4-4x8+, 220M]
 
 RE019
-T SQF753 YMB633TFLAO40
-PP RJEPNB RJEPHQ RJEDDDN RJEDSQ
-DE RJEDFL 12/
-P 2219002'
-FM COMDR 56TH ADD WPATB
-TO RJEPHQ/ACS I HQ USAF WASH DC
-RJEPHQ/OIS HQ USAF WASH DC
+T SQF753 YMB633IFLAO40
 
+PP RJEPNB RJEPHQ RJEDDN RJEDSO
+
+DE RJEDF1 12,
+
+P 2219002
+
+FM COMDR 58TH ADD VPAFB
+
+TO RJEPHQ/ACS I HQ USAF WASH DC
+
+RJEPHQ/OIS HQ USAF WASH DC
 
 - page 1 -
 
-Here is the text from the document:
+[stamp: DECLASSIFIED]
 
-United States                                                                   IR 58-1
+(SECURITY INFORMATION when filled in)
+(Leave Blank)
+
+COUNTRY OF ORIGIN
+United States
+
+REPORT NO.
+IR 58-1
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-Area of Origin: United States
-Agency of Origin: 314th Troop Carrier Wing (M), Stewart AFB, Tennessee
-Source of Information: TWX, Comdr 3510th Fly Tng Wing, Randolph AFB, Texas
-Date of Report: 12 July 1958
-Date of Information: 22 June 1958
-Preparing Officer: Kenneth W. Boothe, 2d Lt. USAF
-Reference: AFR 200-2, dated 5 February 1958
+AREA REPORT CONCERNS
+United States
 
-Subject: Unidentified Flying Object.
+AGENCY OF ORIGIN
+314th Troop Carrier Wing (M)
+Stewart AFB, Tennessee
 
-Summary: This report describes the sighting of an Unidentified Flying Object in the vicinity of Knoxville, Tennessee, at 1556 hours, GMT, 22 June 1958, by Major General
+DATE OF REPORT
+12 July 1958
+
+SOURCE OF INFORMATION
+TWX, Comdr 3510th Fly Tng Wing
+Randolph AFB, Texas
+
+DATE OF INFORMATION
+22 June 1958
+
+PREPARED OFFICER
+Kenneth W. Boothe
+2d Lt, USAF
+
+EVALUATION
+
+REFERENCES (Control number, director, previous report, etc. as applicable)
+
+AFR 200-2, dated 5 February 1958
+
+SUBJECT
+
+Unidentified Flying Object.
+
+SUMMARY (After concise summary of report. Give significance in final one-sentence paragraph. List enclosures at inner left. Depth lost of report on A/F Form 110a.)
+
+This report describes the sighting of an Unidentified Flying Object in the vicinity of Knoxville, Tennessee, at 1556 hours, GMT, 22 June 1958, by Major General
 
 APPROVED:
-[Signature]
-WILLIAM F. KELLEHER
+
+[handwritten: William Dennis J. Fad USAF]
+for WILLIAM F. KELLSHER
 Lt Col, USAF
 Commander
 
-Distribution:
-ATIC, Wright Patterson AFB, Dayton, Ohio
+[handwritten: Record Attd (6 July (?) ('58 ?)]
 
+[handwritten: Recd 246 9 & 1910 17th(?)]
+
+1
+UFOB IR 58-1
+
+DISTRI
+
+ATIC, Wright Patterson AFD, Dayton, Ohio
+
+WARNING: [illegible section]
 
 - page 2 -
 
-Originating Agency:
-314th TG Wing (M)
+Originating Agency                Report No.                Page 1 of 2 Pages
+314th TO Wing (M)
 
-Report No.                Page 1 of 2 Pages
-
-1. Under the provisions of AFR 200-2, paragraph 15, the following information is submitted:
+1. Under the provisions of AFR 200-2, paragraph 15, the following information is submitted.
 
 a. Description of the Object:
+
 (1) Shape Undetermined.
 (2) Appeared to be a size slightly smaller than a pencil.
 (3) Brilliant white color.
@@ -105,547 +158,773 @@ a. Description of the Object:
 (7) No sound.
 
 b. Description of course of Object:
+
 (1) Observer was looking at a thunderstorm when he observed object above thunderstorm.
 (2) Angle of elevation was 30 degrees and a relative bearing of 215 degrees magnetic about 50 nautical miles to the South.
 (3) Angle of elevation of about 20 degrees on a relative bearing of 215 degrees magnetic.
 (4) Flight path was a straight descending line.
 (5) Instantaneously to the South.
 (6) Object was visible for 2 to 3 seconds.
-(7) Observer stated he measured the appearance of the object as being two finger widths (at arms length) above the tops of the cumulus cloud. It disappeared about one finger width above cloud. The location was close to Knoxville, Tennessee.
+(7) Observer stated he measured the appearance of the object as being 2wc finger widths (at arms length) above the tops of the cumulus cloud. It disappeared about one finger width above cloud. The location was close to Knoxville, Tennessee. [handwritten: ½ wide . .]
 
 c. Manner of Observation:
+
 (1) Air visual.
 (2) No optical aids.
-(3) T-29, SN 53842, 12,000 altitude; 260 degree magnetic heading, 205K true air speed, Randolph AFB, Texas.
+(3) P-25, SN:534192, 12,000 altitude; 250 degree magnetic heading, 205K true air speed, Randolph AFB, Texas. [handwritten: via elem l (light i.]
 
 d. Time and date of Sighting:
-(1) 1556½, 22 June 1958.
+
+(1) 1556@, 22 June 1958. [handwritten: → 155Z - U = 0051 c:5T]
 (2) Daylight.
-(3) Over Daily intersection at 12,000 feet on Victor Airway 140.
+(3) Over Daly intersection at 12,000 feet on Victor Airway 140.
 
 e. Location of Observer:
-Daly intersection on V-140, 83 degrees 12 minutes West, 37 degrees 10 minutes North. Object in vicinity of Knoxville, Tennessee. (83 degrees 52 minutes West, 36 degrees 26 minutes North).
 
+Daly intersection on V-140, 83 degrees 12 minutes West, 37 degrees 10 minutes North.Object in vicinity of Knoxville, Tennessee. (83 degrees 52 minutes West, 36 degrees 28 minutes North).
 
 - page 3 -
 
-Originating Agency:
-314th TC Wing (M)
+Originating Agency                          Report No.              Page 2 of 2 Pages
+314th TO Wing (M)                              IR 58-1
 
-Report No.
-IR 58-1
 
-Page 2 of 2 Pages
+f.  Observer:
 
-f. Observer:
-Major General [redacted], Vice Commander, ATC,
+     Major General [redacted] Vice Commander, ATC,
 Completely reliable.
 
 g. Weather data:
-Winds estimated: 6,000 - 320 degrees - 10K
-10,000 - 270 degrees - 15K
-16,000 - 280 degrees - 35K
-20,000 - 270 degrees - 40K
-30,000 - 270 degrees - 60K
-50,000 - 270 degrees - 80K
-80,000 - None reported
 
-Ceiling and visibility at Knoxville Municipal Airport 2,000 scattered - 2300 overcast, 9 miles visibility, wind northeast at 15 knots, no thunder storms reported.
+     Winds estimated: 6,000 - 320 degrees - 10K
+                     10,000 - 270 degrees - 15K
+                     16,000 - 280 degrees - 35K
+                     20,000 - 270 degrees - 40K
+                     30,000 - 270 degrees - 80K
+                     50,000 - 270 degrees - 80K
+                     80,000 - None reported
+
+     Ceiling and visibility at Knoxville Municipal Airport 2,000
+scattered - 2300 overcast, 9 miles visibility, wind northeast at 15 knots, no
+thunder storms reported.
 
 h. Other data:
-No other data available. Contact Major Gregg P. Nolen, Jr., Operations Division, Randolph AFB, Texas, for Further Information.
+
+     No other data available. Contact Major Gregg P. Nolen, JR.,
+Operations Division, Randolph AFB, Texas, for further information.
+
 
 COMMENTS OF Preparing Officer:
-None.
 
-[Signature]
-KENNETH W. BOOTHE
-24 Lt., USAF
-Intelligence Officer
+     None.                                    [handwritten signature]
+                                             KENNETH M. BOOTHE
+                                             2d Lt, USAF
+                                             Intelligence Officer
+
 
 COMMENTS OF Approving Officer:
-[Blank]
 
-2
 
+
+
+                                             2
 
 - page 4 -
 
 JOINT MESSAGEFORM
 
-19 Jul 58 17 41 2
+SECURITY CLASSIFICATION
 
-33 p 97
-19/11458
+SPACE BELOW RESERVED FOR COMMUNICATION CENTER
 
-PRECEDENCE: PRIORITY
-INFO
+19 JUL 58 17 41z                33 D So
+                                19/17482
 
-FROM: COMDR, ATIC
+PRECEDENCE | TYPE MSG (Chkd) | ACCOUNTING | SYM-88-*** CRO TO | CLASSIFICATION
+ACTION     | PRIORITY       | SYMBOL     | STEWART AFB, TENN | OF REFERENCE
+[X] INFO   | ROUTINE        | ROOM [X] MULTI [ ] SINGLE | AF              | UNCL
+[ ] FROM   |                |           |                    | SPECIAL INSTRUCTIONS
 
-TO: COMDR, 1008TH AISS, ENT AFB, COLO SPRINGS RJEPDDM
-      INFO: AFCIN-X, HEADQUARTERS, USAF, WASHINGTON, D.C. RJEPHQ
+COMDR, ATIC
 
-UNCLASSIFIED/AFCIN-484         7-1977-E
+TO:    COMDR, 1006TH AISS, ENT AFB, COLO SPRINGS /RTEPDN
+       
+INPU: AFCIN-X, HEADQUARTERS, USAF, WASHINGTON, D.C. /RTEPHD
 
-1. UFO observed by Major General Carl A. Brandt, 563A, 
-Vice Commander, ATC, is subject. Reference IR-58-1, 314th 
-TCW(M), Stewart AFB, Tenn, dated 12 July 1958.
+UNCLASSIFIED/AFCIN-454                    7-1497-E
 
-2. In accordance with par. 60, AFR 200-2, dtd 8 Feb 58, 
-request full investigation of this sighting to obtain 
-additional data towards resolving incident. Information 
-and data of initial report insufficient and therefore 
-dictates such requirement. Consideration is also given 
-to rank and status of observer, and distinct possibility 
-that this could be test of capability of applicable units 
-involved in UFO sightings.
+1. UFO observed by Major General Carl A. Brandt, 553A,
+   Vice Commander, ATC, is subject. Reference IR-58-1, 314th
+   TOW(W), Sewart AFB, Tenn, dated 12 July 1958.
+
+2. In accordance with par. 6c, AFR 200-2, dtd 8 Feb 58,
+   request full investigation of this sighting to obtain
+   additional data towards resolving incident. Information
+   and data of initial report insufficient and therefore
+   dictates such requirement. Consideration is also given
+   to rank and status of observer, and distinct possibility
+   that this could be test of capability of applicable units
+   involved in UFO sightings.
 
 3. Pertinent data to assist investigations:
-   a. Object of undeterminate shape, brilliant white, 
-   size and appearance all slightly smaller than pencil. Left
 
-TYPED NAME AND TITLE: GEORGE T. GREGORY, CAPT, USAF
-PHONE: 9-9216
-PAGE: 1   NO. OF PAGES: 4
+   a. Object of undeterminate shape, brilliant white,
+      size and appearance all ghtly smaller than pencil. Left
 
-TYPED NAME AND TITLE: MICHAEL J. ELSEN
-ATIC DUTY OFFICER
+[THIS IS TABLE: Date/Time information]
+DATE  | TIME, u/3c
+19    | 0050 J
+MONTH | YEAR
+JULY  | 1958
 
+SYMBOL: AFCIN-454 [handwritten: v /[illegible]] | SIGNATURE: [handwritten: [illegible]]
+
+TYPED NAME AND TITLE (Signature if required): | TYPED (or Handed) NAME AND TITLE:
+GEORGE T. GREGORY, CMDT USAF | MICHAEL JVELSEN
+                              | ATIC DUTY OFFICER
+PHONE: 6-9216 | PAGE: 1 | NO. OF PAGES: 2
+
+SECURITY CLASSIFICATION
+
+DD, FORM 173
+MAY 62 REPLACES DD FORM 175, 1 OCT 48, WHICH WILL BE USED UNTIL EXHAUSTED
 
 - page 5 -
 
 JOINT MESSAGEFORM - CONTINUATION SHEET
 
-From: DOWDR, ATIO
+SECURITY CLASSIFICATION
 
-a. Brilliant white streak. No apparent sound.
+FROM:
+COMDDR, ATIC
 
-b. Location of observer: 37-10 North, 85-12 West, approx. 10 miles South of Hazard, Virginia.
+Brilliant white streak. No apparent sound.
 
-c. Location of UFO: 36-28 North, 88-52 West, in vicinity of Norris Reservoir, North of Knoxville, Tenn.
+b. Location of observer: 37-10 North, 83-12 West, approx. 10 miles South of Hazard, Virginia.
 
-d. UFO observed from T-29 at 12,000 ft. while on 260 degrees heading, TAS 205 knots. Destination - Randolph Field, Texas.
+c. Location of UFO: 36-28 North, 83-82 West, in vicinity of Norris Reservoir, North of Knoxville, Tenn.
 
-e. First observed at 215 degrees Magnetic, elevation 50 degrees.
+d. UFO observed from T-29 at 12,000 ft. while on 260 degree heading, TAS 205 knots. Destination - Randolph Field, Texas.
+
+e. First observed at 215 degrees Magnetic, elevation 30 degrees.
 
 f. Last observed: 215 degrees, elevation 20 degrees.
 
 g. Object in sight for only 2 to 3 seconds. Was in a straight descending flight path.
 
-h. Time and date: 15562, 22 June 1958, i.e. 1556½ hrs EST, Daylight.
+h. Time and date: 1556Z, 22 June 1958, i.e. [handwritten: 1056] hrs EST, Daylight.
 
-i. Weather data: Determined ceiling and visibility at Knoxville Municipal Airport 2000 scattered, 2500, overcast, 9 miles visibility. Winds, general West-North West from 6000 to 50,000 ft. According to report, Gen. Brandt states he was looking at thunderstorms when UFO observed. Apparently thunderstorm in area of UFO observation.
+i. Weather data: Determined ceiling and visibility at Knoxville Municipal Airport 2000 scattered, 2300, overcast, 9 miles visibility. Winds, general West-North West from 6000 to 50,000 ft. According to report, Gen. Brandt states he was looking at thunderstorms when UFO observed. Apparently thunderstorm in area of UFO observation.
 
-j. Preparing officer: Kenneth W. Boothe, 2nd Lt. Intelligence Officer, Sewart AFB, Tenn. who made no statements or comments re probable cause of sighting.
+j. Preparing officer: Kenneth W. Boothe, 2nd Lt. Intelligence Officer, Stewart AFB, Tenn. who made no statements or comment s re probable cause of sighting.
 
-SYMBOL: AFOIN-4E4g
-PAGE: 2
-NO. OF PAGES: 3
-SECURITY CLASSIFICATION: [Illegible]
+AFCIN-4E4g
 
-DD FORM: 173-1
+DD: [stamp: MAY 26] 174-1
 
+PAGE 2 OF [illegible] SECURITY CLASSIFICATION INITIALS
+
+[U.S. GOVERNMENT PRINTING OFFICE: 1965—233283]
 
 - page 6 -
 
-JOINT MESSAGEFORM - CONTINUATION SHEET
+JOINT MESSAGEFORM - CONTINUATION SHEET                SECURITY CLASSIFICATION
 
-FROM: COMDR, ATIO
+FROM:
+COMDR, ATIO
 
-4. Cursory plot (Aero Chart, WAC, No. 358) and analysis indicates sun approximately at 45 degrees elevation and to the East; object descending to SW, and over large body of water, all conducive to the refraction of light, and specular reflection of sunlight off some aircraft's fuselage in the distance. (Aero. Rpt. Ref. Area-Well-Known type of reflection bathes an aircraft in a brilliant halo of light generally washing out its wing and tail surfaces - giving it a thin, slender, cylindrical appearance. Gen. Brandt's description of a pencil-like appearance and brilliant, white color tentatively supports this.
+4. Cursory plot (Aero Chart, WAC, No. 358) and analysis
+plus (15) indicates sun approximately at 45 degrees elevation and
+to the East; object descending to SW, and over large body
+of water, all conductive to the refraction of light, and
+specular reflection of sunlight off some aircraft's
+[circled: I.C. B&W Tra.fic Airways - Nat'l 27] (8)79
+fuselage in the distance. This well-known type of
+reflection 'bathes an aircraft in a brilliant halo of light
+generally washing out its wing and tail surfaces - giving
+it a thin, slender, cylindrical appearance. Gen. Brandt's
+description of a pencil-like appearance and brilliant,
+white color tentatively supports this.
 
-5. Checks here with appropriate agency do not indicate any balloons; no reports of any UFOs or anything unusual from radar, AACS, GUC or other units and persons in that area and time. Your checks will probably require military and civil aircraft flight checks for the area. (Par 58, AFR 200-2) Remote possibility of daytime "bolide" being checked out here, but improbable.
+5. Checks here with appropriate agency do not indicate
+any balloons; no reports of any UFOs or anything unusual
+from radar, ACS, GUO or other units and persons in that
+area and time. Your checks will probably require military
+and civil aircraft flight checks for the area. (Par 5g, AFR 200-2)
+Remote possibility of daytime "bolide" being checked out
+here, but improbable.
 
-6. Significant to point out that instead of an electrical report being made of incident for expeditious action, incident was reported by routine 112, without copies to interested agencies, and sole report to ATIC. UFO not reported until 12 July 58, all in general non-conformity with AFR 200-2 for immediate reporting and transmission of UFO sightings. Therefore, report just received this Center.
+6. Significant to point out that instead of an electrical
+report being made of incident for expeditious action,
+incident was reported by routine 112, without copies to
+interested agencies, and sole report to ATIO. UFO not
+reported until 12 July 58, all in general non-conformity
+with AFR 200-2 for immediate reporting and transmission
+of UFO sightings. Therefore, report just received this Center.
 
-AFCIN-4E4g
-PAGE   NR OF
-3       4
-
-DD, MAY 20, 1958 173-1
-
+SYMBOL                PAGE  NO OF  SECURITY CLASSIFICATION         INITIALS
+                      NO    PAGES
+AFOIN-4E34g            3     4
+DD   FORM 173-1                      U. S. GOVERNMENT PRINTING OFFICE: 1955---233548
 
 - page 7 -
 
 JOINT MESSAGEFORM - CONTINUATION SHEET
 
-FROM:
-COMDR, ATIC
+SECURITY CLASSIFICATION
 
-7. It is the understanding of ATIC that Major Gregg P. Nolan, Operations Division, Randolph AFB, Texas can be contacted with regard to any contemplated interview of General Brandt and further information on matters.
+FROM:
+COMDR, ATIO
+
+7. It is the understanding of ATIO that Major Gregg P. Nolan, Operations Division, Randolph AFB, Texas can be contacted with regard to any contemplated interview of General Brandt and further information on matter.
 
 COORDINATION:
-AFOIN-484 [Signature] Date 19 July 58
-AFOIN-45 N. K. Gilbert DATE 19 July 58
-Colonel Gilbert
-AFOIN-4X1 [Signature] DATE 19 July 58
 
-SYMBOL: AFGIN-484S
-PAGE NO: 4
-NO OF PAGES: 4
-DD, MAY 52 173-1
+AFOIN-4B4 [handwritten: Shawmut Miley] DATE [handwritten: 11 July 58]
 
+AFOIN-4B [handwritten: N. K. Gilbert] DATE [handwritten: 15 July 58]
+        Colonel Gilbert
+
+AFOIN-4X1 [handwritten: Arrawsmith] DATE [handwritten: 19 July 58]
+         Mr. Aroler
+
+SYMBOL        PAGE    NR OF   SECURITY CLASSIFICATION        INITIALS
+              NR      PAGES
+AFOIN-4B4g    4       4
+
+DD [illegible] 173-1   © U.S. GOVERNMENT PRINTING OFFICE 1959—683340
 
 - page 8 -
 
-MN RJEDFL
-DE RJEDDN 181
-M 242111Z
+MM RJEDDM
 
-FM COMDR 1006TH AISS
+DE RJEDDM 181
+
+M 2421112
+
+FM COMDR 1026TH AISS
+
 TO COMDR ATIC
 
 BT
-/UNCLAS/FROM AHOP 263/ PD REFERENCE YOUR MESSAGE AFCIN 424 7-1497-3
-USAF DTB 19 JUL 58 PD TELECON BETWEEN 1006TH AISS UO INVESTIGATING
+
+/UNCLAS/FROM AIHOP 263 PD REFERENCE YOUR MESSAGE AFCIN 424 7-1497-Z
+
+USAF DTD 19 JUL 58 PD TELECON BETWEEN 1026TH AISS UO INVESTIGATING
+
 OFFICER AND CAPTAIN SOARD CMM MAJOR GENERAL BRANDTS AIDE CMM REVEALED
+
 FOLLOWING INFORMATION CL N GENERAL BRANDT DEFINITELY DID NOT PLACE UFO
+
 IN THE QUOTE FLYING SAUCER UNQUOTE CATEGORY PD HE REPORTED SIGHTING
+
 SIMPLY AS A ROUTINE INTEREST MATTER ON FOLLOWING BASIS CNS CLN 1
+
 PD UFO MIGHT HAVE BEEN A DAYTIME METEORITE OR 2 PD THE REMOTE
-POSSIBILITY UFO MIGHT HAVE BEEN A FALLING EARTH SATELLITE PD CAPTAIN
+
+POSSIBILITY UFO MIGHT HAVE BEEN A FALLING EARTH SATELLITE PD CAPTAION
+
 SOARD INDICATED THAT GENERAL BRANDT FELT FURTHER INVESTIGATION WAS
+
 COMPLETELY UNWARRENTED PD IN VIEW OF THE ABOVE CIRCUMSTANCES CMM THIS
-SQUADRON CONTEMPLATES NO FURTHER ACTION CMM UNLESS DESIRED BY ATIC PD
+
+SQUADRON CVNTEMPLATE NO FURTHER ACTION CMM UNLESS DESIRED BY ATIC PD
+
 END
+
 BT
-24/2206Z JUL RJEDDN
+
+24/2206Z JUL RJEDDM
 
 NNNN
 
-
 - page 9 -
 
-Here is the text from the document:
-
-Col. SP 9412
+COL. SP 5412
 
 JOINT MESSAGEFORM
 
-SECURITY CLASSIFICATION    UNCLASSIFIED
+SECURITY CLASSIFICATION
 
-PRECEDENCE    ACTION ROUTINE    INFO ROUTINE
-TYPE MSG (Check)    BOOK 1    MULTI    SINGLE
-SYMBOL    AF    ACCOUNTING    ORIG. OR REFS TO    AIHOP    CLASSIFICATION OF REFERENCE    INCL
+UNCLASSIFIED
 
-COMDR, ATIC, 1006TH AISS, ERT AFB, COLORADO SPRINGS, COLO.
+SPACE BELOW RESERVED FOR COMMUNICATION CENTER
 
-INFO: ATCIN-X, HEDSAF, WASHINGTON, D.C.
+PRECEDENCE | TYPE MSG (Chkd) | ACCOUNTING | ORIG. OR REFERS TO | CLASSIFICATION
+ACTION ROUTINE | BOOK MULTI SINGLE | AF | AIHOP | UNCL
+INFO ROUTINE | | | |
 
-/UNCLASSIFIED/FROM: AFCIN-4E4
+FROM: | SPECIAL INSTRUCTIONS
 
-RE YOUR MSG AIHOP, DTD 24 JULY 58, RE YOUR FINDINGS DURING PRELIMINARY AFY INVESTIGATION OF GEN. BRANDT INCIDENT, RE OUR MSG, ATIC-7-1497-E, 19 JULY 58. IN OFFICIAL RPT TO ATIC PREPARING OFFICER DID NOT INDICATE IN HIS COMMENTS INFO AND GEN BRANDT'S OPINIONS AND VIEWPOINTS AS REVEALED BY YOUR AISS UNITS. AS STRICTLY OFFICIAL UFO REPORT, PLUS UNUSUAL CIRCUMSTANCES SURROUNDING INCIDENT AND OFFICERS RANK, THIS CENTER OBLIGATED TO INITIATE ACTION. NO OTHER REQUIREMENT OTHER THAN OBTAINING, IF POSSIBLE, BRIEF INFO ON GENERAL AIR TRAFFIC ON TRAFFIC AIRWAY RED 27 AND V-97 RUNNING INTO KNOXVILLE FR THE NORTH AT TIME OF INCIDENT. THIS ONLY TO FURTHER SUPPORT OUR ANALYSIS AND EVALUATION. IN VIEW OF DEVELOPMENTS AND FURTHER DATA GIVEN CASE WILL BE CONSIDERED CLOSED. YOUR PROMPT ACTION AND TIME/RESPONSE RE THIS INVESTIGATION APPRECIATED BY THIS CENTER.
+COMDР, ATIC
 
-DATE    28    TIME    1300
-MONTH    JUL    YEAR    1958
+COMDР, 1006TH AISS, ENT AFB, COLORADO SPRINGS, COLO.
 
-TYPED NAME AND TITLE    Headquarters USAF (Incl)
-SIGNATURE    [Signature]
-ORGANIZATION    AFCIN-4E4    TYPED NAME AND TITLE    WALLACE W. GREGORY
-PHONE    6-9216    Captain, USAF
-SECURITY CLASSIFICATION    UNCLASSIFIED    Assistant Administrative Officer
+INFO: AFOIN-X, HEDUSAF, WASHINGTON, D.C.
 
-DD FORM 173    REPLACES DD FORM 175, 1 OCT 49, WHICH WILL BE USED UNTIL EXHAUSTED
+/UNCLASSIFIED/FROM: AFOIN-L24
 
+RE YOUR MSG AIHOP, DID 24 JULY 58, RE YOUR FINDINGS DURING PRELIMINARY INVESTIGATION OF GEN. BRANDT INCIDENT, RE OUR MSG, ATIC-7-1197-E, 19 JULY 58. IN OFFICIAL RPT TO ATIC PREPARING OFFICER DID NOT INDICATE IN HIS COMMENTS INFO AND GEN BRANDT'S OPINIONS AND VIEWPOINTS AS REVEALED BY YOUR AISS UNITS. AS STRICTLY OFFICIAL UFO REPORT, PLUS UNUSUAL CIRCUMSTANCES SURROUNDING INCIDENT AND OFFICERS RANK, THIS CENTER OBLIGATED TO INITIATE ACTION. NO OTHER REQUIREMENT OTHER THAN OBTAINING, IF POSSIBLE, BRIEF INFO ON GENERAL AIR TRAFFIC ON TRAFFIC AIRWAY RED 27 AND V-97 RUNNING INTO KNOXVILLE FR THE NORTH AT TIME OF INCIDENT. THIS ONLY TO FURTHER SUPPORT OUR ANALYSIS AND EVALUATION. IN VIEW OF DEVELOPMENTS AND FURTHER DATA GIVEN CASE WILL BE CONSIDERED CLOSED. YOUR PROMPT ACTION AND IMMEDIATE RESPONSE RE THIS INVESTIGATION APPRECIATED BY THIS CENTER.
+
+| DATE | TIME
+| 28 | 1300
+| MONTH | YEAR
+| JUL | 1958
+
+SYMBOL | SIGNATURE
+
+AFCIN-L [handwritten signature] | [handwritten signature]
+
+W | TYPED NAME AND TITLE (Signature) [handwritten] | TYPED (or stamped) NAME AND TITLE
+CAPTAIN GEORGE A. GREGORY | WALLACE W. ELWOOD
+R | PHONE [illegible] PAGE 1 | Captain, USAF
+| SECURITY CLASSIFICATION | Assistant Administrative Officer
+| UNCLASSIFIED |
+
+DD FORM 173 | REPLACES DD FORM 179, 1 OCT 49, WHICH WILL BE USED UNTIL EXHAUSTED
+MAY 58 |
 
 - page 10 -
 
-Here is the text from the document:
-
 JOINT MESSAGEFORM - CONTINUATION SHEET
 
-SECURITY CLASSIFICATION: UNCLASSIFIED
+SECURITY CLASSIFICATION
+UNCLASSIFIED
+
+FROM:
+
+AFOIN-4EL
 
 COORDINATION:
-AFOIN-142     Jlo. Miley    Date 9 July 58
-AFOIN-14      R. McArthur   Date 7/28/58
-AFOIN-LXA     Capt. Gilbert Date 7/28/58
-              Chris Carroll Date 7/28/58
-              Mr. Arcier
 
-SYMBOL: AFOIN-142
+AFOIN-4EL [handwritten: Jack milley] Date[handwritten: 6-27-58]
+AFOIN-4E [handwritten: [illegible]] Date [handwritten: 7/26/57]
+AFOIN-4XQ [handwritten: Col. Gilbert] Date [handwritten: 7/2/[illegible]]
+                Mr. Archer
 
-DD FORM 173-1    MAY 56    PAGE 2 of 2 pages    SECURITY CLASSIFICATION: UNCLASSIFIED
+SYMBOL | PAGE | NR OF | SECURITY CLASSIFICATION | INITIALS
+        |      | PAGES |                         |
+AFOIN-4EL | 2 | 2 | UNCLASSIFIED | [handwritten signature]
 
+DD. FORM 173-1
+MAY 58
+
+U.S. GOVERNMENT PRINTING OFFICE: 1958—682834
 
 - page 11 -
 
-Here is the text from the document:
+[stamp: SECURITY CLASSIFIE N]
 
 JOINT MESSAGEFORM
 
-PRECEDENCE
-ACTION
-INFO
+SPACE BELOW RESERVED FOR COMMUNICATION CENTER
 
-PRIORITY
-ROUTINE
-
-FROM:
+PRECEDENCE TYPE MSG (Check) ACCOUNTTING SYMBOL REFER TO CLASSIFICATION OF REFERENCE
+ACTION PRIORITY ROUTINE MULTI SINGLE AIR AP SEWART AFB, TENN UNCL
+INFO ROUTINE
+FROM: SPECIAL INSTRUCTIONS
 
 COMDR, ATIC
 
-TO:
+TO: COMDR, 100RTH AISS, ENT AFB, COLO SPRINGS
 
-COMDR, 1006TH AISS, ENT AFB, COLO SPRINGS
-INFOS AFCIN-X, HEADQUARTERS, USAF, WASHINGTON, D.C.
-UNCLASSIFIED/AFCIN-424                 7-1997-E
+INFO: AFCIN-X, HEADQUARTERS, USAF, WASHINGTON, D.C.
 
-1. UFO observed by Major General Carl A. Brandt, 563A, 
-Vice Commander, ATC, is subject. Reference IR-58-1, S146, 
+UNCLASSIFIED/AFCIN-4E4 7-/497-E
+
+1. UFO observed by Major General Carl A. Brandt, 563A,
+Vice Commander, ATC, is subject. Reference IR-58-1, 314th
 TCW(M), Sewart AFB, Tenn, dated 12 July 1958.
 
-2. In accordance with par. 60, AFR 200-2, dtd 8 Feb 58, 
-request full investigation of this sighting to obtain 
-additional data towards resolving incident. Information 
-and data of initial report insufficient and therefore 
-dictates such requirement. Consideration is also given 
-to rank and status of observer, and distinct possibility 
-that this could be test of capability of applicable units 
+2. In accordance with par. 6c, AFR 200-2, dtd 8 Feb 58,
+request full investigation of this sighting to obtain
+additional data towards resolving incident. Information
+and data of initial report insufficient and therefore
+dictates such requirement. Consideration is also given
+to rank and status of observer, and distinct possibility
+that this could be test of capability of applicable units
 involved in UFO sightings.
 
 3. Pertinent data to assist investigations:
-    a. Object of undeterminate shape, brilliant white, 
-    size and appearance all ghtly smaller than pencil. Left 
+   a. Object of undeterminate shape, brilliant white,
+   size and appearance slightly smaller than pencil. Left
 
-DATE            TIME
-19             0930
-MONTH          YEAR
-JULY           1958
+DATE TIME
+10 0930
+MONTH YEAR
+JULY 1958
 
-TYPED NAME AND TITLE (Signature, if required)
-GEORGE A. GREGORY, CAPT, USAF
+SYMBOL SIGNATURE
+AFCIN-4E4g
 
-DD FORM 173 REPLACES DD FORM 178, 1 OCT 46, WHICH WILL BE USED UNTIL EXHAUSTED
+TYPED NAME AND TITLE (Signature, if required) TYPED (or stamp) NAME AND TITLE
+GEORGE T. GREGORY, CAPT, USAF
+PHONE PAGE HR. OF
+5-0216 3 PAGES
 
+SECURITY CLASSIFICATION
+
+FORM 173 REPLACES DD FORM 173, 1 OCT 58, WHICH WILL BE USED UNTIL EXHAUSTED
+DD, MAY 58
 
 - page 12 -
 
-Estimate of size of Object on Basis of Data given by Gen. Garland (See TR-58-1, 314 TCW)
+Estimate of Size of Object on Basis of Data
+given by Gen. Lamadtt (See IR-58-1, 3/9 TCW)
 
-1) Size of obj. approx. length = 2ft. approx. width = 1½ inches (.125 in.) approx. (GV)
+(1) Size of obj stomach length = 2 ft. yes width = 14 inches (.125 in.) (wht.boy.
+         [illegible])
 
-2) Distance Plotted = 50 statute miles (6,160,000 inches)
+(2) Distance Plotted = 50 statute miles=(6,108,000 inches)
 
-3) S/.125 x 1/D = 396,000 / 3,168,000 = 16,500 inches (Est. size GV)
-   24                   21
+(3) S/D = .125/29 = X/3,108,000 = 396,000/29 = 16,500 inches (est. size of obj
+    (straight)
 
-4) 16,500 ÷ 12 = 1,375 feet long ! of actual sight
+(4) 16500 ÷ 12 = 1375 feet long ! If actual obj disk
+    ⎯⎯⎯⎯
 
-(Estimate/Size of Object Here -)
+416
 
-419
+(Estimate/Size of Object Here —)
 
-There is also a hand-drawn sketch on the top right of the document, which appears to be a rough diagram of an object with some lines and geometric shapes.
-
+[handwritten marginalia at top right, largely illegible but includes partial text: "Omega (Gross[illegible]..." and other notes]
 
 - page 13 -
 
-JOINT MESSAGEFORM - CO. MUATION SHEET
+JOINT MESSAGEFORM - CO .NUATION SHEET
+
+SECURITY CLASSIFICATION
 
 FROM:
-DOWDS, ATIO
+DOMDR, ATIC
 
-a. Brilliant white streak. No apparent sounds.
+Brilliant white streak. No apparent sound.
 
-b. Location of observer: 37-10 North, 83-12 West, approx. 10 miles South of Hazard, Virginia.
+b. Location of observer: 37-10 North, 85-12 West, Approx. 10 miles South of Hasard, Virginia.
 
-c. Location of UFO: 58-28 North, 88-52 West, in vicinity of Norris Reservoir, North of Knoxville, Tenn.
+c. Location of UFO: 36-26 North, 85-22 West, in vicinity of Norris Reservoir, North of Knoxville, Tenn.
 
-d. UFO observed from T-29 at 12,000 ft. while on 280 degree heading, TAS 206 knots. Destination - Randolph Field, Texas.
+d. UFO observed from T-29 at 12,000 ft. while on 260 degree heading, TAS 205 knots. Destination - Randolph Field, Texas.
 
-e. First observed at 215 degrees Magnetic, elevation 50 degrees.
+e. First observed at 215 degrees Magnetic, elevation 30 degrees.
 
 f. Last observed: 215 degrees, elevation 20 degrees.
 
 g. Object in sight for only 2 to 3 seconds. Was in a straight descending flight path.
 
-h. Time and date: 1585Z, 22 June 1958, i.e. 0956 hrs EST, Daylight.
+h. Time and date: 1556Z, 22 June 1958, i.e. 0956 hrs EST, Daylight.
 
-i. Weather data: Determined ceiling and visibility at Knoxville Municipal Airport 2000 scattered, 2300, overcast, 9 miles visibility. Winds, general West-Northwest from 6000 to 50,000 ft. According to report, Gen. Brandt states he was looking at thunderstorms when UFO observed. Apparently thunderstorm in area of UFO observation.
+i. Weather data: Determined ceiling and visibility at Knoxville Municipal Airport 2000 scattered, 2300, overcast, 9 miles visibility. Winds, general West-North West from 6000 to 50,000 ft. According to report, Gen. Brandt states he was looking at thunderstorms when UFO observed. Apparently thunderstorm in area of UFO observa- tion.
 
-j. Preparing officer: Kenneth W. Boothe, 2nd Lt. Intelligence Officer, Sewart AFB, Tenn. who made no statements or comments re probable cause of sighting.
+j. Preparing officer: Kenneth W. Boothe, 2nd Lt. Intelligence Officer, Stewart AFB, Tenn. who made no statements or comments re probable cause of sighting.
 
-AFOIN-4E4g
-DD, FORM 173-1
+SYMBOL          PAGE    NO OF    SECURITY CLASSIFICATION        INITIALS
+                        PAGES
+AFCIN-4E4g      2       6
 
+DD FORM MAY 66 173-1        U.S. GOVERNMENT PRINTING OFFICE: 1963—621144
 
 - page 14 -
 
-JOINT MESSAGEFORM - CO. AVIATION SHEET
+JOINT MESSAGEFORM - CO .AVIATION SHEET          SECURITY CLASSIFICATION
 
-FROM: COMDR, ATIC
+FROM:
 
-4. Cursory plot (Aero Chart, WAC, No. 368) and analysis indicates sun approximately at 45 degrees elevation and to the East, object descending to SW, and over large body of water, all conducive to the refraction of light, and specular reflection of sunlight off some aircraft fuselage in the distance. i.e. Prob dir - 167-347. While well-known type of reflection bathes an aircraft in a brilliant halo of light - generally washing out its wing and tail surfaces - giving it a thin, slender, cylindrical appearance. Gen. Brandt's description of a pencil-like appearance and brilliant, white color tentatively supports this.
+COMDR, ATIO
 
-5. Checks here with appropriate agency do not indicate any balloons; no reports of any UFOs or anything unusual from radar, AACS, GOC or other units and persons in that area and time. Your checks will probably require military and civil aircraft flight checks for the area. (Par 5g, AFR 200-2) Remote possibility of daytime "bolide" being checked out here, but improbable.
+4. Cursory plot (Aero Chart, WAC, No. 389) and analysis
+[handwritten: circled number with notation]
+indicates sun approximately at 45 degrees elevation and
+to the East; object descending to SW, and over large body
+of water, all conducive to the refraction of light, and
+specular reflection of sunlight off some aircraft's
+[handwritten: marking on text]
+fuselage in the distance. This well-known type of
+reflection bathes an aircraft in a brilliant halo of light
+generally washing out its wing and tail surfaces - giving
+it a thin, slender, cylindrical appearance. Gen. Brandt's
+description of a pencil-like appearance and brilliant,
+white color tentatively supports this.
 
-6. Significant to point out that instead of an electrical report being made of incident for expeditious action, incident was reported by routine 112, without copies to interested agencies, and sole report to ATIC. UFO not reported until 12 July 58, all in general non-conformity with AFR 200-2 for immediate reporting and transmission.
+5. Checks here with appropriate agency do not indicate
+any balloons; no reports of any UFOs or anything unusual
+from radar, AACS, GOC or other units and persons in that
+area and time. Your checks will probably require military
+and civil aircraft flight checks for the area. (Par 5g, AFR 200-2)
+Remote possibility of daytime "bolide" being checked out
+here, but improbable.
 
-AEGLEN/AG
-DD, MAY 26 1973-1
+6. Significant to point out that instead of an electrical
+report being made of incident for expeditious action,
+incident was reported by routine 112, without copies to
+interested agencies, and sole report to ATIO. UFO not
+reported until 12 July 58, all in general non-conformity
+with AFR 200-2 for immediate reporting and transmission
 
+[handwritten strikethrough text at bottom - illegible]
+
+                                                          INITIALS
+DD. FORM 173-1
+MAY 65
+
+U.S. GOVERNMENT PRINTING OFFICE: 1085—682838
+
+ATIO-174-
 
 - page 15 -
 
-JOHN MESSAGEFORM - CONTINUATION SHEET
+JOIN MESSAGE FORM - CONTINUATION SHEET
 
-COMDR, ATIC
+SECURITY CLASSIFICATION
 
-7. It is the understanding of ATIC that Major Gregg P. Nolan, Operations Division, Randolph AFB, Texas can be contacted with regard to any contemplated interview of General Brandt and further information on matter.
+FROM:
+COMDL, ATIO
+
+9. It is the understanding of ATIO that Major Gregg F.
+Nolan, Operations Division, Randolph AFB, Texas can be
+contacted with regard to any contemplated interview of
+General Brandt and further information on matter.
 
 COORDINATION:
-AFOIN-484    [Signature]    DATE 19 July 58
-AFOIN-48     Colonel Gilbert    DATE
-AFOIN-4X1    Mr. Arcier    DATE 19 July
 
-[Bottom of form details]
-PAGE NO 4
-NO OF PAGES 4
-SYMBOL AFOIN-4X4r
-DD FORM 173-1
+AFCIN-4E4 [handwritten: Beverly Finley DATE 12 JUL 58]
 
+AFCIN-4E [handwritten: Colonel Gilbert DATE] [handwritten: Original signed by Col Taylor per call of Maj Taylor]
+
+AFCIN-4x1 [handwritten: Knoxville] DATE [handwritten: 19 July]
+Mr. Aroler
+
+SYMBOL                PAGE    NR OF    SECURITY CLASSIFICATION              INITIALS
+                      NO      PAGES
+
+AFCIN-4E4c            4       4
+
+DD [handwritten: 173-1]        U.S. GOVERNMENT PRINTING OFFICE: 1968---[illegible]
 
 - page 16 -
 
 RJEDSQ/COMDR ATIC WPAFB
-RJEDDNV/COMDR ADC ENT AFB
-INFO RJEPNB/COMDR EADF STEWART AFB
+
+RJEDDN/COMDR ADC ENT AFB
+
+INFO RJEFNB/COMDR EADF STEWART AFB
+
 BT
+
 /UNCLAS/628-06 SUBJECT:UNIDENTIFIED FLYING OBJECTS (UFO)
 
-A. DESCRIPTION:
+A. DESCRIPTIONS
+
 (1) UNK
+
 (2) UNK
+
 (3) UNK
+
 (4) 1
+
 (5) N/A
+
 (6) UNK
+
 (7) UNK
+
 (8) UNK
+
 (9) UNK
 
+[handwritten: Insufficient info Refer base]
+
 B. DESCRIPTION OF COURSE:
+
 (1) UNK
+
 (2) 30 DEG 30 DEG LEFT OF A/C
+
 (3) 30 DEG 30 DEG LEFT OF A/C
+
 (4) MOVING PERPENDICULAR TO SURFACE OF EARTH
+
 (5) SAME AS (4) ABOVE
+
 (6) (2) TWO SECONDS
 
 C. MANNER OF OBSERVATION:
+
 (1) AIR-VISUAL FROM A T-29 TYPE A/C
+
 (2) NONE
+
 (3) T-29, AF33492, 10,000, 260 DEG, UNK RANDOLPH, AFB, TEX
 
 D. TIME AND DATE OF SIGHTING:
+
 (1) 22/1610Z
+
 (2) DAY
 
 E. LOCATION OF OBSERVER (S):
-53 DEG 15' W, 37 DEG 10' N
+
+83 DEC 15' W, 37 DEG 10' N
+
 (DALEY INTERSECTION V-140, V-53)
 
 F. IDENTIFYING INFORMATION ON OBSERVER(S):
 
-
 - page 17 -
 
 (1) N/A
-(2) MAJ. [illegible text] USAF RANDOLPH AFB, TEX.
 
-G. WEATHER & WINDS-ALOFT CONDITION TIME & PLACE OF SIGHTING
+(2) MAJ. [redacted] USAF RANDOLPH AFB, TEX.
+
+G. WEATHER & WINDS-ALOFT CONDITION TIME & PLACE OF SIGHTING:
+
 (1) FAIR
+
 (2) SURFACE- 045 DEG 12 KT
-    6,000 - 320 DEG 5 KT
+    6,000 -320 DEG 5 KT
     10,000 - 270 DEG 17 KT
     16,000 - 270 DEG 35 KT
     20,000 - 270 DEG 42 KT
     30,000 - 270 DEG 82 KT
+
 (3) UNLTD
+
 (4) UNLTD
+
 (5) NONE
+
 (6) NONE
 
 H. NONE
+
 I. NONE
+
 J. NONE
-K. JOSEPH F. PODVOJSKI CAPT. USAF SENIOR CONTROLLER
-    NONE
+
+K. JOSEPH F. PODVOJSKI CAPT. USAF SENIOR CONTROLLER [handwritten signature in oval]
+   NONE
+
 L. NONE
+
 BT
+
 22/1903Z JUN RJEDFL
 
 NNNN
 
-
 - page 18 -
 
-Here is the text from the document:
+[handwritten: 1556 Z
+22 Sun]
 
-15562
-22 Jun
+[handwritten: RED REPORT]
 
-PP RJDDN RJEDS RJEPKO RJESPP
-DE RJUTDL ACB
-P 232362Z
-FM CONDR 3516TH FLYTRANG
-TO RJESPP/COMDR STEWART AFB
+[handwritten: JUN 21
+123]
+
+[handwritten: 2 4/E 4
+3[illegible]
+4 x 2 2
+OMC]
+
+[stamp: TELEPHONED
+TO [illegible]
+NO. [illegible]
+TIME [illegible]
+DATE [illegible]
+By: [illegible]]
+
+20 JUN 07 40
+
+SOFGAD YDB286 WYC636 WHB88DLCQ81
+
+PP RJEDDN RJEDSO RJEPHO RJESSP
+
+DE RJUFDL 468
+
+P 2322382
+
+FM COMDR 351STH FLYTRANG
+
+TO RJESSP/COMDR SEWART AFB
+
 INFO RJEDDN/COMDR AIR DEFENSE COMMAND ENT AFB
-RJEDS/COMDR AIR TECH INTELLIGENCE CENTER WPAFB
+
+RJEDSQ/COMDR AIR TECH INTELLIGENCE CENTER WFAFB
+
 RJEPHO/ASSISTANT CHIEF OF STAFF INTELLIGENCE HQ USAF
+
 RJEPHO/OFFICE OF INFORMATION SERVICES HQ USAF
 
+BT
+
 UNCLAS FROM OPO 554F.
+
 UFO. THE FOLLOWING DATA IS SUBMITTED FOR YOUR REPORT IN ACCORDANCE
-WITH PARAGRAPH 4A, AFR 200-2. A. DESCRIPTION OF OBJECTS (1) SHAPE
-UNDETERMINED, (2) APPEARED TO BE SIZE SLIGHTLY SMALLER THAN A
-PENCIL, (3) BRILLIANT WHITE COLOR, (4) ONE OBJECT, (5) NO
-DISCERNIBLE DETAILS, (6) BRILLIANT WHITE STREAK WITH NO RESIDUAL
-TRAIL REMAINING, (7) NO SOUND. B. DESCRIPTION OF COURSE OF
+
+WITH PARAGRAPH 4A, AFR 200-2. A. DESCRIPTION OF OBJECT: (1) SHAPE
+
+UNDETERMINED. (2) APPEARED TO BE SIZE SLIGHTLY SMALLER THAN A
+
+PENCIL. (3) BRILLIANT WHITE COLOR. (4) ONE OBJECT. (5) NO
+
+DISCERNIBLE DETAILS. (6) BRILLIANT WHITE STREAK WITH NO RESIDUAL
+
+TRIAL REMAINING. (7) NO SOUND. B. DESCRIPTION OF COURSE OF
+
 OBJECT. (1) OBSERVER WAS LOOKING AT A THUNDERSTORM WHEN HE
-OBSERVED OBJECT ABOVE THUNDERSTORM, (2) ANGLE OF ELEVATION WAS 30
-DEGREE AND A RELATIVE BEARING OF 215 DEGREE MAGNETIC ABOUT 30.
 
-Note: handwritten notes at bottom right include "Note! No residue trail - typical characteristics of a true material"
+OBSERVED OBJECT ABOVE THUNDERSTORM. (2) ANGLE OF ELEVATION WAS 50
 
+DEGREE AND A RELATIVE BEARING OF 245 DEGREE MAGNETIC ABOUT 50
+
+[handwritten: Note: Normalize
+trail-space
+characteristics of a
+time interval]
+
+[handwritten: NOTE:]
+
+[handwritten signature: illegible]
 
 - page 19 -
 
-NAUTICAL MILES TO THE SOUTH, (3) ANGLE OF ELEVATION OF ABOUT 28 DEGREE
-ON A RELATIVE BEARING ON 212 DEGREE MAGNETIC. (4) FLIGHT PATH WAS A
-STRAIGHT DESCENDING LINE, (5) INSTANTANEOUSLY TO THE SOUTH. (6) OBJECT
-WAS VISIBLE FOR 2 TO 3 SECONDS. (7) ADDED OBSERVER STATED HE
-MEASURED THE APPEARANCE OF THE OBJECT AS BEING TWO FINGER WIDTHS AT ARMS
+NAUTICAL MILES TO THE SOUTH. (3) ANGLE OF ELEVATION OF ABOUT 20 DEGREE
+ON A RELATIVE BEARING OF 219 DEGREE MAGNETIC. (4) FLIGHT PATH WAS A
+STRAIGHT DESCENDING LINE. (5) INSTANTANEOUSLY TO THE SOUTH. (6) OBJECT
+WAS VISIBLE FOR 2 TO 3 SECONDS. (7) ADDED: OBSERVER STATED HE
+MEASURED THEAPPEARANCE OF THE OBJECT AS BEING TWO FINGER WIDTHS AT ARMS
 LENGTH ABOVE THE TOPS OF THE CUMULUS CLOUD. IT DISAPPEARED ABOUT
 ONE FINGER WIDTH ABOVE CLOUD. THE LOCATION WAS CLOSE TO KNOXVILLE,
 TENN. C. MANNER OF OBSERVATION. (1) AIR VISUAL. (2) NO OPTICAL AIDS.
-(3) T-29, SN: 533492, 12,688 ALTITUDE, 269 DEGREE MAGNETIC HEADING,
-295K TRUE AIR SPEED, RANDOLPH AFB, TEXAS. D. TIME AND DATE OF 22 ACTUALLY
-1526, 29 JUNE 1958. (2) DAYLIGHT. (3) OVER
-DAILY INTERSECTION AT 12,688 FEET ON AIRWAY 140. E. LOCATION
-OF OBSERVER: DAILY INTERSECTION ON V-168, 83 DEGREE 12 FEET WEST,
-37 DEGREE 38 FEET NORTH OBJECT IN VICINITY OF KNOXVILLE, TENN.
+(3) F-29, SN: 535492, 12,000 ALTITUDE 260 DEGREE MAGNETIC HEADING,
+205K TRUE AIR SPEED, RANDOLPH AFB, TEXAS. D. TIME AND DATE OF N.C. CLEARLY
+SIGHTING: (1) 1402Z, 22 JUNE 1958. (2) DAYLIGHT. (3) OVER ALMOST DUE WEST
+DALY INTERSECTION AT 12,000 FEET ON VAIRWAY 140, E. LOCATION
+OF OBSERVER: DALY INTERSECTION ON V-140, 83 DEGREE 12 FEET WEST;
+37 DEGREE 18 FEET NORTH OBJECT IN VICINITY OF KNOXVILLE, TENN.
 (83 DEGREE 52 FEET WEST, 36 DEGREE 28 FOOT NORTH). F. MAJOR GENERAL
-[REDACTED] ATC, COMPLETELY RELIABLE.
-G. WEATHER DATA: WINDS ESTIMATED 6,888-328 DEGREE -19K;
-18,888 -278 DEGREE -15 K; 16,888-288 DEGREE -35K; 28,888-278 DEGREE -68K;
-48K; 38,888-278 DEGREE -88K; 58,888-278 DEGREE -88K;
-58,888-NONE REPORTED. CEILING AND VISIBILITY AT KNOXVILLE
+[redacted] ATCJ COMPLETELY RELIABLE.
+G. WEATHER DATA: WINDS ESTIMATED: 6,000-320 DEGREE -10KJ
+18,000 -270 DEGREE -15 KJ 16,000-250 DEGREE -35KJ 28,000-270 DEGREE
+40KJ 30,000-270 DEGREE -80KJ 50,000-270 DEGREE -80KJ;
+60,000-NONE REPORTED. CEILING AND VISIBILITY AT KNOXVILLE
 
-1- 2-3 seconds
-2- Brilliant white streak
-3- no sound
-4- no residual trail
+[handwritten:
+1 - 2-3 AC winds
+2 - one at ALO SHR L
+3 - 2 sound
+4 - no second time
+(Pub. Meter to) Typically 2
+(Part ASTRO) Affected is
+]
 
-[Handwritten notes: Prob. Meteor(s) Prob. ASTRO]
-
-MUNICIPAL AIRPORT 2,688 SCATTERED -2588 OVERCAST, 9 MILES
-VISIBILITY, WIND NORTHEAST AT 15 KNOTS, NO THUNDER STORMS REPORTED.
+PAGE THREE RJWFDL 46B
+MUNICIPAL AIRPORT 2,000 SCATTERED -2300 OVERCAST, 9 MILES
+VISIBILITY, WIND NORTHEAST AT 15 KNOTS; NO THUNDER STORMS REPORTED.
 H. NO OTHER DATA AVAILABLE. CONTACT MAJOR GREGG P. NOLEN, JR.,
 OPERATIONS DIVISION, RANDOLPH AFB, TEX., FOR FURTHER INFORMATION.
-
 
 - page 20 -
 

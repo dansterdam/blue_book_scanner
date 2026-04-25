@@ -1,25 +1,23 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE
-30 December 1962
+1. DATE: 30 December 1962
 
-2. LOCATION
-02.18N 162.09W (Pacific)
+2. LOCATION: 02.18N 182.09W (Pacific)
 
 3. DATE-TIME GROUP
-Local
-GMT        31/0505Z
+Local: <blank>
+GMT: 31/0505Z
 
 4. TYPE OF OBSERVATION
-XX Ground-Visual     □ Ground-Radar
-□ Air-Visual         □ Air-Intercept Radar
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
 
 5. PHOTOS
-□ Yes
-XX No
+[ ] Yes
+[X] No
 
 6. SOURCE
-Meriatt USS Matagorda
+Merint USS Matagorda
 
 7. LENGTH OF OBSERVATION
 not rptd
@@ -27,427 +25,551 @@ not rptd
 8. NUMBER OF OBJECTS
 one
 
-9. BRIEF SUMMARY OF SIGHTING
-Small bright obj w/ 2nd mag observed
-at 39 dgr elevation on course of 055
-dgr true. Visible without optical
-aids. Possible satellite. 50 per cent
-cloud coverage. High stratus.
+9. COURSE
+055 dgr
 
 12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-□ Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-XX Other, Satellite
-□ Insufficient Data for Evaluation
-□ Unknown
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other: Satellite
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+small bright obj with 2nd mag observed at 39 dgr elevation on course of 055 dgr true. Visible without optical aids. Possible satellite. 50 per cent cloud coverage. High stratus.
 
 11. COMMENTS
-ECHO data not available; however,
-all indications are that the obj
-was a satellite.
+ECHO data not available; however, all indications are that the obj was a satellite.
 
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
 No Case (Information Only)                12 December 1962
-Kent, Ohio
+                                                     Kent, Ohio
 
-KENT, OHIO Dec. 12, 1962 6:00 PM A woman from Twin Lakes called the Kent Record-Courier. She spotted a large white light, which changed to a bluish-white as it neared the earth. It appeared to be dropping into the wooded area between Lake St. & University hts. The light dropped to the earth in about 5 seconds.
 
+KENT, OHIO Dec. 12, 1962 6:00 PM A woman from Twin Lakes called the Kent Record-Courier. She spotted a large white light, which changed to a bluish-white as it neared the earth. It appeared to be dropping into the wooded area between Lake st. & University hts. The light dropped to the earth in about 5 seconds.
 
 - page 2 -
 
-Here is the text from the document:
+No Case (Information Only)                    18 December 1962
+                                                       Milan, Italy
 
-No Case (Information Only)                                   18 December 1962
-                                                              Milan, Italy
 
-Source: APRO Bulletin July 1963
+Source: APRO Bulletin  July 1963
 
-[Clipped newspaper article titled "Saucer Lands in Italy"]
 
-In the early hours of the 18th of December, 1962, a watchman on duty in the courtyard of a suburban sector in Milan, Italy, reported to police that he had seen a "flying saucer" after it landed in the courtyard. The little probe broke next to the watchman. Then another small man assured the first one back into the ship which took off. Police inquired upon the report, but launched no official investigation. More will be printed on this incident when more details are received.
+Saucer lands in Italy
 
+In the early hours of the 28th of De-
+cember, 1962, a watchman on duty in
+the courtyard of a suburban factory in
+Milan, Italy, reported to police that he
+had seen a 12-foot, 1-inch man climb out
+of a "flying saucer" after it landed in
+the courtyard. The little creature beck-
+oned to the watchman, then another
+small man gestured the first one back
+into the ship which took off. Police
+frowned upon the report, but launched
+an official investigation. More will be
+printed on this incident when more de-
+tails are received.
 
 - page 3 -
 
-Here is the text from the document:
+No Case (Information Only)                    19 December 1962
+                                                        Tacoma-Seattle, Washington
+                                                        (Freeway)
 
-No Case (Information Only)                                   19 December 1962
-                                                    Tacoma-Seattle, Washington
-                                                           (Freeway)
 
 GLOBAL SIGHTINGS:
-ARLO EINSTEIN . . . . . . . . January - 1963
-A mystery object landed in 40 ft. of water and mud near the Midway gravel pit just off the Seattle-Tacoma Freeway on 19 December 1962. Welder John Liedtke, who reported the incident to the State Highway Patrol, said he saw a lot of sparks flying, thought it was a car in trouble. Then the object exploded into a big ball of fire & smoke filled the area. State Patrol Headquarters said there was a perfectly round hole, 15' across in the mud where the object landed. The Seattle Post-Intelligencer, which carried the story, did not elucidate on physical description of the object before it exploded, nor whether or not there was a search for debris in the pit.
+ATIC BULLETIN...............January - 1963
+A mystery object landed in 40 ft of water
+and mud near the Midway gravel pit just
+off the Seattle-Tacoma Freeway on 19 De-
+cember 1962. Welder John Liedtke, who re-
+ported the incident to the State Highway
+Patrol, said he saw a lot of sparks flying,
+thought it was a car in trouble. Then the
+object exploded into a big ball of fire &
+smoke filled the area. State Patrol Head-
+quarters said there was a perfectly round
+hole, 15' across in the mud where the ob-
+ject landed. The Seattle Post-Intelligencer, which carried the story, did not elucidate on physical description of the object before it exploded, nor whether or
+not there was a search for debris in the
+pit.
 
-UFO In Gravel Pit
-A mystery object landed in 40 feet of water and mud near the Midway gravel pit just off the Seattle-Tacoma Freeway on 19 December 1962. Welder John Liedtke, who reported the incident to the State Highway Patrol, said he saw a lot of sparks flying, thought it was a car in trouble. Then the object exploded into a big ball of fire and smoke filled the area. State Patrol Headquarters said there was a perfectly round hole, 15 feet across in the mud where the object landed. The Seattle Post-Intelligencer, which carried the story, did not elucidate on physical description of the object before it exploded, nor whether or not there was a search for debris in the pit.
 
+UFO In Gravel Pit                                      NO
+
+A mystery object landed in 40 feet of
+water and mud near the Midway gravel
+pit just off the Seattle-Tacoma Freeway
+on 19 December 1962. Welder John Liedtke, who reported the incident to the
+State Highway Patrol, said he saw a lot
+of sparks flying, thought it was a car in
+trouble. Then the object exploded into a
+big ball of fire and smoke filled the area.
+State Patrol Headquarters said there was
+a perfectly round hole, 15 feet across in
+the mud where the object landed. The
+Seattle Post-Intelligencer, which carried
+the story, did not elucidate on physical
+description of the object before it exploded, nor whether or not there was a
+search for debris in the pit.
 
 - page 4 -
 
-No Case (Information Only)                19 December 1962
-Seattle, Washington
+No Case (Information Only)     19 December 1962
+                                         Seattle, Washington
 
-MRS. BRIGGS: On December 19th a mystery object, which exploded in to a dark mudpit of fire, landed in 100 feet of mud and water near a gravel pit in the vicinity of Seattle, Washington. A welder at the gravel pit reported the sighting to state police, and stated: "I saw all those sparks flying and the only thing I could think of was that a car was in trouble. Then it exploded into a big ball of fire and the area was covered with thick smoke." The police said that they found a perfectly round hole, 15 feet in diameter, in the mud where the object landed.
 
+[handwritten: 1962]
+
+MRS PRIFFS: On December 19th a mystery object, which exploded in-
+to a dark ball of fire, landed in 50 feet of mud and water near a gravel
+pit in the vicinity of Seattle, Washington. A welder at the gravel pit report-
+ed the sighting to state police, and stated: "I saw all those sparks flying
+and the only thing I could think of was that a car was in trouble. Then it ex-
+ploded into a big ball of fire and the area was covered with thick smoke." The
+police, said that they found a perfectly round hole, 15 feet in diameter, in
+the mud where the object landed...
 
 - page 5 -
 
-No Case (Information Only)                                   20 December 1962
-                                                                       Milan, Italy
+No Case (Information Only)          20 December 1962
+                                              Milan, Italy
 
-"LITTLE MEN" SIGHTED IN ITALY: A policeman in Milan, Italy, claims to have seen a saucer with the humanoids inside it, just before he went off duty on the night of December 20th. The policeman, named Francesco Rizzi, made the following statement to me. It came from a flying saucer which had an aluminum-colored appearance. I saw two strange-looking inhabitants inside. They were not more than three feet tall, and were dressed in luminous clothing, with strange black helmets on their heads. One of them came out of the saucer and gestured to his companion, and then got back into the saucer, which then took off vertically.
 
-The first creature looked at me for a moment, who appeared in the hatchway, and then got back into the saucer, which then took off vertically.
+[handwritten: 1262]
 
+"LITTLE MEN" SIGHTED IN ITALY: A policeman in Milan, Italy, claims
+to have seen a saucer with two humanoids inside it, just before he went off
+duty on the night of December 20th. The policeman, named Francesco Rizzi, made
+the following statement: "I was in a patio when I heard a sharp whistling near
+me. It came from a flying saucer which had an aluminum-colored appearance. I
+saw two strange-looking creatures inside it. They were not more than three or
+four feet tall, and were dressed in luminous clothing, with strange black helmets
+on their heads. One of them came out of the saucer and gestured to his compan-
+ion, who appeared in the hatchway. The first creature looked at me for a mo-
+ment and then got back into the saucer, which then took off vertically."
 
 - page 6 -
 
-No Case (Information Only)                                22 December 1962
-                                                                   Buenos Aires, Argentina
+No Case (Information Only)                22 December 1962
+                                                    Buenos Aires, Argentina
 
-BIG "SAUCER 'FLAP'" CONTINUES IN ARGENTINA: The sensational South American "flap" described in our December issue is still continuing in Argentina, according to the latest Spanish-language articles we have received from our clipping services.
 
-Of the sightings pertaining to the month of December, the most interesting occurred at an airport near Buenos Aires on the 22nd of that month. At 3 a.m. a Panagra airliner approaching the International Airport of Ezeiza radioed the control tower to ask about a strange light near the runway. At almost exactly the same time, the UFO was noticed by the pilot of another plane that was about to take off. The control tower operator, named Horacio Alora, also saw the object, and described it as being "the color of fire, and of great brightness." It rose to about 10 yards above the ground, hovered there for a few seconds, and finally took off at great speed toward the northeast. The sighting was confirmed by a second control tower operator named Mario Pastrano.
+BIG SAUCER "FLAP" CONTINUES IN ARGENTINA: The sensational South American "flap" described in our December issue is still continuing in Argentina, according to the latest Spanish-language articles we have received from our clipping service.
 
+Of the sightings pertaining to the month of December, the most interesting occurred at an airport near Buenos Aires on the 22nd of that month. At 3 a.m. a Panagra airliner approaching the International Airport of Ezeiza radioed the control tower to ask about a strange light near the runway. At almost exactly the same time, the UFO was noticed by the pilot of another plane that was about to take off. The control tower operator, named Horacio Alora, also saw the object, and described it as being "a pillar of fire, with a great brightness." It rose to about 10 yards above the ground, hovered there for a few seconds, and finally took off at great speed toward the northeast. The sighting was confirmed by a second control tower operator named Mario Pessuto.
 
 - page 7 -
 
 APRO-May, 1963
-ARGENTINA-BUENOS AIRES-12/23/62-12 P.M.
+ARGENTINA-BUENOS AIRES-12/23/62..12 PM.
 A glowing football-shaped object sat down
-on the runway at the Ezeiza Int'l Airport. Mr Alora, a technician, and Besutti, tower operator, observed the landing of the unconventional aerial object from the control tower. The object parked approx 1-1/5 mi from the tower. The witness and football shaped.
-
-At the time of the sighting, and Alora were controlling the landing of a Panamerican DC-8, and paid special attention to the object during the landing. Visibility was excellent. When the object left, it ascended vertically at high speed, to an altitude of 1500', then disappeared over the horizon in level flight.
-
+on the runway at the Ezeiza Intl Air-
+port. Mr Alora, a technician, and Ba-
+sutti, tower operator, observed the land-
+ing of the unconventional aerial object
+from the control tower. The object marked
+approx 1-1/5 mi from the tower. The wit-
+nesses described the object as flowing
+and football shaped.
+At the time of the sighting, Alora
+and Alora were controlling the landing of
+a Panamerican DC-8, and paid close at-
+tention to the object during the landing
+of the plane. Visibility was excellent.
+When the object left, it ascended verti-
+cally at high speed, to an altitude of
+1500'; then disappeared over the horizon
+in level flight.
 
 - page 8 -
 
-No Case (Information Only)                                   29 December 1962
-                                                                       Clifton, England
+No Case (Information Only)                    29 December 1962
+                                                       Clifton, England
 
-Stationary Object
 
-The Adelaide Mail on January
-5 reported this strange sighting:
-"The 'saucer' was first sighted
-at 1:30 a.m. today (December 29,
-1962) by Mr. Tom Hoey, a farmer, ten miles from Clifton, Millicent, said the object first appeared as the brightest star in
-the sky, but was closer to the
-earth than the moon.
+Stationary object
+The Adsorbite Mail on January 7 reported this strange sighting:
+"This 'saucer' was first sighted at 1:30 a.m. today (December 29, 1962) by Mr. Tom Hoey, a farmer, ten miles from Clifton, N.E. Hoey said the object first appeared as the brightest star in the sky, but was closer to the earth than the moon.
 
-"It was very large, very
-bright, and was fringed on one
-side by an orange glow, he said.
-At about 2:30 a.m., it seemed to
-move slowly across the sky, then
-slowly away. Then the larger one
-broke away and two smaller ones
-and finally disappeared below the
-horizon. He said, 'This saucer
-light seemed to be quite close.'
+"It was very large, very bright, and was fringed on one side by an orange glow, he said. About 2:50 a.m. a similar object appeared to move slowly away from the larger one, it went away with no sound and made a disappearing slowly below the horizon. He said 'the light seemed to be quite close.'
 
-"Mr. Hoey said he had not
-seen the smaller light return to
-the original object. A Towoomba
-photographer who visited the site
-for a Brisbane newspaper said
-there was definitely something
-there.
+"Mr. Hoey said he had not seen the smaller light return to the original object. A Toowoomba photographer who visited the site for a Brisbane newspaper said there was definitely something there.
 
-"It looked like a shining disc,"
-he said.
+"'It looked like a shining disc,' he said.
 
-"By four o'clock this afternoon
-the object had not moved, but
-cloud cover prevented observers
-from gaining a clear view. The
-R.A.A.F. cannot track the object
-with radar.
+"By four o'clock this afternoon the object had not moved, but cloud cover prevented observation giving a clear view. The R.A.A.F. cannot trace the object with radar.
 
-"A spokesman at the Amberley air base (30 miles from Brisbane) said tonight the R.A.A.F.
-mainly trained surveillance radar
-on objects reported, but the
-Clifton object was too far away.
-The radar, designed for airfield
-approach, had a range to only
-42 miles."
-
+A spokesman at the Amberley air base (30 miles from Brisbane) said tonight the R.A.A.F. usually trained surveillance radar on objects reported, but the Clifton object was too far away. The radar, designed for airfield approach, had a range of only 42 miles."
 
 - page 9 -
 
 1 - 31 JANUARY 1963 SIGHTINGS
 
-DATE    LOCATION                                OBSERVER           EVALUATION
-
-2       Forbes AFB, Kansas                      Military           Astro (METEOR)
-2       Akron, Ohio (Ravenna)                                      INSUFFICIENT DATA
-5       Nantucket Point, Long Island,           Military           Astro (STAR/PLANET)
-         N. Y.
-5       Mayaguana, Bahamas
-7 (DR)  Akron, Ohio
-8       College Park, Maryland                                     AIRCRAFT
-9       West Carrollton, Ohio                                      INSUFFICIENT DATA
-14      Silver Spring, Maryland                                    AIRCRAFT
-17      Ludlow, Massachusetts                                      BALLOON
-19      U3.5W 124.5W (Pacific)                                     Astro (METEOR)
-21      Rockport AFS, Texas                                        INSUFFICIENT DATA
-21      Bellflower, California                                     SATELLITE
-25      Minneapolis, Minnesota                  Military           AIRCRAFT
-29      Loring AFB, Maine                                          INSUFFICIENT DATA
-30      60.37N 11.02 W (North Atlantic) Military                   SATELLITE
-30      Chicago, Illinois                                          AIRCRAFT
-31      33.30N 56.55W (Atlantic)                Military           Astro (METEOR)
+DATE        LOCATION                                    OBSERVER              EVALUATION
+2           \Forbes AFB, Kansas                         Military              Astro (METEOR)
+3           \Akron, Ohio (Ravenna)                                            INSUFFICIENT DATA
+5           \Nantucket Point, Long Island,              
+            N. Y.                                                            
+5           \Mayaguana, Bahamas                         Military              Astro (STAR/PLANET)
+7 (DR)      \Akron, Ohio                                [redacted]            INSUFFICIENT DATA
+8           \College Park, Maryland                     [redacted]            Other (CHAFF)
+9           \West Carrollton, Ohio                      [redacted]            AIRCRAFT
+14          \Silver Spring, Maryland                    [redacted]            AIRCRAFT
+17          \Ludlow, Massachusetts                      [redacted]            BALLOON
+19          \N.55W 124.51W (Pacific)                    [redacted]            Astro (METEOR)
+21          \Rockport AFS, Texas                        [redacted]            INSUFFICIENT DATA
+21          \Bellflower, California                     [redacted]            SATELLITE
+25          \Minneapolis, Minnesota                     [redacted]            AIRCRAFT
+29          \Loring AFB, Maine                          Military              INSUFFICIENT DATA
+30          \60.37N 11.02 W (North Atlantic)            Military              SATELLITE
+30          \Chicago, Illinois                          [redacted]            AIRCRAFT
+31          \33.30N 55.55W (Atlantic)                   Military              Astro (METEOR)
 
 ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
 
-DATE    LOCATION                                SOURCE             EVALUATION
-
-1963    Detroit, Michigan                       Science News Ltr
-Jan     Universe                                News Clipping
-Jan     Bahia Blanca, Argentina
-Jan     Tucuman, Argentina
-1       Canton, Ohio
-3       Cordoba, Tucuman, Argentina
-9       Cuyahoga Falls, Ohio
-14      Canton, Ohio
-17      Puerto Garibaldi, Argentina
-18      Kimberley, South Africa
-21      Solon, Ohio
-23      Arica, Chile
-23      North Royalton, Ohio
-24      Cuyahoga Falls, Ohio
-24      East London, South Africa
-28      Arica, Chile
-28      Durban, South Africa
-28      Shilton, England
-29      Arica, Chile
-30      Ica, Peru
-31      Tucuman, Argentina
-
+DATE        LOCATION                          SOURCE                    EVALUATION
+1963        \Detroit, Michigan                [redacted] (Ltr)
+Jan         \Universe                         Science News Ltr
+Jan         \Bahia Blanca, Argentina          News Clipping
+Jan         \Tucuman, Argentina               "      "
+1           \Canton, Ohio                     "      "
+3           \Cordoba, Tucuman, Argentina      "      "
+9           \Cuyahoga Falls, Ohio             "      "
+14          \Canton, Ohio                     "      "
+17          \Puerto Garibaldi, Argentina      "      "
+18          \Kimberley, South Africa          "      "
+21          \Solon, Ohio                      "      "
+23          \Arica, Chile                     "      "
+23          \North Royalton, Ohio             "      "
+24          \Cuyahoga Falls, Ohio             "      "
+24          \East London, South Africa        "      "
+28          \Arica, Chile                     "      "
+28          \Durban, South Africa             "      "
+29          \Shilton, England                 "      "
+29          \Arica, Chile                     "      "
+30          \Ica, Peru                        "      "
+31          \Tucuman, Argentina               "      "
 
 - page 10 -
 
-AF TIN: 14153 (31 Dec 63) X/eld
+DEPARTMENT OF THE AIR FORCE
+START DISTRIBUTION
 
-INFO: CIN-17, OOP-1, COP-CP-2, SAFG-3, ARMY'2, NSA-7, CMC-8, JCS-35, DIA-10, DIA-QIIC-3, OSD-15, CIA-11 (115)
+AF IN: 14153 (31 Dec 62) X/eld                                                Pg 1 of 2
+
+INFO : OIN-17, OOP-1, OOP-OP-2, AFSS-2, ARMY-2, NSA-7, CMC-8, JCS-35,
+       DIA-10, DIA-CIIC-3, OSD-15, CIA-11 (115)
+
 
 SMB A 019
-RR RUEAPO
-DE RUHLKW 2
+
+RR RUEAHO
+
+DE RUMLKM 2
+
 ZNR
+
 O 310545Z
 
 FM 326 AIR DIV KUNIA FACILITY HAWAII
-TO RUHLKW/PACAF HICKAM AFB HAWAII
-RUKAC/COMALSEA FRON KODIAK ALASKA
-RUSPSG/COMWESTSEA FRON SAN FRANCISCO CALIF
-RUPPO/COMHANSEA FRON PEARL HARBOR HAWAII
-INFO RUEAHO/COFS USAF WASHINGTON DC
-RUNGALB/CINC NORAD ENT AFB COLO
-RUHPA/CINCPAC CAMP H M SMITH HAWAII
-PUHPAF S/CINCUSARPAC FT SHAFTER HAWAII
-RUHPB/CINCPACFLT PEARL HARBORHAWAII
-RUAIAZ/COMUSJAPAR FUVUAS JAPAN
-RUAMCR/COMUSKOREA SEOUL KOREA
-RUAGFL/COMUSTDC TAIPEI TAIWAN
-RUHPD/COMASWFORPAC FORD ISLAND HAWAII
-RUCSBR/CINGSAC OFFUTT AFB NEBR
-MSCX/CXO WASHINGTON DC
-ROECW/SECNAV WASHINGTON DC
-AF ORNC
-BT
 
+TO RUHLXM/PACAF HICKAM AFB HAWAII
+
+RUKAC/COVALSEAFRON KODIAK ALASKA
+
+RUCSPG/COMWESTSEAFROM SAN FRANCISCO CALIF
+
+RUHPQ/COMHAWSEAFRON PEARL HARBOR HAWAII
+
+INFO RUEAHC/COFS USAF WASHINGTON DC
+
+RUVGALB/CINCNORAD ENT AFB COLO
+
+RUHPA/CINCPAC CAMP H M SMITH HAWAII
+
+PUHAFS/CINCUSARPAC FT SHAFTER HAWAII
+
+RUHPB/CINCPACFLT PEARL HARBORHAWAII
+
+RUAUAZ/COMUSJAPAF FUVUAS JAPAN
+
+RUAMCR/COMUSKOREA SEOUL KOREA
+
+RUAGFL/COMUSTDC TAIPEI TAIWAN
+
+RUHPD/COMASVFORPAC FORD ISLAFD HAWAII
+
+RUGSPR/CINCSAC OFFUTT AFB NEAR
+
+UECM/CMO WASHINGTON DC
+
+RECM/SECNAV WASHINGTON DC
+
+AT ORNC
+
+3T
 
 - page 11 -
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
+
 INCOMING
 
-AF IN: 14153 (31 Dec 62)                                   Pg 2 of 2
+AP IN: 14153 (31 Dec 62)                                                    Pg 2 of 2
 
 UNCLAYMERINT/
-1. MATAGORDA
-2. SMALL BRIGHT OBJECT SE AS SECOND MAGNITUDE STAR
-3. 2-18N 152°W
-4. 31/0505Z
-5. HIGH, POSITION ANGLE 39 DEG
-6. COURSE 055T
-7. MOVEMENT VISIBLE TONAKED EYE
-8.
-   POSSIBLE SATALITE
-9. SA MODERATE WEATHER CLEAR, 50 PERCENT CLOUD COVERAGE
-   HIGH STRATUS LAYER   NO EVALUATION
-BT NOTE: ADV CYS DEL TO DIA, CIN AND OOP-CP
-31/0550Z DEC RUHLKW
 
+1. MATAGORDA
+
+2. SMALL BRIGHT OBJECT SE AS SECOND MAGNITUDE STAR
+
+3. 2-18N 162 9W
+
+4. 31/0505Z
+
+5. HIGH, POSITION ANGLE 39 DEG
+
+6. COURSE 055T
+
+7. MOVEMENT VISIBLE TONAKED EYE
+
+8.
+
+   POSSIBLE SATALITE
+
+9. SA MODERATE WEATHER CLEAR, 50 PERCENT CLOUD COVERAGE
+
+HIGH STRATUS LAYER     NO EVALUATION
+
+BT NOTE: ADV OYS DEL TO DIA, CIN AND OOP-OP
+
+31/0550Z DEC RUHLKH
 
 - page 12 -
 
-Here is the OCR text from the document:
+333
 
-335
+SCIENCE NEWS LETTER for November 24, 1962
 
 ASTRONOMY
-Science News Letter for November 24, 1962
 
 Impressive Stellar Display
-Jupiter, Mars and Saturn will shine in the evening sky and the spacecraft Mariner will make its first close-up observation of Venus in December, James Stokley reports.
 
-ALTHOUGH ONLY ONE of them appears in a telescope at any time, the planets are visible in the evening this month, bright and distinct—all—and the one that stands out most is Jupiter, which sets in the west about midnight on the first and about two hours earlier on the 31st in the constellation of Aquarius, the waterbearers, and its astronomical magnitude is minus 1.9.
+Jupiter, Mars and Saturn will shine in the evening sky and the spacecraft Mariner will make the first close-up observation of Venus in December, James Stokley reports.
 
-The maps show the appearance of the skies about 10 p.m. (your own kind of standard time) at the beginning of the month, 9 p.m. on the 15th and 8 p.m. on the 31st. At these times Jupiter is rising, but not high enough to be visible. It is located in Leo, the lion. By midnight this will be well above the eastern horizon. Mars' magnitude will be minus 0.1, or about as bright as Sirius, the brightest star in the sky. It will be brighter than any nearby star, and its red color will make it easy to identify.
+► ALTHOUGH ONLY ONE of them appears on the December sky map shown here, Jupiter is the brightest of all—and the it shown—is Jupiter, which rises in the west about midnight on the first and about two hours earlier on the 31st. It is in the constellation of Aquarius, the waterbear, and its astronomical magnitude is minus 12.
+
+The maps show the appearance of the skies about 10 p.m. (your own standard time) on the 1st and 15th of the month, 9 p.m. on the 15th and 8 p.m. on the 31st. At these times Mars will just be rising, but no high enough to be visible. It is best seen in Leo, the lion. Though midnight on December Mars will make a fifth as bright as Jupiter. It will be brighter than any nearby star, and its red color will make it easy to identify.
 
 Saturn in Capricornus
-The third December evening planet is Saturn, in Capricornus, the sea goat. It sets about an hour before the time for which the maps are drawn. At about 8 p.m., on the first of the month, it will be low in the west, just below Aquarius, in which Jupiter stands.
 
-Jupiter, Saturn and Mars are all planets—members of the solar system, like earth, and they move around the sun which illuminates them.
+The third December evening planet is Saturn, in Capricornus, the sea goat. It sets about an hour before the times for which the maps are drawn. About 8 p.m. on the first, the constellation of Capricornus is low in the west, just below Aquarius, in which Jupiter stands.
 
-The stars, however, are distant suns, each shining by its own light. The brightest shown is Sirius, also called the dog star that is in Canis Major, the great dog, low in the sky. Sirius, and its magnitude is minus 1.6. This star is nearly as bright as Jupiter because the brighter an object, the lower its magnitude, negative meaning denoting the very brightest objects. However, being a star, Sirius appears as a point of light, while planets like Jupiter appear to scintillate, or "twinkle."
+Jupiter, Saturn and Mars are all planets, members of the solar system, like earth, and revolve around the sun, which illuminates them.
 
-Above Canis Major you can see the magnificent constellation of Orion, the warrior, with Rigel to the right. Taurus, the bull, is above Orion, with ruddy Aldebaran, another star in its belt. The group also includes two first-magnitude stars: Betelgeuse to the left, and Rigel to the right. Taurus, the bull, is above Orion, with ruddy Aldebaran, another star in its belt. The left star sees Gemini, the twins, with Castor and Pollux, the later being lower. Below them is Canis Minor, the lesser dog, with Procyon, while above them stands Auriga, the charioteer, with Capella. Both of these stars are low and prominent. This region of the sky, now visible in the south.
+The stars, however, are distant suns, each shining by its own light. The brightest shown is Sirius, also called the dog star. It is in Canis Major, the great dog, low in the southeast, and its magnitude is minus 1.6. Thus it is nearly as bright as Jupiter, because the brighter an object, the lower its magnitude, negative magnitudes denoting brightness exceeding that of the brightest stars. Sirius appears as a point of light and irregularity of the atmosphere cause it to scintillate, or "twinkle." The planet Jupiter presents a small disc, visible in a telescope, which does not twinkle.
 
-Mariner will continue its mission that would land there. Scientists of the National Aeronautics and Space Administration (NASA) who planned it designed the flight path so that scientific instruments on board could measure the temperature of the planet and its atmosphere. They expect them to reveal much about the planet's environment, make up of Venus and its gaseous mantle. This atmosphere, which is continually cloudy, perpetually shrouds the bright planet.
+Above Canis Major you can see the magnificent constellation of Orion, the warrior, generally considered the finest in the sky. At his shoulder is Betelgeuse, a star of the first magnitude, and below his belt. The group also includes two first-magnitude stars: Rigel, to the left, and Rigel to the right. Taurus, the bull, is above Orion, with ruddy Aldebaran, another star of the first magnitude.
 
-Mariner's flight path was altered on Sept. 4 on command from the earth—the first time such a complicated maneuver had ever been performed successfully by a spacecraft in flight. This put it into a long curved path which, after 109 days and 180,000,000 miles of travel, will bring it within 21,000 miles of Venus on Dec. 14.
+Off to the left sit Gemini, the twins, with Castor and Pollux, the latter being the lower. Below them is Canis Minor, the lesser dog, with first-magnitude Procyon. Still further below is Auriga, the charioteer, with Capella. Both of these stars also are first magnitude. This region of the sky, now visible in the south-
 
-Mariner Will Telemeters Data
-During the cruise and the encounter with Venus, a continuing series of tests with the spacecraft will be made to check its performance. As the sensors of its six experiments receive information, they feed it to a data conditioning system (DCS), located in the base of the craft. The DCS prepares the information for transmission to earth in the form of a digital code.
+mission that we could from one that actually landed there. Scientists of the National Aeronautics and Space Administration (NASA) who planned it designed the flight path so that scientific instruments on board could measure the temperature of the planet and its atmosphere. They expect them to reveal much about the physical and chemical make-up of the Venusian atmosphere, which is continually cloudy, perpetually shrouds the hostile planet.
 
-All the data collected cannot be transmitted at the same time, so an electronic clock has been built into the DCS. This controls the equipment so that the receiver "knows" to expect certain data at a time for about one second. After 20.16 seconds the
+Mariner's flight path was altered on Sept. 4 on command from the earth—the first time that such a complicated maneuver had ever been performed successfully by a spacecraft in flight. This put it into a long curved path which, after 109 days and 180,000 miles of travel, will bring it within 21,000 miles of Venus on Dec. 14.
 
-[The rest of the text is cut off at the bottom of the page]
+Mariner Will Telemeter Data
 
+During the cruise and the encounter with Venus, according to a NASA statement, the craft will telemeter data back to the earth. As the sensors of its six experiments receive information, they feed it to a data conditioning system (DCS), located in the base of the craft. The DCS prepares the information for transmission to earth in the form of a digital code.
+
+All the data collected cannot be transmitted at the same time, so an electronic computer aboard the craft will control the equipment so that the receiver "listens" on command at a time about one second. After 20.16 seconds the
+
+⊗ ★ ○ ⊗ SYMBOLS FOR STARS IN ORDER BRIGHTNESS
+
+Face North
+
+[Two star maps showing constellations and celestial objects for December 1962, viewed facing north and facing south]
 
 - page 13 -
 
-Here is the text from the page:
-
 the Week •
 
-[Note: The text appears to be a list of book or publication reviews/descriptions. I'll transcribe the full text:]
+Is received for review are listed. For convenient
+Handling to cover retail price (postage will be paid)
+write to the publishers.
 
-Books received for review are listed. For convenient reference, cover retail price (postage will be paid)
+Prentice-Hall, 179 p., illus., $4.50; paper, $1.95.
+Collection of important original reports.
 
-Prentice-Hall, 170 p., illus., $4.50; paper, $1.95. Collection of important original reports.
+MATHEMATICS IN YOUR WORLD—R. W. Men-
+ninger, transl. from German by P. S. Morrell
+and T. E. Blamey—Viking, 291 p., illus., $5.
+Explores, in an interesting and entertaining way the meaning and the nature of mathematics, from games
+to infinity.
 
-MATHEMATICS in Your World—R. W. Menninger, transl. from German by P. S. Morrell and J. E. Blainey—Viking, 291 p., illus., $5. Entertaining discussion of mathematical thinking and the nature of mathematics, from games to infinity.
+PASSENGER CAR DESIGN AND HIGHWAY SAFETY
+—James L. Goddard and others—Aim for the
+Safe, Supplied Children (United Union),
+292 p., illus., paper, $2.25. Proceedings on a
+conference devoted to vehicle design.
 
-PASSENGER CAR DESIGN AND HIGHWAY SAFETY—James L. Goddard and others—Holt, 290 p., illus., paper, $2.75. Proceedings on a conference on research in vehicle design.
+PERMANENT MAGNETS AND MAGNETISM: Theory, Materials, Design, Manufacture and Applications—D. Hadfield, Ed.—Wiley, 556 p., illus.,
+$16.50. Comprehensive work, written primarily
+for the CGS system with equivalents given in
+CGS system.
 
-PERMANENT MAGNETS AND MAGNETISM: Theory, Materials, Design, Manufacture and Applications—H. J. Williams, 336 p., illus., $16.50. Comprehensive work, written primarily in the MKS system with equivalents given in CGS system.
+PHARMACOGENETICS: Heredity and the Response to Drugs—Werner Kalow—Saunders,
+231 p., diagrams, $8. Reviews recent research
+on responses to drugs and their modification
+by hereditary influences.
 
-PHARMACOKINETICS: Heredity and the Response to Drugs—Werner Kalow—Saunders, 331 p., diagrams, $8. Reviews recent research on responses to drugs and their modification by hereditary influences.
+PILOTLESS AIRCRAFT—Ye. Vernel, transl. from Russian—PRS (DTS), 8;1
+p., diagrams, paper, $9. On missile control,
+guidance methods, and radio control of ballistic
+rockets and earth satellites.
 
-RAND McNALLY COSMOPOLITAN WORLD ATLAS—Rand McNally, rev. ed., 400 p., 103 p., full-color maps, illus., $14.95. Enlarged edition contains new relief maps, comparative world maps and makers and earth satellites.
+RAND MCNALLY COSMOPOLITAN WORLD ATLAS—
+Rand McNally, rev. ed., 400 p., 192 p. full-color
+plates and maps—Enlarged edition contains
+new relief maps, comparative world maps and
+other special features.
 
-SATELLITES AS A HOBBY—Lloyd Mallan, foreword by J. M. Levitt—Hammond, 46 p., illus., $1. For young people.
+SATELLITES AS A HOBBY—Lloyd Mallan, foreword by I. M. Levitt—Hammond, 46 p., illus.,
+$1. For young people.
 
-A SOPHISTICATED PRIMER OF RELATIVITY—P. W. Bridgman, prologue and epilogue by Adolf Grunbaum—Wiley, 201 p., $6.90. Deals with fundamental questions pertaining to Einstein's special theory of relativity.
+A SOPHISTICATE'S PRIMER OF RELATIVITY—
+P. W. Bridgman, prologue and epilogue by
+Adolf Gruenbaum—Wesleyan Univ. Press, 191
+p., $4.50. A readable introduction to this fundamental question pertaining to Einstein's
+special theory of relativity.
 
-TEACHING MACHINES AND PROGRAMED LEARNING—Proc. A Survey of the Industry, 1962—James D. Finn, ed.—McGraw-Hill, 336 p., illus., paper, 55¢. Survey of industry, directory of machine and programmed instructors and
-
+TEACHING MACHINES AND PROGRAMED LEARNING: A Survey of the Industry, 1962—James D.
+Finn and Donald G. Perrin—Arinco, 181 p.,
+illus., paper, $34. Survey of industry, directory
+of machine and programs, manufacturers and
 
 - page 14 -
 
-No Case (Information Only)                                1 December 1962
-Marietta,
-Wooster,
-Rte 8 and
-Canton - Akron, Ohio
+No Case (Information Only)                1 December 1962
+                                                    Marietta,
+                                                    Wooster,
+                                                    Rte 8 and
+                                                    Canton - Akron, Ohio
 
-MARIETTA, OHIO, Dec. 1, 1962- 9:30 PM:
-A large person, tear-drop shaped object was
-seen falling at a sharp angle ahead of a car driven by Larry Myers, of FSIC. His
-Mother and Father were also witnesses.
-Mr. Myers said the object looked to be
-as large as a man's head, and not very far
+
+MARIETTA, OHIO, Dec. 1, 1962- 9:30 P.M.
+A large green, tear-drop shaped object was
+seen falling at a sharp angle ahead of the
+car driven by Larry Moyers, of FSIC. His
+mother and father were also witnesses.
+Mr. Moyers said the object looked to be
+as large as a mans hand, and not very far
 away. It burned out at a low level.
 WOOSTER: Two women verified this sighting
-of the given area. Their sighting
-and that of Myers, agreed as to time,
+of the green tear-drop. Their sighting
+and that of Moyers, agreed as to time,
 color shape.
-RTE. 8 - Two hours later two persons driv-
+RTS.8 - Two hours later two persons driv-
 ing south observed a huge, livid green
-fireball with a tail, fall at a steep angle in a northerly direction out of the
+fireball with a tail, fall at a steep an-
+gle in a northerly direction out of the
 southern sky. It also seemed close and
 didn't die out until it was at tree-top
 level. Duration - a few seconds.
 CANTON-AKRON: The clear skies and the
-FLASHING STARS, that brilliant bluish star
-in the SE, caused many to call ---and many
-to wonder. It isn't a UFO just the star
-SIRUS flashing red, green, blue and white.
-
+flashing SIRIUS, that brilliant bluish star
+in the SE, caused many to call--and many
+to wonder... It isn't a UFO just the star
+SIRIUS flashing red,green,blue and white.
 
 - page 15 -
 
-No Case (Information Only)                                first week December 1962
-                                                                    Akron, Ohio
+No Case (Information Only)                          first week December 1962
+                                                              Akron, Ohio
+
 
 LOCAL SIGHTINGS: GREATER AKRON AREA (SE)...
 The observer was a high school student. The
 report was filled out in the first week of
 December, 1962.
-
-The time was 8:00 a.m.; the sky was partly
-cloudy.     To the left and near the sun, he
-first saw a single object which he described as crescent-shaped, and the crescent was
+   The time was 8:00 a.m.; the sky was partly
+cloudy.  To the left and near the sun, he
+first saw a single object which he describ-
+ed as crescent-shaped, ad the crescent was
 in a vertical position. As he continued to
-watch, the crescent tipped down to a horizontal position. After an undetermined time
+watch, the crescent tipped down to a hori-
+zontal position. After an undetermined time
 he saw seven (7) smaller shapeless objects
-"fade into view."     These objects were
+"fade into view."  These objects were
 strung out horizontally to the left of the
 larger crescent-shaped object. The object
 remained stationary for the 5-10 minutes
 that the observer watched them. He said
 that if they moved at all, they might have
-been slightly higher in elevation. The objects seemed to have the color of reflected
+been slightly higher in elevation. The ob-
+jects seemed to have the color of reflected
 light but he wasn't sure whether they were
-self-luminous or not.     The sighting ended
+self-luminous or not.  The sighting ended
 when the objects faded from view. The size
 of the crescent-shaped object was compared
 to a large pea at arm's length; the smaller
 objects were about the size of airplane
-lights seen at night, maybe larger. They
+lights seen at night, maybe larger.  They
 seemed to be far away according to the
 witness.
 
-
 - page 16 -
 
-No Case (Information Only)                                   2 December 1962
-                                                                       Riverside, California
+No Case (Information Only)                2 December 1962
+                                                    Riverside, California
+
+
+
 
 GLOBAL SIGHTINGS
+
 RIVERSIDE, CALIF-Dec 2, 1962, 9PM-Mr & Mrs
-Jack E Woodward were returning home on the
-freeway. They say a fiery object fell from
-an altitude of several hundred ft, as they
+Jack B Woodward were returning home on the
+freeway. They saw a fiery object fall from
+an altitude of several hundred ft. As they
 watched-the object fell upon the roof of
-the Jack Brazil home. They drove to the Brazil's, and alerted them. With a neighbor's
+the Jack Brazil home. They drove to the Bra-
+zil's, and alerted them. With a neighbor's
 hose, they extinguished the small fire that
 had started. The object was a basketball-
 sized chunk of clear plastic. No one knows
 what it was or where it came from.
 
-
 - page 17 -
 
-No Case (Information Only)                                12 December 1962
-                                                                   Osaka, Japan
+No Case (Information Only)                12 December 1962
+                                                    Osaka, Japan
 
-OSAKA (near)--Dec 12, 1962--Five second-year girls of Oadaira High School were returning home from school, when they noticed a bright object in the sky. They sketched the object they sketched was like that of Planet Saturn. The body of the U F O was ellipsoidal and had a ring-like structure around it....Similar to UFO photographed at Trinidad Island naval base.
 
+OSAKA (near)–Dec 12, 1952–Five second–year
+girls of Udakita Jr High School were re-
+turning home from school, when they noticed
+a bright object in the sky. The shape of
+the object they sketched was like that of
+Planet Saturn. The body of the UFO was
+ellipsoidal and had a ring-like structure
+around it....Similar to UFO photographed
+at Trinidad Island naval base.
 
 - page 18 -
 

@@ -4,27 +4,47 @@ PROJECT 10073 RECORD CARD
 25 Jan 64
 
 2. LOCATION
-Gainesville, Fla
+Gainsville, Fla.
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
 
 3. DATE-TIME GROUP
-Local 2170-1352
+Local
+2170-354
 
-4. TYPE OF OBSERVATION
-[X] Ground-Visual □ Ground-Radar
-□ Air-Visual □ Air-Intercept Radar
+[ ] ⊟t Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+
+GMT
+
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
 
 5. PHOTOS
-□ Yes
+[ ] Yes
 [X] No
 
+4. TYPE OF OBSERVATION
+⊟Ground-Visual    [ ] Ground-Radar
+[ ] Air-Visual     [ ] Air-Intercept Radar
+
 6. SOURCE
-civilian
+Civilian
 
 7. LENGTH OF OBSERVATION
-10 minutes
+30 minutes
 
 8. NUMBER OF OBJECTS
-one
+One
+
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
 9. COURSE
 SW
@@ -35,28 +55,19 @@ Yellow-orange light in flight to SW. Sky overcast and only objects visible were 
 11. COMMENTS
 Possible a/c sighting. Flight characteristics consistent with this analysis.
 
-12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Possibly Balloon
-[X] Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-□ Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other
-□ Insufficient Data for Evaluation
-□ Unknown
-
-ATIC FORM 329 (REV 26 SEP 52)
-
+ATIC FORM 329 (REV 24 SEP 52)
 
 - page 1 -
 
-Here is the text from the document:
+UFO
 
-UFO                                                                January 26, 1964
+[handwritten: Sunday, January 26, 1964]
+
+[stamp: JAN 28 1964]
+
+AFP
+
+[redacted section - black lines]
 
 The University of Florida
 Gainesville, Florida
@@ -64,22 +75,23 @@ Gainesville, Florida
 N.A.S.A.
 Washington, D.C.
 
-Dear Sir:
+Dear Sirs:
 
-On Sunday, January 26, 1964, I observed a yellow-white, orange-light (about 585 millimicron in wavelength) cross my meridian and then pass out of sight approximately ten minutes later (this was from 11:35-11:35 P.M.), at a point on a near-westerly path, and at, above, with the full moon, well above the city objects visible in the background sky.
+On Sunday, January 26, 1964, I observed a yellowish oblong light (called SSS in reference material) pass over my vicinity and then pass out of sight approximately at the same altitude as a small private plane. I observed a small moving path, and at dusk, with the fuel sunset, were the only object visible in the blue-orange sky.
 
-The pointer and I waited, since there was only this one sightline light visible, some that it appeared to be a fit sighting at this time, that it might be some sort vehicle, i.e., weather satellite, rocket, or some type of heavenly body.
+My son and I discussed, since there was only one sighted light visible, and that it appeared to glow as a jet aircraft or the like, that it must be above all air space vehicle, i.e., weather satellite, rocket, or some type of space-type body.
 
-We would appreciate your assistance in clarifying the nature of this object, its purpose, and its orbital path if one exists. The observation is made was from (approximately) Latitude 29°N, Longitude 77°W or 70 miles west of Gainesville, Florida.
+We would appreciate your assistance in identifying strictly the nature of the object, its purpose, and its or initial plan if one exists. The observation I made was from (approximately) Latitude 29°N, Longitude 77°W at 70 miles west to S. Gainsville, Florida.
 
-Thank you in advance for your assistance.
+We are in assurance for your assistance.
 
 Sincerely,
 
-[Signature area blacked out]
-
+[redacted section - black lines]
 
 - page 2 -
+
+[stamp: OSHKOSH WIS. 1964 FEB]
 
 Information Bureau
 N.A.S.A. (Space Administration)
@@ -87,6 +99,9 @@ Washington, D.C.
 
 Air Mail
 
+[handwritten: 9-11-64]
+
+[illegible section - appears to be handwritten text with redactions]
 
 - page 3 -
 
@@ -97,36 +112,48 @@ UNITED STATES AIR FORCE
 WRIGHT-PATTERSON AIR FORCE BASE, OHIO
 
 REPLY TO
-ATTN OF: TDEN
+ATTN OF: TDSW
 
 SUBJECT: UFO Sighting (70 miles West of Jacksonville, Florida)
 
-1. The following information is provided to assist you in a reply to Mr. _______, University of Florida, Gainesville, Florida. Our records indicate no previous correspondence from Mr. _______.
+TO: He USAF SATOI-PB (Mrs Gaiser)
+Wash 25 D C
 
-2. The object reported had a southwesterly component ruling out all known satellites. The duration of ten minutes is not excessive for an aircraft at high altitude, particularly since he has indicated that it crossed the zenith. There are no high altitude air routes over Gainesville heading southwest. If the object were an aircraft it would not be on a regular schedule. However, this does not rule out aircraft as the most likely cause of his sighting.
+1. The following information is provided to assist you in a reply
+to Mr. [redacted], University of Florida,
+Gainesville, Florida. Our records indicate no previous correspondence
+from Mr [redacted].
+
+2. The object reported had a southwesterly component ruling out all
+known satellites. The duration of ten minutes is not passive for an
+aircraft at high altitude, particularly since he has indicated that it
+crossed the zenith. There are no high altitude air routes over
+Gainsville heading southwest. If the object were an aircraft it would
+not be on a regular schedule. However, this does not rule out aircraft
+as the most likely cause of his sighting.
 
 FOR THE COMMANDER
 
-[Signature of Colonel, USAF]
+[handwritten signature]
+ERIC B SCHULTSCHILDE, Capt
 Colonel, USAF
 Deputy for Technology
 and Subsystems
 
 1 Atch
-cy Ltr.
-
+cy Intr. [redacted]
 
 - page 4 -
 
-February 20, 1964
+February 29, 1964
 
 Dear Mr. Weiss:
 
-This is in response to your letter of January 26, 1964 in which you reported observing an unidentified flying object.
+This is in response to your letter of January 25, 1954 in which you reported observing an unidentified flying object.
 
-Since this object had a southwesterly component, it could not have been a known satellite. Although there are no high altitude air routes over Gainesville southwest, the duration of your sighting (ten minutes) is not necessarily for an aircraft at high altitude, particularly since you indicate the aircraft was not on a regular schedule. However, this does not rule out our aircraft as the most likely cause of your sighting.
+Since this object had a southwesterly component, it could not have been a satellite. Although there are no high altitude air routes over Gainsville the duration of your sighting (ten minutes) is not excessive for an aircraft at high altitude, particularly since you indicate that it crossed the zenith. If the object was an aircraft, it was not on a regular schedule. However, this does not rule out aircraft as the most likely cause of your sighting.
 
-Enclosed is a brochure concerning the Air Force Program on Unidentified Flying Objects which may be of interest to you.
+Enclosed is a brochure concerning the Air Force program on Unidentified Flying Objects which may be of interest to you.
 
 Thank you for reporting this observation to the Air Force.
 
@@ -139,9 +166,9 @@ Office of Information
 
 1 Attachment
 
+[redacted name]
 University of Florida
 Gainesville, Florida
-
 
 - page 5 -
 

@@ -6,18 +6,34 @@ PROJECT 10073 RECORD CARD
 2. LOCATION
 Leibnitz, Austria
 
+12. CONCLUSIONS
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
 3. DATE-TIME GROUP
-Local 0:30
+Local 0130
+GMT
 
 4. TYPE OF OBSERVATION
-✓ Ground-Visual
-□ Air-Visual
-□ Ground-Radar
-□ Air-Intercept Radar
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
 
 5. PHOTOS
-✓ Yes   Not Received
-□ No
+[X] Yes
+[ ] Not Received
+[ ] No
 
 6. SOURCE
 Civilian
@@ -32,41 +48,26 @@ One
 Not given
 
 10. BRIEF SUMMARY OF SIGHTING
-A white, glowing object that looked like a spider hovered over a wooded area at about 45 feet in the air for about 10 seconds. Heat could be felt rising from the object. It moved off and disappeared after a few seconds, and a noise similar to jet a/c could be heard.
+A white glowing object that looked like a spiked hovering over a wooded area at about 45 feet in the air for about 10 seconds. Heat could be felt coming from the object. It moved off and disappeared after a few seconds, and a muffled sound is jet a/c could be heard. Picture taken by a newspaper photographer. Negatives not received at ATIC.
 
 11. COMMENTS
-No analysis made of negative. Without which no evaluation can be made. It is possible that the witness saw a weather balloon but developed a leak and was being carried along by surface winds. The witness probably made sensationalism, which in turn calls more newspaper the picture. It is not clear and as such provide a valid conclusion as to the nature of the object.
+No analysis made of negative. Without which no evaluation can be made. It is possible that the witness had developed a leak and was being carried along by surface winds. The wings probably made up most of the story in order to create sensationalism, which in turn sells newspapers. The picture is not very clear and as such precludes a valid conclusion as to the nature of the object
 
-12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Possibly Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-□ Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other
-✓ Insufficient Data for Evaluation
-□ Unknown
-
-ATIC FORM 329 (REV 25 SEP 52)
+ATIC FORM 329 (REV 28 SEP 52)
 
 - page 1 -
 
-Here is the OCR text from the document:
+EXR AS
 
-HGR AS
+EAPOS
+EX VFWKXT
+DE VFWKA 15
 
-HAROS
-DR YFWKKT
-DR YFWKA 15
-EFT 0 CJ MIL 60
-F4 SSO 14 USAF
-10 ATIC
-ETTO RELEASABLE FROM SSO CHANNELS
-CITL WIN 2A1-162-60.
+EPT O C7 MWK CO
+FM SSO HQ USAF
+TO ATIC
+INFO RELEASABLE FROM SSO CHANNELS
+CIT: WIN 2A1-162-60.
 
 REQUEST YOUR EVALUATION OF FOLLOWING PRESS ITEM DATED 7 MARCH
 
@@ -75,127 +76,197 @@ FULL FRONT-PAGE PICTURE OF A WHITE-GLOWING OBJECT AGAINST A DARK
 BACKGROUND AND IDENTIFIED IT AS A REAL FLYING SAUCER-- THE MOST
 SENSATIONAL PHOTOGRAPH OF OUR CENTURY.
 
-THE NEWSPAPER SAID [REDACTED] 36, ITS PHOTOGRAPHER IN
+THE NEWSPAPER SAID [redacted] 36, ITS PHOTOGRAPHER IN
 THE STYRIA PROVINCE, TOOK THE PICTURE LAST WEDNE DAY.
-IT QUOTED [REDACTED] AS SAYING THE OBJECT HOVERED FOR ABOUT 10 SECONDS
+
+IT QUOTED [redacted] AS SAYING THE OBJECT HOVERED FOR ABOUT 10 SECONDS
 OVER A WOODED AREA ABOUT 45 FEET IN THE AIR. HE SAID HE COULD FEEL
 HEAT FROM IT.
 
-"IT LOOKED LIKE A WHITE-GLOWING SPIDER," [REDACTED] SAID. "I IMMEDIATELY
-"I IMMEDIATELY TOOK MY CAMERA AND MADE A FEW SHOTS. FORTUNATELY
+" IT LOOKED LIKE A WHITE-GLOWING SPIDER," [redacted] SAID. I IMMEDIATELY
+'I IMMEDIATELYIOOK MY CAMERA AND MADE A FEW SHOTS. FORTUNATELY
 ENOUGH OF THEM WERE GOOD.
 
 WHEN THE FLYING SAUCER DISAPPEARED AFTER A FEW SECONDS I HEARD
 A NOISE SIMILAR TO THAT OF A JET AIRCRAFT." UNQUOTE
 
 1200 1200
-07-12562 MAR
 
-2 E V 07/21557 MAR DY 259
+07/1926Z MAR
+
+2 E V 07/21952 MAR DY 292
 
 - page 2 -
 
 MEMO ROUTING SLIP
 
-Header text:
-NEVER USE FOR APPROVALS, DISAPPROVALS, CONCURRENCES OR SIMILAR ACTIONS
+1. NAME OR TITLE: [handwritten: Maj. Furnad]
+INITIALS: [blank]
+CIRCULATE: [blank]
 
-Handwritten text in various sections:
-Name/Title: Maj. Tavel
-Organization and Location: USAF
+ORGANIZATION AND LOCATION: [handwritten: 12579]
+DATE: [blank]
+COORDINATION: [blank]
 
-Remarks: "Passed to ms for action.
-Care taken to examine
-from now file to extract
-ms on effect to be
-a case file which needed"
+2. [blank]
+FILE: [blank]
 
-From Name or Title: Mahon
-Date: 7 Mar
+3. [blank]
+INFORMATION: [blank]
 
-Form type at bottom: DD FORM 95
+[blank]
+NECESSARY ACTION: [X]
 
-The document appears to be a standard military memo routing slip with various sections filled out by hand.
+4. [blank]
+NOTE AND RETURN: [blank]
+
+SEE ME: [blank]
+
+SIGNATURE: [blank]
+
+REMARKS
+
+[handwritten: Passed to us for action.]
+
+[handwritten: Once more to Coloirado?
+First U.S. Office
+Lieut to office to office
+in Office of Majo decision]
+
+FROM NAME OR TITLE: [handwritten: Kittlaus]
+DATE: [handwritten: 6 Mar]
+
+ORGANIZATION AND LOCATION: [blank]
+TELEPHONE: [blank]
+
+DD FORM 95
+1 FEB 50
+"(Replace DA AGO Form 1, 1 APR 48, and AFIQ
+Form 12, 10 Nov 47, which may be used.)"
 
 - page 3 -
 
-PUBLISHED
+[handwritten: PUBLISHED]
 
-UPI A78N
+UPI AT88
 
-VIENNA, MONDAY, MARCH 7. --(UPI)--THE INDEPENDENT VIENNA
-MONDAY NEWSPAPER "WIENER MONTAG" TODAY PUBLISHED A FULL PAGE
-PHOTO OFF A FLYING SAUCER WHICH IT TERMED THE "MOST SENSATIONAL
-PHOTOGRAPH OF OUR CENTURY."
+VIENNA, MONDAY, MARCH 7--(UPI)--THE INDEPENDENT VIENNA, MONDAY NEWSPAPER "WIENER PCHTAG" TODAY PUBLISHED A FULL FRONT PAGE PHOTO OF A FLYING SAUCER WHICH IT TERMED THE "MOST SENSATIONAL PHOTOGRAPH OF OUR CENTURY."
 
-THE NEWSPAPER SAID ONE OF ITS PHOTOGRAPHERS BY CHANCE SHOT
-WHAT SEEMS TO HAVE BEEN A FLYING SAUCER WHICH AT A HEIGHT
-OF ONLY 45 FEET.
+THE NEWSPAPER SAID ONE OF ITS PHOTOGRAPHERS BY CHANCE SHOT WHAT SEEMS TO HAVE BEEN A FLYING SAUCER WHICH MOVED AT A HEIGHT OF ONLY 45 FEET.
 
-IT QUOTED EDGAR SCHEDELBAUR, 36, THE NEWSPAPER'S
-CORRESPONDENT IN STYRIA PROVINCE, WHO IN HIS OWN HOME AT 12:30
-A.M. WEDNESDAY SUDDENLY SAW A GLOWING OBJECT HOVERING NEAR
-THE VILLAGE OF LEIBNITZ HE SUDDENLY NOTICED A "GLOWING
-OBJECT" WHICH WAS AFTERWARDS PHOTOGRAPHED.
+IT QUOTED EDGAR SCHEDELBAUER, JR., THE NEWSPAPER'S CORRESPONDENT IN STYRIA PROVINCE, HAS ON HIS WAY HOME AT 1:30 A.M. LAST TUESDAY.
 
-SCHEDELBAUR SAID, ACCORDING TO WIENER MONTAG THAT THE ROTATING
-OBJECT LOOKED LIKE A UNITED STATES STAR FOR ABOUT TEN SECONDS OVER A
-WOOD.
+NEAR THE VILLAGE OF LIELTENTZ WE SUDDENLY NOTICED A GLOWING OBJECT MOVING AT HIGH SPEED TO THE EAST," THE NEWSPAPER SAID.
 
-IT LOOKED LIKE A UNITED STATES SAUCER, HE SAID.
+SCHEDELBAUER SAID, "ACCORDING TO WIENER PCHTAG NEXT THE ROTATING OBJECT MOVED SLOWLY AND REMAINED STADY FOR ABOUT 1.5 SECONDS OVER A WOOD.
 
-"I IMMEDIATELY TOOK MY CAMERA AND MADE A FEW SHOTS. FORTUNATELY
-ENOUGH OF THEM WERE GOOD."
+"IT LOOKED LIKE A WHITE-GLOWING SPLUS," HE SAID. "IT RESEMBLED TOO MUCH AN 'UNKNOWN' PHOTOGRAPH AND MADE A FEW SHOTS. FORTUNATELY ENOUGH OF THEM WERE GOOD."
 
-THE NEWSPAPER SAID CLEARLY FELT RADIATE HEAT COMING FROM THE
-UNKNOWN OBJECT.
+SCHEDELBAUER SAID HE CLEARLY FELT RADIATED HEAT COMING FROM THE UNIDENTIFIED OBJECT.
 
-"WHEN THE FLYING SAUCER DISAPPEARED AFTER A FEW SECONDS I HEARD
-A NOISE SIMILAR TO THAT OF AN AIRCRAFT," THE REPORTER WAS QUOTED.
+"WHEN THE FLYING SAUCER DISAPPEARED AFTER A FEW SECONDS' HEARING NOISE SIMILAR TO THAT OF A JET AIRCRAFT," THE NEWSPAPER SAID.
 
-THE NEWSPAPER ADDED THAT AN LOCAL POLISH PRESS SHOP AND
-PICTURE ONLY AFTER CAREFUL CONSIDERATION AND AFTER EXPERTS
-HAD "CHECKED THE NEGATIVE OF THE PHOTO."
+THE NEWSPAPER ADDED THAT IT DECIED TO PUBLISH THE PHOTO AND PICTURE ONLY AFTER CAREFUL CONSIDERATION AND AFTER EXPERTS HAD CHECKED THE NEGATIVE OF THE PHOTO.
 
-IT SAID THAT NO SIGN OF A TRICK-SHOT WAS NOTICED BY THE
-EXPERTS.
+IT SAID THAT NO SIGN OF A THICK-SHGA WAS NOTICED BY THE EXPERTST.
 
-THE NEWSPAPER ADMITTED POLITELY THAT AUSTRIAN SCIENTISTS
-AS WELL AS FOREIGN SCIENTISTS WERE RATHER SKEPTICAL ABOUT
-PRIOR TO PUBLICATION OF THE PHOTO, WERE "SKEPTICAL" ABOUT
-SCHEDELBAUR'S STORY.
+THE NEWSPAPER, ADMITED OUTRIGHT THAT AUSTRIAN SCIENTISTS CONSULTING WITH COLLEAGUES IN GERMANY AND AUSTRIA CONTACTED PRIOR TO PUBLICATION OF THE PHOTO, WERE "SKEPTICAL ABOUT" SCHEDELBAUER'S STORY.
+
+[illegible] 28
 
 - page 4 -
 
-AUSTRIAN UFO - Unidentified flying object was photographed by a news cameraman in Leibnitz, Austria, in March. C. W. Fitch, UFO investigator Cleveland received this photo direct from "Montag" Vienna newspaper which printed it. The photographer as he rode a motorcycle through the countryside at 1 a.m. rte thought it was a falling star. But it remained motionless over the road. He felt from a distance of 50 feet. After six to seven seconds it flew off.
+AUSTRIAN UFO—Unidentified fly-ing object was photographed by a news cameraman in Leibnitz, Austria, in March. C. W. Fitch, UFO investigator Cleveland received this photo direct from "Montag" Vienna newspaper which printed it. The photographer said he saw a shining light far ahead
+
+as he rode a motorcycle through the countryside at 1 a.m. He thought it was a falling star. But it remained motionless over the road. He felt heat from it as he snapped the picture from a distance of 50 feet. After six to seven seconds it flew off.
 
 - page 5 -
 
-Here is the text from the document:
+On March 2 near Vienna, Austria newspaper
 
-On March 3 near Vienna, Austria newspaper photographed a glowing round device, that hovered 45 feet off the ground for over 10 seconds. He suffered burns, however due to the close approach of the saucer-shaped object.
+photographer [redacted] of the Wiener Montag paper
 
-IAQ PHOTOGRAPHED
-IN VIENNA:
-(The Vienna newspaper Wiener Montag made some notes to a picture a glowing white object taken a short distance as March 7, and labeled it "most sensational flying object of our time".)
+photographed a glowing round device, that hovered 45 feet off the
 
-Newspaper photographer [name blacked out], near Leibnitz, snapped the picture on the 2nd of March, over a wooded area near the north province. Schindelbaher said he was amazed, slowly, than hovered for some 10 seconds. He took several pictures during this time. The newspaper published a statement that they published the picture only after careful consideration and some experts had checked its relative to determine whether it was a genuine or a jet plane.
+ground for over 10 seconds. He suffered burns however due to the
 
-On March 2, 1960 Newspaper Photographer [name blacked out] of Vienna, Austria succeeded in photographing a "Round Glowing Device" 45 feet off the ground, though he suffered burns on his face and hands from the close encounter. [Name blacked out], a reporter for "WIENER MONTAG", took the photos near Leibtitendorf, Austria.
+close approach of the saucer-shaped object.
 
-On March 2 in Vienna, Austria a "saucer-shaped object hovering 45 feet above the ground was photographed by newspaper photographer [name blacked out] of the Wiener Montag newspaper.
+[BOXED TEXT, partially legible:]
+UAO PHOTOGRAPHED
+IN VIENNA
+
+"...a Vienna newspaper Wiener Montag
+
+...ed d: whose front pets to a picture
+
+"..a drawing while sheet Cabinet a dark
+
+'...appeared on March 2, and about it
+
+'...e "most sensational photograph of our
+
+"...country."
+
+"The newspaper photographer: Edmar
+
+...Danner, snapped the picture on the
+
+...d of March, over a wooded area in the
+
+"...th Province. Scheillelbauer said the
+
+"...ect moved slowly, than hovered for
+
+"...g 10 seconds. He took severat pho-
+
+"...es during this time. The newspaper
+
+"...ed a statement that they published
+
+"..n picture only after careful conside-
+
+"...on and after experts had checked to
+
+"...ative in determine whether it was a
+
+"...nking." [remainder illegible]
+
+"The photographer stated that when the
+
+"...ject, which disappeared after hover-
+
+"...g last, he heard a sound similar to
+
+"...ine of a jet plane."
+
+On March 2, 1960 Newspaper Photographer [redacted] of Vienna,
+
+Austria succeeded in photographing a "Round Glowing Device" 45 feet off the
+
+ground, though he suffered burns on his face and hands from the close
+
+encounter. [redacted], a reporter for "WIENER MONTAG", took the photos near
+
+Labutendorf, Austria.
+
+On March 2 in Vienna, Austria a "saucer-shaped object hovering 45 feet
+
+above the ground was photographed by newspaper photographer [redacted]
+
+[redacted] of the Wiener Montag newspaper.
 
 - page 6 -
 
-On March 2 near Vienna, Austria a newspaper photographer of the Wiener Montag newspaper photographed a glowing round device, that hovered 45 feet off the ground for over 10 seconds. He suffered burns however due to the close approach of the saucer-shaped object.
+On March 2 near Vienna, Austria a newspaper photographer [redacted] of the Wiener Montag newspaper photographed a glowing round device, that hovered 45 feet off the ground for over 10 seconds. He suffered burns however due to the close approach of the saucer-shaped object.
 
 - page 7 -
 
-Source: UFRO - SEP 63
+[handwritten: SOURCE: 1960 - 50? G D]
 
-This photograph was taken on March 2, 1960, by [name illegible] in Austria. The photographer said he saw a shining light ahead as he rode his motorcycle thru the countryside at 1 a.m. At first he thought it was a falling star. But as it remained motionless, he felt the heat, he snapped the picture from a distance of 50 feet. After 6 or 7 seconds, it flew off.
+[Photograph showing a grainy black and white image of a spiral or circular light pattern against a dark background]
 
-The photograph appears to show a blurry, somewhat circular white/light object against a dark background.
+This photograph was taken on March 2, 1960, by [redacted], in Austria. The photographer said he saw a shining light ahead as he rode his motorcycle thru the countryside at 1 a.m. At first he thought it was a falling star. But as it remained motionless, he felt its heat. He snapped the picture from a distance of 50 feet. After 6 or 7 seconds, it flew off.
 
 - page 8 -
 

@@ -4,62 +4,59 @@ PROJECT 10073 RECORD CARD
 16 Jan 51
 
 2. LOCATION
-Oak Ridge, Tenn
+Oak Ridge,Tenn
 
 3. DATE-TIME GROUP
 Local
-GMT 16:21:45.2
+GMT 1/. 21452
 
 4. TYPE OF OBSERVATION
-☒Ground-Visual ☐Ground-Radar
-☐Air-Visual ☐Air-Intercept Radar
+[X]Ground-Visual          [ ] Ground-Radar
+[ ] Air-Visual             [ ] Air-Intercept Radar
 
 5. PHOTOS
-☐Yes
-☒No
+[ ] Yes
+[X] No
 
 6. SOURCE
-Civilian (5)
+[illegible] Civilian (5)
 
 7. LENGTH OF OBSERVATION
 5 min
 
 8. NUMBER OF OBJECTS
-one
+OB9
 
 9. COURSE
 Hovered
 
-10. BRIEF SUMMARY OF SIGHTING
-Shape- Light- Color- Unusually Bright - Speed- Stationary. First thought to be A/C but was not moving. Plant authorities checked but nothing was found to account for the sighting.
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other [handwritten: Insuff Data]
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-(See Case 21 Jan 51 - Same location)
+10. BRIEF SUMMARY OF SIGHTING
+Shape- Light- Color - Unusually Bright - Speed-Stationary. First thought to be A/C but was not moving. Plant authorities checked nothing was found to account for the sighting.
+
+See Case 21 Jan 51 - Same location)
 
 11. COMMENTS
-Observers in car moving NE. Object viewed through right rear window.
+Observers in car moving NE. Object viewed through right rear window. This is the only standard positional data given. First magnitude star Rigel low on horizon at 110 deg azimuth. Planets Venus and Jupiter not visible in East. No mention of disappearance given with report. Insufficient Data for evaluation.
 
-This is the only positional data given. First magnitude star Rigel low on horizon at 110 deg azimuth. Planets Venus and Jupiter not visible in East. No mention of disappearance given with report. Insufficient Data for evaluation.
-
-12. CONCLUSIONS
-☐Was Balloon
-☐Probably Balloon
-☐Possibly Balloon
-☐Was Aircraft
-☐Probably Aircraft
-☐Possibly Aircraft
-☐Was Astronomical
-☐Probably Astronomical
-☐Possibly Astronomical
-☒Other: Insufficient Data
-☐Insufficient Data for Evaluation
-☐Unknown
-
-ATIC FORM 329 (REV 26 SEP 52)
-
+ATIC FORM 329 (REV 24 SEP 52)
 
 - page 1 -
 
-PROJECT 1073 RECORD CARD
+PROJECT 10073 RECORD CARD
 
 1. DATE
 21 Jan 51
@@ -67,20 +64,33 @@ PROJECT 1073 RECORD CARD
 2. LOCATION
 Oak Ridge, Tenn
 
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Ground Target
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
 3. DATE-TIME GROUP
-Local: 1630
-GMT: 21/2320Z
+Local          1630
+GMT            21/2320Z
 
 4. TYPE OF OBSERVATION
-☐ Ground-Visual   ☐ Ground-Radar
-☑ Air-Radar      ☐ Air-Intercept Radar
+[ ] Ground-Visual     [ ] Ground-Radar
+[X] Air-Wxxxx Radar   [ ] Air-Intercept Radar
 
 5. PHOTOS
-☐ Yes
-☑ No
+[ ] Yes
+[X] No
 
 6. SOURCE
-Unknown
 
 7. LENGTH OF OBSERVATION
 Three radar runs
@@ -95,175 +105,177 @@ Not given
 F-82 attempted to intercept an unknown target. Three passes were made at the object but since it was over Oak Ridge the pass could not be completed. Weather data indicates a double inversion existed in the air.
 
 11. COMMENTS
-Explanation is "ducting", caused by the inversion. Probable source being a ground target.
+Explanation is"ducting",caused by the inversion. Probable source being a ground target.
 
-12. CONCLUSIONS
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
-☐ Was Astronomical
-☐ Probably Astronomical
-☐ Possibly Astronomical
-☑ Other, Ground Target
-☐ Insufficient Data for Evaluation
-☐ Unknown
-
-(ATIC FORM 329 (REV 26 SEP 52))
-
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 2 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
-HEADQUARTERS
-52ND FIGHTER-ALL WEATHER GROUP
-P.O. Box 77, Alcoa, Tennessee
+[handwritten: CLASSIFIED MATERIAL
+BY AUTHORITY OF:
+A.I. 2351-L
+25 Jan 51]
+
+DEPARTMENT OF 549
+5240 FIGHTER ALL-WEATHER GROUP
+Knoxville-Union Airport
+Box 77, Alcoa, Tennessee
 
 25 January 1951
 
-SUBJECT: Report on Indicated Airborne Target over Oak Ridge Area.
+SUBJECT: Report on Indicated airborne target over Oak Ridge Area.
 
-TO: Procilla CSI Detachment
-P.O. Box 401
+TO : Knoxville CAF Detachment
+P. O. Box 431
 Knoxville, Tenn
 
-On 21 January 1951 at 1500 o'clock while on a practice flight of the F-84 aircraft the radar operator of aircraft 44-472, intercepted an indication of an airborne target at a range of 10-12 miles. The pilot in the F-84, 1st Lt. [redacted] who notified GCI, GCI gave the co-head to intercept same.
+On 21 January 1951 at 1520 o'clock while on a practice flight of two F-82 aircraft the radar operator of aircraft 45-472, [redacted], observed the indication of an airborne target in the area of the guards. He notified the pilot, [redacted], of same who notified CAF. CAF gave the go ahead to investigate area. The pilot in flight lead, and on radio contact with his wingman, the information on the "0" scan (elevation) indicated the target was varying altitude between ten and twenty-five degrees above the horizon—sighting altitude which was 7,500 feet. At a range of approximately yards the indication at elevation began to descend until the limit of depression of the antenna was reached. At this point the wingman followed into a one o'clock altitude and the target was sighting up and initiated the CAD area plant of Oak Ridge. The intercepting aircraft then broke off the intercept and returned to Knoxville Air Base in a "Hurry" for the other aircraft. A short run was made in the area the "target" was again indicated and a second run made on same. At the completion of the flying period the radar observer reported again run over the area to again pick up the same type indication. The pilot started the run from approximately 30 miles and again at 17.5 miles the indication was received and locked on to. This time the run was completed to the limit of the antenna depression and then broken off because the line of flight again was cornered the Oak Ridge Plant. This phenomenon was duly reported to CAF and GSI.
 
-The radar net was blocked out to the target and the run began. The interception on the "G" scan (northwest) indicated the target was varying altitude between ten and twenty-five degrees above the intercepting aircraft's altitude which was 7M feet. A range of approximately 10 yards was indication on cloverleaf by a descent until the 11:45 of penetration or the target was reached. At this point the pilot dropped into a nose down altitude and the target was again picked up and indicated the "AO" scan plane of GK filter. The interception was broken two miles west of the Atomic City Area where it was to be "swept" for the other aircraft. On the next run in the area the "target" was again indicated on a second run made on GN. At the completion of the flight, period the radar observer requested one more run over the area to again check for the same type indication. The pilot started the run from approximately 40 miles and again at 20 degrees indicated and locked a/c. This time the run was completed to the limit of the antenna depression and then broke off because the line of fill it again was across the Oak Ridge tract. This phenomenon was duly reported to local GSL.
+5/ [redacted]
+
+t/ [redacted]
 
 CERTIFIED TRUE COPY:
 
-[Signature]
+[signature]
 Knoxville, Tennessee
+
+[stamp: UNCLASSIFIED]
 
 DOWNGRADED AT 3 YEAR INTERVALS;
 DECLASSIFIED AFTER 12 YEARS,
 DOD DIR 5200.10
 
-UNCLASSIFIED
-
-
 - page 3 -
 
-Here is the OCR text from the document:
-
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
 SUMMARY OF INFORMATION
 
-DATE: 1 February 1951
+DATE
+13 February 1951
 
-Preparing Office: 1116th CIC Detachment, P.O. 372, Knoxville, Tennessee
+PREPARING OFFICE
+Illion CIC Detachment, P.O. Box 379, Knoxville, Tennessee
 
-SUBJECT: CUFOS SIGHTED OVER OAK RIDGE, TENNESSEE (15 & 21 January 1951)
-
+SUBJECT
 CODE FOR USE IN INDIVIDUAL PARAGRAPH EVALUATION
 OF SOURCE:
 COMPLETELY RELIABLE . . . . . A
-USUALLY RELIABLE . . . . . . B
-FAIRLY RELIABLE . . . . . . C
-NOT USUALLY RELIABLE . . . . D
-UNRELIABLE . . . . . . . . E
-RELIABILITY UNKNOWN . . . . F
+USUALLY RELIABLE . . . . . B
+FAIRLY RELIABLE . . . C
+NOT USUALLY RELIABLE . . . D
+UNRELIABLE . . . E
+RELIABILITY UNKNOWN . . . F
 
-RELIABILITY OF INFORMATION:
-CONFIRMED BY OTHER SOURCES . 1
-PROBABLY TRUE . . . . . . 2
-POSSIBLY TRUE . . . . . . 3
-DOUBTFULLY TRUE . . . . . 4
-IMPROBABLE . . . . . . . 5
+OF INFORMATION:
+PROBABLY TRUE . . . 1
+POSSIBLY TRUE . . . 2
+DOUBTFULLY TRUE . . . 3
+PROBABLY FALSE . . . 4
+POSSIBLY FALSE . . . 5
 TRUTH CANNOT BE JUDGED . . . 6
 
-SUMMARY OF INFORMATION:
+CUT-OUS SIGHTED OVER OAK RIDGE,
+TENNESSEE
+(15 & 21 January 1951)
 
-(Refer S/F Subject as above dated 20 January 1951 pertaining to the sighting at 2145 hours on 16 January 1951)
+SUMMARY OF INFORMATION
 
-At approximately 1545 hours on 15 January 1951, an unusually brilliant object was sighted by two persons at the Central Energy Project, Oak Ridge, Tennessee. Attached hereto is the statement concerning this phenomenon. The weather at the time of this sighting is substantially the same as reported in the previous report for 16 January 1951, as referred to above.
+(Refer S/I Subject as above dated 20 January 1951 pertaining to the sighting at 2345 hours on 15 January 1951)
 
-Records of the 663rd A.C. & W Squadron, (radar), McGhee Tyson Airport, Knoxville, Tennessee reveal that no aircraft were in the vicinity at the time of the observation, and the radar site was receiving no interference.
+At approximately 1945 hours on 15 January 1951, an unusually brilliant object was sighted by five persons eating in the "Control Zone" of the Atomic Energy Project, a utility plant, Tennessee. Attached hereto is the statement concerning this phenomenon. The weather at the time of this sighting is substantially the same as reported in the previous report for 15 January 1951, as observed to above.
 
-At 1620 hours on 21 January 1951, a radar sighting of an unidentified object over Oak Ridge, Tennessee was made by the airborne radar equipment in a P-82 fighter aircraft of the 5th Air Force Squadron, 2nd Fighter Group, McGhee Tyson, airport, Knoxville, Tennessee. This radar interference was received by the airborne radar as the aircraft approached the Y-10 plant area in the "controlled zone" of the Atomic Energy Project, Oak Ridge, Tennessee. The fighter aircraft attempted to pick this target from various angles and found that the source of the interference could not be located from the area or the field that, to visual reference to anything in the sky was reported by either the pilot or the radar operator of the P-82 aircraft.
+Because of the 653rd A C & W Squadron, (Radar), McHess (sic) town airport, Knoxville, Tennessee overall report that no aircraft were in the vicinity at the time of the observation, and the radar site was receiving no interference.
 
-The weather at the time of this incident is reportedly: "Partly cloudy, with east winds at seven (7) miles per hour. Temperature 58 degrees, and dewpoint 19 degrees. No billows or other weather apparatus was in the sky at this time. Between the hours 1545 and 1615, the wind was variable from south to northeast at from calm to eleven (11) miles per hour.
+At 1220 hours on 21 January 1951, a radar sighting of an unidentified object over Oak Ridge, Tennessee was made by the airborne radar equipment installed in an F-82 fighter aircraft of the 319 th Fighter Squadron, 52nd Air Force Group, Lockes Tyson, airport, Knoxville, Tennessee. The radar interference of this target from various angles and found that the source of the interference originated from the area of the X-10 Plant. No visual reference to anything in the sky was reported by either the pilot or the radar operator of the F-82 aircraft.
 
-Attached hereto is a copy of the letter submitted by 1st Lieutenant, U.S.A.F., concerning this phenomenon. (NOTE: The letter "n" used in this letter denotes "thousand").
+The weather at the time of this incident is reportedly: "Partly cloudy, with fast winds at seven (7) miles per hour. Temperature 53 degrees, and dewpoint 19 degrees. No billows or other weather apparatus was in the sky at the time. Between the hours 1945 and 1315, the wind was variable from south to northeast at from calm to eleven (11) miles per hour.
 
-SOURCES: 663rd A.C. & W Radar Squadron, McGhee Tyson Airport, Knoxville, Tenn.
-5th AF Fighter Squadron, McGhee Tyson, Knoxville, Tenn.
-Atomic Energy Permission, Oak Ridge, Tennessee
+Attached hereto is a copy of the letter submitted by [redacted] Jut Lieutenant, U.S.A.F., concerning this phenomenon. (NOTE: The letter "U" used in this letter denotes "thousand").
+
+SOURCE: 653rd A.W. & C Radar Squadron, Lockes Tyson airport, Knoxville, Tenn.
+319th Fighter Squadron, Knoxville, Tenn.
+Atomic Energy Commission, utility Plant, Oak Ridge, Tennessee.
 Five persons listed on inclosure, Oak Ridge, Tennessee
-G2 Office, Knoxville, Tennessee
+OSI Office, Knoxville, Tennessee
 
-DOWNGRADED AT 8 YEAR INTERVALS
+DOWNGRADED AT 3 YEAR INTERVALS
 DECLASSIFIED AFTER 12 YEARS
+DON DO [illegible]
 
-[Bottom of document shows distribution details and document number WD AGO 568]
+DISTRIBUTION
 
-UNCLASSIFIED
+3 cs — 3rd Army, Ft McPherson, Ga     1 cs — OSI, Knoxville, Tenn
+2 cs — CIC, Knoxville, Tennessee      1 cs — File
 
+WD 7-568
+[illegible]                                  11 S [illegible]
 
 - page 4 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
 HEADQUARTERS THIRD ARMY
 FORT McPHERSON, GEORGIA
+
 Office of the Assistant Chief of Staff G-2
 
-AJAG-S 560.23                                                                9 FEB 1951
+9 FEB 1951
+
+AFCIT-5 560.28
 
 SUBJECT: Unconventional Aircraft
 
-TO:   Director of Intelligence
-       Fourteenth Air Force
-       Robins AFB, Macon, Georgia
+TO: Director of Intelligence
+Fourteenth Air Force
+Robins AFB, Macon, Georgia
 
-Enclosed herewith is summary of information re objects sighted over
-Oak Ridge, Tennessee.
+Inclosed herewith is summary of information re objects sighted over Oak Ridge, Tennessee.
 
-[Signature]
-for HENRY M. ZELLER
-    Colonel, GSC
-    AC of S, G-2
+[handwritten: W. E. Busabarry, Col]
 
-Int 350                                     1st Ind
+1 Incl:
+3/1 Add 1 Feb 51
+
+[handwritten: for HENRY H. ZELLER
+Colonel, GSC
+AC of S, G-2]
+
+Int 350                                1st Ind
 
 Hq Fourteenth Air Force, Robins Air Force Base, Georgia.
 
-TO:   Commanding General, Air Material Command, Wright-Patterson AFB,
-       Dayton, Ohio. ATTN: MCIS
+TO: Commanding General, Air Materiel Command, Wright-Patterson AFB, Dayton, Ohio. ATTN: MSIS
 
-Forwarded in accordance with letter, Headquarters USAF, 8 Sep 50,
-subject: "Reporting of information on unconventional aircraft."
+Forwarded in accordance with letter, Headquarters USAF, 8 Sep 50, subject: "Reporting of information on unconventional aircraft."
 
 FOR THE COMMANDING GENERAL:
 
-[Signature]
+[signature]
 
-1 incl
+1 Incl
 n/c
 
-Copies rept on this mssgd (TCB) by endorsement
+[handwritten: Earth not on this unarmed (TCE) by enlargement]
 
-UNCLASSIFIED
-DOWNGRADED AT 3 YEAR INTERVALS;
-DECLASSIFIED AFTER 12 YEARS.
-DOD DIR 5200.10
+[stamp: UNCLASSIFIED]
 
+[stamp: DECLASSIFIED AT 2 YEAR INTERVALS; DECLASSIFIED AFTER 12 YEARS. DOD DIR 5200.10]
 
 - page 5 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
 HEADQUARTERS
 AIR MATERIEL COMMAND
 WRIGHT-PATTERSON AIR FORCE BASE
 DAYTON, OHIO
 
-SUBJECT: Unconventional Aircraft, AMI Project No. 10073
+[handwritten: 10 OCT 1992]
+[handwritten: 20 MAR 81]
 
 TO: Director of Intelligence
 Headquarters, USAF
@@ -271,90 +283,137 @@ ATTN: Evaluation Division
 Technical Capabilities Branch
 Washington 25, D.C.
 
+SUBJECT: Unconventional Aircraft, ATI Project No. 10073
+
 1. It is considered highly probable that the radar target detected three times by the airborne radar set in the F-82 aircraft on 21 January was a ground target in the vicinity of the X-10 plant.
 
-2. The peculiar phenomena of having the target first appear at an altitude above the interceptor and then below the aircraft is considered to be due to abnormal refraction of the radar electromagnetic emanations. The airborne radar transmitted energy was refracted to the ground by a "temperature and/or moisture duct" that was located at about the same altitude as the interceptor; more details are given in paragraph 3 below. When the interceptor closed on the target, the target first appeared to be above the interceptor until the apex of the band rays was reached, and after that the target appeared below the interceptor.
+2. The peculiar phenomena of having the target first appear at an altitude above the interceptor and then below the aircraft is considered to be due to the abnormal refraction of the radar electromagnetic emissions. The airborne radar transmitted energy was refracted to the ground by a "temperature and/or moisture duct" that was located at about the same altitude as the interceptor; more details are given in paragraph 3 below. When the interceptor closed on the target, the target first appeared to be above the interceptor until the apex of the tent radar "rays" was reached, end after that the target appeared below the interceptor.
 
-3. A check with the local AMC base weather office indicates that the Nashville weather station reported the following temperature data for 2100 EST, 21 January 1951:
+3. A check with the local AVC base weather office indicates that the Pikeville weather station reported the following temperature data for 2100 EST, 21 January 1951:
 
-Altitude       Temperature Conditions
-0 to 2000 ft   No Change
-2000 to 5000 ft Six degree increase
-5000 to 8000 ft Normal decrease in temp/increased altitude
-8000 to 11000 ft Three degree decrease
-Above 11000 ft Normal decrease in temp/increased altitude
+Altitude                    Temperature Conditions
+
+0 to 2000 ft               No Change
+2000 to 5000 ft            Six degree increase
+5000 to 8000 ft            Normal decrease in temp/increased altitude
+8000 to 11000 ft           Three degree increase
+Above 11000 ft             Normal decrease in temp/increased altitude
 
 DOWNGRADED AT 3 YEAR INTERVALS;
 DECLASSIFIED AFTER 12 YEARS.
-DOD DIR 5200.10
+DOD DIR 5200.19
 
-UNCLASSIFIED
-516-20281-C
+515-20281-C
 
+No AMC form No. 9 (Rev 8 Feb 49)          [stamp: UNCLASSIFIED]          Air Force-WP/AFR-1-3 SEP 53 1280M
 
 - page 6 -
 
-Here is the OCR text from the document:
+[stamp: UNCLASSIFIED]
 
-ROUTING AND [partially cut off] UNCLASSIFIED
+ROUTING AND RECORD SHEET                                    SEQ      JR MATERIEL COMMAND
+Use this form for inter-office correspondence          Use authorized office symbols to designate    AUTH: Sig. (rank) of dictator and typist, telephone
+within headquarters.                                   addressee and addresses.                       number, and location to right of signature.
+Number all comments consecutively.                     Note marginal at left of form.                 INITIAL: J.D. [illegible], Maj., USAF
+Use authorized office symbols to designate            beginning new to consider necessary for        DATE: [illegible] by horizontal lines across page.
+                                                       proper spacing of typewritten signatures.
 
-PROJECT 1C073
+SUBJECT  Project 10073
 
-TO MCIAXL-1a FROM MCIAXE DATE 16 FEB 1951 COMMENT NO. 1
+TO      MOTAXA-la                           FROM    MOTAXE                              DATE 16 FEB 1951  COMMENT NO. 1
 
-1. It is suggested that substantially the following to be used in replying to the attached letter, insofar as the report on the radar detected target is concerned:
 
-*1. It is considered highly probable that the radar target detected three times by the airborne radar set in the T-92 aircraft on 21 January was a ground target in the vicinity of the X-10 plant.
+1. It is suggested that substantially the following is used in replying to the
+attached letter, insofar as the report on the radar detected target is concerned:
 
-*2. The peculiar phenomena of having the target first appear at an altitude above the interceptor and then below the aircraft is considered to be due to abnormal refraction of the radar electromagnetic emanations. The T-92 airborne radar transmitted energy was refracted to the ground by a temperature and/or moisture duct that was located at about the same altitude as the interceptor; more details are given in paragraph 3 below. When the interceptor closed on the target, the target first appeared to be above the interceptor until the apex of the bent radar 'rays' was reached, and after that the target appeared below the interceptor.
+    *1. It is considered highly probable that the radar target detected
+three times by the airborne radar set in the F-82 aircraft on 21 January
+was a ground target in the vicinity of the X-10 plant.
 
-*3. A check with the local AIC base weather office indicates that the Nashville weather station reported the following temperature data for 2100 EST, 21 January 1951:
+    *2. The peculiar phenomena of having the target first appear at an
+altitude above the interceptor and then below the aircra't is considered to
+le due to abnormal refraction of the radar electromagnetic emanations. The
+The airborne radar transmitted energy was refracted to the ground by a
+"temperature and/or mixture duct" that was located at about the same altitude
+as the interceptor; more details are given in paragraph 3 below. When the
+interceptor closed on the target, the target first appeared to give the
+interceptor until the apex of the bent radar 'rays' was reached, and after
+that the target appeared below the interceptor.
 
-Altitude        Temperature Conditions
-0 to 2000 ft    No change
-2000 to 5000 ft Six degree increase
-5000 to 8000 ft Normal decrease in temp/increased altitude
-8000 to 11000 ft Three degree increase
-Above 11000 ft Normal decrease in temp/increased altitude
+    *3. A check with the local MFC base weather office indicates that the
+Nashville weather station reported the following temperature data for 2100 PST,
+21 January 1951:
 
-The normal atmospheric temperature condition is that temperature decreases nearly linearly with increase in altitude. The above data indicates that two inversion layers existed, one above the interceptor and one below, not about. The data further showed that the Oak Ridge area was reported. While complete and accurate effects of temperature inversion are not thoroughly understood, it is considered that this effect caused the detection of a ground target. To appear to be airborne, first above and then below the interceptor as the interceptor closed on the target.
+            Altitude                        Temperature Conditions
 
-[Signatures and additional administrative details at bottom of document]
+            0 to 2000 ft                    No change
+            2000 to 5000 ft                 Six degree increase
+            5000 to 8000 ft                 Normal decrease in temp/increased altitude
+            8000 to 11000 ft                Three degree increase
+            Above 11000 ft                  Normal decrease in temp/increased altitude
 
-UNCLASSIFIED
+The normal atmospheric temperature condition is that temperature decreases
+nearly linearly with increase in altitude. The above data indicates that
+two inversion layers existed, one above the interceptor and one below, at
+about the time the airborne target over the Oak Ridge area was reported.
+While complete and accura to effects of temperature inversion are not thoroughly
+understood, it is considered that this effect caused the detection of a ground
+target "? appear to airborne "first store and then below the interceptor
+as the interceptor closed on the target.
 
+---
+
+1 incl                                          [handwritten: signature]
+Cy Dir, 2/7/51 fr Dir Spac Invest              JOHN E. LIPPERT                    [handwritten: signature]
+U/C Ltr 52nd FAMH, 1/25/51 and                 Major, USAF                        5/1/76
+Rpt of Sighting                                Chief, Electronics Section          B ZG2A
+                                               Technical Analysis Division         P A-17
+                                               Intelligence Department
+
+                                               [stamp: DECLASSIFIED AT 3 YEAR INTERVALS;]
+                                               [stamp: DECLASSIFIED AFTER 12 YEARS]
+                                               [stamp: MOD DIR 5200.10]
+
+WF1-31 OCT 49  A-662M
+AMC Form No. 5 (Rev 23 Jul 47)  UNCLASSIFIED      This form replaces AMC Form No. 10-3, which will
+                                                   not be used after 1 Aug 49.
 
 - page 7 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
-Ltr AMC to TCB, Hq., USAF, "Unconventional Aircraft"
+Ltr ATC                                    to TCF, Hq., USAF," Unconventional Aircraft,
 ATI Project No. 10073
 
-The normal atmospheric temperature condition is that temperature decreases nearly linearly with increase in altitude. The above data indicates that two inversion layers existed, one above the interceptor and one below, at about the "ine the airborne radar target over the Oak Ridge area was reported. While complete and accurate effects of temperature inversion are not thoroughly understood, it is considered that this effect caused the detection of a ground target to appear to be airborne, first above and then below the interceptor as the interceptor closed on the target.
+The normal atmospheric temperature condition is that temperature decreases nearly linearly with increase in altitude. The above data indicates that two inversion layers existed, one above the interceptor and one below, at about the time the airborne radar target over the Oak Ridge area was reported. While complete and accurate effects of temperature inversion are not thoroughly understood, it is considered that this effect caused the detection of a ground target to appear to be airborne, first above and then below the interceptor as the interceptor closed on the target.
 
 4. In view of the lack of factual evidence relative to the visual sightings covered in the report, no positive explanation can be offered, however, there are several possible explanations for this sighting.
 
-FOR THE COMMANDING GENERAL,
+FOR THE COMMANDING GENERAL:
 
-BRUNOW W. PEILING
+
+BRUNCH W. FEIUNG
 Colonel, USAF
 Chief, Technical Analysis Division
 Intelligence Department
 
 1 Incl
-Cy ltr 2-7-51 fr Dir
+Cy Ltr 2-7-51 fr Dir
 Spec Invest w/incls
+
+
+[handwritten signature/mark]
+
 
 2
 
-DOWNGRADED AT 8 YEAR INTERVALS;
+DOWNGRADED AT 3 YEAR INTERVALS;
 DECLASSIFIED AFTER 12 YEARS.
 DOD DIR 5200.10
-518-20281-C
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
+519-20281-C
 
 - page 8 -
 

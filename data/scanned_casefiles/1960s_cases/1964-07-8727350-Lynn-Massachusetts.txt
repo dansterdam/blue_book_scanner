@@ -1,132 +1,156 @@
-PROJECT 1007 RECORD
+PROJECT 10073 RECORD
 
 1. DATE - TIME GROUP
-   10 Jul 64 16/0352
+10 Jul 64 12/0352Z
 
 2. LOCATION
-   Lynn, Massachusetts
+Lynn, Massachusetts
 
 3. SOURCE
-   Civilian
-
-4. NUMBER OF OBJECTS
-   One
-
-5. LENGTH OF OBSERVATION
-   More than 10 minutes
-
-6. TYPE OF OBSERVATION
-   Ground-Visual
-
-7. COURSE
-   Varied
-
-8. PHOTOS
-   ☐ Yes
-   ☒ No
-
-9. PHYSICAL EVIDENCE
-   ☐ Yes
-   ☒ No
+Civilian
 
 10. CONCLUSION
-    BALLOON
+BALLOON
+
+4. NUMBER OF OBJECTS
+One
+
+[illegible description of a balloon observed on...]
+
+5. LENGTH OF OBSERVATION
+More than 10 minutes
 
 11. BRIEF SUMMARY AND ANALYSIS
-    Object essentially Star with as reg as GRW II maybe SSE. Moved at some speed to 270°. Object was slowed down and stopped. Moved back overhead. Estimated altitude approx. 20,000 ft. Object moved away steadily to the NW.
+Object resembling Star with an eerie glow II entire SSL. Moved at same speed as Wind. Object had glowed down and streamed. Moved both overhead. Estimated altitude approximately. Object moved away slowly to the NW.
+
+6. TYPE OF OBSERVATION
+Ground-Visual
+
+7. COURSE
+Varied
+
+8. PHOTOS
+[ ] Yes
+[X] No
+
+9. PHYSICAL EVIDENCE
+[ ] Yes
+[X] No
 
 FORM
-FTD SEP 63 0-329 (TDE)    Previous editions of this form may be used.
-
+FTD SEP 43 0-329 (TDE) Previous editions of this form may be used.
 
 - page 1 -
 
-Here is the text from the document:
-
-U.S. DEPARTMENT OF COMMERCE
-WEATHER BUREAU
+610-12
 
 WINDS-ALOFT COMPUTATION SHEET
 (LAND STATION FORM)
 WBAN-20
 
-Identification: [partially illegible, but appears to include date 10 JUL 1964]
+U.S. DEPARTMENT OF COMMERCE
+WEATHER BUREAU
 
-Type of balloon: 100 GR
+Type of balloon: 100 G1K
 
-Orientation: 360° - South
-
-The document is a detailed wind measurement form with columns for:
-- Pilot height above surface
-- Elevation angle
-- Distance from observation point
+[THIS IS TABLE: A complex winds-aloft computation sheet with the following columns:
+- Pilot ht, shape (m.)
+- Slant range (m.) (yds.)
+- h ht. above surface (m.)
+- Elevation angle° (Observed, Smoothed)
+- Distance from observation point (m.)
 - Azimuth angle
-- Wind direction
-- Wind speed
-- Elapsed time
+- Wind (Direction° 240°, Speed (m.p.s.) (mch.))
+- Rawinsonle Time-Altitude Data with sub-columns for Cond., Pressure, Altitude, Elapsed time (min.)]
 
-The form appears to be recording wind measurements at different altitudes, with data points ranging from ground level to approximately 20 levels of altitude.
+Data rows (numbered 1-20):
+1. 315, 344, 1, 2.6, 440, 253.7, 1, 279, 12.0, —
+2. 612, 670, 2, 25.2, 1125, 278.6, 2, 279, 16.6, 5
+3. 918, 1005, 3, 22.7, 2345, 276.1, 3, 276, 15.1, 10
+4. 1224, 1339, 4, 21.9, 3195, 289.5, 4, 279, 13.1, 15
+5. 1530, 1673, 5, 22.1, 3905, 288.5, 5, 276, 11.8, 20
+6. 1836, 2008, 6, 22.4, 4560, 285.3, 6, 264, 11.2, 25
+7. 2142, 2342, 7, 22.8, 5160, 288.2, 7, 258, 10.8, 30
+8. 2448, 2676, 8, 21.2, 6120, 290.5, 8, 259, 10.1, 35
+9. 2754, 3010, 9, 7.23, 6340, 276.7, 9, 266, 12.0, 40
+10. 3060, 3345, 10, 65.1, 7050, 279.9, 10, 262, 11.1, 45
+11. 3366, 3679, 11, 23.5, 7665, 279.1, 11, 265, 9.9, 50
+12. 2250, 2461, 12, —, —, —, 12, —, —, 55
+13. 3672, 4013, 13, —, —, —, 13, —, —, 60
+14. 3978, [illegible], 14, —, —, —, 14, —, —, 65
+15. 4284, 4685, 15, —, —, —, 15, —, —, 70
+16. 4590, 5019, 16, —, —, —, 16, —, —, 75
+17. 4896, 5353, 17, —, —, —, 17, —, —, 80
+18. 5202, 5688, 18, —, —, —, 18, —, —, 85
+19. 5508, 6022, 19, —, —, —, 19, —, —, 90
+20. 5814, [illegible], 20, —, —, —, 20, —, —, 95
 
-Date appears to be July 19, 1964, with times recorded from 06:00 to 12:00.
+[Handwritten notations visible in margins, partially illegible]
 
-Ascension No. 648 is noted on the form.
+Actual
+(local
+standard):
+6/29 July
+1964
+Ascension No. 697
+Orientation: 360°
 
+Year: 1964 Month: 7 Day: 19 Time: 0632
+Year: 1964 Month: 7 Day: 19 Time: 1726
 
 - page 2 -
 
-This appears to be a data form with multiple columns and rows, typical of a technical or scientific document. The document contains:
-
-Left side: A vertical column of numbers ranging from 4100 to 14,275 in increments
-
-Center: Large grid with numbered rows and columns, mostly empty
-
-Right side: A section labeled "Punched Card Data" with two card columns, showing various codes and numbers
-
-Bottom of document: A section labeled "Coded Data for Transmission" with several columns of numbers and codes
-
-The document looks like a standardized form for recording technical or scientific data, possibly related to a research project or data collection effort.
-
+[NON-TEXT PAGE: black-and-white image of a data table or form with handwritten entries, printed grid lines, and what appears to be "Punched Card Data" section in the upper right corner with multiple small data fields]
 
 - page 3 -
 
-Here is the text from the document:
-
 FORM 610-12
 
-Nantucket, Mass. (Memorial Airport)
-41° 15' N 70° 04" W 35th Meridian Ties
-Station Elev. 1/1 Method Obs. Pibal
-"ng" - "spillman" Theodolite -WRMT-57
+Identification: Nantucket, Mass. (Memorial Airport)
+41° 15' N 70° 04' W    75th Meridian Time
+Station Elev. 45' M Wellhead Obs.
+[handwritten: Theodolita - 2230/17 - 5-77]
 
 U.S. DEPARTMENT OF COMMERCE
 WEATHER BUREAU
-
 WINDS-ALOFT COMPUTATION SHEET
-(LAND STATION FORM)
+(HAND STATION FORM)
 WBAN-20
 
-Year 1964 Month JUL Day 16 Time 17:11
-Scheduled 1961 JUL 17 00
-Ascension No. 651
-Orientation, 360° - South
+Page 1
 
-[The rest of the document contains a detailed table with columns for:
-- Sounding range
-- Pilot balloon height above surface
-- Elevation angle (observed and smoothed)
-- Distance from observation point
-- Azimuth
-- Wind direction
-- Wind speed
-- Rawinsonde time-altitude data]
+Type of balloon: [illegible]
 
-The document appears to be a winds-aloft computation sheet from a weather balloon launch at Nantucket Memorial Airport on July 16, 1964.
+[THIS IS TABLE: A complex winds-aloft computation sheet with multiple columns containing data about slant range, elevation angles, distance, azimuth angle, wind direction, speed, and other meteorological measurements. The table has numerous rows of handwritten numerical data.]
 
+Year: 1964
+Month: JUL
+Day: 17
+Time: 20
+
+Ascension No.: 651
+
+Orientation: 360° = South
+
+Remarks: Rawinsonde Time-Altitude Data
+
+[The table contains detailed meteorological observations with columns for:
+- Slant range (m.) (yds.)
+- elevation angle
+- Distance from observation point (m)
+- Azimuth angle 360°=N
+- Wind Direction 360°=N
+- Wind Speed (m.p.s.)
+- Ceiling (m.)
+- Pressure (mb.)
+- Altitude (m.s.l.)
+- Elapsed time (min.)]
+
+[The data appears to be handwritten entries in a systematic format typical of weather balloon observations]
 
 - page 4 -
 
-This appears to be a detailed data recording sheet with multiple columns and rows of numerical data. The left side of the document seems to be a vertical column with numbers ranging from around 5700 to 14,170, and multiple columns of numerical data to the right. There are sections labeled "Surface Transmission Alt, for 10.0 & 300 m" on the left margin. The bottom of the document contains additional rows of data labeled "Coded Data for Transmission". There are also two small tables on the right side of the document labeled "Punched Card Data" with columns for Card No. 1 and Card No. 2. Some of the text and numbers are slightly illegible due to the image quality.
-
+[NON-TEXT PAGE: black-and-white photograph of a data table with handwritten entries, grid format with numerical values and annotations]
 
 - page 5 -
 
@@ -137,97 +161,157 @@ WINDS-ALOFT COMPUTATION SHEET
 (LANDSTATION FORM)
 WBAN-20
 
-Year | Month | Day | Time
-1964 | JUL | 18 | 8
+Actual
+Time
+(h GMT)
+Scheduled
+(G.M.T.)
+Ascension No.
 
-Orientation: 340° South
-Ascension No. 76
+Year
+1964
+[illegible]
 
-The rest of the document is a detailed table with columns for:
-- Elevation angle
-- Distance from observation point
-- Azimuth angle
-- Wind direction
-- Wind speed
-- Computation details
-- Pressure
-- Altitude
-- Elapsed time
+Month
+JUL
 
-The table appears to be a meteorological data recording sheet with multiple rows of numerical data, likely representing wind measurements at different altitudes and times.
+Day
+8
 
+Time
+
+Orientation. 360° = South
+
+Rawindande Time-Altitude Date
+
+[Table with following columns: Story (in meters above ground level), Floust aloft above sfc., Remain ht. above vertical (m.), Elevation angle º, Observed/Smoothed, Distance from observation point (m.), Azimuth angle º, Wind Direction ª 360°=N., Wind Speed (m.p.s.), Computed (mb.), Pressure (mb.), Altitude (m., above sfc.), Elapsed Time (min.)]
+
+Row data (transcribed as legible):
+
+1 | [illegible] | [illegible] | [illegible] | 1420 | 2117.7 | [illegible] | 21.7 | 9.9
+2 | 214 | 21 | [illegible] | 2930 | 2932.7 | 2 | 24.9 | 9.9
+3 | 612 | 21 | [illegible] | 6800 | 6752.3 | 3 | 25.9 | 8.1
+4 | [illegible] | [illegible] | [illegible] | 7140 | [illegible] | 4 | 25.9 | 9.2
+5 | [illegible] | [illegible] | [illegible] | [illegible] | 7952.7 | 5 | 27.9 | 9.9
+6 | [illegible] | [illegible] | [illegible] | 17.7.2 | 9355.9 | 6 | 29.1 | 35.6
+7 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 7 | 27.0 | 5.0
+8 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 8 | 27.0 | 5.9
+9 | [illegible] | [illegible] | [illegible] | 25590 | 23.23.8 | 9 | 26.5 | 9.6
+10 | [illegible] | [illegible] | [illegible] | [illegible] | 25329 | 10 | 27.1 | 9.5
+11 | [illegible] | [illegible] | [illegible] | 29290 | 25.5.0 | 11 | 26.9 | 9.5
+12 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 12 | 27.0 | 9.3
+13 | [illegible] | [illegible] | [illegible] | 27290 | 23149.2 | 13 | 27.7 | 9.5
+14 | [illegible] | [illegible] | [illegible] | [illegible] | 25.3 | 14 | 27.1 | 6.5
+15 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 15 | 26.9 | 7.6
+16 | [illegible] | [illegible] | [illegible] | 26290 | 25920 | 16 | 26.6 | 8.0
+17 | [illegible] | [illegible] | [illegible] | 27.7 | 23.6.3 | 17 | 27.1 | 7.3
+18 | [illegible] | [illegible] | [illegible] | [illegible] | 23.6.0 | 18 | 26.6 | 9.9
+19 | [illegible] | [illegible] | [illegible] | [illegible] | 25.3 | 19 | 27.6 | 9.5
+20 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 20 | 27.9 | 9.7
+21 | [illegible] | [illegible] | [illegible] | [illegible] | 26012 | 21 | 27.0 | 7.6
+22 | [illegible] | [illegible] | [illegible] | [illegible] | 26.9.7 | 22 | 27.2 | 7.5
+23 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 23 | 26.9 | 5.9
+24 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 24 | 27.0 | 7.7
+25 | [illegible] | [illegible] | [illegible] | [illegible] | 26.4 | 25 | [blank] | [blank]
+26 | [illegible] | [illegible] | [illegible] | [illegible] | 25.9 | 26 | 27.2 | 7.60
+27 | [illegible] | [illegible] | [illegible] | [illegible] | [illegible] | 27 | [illegible] | [illegible]
+28 | [illegible] | [illegible] | [illegible] | [illegible] | 27.9.9 | 28 | 27.7 | 2.9
+
+[Right side contains additional data columns for Rawindande measurements with altitude values and elapsed times, many entries illegible or blank]
 
 - page 6 -
 
-The document appears to be a data recording sheet with multiple columns and rows of numerical data. The sheet includes sections for:
-
-- Detailed numerical entries in multiple columns
-- A "Punched Card Data" section on the right side
-- A "Maximum Wind Speed Data" section at the bottom right
-- Columns for "Coded Data for Transmission" at the bottom of the page
-
-The text is mostly numerical values and appears to be some kind of scientific or meteorological data recording form. Some specific section headers are visible, such as:
-
-- Card No. 1 and Card No. 2
-- Type of equipment
-- Min. alt. wind speed
-- Alt. of maximum wind speed
-- Etc.
-
-The document looks like an official form from the 1960s, with a typewriter-style font and a grid layout typical of that era's data recording methods.
-
+[NON-TEXT PAGE: black-and-white scanned document showing a meteorological data table with handwritten entries in a grid format, including columns for various weather measurements and coded data for transmission]
 
 - page 7 -
+
+[stamp: DECLASSIFIED]
+
+*Identification
+
+Portland, Maine (City Airport)
+[illegible]
+Azimuth: North or Sso South
 
 U.S. DEPARTMENT OF COMMERCE
 WEATHER BUREAU
 
 WINDS-ALOFT COMPUTATION SHEET
 (RADIOSONDE FORM)
-
 WBAN-26
-Location: Portland, Maine City Airport
-Date: 1964 Jul 8
-Time: 20z
-Observation Time: 1964 Jul 8 20z
 
-The document is a detailed wind-aloft computation sheet with multiple columns including:
-- Elevation angle
-- Distance from observation point
-- Azimuth
-- Wind direction
-- Wind speed
-- Pressure
-- Altitude
-- Elapsed time
+Orientation, 360°= South
 
-The sheet contains numerous numerical entries across these columns, representing wind measurements at different altitudes and times.
+| Actual Time (D.B.T.) | Year | Month | Day | Time |
+|---|---|---|---|---|
+| 1964 JUL 1 8 | [illegible] | 1964 JUL 1 3 | [illegible] | |
 
-The top of the document shows:
-- U.S. Department of Commerce
-- Weather Bureau
-- Winds-Aloft Computation Sheet
-- Location: Portland, Maine City Airport
-- Date: 1964 Jul 8
-- Time: 20z
+Ascension No.: [illegible]
 
+Rawinsonde Time-Altitude Data
+
+| P (m above sea level) | Ht. above surface (m) | Elevation angle ° Observed | Smoothed | Distance from observation point (km) | Azimuth angle ° | Wind Direction ° 360°= N. | Speed (m/sec) | Comp. Pressure (mb) | S | Altitude (m) | Elevated Ht.(m) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| | 1 | | 27.0 | | | 0° 00' | 1 | -110 | 18.5 | 5 | -1-4 | --- | () |
+| | 2 | | [illegible] | [illegible] | | | 2 | 278 | 17.2 | 10 | -1-4 | 10550 | 4.6 |
+| | | | | | 13.90 | | 3 | 292 | 17.6 | 15 | 5.2 | --- | 65 |
+| 614 | 3 | | | | | | 4 | 268 | 14.5 | 20 | -1-4 | 9 | |
+| 512 | 2 | | 17 | | 25.60 | | 5 | 300 | 15.4 | 25 | 1.4 | 8.2 | |
+| | 4 | | 19.0 | | 1870.0 | [illegible] | 4 | 243 | 15.0 | 30 | -1-1 | -1-1-1 | 16.5 |
+| | 5 | | [illegible] | | 2400 | 28.5 | 5 | 267 | 17.05 | 35 | 5600 | -1-1-5 | 49.5 |
+| | 6 | | [illegible] | 22.4 | 4500 | 22.9 | 6 | 268 | 15.5 | 40 | -1-1-1 | -1-1-1-1 | 50.9 |
+| | 7 | | -3-0 | 21.6 | [illegible] | [illegible] | 7 | 273 | 15.9 | 45 | -1-1-1 | --- | 40.9 |
+| | 8 | | 20.0 | | 6350 | 24.0 | 8 | 298 | 16.9 | 50 | -1-1-1 | C-1C0 | 2649 |
+| 1210 | 9 | | [illegible] | 19.0 | 7300 | [illegible] | 9 | 287 | 13.0 | 55 | 2-2-2 | 9900 | 23.4 |
+| 1190 | 10 | | [illegible] | [illegible] | [illegible] | [illegible] | 10 | 259 | 10.0 | 60 | --- | 8400 | 50 |
+| | 11 | | [illegible] | 1000 | 7500 | [illegible] | 11 | 269 | 10.0 | 65 | --- | 9100 | 30.6 |
+| 2850 | 12 | | -3-0 [illegible] | | 9000 | 20.5 | 12 | 266 | 11.7 | 70 | --- | 4900 | 35 |
+| 2850 | 13 | | [illegible] | 19.4 | 9500 | 26.5 | 13 | 259 | 11.9 | 75 | --- | 10505 | -3-1 |
+| | 14 | | [illegible] | 18.5 | [illegible] | 24.0 | 14 | 239 | 13.0 | 80 | --- | 11140 | 45.5 |
+| 2750 | 15 | | [illegible] | 18.0 | [illegible] | 27.0 | 15 | 259 | 9.9 | 85 | --- | 10.7 | 52.6 |
+| 2050 | 16 | | -1-1-0 20.0 | | 11500 | 1.69 | 16 | 269 | 9.1 | 90 | [illegible] | 12470 | 40-1 |
+| 1867 | 17 | | [illegible] [illegible] | | 12100 | 1.620 | 17 | 266 | 8.5 | 92 | [illegible] | 1513 5 | 49.1 |
+| 1810 | 18 | | [illegible] | 17.0 | 12600 | 1.660 | 18 | 296 | 6.8 | 100 | [illegible] | 7200 | 57.0 |
+| 1615 | 19 | | [illegible] | 16.8 | 13400 | [illegible] | 19 | 2553 | 10.0 | 105 | [illegible] | 12050 | 57.0 |
+| | 20 | | [illegible] | 17.0 | 15000 | 2.646 | 20 | 2375 | 9.6 | 110 | --- | 15210 | -5-1 |
+| | 21 | | 5110 | 2.4 | 14100 | 2.676 | 21 | 245 | 8.6 | 115 | 10.5 | 16150 | 57.1 |
+| 4400 | 22 | | 5110 | 2.0 | 14600 | 2.666 | 22 | 273 | 5.5 | 120 | -1-4 | 17650 | 60.4 |
+| 4235 | 23 | | 5110 | 0.5 | 15000 | 1.67 | 23 | 267.2 | 6.12 | 125 | 9.5 | 18.3 | 64 |
+| 4440 | 24 | | -1-0 | [illegible] | 15500 | 1.614 | 24 | 286 | 9.6 | 130 | --- | 19-40 | 67.5 |
+| 4350 | 25 | | 2700 | [illegible] | [illegible] | 2.575 | 25 | | | 135 | --- | 2 1036 | 71.1 |
+| | 26 | | [illegible] | [illegible] | [illegible] | [illegible] | 26 | 293 | 4.9 | 140 | 8.5 | 23710 | 76.5 |
+| | 27 | | [illegible] | [illegible] | Kzero | [illegible] | 27 | | | | --- | 27994 | -1-6 |
 
 - page 8 -
 
-The document appears to be a data collection form with multiple rows and columns of numerical data. The form includes sections for:
+[handwritten data in tabular format across page]
 
-- Coded Data for Transmission
-- Punch Card Data
-- Maximum Wind Speed Data
+Row headers visible (left column, partially legible):
+[various numerical entries from approximately 27-50]
 
-The form has numerous numerical entries across multiple columns, with rows of data and some sections for additional information like "Type of Equipment" and wind speed measurements.
+Main table contains columns with handwritten entries including:
+- Numerical values (ranging from single digits to four-digit numbers)
+- Time notations
+- Coordinate or measurement data
+- Various abbreviations and symbols
 
-The text is mostly numerical and includes grid references, time stamps, and various coded data points. Some of the text is slightly blurry or faint, making complete legibility challenging in some areas.
+Right side contains a "Punched Card Data" section with multiple sub-tables labeled:
+- Card No. 1
+- Card No. 2
+- Type of equipment (numbered 16, [illegible])
+- Various rows with numerical entries
+- Columns numbered 1-17 with corresponding data values
 
-At the bottom right, there are instructions to "Enter check if additional levels required on reverse side."
+Bottom section labeled "Coded Data for Transmission" with multiple rows of numerical sequences
 
-The document appears to be a standardized data collection form, likely from a scientific or meteorological context, possibly related to a Project Blue Book UFO investigation.
+Lower right contains a box titled "Maximum Wind Speed Data" with text entries including:
+"Alti. alt. wind speed 45 m.p.h. or more (m.)"
+"Alt. of maximum wind speed (m.)"
+"Alti. of minimum wind speed [illegible] at floor wind"
+"Max. alti. wind speed 45 m.p.h. or more (m.)"
+"Enter check if additional levels appear on reverse side."
 
+[Note: Much of the handwritten content is difficult to read with complete certainty due to image quality and handwriting style]
 
 - page 9 -
 
@@ -235,54 +319,43 @@ U.S. DEPARTMENT OF COMMERCE
 WEATHER BUREAU
 
 WINDS-ALOFT COMPUTATION SHEET
-(LANDSTATION FORM)
-WBAN 20
+(RADIOSONDE FORM)
+WBAH-20
 
-Year 1964 Month 07 Day 11 Time 0000
-Station Lynn, Mass.
+Year: [illegible] Month: 1 Day: [illegible] Time: 0050
 
-The document is a detailed meteorological data sheet with multiple columns including:
-- Elevation angle
-- Distance from observation point
-- Azimuth angle
-- Wind direction
-- Wind speed
-- Computation details
-- Altitude
-- Elapsed time
+[Multiple columns with header information]
+Scheduled: [illegible] [illegible] [illegible] 0030
 
-The form is filled out with numerous numerical entries across multiple rows, tracking wind conditions at different altitudes and times.
+Acceleration No.: [illegible]
 
-The top right of the document shows:
-- Accession No. 9739
-- Date 7/11/64
+[Main data table with following columns:]
+Time of balloon (min. type) | Height above surface (m.) | Elevation angle* Observed | Smoothed | Distance from Observation point (m.) | Azimuth angle | Wind Direction* (dgrs N) | Wind Speed (knots) | Rawindcode Time Altitude Data | Pressure (mb.) | Altitude (m., est.) | Elapsed time (min.)
 
-The document appears to be a standard meteorological recording form used to track wind conditions at various altitudes.
+[Table contains extensive numerical data with entries from row 1 through row 27+, with measurements including:]
+- Heights ranging from approximately 200-6000+ meters
+- Elevation angles from 2.5° to 27+°
+- Distances ranging from 230 to 15930 meters
+- Azimuths from 230° to approximately 280°
+- Wind directions from 8.3 to 20.7 knots
+- Various pressure and altitude calculations
+- Elapsed times from 5 to 145+ minutes
 
+[The table appears to be a radiosonde (weather balloon) observation sheet with detailed wind aloft measurements taken at regular intervals]
 
 - page 10 -
 
-The image appears to be a detailed data recording sheet with multiple columns and rows of numerical data. The sheet includes sections for:
-
-- Detailed time-based numerical entries
-- Punched Card Data
-- Card No. 1 and Card No. 2 with Type of Equipment
-- Maximum Wind Speed Data
-
-At the bottom of the sheet, there is a section labeled "Coded Data for Transmission" with additional numerical entries.
-
-The document looks like a standardized form for recording scientific or meteorological data, with precise numerical measurements across multiple columns and rows.
-
+[This image shows a densely populated data table with handwritten entries. Due to the poor image quality, heavy handwriting, numerous small numbers, and overlapping text, much of the specific content is illegible. The page appears to be a meteorological or scientific observation record with multiple columns and rows of numerical data. There are sections labeled "Coded Data for Transmission" and what appears to be reference information on the right side of the page, but the specific values and most text entries cannot be reliably transcribed with confidence.]
 
 - page 11 -
 
 September 16, 1964
 
-Dear Mr.
+Dear Mr. [redacted]
 
 This is in reply to your recent letter in which you detailed the observation of an Unidentified Flying Object.
 
-Our Project Blue Book office at Wright-Patterson Air Force Base, Ohio, has attempted an evaluation of this observation from the details you gave. The motion and description or the object is comparable to that of a radiosonde or a rawinsonde balloon with a light attached.
+Our Project Blue Book office at Wright-Patterson Air Force Base, Ohio, has attempted an evaluation of this observation from the details you gave. The motion and description of the object is comparable to that of a radiosonde or a rawinsonde balloon with a light attached.
 
 Enclosed is a summary of information on Project Blue Book, the program for the investigation and evaluation of UFO reports. We think this information will be of interest to you.
 
@@ -295,48 +368,60 @@ Office of Information
 
 Enclosure
 
-Mr.
+Mr. [redacted]
 Lynn, Massachusetts
 
-
 - page 12 -
+
+[ATIC Form 329 - Winds-Aloft Computation Sheet]
+
+*Identification
+Portland, Maine (City Airport)
+43° 39'N 79° 19'W 75th Mer.
+Rawin WBRT 60 Elev. 20m.
 
 U.S. DEPARTMENT OF COMMERCE
 WEATHER BUREAU
 
 WINDS-ALOFT COMPUTATION SHEET
 (LANDSTATION FORM)
-WBAN-20
+*BAN-20
 
-Identification:
-Portland, Maine (City Airport)
-43° 39N 70° 19W 75th Mer.
-Rawin WOR 00 Elev. 20ft.
+Year: 1964 | Month: JUL | Day: 7 | Time: /
 
-Year: 1963  Month: JUL  Day: 7  Time: 1
+Ascension No. [handwritten: 19]
 
-Orientation: 360°-South                   Rewindcards Time-Altitude Data
+Type of balloon: [handwritten notation]
 
-[The rest of the document contains a detailed table with columns for:
-- Slant range
-- Pilot altitude
-- Rawin altitude
-- Elevation angle
-- Distance from observation point
-- Azimuth angle
-- Wind (direction and speed)
-- Altitude
-- Other technical measurements]
+[THIS IS TABLE: A detailed winds-aloft computation sheet with multiple columns including:
+- Pilot ht. above surface (m.)
+- Slant range (m.) (yds.)
+- Rawin ht. above surface (m.)
+- Elevation angle ° (Observed and Smoothed)
+- Distance from observation point (m.)
+- Azimuth angle °
+- Direction ° 360°=N
+- Wind Speed (m.p.s.)
+- Contact (S)
+- Pressure (mb.)
+- Altitude (ft. m. s.l.)
+- Elev. time (ft.)
 
-The document appears to be a meteorological wind observation record from Portland, Maine on July 7, 1963.
+The table contains 19+ rows of data with various measurements and calculations. Many entries contain handwritten values including numbers like 370, 1140, 1189, 2360, 2610, 2720, 3170, 3250, 2870, 3120, 2270, 3430, 4130, 4380, 4375, 4028, 4110, 4310, 3480]
 
+[Stamp at bottom left: "Stamp the followings: Name of Station, Last and long., Local Standard Time, ___th meridian, Elev. of Station, Method of obs., e.g., rawinsonde, pibal, Type of equip., e.g., OE-57, OMD-1A, OALD, SCT-658, theodolite"]
 
 - page 13 -
 
-This appears to be a detailed data recording sheet with multiple columns and rows filled with numerical data. The document looks like a technical or scientific log sheet with various measurements and calculations. On the left side, there is a vertical text indicating "Termination Alt. for 150 & 500 m or with respect to ground" and other marginal notes. The right side of the document contains additional columns labeled "Punched Card Data" with sections for "Card No. 1" and "Card No. 2" and details about types of equipment. The bottom of the sheet has additional rows of numerical data and some summary sections. Due to the complexity of the data, I cannot confidently transcribe all the specific numbers without risking inaccuracy.
-
+[NON-TEXT PAGE: black-and-white photograph of a data table with handwritten and typed entries, appearing to be meteorological or scientific observation data with multiple columns and rows of numerical values]
 
 - page 14 -
+
+*Identification
+
+Portland, Maine (City Airport)
+43° 39'N 70° 18'W 70ft. Msl.
+Range: 1337'60' East, 2011ft.
 
 U.S. DEPARTMENT OF COMMERCE,
 WEATHER BUREAU
@@ -345,203 +430,166 @@ WINDS-ALOFT COMPUTATION SHEET
 (LANDSTATION FORM)
 WBAN-20
 
-Identification:
-Portland, Maine (City Airport)
-43° 39N 70 12W 7th Mon.
-Winds 237° 60 Est. Winds
+Year Month Day Time
+Record
+1964 JUL 13
+Scheduled
+(G.M.T.) 1964 JUL 13
 
-Page 1
+Assignee No. 7/10
 
-Type of Balloon: 600 Clipper
+Page
+1
 
-Year: 1964  Month: JUL  Day: 13  Time: 18
+Type of balloon: Pibalsonde [?]
 
-Orientation: 360° - South   Ascension No.: 776
+Orientation, 369°-South
 
-[The rest of the document contains a detailed table with columns for:
-- Sounding range
-- Height above surface
-- Elevation angle
-- Distance from observation point
-- Azimuth angle
-- Wind direction
-- Wind speed
-- Geopotential height
-- Pressure
-- Temperature
-- Elapsed time
+Rawinsonde Time Altitude Data
 
-The table contains multiple rows of meteorological data with various measurements at different altitudes.]
+Ht. above sfc. (m.)
 
+Altitude (m., m.s.l.)
+
+Elapsed time (min.)
+
+[Table with columns for:]
+- Pilot balloon ht. above surface (m.)
+- Pibalsonde elevation angle° Observed Smoothed
+- Distance from observation point (m.)
+- Azimuth angle °
+- Wind Direction° 360°= N.
+- Wind Speed (m.p.h.)
+- Condition
+- Pressure (mb.)
+- Altitude (m., m.s.l.)
+- Elapsed time (min.)
+
+[Multiple rows of numerical data from row 1-19, containing values for:]
+- Heights: 216, 350, 610, 812, 1013, 601, 1234, 1549, 1710, 1880, 1920, 2100, 3220, 2015, 2130, 2230, 2380, 2330, 2510, 2680
+
+[Corresponding wind measurements, elevations angles, distances, azimuths, directions, and speeds throughout the table]
+
+[Left margin contains a legend:]
+- Ht. mp the 
+- le swings
+- Name of 
+- station
+- Lat. and 
+- long.
+- Local 
+- Standard 
+- time, ___th 
+- meridian
+- Elv. of Station
+- Method of
+- obs., a.g.,
+- (and so on,
+- tower, Prael
+- Type of
+- Mast, 2-sky,
+- wind-sel,
+- MH-1A,
+- WND-1,
+- -CR-6B,
+- (haorodlie
+
+[stamp: FB FORM 619-12
+OT D-080WB-DC]
 
 - page 15 -
 
-Here is the text I can extract from the document:
-
-Termination
-Alt. for
-150 to 300 m.
-are with
-respect to
-ground, alt.
-for other
-standard levels
-
-Punched Card Data
-Card No. 1
-Type of
-equipment
-
-Card No. 2
-Type of
-equipment
-
-Maximum Wind Speed Data
-Wis. alt. wind speed
-15 m. alt. or more (m/s)
-Alt. of anemom.
-wind measuring
-point (m)
-Dir. (general wind speed
-(m/s) at above wind
-point, alt. wind speed
-(m/s) at standard levels
-upper or lower side)
-
-The rest of the text appears to be numerical data in a grid format, which includes columns with various numbers and measurements. The specific details of these numbers are too complex to transcribe fully in this format.
-
+[NON-TEXT PAGE: black-and-white photocopy of a data table with handwritten entries, appears to be meteorological or scientific observation records with multiple columns and rows of numerical values]
 
 - page 16 -
 
-Here is the text from the document:
+FORM 60-12
+
+*Identification
+Portland, Maine (City Airport)
+43° 38'N 70° 19'W 75th Mer.
+Rawin WDRT 60 Eft. 25%
 
 U.S. DEPARTMENT OF COMMERCE
 WEATHER BUREAU
 
 WINDS-ALOFT COMPUTATION SHEET
-(LAND STATION FORM)
+(LANDSTATION FORM)
 WBAN-20
 
-Location: Portland, Maine (City Airport)
-43° 39'N 70° 18'W 75th Mer.
-Rawinsonde WORT 60 Est. 20K
+Year: 1964
+Month: JUL
+Day: 15
+Time: 1200
 
-Actual Time: 1964 JUL 18 16:17
 Ascension No. 777
 
-[The rest of the text is in a tabular format with columns for:
-- Sounding level
-- Height/close
-- Rowin surface
-- Elevation
-- Distance from observation point
+Page: D
+
+Type of balloon: Pilot
+
+[THIS IS TABLE: A detailed winds-aloft computation sheet with multiple columns including:
+- Pilot balloon sighting range (m), (yds.)
+- Observation parameters (Mt. elev., etc., in.)
+- Elevation angle
+- Observed
+- Smoothed
+- Distance from elevation point (m)
 - Azimuth angle
-- Wind direction
-- Wind speed
+- Direction of 360° N.
+- Speed (m.p.s.)
+- Height (m)
+- Altitude data columns
 
-The table contains multiple rows of numerical data recording wind measurements at different altitudes.]
+The table contains 19 rows of numerical data with various measurements and observations. The data appears to be hand-written entries with elevations ranging from approximately 214 to 6432 feet and various directional and speed measurements.]
 
+[handwritten notes on left margin are partially visible but not fully legible]
 
 - page 17 -
 
-This appears to be a detailed data recording sheet with multiple columns and rows of numerical data. On the left side, there is a vertical text section that reads "Termination Alt. for 150 & 300 ft. are with respect to ground, alt. for other standard levels in ft. msl. etc."
-
-The document contains numerous numerical entries across multiple columns, with rows numbered from 20 to 47. There are sections for "Coded Data for Transmission" at the bottom of the page, and on the right side there are additional columns for "Punched Card Data" and "Maximum Wind Speed Data".
-
-The document looks like a scientific or meteorological data recording sheet, possibly related to atmospheric measurements or flight data. However, without additional context, I can only describe the visual layout and structure of the document.
-
+[NON-TEXT PAGE: black-and-white photograph of a data table or spreadsheet with handwritten and printed entries, multiple columns and rows containing numerical values and abbreviated text]
 
 - page 18 -
 
-2/19/64
-Lynn, Mass.
+[handwritten: 18 Frost St
+Lynn Mass]
 
-Dear Major Jack,
+[handwritten: 8/9/64]
 
-I have received the new Eastern AFB UFO report - which was submitted by me, and forwarded to 1st Sgt. Ellington, Hq. Mayer. The evaluation is a joke. I'll go along with that for Douglas, but if it is necessary to make a serious belief in this matter, then there is really great cause for concern over the intelligence of those responsible for such an evaluation. I consider this UFO a gross affront to the intelligence of those involved in this sighting. You know better than to believe this, and so do I.
+[handwritten: Byron Weaver]
 
-Sincerely,
+Dear Major Jacobs,
 
+I have received the two eastern of the UFO sightings I was submitted by me, and forwarded to Dayton, Ohio, by Major Weaver N. Kimball Head Sgt AFRD. If the evaluation is a sable, I'd you along with that for laughs. In that of apparent a sermon held in this matter. If in case is really great news for concern over the sighting of a third responsible for such an evaluation. I consider the sighting a great effort to the enlightenment of those involved in this sighting. You I would rather have to believed this, or has do I.
+
+[illegible]
 
 - page 19 -
 
-As you may be aware, I have been involved in another UFO, seemingly unwittingly, over a daylight eight. Sing somewhat in this shaped object stopped down in this city directly, and then reversed. This case was discussed by myself and a person who kindly, position of director of Flight Testing on Project SAGE, as I am already aware that these so-called UFO are actively clean space craft from elsewhere. I felt that some several of these craft have appeared and maneuvered over my home area a period of time. That a pattern of activity at best perhaps been shown to exist on the part of the occupants of said craft. If so I feel that some good use could be made of this fact, if at all is a fact.
+[handwritten: As a sour way to excuse, I have been involved in somewhat UFO, was among us, I had a daylight sight very much having a disc shaped object In the sky directly, I was told, then very used. This case was discussed by myself and a person who slightly positions at director of flight falling on Project SAUCER, as I am already aware that there sounded UFO are actively also sighted right from elsewhere I felt that some several of there sightings appeared at maneuvered ones my home near a period of time, I had a pattern on tie at hat perhaps been to exist on the part of the occupants of said craft. It so affected ame you we called be made of this part of it is a fact]
 
-Sincerely,
-
-[Name redacted]
-
+[signature redacted by black line]
 
 - page 20 -
 
-Lynn, Mass.
-July 24, 1964
+[handwritten: [illegible - redacted section at top]]
+
+[handwritten: Lynn, Mass
+July 22, 1964]
 
 Dear Sir,
 
-On Saturday night at 10:55 PM, a UFO, maneuvered over Lynn, Mass. There it was some magnitude, as the echo on satellite. My wife and I watched this object as it traveled south, south-east. It moved at the same apparent speed as Echo 1 and I thought that it was not a plane, as the object it showed clearly and stopped then moved at a point directly over - head, quickly came to a stop again. It seemed motionless. This time, on a careful survey, then mistaken for a star. This is not a plane. It is to the naked eye. This watch
-
+On Saturday night at 10:55 P.M. - 9 U.F.O. maneuvered over Lynn, Mass. There seemed to be another star like one maneuvered, as the Ebe it orbitted, maneuvered and swatched at his object as if landed back Sat. Seemed at the same sophisticated as Ebe, -- and I watched flitting it others weather a -- mast. As one day object in shined and stopped there, next each used marked its same. 0 a burst blueish above head where it stopped across it seemed mauvelous this time, and saw boldly lines there where mistaken for a star. So it is most if looked at the nearest eye. The craft.
 
 - page 21 -
 
-Here is the OCR text from the document:
+[handwritten: object in it, I would have been able to observe it more clearly. Watching it turned around. The there she made motions. I felt nervous. Just continued to move slowly. I kept our eyes on it. It appeared to be at the E.N.E. and swayed. I could see a glowing red light in the top compartments as I looked from. Telescope a 4" Reflector type view.
 
-3
+I immediately with a red rocket with the object still is making motions, as the water evidences dared-you. Object was directly a house to south from my home and the Telescope was pointed straight up making a very different to getting eye to eyepieces, is I upped it was still news to the back of it by 8 pm to go past and set it was in the position and left it.
 
-Object in it, as I was only the object for several of
-motions which my wife had minutes and it remained
-brought out. Then thru the at motionless. I told my wife
-just continued to move steadily to keep her eyes on it, while
-away to the ENE, and watch I went out to bring out my
-ed it until it faded from telescope of 4" reflector type.
+This same object had oscillated in at the property and 0 again very perfectly one two times at the seaport. This year in a hanging very bright light, an angle were as 2 sensual up at the immedia[illegible] uv and I recall the object in the flying the air orderly to blue.
 
-view.
-
-I was called on the telephone at
-10:55 p.m. there about by my
-sister who lives about a quarter
-mile from my home and she
-told me she and her hus-
-band had watched it the at-
-tached time in the sky for
-10 minutes before she called
-me to go out and see it.
-
-This same object had occasionally
-been definitely over her place
-during very bright, lighting
-up the immediate area and
-giving the sky a dark blue
-color. This object also stayed
-not moved while she was
-it prior to calling me. When
-my wife and I were observing
-this object, it stiffed and moved
-slightly only occasionally.
-
-I arrived outside with my
-telescope of 4" reflector type,
-the object still as
-motionless, as the
-object was directly a beam,
-the telescope was pointed
-straight up making it very
-difficult to get my eye to
-the eyepiece, so I attempted
-to go to the back of the yard
-so I would get an angle shot
-at it. We watched it in the
-scope out of the pupity and I again
-sat this scope out. This gave me
-an angle view so I was able
-to see the object in the finder
-scope. I guess focusing of
-the telescope was like the
-object again began to move
-to the ENE, as my scope was
-not an easy difficult if not more
-possible to locate same.
-
+The object also still in the night, no star like and measure in in it, object again began to move. Keeping near calling me. When things came to the left to N. my north and I have answer, as any mark has arrange, [illegible] this object it still stopped and beside it further. It appeared in July, it may have been at north. It is to be left.]
 
 - page 22 -
 
@@ -552,49 +600,44 @@ UNITED STATES AIR FORCE
 WRIGHT-PATTERSON AIR FORCE BASE, OHIO
 
 REPLY TO
-ATTN OF: TDEV
-SUBJECT: UFO Sighting, 13 Jul 64, Lynn, Massachusetts                                   4 Sep 64
+ATTN OF: [illegible]
+
+SUBJECT: UFO Sighting, 13 Jul 54, Lynn, Massachusetts          4 Sep 64
 
 TO: HQ USAF SAFOI FB (Mrs Gaiser)
-     WASH D C 20330
+    Wash D C 20330
 
-1. Reference the attached letter from Mr. [redacted] regarding
-a satellite-like observation on 13 Jul 64 at Lynn, Massachusetts.
+1. Reference the attached letter from Mr[illegible], regarding
+a satellite-like observation on 13 Jul 54 at Lynn, Massachusetts.
 
 2. The direction of motion to the SSW is contrary to normal
-orbital flights. The motion and description of the object is
-comparable with a radiosonde or a ravinsonde balloon with a light
+orbital flight paths. The motion and description of the object is
+comparable with a radiosonde or a rawinsonde balloon with a light
 attached. With the exception of the lighting up of the immediate
-area, which was not observed by Mr. [redacted], but reported by his
+area, which was not observed by[illegible], but reported by his
 sister, no association can be established between the object
-observed by him and his wife or that of his sister. It is suggested that Mr. [redacted] be informed that his sighting has been
-evaluated as a probable balloon observation and that a Fact
-Sheet be forwarded to explain the Air Force's position on unidentified flying objects.
+observed by him and his wife or that of his sister. It is suggested that Mr[illegible]'s information that his sighting has been
+evaluated as a probable balloon observation and that a fact
+sheet be forwarded to explain the Air Force's position on unidentified flying objects.
 
 FOR THE COMMANDER
 
-[Signature]
+[handwritten signature]
 Colonel, USAF
 Deputy for Technology
 and Subsystems
 
 1 Atch
-Ltr, [redacted]
-22 Jul 64
+Ltr, [illegible]
+22 Jul 54
 
 YOU - THE NUCLEUS OF SECURITY!
 
-
 - page 23 -
 
-I have been to Houghton Planetarium on Tuesday, July 14, 1964, as I had our Planetarium to talk to Mr. Walter M. Webb, director of the Planetarium. The purpose of this appointment had been to discuss a new method by myself, and a friend of this time. Mr. Webb brought up the real test of the UFO and mention of a recent reports of sightings. Mr. Houghton was also there, in which the object made a near landing. He also said he was interested in getting recent sightings.
+[handwritten: I have been to Houghton Planetarium on Tuesday, July 14, 1964, as I had an appointment to talk to Dr. McCord, N. W.B.L., director of the Planetarium. The purpose of this appointment had been to discuss a lens of concerning made by myself, and it turned out at this time Mr. Webb brought up the sub ject of the UFO and mentioned ed a recent report of a sighting very in Highlanders area of Xigorn in worlds the safest made to near here only. No else said it matters in getting recent sightings. Two days after this request is pretty much served. I have sent this report to Mr. Webb and have asked for a meeting with him, to fully discuss the UFO situation. His telling is to tell the truth and at the chips fall where they may. as Pa]
 
-Four days after this request, I have sent this report to Mr. Webb, and have asked for a meeting, with his help, to fully discuss the UFO situation.
-
-His feeling is to tell the truth, and let the chips fall where they may.
-
-As [illegible text]
-
+[The handwriting becomes increasingly difficult to read toward the bottom, with the final line partially obscured or redacted with black ink]
 
 - page 24 -
 
@@ -605,82 +648,92 @@ UNITED STATES AIR FORCE
 WRIGHT-PATTERSON AIR FORCE BASE, OHIO
 
 REPLY TO
-ATTN OF: TDFCC/Maj Mills/57223
+WITH AT: TDFCC/Maj Mills/57223
+
 SUBJECT: Meteorological Data
 
-TO: TIEW (Maj Quintanilla)
+DEC 3 1954
+
+TO: TDEW (Maj Quintanilla)
 (TSgt Moody)
 
-1. Reference your November request for meteorological data. The attached data are for 1964 dates: 2 Apr, 18 May, 9-10 and 18-19 July.
+1. Reference your November request for meteorological
+data. The attached data are for 1964 dates: 2 Apr, 13
+May, 9-10 and 18-19 July.
 
-2. I have extracted the wind data for Boston and Cleveland areas.
+2. I have extracted the wind data for Boston and Cleveland
+areas.
 
 3. Please call if any further explanations are needed.
 
-[Signature]
-GEORGE MILLS II
+[handwritten: GEORGE MILLS II]
 Major, USAF
 Meteorologist
 
 6 Atch
-1. Boston and Cleveland winds, 18-19 Jul 64
-2. Madison, Wisconsin, 2 Apr Surface Data
-3. Washington, D.C. 18 May Surface Data
-4. Portland, Me., Boston, Mass. and Nantucket, Mass., July 16-19 Upper Wind Data
-5. Toledo, Ohio and Pittsburg, Pa., 17-18 July Upper Wind Data
-6. Adiabatic Charts for Missouri area, 9-10 July
+(1) Boston and Cleveland
+    winds, 18-19 Jul 64
+(2) Madison, Wisconsin,
+    2 Apr Surface Data
+(3) Washington, D.C. 13 May
+    Surface Data
+(4) Portland, Me., Boston,
+    Mass. and Nantucket, Mass.
+    July 16-19 Upper Wind Data
+(5) Toledo, Ohio and Pitts-
+    burg, Pa., 17-13 July Upper
+    Wind Data
+(6) Adiabatic Charts for
+    Missouri area, 9-10 July
 
-[Stamp: DEC 3 1964]
-
-[Bottom of page: "YOU - THE NUCLEUS OF SECURITY"]
-
+[stamp: YOU - THE NUCLEUS OF SECURITY!]
 
 - page 25 -
 
 Boston Area Winds 18-19 July 1964, Local Times
 
-Directions in degrees from which wind blows, e.g., 240 is a SW wind 270 is from the west. Speed in knots.
+Directions in degrees from which wind blows, e.g., 240
+is a SW wind 270 is from the west. Speed in knots.
 
-18 July 1800L                19 July 0000L         19 July 0620L
-1000 Ft
-Level     Degrees   Knots    Degrees   Knots    Degrees   Knots
+18 July 1800L          19 July 0000L          19 July 0520L
+1000 FT
+Level        Degrees  Knots      Degrees  Knots      Degrees  Knots
 
-Surface     240       23       240       30       230       22
-2           250       25       260       37       290       30
-3           260       24       260       33       300       30
-4           260       25       260       25       290       26
-5           260       25       260       19       280       23
-6           270       28       270       18       270       22
-7           270       29       270       17       260       21
-8           270       28       270       16       250       21
-9           270       23       270       14       260       23
-10          270       19       290       22       260       21
-12          260       23       270       15
-14          260       19       270       15
-16          270       16       300       20
-18          290       19       300       21
-20          290       18       300       18
-23          290       15       300       27
-25          300       15       300       29
-30          280       18       280       34
+Surface      240      23         240      30         230      22
+2            250      25         260      37         290      30
+3            280      24         260      33         300      30
+4            260      25         260      25         290      26
+5            260      25         260      19         230      23
+6            270      28         270      18         270      22
+7            270      29         270      17         260      21
+8            270      28         270      16         250      21
+9            270      23         270      14         260      23
+10           270      19         290      22         260      21
+12           260      23         290      15
+14           260      19         270      15
+15           270      16         270      20
+18           290      19         300      21
+20           290      18         300      18
+23           290      15         300      27
+25           300      15         300      29
+30           280      18         280      34
 
 Cleveland Area Winds 18 July 1964 estimated for 0245 GMT
 
-Surface     220       11
-2           220       20
-3           230       20
-4           240       20
-5           240       16
-6           250       15
-7           260       14
-8           280       11
-9           300        9
-10          300        6
-
+Surface      220      11
+2            220      20
+3            230      20
+4            240      20
+5            240      16
+6            230      15
+7            260      14
+8            280      11
+9            300      9
+10           300      6
 
 - page 26 -
 
-Here is the text from the document:
+610-12 - Identification
 
 U.S. DEPARTMENT OF COMMERCE
 WEATHER BUREAU
@@ -689,68 +742,108 @@ WINDS-ALOFT COMPUTATION SHEET
 (LAND STATION FORM)
 WBAN-20
 
-Year: 1964   Month: 07   Day: 17   Time: 1200
+Year: 1960 JUL
+Month: 12
+Day: [illegible]
+Time: [illegible]
 
-Type of balloon: 100 Cy
+Actual
+(Sand.
+contr.)
 
-Orientation: 300° South
-Ascension: 1667
+1960 JUL
+12 [illegible]
 
-The rest of the document contains a detailed table with columns for:
-- Silent range (ft/yds)
-- Pilot height above surface
-- Elevation angle
-- Distance from observation point
-- Azimuth angle
-- Wind direction
-- Wind speed
-- Rawinsonde time and altitude data
+Ascension No.: [illegible]
 
-Most of the table cells are filled with numerical data corresponding to different altitude levels.
+Type of balloon / [illegible]
 
+Pilot balloon observation data table with the following columns:
+- Slant range (m.) (yds.)
+- Pilot balloon ht. above ht. above surface (m.)
+- Elev [illegible]
+- Elevation angle° (Observed / Smoothed)
+- Distance from observation point (m.)
+- Azimuth angle °
+- Wind (Direction° 360°-N, Speed (m.s.))
+- Rowinsonde Time-Altitude Data (Can. / Pressure (mb.) / Altitude (m., m.a.l.) / Elapsed time (min.))
+
+Data rows with values:
+Row 1: 270, 150, 2116, 1, [illegible], 980, 215.5, 1, 9.19, 1510
+Row 2: [illegible], 2, 20.6, 1285, 219.3, 2, 233, 155
+Row 3: 670, 3, 19.7, 273.5, 227.4, 3, 242, 151
+Row 4: 612, 4, 20.1, 254.5, 233.7, 4, 256, 126
+Row 5: 891, 5, 21.2, 664.6, 239.9, 5, 273, 114
+Row 6: 1001, 6, [blank cells], , , 6, [blank], [blank]
+Row 7: 1350, 7, [blank cells], , , 7, [blank], [blank]
+Row 8: 2170, 8, [blank cells], , , 8, [blank], [blank]
+...continuing through rows 9-20 with mostly blank cells
+
+Orientation: 260°-S
+
+[stamp: appears present at top of form]
 
 - page 27 -
 
-This appears to be a data collection form with multiple rows and columns. The form includes sections for:
-
-- Vertical axis with numerical values from 4000 to 12,175
-- Horizontal columns numbered from 22 to 50
-- A section labeled "Punched Card Data"
-- A section for "Coded Data for Transmission" at the bottom
-- Columns for various measurements and equipment types
-
-The form looks like a standardized data recording sheet, possibly for scientific or meteorological observations. Some text is partially visible on the left side of the form, but it is mostly cut off or illegible.
-
-At the bottom right, there are instructions and fields for wind speed, maximum wind speed, and other meteorological measurements.
-
+[NON-TEXT PAGE: black-and-white technical data chart with numerical tables, wind speed data, and meteorological measurements]
 
 - page 28 -
 
-Here is the text from the document:
+[stamp: 121 610 12]
 
-FILED BOSTON CO. MASS.
-420 BOYLSTON ST. ROOM 710 ORAW
-PIBAL THERMOSONDE
-76TH WRG FRIDAY 14 MSL
+**Identification**
+
+NANTUCKET CO. MASS.
+42° 05'N 73° 00'W
+PIBAL THEODOLITE
+730 A.M. JULY 11 MSL
 
 U.S. DEPARTMENT OF COMMERCE
 WEATHER BUREAU
+
 WINDS-ALOFT COMPUTATION SHEET
 (LAND STATION FORM)
 WBAN-20
 
-Year 44 Month 7 Day 14 Time 00*
-Ascension No. 649
+Actual (local standard): 1/11, Jul, 14, 0009
 
-Orientation, 360° - South
+Schedule (GMT): [illegible], [illegible], [illegible], [illegible]
 
-The document appears to be a winds-aloft computation sheet from the U.S. Department of Commerce Weather Bureau, dated July 14, 1944, with various meteorological data recorded in a detailed table format showing elevation, distance, wind direction, speed, and other atmospheric measurements.
+Ascension No. 6549
 
+Orientation, 360° = South
+
+Rawinsonde Time-Altitude Data
+
+Type of balloon: 100 GR.
+
+| Pibal site (m.) | Slope range (m.) (yds.) | Wind site (m.) above surface (m.) | Elevation angle° Observed | Smoothed | Distance from observation (m.) | Azimuth angle ° | Wind Direction° 360° N. | Wind Speed (m.p.h.) | Corrections | Pressure (mb.) | Altitude (m., m.s.l.) | Elapsed Time (min.) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 218 1 | 240 | 755 | 2366 | 1 | 245 | 17.1 | | | | |
+| 356 | 18.1 | 2050 | 2449.8 | 2 | 259 | 20.0 | 5 | | |
+| 612 2 | 17.9 | 3120 | 2521.1 | 3 | 265 | 16.8 | 10 | | |
+| 670 3 | 18.4 | 3970 | 2594.5 | 4 | 269 | 11.8 | 15 | | |
+| 991 4 | 19.3 | 4570 | 2555 | 5 | 262 | 9.8 | 20 | | |
+| 1589 5 | 20.4 | 5053 | 2566.9 | 6 | 266 | 9.7 | 25 | | |
+| 1590 6 | 21.5 | 5595 | 2572.5 | 7 | 270 | 8.9 | 30 | | |
+| 1970 7 | 22.0 | 6475 | 2582.8 | 8 | 271 | 7.7 | 35 | | |
+| 1710 8 | 22.5 | 6520 | 2596.9 | 9 | 267 | 7.0 | 40 | | |
+| 2340 9 | 7.6 | 6910 | 2596.8 | 10 | 265 | 6.5 | 45 | | |
+| 1620 10 | | | | 11 | | | 50 | | |
+| 2070 11 | | | | 12 | | | 55 | | |
+| 2260 12 | | | | 13 | | | 60 | | |
+| 2430 13 | | | | 14 | | | 65 | | |
+| 3350 14 | | | | 15 | | | 70 | | |
+| 2610 15 | | | | 16 | | | 75 | | |
+| 3130 16 | | | | 17 | | | 80 | | |
+| 4105 17 | | | | 18 | | | 82 | | |
+| 2240 18 | | | | 19 | | | 90 | | |
+| 2570 19 | | | | 20 | | | 92 | | |
+| 2825 20 | | | | | | | | | |
 
 - page 29 -
 
-This appears to be a data collection form with multiple rows and columns. At the bottom of the form, there is a section labeled "Coded Data for Transmission" which contains some numerical entries. On the right side of the form, there is a "Punched Card Data" section with two card columns showing various numerical values. The form seems to be a standardized data recording sheet with numbered rows from 21 to 50, and columns for different types of information. Some handwritten notes are partially visible on the left side of the document, but they are not fully legible.
-
+[NON-TEXT PAGE: black-and-white photograph of a punched card data sheet with numerical tables and grid entries, appears to be computer punch card or data processing document from mid-20th century]
 
 - page 30 -
 

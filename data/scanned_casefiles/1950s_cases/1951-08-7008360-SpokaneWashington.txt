@@ -6,25 +6,39 @@ PROJECT 10073 RECORD CARD
 2. LOCATION
 Spokane Washington
 
+12. CONCLUSIONS
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
 3. DATE-TIME GROUP
-Local: ____
-GMT: 20/1910Z
+Local ___________________
+GMT 20/1910Z
 
 4. TYPE OF OBSERVATION
-☒ Ground-Visual
-☐ Air-Visual
-☐ Ground-Radar
-☐ Air-Intercept Radar
+[X] Ground-Visual
+[ ] Ground-Radar
+[ ] Air-Visual
+[ ] Air-Intercept Radar
 
 5. PHOTOS
-☐ Yes
-☒ No
+[ ] Yes
+[X] No
 
 6. SOURCE
 Not Given
 
 7. LENGTH OF OBSERVATION
-20 Minutes
+20 minutes
 
 8. NUMBER OF OBJECTS
 1
@@ -32,99 +46,82 @@ Not Given
 9. COURSE
 S
 
-10. BRIEF SUMMARY
-Object was ELLIPTICAL & seemed flat in appearance. 2 ft long & 8 to 10 inches width. Color white or aluminum. No trail or exhaust. Climbed slowly. Weaving or fluxations not noticeable. Witness judged object to be about 2 mi before disappearance.
+10. ALTITUDE AND LIGHTING
+Object was elliptical & seemed flat in appearance. 2 ft long & 8 to 10 inches width. Color white or aluminum. No trail or exhaust. Climbed slowly. Weaving or fluxations not noticed. Witness judged object to be about 2 mi before dissapearance.
 
 11. COMMENTS
 Case evaluated as a balloon.
 
-12. CONCLUSIONS
-☐ Was Balloon
-☒ Probably Balloon
-☐ Possibly Balloon
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
-☐ Was Astronomical
-☐ Probably Astronomical
-☐ Possibly Astronomical
-☐ Other:
-☐ Insufficient Data for Evaluation
-☐ Unknown
-
-ATIC FORM 329 (REV 26 SEP 53)
-
+ATIC FORM 329 (REV 24 SEP 52)
 
 - page 1 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
-475LST AIR BASE SQUADRON
+4761ST AIR BASE SQUADRON
 Geiger Field
 Spokane, Washington
 
-CFO 319.1                                                22 August 1951
+OPO 319.1                                    22 August 1951
 
 SUBJECT: Report of Information on Unconventional Aircraft
 
-TO:   Commanding General
-       Air Materiel Command
-       Attn: MCAE
-       Wright-Patterson Air Force Base
-       Dayton, Ohio
+TO:      Commanding General
+         Air Material Command
+         ATTN: MCTS    ATIC
+         Wright-Patterson Air Force Base
+         Dayton, Ohio
 
 1. In accordance with the provisions of paragraphs 4 and 5, Air Defense Command Letter 200-1, dated 11 April 1951, subject as above, the following report of an unconventional aircraft or object, which was sighted in this area, is forwarded for your information.
 
-a. Description:- The object was elliptical and curved to be flat in appearance. Observer judged object to be about two (2) feet long and 8" to 10" in width. Color was white or aluminum. No trail or exhaust was noticed. If object is fitted any noise, none heard. Able to say height was very near to point of observation. When first seen the object was 50 to 75 feet in the air color: straight up slowly.
+   a. Description- The object was elliptical and appeared to be flat in appearance. Observer judged object to be about two (2) feet long and 8" to 10" in width. Color was white or aluminum. No trail or exhaust was noticed. If object emitted any noise, same was faint and to a busy highway very near to point of observation. Man direct sun the object was 50 to 75 feet in the air going straight up slowly. The point of origin seemed to be almost directly from the bottom of a hill and approximately 1/4 mile from observer. When the object reached a height equal to or slightly greater than the top of the 300-400 foot hill, it changed direction to the south and started a 30-40 degree climb. The movement at all times was very steady and even, no jerky motions, no vibration or fluctuations being noticed. The object continued in a steady 30-40 degree climb to south until out of sight. Witness judged object about two (2) miles away when disappeared from sight and had appearance then of a star, probably due to sun reflecting on the bright surface of object.
 
-The point of origin seemed to be at or by 200 north of cross near the bottom of a hill and approximately 1/4 mile from observer. When the object reached a height equal to or slightly greater than the top of the 200-300 foot hill, it changed direction to the south and started a 50-40 degree climb. The move was at all times was very steady and even, no jerky motions, swings or fluctuations being noticed. The object continued in a steady 50-40 degree climb to south until cut off at 200 miles away when disappeared from sight and had appearance then of a star, probably due to sun reflecting on the bright surface of object.
+   b. Object sighted approximately 1110P, 20 August 1951. Duration of sight was approximately 20 minutes.
 
-b. Object sighted approximately 1110E, 20 August 1951. Duration of sight was approximately 20 minutes.
+   c. The object was sighted with the naked eye from the ground only. Speed was very slow and observer unable to judge height when object disappeared from view. Observer stated no aircraft were seen during this observation.
 
-c. The object was sighted with the naked eye from the ground only. Speed was very slow and observer unable to judge height when object disappeared from view. Observer stated no aircraft were seen during this observation.
+[stamp: DOWNGRADED AT 3-YEAR INTERVALS;
+UNCLASSIFIED    DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10]
 
-DOWNGRADED AT 8/YEAR INTERVALS;
-UNCLASSIFIED                DECLASSIFIED AFTER 12 YEARS.
-                            DOD DIR 5200.10
-
+[illegible section - redacted mark at bottom of page]
 
 - page 2 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
-EFC 519.1 Subject: Report of Information on Unconventional Aircraft
+[stamp: DECLASSIFIED (with redacted text)]
 
-a. The point of observation was 47 degrees 35' N and 117 degrees 24' W of in Spokane, Washington, approximately 1/4 mile south of the junction of Washington State Highway 395 with Washington State Highway 31. This location is also approximately 7 1/2 miles SE of Colgar Field and on Clear Field (Plat). No object was first seen in respect to the observer was 5/1/4 mile from observation point.
+12G 519.1 Subject: Report of Information on Unconventional Aircraft
 
-b. Neither observer professed much knowledge of aircraft stating that neither one had even ever been up in an airplane; however, due to their proximity to Geiger Field, they could readily identify various types of aircraft that every day flew over this area.
+d. The point of observation was 47 degrees 23' N and 117 degrees 24' E in reference to a known landmark, approximately 1/4 mile south of the junction of Washington State Highway 195 with Washington State Highway 31. This location is also approximately 7 1/2 miles 23 of Fairchild and on airways (Blue 1). The object was first seen in pursuant to the observer a 5T 1/4 miles from observation point.
 
-c. 1150P SEG 050 169/82/179-9/007
+e. Neither observer professed much knowledge of aircraft stating that neither one had even ever been up in an airplane; however, due to their proximity to Geiger Field, they stated they could readily identify various types of aircraft that every day flow over this area.
 
-d. In the opinion of the station acting officer, neither the convective activity nor the synoptic situation over the area could likely have caused an object this size to float or ascend at the time of incident. The air was dry and stable, no clouds whatsoever being in the area at the time. The witnesses stated that at the point of observation the wind was calm as the clothes on the line were not even fluttering.
+f. 1130P CEG O50 169/92/47-9/007
 
-e. A thorough inspection of the area from which the object apparently arose was made on foot. No physical evidence or fragments were found.
+g. In the opinion of the station weather officer, neither the convective activity nor the synoptic situation over the area could likely have caused an object this size to float or ascend at time of incident. The air was dry and stable, no clouds whatsoever being in the area at the time. The witnesses stated that at the point of observation the wind was calm as the clothes on the line were not even fluttering.
 
-f. None.
+h. A thorough inspection of the area from which the object apparently arose was made on foot. No physical evidence or fragments were found.
 
-g. Aircraft airborne in local area at the time of observation:
+i. None.
 
-The Navy Operations at Geiger Field reported three Navy SNB's that might have been in the area at the time. The SNB's each landed at Geiger at 1830, 1900, and first at 1255. They might have been airborne at Geiger Field, Seattle, being airborne sufficient time to do some local flying in this area.
+j. Aircraft airborne in local area at the time of observation:
 
-Spokane Field reported the arrival of three aircraft at field, two Cessnas landing at 1830, one aircraft arriving at 1850, all arriving from Boise via airways (Chic 2) and all under 5,000'. These aircraft were from Geiger Field airborne at the time of observation.
+The Navy Operations at Geiger Field reported three Navy P2V's that might have been in the area at the time. The P2V's each landed at Geiger at separate times, the first at 1201P and the last at 1223P. They filed from Seattle, being airborne sufficient time to do early local flying in this area. Spokane radio reported the arrival of three aircraft at Palis Field, two Cessna landing at there, one Stinson arriving at 1150P, all arriving from Boise via Airways (Blue 1) and all under 5000'. There were no aircraft from Geiger Field airborne at 0...of observation.
 
-FOR THE OCCLIDING OFFICER:
+FOR THE USAF INTELLIGENCE OFFICER:
 
-[Signature]
-ROBERT W. SEPLER
-USAF
+[handwritten signature]
 Adjutant
 
 DOWNGRADED AT 3 YEAR INTERVALS;
 DECLASSIFIED AFTER 12 YEARS.
 DOD DIR 5200.10
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
+[stamp: redacted text]
 
 - page 3 -
 

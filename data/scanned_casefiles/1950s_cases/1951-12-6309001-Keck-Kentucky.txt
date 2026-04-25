@@ -1,592 +1,637 @@
-PROJECT 1007 RECORD CARD
+1. DATE: 31 December 1951
 
-1. DATE
-31 December 1951
-
-2. LOCATION
-Keck, Kentucky
+2. LOCATION: Keek, Kentucky
 
 3. DATE-TIME GROUP
 Local 1900
-GMT 31/24002
+GMT 31/2400Z
 
-4. TYPE OF OBSERVATION
-Ground-Visual □ Ground-Radar
-□ Air-Visual □ Air-Intercept Radar
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
 
 5. PHOTOS
-□ Yes
-No
+[ ] Yes
+[X] No
 
-6. SOURCE
-Civilian
+6. SOURCE: Civilian
 
-7. LENGTH OF OBSERVATION
-Over 3 hours
+7. LENGTH OF OBSERVATION: Over 3 hours
 
-8. NUMBER OF OBJECTS
-one
+8. NUMBER OF OBJECTS: one
 
-9. COURSE
-West
+9. COURSE: West
 
-10. BRIEF SUMMARY OF SIGHTING
-No sound. Size similar to beacon light 1 mi.
-distant. Object seemed to diminish in size.
-Erratic movement. 5 smaller objects seemed to
-follow first object. Sky clear.
+10. BRIEF SUMMARY OF SIGHTING: No sound. Similar to beacon light 1 mi. distant. Objects seemed to diminish in size. Erratic movement. 5 smaller objects seemed to follow first object. Sky clear.
 
-11. COMMENTS
-Jupiter was overhead (to S at 60 deg
-elevation) and set western horizon, 4 hrs
-later. Object characteristic of astro
-body.
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical JUPITER
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_______________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Possibly Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-□ Was Astronomical JUPITER
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other
-□ Insufficient Data for Evaluation
-□ Unknown
+11. COMMENTS: Jupiter was overhead (to 9 at 60 deg elevation) and set western horizon, 4 hrs later. Object characteristic of Astro Body.
 
 ATIC FORM 329 (REV 26 SEP 52)
 
-
 - page 1 -
 
-HAND RECEIPT
+HAND RECEIPT                    RESTRICTED                    AMC FORM     FEB 48
+                                                                   REPLACES AMC FORM 28-224 W.E.F. 15 NOV
 
-RESTRICTED                                   AMC FORM    PUB 46
-                                              REPLACES AMC FORM 18-21 YEAR 31 MAR 50
+FROM: ATIC-2          DATE: 12/5/51 HOUR 0815    IDENTIFICATION NUMBER: 1-4035
 
-FROM: ATIC-2     DATE 11/13/51 HOUR 0845   IDENTIFICATION: 54-4035
-                                            NUMBER
+INCOMING: [X]   INTER-
+           OFFICE: [ ]   S    OUT: [ ]    COMPLETE FILE COPY: [ ]    INCOMPLETE FILE COPY: [ ]    NO FILE COPY: [ ]
 
-[Various routing boxes with markings]
+FROM: DEPUTY DIRECTOR, ATIC, WPAFB          ...TO: ATIC
 
-FROM: DEPOT 3RD PIL MTG, MTFD           TO: HQ ATIC
+REG. NO. W-41
 
-REG. NO. WA 41
+DESCRIPTION, DATES, AND SUBJECT:      Ind Msg 3/18/51 4 cys recd.
+1 D ea. Cite NASCIN 3365, Action & 1 Info.
 
-DESCRIPTION, DATES, AND SUBJECT:         Inc Msg 3/12/51 h cy3 recd.
-                                          1 p ea. Cite WSCIN 3965, Action & 1 Info.
+ENCLOSURES:                                    3
 
-ENCLOSURES:                               3
+TO: (OFFICER SYMBOL)     COPY NO.    REC'D BY (FULL SIGNATURE)           DATE REC'D    HOUR
+1      ATTA                          [signature]                         [illegible]   [illegible]
 
-[Receipt tracking section with spaces for office symbols, copy numbers, received by signatures, dates and times]
+TO:                      COPY NO.    REC'D BY                            DATE REC'D    HOUR
+2      [illegible]                   [handwritten signature]             3/22          0900
 
-RESTRICTED                                   [Bottom right footnote/stamp]
+TO:                      COPY NO.    REC'D BY                            DATE REC'D    HOUR
+3
 
+TO:                      COPY NO.    REC'D BY                            DATE REC'D    HOUR
+4
+
+RESTRICTED                           * U.S.P.O. 1950-886119
 
 - page 2 -
 
+[stamp: RESTRICTED]
+
 TRANSMITTAL
 
-RESTRICTED                                  AMC   9-9  REB 48
+FROM: ATIC-2                DATE: 2/12/51        HOUR 0015    IDENTIFICATION NUMBER: 35
 
-FROM:
-INCOMING
+[Table with headers:]
+INCOMING | X | INTER-OFFICE | [blank] | [blank] | OUTGOING | COMPLETE FILE COPY | INCOMPLETE FILE COPY | NO FILE COPY | [blank]
 
-TO:
+FROM: [illegible] 2, 0015                FOR: ATIC
 
-REG. NO. HQ 41
+REG. NO. HC 131
 
 DESCRIPTION, DATES, AND SUBJECT:
-1 p.m. Ctn NGMI 3965, Action & 1 Info.
+
+Inc 292 3/12/51 1 0973 Rcd'd.
+
+1 p ea. Cite HECIN 3365, Iation & 1 Info.
 
 ENCLOSURES:
+
 5
 
-TO: (OFFICE SYMBOL)
-ATIA
+[Table with headers:]
+TO: (OFFICE SYMBOL) | COPY NO. | REC'D BY (FULL SIGNATURE) | DATE REC'D | HOUR
+ATIC | [blank] | [blank] | [blank] | [blank]
 
-(Rest of the form is mostly blank or illegible)
+TO: [blank] | COPY NO. | REC'D BY | DATE REC'D | HOUR
+[blank] | [blank] | [blank] | [blank] | [blank]
 
-At the top and bottom of the document, the word "RESTRICTED" is printed.
+TO: [blank] | COPY NO. | REC'D BY | DATE REC'D | HOUR
+[blank] | [blank] | [blank] | [blank] | [blank]
 
+TO: [blank] | COPY NO. | REC'D BY | DATE REC'D | HOUR
+[blank] | [blank] | [blank] | [blank] | [blank]
+
+[stamp: RESTRICTED]
 
 - page 3 -
 
-MO-AFCTT                                                                                   19 March 1954.
+HQ-AFCTT                                                    19 March 1954.
 
-MEMORANDUM FOR:   Chief of Staff, USAF
-                  Attn: Director of Intelligence.
+MEMORANDUM FOR: Chief of Staff, USAF
+                Attn: Director of Intelligence.
 
-SUBJECT:           Unidentified Flying Object Sighting.
+SUBJECT:       Unidentified Flying Object Sighting.
 
-1. In reply to your request for information concerning a reported sighting of an unidentified flying object, you are advised that at approximately 19:10 in 23 December 1950, my wife, my son and I were proceeding from my quarters at Earnest Harmon Air Force Base, Stephenville, Newfoundland, to the Officers Club. It was a clear cloudless night, with a full moon which was almost directly overhead. The visibility was exceptional and estimated at 30 miles or more. Suddenly a cloud appeared approximately 10 degrees of the moon, it began abruptly as a thin contrail type cloud doping into the atmosphere. As the cloud form descended the contrail became heavier, then changed to grey and progressed into black. The cloud extended from the vicinity of the moon and disappeared beyond the horizon to the west. It had no visible movement, but apparently appeared all at once. I received reports from base operations, from the weather bureau, and from the control tower where other persons had observed the same phenomenon.
+     1. In reply to your request for information concerning a reported sighting of an unidentified flying object, you are advised that at approximately 19:10 in 23 December 1950, my wife, my son and I were proceeding from my quarters at Earnest Harmon Air Force Base, Stephenville, Newfoundland, to the Officers Club. It was a clear cloudless night, with a full moon which was almost directly overhead. The visibility was exceptional and estimated at 30 miles or more. Suddenly a cloud appeared approximately 10 degrees of the moon. It began abruptly as a thin contrail type cloud appearing from the outer atmosphere. As the cloud form descended the contrail became heavier, then changed to grey and progressed into black. The cloud extended from the vicinity of the moon and disappeared beyond the horizon to the west. It had no visible movement, but apparently appeared all at once. I received reports from base operations, from the weather bureau, and from the control tower where other persons had observed the same phenomenon.
 
-2. The crew of the G-82 aircraft returning from Sunnyside to Earnest Harmon observed this same phenomenon, with the addition that they saw the contrail pass overhead and disappear to its westward in a flash of white light, apparently in the Gulf of St. Lawrence. A reporting of this sighting was made to headquarters, NEAC. No evaluation of this sighting has been received.
+     2. The crew of the C-82 aircraft returning from Sunnyside to Earnest Harmon observed this same phenomenon, with the addition that they saw the contrail pass overhead and disappear to the westward in a flash of white light, apparently in the Gulf of St. Lawrence. A reporting of this sighting was made to headquarters, NEAC. No evaluation of this sighting has been received.
 
-                                                            CLAYTON E. HUGHES
-                                                            Colonel, USAF
-                                                            Chief, O & T Branch, AFD.
-
+[handwritten signature]
+CLAYTON E. HUGHES
+Colonel, USAF
+Chief, O & T Branch, AFD.
 
 - page 4 -
 
-Here is the OCR text from the document:
+[handwritten]
 
-Nov 1951 Col Clayton Hughes, in
-Company with his wife, was leaving the
-officers club at Hanson AFB and were
-enroute to quarters. After driving east
-from blocks, then turning north, Mrs.
-Hughes called the attention of Col Hughes
-a peculiar flying object. Simultaneously
-Col Hughes continued to observe these
-as he drove on to quarters. The time of
-this sighting was 2355.
+In June 1951 Col Clayton Knagle, in company with his wife, were leaving the officer's club at Bowman AFB and were enroute to quarters. After driving about four blocks, Glen Turning south, her. Knagle called the attention of Col Knagle a peculiar type of lound formation. Col Knagle proceeded to observe this as he drove on to quarters. The time of the sighting was 2355.
 
-On getting out of the car further
-observation was made. There appeared to
-be four objects of formation below and
-about 108° to the west of the moon and
-very high. The formation seemed to
-form the approximate density of cotton
-and appeared to be crystal white in color.
+In getting out of the car further observation was made. There appeared to be fours objects or formation below and about 102° to be west of the zenith and very high. The formations seemed to have the approximate identity of cotton and appeared to a capital white in color.
 
-Within a minute or two of the first
-observation, the formation moved to
-a position slightly under the moon
-and three of the objects spread out and
-appeared to form the letter H/O/N. This
-
+Within a minute or two of the first observation, the formations moved to a five line directly under the zenith and three of the objects spread out and appeared to form the letter Y or N. His obser... [illegible section]
 
 - page 5 -
 
-Here is the OCR text from the document:
+[handwritten: The entire observation lasted for a period of five or six minutes to the highest. The formation described is supposed to cat
 
-The entire document: listed for
-a period of five or six incidents before
-The formation disregarded disappear
+In order to verify the sighting, Cpt. Hughes had called in additional word that on time event actually and apparently sighted the same phenomena.
 
-As order to verify the sighting Col.
-Hughes had called his deputy who took
-in turn several outlines and apparently
-sighted the same phenomena.
+Cpt Hughes report star Mrs. Whitten, [illegible] from elevation point took The same light. Cpt observed a similar type position at 0015 hr. twenty minutes after the first sighting. Com writing writing was in the same relative position and [illegible] in the form T with [illegible]
 
-Col Hughes reports that Mrs. H. White,
-another point with partial hook. The
-same night had observed a similar
-type formation at 0015 hrs, twenty minutes
-after the first sighting. Gen written
-something was in the same relative position
-on the clouds as in the first sighting.
+Rest Conversations both Sr Whitten initiate next some misunderstanding exist in connection with the statement. Sr Whitten does not say he saw anything but that the sighting was made in his log Hughes.
 
-Conversation with Gen White indicates
-that some misunderstanding exists in connection with
-this statement. Gen White does not say he saw
-anything but that the report was made to him by
-Hughes. In the absence of report -
-
+Foot note in the absence of support]
 
 - page 6 -
 
-Text found in the document:
+2345
 
-1235
-WON
-S
+[handwritten drawing: circular object with antenna-like protrusions at top]
 
-The image appears to be a hand-drawn sketch with some simple geometric shapes, arrows, and notations. There are three oval or circular shapes, a number "1235", the word "WON", a letter "S", and a small rectangular shape with an arrow pointing upward.
+. . . .
 
+[handwritten drawing: less-than symbol "<"]
+
+[handwritten drawing: circle]
+
+. WCN
+
+[handwritten drawing: arrow pointing left, horizontal line with "5" label, arrow pointing right, vertical line with cross/plus symbol in center within a rectangle]
 
 - page 7 -
 
-The text on this page is mostly illegible. There are some faint handwritten notes on the right side of the page, but they are too blurry to read clearly. The page contains a black and white diagram or sketch with curved lines, some dotted lines, and a small black dot on the left side of the image.
-
+[NON-TEXT PAGE: hand-drawn diagram showing a curved trajectory path with dashed and dotted line segments, an arrow at the top, a circular object on the left side, and handwritten annotations that are largely illegible]
 
 - page 8 -
 
-19 Dec 1951
-
-2:38
-6:20 pm
-
-A-2 Twx of Ctn
-Ellen Field
-No long
-
-Cloud appeared E. or more
-Entrenched (White turned black)
-Dis. spread to West
-Wind shift 30 rr
-
-Col. Rorer to
-Supply Pittsbull
-
+[handwritten: 23280  19 Nov  1952
+         19-2 7:00 + [illegible]
+         
+         [illegible]
+         
+         Clear field
+         no large
+         
+         Cloud ground E o F German
+         Contrast (white turned black
+         No square to West
+         Wind shift 20, W
+         
+         o2 Rosen bottom
+         [illegible] Holdstadt]
 
 - page 9 -
 
-Memo for Vice Chief of Staff
+[handwritten: Memo for Vice Chief of Staff —
 
-Subject - UFO sighting, Thayer, Mo-b
-Stephenville, Newfoundland Mar 43
+Subject— UFO sighting, Harmon Dr.B
+Stephenville, Newfoundland via?
 
-1. Can make no rpt the other
-day to have some brief exp
-on the above subject.
+1. You asked for the siting
+day to have somewhat brief e.g.
+an the strong subject.
 
 2. ATIC informs me that
-[partially illegible text]
 
-to march 1952
-which reads as follows:
+was found d. listening to air force
+msg in [illegible] and he saw one
+[illegible] occurred back 1952
+which read as follows:
 
-"Briefing was that sighting a
-effect was a weather reconnaissance
-[illegible word] with attached light which
-was placed at time of sighting
-in effect considered closed by this
-Headquarters"
+"Observations are that sights
+effect i. a wesker isoscinddle
+helo[?] with directed light which
+was released at time of sighting.
+In addition closed by the
+H[?]uarters"
 
-[Signatures at bottom of document, partially illegible]
+iii.
 
+[handwritten signature/marks at bottom]]
 
 - page 10 -
 
-Here is the text from the document:
-
-NBR 433 8           16 MAR 54
-C-1 EMERGENCY
+NDR 433 8                16 MAR 54
+C-1 EMERGENCY [illegible]
 
 TO COMDR 64TH AIR DIV PEPPERRELL AFB NFLD FOR 64 ADIV ATTN DUTY CONTROLLER
 COMDR ATIC WRIGHT PATTERSON AFB OHIO ATTN ATICA-2C
 
-CIT TDO1 0130 .
-PER URNSG ADOAC 123. FLYOBRPT. NEGATIVE INFO AVAILABLE THIS HQS.
+CITE TDOI 0180 .
+PFF URMSG ADOAC 103. FLYOBRPT. NEGATIVE INFO AVAILABLE THIS HQS.
 
-[Handwritten note circled: PACKAGE NOT REQUIRED. SEE ORIGINAL BEFORE DECLASSIFYING]
+[handwritten: SIGNATURE NOT REQUIRED. SEE CRYPTO-]
+BEFORE CLASSIFYING
+
+[handwritten: JM]
+
+[illegible section]
 
 UNCLASSIFIED
-
-UNCLASSIFIED
-754-3832
-
-The document also contains an illustration of an aircraft at the top right of the page.
-
+754-3892
 
 - page 11 -
 
-Here is the text I can read from the document:
+9/1/51 we counted 5 shooting stars, these
+were each to be a urbed by the object
+there shooting in the straight location
+of the object. on that Fall was a very
+large one. to object was app. at 9 when
+we looked back to the northeast, there
 
-"...914, we counted 5 shooting stars, these were seen to be curved traced by the object of its motion. In the area of the first location of large ones we looked back to the northeast, there we saw 4 more objects following the path of the first. These were closer together, but not as brilliant nor as large as the first. Neither did they move around as much, but seemed to move on a straighter course. These were of a blue-white brilliance seemed to travel at the same rate of speed.
+we saw 4 more objects following the path
+of the first. These were closer together,
+but not as bright, nor as large as the
+first. Neither did they move around as
+much, but seemed to go on a straighter
+course. These were of a blue-white
+brillance and seemed to travel at the
+same rate of speed.
 
-OUR VIEW WAS OBSTRUCTED BEYOND THIS POINT AS THE MOUNTAIN RIDGE BECAME HIGHER."
+[Diagram showing "MOUNTAIN RIDGE" with curved lines representing observation paths, dotted lines showing object movements marked with circles and "O" labels, and arrows indicating direction of travel]
 
-The document appears to be a UFO sighting report with a detailed diagram showing the trajectory and movement of observed objects, with "MOUNT ANN RIDGE" labeled on the side of the diagram.
+[Handwritten note at bottom left]: OUR VIEW WAS OBSTRUCTED BEYOND THIS
+POINT AS THE MOUNTAIN RIDGE BECAME
+HIGHER.
 
+[Black redacted section in bottom right corner]
 
 - page 12 -
 
 JOINT MESSAGEFORM
 
-15MAR54 21 332
+15MAR 21 332                                    PRIORITY [handwritten: 544]
+                                                         [handwritten: 5/23/57]
 
-FROM: (Originator)
-COMDR ATIC
+SPACE ABOVE FOR COMMUNICATIONS CENTER ONLY
 
-TO: COMDR NORTHEAST AIR COMMAND
-PEPPERRELL, AF BASE
-ST JOHNS NEWFOUNDLAND
+FROM: (Originator)                            DATE-TIME GROUP              SECURITY CLASSIFICATION
+                                              15194SZ MAR 54               UNCLASSIFIED
+COMDR ATIC                                    PRECEDENCE    ACTION
+                                              FOR:          PRIORITY        INFORMATION
 
+TO: COMDR NORTHEAST AIR COMMAND               [ ] BOOK MESSAGE              [ ] ORIGINAL MESSAGE
+    PEPPERRELL AF BASE                        [ ] MULTIPLE ADDRESS          CRYPTOGRAPHIC
+    ST JOHNS NEWFOUNDLAND                                                  [X] YES  [ ] NO
+                                              REFERS TO MESSAGE:
 INFO:
+                                              IDENTIFICATION               CLASSIFICATION
+                                              NEOIN 33,407                UNCLASSIFIED
 
-AFOIN-ATIAE-3-5-8
 
-Reurnsg NEOIN 33,407. Subsequent information indicates incident occurred 24 Dec 51.
+AFOIN-ATIAE-3-5-E
+
+
+Reurmsg NEOIN 33,407. Subsequent information indicates incident occurred 24 Dec 51.
+
 Request recheck for this date and also same date 1950.
+
 In reply cite Project Blue Book.
 
+
 COORDINATION
-ATIAE-5 CAPT HARDIN DATE 15 MAR 54
-ATIAE-5 LT COY JOHNSON DATE 15 MAR 54
-ATIA COL O'HERN DATE 15 MAR 54
 
-OFFICIAL FILE COPY
-16073
-ELECTRONICS BRANCH
-Office of Record
+AITAE-5 [handwritten: signature] DATE [handwritten: 14 June 57]
+        CAPT HARDIN
 
-Capt C. A. Hardin/jos
-ATIAE-5                 TELEPHONE (3)47
+ATTAE [handwritten: signature] DATE [handwritten: 15 Mar 54]
+      [handwritten: name illegible]
 
-UNCLASSIFIED
-DATE-TIME GROUP 15 MAR 54
-PRECEDENCE
-ACTION PRIORITY
-SECURITY CLASSIFICATION UNCLASSIFIED
-IDENTIFICATION NEOIN 33,407
-CLASSIFICATION UNCLASSIFIED
+ATIA [handwritten: signature] DATE [handwritten: 15 Mar 54]
+      COL O'HERN
 
-PAGE 1 of 1 PAGES
 
+                                              OFFICIAL FILE COPY
+                                              [handwritten: 40273]
+                                              ELECTRONICS BRANCH
+                                              Office of Record
+
+                                              SECURITY CLASSIFICATION
+                                              UNCLASSIFIED              PAGE 1 OF 1 PAGES
+
+Capt C. A. Hardin/jos                         [handwritten: signature]
+SYMBOL                                        OFFICIAL USE SCHUM
+ATTAE-5                    TELEPHONE           OHIO, USAF
+                          73-447
+
+DD [form number illegible] FORM 173   REPLACES HME FORM 12, 1 MAY 48    Last AFTAP 2629 * * * GOVERNMENT PRINTING OFFICE
 
 - page 13 -
 
-F614
-WPE084
-TYC006
-JT3005
-JEX D1
-PP JEDWP
-DE JEXC 171
-P 1020267
-FM COMDR NEAC PEPPERRELL AFB NF
-TO COMDR ATIC WRIGHT PATTERSON AFB OHIO
-NEOIN 33,407ATN PROJECT BLUE BOOK
-REFERENCE YOUR AFOIN-ATIAC-3-4-E NO RECORD OF UFOB INCIDENT ON 19
-DECEMBER 1951 COULD BE FOUND IN THOROUGH SEARCH OF RECORDS THIS HEADQUARTERS AND HARMON AIR FORCE BASE
-10/2159Z MAR JEXC
+F214
 
+WPE204
+
+TYC926
+
+JT3205
+
+JEX D1
+
+PP JEDUP
+
+DE JEXC 171
+
+P 1222257
+
+FM COMDR NEAC PEPPERRELL AFB NF
+
+TO COMDR ATIC WRIGHT PATTERSON AFB OHIO
+
+NEOIN 33,407ATTN PROJECT BLUE BOOK
+
+REFERENCE YOUR AFOIN-ATIAC-3-4-E NO RECORD OF UFOS INCIDENT ON 19
+
+DECEMBER 1951 COULD BE FOUND IN THOROUGH SEARCH OF RECORDS THIS HEAD-
+
+QUARTERS AND HARMON AIR FORCE BASE
+
+12/2152Z MAR JEXC
+
+[handwritten in upper right: 1, TX/1/VA
+2- A71G-2
+4, A71/Rndnm
+File ]
 
 - page 14 -
-
-Here is the text from the document:
 
 JOINT MESSAGEFORM
 
 PRIORITY
 
+SPACE ABOVE FOR COMMUNICATIONS CENTER ONLY
+
 FROM: (Originator)
-COMDR ATIC
+DATE-TIME GROUP
+0813302 MAR 54
+SECURITY CLASSIFICATION
+UNCLASSIFIED
+[circled: COMDR ATIC]
+PRECEDENCE FOR
+ACTION
+PRIORITY
+INFORMATION
 
 TO:
 COMDR NORTHEAST AIR COMMAND
 PEPPERRELL AF BASE
-ST JOHNS NEWFOUNDLAND JEXC
+ST JOHNS NEWFOUNDLAND
+[handwritten: SEXC]
+[X] BOOK MESSAGE
+[X] ORIGINAL MESSAGE
+[ ] MULTIPLE ADDRESS
+CRYPTOGRAPHIC
+[ ] YES [X] NO
+
+REFERS TO MESSAGE:
 
 INFO:
-APOIN-ATIAC-3-4-5
+IDENTIFICATION
+CLASSIFICATION
 
-DATE-TIME GROUP
-081330Z MAR 54
+AFOIN-ATTAE-3-4-E
 
-SECURITY CLASSIFICATION
-UNCLASSIFIED
+Request copy by electrical means of UFO report originating your headquarters as
 
-Request copy by electrical means of UFO report originating your headquarters as result of telephone report from Col Hughes to Gen Witten. Incident occurred 2210 hours 19 Dec 51, Harmon AFB.
+result of telephone report from Col Hughes to Gen Witten. Incident occurred 2210
+
+hours 19 Dec 51, Harmon AFB.
 
 In reply cite Project Blue Book.
 
 COORDINATION:
-ATIAC-5 _______ DATE 8 JAN 54
+
+ATTAE-5 [handwritten signature] DATE [handwritten: 4 Jan 54]
 CAPT HARDIN
 
-ATIAC _______ DATE 9 MAR 54
-LT COL JOHNSTONE
+ATTAE [handwritten signature] DATE [handwritten: 5 Jan 54]
 
-ATIAC _______ DATE 3 MAR 54
-COL O'HERN
+LT COL GOHNSTON
+ATTAE [handwritten signature] DATE [handwritten: 9 Mar 54]
+[handwritten: 2/] COL O'HERN
 
 SECURITY CLASSIFICATION
 UNCLASSIFIED
-
 PAGE 1 OF 1 PAGES
 
-DRAFTER'S NAME (and signature, when required)
-Capt C.A. Hardin/jds
+DRAFTER'S NAME (and signature, where required)
+RELEASING OFFICER'S SIGNATURE
+[handwritten signature]
+[handwritten: 11 5513]
 
+Capt C.A.H--ain/Jas
 SYMBOL
-ATIAC-5
-
+ATTAE-5
 TELEPHONE
 73147
+[handwritten: CHIEF SCRUM]
+[handwritten: AFOIN, USAF]
 
-FILE SECTION
-GWO, USAF
-Asst. Adj.
-
-DD FORM 173
-1 OCT 49 REPLACES WNE FORM 123, 1 JUL 44
+FORM
+DD 1 OCT 49 173
+REPLACES TIME FORM 112. 1 DAY 48,
 WHICH MAY BE USED.
-
+Asst. Adj. [handwritten notation] * U.S. GOVERNMENT PRINTING OFFICE
 
 - page 15 -
 
-Col. Bradin
+[handwritten: Col. Luman]
 
-This incident I cannot give you today happened 11 Dec 1951. - Received at Harmon AFB -x10 Fgn - clear night -
-fuel room - "Sighted in form of control"
-Color: white Disappeared to west.
+[handwritten: His incident I contacted your office today happened 19 Dec 1951. Observed at Harmon AFB - 2210 PST - clear night - blue glow from - diagonal form of "cratered" color. white disappered to west.
 
-I got this info from Col Clayton Hughes
-who reported this sighting to Lieut Walter
-by telephone who was then C-WSFO.
+I got the info from Col Clayton Hughes who reported the sighting to him. Walton I. [illegible] and was with the U.S.A.F.
 
-Hughes stated info was sent to HQ USAF
-by TWX & full report by letter.
+Hughes stated info was sent to ATIC by TWX & joint report by letter.
 
-This might help ATIC find the
-reported UFO.
+This might help ATIC find the reported UFO.]
 
-[Signature/Initials at bottom right]
-
+[signature: WM]
 
 - page 16 -
 
 1 - 31 JANUARY 1952 SIGHTINGS
 
-DATE    LOCATION                       OBSERVER    EVALUATION
-4       Korea (CASE MISSING)           Military    INSUFFICIENT DATA
-4       Watsonville, California        Civilian    Astro (METEOR)
-4       Travis AFB, California         -           Astro (METEOR)
-7       Palmer, Alaska                 -           Astro (S/P)
-7       Vienna, Virginia (CARDS MISSING)           Other (CONTRAILS)
-16      Artesia, New Mexico             General Mills Rach   UNIDENTIFIED
-        (CARDS MISSING)
-17      E. Long Island, New York        -           Astro (METEOR)
-19      Cedar Keys, Florida             Military    Astro (METEOR)
-20      Fairchild AFB, Washington       Military    Astro (METEOR)
-21      Mitchell AFB, New York          Military    BALLOON
-22      Nanana, Alaska                  Military    (RADAR)
-22      Norwalk, Connecticut            Military    Other (PSYCHOLOGICAL)
-29      North Korea                     Military    BALLOON
-29      Pennsylvania, Virginia Area     Multiple    Astro (METEOR)
+DATE          LOCATION                           OBSERVER              EVALUATION
+1             Korea (CASE MISSING)               Military              INSUFFICIENT DATA
+4             Watsonville, California            Civilian              Astro (METEOR)
+              (CASE MISSING)
+4             Travis AFB, California            [redacted]            Astro (METEOR)
+7             Palmer, Alaska                                          Astro (S/P )
+16            Vienna, Virginia (CARDS MISSING)  [redacted]            Other (CONTRAILS)
+16            Artesia, New Mexico                General Mills Rech    UNIDENTIFIED
+              (CARDS MISSING)
+17            E. Long Island, New York          [redacted]            Astro (METEOR)
+19            Cedar Keys, Florida                Military              Astro (METEOR)
+20            Fairchild AFB, Washington         Military              Astro (METEOR)
+21            Mitchell AFB, New York            Military              BALLOON
+22            Nenana, Alaska                     Military (RADAR)      Other (ATMOSPHERIC RETU
+22            Norwalk, Connecticut              [redacted]            Other (PSYCHOLOGICAL)
+29            North Korea                        Military              BALLOON
+29            Pennsylvania, Virginia Area        Multiple              Astro (METEOR)
+
 
 ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
 
-DATE    LOCATION                       SOURCE                  EVALUATION
-Jan     Mexico City, Mexico POS'N      Space Craft Digest      -
-1952    Pacific                        Spring Issue, 1958
-21      Iran                           News Article            -
-
+DATE          LOCATION                  SOURCE                      EVALUATION
+Jan           Mexico City, Mexico       Space Craft Digest          
+              [illegible] FILE          Spring Issue, 1958
+1952          Pacific                   News Article
+21            Iran
 
 - page 17 -
 
-Here is the OCR text from the document:
-
-120 Reporting CST
-
-On Dec. 21, '51, we were in Ky. sitting on the porch we saw this brilliant, red-orange object move across the tops. We saw in the bright starry night with brilliant red-orange was unlike any of the stars. This object then seemed to come forward. Then go back, with a flash like a large diamond, with a blunted triangular shape, a cluster of yellow, red-orange. It was 1/2 second. "Danced" as if it would get bright & dim but not so quickly.
-
-From then until we could no longer see it, it seemed to a change size & color, staying on a straight course & falling GN 9:43 several times. Within a few seconds, about 5 or 6 times we looked back to it.
-
-This was Central Standard Time.
-The sky was dark & clear & all the stars were visible. That is why we could definitely tell that the objects were so much different. There were 9 of us witnessing this spectacular until 9PM, my husband & I continued watching until 10:45.
-Mr. & Mrs. [redacted]
-Mr. & Mrs. [redacted]
-& ourselves, Mr. & Mrs. [redacted]
-
-[Additional notes on the diagram include:]
-Mountain Ridge
-Our view was 0 point 5 miles no higher.
-First saw the object
-Watching the object from here
-South 40°
-
+[NON-TEXT PAGE: hand-drawn map showing Mountain Ridge terrain with dotted line indicating object path, compass directions, handwritten narrative text in margins, and geographical features labeled]
 
 - page 18 -
 
-The text on this page is mostly illegible. There are some faint handwritten markings and lines, including what appears to be a rough sketch of some curved lines or hills at the top of the page, but the specific text cannot be clearly read.
-
+[NON-TEXT PAGE: hand-drawn sketches showing curved lines and geometric shapes in pencil on light background, including what appears to be a wavy or undulating form at top and various linear marks and notations throughout]
 
 - page 19 -
 
-The text I can read on this page is:
-
-1. No serial
-2. 3ge in march light
-3. able distance
-4. (b) element
-
-The rest of the text appears to be partially illegible or too faint to read clearly. The page is numbered "41" in the top right corner.
-
+[handwritten: No record
+2. [illegible]
+3. [illegible] heard high
+4. [illegible] distance
+(b) [illegible] a/c
+a S [illegible] [illegible]
+[illegible] [illegible] tp
+[illegible] [illegible]
+[illegible] [illegible]
+b) [illegible] [illegible]
+[illegible] [illegible]]
 
 - page 20 -
 
-Here is the text from the document:
+[illegible section]
 
-Hgt. 16 ft. width 10 ft.
-Nj scene
-o length time obs. w
-s 4 hrs
+[handwritten: Upright /s hologram
 
-26,120 - difficult to recall
-- told NJ had
+1 N/J [illegible]
 
-o immense no size
+2 LENGTH TIME OF [illegible]
 
-4. illusion o. pre-existing hallucin.
-no chance of see could i
-was able to check of facts
-to see not city of light
+[illegible] & [illegible]
 
-6. being pulled forward and
-path just the first as no
-progress as might be
+265126 [illegible] D [illegible]
 
+N&D [illegible] [illegible]
+
+2 [illegible] [illegible] [illegible]
+
+4 ILLUSION OF OFF ERRATIC PATTERN
+[illegible] OF SIZE [illegible] [illegible]
+[illegible] [illegible] ENTIRE [illegible]
+[illegible] INTENSITY OF LIGHT
+
+5 SOME [illegible] FOLLOWED OBJECT
+WITHIN [illegible] FOOT WE [illegible]
+[illegible] [illegible] & [illegible] IT]
 
 - page 21 -
 
 MEMORANDUM FOR RECORD
 
-SUBJECT: Reference Investigation of UFO Report, 19 December 1951
+SUBJECT: Reference Investigation of UFO Report (19) December 1951
 
 1. I called General Witten at Olmstead who was away on a trip, no contact.
 
-2. I called Colonel Hughes, Rm 3E25J, Pentagon, Tel 52061, National Guard Bureau. I explained to Colonel Hughes the purposes of the call and he gave me the following information:
+2. I called Colonel Hughes, Rm 3E253, Pentagon, Tel 52061, National Guard Bureau. I explained to Colonel Hughes the purpose of the call and he gave me the following information:
 
-"I had observed the incident at about 1900 hours Christmas Eve, 1951 at Harmon. I had personally reported to General Witten and in the next day or two days I proceeded to prepare a complete report which involved getting statements from some 20 people who had observed the incident. In was impressed that the report had been forwarded to HQ NEAC and to HQ USAF. Description of the incident is:
+" I had observed the incident at about 1900 hours Christmas Eve, 1951 at Harmon. I had personally reported to General Witten and in the next day or two days I proceeded to prepare a complete report which involved getting statements from some 20 people who had observed the incident. It was my impression that the report had been forwarded to Hq NEAC and to Hq USAF. A description of the incident is:
 
-It was a clear, cloudless night with a full moon. Visibility excellent (greater than 30 miles) at about 1900. He and his family were on the way to the club when one of his roommates called his attention to a white cloud lying the constancy of a contrail which started very high to the right of the moon. As the contrail approached the earth it turned black, at one point in the contrail there was lateral displacement. A later check with the weather station indicated a wind shift at 18,000 feet. The contrail appeared to have come from outside the atmosphere down to earth bearing was about 75° to 250° true. Two officers, Colonel Rosenbaum and ? Mitchell were flying a C-32 at this time, enroute to Harmon, they too observed the contrail and indicated that it disappeared into a white flash into the Gulf."
+It was a clear, cloudless night with a full moon. Visibility excellent (greater than 30 miles) at about 1900. He and his family were on the way to the club when one of his youngsters called his attention to a white cloud having the consistancy of a contrail which started high in the right of the moon. As the contrail approached the earth it turned black, at one point in the contrail there was lateral displacement. A later check with the weather station indicated a wind shift 4-18,000 feet. The contrail stopped to have come from outside the atmosphere down to the earthythe bearing was about 75° to 250° true. Two officers, Colonel Rosenbaum and ? Mitchel were flying a C-92 at this time, enroute to Harmon, they too observed the contrail and indicated that it disappeared into a white flash into the Gulf.
 
-WAYNE L. O'HERRY, Colonel, USAF
+[signature] WAYNE L. O'HERN, Colonel, USAF
 Chief, Technical Analysis Division
 Air Technical Intelligence Center
 
-[Handwritten notes at bottom of page are partially illegible]
+[handwritten at bottom, illegible]: ATTIRES
 
+[handwritten at bottom, partially illegible]: Note: ... some very large cloud ... early ... in [illegible] ... and ... large instrument ... on ... and laid up ... to ... [illegible] ... used [illegible] ... [illegible]
 
 - page 22 -
 
-DECEMBER ONE NINE FIVE ZERO CMA CAPTAIN KUEHNAST OF THE WEATHER DETACHMENT AT ERNEST HARMON AFB OBSERVED AN UNUSUAL TYPE CLOUD FORMATION ON A BEARING OF APPROXIMATELY TWO TWO ZERO DEGREES TRUE FROM THE BASE PD THE OBSERVATION WAS DESCRIBED AS A LONG CMA THIN CMA DARK VERTICAL CLOUD PD FROM THE BASE OF THE CLOUD CMA A SHEATHING LAYER EXTENDED TO THE SOUTH TO THE TOP OF A LOWER DARK VERTICAL DIFFUSED CLOUD PD THE SHEATHING LAYER IS BELIEVED TO HAVE BEEN CAUSED BY A WIND SHIFT AT FIVE ZERO ZERO ZERO FEET AS THE TWO ONE ZERO ZERO ZERO ZULU RADIONDE REPORT LISTED WINDS FOR FOUR ZERO ZERO ZERO FEET AS ONE ZERO ZERO DEGREES AT EIGHT KNOTS AND FOR SIX ZERO ZERO ZERO FEET AS TWO SIX ZERO DEGREES AT ELEVEN KNOTS PD THE OBSERVER STATED THAT THE CLOUD AT FIRST APPEARED TO BE THE SMOKE TRAIL OF A FALLEN BURNING AIRCRAFT PD THE CLOUD AFFECTED WAS ESTIMATED TO BE TWO THREE MILES OUT FROM THE STATION CMA CALCULATED ON THE ASSUMPTION THAT THE SHEATHING LAYER WAS AT FIVE ZERO ZERO ZERO ZERO FEET UP TO FOUR FIVE CMA ZERO ZERO FIVE ZERO ZERO ZERO FEET AS THE RATION OF ITS SIZE IN RELATION TO THE DISTANCE OF THE SHEATH FROM THE WATER WAS APPROXIMATELY EIGHT OR ONE ZERO TO ONE PD AT TWO ONE THREE ZERO ZULU THE OBSERVER REPORTED A NARROW CMA WITH CLOUD CMA SIMILAR TO A VAPOR TRAIL CMA EXTENDING FROM THE TOP OF THE UPPER DARK CLOUD TO DIRECTLY OVERHEAD AND THEN FADING AWAY TO THE NORTHEASTVET ZN
-
-IAUPUGE FOURSJTER 04C
+DECEMBER ONE NINE FIVE ZERO CMA CAPTAIN KUEHNAST OF THE WEATHER DETACHMENT
+AT ERNEST HARMON AFB OBSERVED AN UNUSUAL TYPE CLOUD FORMATION ON A BEARING
+OF APPROXIMATELY TWO ONE ZERO DEGREES TRUE FROM THE BASE PD ON THE
+OBSERVATION WAS DESCRIBED AS A LONG CMA THIN CMA DARK VERTICAL CLOUD PD
+FROM THE BASE OF THE CLOUD CMA A SHEATHING LAYER EXTENDED TO THE SOUTH
+TO THE TOP OF A LOWER CMA VERTICAL DIFFUSED CLOUD PD THE SHEATHING LAYER
+IS BELIEVED TO HAVE BEEN CAUSED BY A WIND SHIFT AT FIVE ZERO ZERO ZERO
+FEET AS THE TWO ONE ZERO ZERO ZULU RADIOSONDE REPORT LISTED WINDS FOR
+FOUR ZERO ZERO ZERO PD AT ONE SE EN ZERO DEGREES AT EIGHT KNOTS AND
+FOR SIX ZERO ZERO ZERO FEET AS TWO SIX ZERO DEGREES AT
+ELEVEN KNOTS PD THE OBSERVER STATED THAT THE CLOUD AT FIRST APPEARED
+TO BE THE SMOKE TRAIL OF A FALLEN BURNING AIRCRAFT PD THE CLOUD EFFECT
+WAS ESTIMATED TO BE TWO THREE MILES OUT FROM THE STATION CMA CALCULATED
+ON THE ASSUMPTION THAT THE SHEATHING LAYER WAS AT FIVE ZERO ZERO ZERO FEE
+UP TO FOUR FIVE CMA ZERO ZERO ZERO TO FIVE FIVE CMA ZERO ZERO ZERO FEET
+AS THE RATION OF THE SIZE IN RELATION TO THE DISTANCE OF THE SHEATH
+FROM THE WATER WAS APPROXIMATELY EIGHT OR ONE ZERO TO ONE PD AT TWO ONE
+THREE ZERO ZULU THE OBSERVER REPORTED A NARROW CMA WHITE CLOUD CMA
+SIMILAR TO A VAPOR TRAIL CMA EXTENDING FROM THE TOP OF THE UPPER DARK
+CLOUD TO DIRECTLY OVERHEAD AND THEN FADING AWAY TO THE NORTHESTVAT ZN
 
 UNCLASSIFIED
 
-INCLINATION ANGLE OF APPROXIMATELY SIX ZERO DEGREES PD AT TWO TWO ZERO ZERO ZULU IT WAS TOO DARK TO OBSERVE THE NARROW CMA VERTICAL CLOUDS CMA HOWEVER CMA THE VAPOR TRAIL WAS STILL VISIBLE PD THE TRAIL HAD EXPANDED AND HAD THE APPEARANCE OF A CIRRUS TYPE CLOUD PD AT TWO THREE ZERO ZERO ZULU THE TRAIL HAD DISSIPATED PD CAPTAIN SMITH OF THE WEATHER DETACHMENT ALSO OBSERVED THE PHENOMENON AND HIS DESCRIPTION COINCIDES WITH CAPTAIN KUEHNASTS PD HOWEVER CMA IN ADDITION CMA HE STATED THAT THE LOWER CMA VERTICAL CLOUD WAS ROUGHLY SHAPED LIKE A BOWLING PIN CMA THE VAPOR TRAIL APPEARED LUMINOUS CMA AND THAT HE DID NOT BELIEVE THAT EITHER WAS THE RESULT OF WEATHER CONDITIONS PD THE ROYAL CANADIAN MOUNTED POLICE HAD NO REPORTS OF EXPLOSIONS IN THE AREA NOR WERE THERE ANY REPORTS OF AIRCRAFT AT HIGH ALTITUDES PD DUE TO THE STRAIGHT PART OF THE VAPOR TRAIL A
+IAUPUGE FOURSTJTER 04C
 
-D THE VERTICAL CLOUDS IT IS POSSIBLE THAT THEY WERE CAUSED BY A METEOR
+GNCLINATION ANGLE OF APPROXIMATELY SIX ZERO DEGREES PD AT TWO TWO ZERO
+ZERO ZULU IT WAS TOO DARK TO OBSERVE THE NARROW CMA VERTICAL CLOUDS CMA
+HOWEVER CMA THE VAPOR TRAIL WAS STILL VISIBLE PD THE TRAIL HAD EXPANDED
+AND HAD THE APPEARANCE OF A CIRRUS TYPE CLOUD PD AT TWO THREE ZERO ZERO
+ZULU THE TRAIL HAD DISSIPATED PD CAPTAIN SMITH OF THE WEATHER DETACHMENT
+ALSO OBSERVED THE PHENOMENON AND HIS DESCRIPTION COINCIDES WITH CAPTAIN
+KUEHNAISTS PD HOWEVER CMA IN ADDITION CMA HE STATED THAT THE LOWER CMA
+VERTICAL CLOUD WAS ROUGHLY SHAPED LIKE A BOWLING PIN CMA THE VAPOR
+TRAIL APPEARED LUMINOUS CMA AND THAT HE DID NOT BELIEVE THAT EITHER
+WAS THE RESULT OF WEATHER CONDITIONS PD THE ROYAL CANADIAN MOUNTED POLICE
+HAD NO REPORTS OF EXPLOSIONS IN THE AREA NOR WERE THERE ANY REPORTS OF
+AIRCRAFT AT HIGH ALTITUDES PD DUE TO THE STRAIGHT PATH OF THE VAPOR TRAIL
+A D THE VERTICAL CLOUDS IT IS POSSIBLE THAT THEY WERE CAUSED BY A METEOR
 
 UNCLASSIFIED
 
+[handwritten: -4-40-35]
 
 - page 23 -
 
-Here is the OCR text from the document:
-
 UNCLASSIFIED
 
-JEPHQ 41
+JEPHO 41
 JEXCR 001
-PP JEDUP
-PD UFAFO ALG
+FP JEDUP
+RF JEBRA auC
 
 FM COMDR NEAC PEPPERELL AFB NFLD
 TO COMDR ATIC WRIGHT PATTERSON AFB OHIO
-MSH ALFA TANGO INDIA ALFA REFERENCE 350 ALFA FOXTROT OSCAR INDIA NECTAR
-DASH THREE DASH FOUR DASH ECHO AND ALFA FOXTROT OSCAR INDIA NECTAR DASH ALFA TANGO INDIA ALFA ECHO
-THREE DASH FIVE DASH ECHO PD PROJECT BLUE BLOCK PD SEARCH OF RECORDS
+/NEOLN 3365 RE EXPERIENCE ALFA FOXTROT OSCAR INDIA NECTAR
+DASH ALFA TANGO INDIA ALFA ECHO DASH THREE DASH FOUR DASH ECHO AND
+ALFA FOXTROT OSCAR INDIA NECTAR DASH ALFA TANGO INDIA ALFA ECHO DASH
+THREE DASH FIVE DASH ECHO PD PROJECT BLUE BOOK PD SEARCH OF RECORDS
 REVEALS TWO INCIDENTS OF UNION FOXTROT OSCAR BRAVO NATURE OCCURRED
 HARMON AIR FORCE BASE ONE EIGHT DECEMBER ONE NINE FIVE ZERO AND TWO FOUR
 DECEMBER ONE NINE FIVE ZERO CMA BOTH RESULTING IN TELEPHONE CONVERSATIONS
 BETWEEN GENERAL WHITTEN AND COLONEL HUGES PD OUR RECORDS DO NTT REVEAL
 UNION FOXTROT OSCAR BRAVO INCIDENTS ON THESE DATES IN ONE NINE FIVE ONE
-PD NARRATION OF INCIDENTS FOLLOWS PD AT APPROXIMATELY TWO TWO FIVE
+PD NARRATIVE OF INCIDENTS FOLLOWS PD AT APPROXIMATELY TWO TWO TWO FIVE
 
-DOWNGRADED AT 8 YEAR INTERVALS;
+DOWNGRADED AT 2 YEAR INTERVALS;
 DECLASSIFIED AFTER 12 YEARS.
-DOD DIR 5200.10
+DQD DIR 5200.10
 
 UNCLASSIFIED
 
@@ -595,29 +640,32 @@ PAGE TWO JEXCR 04C
 ZULU CMA ONE EIGHT DECEMBER ONE NINE FIVE ZERO CMA THE STORM
 DETECTION RADAR UNIT OF THE WEATHER SQUADRON DETACHMENT AT ERNEST HARMON
 AIR FORCE BASE PICKED UP AN OBJECT IN SAINT GEORGES BAY ABOUT TWO
-TO FIVE HUNDRED YARDS OFF SHORE NEAR INDIAN HEAD POINT PARK FOUR EIGHT
-SLASH THREE ZERO NECTAR DASH FIVE EIGHT SLASH THREE ZERO WHISKEY PARK PD
-THE OBJECT MOVED IN A NORTHERLY DIRECTION NEARER TO THE BASE GE 10
-RTTING LAST LINE
+TO FIVE HUNDRED YARDS OFF SHORE NEAR INDIAN HEAD POINT PARN FOUR EIGHT
+SLASH THREE ZERO NECTAR DASH FIVE EIGHT SLASH THREE ZERO WHISKEY PARN PD
+THE OBJECT MOVED IN A NORTHERLY DIRECTION NEARER TO THE BASE GE .10
+RPTING LAST LINE
 
 THE OBJECT MOVED IN A NORTHERLY DIRECTION NEARER TO THE BASE AND TGEN
-STOPPED PD CAPTAIN EMMONS CMA ONE OF THE OBSERVERS CMA STATED THAT THE
-OBJECT APPEARED IN CLEAR RELIEF ON THE SCOPE AND WAS DEFINITELY OF
+STOPPED PD CAPTAIN SYMONS CMA TO WHOM OBSERVATION CMA STATED THAT THE
+OBJECT APPEARED A CLEAR RELIEF ON THE SCOPE AND HAS DEFINITELY OF
 AN UNUSUAL NATURE PD UPON NOTIFICATION CMA THE BASE COMMANDER DECLARED
-AN ALERT AND A CRASH BOAT WAS VICTORED TO THE LOCATION OF THE SIGHTING
-BY THE RADAR OPERATOR PD THE BOAT INVESTIGATED THE AREA THOROUGHLY CMA
+AN ALERT AND A CRASH BOAT WAS VECTORED TO THE LOCATION OF THE SIGHTING
+ET THE RADAR OPERATOR PD THE BOAT INVESTIGATED THE AREA THOROUGHLY CMA
 BUT WAS UNABLE TO DISCOVER ANY UNUSUAL ACTIVITY PD OTHER UNIDENTIFIED
 RETURNS APPEARED FURTHER OUT IN THE BAY AND WERE ALSO INVESTIGATED
-BY THE CRASH BOAT TO NO AVAIL PD THE BOAT PRESENTED AN EXCELLENT PD CTUCE
+ET THE CRASH BOAT TO DO AVAIL PD THE BOAT PRESENTED AN EXCELLENT P CTUCE
 ON THE RADAR SCOPE DURING THE INVESTIGATION PD GOLF COCA ALFA WAS UNABLE
-TO PICK UP THE UNIDENTIFIED OBJECT PD THE ALERT WAS CANCELLED AT ZERO ZEE
-FOUR FIVE TWO PD THE OBJECTS REMAINED UNIDENTIFIED CMA BUT COULD HAVE BE
-CAUSED BY THE RELATIVELY HIGH SEAS RUNNING AT THE TIME CMA CAUSING RETURNS
-ON THE SCOPE IN PLACES WERE PERPENDICULAR REFLECTION WAS POSSIBLE PD
-BEGIN SECOND INCIDENT PD AT APPROXIMATELY TWO ONE ZERO ZULU FOUR
+TO PICK UP THE UNIDENTIFIED OBJECT PD THE ALERT WAS CANCELLED AT ZERO ZEF
+FOUR FIVE ZULU PD THE OBJECTS REMAINED UNIDENTIFIED CMA BUT COULD HAVE
+CAUSED BY THE RELATIVELY HIGH SEAS RUNNING AT THE TIME CMA COULD CAUSE
+ON THE SCOPE IN PLACES WERE PERPENDICULAR REFLECTION HAS POSSIBLE PD
+BEGIN SECOND INCIDENT PD AT APPROXIMATELY TWO ONE ZERO ZERO ZULU TWO FOUR
 
 UNCLASSIFIED
 
+[stamp: PARAPHASE NOT REQUIRED. SEE CRYPTO-CENT [handwritten: JNA [illegible] [illegible] [illegible] JR [illegible]]]
+
+[handwritten: 19 MARCH 1951 50]
 
 - page 24 -
 

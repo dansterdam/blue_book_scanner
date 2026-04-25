@@ -3,123 +3,144 @@ PROJECT 10073 RECORD CARD
 1. DATE
 5 November 1957
 
-2. LOCATION
-not given
-
 3. DATE-TIME GROUP
-Local: 08/00127
-GMT:
-
-4. TYPE OF OBSERVATION
-Ground-Visual ☒
-Air-Visual ☐
-Ground-Radar ☐
-Air-Intercept Radar ☐
+Local
+05/00127
 
 5. PHOTOS
-☐ Yes
-☒ No
-
-6. SOURCE
-not given
+[ ] Yes
+[X] No
 
 7. LENGTH OF OBSERVATION
 3 seconds
 
+2. LOCATION
+not given
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+6. SOURCE
+not given
+
 8. NUMBER OF OBJECTS
-One
+one
 
 9. COURSE
 SW
 
 10. BRIEF SUMMARY OF SIGHTING
-a white lighted object traveling at a high rate of speed in a SW direction not a shooting star. Passed under moon and traversed horizon to horizon at approx same height in 3 seconds.
-
-11. COMMENTS
-The very meagre information makes it impossible to evaluate this report. However, the object has characteristics of a meteor.
+A white lighted object traveling at a high rate of speed in a SW direction. Not a shooting star. Passed under moon and traveled horizon to horizon at approx same height in 3 secnds.
 
 12. CONCLUSIONS
-☐ Was Balloon
-☐ Probably Balloon
-☐ Was Aircraft
-☐ Probably Aircraft
-☒ Was Astronomical*
-☐ Probably Astronomical
-☐ Other
-☐ Insufficient Data for Evaluation
-☐ Unknown
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-*Probably Meteor
+11. COMMENTS
+The very meager information makes it impossible to evaluate this report. However, the object has characteristics of a meteor.
 
-ATC FORM 329 (REV 26 SEP 52)
-
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
-Here is the text from the document:
+[handwritten: a/c 9 6/00/26]
 
-6/00LZ
+[handwritten: Call 4 0 Da
+871/5]
 
-ASTRO
-LOCATION NOT GIVEN
+[handwritten: ASTFO
+]w RENTE (Nov 5) 07 U 57]
 
-WPGZ77 TYAO78HQC036
-RJEDWP
-RJEPHQ 808
-2SQ302Z
-HEDUSAF
-TO AIRTECH INT CENTER
+[handwritten: (PROP]
 
-UNCLAS FR AFCIN 3837 ATTN AA-2C TO 0 X A WHITE LIGHTED
+LINE
+:0359
+
+:T HP0277 IYA2TSHQC23S
+
+[handwritten: LOCATION NOT GIVEN]
+
+:0 RJEDMF
+
+DE RJEDPHQ 628
+
+:O 2523222
+
+:H HEDSAF
+
+:O AIRTECH INT CENTER
+
+:T
+
+UNCLAS FR AFCIN 38937 ATTN-A-2 AA-2C TO O X A WHITE LIGHTED
+
 UNIDENTIFIED FLYING OBJECT TRAVELING AT A HIGH RATE OF SPEED IN
-SOUTH WESTERLY DIRECTION WAS SIGHTED AT 1912RX NOT A SHOOTING
-STAR X PASSED UNDER MOON AND TRAVELED LENGTH OF SKY AT APPROXIMATELY
-SAME HEIGHT X PERIOD OF TIME OBSERVED 3 SECONDS FROM HORIZON TO
+
+A SOUTH WESTERLY DIRECTION WAS SIGHTED AT 1912RX NOT A SHOOTING
+
+[strikethrough: STAR X PASSED UNDER MOON AND TRAVELED LENGTH OF SKY AT APPROXIMATELY]
+
+[handwritten/circled: SAME HEIGHT X PERIOD OF TIME OBSERVED 3 SECONDS FROM HORIZON TO]
+
 HORIZON
 
-13/232LZ NOV RJEPHQ
+:I
 
-CLOE: Not Special
-would take 3+ minutes
-to aim from here longer
+:/232I2 NOV RJEDPHQ
 
+[handwritten: CLUE. Not Satelite]
+
+[handwritten: wood Ble 3 + minute]
+
+[handwritten: Less for how Satell [illegible] [illegible]]
 
 - page 2 -
 
-Here is the text from the document:
+[stamp: MAY 9 03 1457]
 
-5-NOV 57
+17[illegible]57 19 31
 
-12NOV57 10 38
-
-POSS ASTRO V
+POSS ASTRO/
 
 RB261
-
-WPG257 YDC453 TYA263 TDE232NBA023
-
-RR RJEDDN RJEDWP RJEPHO
+WPG257 YDC253 TYA240 IDE252NBA223
+RR RJEDDN RJEDWP RJEPHQ
 DE RJEPNB 115
-R 382002Z ZEX
-FM COMGFECR
+R 0S22027 ZEX
+FM COMCFECR
 TO RJEDDN/COMDR ADC
 RJEDWP/COMDR AIR TECH INTEL CENTER
 RJEPHQ/DIR OF INTEL HQ USAF
-
 BT
-/UNCLASSIFIED/ FR CFEIN-01 358. FOLLOWING INFO RECD FROM
-CCGD 7 06/2137Z IS FORWARDED FOR YOUR INFO: "TO O X A WHITE
+/UNCLASSIFIED/ FR CFEIN-01 338. FOLLOWING INFO RECD FROM
+CCGD 7 26/2137Z IS FORWARDED FOR YOUR INFO: "TO O X A WHITE
 LIGHTED UNIDENTIFIED FLYING OBJECT TRAVELING AT A HIGH RATE OF
-SPEED IN A SOUTH WESTERLY DIRECTION WAS SIGHTED AT 1942R X
+SPEED IN A SOUTH WESTERLY DIRECTION WAS SIGHTED AT 1912Z X
 NOT A SHOOTING STAR X PASSED UNDER MOON AND TRAVELED LENGTH OF
 SKY AT APPROX SAME HEIGHT X PERIOD OF TIME OBSERVED 3 SECONDS
 FROM HORIZON TO HORIZON."
-
 BT
-06/2031Z NOV RJEPNB
+[handwritten: the only meagre information
+available is imprecisible to
+evaluate this report.
+However the object
+has the characteristics of]
+03/2331Z NOV RJEPNB
 
-[Handwritten notes at bottom of page which are partially illegible]
-
+[handwritten notations in top right: 5-NDV 57, 9/4E4, 3 #X#d, encircled word that appears to be "end" or similar]
 
 - page 3 -
 

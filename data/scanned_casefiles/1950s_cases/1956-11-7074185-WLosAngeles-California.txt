@@ -1,3 +1,9 @@
+There are no photographs present on this page.
+
+Here is the OCR-generated text from the document:
+
+---
+
 PROJECT 10073 RECORD CARD
 
 1. DATE
@@ -6,71 +12,89 @@ PROJECT 10073 RECORD CARD
 2. LOCATION
 W Los Angeles, California
 
-3. DATE/TIME GROUP
-dawn
+3. DATE-TIME GROUP
+Local GM 25/1340Z dawn
 
-4. LENGTH OF OBSERVATION
-35 min(?) sec(?)
+4. TYPE OF OBSERVATION
+Ground-Visual
 
-5. SOURCE
+5. PHOTOS
+No
+
+6. SOURCE
 Civilian
 
-6. NUMBER OF OBJECTS
+7. LENGTH OF OBSERVATION
+35 min(?) sec(?)
+
+8. NUMBER OF OBJECTS
 two
 
-7. COURSE
+9. COURSE
 circling
 
-8. BRIEF SUMMARY OF SIGHTING
+10. BRIEF SUMMARY OF SIGHTING
 Two objects round, size of dime, changing colors. Objects resembled a star - sun blanked object out. Sighting at dawn. Objects disappeared over hills. Also, report indicates objects thought to be a/c.
 
-9. COMMENTS
+11. COMMENTS
 Duration excessive for a/c. Some confusion as to disappearance, both over hills and by being blotted out with light from rising sun. Insufficient data for conclusion.
 
-10. CONCLUSIONS
-[Checkboxes are present but not marked]
+12. CONCLUSIONS
+Insufficient Data for Evaluation
 
-11. ATIC FORM 329 (REV 26 SEP 52)
+ATIC FORM 329 (REV 26 SEP 52)
 
+---
 
 - page 1 -
 
-Here is the text from the document:
+There is no photograph present on this page.
 
-25/13-40
-1 Witness
+Here's the OCR reading of the text:
 
-REBG64 YDB664 XYAB53 XDD252JBA046JDB 004
-00 RJEDEN RJEDWP RJEPHW
-DE RJWPJB 2D
-O 270200Z
+```
+                                                                                                                                                                    
 
-FM COMDR 678TH ACWRON LONG BEACH CALIF.
-TO RJEDEN/COMDR ADC ENT AFB COLORADO
-RJEDWP/COMDR ATIC WRIGHT PATTERSON AFB OHIO
-INFO RJEPHW/ COMDR DIR OF INTELLIGENCE HQ USAF WASH F.C
-RJWPJB/COMDR 27TH ADIV NORTON AFB CALIF
+REBE64 VD864 XYA955 XDD332JBA046JBD  004
+00 RJEDN RJEDP RJEPHQ
+DE RWJPJB 2D
+O 272020Z
+
+FM COMDR 678TH ACWRON LONG BEACH CALIF
+TO RJEDN/COMDR ADC ENT AFB COLORADO
+
+RJEDWR/COMDR ATIC WRIGHT PATTERSON AFB OHIO
+
+INFO RJEPHQ/ COMDR DIR OF INTELLIGENCE HQ USAF WASH F.C
+RWJPJB/COMDR 27TH ADIV NORTON AFB CALIF
+
 BT
+
 UNCLAS 678 TAC K-817 PD
 
-1. A. ROUND
-   B. DIME
-   C. CHANGING COLORS
-   D. 2
-   E. SEE (1) BELOW
-   G. NONE
-   H. NO
-   I. RESEMBLED A STAR
+1.  A. ROUND
+    B. DIME
+    C. CHANGEING COLORS
+    D. 2
+    E. SEE (1) BELOW
+    G. NONE
+    H. NO
+    I. RESEMBLED A STAR
 
-2. A. THOUGHT IT TO BE AN AIRCRAFT
-   B. NOT GIVEN 500
-
+2.  A. THOUGHT IT TO BE AN AIRCRAFT
+    B. NOT GIVEN 800
+```
 
 - page 2 -
 
+There are no photographs on this page.
+
+Below is the OCR-transcribed text from the document:
+
+```
 PAGE THREE RJWPJB 2D
 
-F. NONE.
+7. NONE
 
 8. A. NONE
 
@@ -78,45 +102,50 @@ F. NONE.
 
 10. NONE DISCERNABLE BY RADAR
 
-11. WITH VISIBILITY STATED' BELIEVE OBJECT(S) TO BE
-ASTAR OR AIRWAY BEACON NOTNORMALLY SEEN.
+11. WITH VISIBILITY STATED" BELIEVE OBJECT (S) TO BE 
+A STAR OR AIRWAY BEACON NOT NORMALLY SEEN.
 
 12. NONE TO OUR KNOWLEDGE
-BT
-27/0250Z RJWPJB
 
+BT
+
+27/02502 RJWPJB
+
+27NOV 56 0219
+
+ATTIC
+```
 
 - page 3 -
 
-PAGE TWO RJPJB 2D
+There is no photograph present on the page.
 
-C. NOT GIVEN 899
-D. CIRCLING
-S. SUN BLANKED IT OUT
-F. 35 MIN
+The text from the document is as follows:
 
-3. A. GROUND-VISUAL
-   B. YES
-   C. N/A
+```
+PAGE TWO RJWP JB 2D
+     C. NOT GIVEN 800
+     D. CIRCLING
+     S. SUN BLANKED IT OUT
+     F. 35 MIN
+3.  A. GROUND-VISUAL
+     B. YES
+     C. N/A
+4.  A. 25/1348
+     X. DAWN
+5.  A. OBJECT (S) APPSARED OVER HOLLYWOOD HILLS
+6.  A. CIVILIAN MISS 
 
-4. A. 25/1348
-   X. DAWN
+                         GOC SDN. WEST LOSANGLES
+7.  A. CLEAR                    117431/4 KIOWA
+     B. 6000 030/05        20000 350/15
+          10000 040/10        30000 299/35
+          16000 020/15
+8.  C. NONE
+     D. 20 MILES
+     E. NONE
 
-5. A. OBJECT (S) APPEARED OVER HOLLYWOOD HILLS
-
-6. A. CIVILIAN MISS
-   GOC SQDN. WEST LOSANGELES
-   117431/4 KIOWA
-
-7. A. CLEAR
-   B. 6'000 038/05                20'000 350/15
-      16'000 048/16                30'000 298/35
-      16'000 020/15
-
-8. C. NONE
-   D. 20 MILES
-   E. NONE
-
+```
 
 - page 4 -
 

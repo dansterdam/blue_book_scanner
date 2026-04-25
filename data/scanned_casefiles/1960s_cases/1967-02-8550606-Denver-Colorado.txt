@@ -1,367 +1,296 @@
 PROJECT 10073 RECORD
 
-1. DATE - TIME GROUP
-1 Feb 67     2/013OZ
+1. DATE + TIME GROUP: 1 Feb 67    2/01130Z
 
-2. LOCATION
-Denver, Colorado                one
+2. LOCATION: Denver, Colorado    one
 
-3. SOURCE
-Civilian
+3. SOURCE: Civilian
 
-10. CONCLUSION
-Astro(S/F)
+10. CONCLUSION: Astro(S/P)  ✓
 
-4. NUMBER OF OBJECTS
-One
+4. NUMBER OF OBJECTS: One
 
-5. LENGTH OF OBSERVATION
-1 hour
-
-6. TYPE OF OBSERVATION
-Ground Visual
-
-7. COURSE
-Basically Stationary
-
-8. PHOTOS
-[ ] Yes
-[X] No
-
-9. PHYSICAL EVIDENCE
-[ ] Yes
-[X] No
+5. LENGTH OF OBSERVATION: 1 hour
 
 11. BRIEF SUMMARY AND ANALYSIS
+
 Observer watched a flashing blue, blue white star like object in the sky. The object moved back and forth and up and down. The object was still visible at time of the report.
+
+6. TYPE OF OBSERVATION: Ground Visual
 
 The description is consistent with that of an astronomical observation. The observer did not provide the actual location of the object she was watching.
 
-FORM
-FTD SEP 63 0-329 (TDE)     Previous editions of this form may be used.
+7. COURSE: Basically Stationary
 
+8. PHOTOS
+   [X] Yes
+   [ ] No
+
+9. PHYSICAL EVIDENCE
+   [ ] Yes
+   [X] No
+
+FORM
+FTD SEP 63 0-329 (TDE)  Previous editions of this form may be used.
 
 - page 1 -
 
-Here is the text from the document:
+(c) Light conditions. (Use on of the following words: N.N.E, day,
+dawn, dusk) ______LIGHT_____
 
-(c) Light conditions. (use on of the following terms: Bright, day, dawn, dusk)                Light
+d. Location of Observer(s). Names latitude and longitude of each observer,
+and/or geographical position. A position with reference to a known landmark
+also should be given in electrical reports, such as "8 mi. N of Denver, Colo.
+SW of Blue Lake". Typographical errors or "scribbling" often result in electrically
+transmitted messages, making location plots difficult or impossible.
 
-a. Location of Observer(s): Exact Latitude and Longitude of each observer, and/or geographical position to be shown on map. If possible, observer's location should be given in electrical reports, such as "Wmt N or Westline".
+EXAMPLE: 39 45N, 1d2 71W for 39 45N, 102 21W.
 
-SN of Blue Jacket: Typographical errors or "problem" often result in electrically transmitted messages, making location plots difficult or impossible.
+[BLACK REDACTION] Danver, Colo
 
-EXAMPLE: 89 45N, 192 7LW for 39 15N, 102 2LW
-                                Denver, Colo
+_________________________________________________________________
 
-b. Identifying Information on Observer(s):
-    (1) Civilian - Name, age, mailing address, occupation, and estimate of reliability.
-    [Redacted text]
-    Foster Mother
+e. Identifying Information on Observer(s):
 
-    (2) Military - Name, grade, organization, duty, and estimate of reliability.
-    [Blank line]
+(1) Civilian - Name, age, mailing address, occupation, and estimate of
+reliability. [BLACK REDACTION], 39, [BLACK REDACTION], Male Pensioner
+[BLACK REDACTION], 59, [BLACK REDACTION], Foster Father
 
-c. Weather and wind -- Short conditions at time and place of sighting:
+(2) Military - Name, grade, organization, duty, and estimate of
+reliability. ________________________________________________________________
 
-    (1) Observer(s) account of weather conditions.                Clear
+6. Weather and winds -- List conditions as wind and place of sightings:
 
-    (2) Report from nearest AMS or U.S. Weather Bureau Office of wind direction and velocity in degrees and knots: a surface, 6,000', 10,000', 16,000', 20,000', 30,000', 50,000', and 60,000' if available.
-    [Blank line]
+(1) Observer(s) account of weather conditions. ________Clear________
 
-    (3) Ceiling.
-    [Blank line]
+(2) Report from nearest AWS or U.S. Weather Bureau Office of wind
+direction and velocity (gusts and knots at surface, 6,000', 10,000', 16,000',
+20,000', 25,000', 30,000', and 35,000' if available. _______________________
 
-    (4) Visibility.
-    [Blank line]
+(3) Ceiling. _________________________________________________________________
 
-    (5) Amount of cloud cover.
-    [Blank line]
+(4) Visibility. ________________________________________________________________
 
-    (6) Thunderstorms in area at quadrant in which located.
-    [Blank line]
+(5) Amount of cloud cover._____________________________________________________
 
-3 [Page number at bottom]
+(6) Thunderstorms in area of quadrant in which located. __________________
 
+_________________________________________________________________
+
+3
 
 - page 2 -
 
-h. Any other unusual activity or condition, met orological, astronomical, or otherwise, which might account for the sighting.
+Any other unusual activity or condition, not recorded, astronomical,
+or otherwise, which might account for the sighting. _______________________
 None
 
-i. Interception or identification action taken (such action may be taken whenever necessary, commonly with existing Air Defense discoveries).
+1. Interception of identification action taken (such action may be taken,
+whenever feasible, complying with existing Air Defense directives).
 None
 
-j. Location, approximate altitude, and general direction of flight of any air traffic in the area at time of sighting. Object sighted was observed in same general flight path as west landing at Stapleton Field.
+5. Location, approximate altitude, and general direction of flight of any
+air traffic in the area at time of sighting. Object sighted was observed in gane
+general flight path as north landing at Stapleton Field.
 
-k. Possible title and comments of the preparing officer, including his preliminary analysis of the possible cause of the sighting(s).
-[Blank]
+6. Position title and comments of the preparing officer, including his
+preliminary analysis of the possible cause of the sighting(s).
 
-l. Existence of physical evidence, such as materials and photographs.
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+7. Existence of physical evidence, such as materials and photographs.
 None
 
-[Signature]
-CHARLES W. MUSE, Major, USAF
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+[handwritten signature]
+CLAUDE BARNES, Major, USAF
 Chief, Operations Services Division
 
 4
 
-
 - page 3 -
 
-PROJECT 100's RECORD
+PROJECT 100/J RECORD
 
-1. DATE - TIME GROUP: 12 Feb 67 13/0400z
-2. LOCATION: Denver, Colorado
-3. SOURCE: one witness
-10. CONCLUSION: Satellite(Pages A)
-     Pageos A was over the eastern states traveling toward the south at the time of the sighting.
+1. DATE - TIME GROUP: 12 Feb 67    13/0002Z
+
+2. LOCATION: Denver, Colorado    one witness
+
+3. SOURCE: Civilian
+
+10. CONCLUSION: Satellite(Pageos A)
+Pageos A was over the eastern states traveling toward the south at the time of the sighting.
 
 4. NUMBER OF OBJECTS: One
-11. BRIEF SUMMARY AND ANALYSIS:
-     Observer watched a star like object travel slowly toward the south. The object was just like a star or similar to a satellite. The color was duller than the average star, being brown or orange in color.
 
 5. LENGTH OF OBSERVATION: 10 minutes
-6. TYPE OF OBSERVATION: Ground Visual Bx
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+6. TYPE OF OBSERVATION: Ground Visual Ex
+
+Observer watched a star like object travel slowly toward the south. The object was just like a star or similar to a satellite. The color was duller than the average star, being brown or orange in color.
+
 7. COURSE: Southward
 
-Pageos A was over the eastern US states at 0357Z traveling toward the south. At the height that the satellite travels, it could be visible for up to approximately 500 miles. The description is consistent with that of a satellite observation.
+Pageos A was over the eastern US states at 0357Z traveling toward the south. At the height that the satellite travels it could be visible for up to approximately 5000 miles. The description is consistent with that of a satellite observation.
 
-8. PHOTOS: No
-9. PHYSICAL EVIDENCE: No
+8. PHOTOS: [X] Yes [ ] No
 
-FTD SEP 63-0329 (TDE) Previous editions of this form may be used.
+9. PHYSICAL EVIDENCE: [ ] Yes [X] No
 
+FORM
+FTD SCP 63 0-329 (TDE)  Previous editions of this form may be used.
 
 - page 4 -
 
-LOWRY TECHNICAL AIR TRAINING CENTER (ATC)
+[handwritten: 12 Feb 67 Denver, Cal.]
+
+U.S.A.F. TECHNICAL AIR TRAINING CENTER (ATC)
 UNITED STATES AIR FORCE
 LOWRY AIR FORCE BASE, 80230, Colorado
 
 REPLY TO
-ATTN OF: XPCP
-
-SUBJECT: Unidentified Flying Objects (UFO)                Date 13 Feb 1967
-
-TO:
-
-When unidentified flying objects (UFO) are reported, the following information will be filed in and then forwarded immediately to Plans/Program attention XPCP:
-
-a. Description of the Object(s):
-
-(1) Shape: Same as star - also similar to satellite.
-
-(2) Size compared to a known object (use one of the following terms: head of pin, pea, dime, nickel, quarter, half dollar, silver dollar, baseball, grapefruit, or basketball) held at arm's length: Slightly smaller than average star.
-
-(3) Color: Brown or orange tint, duller than average star.
-
-(4) Number: One
-
-(5) Formation, if more than one: [blank]
-
-(6) Any discernible features or details: none
-
-(7) Tail, trail, or exhaust, including size of same compared to size of object(s): none
-
-(8) Sound. If heard, describe sound: none
-
-(9) Other pertinent or unusual features: None
-
-
-- page 5 -
-
-b. Description of course of Object(s):
-(1) What first called the attention of observer(s) to the object(s)?
-Happened to look outa window at sky.
-
-(2) Angle or elevation and azimuth of the object(s) when first observed.
-75 - 80 degrees - appeared to be 10 feet left of Big Dipper.
-
-(3) Angle or elevation and azimuth of object(s) upon disappearance.
-75-80 degrees - appeared to be 10 feet right of Big Dipper.
-
-(4) Description of flight path and maneuvers of object(s).
-level path
-
-(5) How did the object(s) disappear? (instantaneously to the north, etc.)
-light dimmed, disappeared within 5 seconds like under cloud cover, did not reappear.
-
-(6) How long was the object(s) visible. (Be specific, 5 minutes, 1 hour, etc)
-10 minutes
-
-c. Manner of Observation:
-(1) Use one or any combination of the following items: Ground-visual, ground-electronic, air electronic. (If electronic, specify type of radar.)
-Ground visual
-
-(2) Statement as to optical aids (telescopes, binoculars, and so forth)
-Binoculars 7x35
-
-(3) If the sighting is made while airborne, give type of aircraft, identification number, altitude, heading, speed, and home station.
-[blank]
-
-d. Time and date of sighting:
-(1) Zulu time-date-group of sighting. 13/0400Z Feb 67
-
-2
-
-
-- page 6 -
-
-Here is the OCR text from the document:
-
-(?) Light conditions. (use on of the following terms: light, day, 
-dusk, dark)
-                Night
-
-c. Location of Observer(s). Exact latitude and longitude of each observer, 
-and/or geographical position. Position with reference to a known landmark 
-also should be given in electronic report, such as "24.1 N of 102 TLW, 
-SW of Blue Lake". Typographical errors or "scribbling" often results in electrically 
-transmitted messages, making location plots at critical or impossible.
-
-EXAMPLE: 89.45N, 194.7LW for 39.45N, 102.7LW
-
-                Denver, Colo
-
-f. Identifying Information on Observer(s):
-
-(1) Civilian - Name, age, mailing address, occupation, and estimate of 
-reliability.
-
-(2) Military - Name, grade, organization, duty, and estimate of 
-reliability.
-
-g. Weather and winds -- light conditions at time and place of sightings:
-
-(1) Observer(s) account of weather conditions.     Clear
-
-(2) Report from nearest MS or U.S. Weather Bureau Office of wind 
-direction and velocity and/or compass course at surface, 6,000', 10,000', 16,000', 
-20,000', 30,000', 50,000' and 50,000' if available.
-
-(3) Ceiling.
-(4) Visibility.
-(5) Amount of cloud cover.
-(6) Thunderstorms in area 4d quadrant in which located.
-
-3
-
-
-- page 7 -
-
-Here is the text from the document:
-
-b. Any other unusual activity or condition, meteorological, astronomical, or otherwise, which might account for the sighting.
-None
-
-i. Interception of identification action taken (such action may be taken whenever feasible, complying with existing Air Defense directives).
-None
-
-j. Location, approximate altitude, and general direction of flight of any air traffic in the area at time of sighting.
-Unknown
-
-k. Position, title and comments of the preparing officer, including his preliminary analysis of the possible cause of the sighting(s).
-No comment
-
-l. Existence of physical evidence, such as materials and photographs.
-None
-
-EDWARD E. VIGES, Major, USAF
-Chief, Operations Services Division
-
-4
-
-
-- page 8 -
-
-Here is the text from the document:
-
-b. Description of course of Object(s):
-
-(1) What first called the attention of observer(s) to the object(s)?
-looking out window at landing planes.
-
-(2) Angle or elevation and azimuth of the object(s) when first observed.
-level flight
-
-(3) Angle or elevation and azimuth of object(s) upon disappearance.
-still visible at time of this report
-
-(4) Description of flight path and maneuvers of object(s).
-U to E and up and down
-
-(5) How did the object(s) disappear? (Instantaneously to the north, etc.)
-still visible at this time (1968)
-
-(6) How long was the object(s) visible. (Be specific, 5 minutes, 1 hour, etc)
-1 hr
-
-c. Manner of Observation:
-(1) Use one or any combination of the following items: Ground-visual, ground-electronic, air electronic. (If electronic, specify type of radar.)
-ground visual
-
-(2) Statement as to optical aids (telescopes, binoculars, and so forth)
-naked eye
-
-(3) If the sighting is made while at home, give type of aircraft, identification number, altitude, heading, speed, and home station.
-N/A
-
-d. Time and date of sighting:
-(1) Zulu time-date-group of sighting.
-01:02
-
-2
-
-
-- page 9 -
-
-Here is the text from the document:
-
-1 JUNE TECHNICAL AIR TRAINING CENTER (ATC)
-UNITED STATES AIR FORCE
-LOWRY AIR FORCE BASE, 80236, Colorado
-
-REPLY TO
-ATTN OF: XPGP                                                Date: 2 FEB 67
+ATTN OF: XPCP                                                                     Date 13 Feb 1967
 
 SUBJECT: Unidentified Flying Objects (UFO)
 
 TO:
 
-When Unidentified Flying Objects (UFO) are reported, the following information
-will be filed in and can forward immediately to Directorate of Plans/Program division
-XPGP:
+When unidentified flying objects (UFO) are reported, the following information
+will be filled in and when forwarded immediately to Plans/Program attention
+XPCP.
 
 a. Description of the Object(s):
-   (1) Shape.     like a star or light
 
-   (2) Size compared to a known object (use one of the following terms:
-   Head of a pin, dime, nickel, quarter, half dollar, silver dollar, baseball,
-   grapefruit, or basketball) held in the hand at about arm's length.
+(1) Shape. Same as star - also similar to satellite.
 
-   (3) Color.     Flashing, blue and blue white
+(2) Size compared to a known object (use one of the following terms:
+head off pea, pea, dime, penny, quarter, half dollar, silver dollar, baseball,
+grapefruit, or basketball) held in the hand at about arm's length.
 
-   (4) Number.    1
+slightly smaller than average star.
 
-   (5) Formation, if more than one.    None
+(3) Color. Brown or orange tint, duller than average star.
 
-   (6) Any discernible features or details.    like a star or diamond
+(4) Number. One
 
-   (7) Tail, trail, or exhaust, including size of same compared to size
-   of object(s).    None
+(5) Formation, if more than one.
 
-   (8) Sound. If heard, describe sound.    None
+(6) Any discernible features or details.                    none
 
-   (9) Other pertinent or unusual features    moves back and forth. 4 to 5
-   and then up and down.
+(7) Tail, trail, or exhaust, including size of same compared to size
+of object(s).    None
 
+(8) Sound. If heard, describe sound.    none
 
-- page 10 -
+(9) Other pertinent or unusual features    none
 
-Here is the text from the document:
+- page 5 -
 
-b. Description of course of Object(s):
+B. Description of course of Object(s):
+
+(1) What first called the attention of observer(s) to the object(s)?
+
+Happened to look outa window at sky.
+
+(2) Angle or elevation and azimuth of the object(s) when first observed. 75 - 00 degrees - appeared to be 10 feet left of Big Dipper.
+
+(3) Angle or elevation and azimuth of object(s) upon disappearance.
+
+75-00 degrees - appeared to be 10 feet right of Big Dipper.
+
+(4) Description of flight path and maneuvers of object(s).
+
+Level path
+
+(5) Where did the object(s) disappear? (Instantaneously to the north, etc.)
+
+Light dimmed, disappeared within 5 seconds like under cloud cover, did not reappear.
+
+(6) How long was the object(s) visible. (Be specific, 5 minutes, 1 hour, etc)
+
+10 minutes
+
+C. Manner of Observation:
+
+(1) Use one or any combination of the following items: Ground-visual, ground - electronic, air electronic. ( If electronic, specify type of radar.)
+
+Ground visual
+
+(2) Instruments as to optical aids (telescopes, binoculars, and so forth) used and description thereof. Binoculars 7x35
+
+(3) If the sighting is made while airborne, give type of aircraft, identification number, altitude, heading, speed, and home station.
+
+d. Time and date of sighting:
+
+(1) Zulu time-date-group of sighting. 13/0400Z Feb 67
+
+2
+
+- page 6 -
+
+(2) Light conditions. (use on of the following terms: Night, day, dusk, dawn) ___Night_______
+
+D. Location of Observer(s). Exact latitude and longitude of each observer, and/or description of location. A position with reference to a known landmark also should be given in electrical reports, such as "2mi X of Decatur" or "3mi S of Blue Lake". Typographical errors or "eyeballing" often results in electrical transmitted messages, making location plots difficult or impossible.
+
+EXAMPLE: 89 L5W, 19. 7W for 39 N5W, 102 2lW.
+
+Denver, Colo
+
+E. Identifying Information on Observer(s):
+
+(1) Civilian - Name, home mailing address, occupation, and estimate of reliability. [redacted], Address same as para D. above
+
+(2) Military - Name, grade, organization, duw, and estimate of reliability. _______________________________________________________________________________
+
+F. Weather and Winds -- Are conditions at time and place of sightings:
+
+(1) Observer(s) account of weather conditions. Clear
+
+(2) Report from nearest NWS or U.S. Weather Bureau Office of wind direction and velocity in degrees and knots at surface, 6,000', 10,000', 16,000', 20,000', 30,000', 50,000', and 50,000' if available. _______________________________________________________________________________
+
+(3) Ceiling. _______________________________________________________________________________
+
+(4) Visibility. _______________________________________________________________________________
+
+(5) Amount of cloud cover._______________________________________________________________________________
+
+(6) Thunderstorms in area of quadrant in which located. _______________________________________________________________________________
+
+3
+
+- page 7 -
+
+8. Any other unusual activity or condition, meteorological, astronomical, or otherwise, with high accoume for the sighting.
+None
+
+1. Interception of identification action taken (such action may be taken whenevr facits, complying with existing Air Defense directive).
+None
+
+3. Location, approximate altitude, and general direction of origin of any of any air traffic in the area at time of sighting.
+Unknown
+
+4. Position title and comments of the preparing officer, including his preliminary analysis of the possible cause of the sighting(s).
+No Comments
+
+5. Existence of physical evidence, such as materials and photographs.
+None
+
+[signature: handwritten]
+EDWARD S. WYCE, Major, USAF
+Chief, Operations Services Division
+
+4
+
+- page 8 -
+
+B. Description of Course of Object(s):
 
 (1) What first called the attention of observer(s) to the object(s)?
 looking out window at landing planes.
@@ -372,102 +301,194 @@ level flight
 (3) Angle or elevation and azimuth of object(s) upon disappearance.
 still visible at time of this report
 
-(4) Description of flight path and maneuvers of Object(s).
+(4) Description of flight path and maneuvers of object(s).
 W to E and up and down
 
 (5) How did the object(s) disappear? (Instantaneously to the north, etc.)
-still visible at this time (1967)
+still visible at this time (1200S)
+
+(6) How long was the object(s) visible. (Be specific, 5 minutes, 1 hour, etc)
+1 hr
+
+C. Manner of Observation:
+
+(1) Use one or any combination of the following items: Ground-visual, ground - electronic, air electronic. ( If electronic, Specify type of radar.)
+ground visual
+
+(2) Statement as to optical aids (telescopes, binoculars, and so forth) used and description thereof.
+naked eye
+
+(3) If the sighting is made while airborne, give type of aircraft, identification number, altitude, heading, speed, and home station.
+N/A
+
+G. Time and date of sighting:
+
+(1) Zulu time-date-group of sighting. 0130Z
+
+2
+
+- page 9 -
+
+DEPUTY COMMANDANT AIR TRAINING CENTER (ATC)
+UNITED STATES AIR FORCE
+LOWRY AIR FORCE BASE, 80230, Colorado
+
+REPLY TO
+ATTN OF: XFGF                                                    Date 2 Feb 67
+
+SUBJECT: Unidentified Flying Objects (UFO)
+
+TO:
+
+When unidentified flying objects (UFO) are reported, the following information
+will be filled in and when forwarded immediately to Plans/Program attention
+XFOP.
+
+a. Description of the Object(s):
+
+(1) Shape. like a star or light
+
+(2) Size compared to a known object (use one of the following words:
+hand or, pin, pea, dime, nickel, quarter, half dollar, silver dollar, baseball,
+grapefruit, or basketball) held in the hand at about arm's length.
+
+(3) Color. flashing, blue and blue white
+
+(4) Number. 1
+
+(5) Formation, if more than one. None
+
+(6) Any discernible features or details. like a star or diamond
+
+(7) Tail, trail, or exhaust, including size of same compared to size
+of object(s). None
+
+(8) Sound. If heard, describe sound. None
+
+(9) Other pertinent or unusual features. moves back and forth, U to B
+
+and side up and down.
+
+- page 10 -
+
+b. Description of course of object(s):
+
+(1) What first called the attention of observer(s) to the object(s)?
+Looking out window at landing planes.
+
+(2) Angle or elevation and azimuth of the object(s) when first observed.
+level flight
+
+(3) Angle or elevation and azimuth of object(s) upon disappearance.
+still visible at time of this report
+
+(4) Description of flight path and maneuvers of object(s).
+W to E and up and down
+
+(5) How did the object(s) disappear? (instantaneously to the north, etc.)
+still visible at this time (1904)
 
 (6) How long was the object(s) visible. (Be specific, 5 minutes, 1 hour, etc)
 1 hr
 
 c. Manner of Observation:
 
-(1) Use one or any combination of the following items: Ground-visual, ground-electronic, air electronic. (If electronic, specify type of radar.)
-ground visual
+(1) Use one or any combination of the following items: Ground-visual, ground - electronic, air electronic. (If electronic, specify type of radar.)
+Ground visual
 
-(2) Statement as to optical aids (telescopes, binoculars, and so forth)
-naked eye
+(2) Statement as to optical aids (telescopes, binoculars, and so forth) used and description thereof.
+named eye
 
 (3) If the sighting is made while airborne, give type of aircraft, identification number, altitude, heading, speed, and home station.
 N/A
 
-d. Time and date of Sighting:
+d. Time and date of sighting:
+
 (1) Zulu time-date-group of sighting.
 0130Z
 
 2
 
-
 - page 11 -
 
-Here is the text from the document:
+G. Any other unusual activity or condition, meteorological, astronomical,
+or otherwise, which might account for the sighting.
 
-6. Any other unusual activity or condition, meteorological, astronomical, or otherwise, which might account for the sighting.
-[blank line]
+___________________________________________________________________
 
-1. Interception of identification action taken (such action may be taken whenever feasible, complying with existing Air Defense Directives).
-[blank line]
+i. Interrogation of identification action taken (such action may be taken
+whenever feasible, complying with existing Air Defense Directives).
 
-4. Location, approximate altitude, and general direction of flight of any air traffic in the area at time of sighting.
-[blank line]
+N/A
 
-k. Position title and comments of the preparing officer, including his preliminary analysis of the possible cause of the sighting(s).
-[blank line]
+___________________________________________________________________
 
-Edward E. Vigus, Major, Chief Opns Serv Div
-[blank line]
+j. Location, approximate altitude, and general direction of origin of any
+air traffic in the area at time of sighting.
 
-1. Existence of physical evidence, such as materials and photographs.
+[handwritten: Unkn./N/A]
+
+___________________________________________________________________
+
+k. Position title and comments of the preparing officer, including his
+preliminary analysis of the possible cause of the sighting(s).
+
+[handwritten: possible aircraft/A]
+
+[handwritten: Edward E. Vizes, Major, Chief Ops Svc Div]
+
+l. Existence of physical evidence, such as materials and photographs.
+
 None
-[blank line]
 
-[Signature]
-EDWARD E. VIGUS, Major, USAF
+___________________________________________________________________
+
+[handwritten signature]
+
+EDWARD E. VIZES, Major, USAF
 Chief, Operations Services Division
 
+___________________________________________________________________
+
+k
 
 - page 12 -
 
-Here is the text from the document:
+b. Light conditions (use on of the following names: night, day, dawn, dusk) ________night________
 
-(c) Night conditions. (Use one of the following terms: Night, day, dawn, dusk)
+c. Location of Observer(s). Known latitude and longitude of each observer, and/or geographical position. A position with reference to a known landmark or with a given in electrical reports, such as "2 mi N of Decaying 1942, SE of Blue Lake". Typographical errors or "garbling" often result in electrically transmitted messages, making location plots difficult or impossible.
 
-a. Location of Observer(s). Short latitude and longitude of each observer, and/or geographical position. A detailed map should be used and should be given in electrical reports, such as "2mi N of Rockville," "3mi SE of Blue Lake".
+EXAMPLE: 89 USN, 192 7W for 39 USN, 102 2W.
 
-EXAMPLE: 89 L5N, 192 7W for 39 L5N, 102 21W.
+________In Aurora at East Fence of Missiomous in trailer park.
 
-In Aurora at East Fence of Fitzsimons in trailer park.
+________________________________________________________________________
 
 f. Identifying Information on Observer(s):
-(1) Civilian - Name, age, mailing address, occupation, and estimate of reliability.
-[Redacted text] Aurora (widow) Phone [Redacted text]
 
-(2) Military - Name, grade, organization, duty, and estimate of reliability.
-N/A
+(1) Civilian - Name, age, mailing address, occupation, and estimate of reliability. [redacted] Aurora (widow) Phone [redacted]
 
-g. Weather and winds -- Aloft conditions at time and place of sightings:
+(2) Military - Name, grade, organization, duty, and estimate of reliability. ________N/A
 
-(1) Observer(s) account of weather conditions. Clear
+g. Weather and Winds -- ALOFT conditions of wind and places of sightings:
 
-(2) Report from nearest AWS or U.S. Weather Bureau Office of wind direction and velocity increases and knots at surface, 6,000', 10,000', 16,000', 20,000', 30,000', 50,000', and 80,000' if available. Calm, temp 37, dewpoint 15.
+(1) Observer(s) account of weather conditions. ________Clear
 
-Alt 20.00
+(2) Report from nearest AWS or U.S. Weather Bureau Office of wind direction and velocity in degrees and knots at surface, 6,000, 10,000, 16,000, 20,000, 30,000, 50,000, and 50,000 if available. ________calm, temp 27, dew point 15,
 
-(3) Ceiling. clear
+Alt 20,C8
 
-(4) Visibility. 60 miles
+(3) Ceiling. ________clear
 
-(5) Amount of cloud cover. some Cirrus N.W.
+(4) Visibility. ________60 miles
 
-(6) Thunderstorms in area and quadrant in which located. None
+(5) Amount of cloud cover. ________some Cirrus N.W.
 
-3
+(6) Thunderstorms in area ad quadrant in which located. ________None
 
+5
 
 - page 13 -
-
-Here is the text from the document:
 
 PROJECT 10073 RECORD
 
@@ -475,126 +496,143 @@ PROJECT 10073 RECORD
 12 Feb 67  13/0130Z
 
 2. LOCATION
-Denver, Colorado
+Denver, Colorado  [handwritten: circled with notation]  2 witnesses
 
 3. SOURCE
 Civilian
 
 10. CONCLUSION
-Astro(meteor)
+Astro(nator)  [handwritten: crossed out and annotated with illegible handwriting]
 
 4. NUMBER OF OBJECTS
 One
-
-11. BRIEF SUMMARY AND ANALYSIS
-Observers watched a bright light that looked like the
-Echo satellite but faster and brighter travel quickly to
-the NE. The speed of the object was much faster than
-known aircraft. No sound was heard during the observation.
-The object traveled on a straight and level flight path.
 
 5. LENGTH OF OBSERVATION
 10 seconds
 
 6. TYPE OF OBSERVATION
-Ground Visual
+Ground visual
 
 7. COURSE
-NE
+NW
 
 8. PHOTOS
-Yes
-XX No
+[ ] Yes
+[X] No
 
 9. PHYSICAL EVIDENCE
-11 Yes
-XX No
+[ ] Yes
+[X] No
 
-F-TDR SEP 63 0-227 (TDE)  Previous editions of this form may be used.
+11. BRIEF SUMMARY AND ANALYSIS
 
+Observers watched a bright light that looked like the Echo satellite but faster and brighter travel quickly to the NE. The speed of the object was much faster than known aircraft. No sound was heard during the observation. The object traveled on a straight and level flight path.
+
+FORM
+FTD 164-14 0-327 (TDE)  Previous editions of this form may be used.
 
 - page 14 -
 
-FIFTH TECHNICAL AIR INTELLIGENCE CENTER (ATC)
+[handwritten: /2 Feb 67     Denver, Colorado]
+
+LOWRY TECHNICAL AIR TRAINING CENTER (ATC)
 UNITED STATES AIR FORCE
 LOWRY AIR FORCE BASE, 80230, Colorado
 
 REPLY TO
-ATTN OF: XPGD                                                                Date: 10 FEB 1969
+ATTN OF: AFOT                                                                    DATE 43 AUG 1967
+
 SUBJECT: Unidentified Flying Objects (UFO)
 
 TO:
 
-When Unidentified Flying Objects (UFO) are reported, the following information
-will be entered in this record in accordance with AFR 80-17A to PLAN/PROG channel
-XPGD:
+When unidentified flying objects (UFO) are reported, the following information
+will be mailed in and when forwarded immediately to plans/Programs attention
+AFOT.
 
-a. Description of the Object(s):
+6. Description of the Object(s):
 
-(1) Shape:           Bright light
+(a) Shape. Bright light
 
-(2) Size compared to a known object (use one of the following terms:
-head of a pin, pea, dime, nickel, quarter, half dollar, silver dollar, basketball,
-etc. - describe relative size and hold at arm's length):
+(b) Size compared to a known object (use one of the following words:
+head of a pin, pea, dime, nickel, quarter, half dollar, silver dollar, baseball,
+grapefruit, or bushbasket) held in the hand at about arm's length.
+
 Like satellite echo but faster and brighter.
 
-(3) Color:           White
+(c) Color. White
 
-(4) Number:          One
+(d) Number. One
 
-(5) Formation:       12 more than one.
+(e) Formation, if more than one. _______________________________________________
 
-(6) Any discernible features or details:   Travelled at extreme speed,
+(f) Any discernible features or details. Travelled at extreme speed,
+
 much faster than known aircraft.
 
-(7) Tail, trail, or exhaust, including size of same compared to size
-of object(s):        None
+(g) Tail, trail, or exhaust, including size of some compared to size
+of object(s). None
 
-(8) Sound: If heard, describe sound:       None
+(h) Sound. If heard, describe sound. None
 
-(9) Particular or unusual features:        None
-
+(i) . . . . luminous or unusual features None
 
 - page 15 -
 
-Here is the text from the document:
-
-b. Description of course of Object(s):
+B. Description of course of Object(s):
 
 (1) What first called the attention of observer(s) to the object(s)?
 
-(2) Angle or elevation and azimuth of the object(s) when first observed:
+_________________________________________________________________________
+
+_________________________________________________________________________
+
+(2) Angle or elevation and azimuth of the object(s) when first observed.
 45 degrees
 
-(3) Angle or elevation and azimuth of object(s) upon disappearance:
+_________________________________________________________________________
+
+_________________________________________________________________________
+
+(3) Angle or elevation and azimuth of object(s) upon disappearance.
 15 degrees
 
-(4) Description of flight path and maneuvers of object(s):
-straight and level flight path
+_________________________________________________________________________
 
-(5) How did the object(s) disappear? (Instantaneously to the north, etc.)
+_________________________________________________________________________
+
+(4) Description of flight path and maneuvers of object(s).
+Straight and level flight path
+
+_________________________________________________________________________
+
+_________________________________________________________________________
+
+(5) Ended the object(s) disappear? (Instantaneously to the north, etc.)
 Instantaneously to the N.E.
 
-(6) How long was the object(s) visible: (Be specific, 5 minutes, 1 hour, etc)
+(6) How long was the object(s) visible. (Be specific, 5 minutes, 1 hour, etc)
 Approx 10 seconds
 
-c. Manner of Observation:
+C. Manner of Observation:
 
-(1) Was one or any combination of the following items: Ground-visual, ground-electronic, air electronic. (If electronic, specify type of radar.)
+(1) Was one or any combination of the following items: Ground-visual, ground - binoculars, air observation. (If electronic, specify w/o of radar.)
 Ground visual
 
-(2) Permanent or temporary status of observers (telescopes, binoculars, and so forth)
-Used and described hereto: Binoculars 6x24
+(2) Apparent as to optical aids (telescopes, binoculars, and so forth) used and description thereof.
+Binoculars 6x24
 
-(3) If the sighting is made while airborne, give type of aircraft, identification number, altitude, heading, speed, and home station.
-[blank]
+(3) If the sighting is made while airborne, give type of aircraft, identification marks, altitude, heading, speed, and radio station.
 
-d. Time and date of sighting:
+_________________________________________________________________________
 
-(1) Date time-date-group of sighting: 12/0130Z Feb 67
+_________________________________________________________________________
+
+D. Time and date of sighting:
+
+(1) Extn time-date-group of sighting. [handwritten: 222912 13/01994 Feb 69]
 
 2
-
 
 - page 16 -
 

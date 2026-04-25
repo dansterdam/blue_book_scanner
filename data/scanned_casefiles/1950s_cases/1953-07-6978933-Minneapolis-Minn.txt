@@ -1,43 +1,49 @@
-Here is the text I can read from the document:
+There are no photographs present on this page.
 
+---
+
+Here is the OCR text of the document:
+
+```
 1. DATE - TIME GROUP
-20 July 53  30/1507
-
-2. LOCATION
-Minneapolis, Minn.
+20 July 53 2315CST
 
 3. SOURCE
-[word circled but illegible]
+***village***
 
 4. NUMBER OF OBJECTS
-2
+Two
 
 5. LENGTH OF OBSERVATION
-[illegible]
 
 6. TYPE OF OBSERVATION
-[illegible]
+**rosia***
 
 7. COURSE
-[illegible]
+***
 
 8. PHOTOS
-☐ Yes
-☒ No
+[] Yes
+[X] No
 
 9. PHYSICAL EVIDENCE
-☐ Yes
-☒ No
+[] Yes
+[X] No
+
+2. LOCATION
+Indianapolis, Ind.
 
 10. CONCLUSION
-BLANK
+BALL ONS 
+
+Reported interests with balloon analysis.
 
 11. BRIEF SUMMARY AND ANALYSIS
-[partially illegible text, cannot fully read]
+Blind made star line objects noted AM *** reported left Ayurveda July 22 thlj objects PM *** 
 
-FORM
-FTD SEP 63 0-329 (TDE)  Previous editions of this form may be used.
-
+FORM     
+FTD SEP 63 0-329(TDE) Previous editions of this form may be used.
+```
 
 - page 1 -
 

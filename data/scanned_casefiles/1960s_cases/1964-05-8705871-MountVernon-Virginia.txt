@@ -1,24 +1,39 @@
 PROJECT 10073 RECORD CARD
 
 1. DATE
-18 May 64
+13 May 64
 
 2. LOCATION
 Mount Vernon, Virginia
 
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other [UNIDENTIFIED]
+[X] Insufficient Data for Evaluation
+[ ] Unknown
+
 3. DATE-TIME GROUP
-GMT 18/2315Z
+Local ________________
+GMT 10/23152
 
 4. TYPE OF OBSERVATION
-[X] Ground-Visual □ Ground-Radar
-□ Air-Visual □ Air-Intercept Radar
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
 
 5. PHOTOS
-□ Yes
+[ ] Yes
 [X] No
 
 6. SOURCE
-Civilian
+*** civilian
 
 7. LENGTH OF OBSERVATION
 17 minutes
@@ -30,29 +45,118 @@ one/two
 West
 
 10. BRIEF SUMMARY OF SIGHTING
-Small oval obj with white glow brighter than the brightest star visible observed in diameter from the Moon at the moon's 3 o'clock position. Obj gradually moved around moon to 12 o'clock position of moon 3 diameter's length. This motion took 15 mins. Then obj moved to about 15 diameter of Moon in two particles with one being a grey cloud-like followed with BK. No longer visible to naked eye. Obj split in two again gradually faded. This sequence consumed one min. Total duration 17 min. Sighting at dusk toward setting sun.
+Small oval obj with white glow brighter than the brightest star visible observed in diameter from the Moon at the moon's 3 o'clock position. Obj gradually moved around moon to 12 o'clock position of moon 3 diameter's length. This motion took 15 mins. Then obj moved to W about 15 diameters of Moon in two particles with one being a grey cloud-like followed with EX. No longer visible to naked eye. Obj split in two again and gradually faded. This sequence consumed one min. Total duration 17 min. Sighting at dusk toward getting sun.
 
 11. COMMENTS
-Possibility of research balloon with pig breaking. Data not sufficient to support this evaluation. Case regarded as UNIDENTIFIED.
+Possibility of research balloon with pkg breaking. Data not sufficient to support this evaluation. Case regarded as UNIDENTIFIED.
 
-12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Possible Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-□ Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-[X] Other: UNIDENTIFIED
-□ Insufficient Data for Evaluation
-□ Unknown
+[handwritten: Ed Condon Nev. [illegible] [illegible]]
 
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
-Here is the OCR text from the document:
+FORM 610-12
+Cummlative
+
+*Identification
+WASHINGTON, D.C.
+ARLINGTON, VA.BALTIMORE FOR BALTIMORE 29° W
+RAWINS BALLOON - CALIBRATION 260=S
+OBSERVATION POINT CO LOCATED ABOVE SEA LEVEL
+
+Page 1
+
+Type of Balloon: 1000
+
+U.S. DEPARTMENT OF COMMERCE
+WEATHER BUREAU
+
+WINDS-ALOFT COMPUTATION SHEET
+(SANDSTON FORM)
+WBAN-20
+
+Year
+Actual
+Time
+Scheduled
+(G.S.T.)
+
+1965
+1934
+
+Accession No.: _______
+
+Orientation
+360° = South
+
+Eastward;
+Wind
+
+Slant
+range
+(m.) (yds.)
+
+Pilot
+aft. shear
+Elev., ft.
+
+Rawin
+Aft. shear
+Elev., ft.
+
+Elevation angle °
+Observed | Smoothed
+
+Distance from
+observation
+point (ft.)
+
+Azimuth
+angle
+
+Direction°
+360°=N.
+
+Speed
+(m.p.h.)
+
+Can-
+ved
+5
+
+Pressure
+(mbs.)
+
+[Extensive data table with numerical entries arranged in rows and columns, containing measurements and calculations]
+
+Termination
+Remark: 110 & 300 m. rise with
+respect to prod. alt.
+Pressure reduced
+at ndord levels
+or in 1 mi. bal.
+
+Coded Data for Computation
+
+[Additional coded data section at bottom]
+
+Type of
+Equipment
+
+Maxim
+Wind m.p.h. or
+speed Alts. of maximum
+values, feet. (approx.)
+Dir. (degrees)
+(in 10's) of above
+speeds.
+Wind
+45 m.p.h. or met
+Enter check if
+app,aor on rever
+
+- page 2 -
 
 U.S. DEPARTMENT OF COMMERCE
 WEATHER BUREAU
@@ -61,66 +165,231 @@ WINDS-ALOFT COMPUTATION SHEET
 (LANDSTATION FORM)
 WBAN-20
 
-Identification
-WX STATION, D. C.
-(STERLING, VA.)
-MAIN WIND
-OBSERVATION POINT 65 meters AMSL 521 LEVEL
+[Header shows coordinates: 09° II E.010.77° 28' W and reference information including "from 060=S" and "ABOVE SEA LEVEL"]
 
-LAT 38° 58' N LONG 77° 28' W
-ELEV 207 FT
+Orientation: 360°= South
 
-[The rest of the document is a detailed table with columns for:
-- Pilot balloon range
-- Rewin height above surface
-- Elevation angle (observed and smoothed)
-- Distance from observation point
-- Azimuth
-- Wind direction
-- Wind speed
+Year: 1964
+Month: MAY
+Day: 18
+Time: 0600
 
-The table contains numerous numerical entries tracking wind measurements at different altitudes, ranging from ground level to approximately 50 levels high.]
+Elevation No.: [blank]
+Rawinsonde Time-Altitude Data
 
-At the bottom of the page are summary calculations and coded data for transmission.
+[Large table with columns for:]
+- Swin above surface (m.)
+- Elevation angle° (Observed, Smoothed)
+- Distance from observation point (m.)
+- Azimuth angle 360°=N.
+- Wind Direction° 360°=N.
+- Wind Speed (m.p.s.)
 
-The document appears to be a meteorological wind measurement record from Sterling, Virginia, dated 1964.
+[Contains numerous numerical entries in rows, preserving all visible data points]
 
+[Right side contains "Pressure (mb.)" and "Altitude (m., est.)" and "Elapsed time (mts.)" columns with corresponding data]
 
-- page 2 -
+[Bottom section contains:]
+Coded Data for Transmission
+
+[Table with numerical data for transmission]
+
+Maximum Wind Speed Data box containing:
+- Alt. of maximum wind speed (m.)
+- Direction (degrees) and speed (m.p.s.) of Max. wind
+- Max. alt. wind speed 25 m.s. or more (m.)
+- Enter check if additional levels below on reverse side
+
+[Punch Card Data section with multiple rows and columns]
+
+Type of equipment: 88 (left side), [blank] (right side)
+
+[Multiple rows of numerical data in punch card format]
+
+- page 3 -
+
+FORM 610-12
+CIMM-WB-DC
+
+*Identification
+
+WASHINGTON, D. C.
+(STERLING, VA.) 37°39'09" N LONG.77° 28' W
+RADIO WIND-20                    ELEVATION 300=S
+BALLOON RELEASE TIME              GROUND ELEV ISSUED
+
+Page
+1
+
+Type of balloon 600
+
+[THIS IS TABLE: A detailed wind data table with the following columns: Slant range (m.) (yds.), Ht. above sfc. (km.) (yds.), Ht. above sfc. (m.), Elevation angle°, Observed, Smoothed, Distance from observation point (m.), Azimuth o, Direction° 360°=N., Speed (mps)]
+
+The table contains 50 rows of data with measurements for various heights and wind parameters.
+
+U.S. DEPARTMENT OF COMMERCE
+WEATHER BUREAU
+
+ACE
+[?]
+Ascer
+
+Orientation: 360°=South
+
+Wind
+Direction° 360°=N.
+
+[The table continues with detailed numerical data for each row from row 1 to row 50]
+
+Coded Data for Transmission
+
+[Bottom section contains coded data in compressed format]
+
+- page 4 -
 
 U.S. DEPARTMENT OF COMMERCE
 WEATHER BUREAU
 
 WINDS-ALOFT COMPUTATION SHEET
-(LAND STATION FORM)
-WBAN-20
+(LANDSTATION FORM)
+WBANNO
 
-Actual
-Time
+[stamp: Actual
+Time (hr. min)
+1904
+[illegible]
+
+[stamp: Year Month Day Time
+1904 [illegible] 10 [illegible]
+17]
+
+Orientation, 360° = South                    Rawinsonde Time-Altitude Data
+
+Row  | Elevation angle°        | Distance from | Azimuth  | Direction° | Speed  | Time | Pressure | Altitude | Elapsed
+No.  |                         | observation   | angle    | 360°=N.    | (m.p.s.)| (min)| (mb)     | (m., m.sl.)| Time (min.)
+     | Observed | Smoothed    | point         |          |            |        |      |          |           |
+     |          |             | (m)           |          |            |        |      |          |           |
+-----|----------|-------------|---------------|----------|------------|--------|------|----------|-----------|----------
+1    | 6.0      | 53.7        | 28 0          | 32.5     | 1          | 318    | <.5  | 10       | 100       | 0.1
+2    | 90.2     | 51.9        | 601.3         | 312.2    | 2          | 302    | 4.3  | 10       | 250       | 0.4
+3    | 49.3     | 52.3        | 842.5         | 313      | 3          | 326    | 5.0  | 15       | 360       | 1.2
+4    | 49.3     | 51.7        | 1125.3        | 311.5    | 4          | 326    | 9.0  | 20       | 570       | 0.1
+5    | 62.0     | 53.6        | 1 73.3        | 314.1    | 5          | 322    | 10.2 | 25       | 970       | 0.9
+6    | 63.95    | 46.6        | 2435.0        | 322.7    | 6          | 317    | 11.5 | 30       | 1050      | 1.4
+7    | 59.0     | 42.3        | 2918.3        | 326.4    | 7          | 319    | 13.7 | 45       | 3570      | 11.7
+8    | 62.70    | 41.7        | [illegible]   | 338.1    | 8          | 344    | 10.9 | 50       | 6370      | 15.3
+9    | 36.79    | 39.7        | 4694.5        | 142.0    | 9          | 363    | 12.1 | 55       | 7040      | 17.0
+10   | 63.58    | 32.3        | 6313.3        | 329.5    | 10         | 349    | 13.6 | 60       | 9160      | 19.7
+11   | 46.30    | 27.7        | 6793.6        | 334.6    | 11         | 359    | 14.5 | 65       | 11570     | 21.0
+12   | 49.30    | 25.7        | 6633.0        | 336.7    | 12         | 355    | 15.5 | 70       | 13370     | 23.7
+13   | 53.90    | 27.9        | 7633.3        | 329.1    | 13         | 337    | 16.0 | 75       | 14970     | 26.9
+14   | 57.30    | 25.6        | 9020         | 316.9    | 14         | 322    | 15.6 | 80       | 16770     | 29.9
+15   | 64.30    | 23.6        | 9603.3        | 316.1    | 15         | 321    | 16.3 |          |           |
+16   | 63.30    | 30.9        | 10560.0       | 315.7    | 16         | 332    | 16.7 | 85       | 19170     | 36.3
+17   | 69.10    | 3.2         | 11813.0       | 373.6    | 17         |        | 17.2 | 90       | 19670     | 39.1
+18   |          | 29.6        |               | 319.1    | 18         | 323    | 12.0 |          |           |
+19   | 22.10    | 27.8        | 14020.3       | 322.5    | 19         |        |      | 100      | 21330     | 41.9
+20   |          | 23.7        |               | 232.6    | 20         | 307    | 20.7 | 105      | 23130     | 44.0
+21   | 44.30    | 27.5        | 16533.3       | 312.6    | 21         |        |      |          |           |
+22   |          | 31.3        |               | 321.0    | 22         | 336    | 20.9 | 110      | 26390     | 49.0
+23   | 90.60    | 23.3        | 1933.6        | 321.1    | 23         | 333    | 24.0 | 115      | 27490     | 50.1
+24   |          | 24.4        |               | 321.9    | 24         |        |      |          |           |
+25   | 979.0    | 31.6        | 21920.3       | 322.1    | 25         |        |      | 120      | 29690     | 52.3
+26   |          | 23.7        |               | 232.1    | 26         | 324    | 21.30| 125      | 30740     | 54.6
+27   | 16.10    | 23.3        | 24320.0       | 232.9    | 27         |        |      | 130      | 31170     | 56.3
+28   |          | 22.9        |               | 332.6    | 28         | 337    | 23.4 |          |           |
+29   | 14.30    | 21.6        | 28313.3       | 233.0    | 29         |        |      |          |           |
+30   |          | 21.2        |               | 232.5    | 30         | 344    | 24.0 |          |           |
+31   | 122.0    | 20.6        | 32113.0       | 234.7    | 31         |        |      |          |           |
+32   |          | 21.2        |               | 232.6    | 32         | 335    | 19.5 |          |           |
+33   | 1370.0   | 20.6        | 34514.3       | 232.8    | 33         |        |      |          |           |
+34   | 32.30    | 20.6        | 36543.3       | 232.3    | 34         | 312    | 14.0 |          |           |
+35   | 2199.0   | 19.9        | 38363.3       | 235.4    | 35         |        |      |          |           |
+36   | 14410    | 21.2        | 40483.3       | 231.0    | 36         | 301    | 16.0 |          |           |
+37   |          | 26.2        |               | 312.2    | 37         |        |      |          |           |
+38   | 15430    | 21.3        | 55113.3       | 232.7    | 38         | 307    | 16.0 |          |           |
+39   |          | 21.5        |               | 239.3    | 39         |        |      |          |           |
+40   | 16313.0  | 21.6        | 60313.3       | 232.6    | 40         | [illegible] | [illegible] |          |           |
+41   |          | 21.6        |               | 232.5    | 41         |        |      |          |           |
+42   | 1934.0   | 22.1        | 64500.0       | 232.6    | 42         | 309    | 10.0 |          |           |
+43   |          | 22.5        |               | 234.6    | 43         |        |      |          |           |
+44   | 19283.0  | 20.5        | 66113.3       | 233.1    | 44         | 303    | 15.0 |          |           |
+45   |          | 22.2        |               | 231.9    | 45         |        |      |          |           |
+46   | 19265    | 22.6        | 4493300       | 324.7    | 46         | 303    | 6.0  |          |           |
+47   |          | 22.3        |               | 234.9    | 47         |        |      |          |           |
+48   | 19153.0  | 21.7        | 80132.3       | 236.6    | 48         | 236    | 4.0  |          |           |
+49   |          | 25.1        |               | 326.5    | 49         |        |      |          |           |
+50   | 23105    | 23.2        | 82516.0       | 326.5    | 50         | 113    | 2.6  |          |           |
+
+[Additional encoded data section at bottom - partially illegible]
+
+Type of | Type of
+equipment | equipment
+[Left section shows "3/0" and equipment codes]
+[Right section shows cards numbered 1, 2 with various numerical data]
+
+Maximum Wind Speed Data
+Min. alti. wind speed
+At 1/10 max. alti.
+Alt. of maximum
+wind speed (m)
+Dir. (degrees) and speed
+(m.p.s.) of max. wind
+shown for each 100 m
+or less (m)
+Enter check if additional
+data appear on reverse side.
+
+- page 5 -
+
+FORM 610-12
+2 OMM-WB-DC
+
+Page
+1
+
+*Identification
+
+WASHINGTON, D.C.
+STATION NO. VI), LIACON U91 N LONG.77° 28' W
+RADIAL BEARING COMPUTATION 360=S
+
+OBSERVATION POINT CO LOCATED ABOVE SEA LEVEL
+
+U.S. DEPARTMENT OF COMMERCE
+WEATHER BUREAU
+
+WINDS-ALOFT COMPUTATION SHEET
+(LANDSTATION FORM)
+ABAN-20
+
+Year
 1964
-MAY 18
-1954 MAY 18
+Ascent
+(G.M.T.)
+15°
 
-Time
-22-
-
-Station above
-sea level
-370'
+Type of balloon 1023
 
 Orientation
-360° South
+360° = South
 
-Location
-WBAN-20
+Slant
+range
+(m.) (yds.)
 
-Wind
-Direction
-(deg.) | Speed
-(mph)
+Ht. above
+ground
+surface
+(m.)
 
-Elevation angle°
-Observed   Smoothed
+Rewind
+ht. above
+surface
+(m.)
+
+Elevation angle °
+Observed Smoothed
 
 Distance from
 observation
@@ -130,185 +399,248 @@ point
 Azimuth
 angle
 
-Orientation
-360° North
+Direction
+360°= N.
 
-Con-
-tact
+Wind
+Speed
+(m.p.s.)
+
+Cone
+Angle
 
 Pressure
-(mb)
+(mb.)
 
-Altitude
-(ft. m.s.l.)
+[Table with 50 rows of data, containing columns for slant range, height above ground, rewind height, elevation angles, distance from observation point, azimuth angle, direction, wind speed, cone angle, and pressure. Data entries include numerical values, some handwritten annotations, and some illegible entries marked with dashes.]
 
-Elapsed
-Time (min.)
+Termination
+Ht. for
+150 & 300 m.
+rate with
+balloon on
+ground, alt.
+for other
+standard levels
+in km. msl.
 
-[The rest of the document contains numerous rows of numerical data related to wind measurements, elevation angles, distances, and other meteorological information. Due to the complexity of the table, I cannot reproduce the entire contents here. The document appears to be a detailed wind observation record from May 18, 1964, for a location with an elevation of 370 feet above sea level.]
+[Additional table section with coded data for transmission]
 
+Cord No. 1
 
-- page 3 -
+[Various equipment notations and measurements in margin]
 
-Here is the text from the document:
-
-WASHINGTON, D.C.
-(STATION NO.) 72058
-EARTH WEIGHT-60
-LAUNCH WINDS-WALLOPS STA.
-
-U.S. DEPARTMENT OF COMMERCE
-WEATHER BUREAU
-WINDS-ALOFT COMPUTATION SHEET
-(LANDSTATION FORM)
-WBAN-20
-
-[The rest of the document is a detailed table with columns for:
-- Identification
-- Type of balloon
-- Rawin hr. above surface
-- Elevation angle
-- Distance from observation point
-- Azimuth
-- Wind Direction
-- Wind Speed
-
-The table contains numerous numerical entries across multiple rows, representing wind measurements at different altitudes.]
-
-At the bottom of the page there are some additional numerical calculations in the footer rows.
-
-The document appears to be a wind measurement record from a weather balloon launch at Wallops Station in Virginia.
-
-
-- page 4 -
-
-U.S. DEPARTMENT OF COMMERCE
-WEATHER BUREAU
-
-WINDS-ALOFT COMPUTATION SHEET
-(LAND STATION FORM)
-WBAN-20
-
-Year: 1964
-Month: 5
-Day: 11
-Time: 12.01
-
-Location: LONG. -77° 281' W
-           LAT. 38°05' N
-           380.5 M ABOVE SEA LEVEL
-
-Orientation: 360° South
-
-The document appears to be a detailed meteorological wind measurement form with multiple columns tracking wind speed, direction, altitude, and other atmospheric data at various elevations. The form is from the U.S. Department of Commerce Weather Bureau and contains extensive numerical data across multiple rows and columns.
-
-The form includes sections for:
-- Elevation angle
-- Distance from observation point
-- Azimuth angle
-- Wind direction
-- Wind speed
-- Computation details
-- Card punch information
-- Equipment type
-
-The specific location appears to be at longitude -77° 281' West, latitude 38°05' North, at an elevation of 380.5 meters above sea level.
-
-
-- page 5 -
-
-Here is the text from the document:
-
-FORM 610-12
-FORM WB-DC
-
-Page
-1
-
-Identification
-WASHINGTON, D. C.
-(STERLING, VA.) LAT.39° 09' N LONG.77° 28' W
-RAWIH WBAN-20                 CORRELATION 360-S
-OBSERVATION POINTS 68 METERS ABOVE SEA LEVEL
-
-U.S. DEPARTMENT OF COMMERCE
-WEATHER BUREAU
-WINDS-ALOFT COMPUTATION SHEET
-LANDSTATION FORM
-WBAN-20
-
-[The rest of the document is a detailed table with columns for:
-- Slen range (m.)
-- Fiber height (m.)
-- Rewin (m. above surface)
-- Elevation angle°
-- Distance from observation point
-- Azimuth angle
-- Wind direction
-- Wind speed
-- Pressure
-
-The table contains numerous numerical entries and appears to be a meteorological wind measurement record from Washington, D.C. area, dated 1964 (as seen in the top right corner)]
-
-The document is a detailed meteorological wind data computation sheet from the U.S. Department of Commerce Weather Bureau, with precise measurements of wind characteristics at various altitudes.
-
+Min. alt. wind at
+50 ft. level
+Alt. at maximum
+wind speed (m.)
+Dir. (degrees)
+Speed (m.p.s.)
+at 50 ft., 100, 150,
+200, 250 ft.
+Enter check if of
+appears on rever
 
 - page 6 -
 
 U.S. DEPARTMENT OF COMMERCE
 WEATHER BUREAU
+
 WINDS-ALOFT COMPUTATION SHEET
-(LAND STATION FORM)
-WBAN-20     360° = South
+(RADIOSONDE FORM)
+WBAN-20
 
-Date: 1964 MAY 18
-Time: 00
-Ascension No. 572
+41.70° N LONG.77° 28' W
+STATION 390=S
+U.S LONG AND SEA LISTEN
 
-The document appears to be a detailed meteorological data sheet with multiple columns including:
-- Elevation angle
-- Distance from observation point
-- Azimuth angle
-- Wind direction and speed
-- Altitude and elapsed time measurements
+Year Month Day Time
+1964 MAY 18 1400
+1964 MAY 19 0200
 
-The sheet contains numerous rows of numerical data, with columns for various meteorological measurements. At the bottom of the sheet, there are also sections for "Coded Data for Transmission" and details about punched cards used to record the data.
+Orientation, 360°= South
 
-The document is a black and white form filled out with typewritten and handwritten entries, typical of meteorological record-keeping in the 1960s.
+Rawin
+ht. above
+surface
+(m.)
 
+Elevation angle °
+Observed Smoothed
+
+Distance from
+observation
+point
+(m.)
+
+Azimuth
+angle
+°
+
+Wind
+sfcs.
+
+Direction °
+(360°=N, 0°
+from obs.)
+
+Speed
+(knots)
+
+Computed
+(mls.)
+
+Rawinsonde Time-Altitude Data
+Pressure Altitude Elapsed
+(mb.) (m., msl.) time (min.)
+
+1 270 495 200 12.9 349 211 5 2
+2 510 6.6.3 600 24.7 237 55 10 3
+3 160 6.53 420 25.76 320 56 15 730 2.4
+4 1120 60.3 850 325.4 320 654 20 1280 6.9
+5 1420 56.6 970 228.1 335 656 25 1700 7.1
+6 1649 52.5 1300 225.3 373 7.1 30 1746 267.0 9.4
+7 1920 48.0 1800 323.9 242 7.7 35 1687 2330 14.8
+8 2109 46.5 2200 319.3 320 1.2 40 687 2630 16.2
+9 2642 41.0 2300 325 325 10.3 45 514 2550 21.1
+10 2720 38.6 2500 3264 162 10.6 50 919 6110.0 21.5
+11 2910 37.8 2500 324.5 368 12.0 55 640 6100.0 25.9
+12 32.70 35.9 4600 327.5 362 12.0 60 799 7560 25.9
+13 4600 32.1 5300 329.4 376 12.5 65 764 7860.0 29.8
+14 3900 32.1 4700 329.6 350 6.5 70 524 9600 31.1
+15 4700 32.6 6500 325.5 303 5.4 75 288 9100.0 [illegible]
+16 4470 31.2 7100 326.5 303 14.2 80 216 7600.0 [illegible]
+17 4970 31.0 7100 322.9 335 7.8 85 227 11941.0 35.9
+18 5060 29.8 3800 324.4 373 16.0 90 9.0 1220.0 44.5
+19 5360 28.1 3700 324.4 314 15.8 95 193 2830.0 46.9
+20 5560 28.2 4600 324.9 312 15.0 100 152 13860.0 44.9
+21 5930 27.2 11500 330.2 362 12.0 105 125 19310.0 49.9
+22 6220 26.3 12200 319.8 354 16.9 110 191 1930.0 58.9
+23 6530 26.0 13200 319.3 343 19.0 115 54 1630.0 56.5
+24 6340 25.0 1420.0 3153 297 15.8 120 28 1922.0 64.2
+25 7160 [illegible] 1510.0 [illegible] [illegible] [illegible] 125 50 2078.0 63.0
+26 [illegible] 25.0 1500 320.0 339 16.8 130 8 2310.0 64.2
+27 7940 25.3 1690.0 320.5 139 16.8 135 2.1 5800.0 82.44
+28 [illegible] 24.4 [illegible] 320.5 [illegible] [illegible]
+29 8510 24.2 1940.0 320.5 324 12.4
+30 [illegible] 24.1 3210.7 325 11.0
+31 8320 24.0 1970.0 320.7
+32 [illegible] 24.0 3210.7 332 11.0
+33 9440 24.0 2110.0 321.4
+34 [illegible] [illegible] 3223 356.0 11.5
+35 10120 24.2 22300 323.9
+36 [illegible] 24.2 324.1 334 14.3
+37 10730 24.0 24000.0 324.0
+38 [illegible] 23.9 3231.0 340 15.0
+39 11340 2.26 2570.0 3220.3
+40 [illegible] 2.26 2700.0 3224 355 21.0
+41 11950 23.0 2790.0 3274.3
+42 [illegible] 3.2.7 3270.3 357 2.0.2
+43 12600 3.2.6 3000.0 3270.3
+44 [illegible] 2.2.5 3270.2 324 16.0
+45 13200 2.2.3 3190.0 3224
+46 [illegible] 2.2.0 3226.2 314 17.0
+47 13500 2.2.2 3200.0 3224
+48 14110 1.9.7 3570.0 3220.9
+49 16310 2.0.6 6120.0 3227.3 356 19.0
+50 14730 2.0.2 3710.0 3226 313 14.4
+
+Coded Data for Transmission
+
+35.03 *33.06 32.20 32*10 32*32 *3/116 30.17 *32.17
+23.24 43/7 63227 8239 03/26 3232.1 23229 00322
+[illegible] 03230 332264 [illegible] 03/26 [illegible] [illegible]
+[illegible] [illegible] [illegible] 00362 03/46 0031 [illegible]
+
+[stamp: DECLASSIFIED]
+
+Maximum Wind Speed Data
+
+Min. alt. wind speed
+(mphg., in msl. (m.)
+Max. wind speed (msl.)
+(mph.)
+Div. (degrees) and speed
+(mph.) at Max. wind
+speed at two levels
+above (cont. next sheet)
+
+Enter check if additional levels
+above 150 mb are included.
+
+Type of
+equipment
+
+16
+
+Type of
+equipment
+
+16
+
+Cold No. 15
+Cold No. 15
+
+[THIS IS TABLE: A detailed data table with columns showing altitude, wind direction, wind speed, and other meteorological measurements]
 
 - page 7 -
 
-Here is the text from the document:
+FORM 310-12
 
-Identification: D. C.
-(DEFINING, V.V.) LONG 77° W LONG-77° 28'1" W
-WINDS-ALOFT COMPUTATION SHEET
-STATION MOUNT VERNON
+[stamp: DECLASSIFIED]
+
+Identification: 10.0°S, 60° N LONG.77° 28' W
+
 U.S. DEPARTMENT OF COMMERCE
 WEATHER BUREAU
-(LANDSTATION FORM)
+
+WINDS-ALOFT COMPUTATION SHEET
+(LANDSTATION FORM
 WBAN-20
-Year 1964
+
+Year: 1964
+
+Actual
+Ceiling
+Scheduled
+Msl. 1 (hr.)
+Ascension No. 372
+
 Page 1
-Time 1504 1
 
-[The rest of the text is a detailed table with columns for:
-- Sounding range (m/yds)
-- Elevation angle
-- Rewin (m/s)
-- Observed and Smoothed data
-- Distance from observer
-- Azimuth angle
-- Wind direction and speed
-- Geopotential and other technical measurements]
+Type of balloon: D.C.
 
-The document appears to be a winds-aloft computation sheet from the U.S. Department of Commerce Weather Bureau, dated 1964, for a location near Mount Vernon with longitude 77° 28'1" West.
+[Table with following columns: Station (Sta.), Pibat elev. (m.), Pibal ht. above stn (m.), Rewin ht. above elev (m.), Elevation angle - Observed, Elevation angle - Smoothed, Distance from observation point (m), Azimuth angle, Wind Direction - degrs from N, Wind Speed (m.p.s), Cac Ptess (mb.), Pressure drop]
 
+[This is a detailed meteorological data table with 50+ rows of wind and atmospheric measurements. Rather than transcribe each individual cell, the table contains:
+- Row numbers 1-50
+- Height measurements in meters
+- Elevation angles
+- Distances
+- Azimuth angles
+- Wind directions
+- Wind speeds
+- Pressure readings
+- Other meteorological parameters]
+
+Termination
+Alt. for
+150 & 300 m
+ara with
+respect to
+sea level
+Alt. for
+for other
+standard levels
+ara in km., msl.
+
+[Bottom section contains coded data for termination with various numerical codes]
+
+Coded Data for Termination
+
+Type of equipment: [illegible]
 
 - page 8 -
-
-Here is the text from the document:
 
 (2) 50 DEGREES ABOVE HORIZON -- APPROX 1 DIAMETER OF MOON
 SOUTH OF MOON,S 3 O,CLOCK POSITION.
@@ -331,103 +663,115 @@ AND GRADUALLY FADED OUT OF SIGHT.
 
 (6) APPROXIMATELY 17 MINUTES.
 
-C. (1) GROUND VISUAL.
+G. (1) GROUND VISUAL.
+
 (2) BINOCULARS.
 
-PAGE 3 RUEAGL 151 UNCLAS
+PAGE 3 RUEACL 151 UNCLAS
 
 (3) N/A.
 
-D. (1) 19/00152, MAY 64.
+D. (1) 19/0215Z, MAY 64.
+
 (2) DUSK, SUN SETTING.
 
 E. 77 07 WEST; 38 43 NORTH -- APPROXIMATELY 1 MILE WEST OF
 MOUNT VERNON ESTATES, VIRGINIA.
 
-F. MR. [REDACTED] DRIVE, ALEXANDRIA, VA.
-CIVIL ENGINEER WITH CIMRADA, FORT BELVOIR, VA. SOUNDED
+F. MR. [redacted] DRIVE, ALEXANDRIA, VA.
+CIVIL ENGINEER WITH GIMRADA, FORT BELVOIR, VA. SOUNDED
 RELIABLE.
 
-G. (1) HIGH, THIN, BROKEN; VISIBILITY 10 TC/57 CALM/014
+G. (1) HIGH, THIN, BROKEN; VISIBILITY 10 7C/57 CALM/2!4
 
-(C) PIEAI SFC - 2611; GM - 2711; 10M - 3216; 16M - 3020;
-20M - 3023; 30M - 3223; 50M - 3127; 20N - NOT AVAILABLE.
-
+(2) PIBAL. SFC - 2611; GM - 2711; 12M - 3216; 16M - 3022;
+22M - 3023; 30M - 3223; 50M - 3127; 62M - NOT AVAILABLE.
 
 - page 9 -
 
-18 May Dusk
-Check Houseman for Duren
-Mount Vernon, Virginia
+'8 MAY DUSK                                1915 LOCAL
+Check Horseman for Duenn
+Mount Vernon VIRGINIA
 
-191st Cav
-19z
+NNNNN                                          290430 00  192
 
-NNNN
+SOW224UPA202CZCSCA517ZCJYX435
 
-SQW004WPA002CZCS0A517ZCJYX435
+PP RUCDSO
 
-PP RUCDSQ
 DE RUEAGL 151 19/2114Z
+
 ZNR
+
 P 192113Z
-FM 1001 ABW ANDREWS AFB MD
+
+FM 1201 ABW ANDREWS AFB MD
+
 TO RUEASN/26 ADIV HANCOCK FLD NY
-RUCDSQ/AFSC FTD WPAFB OHIO
+RUCDSO/AFSC FTD WPAFB OHIO
+
 ZEN/CSAF WASHDC
+
 ZEN/OSAF WASHDC
-BT
-UNCLAS 1001 AB WG (DOOT) 19-E-115. CSAF FOR AFNIN. OSAF FOR
+
+ET
+
+UNCLAS 1201 AB WC (DOOT) 19-E-115. CSAF FOR AFNIN. OSAF FOR
+
 SAFOI. UFO. REFERENCE PARA 14, AFR 200-2.
 
 A. (1) OVAL.
-(2) HEAD OF A PIN.
-(3) WHITE GLOW, BRIGHTER THAN THE BRIGHTEST STAR.
-(4) ONE.
-(5) N/A.
-(6) N/A.
-(7) NONE.
-(8) NONE.
+
+   (2) HEAD OF A PIN.
+
+   (3) WHITE GLOW, BRIGHTER THAN THE BRIGHTEST STAR.
+
+   (4) ONE.
+
+   (5) N/A.
+
+   (6) N/A.
+
+   (7) NONE.
+
+   (8) NONE.
+
 
 PAGE 2 RUEAGL 151 UNCLAS
+
 (9) NONE
+
 B. (1) VISUAL SIGHTING.
 
+[handwritten: signature with notation "1-5 E(UFO)"]
+
+[stamp: PRIORITY]
 
 - page 10 -
 
 (3) UNLIMITED.
-
 (4) 10 MILES.
-
 (5) THIN, BROKEN, CLOUDS TRANSPARENT.
-
 (6) NONE.
-
-(7) STRONG SUBSIDENCE 780 MBS, APPROXIMATELY 7,000 FT.
-QUASI STABLE GRADIENT 780 MBS TO TROPOPAUSE. AVERAGE TEMP-
+(7) STRONG SUBSIDENCE 782 MBS, APPROXIMATELY 7,022 FT.
+QUASI STABLE GRADIENT 782 MBS TO TROPOPAUSE. AVERAGE TEMP-
 ERATURE, SFC TO TROPOPAUSE ABOVE STANDARD LAPSE RATE ABOUT
 PLUS 60 DEGREE C.
-
 H. NO UNUSUAL METEOROLOGICAL CONDITIONS EXISTED AT THIS
 
-PAGE 4 RUEAGL 151 UNCLAS
+PAGE 4 RUEACL 15: UNCLAS
 TIME.
-
 I. NONE.
-
 J. NONE.
-
 K. CAPT WILLIAM W. MCLEAN, ASST BASE OPS OFFICER, ANDREWS
 AFB, WASHINGTON, DC 20331. INFORMATION INDICATES IT MIGHT
 HAVE BEEN A MISSILE SIGHTING WITH SEPARATION OF VARIOUS
 STAGES. HOWEVER, NO CONTRAIL WAS EVIDENCED AND MR.
 MEYER WAS SPECIFICALLY ASKED THIS QUESTION.
-
 L. NONE.
-
 BT
 
+NNNN
 
 - page 11 -
 
@@ -435,112 +779,863 @@ U.S. DEPARTMENT OF COMMERCE - WEATHER BUREAU
 
 SURFACE WEATHER OBSERVATIONS
 
-STATION: Washington, D.C. OTBG (Sterling, Va.)
+STATION: Washington, D.C., OADD
+(Sterling, Va.)
+
 DATE: 1964 MAY 18
 
-The document is a detailed weather observation log with columns for:
-- Visibility
-- Surface and Tower conditions
-- Weather conditions
-- Sea level pressure
-- Temperature
-- Dew point
-- Wind direction and speed
-- Altitude
-- Remarks and supplemental coded data
-- Observation time
-
-The page is filled with various meteorological measurements taken at different times throughout the day, with entries ranging from 0/8 visibility to various temperature, wind, and pressure readings.
-
-The page is numbered "3" in the top right corner.
-
+| Surface | Town | Visibility (Statute miles) | Weather obstruction | Sea level press. (Mb.) | Temp. (°F) | Dew (°F) | Wind Direction | Wind Speed (mph) | Gust Speed (mph) | Altimeter setting | Remarks and supplemental coded data | Observations |
+|---------|------|---------------------------|---------------------|----------------------|-----------|---------|-----------------|-----------------|-----------------|------------------|------------------------------------|----|
+| 1/3 | F | 157 | 56 | 35 | 20 | 90 | 997 | F61 | 30 | 35 | 89 | |
+| 6 | GF | 192 | 56 | 56 | 25 | 07 | 295 | | | | | | 56 |
+| 6 | GF | 179 | 56 | 37 | 25 | 05 | 295 | | | | | | 57 |
+| 6 | GF | 205 | 55 | 55 | 26 | 09 | 011 | 242 | | | | | 57 |
+| 5 | GF | 217 | 51 | 51 | 66 | 00 | 295 | | | | | | 52 |
+| 7 | | 316 | 2-3 | 3-2 | 00 | 00 | 295 | | | | | | 56 |
+| 9 | | 320 | 56 | 56 | 02 | 06 | 014 | 224 | | | | | 56 |
+| 13 | | 121 | 66 | 51 | 00 | 00 | 026 | | | | | | 67 |
+| 15 | | 323 | 72 | 52 | 01 | 07 | 031 | | | | | | 67 |
+| 15 | | 232 | 76 | 50 | 36 | 06 | 031 | 108 | | | | | 67 |
+| 17 | | 326 | 77 | 53 | 29 | 07 | 012 | | | | | | 67 |
+| 11 | | 327 | 77 | 56 | 39 | 10 | 018 | | | | | | 57 |
+| 17 | | 324 | 80 | 53 | 27 | 07 | 018 | 708 | 1101 | 57 | | | 67 |
+| 13 | | 323 | 76 | 66 | 53 | 35 | 018 | | | | | | 70 |
+| 15 | | 320 | 83 | 47 | 36 | 07 | 016 | | | | | | 73 |
+| 15 | | 216 | 73 | 48 | 36 | 05 | 015 | 710 | 1100 | | | | 73 |
+| 15 | | 215 | 73 | 56 | 36 | 05 | 015 | | | | | | 73 |
+| 17 | | 213 | 71 | 60 | 00 | 00 | 016 | | | | | | 73 |
+| 15 | | 2/1472 | 60 | 03 | 03 | 015 | 500 | 1005 | 85 | | | | 73 |
+| 12 | | 2/1 | 66 | 61 | 0 0 | 0 0 | 016 | | | | | | 71 |
+| 12 | | 22.5 | 61 | 57 | 00 | 00 | 018 | | | | | | 70 |
+| 12 | | 22.6 | 9 | 57 | 60 | 00 | 019 | 114 | 1006 | | | | 71 |
+| 12 | | 22.6 | 40 | 57 | 00 | 00 | 019 | | | | | | 71 |
+| 15 | | 22.6 | 57 | 56 | 00 | 00 | 019 | | | | | | 65 |
 
 - page 12 -
 
+WB FORM 186
+(REV. 10-54)
+
 U.S. DEPARTMENT OF COMMERCE - WEATHER BUREAU
+
+STATION: [handwritten: Staunton, Va.]
+
+DATE: 1964 MAY
 
 SURFACE WEATHER OBSERVATIONS
 
-Station: Washington, D.C.
-(Steinauer, Va.)
-Date: 1964 MAY
-
-The document appears to be a detailed weather observation log with columns for:
-- Type
-- Time
-- Sky and ceiling
-- Visibility
-- Weather
-- Sea level pressure
-- Temperature
-- Dew point
-- Wind
-- Altitude
-- Remarks and supplemental code
-
-Most of the entries are numerical data points recording various meteorological measurements at different times throughout the day.
-
-The top of the form is from the U.S. Department of Commerce Weather Bureau, and the specific location noted is Washington, D.C. (with Steinauer, Va. in parentheses).
-
-The document is a standard weather observation form filled out with handwritten entries, typical of meteorological record-keeping in the 1960s.
-
+| Type | Time (LST) | Sky and ceiling (Hundreds of Feet) | Visibility (statute miles) | Weather obstructions to vision | Weather (pres. phenom.) | Sea level press. (mb.) | Temp. (°F) | Dew pt. (°F) | Wind Direction | Wind Speed (knots) | Altimeter Setting (inches) | Remarks and supplemental codes |
+|------|------|------|------|------|------|------|------|------|------|------|------|------|
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11) | (12) | (13) |
+| P | 2025 | -X | 1/8 | F | 1/27 | 50 | 56 | 00 00 | 03 | 161 | 3003 | |
+| R | 2130 | O | 6 | GF | 192 | 58 | 54 | 3.5 07 | 25 | | |
+| R | 2150 | O | 6 | GF | 177 | 56 | 53 | 3.5 08 | 07 | | |
+| R | 2153 | O | 6 | GF | 199 | 54 | 53 | 3.5 07 | 26 | 212 | |
+| R | 2155 | O | 5 | GF | 211 | 51 | 51 | 60 00 | 04 | | |
+| R | 2156 | O | 5 | | 215 | 50 | 51 | 00 00 | 005 | | |
+| A | 2637 | O | 12 | | 221 | 61 | 57 | 00 00 | 018 | 224 | |
+| A | 2710 | O | 15 | | 1181 | 64 | 51 | 00 00 | 020 | | |
+| A | 2730 | O | 157 | | 333 | 71 | 60 | 01 07 | 021 | | |
+| A | 2752 | O | 154 | | 235 | 74 | 63 | 2.6 04 | 021 | 108 | |
+| A | 2753 | O | 154 | | 151 | 77 | 65 | 29 07 | 019 | | |
+| K | 1209 | 40 0/-0 | 154 | | 327 | 79 | 67 | 30 60 | 017 | | |
+| R | 1257 | 40 0/-0 | 154 | | 117 | 78 | 63 | 29 07 | 019 | 708 | 1101 |
+| K | 1337 | 40 0 | 154 | | 223 | 81 | 64 | 33 05 | 018 | | |
+| N | 1455 | 40 0 | 154 | | 220 | 83 | 67 | 36 07 | 016 | | |
+| R | 1355 | 40 0 | 153 | | 216 | 85 | 68 | 36 05 | 015 | 710 | 1100 |
+| R | 1655 | 1-0 | 154 | | 215 | 85 | 59 | 36 05 | 015 | | |
+| R | 1709 | 0 | 154 | | 213 | 91 | 60 | 00 05 | 0114 | | |
+| A | 1839 | 1-0 | 154 | | 2/1472 | 60 | 03 03 | 005 | 500 | 1095 | |
+| P | 1959 | 1-0 | 12 | | 2114 | 66 | 61 | 00 00 | 016 | | |
+| P | 2022 | 1-0 | 12 | | 2225 | 61 | 57 | 00 00 | 078 | | |
+| P | 2152 | 1-0 | 12 | | 22(0/9 | 57 | 60 | 00 00 | 019 | 114 | 1006 |
+| P | 2354 | 1-0 | 12 | | 22(2/0 | 57 | 00 00 | 019 | | |
+| P | 2355 | 1-0 | 15 | | 2226 | 57 | 54 | 00 00 | 019 | | |
 
 - page 13 -
 
 U.S. DEPARTMENT OF COMMERCE, WEATHER BUREAU
 SURFACE WEATHER OBSERVATIONS
-STATION _____________ WASHINGTON, D.C.                     DATE _______ 1964 MAY 18 _______
+STATION _________________________________ Washington, D.C. D.C._______ DATE _______1954 MAY 18__
 
-[The rest of the document is a detailed weather observation form with various columns for temperature, wind, cloud cover, and other meteorological data. Most cells are filled with numerical data, but the specific details are too small to transcribe completely without potential error.]
+[This is a weather observation form with multiple columns and rows containing meteorological data. The form has the following main sections:]
 
-At the bottom of the form, there are sections for:
-- Synoptic Observations
-- Station Pressure Computations
-- Phenomena (with spaces for Sunrise and Sunset)
+REL. HUM. | TOTAL CLOUD | LOWEST LAYER | SECOND LAYER | LOWER THIRD LAYER | FOURTH LAYER | TOTAL SKY COVER | NET RADIATION | SUB-CLOUD | PRECIP. AMOUNT
+% | # | AMT. DIR. # | AMT. DIR. HEIGHT # | AMT. DIR. HEIGHT TOTAL # | AMT. DIR. HEIGHT # | # | # | # | # | ##
 
-The document appears to be a standard weather observation record from the U.S. Weather Bureau dated May 18, 1964.
+[Data rows contain various numerical entries and symbols including:]
+66 F — O | 6 0 | 6 0 | 6 3 010
+[Multiple rows of data with numbers and symbols like O, 2, 7, etc.]
 
+SYNOPTIC OBSERVATIONS
+
+[Lower section with columns for:]
+MAX. TEMP. | MIN. TEMP. | MGT. MIN. | STATE OF SEA | SEA STATE CODE | SWELL PERIOD | SWELL PERIOD | SURF HEIGHT | WATER TEMP. | SOIL TEMP.
+
+[Entries include:]
+55 56 | 70 56
+61 57 | 10 61
+72 | 73 72
+72 57
+
+[Multiple sections for observation data and measurements]
+
+DAY (MIDNIGHT TO MIDNIGHT) | PRECIP. & RUNOFF | DUR. | PRESENT & INTENSITY | BEGAN # | ENDED #
+
+[Bottom section contains:]
+PHENOMENA
+Sunrise _____________ Sunset _____________ m.p.h. or
+Speed_____________ associated direction _____________ and time: _____________
+
+[Scale bar at bottom:]
+15 20 30 45 60 80 100 120 150 180
+
+[Several blank lines at bottom of page]
+
+U.S. GOVERNMENT PRINTING OFFICE 1958—O-477395
 
 - page 14 -
 
-U.S. DEPARTMENT OF COMMERCE, WEATHER BUREAU
+U. S. DEPARTMENT OF COMMERCE, WEATHER BUREAU
+
 SURFACE WEATHER OBSERVATIONS
-STATION _____________ DATE _______ 1964 MAY 18 _______
 
-The document is a detailed weather observation form with multiple sections including:
-- Time and pressure readings
-- Clouds and obscuring phenomena
-- Synoptic observations
-- Summary of day (midnight to midnight)
-- Precipitation and remarks sections
+STATION .....................Washington, D.C. - AIRPORT..................... DATE.................1964 MAY 18...
 
-The form is filled out with various meteorological data, including cloud cover, wind speed, temperature, and other atmospheric conditions for different time intervals throughout the day.
+TIME
+(L.S.T.)
+#
 
-At the bottom of the form, there are spaces for additional notes, sunset information, and precipitation measurements.
+STATION
+ELEV.
+(FT.)
+#
 
-The document appears to be a standard Weather Bureau form from 1964, meticulously documenting weather conditions for a specific location on May 18, 1964.
+DRY
+BULB
+(°F.)
+#
 
+WET
+BULB
+(°F.)
+#
+
+REL.
+HUM.
+(%)
+#
+
+TOTAL
+CLOUD
+COVER
+#
+
+CLOUDS AND OBSCURING PHENOMENA
+LOWEST LAYER
+RECORD LAYER
+SECOND LAYER
+THIRD LAYER
+FOURTH LAYER
+TOTAL
+OPAQUE
+SKY
+COVER
+
+AMT.
+#
+
+TYPE &
+HEIGHT
+#
+
+HEIGHT
+(100 FT.)
+#
+
+AMT.
+#
+
+TYPE &
+HEIGHT
+#
+
+HEIGHT
+(100 FT.)
+#
+
+AMT.
+#
+
+TYPE &
+HEIGHT
+#
+
+HEIGHT
+(100 FT.)
+#
+
+AMT.
+#
+
+TYPE &
+HEIGHT
+#
+
+HEIGHT
+(100 FT.)
+#
+
+AMT.
+#
+
+TYPE &
+HEIGHT
+#
+
+HEIGHT
+(100 FT.)
+#
+
+#
+
+00 55 24778 56
+
+6 6 F - 0
+
+6 0
+
+6 0
+
+G 3
+
+01 55 24778 57
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0
+
+03 55 25 75 57
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0
+
+03 59 25 2 20 57
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0 2
+
+04 51 25 8 57 57
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0
+
+05 8 24 8 61 52
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0
+
+06 7 24 10 61 61
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0 2
+
+017 5 24 10 66
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0
+
+08 7 24 187 63
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0
+
+09 57 24 105 74
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0 1
+
+10 72 25 710 77
+
+0 0
+
+0
+
+0 0
+
+0 6
+
+0
+
+11 72 28 50 28
+
+0 0 Cu Up
+
+0 Cu 0
+
+0 0
+
+0
+
+12 59 21 170 50
+
+4 1 Cu Vo ? Cu 1 V 0
+
+V 0
+
+/ 7
+
+13 49 25 715 67
+
+3 3 Cu 40 0
+
+3 0
+
+3 0
+
+3
+
+14 59 23 E! 63
+
+1 2 Cu 40 0
+
+2 0
+
+2 0
+
+2
+
+18 57 29 8 50 73
+
+1 1 Cu 40 0
+
+1 0
+
+1 0
+
+1 7
+
+18 57 29 8 00 73
+
+1 0 Cu 40 1 Cu
+
+1 1 0
+
+1 0
+
+0
+
+18 59 29 9 67 57
+
+0 0
+
+0
+
+0 0
+
+0 0
+
+0
+
+18 59 29 9 60 76
+
+4 4 Ci
+
+0
+
+4 0
+
+4 0
+
+/ 
+
+19 52 21 276 66
+
+6 6 Ci /
+
+0
+
+6 0
+
+6 0
+
+3
+
+19 58 29 13 61
+
+8 3 Ci /
+
+0
+
+9 0
+
+9 0
+
+3
+
+21 58 21 900 60
+
+8 9 M / 0
+
+8 0
+
+8 0
+
+3
+
+22 76 21 700 60
+
+6 6 Ci / 0
+
+6 0
+
+6 0
+
+3
+
+23 55 21 700 57
+
+4 4 Cs / 0
+
+4 0
+
+4 0
+
+3
+
+SYNOPTIC OBSERVATIONS
+
+TIME
+(L.S.T.)
+#
+
+TIME
+OF
+OBS.
+#
+
+IN
+PRECIP
+GAGE
+(IN.)
+#
+
+SNOW
+DEPTH
+(IN.)
+#
+
+SNOW
+FALL
+(IN.)
+#
+
+MAX.
+TEMP.
+(°F.)
+#
+
+MIN.
+TEMP.
+(°F.)
+#
+
+TIME
+MAX.
+TEMP.
+(L.S.T.)
+#
+
+STATE
+OF
+GRD.
+#
+
+STATE
+OF
+WTHR.
+#
+
+SWELL
+GND.
+#
+
+SWELL
+PERIOD
+#
+
+SWELL
+DIR.
+#
+
+WATER
+TEMP.
+(°F.)
+#
+
+SOIL
+TEMP.
+(°F.)
+#
+
+STATION PRESSURE
+
+TIME (L.S.T.)
+#
+
+00 HRS 29.90 W 1955 28.1
+
+00 55 1 0 0 0 72 56
+
+00 HRS 1938.6 102
+
+0.055 1 0 0 0 61 51
+
+OBS'VD. BAR.
+READING
+
+12 30
+
+0.653 1 0 0 0 61 51
+
+TOTAL CORR.
+BAROMETER
+
+13 57 1 0 0 0 70 60
+
+29.753 27.
+
+18 53 1 0 0 0 72 72
+
+STA. PRESS.
+(SEA LEVEL)
+
+29.753 27.
+
+MID. X 0 0 0 72 57 X X X X X X X X X X X X X
+
+BAR. CORR.
+#
+
+± 0 ±
+
+SUMMARY OF DAY (MIDNIGHT TO MIDNIGHT)
+
+#
+
+24-HR.
+MAX.
+TEMP.
+(°F.)
+#
+
+24-HR.
+MIN.
+TEMP.
+(°F.)
+#
+
+24-HR.
+MEAN
+WATER
+BODY
+TEMP.
+(°F.)
+#
+
+24-HR.
+PRECIP.
+(UNWTD.
+TOTAL)
+(IN.)
+#
+
+MEAN
+DEPTH
+(IN.)
+#
+
+MEAN
+SPEED
+(M.P.H.)
+#
+
+DIR.
+OF
+WIND
+#
+
+TIME
+OF
+GUST
+#
+
+TIME
+ICE ON
+LAKE
+(L.S.T.)
+#
+
+RIVER
+STAGE
+(FT.)
+#
+
+RIVER
+MAX.
+N. H.
+#
+
+RIVER
+MIN.
+N. H.
+#
+
+TEMP.
+AT
+TIME
+(L.S.T.)
+#
+
+WEATHER
+#
+
+PRECIP.
+& DIR.
+#
+
+BEGAN
+#
+
+ENDED
+#
+
+DUR.
+HOURS
+#
+
+OSCTH.
+OF
+#
+
+#
+
+83 57 0 0 0 14 [illegible]
+
+CF J2
+
+CF 92
+
+CF 92
+
+50 REMARKS, NOTES AND MISCELLANEOUS PHENOMENA
+
+Total sunshine ____________ Sunrise ____________ Sunset ________________
+
+Fastest observed 1-minute wind speed _________________ m.p.h.; or _________________ m.p.h.
+
+Fastest mile _________________ m.p.h.; associated direction _________________ and time: _________________
+
+Excessive precipitation: ________________________________________________________________________
+
+(1 (MINUTES)
+5
+10
+15
+20
+30
+45
+60
+80
+100
+120
+150
+180
+
+PRECIPITATION
+(INCHES)
+
+U.S. GOVERNMENT PRINTING OFFICE 166—Q-477595
 
 - page 15 -
 
 U.S. DEPARTMENT OF COMMERCE
 WEATHER BUREAU
 
+Year: 1964
+Month: MAY
+Day: 18
+Time: 0030
+
 WINDS-ALOFT COMPUTATION SHEET
-(LAND STATION FORM)
+(OBSERVATION FORM)
 WBAN-20
 
-Year    1964
-Date    MAY 18
-Time    052-03
+Scheduled: 1964 MAY 18
+Time: 0030
+Ascension No.: 542
 
-Orientation: 360° South
-Rawinsonde Time Altitude Data
-Cor.    Pressure    Altitude    Elapsed
-rect.   (mb)        (m. or ft.)  Time (min.)
+Orientation: 360° North; 360° South
 
-[The rest of the text follows the standard format of a winds-aloft computation sheet, with columns for elevation angle, distance from observation point, azimuth angle, wind direction, wind speed, and various altitude measurements. The document appears to be a detailed meteorological record from May 18, 1964.]
+Rain ht. above surface (m.): | Elevation angle° Observed | Smoothed | Distance from observation point (m.) | Azimuth (degrees true) | Direction ° 360° N. | Wind Speed (m.p.s.)
 
+1 | 250 | 35.6 | | 450 | 3072 | 1 | 320 | 9.5
+2 | 2020 | 29.2 | | 2150 | 3180 | 2 | 257 | 8.5
+3 | 1010 | 24.3 | | 1650 | 3265 | 3 | 295 | 8.1
+4 | 1400 | 23.8 | | 2260 | 332.3 | 4 | 320 | 8.9
+5 | 1286 | 19.4 | | 2950 | 332.0 | 5 | 294 | 9.0
+6 | 3106 | 34.6 | | 2580 | 3263 | 6 | 286 | 8.1
+7 | 2470 | 37.6 | | 3200 | 3375 | 7 | 250 | 9.7
+8 | 2256 | 21.0 | | 3520 | 3343 | 8 | 273 | 10.5
+9 | 2460 | 26.6 | | 4400 | 3354 | 9 | 228 | 13.2
+10 | 2520 | 25.2 | | 5100 | 3365 | 10 | 257 | 12.0
+11 | 3904 | 33.7 | | 5850 | 3357 | 11 | 304 | 13.5
+12 | 2320 | 26.2 | | 6290 | 3332 | 12 | 309 | 17.3
+13 | 1700 | 32.1 | | 2500 | 3029 | 13 | 325 | 16.0
+14 | 670 | 31.0 | | 3500 | 3107 | 14 | 313 | 20.7
+15 | 5700 | 22.7 | | 9250 | 3203 | 15 | 312 | 21.0
+16 | 5900 | 22.1 | | 11700 | 3115 | 16 | 312 | 23.9
+17 | 6250 | 26.2 | | 12300 | 3100 | 17 | 321 | 23.0
+18 | 7200 | 25.5 | | 12800 | 3096 | 18 | 324 | 22.6
+19 | 9050 | 24.7 | | 13100 | 3301 | 19 | | 
+20 | | 23.1 | | | 3103 | 20 | 313 | 22.0
+21 | 7610 | 22.6 | | 18240 | | 21 | | 
+22 | | 22.2 | | | 3102 | 22 | 309 | 25.5
+23 | 3810 | 22.0 | | 21200 | 3101 | 23 | | 
+24 | | 26.5 | | | 3105 | 24 | 317 | 26.0
+25 | 2470 | 22.2 | | 24300 | 3011 | 25 | | 
+26 | | 20.6 | | | 3116 | 26 | 319 | 29.0
+27 | 16179 | 20.0 | | 27200 | 3126 | 27 | | 
+28 | | 19.0 | | | 3124 | 28 | 328 | 30.5
+29 | 10201 | 19.6 | | 31560 | 3129 | 29 | | 
+30 | | 17.70 | | | 3136 | 30 | 330 | 27.0
+31 | 17220 | 17.45 | | 31952 | 3147 | 31 | | 
+32 | | 11.35 | | | 3112 | 32 | 302 | 24.0
+33 | 12570 | 15.35 | | 22300 | 323 | 33 | | 
+34 | | 12.65 | | | 3115 | 34 | 309 | 28.0
+35 | 13220 | 12.15 | | 40260 | 3015 | 35 | | 
+36 | 13630 | 13.77 | | 42260 | 325 | 36 | 309 | 18.0
+37 | | 17.50 | | | 3305 | 37 | | 
+38 | | 16.35 | | | 3050 | 38 | 307 | 19.0
+39 | | 17.50 | | | 3141 | 39 | | 
+40 | | 16.70 | | | 3110 | 40 | 355 | 13.7
+41 | | 16.75 | | | 3111 | 41 | | 
+42 | 27900 | 15.76 | | 96500 | 3120 | 42 | 276 | 15.5
+43 | | 9.55 | | | 3095 | 43 | | 
+44 | 17570 | 10.33 | | 47230 | 2950 | 44 | 281 | 6.5
+45 | | 10.32 | | | 2930 | 45 | | 
+46 | 16510 | 10.39 | | [illegible] | 2350 | 46 | 313 | 5.0
+47 | | [illegible] | | [illegible] | [illegible] | 47 | | 
+48 | 21360 | 1.0 | | 98570 | 3170 | 48 | 321 | 6.0
+49 | | 2.9 | | | 3159 | 49 | | 
+50 | 25302 | 1.6 | | [illegible] | 3103 | 50 | 303 | 3.5
+
+Coded Date For Transmitted:
+
+1 | 2 | 3317 | 1012 | 4 | 3516 | 1113 | 6 | 5112 | 2316 | 8 | 25117
+2 | 5231 | 4 | 3427 | 6 | 3319 | 8 | 3125 | 0 | 3105 | 3 | 1441 | E | 447 | 7 | 3251
+3 | 2354 | 5 | 3703 | 7 | 23627 | 8 | 23125 | 9 | 3110 | E | [illegible] | 7 | [illegible]
+
+Downwinds Time-Altitude Data
+Calculated Altitude (feet M.S.L.) | Elapsed time (min.)
+
+10 | 1010 | 2.0
+15 | 970 | 77.2 | 2.6
+20 | 930 | 2060 | 6.0
+25 | 914 | 2910 | 7.7
+30 | 914 | 2610 | 7.6
+35 | 916 | 2610 | 8.1
+40 | 914 | 6/810 | 12.2
+45 | 914 | 5510 | 15.1
+50 | 626 | 6590 | 16.7
+55 | 625 | 7000 | 12.0
+60 | 531 | 7720 | 20.7
+65 | 342 | 8500 | 22.6
+70 | 546 | 9730 | 22.9
+75 | 225 | 10640 | 26.6
+80 | 212 | 10320 | 28.6
+85 | 206 | 11610 | 28.7
+90 | 155 | 12400 | 32.7
+95 | 114 | 13330 | 39.7
+100 | 245 | 14250 | 40.0
+105 | 123 | 15070 | 39.2
+110 | 102 | 16100 | 62.8
+115 | | 17410 | 62.5
+120 | 733 | 17530 | 66.5
+125 | 59 | 13330 | 69.5
+130 | 449 | 21110 | 5331
+135 | 310 | 22500 | 66.0
+140 | 21 | 26370 | 65.2
+
+[Punched Card Data - Small data table in bottom right with various entries]
+
+Maximum Wind Speed Data
+Min. altitudes 45 m.p.s. or more (m.)
+Alt. of maximum wind speed (m.)
+Dir. (degrees) and wind speed 45 m.p.s. or more (m.)
+Enter check if additional levels appear on reverse side.
 
 - page 16 -
 

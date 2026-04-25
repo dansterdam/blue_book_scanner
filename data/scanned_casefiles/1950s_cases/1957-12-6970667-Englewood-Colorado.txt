@@ -1,3 +1,8 @@
+There are no photographs present on this page.
+
+Here is the OCR text from the document:
+
+```
 PROJECT 10073 RECORD CARD
 
 1. DATE
@@ -7,17 +12,16 @@ PROJECT 10073 RECORD CARD
 Englewood, Colorado
 
 3. DATE-TIME GROUP
-Local 16/0035Z
-GMT
+Local                            GMT
+16/0035Z
 
 4. TYPE OF OBSERVATION
-[X] Ground-Visual
-□ Ground-Radar
-□ Air-Visual □ Air-Intercept Radar
+☒ Ground-Visual    ☐ Ground-Radar
+☐ Air-Visual       ☐ Air-Intercept Radar
 
 5. PHOTOS
-□ Yes
-[X] No
+☐ Yes
+☒ No
 
 6. SOURCE
 Civilian
@@ -32,27 +36,28 @@ one
 circle
 
 10. BRIEF SUMMARY OF SIGHTING
-One object seen flying in a circle for 1 1/2 to 2 minutes.
+One object seen flying in a circle for 1 1/2  to 2 minutes.
 
 11. COMMENTS
 Insufficient data for analysis.
 
+No report in file.
+
 12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Possibly Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-□ Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-[X] Other:
-[X] Insufficient Data for Evaluation
-□ Unknown
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☒ Insufficient Data for Evaluation
+☐ Unknown
 
-Bottom of document notes: "No report in file."
-
+ATIC FORM 329 (REV 26 SEP 52)
+```
 
 - page 1 -
 

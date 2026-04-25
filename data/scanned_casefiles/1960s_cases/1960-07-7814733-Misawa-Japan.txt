@@ -1,138 +1,148 @@
-Here is the text from the document:
+MULTIPLE                PROJECT 10073 RECORD CARD
 
-MULTIPLE                       PROJECT 10073 RECORD CARD
-
-1. DATE                                                   12. CONCLUSIONS
-   6 Jul 60                                               ■ Was Balloon
-                                                           ■ Probably Balloon
-2. LOCATION                                               □ Possibly Balloon
-   Misawa, Japan
-                                                           □ Was Aircraft
-3. DATE-TIME GROUP                 4. TYPE OF OBSERVATION □ Probably Aircraft
-   0130                            ■ Ground-Visual        □ Possibly Aircraft
-                                    □ Ground-Radar         □ Was Astronomical
-4. SOURCE                          □ Air Visual           ■ Probably Astronomical
-   civilian                        □ Astronomical Radar   □ Possibly Astronomical
-
-5. PHOTOS                                                 □ Other:
-   6 No.                                                  □ Insufficient Data for Evaluation
-                                                           □ Unknown
-
-6. LENGTH OF OBSERVATION           7. NUMBER OF OBJECTS   8. COURSE
-   5 min                           one                    NW-SE
-
-10. BRIEF SUMMARY OF SIGHTING
-    The round object appearing as a white luminous
-    cloud at estimated 36,000 ft observed to move
-    at a slow rate of speed from NW to SE. Cloud
-    appeared to spread at the center, at which time
-    a bright reddish-orange ball appeared with a dome
-    of a cloud and retained its configuration. Shape
-    of a dome and retained the configuration while
-    astronomer with group observing phenomena at
+1. DATE                          2. LOCATION                          12. CONCLUSIONS
+   6 Jul 60                          Misawa, Japan                      [X] Probably Balloon
+                                                                        [ ] Probably Balloon
+3. DATE-TIME GROUP               4. TYPE OF OBSERVATION               [ ] Possibly Balloon
+   Local  0150                      [X] Ground-Visual    [ ] Ground-Radar
+   GMT    05/16Z06                  [ ] Air-Visual       [ ] Air-Intercept Radar  [ ] Was Aircraft
+                                                                        [ ] Possibly Aircraft
+5. PHOTOS                        6. SOURCE                            [ ] Possibly Aircraft
+   [X] Yes                           Civilian                           [ ] Was Astronomical
+   [ ] No                                                               [ ] Possibly Astronomical
+                                                                        [ ] Possibly Astronomical
+7. LENGTH OF OBSERVATION         8. NUMBER OF OBJECTS  9. COURSE
+   5 min                            One                   NW-SE        [ ] Insufficient Data for Evaluation
+                                                                        [ ] Unknown
+10. BRIEF SUMMARY OF SIGHTING    11. COMMENTS
+    Ground object appearing as a white luminous    Probable cause of this sighting was a
+    cloud at estimated 35,000 ft observed to move  weather balloon which reached an altitude
+    in a slow rate of speed from N to SE. Cloud    sufficient to cause it to scintillate and the
+    appeared to spread at the center, at which time following phenomena attributed to water
+    a bright multi-colored ball appeared with flames vapor released at the time of explosion.
+    shooting out from the sides. Assumed the shape  The cloud was illuminated by the moon,
+    of a donut and retained this configuration while which itself was 89% illuminated. Wind
+    drifting on a course due E of Misawa. Amateur   direction conforms to direction of the
+    astronomer with group observing phenomena at    object.
     first assumed object to be spiral nebula.
 
-11. COMMENTS
-    Probable cause of this sighting was a weather balloon which reached an altitude
-    sufficient to cause it to explode and the
-    following phenomena attributed to water
-    vapor released at the time of explosion.
-    The cloud was illuminated by the moon,
-    which itself was 88% illuminated. Wind
-    direction conforms to direction of the
-    object.
 
-ATIC FORM 329 (REV 30 SEP 52)
+ATIC FORM 329 (REV 28 SEP 51)
 
 - page 1 -
 
-Here is the text from the document:
+[stamp: redacted/blacked out]
 
-HQAQ21
-
-OO KJSDSQ
-E KJWZKD 10C
-O 0G9250Z Z2X
-
+HQ A921
+00 KJEDSO
+Z KJWZKD 10C
+O 0S02S0Z ZZX
 FM 9TH ADIV MISAWA AB JAPAN
 TO RJEZHO/HQ USAF WASH DC
-RJEDSQ/ATIC WP AFB OHIO
-
+RJEDSO/ATIC WP AFB OHIO
 BT
-X THREE NINE OSCAR INDIA DELTA ZERO NINE
 
+[redacted/blacked out] THREE MINE OSCAR INDIA DELTA ZERO NINE
 EIGHT EIGHT PD SUBJECT CLN USAF PROJECT MOON DUST
-
 REFERENCE USAF SIERRA ROMEO INDIA ALFA DASH TWO FIVE ONE ONE PD
 
-THIS MESSAGE IN THREE PARTS PD PART ONE PD REFERENCE USAF SIERRA ROMEO INDIA ALFA DASH TWO FIVE ONE ONE CHA DATED SIX APRIL ONE NINE SIX ZERO PD ACCORDING TO TESEPHONIC INSTRUCTION FROM FIFTH AF DASH FOXTROT INDIA CHARLIE OSCAR DASH CHARLIE THE FOLLOWING INFORMATION ON REFERENCED SIGMA TRIP INDIA IS BEING REPORTED USING FORMAT CONTAINED IN USAF SIERRA ROMEO INDIA ALFA DASH TWO FIVE ZERO SIX DATED ONE ONE APRIL ONE NINE SIX ZERO PD PART TWO PD ALFA PAREN ONE PAREN ROUND PD ALFA PAREN TWO PAREN PUSHBALL PD
+THIS MESSAGE IN THREE PARTS PD PART ONE PD REFERENCE USAF SIERRA ROMEO
+INDIA ALFA DASH TWO FIVE ONE ONE CIA DATED SIX APRIL ONE NINE SIX ZERO
+PD ACCORDING TO TESEPHONIC INSTRUCTION FROM FIFTH AF DASH FOXTROT
+INDIA CHARLIE OSCAR DASH CHARLIE THE FOLLOWING INFORMATION ON
+REFERENCED SIDHA RIMP INDIA IS BEING REPORTED USING FORMAT CONTAINED
+IN USAF SIERRA ROMEO INDIA ALFA DASH TWO FIVE ZERO SIX DATED ONE ONE
+APRIL ONE NINE SIX ZERO PD PART TWO PD ALFA PAREN ONE PAREN
+ROUND PD ALFA PAREN TWO PAREN PUSHBALL PD
 
-PAGE TWO KJAPAF SB
-ALFA PAREN THREE PAREN WHITE LUMINOUS CLOUD PD ALFA PAREN FOUR PAREN ONE PD ALFA PAREN FIVE PAREN NOT APPLICABLE PD ALFA PAREN SIX PAREN
+PAGE TWO KJAPAF 9B
+
+ALFA PAREN THREE PAREN WHITE LUMINOUS CLOUD PD ALFA PAREN FOUR PAREN ONE
+PD ALFA PAREN FIVE PAREN NOT APPLICABLE PD ALFA PAREN SIX PAREN
+
+[handwritten: various markings in margins]
+
+1960 JUL 6 07 24
 
 - page 2 -
 
-Here is the text I can read from the document:
-
 WILL BE FORWARDED ASAP PD
-BT
-06/0545Z JUL RJWZKD
 
-The rest of the document appears to have sections redacted or blacked out with black rectangles covering text.
+BT
+
+06/054 57 JUL KJWZKD
+
+[Two black redacted lines]
 
 - page 3 -
 
-LUMINOUS CLOUD AT AN ESTIMATED TIME: SIX CMA ZERO ZERO FEET
-MOVING AT SLOW RATE OF SPEED NORTHWEST TO SOUTHEAST ACROSS MISAWA AB CMA
+LUMINOUS CLOUD AT AN ESTIMATED THREE SIX CHA ZENO ZERO ZENO FEET
+MOVING AT SLOW RATE OF SPEED NORTHWEST TO SOUTHEAST ACROSS MISAWA AB CHA
 JAPAN PD AFTER APPROXIMATELY FIVE MINUTES THE CLOUD APPEARED TO
-SPREAD AT THE CENTER AT WHICH TIME A BRIGHT REDDISH ORANGE BALL CMA ABOUT
+SPREAD AT THE CENTER AT WHICH TIME A BRIGHT REDDISH ORANGE BALL CHA ABOUT
 THE SIZE OF A BASKETBALL APPEARED WITH STREAKS OF FLAMESHOOTING FROM
-THE SIDES PD ONE WITNESS REPORTS FORMATION OF TWO OF THESE BALLS CMA
+THE SIDES PD ONE WITNESS REPORTS FORMATION OF TWO OF THESE BALLS CHA
 WHILE OTHERS AGREE ON ONLY ONE PD WITHIN ONE MINUTE THE BASE FADED AND
 THE CLOUD ASSUMED THE SHAPE OF A DOUGHNUT WITH A DARK CENTER PD
 IT REMAINED IN THIS CONFIGURATION FOR APPROXIMATELY FOUR MINUTES
-UNTIL DISAPPEARANCE ON COURSE DUE EAST OF MISAWA AB PD
-BRAVO PAREN ONE PAREN FIRST OBSERVED AT APPROXIMATELY THREE SIX CMA
+UNTIL DISAPPEARANCE ON A COURSE DUE EAST OF MISAWA AB PD
+BRAVO PAREN ONE PAREN FIRST OBSERVED AT APPROXIMATELY THREE SIX CHA
 ZERO ZERO ZERO FEET FROM AND ANGLE OF EIGHT ZERO DEGREES PD BRAVO
 PAREN TWO PAREN UPON DISAPPEARANCE CLOUD WAS AT APPROXIMATELY THREE
-SIX CMA ZERO ZERO ZERO FEET AT AND ANGLE OF SIX ZERO DEGREES PD
+SIX CHA ZERO ZERO ZERO FEET AT AND ANGLE OF SIX ZERO DEGREES PD
 BRAVO PAREN THREE PAREN NORTHWEST TO SOUTHEAST WITH A SLOW CHANGE OF
 DIRECTION TO DUE EAST JUST PRIOR TO DISAPPEARANCE PD NO OTHER
-MANEUVERS NOTED PD BRAVO PAREN FOUR PAREN SLOWLY DUE EAST OF MISAWA AB PD
+HANEUVERS NOTED PD BRAVO PAREN FOUR PAREN SLOWLY DUE EAST OF MISAWA AB PD
 
-PAGE THREE RJAPAF 9B
+PAGE THREE RJAPAF SB
 BRAVO PAREN FIVE PAREN ESTIMATED TEN MINUTES PD CHARLIE PAREN ONE PAREN
 GROUND VISUAL PD CHARLIE PAREN TWO PAREN NO APPLICABLE PD DELTA PAREN
-ONE PAREN ONE SIX TWO ZERO ZULU TO ONE SIX THREE ZERO ZULU CMA FIVE
-JULY ONE NINE SIX ZERO CMADELTA PAREN TWO PAREN EIGHT CMA CLEAR CMA
-HIGH THIN SCATTERED CIRRUS WITH TOPS AT THREE SIX CMA ZERO ZEROZERO
-FEET MAXIMUM CMA VISIBILITY TWO ZERO MILES PD PART THREE PD FIVE
+ONE PAREN ONE SIX TWO ZERO ZULU TO ONE SIX THREE ZERO ZULU CHA FIVE
+JULY ONE NINE SIX ZERO CHADELTA PAREN TWO PAREN EIGHT CHA CLEAR CHA
+HIGH THIN SCATTERED CIRRUS WITH TOPS AT THREE SIX CHA ZERO ZEROZERO
+FEET MAXIMUM CHA VISIBILITY TWO ZERO MILES PD PART THREE PD FIVE
 AMERICAN AIR POLICE WITNESSES ARE BEING REINTERVIEWED AND RESULTS
 
 - page 4 -
 
-Here is the text from the document:
+//ATIC//
 
-NATIC//
+1950 JUL 6 08 51
 
 HQA023
-00 RJEDSQ
+
+OO RJEDSQ
+
 DE RJWZKD 41C
-0 060S15Z
+
+O OSOS15Z
 
 FM 39TH ADIV MISAWA AB JAPAN
+
 TO RJEZHQ/HQ USAF WASH DC
+
 RJEDSQ/ATIC WP AFB OHIO
 
-THREE NINE OSCAR INDIA DELTA ZERO NINE
-NINE ONE PD SUBJECT CLN SUAF PROJECT MOON DUST CMM USAFS RGIS*INDIA
+BT
+
+[redacted section] THREE NINE OSCAR INDIA DELTA ZERO NINE
+
+NINE ONE PD SUBJECT CLN SUAF PROJECT MOON DUST CHM USAFS RQVISO-INDIA
+
 ALFA DASH TWO FIVE ONE ONE PD REFERENCE THREE NINE OSCAR INDIA DELTA
+
 ELECTRICAL MESSAGE CITE ZERO NINE EIGHT EIGHT DATED SIX JULY ONE
+
 NINE SIX ZERO PD THIS MESSAGE IN TWO PARTS PD PART ONE PD INFORMATION
+
 CONTAINED IN PART TWO OF THIS MESSAGE WILL CONFORM TO FORMAT CONTAINED
+
 IN USAF SIERRA ROMEO INDIA ALFA DASH TWO FIVE ZERO SIX DATED SEVEN
+
 APRIL ONE NINE SIX ZERO PD INFORMATION IS SUPPLEMENTAL TO THAT
+
 CONTAINED IN REFERENCED MESSAGE CMM AND IS BASED ON REINTERVIEWS
+
 OF ELEVEN USAF IAR POLICEMEN AND ONE JAPANESE SECURITY GUARD PD
 
 - page 5 -
@@ -141,7 +151,7 @@ PAGE TWO RJWZKD41C
 
 ALL OF WHOM OBSERVED ALL OR PART OF THE PHENOMENA AT MISAWA AB CMM
 
-JAPAN PD PAKT TWO PD ALFA PAREN SEVEN PAREN ALL WITNESSES AGREE UPON
+JAPAN PD PART TWO PD ALFA PAREN SEVEN PAREN ALL WITNESSES AGREE UPON
 
 REINTERVIEWS ONLY ONE REDDISH ORANGE BALL APPEARED PD ONE AMERICAN
 
@@ -162,27 +172,34 @@ SUCH WAS NOT THE CASE PD ALL OTHER INFORMATION SUBMITTED IN CITED
 MESSAGE CONFIRMED BY WITNESSES DURING REINTERVIEWS PD
 
 DT
-05/0645Z JUL RJWZKD
+
+05/03452 JUL RJWZKD
+
+[Black redaction]
+
+[Black redaction]
 
 - page 6 -
 
-AFCIN-442g smap/
+AFUIJ-442 9 [handwritten: stamp]
 
-Request for Evaluation of UFO Report                    12 July 1960
+Request for Evaluation of UFO Report
 
-AFCIN-442c
+12 July 1960
 
-1. Request a check be made of the following reports, copy to your office, to determine if a satellite or carrier was responsible for the sightings.
+AFUIJ-442e
 
-a. [redacted] message T60-23691, dated 6 July 1960.
+1. Request a check be made of the following reports, copy to your office, to determine if a satellite or carrier W s responsible for the sightings.
 
-b. [redacted] message T60-23728, dated 6 July 1960.
+a. [redacted] message T6O-23691, dated 6 July 1960.
 
-c. [redacted] message T60-23495, and 23496, dated 6 July 1960.
+b. [redacted] message T6O-23728, dated 6 July 1960.
 
-RICHARD L. SHOOP
+c. [redacted] message T6O-23495, and 23496, dated 6 July 1960.
+
+RICHARD R. SHOOP
 Colonel, USAF
-AFCIN-442c
+AFUIJ-442
 
 - page 7 -
 

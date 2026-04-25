@@ -1,22 +1,30 @@
 PROJECT 10073 RECORD
 
-1. DATE - TIME GROUP
-5 May 66 06/0530Z
+1. DATE · TIME GROUP
+5 May 66 06/05302
 
 2. LOCATION
-Colorado Springs, Colorado (1 witness)
+Colorado Springs, Colorado          (1 witness)
 
 3. SOURCE
-Civilian
+
+10. CONCLUSION
+INSUFFICIENT DATA FOR EVALUATION
 
 4. NUMBER OF OBJECTS
 One
 
+FTD Form 164 sent to witness, however, not returned after 30 days. Will re-evaluate if further info is received.
+
 5. LENGTH OF OBSERVATION
 unk
 
+11. BRIEF SUMMARY AND ANALYSIS
+
 6. TYPE OF OBSERVATION
 Ground Visual
+
+One object like a star changing from red, orange, green, and flashing. Still visible during report, however no time given, stationary. Insufficient data for evaluation, therefore, form 164 was sent.
 
 7. COURSE
 Stationary
@@ -29,336 +37,364 @@ Stationary
 ☐ Yes
 ☒ No
 
-10. CONCLUSION
-INSUFFICIENT DATA FOR EVALUATION
-
-FTD Form 164 sent to witness, however not returned after 30
-days. Will re-evaluate if further info received.
-
-11. BRIEF SUMMARY AND ANALYSIS
-One object like a star changing from red, orange, green, and
-flashing. Still visible during report, however no time
-given. Stationary. Insufficient data for evaluation, therefore,
-Form 164 was sent.
-
 FORM
-FTD SEP 63 0-323 (TDE) Previous editions of this form may be used.
-
+FTD SEP 43 0-323 (TDE)     Previous editions of this form may be used.
 
 - page 1 -
 
-FTD (TDEW)
+[handwritten: COLORADO SPRINGS COLO SMAYEE 0/05202?]
+[handwritten: 5/11/66]
+
+FTD (TDEM)
 Wright-Patterson AFB, Ohio 45433
 18 May 1966
 
+[redacted section]
+
 Colorado Springs, Colorado 80904
 
-Dear Mr.
+Dear Mr[redacted]
 
-Reference your recent unidentified observation of 5 May 1966.
-The information which we have received from Ent AFB, Colorado
-is not sufficient. For evaluation. Request you complete the
-attached FTD Form 164 and return it in the envelope provided.
+Reference your recent unidentified observation of 5 May 1966. The information which we have received from Ent AFB, Colorado is not sufficient for evaluation. Request you complete the attached FTD Form 164 and return it in the envelope provided.
 
-We wish to thank you for reporting your observation to the
-Air Force.
+We wish to thank you for reporting your observation to the Air Force.
 
 Sincerely,
+
+[signature]
 
 HECTOR QUINTANILLA, Jr., Major, USAF
 Chief, Project Blue Book
 
-
 - page 2 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
 INCOMING MESSAGE
 
-AF IN : 21497 (10 May 66) K/JP                                   Pg 1 of 3
+AF IN: 21497 (10 May 66) K/Jp                                                 Pg 1of 3
+
 ACTION: NIN-7
 
-INFO : XOP-1, XOPX-2, SAPOS-3, DIA-1, RDC-4 (19) ADV CY DIA.
-SMB S 844PTU JAW RU4MFA 6921 1829111-UUU-RUEDHOQA.
+INFO: XCP-1, XCPX-2, SAFOS-3, DIA-1, RDC-4 (19) ADV CY DIA.
+S/B 894UTTU JAW RUMWFVA 6921 1292111-UUUU-RUEDHQA.
 
 ZNR UUUUU
 
-P 092111Z
+P 892111Z
 
-FM 4603AB*G ENT AFB COLO
-TO RUED HQA/CSAF WASH DC
-RUED HQA/CSAF
-ZE NC/CINCNORAD (MESSENGER)
-ZE N/ADC (MESSENGER)
-RUES344/AFSC
+FM 463348'S ENT AFB COLO
 
-RUNT PLA/13F RICHARD S-GEBAIR AFB MO
+TO RUEDHQ/OSAF WASH DC
+
+RUEDHQ/CSAF
+
+ZEN/CINC/NORAD (MESSENGER
+
+ZEN/ADC (MESSENGER)
+
+RUEESIA/AFSC
+
+RUWELA/13F RICHARDS-GEBAUER AFB MO
 
 BT
-UNOLAS "GQTI-3 0389A MAY 66
-FOR OSA (C SAFO) CSAF (AFNIN) CINCNORAD (MINT) ADC
-(ADOCP) AND ADCIOAP) AFSC (FTO) UFO UNIDENTIFIED
-FLYING OBJECT REPORT. FORMAT FOLLOWS PARA # AFR 200-2
 
-A.   1 LIKE A STAR
+UNCLAS "ROOT-8 02894 MAY 66
+
+FOR OSAF (SAFOI) CSAF (AFIN) CINC NORAD (NIMT) ADC
+
+(ADOCP) A/D ADOIAP) AFSC (FTD) UFO UNIDENTIFIED
+
+FLYING OBJECT REPORT. FORMAT FOLLOWS PARA 4 AFR 200-2
+
+A.    1 LIKE A STAR
+
       2 LIKE A STAR
+
       3 RED ORANGE GREEN
+
       4 ONE
+
       5 N/A
 
-AFHQ                 0-309C
 
-UNCLASSIFIED
-
+AFHQ    FORM      O-309C                                    [stamp: UNCLASSIFIED]
+        JAN 65
 
 - page 3 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
 INCOMING MESSAGE
 
-AF IN : 21497 (10 May 66)                                   Pg 2 of 3
+AF IN : 21497 (10 May 66)                                          Pg 2 of 3
 
-6   FLASHING OCCASIONALLY RED-FREQUENTLY GREEN
-    AND ORANGE.
+6  FLASHING OCCASIONALLY RED-FREQUENTLY GREEN
 
-7   N/A
+PAGE 2 RUMMYA6821 UNCLAS
 
-8   N/A
+AND ORANGE.
 
-9   INTENSITY VARIES
+7  N/A
 
-B.  1   NOTHING IN PARTICULAR
+8  N/A
 
-    2   30 DEGREES PLUS
+9  INTENSITY VARIES
 
-    3   N/A
+B.  1  NOTHING IN PARTICULAR
 
-    4   NO MOVEMENT
+2  39 DEGREES PLUS
 
-    5   NA
+3  N/A
 
-    6   STILL VISIBLE DURING REPORT
+4  NO MOVEMENT
 
-C.  1   GROUND-VISUAL
+5  NA
 
-    2   BINOCULARS
+6  STILL VISIBLE DURING REPORT
 
-    3   N/A
+C.  1  GROUND-VISUAL
 
-D.  1   36°53'Z
+2  BINOCULARS
 
-    2   NIGHT
+3  N/A
 
-E.   WEST SIDE OF COLORADO SPRINGS COLORADO
+D.  1  86253 Z
 
-F.   1   [REDACTED] COLORADO SPRINGS
+2  NIGHT
 
-    COLO COLLEGE STUDENT RELIABILITY QUESTIONABLE.
+E.  WEST SIDE OF COLORADO SPRINGS COLORADO
 
-AFHQ FORM 0-309C                   UNCLASSIFIED
+F.  1  [redacted section]  COLORADO SPRINGS
 
+COLO COLLEGE STUDENT RELIABILITY QUESTIONABLE.
+
+AFHO  FORM    0-309C                [stamp: UNCLASSIFIED]
+      JAN 65
 
 - page 4 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
 INCOMING MESSAGE
 
-AF IN: 21497 (10 May 66)                                   Pg 3 of 3
+AF IN : 21497 (10 May 66)                                        Pg 3 of 3
 
-G.  1  UNK
-    2  SPACE 36/07 6000FT 09/05 1000FT 06/05 1500FT
 
-PAGE 3 RUNYSVA5621 UNCLASS
+G.  1  UNV
 
-17/02 2300FT 26/05 3000FT 31/20 5000FT 30/26 3000FT UNK
+    2  ⊗FACE 36/87 6800FT 39/85  1900BFT  06/85 1600FT
 
-3  NO*E
+PAGE 3 RUNEVAI692 1 UNCLASS
 
-R   15 PLUS MILES
-5   HIGH THIN SCATTERED
-6   NONE
-7   NORVAL
+17/02 2932FT 26/85 3099FT 31/20 5900BFT 30/26 3800FT UNK
+
+    3 NONE
+
+    R    15 PLUS MILES
+
+    5  HIGH THIN SCATTERED
+
+    6  NONE
+
+    7  NORMAL
 
 H.  NA
 
-I.   NA
+I.  NA
 
-J.   NA
+J.  NA
 
-K.   MAJOR EDWARD LL STRICKER ASST BASE OPERATIONS OFFICER
-     PETERSON FIELD COLORADO. PRELIMINARY ANALYSIS DESCRIPTION
-     AND FLIGHT CHARACTERISTICS INDICATE OBJECT WAS A BRIGHT
-     STAR.
+K.  MAJOR EDWARD LL STRICVER ASST BASE OPERATIONS OFFICER
 
-L.   NA
+PETERSON FIELD COLORADO. PRELIMINARY ANALYSIS DESCRIPTION
+
+AND FLIGHT CHARACTERISTICS INDICATE OBJECT WAS A BRIGHT
+
+STAR.
+
+L.  NA
 
 BT
+
 NNNN
 
-AFHQ        0-309C
 
-UNCLASSIFIED
-
+AFHQ      FORM     O-309C          [stamp: UNCLASSIFIED]
+           JAN 65
 
 - page 5 -
 
 PROJECT 10073 RECORD
 
-1. DATE - TIME GROUP
-29 May 66 30/0400Z
+1. DATE - TIME GROUP: 29 May 66 30/0400Z
 
-2. LOCATION
-Colorado Springs, Colorado
+2. LOCATION: Colorado Springs, Colorado
 
-3. SOURCE
-Civilian
+3. SOURCE: Civilian
 
-4. NUMBER OF OBJECTS
-Two
+10. CONCLUSION: Other (SEARCH LIGHTS) [handwritten: Prob. Sch]
 
-5. LENGTH OF OBSERVATION
-30-40 Minutes
+4. NUMBER OF OBJECTS: Two
 
-6. TYPE OF OBSERVATION
-Ground-Visual
+From the information available the observation is the probable sighting of commercial searchlights on a cloud layer.
 
-7. COURSE
+5. LENGTH OF OBSERVATION: 30-40 minutes
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+6. TYPE OF OBSERVATION: Ground-Visual
+
+The observer watched two greenish lights circling at about 45 deg elevation. One object circle in an easterly direction. Second object circled in southeasterly direction. Both faded out of view.
+
+7. COURSE:
 1. Easterly Direction
 2. SE Direction
 
-8. PHOTOS
+8. PHOTOS:
 □ Yes
 ☑ No
 
-9. PHYSICAL EVIDENCE
+9. PHYSICAL EVIDENCE:
 □ Yes
 ☑ No
-
-10. CONCLUSION
-Other (SEARCH LIGHTS) Prob. Prob.
-From the information available the observation is the probable sighting of commercial searchlights on a cloud layer.
-
-11. BRIEF SUMMARY AND ANALYSIS
-The observer watched two greenish lights circling at about 15 deg elevation. One object circled in an easterly direction. Second object circled in southeasterly direction. Both faded out of view.
 
 FORM
-FTD SEP 63 0-329 (TDE)   Previous editions of this form may be used.
-
+FTD SEP 63 0-325 (TDE) Previous editions of this form may be used.
 
 - page 6 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
 INCOMING MESSAGE
 
-AF IN: 68250 (1 Jun 66) L/ap.                                   Pg 1 of 3
+AF IN: 62050 (1 Jun 66) L/ap                                                                    Pg 1 of 3
 
-ACTION: FDOC-4
-INFO: XOP-1, XOPX-2, SAF08-3, DIA-1, NIN-7 (19) ADV CY DIA
-SMB C145RTU JAW RUMMFVA3757 152195 1-UUUU-RUEDHQA.
+ACTION: RDC-4
+INFO: XOP-1, XOPX-2, SAFOS-3, DIA-1, NIN-7 (19) ADV CY DIA
+SMB C345RTU JAW RUMMFVA3757 152195I-UUUU--RUEDHQA.
 
-ZHR UUUUU
+ZWR UUUUU
 
-R 811951Z
+R 8119517
 
-FM UAEPPAENS ENT AFB COLO
-TO RUEDHQA/CSAF WASH DC
-PUEBOHQA/CSAF
-ZEN/CINGNOR AD
+FM UAEPPABWG ENT AFB COLO
+
+TO RUEDHQA/OSAF WASH DC
+
+RUEDHQA/CSAF
+
+ZEN/CINCORAD
+
 ZEN/ADC
-RUE3BAA/AFSC
-RUNTFLA/18AF RICHARDS GEBAUR AFB MO
+
+RUESB AA/AFSC
+
+RUWTFL A/16AF RICHARDS GEBAUER AFB MO
 
 BT
 
-UNCLAS WGOT-B 88986 JUN 66
+UNCLAS WCOOT-8 28966 JUN 66
 
-FOR: CSAF (SAF011); CSAF (AFN10); CINGNOR AD (HINT); ADC
-(ADOCP) AND (ADCIO-P)3 AFSC (FTD) UFO, UNIDENTIFIED
+FOR: OSAF (SAFO1); CSAF (AFNIN); CINCORAD (NINT); ADC
+(ADOCP) AND (ADCIO-P); AFSC (FTD) UFO, UNIDENTIFIED
+
 FLYING OBJECT REPORT, FORMAT FOLLOWS PARA 14, AFR 200-2
 
 A. (1) BRIGHT LIGHT.
-   (2) WASH TUB.
-   (3) GREENISH.
-   (4) TWO.
-   (5)7 8,763535)5.
 
-AFHQ                0-3090
+(2) WASH TIS.
 
-UNCLASSIFIED
+(3) GREENISH.
 
+(4) TWD.
+
+(5) 7 8,76335356.
+
+AFHQ          0-309C          [stamp: UNCLASSIFIED]
+
+FROM
+JUN 66
 
 - page 7 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
 INCOMING MESSAGE
 
-AF ITN: 66050 (1 Jun 66)                                   Pg 2 of 3
+AF IN: 62050 (1 Jun 66)                                                    Pg 2 of 3
 
 (6) N/A
 
-PAGE 2 RUNFVA3757 UNCLAS
+PAGE 2 RUMVFA3797 UNCLAS
 
 (7) N/A
+
 (8) N/A
+
 (9) N/A
 
-8. (1) MOVEMENT.
-   (2) FORTY-FIVE DEGREES.
-   (3) FORTY-FIVE DEGREES.
-   (4) FIRST OBJECT CIRCLED IN AN EASTERLY DIRECTION.
-       SECOND OBJECT CIRCLED IN SOUTHEASTERLY DIRECTION.
-   (5) FADED.
-   (6) THIRTY-FORTY MINUTES.
+B. (1) MOVEMENT.
+
+(2) FORTY-FIVE DEGREES.
+
+(3) FORTY-FIVE DEGREES.
+
+(4) FIRST OBJECT CIRCLED IN AN EASTERLY DIRECTION.
+
+SECOND OBJECT CIRCLED IN SOUTHEASTERLY DIRECTION.
+
+(5) FADED.
+
+(6) THIRTY-FORTY MINUTES.
 
 C. (1) GROUND-VISUAL.
-   (2) N/A
-   (3) N/A
 
-D. (1) 308+52
-   (2) NIGHT
+(2) N/A
+
+(3) N/A
+
+D. (1) 368+35Z
+
+(2) NIGHT
 
 E. SOUTH SIDE OF COLORADO SPRINGS, COLORADO.
 
-F. (1) NORMAN PRESLEY, UNK; [REDACTED], COLORADO SPRINGS,
-       COLO; MINISTER OF BAPTIST CHURCH; GOOD.
+F. (1) NORMAN PRESLEY; UNK; [black mark], COLORADO SPRINGS,
 
-AFHQ FORM 0-3096C
+COLO; MINISTER OF BAPTIST CHURCH; GOOD.
 
-UNCLASSIFIED
-
+AFHQ  FORM      0-309C          [stamp: UNCLASSIFIED]
+     JUN 65
 
 - page 8 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
 INCOMING MESSAGE
 
-AF IN: 62050 (1 Jun 66)                                   Pg 3 of 3
+AF IN: 62050 (1 Jun 66)                                     Pg 3 of 3
 
 (2) N/A
 
 G. (1) CLEAR
 
-PAGE 3 RUNFVAJ57 UNCLAS
+PAGE 3 RUMVFA3757 UNCLAS
 
-(2) SURFACE 03/09; 6822' 31/10; 18000' 28/05; 16000'
-30/15; 26030' 29/15; 36030' 31/10; 50000' 29/29; 80000' UNK.
+(2) SURFACE 03/89; 6829' 31/10; 18000' 28/05; 16000'
+38/15; 28539' 29/15; 30898' 31/40; 50000' 29/2 0; 86000' UNK.
 
 (3) NONE.
 
@@ -377,18 +413,19 @@ I. N/A
 J. N/A
 
 K. MAJOR EDWARD L STRICKER, ASST BASE OPERATIONS OFFICER,
-PETERSON PFLD, COLORADO. PRELIMINARY ANALYSIS: ALTHOUGH
+PETERSON FIELD, COLORADO. PRELIMINARY ANALYSIS: ALTHOUGH
 UNABLE TO CONFIRM, OBJECTS BELIEVED TO HAVE BEEN REFLEC-
 TIONS OF COMMERCIAL SEARCHLIGHTS ON HAZE LAYER OR CLOUDS.
 
 BT
 
-NMNN
+MMMN
 
-AFHQ    FORM    0-309C
 
-UNCLASSIFIED
+AFHQ    FORM    O-309C
+       JAN 65
 
+[stamp: UNCLASSIFIED]
 
 - page 9 -
 

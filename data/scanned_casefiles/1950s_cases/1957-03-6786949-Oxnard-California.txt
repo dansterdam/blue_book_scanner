@@ -1,146 +1,190 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE
-8 March 1957
-DATE-TIME GROUP
-Local
-GMT04/0350Z
+1. DATE: 9 March 1957
 
-2. LOCATION
-Oxnard, California
-TYPE OF OBSERVATION
-Ground-Visual BX Ground-Radar Air-Visual Air-Intercept Radar
+2. LOCATION: Oxnard, California
 
-3. PHOTOS
-Yes
+3. DATE-TIME GROUP: GMY04/0330Z
 
-4. SOURCE
-Civilian & Military
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual BX [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
 
-5. LENGTH OF OBSERVATION
-5 or 6 seconds
+5. PHOTOS:
+[ ] Yes
+[X] No
 
-6. BRIEF SUMMARY OF SIGHTING
+6. LENGTH OF OBSERVATION: 3 or 6 seconds
+
+7. SOURCE: Civilian & Military
+
+8. NUMBER OF OBJECTS: one
+
+9. COURSE: in NW
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[X] Unknown
+
+10. BRIEF SUMMARY OF SIGHTING:
 One object. Two round lights (white) blinking - flew straight and level. Observer used binoculars. WX overcast.
 
-7. NUMBER OF OBJECTS
-one
-
-8. COURSE
-in NW
-
-11. COMMENTS
+11. COMMENTS:
 Short duration. Two lights on one object. Alternating suggests a/c sighting.
 
-12. CONCLUSIONS
-Was Balloon
-Probably Balloon
-Possibly Balloon
-Was Aircraft
-Probably Aircraft
-Possibly Aircraft
-Was Astronomical
-Probably Astronomical
-Possibly Astronomical
-Other
-Insufficient Data for Evaluation
-Unknown
-
+ATIC FORM 329 (REV 14 SEP 51)
 
 - page 1 -
 
-Here is the text from the document:
+JOINT MESSAGEFORM                                    SECURITY CLASSIFICATION
+                                                             UNCLASSIFIED
 
-JOINT MESSAGEFORM
-SECURITY CLASSIFICATION: UNCLASSIFIED
+SPACE BELOW RESERVED FOR COMMUNICATION CENTRE
 
-MULTIPLE F-MAR 27 18 41 57
+MULTIPLE                    MAR 27        18 41 '57
 
-PRECEDENCE: ROUTINE
-ACTION: ROUTINE
-INFO: ROUTINE
+PRECEDENCE          TYPE MSG (Check)        ACCOUNTING      ORIG. OR REFER. TO      CLASSIFICATION
+ACTION   ROUTING      BOOK    MULTI   SINGLE   SYMBOL                                OF REFERENCE
 
-FROM: COMDR ATIC
+INFO     ROUTINE
 
-TO: COMDR, 4602D AISSS, ENT AFB, COLORADO SPRINGS, COLORADO R-1 E-D-E-N
-INFO CY: 4602D AISS, FLT 1-C, OXNARD AFB, CALIFORNIA K-J-W-P-J-B
+FROM:
+         COMDR ATIC                                                                   SPECIAL INSTRUCTIONS
 
-(UNCLASSIFIED) FROM AFOIN-484 3-398-E
+TO:
+         COMDR, 4502D AISS, ENT AFB, COLORADO SPRINGS, COLORADO
+
+         INFO CY: 4502D AISS, FLT 1-C, OXNARD AFB, CALIFORNIA
+
+(UNCLASSIFIED) FROM AFOIN-4E4   3-398-E
 
 REFERENCE TT MESSAGE 69-OPS 090-Y FROM COMDR 669, ACWRON, PORGUE,
-CALIFORNIA RE UFO SIGHTING OBSERVED NIGHT, 0800Z, 23 MARCH 1957
-BY MRS. [REDACTED], OXNARD, CALIFORNIA. IN VIEW OF POSSIBLE PUBLICITY,
+
+CALIFORNIA; RE UFO SIGHTING OBSERVED NIGHT, 0800Z, 23 MARCH 1957
+
+BY MRS. [REDACTED] OXNARD, CALIFORNIA. IN VIEW OF POSSIBLE PUBLICITY,
+
 NUMEROUS WITNESSES, AND POLICE AND SHERIFF BROUGHT IN ON CASE,
+
 REQUEST PRELIMINARY INVESTIGATION. REQUEST BRIEF SUMMARY OF
+
 FINDINGS BY TT MESSAGE.
 
 COORDINATION:
-AFOIN-484 [Signature] DATE 27/3/57
-AFOIN-4E [Signature] DATE 3/27
 
-TYPED NAME AND TITLE: Captain G.T. Gregory
-PHONE: 69216
+AFOIN-4E4 [handwritten: Henry Miley]    DATE  27/3/57
 
-SIGNATURE: [Signature]
-ROBERT E. O'CONNOR
-Captain, USAF
-Assistant Adjutant
+AFOIN-4E     [handwritten: Ormond]       DATE  3/12
 
-DD FORM 173
-DATE 27 MAR 57 TIME 0935
+                                                                 DATE      TIME
+                                                                 27        0535
+                                                                 MONTH     YEAR
+                                                                 MAR       1957
 
+SYMBOL                                    SIGNATURE
+
+AFOIN-4E4                                 [handwritten signature]
+
+TYPED NAME AND TITLE [handwritten: Captain O.T. Dugard]      [handwritten: E. PORTER O'CONNOR]
+                                                             Deptgh, USAF
+PHONE        69216              PAGE     1      NO. OF    1
+                                             PAGES
+SECURITY CLASSIFICATION
+
+UNCLASSIFIED                              Assistant Adjutant
+
+
+DD FORM 173      REPLACES DA FORM 173; 1 CCT 42, WHICH WILL BE USED UNTIL EXHAUSTED
 
 - page 2 -
 
-Here is the OCR text from the document:
+CONTACT ALT JUG. REPORTED IN MERGE WIT. UFOE WHISTLE, RAT CONTROL
+PASS TO LOMAR VISUAL, NEGATIVE CONTACT ALTHOUGH ALSO REPORTED IN
+TARO. WITH UFOE. I . NOSTALGIE: LAND AREA. II. BOTH CLOUDSTONE
+ALE A FLIGHT HAD FRONT PAGE WHISKEY FLIGHT THOROUGHLY SEARCHED
+THE AREA IN GUEST CD, BUT WERE UNABLE TO CONTACT THE UFOE.
 
-PAGE THREE RJWPB 46
+*NEITHER PILOT SAW THE SIGNAL LIGHTS OF THE POLICE. THE POSSIBLITY
 
-SERENDIPITOUSLY IDENTIFIED RADIO BEACON CANNOT BE ENTIRELY DISCOUNTED DESPITE THE REPORTED MOBILITY OF THE OBJECTS IN QUESTION.
+[handwritten: signature and several lines of handwritten notes that are largely illegible]
 
-ON SEVERAL OCCASIONS, GROUND OBSERVERS REPORTED VISUAL SIGHTINGS OF THE UFOB. THE INTERCEPTORS AND THE UFOB. IT MUST BE NOTED THAT ON ONE OCCASION, MRS. [REDACTED] REPORTED THAT A PALE GREEN BEAM OF LIGHT HAD EMITTED EARTHWARD FROM THE LARGER SPHERE WHICH SHE ALTERNATELY DESCRIBED AS RESEMBLING "THE CANOPY OF A HELICOPTER" AND "A PLANET". NO RADAR PICKUP OF THE UFOB WAS EVER ESTABLISHED.
+PAGE THREE RUMFUB 4E
 
-MR. [REDACTED] AS PREVIOUSLY MENTIONED, MADE THE INITIAL SIGHTING AND CALLED LT. [REDACTED] AT OXNARD, WHO, IN TURN, ALARMED AT HIS EMOTIONAL CONDITION, ALERTED THE HIGHWAY PATROL, POLICE OFFICERS.
+*. UNEQUIVOCALLY IDENTIFIED RADIO BEACON CANNOT BE ENTIRELY DISCU-
+UNTED DESPITE THE REPORTED MOBILITY OF THE OBJECTS IN QUESTION.
 
-HAVING AT [REDACTED] HOME ALSO SIGHTED THE UFOB AND COORDINATED WITH ART CONTROL TO AID IN THE ATTEMPTED INTERCEPTION.
+*ON SEVERAL OCCASIONS, GROUND OBSERVERS REPORTVISUAL SIGHTINGS
+OF , WITH THE INTERCEPTORS AND THE UFOE. IT MUST BE NOTED THAT ON
+ONE OCCASIOIN, MRS. [redacted] REPORTED THAT A PALE GREEN BEAM OF
+LIGHT HAD EMITTED EARTHWARD FROM THE LARGER SPHERE WHICH SHE
+ALTERNATELY DESCRIBED AS RESEMBLING "THE CANOPY OF A HELICOPTER"
+AND "A PLANET". NO RADAR PICKUP OF THE UFOE WAS EVER ESTABLISHED
+AS [redacted] AS PREVIOUSLY MENTIONED, MADE THE INITIAL SIGHTING
+AND CALLED LT. [redacted] AT COWARD, UPO. IN TURN, ALARMED AT HER
+EMOTIONAL CONDITION, ALERTED THE HIGHWAY PATROL. POLICE OFFICES
 
-R CLANCY, 1ST LT USAF, DUTY DIRECTOR, 14 NOV 56
+HAVING AT [redacted] HOME ALSO SIGHTED THE UFOE AND
+COORDINATED WITH ANI CONTROL IN AND IN THE ATTENMTED INTERCOPTION. A
+LT. B. CLAADER, 1ST LT USAF, DUTY DIRECTOR, IS MORE FO
+INT
 
+[handwritten notation in lower right corner, largely illegible]
 
 - page 3 -
 
-Here is the text from the document:
+JOINT MESSAGEFORM
 
-JOINT MESSAGEFORM                                UNCLASSIFIED
+[stamp: DECLASSIFIED]
 
-ACTION: PRIORITY
-INFO:   PRIORITY
+SPACE BELOW RESERVED FOR COMMUNICATION CENTER
 
-FROM:   COMDR ATIC
+[handwritten: illegible] DAYTON OHIO
+AIR TECHNICAL INTELLIGENCE
+REFERENCE OF THE ATTACHED GROUP IS QUOTED
 
-TO:     COMDR, XXX 4602D AISS, ENT AFB, COLORADO SPRINGS, COLORADO
+PRECEDENCE | TYPE MSG (CKRD) | ACCOUNTING | ORIO. OR REFERS TO | CLASSIFICATION
+ACTION PRIORITY | BOOK [ ] MULTI [ ] SINGLE | SYMBOL | OF REFERENCE
+INFO PRIORITY (OPTIONAL) | | | |
 
-INFO CY: 4602D AISS, FLT 1-C, OXNARD AFB, CALIFORNIA
+FROM: COMDR ATIC
 
-FROM:   AFOIN-424                 9C44354
+[handwritten: /20X]
 
-PART I - REFERENCE OUR MESSAGE AFOIN-424, 3-398-E DATED 27 MARCH
+SPECIAL INSTRUCTIONS:
+
+TO: COMDR, AXXC 4602D AISS, ENT APB, COLORADO SPRINGS, COLORADO [handwritten: illegible]
+
+INFO CY: 4602D AISS, FLT 1-C, OXNARD AFB, CALIFORNIA [handwritten: illegible]
+
+FROM: AFOIN-4E4 OC44354
+
+PART I - REFERENCE OUR MESSAGE AFOIN-4E4, 3-398-E DATED 27 MARCH
 
 57 REQUESTING INVESTIGATION OF OXNARD CALIFORNIA INCIDENT OF 23
 
-MARCH, AS REPORTED ON TT-MSG 69-OPS-X FROM COMDR, 669 ACWRON. NO
+MARCH, AS REPORTED ON TT-MSG 69-OPS-Y FROM CCMDR, 669 ACWRON. NO
 
 DETAILS CONCERNING THIS CASE RECEIVED AS YET; ONLY COMMENT IN YOUR
 
 UFO SUMMARY WITH STATEMENT WAS ASTRONOMICAL. THIS INCIDENT RECOGNIZED
 
-BY THIS CENTER AS POTENTIALLY DANGEROUS & IN THAT IT COULD GIVE AIR
+BY THIS CENTER AS POTENTIALLY DANGEROUS &N THAT IT COULD GIVE AIR
 
 FORCE UNFAVORABLE PUBLICITY, IF EXPLOITED BY FANATIC OR DIE-HARD
 
-"FLYING SAUCER" PROPONENTS. THIS NOW DEFINITE POSSIBILITY, WITH
+"FLYING SAUCER" PROPONENTS. THIS NOW [redacted] DEFINITE &/9 POSSIBILITY, WITH
 
-RECEIPT OF LETTER FROM [REDACTED], NATIONAL INVESTIGATIONS COMMITTEE
+RECEIPT OF LETTER FROM [redacted], NATIONAL INVESTIGATIONS COMMITTEE
 
 ON UFOS, DEMANDING FULL DETAILS AND ANSWERS TO CERTAIN ASPECTS OF
 
@@ -148,98 +192,139 @@ OXNARD INCIDENT NOT SUPPORTED BY INFORMATION IN FILE.
 
 OFFICIALLY, THIS INCIDENT DOES NOT WARRANT ACTION REQUIRED,
 
-BUT [PARTIALLY REDACTED] ABILITY TO SLANT MATERIAL AND CREATE UNWARRANTED
+BUT [redacted] ABILITY TO SLANT MATERIAL AND CREATE UNWARRANTED
 
-TROUBLE FOR AIR FORCE, HIS STOCK IN TRADE FOR ALMOST TEN YEARS.
+TROUBLE FOR AIR FORCE, HIS STOCK IN TRADE FOR ALMOST TEN YEARS,
 
-SYMBOL:    AFOIN-424
+| SYMBOL | SIGNATURE |
+|---------|-----------|
+| AFOIN-4E4 | [handwritten signature] |
 
-TYPED NAME AND TITLE: Capt. G. T. Gregory
+[Handwritten information in lower left section:]
+TYPED NAME (PRINT) Capt G. T. Gregory
+PHONE 59215
+[redacted security classification]
 
-PHONE: 59216
+[Handwritten information in lower right section:]
+TYPED (IF HAND) NAME Wallace W. Elwood
+Captain, USAF
+Assistant Adjutant
 
-TYPED NAME AND TITLE: WALLACE W. ELWOOD
-                       Captain, USAF
-                       Assistant Adjutant
+DATE | TIME
+13 | 1600
+MONTH | YEAR
+MAY | 57
 
-DATE: 13 MAY 57
-TIME: 1600
+[ENCODED stamps appear on right side with handwritten notations]
 
+DD FORM 177-2 [illegible] FORM 179, 1 OCT 46, WHICH WILL BE USED UNTIL EXHAUSTED
 
 - page 4 -
 
-JOINT MESSAGEFORM - CONTINUATION SHEET
+JOINT MESSAGE FORM - CONTINUATION SHEET
 
-FROM: COMDR ATIC
+FROM:
+COMNR ATIC
 
-REQUIRE NO COMMENT. P-RESUME DETAILS, FINDINGS OR AF112, IN SUPPORT OF UFO SUMMARY CONCLUSION, IN PREPARATION. HOWEVER, NOW REQUEST IMMEDIATE TRANSMISSION OF DETAILS AND PERTINENT FACTS SURROUNDING THIS CASE AS REQUESTED IN TT-3-398-B, SO THAT THEY MAY BE FORWARDED TO HQS USAF, TOGETHER WITH RECOMMENDATIONS FOR OFFICIAL REPLY TO [REDACTED] COMMITTEE.
+SECURITY CLASSIFICATION
+[redacted]
+UNCLASSIFIED
+
+REQUIRE NO COMMENT. PRESUME DETAILS, FINDINGS OR AFI12, IN SUPPORT OF UFO SUMMARY CONCLUSION, IN PREPARATION. HOWEVER, NOW REQUEST IMMEDIATE TRANSMISSION OF DETAILS AND PERTINENT FACTS SURROUNDING THIS CASE AS REQUESTED IN TT-3-398-E, SO THAT THEY MAY BE FORWARDED TO HQ USAF, TOGETHER WITH RECOMMENDATIONS FOR OFFICIAL REPLY TO [redacted] COMMITTEE.
 
 PART II - IN ADDITION TO ANSWER THIS COMMITTEE'S CHARGES, COMMENTS TO FOLLOWING DESIRED SPECIFICALLY:
 
-a. OUR UFO REPORT, 69-OPS-Y, REFERENCED ABOVE, STATES FOUR AIRCRAFT SCRAMBLED, WITH NEGATIVE CONTACT. HOWEVER, [REDACTED] CLAIMS FOUR UFOS CONTACTED.
+a. OUR UFO REPORT, 69-OPS-Y, REFERENCED ABOVE, STATES FOUR AIRCRAFT SCRAMBLED, WITH NEGATIVE CONTACT. HOWEVER, [redacted] CLAIMS FOUR UFOS CONTACTED.
 
-b. DO NOT KNOW SOURCE OF HIS INFORMATION, BUT [REDACTED] ALLEGES DETAILED REPORT PREPARED BY OXNARD PILOT DESCRIBING ONE UFO, ALSO ITS SPEED ESTIMATED AT 3600 MPH.
+b. DO NOT KNOW SOURCE OF HIS INFORMATION, BUT [redacted] ALLEGES DETAILED REPORT PREPARED BY OXNARD PILOT DESCRIBING ONE UFO, ALSO ITS SPEED ESTIMATED AT 3600 MPH.
 
-c. WERE THERE ANY CLASSIFIED PILOT'S AND RADAR REPORTS OF THE INCIDENT AS CLAIMED? IF SO, AND NORMALLY AF REPORTS OF SUCH NATURE MIGHT BE, THROUGH WHAT MEANS OR SOURCE DID [REDACTED] RECEIVE SUCH INFORMATION, INASMUCH AS IT WOULD BE BREACH OF SECURITY?
+c. WERE THERE ANY CLASSIFIED PILOT'S AND RADAR REPORTS OF THE INCIDENT AS CLAIMED? IF SO, AND NORMALLY AF REPORTS OF SUCH NATURE MIGHT BE, THROUGH WHAT MEANS OR SOURCE DID [redacted] RECEIVE SUCH INFORMATION, INASMUCH AS IT WOULD BE BREACH OF SECURITY?
 
 d. NOT CLEAR, AND SOMEWHAT CONFUSING, REPORT ON OBSERVER: RISES FROM BED, GLANCES OUT OF WINDOW, SEES OBJECT HIGH IN SKY, OBSERVED FOR 1½, REPEAT 1½ HOURS, THEN GETS HYSTERICAL WITH FEAR.
 
-e. WAS LT. OTT, APPARENTLY OFFICER ON DUTY, CONTACTED, FOLLOWING LOCAL PROCEDURES IN ALERTING HIGHWAY PATROL AND AF INTERCEPTORS WITHOUT TAKING ACTION TO CHECK THE INCIDENT.
+e. WAS LT. OTT, APPARENTLY OFFICER ON DUTY, WHICH OBSERVER CONTACTED, FOLLOWING LOCAL PROCEDURES IN ALERTING HIGHWAY PATROL AND AF INTERCEPTORS WITHOUT TAKING ACTION TO CHECK THE INCIDENT-
 
-[Bottom of page shows page number 2 of 3, with various administrative markings]
-
+PAGE 2 OF 3 PAGES
+[redacted]
+AFOINS-124
+BD: [illegible] 173-I
 
 - page 5 -
 
-Here is the text from the document:
-
 JOINT MESSAGEFORM - CONTINUATION SHEET
 
-FROM: COMDR ATIC
+[stamp: SECURITY CLASSIFICATION <redacted>]
 
-FURTHER, IN VIEW OF HIS ADMITTED KNOWLEDGE OF HER EMOTIONAL CONDITION? THERE APPEARS TO BE SOME SUBJECTIVITY ON THE PART OF THIS OFFICER.
+FROM:
 
-HQS USAF CANNOT BE SUPPLIED WITH DETAILS AND ANSWERS TO ABOVE WITHOUT FURTHER INFORMATION REGARDING THIS MATTER.
+COMDR ATIC
+
+FURTHER, IN VIEW OF HIS ADMITTED KNOWLEDGE OF HER EMOTIONAL
+
+CONDITION? THERE APPEARS TO BE SOME SUBJECTIVITY ON THE PART OF
+
+THIS OFFICER.
+
+HQS USAF CANNOT BE SUPPLIED WITH DETAILS AND ANSWERS TO ABOVE
+
+WITHOUT FURTHER INFORMATION REGARDING THIS MATTER.
 
 COORDINATION:
-AFOIN-484     Dr. Henry A. Miley           DATE 14/5/57
-AFOIN-485     HK Giles                     DATE 14/5/57
-                Col. E.K. Gilbert
-AFOIN-481     Mr. A. F. Arcier             DATE 15/5/57
 
-SYMBOL: AFOIN-484     PAGE 3     NO. OF PAGES 3     SECURITY CLASSIFICATION: UNCLASSIFIED
+AFOIN-4E4 [handwritten: Henry Miles] DATE 14/5/1-7
+        Dr. Henry A. Miley
 
-DD FORM 173-1     MAY 55 173-1
+AFOIN-4E [handwritten: H. R. M...] DATE 14/5/5/7
+        Col H. K. Gilbert
 
+AFOIN-AXI [handwritten: A. F. Archer] DATE 16/5/[illegible]
+        Mr. A. F. Archer
+
+[illegible section at bottom of page]
+
+SYMBOL | [blank] | PAGE NR | DIR OF PAGES | SECURITY CLASSIC. | [illegible]
+AFOIN-4E4 | | 3 | 3 | |
+
+DD FORM 173-1
+MAY 55
+
+U.S. GOVERNMENT PRINTING OFFICE
 
 - page 6 -
 
-Here is the OCR text from the document:
+WF#034 WPC20GENB20IV
 
-WP634 WPC06GEN80GW
-FF RUEORP
-DE RUEDEN 136
-P 17220Y
-FL CCMDR 4602D AISS ENT AF9 COLO
+FF RJEDDUF
+
+LE RJEDEN 186
+
+P 172202Y
+
+FM COMDR 4@2D AISS ENT AFB COLO
+
 TO COMDR ATIC WRIGHT PATTERSON AFE OHIO
-51
-/UNCLAS/ AISOC 475 PD REFERENCE YOUR AFOIN 4EA 1C40354 PD
-FOLLOWING INFORMATION SUBMITTED CLN SOURCE
+
+DT
+
+/UNCLAS/ AISOC 475 PD REFERENCE YOUR AFOIN 4E4 IC40354 PD
+
+FOLLOWING INFORMATION SUBMITTED CLN SOURCE [blackout] CMM
+
 RELIABILITY QTE POSSIBLY RELIABLE UN QTE REPORTED THE FOLLOWING
+
 CLN QTE SOURCE AROSE FROM BED TO ANSWER TELEPHONE PD WHILE ON PHONE
+
 SOURCE OBSERVED UNUSUAL GREEN OBJECT IN NORTHEAST SKY AT ABOUT TEN
-DEGREES ABOVE THE HORIZON PD OBJECT SEEMED TO THROE AND PULSATE PD
+
+DEGREES ABOVE THE HORIZON PD OBJECT SEEMED TO THROB AND PULSATE PD
+
 NO SOUND PD OBJECT ALTERNATELY AHAD AND DID NOT HAVE A TAIL PD SHINY
+
 ALUMINUM LIKE PLE APPEARED AT TIMES ON TOP OF OBJECT PD OBJECT
+
 WAS SEEN TO MOVE AT GREAT SPEEDS AND ALSO TO REMAIN STATIC PF
+
 OBJECT SEEN FOR FIVE HOUR FORTY FIVE MINUTES PD UNQTE BADED ON THIS
-
-Handwritten notes on the document include:
-59117
-NTFD
-181010024
-McCullough
-
 
 - page 7 -
 
@@ -259,11 +344,11 @@ ON DUTY ON THE NIGHT OF 22/23 MAR FURNISHED THE FOLLOWING
 
 INFORMATION PD STATION OPERATIVE DURING ENTIRE PERIOD OF SIGHTING
 
-PD ONLY ONE PAINT WAS NOTED THAT NIGHT CWN FIVE HOURS BEFORE THE
+PD ONLY ONE PAINT WAS NOTED THAT NIGHT CMM FIVE HOURS BEFORE THE
 
 SIGHTING WAS REPORTED PD CHECK WITH BASE OPERATIONS OXNARD AFB
 
-DISCLOSED THE FOLLOWING CLN TWO F-89 AIRCRAFT CWN OXNARD BASED CWN
+DISCLOSED THE FOLLOWING CLN TWO F-39 AIRCRAFT CMM OXNARD BASED CMM
 
 WERE RETURNING FROM A FLIGHT IN THE LOS ANGELES AREA WHEN INFORMED
 
@@ -271,200 +356,243 @@ BY THE CONTROLLER OF THE 669TH ACHRON OF OBJECTS IN AREA PD AIR
 
 CRAFT WERE THEN VECTORED TO THE AREA OF SIGHTING PD A SEARCH FROM
 
-
 - page 8 -
 
-Here is the OCR text from the document:
-
-TWO THOUSAND FEET ON UP WAS CONDUCTED PD AIRCRAFT REPORTED NEITHER
+ONE THOUSAND FEET ON UP WAS CONDUCTED PD AIRCRAFT REPORTED NEITHER
 VISUAL OR RADAR SIGHTING PD AIRCRAFT RETURNED TO BASE AND NO
-FURTHER ACTION TAKEN PD MR [illegible] CMM ASTRONOMER AT SAN BERNARDINO
+FURTHER ACTION TAKEN PD MR[redacted]CMM ASTRONOMER AT SAN BERNARDINO
 VALLEY COLLEGE SUPPLIED THE FOLLOWING INFORMATION CLN ARTURUS WAS
 PRESENT IN THE NORTHEASTERN SKY SLIGHTLY BELOW A FORTY FIVE DEGREE
 ELEVATION DURING THE TIME OF SIGHTING PD MR BEATTY INDICATED THAT
 ARTURUS WAS VERY BRIGHT PD LT OTT CMM DUTY OFFICER STATED THAT HE
 
-PAGE THREE RIJEDEN 136
+PAGE THREE RJEDEN 186
 
-CALLED SANTA ROSA ISLAND AND THEY SAID THEY WAS A PAINT IN APPROXIMATE
+CALLED SANTA ROSA ISLAND AND THEY SAID THEY HAS A PAINT IN APPROXIMATE
 AREA OF SIGHTING PD HOWEVER LATER CONTACT WITH RADAR SITE DID NOT
-SUPPORT THIS PAINT PD QUOTATION FROM STATEMENT OF LT OTT QTE
+SUPPORT THIS PAINT PD QUOTATION FROM STATEMENT OF LT OTT GTE
 ALTHOUGH ON SEVERAL OCCASIONS THE GROUND OBSERVER REPORTED THE
 AIRCRAFT CLOSE TO THE OBJECTS CMM NO CONTACT WAS MADE BY THE
 AIR CREWS PD END QUOTE FROM REPORT THIS SIGHTING WAS
 DEKINATELY CAUSED BY STAR CMM PROBABLY STAR ARTURUS PD ALTHOUGH
-TLT OTT SAID IN HIS STATEMENT THAT 669TH ACWRON WAS CARRYING
-STATIONARY PAING IN CAMARILLO AREA AT TIME OF SIGHTING CMM LT MARTIN
+LT OTT SAID IN HIS STATEMENT THAT 6S9TH ACWRON WAS CARRYING
+STATIONARY PAINS IN CAMARILLO AREA AT TIME OF SIGHTING CMM LT MARTIN
 CMM DUTY CONTROLLER ON NIGHT OF 22/23 MAR 57 CMM DENIED
 CARRYING A PLOT AT THIS TIME PD A LACK OF GROUND RADAR CONTACT CMM
 PLUS THE FACT THAT NEITHER AIRBORN RADAR NOR CREWMEMBERS
 OF F-89 INTERCEPTORS SAW ANY THING WOULD RULE OUT ANY UNUSUAL
 OBJECT PD THIS HEADQUARTERS REGRETS THAT YOUR CENTER DOES NOT
-HAVE AF FORM 142 ON SIGHTING PD SUBJECT REPORT WAS SENT FORM ADC
-HEADQUARTERS ON 26 APR 57 PD IN FUTURE THIS HEADQUARTERS WILL MAIL
-YOUR COPY OF REPORT PD SUBJECT REPORT WILL FOLLOW PY AIRMAIL PD
-
+HAVE AF FORM 112 ON SIGHTING PD SUBJECT REPORT WAS SENT FORM ADC
+HEADQUARTERS ON 2S APR 57 PD IN FUTURE THIS HEADQUARTERS WILL MAIL
+YOUR COPY OF REPORT PD SUBJECT REPORT WILL FOLLOW BY AIRMAIL PD
 
 - page 9 -
 
-FROM: HEADQUARTERS US AF PD END
-BT
-17/2312Z MAY RJDEN
+[illegible] THE [illegible] BE RETURNED WHEN YOUR CARRIER RECEIVES A COPY
 
+FROM HEADQUARTERS US AF PD END
+
+ST
+
+17/23122 MAY RJEDEN
 
 - page 10 -
 
-Here is the OCR text from the document:
+AF FORM 112—PART I
+APPROVED 1-24-58
 
-AF FORM 112-PART 1                 UNCLASSIFIED                 23 Mar 57
-                                    Camarillo, CA
+COUNTRY
+USA
+
+UNCLASSIFIED
+[CLASSIFICATION]
+
+23 [handwritten: April 57]
+[handwritten: Camarillo, CA]
 
 AIR INTELLIGENCE INFORMATION REPORT
 
+SUBJECT
 Unidentified Flying Object
+
+MAY 19 1957
+[handwritten notation]
+
+LOCATION
 Camarillo, California
 
-22, 23 March 1957                  W/O INCL
-                                    4 Bla
-                                    5 Encl
+DATE OF REPORT
+5 April 1957
 
-FRANK H. MARECKI, Major, USAF       Hrs. 
+W/O INCL
+ABla.
+[handwritten: 5 Encl]
 
-6599th CRS 9904 IT TGCT, 5qdn Guide 200-3, AFR 200-2
+DATE OF INFORMATION
+22, 23 March 1957
 
-CONTENTS:
-    PART ONE: Description of Sighting and subsequent events by
-              Mrs. [redacted], Camarillo, California
+REPORT NO. AFD-05-1-27
+1 AD-UFO-01-27
+REPORT REFERENCE: Atch. UFO-64-1, A/C
 
-    PART TWO: Supplementary Investigative Efforts
+REPORT BY: FRANK H. MARXCKI, Major, USAF
 
-    PART THREE: Comments of Preparing Officer
+WD GUIDE 200-3, APR 2-00-2.
 
-II. SUMMARY: Unidentified Flying Objects were observed visually
-from a point (E/SE) northwest of CAMARILLO, CALIFORNIA (EAS 551) for a
+SUMMARY: [Redacted content as may be indicated on the attached classified covering or "Ober Intelligence in field operations documents". Link processes of other tell. Begin text of report in AF Form 328—Part 1]
+
+I. CONTENTS:
+
+PART ONE: Description of Sighting and subsequent events by
+Mrs. [redacted], Camarillo, California
+
+PART TWO: Supplementary Investigative Efforts
+
+PART THREE: Documents of Preparing Officer
+
+II. SUMMARY: Unidentified flying objects were observed visually
+from a point (SLRS 0615) northeast of CAMARILLO, CALIFORNIA (SLRS 6:5) for a
 period of two (2) hours and fifteen (15) minutes on the evening of 22, 23 March
-1957. The information in this report was obtained from the person seeing these
+1957. The information in this report was obtained from the persons seeing these
 objects and from an investigation conducted to determine the possible cause of
 this sighting.
 
-III. INVESTIGATOR: S/Sgt JUNE T PICKEN, AF 16372953
+III. INVESTIGATOR: S/Sgt JOHN T FICKEN, AF 16371953
 
-[Signature of Frank H. Marecki]
-FRANK H. MARECKI
+[handwritten: Frank H. Marxcki]
+FRANK H. MARXCKI
 Major, USAF
-OID, Flt 1-C, 4602d AISS
+OTO, Fit 1-C, L602d AISS
 
 APPROVED:
-[Signature of John W. Meador]
+
+[handwritten signature]
 JOHN W. MEADOR
 Colonel, USAF
 Commander
 
-Five (See Individual Parts)
+File [handwritten: (See Individual Parts)]
 
-[Distribution information at bottom of page]
+DISTRIBUTION:
+Copy to Comdr, L602d AISS
+Copy to Comdr, AISS
+Copy to V.P., 27th Sig Div (Def)
+
+Copy to Comdr, L602d AISS
+Copy to OIO, Fit 1-C, L602d AISS
 
 UNCLASSIFIED
+[CLASSIFICATION]
 
+[stamp: DECLASSIFIED - authority review/Declassified]
 
 - page 11 -
 
-INFO BUPHQ/DIRECTOR OF INTELL HQTRSUSAF 25 D
+INFO RJWPB/DIRECTOR OF INTELL HQTRSUSAF 25 D C [handwritten: C.A. out [illegible] put [illegible], humbled & put before the...] (
 
 BT
 
-UNCLAS 6SOPS 018-Y PD UFOB PD 1.A.ROUND. B.BASKETBALL. C.WHITE.
+UNCLAS GSSOPS 010-Y PD UFOB PD 1.A.[circled: ROUND] B.BASKETBALL. C.WHITE.
 
 D.ONE. E.N/A. F.TWO LIGHTS ON BOTTOM-ALTERNATING. G.NONE. H.NO
-SOUND. 1.NO FUSELAGE, WINGS, OR TAIL. 2.A.UNKNOWN. B.45 DEGREES
+
+SOUND. I.NO FUSELAGE, WINGS, OR TAIL. 2.A.UNKNOWN. B.45 DEGREES
+
 N.W. AT SIGHTING. C.SAME AS 2B ABOVE. D.STRAIGHT AND LEVEL.
 
-E.GRADUALLY BLACKED OUT. F.FIVE, OR 5 X SECONDS. 3.A.GROUND-VISUAL.
-B.BINOCULARS. C.N/A. 4.A.04/0350Z. B.NIGHT. 5.BE3223 SYLMAR. 6.
-A. [ILLEGIBLE] AGE 40, [ILLEGIBLE], SYLMAR. PTONE
+E. GRADUALLLYBLACKED OUT. F.FIVE OR S [handwritten: Assume then, obj. at standby] (
 
-OCCUPATION UNK. B.[ILLEGIBLE] A/2C, OXNARD AFB. EST OF
-RELIABILITY UNK. 7.A.CLEAR. B.UNK. C.25 OVERCAST. D.20 MILES.
+[handwritten: [illegible] X SECONDS. 3.A.GROUND-VISUAL. [illegible]]
 
-E.TOTAL. F.NONE. 8.NONE. 9.NONE. 10.NONE. 11.SENIOR DIRECTOR,
-EDWARD E. MARTIN, 1ST LT. PROBABLY A LOW FLYING AIRCRAFT. 12.NONE.
+B.BINOCULARS. C.N/A. 4.A.04/03502. B.NIGHT. 5.BE3223 SYLMAR. 6.
 
-PD END
+A.[redacted] AGE 48,[redacted], SYLMAR. PTONE[redacted]
 
-04/1915Z MAR RWPJB
+OCCUPATION UNK. B.[redacted] A/2C, OXNARD AFB. EST OF
 
-[Handwritten notes on the side and bottom of the document]
+RELIABLITY UNK. 7.A.CLEAR. B.UNK. C.25 OVERCAST. D.20 MILES.
 
+E.TOTAL. F.NONE. G.NONE. 9.NONE. 10.NONE. 11.SENIOR DIRECTOR,
+
+EDWARD R. MARTIN, 1ST LT.PROBABLY A LOW FLYING AIRCRAFT. 12.NONE.
+
+PD END [handwritten: (1) Observed thru binoculars
+(2) Standing still
+(3) Dental check exam in [illegible] ?]
+
+BT
+
+04/1915Z MAR RJWPJB [handwritten: MJ Orgrad [illegible] N-N 45° ]
+
+[handwritten: N3 Winds a
+Velocities given] [handwritten diagram showing compass directions with "W" and "E" marked]
+
+[handwritten: [illegible] Reported ufo in mgs [illegible]
+St stood off hills [illegible] [illegible]]
+
+[handwritten: [illegible] possibly later]
 
 - page 12 -
 
-Here is the OCR text from the document:
+AF FORM 112—PART II
+APPROVED 3 JUNE 1954
 
-AF FORM 112-PART II                UNCLASSIFIED
+UNCLASSIFIED
+DECLASSIFICATION
+
 AIR INTELLIGENCE INFORMATION REPORT
 
-Flight 1-G, 4502d AISS                                    11-UFOB-21-67        PAGE 2 OF 13 PAGE
+FROM (Agency)                          REPORT NO. 13-UFOB-4-57
+                                       AI45-UFOB-44-57         PAGE 2    OF 13   PAGES
+Flight 1-3, L-2022 AFSS
 
-                                        PART ONE
+PART ONE
 
-I.    SOURCE:    Name [redacted]
-             Address [redacted] Drive, Oxnard, California
-             Age    36
-             Occupation    Housewife
-             Education    High School plus 2½ years of accounting
-             Qualifications    None
+I. SOURCE: Name          Ms [illegible]
+   
+   Address               [illegible] tro, Ouernarillo, California
+   
+   Age                   36
+   
+   Occupation            Housewife
+   
+   Education             High School plus 2½ years of accounting
+   
+   Qualifications        None
 
-II.   RELIABILITY: SOURCE, wife of a UNITED STATES AIR FORCE captain who
-was a Staff Judge Advocate, was very cooperative although seemingly concerned about
-being ridiculed because of reporting the sighting. SOURCE seemed above average in
-intelligence. SOURCE answered all questions unhesitatingly and without hesitation. Some-
-times answers given were very general and not at all specific.    SOURCE reached con-
-clusions quickly without a great deal of reasoning. SOURCE indicated that she was not
-interested by a late reference.    SOURCE was positive she had seen something.
+II. RELIABILITY: SOURCE, wife of a UNITED STATES AIR FORCE captain who was a Staff Judge Advocate, was very cooperative although concerned about being ridiculed because of reporting the sighting. SOURCE named gives average in intelligence. SOURCE answered all questions quickly and without hesitation. Some answers given were very general and not at all specific. SOURCE possessed considerable sense of humor regarding a judgment. SOURCE added to expressions of a personal or professional nature many contradictions, essentially tying in which certain events had taken place and the timing thereof. SOURCE had made a sketch of the object during the sighting trip had misplaced it so that it was not available during the interview. SOURCE seemed excitable and possibly a little "high". On nine of significant her young daughter had been slightly ill, and SOURCE was possibly a little upset as her husband was away on TDY. SOURCE talked at using certain colors when describing the object and her interview. SOURCE was alert and had good powers of concentration. In view of the foregoing the information given below may be considered possibly reliable.
 
 III. SOURCE'S DESCRIPTION OF SIGHTING AND EVENTS:
 
-1.    At approximately 0715-½=2375 SOURCE arose from bed to answer the tele-
-phone. While on the phone SOURCE observed an unusual green object in the northeast
-sky at about ten (10) degrees above the horizon. The green object glowed fluor-
-escently and was brighter than the surrounding stars.
+1. At approximately 23/0182 MAR 57 SOURCE arose from bed to answer the telephone. While on the phone SOURCE observed an unusual green object in the northeast sky about ten (10) degrees above the horizon. The green object glowed fluorescently and was brighter than the surrounding stars.
 
-2.    SOURCE described the object as being round, but changing shape occasionally
-(see incl #2) to that resembling a helicopter. Object was estimated to be about
-two and one half (2½) feet in diameter. SOURCE stated that at one time it appeared
-to be about the size of a quarter held at arm's length and at another time stated
-it appeared about the size of a silver dollar held at arm's length. Object seemed
-to throb and pulsate. There was no sound. Object was sharly defined. Object
-alternately had and did not have a tail. A shiny aluminum-like pole appeared at
-times on top of the object. Object was seen to move at great speed and also to
-remain stationary. Sometimes it jumped around. The object gave off no smoke and
-did not appear to change brightness.
+2. SOURCE described the object as being round, but changing shape occasionally (see incl #2) to that resembling a helicopter. Object was estimated to be about 20 and one-half (20½) feet in diameter. SOURCE stated that at one time it appeared to be about the size of a quarter held at arm's length and at another time stated it appeared about the size of a dime held at arm's length. Object seemed to throb and pulsate. There was no sound. Object was sharply defined. Object alternately had and did not have a tail. A shiny aluminum-like pole appeared at times on top of the object. Object was seen to move in a semi-smooth and also to remain static. Sometime it jumped around. The object gave off no smoke and had a green or orange luminescence.
 
-3.    SOURCE described the glow from the object as projecting downward only.
-SOURCE stated that the definitely flat and thin surface and compared the im-
-pression of the flow to that created by blackout paint.
+3. SOURCE described the glow from the object as projecting downward only. SOURCE stated that while initially the glow definitely did not shine upward and compared the impression of the glow to that created by blackout paint.
 
-4.    At approximately 23/0725 MAR 57 SOURCE telephoned the Officer of the Day,
-a personal friend, at OXNARD AFB and was told the sighting.
+4. At approximately 23/0732 MAR 57 SOURCE telephoned the Officer of the Day, a personal friend, at OXNARD AFB and reported the sighting.
 
-[UNCLASSIFIED stamp at bottom]
+[stamp: THIS DOCUMENT CONTAINING INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C. - 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.]
 
+UNCLASSIFIED
+DECLASSIFICATION
 
 - page 13 -
 
-Here is the text from the document:
+AF FORM 112--PART II
+AIR-TO-GO 1 JUNE 1943
 
-AF FORM 112—PART II                                  UNCLASSIFIED
-APPROVED JUNE 1948
+UNCLASSIFIED
+CLASSIFICATION
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM (G. Group)                                 REPORT NO.    10-UFOB-3-57        PAGE   3   OF   13   PAGES
-Flight 1-G, 4602d AISS                          ATSS-UFOB-64-57
+FROM (Agency): | REPORT NO: 3-UFO8-1-57 | PAGE 3 OF 13 PAGES
+Flight 1-C, 16024 AFSS
 
-5. At about 23/0930z MAR 57 SOURCE observed two smaller red objects to the northwest of the green object and below the horizon formed by the LOS PASOS hills to the northwest. The observation point was a half mile east of the LOS PASOS hills. The red objects were aligned horizontally and seemed to be jumping around. One object was continuously behind some trees about 500 yards away from the observation post and in front of the LOS PASOS hills which were about one and a half miles away. At this time both the red object and the two (2) red objects seemed to dip around. Upon arrival of interceptors from CVEAE AFB the red objects again were seen above and away in a direction up and to the east.
+5. At about 2370030Z MAR 57 SOURCE observed two smaller red objects to the northeast of the green object and to the south formed by about 103 degrees to the northeast of the observation point. The red objects were aligned horizontally and seemed to be jumping around. One object was continuously behind some trees about five hundred (500) yards away from the observation post and in front of the LOS PASOS Hills which were about one and a half miles away. At this time both the green object and the two (2) red objects seemed to jump around. From several of interceptors from OXNARD AFB the red objects joined the green object and sped away in a direction up and to the east.
 
-6. SOURCE made these observations from the kitchen of her home and also from the back porch. No optical instruments were used during the sighting. See Incl 4.
+6. SOURCE made these observations from the kitchen of her home and also from the back porch. No optical instruments were used during the sighting. See Incl #1.
 
 7. See Incl #3 for Statement by SOURCE.
 
@@ -473,212 +601,261 @@ Flight 1-G, 4602d AISS                          ATSS-UFOB-64-57
 2. Green Object
 3. Statement of SOURCE
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED
+CLASSIFICATION]
 
+16--MAR70-1 S. F. GOVERNMENT PRINTING OFFICE
 
 - page 14 -
 
-Here is the text from the document:
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
 
 UNCLASSIFIED
+[CLASSIFICATION]
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM Flight 1-G, 4602d AISS
-Incl #1, Rept 10-1-FOB-1-57
-Flight of Objects
-(SOURCE'S Memory Sketch, retouched)
+FROM: [illegible]                          REPORT NO.: O-T-UOB-1-57
+                                          AI95-UPOB-64-57
+Flight 1-D, USAF AI35                     PAGE 4 OF 13 PAGES
 
-REPORT NO 10-1-FOB-1-57
-A103-UFOB-64-57
+Incl./1, Rept 10-T-UOB-1-57
+"Flight of Objects"
+(SUBRONIS Memory Sketch, Retouched)
 
-PAGE 4 OF 13 PAGES
+[DIAGRAM showing side view of elongated object with multiple smaller oval shapes arranged vertically along top portion, labeled with "NE" on right side, and below it two circular/irregular shapes with jagged edges]
 
-[Handwritten note: 14]
-
-[Diagram with various lines, angles, and circular shapes with numbers]
-
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 18 U.S.C.
-SECTIONS 793 AND 794. THE TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
-IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, OTHER THAN WITH SPECIFIC AREAS AS FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
-INTELLIGENCE.
+NOTE: THIS SKETCH CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT AND ITS CONTENTS IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
 UNCLASSIFIED
-
+[CLASSIFICATION]
 
 - page 15 -
 
-Here is the text from the document:
-
-AF FORM 112-PART II
-UNCLASSIFIED
+AF FORM 112—PART II                    UNCLASSIFIED
+APPROVED 1 JUNE 1948                           (DECLASSIFICATION)
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-Flight 1-3, 1602d AISS
-Incl #2, Rept 12-1F08-1-57
-(Green Chojnee (Gifford's Memory Sketch, retouched))
+FROM (SOURCE)                          | REPORT NO. 10-FOB-1-57              PAGE  5    OF  13   PAGES
+Flight 1-8, MODA ATSS                  | NISS-UFOB-64-57
 
-Pt.#1. "G-ing" pole, not continually visible
-Pt.#2. Body of object
-Pt.#3. Lift pars sinking down
+Incl #2, Rept 10-1 FOB-1-57
+Green Object (S/UFOB's Memory Sketch, reductted)
 
-[The document also contains a hand-drawn sketch of an object with annotations pointing to different parts of the drawing]
 
-At the bottom of the document, there is a note:
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+Pt.#1. "Shiny" hole, not continually visible
+Pt. #2. Body of object
+Pt. #3. Light rays shining down
 
-The document is marked "UNCLASSIFIED" at the top and bottom.
 
+[Drawing of an elongated oval or teardrop-shaped object with a thin vertical line at top (labeled 1), a rounded bulbous section (labeled 2), and approximately 10-12 vertical lines beneath it representing light rays (labeled 3)]
+
+
+NOTE THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C. 21 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+
+UNCLASSIFIED
+(DECLASSIFICATION)
 
 - page 16 -
 
-Here is the text from the document:
+AF FORM 112-PART II
+APPROVED 1 JUNE 1953
 
-AF FORM 112-PART II                                  UNCLASSIFIED
+[stamp: UNCLASSIFIED (CLASSIFICATION)]
+
 AIR INTELLIGENCE INFORMATION REPORT
 
-Flight 10, 4608th AISS                    REPORT NO. 10-UFOB-1-57     PAGE 6 OF 13 PAGES
-                                           AID-UFOB-64-57
+FROM (Source)                                  FLIGHT NO. 13-FOB-1-57              PAGE 6 of 13 PAGES
+Flight 1-8, 460224 MISS            AIO3-UFOB-64-57
 
-Incl #3, Part One, Rept 10-UFOB-1-57
+Incl #3, Part One, Rept 13-UFOB-1-57
 Statement by SOURCE
 
 STATEMENT
 
-At about 11:15 P.M. 22 Mar. '57 Capt Linsley telephoned my home - I had just gone to bed. Answered MY phone which is so located in our kitchen that in using it I look out the kitchen window facing East. I told Capt. Linsley "I'm sure I'm seeing my first flying saucer. Really ____" - He hung up and I called Conway Air Base at Oxnard. Capt. Linsley's suggestion. I watched the original 'green' light and subsequently (sic) 2 red objects (1 thus) from 2 East windows until the green (sic) arrived. I took an azimuth on the 130 A.M. I talked on the phone most of the 2 hrs. interval to the O.D. at the Base - describing all the antics the green light performed and later the arrival of the 2 red lights. Sgt. (sic) arrived, talked on the phone - we all watched & looked until 3:30 AM, Mar 23, 1957.
+At about 11:15 P.M. 22 Mar. '57 Capt Linsley telephoned my home - I had just gone to bed. Answered my phone which is so located in our kitchen that in using it I look out the kitchen window facing East. I told Capt. Linsley "I'm some I'm again: my first flying saucer. Really, we're here, I'll call her" - We hung up and I called Capt Linsley back at Capt. Linsley's suggestion - Capt L watched the original green light and subsequently (sic) 2 rod objects (lights) from 2 East windows until they disappeared (sic) found our house and arrived at 1:30 AM. I talked on the phone much of the 2 hr interval to the O.D. at the Base - describing all the antics the green light performed and later the arrival of the 2 red "midgets". The wording (sic) arrived, talked on the phone - we all watched a locked until 2:30 AM, Mar 23, 1957.
+
+[redacted section]
 
 TRUE COPY
 
-[Signature of Richard A. Holm]
-RICHARD A. HOLM
-Capt, USAF
+[handwritten: Richard A. Helm]
+RICHARD A. HELM
+Maj, M-I, USAF
 Certifying Officer
 
-[UNCLASSIFIED stamp at bottom of page]
-
-Note: The document contains a standard disclaimer about handling of sensitive information.
-
+[stamp: UNCLASSIFIED (CLASSIFICATION)]
 
 - page 17 -
 
-Here is the OCR text from the document:
-
-UNCLASSIFIED
 AF FORM 112-PART II
+APPROVED 1 JUNE 1949
+
+[stamp: UNCLASSIFIED]
+
 AIR INTELLIGENCE INFORMATION REPORT
 
-Flight 1-G, 46024 AISS                 REPORT NO. 10-UFO3-1-57                PAGE 7 OF 13 PAGES
+[Header section with fields:]
+Flight 1-D, 14A024 A135 | REPORT NO 30-TIO3-1-57 | PAGE 7 OF 13 PAGES
+                        | AISS-UFO8-64-57    |
 
 PART TWO
-SUPPLEMENTARY INVESTIGATIVE REPORTS
 
-1. 1st Lt Leonard E. Ott, Officer of the Day on the night of 22, 23 March 1957 at OXNARD AFB, CALIFORNIA, was contacted and a statement from him received. See Incl #2.
+SUPPLEMENTARY INVESTIGATIVE EFFORTS
 
-2. The 669th Aircraft Control and Warning Squadron located on SANTA ROSA ISLAND, mailing address PORT HUENEME, CALIFORNIA, was contacted and the controller on duty on the night of 22, 23 MAR 57 furnished the following information. 1st Lt Donald R. Martin, two (2) years experience at the station, said that the station was operative during the entire time of sighting. Only one paint was noted at 0252, or five (5) hours before the sighting was reported. The paint was noted only once, held for five (5) minutes, then dropped. No other paint was recorded during the night although Lt Martin stated that this A & W site does not normally pay much attention to overland activity bearing in mind the proximity of heavy traffic. Vectored aircraft had reported no contact with the object.
+1. 1st Lt Leonard B. Ott, Officer of the Day on the night of 22, 23 March 1957 at OXNARD AFB, CALIFORNIA, was contacted and a statement from him received. See Incl #2.
 
-3. A check with Base Operations, OXNARD AFB, disclosed the following: Two (2) F-89 type aircraft, OXNARD based, were returning from a flight in the OXNARD, CALIFORNIA, area at about 23/0302 MAR 57 when informed by the controller of the 669th AC & W Squadron at the objects in the CAMARILLO area, vectored to the area of the sighting. A search from one thousand (1000) feet on up was conducted. Aircraft returned and landed at base and no further action was taken.
+2. The 669th Aircraft Control and Warning Squadron located on SANTA ROSA ISLAND, mailing address from FLINDER, CALIFORNIA, was contacted on duty on the night of 22, 23 MAR 57 furnished the following information: 1st Lt Edward E. Martin, two (2) years experience at the station, said that the station was operative during the entire time of sightings. Only one paint was noted that night, at 0215Z, or five (5) hours before the sighting was reported. The paint was noted only once, held two (2) minutes, then dropped. No other paints were noted during the night although Lt Martin stated that this AC & D site does not normally pay much attention to overland activity being primarily interested in over-water, inbound traffic. Personnel also reported no contact with the object.
 
-4. A check with Detachment 9, 4th Weather Squadron at OXNARD AFB revealed the following:
-[Wind table with altitudes and degrees]
+3. A check with Base Operations, OXNARD AFB, disclosed the following: Two (2) F-89 type aircraft, OXNARD based, were returning from a flight in the LOS ANGELES, CALIFORNIA area on 23/0300 MAR 57 when informed by the controller of the 669th AQ & W Squadron of the objects in the CAMARILLO area. Aircraft were then vectored to the area of the sighting. A search from one thousand (1000) feet up was conducted. Aircraft reported neither a visual nor a radar sighting. Aircraft returned to base and no further action was taken.
 
-Temperature at 23/0902 MAR 57 at the weather station was 43 degrees. Moonrise was at 23/0911E MAR 57. There was no cloud cover and visibility was unlimited. There was a shallow surface temperature inversion extending over one thousand (1000) feet.
+4. A check with Detachment 9, 14th Weather Squadron at OXNARD AFB revealed the following:
 
-5. Detachment 2, 1071st Ground Observer Corps, Pasadena Filter Center at PASADENA, CALIFORNIA, was contacted and the following information was received: The filter center received a telephone call from an Airman Delaney, an Aircraftsman, at the main gate at OXNARD AFB, reporting the object in the CAMARILLO area. Airman Delaney did not see the object and was simply making the call at the request of the observer.
+Winds:  Surface          variable         5 kts
+        6000 ft          050 degrees      10 kts
+        10000 ft         215 degrees      50 kts
+        16000 ft         235 degrees      50 kts
+        20000 ft         325 degrees      55 kts
+        30000 ft         315 degrees      70 kts
+        50000 ft         275 degrees      60 kts
+        60000 ft         Unk              Unk
+
+Temperature at 23/0900Z MAR 57 at the weather station was 43 degrees. Moonrise was at 23/0915Z MAR 57. There was no cloud cover and visibility was unlimited. There was a shallow surface base temperature inversion around one thousand (1000) feet.
+
+5. Detachment 2, 477lst Ground Observer Corps, Pasadena Filter Center at PASADENA, CALIFORNIA, was contacted and the following information received: The Filter number received a telephone call from an alleged Observer, a line-lineman on duty at the main gate at OXNARD AFB, reporting the object in the CAMARILLO area. When informed of the activity and was simply taking the call at the request of the Sightings Supervisor at Fort MacArthur. The Filter number received no unusual sighting reports from the CAMARILLO area on the night of the sighting.
 
 6. The observatories at MT WILSON and MT PALOMAR, CALIFORNIA, were contacted and a report of no unusual activity received.
 
-[Unclassified marking at bottom of page]
-
+[Footer stamp: UNCLASSIFIED]
 
 - page 18 -
 
-Here is the OCR text from the document:
+AF FORM 112—PART II
+APPROVED 31 JUNE 1948
 
-AF FORM 112—PART II                 UNCLASSIFIED
+UNCLASSIFIED
+[DECLASSIFICATION]
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+[FIRST LEGEND]                                    REPORT NO.: [illegible]-57
+Flight 1-3, 1502d A1SS                           AI90-UFOB-44-57                PAGE 8 OF 13 PAGES
+
+7. Traffic Officer Robert E. Reed of the California Highway Patrol, VENTURA, CALIFORNIA, was following information: A supersonic [illegible] MAR 57 he received a report from OXNARD ASD on the unusual sighting. Traffic Officer Reed along with Traffic Officer Daniel [illegible] proceeded to the USAF area but missed the turn-off on Barbara Drive. They continued into OJAI, VENTURA, and turned east toward U.S. 101. While there they saw what Reed described as a cylinder sitting in a field on the LKATON Ranch. The traffic officers found no one at home at the LKATON Ranch and proceeded out to the field where they found a barn with one (1) small opening on the (4) corner. Reed reported to him by radio a station at VENTURA and then back-tracked until they found the SCURF'S home on Barbara Drive. From parts of the following information in the area traffic officers Reed and Calif with other officers (See below) attempted to vector the F-86's to the immediate area of the observation point by flashing their spot light into the air. This was unsuccessful. During the entire time the traffic officers found and Calif were in the area two additional unkown. The objects in question as point-ed out to the traffic officers by the traffic men were identified by the traffic officers simply as stars with only the normal movement of stars rise in the eastern sky. Traffic Officers Reed and Calif left the area at approximately 23/1002Z MAR 57.
+
+8. Traffic Officer Robert H. Winter and Traffic Officer James F. Willson of the California Highway Patrol, VENTURA, CALIFORNIA, also responded to investigate the sighting and also trailed the team with the red light on it. They arrived at the USAF Ranch on approximately 24/0150Z MAR 57. They then proceeded to Barbara Drive arriving at 23/0915Z MAR 57. Traffic Officers Winter and Willson also participated in the unsuccessful attempt to vector the F-86 interosptors to the area by spot flashing. They reported seeing nothing unusual. There was no unusual sound or movement. The night was extremely clear and cool. Traffic Officers Winter and Willson were positive there were only stars present and a little later the moon. They left the area at approximately 23/1000Z MAR 57.
+
+9. Sgt Earl Watson of the California Highway Patrol, VENTURA, CALIFORNIA, was not available for interview but his superior, Captain Howard Marsh, of the California Highway Patrol, VENTURA, CALIFORNIA, had received the report on the sighting from Sgt Watson. Captain Marsh said that Cpt Watson[A report-corrobated the statements of the reports submitted by Traffic Officers [Reed], [Calif], [Wilson] and [Winter])
+
+10. Deputy Sheriff Nickel Rouce of the Ventura County Sheriff's Office was contacted and he submitted the following information: At 23/0757Z MAR 57 we arrived at SCURF'S residence located on Barbara Drive observed from all but an immediate area nothing unusual. He classified the objects reported by the SCURF as nothing but stars rising in the eastern sky at their normal rate. He described the weather as extremely clear, chilly, cloudless with the moonlight at about 23/0920Z MAR 57. There was a glow in the eastern sky from the North American Rockitdyne Plant at Santa Susana, and [illegible] 2050 but Deputy Rouce said that it was not bright enough to affect the visibility to the northeast.
+
+11. Mr. Beatty, astronomer at San Bernardino Valley College, SAN BERNARDINO, CALIFORNIA, supplied the following information: A bright star, ALTURUS, was present in the southwestern sky slightly below a forty (40) degree elevation DURING the time of the sighting. Two (2) lesser stars, POLLIX and [illegible] possibly [illegible] a reddish appearance, were also present in the northeastern sky just above the horizon at the time of the sighting. This information was taken from his files and the stars were not actually observed visually from the observatory during the night of the sighting.
+
+THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31-32. THE TRANSMISSION OR REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+
+INTELLIGENCE LEAK
+
+UNCLASSIFIED
+[DECLASSIFICATION]
+
+13-227161      U.S. GOVERNMENT PRINTING OFFICE
+
+- page 19 -
+
+AF FORM 112-PART II
+APPROVED 1 JUNE 1949
+
+UNCLASSIFIED
+[stamp: DECLASSIFICATION]
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+REPORT NO. 10-1-FC2-1-57
+Flight 1-D, W024 AISS                                AIW3-UFO9-4-57                PAGE 9 OF 13 PAGES
+
+12. The North American Rockwell Plant at OMAR, CALIFORNIA, reported no unusual activity at the plant during the night of 22, 23 March 1957.
+
+13. Deputy Sheriff Sagura of the Ventura County Sheriff's Office was also contacted but he stated that he had not taken an active part during the sighting. He was on duty as the switchboard operator at the Sheriff's Office in VENTURA, CALIFORNIA.
+
+14. No physical evidence was found.
+
+15. See Incl #1 for sketch of area of sighting and location of LAYTON Ranch.
+
+[handwritten: [illegible] 1-1 [illegible] [illegible] H OFF]
+
+[stamp: UNCLASSIFIED]
+
+- page 20 -
+
+[stamp: UNCLASSIFIED]
+
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-Flight 1-3, 46024 A135                                     ATCS-UFOB-44-57        PAGE 8 OF 13 PAGES
+[PDM LISTING]
 
-7. Traffic Officer Robert E. Reed of the California Highway Patrol, VENTURA, CALIFORNIA, gave the following information: At approximately 23/0810Z MAR 57, he received a report from OXNARD AFB on the unusual sightings. Traffic Officer Danilo Chalif proceeded to the CHATILL area but was unable to contact anyone. Later on 23/0810Z MAR 57, he went beyond the LOS PASOS hills where they saw what they described as a few luminous spots moving at high altitude. The traffic officer then proceeded to the LAWTON Ranch and proceeded out to the field where they found a beacon station at VENTURA and a radar site. Upon checking, they found the SOURCE's home on Barbara Drive. Upon arrival of the MSQ interceptors in the area traffic officers Reed and Chalif were at the traffic officers (See below) attempting to vector the F-89 to a point in the immediate area of the observation point by flashing their spot lights. This was unsuccessful. During the entire time, the traffic officers Chalif were in the area they saw the objects in question simply as stars with only the normal movement of their rise in the eastern sky.
+Flight 1-G, 4502d AISS                                    REPORT NO.                PAGE 10 OF 13 PAGES
+                                                          10-UFOB-1-57
+                                                          ATIS-UFOB-54-57
 
-8. Traffic Officer Robert H. Winter and Traffic Officer James F. Wilson of the California Highway Patrol, VENTURA, CALIFORNIA, also received orders to investigate the sighting and also found the barn at the LAWTON Ranch at about 23/0420 MAR 57. They then proceeded to Barbara Drive arriving at 23/0915Z MAR 57. Traffic Officer Winter also participated in the unsuccessful attempt to vector the F-89 interceptors to the area by spot lights. They reported seeing nothing unusual. There was no unusual sound or movement. The night was extremely clear and cool. Traffic Officers Winter and Wilson were positive that there were only stars present and a little later the moon. They left the area at approximately 23/1000Z MAR 57.
-
-9. Sgt Earl Watson of the California Highway Patrol, VENTURA, CALIFORNIA, was not available for interview but his superior, Captain Howard Marsh, of the California Highway Patrol, VENTURA, CALIFORNIA, had reviewed the report on the sighting from Sgt Watson, Captain Marsh confirmed the contents of the reports submitted by Traffic Officers Reed, Chalif, Watson and Winter.
-
-10. Deputy Sheriff Nickel Rouce of the Ventura County Sheriff's Office was contacted and he submitted the following information: At 23/0757Z MAR 57 he arrived at SOURCE's residence. There was nothing unusual. He witnessed the objects in the eastern sky at their normal rate. He described the weather as extremely clear. Chilly, cloudless with the normal temperature at about 23/0500 MAR 57. There was a glow in the eastern sky from the North American Rocket time plant. At 23/1135Z MAR 57, but Deputy Rouce said there was a bright enough glow to affect the visibility to the northeast.
-
-11. Mr. Beatty, astronomer at San Bernardino Valley College, SAN BERNARDINO, CALIFORNIA, applied the following astronomical information: A brief star chart (MSL) showed elevation during a reddish appearance, was also present in the northeastern sky just above the horizon at the time of the sighting. This information was taken from his files and the stars were not actually observed visually from the observatory during the period of the sighting.
-
-UNCLASSIFIED
-
-
-- page 19 -
-
-AF FORM 112—PART II                                  UNCLASSIFIED
-AIR INTELLIGENCE INFORMATION REPORT
-
-FROM:    Flight 1-6, 4602d AISS                    REPORT NO. 10-11 TCB-1-57        PAGE   9   OF   13   PAGES
-
-12. The North American Rocketdyne Plant at SIMI, CALIFORNIA, reported no unusual activity at the plant during the night of 22, 23 March 1957.
-
-13. Deputy Sheriff Segura of the Ventura County Sheriff's Office was also contacted but he stated that he had not taken an active part during the sighting. He was on duty at the switchboard operator at the Sheriff's Office in VENTURA, CALIFORNIA.
-
-14. No physical evidence was found.
-
-15. See Incl #1 for sketch of area of sighting and location of LAWSON Ranch.
-
-[Handwritten note at bottom appears partially illegible]
-
-At bottom of page is a classification marking "UNCLASSIFIED" and a standard disclaimer about transmission of document contents.
-
-
-- page 20 -
-
-Here is the text from the document:
-
-AF FORM 112-PART 11
-APPROVED 1 JUNE 1958
-
-UNCLASSIFIED
-
-AIR INTELLIGENCE INFORMATION REPORT
-
-Flight 1-G, 4602d AISS                                     ATS-UGRB-24-57                     PAGE 10 OF 13
-
-Incl #1, Part Two, Rept 10-MFOB-1-57
+Incl #1, Part Two, Report 10-UFOB-1-57
 Sketch of Area of Sighting by Investigator
-Overlay of Geological Survey Map, California, Camulos Quadrangle, Scale: 1:125000
+Overlay of Geological Survey Map, California, Camilos Quadrangle, Scale: 1:125000
 
-[The rest of the text appears to be on the left side of the document and includes some contact or reference information, but it is partially illegible due to the image quality]
+[MAP DESCRIPTION: A geological/topographical sketch showing a coastal area with contour lines indicating elevation changes. The map includes numbered locations (1-6) marked with circles and letters, a scale indicator marked "X 8" and coordinate markers, and directional indicators showing North (Z) at the bottom right. The map appears to show the coastline on the right side (marked with hatching) and inland terrain on the left side.]
 
-At the bottom of the document, it states:
+[Text elements visible on left margin of map, reading vertically:]
+Pt. #1
+Pt. #2
+Pt. #3
+Pt. #4
+Pt. #5
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.,
-SECTIONS 793 AND 794. THE TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+[Additional text on left side - appears rotated:]
+Condition Reported
+Southern Pacific Railroad
+Sighting Locations
+Santa Maria River Area
+Subject Time Frame
+[illegible text]
 
-And at the very bottom:
+[Bottom margin text - partially legible, rotated:]
+Pt. #1: 28
+Pt. #2: 47
+Pt. #3: 28
+Pt. #4: 48
+Approx. 8 to 10 Minutes of time
+Landcam Headed
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
+U.S. GOVERNMENT PRINTING OFFICE
 
 - page 21 -
 
-Here is the OCR text from the document:
+AF FORM 112—PART II
+AAFROM 3 JUNE 1953
 
-AF FORM 112-PART II
 UNCLASSIFIED
+(CLASSIFICATION)
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-Flight 1-9, 4502d ATSS                Report No. 10-F FOB-1-57     Page 11 of 13
-Incl #2, Part Two, Rept 10-UFOB-1-57
-Statement by OD
+FROM (Origina)
+
+Flight 1-D, 460d AISS
+
+REPORT NO. 10-FOJ-1-57
+AISS-UFO3-64-57
+
+PAGE 11 OF 13 PAGES
+
+Incl #2, Part Two, Rept 12-UFOB-1-57
+Statement by CD
 
 STATEMENT
 
@@ -686,234 +863,315 @@ REPORT ON UNIDENTIFIED FLYING OBJECTS
 
 22/23 March 1957
 
-I received a report from Mrs. [redacted] (Captain [redacted] wife) at approximately 2320 hours 23 March 1957 that she had sighted an unidentified object in the sky due Northeast of her home on Barbara Drive in Camarillo.
+I received a report from Mrs [REDACTED] (Captain [REDACTED] wife) at approximately
+2320 hours 23 March 1957 that she had sighted an unidentified object in the sky due
+northeast of her home on Barbara Drive in Camarillo.
 
-I had no reason to question her veracity; however, I did joke with her for a few minutes as to want she had been thinking. She became most indignant, stating that a large green iridescent object approximately the size of a plastic cabin on a helicopter was orbiting and moving Northward of her home. She further stated that it seemed to be hovering over the North American plant at Simi.
+I had no reason to question her veracity; however, I did joke with her for a
+few minutes as to what she had been drinking. She became most indignant, stating
+that a large green iridescent object approximately the size of a plastic cabin on
+a helicopter was orbiting and joyriding Northeast of her home. She further stated that
+a similar one had reported one in the North American plain.
 
-I explained to her how temperature inversions can cause reflections and weird optical effects, and she conversation was terminated. Five minutes later, at approximately 2330 hours, I received another call from Mrs. [redacted]. This time she stated that two red lights and green light were coming past it horizontally at tremendous velocities.
+I explained to her how temperature inversions can cause reflections and weird
+optical effects, and the conversation was terminated. Five minutes later, at approximately 2330 hours, I received another call from Mrs [REDACTED]. This time she
+stated that two red lights had joined the green light and were zooming past it
+horizontally at tremendous velocities.
 
-I then called ART and asked if they were painting anything in that particular area. Lt Martin (Director at ART) reported affirmatively that they had a stationary object in an approximately 20 mile area testmapped by Mrs Beauclaire. He stated that it was not a normal stationary object.
+I then called ART and asked if they were painting anything in that particular
+area. Lt Martin (Director at ART) reported affirmatively that they had a stationary
+object in approximately the area designated by Mrs Beaudoin. He stated that it was
+not a normal stationary object.
 
-I then called [redacted] and asked if she still saw the object. She stated that the green object was now moving high (she swished her degrees off the horizontal due Northeast). At this time, she became very frightened, stating that the two red objects were on the deck and approaching very slowly. She asked that I call the local authorities and obtain help.
+I then called Mrs [REDACTED] and asked if she still saw the object. She stated
+that the green object was hovering high (she estimated 45 degrees off the horizontal
+due northeast). At this time, she became very frightened, stating that the two red
+objects were on the back and approaching very slyly. She asked that I call the local
+authorities and obtain assistance.
 
-I was unable to contact the highway patrol due to some operator in the Oxnard exchange, so contacted the Ventura County Sheriff's office instead. They had a car in the area, and contacted it by radio. The Deputy in the car reported that he had also sighted the object and contacted another unit in Camarillo. This unit also reported the same object.
+I was unable to contact the Highway patrol due to some operator in the Oxnard
+exchange, so contacted the Ventura County Sheriff's office instead. They had a car
+in the area, and contacted it by radio. The Deputy in the car reported that he had
+also sighted the object and contacted another unit in Camarillo. This unit also
+reported the same object.
 
-In the meantime, the Sheriff's office contacted the Highway Patrol, who dispatched a vehicle to the area. I arranged a conference call between the Sheriff, the Highway Patrol, and myself. All routes within the sighting and converged on Mrs. [redacted] residence. The Highway Patrol reported a red object to a light was on a field on the Lewton Ranch and requested two more cars to help him investigate. This turned out to be a barn with red clearance lights on it.
+In the meantime, the Sheriff's office contacted the Highway Patrol, who dispatched a vehicle to the area. I arranged a conference call between Mrs [REDACTED],
+the Sheriff, the Highway Patrol, and myself. All police units reported the sighting
+and conversed on Mrs [REDACTED] residence. The Highway Patrol reported a red object
+or light was sitting in a field on the Leyton Ranch and requested two more cars to
+help him investigate. This turned out to be a barn with red overhead lights on
+the roof.
 
-The Sheriff's department, meantime, had a car at Mrs. [redacted] Deputy Sheriff Segura and Rauch (sic) confirmed Mrs. [redacted] report in every detail. The objects were 2 to 3 miles (sic) from ground, at an altitude of (sic) the horizon of about 20 degrees, and constantly changing altitude. The red objects were extremely low, and the green object extremely high. ART called and
+The Sheriff's department, meantime, had a car at Mrs [REDACTED] Deputy Sheriffs
+Sagura and Nausel (sic) confirmed Mrs [REDACTED] report in every detail. The objects
+had by then multiplied to one green and five red objects. All were in motion in an
+arc of (sic) the horizon of about 20 degrees, and constantly changing altitude. The
+red objects were strangely low, and the green object extremely high. ART called and
 
-[Note: The bottom of the document contains a standard classification marking "UNCLASSIFIED"]
+[stamp: UNCLASSIFIED]
 
+---END OF PAGE---
+FS-36754 U.S. GOVERNMENT PRINTING OFFICE
 
 - page 22 -
 
-Here is the text from the document:
+[handwritten: 50441]
 
-50187
+[handwritten: 3    04/05/58    03035-7-A]
 
-4 MAR 57 15 32
+[handwritten: Multi]
+ATIC
+4 MAR 57 !5 32
 
-WPHO97ST WPE641 YDDO42 XYA143 XDC044WJBA051JBE002
+[handwritten: 75]
+[handwritten: 3/4E4]
+[handwritten: 3/4x2A]
+[handwritten: (circled)]
+
+WPH@7ST VPEB41 YDD842 XYA143 XDCE44VJBA@51JBE@02
 
 PP RJEDEN RJEDWP RJEPHQ
+
 DE RJWPJB 2E
-P64190002
 
-FM COMDR 669 ACWRON PORHUE CALIF
-TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLORADO
+P@419802
+
+FM COMDR 665 ACWRON PORHUE CALIF
+
+TO RJEDEN/COMDR ADC ENT AFE COLORADO SPRINGS COLORADO
+
 RJWPJB/COMDR 27 ADIV DEF NORTON AFB CALIF
-RJEDWP/COMDR AIR TECH INTELL CENTER WRIGHT PATTERSON AFB OHIO
 
+RJEDWP/COMDR AIR TECH INTELL CENTER WRIGHT PATTERSON AFE OHIO
+
+[handwritten: physical to...]
 
 - page 23 -
 
-UNCLASSIFIED
-
 AF FORM 112—PART II
+APPROVED JUNE 1948
+
+UNCLASSIFIED
+(CLASSIFICATION)
+
 AIR INTELLIGENCE INFORMATION REPORT
 
-Flight 1-9, 46028 AISS                     Report No. 19-UFO-64-57        Page 12 of 13
+[Box with fields:]
+[illegible]
+Flight 1-2, 16021 AISS | REPORT NO. 10-F-FOB-4-57 | PAGE 12 OF 13 PAGES
+                        | AIS3-UFOB-64-57 |
 
-stated that they h d a scramble underway and would ask the aircraft to check the area
-upon their return.
+stated that they had a scramble underway and would ask the aircraft to check the area upon their return.
 
-AEF vectored the aircraft into the area and an attempt was made to orient them
-from the ground of police at Mro and the aircraft. This was unsuccessful
-and the aircraft had to return to base due to lack of fuel. ISLAND then called and
-wanted a complete report, which I furnished them. They evidently had a report from
-the OCC. Two Navy aircraft were scrambled and AEF turned control of them over to
-the USAF. At 1800 hrs at the alert, another aircraft were vectored into the same
-area, and then controlled by sight and sound by the group at Mro, relayed
-over the radio at the alert center.
+AFT vectored the aircraft into the area and an attempt was made to orient them from the ground of police at Mrs. [REDACTED] on the ground. This was unsuccessful and the aircraft had to return to base due to fuel. IILAND them called and wanted a complete report, which I furnished them. They evidently had a report from the SCO. Two Navy aircraft were scrambled and jet turned over to LTC DETORE ULIANO here at the alert center. These aircraft were vectored into the area, and then controlled by sight and sound by the group at Mrs. [REDACTED] relayed over two radios on the alert center.
 
-Although on several occasions (sic) the ground observers (sic) reported the
-aircraft close to the objects, no contact was made by the air crews. It developed
-at one time, though, that the objects accelerated vertically at tremendous velocities
-when the aircraft approached them. The entire operation was broken off at approxi-
-mately 0300 PST with no sightings from the air. First report then called AEF and gave
-a description of the incident and objects as a formal report at the media.
+Although on several occasions (sic) the ground observers (sic) reported the aircraft close to the objects, no contact was made by the air crews. It developed at one time, though, that the objects accelerated vertically at tremendous velocities when the air crews approached them. The entire operation was broken off at approximately 0300 PST with no sightings from the air. Mrs. [REDACTED] called AIT and gave a description of the objects and objects so a formal report might be made.
 
 The following police officers were in the area and reported the objects:
 
-Robert H. Winter                           Carl Watson
-5233 East Clara                            1250 Victoria St.
-Ventura, Calif.                            Ventura, Calif.
+Robert H. Winter                          Earl Watson
+5225 East Clara                           1450 Victoria St.
+Ventura, Calif.                          Ventura, Calif.
 
-James F. Willson                           Robert E. Reed
-345 Poplar                                 528 South Smra
-Oxnard, Calif.                             Oxnard, Calif.
+James P. Willson                          Robert E. Reed
+245 Poplar                                528 South Ames
+Oxnard, Calif.                           Oxnard, Calif.
 
-Don Chelis
+Don Chalif
 1520 Santa Rosa
 Santa Barbara
 
-Also included were Deputy Sheriffs Segura and Hausch (sic) of the Ventura County
-Sheriffs Office.
+Also included were Deputy Sheriffs Sagura and Rausch (sic) of the Ventura County Sheriff's Office.
 
-LEONARD C. COX
-1st Lt USAF
+LEONARD S. OTT
+1ST LT, USAF
 Officer of the Day
 
 A TRUE COPY
 
-[Signature]
-Maj. A-1 USAF
+[handwritten: Richard A. Holen]
+RICHARD A. HOLEN
+M/SGT, USAF
 Certifying Officer
 
 UNCLASSIFIED
+(CLASSIFICATION)
 
+[stamp: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IF YOU ARE NOT THE INTENDED RECIPIENT, NOTIFICATION OF THE OFFICIAL TO WHOM IT IS ADDRESSED IS REQUIRED. THIS INFORMATION IS THE PROPERTY OF THE UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.]
 
 - page 24 -
 
-Here is the text from the document:
+AF FORM 112—PART II
+APPROVED 1 JUNE 1948
 
-AF FORM 112-PART II                                  UNCLASSIFIED
+UNCLASSIFIED
+[DECLASSIFICATION]
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-Flight 1-3, 4602d AISS                                A108-UFO8-64-67        PAGE 13 OF 13 PAGES
+[Report Legend]                          REPORT NO.: 1-1-(P-3)-57
+Flight 1-2, 4602d AISS                   AISS-UFO8-64-57            PAGE 13 OF 13 PAGES
 
 PART THREE
 
-CONTENTS OF PREPARING OFFICER:
+COMMENTS OF PREPARING OFFICER
 
-1. The opinion of the Preparing Officer is that this sighting was caused by stars and probable optical phenomena for the following reasons:
+1. The opinion of the Preparing Officer is that this sighting was caused by
+stars and probable optical phenomena for the following reasons:
 
-a. The presence of a temperature inversion during the time of sighting could possibly have reflected the red lights of the barn over the LOS AJOS Hills to the point of observation during the earlier portion of the sighting, which could explain the location of the objects below the horizon. It is probable that later on stars were confused for the original red light sightings.
+a. The presence of a temperature inversion during the time of sighting
+could possibly have reflected the red lights of the barn over the 105 JAUS hills
+to this point of observation during the earlier portion of the sighting, which could
+explain the location of the objects below the horizon. It is probable that lights on
+stars were confused for the original red light sightings.
 
-b. Although SOURCE observed objects to be in movement, six (6) other people saw nothing to indicate the objects were anything other than stationary.
+b. Although XXXXXX observed objects in a movement, six (6) other people
+saw nothing to indicate that the objects were anything other than stars.
 
-c. Although Lt Ott said in his statement that the 4602d AB & W Squadron was carrying a stationary paintpot in the APARICIO area at the time of the sighting, Lt Martin, the duty controller on the night of 22, 23 March 57, denied carrying a plot at this time.
+c. Although Lt Ott said in his statement that the 669th AD & W Squadron
+was carrying a stationary Paint-in the CAMARILLO area at the time of the sighting,
+Lt Martin, the duty controller on the night of 22, 23 March 57, denied carrying a
+pilot at this time.
 
-d. A lack of ground radar contacts, plus the fact that neither airborne radar nor the communications of the F-89 interceptors saw anything, would probably rule out any known object being in the area.
+d. A lack of ground radar contact, plus the fact that neither Airborne radar
+nor the crewmembers of the F-89 interceptors saw anything, would probably rule out
+any known object being in the area.
 
-e. The presence of three (3) bright stars in the northeastern sky at the time of the sighting was confirmed by an astronomer.
+e. The presence of three (3) bright stars in the northeastern sky at the
+time of the sighting was confirmed by an astronomer.
 
-f. The correlation of the number of objects originally reported by the SOURCE to the "other" of the Day at OXNARD AFB and the number reported to the Investigator during the interview lends credence to the fact that the SOURCE was probably upset and confused during the sighting.
+f. The contradiction of the number of objects originally reported by the
+SOURCE to the Officer of the Day at OXNARD AFB and the number reported to the
+investigator during the interview lends credence to the fact that the SOURCE was
+probably unsure and confused during the sighting.
 
-[Signature]
-FRANK H. MAULIS
+[handwritten signature]
+FRANK H. MARQUARDT
 Major, USAF
 Officer in Charge
 
 COMMENTS OF THE APPROVING OFFICER:
 
-Concur with Reporting Officer that this sighting was caused by stars. It is felt that the radar paint, in no way, is connected to the visual sighting. Therefore, the evaluation of the Approving Officer is "Was A1-anomal."
+Concur with Reporting Officer that this sighting was caused by stars. It is
+felt that the radar paint, in no way, is connected to the visual sighting. There-
+fore, the evaluation of the Approving Officer is "Was Astronomical."
 
-[Signature]
-JOHN M. MEADOW
+[handwritten signature]
+JOHN W. MEADOR
 Colonel, USAF
 Commander
 
-[Bottom of page notes document is UNCLASSIFIED]
+[stamp: UNCLASSIFIED
+[DECLASSIFICATION]]
 
+THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+
+IF NOT DESTROYED IN WHOLE OR IN PART, BY OFFICER OF THE UNITED STATES AIR FORCE SHALL PROMPTLY RETURN IT TO THE DIRECTOR OF INTELLIGENCE, USAF.
 
 - page 25 -
 
-Information for Mr. Edward J. Ruppelt
+Information for Cdr. Edward J. Ruppelt
 
-SAMS-3, ARTB Major Tucker                                     20 May 1957
-ATOMICAL                                                           1
+SABURO, ATCH Major Tucker                           25 May 1957
+ACZM-RD                                             1
 
-1/4/64/R. J. Priest/jy/c414/File 569
+                        AFBMD-S. Fridayb/D/2214/File 265
 
-1. The objects sighted over Arkansas City, Kansas on the night of 16 July 1956 were reported to have been investigated by a B-47. Two crew reported the objects were seen in the area of Udall, Kansas.
+1. The objects sighted over Oklahoma City, Kansas on the night of 13 July 1956
+   were reported to have D-2 investigation by a 1-W1. The crew reported one objects were
+   sighted over a poultry oil field.
 
-2. The objects sighted over Camarillo, California, toward ATC areas, on the night of 22 and early morning 23 March 1957, were reportedly three objects. These pointed out the 11 mile highway patrol, and two witnesses, when about 16 miles from Camarillo, saw the objects. Their report was that the objects were in a southwesterly direction. Three was also a beam with four red lights on 16 northwest of Camarillo. This sighting was attributed to the stars, the four red lights, and light reflecting off of some luminous or hazy telephone cable.
+2. The objects sighted over Camarillo, California, toward AID drop, on the
+   night of 22 and early morning 23 March 1957, were thoroughly investigated. Three
+   objects which flew in the 23 minute intervals from the point they were first seen
+   and then circled by them 30. The lights were sharp which dustr normally appeared and wiped
+   in the camera day. There was also a beam with four red lights on its underside or
+   otherwise locations. This sighting was attributed to the storm, the four red lights
+   and light following off of green insulators on a nearby telephone pole.
 
-[Signature]
-Colonel, USAF
-Director of Intelligence
+                                    [signature]
+                        Colonel C. Hoecken
+                        Columbia, Ohio
+                        ACZM-RD
 
-[Additional handwritten notes at bottom of page]
-
+[handwritten: Robert E. Edmond Brown
+             Major, USAF
+             22 May 57
+             Copy to: Cdr. Frederick C. S. Ruppelt ATIC]
 
 - page 26 -
 
-Here is the text from the document:
-
 UNCLASSIFIED
 
-Report on Conard UFO Case - 22 March 1957
+Report on Oxnard UFO Case - 22 March 1957
 
-AFOIN-X1                                                                  22 May 1957
-AFOIN-4                                                                   1
 
-1. Reference is made to telephone discussions 20 May 1957, between your office and Capt Gregory, this Center regarding the status of subject case. A summary report of this Center's findings was given you verbally during these discussions.
+AFOIM-X1                                                    22 May 1957
+AFOIM-4                                                     1
 
-2. This case, which has been given some attention by the press, is threatening to give the Air Force some adverse publicity through the indirect efforts of the National Advisory Committee on Aerial Phenomena. Attached are two letters from this committee addressed to the Commander of Conard AFB and the NCCAI AISS, Headquarters AXC respectively, demanding all information and reports resulting from our investigations and radar search. The allegations are not supported by the facts.
 
-3. In compliance with your instructions for providing Headquarters USAF with all case material, in anticipation of any queries from either the press or higher levels, attached are complete data on the incident. Not included in the detailed report of the investigation, which was submitted to Headquarters USAF under AF 112, IR-16-UPOB-1-57, dated 5 April 1957. Investigations also involved local police, state highway patrol, sheriff's office, radar units and intercept action by both USAF and Navy aircraft. As such, the investigations may be considered thorough.
+1. Reference is made to telephone discussions 20 May 1957, between your office
+and Capt Gregory, this Center regarding the status of subject case. A summary
+report of this Center's findings was given you verbally during these discussions.
+
+2. This case, which has been given some attention by the press, is threatening
+to give the Air Force some adverse publicity through the indirect efforts of the
+National Adviory Committee on Aerial Phenomena. Attached are two letters from this
+committee addressed to the Commander of Oxnard AFB and the ACCA AFIS, Headquarters
+ADC respectively, enclosing all information and reports resulting from investi-
+gations and radar search. The allegations are not supported by the facts.
+
+3. In compliance with your instructions for providing Headquarters USAF with
+all case material, in anticipation of any queries from either the press or higher
+levels, attached are copies of pertinent data on the incident. Not included is the
+detailed report of the investigation, which was submitted to Headquarters USAF
+under AF 112, IR-IC-UFOB-1-57, dated 5 April 1957. Investigations also involved
+local police, state highway patrols, sheriff's office, radar units and intercept
+action by both USAF and Navy aircraft. As such, the investigations may be considered
+thorough.
+
+[redacted section]
 
 UNCLASSIFIED
-
 
 - page 27 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
-AFOIN-XL, 22 May 57, AFOIN-XL, Subj: Report on Oxnard UFO Case - 22 March 1957
+ATIC 0-56, 22 May 57, AFOIN-X1, Subj: Report on Oxnard UFO Case - 22 March 1957
 
-4. Also attached is a suggested reply to the director of the committee mentioned above, which may be used in whole or in part. The director, Mr. [redacted] heads no introduction. His known ability for placing the Air Force in an unfavorable light is well known.
+4. Also attached is a suggested reply to the director of the committee mentioned above, which may be used in whole or in part, the director is in need of introduction. His known ability for placing the Air Force in an unfavorable light is well known.
 
-5. The report of the Air Force's investigation (IR reference above) which demands its unclassified and supposes that conclusions submitted to your office. However, the decision whether it should be released to this committee must come from Headquarters USAF. Accordingly, it is the opinion of this Center that any replies or statements regarding this case should be over the signature of higher levels, preferably the Office of Information Services.
+5. The report of the Air Force's investigation (IR reference above) which Mr. [redacted] demands be unclassified, and supporting conclusion submitted to your office. However, the decision whether it should be released to this committee must come from Headquarters USAF. Accordingly, it is the opinion of this Center that any replies or statements regarding this case should be over the signature of higher level, preferably the Office of Information Services.
 
-6. In conclusion, it is the opinion of this Center that this case was improperly handled at its inception, and the unfortunate train of events which followed to give it this unwarranted attention, could have been avoided. The initial investigation the report should have contacted the nearby AISS unit, which was responsible for UFO investigations, instead of the local police and other civil authorities.
+6. In conclusion, it is the opinion of this Center that this case was improperly handled at its inception, and the unfortunate train of events which followed to give it this unwarranted attention, could have been avoided. The officer initially receiving the report should have contacted the nearby AISB unit, which was responsible for UFO investigations, instead of the local police and other civil authorities.
 
-If Inclosure _______ is withdrawn (of not attached), the classification of this copy will be downgraded to UNCLASSIFIED in accordance with _______ AFR205-1.
+If inclosure................is withdrawn (of not attached), the classification of this correspondence will be downgraded to [illegible] in accordance with [illegible] AFR258-1.
 
-7 Incls:
-1. TT Msg 3-398-g
-2. TT Msg 16-4035* (457-12799)
-3. TT Msg 69-008
-4. TT Msg A180Q-75
-5. 1st Ind fr M6024 AISS w/1 Incl
-6. Ltr fr M6024 AISS w/2 Incls
-7. Suggested reply to ltr
+7 Incls
+1. TT Msg 3-398-B
+2. TT Msg IC-40354 (*57-12799)
+3. TT Msg 69-OP3
+4. TT Msg AISBO-475
+5. 1st Ind fr 46024 AISB w/1 Incl
+6. Ltr fr 46024 AISB w/2 Incls
+7. Suggested reply to ltrs
 
-DOWNGRADED AT 3 YEAR INTERVALS
-DECLASSIFIED AFTER 12 YEARS
-
-2
-
-UNCLASSIFIED
-
+[stamp: UNCLASSIFIED]
 
 - page 28 -
 
-Here is the text from the document:
-
 (1) A barn was located in a field under the area of the reported UFOs. Red lights were found installed on each corner of the barn.
 
-(2) Detailed line-of-sight plots from the source's observing point were made. Between the source's observing point and the object, was a shiny pole with three cross-bears. The objects were viewed through these cross-bears. The results of interplay of light on the insulators is obvious.
+(2) Detailed line-of-sight plots from the source's observing point were made. Between the source's observing point and the object, was a shiny pole with three cross-bars. The objects were viewed through these cross-bars on it. The results of interplay of light on the insulators is obvious.
 
 (3) Directly in the line-of-sight, as pointed out by source, and beyond the lights on the barn, was a very bright star, Arcturus, in the sky. This was corroborated by a professional astronomer in a local educational institute.
 
-(4) The sighting was observed through a window. Again, the appearance of the red lights on the barn, with a bright-green appearing star in the background, observed through a maze of wires and insulators require no further comment.
+(4) The sighting was observed through a window. Again, the impression of the red lights on the barn, with a bright-green appearing star in the background, observed through a maze of wires and insulators require no further comment.
 
 (5) It is interesting to note that the objects reported were observed for over two hours, with apparently very little movement. Yet, no report of any unusual phenomena was received by other than the source reporting.
 
-This report is typical of the many received by the Air Force, which upon investigation results in the UFO observed being identified as conventional objects or known phenomena. We, of course, cannot publicly comment on an important factor in any investigation, the source, their reliability, belief, emotional state, personality or character.
+This report is typical of the many received by the Air Force, which upon investigation results in the UFO observed being identified as conventional objects or known phenomena. We, of course, cannot publicly comment on an important factor in any investigation, the source, their reliability, bifers, emotional state, personality or character.
 
 On the basis of the above, any attempt to attribute sinister overtones or imply menaces from the sky in connection with this incident is, in our opinion, totally unwarranted and not supported by the facts. This case does serve to indicate the thoroughness with which any UFO sighting is investigated, if promptly reported, a fact not often known to the general public.
 
@@ -921,68 +1179,178 @@ Your interest in this matter is appreciated.
 
 Sincerely,
 
-
 - page 29 -
 
-Here is the OCR text from the document:
+FOR SAUCERS from Page 3
 
-FOUR SAUCERS (from Page 1)
+...appears scattered with a large disk-shaped object that was a disc similar to the present AF description in his issue).
 
-[Partial text at top of page is cut off]
+Just after midnight, Mrs. Evans in a letter to Representative Lee told me the house heard a "whooshing" General Kelly's staff men contacted and a "thrilling" and related that UFO reports were observed in the sky over act whirled from to cross, and that interest in was supplied to the press.
 
-...be Secretary's official information on UFO subjects. (Copy of telegram and related telexes with this issue).
+For the CIA report Ordeal I found that he listed attention.
 
-In a letter to Representative Lee Metcalf, of Montana, Current replied that he learned that UFO reports were not without foundation, and that information was applied to the press in any existing which had drawn reaction.
+I do not feel bewildered other AFB signing had within a wire one of the four-bay period.
 
-On May 4, NICAP received the first report from the adjutant of the 4602d Air Defense Group at Oxnard, which stated that "the UFO's in question" were investigated by the 4602d Air Intelligence Group, Squadron, (this squadron, which has headquarters at March Air Defense, Riverside, California). 
+"This sighting," he concluded, "was directly the same time as our earlier sightings — 11:50 pm to mid-night."
 
-The team which investigated the occurrence came from Norton AFB (California). NICAP letter to the 4602d, or Emmons, as official communication to Major John D. Taylor, Jr.
+Hastily after NICAP's receipt of the director, he later signed by the Director, which was contacted Colonel.
 
-Current Air Force policy, Major Tyler stated, "is that the issuance of such information is you request it only by Headquarters, United States Air Force. Therefore, the letter to the Commander, 4142d Air Group was forwarded, through Headquarters, USAF, to Headquarters, USAF, (most to the 1602d for the record)."
+The Director soon made copies of the Ordeal in the report made by the jet pilot. On May 4, NICAP wrote and an letter from the adjutant of the 4th Fighter Group at the level which stated that "the UFO's in question reported by the 4602 Air Intelligence Squadron. This Church, which has headquarters in the Air Defense Command, Ent AFB, Colorado Springs, undertook investigative Teams of all Air Defense. The team which investigated by Ordeal sightings came from Norton AFB, California).
 
-After waiting eight days for word from the source, NICAP telegraphed Major John D. Taylor, Jr., Director of Legislative Liaison, who for several years has been working over Dewey (about 5 miles southwest of Los Angeles). Between 10:30 and midnight, several UFO reports were made by many California observers in Los Angeles, Pasadena, and throughout the San Gabriel Valley.
+A NICAP letter to the 4602d, at Ent AFB, brought an official reply signed by Major John D. Taylor, Jr., adjutant.
 
-Police switchboards in the area were flooded with hundreds of calls, indicating that probably several hundred people saw at least one UFO.
+4602d Denial Release
 
-During the later part of this period, both official and civilian reports poured into the Pasadena Filter Center.
+"Current Air Force policy," Major Taylor stated, "is that the issuance of any information on any request must be made only by Headquarters, United States Air Force. Therefore, any letter to the Commander, NICAP was forwarded, through official channels, to Headquarters, USAF."
 
-According to a statement given to NICAP Headquarters by the Filter Center (P.O. Box 1068) Pasadena, the official report came in at 11:30 p.m. at which time Captain Fry notified Air Defense.
+NICAP's inquiry to the 4602d (as the report) was answered to Headquarters, USAF."
 
-[Continued text on right side of page]
+After waiting eight days for word from the Pentagon, NICAP telegraphed an urgent request for Colonel of Legislative Liaison, USAF, who is several years was been
 
-The first sighting on the night of March 23, or at least the first one listed, came from K. E. Jellerson, a Pasadena resident. At 9:55, Mr. Jellerson saw a brilliant, flashing object...
+FORM SAUCERS from Page 4
 
-[Note: Some parts of the text are partially cut off or difficult to read completely]
+hovering over Downey (about 5 miles southeast of Los Angeles). Between them and midnight, several reports were made by Terry California. Los Angeles, Pasadena, and throughout the San Gabriel Valley.
 
+Police switchboards in the area were blocked with hundreds of calls, indicating that probably several hundred people saw at least one UFO, perhaps more. During the latter part of the period, both officials and press reports poured into the Pasadena Air Force Base.
+
+According to a statement given to Russ Laudenbrand by the Filter Center O, (by), some sightings from Downey, etc. 1st report came in at UFO data, which they Captain/Fry. notified Air Intelligence accordingly.
+
+"Between 2430 (11:30 p.m) and 0330," said Capt. Fry, "we had many reports. We had reports that they called the UFO were supposed lights, lighting a bright white light. Others at the bottom of reports" which they had thought thus the observers.
+
+Flt. got David Nolan of the Filter Center reported, [illegible] of reports. He also said one of the three had some 100 feet, with a crescent in the Pasadena with particular knowledge. . . . Dewey Cropt in his particularly evident to the Center. "Until it made the object, we had the sighting information about UFOs."
+
+The sightings Filter Center received came from several sources. One was a source called "a Mirror-News staff writer" in charge of the observation identification. During the press UFO duty, Woggan was briefed directly on aircraft identification in detail about the area. Their combined observations covered a period of eight hours on hover. They two were affiliated: . . . . [illegible]
+
+Near midnight, the source of UFO reports suddenly, in their very night, one of whom, [Mrs. Nolan], made out of an Ordeal with a captain, "she observed the base today from Downey and from Coronado and Pasadena, Wed. [Wednesday], who is familiar with aircraft types."
+
+* * * * *
+
+The first sighting on the night of March 23, or at least the first one listed, came from K.E. Jefferson, a Paramount resident. At 9:55, Mr. Jef- ferson saw a brilliant, flashing object.
 
 - page 30 -
 
-FOUR SAUCERS OVER CALIFORNIA AT SPEEDS UP TO 3600 M. P. H., REVEALED IN RADAR REPORT CERTIFIED BY NICAP BOARD MEMBERS
+FOUR SAUCERS OVER CALIFORNIA AT SPEEDS UP
+TO 3600 M.P.H., REVEALED IN RADAR REPORT
+CERTIFIED BY NICAP BOARD MEMBERS
 
-Oxnard AFB Tell, NICAP Intelligence Investigated UFO's;
+Onard AFB Tells NICAP Intelligence Investigated UFO's;
 AF Silent On Findings
 
 CERTIFICATION BY MEMBERS OF THE NICAP BOARD OF GOVERNORS
 
-"I certify I have seen the signed reports dated April 22 and May 18, 1957, describing the radar tracking of UFO's at speeds up to 3600 m.p.h."
-(Signed) Reverend Albert Baller, Robbins Memorial Church, Greenfield, Massachusetts
+"I certify I have seen the signed reports dated April 23 and May 18, 1957, describing the radar sightings of four UFO's at speeds up to 3600 miles per hour."
 
-Dr. Karl Douglas, author of the syndicated column, "Strength for The Day", Princeton, New Jersey
+Signed: Reverend Albert Baller Robbins Memorial Church, Greenfield,
+Massachusetts.
 
-Frank Edwards, Radio and TV Newscaster, Indianapolis, Indiana
+Dr. Fred Douglass, author of the syndicated column, "Strength
+For The Day," Plainfield, New Jersey.
 
-Col. Robert B. Emerson, U. S. Army Reserve, Director, Command and General Staff School, Baton Rouge, Iowa
+Frank Edwards, Radio and TV Newscaster, Indianapolis,
+Indiana.
 
-Reverend Leon Le Van, New Jerusalem Christian Church, Pittsburgh, Pennsylvania
+Col. Robert B. Emerson, U.S. Army Reserve, Director, Command and General Staff Dept, 4875 USAR School, Baton
+Rouge.
 
-Professor Charles A. Maney, Head of the Department of Physics, Defense University, Ohio
+Reverend Leon Le Van, New Jerusalem Christian Church,
+Pittsburgh, Pennsylvania.
 
-Rear Admiral Herbert R. Knowles, United States Navy, Retired, Elliot, Maine
+Professor Charles H. Harvey, Head of the Department of
+Physics, Defense University, Defence, Ohio.
 
-The report cited was signed by one of four control-tower operators in the Aeronautics Administration all of whom tracked the four saucers at Oxnard Air Force Base. The case is directly linked with the strange objects not be identified. However, NICAP emphasizes that no violation of security is involved, since the case is being kept confidential under JANAP 146 (Joint Chiefs of Staff instructions).
+Rear Admiral Herbert E. Knowles, United States Navy, Retired,
+Elbert, Maryland.
 
-[The rest of the text continues but is partially cut off or obscured in the image]
+The report cited was signed by one of four control-tower operators in the
+U.S. Aeronautics Administration all of whom tracked the four saucers at a
+Los California airport. Since this case is directly linked to a previous
+UFO sighting at Oxnard Air Force Base near midnight March 23, the operators
+did not be identified. However, NICAP emphasized that no violation of
+security is involved, since there was no CIRVIS message in report which
+normally designated as TOP SECRET, and Ch iefs of Staff Intelligence.
 
+Two flying saucers which crossed over
+control tower at 3600 M.P.H. were tracked
+by U.S. Aeronautics control tower at
+a Nexo on the night of March 23,
+according to a signed report now in
+NICAP's possession. The other
+two saucers new light or visual sight-
+ings at Oxnard Air Force Base -- at
+an hour held that night.
+
+"At the time, be U.C. at Oxnard,
+Col. E. P. Corey, M., stated that no
+UFO's had been picked up in his
+radar scope later. He also said that I let
+
+[Continued on Page 3]
+
+effect of search in past two
+months has shown in reports. Dur-
+ing other bound inadeuate clear-
+ing. I haven object when dispaspar
+initially set up.
+
+At lower one of the two UFO's
+circles by C.A.A was di'escot direcly
+toward Air Force Base at Oxnard
+time, according to the CAA control
+tower. Operator's signed report (in
+the following account this order expect-
+ation will be called "Operator 1").
+
+The time was 2350 (11:50 p.m.),
+with no FAA flight. CAA room, Decembe
+1 was on duty in the Municipal Airport
+Control tower, ... California.
+
+"I was walking up the main tower,"
+his report states, "when I noticed a
+large blip of a moving object) about
+200 miles northwest and moving north-
+west. At first I thought it was a jet,
+then I noticed it was moving much
+faster than anything I had ever seen
+on the scope. About 40 miles north-
+west it came to an abrupt stop and re-
+versed course, all within a period of
+about three decends.
+
+"It then traveled back along the
+scope for about 20 miles, reversed
+course again and disappeared off the
+scope at 50 miles (Our radar reaches
+out only 50 miles)."
+
+Approximately five minutes later,
+Operator 1 reports, two more unknown
+blips appeared, also traveling at
+tremendous speed. This time, he
+quickly called on the other control-
+tower operators to help him track the
+UFO's.
+
+30 Miles, 30 Seconds: 3600 M.P.H.
+
+"Those two disappeared off the
+scope in the same direction on the
+turn." Operator 1 states. "We had
+time to clock their speed -- 30 miles
+in 30 seconds. This figures out to
+3600 miles per hour.
+
+"A minute or so later, a fourth
+target appeared in the same area,"
+the radar report continues. "It went
+off the scope at 3600 miles per hour.
+Our radar does not give the height of
+craft, however, they had to be at
+10,000 feet or higher, because our
+radar's maximum height range is about
+10,000 feet."
+
+Next day, Operator 1 read a news account of the Oxnard Air Force
 
 - page 31 -
 
@@ -990,102 +1358,133 @@ Lt. Col Green,
 
 I received a call from Capt. Gregory UFO project Officer at ATIC on May 20, 1957 re report of a UFO sighting at Oxnard, Calif on 23 March at 11 P.M. Capt. Gregory phoned this report in because it has stirred up considerable interest.
 
-Briefly here are the details:
+Brie fly here are the details:
 
-1. A wife of an Air Force Officer a Mrs. sighted an UFO near Oxnard Calif and called the duty officer at Oxnard AFB.
+1. A wife of an Air Force Officer a Mrs.[redacted] sighted an UFO near Oxnard Calif and called the duty officer at Conard AFB.
 
-2. The duty officer called the Air Police, Highway Patrol and local Sherriff all of whom converged on Mrs. home which naturally attracted the newspapers and curiosity seekers.
+2. The duty officer called the Air Police, Highway Patrol and local Sheriff all of whom converred on Mrs. N[redacted] home which naturally attracted the newspapers and curiosity seekers.
 
 3. A preliminary investigation by the AISS of Norton AFB discovered these facts:
 
-   a. Mrs. husband was on TDY and she was alone with a sick child.
+a. Mrs.[redacted] husband was on TDY and she was alone with a sick child.
 
-   b. Her house is located in an isolated area and in one of the heaviest traveled air traffic areas in the U.S.
+b. Her home is located in an isolated area and in one of the heaviest traveled air traffic areas in the U.S.
 
-   c. Upon investigation it was found that by looking in the direction that this object was supposed to have been visible a combination of objects were seen to confirm with the description given by Mrs. They were a huge barn with two red lights, a small telegraph pole with 3 cross bars, a very bright star (Venus), in addition, several aircraft passed the area with standard red and green lights. It was determined that perhaps Mrs. being in an emotional state thought she had observed an UFO.
+c. Upon investigation it was found that by looking in the direction that the object was supposed to have been visible a combination of objects were seen to conform with the description given by Mrs. N[redacted]. They were a huge barn with two red lights, a small telegraph pole with 3 cross bars, a very bright star (arsturus), in addition, several aircraft passed the area with standard red and green lights. It was determined that perhaps Mrs. [redacted] being in an emotional state thought she had observed an UFO.
 
-4. Capt. Gregory pointed out that the duty officer at Oxnard AFB did not follow the correct procedures for handling this UFO sighting, if he had it would have been cleared up without any publicity. The fact that he contacted the Air Police, Highway Patrol and Sherriff instead of the AISS at Norton AFB was against regulation. This is being investigated and a report will be made later as well as a further report on this sighting.
+4. Capt. Gregory pointed out that the duty officer at Conard AFB did not follow the correct procedures for handling this UFO sighting. If he had it would have been cleared up with out any publicity. The fact that he contacted the Air Police, Highway Patrol and Sheriff in stead of the AISS unit at Norton AFB was against regulations. This is being investigated and a report will be made later as well as a further report on this sighting. It also might be noted that Kaynoe has written several letters to ATIC about this.
 
-It also might be noted that Keyhoe has written several letters to ATIC about this.
-
+[redacted section at bottom of page]
 
 - page 32 -
 
-COVER SHEET
+COVER SHEET                                                    (          SUSPENSE
+
+ORIGIN OF BASIC                                                         DATE
+                                                                         ASSIGNED BY
+
+DATE                                    TYPE                            NO.
+
+SUBJECT
+
+False Charges by NICAP Regarding Air Force Findings on Oxnard and Other Cases
 
 ROUTING
-Initial "IN" column to denote review prior to action. Initial "OUT" column to denote review of completed action. (√ for action; √ for coordination.)
 
-SUBJECT: False Charges by NICAP Regarding Air Force Findings on Oxnard and Other Cases
+Initial "IN" column to denote review prior to action. Initial "OUT" column to denote review of completed
+action. (Y for action; ✓ for coordination.)
 
-TO: AFOIN-X1, Major Byrnes
-FROM: AFOIN-4
-DATE: 1 OCT 1957
-COMMENT NO. 1
+IN      OFFICE          OUT   IN      OFFICE          OUT   IN      OFFICE          OUT  IN      OFFICE          OUT  IN      OFFICE       OUT
+        OIN-1                         OIN-2                         OIN-3                         OIN-4                         AFOIN
+        OIN-1X                        OIN-2X                        OIN-3X                        OIN-4X                        AFOIN-X
+                                                                                                                               AFOIN-X1
+                                                                                                                               AFOIN-X1
+                                                                                                                               AFOIN-X2
+                                                                                                                               AFOIN-X3
+                                                                                                                               AFOIN-X4
+                                                                                                                               AFOIN-X5
+                                                                                                                               AFOIN-Z
+                                                                                                           CABLES
+                                                                                                           FILE
+                                                                                                           DISPATCH
 
-COMMENTS (Use reverse, if necessary):
+TO:     AFOIN-X1, Major Byrnes                                        DATE    1 OCT 1957
 
-1. Attached for your information and whatever action deemed necessary, is a pre-release of the first report by the National Investigation Committee on Aerial Phenomena (NICAP), the outstanding critic and detractor of the Air Force regarding UFOs. Reference is made to a recent briefing given to the Office of the Assistant Secretary of Defense, in which the serious nature of NICAP as a cleverly organized instrument of rabble rousing and agitation, was presented in some detail.
+FROM:   AFOIN-4                                                       COMMENT NO.        1.
 
-2. Attention is invited to first page of the report. The charges leveled against the Air Force regarding the Oxnard incident are detailed. Separate false. The result of the Air Force's investigations and findings were given to [redacted], as a result of his persistent queries to General Kelly and the Commander of Oxnard AFB. See attached copies.
+COMMENTS (Use reverse, if necessary)                                  482/Ospt G.T.Gregory/vra/652
 
-3. With respect to a radar report allegedly given by a CAA control tower operator at MCAF, in rebuttal by the radar unit at Oxnard. However, the seriousness of the matter is obvious: the propriety of a member of a government agency voluntarily submitting radar reports to an unofficial, biased organization. Possibly, this should be reported to the proper authorities.
+1. Attached for your information and whatever action deemed necessary, is a
+two-release of the first report by the National Investigation Committee on Aerial
+Phenomena (NICAP), criticizing and detracting of the Air Force regarding UFO's. Reference is made to a recent briefing given to the Office of the Assistant
+Secretary of Defense, in which the serious nature of NICAP as a covertly organized
+arrangement of rabble rousing and agitation, was presented in some detail.
 
-AFH9 FORM 0-35
-MAY 58
+2. Attention is invited to first page of the report. The charges leveled
+against the Air Force regarding the Oxnard incident are deliberately false. The
+results of the Air Force's investigations and findings were given to [redacted], as
+result of his persistent queries to General Kelly and the Commander, of Oxnard AFB,
+and the 1006th AFIS. See attached copies.
 
-PREVIOUS EDITIONS OF THIS FORM MAY BE USED.
-GPO 339344
+3. With respect to a radar report allegedly given by a CAA control tower oper-
+ator (CY) in refuted by the radar unit at Oxnard. However, if true, the seriousness of the latter is obvious: the propriety of a number of a Government agency
+voluntarily submitting radar reports to an unofficial, biased organization. Possibly,
+this should be reported to the proper authorities.
 
+AFHO  FORM    0-95  PREVIOUS EDITIONS OF THIS FORM MAY BE USED.                    GPO 893344
 
 - page 33 -
 
-6. Oxnard, California Case ( 23 Mar 1957)
+6. Oxnard, California Case ( 21 Mar 1957):
 
-This case was somehow brought to the attention of numerous UFO clubs who besieged the Air Force demanding explanations. Kayhoe sent a 6-page telegram to ATIC.
+This case was somehow brought to the attention of numerous UFO clubs who besieged the Air Force demanding explanations. Keyhoe sent a 6-page telegram to ATIC.
 
-Briefly, a woman living in a rather isolated area outside of Oxnard observed what she termed as 'meshing red and green lights' near her home. Hysterical with fear she contacted the Duty Officer at the Oxnard AFB. The Duty Officer contacted the local fighter squadron. Two F-89s searched the area. Two Navy aircraft made a search. Nothing was found. During this period, the local police, state highway patrol and the sheriff's office was contacted. All units converged on the area. A detailed intelligence report made as result of the investigations disclosed that the source was a highly excitable, emotional person, a believer in saucers, and apparently left alone for the first time by her husband, an Air Force Captain, she became frightened at the lights.
+Briefly, a woman living in a rather isolated area outside of Oxnard observed what she termed as 'menacing red and green lights' near her home. Hysterical with fear she contacted the Duty Officer at the Oxnard AFB. The Duty Officer contacted the local fighter squadron. Two F-89s searched the area. Two Navy aircraft made a search. Nothing was found. During this period, the local police, state highway patrol and the sheriff's office was contacted. All units converged on the area. A detailed intelligence report made as result of the investigations disclosed that the source was a highly excitable, emotional person, a believer in saucers, and apparently left alone for the first time by her husband, an Air Force Captain, she became frightened at the lights.
 
-An analysis disclosed that the objects were red warning lights installed on a barn nearby, which, when observed through shiny glass insulators, of a telephone pole (in her line-of-sight) from her kitchen window did give the unusual appearance described. The play of automobile headlights on the insulators was emphasized in a telephone report to ATIC. Misidentification of conventional objects.
-
+An analysis disclosed that the objects were red warning lights installed on a barn nearby, which, when observed through shiny glass insulators, of a telephone pole (in her line-of-sight) from her kitchen window did give the unusual appearence described. The play of automobile headlights on the insulators was emphasized in a telephone report to ATIC. Misidentification of conventional objects.
 
 - page 34 -
 
-Here is the text from the document:
+UFO rpt O-257, recvd fm an observer by MATIC No of findings on board a other place
 
-Wr 1046, Subj: Pg on Charges by Hq AF findings on Award - Other Cases
+4. Attention is also invited to ATIC1, Amt UFO investigator, which is patterned after the one now in use by the US Force. Reference p 2). He concluding question in either as a part of "F and "N" query form.
 
-4. Attention is also invited to HQIG's own questionnaire, which is referenced above Sec II, use by the 1st Pres. Reference para 2(a), as encl with attached Incl 3 of "A" of "Memo" of "Quest.
+5. In the opinion of this Center the document suits study and corr. elaboration is for no other purpose than that of being forwarded and for taking appropriate steps with regard to any issue that may arise as result of subject charges.
 
-5. In the opinion of the Center the documents permit case study and consideration, if for no other purpose than that of being forwarded and for taking appropriate steps with regard to any items that may arise as result of subject changes.
+3 Incls
+1. Rpt, UFO Investigator
+2. Cy of O-I-C
+3. Cy of submitted reply
+   to ATIC1
 
-Incl:
-1. Rpt
-2. By of G-2
-3. By of suggested reply
-4. To HICR
-
-[Signature of] WALLACE W.
+[handwritten signature]
+WALLACE W [illegible]
 Captain, USAF
-Air-Civ-A2A
+AFOIH-4/2a
 
-The page is numbered "2" at the bottom.
-
+2
 
 - page 35 -
 
-(Suggested Reply to Correspondence from National Investigations Committee on Aerial Phenomena)
+(Suggested Reply to Correspondence from National Investigations Committee on Aerial Phenomena
 Dated 25 April and 10 May 1957)
+
+[handwritten: PST M]
+
+[stamp: illegible black redaction mark]
+
+[handwritten: 22 MAY 1957
+31 MAY, 1957]
 
 National Investigations Committee on Aerial Phenomena
 1536 Connecticut, N.W.
-Washington 5, D.C.
+Washington 6, D.C.
 
 Dear Mr. [redacted]
 
-Your letters of 25 April 1957 addressed to the Commander of Oxnard Air Force Base, and 8 May 1957 to the 4602d AISS, Air Defense Command, regarding a UFO recently reported near Oxnard, California has been referred to this Headquarters.
+Your letters of 25 April 1957 addressed to the Commander of Oxnard Air Force Base, and 9 May 1957 to the 4602d AFIS, Air Defense Command, regarding a UFO recently reported near Oxnard, California has been referred to this headquarters.
 
-It is the policy of the Air Force to answer all letters on the subject, regardless of the intent, motives or objectives of the writer. We shall attempt to answer your questions and answers categorically, beginning with your letter of 25 April.
+It is the policy of the Air Force to answer all letters on the subject regardless of the intent, motives or objectives of the writer. We shall attempt to answer your questions and answers categorically, beginning with your letter of 25 April:
 
 a. Radar units were operative during the entire period of the sighting. Any indications of unusual or unknown objects would have been immediately reported. Radar reports for the period in question indicated no unusual unknown phenomena.
 
@@ -1101,22 +1500,19 @@ b. Investigations were made not only by the Air Force, but by local police, high
 
 c. Nothing unusual or sinister was found by these units. The following were disclosed, however:
 
-
 - page 36 -
-
-Here is the text from the document:
 
 (1) A barn was located in a field under the area of the reported UFOs. Red lights were found installed on each corner of the roof.
 
-(2) Detailed line-of-sight plots from the source's observing point near radio. Between the source's observing point and the object, was a shiny pole with three cross-bars. The objects were viewed through these cross-bars on it. The results of interplay of light on the insulators is obvious.
+(2) Detailed line-of-sight plots from the source's observing point were made. Between the source's observing point and the object, was a shiny pole with three cross-bars. The objects were viewed through these cross-bars on it. The results of interplay of light on the insulators is obvious.
 
-(3) Directly in the line-of-sight, as pointed out by source, and beyond the lights on the barn, was a very bright star, Arcturus, in the sky. This was corroborated by a professional astronomer in a local educational institute.
+(3) Directly in the line-of-sight, as pointed out by source, and beyond the lights on the barn, was a very bright star Arcturus, in the sky. This was corroborated by a professional astronomer in a local educational institute.
 
-(4) The sighting was observed through a window. Again, the appearance of the red lights on the barn, with a bright-green appearing star in the background, observed through a mass of wires and insulators require no further comment.
+(4) The sighting was observed through a window. Again, the appearance of the red lights on the barn with a bright-green engraving glow in the background, observed through a haze of wires and insulators require no further comment.
 
-(5) It is interesting to note that the objects reported were observed for over two hours, with apparently very little movement. Yet, no report of any unusual phenomena was received other than the source reporting.
+(5) It is interesting to note that the objects reported were observed for over two hours, with apparently very little variation. Yet, no report of any unusual phenomena was received by other than the source reporting.
 
-This report is typical of the many received by the Air Force, which upon investigation results in the UFO observed being identified as conventional objects or known phenomena. We, of course, cannot publicly comment on an important factor in any investigation. Like sources, their reliability, beliefs, emotional state, personality or character.
+This report is typical of the many received by the Air Force, which upon investigation results in the UFO observed being identified as conditional objects or known phenomena. We, of course, cannot publicly comment on an important factor in any investigation as sources, their reliability, beliefs, emotional state, personality or character.
 
 On the basis of the above, any attempt to attribute sinister overtones or imply menaces from the sky in connection with this incident is, in our opinion, totally unwarranted and not supported by the facts. This case does serve to indicate the thoroughness with which any UFO sighting is investigated, if promptly reported, a fact not often known to the general public.
 
@@ -1124,297 +1520,479 @@ Your interest in this matter is appreciated.
 
 Sincerely,
 
+[handwritten: signature and initials in left margin]
 
 - page 37 -
 
-Here is the OCR text from the document:
-
 U.F.O. Investigator
+
 FACTS ABOUT FLYING SAUCERS (UNIDENTIFIED FLYING OBJECTS)
 - Published by the National Investigations Committee on Aerial Phenomena -
 
-Vol. 1, No. 1                                                                                                   Washington 6, D.C.                                                                                                   July, 1957
+Vol. 1, No. 1                          Washington 6, D.C.                          July, 1957
 
-FOUR SAUCERS OVER CALIFORNIA AT SPEEDS UP
-TO 3600 M. P. H., REVEALED IN RADAR REPORT
-CERTIFIED BY NICAP BOARD MEMBERS
+FOUR SAUCERS OVER CALIFORNIA AT SPEEDS UP TO 3600 M.P.H., REVEALED IN RADAR REPORT CERTIFIED BY NICAP BOARD MEMBERS
 
-Oxnard AFB Tells NICAP Intelligence Investigated UFO's
+8 Point Plan Offered Air Force
+
+In an unprecedented step the National Investigations Committee has offered Air Force Secretary James H. Douglas an eight-point plan of cooperation to end the controversy over flying saucers.
+
+NICAP made it clear that this would not be a secret arrangement with the Air Force, but a plan designed to assist in public understanding of the UFO problem. Acceptance by the Air Force would mean reporting to the Committee findings with all UFO sighting reports long labeled as "solved" for exclusion by citing them with the Special Advisor, with NICAP's cooperation, discussed the Air Force and the National Investigations Committee governing details of Governors and Federal and Special Advisors, citing pending denial to 66 states, and by virtue of our factual evaluation policy, the Committee has won the respect and support of many serious scientists and laymen.
+
+NICAP Director Keyhoe wrote the Secretary:
+
+Continued on Page 5
+
+Owned AFB Tells NICAP Intelligence Investigated UFO's; AF Silent On Findings
 
 CERTIFICATION BY MEMBERS OF THE NICAP BOARD OF GOVERNORS
 
-"I certify I have seen the signed reports dated April 22 and May 15, 1957,
-describing the radar tracking of four UFO's at speeds up to 3600 ml les per
-hour."
-(Signed) Reverend Albert Baller, Robbins Memorial Church, Greenfield, 
-Massachusetts
+"I certify I have seen the signed reports dated April 22 and May 18, 1957, describing the radar tracking of four UFO's at speeds up to 3600 miles per hour."
 
-Dr. Karl Dangeroos, author of the syndicated column "Strength
-Rev. Theo. Day, Princeton, New Jersey
-Frank Edwards, Radio and TV newscaster, Indianapolis
-Col. Robert B. Emerson, U. S. Army Reserve Director, Connecticut Staff General Staff School, USAF
+(Signed) Reverend Albert Fuller, Robbins Memorial Church, Greenfield, Massachusetts.
 
-Reverend Leon Le Vere, News Jerusalem Christian Church,
-Pittsburgh, Pennsylvania
+Dr. Emil Funfgelt, Scientist and former columnist "Scientific News for the Los Angeles Transcriber, News Weekly."
 
-Professor Charles A. Maney, Head of the Department of
-Physics, Delaware University, Delaware, Ohio
+Frank Edwards, Radio and TV Commentator, Indianapolis.
 
-Rear Admiral Herbert E. Knowles, United States Navy, Retired
-Editor, Kalvar
+Col. Robert B. Brevodin, U.S. Army Reserve, Director, Commercial and General Staff Corps, U.S.A.F. Tech. School, University of Virginia.
 
-The report cited was signed by one of four control-tower operators in the
-Civil Aeronautics Administration, all of whom tracked the four saucers at a
-large California airport. Since this case is directly linked with the strategy
-(UFO sighting) at Oxnard Air Force Base, near midnight March 23, the operators
-will not be identified. However, NICAP emphasizes that no violation of
-security is involved, since there was no CIRVIS message (a report automatic-
-ally classified under JANAP 146), Joint Chiefs & Staff instruction.
+Reverend Leon Le Vore, New Jerusalem Christian Church, Pittsburgh, Pennsylvania.
 
-Four flying saucers, clocked over California at 300 mph, were tracked
-by Civil Aeronautics control tower operators on the night of March 23,
-according to a signed report now in NICAP's possession. The radar in-
-port casts new light on visual sightings at Oxnard Air Force Base — at
-the same hours that night.
+Professor A. Moxon P. Hines, Head of the Department of Physics, Defence University, Defence, Okla.
 
-At the time, the C.O. at Oxnard, Col. E. F. Carey, Jr., stated that no
-UFO's had been picked up by his base radar. He also said that a jet
+Rear Admiral Herbert B. Knowles, United States Navy, Retired, Ellicott, Maine.
 
-(Continued on Page 3)
+The report quoted was signed by one of four control-tower operators in the Civil Aeronautics Administration, all of whom tracked the four saucers at a large California airport. Since this case is directly linked with life airspace UFO sightings on Oxnard Air Force Base, investigation March 23, the operation will not be identified. However, NICAP emphasizes that no violation of security is involved, since there was no CIRVIS message (a report automatically raised under JANAP 146, Joint Chiefs of Staff instructions).
 
-8 Point Plan
-Offered Air Force
+Four flying saucers, clocked over California at 3600 mph, were tracked by Civil Aeronautics Administration control tower operators on the night of March 23, according to a signed report now in NICAP's possession. The radar past costs new light on visual sightings at Oxnard Air Force Base — at the same time and night.
 
-(Rest of text continues but is partially cut off in the image)
+At the time, the C.O. at Oxnard, Col. E. F. Carrey, Jr., stated that no UFO's had been picked up by his base radar. He also said that a jet
 
+Continued on Page 3
+
+NEW BOARD MEMBERS ANNOUNCED
+
+Panel of Special Advisers Also Announced
+
+Important additions to the NICAP Board of Governors and its Panel of Special Advisers have just been made public, including several World War II officers, aviation authorities, an electronics engineer, three airline pilots,
+
+Continued on Page 2
+
+ARMY RESCINDS CENSORSHIP ORDER AFTER NICAP PROTEST
+
+An official Army censorship order which placed a tight clamp on UFO reports at Fort Monmouth, New Jersey, was rescinded on July 10 after protests by the National Investigations Committee on Aerial Phenomena.
+
+Fort Monmouth Headquarters confirmed that the unusual provision had been included by satellite the intercepting directions from higher authority, claimed inexplicable by Intelligence officials. NICAP's section head caused the censorship to be dropped from revised order.
+
+Signed by Col. Charles L. Chin, Chief of Staff, the revised Ft. Monmouth order carried the following provision:
+
+Continued on Page 6
+
+[handwritten at top right: Starry 23-2 take-off on the air bases 1950 quarters and...]
 
 - page 38 -
 
-Here is the OCR text from the document:
+FOUR SAUCERS from Page 3
 
-FOUR SAUCES from Page 3
+Radar sightings included was a statement by Mrs. Robert Beaudoin, wife of an AP captain stationed at the base. Just after midnight, Mrs. Beaudoin had telephoned the base to report what she described as a "brilliant, flashing red object" in the sky over Santa Rosa Valley.
 
-(Rest of text continues from previous page)... included was a statement by Mrs. Robert Beaudoin, wife of an AF captain stationed at the base. Last after midnight, Mrs. Beaudoin had telephoned the base to report what she described as a "flashing red object" in the sky over Santa Rosa Valley.
+In checking the CAA radar observations, Operator 1 found that the UFO seen by Mrs. Beaudoin and other witnesses was one of the four they had tracked.
 
-Re-checking the CAA radar observations, Operator I found that the UFO seen by Mrs. Beaudoin and other witnesses was one that had been tracked.
+"This sighting," he concludes, "was in the same time as our radar sightings — 11:50 pm to midnight."
 
-"This 'sighting'," he concluded, "was at exactly the same time as radar sighting — 11:50 pm to midnight."
+Significantly after NICAP's receipt of this radar report, a letter signed by the Director was sent to Colossal Press, competing copies of the Oxnard AFB radar report and the report by the jet pilot. On May 4, NICAP received a reply letter, adjusted of their "at 1st-Lieut. (Capt. at Oxnard, which stated that "the UFO's in question" came investigated by Headquarters, AFSS Air Intelligence Service Squadron (data suppressed), which had headquartered at Edwards AFB, California. Stamps new investigative teams at all Air Defense bases. The team which investigated the Oxnard sightings came from Norton AFB, California).
 
-Immediately after NICAP's receipt of this radar report, a letter signed by the Director was sent to Colonel Carey, requesting copies of the Onizuka AFB radar report and the report by the jet pilot. On May 4, NICAP received a message from the adjutant of the 4th Fighter Group at Onizuka, indicating that the UFO's in question were investigated by the Intelligence Service Squadron (this squadron, which has headquarters at Mather AFB, Defense Intelligence Agency, Colorado Springs, Colorado).
+A NICAP letter to the 46024, or Edwards AFB, brought an official answer signed by Major John D. Taylor, Jr., Adjutant.
 
-Investigative terms at all Air Defense bases, this would include Onizuka AFB, California.
+ALLEGED PUBLIC RELEASE
 
-A NICAP letter to the 460th, or Ent Field, brought an official answer signed by Major John D. Taylor, Jr., Adjutant.
+Current Air Force policy," letter started, "is that the issuance of such information as you request can be made only by Headquarters, United States Air Force. Therefore, your letter to the Commander, 414th Fighter Group was forwarded, through channels, to Headquarters, USAF. Your letter of 8 May 1957 (a direct request to 46024 for the reports) will also be forwarded to Headquarters, USAF."
 
-"Current Air Force policy," Major Searle stated, "is that the issuance of such information as you request can be made only by Headquarters, United States Air Force. Therefore, your letter to the Commander, 4146th Fighter Group was forwarded, through channels, to Headquarters, USAF. Your letter of 8 May 1957 (a direct request to the 460th) likewise will also be forwarded to Headquarters, USAF."
+After waiting eight days for word from the Pentagon, NICAP telegraphed a new request to Maj. Gen. Joe W. Kelly, Director of Legislative Liaison, USAF, who for several years has been
 
-After waiting eight days for word from the Pentagon, NICAP telephoned a new request to Maj. Gen. Joe W. Kelly, Director of Legislative Liaison, USAF, who for several years has been the Secretary's official spokesman on UFO subjects (Copy of telegram and detailed request shown elsewhere in this issue).
+the Secretary's official spokesman on UFO subjects (Copy of related and detailed request shown elsewhere in this issue).
 
-In a letter to Representative Lee Metcalf, of Montana, General Kelly had insisted that UFO reports were not withheld from the press, and that information was supplied to the press on any sighting which had drawn national attention.
+In a letter to Representative Lee Metcalf, of Montana, General Kelly had insisted that UFO reports were not withheld from the press, and that information was supplied to the press on any sighting which had drawn additional attention.
 
-Since the Onard AFB sighting had been covered by press-wire stories, in accordance with General Kelly's policy declaration to Congressman Metcalf, "to confirm to the Air Force policy, the NICAP request was made by the Director, who is also Editor of the UFO INVESTIGATOR.
+Since the Oxnard AFB sighting had been covered by press-wire stories, in hundreds of newspapers, this obviously came under General Kelly's policy declaration to Congressman Metcalf. To conform to this Air Force policy, the NICAP request was made by the Director, who is also Editor of the UFO, INVESTIGATOR.
 
-To date, NICAP has received no answer to its two letters at the telegram to General Kelly. (A public attack on NICAP was made by an unnamed Air Force spokesman, three days after the wire to General Kelly, but this may have been only a coincidence. NICAP's only evidence is that General Kelly was involved in the matter, which is detailed in full, in the accompanying documentation).
+To date, NICAP has received no answer to its two letters or the telegram to General Kelly. (A public attack on NICAP was made by an unnambed Air Force spokesman; these days after he wired to General Kelly, but third-only knew up only it coincidence, but it did seem that General Kelly had involved in the circumstances which is described in full, in the March 15 issue of the UFO).
 
-Because of the obvious importance of the March 28 sightings, and the desire by the 3604 Intelligence Squadron's investigation report, NICAP believes that its members should be acquainted with all the facts, including the names of several witnesses who apparently have been silenced.
+Because of the obvious importance of the March 23 sightings, and the close flying of receiving the 46024 Intelligence Squadron's investigation report, NICAP believes that its members should be acquainted with all the facts including the names of several witnesses who apparently have been silenced.
 
-For details of the Pasadena and San Gabriel Valley reports, NICAP is indebted to Russ Leadabrand, columnist of the Pasadena Independent, who personally investigated the incidents, and who is Los Pitz, aviation writer of the Los Angeles Mirror-News. Mr. Pitz obtained additional information from a Ground Observer Corps identification expert, Lee Wagner, who has served as a volunteer with the Pasadena Air Filter Center for six years.
+For details of the Pasadena and San Gabriel Valley reports, NICAP is indebted to Runn Lenbergeacrd, columnist of the Pasadena Independent, who personally investigated the incidents, and also to Lee Pitt, aviation writer of the Los Angeles Mirror-News. M. Pitt obtained additional information from a Ground Observer Corps identification expert, Lee Wagner, who has served as a volunteer with the Pasadena Air Filter Center for six years.
 
-The first sighting on the night of March 28, as at first has been listed came from K.E. Jefferson, a Pasadena resident. At 9:55, Mr. Jefferson saw a brilliant, flashing object.
+The first sighting on the night of March 23, as at least the first one listed, came from K. E. Jefferson, a Pasadena resident. At 9:55, M. Jefferson saw a brilliant, flashing object
+
 Continued on Page 29
-
 
 - page 39 -
 
-Here is the OCR text from the document:
-
 PAGE 3
 
-FOUR SAUCERS (from Page 1)
-pilot ordered to search the area had
-seen nothing, though airmen, police
-and other ground observers clearly
-saw a moving object which flashed a
-brilliant red light.
+FOUR SAUCERS from Page 1
 
-At least one of the four UFO's
-tracked by radar was almost directly
-over Oxnard Air Force Base at this
-time, according to the CAA control
-tower operator's signed report. (In
-the following account this radar expert
-will be called Operator 1.)
+pilot ordered to search the area had seen nothing, though airmen, police and other ground observers clearly saw a moving object which flashed a brilliant red light.
 
-The time was 2330 (11:30 p.m.)
-With several other CAA men, Operator
-1 was on duty in the Municipal Airport
-control tower, Oxnard, California.
-"I was watching the radar scope,"
-his report continues, "when I noticed a
-target ship of a moving object about
-15 miles per hour and moving north-
-ward. At first I thought it was a lot,
-but I noticed it was moving much
-faster than a lot. It had been mov-
-ing about 15 miles when it came to an
-abrupt stop and remained stationary.
-Then three more targets appeared in
-close proximity to the first one."
+At least one of the four UFO's tracked by radar was almost directly over Oxnard Air Force Base at this time, according to the CAA control tower operator's signed report. (In the following account this radar expert will be called Operator 1).
 
-Operator 1 said the first target
-came up at 50 miles. Our radar re-
-cording shows the first target at 50
-miles. Operator 1 continues: "This
-object was moving in a southwesterly
-direction and quickly called to other
-tower personnel to watch this indica-
-tion of UFOs.
+The time was 2350 (11:50 p.m.). With several other CAA men, Operator 1 was on duty in the Municipal Airport control tower in Oxnard, California. "I was watching the radar scope," his airport statement. "When I noticed a target blip of a moving object) about 15 miles northwest and moving north-westerly. At first I thought it was a jet, then I noticed it was moving much slower than any jet I had ever seen on the scope. About 40 miles north-northwest it came to an abrupt stop and remained courses until within a radius of about three seconds."
 
-At 2336 (11:36 p.m.) it left the
-scope in the direction of the Naval
-Air Station, but not before it had
-been in close contact for 31 miles.
-It moved at 3600 miles per hour (ac-
-cording to our radar calculations).
+At this point, Operator 1 notified all controllers for all miles to speed. Control center said [illegible] them up to 2,000 miles per hour (120 miles later, or [illegible] minutes later, Operator 1 reported other UFO's and objects apparently also hovering at various altitudes. This time, he quickly called the other control tower operators to help him track the UFOs.
 
-Of fourth target, opposite to the
-first one, the report continues: "It
-was moving at 3600 miles per hour."
-Our radar does not give the height of
-altitude because our radar had to cut
-10,000 feet or less, because our
-radar's maximum height range is about
-10,000 feet."
+Of the/c, 30 seconds later at 0000 M.P.H. [illegible] one concerned told the report in the same direction as the flying Operator 1 states. "We had them on scope. Their speed was about 30 miles in 30 seconds. This figured out to 3600 miles per hour."
 
-Next day, Operator 1 read a news-
-paper account of the Oxnard Air Force
+"In minute or so later, a fourth object appeared in the same area," the radar report continues. "It went off the scope at 3600 miles per hour. Our radar does not give the height of aircraft; however, they had to be at 40,000 feet or lower, because our radar maximum height range is about 10,000 feet."
+
+Next day, Operator 1 read a newspaper account of the Oxnard Air Force
 
 Continued on Page 4
 
-
 - page 40 -
 
-Here is the OCR text from the document:
-
-JULY 1957
+JULY 1957                                                                PAGE 29
 
 FOUR SAUCERS from Page 4
 
-Moving over Downey (about 5 miles southeast of Los Angeles). Between then time and midnight, similar UFO reports were made by many California cities in Los Angeles, Pasadena, and throughout the San Gabriel Valley.
+moving over Downey (about 5 miles
+southeast of Los Angeles). Between
+their time and midnight, similar UFO
+reports were made by many Californians in Los Angeles, Pasadena, and
+throughout the San Gabriel Valley.
+Filter switchboards in the area
+were flooded with hundreds of calls,
+indicating that probably several thousand people saw at least one UFO,
+perhaps more. During the latter part
+of this period, both official and civilian reports poured into the Pasadena
+Air Filter Center.
 
-Police switchboards in the area were flooded with hundreds of calls, with many probably several thousand. Some people saw at least one UFO, perhaps more. During the latter part of the period, both official and civilian reports poured into the Pasadena Air Filter Center.
+According to a statement given to
+Russ Leadabrand by the Filter Center
+S.O., Capt. Joseph Fry, the first official report came in at 11:10 p.m., at
+which time Captain Fry notified Air
+Defense radar.
 
-According to a statement given to Russ Leadabrand by the Filter Center staff, Capt. Joseph Fry, the first officer on report came in at 11:10 p.m., at which time Captain Fry notified Air Defense region.
+"Between 2310 (11:10 p.m.) and
+2352," said Capt. Fry, "we had many
+reports. We had reports that indicated the UFO was completely silent.
+It was a bright white light. Some of the
+fellows claimed they heard the Orchard
+report that the light illuminated all
+the object."
 
-"Several" (11:10 p.m.) and 2350, said Capt. Fry, "we had many reports. We had reports that indicated the UFO was completely a bright white light. Some of the callers claimed they heard the "sound" of the UFO was compared to a "roar."
+But most observers, including two
+Filter Center men, reported seeing the
+object as glowing a bright red light.
+One of the men was Air Force T/Sgt.
+Dewey Crow, who is permanently attached to the Center. Until he saw
+the object, he was openly skeptical
+about UFO's.
 
-But most observers, including the Filter Center staff, described the object as showing a yellow-red light.
+The second Filter Center observer
+was Les Wagner, whose regular job is
+that of a Microwave shift writer in
+charge of the day-to-night identification section. During his six years of
+OIC duty, Wagner has become an expert on aircraft identification.
 
-One of the men was Air Force T/Sgt. Dewey Crow, who is presently stationed at the Center. Until he saw the object, he was openly skeptical about UFO's.
+While hundreds of people stared
+Pasadena's UFO sightings up at the floating UFO, T/Sgt.
+Crow and Wagner also watched it move
+about the area. Their combined observations covered a period of more
+than an hour. The two men admittedly
+were baffled.
 
-The second Filter Center observer was Les Wagner, whose regular job is that of a Micro-Wave stabilizer in charge of the air-movement identification section. During his six years of GOC duty, Wagner has been an expert on aircraft identification.
+Near midnight, the tempo of UFO
+reports increased. It was just after
+twelve when Mrs. Robert Denduke,
+wife of an Orchard AFB captain, telephoned the base tower from her home
+in Orchard Heights. Mrs. Denduke,
+who is familiar with aircraft types,
 
-While hundreds of people along the base tower from her home in Oxnard Heights, Mrs. Benson, who is familiar with aircraft types, positively described the UFO as a large, silent object, flashing a brilliant red light and maneuvering in the sky over Santa Rosa Valley.
+positively described the UFO as a
+large, silent object, flashing a brilliant red light and maneuvering in the
+sky over Santa Rosa Valley.
 
 F-89 Fails to Contact UFO
 
-In rapid succession, other telephone calls — some from airmen attached to the base — confirmed Mrs. Beausoleil's report. Since the base already had an F-89 jet in the air, the tower radioed the pilot to intercept the UFO, if possible. (The F-89 carries, besides the pilot, a radar operator specially trained for this type of interception.)
+In rapid succession, other telephone
+calls — some from airmen attached to
+the base — confirmed Mrs. Denduke's
+report. Since the base already had an
+F-89 jet in the air, the tower notified
+the pilot to intercept the UFO if possible (The F-89 carries, besides the
+pilot, a radar operator specially
+trained for this type of interception).
 
-According to the later report given to the press by Col. E. F. Carey, Jr., base commander, the F-89 crew was unable to make any contact, visual or radar. This attempted contact was timed at between midnight and 12:30.
+According to the later report given
+to the press by Col. E. F. Carey, Jr.,
+base commander, the F-89 crew were
+unable to make any contact, visual or
+radar. This attempted contact was
+initiated at between midnight and 12:20.
+But at approximately the same time
+(12:22 a.m.) several eye witnesses on
+the ground observed a strange,
+flashing red object hovering near one
+of the Orchard base runways.
 
-But at approximately the same time (12:22 a.m.), several eye witnesses on the ground reported sighting a strangely flashing red object hovering near one of the Oxnard base runways.
+Inasmuch as the witnesses were vacuuming an Orchard runway, in the
+hilly section — pick-up reportedly
+John Heyden, Paul Nelson, and Robert
+Cheshire. These three admitted later, on
+the ground, that they had observed
+the UFO under the field, but also
+reported it maneuvered swiftly about the
+field until 1:37 a.m., when it quickly
+disappeared on a northerly course.
 
-The county deputy sheriff from the County Sheriff's office, Dick McElvany, confirmed the report.
+Meanwhile, two policemen from Port
+Hueneme also had sighted the same
+red and moving craft which was reported
+to the Orchard tower.
 
-Meanwhile, two policemen from Port Hueneme, also had sighted the source and made a report, which was relayed to the Oxnard tower.
+It is on un-verified time, a Navy
+interceptor also joined in the search
+for the UFO, according to the United
+Press. (No attention is given to this
+slip since from which the plane
+was sent.)
 
-(A somewhat later, a Navy Interceptor also joined in the search for the UFO, according to the United Press.)
+From the final details given,
+it is not certain that all visual reports
+concerned the same UFO. It appears
+that many, not witnesses may have seen
+two or more of the four UFO's
+tracked by the CAA control tower
+at Burbank. It is quite possible that
+[illegible] separately this could account for
+the varied reports of hovering, accelerating, and swift maneuvers. However, all these visual reports may
+possibly concern a single object which
+maneuvered at varying speeds near
+Orchard AFB and the surrounding area.
 
-From the times and details given, it is not certain that all visual reports concerned the same UFO. It appears that witnesses may have tracked two or more of the four UFO's tracked by the CAA control tower separately. It may be more objects were seen separately this could account for the varied reports of hovering, occasional movement, and weird maneuvers. However, all these visual reports may possibly concern a single object which maneuvered at varying speeds near Oxnard AFB and the surrounding area.
+Balloons Ruled Out
 
-Balloon Ruled Out
+When the UFO was first sighted by
+T/Sgt. Dewey Crow and Les Wagner,
+in Pasadena, its slow movement
+caused Wagner to speculate on the possibility of a balloon with a new type of
+light (the combined visual and radar
+reports, combined, seemingly spoke of
+a maneuvering object). Wagner checked with the Atomic
+Energy Commission's test site in Nevada. The AEC stated the test
+balloon launching at the site had been
+on March 21, and the balloon had been
+accounted for. In addition, a spokesman pointed out, their balloons do not
+carry lights of any kind.
 
-When the UFO was first sighted by T/Sgt. Dewey Crow and Les Wagner, in Pasadena, its slow movement caused Wagner to check on the possibility of a balloon with a new type of light (the combined visual and radar reports, covering tremendous speeds and maneuvers, now appear to rule out any such answer completely).
+A second check, with Edwards Air
+Force Base, ruled out the weather
+balloon answer. No weather balloons
+carry red lights, Wagner was told.
+Also, the balloons launched in the
+preceding 40 hours had been tracked
+to about 100,000 feet, where they
+automatically were destroyed.
 
-Following a Weather Bureau suggestion, Wagner checked with the Atomic Energy Commission's test site in Nevada. The AEC stated the last balloon launching at the site had been on March 21, and the balloon had been accounted for. In addition, a spokesman pointed out, their balloons do not carry lights of any kind.
+Finally, the CAA also joined any
+connection with red-lighted balloon
+operations.
 
-A second check, with Edwards Air Force Base, ruled out the weather balloon answer. No weather balloons carry red lights, Wagner was told. Also, the balloons launched in the preceding 48 hours lack beacon tracking to about 100,000 feet, where they automatically were destroyed.
+The reported sightings seem to correspond, to any known type of aircraft, even those still in the test
+stage; all electrical operations in the
+area — military, civil and special
+testing — were quickly screened by
+the Air Filter Center, and this answer
+was ruled out.
 
-Finally, the CAA also denied any connection with red-lighted balloons.
+Following Air Force Regulation
+20-02, on the receiving of UFO's, the
+Pasadena Filter Center cited: the first
+verified UFO report, immediately notified Air Defense Command HQ at
+Colorado Springs, the Air Technical
+Intelligence Center, the Directorate of
+Intelligence at the Pentagon and the
+nearest Air Defense base — Norton
+AFB, in San Bernardino. A team of
+Intelligence investigators from the
+4602d Squadron unit at Norton was at
+once sent to Orchard AFB.
 
-Following Air Force Regulation 200-2, on the reporting of UFO's, the Pasadena Filter Center after the first verified UFO report, immediately notified Air Defense Command HQ at Colorado Springs, the Air Technical Intelligence Center, the Directorate of Intelligence at the Pentagon and the nearest Air Defense base — Norton AFB, in San Bernardino. A team of Intelligence "Investigators" from the 4602d Squadron unit at Norton was at once sent to Oxnard AFB.
+Though this is standard procedure,
+and is well known to the HQ staff at
+all Air Force bases, no mention of the
+4602d was made when Russ Leadabrand called the base at Norton.
+Major Thomas Bowers, Information
+Services Officer of the 27th Air Division
 
-Though this is standard procedure, and is well known to the HQ staff at all Air Force bases, no mention of the 4602d was made when Russ Leadabrand, called the base at Norton. Major Thomas Bowers, Information Services Officer of the 27th Air Div. Continued on Page 10
-
+Continued on Page 30
 
 - page 41 -
 
-Here is the OCR text from the document:
+PAGE 33
 
-PAGE 30
+FOUR SUCCESS from Page 29
 
-FOUR SOURCES (from Page 29)
+"...admitted they had received a number of civilian reports on the UFO. "They came from Los Angeles, Ventura, and eventually the Oxnard area," he told Laudsbrandt.
 
-Again, they had received a number of civilian reports on the UFO. "They came from Los Angeles, and," he told Loesbrandt, "were you able to identify the observers."
+"Were you able to identify the objects?" the columnist asked Major Bowers.
 
-"Negative," Bowers answered. "We were not able to pick up the object on radar. No Air Force personnel saw the object. (This corroborates the report by T/Sgt. Dewey Cron)." He added that a full report of the sighting was being sent to ATIC. "Major Bowers" failed to mention the swift on-the-spot investigation by a 4302 team from his own base may have no real significance, since the Oxnard AEB adjutant did not hesitate to inform NICAP of this fact.
+"Negative," Bowers answered. "We were not able to pick up the object on radar. No Air Force personnel saw the object (This contradicts the report by T/Sgt. Dewey Crow)."
 
-But except for this official confirmation to NICAP and the subsequent confirmation sent to NICAP by the 4302 headquarters, no additional information has been released. Instead, several of the witnesses named have either refused to comment or have not been available to answer them from answering.
+He added that a full report of the sighting was being sent to ATIC. "I believe the Technical Intelligence people are working out of Wright-Patterson," he added.
 
-On April 25, NICAP wrote to Mr. Beaudoin and asked for details later mentioned on the sighting. To date, there has been no reply.
+Major Bowers' failure to mention the swift on-the-spot investigation by a 4502d team from his own base may prove not insignificance, since the Oxnard AFB adjutant did not hasten to inform NICAP of this fact.
 
-AF Silence Sheds More
+Save except for this official admission sent to NICAP and the subsequent confirmation sent to NICAP by the 4502d Headquarters, no other official information has been released. Since the possible witnesses named have either refused to answer questions or their responses have been long delayed.
 
-On the same date, NICAP also wrote to the Sheriff of Ventura County, California, and requested that the deputies named: McKinley, Murphy and Conners, be permitted to forward all possible details, and also their personal opinions on their sighting. On May 15, NICAP received a reply from Sheriff William J. Synor, stating that all the information they had on this sighting was turned over to the officials of Oxnard Air Force Base. It was evident that he had been ordered to neither furnish the reports NICAP had requested, nor permit his men to be interviewed by a NICAP representative in Ventura.
+On April 25, NICAP wrote to Mrs. Benudulin and asked for detailed information on the sighting. To date, there has been no reply.
 
-"To cooperate in having these officials fully authorized interview by any military officer."
+AF Silences Sheriff's Men
 
-Suyler told NICAP as available for interview. Once the Air Force on its own, in order, neither an admin- in the Navy, an Army general, nor even a high-ranking Air Force officer could interview the deputies without approval by AF intelligence.
+On the same date, NICAP also wrote to the Sheriff of Ventura County, California, and requested that the three deputies named: McKendry, Murphy and Carnshaw, be permitted to forward all possible details and also their personal opinions on their sighting. On May 15, NICAP received a reply from Sheriff William J. Suytar, stating that all the information they had on this sighting was turned over to the officials at Oxnard Air Force Base. It was evident, that he had been ordered to neither furnish the reports NICAP had requested, nor permit his men to be interviewed by a NICAP representative in Ventura.
 
-From the foregoing evidence, it appears that highly important facts about the March 29 California sightings are being withheld from the public. This case is still being investigated by NICAP, but a complete analysis by NICAP's Special Advisor is not possible without the report of the 4302 Intelligence Squadron, now at Air Force Headquarters.
+"We would be most happy," Sheriff
 
-Pending AF action on NICAP's request for this report, under the policy followed by General Kelly, anyone in the United States with authentic information or personal knowledge of the facts is free to report to NICAP - asking that it would be an actual solution of all mystery sightings.
+"No cooperate in the Suytar told NICAP "is available for having these official July authorized Interview by any military officer." "We him say" Once the Air Force gave in order, neither an admiral, the Navy, an Army general, not even a high-ranking Air Force officer can Interview the deputies without approval by AF Intelligence.
 
-NICAP INVESTIGATOR
+From the foregoing evidence it appears that highly important facts about the March 23 California sightings are being withheld from the public.
 
+This case is still being investigated by NICAP, but a complete analysis by NICAP's Special Advisers is not possible without the report of the 4502 Intelligence Squadron, now at Air Force Headquarters.
+
+Pending AF action on NICAP's request for this report, under the policy stated by General Kelley, known in the United States with authentic information or personal knowledge of the facts is requested to send a report to NICAP. Insomuch his would be an actual stalement of military activity through UFO-report forms will be used by network, and persons will be kept confidential if requested. When additional written information is received, whether on the actual sightings or on the Air Force Investigation, this will be given to Congress, and the press, either by special bulletin or through the UFO INVESTIGATOR.
 
 - page 42 -
 
 NATIONAL INVESTIGATIONS COMMITTEE
 ON AERIAL PHENOMENA
-WASHINGTON 6, D.C.
-April 25, 1957
 
-Colonel H. F. Carey, Commanding Officer
+ILLINOIS, NORTH 7-8434                    WASHINGTON D. C.
+AREA ADDRESSES:                           April 25, 1957
+SKYLIGHT
+
+BOARD OF GOVERNORS
+CHAIRMAN
+MAJOR GENERAL DAVID I. TABER (RET.)
+CHARGED D. PENNSYLVANIA
+
+REV. ALBERT M. BALLER
+CHAIRMAN EMERITUS
+ADMINISTRATIVE SCIENCE
+RESEARCH UNIVERSITY
+
+BRIG. GEN. THEODORE C. CHETSOM,
+USA (RET.)
+BALTIMORE
+
+FRANK EDWARDS
+RADIO-TV COMMENTATOR
+NEW YORK CITY
+
+COL. ROBERT E. HERNDON,
+USA (RET.)
+
+NUCLEAR PHYSICIST
+PASADENA, CALIFORNIA
+
+LT. GEN. JAMES H. DOOLITTLE,
+USA (RET.)
+FORMER CHIEF OF STAFF
+
+REV. J. LEONARD CARTON
+VICE CHAIRMAN
+
+BRIG. CHARLES A. BARNES
+DIRECTOR, MILITARY COLLEGE
+CONNECTICUT
+
+ABRAHAM H. BRICKBINDER
+FORMER DEPUTY DIRECTOR
+OF AMERICAN
+
+SECURITY ASSOC.
+
+TALBOT T. SPENCE
+ASTOR FOUNDATION
+BALTIMORE, MARYLAND
+
+EVALUATION OF INFORMATION
+
+GEN. ALBERT C. WEDEMEYER
+POOLSVILLE, MARYLAND
+
+[handwritten: Referred to Air Adj. Army]
+
+[handwritten: HQ to follow up]
+
+ADMINISTRATIVE OFFICE:
+1834 CONNECTICUT AVE., N.W.
+
+Colonel B. F. Carey, Commanding Officer.
 Oxnard Air Force Base
 Camarillo, California
 
 Dear Colonel Carey:
 
-As the Director of the National Investigations Committee on Aerial Phenomena, I am writing you in regard to a UFO sighting near Oxnard Air Force Base on March 23. We have been reliably informed that four UFOs were tracked by radar in the area, monthly after midnight on March 23. The indicated speeds were as high as 3600 mph.
+As the Director of the National Investigations Committee
+on Aerial Phenomena, I am writing to you in regards to a
+UFO sighting near Oxnard Air Force Base on March 23. We
+have been reliably informed that four UFOs were tracked
+by radar in the area, shortly after midnight on March
+23. The indicated speeds were as high as 3500 mph.
 
-We also have been informed that an Air Force jet fighter pilot under your command was vectored to intercept the UFOs. It is later given that he was able to give this operations and intelligence officer a good look at the objects.
+We also have been informed that an air base jet fighter
+pilot under some condition was vectored to intercept the
+object. What he sighted gave the base operations and in-
+terception personnel a detailed description of the in-
+tense red light.
 
-[The rest of the text continues but becomes increasingly difficult to read clearly. The bottom of the document is signed "DIRECTOR OF NICAP" with some additional markings.]
+It is requested that since a copy of this report that eight or more
+sightings have been immediately thereafter and that we have
+been asked to contact, available and furnish authentic
+information on the subject of unidentified flying objects
+and we believe the March 23rd report to be in the public
+domain.
 
+If these reports have been classified clearly, however,
+following the recent published suggested Mr. Representative
+were made - that we be supplied the following information:
+
+1. What is the classification of the reports?
+
+2. By whom were they classified?
+
+3. By what authority were they classified?
+
+A stamped self-addressed envelope is enclosed for your con-
+venience. The Committee will greatly appreciate your co-
+operation in this matter.
+
+Sincerely yours,
+
+[signature]
+
+DIRECTOR OF NICAP
+
+[handwritten: [illegible]]
 
 - page 43 -
 
 10 May 1957
 
 Director
-Aerial Investigations Committee
-c/o Aerial Phenomena
-1536 Connecticut Ave., N.W.
-Washington, D. C.
+Natural Investigations Committee
+c/Aerial Phenomena
+1520 Connecticut Ave, N.W.
+Washington 6, D.C.
 
 Dear Sir:
 
 Receipt is hereby acknowledged of your letter of 3 May 1957.
 
-Current Air Force policy is that the issuance of such information as you request can be made only by Headquarters, United States Air Force. This letter, yours letter 3 May 1957, was forwarded, through channels, to Headquarters, USAF.
+Current Air Force policy is that the issuance of such information to persons other than by Headquarters, United States Air Force. Therefore, your letter to the Commander, 414th Fighter Group was forwarded, through channels, to Headquarters, USAF.
 
-Your letter of 3 May 1957 will also be forwarded to Headquarters.
+Your letter of 3 May 1957 will also be forwarded to Headquarters, USAF.
 
 Sincerely,
 
@@ -1422,43 +2000,53 @@ JOHN D. TAYLOR, JR.
 Major, USAF
 Adjutant
 
+[handwritten: Ltr from ATIC (NICAP) on this case]
 
 - page 44 -
 
-Here is the text I can discern from the document:
+3.) Oxnard, California (Mar. 1957)
 
-3. Oxnard, Calif.
+This case was initially brought to the attention of UFO clubs and later to the Air Force. Major Keyhoe sent a report to ATIC.
 
-This was initially was somehow brought to the attention of UFO club Major Keyhoe and later to the explanation of the Air Force.
+A woman in the Oxnard area putted at Oxnard observed what she termed as a "flying saucer" near her home. Hysterical with fear, she called the local sheriff's office. The sheriff contacted the local Civil Defense Officials, who scrambled and searched the area. Nothing was found. During this period the Oxnard Police Department was given a "detailed Intelligence Report" made available to them.
 
-[Much of the text is obscured or illegible due to dark vertical streaks across the document. Some words and phrases can be partially made out, but not enough to confidently reconstruct full sentences.]
+[illegible section - text heavily obscured by dark marks/redactions]
 
-The document appears to be a report about a UFO sighting in Oxnard, California, but significant portions of the text are unreadable due to the image quality and dark vertical streaks covering much of the text.
-
+A barn east of [illegible] carried dark shiney black triangulation of a [illegible] and its [illegible] from a window and gave the unusual appearance of landing. It appeared to the [illegible] were about five feet from the [illegible] of conventional in [illegible]
 
 - page 45 -
 
 NATIONAL INVESTIGATIONS COMMITTEE
 ON AERIAL PHENOMENA
-WASHINGTON 5, D.C.
+WASHINGTON 6, D.C.
+
+ADMINISTRATIVE OFFICES
+1836 CONNECTICUT AVE. N.W
+
+TELEPHONE NORTH 7-2434
+Air, Alexandria
+SKYLIGHT
 
 May 9, 1957
 
+MAJOR DONALD E. KEYHOE
+U.S.A.F. RET., DIRECTOR
+
 Commander 4402 Air Intelligence Service Squadron
-Hq Air Force Base
+Ent Air Force Base
 Colorado Springs, Colorado
 
 Dear Sir:
 
 We have received a letter from the 414th Fighter Group, Oxnard Air Force Base, stating that our letter of April 25th had been forwarded to your office for action, since your Squadron investigated the UFO's involved.
 
-In our letter to Commanding Officer at Oxnard Air Force Base we asked for copies of the pilot's report and the radar operator's report on the unidentified flying object sighted over the air base early on March 23rd. In addition, I should like to request at this time a copy of the investigation by the 4402 Air Intelligence Service Squadron. If this report is completed, in the event the report is not completed, will you please advise me when it will be available?
+In our letter to Commanding Officer at Oxnard Air Force Base we asked for copies of the pilot's report and the radar operator's report on the unidentified flying object sighted over the air base early on March 23rd. In addition, I should like to request at this time a copy of the investigation by the 4402 Air Intelligence Service Squadron, if this report is complete.
 
-We should like to have a copy of this investigation of the various witnesses involved and any other information connected with this case.
+In the event the report is not completed, will you please advise me when it will be submitted? We should like to have priority on the investigation of the various witnesses involved and other information connected with this case.
 
-As stated in our letter of April 25th, to the C.O. of Oxnard AFB, we herewith documentary evidence of radar confirmation of the visual sighting report.
+As stated in our letter of April 25th, to the C.O. at Oxnard AFB, we have documentary evidence of radar confirmation of the visual sighting reports.
 
-I am making this request as a member of the press. I am editor of the NICAP magazine, published monthly at Washington, D.C., for the membership of this non-profit organization. In order that we may know when to schedule our story on this incident, will you please write me collect at the above address, giving the date when you expect to mail this information?
+I am making this request as a member of the press. I am editor of the NICAP magazine, published monthly at Washington, D.C., for the membership of this non-profit organization. In order that we know when to schedule our story on this incident, will you please write me collect at the above address, giving the date when you expect to mail this information?
 
 The National Investigations Committee was organized to collect, evaluate and publish authentic evidence on UFO's and we shall greatly appreciate the cooperation of the Air Defense Command and your Intelligence Squadron in particular in informing the public regarding these sightings. In return we shall be glad to cooperate in every way possible. Our policy, which was once the policy of the Air Force, is to make public all the information we secure except the names of witnesses who request that they not be identified.
 
@@ -1466,413 +2054,482 @@ Thank you for your assistance in this matter.
 
 Sincerely yours,
 
-[Signature redacted] Major USMC (Ret.), Director of NICAP
+DER.RHC                                Major USMC (Ret.) Director of NICAP
 
-A persistently supported fact-finding body serving the national public interest
-
+A precedently-supported fact-finding body serving the national public interest
 
 - page 46 -
 
-National Investigations Committee on Aerial Phenomena
+[handwritten: various illegible margin notes throughout]
+
+NATIONAL INVESTIGATIONS COMMITTEE ON AERIAL PHENOMENA
+1536 Connecticut Ave., N.W.
 Washington 6, D.C.
 
-Your letters of 25 April 1957 addressed to the Commander of Oxnard Air Force Base, and 8 May 1957 to the 4602nd Air Defense Command, regarding a UFO recently reported near Oxnard, California has been referred to this Headquarters.
+Dear [redacted]:
 
-It is the policy of the Air Force to answer all letters on the subject, general or the intent, active or objective of the writer. We shall attempt to answer your questions and answers categorically, beginning with your letter of 25 April:
+Your letter of 25 April 1957 addressed to the Commander of Oxnard Air Force Base, and 8 May 1957 to the 462nd AIRL Air Defense Command, regarding a UFO recently reported near Oxnard, California has been referred to this Headquarters.
 
-a. Radar units were operative during the entire period of the sightings. Any indications of unusual or unknown objects could have been immediately reported. Radar reports for the period in question indicated so unusual unknown phenomena.
+It is the policy of the Air Force to answer all letters on the subject, regardless of the intent, motives or objectives of the writer. We shall attempt to answer your questions and answers categorically, beginning with your letter of 25 April:
 
-b. Two Air Force F-89's which were in the air at that time, were ordered to make a search-intercept over the area. Two Navy aircraft also made a search. Nothing was found, radar or visually.
+a. Radar units were operative during the entire period of the sightings. Any indications of unusual or unknown objects would have been immediately reported to proper authorities. Radar reports for the period in question indicated so unusual unknown phenomena.
+
+b. Two Air Force F-86's which were in the air at that time, were ordered to make a search-intercept over the area. Two Navy aircraft also made a search. Nothing was found, radar or visually.
 
 c. There are no classified reports regarding the pilot's findings.
 
-With respect to your Letter of 8 May 1957 please be advised of the following:
+With respect to your letter of 8 May 1957 please be advised of the following:
 
-a. As you point out in your letter, the names of sources, witnesses and principals cannot be disclosed, nor can their statements be revealed without their permission.
+d. As you point out in your letter, the names of courses, witnesses and principals cannot be disclosed, nor can their statements be revealed without their permission.
 
-b. Investigations were made not only by the Air Force, but by local police, highway patrol, and sheriff's units. These independently converged on the area reported, and also investigated the source's immediate grounds.
+b. Investigations were made not only by the Air Force, but by local police, highway patrol, and sheriff's units. These independently confirmed in the area reported, and also investigated the source's immediate grounds.
 
 c. Nothing unusual was found by these units. The following were disclosed, however:
 
-(1) A barn was located in a field under the area of the reported UFO. Red clearance lights were found installed on each corner of the roof.
-
+(1) A barn was located in a field under the area of the reported UFOs. Red clearance lights were found installed on each corner of the roof.
 
 - page 47 -
 
-Here is the OCR text from the document:
-
-(2) Detailed line-of-sight plots from the source's clearing point and the "unusual" green object, was a "shiny" telegraph pole with three cross bars. The green object, and two of the red lights on the barn, were viewed through cross-bars. It is possible that there may have been some interplay of light on the cross-bar insulators from random sources, such as auto headlights.
+(2) Detailed line-of-sight plots from the source's observing point and the "unusual" green object, was a "shiny" barn graph pole with three cross bars. The green object, and two of the red lights on the barn, were viewed through the cross-bars. It is possible that there may have been some interplay of light on the cross-bar insulators from random sources, such as auto headlights.
 
 (3) Directly in the line-of-sight, as pointed out by source, and beyond the lights on the barn, was a very bright star, Arcturus, in the sky. This was corroborated by a professional astronomer in a local educational institute.
 
-(4) The sighting was observed through a window. The appearance of the red lights on the barn, with a bright-green star in the background, as observed through telescope with views and insulators could conceivably produce unusual light effects.
+(4) The sighting was observed through a window. The appearance of the red lights on the barn, with a bright-green star in the background, as observed through telegraph wire and insulation could conceivably produce unusual light effects.
 
-(5) It is interesting to note that the objects reported were observed for over two hours, with apparently very little movement. Yet, no report of any unusual phenomena was received from other than the source reporting the UFO.
+(5) It is interesting to note that the objects reported were observed for over two hours, with apparently very little movement. Yet, no report of any unusual phenomenon was received from other than the source reporting the UFO.
 
-This report is typical of the many received by the Air Force, which upon investigation results in the UFO observed being identified as a conventional object or known phenomenon. We, of course, cannot comment on the report's veracity, nor can we, however, their reliability, beliefs, emotional state, personality or character.
+This report is typical of the many received by the Air Force, which upon investigation results in the UFO claimant being identified as a conventional object or "known phenomenon". We, of course, cannot comment on an investigation in any investigation: the sources, their reliability, methods, working data, probability or character.
 
-On the basis of the known facts, this incident in our opinion totally unwarranted and not supported by the facts. This case does serve to indicate the thoroughness with which our UFO sighting is investigated, if properly reported, a fact not often known to the general public.
+On the basis of the above, any attempt to attribute anything unusual to this sighting is without support, both unreported and not supported by the facts. This case does serve to indicate the thoroughness with which any UFO sighting is investigated, if promptly reported, a fact not often known to the general public.
 
 Your interest in this matter is appreciated.
 
 Sincerely,
 
-
 - page 48 -
 
 UNCLASSIFIED
 
+FILE CLASS: ________
 OFFICIAL FILE COPY
 
-Closed UFO Case - 22 March 1957
+OFFICE OF RECORD
+
+[handwritten: Alleged UFO Chase - 22 March 1957]
+
+AFOIN-4X2b
+
+AFOIN-4X2c
+
+AFOIN-4X3
+
+AFOIN-4X4
+
+AFOIN-4A
+
+AFOIN-4B
+
+AFOIN-4C
+
+AFOIN-4B
 
 22 May 1957
 
-Reference is made to letter Headquarters USAF 29 May 1957, between your office and this Command's findings was given you verbally during these discussions.
+Reference is made to Headquarters Air Force Letter dated by May 1957, between your office yesterday, this Command received a request for detailed information concerning a UFO sighting given by regularly during these discussions.
 
-This case, which has been given more attention by the press, is threatening to give the Air Force some adverse publicity through the National Military Establishment of the National Advisory Committee on Aerial Phenomena. Attached are two letters from this headquarters addressed to Hq ADCS, ATTN: ADCS-Alb2, Engineering, and Hq USAF, AFOIN-4X2, respectively, enclosing all information and reports resulting from our investigation. The allegations are not supported by the facts.
+This case was also submitted by the Air Force in dispatching to give the Air Force updated authority through the indirect efforts of the National Advisory Committee on Aerial Phenomena. Attached are two letters from this committee requesting further information of requested material. In view of a recent report which relates all investigation and reports pending from our investigations and other sources. The allegations are not supported by the facts.
 
-In compliance with your instructions for providing Headquarters "DAF" with all case material, is enclosed my synopsis from either the place or higher headquarters. The attached 1st Ind, dated 3 April 1957, to Headquarters USAF, Ser 15-IC-USAF-157, dated 3 April 1957. Investigations also involved both DAF and Navy aircraft. As such, the investigation may be considered
+In compliance with your instructions for providing Headquarters USAF with all case material, in anticipation of any queries from either the press or higher authority, we are enclosing a preliminary report of the investigation, which was submitted to Headquarters USAF as 1-13-1-57-61-1-57, dated 3 April 1957. Investigations also involved [illegible] which furnished and early and specific report of [illegible], both USAF and Navy aircraft. As such, the investigations may be concluded.
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
-ROUTING AND COORDINATION SHEET
-
-[Bottom of document has some routing/filing markings]
-
-
-- page 49 -
-
-Here is the OCR text from the document:
-
-UNCLASSIFIED
-
-May 27, AFOIN-11, Subj: Report on Oxnard UFO Case, 22 Mar 57
-
-(Paragraph 1 is partially illegible)
-
-The report of the Air Force's investigation (1st endorsement, 1st indorsee) with Oxnards is unclassified, and supports our commissioned subject to Hq USAF, the General Weather Br could be called to assist if higher levels, practically the Office of Information, were involved.
-
-In conclusion, it is the opinion of this Center that this case was handled at its inception, and the uniforma that a 2 events, which might have critically receiving the report should have contacted the nearby AIS (Air Intelligence Service) for investigation, instead of the local police and civil authorities.
-
-(Several lines of routing information are partially illegible)
-
-In reply to May, Cyprus we on case dated and findings to be joint K. (Capt. S. Jones), he stated they had gotten together with OIS and the etc.
-
-UNCLASSIFIED
-
-
-- page 50 -
-
-FILE CLASS:
-OFFICIAL FILE COPY
-
-OFFICE OF RECORD
-
-1 OCT 1957
-
-Attached for your information and whatever action deemed necessary, is a copy of a letter from the Directorate of Intelligence, Headquarters USAF (MCIAO), the outstanding article and directive of the Air Force regarding the Oxnard Incident. Reference is made to a recent briefing given to the Office of the Inspector General, by Mr. Defenr, in which the case was discussed in some detail.
-
-Attention is invited to first page of the report. The charges involved against the Air Force regarding the Oxnard Incident are deliberately false. The Air Force social investigation and findings were given to Capt. Kelly, the Permanent Quarters to General Kelly and the Commander of Oxnard AFB, with AIG. See attached copies.
-
-With respect to a rumor report allegedly given by a CAA control tower operator and substantiated by the base unit at Oxnard, however, if true, the serious-minded matter of submitting rumor reports to an unofficial, biased organization, possibly to be reported to the proper authorities.
-
-[Bottom of document has routing and coordination markings]
-
-
-- page 51 -
-
-Here is the text I can discern from the document:
-
-[Top Right]
-OFFICIAL FILE COPY
-OFFICE OF RECORD
-
-[First Paragraph - partially legible]
-... revised to 1270A(9) Jan 50 ... concerning ... indicated an estimate of "planet" or "searching" ...
-
-[Second Paragraph - partially legible]
-... of this Center the document merits close study, with ... purpose than that of being ... for taking ... with regard to any items that may arise as ...
-
-[Bottom Left]
-27 Jan 65
-1R A Mod 27 cpl
-
-[Bottom Right - Routing and Coordination Sheet]
 PERM
 TEMP
 90 DAYS
 INITIAL
 
-[Bottom Margin]
-AF-WP-D-10 NOV 56 5M
+OTHERS
 
-Some text is illegible or partially obscured due to the document's poor image quality.
+ATIC FORM 144 (REV 20 FEB 56)          ROUTING AND COORDINATION SHEET          AF-PP-0-30 NOV 14 25w
 
+- page 49 -
+
+[stamp: UNCLASSIFIED]
+
+FILE CLASS________
+OFFICIAL FILE COPY
+
+_________OFFICE OF RECORD
+
+On 27 Mar 57, AFOIN-1, Subj: Report in Covered UFO Case & 2d Endorsement
+
+______was contacted, prior to the dispatch of the ___ to the cited obj in part. He stated that in whole or in part, the obj in question was identified.
+
+______ code to information. His known ability for locating the Air Force in ___. Light is well known.
+
+The report of the Air Force's investigation (IR per above) which ______ believes is unclassified, and supports our conclusion mentioned to ______. However, the decision whether it should be released to this ______ does from Headquarters USAF. Accordingly, it is the opinion of the undersigned that any inquiries regarding the claim should be routed to the Aerospace at higher levels, preferably the Office of Information Services.
+
+In conclusion, it is the opinion of this Center that this case was ______ handled at its inception, and the unfortunate train of events which ______ to give it this unwarranted attention, could have been avoided. The ______ believed they reported should have contacted ATIC only which ______ was responsible for UFO investigations, instead of the local police which still authorities.
+
+AFOIN-4B
+
+AFOIN-4C___
+
+U.S. MAILING:57 (257-L447+2)
+May [illegible]
+[illegible]ATSGT
+L3 ARMED ATSG w/l Indl.
+L5 ARMED ATSG v/p Incl.
+[illegible] reply to Keyana________
+
+AFOIN-4D A___Form RE., [illegible]-57
+
+AFOIN-4E
+
+[handwritten: In search & May, Bymer re on due kind and planning to be gone to T. Cose, 5, time), to stated they had yellow tongue with OPS and 80 etc read on.]
+
+[stamp: UNCLASSIFIED]
+
+PERM / [blank]
+TEMP / [blank]
+NO DAYS / [blank]
+INITIAL / [blank]
+
+AFOIN-4F
+
+OTHERS
+ARMY___4-4Y
+
+AF-WD-0-19 NOV 35 1954
+FORM---PER 50 AIR FORCE ROUTING AND COORDINATION SHEET
+DOC DIR BSRD
+
+- page 50 -
+
+[stamp: FILE CLASS OFFICIAL FILE COPY]
+
+[stamp: OFFICE OF RECORD]
+
+[handwritten: 1 OCT 1957]
+
+[illegible section - heavy degradation in upper portion]
+
+Attention is invited to first page of the report. The charges leveled against the Air Force regarding the Oxnard Incident are deliberately false. The scientific investigations and findings given herein are based on factual data submitted by officials of Oxnard A/B, CAA, and the Commander of Oxnard A/B. (See attached copies.)
+
+Re: Report to a radar report allegedly given by a CAA control tower operator at Oxnard. However, if true, the erroneous data received is obviously the result of a person at the tower submitting radar reports to an unofficial, biased organization. Presently, said incident be reported to the proper authorities.
+
+[illegible section - signature and additional text]
+
+[Bottom of page contains routing stamps and form number: AF-WP-0-30 NOV 16 1958]
+
+ROUTING AND COORDINATION SHEET
+
+[Right side contains a table with fields:]
+PERM
+TEMP
+90 DAYS
+INITIAL
+
+- page 51 -
+
+[stamp: OFFICIAL RECORD]
+
+[stamp: OFFICE RECORD]
+
+[illegible section - top portion heavily degraded]
+
+...portion of this Center the document herein cited and xxx-
+[illegible] ...for purpose that that of being forwarded and/or tasking
+[illegible] ...regards to any issue that may arise as result a w....
+
+[illegible section - middle portion]
+
+Forwarded
+
+Requested Reply
+
+[illegible - appears to be form field labels on left side]
+
+AFOIN-4C
+
+AFOIN-4D
+
+[handwritten: 47 heavy US ]
+
+[handwritten: UK-A Almond 27 Capt]
+
+AFOIN-4F
+
+[handwritten: 15 + [illegible] Please as OAFS]
+
+2
+
+[Box containing:]
+PERM
+TEMP
+90 DAYS
+INITIAL
+
+ROUTING AND COORDINATION SHEET          AF-WP 0-18 NOV 54 RIM
 
 - page 52 -
 
-Here is the OCR text from the document:
+Sigyt told NICAP it appeared to unknown objects those official saw UFO for him. Saw by only duly authorized military, others."
 
-[Note: Some parts of the text are slightly illegible due to the image quality, so I've transcribed what I can clearly read]
+Those in Air Force area had such in order, neither an admiral in the Navy, an Army general, nor even a high-ranking Air Force officer could interview the witnesses without approval by Air Intelligence.
 
-...highly authorized...
+From the reassaying evidence, it appears that highly important facts about the Norm 23 California sightings are being withheld from the public.
 
-...Air Force now has such...
-...neither as natural in the...
-...Army general, nor even a...
-...Air Force officer could...
-...deputies without ap-...
-...Air Intelligence...
+"This case is still being investigated by NICAP, but a complete analysis by NICAP's Special Advisers is not possible without the report of the 4602 Intelligence Squadron, now at Air Force Headquarters.
 
-From the foregoing evidence, it ap-
-pears that highly important facts about
-the North 23 California sightings are
-being withheld from the public.
+Pending AF action on NICAP's request for this report, under the policy stated by General Kelly, anyone in the United States with authentic information or personal knowledge of the facts is requested to send a report to NICAP — unless this would be un-avoidable violation of military security. NICAP UFO-report forms will be sent on request, and names will be kept confidential if so requested.
 
-This case is still being investigated
-by NICAP, but a complete analysis by
-NICAP's Special Advisers is not pos-
-sible without the report of the 4602
-Intelligence Squadron, now at Air
-Force Headquarters.
-
-Pending AF action on NICAP's re-
-quest for this report, under the policy
-stated by General Kelly, anyone in
-the United States with authentic in-
-formation or personal knowledge of
-the facts is requested to send a report
-to NICAP — whatever this would be
-considered valuable. Military records
-of NICAP-UFO/report form will be
-sent on request and names will be
-kept confidential if so requested.
-
-When additional medical information
-is received, whether on the actual
-sightings or on the Air Force investi-
-gation, this will be given increasing
-coverage in future NICAP Bulletins.
-
-INVESTIGATOR
-
+When additional verified information is received, whether on the sightings or on the Air Force investigation, this will be given in another OFFICIAL BULLETIN, through the UFO INVESTIGATOR.
 
 - page 53 -
 
-Here is the OCR text from the document:
-
-[Note: Some parts of the text are faint or partially illegible, so I've transcribed what I can clearly read]
-
-[Top section partially illegible, but begins with something about describing a UFO]
-
-When the UFO was first sighted by
-USAF, Clower and Las Vegans
-in Pasadena, the object's movement
-caused "wonder at the speed of the object" or a balloon with a new type of
-light. The consensus: clearly, and
-separately, a solid, metallic, guided
-and maneuvered craft.
-
-Following a Western Ballistics observation, Widmer checked with his Atomic
-Energy Commission's field office in
-Nevada. The AEC noted the local
-balloon launching at the elapsed time
-on March 11, and this eliminated that
-possibility. In addition, a spokesman
-was quoted out, that balloons do not
-simply light up, stay bright, and move
-as this object did.
-
-A second check with Force Base, Allied, and local weather
-station confirmed no balloon was aloft.
-Also, that balloons in the Pasadena
-area, 58 hours later, were tracked to
-100,000 feet.
-
-[Rest of document contains various details about investigation, communications between NICAP and other agencies, and a section about "AF Silences Sheriff's Men"]
-
-The text is from a Project Blue Book era UFO report document discussing a UFO sighting, with various official communications and investigations noted.
-
+[NON-TEXT PAGE: black-and-white scan of a typewritten document with significant image degradation, multiple layers of text visible but largely illegible due to poor contrast and scanning artifacts]
 
 - page 54 -
 
-THE SIGHTING AT OXNARD AIR FORCE BASE, CALIFORNIA, ON MARCH 23, THE OXNARD ADJUTANT HAS INFORMED US THAT YOUR 4602 AIR INTELLIGENCE SERVICE SQUADRON INVESTIGATED THE UFOS, AND THE 4602D HAS REFERRED OUR REQUEST FOR THE REPORT TO AIR FORCE HEADQUARTERS.
+[stamp: DECLASSIFIED]
 
+1 e. THE SIGHTING AT OXNARD AIR FORCE BASE, CALIFORNIA,
+ON MARCH 23. THE OXNARD ADJUTANT HAS INFORMED US THAT YOUR
+4502 AIR INTELLIGENCE SERVICE SQUADRON INVESTIGATED THE
+UFOS. AND THE 4502D HAS REFERRED OUR REQUEST FOR THE REPORT
+TO AIR FORCE HEADQUARTERS.
+
+[left margin, handwritten vertically: IN LAST KEY III IN PENDING THIS CASE REFERRED TO AIR FORCE HEADQUARTERS FOR ACTION]
 
 - page 55 -
 
-PROJECT 10073 RECORD CARD
+1. DATE: 22 March 1957
 
-1. DATE
-22 March 1957
+2. LOCATION: Oxnard, California
 
-2. LOCATION
-Oxnard, California
+3. DATE-TIME GROUP: Local 1115 PST
 
-3. DATE-TIME GROUP
-Local 1115 EST
-GMT 23/07:47
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
 
-4. TYPE OF OBSERVATION
-☒Ground-Visual ☐Ground-Radar
-☐Air-Visual ☐Air-Intercept Radar
+5. PHOTOS:
+[ ] Yes
+[X] No
 
-5. PHOTOS
-☐ Yes
-☒ No
+6. SOURCE: Civilian
 
-6. SOURCE
-Civilian
+7. LENGTH OF OBSERVATION: 5 hours 15 minutes
 
-7. LENGTH OF OBSERVATION
-5 hours 15 minutes
+8. NUMBER OF OBJECTS: 3
 
-8. NUMBER OF OBJECTS
-1st: 6 - 3rd
-3 2nd
+9. COURSE: 1st 0 - 3rd, 2nd
 
-9. COURSE
-Converging Light
+10. BRIEF SUMMARY OF SIGHTING:
+One bright, round meter, color green, object seemed to throb and pulsate & change shape occa sionally. No sound, object snappily defined alternately, and did not have a tail. A shiny aluminum pole like pole appeared at times atop object. Later two small red objects appeared. And still later two red objects appeared.
 
-10. BRIEF SUMMARY OF SIGHTING
-One object, round meter, color green, object seemed to throb and pulsate & change shape occasionally. No sound, object snappily started, accelerated, and did not have a tail. A shiny aluminum pole like pole appeared at times atop object. Later two small red objects appeared and still later five red objects appeared.
-
-11. COMMENTS
+11. COMMENTS:
 See case file. Objects were stars and lights on barn.
 
-12. CONCLUSIONS
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
-☒ Was Astronomical Stars
-☐ Probably Astronomical
-☐ Possibly Astronomical
-☐ Insufficient Data for Evaluation
-☐ Unknown
+12. CONCLUSIONS:
+[ ] Definitely Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical: Stars
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_a_[illegible]
+[X] Insufficient Data for Evaluation
+[ ] Unknown
 
-ATIC FORM 329 (REV 28 SEP 52)
-
+ATIC FORM 329 (REV 24 SEP 52)
 
 - page 56 -
 
 NATIONAL INVESTIGATIONS COMMITTEE
 ON AERIAL PHENOMENA
-WASHINGTON, D.C.
 
-April 11th, 1957
+WASHINGTON 6, D. C.
 
-Colonel E. F. Camy, Commanding Officer
+[illegible] NORTH 7-8434                                                ADMINISTRATIVE OFFICES
+CABLE ADDRESS                                                           1829 CONNECTICUT AVE N.W.
+SKYLIGHT
+
+BOARD OF GOVERNORS
+
+CHAIRMAN
+REAR ADM. R. H. DENNETT
+CHESTER W. RICHMOND
+
+REV. ALBERT H. BALLER
+WISHING MEMORIAL
+CONGRESSIONAL CHURCH
+SPRINGFIELD, MASSACHUSETTS
+
+MAJ. GEN. RICHARD S. CATHCART
+(RET.)
+BALTIMORE, MARYLAND
+
+FRANK EDWARDS
+RADIO'S NEWS HOUSE
+ALEXANDRIA, INDIANA
+
+COL. ROBERT B. EMERSON,
+U.S. MARINE
+WHITE PLAINS, N.Y. NEW YORK
+
+MAJ. GEN. WILLIAM E. KEPNER,
+U.S.A.F. (RET.)
+WINTER PARK, FLORIDA
+
+REV. LEONG LAVAN
+PRESIDENT MARYLAND CHURCH
+BALTIMORE, PENNSYLVANIA
+
+DR. JOE MARTZ
+WEIS DAILY DEFIANCE COLLEGE
+DEFIANCE, OHIO
+
+ABRAHAM M. SONNABEND
+PRESIDENT HOTEL CORPORATION
+OF AMERICA
+BOSTON, MASSACHUSETTS
+
+LOUIS G. HERMAN
+AERO FOUNDATION
+BALTIMORE, MARYLAND
+
+EVALUATION OF INFORMATION
+
+GEN. ALBERIC WEDEMEYER,
+U.S.A. (RET.)
+POOLSVILLE, MARYLAND
+
+April 11, 1949
+
+Colonel E. P. Carney, Commanding Officer
 Oxnard Air Force Base
-Oxnard #110, California
+Camarillo, California
 
-Dear Colonel Camy:
+Dear Colonel Carney:
 
-[Most of the middle text is partially illegible due to image quality]
+As a Director of the National Investigations Committee on Aerial Phenomena, I would very much like to furnish you with some additional information regarding a UFO sighting reported to have occurred in the vicinity of Oxnard Air Force Base on March 23rd last.
 
-Evaluation of Information:
+It has been established that I requested -- following the recent publication by representative John F-38 -- that we be furnished the following information:
 
-1. What is the classification of the report?
+1. What is the classification of the reports?
 
-2. By what office classified?
+2. By what authority classified?
 
 3. By what authority were they classified?
 
-A self-addressed envelope is enclosed for your convenience. The committee will greatly appreciate your reply.
+A self-addressed envelope is enclosed for your return. We will greatly appreciate your cooperation in this matter.
 
-[Bottom of document is partially obscured/blacked out]
+Respectfully,
 
+[illegible signature]
+
+DIRECTOR OF NICAP
+
+[NON-TEXT PAGE: black and white redacted or obscured signature/seal area]
 
 - page 57 -
 
-Here is the text from the document:
+Regarding the Oxnard case, again I raise my perennial question --- didn't any of the many people concerned have binoculars or a camera? This always seems to be the case!
 
-Regarding the Oxnard case, again I raise my perennial question
---- didn't any of the many people concerned have binoculars
-or a camera? This always seems to be the case!
+The astronomer you consulted apparently did not have a good starchart because while it is so that Arcturus was in the eastern sky, Castor and Pollux were certainly nowhere around but far in the western skies! It would be my opinion that the primary contender in this case was the star Vega, which at that time was low, very low, on the northeastern horizon and rose to a fair height by 3:30 a.m. Still it is always difficult for me to understand how an obvious an object like a bright star can possibly cause so much confusion on the part of several people. If it were only one observer, then anything can happen, but I am always amazed that people are so easily confused, in this case seven police officers!
 
-The astronomer you consulted apparently did not have a good
-star chart because while it is so that Arcturus was in the
-eastern sky, Castor and Pollux were certainly nowhere around
-but far in the western skies! It would be my opinion that the
-primary contender in this case was the star Vega, which at
-that time was low, very low, on the northeastern horizon and
-rose to a fair height by 3:30 a.m. Still it is always difficult
-for me to understand how so obvious an object like a bright
-star can possibly cause so much confusion on the part of
-several people. If it were only one observer, then anything
-can happen, but I am always amazed that people are so easily
-confused, in this case seven police officers!
-
-The trajectories or trails of objects sighted certainly
-matched the diurnal paths of the star Vega and other stars in
-its vicinity. This makes it all the harder to understand how
-some of the observers could ascribe fast motion and "speeding
-up" to this sighting. Your point is well taken, if these things
-move rapidly and speeded up, why were they in sight so long!
-
+The trajectories or trails of the objects sighted certainly matched the diurnal paths of the star Vega and other stars in its vicinity. This makes it all the harder to understand how some of the observers could ascribe fast motion and "speeding up" to this sighting. Your point is well taken, if these things move rapidly and speeded up, why were they in sight so long!
 
 - page 58 -
 
-Here is the text I can read from the document:
+UTNAM: 40-W-3802 27 MARCH 1957. WITNESSES -3/5 UFO IN WIN. NORTH.
 
-MARCH 1957, VENTURA, CALIF. 14TH MORN ROUTING,
-IS 25 W WEST. ...INITIAL REPORT BY MRS. LT.
+113 MI OF N WIN WEST. INITIAL REPORT BY MRS.[redacted] LT.
 
-OXNARD REPORTS WOMAN HYSTERICAL WITH FEAR. RELIABILITY
-POSSIBLE COLORED BY EMOTIONAL STRAIN.
+OFT, U.S., ONWARD REPORTS WOMAN HYSTERICAL WITH FEAR. RELIABILITY
+POSSIBLE COLORED BY EMOTIONAL STATE
 
-OTHERS ALL MEMBERS OF STATE
-POLICE OR COUNTERINTELLIGENCE OFFICE. RELIABILITY SHOULD BE SOUND.
+. UTIMG ALL MEMBERS OF STATE
 
-[DRIVE, CAMARILLO, CALIF.]
-[STREET, OXNARD, CALIF.]
+POLICE OR COUNTY SHERIFF'S OFFICE. RELIABILITY SHOULD BE SOUND. [handwritten: taking object
+drifting and
+?Must]
 
-[FULL MOON, SURFACE, NIGHT, 4 ETC.]
+.... [redacted] DRIVE, CAMARILLO, CALIF. [handwritten: left?
+2
+Either ?]
 
-Most of the specific details are redacted (blacked out), so I cannot read the full names, addresses, or specific details of the report. There are some handwritten notes in the margin, but they are not fully legible from this image.
+[redacted], [redacted] EAST GRAND, VENTURA. HIGHWAY [redacted]
 
+[redacted] STREET, OXNARD, CALIF. [redacted] [redacted]
+
+[redacted]
+
+NEAREST AIR BASE. MOCKING: EVENTS.
+
+AIRPORT ACCT LINE
+
+[redacted], [redacted] STREET, OXNARD, CALIF. [redacted] [redacted]
+
+[redacted], [redacted] SANTA ROSA, SANTA BARBARA, CALIF. T.
+
+GROUND LVL TO HIGH. SURFACE, EVENTS, G, VFT, 15 WATTS;
+
+... CTY DISPLACEMENTS, 1., T. BASIS ARE, PROPERTY, SMITHING,
+
+... T, MOUNTAINS, LE PDE T, UNW. ...
 
 - page 59 -
 
-Here is the OCR text from the document:
+[handwritten: 261157]
+[handwritten: 12-007]
 
-MEMO G
+[handwritten: 25MAR57 1153]
 
-FIRST MAJOR MAJOR SIGHTING CALIFORNIA
+[handwritten: 2/4/64
+3-4x2
+4/20]
 
-HQ MACON AUG PD MAJOR
+FROM: USAF OFFICE INFORMATION CHIEF
 
-D MACON 52
+TO: OBSERVER/CONDR AND LTC APE COLORADO SPRINGS COLORADO
 
-P 261752
+ATTN/CONDR LT ADJY DEF NORTON AFB CALIF
 
-TO CONDR 5TH WING POMONA CALIF
-TO AGDCM CONDR ADC HQ AFB COLORADO SPRINGS COLORADO
-ACPUBL CONDR 27 ADIV ADC NORTON AFB CALIF
-ROUTING CONDR AIR TEC LITTLE CENTER WRIGHT PATTERSON AFB CALIF
-ROUTING DIRECTOR OF INTELLIGENCE USAF DC
+ATTN/CONDR ATA FRO INTELLE CENTER WRIGHT PATTERSON AFE CALIF
 
-LT
+ATTN/DIRECTOR OF INTELLIGENCE USAF LS D C
 
-UCLAS SCOOPS 85-4Y PD UFOB PD 1. A SPECIAL TO OVAL, SPIN AND PEA.
-CONE LARGE GREEN AND FOUR SWNE RD. DRIVE. L.WATKINS, FNMA.
-CONDR. WOMEN. 1.RED OBJECTS SEEMED CENTERED AROUND THE GREEN.
-AT VARYING SPEED AND FORMATION. 2. A OBSERVER AROSE FROM BED TO
-ANSWER PHONE AND STARTED UPON GLANCING FROM BEDROOM WINDOW.
-PCS ABOVE HORIZON, GENERALLY NE. C.VERY HIGH 75 TO 80 DEG.
-WEST. GREEN OBJECT REMAINED HIGH, BUT RED OBJECTS DESCENDED VERY
-LOW AT THE APPEARANCE OF TIE INTERCEPTORS OBJECTS CONVERGED AND
-ACCELERATED TO EXTREME ALTITUDE. MOVED WEST, SPEED MODERATE,
-VERY HIGH. TIME ONE AND ONE HALF HOURS. 3. A GROUND VISUAL B.N/A.
+DT
 
-There are some handwritten notes at the bottom of the document that are partially illegible.
+UCLASS:"SCOPE US-FY PD UFOB FD 1. A.SPECIAL TO OVAL. E.SPIM AND PEA.
 
-The document is dated 25 MAR 57 and has several stamp/reference numbers in the top right corner.
+C.ONE LARGE GREEN AND FOUR-SHELL RD. D.FIVE. E.VARYING. F.N/A.
 
+D. 1. UNKNOWN FIXED OBJECTS SEEMED CENTERED AROUND THE GREEN
+
+AT VARYING SPEED AND FORMATION. 2. A.OBSERVER AROSE FROM BED TO
+
+AN ARM PHONE AND STARTED INVESTIGATION FROM WINDOW.
+
+E. 150 ABOVE HORIZL; GENERALLY NE. O.VERY HIGH 75 TO 80 DEG.
+
+F. OBJECT REMAINED HIGH; BUT RED OBJECTS DESCENDED VERY
+
+LOW. AT THE APPEARANCE OF THE INTERCEPTORS OBJECTS CONVERGED AND
+
+ACCELERATED TO EXTREME ALTITUDE.I.NOVEU WEST. SPEED MODERATE,
+
+VERY HIGH. J.ONE AND ONE HALF HOURS. 3. A.GROUND VISUAL. E.N/A.
+
+[handwritten marks and annotations at bottom]
 
 - page 60 -
 

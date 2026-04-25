@@ -1,106 +1,112 @@
 PROJECT 10073 RECORD CARD
 
 1. DATE
+
 31 July 1954
 
 2. LOCATION
+
 Hampton, Virginia
 
+12. CONCLUSIONS
+
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[X] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Date for Evaluation
+[ ] Unknown
+
 3. DATE-TIME GROUP
-Local 31/2115Z
-GMT
+
+Local
+GMT          31/2115Z
 
 4. TYPE OF OBSERVATION
-[X] Ground-Visual □ Ground-Radar
-□ Air-Visual □ Air-Intercept Radar
+
+[X] Ground-Visual          [ ] Ground-Radar
+[ ] Air-Visual             [ ] Air-Intercept Radar
 
 5. PHOTOS
-□ Yes
+
+[ ] Yes
 [X] No
 
 6. SOURCE
+
 Civilian
 
 7. LENGTH OF OBSERVATION
+
 1 - 2 Minutes
 
 8. NUMBER OF OBJECTS
+
 1
 
 9. COURSE
 
 10. BRIEF SUMMARY OF SIGHTING
+
 Round, small, white, observed in east at 45 degrees elevation. Came nearer, paused 10 seconds then departed in NW direction at 50 deg elevation. Gradual fade.
 
 11. COMMENTS
+
 Naval balloon in vicinity. Local evaluation balloon.
 
-12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-[X] Possibly Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-□ Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other
-□ Insufficient Data for Evaluation
-□ Unknown
-
-ATIC FORM 329 (REV 26 SEP 52)
-
+ATIC FORM 329 (REV 28 SEP 52)
 
 - page 1 -
 
-Ltr, TDEV, Evaluation of Photos
+LBF, TDEM, Evaluation of Photos
 
-1st Ind (TDDPA/Mr. Davis)/74136                                     16 March 1964
+1st Ind (TDDPA/Mr. Davis/74136                                16 March 1964
 
-TO:   TDEV/TSgt Moody
+TO: TDEM/Test Moody
 
-1.   This indorsement answers the letter request for evaluation received by this office on 5 March 1964.
+1. This indorsement answers the letter request for evaluation received by this office on 5 March 1964.
 
-2.   The unavailability of the original negative has precluded an accurate evaluation of subject imagery. Possible causes of the image could include:
+2. The unavailability of the original negative has precluded an accurate evaluation of subject imagery. Possible causes of the image could include:
 
-a.   Double exposure
+    a. Double exposure
 
-b.   Circular objects cast before the camera during exposure.
+    b. Circular objects cast before the camera during exposure.
 
-c.   Placement of objects on printing paper during printing or enlarging process.
+    c. Placement of objects on printing paper during printing or enlarging process.
 
-3.   Please submit future photographic evaluation requests to TDDP on the standard PTD form 462, Engineering Support Work Request.
+3. Please submit future photographic evaluation requests to TDDP on the standard FTD form 462, Engineering Support Work Request.
 
-WILBER PRICE, JR.
-Director, Photo Exploitation Directorate                     1 Atch
-                                                             (30 Jul 54, Mountain
-                                                             View, Mo.)
 
+WILBER PRICE, JR.                                    1 Atch
+Director, Photo Exploitation Directorate [redacted] Photos
+                                          (30 Jul 54, Mountain
+                                           View, Mo.)
 
 - page 2 -
 
-USCGN/ISgt David Moody/59216
+ATIC/1Sgt David Moody/59216
 
 Evaluation of Photos
 
-USCN/Mr Davis
+ATIC/Mr Davis
 
 1. Request evaluation of the attached photographs as to the most probable and/or possible cause of the images in the pictures.
 
 2. The evaluation of the negative originally made on 8 Oct 54 indicates that a duplicate negative had been received.
 
-3. Request your reply by indorsement.
+3. Request your reply by endorsement.
 
-HECTOR QUINTANILLA, Jr
-Captain, USAF
-Chief, Aerial Phenomena
-Branch
 
-1 Atch
-(30 mi E, Mountain
-View, Mo)
-
+HECTOR QUITANILLA, Jr                    1 Atch
+Captain, USAF                            Photos
+Chief, Aerial Phenomena                  (Columbus, Mountain
+Branch                                   View, Mo)
 
 - page 3 -
 
@@ -108,29 +114,72 @@ HEADQUARTERS UNITED STATES AIR FORCE
 OFFICE OF THE VICE CHIEF OF STAFF
 REFERRAL SLIP
 
-DATE: JAN 18 1955
+DATE
+JAN 18 1959
 
-TO: [A list of abbreviations including AFCAG, SAFIS, AFPDC, AF9DC, AFOOP, AFMMS, and many others]
+TO:
+AFCAG | SAFIS | AFPDC | AFØDC | AFOOP | AFMMS
+AFCIG | SAFLL | AFPMP | AFOIN | AFDOC | AFMSS
+AFCRF | AFAAC | AFPCP | AFODP | AFORD | AFMIR
+AFCSG | AFAFF | AFPTR | AFOAC | AFORD | AFMLP
+AFCJA | AFAFN | AFPDP | AFOPD | AFMDC |
+AFCIE | AFAPA | AFPAA | AFOMQ | AFMPE |
 
-ATTENTION: [Blank]
+ATTENTION:
 
-FOR: [Checkboxes for various actions like "APPROPRIATE ACTION", "COMMENT AND/OR RECOMMENDATION", etc.]
+FOR: [X] APPROPRIATE ACTION
+[ ] COMMENT AND/OR RECOMMENDATION
+[ ] COORDINATION
+[ ] INFORMATION ON WHICH TO BASE REPLY
+[ ] PREPARATION OF REPLY TO OSAF
+[ ] PREPARATION OF REPLY FOR SIGNATURE OSAF
+[ ] PREPARATION OF REPLY FOR SIGNATURE U/SAF
+[ ] PREPARATION OF REPLY FOR SIGNATURE A/SAF
+[ ] PREPARATION OF REPLY FOR SIGNATURE AFCCS.
+[ ] PREPARATION OF REPLY FOR SIGNATURE AFCVC
+[ ] PREPARATION OF REPLY FOR SIGNATURE AFCAV
+[ ] COPY OF REPLY FOR UNDERSIGNED
+[ ] NOTE AND RETURN
+[ ] INFORMATION AND/OR FILE
+[ ] ACTION HAS GONE TO
+[ ] INFORMATION COPIES HAVE GONE TO
+[ ] SUSPENSE DATE
+
+COMMENTS
 
 BY DIRECTION OF THE VICE CHIEF OF STAFF
-[Signature of Chief, Executive Services Division, Office of the Vice Chief of Staff]
 
-AFHQ FORM 0-160, 7 APR 54, PREVIOUS EDITIONS OF THIS FORM ARE OBSOLETE.
-L 54931
+[handwritten signature and text: illegible]
+Chief, Executive Services Division
+[illegible], Vice Chief of Staff, USAF
 
+AFHQ FORM 7 APR 54 0-160 PREVIOUS EDITIONS OF THIS FORM ARE OBSOLETE.
+L54931
 
 - page 4 -
 
-Here is the text from the document:
+[stamp: ROUTING COORDINATION]
 
-AFOIN-434/Capt Storm
-69216
+ATI
 
-Clarkston, Michigan
+ATIM-1
+
+ATIMG
+
+ATIMS
+
+ATIMX
+
+ATIR
+
+ATIS
+
+AFIA-[illegible]
+
+OTHERS
+
+Darkston, Michigan
+
 Dear Mrs. Lowery:
 
 Your letter of 14 January 1956, addressed to Mr. Charles Wilson, Secretary of Defense, has been received by the Air Technical Intelligence Center for reply.
@@ -143,264 +192,269 @@ You may be assured that your interest in this program is greatly appreciated.
 
 Sincerely,
 
-HARRY L. STORM
+[handwritten: This is difficult to read as it appears to be signed handwriting]
+
+CARY L. STORM
 1st Lt. USAF
 Assistant Adjutant
 
-[Handwritten notes at bottom of page]
+[handwritten: Never need photographs on any account. Capt. 1477]
 
-The document is a routing and coordination sheet with various administrative sections on the left side of the page.
+PERM_____ TEMP_____ RETENTION PERIOD
 
+DESTROY_____
+
+RETIRE_____ 
+
+FILE AUTHORITY_____
+
+ATIC FORM 144 (REV 1 FEB 53)     ROUTING AND COORDINATION SHEET
 
 - page 5 -
 
 SECRETARY OF DEFENSE ROUTING SLIP
 
-TO (with checkboxes/initial columns):
-- SECRETARY OF DEFENSE
-- DEPUTY SECRETARY OF DEFENSE
-- ADMINISTRATIVE SECRETARY
-- SECRETARY OF THE ARMY
-- SECRETARY OF THE NAVY
-- SECRETARY OF THE AIR FORCE (marked with "AFCCS")
-- ASSISTANT SECRETARY OF DEFENSE (Comp't)
-- ASSISTANT SECRETARY OF DEFENSE (Manp'r)
-- ASSISTANT SECRETARY OF DEFENSE (ISA)
-- ASSISTANT SECRETARY OF DEFENSE (S&L)
-- ASSISTANT SECRETARY OF DEFENSE (R&D)
-- ASSISTANT SECRETARY OF DEFENSE (P&I)
-- ASSISTANT SECRETARY OF DEFENSE (Pub'c Eng)
-- ASSISTANT SECRETARY OF DEFENSE (M&W)
-- ASSISTANT SECRETARY OF DEFENSE (LAPA)
-- DEPUTY ASSISTANT SECRETARY OF DEFENSE (Public Affairs)
-- GENERAL COUNSEL
-- ASSISTANT TO THE SECRETARY OF DEFENSE (AB)
-- ASSISTANT TO THE SECRETARY OF DEFENSE (Spec Assts)
-- SPECIAL ASSISTANT
+DATE [illegible]
 
-Routing slip sections include:
-- THIS IS AN (with checkboxes for Advance Action Copy, Action Copy, Information Copy)
-- FOR (various administrative routing purposes)
-- REMARKS section
-- SUSPENSE DATE
-- CONTROL NUMBER
+TO | INITIAL | INFO COPY TO | ADV ACTION COPY TO | THIS IS AN
 
-Bottom of form notes "SD FORM 14" and "PREVIOUS EDITIONS ARE OBSOLETE" with a number "B37791"
+SECRETARY OF DEFENSE | | | ADVANCE ACTION COPY
 
+DEPUTY SECRETARY OF DEFENSE | | | ACTION COPY
+
+ADMINISTRATIVE SECRETARY | | | INFORMATION COPY
+
+SECRETARY OF THE ARMY | | | FOR
+
+SECRETARY OF THE NAVY | | | PREPARATION OF DRAFT REPLY FOR WHITE HOUSE SIGNATURE AND
+
+[handwritten: SECRETARY OF THE AIR FORCE] AFOCS | | TRANSMITTAL LETTER FOR SECRETARY OF DEFENSE SIGNATURE
+
+ASSISTANT SECRETARY OF DEFENSE (Compt) | | | PREPARATION OF REPLY FOR SECRETARY OF DEFENSE SIGNATURE
+
+ASSISTANT SECRETARY OF DEFENSE (MPA) | | | PREPARATION OF REPLY FOR DEPUTY SECRETARY OF DEFENSE SIGNATURE
+
+ASSISTANT SECRETARY OF DEFENSE (ISA) | | | NOTE AND FORWARD
+
+ASSISTANT SECRETARY OF DEFENSE (SAL) | | | APPROPRIATE ACTION
+
+ASSISTANT SECRETARY OF DEFENSE (RAD) | | | REPLY DIRECT FOR SECRETARY OF DEFENSE (forward copy of reply to Sec of Def files)
+
+ASSISTANT SECRETARY OF DEFENSE (PSI) | | | REPLY DIRECT FOR DEPUTY SECRETARY (forward copy of reply to Sec of Def files)
+
+ASSISTANT SECRETARY OF DEFENSE (App'ns Eng) | | | INFORMATION AND RETENTION
+
+ASSISTANT SECRETARY OF DEFENSE (HRM) | | | INFORMATION AND RETURN FOR SECRETARY OF DEFENSE FILES
+
+ASSISTANT SECRETARY OF DEFENSE (LSPA) | | | DATA ON WHICH TO BASE A REPLY
+
+DEPUTY ASSISTANT SECRETARY OF DEFENSE (Public Affairs) | | | COMMENT AND/OR RECOMMENDATION
+
+GENERAL COUNSEL | | | COORDINATION WITH
+
+ASSISTANT TO THE SECRETARY OF DEFENSE (AE) | | | PREPARATION OF REPLY FOR SIGNATURE OF
+
+ASSISTANT TO THE SECRETARY OF DEFENSE (Spec Opns) | | | PRIORITY
+
+SPECIAL ASSISTANT | |
+
+REMARKS
+
+SUSPENSE DATE | CONTROL NUMBER
+
+SD FORM 14 | PREVIOUS EDITIONS ARE OBSOLETE. | 937791
 
 - page 6 -
 
 MEMO ROUTING SLIP
 
-NAME OR TITLE: CAPTAIN CHARLES A. HARDIN
-ORGANIZATION AND LOCATION: OIN-454
+X USE FOR APPROVALS, DISAPPROVALS, CONCURRENCES, OR SIMILAR ACTIONS
 
-REMARKS:
-Please send information copy of your reply to this office to be forwarded to the Secretary of Defense Office.
+1 NAME OR TITLE: CAPTAIN CHARLES A. HARDIN | INITIALS | CIRCULATE
+
+ORGANIZATION AND LOCATION: OIN-4524 | DATE | COORDINATION
+
+2 | | FILE
+
+| | INFORMATION
+
+3 | | NECESSARY
+| | ACTION
+| [X] |
+
+| | NOTE AND
+| | RETURN
+
+4 | | SEE ME
+
+| | SIGNATURE
+
+REMARKS
+
+Please send information copy of your reply to
+
+this office to be forwarded to the Secretary
+
+of Defense Office.
+
 
 Request action by 9 February 1956 if at all possible.
 
-FROM NAME OR TITLE: [Partially illegible signature]
-ORGANIZATION AND LOCATION: 1st Lt. Col. USAF
-DATE: 24/1/56
-TELEPHONE: 71092
+[circular stamp or marking - illegible]
 
-DD FORM 95 (Replaces DA AGO Form 581, 1 Oct 45, and AFHQ Form 12, 10 Nov 45, which may be used)
+FROM NAME OR TITLE: [handwritten: Arnold R. Patterson] | DATE: 24/1/56
 
+APCIN-X | 
+
+ORGANIZATION AND LOCATION: Lt. Col. [illegible] | TELEPHONE: 71092
+
+DD FORM 95 | Replaces DA AGO Form 26, 1 Apr 45, and AFBQ Form 12, 15 NOV 47, which may be used. | (GO 1 JAN '51 ½3404)
+
+1 FEB 50
 
 - page 7 -
 
-The card which the Space Man referred to was a comic advertisement showing some crazy-outrageous thing to a nice new car.
+The card which depicted the space Man referred to were a comic advertisement showing some crazy outings doing all sorts of things to make new cars. Stated "Don't let a [illegible] Months around your car". Between the lines of Print on the back I asked the space man if anybody ever managed around their tower like that. It was asked in jest but the answer came back serious on the tape. Mr. [illegible] said the space Man giggled like an eight year old kid over it too. He also said it was the first acceptable thing sent by direct mail to one of them. A lot of beforehand information made it possible. What's done there can do also He told [illegible] that the continent of Atlantic went down due to the measure of Atomic or a similar power. Also told many other things which I will gladly tell you if you care to write me. Or write to [illegible] Mountains View Ranch Mountain View Missouri &. Told that we write to either one of us would be kept in strictest secrecy. If you would tell Mr. [illegible] it should be that way. The space people were treated with of us to keep us word is I believe you can. It took a lot of courage to write this letter to you Mr. [illegible] as I hope you will not treat that matter lightly.
 
-I heard "Burt" at somebody Monkey around your car.
+I am sincerely yours,
 
-Between the lines of print on the back I noticed the Space Man if anybody was moving just around this however like that. It was asked in just but the answer came back serious on tape.
-
-Mr. [redacted] said the Space Man laughed like an eight year old kid over it too. He also said it was the first acceptable thing sent by direct mail to one of them. A bit of beforehand information made it possible. What I done other can do also.
-
-He told [redacted] that the continent of Atlantic went down due to the miracles of Atomic or a similar power. He also told many other things, which I will gladly tell you if you come to write me, or write to Mountain View Ranch Mountain View Missouri &.
-
-The fact that you write to with one of us would in sight in strictest secrecy if you would be [redacted] it should be that way. The Space People have trusted both of us to keep our word so I believe you can.
-
-It took a lot of courage to write this letter to you. Mr. [redacted] so I hope you will not treat the matter lightly.
-
-I am sincerely yours.
-
+[illegible signature]
+(Mrs. [illegible])
 
 - page 8 -
 
-Text found in the document:
-
-Clarkston
-Mich.
+[handwritten: Charleston
+Michd]
 
 CERTIFIED MAIL
-N° 76334
+No 76334                Mr. Charles E. Wilson
+                        Secretary of Defense
+                        Washington
+                        D.C.
 
-Mr. Charles E. Wilson
-Secretary of Defense
-Washington
-D.C.
+[handwritten: Return Receipt
+Fee Paid]
 
-Note: No one has the personal
+[handwritten: No one here has a personal
 secretary may sign for
-this letter.
+this letter.]
 
+[NON-TEXT PAGE: black-and-white sketch or diagram showing a horizontal linear object with varying width against a light background]
 
 - page 9 -
 
-Here is the text from the document:
+After visiting Mr. [redacted] in Oct. and Mr. [redacted] and I spent three days right after Christmas with him and also exchanging many letters we cannot find any grounds for doubt that he stated forthr when he said he was taken to other planets. Also all conditions around him and his own personality would be conducive to the safe landing of space ship. We arrived there for my second visit on Dec 24, 1955 space man [redacted] had spent all by Christmas with Mr. [redacted] and had left a tape recording. My purpose in writing to you is to give you the message which was left on the recording. Here it is just exactly as it was taken from the recording word for word.
 
-"Often visiting Mr. [redacted] in Galt and my son [redacted]
-[redacted] and I spending three days night after Christmas
-with him and also exchanging many letters
-we cannot find any grounds for doubt that
-he states facts which he says he was taken
-to other planets. Also all conditions around
-him and his own personality would be
-conducive to the safe landing of space ships.
+[redacted] Christmas Message the World.
 
-We arrived there for my second visit on Dec 24, 1955
-space man [redacted] had spent all day Christmas
-with Mr. [redacted] and had left a tape recording.
+[redacted] speaks.
 
-My purpose in writing to you is to give you
-the message which was left on the recording.
-Here it is just exactly as it was taken
-from the recording word for word.
+This is a tape recording made in the home at [redacted] on Christmas day, 1955. My distant cousin [redacted] is here with me. [redacted] will say a few words to all of you in America and all the world. The next voice you will hear will be of [redacted] from Planet Venus. OK. [redacted] _____ [redacted] years ___
 
-Christmas Message
-to the World.
-
-Speaker.
-This is a tape recording made in the
-home of [redacted] on Christmas day 1955.
-my distant cousin [redacted] is here with me.
-will say a few words to all of you
-in America and all the world.
-
-The most voice you will hear will be of
-from Planet Venus. OK. [redacted]
-
-Speaker---
-
-I wish to tell all a Merry Christmas, and
-wish [redacted] thankfully for her card. Also to
-give her the answer to her question---"
-
+Wish to tell all a Merry Christmas, and [redacted] [redacted] send you greetings and your card. Also to give her the answer to her question---
 
 - page 10 -
 
-Yes, it has happened to our wishes, too. 
-I appreciate such 
-effort for souvenirs. I appreciate 
-such gifts, and I know in return, as we cannot 
-yet expect anything in return, can tell all 
-that are. Well tell your wife. I am here 
-that asks. Will tell your wife. I have just returned from California, then to 
-see my father in Colorado. Now here to see 
-you and tell the world on this tape 
-recording that this world must give up 
-atomic weapons and warfare. The next 
-war, if fought, will be on American soil. 
-America will be destroyed, then surviving 
-all over the world. We are 
-here to see which way this world will 
-use atomic power, for peace or war. We 
-have stood by and seen other planets 
-one other, destroy itself. In this Earth 
-next? We wonder, and watch and wait. 
-Again I say, give up your Atomic Weapons, 
-and may peace be on this Earth 
-I will tell the world much more that he can 
-tell the world.
+[handwritten: " " use; it has happened to our ships, from what for survivors. I appreciate such a gift, and I know that air we does not exhaust anything in nature, as we cannot yet exchange goods with their star-mates. Many know the reason. [REDACTED] are tell all that air is. Well tell you why I am here. I have just returned from California, there to see my father in Colorado. Now he is to see you [REDACTED], and tell the World one time tape recording that this world must give up atomic weapons and warfare. The most was, if fruit will be on American soil. America will be directed then invasion all over the world will be destroyed. We are here to use which way this sword will us atomic power, for peace or war. We have stood by and seen step-planets, one other. Victory itself is the Earth next? We wonder, and watch, and wait; again I say, give up your Atomic Weapons and may peace be on this Earth. I well tell [REDACTED] much more that he can tell the world. I know that [REDACTED] will want my time here to be spent in a private home-like way, and I also desire it that way, so I must say "Good Bye" to all the world from- [REDACTED] of Venus.
 
-I know that will want my time 
-here to be spent in a private home - like 
-way, and I also desire it that way, so 
-must say "Good Bye" to all the world from 
-perhaps.
+[REDACTED]
+I thank you [REDACTED] on your talk to the people of the world. This is recorded it [REDACTED] Mountain View Ranch, Mountain View Missouri [REDACTED]
 
-I thank you for your talk to the 
-people of the world. This is recorded at 
-Mountain View Ranch, 
-Mountain View Missouri 
-End of Tape
-
+End of Tape]
 
 - page 11 -
 
-Here is the text from the document:
+[stamp: UNCLASSIFIED]
 
-UNCLASSIFIED
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-PAGE 4 OF 4 PAGES
+FROM (Agency) | REPORT NO. | PAGE 4 OF 4 PAGES
 
-12. Base Intelligence Officer - Comments
+[illegible handwritten text at top]
 
-I have talked to the lady making this report and feel that she is a sincere and trustworthy individual. It is my opinion that what she saw was a radiosonde which was launched at Norfolk Naval Air Station at 1503. This device was carried aloft by a white balloon, 10 ft. in diameter and the winds were from a direction and at a velocity that will give reasonable over the Hampton, Va. area at the time of the reported sighting.
+12. Base Intelligence Officer - Conversation
 
-Also there were numerous jet and conventional aircraft in the Hampton, Va. area at that time. I feel convinced that the known radiosonde weather balloon was the object sighted in this instance and feel that no further investigation is necessary.
+I have talked to the lady making this report and feel that she is a sincere and trustworthy individual. It is my opinion that what she saw was a possible weather device released at Norfolk Naval Air Station at 1503. This device was carried aloft b a white balloon, 10 ft. in diameter and the winds were from a direction and of a velocity that well might have placed it over the Hampton, Va. area at the time of the reported sighting. Also there were numerous jet and Conventional type aircraft in the Hampton, Va. area at that time. I feel convinced that the above mentioned weather balloon was the object sighted in this instance and feel that no further investigation is necessary.
 
-George W. Satterfield, Jr.
-GEORGE G. SATTERFIELD, JR.
+[handwritten signature]
+George W. Satterfield IV
+MAJOR T. SATTERFIELD JR.
 Major, USAF
 Intelligence Officer
 
-DECLASSIFIED AFTER 18 YEARS
-DOD DIR 5230.10
+[stamp: DECLASSIFIED AUTHORITY F.O. 12065 (NLR 230.10)]
 
-UNCLASSIFIED
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.—231 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, OR OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
-[Note: The bottom of the page contains a standard disclaimer about the document's classification and transmission restrictions.]
+[illegible marking] / 377
 
+[stamp: UNCLASSIFIED]
 
 - page 12 -
 
-Here is the text from the document:
+FHA. 339
 
-Eph. 3:8                                                                                                 11 Cor. 4:5
+"preaching the Gospel of the King—" 11 Cor. 4:5
 
-"Preaching the Gospel of the King..."
+[redacted section]
 
-EVANGELIST BILL BRITTON
+EVANGELIST BILL BRETTON
+
+[redacted section]
 
 Chanute, Kansas
-Apr 25, 1958
+Apr 29, 1954
 
 Director of Special Investigations,
 The Inspector General
 Dept of the Air Force
-Building Tempo 3.
+Building Tempo E
 Fourth and Adams Drive
 Southwest,
 Washington, D.C.
 
 Dear Sir:
 
-I am in receipt of a letter from Mr. J. Edgar Hoover in which he tells me that he has referred my letter to him to your office. This letter is regarding a man of my acquaintance by name of [redacted] of New View, Missouri. He claims to have been taken to Washington D.C. for interrogation concerning a ride he allegedly took in a flying saucer to Venus. He claims to have letters from the Air Force verifying his story, and is selling books on the strength of this, giving his true experiences. Would you please refer to my letter to Mr. Hoover and answer my questions concerning this man. If he is lying about this, and using the Air Force or FBI to verify it, then he is using the mails to defraud it seems. He says you have the negative to a picture he took of these flying saucers.
+I am in receipt of a letter from Mr J. Edgar Hoover in which he tells me
+
+that he has referred my letter to him to your office. This letter is regarding
+
+a man of my acquaintance by name of [redacted] of Iron View, Missouri. He claims
+
+to have been taken to Washington D.C. for interrogation concerning a ride he
+
+allegedly took in a flying saucer to Venus. He claims to have letters from the
+
+Air Force verifying his story, and is selling books on the strength of this, giving
+
+his true experiences. Would you please refer to my letter to Mr Hoover and answer
+
+my questions concerning this man. If he is lying about this, and using the Air
+
+Force or FBI to verify it, then he is using the mails to defraud it seems. He
+
+says you have the negative to a picture he took of these flying saucers.
 
 Appreciate your consideration. This is of great interest to me.
 
 Yours truly,
-/s/ [redacted]
 
-(Crossed Ch to A Fgn-141
-Subject: Report in L.Rpt. Rec'd
-2nd ind of c/s 7-8 July 58 re above)
+/s/
 
+[redacted section]
+
+[handwritten: Unassigned Circu A FOIN-141
+Subj Board in Info Rm
+sent at 8/5 7-8-54 } 8 ne other.]
 
 - page 13 -
 
-Here is the OCR text from the document:
+[handwritten letter]
 
-Mrs. [Redacted]
-Evanston, Michigan
+[redacted location], Michigan
 Jan 14, 1956
 
 Mr. Charles Wilson
@@ -409,116 +463,102 @@ Washington D.C.
 
 Dear Mr. Wilson,
 
-Under you have been paying rather close attention
-to the reports on U.F.O.'s and new scientific findings
-which are not yet public, then you will notice this
-letter comes from a crack-pot. Be that as it may
-I promise to give the message out.
+Unless you have been paying rather close attention to the reports on U.F.O.'s and the scientific findings which he not yet public, there upon will think that this letter come from a crack-pot. Be that as it may I promised to give the message out.
 
-Last summer in Detroit a Missouri farmer talked
-to our Flying Saucer Club. He told us that he had
-been taken to the Moon, to Mars and to Venus in a
-space ship.
+Last summer in District 2 Missouri a farmer talked to one flying saucer Club. He told us that he had been taken to the Moon, to Mars and to Venus in a space ship.
 
-My sister Florence Collins of Davidson, Michigan
-and a sister [Redacted] on the 4th of Oct. 1955. My sister is
-a witness, was and enters and is fairly well known
-around your home in Bloomfield Hills. I think she has
-been to your house, too. I am a ship investigator and
-have done quite a bit of work in the same area.
-I had a month through Mells studies which your
-wife is no doubt very familiar with. So you see this
-letter isn't coming to you from someone at the
-Pontiac insane asylum.
+My sister, Florence Collins of Davidsburg, Michigan and I visited [redacted] at his home in Mountain View [redacted] on the 9th of Oct. 1955. My sister is a waitress, corn and canner and is fairly well known around your home in Bloomfield N.J. I think she has been to your house there. I am a skip over lands and have done quite a bit of work in the same area. I used to work through Mollis [?] study which your wife is not quiet very familiar with. As you see this letter isn't coming to you from some at the Pontiac insane asylum.
 
-A very brief account of [Redacted] experience -
-on July 30th 1954, [Redacted] saw the saucers
-over his house. They came a number of times and
-he photographed them twice. I have seen the original
-film. The Air Force Intelligence has seen it along
-after covering a few times for space pictures, (surely
-when to be known would tend to the planets before
-anything). There were three men and the youngest
-[Redacted] for identification only, told [Redacted]
-he was at instant contact and proved it. He was born
-in Colorado and was taken to Venus a few years ago
-and is now teaching English on Venus.
+A very brief account of my [redacted] experience - on July 30th 1954 Mr. [redacted] saw the saucers over his house. They came a number of times and he photographed them three. I have seen the original film. The Air Force intelligence has seen it also. After coming a few times he stated visitors (lasting quite a while) to his home and they took him to the [illegible] before mentioning. There were three men and the youngest [redacted] for identification why, to be Mr. [redacted]. He was a distant cousin a we learned he was born in Colorado and was there. I became a fine year ago and in more tracking inquiries on Denver.
 
-1
-
+L
 
 - page 14 -
 
-This case contains
-1 8x10" photo, 1 7x8" photo,
-1 7½x5½" photo and 2 4x5"
-photos.
-
+[handwritten: This case contains
+1 8"x10" photo, 1 7"x8" photo,
+1 7"x5±" photo and 2 4"x5"
+photos.]
 
 - page 15 -
 
-UNCLASSIFIED
+UNCLASSIFIED [stamp]
 
-A-740, Form 0-66 dated 24 Jun 53, Subject: (U) Unidentified Flying Object
+FILE CLASS: ___________
+FILE COPY
+ATIC Form O-56 dated 24 Jun 58, Subject: (U) Unidentified Flying Object[illegible]
 
 TO: AFCIN-141
-AFCIN-4 ATTN: Capt. Copas
+DATE: 3 July 1958
+OFFICE OF RECORD
+
+FROM: AFCIN-4
+ATTN: Capt. Copas
 
 FROM: AFCIN-43
 
-AFCIN-4X2b
+COMMENT Nr. 2 [handwritten: 2½ Boulter]
+AFCIN-42a/Capt. Gregory/cmo
+Ext 6-9215/Bldg. 220
 
-1. [Redacted] is informally known as an individual claiming to have taken a trip to Venus on a so-called "flying saucer", and exploiting those multiple enough to believe this story.
+1. [redacted] is informally known as an individual claiming to have taken a trip to Venus on a so-called "Flying saucer," and exploiting those gullible enough to believe this story.
 
-2. This Center has never verified this fantastic story, and records no receipt or report concerning the purported negative.
+2. This Center has never verified this fantastic story, and records show no receipt or report concerning the purported negative.
 
-3. ATIC has no record of the writer of the letter, [Redacted]
+3. ATIC has no record of the writer of the letter, [redacted]
 
-For purposes of correct reference, and to prevent misrouting, your attention is invited to the fact that subject request for information has been inappropriately termed a UFO report.
+4. For purposes of correct reference, and to prevent misrouting, your attention is invited to the fact that subject request for information has been inappropriately termed a UFO report.
 
 FOR THE COMMANDER:
 
-H. K. Gilbert
-H. K. Gilbert
+[handwritten signature] N. R. Hilbert
+R. HILBERT
 Colonel, USAF
 Deputy for Science
 and Components
 
 7/3/58
 
-T58-18008-A
+758-1S008-A
 Page 1 of 1 page
 Copy 4 of 4 copies
 
-If indicated, is withdrawn for
-not attached, the classification of this correspondence will be downgraded in accordance with...
+If inclosure[...] is withdrawn (or
+not attached), the classification of this cor-
+respondence will be downgraded in
+accordance with [....]
 
-Also see
-"Unclassified" Alphabetic
-File under:
+[handwritten: Also see]
+"Unclassified" [handwritten: Acf/UIA]
+File under [redacted]
 
-UNCLASSIFIED
+PERM
+TEMP
+90 DAYS
+INITIAL
 
-[Bottom of document has standard classification markings for PERM, TEMP, 90 DAYS, INITIAL]
+UNCLASSIFIED [stamp]
 
+ATIC FORM 144 (REV 19 SEP 57)          ROUTING AND COORDINATION SHEET
 
 - page 16 -
 
-Here is the text from the document:
+[stamp: ELECTRONICS BRANCH
+Office of Record]
 
-[Top of document, handwritten notes]
-30/180°
-Mountain View, 1116
+CAH/tm/69216
 
-[Letterhead]
 In reply refer to
-AFOIN ATIAS 10073
+AFOIN AFTIA25 10073
 
-CAM/cm/69216
+3 [illegible]
 
+[handwritten: Widows]
+
+[redacted section - black line]
 Mountain View, Missouri
 
-Dear Mr.
+Dear Mr [redacted section - black line]
 
 Thank you for your letter of 2 October 1954, together with photo negative, reporting the sighting of an unidentified flying object.
 
@@ -529,30 +569,45 @@ Attached for your convenience is the "U.S. Air Force Summary of Events and Infor
 You may be assured that your interest in this program is greatly appreciated.
 
 Sincerely,
+
 R. C. SCHUH
 CWO, USAF
 Asst. Adj.
 
-[Bottom of document]
 1 Incl
 USAF Summary
 
 COORDINATION:
-AMIAS    Capt. O.A. Hardin    DATE    7 Oct 54
-AMIAS    [signature]           DATE    8 Oct 54
-ATIA     Lt Col M.C. Johnston  DATE    Root
-ATIA     [signature]           DATE    [illegible]
+AFTIA25 [handwritten: date and signature] DATE 7 Oct 54
 
-EVAL - DUPLICATE NEGATIVE
+AFTIA3 [handwritten: signature] DATE [illegible]
+Capt C.A. Hardin
 
+AFTIA [handwritten: signature] DATE [illegible]
+Lt Col I.C. Johnston
+
+[handwritten: signature] DATE [illegible]
+Col W. L. O'Hern
+
+[stamp: FVAL - DUPLICATE NEGATIVE]
 
 - page 17 -
+
+[stamp: OFFICIAL FILE COPY]
+
+[handwritten: 10073]
+[handwritten: ATIC BRANCH]
+[handwritten: Record]
+
+25 OCT 1954
+
+[handwritten: RB/po/59216]
 
 Mountain View, Missouri
 
 Dear [redacted]
 
-Please find enclosed the negatives which accompanied your letter dated 2 October 1954, addressed to the Air Technical Intelligence Center.
+Please find inclosed the negatives which accompanied your letter dated 2 October 1954, addressed to the Air Technical Intelligence Center.
 
 Copies of your negatives have been made and they will be used in our continuing analysis of unidentified flying objects.
 
@@ -560,86 +615,91 @@ The interest and public spirit you have displayed in relation to our program is 
 
 Sincerely,
 
-R. O. SCHREI
-OWO USAF
+R. J. SCHUM
+CWIG USAF
+ATIC, Adj 3
+
 1 Incl
 Negatives (3)
 
 COORDINATION:
-ATIAB5 [signature] DATE 21 Oct 54
-ATIAR [signature] DATE 21 OCT
-ATAF Col. H. C. Johnston [signature] DATE 22 OCT 54
-ATPA [signature] DATE
 
-Stamp at bottom: VHIC-ORI 52 OCT 124-79 PG 1
+ATIAB5 [handwritten signature] DATE 21 Oct 54
 
+ATIAR [handwritten signature] DATE 21 Oct
+Capt [handwritten: U.S. Hardin]
+
+ATIA [handwritten signature] DATE 21 Oct 54
+[handwritten: Col. H. O. Johnston]
+
+[handwritten signature] DATE [illegible]
+[handwritten: Maj. W. L. O'Brien]
+
+VIC-OIL
+
+52 OCT 1954 F9
 
 - page 18 -
 
-Here is the OCR text from the document:
-
-Above it & at them (with my 3
-reply camera, I had plenty time
-to wind to help number on film as
-they seemed to be in no hurry to
+Three it up at the negativ camera, I had plainly three
+te wired to kept number on film at
+they deemed it be in is living te
 leave. Only one negative showed
-any objects in the sky, the two
+any objects in the sky. He two
 other shots, I saw clearly in the
-ground glass view finder, the objects
+ground glass view finder, the object
 in sky, yet the finished print
-showed no detail. (on two negatives)
+showed be disk. (on two negatives)
 
-The one good negative I cut (or
-cropped) to help size, smaller standard
-8 2 size negative. I does that to
+He one good negative I cut (or
+cropped) he best size, smaller standard
+& 2.5x3a negative. I dose this it
 try and get a better and larger
 print of the objects, as it would
 be blown up more in making a
-jumbo size print. I was trying
-also to get the one on edge
-to show in a larger blown up
+5x7-8x9 size print. I was hoping
+also she to get the one on edge
+te show in a larger blown up
 print, making three objects in the
 finished prints. Still no third
-one showed up in the print. Over
-
+one showed up in the print. [over/]
 
 - page 19 -
 
-Here is the text from the document:
-
 PLEASE SEND TO YOUR NEAREST AIR FORCE BASE
 
-DATE: Oct 16-1954
+DATE: Oct/16/1954
 
-TIME OF SIGHTING: July 30-1954
+TIME OF SIGHTING: 0430 50-1954
 
-SIZE: 50 Yds Diameter
+SIZE: 50 feet diameter
 
 SHAPE: round
 
 COMPOSITION: Aluminum
 
-SPEED: Faster than any plane I have seen
+SPEED: Rather slow moving object hours per hour
 
-ALTITUDE: 50 feet to probably several thousand
+ALTITUDE: 50 feet to thousands around there
 
-DIRECTION OF TRAVEL: North East
+DIRECTION OF TRAVEL: north east
 
-MANEUVER PATTERN: up and down - pose
+MANEUVER PATTERN: up and down - gone
 
 COLOR: darker than aluminum color
 
 SOUND: none
 
-LENGTH OF TIME OBSERVED: ten to 15 min
+LENGTH OF TIME OBSERVED: Ten to 15 min
 
-SKY CONDITIONS: Clear, overcast, north East
+SKY CONDITIONS: clear syster north east
 
 VISIBILITY: Good
 
-GROUND DIRECTION OF WIND: I don't remember now
+GROUND DIRECTION OF WIND: I dont remember how
 
-NAME, AGE, MAILING ADDRESS OF OBSERVER: [redacted]
+NAME, AGE, MAILING ADDRESS OF OBSERVER: [redacted] age 51
+
 BUCK NELSON
 c/o Buck's Mountain View Ranch
 Route 1
@@ -647,122 +707,128 @@ Mountain View, Mo.
 
 REMARKS: (General description of if necessary)
 
-[The rest of the remarks section is blank]
-
-
 - page 20 -
 
-Here is the text from the document:
+[handwritten:]
 
-(enclosed, please return) Three negatives
+(please return)
 
-Could the two
-negatives that show his disks, be
-blowed up large enough to show
-object in the sky?
-
-Please
-send me your report.
+Could the two ; negative "that show two dishes, be viewed as large enough to show objects in the sky ? Please send me your report .
 
 Very truly yours
 
-P.S. the one disk I saw go down
-below tree top of true appeared to be
-about 50 feet in diameter,
-it perhaps landed.
+[signature redacted by black line]
 
+P.S. the one dish I saw go down below top of tree appeared to be about 50 feet in diameter, it perhaps landed.
 
 - page 21 -
 
-Here is the OCR text from the document:
+[handwritten]
 
-heavy, { 1 'let' p saw was a (2)
-rough dish like object (land on
-the back of my 8.0, as perhaps some
-way, drop out of sight below the
-end of the tree out of my sight.
-The 8.0 is barely timbered, and what
-I saw was the one dish drop out
-of sight below top of tree. I rushed back in
-Came W. I came out the house to get
-my camera. When I came out the
-dish was up in the sky with two
-other inch objects, making three
-all. The dish changed shape at
-they turned over in the sky,
-first a round shape - then a
-cigar like shape of it started to
-turn over - then only a rim or
-edge showed as if it were lying
-flat in the sky. The objects
-would rise or lower, and turn
-sharp 90° comes at the speed I never
-saw before. Also finally made if
-at a turnstile speed.
+heard t'that I had saw a (Z)
+Seal dark like object land on
+the back of my 50, as perhaps land
+say, drop out of sight below the
+back of tree out of my sight.
+The 50 is faintly tinned, and what
+I saw was the one did drop out
+of sight below top of tree.
+I pulled back in the house to get
+my camera, b k J come out the
+dish went up in the sky with two
+other red objects, making three in
+all. The disks changed shape as
+they turned over in the sky
+Felt a round shape, then a
+cigar like shape as it stated to
+turn over, then only a rim or
+edge showed as if it were lay
+that in the sky. The object
+would raise or lower; and turn
+sharp 90o corner at speed I never
+saw before. Also finally took of
+it a [illegible] speed. I took
 
+[end of handwritten text]
 
 - page 22 -
 
-Here is the text from the document:
+[stamp: UNCLASSIFIED]
 
-UNCLASSIFIED
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM (Agency)                                   REPORT NO.                   PAGE 3 OF 4 PAGES
-405th Sig Dep Hq Intelligence
+FROM (Agency): REPORT NO.:
+PAGE 3 OF 4 PAGES
+
+405th B-25 Bomb Wg, Installed (Sensor)
 
 5. Locations of observers:
-   (a) Geo Ref Coordinates CN TK 2980 over Hampton, Virginia at 55 England Ave.
+
+(a) Geo Ref Coordinates of Ft EUSTIS over Hampton, Virginia at 55 Midland Ave.
 
 6. Identifying information of all observers:
-   (a) Mr. [redacted] Hampton, Va.                Age 65 yrs.     Occupation: Retired School Teacher
-   (b) Mrs. [redacted] Hampton, Va.               Age 66 yrs.     Occupation: Housewife
-   (c) Miss. [redacted] Hampton, Va.              Age 35 yrs.     Occupation: Civil Service Employee
-   (d) Estimate of reliability - Unknown
 
-7. Weather and winds aloft conditions at time and place of sighting:
-   (a) Constant smooth breeze blowing. Clear sky. Bright Sun. Very hot.
-   (b) Winds 210CZ southing from Norfolk, Va.
-       Surface                 230/14 knots
-       6,000                   230/12
-       10,000                  230/10
-       15,000                  230/9
-       20,000                  230/7
-       30,000                  230/5
-       50,000                  230/3
+(a) Mrs. [redacted] Hampton, Va.
+Age 55 yrs. Occupations Retired School Teacher
 
-   (c) Ceiling - Unlimited
-   (d) Visibility - 7 miles
-   (e) Cloud cover - scattered clouds at 18,000
-   (f) No thunderstorms in area.
+(b) Mrs. [redacted] [redacted] Hampton, Va.
+Age 50 yrs. Occupations Housewife
 
-8. Lt. Hickman from the Norfolk Naval Air Station Weather reports that a radosonde observation (a 10 ft. white balloon) was released at 1200CY-14JLY 1954 in the vicinity.
+(c) Miss. [redacted] [redacted] Hampton, Va.
+Age 35 yrs. Occupations Civil Service Employee
+
+(d) Estimate of reliability - Unknown
+
+7. Weather and winds aloft conditions at time and place of sighting
+
+(a) Constant smooth breeze blowing. Clear sky. Bright Sun. Very hot.
+
+(b) Winds 2100Z sounding from Norfolk, Va.
+Surface 250°/6 knots
+6,000' 260°/12 "
+10,000 290°/10 "
+15,000 130°/4 "
+20,000 180°/7 "
+25,000 200°/6 "
+30,000 130°/3 "
+
+(c) Ceiling - Unlimited
+
+(d) Visibility - 7 miles
+
+(e) Cloud cover - scattered clouds at 18,000.
+
+(f) No thunderstorms in area.
+
+8. U.S. Airshipman from the Norfolk Naval Air Station weather reports that a 300' observation (A 10 ft. white balloon) was released at 112003'-city 1954 in the vicinity.
 
 9. No physical evidence of the sighting.
 
 10. No interception or identification action taken.
 
-11. There were eight (8) F-94 type aircraft in the local area from 2100 to 2130; plus a variety of other traffic from Langley and Norfolk Naval Station; however, the observers did not sight any type aircraft in the immediate area.
+11. There were sight (8) F-54 type aircraft in the local area from 2100Z to 2130Z, plus a variety of other traffic from Langley and Norfolk Naval Station; however, the observers did not sight any type aircraft in the immediate area of the sighting.
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
-[Note: Personal details are redacted in this transcription]
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C. 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
+[classification marking]
+19—544870-1 [?] U.S. GOVERNMENT PRINTING OFFICE
 
 - page 23 -
 
-OFFICIAL FILE COPY
+[stamp: OFFICIAL FILE COPY]
 
-TDSN/TSgt David Moody/69216
+IDSM/TSgt David Moody/59216
+
 Evaluation of Photos
 
 TDD/Mr Davis
 
-1. Request evaluation of the attached photographs as to the most probable and/or possible cause of the images in the pictures.
+1. Request evaluation of the attached photographs as to the most probable and/possible cause of the images in the pictures.
 
 2. The evaluation of the negative originally made on 8 Oct 54 indicates that a duplicate negative had been received.
 
@@ -774,179 +840,206 @@ Chief, Aerial Phenomena
 Branch
 
 1 Atch
-Photos
+—Photographs
 (30 Jul 54, Mountain
 View, Mo)
 
-
 - page 24 -
 
-Here is the OCR text from the document:
+[handwritten: Commander
+Dear Sir:-
+I am a retired farmer living here
+in the Ozark Mountains & I'm on a
+permanent disability pension. Age 61.
+The new Byrd home ask me to
+send you my negatives and story and
+get your report on same. I enclose
+the negatives (plane return) and
+my story. Here it is.-
 
-MOUNTAIN VIEW - MISSOURI                                                Oct 2-54
+On July 30 about 4 PM I had a
+terrible static noise on my radio.
+I turned volume down at low at 8
+cards and then a strange side
+code came in, much different
+than our code. I had it on
+dial setting, but noise came in our
+2 wide area of the dial. I ruled
+out side then to be what was
+causing the noise on radio, although]
 
-Commando
-Dear Sir:
+[stamp: MOUNTAIN VIEW - MISSOURI]
 
-I am a retired farmer living here in the Ozark Mountain of Mo. on a permanent pension, Age 61.
-
-The boys here some ask me to send you my negative and story, I enclose get your report on same. (Please return) and my story. Here it is -
-
-On July 30 about 4 pm. I heard a terrible static noise on my radio. I turned volume down at low and could and then a strange able code came in, much different than our code. I had 4 or 5 dial setting, but here came in a wide area of the dial. I ruled out side then to do what was
-
-(Note: The last line appears to be cut off or incomplete)
-
+[handwritten: (Oct 2 - 54)]
 
 - page 25 -
 
-Ltr, TDEN, Evaluation of Photos
+Ltr, TDEM, Evaluation of Photos
 
-1st Ind (TDDPA/Mr. Davis/74136                                16 March 1964
+1st Ind (TDDPA/Mr. Davis/74136                    16 March 1964
 
-TO:  TDEN/TSgt Moody
+TO: TDEM/TSgt Moody
 
-1.  This indorsement answers the letter request for evaluation received by this office on 5 March 1964.
+1.    This indorsement answers the letter request for evaluation
+received by this office on 5 March 1964.
 
-2.  The unavailability of the original negative has precluded an accurate evaluation of subject imagery.  Possible causes of the image could include:
+2.    The unavailability of the original negative has precluded
+an accurate evaluation of subject imagery.  Possible causes of
+the image could include:
 
-a.  Double exposure
-b.  Circular objects cast before the camera during exposure.
-c.  Placement of objects on printing paper during printing or enlarging process.
+    a.    Double exposure
 
-3.  Please submit future photographic evaluation requests to TDDP on the standard TDDP form 462, Engineering Support Work Request.
+    b.    Circular objects cast before the camera during exposure.
 
-WILBER PRICE, JR.
-Director, Photo Exploitation Directorate                       1 Atch
-                                                                (30 Jul 54, Mountain
-                                                                View, Mo.)
+    c.    Placement of objects on printing paper during printing
+or enlarging process.
 
+3.    Please submit future photographic evaluation requests to
+TDDP on the standard FTD form 462, Engineering Support Work Re-
+quest.
+
+[handwritten signature]
+WILBER PRICE, JR.                    1 Atch
+Director, Photo Exploitation Directorate     [redacted] Photos
+                                    (30 Jul 54, Mountain
+                                    View, Mo.)
 
 - page 26 -
 
-Here is the OCR text from the document:
+[stamp: UNCLASSIFIED]
 
-UNCLASSIFIED
-AF FORM 112—PART II
+AF FORM 112--PART II
+APPROVED 1 JUNE 1948
+
 AIR INTELLIGENCE INFORMATION REPORT
 
-1. Description of the object:
+FROM (Originator)                    REPORT NO.
+                                                PAGE 2 OF 4 PAGES
+
+1. Description of the objects:
+
 (a) Round shaped
-(b) About the size of a disc or bus token, increasing in size as it approached to about the size of a baseball.
+
+(b) About the size of a disc or bus token, increasing in size as
+    it approached to about the size of a baseball.
+
 (c) White
+
 (d) One (1)
+
 (e) No formation
+
 (f) None
-(g) None
+
+(z) None
+
 (h) None
+
 (i) None
 
-2. Description of course of objects:
-(a) Observer was sitting under shade of tree looking at sky.
-(b) Angle of elevation 45° approached from East.
-(c) Angle of elevation 50° departed from sight on a North-westerly heading.
-(d) Came in from East. Paused over GJ PB 3840, (See Ref) for about ten seconds and departed on a North-westerly heading until it gradually disappeared.
-(e) Gradually grew smaller.
-(f) Between one (1) and two (2) minutes.
+2. Description of course of objects
 
-3. Manner of observation:
-(a) Ground — visual.
+(a) Observer was sitting under shade of tree looking at sky.
+
+(b) Angle of elevation 45° approached from East.
+
+(c) Angle of elevation 50° departed from sight on a North-Westerly
+    heading.
+
+(d) Came in from East, Paused over U.J 2H 2840, (Cas Ref) for about
+    ten seconds and departed on a North-Westerly heading until it
+    gradually disappeared.
+
+(e) Gradually grew smaller.
+
+(z) Between one (1) and two (2) minutes.
+
+3. Manner of observations
+
+(a) Ground - visual.
+
 (b) No optical aids.
+
 (c) Sighting not while airborne.
 
-4. Time and date of sighting:
-(a) 31213Z—July 1954
+4. Time and date of sighting
+
+(a) 31Z21Z-July 1954
+
 (b) Day
 
-UNCLASSIFIED
-
-[Note: The bottom of the document contains a standard disclaimer about transmission of information affecting national defense]
-
+[stamp: UNCLASSIFIED]
 
 - page 27 -
 
-Here is the OCR text from the document:
+[stamp: UNCLASSIFIED]
+
+[handwritten: illegible] 3/19/62
+[handwritten: illegible] 1/1
 
 AF FORM 112
 APPROVED 1 JUNE 1948
 
-UNCLASSIFIED
-
-COUNTRY
-United States of America
-
-REPORT NO.
-(LEAVE BLANK)
+COUNTRY | REPORT NO. | (LEAVE BLANK)
+United States of America | |
 
 AIR INTELLIGENCE INFORMATION REPORT
 
 SUBJECT
 Unidentified Flying Object
 
-GEO REF GJPH 3840
+AREA REPORTED OF | FROM (Agency)
+Geo Ref CWPH 3840 | 405th Fighter Bomber Wing Intelligence
 
-DATE OF REPORT
-3 August 1954
+DATE OF REPORT | DATE OF INFORMATION | EVALUATION
+3 August 1954 | 2 August 1954 | Known Facts
 
-DATE OF INFORMATION
-2 August 1954
+PREPARED BY (Officer) | SOURCE
+Major George W. Satterfield Jr. | [illegible]
 
-PREPARED BY (Officer)
-Maj George W. Satterfield Jr.
+REFERENCES (Control number, director, previous report, etc., as applicable)
+AFR 200-3, APR 200-34
 
-FROM (Group)
-405th Fighter Bomber Wing Intelligence
+SUMMARY: (Under concise summary of report. Give significance in final one-sentence paragraph. List landmarks at lower left. Begin text of report on AF Form 112—Form 1(1))
 
-SOURCE
-MSgt [redacted]
-
-REFERENCES (Control number, directive, project, etc., as applicable)
-AFR 200-3, AFR 200-3A
-
-EVALUATION
-Known Facts
-
-SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begin text of report on AF Form 113-Part II)
-
-Miss W. Chief Social Services at the Veterans Administration in Hampton, Virginia reported to the Base Intelligence Officer that she and her parents sighted an unidentified Flying Object which appeared from an easterly 45° angle toward Geo Ref Coordinates GAFH 3840, paused about 10 seconds, then changed directions departing on a 50° angle in a north-westerly direction until it gradually disappeared. This incident occurred on Saturday, 31 July 1954, at 2115.
+Miss [illegible], Chief Social Services at the Veteran's Administration in Hampton, Virginia reported to the Base Intelligence Officer that she and her parents sighted an unidentified flying object which appeared from an easterly 45° angle towards Geo Ref Coordinates CWPH 3840, paused about 10 seconds, then changed directions departing on a 50° angle in a north-westerly direction until it gradually disappeared. This incident occurred on Saturday, 31 July 1954, at 2115Z.
 
 APPROVED:
 
-[Signature]
+[handwritten signature]
 GEORGE W. SATTERFIELD JR.
 Major, USAF
 Base Intelligence Officer
 
+[handwritten: None used]
+
 DISTRIBUTION BY ORIGINATOR
-1 CY - Director of Intelligence, Hq USAF, Washington 25, D.C.
-1 CY - Commander, Air Technical Intelligence Center, Wright-Patterson AFB, Ohio
-1 CY - Commander, Tactical Air Command, Langley AFB, Virginia
-1 CY - File, 405th Fighter Bomber Wing, Langley AFB, Virginia
+1 CY — Director of Intelligence, Hq USAF, Washington 25, D.C.
+1 CY — Commander, Air Technical Intelligence Center, Wright-Patterson AFB, Ohio
+1 CY — Commander, Tactical Air Command, Langley AFB, Virginia
+1 CY — File, Hq 405th Fighter Bomber Wing, Langley AFB, Virginia
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31-32. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
-IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C. 31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN AUTHORIZED USAF AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
+[stamp: illegible]
+[handwritten: W-1413]
+[handwritten: 3/13/79]
 
 - page 28 -
 
-The text on this page is illegible. The image appears to be a black and white photograph showing a landscape with trees, some structures or buildings, and a large circular or spherical object in the sky. The image is very grainy and low contrast, making detailed text recognition impossible.
-
+[NON-TEXT PAGE: black-and-white photograph showing a night sky scene with a bright circular object in the upper portion and landscape silhouette at bottom]
 
 - page 29 -
 
-The only text I can clearly see in this image is "553" written vertically on the right side of the photograph.
-
-The image appears to be a black and white photograph showing what seems to be a large white circular or oval object in the sky above a landscape with trees and what looks like a fence or structure in the foreground.
-
+[NON-TEXT PAGE: black-and-white photograph showing two bright oval or lens-shaped objects in a cloudy sky above a silhouetted landscape with trees and structures. Handwritten annotation "55 [illegible]" appears on the right margin.]
 
 - page 30 -
 
-The image appears to be a grainy black and white photograph showing a large, soft-edged white or light gray object against a darker background. The object has an irregular, cloud-like shape and takes up a significant portion of the image. There are two small circular holes or marks at the top of the page. The rest of the image is very grainy and difficult to discern specific details. No text is legible in this image.
-
+[NON-TEXT PAGE: black-and-white photograph showing a bright circular or oval object against a grainy, textured background]
 
 - page 31 -
 
-I apologize, but I cannot find any legible text in this image. The document appears to be a black and white photograph showing a landscape with trees and a fence in the foreground, and a large, bright circular or oval-shaped object in the sky above. The image is grainy and has two white circular marks at the top of the page, likely from hole punches.
-
+[NON-TEXT PAGE: black-and-white photograph showing a bright circular or disk-shaped object in a grainy sky above a landscape with trees and what appears to be a wooden structure or fence in the foreground]
 
 - page 32 -
 

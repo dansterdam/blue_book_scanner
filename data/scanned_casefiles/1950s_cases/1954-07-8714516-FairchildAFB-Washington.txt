@@ -6,234 +6,261 @@ PROJECT 10073 RECORD CARD
 2. LOCATION
 Fairchild AFB, Washington
 
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_______________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
 3. DATE-TIME GROUP
-Local    03/21,000
-GMT      03/21,002
+Local 1830-2000
+GMT 03/2102Z
 
 4. TYPE OF OBSERVATION
-Ground-Visual
+[ ] Ground-Visual
+[ ] Air-Visual
+[X] Ground-Radar
+[ ] Air-Intercept Radar
 
 5. PHOTOS
-Yes
-No
+[X] Yes
+[ ] No
 
 6. SOURCE
-Nil
+Hill
 
 7. LENGTH OF OBSERVATION
-1 hr, 20 min
+1 hr. 20 min
 
 8. NUMBER OF OBJECTS
 1
 
 9. COURSE
-NNW
+NNE SW
 
 10. BRIEF SUMMARY OF SIGHTING
-Appeared translucent. No sound. Shaped
-like teardrop.
+Appeared translucent. No sound. Shaped like teardrop.
 
-(WRITER IS PHIL)
-See: Film, 9-3745-429
-See separate accession
-(Film in Specimen File)
-
-ATIC Form 329 (REV 26 SEP 52)
-
-12. CONCLUSIONS
-Was Balloon
-Probably Balloon
-Possibly Balloon
-Was Aircraft
-Probably Aircraft
-Possibly Aircraft
-Was Astronomical
-Probably Astronomical
-Possibly Astronomical
-Other:
-Insufficient Data for Evaluation
-Unknown
+[handwritten: (SHRULED IS PIN)]
+[handwritten: Deer Film, 7-2/4/45-429]
+[handwritten: AEC Separate Accession]
+[handwritten: (Film in Specimen File)]
 
 11. COMMENTS
-P/I scrambled. Rptd looked like
-balloon.
+F/I scrambled. Rptd looked like balloon.
 
-ATIC Eval: Balloon tracks checked.
-Res. Balloon in area at time of
-sighting.
+ATIC Eval: Balloon tracke checked. Res. Balloon in are a at time of sighting.
 
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
 Page 6
 
-32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
+32. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you lost saw it.
 
-33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you last saw it. Refer to smaller sketch as an example of how to complete the larger sketch.
+[sketch showing a curved line above a horizon with a silhouette of an observer on the left and a landscape of buildings and trees on the horizon]
 
+33. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at its position when you lost saw it. Refer to smaller sketch as an example of how to complete the larger sketch.
+
+[Two sketches: larger sketch on left showing a landscape view from an observer's perspective with a road receding into distance, buildings and trees on sides, and sky above with two small circles marked with dashed line; smaller sketch on right showing a semicircular view with hatched areas on sides, labeled with "A" and "B" with dotted line and cross marking at center]
 
 - page 2 -
 
+Page 8
+
 39. Do you think you can estimate the speed of the object?
-(Circle One) Yes   No
-IF you answered YES, then what speed would you estimate?           m.p.h.
+(Circle One)     Yes     [X] No
+IF you answered YES, then what speed would you estimate? _____________ m.p.h.
 
 40. Do you think you can estimate how far away from you the object was?
-(Circle One) Yes   No
-IF you answered YES, then how far away would you say it was?   over 69,000 feet.
+(Circle One)     [X] Yes     No
+IF you answered YES, then how far away would you say it was? over 69,000 feet.
 
 41. Please give the following information about yourself:
-NAME [Redacted]
-ADDRESS [Redacted] Fairchild AFB [Redacted]
-TELEPHONE NUMBER [Redacted]
+
+NAME [redacted] Last Name     [redacted] First Name     [redacted] Middle Name
+
+ADDRESS [redacted] Street     Fairchild AFB Zone [redacted] State
+
+TELEPHONE NUMBER [redacted]
+
 What is your present job? USAF Control Tower Operator
-Age 23   Sex Male
+
+Age 29     Sex Male
 
 Please indicate any special educational training that you have had.
-a. Grade school Yes
-b. High school Yes
-c. College 2 years
-d. Post graduate
 
-e. & f. Technical school USAF Control Tower Operators School
-f. Other special training
+a. Grade school Yes     e.e. Technical school USAF Control Tower
+b. High school Yes     (Type) Operators school
+c. College 2 years     f. Other special training _________________
+d. Post graduate _________________
 
-42. Date you completed this questionnaire:   Day     Month     Year 1954
-
+42. Date you completed this questionnaire: 2 Day     July Month     1954 Year
 
 - page 3 -
+
+Form B
 
 U. S. AIR FORCE TECHNICAL INFORMATION SHEET
 (SUMMARY DATA)
 
-In order that your information may be filed and coded as accurately as possible, please use the following space to write out a short description of the event that you observed. You may repeat information that you have already given in the questionnaire, and add any further comments, statements, or sketches that you believe are important. Try to present the details of the observation in the order in which they occurred. Additional pages of the same size paper may be attached if they are needed.
+In order that your information may be filed and coded as accurately as possible, please use
+the following space to write out a short description of the event that you observed. You may repeat information that you have already given in the questionnaire, and add any further comments,
+statements, or sketches that you believe are important. Try to present the details of the observation in the order in which they occurred. Additional pages of the same size paper may be attached
+if they are needed.
 
 NAME [redacted]
 (Please Print)
 
+(Do Not Write in This Space)
+
 SIGNATURE [redacted]
-DATE 3 JULY 54
 
-Came on duty in Control Tower at 1615 hrs. Pacific; was advised of object at 1840 hrs. Began to take pictures at 1900 hrs shortly after. Object appeared almost over the station at first and moved from the SW while surface winds were from the SW at about 5 miles per hour. Gieger Tower was asked concerning object and advised they had seen it all day and object was over COEUR D'ALENE, IDAHO at that time.
+CODE:
 
-Gieger Tower had two jet fighters report on the object. First jet at 43,000 ft. and second jet a F-86d at higher altitude and both aircraft advised the object to be at least 60,000 ft, and appeared like an enormous balloon.
+DATE 3JULY 54
 
-Gieger Camera station reported the first favorable wind moving in the direction of the object to be at 60,000 ft.
+Came on duty in Control Tower at 1615 hrs. Pacific; Was advised of object at 1840 hrs.
+Began to take pictures at 1900 hrs of shortly after. Object appeared almost over the stat
+at first and moved from NE to SW while surface winds were from the SE at about 5 miles per
+hour. Gieser Tower was asked concerning object and advised they had seen it all day
+afternoon. Spokane Radio advised thier first report was by a civilian pilot about 1405hrs
+and object was over Chelan, Wash. at that time.
+Gieser Tower had two jet fighters report on the object. First jet at 43,000 ft.
+and second jet a F-86D at nigser altitude and both aircraft advised the object to be
+at least 60,000 feet and appeared like an enormous balloon.
+Gieser CAA weather station reported the first favorable wind moving in the direction
+of the object to be at 60,000 ft.
+Object was observed through 7 x 50 binnoculars and appeared in shape of a teardrop,
+and lccked of a translucent color as if we could see through it, and appeared to have
+an object attached to it similar to a weather balloon.
+The sky conditions at the time was very clear with no clouds at all and the visibiliy
+was unlimited.
+Also several of the photographs were taken with a pair of 7 x 50 binoculars affixed
+to the front of the camera.
 
-Object was observed through 7 x 50 binoculars and appeared in shape of a teardrop, and locked of a translucent color as if we could see through it, and appeared to have an effect attached to it similar to a weather balloon.
-
-The sky conditions at the time was very clear with no clouds at all and the visibility was unlimited.
-
-Also several of the photographs were taken with a pair of 7 x 50 binoculars affixed to the front of the camera.
-
-NOTE: Film developed. No object visible on negatives except minute particle.
-PROG WAS BALLOON.
-
+[handwritten: NOTE: Film developed. No object visible
+on negatives except minute particle.
+Photo WAS B+ L 60.D.]
 
 - page 4 -
 
-Film
+[handwritten: F/119
 July 3, 1954
-Fairchild AFB, Washington
-Observer - Military
-File# 10034407
-In custody of Audio-Visual Division
-
+FAIRCHILD AFB, WASHINGTON
+OBSERVER - MILITARY
+FILE # 1003407
+IN CUSTODY OF AUDIO-VISUAL DIVISION]
 
 - page 5 -
 
 U. S. AIR FORCE TECHNICAL INFORMATION SHEET
 
-This questionnaire has been prepared so that you can give the U. S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information so that, if it is deemed necessary, we may contact you for further details.
+This questionnaire has been prepared so that you can give the U. S. Air Force as much information as possible concerning the unidentified aerial phenomena that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information so that, if it is deemed necessary, we may contact you for further details.
 
 1. When did you see the object?
-3   July   1954
+___?___ ___Ju ly___ ___1954___
+Day       Month      Year
 
-2. Time of day: 1840-2000 hrs.
-(Circle One): A.M. or P.M.
+2. Time of day: 2200-2300 hrs.
+                Hour    Minutes
+(Circle One): A.M. or [X]P.M.
 
 3. Time zone:
 (Circle One): a. Eastern
              b. Central
              c. Mountain
              d. Pacific
-             e. Other
+             e. Other _______________
 
 (Circle One): a. Daylight Saving
              b. Standard
 
 4. Where were you when you saw the object?
-Fairchild AFB   Spokane   Washington
+___Fairchild AFB___ ___State___ ___Spokane___ ___Wash___
+Nearest Postal Address         City or Town        State or Country
 
-Nearest Postal Address                City or Town                 State or County
+Additional remarks: ___At Officers Club, Fairchild A.F.B., WA 3 miles north___
+___of___Spokane___
 
-Additional remarks: 5th July in Central Base area of base
-
-5. Estimate how long you saw the object:
-10      Minutes     Seconds
+5. Estimate how long you saw the object. ___1___ ___10___ ___Seconds___ 1 min ½ min
+                                            Hours   Minutes
 
 5.1 Circle one of the following to indicate how certain you are of your answer to Question 5.
-     a. Certain
-     b. Fairly certain
-     c. Not very sure
-     d. Just a guess
+
+a. Certain
+[X]b. Fairly certain
+c. Not very sure
+d. Just a guess
 
 6. What was the condition of the sky?
+
 (Circle One): a. Bright daylight
              b. Dull daylight
              c. Bright twilight
-
              d. Just a trace of daylight
              e. No trace of daylight
              f. Don't remember
 
 7. IF you saw the object during DAYLIGHT, TWILIGHT, or DAWN, where was the SUN located as you looked the object?
+
 (Circle One): a. In front of you
              b. In back of you
              c. To your right
-
              d. To your left
              e. Overhead
              f. Don't remember
 
+[Form A]
 
 - page 6 -
 
-FAIRCHILD, AFB
+FAIRCHILD, DAFB
 
-2 Jul 54
+& Jul &4
 
-includes 8 Film in separate
+includes 8Film in separate
+
 FOLDER
 
-
 - page 7 -
-
-Here is the text from the document:
 
 Page 3
 
 16. Tell in a few words the following things about the object.
-a. Sound: None
-b. Color: Translucent
+
+a. Sound __None_____________________________________________________________________________
+
+b. Color __Iridescent_________________________________________________________________________
 
 17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
 
-[A hand-drawn sketch of what appears to be a balloon-like or teardrop-shaped object with a thin stem/line at the bottom]
+[Drawing: A teardrop or balloon-shaped object with a circular top and pointed bottom, with a small arrow pointing downward]
 
 18. The edges of the object were:
-(Circle One): a. Fuzzy or blurred
-               b. Like a bright star
-               c. Sharply outlined
-               d. Don't remember
+(Circle One): a. Fuzzy or blurred                    e. Other _________________________
+             b. Like a bright star
+             c. Sharply outlined
+             d. Don't remember
 
-19. IF there was MORE THAN ONE object, then how many were there? 
+
+19. IF there was MORE THAN ONE object, then how many were there?_____________________________.
 Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
 
-[The bottom section of the page is blank]
-
+[Blank space for drawing]
 
 - page 8 -
+
+Page 2
 
 8. IF you saw the object at NIGHT, TWILIGHT, or DAWN, what did you notice concerning the STARS and MOON?
 
@@ -250,181 +277,152 @@ c. No moonlight — pitch dark
 d. Don't remember
 
 9. Was the object brighter than the background of the sky?
-(Circle One): a. Yes   b. No   c. Don't remember
+
+(Circle One): a. Yes     b. No     c. Don't remember
 
 10. IF it was BRIGHTER THAN the sky background, was the brightness like that of an automobile headlight?:
+
 (Circle One) a. A mile or more away (a distant car)?
 b. Several blocks away?
 c. A block away?
 d. Several yards away?
-e. Other: appeared Translucent
+e. Other _______________________ [handwritten: translucent]
 
 11. Did the object:
-a. Appear to stand still at any time?
-b. Suddenly speed up and rush away at any time?
-c. Break up into parts or explode?
-d. Give off smoke?
-e. Change brightness?
-f. Change shape?
-g. Flicker, throb, or pulsate?
-
 (Circle One for each question)
-Yes   No   Don't Know
-Yes   No   Don't Know
-Yes   No   Don't Know
-Yes   No   Don't Know
-Yes   No   Don't Know
-Yes   No   Don't Know
-Yes   No   Don't Know
+
+a. Appear to stand still at any time?                    [Yes circled]     No     Don't Know
+b. Suddenly speed up and rush away at any time?     Yes     [No circled]     Don't Know
+c. Break up into parts or explode?                      Yes     [No circled]     Don't Know
+d. Give off smoke?                                       Yes     [No circled]     Don't Know
+e. Change brightness?                                   Yes     [No circled]     Don't Know
+f. Change shape?                                        Yes     [No circled]     Don't Know
+g. Flicker, throb, or pulsate?                         Yes     [No circled]     Don't Know
 
 12. Did the object move behind something at anytime, particularly a cloud?
-(Circle One): Yes   No   Don't Know.
-IF you answered YES, then tell what it moved behind: [blank]
+
+(Circle One): Yes     [No circled]     Don't Know.     IF you answered YES, then tell what
+it moved behind: ________________________________________________________________
 
 13. Did the object move in front of something at anytime, particularly a cloud?
-(Circle One): Yes   No   Don't Know.
-IF you answered YES, then tell what it moved in front of: [blank]
 
-14. Did the object appear: (Circle One): a. Solid?   b. Transparent?   c. Don't Know.
+(Circle One):     Yes     [No circled]     Don't Know.     IF you answered YES, then tell what
+it moved in front of: ____________________________________________________________
+
+14. Did the object appear:     (Circle One):     a. Solid?     [b. Transparent? circled]     c. Don't Know.
 
 15. Did you observe the object through any of the following?
-a. Eyeglasses   Yes   No
-b. Sun glasses   Yes   No
-c. Windshield   Yes   No
-d. Window glass   Yes   No
 
-e. Binoculars   Yes   No
-f. Telescope   Yes   No
-g. Theodolite   Yes   No
-h. Other   [blank]
-
+a. Eyeglasses               Yes     [No circled]          e. Binoculars          [Yes circled]     No
+b. Sun glasses              Yes     [No circled]          f. Telescope           Yes     [No circled]
+c. Windshield              Yes     [No circled]          g. Theodolite          Yes     [No circled]
+d. Window glass            [Yes circled]     No          h. Other ___________________________
 
 - page 9 -
-
-Here is the text from the document:
 
 Page 5
 
 25. Where were you located when you saw the object?
-(Circle One):
+(Circle One)
+
 a. Inside a building
 b. In a car
 c. Outdoors
 d. In an airplane
 e. At sea
-f. Other Control Tower
+f. Other [handwritten: Control Tower/Tower]
 
 26. Were you (Circle One)
+
 a. In the business section of a city?
 b. In the residential section of a city?
-c. On open countryside?
+c. In open countryside?
 d. Flying near an airfield?
 e. Flying over a city?
-f. Flying over country?
-g. Other Fairchild AFB, Washington
+f. Flying over open country?
+g. Other [handwritten: Fairchild AFB airfield]
 
 27. What were you doing at the time you saw the object, and how did you happen to notice it?
-Control Tower, were advised at object.
+
+[handwritten: Control Tower - Were alerted to object.]
 
 28. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
-28.1 What direction were you moving? (Circle One)
-a. North
-b. Northeast
-c. East
-d. Southeast
-e. South
-f. Southwest
-g. West
-h. Northwest
 
-28.2 How fast were you moving? _______ miles per hour.
+28.1 What direction were you moving? (Circle One)
+a. North          c. East          e. South          g. West
+b. Northeast     d. Southeast     f. Southwest     h. Northwest
+
+28.2 How fast were you moving? __________________ miles per hour.
 
 28.3 Did you stop at any time while you were looking at the object?
-(Circle One) Yes No
+(Circle One)     Yes          No
 
 29. What direction were you looking when you first saw the object? (Circle One)
-a. North
-b. Northeast
-c. East
-d. Southeast
-e. South
-f. Southwest
-g. West
-h. Northwest
+
+a. North          c. East          [handwritten: e. South]          g. West
+b. Northeast     d. Southeast                                    h. Northwest
 
 30. What direction were you looking when you last saw the object? (Circle One)
-a. North
-b. Northeast
-c. East
-d. Southeast
-e. South
-f. Southwest
-g. West
-h. Northwest
+
+a. North          c. East          e. South          g. West
+b. Northeast     d. Southeast     f. Southwest     h. Northwest
 
 31. If you are familiar with bearing terms (angular direction), try to estimate the number of degrees the object was from true North and also the number of degrees it was upward from the horizon (elevation).
 
 31.1 When it first appeared:
-a. From true North 100 degrees.
-b. From horizon 70 degrees.
+a. From true North [handwritten: 210] degrees.
+b. From horizon [handwritten: 70] degrees.
 
 31.2 When it disappeared:
-a. From true North 140 degrees.
-b. From horizon 45 degrees.
-
+a. From true North [handwritten: 240] degrees.
+b. From horizon [handwritten: 45] degrees.
 
 - page 10 -
 
-Here is the text from the document:
-
 Page 4
 
-20. Draw a picture that will show the motion that the object or objects made. Place on "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
+20. Draw a picture that will show the motion that the, object or objects made. Place on "A" at the beginning
+of the path, a "B" at the end of the path, and show any changes in direction during the course.
 
-going from East to west or NE to SW
+[handwritten: going from East to west or NE to S.W.]
 
 21. IF POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension.
-40-50 ft. above sea level
 
-22. How large did the object or objects appear as compared with one of the following objects held in the hand and at about arm's length?
+[handwritten: 400 ft diameter-est.]
+
+22. How large did the object or objects appear as compared with one of the following objects held in the hand
+and at about arm's length?
 
 (Circle One):
-a. Head of a pin
-b. Pea
-c. Dime
-d. Nickel
-e. Quarter
+a. Head of a pin                    g. Silver dollar
+[b.] Pea                             h. Baseball
+c. Dime                              i. Grapefruit
+d. Nickel                            j. Basketball
+e. Quarter                           k. Other ___________
 f. Half dollar
 
-g. Silver dollar
-h. Baseball
-i. Grapefruit
-j. Basketball
-k. Other: ____________
+22.1 (Circle one of the following to indicate how certain you are of your answer to Question 22.
 
-22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22)
-a. Certain
-b. Fairly certain
+a. Certain                           c. Not very sure
+[b.] Fairly certain                  d. Uncertain
 
-c. Not very sure
-d. Uncertain
+23. How did the object or objects disappear from view? [handwritten: disappeared slowly after sunset.]
 
-23. How did the object or objects disappear from view? disappeared shortly after
+24. In order that you can give as clear a picture as possible of what you saw, we would like for you to imagine that you could
+construct the object that you saw. Of what type material would you make it? "How large would it be?" and what shape
+would it have? Describe in your own words a common object or objects which when placed up in the sky would give the
+same appearance as the object which you saw.
 
-24. In order that you can give as clear a picture as possible of what you saw, we would like for you to imagine that you could construct the object that you saw. "Of what type material would you make it?" "How large would it be?" and what shape would it have? Describe in your own words a common object or objects which when placed up in the sky would give the same appearance as the object which you saw.
-
-1. plastic or rubber
-2. eggs
-3. tear-drop
-
+[handwritten: 1. plastic or rubber
+2. apprx. 500 ft.
+3. gourdrops.]
 
 - page 11 -
-
-Here is the text from the document:
 
 Page 7
 
 34. What were the weather conditions at the time you saw the object?
+
 34.1 CLOUDS (Circle One)
 a. Clear sky
 b. Hazy
@@ -449,27 +447,44 @@ e. Don't remember
 a. Cold
 b. Cool
 c. Warm
-d. Hot
+[d. Hot] [handwritten: 90°]
 e. Don't remember
 
 35. When did you report to some official that you had seen the object?
-Day        July        Year    1954    400 Hrs. P
+
+[handwritten: July] [handwritten: 1954] [handwritten: 1900 hrs.]
+Day          Month          Year
 
 36. Was anyone else with you at the time you saw the object?
-(Circle One) Yes        No
+
+(Circle One)   [X] Yes     No
+
 36.1 IF you answered YES, did they see the object too?
-(Circle One) Yes        No
-36.2 Please list their names and address:
-[Redacted text]
+
+(Circle One)   [X] Yes     No
+
+36.2 Please list their names and addresses:
+
+[handwritten: off. 1955-2 4425 Lgt. Ft. Walla Walla AFB, Wash.]
+[handwritten: Capt. [redacted black line] [illegible] Ft. Worth AFB, Okla.]
 
 37. Was this the first time that you had seen an object or objects like this?
-(Circle One) Yes        No
-37.1 IF you answered NO, then when, where, and under what circumstances did you see other one?
-[Blank lines]
+
+(Circle One)   [X] Yes     No
+
+37.1 IF you answered NO, then when, where, and under what circumstances did you see other ones?
+
+_________________________________________________________________
+
+_________________________________________________________________
+
+_________________________________________________________________
+
+_________________________________________________________________
 
 38. In your opinion what do you think the object was and what might have caused it?
-No idea
 
+[handwritten: No idea]
 
 - page 12 -
 

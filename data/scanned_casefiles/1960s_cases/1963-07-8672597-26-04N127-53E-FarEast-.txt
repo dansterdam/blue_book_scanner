@@ -1,155 +1,233 @@
 PROJECT 10073 RECORD CARD
 
 1. DATE
-4 July 1963
+8 July 1953
 
 2. LOCATION
 26.04N 127.53E (Far East)
 
 3. DATE-TIME GROUP
-Local
-GMT 04/1125Z
+Local _______________________
+GMT 04/11252
 
 4. TYPE OF OBSERVATION
-Ground-Visual
-SOURCE
-military
+[X] Ground-Visuel     [ ] Ground-Radar
+[ ] Air Visuel        [ ] Air-Intercept Radar
 
 5. PHOTOS
-Yes
-X No
+[ ] Yes
 
-6. LENGTH OF OBSERVATION
+6. SOURCE
+military
+
+7. LENGTH OF OBSERVATION
 5 min
 
-7. NUMBER OF OBJECTS
+8. NUMBER OF OBJECTS
 one
 
-8. COURSE
+9. COURSE
 NE
 
 12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Possibly Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-□ Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-■ Other: Satellite
-■ Insufficient Data for Evaluation
-□ Unknown
+[ ] Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other Satellite
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
 10. BRIEF SUMMARY OF SIGHTING
-Obj approaching as 1st mag star observed at 200 deg azimuth 10 deg elevation in flight to 085 deg azimuth 17 deg elevation after steady flight with max altitude of 25 deg. Total duration observed 6 min. Disappeared suddenly. TX DX used. Object believed to be Satellite.
+00) appearing as a last mag star observed at 200 deg azimuth 10 deg elevation in flight to 085 deg azimuth 17 deg elevation after steady flight with max altitude of 25 deg. Total duration observed 6 min. Disappeared suddenly. 7X DX used. Object believed to be Satellite.
 
 11. COMMENTS
-At 04/1125Z ECHO was heading SE and not visible at the location of the observer. Possible observation of the other visible satellite, such as 1962 Beta Theta. Case considered as a Satellite observation since all information conforms with this analysis.
+At 04/11252 ECHO was heading SE and not visible at the location of the observer. Possible observation of other visible satellite, such as 1961 Beta Theta. Case considered as a Satellite observation since all information confirms with this analysis.
 
+ATIC FORM 329 (REV 28 SEP 52)
 
 - page 1 -
 
-NAVAL MESSAGE                                   UNCLASSIFIED                                   NAVY DEPARTMENT
+RADIO MESSAGE          UNCLASSIFIED          NAVY DEPARTMENT
 
-OPERATIONAL IMMEDIATE                 RELEASED BY                   DRAFTED BY                   EXT. NO.
+OPERATIONAL IMMEDIATE
+RELEASED BY | DRAFTED BY | EXT. NO.
 
-AF IN: 26541 (4 Jul63) G/crp
-O 261252                                                                                                 .
-FM MSS COSK
+AF IN : 26541 (4 JUL63) G/orp
+O Z: 121352
+FM : NAS AGEX
 
-TO COMNAVPHIL                          AF DIST: NIN-9, XOP-1, XOPX-4, SAF-OS-3, DIA-25,
-                                        DIA-CITC-2 (414)
-INFO ZEN/CTF 76
-CTG 76.1
+TO COMNAVPHIL          AF DIST: NIN-9, XOP-1, XOPX-4, SAF-OS-3, DIA-25,
+                       DIA-CIIC-2 (44)
+INFO ZEN/CTF 7S-
+CTG 75.1
 COMNAVFORJAPAN
 CNO
 CINCPACFLT
 
 UNCLAS
+
 UFO
 
 A. CINCPACFLT INST 3822.3
 
-1. OBJECT APPEARED AS WHITE, FIRST MAG STAR. APPEARED AS PINPOINT
-   WHEN VIEWED WITH BINOCULARS.
+1. OBJECT APEARED AS WHIT, FIRST MAG STAR. APPEARED AS PINPOINT
+WHEN VIEWED WITH BINOCULARS.
 
 2. OBSERVER NOTED WHAT LOOKED LIKE MOVING STAR. FIRST OBSERVED
-   ABT 202 TRUE ABT LT 10 DEG. DISAPPEARED 265 TRUE ALT 17 DEG OBJECT
-   WAS STEADY, CLIMBED TO ALT ABT 25 DEG BEFORE DESCENDING. DIS-
-   APPEARED SUDDENLY. TIME OF SIGHTING AT ABT 323 UKN, BUT TIME
-   TAKEN TO PASS FROM 0V5S TO 265 WAS 6 MIN.
+ABT 202 TRUE ABT ALT 10 DEG. DISAPPEARED WES TRUE ABT 17 DEG OBJECT
+WAS STEADY. CLIMBED TO ALT ABT 25 DEG BEFORE DESENDING. OBS-
+APPEARED SUDDENLY. TIME OF SIGHTING AT ABT 302 UXN, BUT TIME
+TAKEN TO PASS FROM ONES TO 286 WAS 6 MIN.
 
-3. GROUND VISULA BY 7 POWER BINOCS RNG LONG GLASS/109
-
-4. DISAPPEARED AT 041125Z, LATE DUSK                                                                    238.87
-                                                                                                         148
-                                                                                                         190°-
+3. GROUND VISULA BY 7 POWER BINOCS RNG LONG GLASS/O39      238.87
+                                                    -169
+4. DISAPPEARED AT 041125Z, LATE DUSK. [X] 260N              190°
 
 5. SHIP LOCATED 26 04.25N, 127 53.5E
 
-   S. J. R. GRIFFIN, LCDR, CO, AGE 33 W. L. MORANDINI, ENS, OOD, AGE 25
-   L. H. GADDY, SN LOOKOUT, AGE 22                                   SA OFF DUTY, AGE 18
+6. J. R. GRIFFIN, LCDR, CO, AGE 33 W. L. MORANDINI, EMS, OOD, AGE 25
+   E. H. GADDY, SN LOOKOUT, AGE 22 [redacted] SA OFF DUTY, AGE 18
    L. H. HINES, LTJG, VJOOD AGE 22
 
-92...C33
-SECNAV...UNSCGNAV...ASST SECNAV (REC)...82...89...89...29W...29D...03..SS
-34..35...65...65...67..72...76...94...IP...NAVAIDE...FLAGPLOT...BFR...CMC
-JCS...CSA...CSAF...CIA...NIC...COGARD
+92...OOB
+SECNAV..UNSCENAV..ASST SECNAV (R&D)..02..09..29S..29M..29D..03..33
+34..35..05..OS..27..72..76..94..IP..NAVAIDE..FLAGPLOT..3FR..CMC
+JCS..CSA..CSA..DIA..NIS..COGARD
 
 ADVANCE COPIES DELIVERED
 
-CONTROL NO.                            CIRCUIT NO.        PAGE        OF        PAGES        TIME OF RECEIPT            DATE TIME GROUP
-52167/MB/XO/2                B 123      1                2            1510Z 04 JUL 63        041215Z JUL 63
+CONTROL NO. | CIRCUIT NO. | PAGE | OF | PAGES | TIME OF RECEIPT | DATE TIME GROUP
 
-                                        UNCLASSIFIED
+52167/UB/YG/2 | B 123 | 1 | 2 | 151O2 24 JUL 63 | 041215Z JUL 63.
 
+UNCLASSIFIED
 
 - page 2 -
 
-NAVAL MESSAGE                   UNCLASSIFIED                   NAVY DEPARTMENT
+NAVAL MESSAGE          UNCLASSIFIED          NAVY DEPARTMENT
 
-7. CLEAR NIGHT, CEILING UNLIMITED CUMULUS CLOUDS, COVERAGE, 2 TENT'L.
+PRECEDENCE    TACTICAL    RELEASED BY                    DRAFTED BY                    EXT. NO.
+
+UNFOR -
+
+7. CLEAR NIGHT, CEILING UNLIMITED CUMULUS COULDS, COVERAGE, 2 TENTH.
 
 8. NO AIR TRAFFIC SIGHTED
 
 9. PREPARED BY CO. BELIEVE OBJECT SATELLITE.
 
-10. NO OTHER EVIDENCE. FIRST ACTUAL BRG TAKEN WHEN OBJECT WAS
-    AT 066. INITIAL SIGHTING ESTIMATED BY TUCKER.
+10. NO OTHER EVIDENCE. FIRST ACTUAL SRG TAKEN WHEN OBJECT WAS
+AT 266. INITIAL SIGHTING ESTIMATED BY TUCKER.
 
-CONTROL NO.                                                     DATE TIME GROUP
-528157                                                           241215Z JUL 53.
+CONTROL NO.          CIRCUIT NO.    PAGE   OF    PAGES TIME OF RECEIPT          DATE TIME GROUP
+
+52157                             2      2                                  241213Z JUL 63
 
 UNCLASSIFIED
 
-
 - page 3 -
 
-The document appears to be a detailed table of satellite orbital data for Earth Satellite 1960 IOTA 1, with data recorded for July 1963. The table includes columns for:
+SATELLITE 1960 IOTA 1
+SOUTH INDIAN LATITUDES
+NORTH-SOUTH
 
-- Equator crossing time
-- Longitude
-- Latitude
-- Time
-- North-South coordinates
+EQUATOR
+S-0
+TIME LONG. LAT. TIME LONG. HT. BEAR.
+(UT) (DEG) (M) (UT) (DEG) (M) (M-1)
 
-The data is organized by date (July 1, 2, 3, 4, and 5, 1963) and provides precise orbital information for the satellite.
+JUN 15, 1963
 
-At the bottom of the page, there is a section titled "MODIFIED ORBITAL ELEMENTS FOR EARTH SATELLITE 1960 IOTA 1" which includes additional technical details such as:
+1 11.4 177.05 57.3 26.7 -83.21 363 90.0+
+2 8.0 264.99 65.0 21.7 -81.09 511 72.2+
+3 1.1 236.05 95.5 17.7 -65.82 761 65.7+
+4 22.3 70.77 0.0 12.1 -47.13 857 57.5+
+5 51.7 74.37 53.3 17.5 -78.86 737 49.4
+6 45.1 121.39 76.5 9.0 -17.53 674 51.8
+7 38.8 192.75 35.0 10.3 -8.78 576 56.1
+8 32.5 21.62 70.0 -5.0 17.58 671 51.8
+9 11.2 59.73 -0.3 -33.2 28.06 731 59.6
+10 4.6 103.26 -0.3 -27.6 54.76 906 65.0+
+11 21.1 151.59 -10.0 -17.8 55.81 736 65.7+
+12 18.3 111.96 -55.0 -71.8 61.50 591 72.2+
+[illegible] 27.0 81.15 721 90.0+
 
-- Reference time
-- Inclination
-- Ascending node
-- Perigee
-- Anomalistic period
-- Eccentricity
-- Radius of perigee
-- Radius of apogee
+SATELLITE 1960 IOTA 1
+SOUTH INDIAN LATITUDES
+NORTH-SOUTH
 
-The document appears to be a technical report from a scientific or military tracking program documenting satellite orbital characteristics.
+EQUATOR
+S-0
+TIME LONG. LAT. TIME LONG. HT. BEAR.
+(UT) (DEG) (M) (UT) (DEG) (M) (M-1)
 
+JULY 4, 1963
+
+1 59.3 227.61 61.0 21.4 -81.15 759 72.2+
+2 53.5 213.85 45.0 12.3 -71.02 731 65.7+
+3 43.0 215.93 35.5 7.5 -50.16 664 49.5
+4 8.6 207.37 70.0 17.3 -78.98 674 49.5
+5 10.7 153.87 76.0 8.0 -17.46 1031 56.1
+6 25.3 37.68 -20.0 -9.3 17.47 723 51.7
+7 16.0 66.30 -50.0 -33.2 28.21 748 59.6
+8 18.8 104.95 -0.3 -27.6 54.39 906 65.0+
+9 22.1 153.11 -40.0 -18.1 55.76 851 60.7+
+22 18.3 124.32 -55.0 -27.2 61.02 983 90.0+
+
+JULY 5, 1963
+
+0 5.2 102.63 67.5 26.3 -83.12 808 90.0+
+2 20.3 211.76 45.0 21.5 -81.09 787 72.2+
+4 1.55 288.33 60.0 17.3 -65.14 761 65.7+
+5 22.7 270.65 95.5 14.1 -36.23 694 50.7
+6 46.1 76.18 53.0 15.7 -78.71 658 49.5
+7 55.2 178.17 75.0 8.8 -17.90 657 51.8
+8 36.6 32.79 35.0 4.8 -17.50 657 51.8
+9 11.8 59.61 -0.3 -5.0 17.66 731 59.7
+13 25.7 55.58 -10.0 -12.6 27.83 783 63.9+
+17 17.2 103.35 -50.0 -33.5 54.31 920 65.0+
+19 19.8 153.72 -0.3 -27.1 61.02 963 72.2+
+21 10.9 151.62 -55.0 -26.3 80.93 924 72.2+
+23 5.9 131.31 -77.0 -27.6 87.08 908 90.0+
+
+JULY 6, 1963
+
+[multiple data columns with coordinates and measurements]
+
+JULY 8, 1963
+
+[multiple data columns with coordinates and measurements]
+
+MODIFIED ORBITAL ELEMENTS FOR CABIN SATELLITE 1960 IOTA 1
+
+REFERENCE EPOCH 1963 S 7 23 20 H UT
+INCLINATION -67.27 DEG.
+ARGUMENT OF PERIGEE 144.50 DEG. WEST
+PERIGEE 339.17 STATUTE MILES
+
+ARGUMENT OF PERIGEE 536.51 DEG.
+RATE OF CHANGE 15.5 DEG. PER PERIOD
+
+MEAN MOTION 14.55270 REV. PER DAY
+RATE OF CHANGE -0.00018 MIN. PER PERIOD
+
+ECCENTRICITY 0.019262
+
+RADIUS OF PERIGEE 3118.1 MILES
+RADIUS OF APOGEE 3118.1 MILES
+RATE OF CHANGE -0.11 MILES PER DAY
+
+SEMI-MAJOR AXIS 3118.2 MILES
+RATE OF CHANGE -3.30290 DEG. PER DAY
+
+LATITUDE OF PERIGEE-17.22 DEG.
+MEAN LONGITUDE AT EPOCH 81
 
 - page 4 -
 

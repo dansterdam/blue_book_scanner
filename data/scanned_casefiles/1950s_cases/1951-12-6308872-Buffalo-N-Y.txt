@@ -7,22 +7,24 @@ PROJECT 10073 RECORD CARD
 Buffalo, N.Y.
 
 3. DATE-TIME GROUP
-Local: 1820E
-GMT: 10/23:002
+Local 1820E
+GMT 10/23Z02
 
 4. TYPE OF OBSERVATION
-[✓] Ground-Visual □ Ground-Radar
-□ Air-Visual □ Air-Intercept Radar
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
 
 5. PHOTOS
-□ Yes
-[✓] No
+[ ] Yes
+[X] No
 
 6. SOURCE
 Military
 
 7. LENGTH OF OBSERVATION
-15 seconds
+[illegible] seconds
 
 8. NUMBER OF OBJECTS
 1
@@ -30,85 +32,85 @@ Military
 9. COURSE
 S to N
 
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical [illegible]
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_______________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
 10. BRIEF SUMMARY OF SIGHTING
-Large white brilliant object like light of welder's torch. Globular in shape - 400 ft diameter. Center brighter than edges. Had blue-white brilliance and outer edge was white. Fiery taper cone appeared to trail object with pulsating red-orange exhaust. Trail of apparent to be 1 mi in length. Speed estimated 2,000 knots. Altitude was 3 to 4,000 ft. Flight to North.
+Large white brilliant object, like light of welders torch. Globular in shape - 400 ft diameter. Center brighter than edge. Had blue-white brilliance and outer edge was white. Fiery taper cone appeared to trail object with pulsating red-orange exhaust. Trail of apparent to be ½ mi in length. Speed estimated 2,000mph. Alt was 2 to 4000 ft. Flight was North.
 
 11. COMMENTS
 Astro (Meteor)
 
-12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Possibly Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-[✓] Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other
-□ Insufficient Data for Evaluation
-□ Unknown
-
-ATIC FORM 329 (REV 26 SEP 59)
-
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
-Here is the OCR text from the document:
+[stamp: DECLASSIFIED]
+
+UNCLASSIFIED
 
 HEADQUARTERS
 136TH FIGHTER-INTERCEPTOR SQUADRON
 Niagara Falls Municipal Airport
 Niagara Falls, New York
 
-UNCLASSIFIED
-
-360.11                                                12 December 1951
+360.11                                                                12 December 1951
 
 SUBJECT: Report of Information on Unconventional Aircraft
 
-TO:   Commanding General
-      Air Materiel Command
-      Wright-Patterson Air Force Base
-      Dayton, Ohio
-      ATTN: MCIS
+TO:     Commanding General
+        Air Materiel Command
+        Wright-Patterson Air Force Base
+        Dayton, Ohio
+        ATTN: COIS
 
-1. Under provisions of ADC Letter 200-1, 11 April 1951, the following is a narrative report by this unit as derived from an interview with Captain [REDACTED], USAF.
+1. Under provisions of AMC Letter 200-1, 11 April 1951, the following is a narrative report by this unit as derived from an interview with Captain [redacted] USAF, [redacted].
 
-2. On 10 December 1951, Captain [REDACTED] was driving east on Como Park Boulevard, approximately four (4) miles southeast of the Buffalo Municipal Airport, Buffalo, New York. At 1820B he sighted an unconventional-type airborne object.
+2. On 10 December 1951, Captain [redacted] was driving east on Cose Park Boulevard, approximately four (4) miles southwest of the Buffalo Municipal Airport, Buffalo, New York. At 1520E he sighted an unconventional-type airborne object.
 
-3. The object was large, white, extremely brilliant (he compared its brilliance to the light of a welder's torch when first lighted) and globular in shape, with an estimated 100 ft. diameter. The center, brighter than its perimeter area, was a blue-white brilliance and the outer edge was a white brilliance. Emanating from the trail of the object was a fleary, tapered cone and after the cone passed, some pulsating, red-orange exhaust flashes. The exhaust trail appeared to be about one-quarter of a mile in length. Captain [REDACTED] estimated the altitude of the object to be from three to four thousand feet. He estimated the speed to be approximately 240 knots. Its flight path appeared to be from south to north.
+3. The object was large, white, extremely brilliant (he compared its brilliance to the light of a welder's torch when first lighted) and globular in shape, with an estimated 1200 ft. diameter. Its center, brighter than its perimeter area, was a blue-white brilliance and the outer edge was a white brilliance. Emanating from the trail of the object was a fiery, tapered cone and after the cone there appeared some red-orange exhaust flashes. The exhaust trail appeared to be about one-quarter of a mile in length. Captain [redacted] estimated the altitude of the object to be from three to four thousand feet. He estimated the speed to be approximately 240 knots. Its flight path appeared to be from south to north.
 
-4. After sighting the object for approximately 15 seconds, it disappeared in the immediate vicinity of the Buffalo Municipal Airport. Captain [REDACTED] stated that it just seemed to shut-off, as one would shut-off an electric light bulb. Although Captain [REDACTED] heard the whisper of his car down, he could hear no sound associated with the object.
+4. After sighting the object for approximately 15 seconds, it disappeared in the immediate vicinity of the Buffalo Municipal Airport. Captain [redacted] stated that it just seemed to shut-off, as one would shut-off an electric light bulb. Although Captain [redacted] had the window of his car down, he could hear no sound associated with the object.
 
-5. The ADC station in this area reported nothing in its log to indicate the presence of the object at the time of the sighting. A check was made at the airport control tower, Buffalo Airport, and nothing was observed by the operators on duty at the time of the sighting, nor was anything indicated in the tower log.
+5. The ATC station in this area reported nothing in its log to indicate the presence of the object at the time of the sighting. A check was made at the airport control tower, Buffalo Airport, and nothing was observed by the operators on duty at the time of the sighting, nor was anything indicated in the tower log.
 
 DOWNGRADED AT 3 YEAR INTERVALS;
-DECLASSIFIED AFTER 12 YEARS.
+DECLASSIFIED AFTER 12 YEARS
 DOD DIR 5200.10
 
-UNCLASSIFIED
-
+[stamp: UNCLASSIFIED]
 
 - page 2 -
 
+[stamp: UNCLASSIFIED]
+
 360.11, Subj: Report of Information on Unconventional Aircraft
 
-6. Aircraft traffic at the Buffalo airport at that time of the evening consisted of the following:
+6. Aircraft traffic at the Buffalo Airport at that time of the evening consisted of the following:
 
-a. In-bound traffic - Capitol Airlines, Flight 275, inbound from Rochester, New York, reported over Akron, New York at 1811 and landed Buffalo Municipal at 1817a. American Air Lines, Flight 769, inbound from Rochester, New York at 1219a reported over Akron, New York, landed at Buffalo Municipal at 1830a. Both of the above flights were VFR.
+a. In-bound traffic - Capitol Airlines, Flight 275, inbound from Rochester, New York, reported over Akron, New York at 1911 and landed Buffalo Municipal at 1917E. American Air Lines, Flight 762, inbound from Rochester, New York, at 1819z reported over Akron, New York, landed at Buffalo Municipal at 1830E. Both of the above flights were VFM.
 
-7. Weather as reported by the CAA Weather Station sequences from Buffalo was as follows: 1730a, 1500 ft. broken clouds, 10 miles visibility, winds at 16 knots, temperature 29°. 1730a, 1000 ft. scattered clouds, 10 miles visibility, winds west 11 knots, temperature 29°. Winds aloft: 2000 ft. 270° at 15 knots, 4000 ft. 260° at 15 knots, 6000 ft. 280° at 20 knots, 8000 ft. 290° at 30 knots.
+7. Weather as reported by the CAA Weather Station sequences from Buffalo was as follows: 1730S, 4,200 ft. broken clouds, 10 miles visibility, winds west at 16 knots, temperature 29@. 1P30z, 4000 ft. scattered clouds, 10 miles visibility, winds west 11 knots, temperature 20@. Winds aloft: 2000 ft. 270@ at 15 knots, 4000 ft. 250@ at 15 knots, 6000 ft. 250@ at 20 knots, 8000 ft. 200@ at 30 knots.
 
-8. Captain is an experienced military pilot. He served overseas as a USAF fighter pilot during World War II. Since that time, he has been flying fighters in the USANG until the unit in which he was serving was activated into Federal service in February 1951. Since activation of his unit, he has served as a flight leader as well as the unit instrument training officer.
+8. Captain [illegible] is an experienced military pilot. He served overseas as a B-29 fighter pilot during World War II. Since that time, he has been flying fighters in the NANG until the unit in which he was serving was activated into federal service in February 1951. Since activation of that unit, he has served as a flight leader as well as the unit instrument training officer.
 
 9. Source and content reliability, A-2.
 
 FOR THE COMMANDING OFFICER:
 
-[Signature]
-JULIUS S BOGEN
+[handwritten signature]
+JULIUS S LOUDER
 2nd Lt, USAF
 Adjutant
 
@@ -116,42 +118,51 @@ Adjutant
 Drawing
 
 Cy to:
-CG ADC, Dir of Intell
+C3 ADC, Dir of Intell
 
-DOWNGRADED AT 8 YEAR INTERVALS,
-DECLASSIFIED AFTER 12 YEARS.
+DOWNGRADED AT 3 YEAR INTERVALS,
+DECLASSIFIED AFTER 12 YEARS,
 DOD DIR 5200.10
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
+[illegible section - appears to be additional stamped/classified marking at bottom]
 
 - page 3 -
 
-Here is the text I can see in the document:
+[stamp: DECLASSIFIED]
 
-UNCLASSIFIED
+[handwritten sketch with labels:]
 
 Bright Blue Center
 
-Pale Jet Effect Ball
+Pulse Jet Effect Balls
 Bright Orange-Red
+2
 
-Tail Here
+Trail Here
 
 More White Than Blue, Very Brilliant
 
-UNCLASSIFIED
+[stamp: DECLASSIFIED]
 
-The document appears to be a hand-drawn sketch of an object with descriptive notes about its color and characteristics.
-
+[Left margin, handwritten, vertically oriented:]
+WITNESSED BY:
+MR. AND MRS.
+[illegible]
+AND OTHERS
+[illegible]
+REPORT
+FORM
+[illegible]
 
 - page 4 -
 
-EXTRACT FROM STATUS REPORT # 2
+EXTRACT FROM STATUS REPORT #: [illegible]
 
 DATE: 10 Dec 51
 
-TIME (Local): 1830 EST
+TIME (local): 1830 PST
 
 LOCATION: Buffalo, N. Y.
 
@@ -159,7 +170,7 @@ LENGTH OF TIME OBSERVED: 15 Sec.
 
 SOUND: None
 
-SPEED: 240 Knots
+SPEED: 240 knots
 
 ALTITUDE: 3,000 - 4,000 ft.
 
@@ -171,23 +182,31 @@ ACTION OR COMMENTS: Pending
 
 DESCRIPTION OF INCIDENT: Large, white, extremely brilliant and globular in shape.
 
-
 - page 5 -
 
-EXTRACT FROM STATUS REPORT # 3
+EXTRACT FROM STATUS REPORT #3
 
 DATE: 10 Dec 51
-TIME (Local): 1820 EST
-LOCATION: Buffalo, N. Y.
-LENGTH OF TIME OBSERVED: 15 Sec.
-SOUND: None
-SPEED: 240 Knots
-ALTITUDE: 3,000-4,000 ft.
-HEADING: S to N
-SOURCE: USAF Pilot
-ACTION OR COMMENTS: No conclusions. Probably a fireball of some type.
-DESCRIPTION OF INCIDENT: Large, white, extremely brilliant and globular in shape.
 
+TIME (local): 1820 EST
+
+LOCATION: Buffalo, N.Y.
+
+LENGTH OF TIME OBSERVED: 15 Sec.
+
+SOUND: None
+
+SPEED: 240 knots
+
+ALTITUDE: 2,000-4,000 ft.
+
+HEADING: S to N
+
+SOURCE: USAF Pilot
+
+ACTION OR COMMENTS: No conclusions. Probably a fireball of some type.
+
+DESCRIPTION OF INCIDENT: Large, white, extremely brilliant and globular in shape.
 
 - page 6 -
 

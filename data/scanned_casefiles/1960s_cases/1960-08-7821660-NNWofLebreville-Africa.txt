@@ -1,18 +1,46 @@
-MILITARY AIR                                 PROJECT 10073 RECORD CARD
+MILITARY AIR                PROJECT 10073 RECORD CARD
 
-1. DATE                                               2. LOCATION
-22 Aug 60                                             NNW of Lebreville, Africa
+1. DATE
+22 Aug 60
 
-3. DATE-TIME GROUP                                    4. TYPE OF OBSERVATION
-Local           -175l2                                □ Ground-Visual    □ Ground-Radar
-GMT                                                   □ Air-Visual       □ Air-Intercept Radar
+2. LOCATION
+NNW of Lebreville, Africa
 
-5. PHOTOS                                             6. SOURCE
-□ Yes                                                 Military
-□ No
+12. CONCLUSIONS
+[X] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical Meteor
+[ ] Probably Astronomical Meteor
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-7. LENGTH OF OBSERVATION                              8. NUMBER OF OBJECTS
-4 sec                                                 one
+3. DATE-TIME GROUP
+Local ___
+GMT ~2.17512
+
+4. TYPE OF OBSERVATION
+[ ] Ground-Visual
+[X] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[ ] No
+
+6. SOURCE
+Military
+
+7. LENGTH OF OBSERVATION
+4 sec
+
+8. NUMBER OF OBJECTS
+one
 
 9. COURSE
 S
@@ -21,66 +49,79 @@ S
 Round, orange object, size of volley ball. Object exploded in a brilliant flash at an estimated 20-30,000 ft altitude. After explosion a bluish green trail was observed which lasted about 2 sec, then changed into a whitish gray could which lasted for 9 min.
 
 11. COMMENTS
-Witnesses probably saw a type of meteor called a "bolide".
+Witnesses probably saw a type of meteor called a "bolida."
 
-12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Possibly Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-□ Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other
-□ Insufficient Data for Evaluation
-□ Unknown
-
-ATIC FORM 329 (REV 20 SEP 57)
-
+ATIC FORM 329 (REV 28 SEP 53)
 
 - page 1 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
-SQB+22TKDA79DHDA357                                     1960 AUG 25 21 40
+[redacted section]
 
-RJDEDSQ
-RJFXHD S7
-2316302
-390SCSG SIDI SLIMANE AB MOR
-RJWFAL/AIR DEFENSE COMMAND ENT AFB COLO
-JEDSQ/AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO
-QZZHQ/HQ USAF AFCIN WASHINGTON 25 DC
-QZZHQ/SECRETARY OF THE AIR FORCE SAFIS WASHINGTON 25 DC
-INFO RJWXBR/SAC OFFUTT AFB NEBRASKA
-RJFXBN/ISAF TORREJON SPAIN
-RJFXNO/310ADIV NOUASSEUR AFB MOR
-RJPBAP/4TH MATS TRANSPORT PROVISIONAL SQUADRON CHATTERAUX AS FRANCE
+1950 AUG 23 21 40
 
-FROM BDGOI 23-H-37. SUBJECT: UFO
+SQB+22IKDAY52DHDA357
 
-1.0 A. DESCRIPTION
-1.1 ROUND BALL
-1.2 VOLLEYBALL SIZE AT ARMS LENGTH
-1.3 ORANGE
-1.4 ONE
-1.5 NA
-1.6 NONE
-1.7 NO TRAIL, TAIL OR EXHAUST
-1.8 NONE HEARD FROM COCKPIT
+P RJEDSQ
 
+US RUFMHD S7
+
+P 2315302
+
+JN 3S0SCSG SIDI SLIMANE AB MOR
+
+TO RUJFAL/AIR DEFENSE COMMAND ENT AFB COLO
+
+JEDSQ/AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO L
+
+RUSZ2HQ/HQ USAF AFCIN WASHINGTON 25 DC
+
+RUSZHQ/SECRETARY OF THE AIR FORCE SAFIS WASHINGTON 25 DC
+
+JFO RJWMBER/SAC OFFUTT AFB NEBRASKA
+
+JFMSN/ISAF TORREJON SPAIN
+
+JFXNO/4310ADIV NOUASSEUR AFB MOR
+
+JFPEAP/4TH MATS TRANSPORT PROVISIONAL SQUADRON CHATTERAUX AS FRANCE
+
+[redacted] FRM BDCOI 23-H-37. SUBJECT: UFO
+
+I). A. DESCRIPTION
+
+1) ROUND BALL
+
+2) VOLLEYBALL SIZE AT ARMS LENGTH
+
+3) ORANGE
+
+4) ONE
+
+5) NA
+
+6) NONE
+
+7) NO TRAIL, TAIL OR EXHAUST
+
+8) NONE HEARD FROM COCKPIT
+
+[handwritten: 1 4tsr
+2
+3
+4-Ux7w]
 
 - page 2 -
 
-PAGE TWO NUFXHD 57
+PAGE TWO UFOMND S7
 
 (C) MANNER OF OBSERVATION
 (1) AIR-VISUAL
 (2) NA
-(3) C-124, AF 1726, 10,500 FEET, 299 DEGREES TRU HEADING,
-210 KNOTS. AIRCRAFT'S HOME STATION, DDDONALDSON AFB SOUTH
+
+(3) C-124, AF 17278, 10,500 FEET, 299 DEGREES TRU HEADING,
+210 KNOTS. AIRCRAFT'S HOME STATION, DDONALD50N AFB SOUTH
 CAROLINA, CREW'S HOME STATION, 85TH ATS, TRAVIS AFB CALIF
 
 (D) TIME AND DATE OF SIGHTING
@@ -88,53 +129,58 @@ CAROLINA, CREW'S HOME STATION, 85TH ATS, TRAVIS AFB CALIF
 (2) DUSK
 
 (E) LOCATION OF OBSERVER
-(1) 00'52' NORTH, 08 DEG44' EAST) 85 NM EAST SOUTHEAST OF PRINCIPE
+00'52' NORTH, 05 DEG44' EAST) 85 NM EAST SOUTHEAST OF PRINCIPE
 ISLANDS, NORTH NORTHWEST OF LEBREVILLE, WEST AFRICA COAST
 
 (F) IDENTIFYING INFORMATION ON OBSERVERS
 (1) NA
-(2) MAJ WARREN L. CARRUTHERS, 1634BA, 1/LT JAMES J. WOOD EAD
-10307894
+(2) MAJ WARREN L. CARRUTHERS, 16334EA, 1/LT JAMES J. WOOD EAD
+0307894
 
-(G) WEATHER AND WINDS, ALOFT CONDITIONS AT TIME AND PLACE OF
+(G) WEATHER AND WINDS, ALCFT CONDITIONS AT TIME AND PLACE OF
 SIGHTINGS
 (1) EXCELLENT FOR OBSERVATION
 (2) NONE
 
-
 - page 3 -
 
-PAGE THREE RUFFXHD 37
+PAGE THREE UFOMIND 37
 
-(3) 1/10 CIRRUS AT 30,000 TO 35,000 FEET
+(3) 1/10 CIRRUS AT 25,000 TO 30,000 FEET
+
 (4) UNLIMITED
+
 (5) SOLID UNDERCAST TOPS ESTIMATED AT 9,000 FEET
+
 (6) NONE
-(7) PLUS 13 DEGREES °C°
+
+(7) PLUS 13 DEGREES "C"
+
 (8) OBJECT EXPLODED IN A BRILLIANT FLASH AT ESTIMATED ALTITUDE
-20,000 TO 30,000 FEET AFTER FOUR SECONDS OBSERVATION ON ITS COURSE.
+25,000 TO 30,000 FEET AFTER FOUR SECONDS OBSERVATION ON ITS COURSE.
 SIZE OF FLASH WAS AT LEAST TWO FEET IN DIAMETER AT ARMS LENGTH.
 AFTER EXPLOSION A BLUISH GREEN TRAIL WAS OBSERVED IN AN ARC OF
 APPROXIMATELY TWENTY DEGREES WHICH LASTED APPROXIMATELY TWO
-SECONDS AND CHANGED INTO A WHITISH GREY THICKER ICPATED CLOUD
+SECONDS AND CHANGED INTO A WHITISH GREY THIXZR ICPXATED CLOUD
 ESTIMATED FIVE FEET LONG AND ONE FOOT HIGH WHEN HELD AT ARMS
 LENGTH. OBSERVATION OF THIS CLOUD WAS OBSERVED BEING DISAPATED
 BY THE WINDS ALOFT. THIS CLOUD LASTED FOR A PERIOD OF NINE
 MINUTES. POSITION OF THE FLASH AND CLOUD FORMATION WAS ESTIMATED
-AT 50NM FROM OBSERVERS POSITION.
-(9) DESCRIPTION OF COURSE OF OBJECT
-(10) AIRCRAFT COMMANDER FIRST OBSERVED OBJECT IN SKY DUE TO
+IN FORM FROM OBSERVERS POSITION.
+
+(9.) DESCRIPTION OF COURSE OF OBJECT
+
+(a) AIRCRAFT COMMANDER FIRST OBSERVED OBJECT IN SKY DUE TO
 POSITION, COLOR AND SIZE AND SPEED OF OBJECT FROM DIRECTLY IN
 FRONT TO APPROXIMATELY A TEN O'CLOCK POSITION IN A DOWNWARD
 
-
 - page 4 -
 
-PAGE FOUR RJF XHD 57
+PAGE FOUR RUFXHD S7
 
 ARC
 
-(2) TWELVE O'CLOCK POSITION WITH 80 DEGREES ELEVATION AT
+(2) TWELVE O'CLOCK POSITION WITH 30 DEGREES ELEVATION AT
 FIRST SIGHTING
 
 (3) TEN O'CLOCK POSITION WITH 45DEGREES ELEVATION END
@@ -144,65 +190,103 @@ OF SIGHTING
 
 (5) BY EXPLOSION AND CLOUD FADEOUT
 
-(6) OB315, FOUR SECONDS, CLOUD RESULT, NINE MINUTES
+(6) OB345, FOUR SECONDS, CLOUD RESULT, NINE MINUTES
 
-(7) NONE
+(H) NONE
 
-(8) NA
+(I) NA
 
-(9) NA
+(J) NA
 
-(10) PREPARING OFFICER: JAMES F. WOOD, CAPT, USAF, BASE
-INTELLIGENCE OFFICER, HQ 3905TH COMBAT SUPPORT GROUP APO 117,
+(K) PREPARING OFFICER: JAMES F, WOOD, CAPT, USAF, BASE
+INTELLIGENCE OFFICER, HQ 390STH COMBAT SUPPORT GROUP APO 117,
 NEW YORK, NEW YORK. THE FOLLOWING ADDITIONAL INFORMATION WAS
 RECEIVED FROM THE CREW MEMBERS: (1) CREW ARRIVED AT FLASH
-POSITION OF 50MM FROM AIRCRAFT BY TIMING RELATIVE MOTION OF
+POSITION OF 50NM FROM AIRCRAFT BY TIMING RELATIVE MOTION OF
 CLOUD AS IT MOVED FROM TEN O'CLOCK TO NINE O'CLOCK POSITION
 DURING NINE MINUTE OBSERVATION. (2) CREW REPORTED SIGHTING
-TO CONGO AIRWAYS AT 22/1754Z AND RECEIPT WAS ACKNOWLEDGED AT
-22/1300Z, CONGO AIRWAYS AGAIN CONTACTED AND ADVISED CLOUD HAD
-
+TO CONGO AIRWAYS AT 22/1754Z AND RECEIPT WAS ACKNOWLEDGED. AT
+22/1330Z, CONGO AIRWAYS AGAIN CONTACTED AND ADVISED CLOUD HAD
 
 - page 5 -
 
-PAGE FIVE RJFXHD 57
+PAGE FIVE RJFXHD S7
 
-DISPATCHED: CONGO AIRWAYS ACKNOWLEDGED. APPROXIMATELY 22/1330Z
+DISAPATED. CONGO AIRWAYS ACKNOWLEDGED. APPROXIMATELY 22/152OZ
+CONGO AIRWAYS REQUESTED AND RECEIVED AIRCRAFT POSITION AT TIME
+OF SIGHTING. (3) APPROXIMATELY 22/2200Z, SIDI AIRWAYS REQUESTED
+VERIFICATION OF INFORMATION GIVEN CONGO AIRWAYS AND ASKED IN
+ADDITION, FOR COLOR, DIRECTION, ALTITUDE AND DID THE OBJECT HIT
+THE WATER? THIS WAS ASKED IN RELAY FCR CHATERAUX. INFORMATION
+WAS GIVEN AT THIS TIME. (4) CREW FIRST LANDING AFTER SIGHTING
+WAS SIDI SLIMANE AB MOROCCO, AT 23/0552Z. COMPLETION OF
+INTERROGATION WAS AT 23/14OOZ. COMMENT: DUE TO AIRCRAFT
+COMMANDER'S ELEVEN THOUSAND FLYING HOURS AND HIS DEFINATE
+STATEMENTS; (1) THAT THIS OBJECT WAS NOT A METEOR SIGHTING AS
+HE HAD PREVIOUSLY OBSERVED METEORS, BUT RATHER LIKE THE SIZE
+AND APPEARANCE OF THE SOVIETS FIRST SPUTNIK WHICH HE HAD OBSERVED.
+IT IS BELIEVED POSSIBLE THIS SIGHTING COULD HAVE BEEN A MISSILE
+SIGHTING THAT WAS OFF COURSE FROM THE FRANCE MISSILE RANGE IN NORTH
+AFRICA. IF FURTHER INFORMATION IS DESIRED, THE CREW MEMBERS CAN BE
+CONTACTED AT 4TH MATS TRANSPORT PROVISIONAL SQUADRON, CHATTERAUX
+AIR STATION, FRANCE. THE CREW IS ON AN INDEFINITE TDY THERE
+FOR CONGO AIR LIFT.
 
-CONGO AIRWAYS REQUESTED AND RECEIVED AIRCRAFT POSITION AT TIME OF SIGHTING. (3) APPROXIMATELY 22/2200Z, SIDI AIRWAYS REQUESTED VERIFICATION OF INFORMATION GIVEN CONGO AIRWAYS AND ASKED IN ADDITION, FOR COLOR, DIRECTION, ALTITUDE AND DID THE OBJECT HIT THE WATER? THIS WAS ASKED IN RELAY FOR CHATEAUX. INFORMATION WAS GIVEN AT THIS TIME. (4) CREW FIRST LANDING AFTER SIGHTING WAS SIDI SLIMANE AB MOROCCO, AT 23/0955Z. COMPLETION OF INTERROGATION WAS AT 23/1400Z. COMMENTS: DUE TO AIRCRAFT COMMANDER'S ELEVEN THOUSAND FLYING HOURS AND HIS DEFINATE STATEMENTS: (1) THAT THIS OBJECT WAS NOT A METEOR SIGHTING AS HE HAD PREVIOUSLY OBSERVED METEORS, BUT RATHER LIKE THE SIZE AND APPEARANCE OF THE SOVIETS FIRST SPUTNIK WHICH HE HAD OBSERVED.
+22/1530Z AUG RJFXHD
 
-IT IS BELIEVED POSSIBLE THIS SIGHTING COULD HAVE BEEN A MISSILE SIGHTING THAT WAS OFF COURSE FROM THE FRENCH MISSILE RANGE IN NORTH AFRICA. IF FURTHER INFORMATION IS DESIRED, THE CREW MEMBERS CAN BE CONTACTED AT 4TH MATS TRANSPORT PROVISIONAL SQUADRON, CHATEAUX AIR STATION, FRANCE. THE CREW IS ON AN INDEFINITE TDY THERE FOR CONGO AIR LIFT.
+[stamp: UNCLASSIFIED]
 
-22/1300Z AUG RJFXHD
-
-[Two black redaction bars at the bottom of the document]
-
+[Two black redaction marks covering text]
 
 - page 6 -
 
-Description cont,
+Description cont;
 
-Size of the flash was at least 2 feet in diameter at arms length. After explosion a bluish green trail was observed in an arc of about 20 deg with length about 5 feet long and 1 foot high when held at arms length. The clout was observed being dispated by the wind. The cloud lasted for 9 minutes. the xirm object is second. The flash and cloud was estimated to be about 50 NM from observers position.
-
+Size of the flash was at least 2 feet in diameter at arms length. After explosion a
+pulsin green trail was observed in an arc of about 20 deg which lasted about 2 seconds
+and changed into a whitish grey clout estimated 5 feet long and 1 foot high which at
+at arms length. The clout was observed being disipated by the wind. The cloud lasted
+for 9 minutes, the zzzzz object 4 seconds. The flash and clout was estimated to be about
+50 NM from observers position.
 
 - page 7 -
 
 UFO ANALYSIS SHEET
 
-Location NNW of Lebreville, west Africa (airborn)
-Date 22 August 1960 Hour (Z) 1751Z
-WX Vis unl, solid undercast, scattered clouds x* above
-Description Round, size of volly ball at arms length, orange, first seen dead ahead (299 deg) 80 deg elev, last seen at 240 deg 45 deg elev, object moved south in a downward arc, it exploded in a brilliant flash at an estimated 20,000 to 30,000 ft altitude after about 4 seconds of obs on x* its course (over)
-Direction of Motion South
-Satellite: (AFOIN-4F3, Phone 69219) Ruled out
-Astronomical Phenomena (Meteor, Comet, Planet, etc) Prob meteor (bolide)
-Radar Analysis (AFOIN-4E1) None
-Natural Phenomena (Ball Lightning, etc) -------
-Aircraft, Balloons, Airships, etc. Ruled out
-Other
-Evaluation of Source Reliability Prob reliable
-Analysis and Conclusions: The apparent size, shape and speed of the object rule out a missile such as reporting officer suggested. There was no satellites presenting at this time. The description of the object is vary similar to that of a meteor as seen in the daylight hours. When a meteor enters the atmosphere in the daytime, the burning substance leaves a trail/streak that cannot be seen at night. The passage probably saw a type of meteor or bolide that cannot enter the earth's atmosphere and explode.
+Location NNW of Lebreville, West Africa (airborn)
 
+Date 22 August 1960                 Hour (Z) 1751Z
+
+WX Vis unl, solid undercast, scattered clouds xx above
+
+Description Round, size of volly ball at arms length, orange, first seen dead
+ahead (299 deg) 80 deg elev, last seen at 240 deg 45 deg elev, object moved
+south in a downward arc, it exploded in a brillant fiash at an estimated
+20,000 to 30,000 ft altitude after about 4 seconds of obs on ix its course (over.)
+
+Direction of Motion South
+
+Satellite: (AFCIN-429, Phone 69219) Ruled out
+
+Astronomical Phenomena (Meteor, Comet, Planet, etc) Prob meteor (bolide)
+
+Radar Analysis (AFCIN-41) None
+
+Natural Phenomena (Ball Lightning, etc) -------
+
+Aircraft, Balloons, Airships, etc. Ruled out
+
+Other
+
+Evaluation of Course Reliability Prob reliable
+
+Analysis and Conclusions: The apparent size, shape and speed of the object
+rule out a missile plus a reporting officer suggested. There was no satelita
+reentering at this time. The description of the object is very similar to that
+of a meteor as seen in the daylignt hours. When a meteor enters the atmosphere
+in the daytime, the burning substance leaves a [illegible] smoke that cannot be
+seen at night. The witnesses probably saw a type of meteor called a bolide
+enter the earths atmosphere and explode.
 
 - page 8 -
 

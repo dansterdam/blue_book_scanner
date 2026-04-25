@@ -6,14 +6,32 @@ PROJECT 10073 RECORD CARD
 2. LOCATION
 Cape May, New Jersey
 
+12. CONCLUSIONS
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
 3. DATE-TIME GROUP
-Local: 19/0610Z
+Local
+GMT     19/0610Z
 
 4. TYPE OF OBSERVATION
-Ground-Visual
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
 
 5. PHOTOS
-No
+[ ] Yes
+[X] No
 
 6. SOURCE
 Military
@@ -28,113 +46,126 @@ one
 NE to SW
 
 10. BRIEF SUMMARY OF SIGHTING
-One large blue fire ball, 20 feet in diameter or the size of a volleyball at half a mile. Object left, or there was, an undesirable odor in the air unlike ozone burning. Object moved high and fast. Object was seen in a trajectory arc NE to SW. Object disappeared into woods at visible range after having been seen for 10 to 15 seconds.
+One large blue fire ball, 20 feet in diameter or the size of a volleyball at half a mile. Object left a bluish trail. Object left, or there was, an indescribable odor in the air unlike ozone burning. Object moved high and fast. Object was seen in a trajectory arc NE to SW. Object disappeared into woods at visible range after having been seen for 10 to 15 seconds.
 
 11. COMMENTS
 Description, duration, flight path and manner of disappearance indicate sighting was caused by a meteor.
 
-12. CONCLUSIONS
-Probably Balloon
-Probably Balloon
-Probably Aircraft
-Probably Aircraft
-Was Astronomical
-Probably Astronomical
-Possibly Astronomical
-Other
-Insufficient Data for Evaluation
-Unknown
-
 ATIC FORM 329 (REV 26 SEP 52)
-
 
 - page 1 -
 
-Here is the text from the document:
+P OP1127
 
-P-POPITZ
-FM COMD? ZSADIV ROSLYN ATSTA NY
-TO RJDEDN/COMDR ADC ENTATE COLORADO
-AGBDBORXCO.MDR ATIC WRIGHT PATERSON
-RJEPNB/DIR INTEL HQ USAF WASH 25 D C
-RJEPNB/CO.MDR DET 3 4622ND AISS STEWART AFB NY
-RJEPND/COMDR FLT 3 4622ND AISS STEWART AFB NY
+[handwritten: USAFMEM] 19/06/10 [illegible]
+
+FH: COMDR 2SADIV ROSLYN AFSTA NY [handwritten: 19] [handwritten: X]
+[handwritten: 08:23]
+
+TO RJEPNB/COMDR ADC EATONP COLORADO
+
+AGJREPN/COMDR ATIC WRIGHT PATERSON
+
+RJEPNB/DIR INEL HQ USAF WASH 25 D C
+
+RJEPNB/COMDR DET 3 462ND AISS STEWART AFS NY
+
+RJEPNB/COMDR FLT 3 462ND AISS STEWART AFB NY
+
 INFO RJEPNB/COMDR EADF STEWART AFB NY
-BT
-/UNCLAS/CITE NBR 5244. ATTN: CIC, SUEJ: UFOB
+
+ET
+
+/UNCLAS/CITE NBR 5244. ATTN: CIC, SUBJ: UFOB
 
 (1)
-(A) LARGE FIRE BALL.
-(B) 20 FT DIAMETER OR VOLLEY BALL AT HALF MILE
+
+(A) LARGE FIRE BALL
+
+(B) 25 FT DIAMETER OR VOLLEY BALL AT HALF MILE
+
 (C) BLUE
+
 (D) ONE
+
 (E) NA
+
 (F) NONE
+
 (G) BLUISH TRAIL
+
 (H) NONE
-(I) OBJECT LEFT OR THERE WAS INDESCRIBABLE SHELLIN AIR UNLIKE
-   OZONE OR BURNING, HIGH & FAST
+
+(I) OBJECT LEFT OR THERE WAS INDESCRIABLE SMELLIN AIR UNLIKE OZONE OR BURNING. HIGH & FAST
 
 (2)
-(D) TRAJECTORY HORIZONTAL ARC, N. EAST TO S. WEST.
+
+(D) TRAJECTORY HORIZONTAL ARC. N. EAST TO S. WEST.
+
 (E) OBJECT DISAPPEARED INTO WOODS AT VISABLE RANGE.
-(F) 10-15 SECONDS
+
+(F) 12-15 SECONDS
 
 (3)
-(A) GROUND VISUAL
+
+(A) CROWD VISUAL
+
 (B) NONE
 
 (4)
-(A) POSSIBLE
+
+(A) [illegible]
+
 (B) NIGHT
 
-(5) WEST END OF LIFE BOAT STATION, WEST END OF CAPE MAY CANAL, N.J.
-
+(5) WEST END OF LIFE BOAT STATION, WEST END OF CAPE MAY CANAL. N.J.
 
 - page 2 -
 
-Here is the text from the document:
+(6) NO METEROLOGICAL PHENOMENAL
 
-(6) NO METEOROLOGICAL PHENOMENAL
+(8) NONE
 
-(9) NONE
-
-(10) NONE
+(12) NONE
 
 (11) POSSIBLY SHOOTING STAR OR COMET. NO A/C IN LOCALITY OR INVERSION PHENOMENAL.
 
-F. W. WILLCOX MAJ USAF, D/INTEL.
-BY ""
+F. H. WILLCOX MAJ USAF, D/INTEL.
 
-19/2902Z NOV RJEPWY
+BY
 
-NWNN UPWL24 WPA225 YDE322 TYB532 TIAA547WYA222
+19/09/22Z NOV RJEPHY
 
-PP RJEDEN RJEPHO RJEPAB RJEDVP
-DE RJEPWY 22----
+NMMN UPN224 UPA225 YDF332 TYEE32 THA247NYA222
 
+PP RJEDDN RJEPHO RJEFNB RJEDUP
+
+XDE RJEPNY.23
+
+[handwritten: 15464
+3 4+0 a
+[signature illegible]
+MCSHERRY]
 
 - page 3 -
 
 (6)
-[REDACTED] SEAMAN [REDACTED] U.S. COAST GUARD, CAPE MAY N.J.
+"  (B) SEAMAN [redacted] S. COAST GUARD, CAPE MAY N.J.
 RELIABLE MAN ACCORDING TO OFFICER OF DAY
 
 (7)
-(A) CLEAR 15 MILES TEM DEWPOINT 38 39
-(B) SURFACE ENE DEG 6 KT
-8,000' 340 DEG 15 KT
-10,500' 340 DEG 36 KT
-16,500' 272 DEG 32 KT
-28,500' 272 DEG 45 KT
-30,000' 292 DEG 65 KT
-53,500' 320 DEG 45 KT
-
+"  (A) CLEAR 15 MILES TEN DEWPOINT 38 39
+(B) SURFACE ENE DEC 6 KT
+8,888' 340 DEG 15 KT
+15,888' 342 DEG 38 KT
+16,888' 278 DEG 32 KT
+22,888' 279 DEG 45 KT
+38,888' 292 DEG 65 KT
+58,882' 322 DEG 45 KT
 (C) CLEAR
 (D) EXCELLENT
 (E) NONE
 (F) NONE
-
 
 - page 4 -
 

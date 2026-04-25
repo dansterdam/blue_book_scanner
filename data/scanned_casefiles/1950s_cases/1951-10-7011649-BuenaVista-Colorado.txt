@@ -1,22 +1,34 @@
-PROJECT 1007/3 RECORD CARD
+PROJECT 10073 RECORD CARD
 
-1. DATE
-28 Oct 1951
+1. DATE: 28 Oct 1951
 
-2. LOCATION
-Buena Vista, Colorado
+2. LOCATION: Buena Vista, Colorado
+
+12. CONCLUSIONS
+[X] Wes Balloon
+[ ] Probably Balloon
+[ ] Possible Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical [illegible]
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_______________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
 3. DATE-TIME GROUP
-Local ________
-GMT 29/0900Z
+Local _____________________
+GMT 29/02002
 
 4. TYPE OF OBSERVATION
-☐ Ground-Visual ☐ Ground-Radar
-☐ Air-Visual ☐ Air-Intercept Radar
+[X] Ground-Visual     [ ] Ground-Radar
+[ ] Air-Visual       [ ] Air-Intercept Radar
 
 5. PHOTOS
-☐ Yes
-☐ No
+[ ] Yes
+[X] No
 
 6. SOURCE
 Pilot
@@ -28,122 +40,123 @@ Pilot
 1
 
 9. COURSE
-N to SE
+N to S if
 
 10. BRIEF SUMMARY OF SIGHTING
-Color was greenish-blue light. Speed not estimated. Object appeared in a descending curve. Estimate angle it was descending at approximately 30 deg. After passage of the object there appeared to be a tail or incandescent glow in the 1/4 form of a tail. It changed color to sort of white color.
+Color was Greenish-Blue light. Speed not estimated. Object appeared in a descending curve. Estimated angle it was descending at approximately 20 deg. After passage of the object there appeared to be a tail or incandescent glow in the NW form of a tail. It changed color to sort of white color.
 
 11. COMMENTS
 Evaluated as a meteor
 
-12. CONCLUSIONS
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
-☐ Was Astronomical/Other
-☐ Probably Astronomical
-☐ Possibly Astronomical
-☐ Other
-☐ Insufficient Data for Evaluation
-☐ Unknown
-
-(ATIC FORM 329 (REV 26 SEP 52))
-
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
-Here is the text from the document:
+AF FORM 112—PART I
+APPROVED 4 JUNE 1948
 
-AF FORM 112-PART I
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
+SECURITY INFORMATION
 
-COUNTRY: United States
+United States | UNCLASSIFIED | (LEAVE BLANK)
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-SUBJECT: Sighting of Unidentified Object
+SUBJECT: Sighting of Unidentified Object C/R, 28 Oct 51
 
-REPORTING ON: Colorado
-DATE OF REPORT: 11 Nov 1951
+DATE REPORTED ON: Colorado | FROM (Agency): HQ Air Defense Comd, Ent AFB, Colorado Springs, Colorado
 
-PREPARED BY (Officer): T. Freudenburg, Major, USAF
+DATE OF REPORT: 14 Nov 1951 | DATE OF INFORMATION (EVALUATION): 10 Nov 1951
 
-REFERENCES: (Omitted)
+PREPARED BY (Officer): T. Fredenburgh, Major, USAF | SOURCE: [illegible], Major, USAF, 21031 Air Weather Gro, Peterson Fld, Colo
 
-SUMMARY:
-A greenish-blue brilliant light with an incandescent glow in the form of a tail lasting about 15-20 seconds, traveling north to southeast in a descending curve at an angle of about 300 was seen on/or about 2000 - 2030 hours, 28 October 1951, approximately seven (7) miles from Buena Vista, Colorado.
+REFERENCES (Control number, direction, previous report, etc., as applicable):
+
+SUMMARY: (Concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begin text of report on AF Form 112—Part II.)
+
+A greenish-blue brilliant light with an iridescent glow in the form of a tail lasting about 15-20 seconds, traveling North to Southwest in a descending curve at an angle of about 30° was seen on/or about 2000 - 2030 hours, 20 October 1951, approximately seven (7) miles from Buena Vista, Colorado.
 
 The observer is a rated pilot of the Weather Squadron indicated above. His recital was simple, direct and complete as to details.
 
-[Signed]
-T. FREUDENBURG
+[handwritten signature]
+
+T. FREDENBURGH
 Major, USAF
 Intelligence, ADC
+
+NOTA
 
 DOWNGRADED AT 3 YEAR INTERVALS;
 DECLASSIFIED AFTER 12 YEARS.
 DOD DIR 5200.10
 
-UNCLASSIFIED
+DISTRIBUTION BY ORIGINATOR
 
+[stamp: UNCLASSIFIED]
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 10 U.S.C.—50. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+
+[stamp: UNCLASSIFIED]
+19—8033 U.S. GOVERNMENT PRINTING OFFICE 1950 O—918241
 
 - page 2 -
 
-Here is the text from the document:
+[stamp: UNCLASSIFIED]
 
-AF FORM 112-PART II
-UNCLASSIFIED
-SECURITY INFORMATION
-JNCLASSIFIED
+AF FORM 112—PART II
+APPROVED 1 JUNE 1948
+
+[stamp: SECURITY INFORMATION] [stamp: UNCLASSIFIED]
+
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM (Location)    Hq AISO, Mt Air, Colo Springs, Colorado
+[FROM (source)] | REPORT NO. | | PAGE 1 OF 1 PAGES
+Hq ARC, Ent AFB, Colo Springs, Colorado | | |
 
-DATE    20 October 1951    PAGE 1 of 1 PAGES    REPORT NO.
+On/or about 2000 - 2030 hours, 28 October 1951, I was at the base of a mountain approximately seven (7) miles South from Buena Vista, Colorado, on a hunting trip and was sitting in my car facing northeast. I was startled by the appearance of a very brilliant light, a greenish-blue. This object approached from the northwest going north to Southwest and in a descending curve. I would estimate the angle it was descending at approximately 20°.
 
-On/or about 2000 - 2030 hours, 20 October 1951, I was at the base of a mountain approximately seven (7) miles south from Buena Vista, Colorado, on a hunting trip and I was sitting in an open facing Northeast. I was watching the sky, somewhat of a very brilliant light, color was greenish-blue. This object approached from the northeast going North to Southwest and in a descending curve. I would estimate the angle to the horizontal at about 20 degrees.
+The object stayed within my sight approximately 20 seconds - the brilliant light that is. I wouldn't attempt to estimate the speed. After the passage of the object, there appeared to be a tail or incandescent glow in the form of a tail. It was just a glow after the light was gone practically. It lit up the country quite a bit. The glow was just an incandescence in the sky. This glow lasted about 15-20 seconds and it changed color and seemed to change toward a white - the green blended in into sort of a milky color.
 
-The object stayed within my sight approximately 30 seconds - the brilliant light that is. I wouldn't attempt to estimate the speed. After the passage of the object, the glow appeared to be a trail or immaterial glow in the form of a tail. In was just an incandescent in the sky. Till then it had seemed to change color and seemed to change toward a white - the green bleached out into sort of a white color.
+The only deduction I could draw from it, assuming an object had passed by, is that the speed at which it was going caused it to glow and particles from this object changed color as the temperature of the particles changed.
 
-The only deduction I could draw from it, assuming an object had passed by, is that the good at which we were going around 15 to 20 miles an hour, this object changed color as the temperature of the particles changed.
-
-With a visit to the spot I could, I believe, very accurately determine the direction the light was traveling. The direction I gave previously was as near possible as the roads were only tracks along the mountains and we were in and around, and I am not positive of the exact direction I was facing when I saw the object.
+With a visit to the spot I could, I believe, very accurately determine the direction the light was traveling. The direction gave previously were an estimate as the roads were only tracks along the mountains and we ways in and around, and I am not positive of the exact direction I was facing when I saw the object.
 
 DOWNGRADED AT 3 YEAR INTERVALS,
-DECLASSIFIED AFTER 12 YEARS.
+DECLASSIFIED AFTER 12 YEARS,
+DOD DIR 5200.9 -
 
-[Note: The bottom of the document contains a disclaimer about information affecting national defense]
+[stamp: UNCLASSIFIED]
 
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+
+[stamp: SECURITY INFORMATION]
+15-24319-1 & U.S.Government Printing Office—1950—O-518432
 
 - page 3 -
 
-EXTRACT FROM STATUS REPORT # 2
+EXTRACT FROM STATUS REPORT # [illegible]
 
 DATE: 28 Oct 51
 
-TIME (Local): 2000 - 2030
+TIME (local): 2000 - 2030
 
 LOCATION: Buena Vista, Col.
 
-LENGTH OF TIME OBSERVED: 15-30 Seconds
+LENGTH OF TIME OBSERVED: 15-30 seconds.
 
 SOUND: None
 
-SPEED: Unknown
+SPEED: unknown
 
-ALTITUDE: Unknown
+ALTITUDE: unknown
 
 HEADING: N to SW
 
-SOURCE: AP Major
+SOURCE: AF Major
 
-ACTION OR COMMENTS: Examples of green fireball phenomena. No conclusions.
+ACTION OR COMMENTS: Example of green fireball phenomena. No conclusions.
 
-DESCRIPTION OF INCIDENT: Greenish-blue brilliant light with an incandescent glow in the form of a tail.
-
+DESCRIPTION OF INCIDENT: Greenish-blue brilliant list with an incandescent glow in the form of a tail.
 
 - page 4 -
 

@@ -4,19 +4,33 @@ PROJECT 10073 RECORD CARD
 26 Aug 1951
 
 2. LOCATION
-Ellington AFB, Texas
+Ellington AFD, Texas
 
-3. DATE-TIME GROUP
-Local 0118
-GMT 26/07:57
+12. CONCLUSIONS
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE/TIME GROUP
+Local___0118
+GMT 2 6/0'7/8'7
 
 4. TYPE OF OBSERVATION
-Ground Visual ☒ Ground-Radar ☐
-Air-Visual ☐ Air-Intercept Radar ☐
+[X] Ground-Visual     [ ] Ground-Radar
+[ ] Air-Visual        [ ] Air-Intercept Radar
 
 5. PHOTOS
-☐ Yes
-☒ No
+[ ] Yes
+[X]No
 
 6. SOURCE
 military
@@ -31,117 +45,152 @@ one
 North, rising
 
 10. BRIEF SUMMARY OF SIGHTING
-OB-J bright (as bright as the brightest star), yellow in color. No definite shape. Deviated but returned on course of North. Disappeared by rising. Altitude approx 25,000 was observed 3-4 min.
+O3J bright (as bright as the brightest star), yellow in color. No definite shape. Deviated but returned on course of North. Disappeared by ris ing. Altitude approx 25,000 was observed 3-4 min.
 
 11. COMMENTS
 Case evaluated as balloon.
 
-12. CONCLUSIONS
-☒ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
-☐ Was Astronomical
-☐ Probably Astronomical
-☐ Possibly Astronomical
-☐ Other
-☐ Insufficient Data for Evaluation
-☐ Unknown
-
-(ATIC FORM 329 (REV 26 SEP 52))
-
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
-AF FORM 112-PART II
+AF FORM 112—PART II
+APPROVED 1 JUNE 1948
+
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM: Intelligence, 36th May Wing, Ellington AFB, Texas
-TO: Hq USAF Intelligence, Washington 25, D.C.
+FROM (Agency, Subject and Report No.)
+[illegible], Intelligence, Sq 1957 Wg | REPORT NO.
+[illegible], [illegible] Air Force Base, | ATC-51
+Houston, Texas |
 
-Statement of [REDACTED] 8 & W Squadron, Ellington
+Statement of [illegible] [illegible] high O & W Squadron, Ellington
+Air Force Base, Houston, Texas
 
-On the morning of 25 August 1951 at 0315 hours, I was a observer object in the sky. It was round with no protruding surfaces. It was at height as I couldn't tell exactly how high. I may have mentioned a very high altitude. At my post were present.
+On the morning of 29 August 1951 at 0115 hours, I saw a strange object in the
+S.S.W. with its contrails purplish. It was at about 30 thousand
+ft. and air way were present. It was a very bright light, brighter than V-
+shape. The light would flicker slightly, leaving it clearly visible.
+with beacon there was no sound at all. I have observed the lights of conventional
+aircraft at night, and the light that I saw that night traveled about four times
+as far in one second as any moving light from a night direction that I am familiar
+with. The object flew over the horizon, but climbed into the sky until it was so far and high
+above us that it was barely discernible with the naked eye. It reversed its flight
+and there was no sound at all. I have observed the light of conventional
+aircraft as night, and the light that I saw that night traveled about four times
+as far in one second as any moving light from a night direction that I am familiar
+with. The object turned and climbed into the sky until it was so far and high
+above us that it was barely discernible with the naked eye. It reversed its flight
+direction. It would fly at tremendous speeds in one direction and then seem to coast.
+Then it would take an obtuse angle in another direction and repeat the change
+in course. The light that was very noticeable on the flight in those angles
+when no definite. After it had started to climb into the sky and it was very far
+above us it turned circling around and off at two second intervals. I estimated
+its intervals could at I feel the time is fairly accurate. I don't know how long
+this thing took to go completely out of sight, but I would estimate three minutes.
+However, there was no visible trail or smoke from this object. After I
+first observed this thing myself [illegible] and then [illegible] and then I [illegible]
+on top or the building. [illegible] We all three [illegible] and we all three
+observed the object.
 
-I had a more preliminary light than stars G. I have observed the lights or something similar at intervals. It was light and then dark. A new track started which was 34 to 45 degrees from North. It was or more. It went away from us in a climbing direction that is 34 to 45 degrees from North. Then it looked just like another star, then it faded from sight.
-
-I would like an obtuse angle in another direction and saw it. The object was in view. There was no definite. After it had started to climb into the sky and it was very far up. I feel the intervals should and I feel the time is fairly accurate. I don't know how long it was in view. I could possibly put it in minutes.
-
-There was no visible traffic of [REDACTED] or smoke from this object. After I finished watching it, two men from the squadron came out to the same room, next to which we were standing. We all three observed the object.
-
-[Signature block and additional administrative text at bottom of page are mostly redacted]
-
-UNCLASSIFIED
-
+[illegible section at bottom of page]
 
 - page 2 -
 
-Here is the text from the document:
+[stamp: UNCLASSIFIED]
+[stamp: DECLASSIFICATION]
 
-UNCLASSIFIED
-
-AF FORM 112-PART II
+AF FORM 112--PART II
+APPROVED 1 JUNE 1948
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-[Letterhead details partially obscured/redacted]
+FROM: [illegible] Intelligence, [illegible] Fwy
+[illegible] A.F., [illegible]
 
-REPORT NO: TR-14-51
-PAGE 3 OF 1
+REPORT NO.
 
-Statements of [redacted], 1196th AO & B Squadron, Ellington AFB, Houston, Texas.
+[illegible]-11-51
 
-I was with 170 [redacted] outside the orderly room of the 116th SAF Squadron, when while parked outside I observed a round, bright, silvery, and somewhat brighter, although a lot more yellow. It moved at first as if stationary, very fast from a south to a northerly direction. There was no trail or tail as there usually is with a meteor. There was no apparent cause of propulsion, no sound heard. It traveled at a terrific speed, till almost over us, then slowed almost to a stop. It then started a pattern of accelerating at a terrific rate, slowing almost to a halt and then abruptly at a regular almost perpendicular to its original South to North Course. Although it was shooting at a single, it traveled beyond 180 North Northerly direction. It continued the course for some time, and so it appeared to be moving directly away from us. I will conclude this with saying that I have traveled with each sig. org. is were so high as I expect. It appeared to be about 2 miles high and about 2 seconds intervals. We counted along to check the intervals. Instead of using Kansas the horizon, like a network or something else, it could be. Finally fading from sight. I observed this on the 25 Aug at 0115 hours.
+PAGE _1_ OF _1_ PAGES
 
-[Bottom of page has a "DOWNGRADED AT 3 YEAR INTERVALS" stamp]
+Statesman of [illegible], [illegible] This is a debriefing, Ellington
+Air Force Base, Houston, Texas.
 
-UNCLASSIFIED
+I was with [illegible] outside the orderly room of the High [illegible] Squadron, When
+this thing passed nearly overhead. It was round, appeared slightly luminous
+and was about [illegible] feet in diameter, although a lot more yellow. It moved at first in
+a harbor, very fast from a south to a northly direction. There was a exhaust
+trail or tail as there usually is with a meteor. Then it became erratic and no features or characteristics of modern
+aircraft were visible. It traveled at a terrific speed, until direct over us,
+then slowed almost to a stop. It then assumed a pattern of erratic-ring at a
+terrific rate, slowing almost to a halt and then shooting off at angles almost
+perpendicular to its previous course north to south course. It then in circling
+it around, It landed to keep its same Northerly direction. It continued this
+course for some time, and as it appeared to be moving directly away from us,
+with out and aft the from and maneuvered at the tremendous height it would
+be traveling with each it and, if it were so high it tremendously. It appeared
+to be high in the stars. It then ascended and began whirling around in
+at about 2 secondes intervals. We counted aloud to check the intervals. Instead
+of coming passed the horizon like a meteor or smaller thing I continued to ascend
+finally fading from sight. I observed this on the 25 Aug at 0110 hours.
 
+[illegible] [illegible] of Airman
+
+[stamp: DOWNGRADED AT 2 YEAR INTERVALS
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10]
 
 - page 3 -
 
-EXTRACT FROM STATUS REPORT # 1
+EXTRACT FROM STATUS REPORT #__1__
 
 DATE: 26 Aug 51
+
 TIME (Local): 0118
+
 LOCATION: Ellington AFB, Texas
+
 LENGTH OF TIME OBSERVED: Unknown
+
 SOUND: None
+
 SPEED: High
+
 ALTITUDE: High
+
 HEADING: 360°
+
 SOURCE: Three airmen
+
 ACTION OR COMMENTS: No investigation
+
 DESCRIPTION OF INCIDENT: Bright yellow light making a zig zag course through the sky.
 
-
 - page 4 -
-
-Here is the text from the document:
 
 PROJECT 10073 RECORD CARD
 
 1. DATE
-26 aug 51
+26 Aug 51
 
-2. DATE-TIME GROUP
-Local 0230
-GMT 26/0830Z
-
-3. PHOTOS
-☐ Yes
-☒ No
-
-4. LOCATION
+2. LOCATION
 Ellington, AFB Texas
 
-5. TYPE OF OBSERVATION
-☒ Ground-Visual ☐ Ground-Radar
-☐ Air-Visual ☐ Air-Intercept Radar
+3. DATE-TIME GROUP
+Local 0230
+26/0830Z
+GMT
+
+4. TYPE OF OBSERVATION
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+
+5. PHOTOS
+[ ] Yes
+[X] No
 
 6. SOURCE
 Civilian & Military
@@ -153,138 +202,99 @@ Civilian & Military
 1
 
 9. COURSE
-[No text in this field]
-
-10. BRIEF SUMMARY OF SIGHTING
-Had a more yellow light than a star would. Traced its movements roughly in a triangle. It moved from the spot near middle star to above 3rd star & from there in a straight line to several degrees left of west star. At this time Sergeant Cook returned & I pointed it out to him. It had returned to near the pt where I first observed it. As we watched it began the same movements. Could not approximate distance. Stay motionless a time & then suddenly start moving again. No sound. Still there when we returned to the base.
-
-11. COMMENTS
-Possible balloon or star, however, positional data of object and manner of disappearance not included. Insufficient data for a firm evaluation.
 
 12. CONCLUSIONS
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
-☐ Was Astronomical
-☐ Probably Astronomical
-☐ Possibly Astronomical
-☐ Other
-☒ Insufficient Data for Evaluation
-☐ Unknown
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-ATIC FORM 329 (REV 26 SEP 52)
+10. BRIEF SUMMARY OF SIGHTING
+Had a more yellow light than a star would. Traced its movements roughly in a triangle. It moved from the spot near middle star to above 25d star & from there in a straight line to several degrees left of west star. At this time Sergeant Cook returned & I pointed it out to him. It had returned to near the pt where I first observed it. As we watched it began the same movements. Could not approximate distance. Stay motionless minutes at a time and suddenly start moving again. No sound. Still there when we returned to the base.
 
+11. COMMENTS
+Possible balloon or star, however, positional data of object and manner [handwritten: A/d] of disappearance not included. Insufficient data for a firm evaluation.
+
+ATIC FORM 329 (REV 24 SEP 52)
 
 - page 5 -
 
-Here is the OCR text from the document:
+AF FORM 112—PART II
+APPROVED 1 JUNE 1948
 
-AF FORM 112-PART II
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
+(DECLASSIFICATION)
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-From: Hq, Intelligence, 3609th WAF Squadron, Ellington AFB, Texas
-Date: 26 Aug 51
-Report No. 51
+From: Intelligence, 3605th Nav Sqd., Ellington AFB, Houston, Tex.
+Date: 1-Aug-51
 
-Statement of [redacted]
-Air Force Base, Houston, Texas
+Statement of [redacted] [redacted] 3605th NAF Squadron, Ellington Air Force Base, Houston, Texas
 
-On the morning of the 26th of August 1951 I was sitting in car 2 miles West of Ellington Air Force Base, Houston, Texas. I was going home. Something had gone wrong with the car and so I pulled off the road. I was just sitting there, had noticed a light something like a star. It was too bright to be a star and not quite as bright as the moon. This object had, as I remember, a more yellow light than a star would. In the middle when I first noticed it at 0230 hours. In the course of half an hour I traced its movement gradually in a straight line near the middle star to above the third star and from there in a straight line to several degrees left of the lowest star. As this time grew to near the point where I first observed it, it had returned to near the point where I first observed it. As we watched it began the same movement again. I could not approximate the distance - it was a light of an average size plane perhaps several thousand feet - if it was a larger light then higher up.
+On the morning of the 26th of August 1951 I was sitting in a car 2 miles west of Ellington Air Force Base, Houston, Texas, it was 0530 hours. Something had gone wrong with the car and [redacted] had gone to get someone to pick us up to the base. I was just sitting there, half asleep, when suddenly I noticed something like a star. It was too bright to be a star and not bright enough to be Venus, which was, I believe, the only other bright object that night. This object had a reddish tint to it would. It was located near three stars in a vertical line, being off to the side of the middle one when I first noticed it at 0530 hours. In the course of half an hour I traced its complete roughy in a triangle. It remained quite near the middle star to above the third-star and from there in a straight line to several degrees left of the lowest star. At this time 0600 hours [redacted] returned and I pointed it out to him. It had returned to near the point where I first observed it. As we watched it began the same movement again. I could only approximate the distance - if it were a light of an average size plane perhaps several thousand feet - if a larger light then higher up. Also, is considered motionless for a minute at a time when and suddenly start moving again. It was still there, if there were an exhaust trail it was invisible - there was no sound. It was still there when we returned to the base.
 
-Was still motionless for a number of minutes. It was still visible again. Since it was night, if there were an exhaust trail it was invisible - there was no sound. It was still there when we returned to the base.
+[redacted]
+Capt, 3605th NAF Squadron
 
-PFC, 3609th WAF Squadron
-
-UNCLASSIFIED
-
+[stamp/text at bottom: DOWNGRADED AT 3 YEAR INTERVALS
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10]
 
 - page 6 -
 
-EXTRACT FROM STATUS REPORT # 1
+EXTRACT FROM STATUS REPORT #__1__
 
 DATE: 26 Aug 51
-TIME (Local): 0300
+
+TIME (local): 0300
+
 LOCATION: Ellington AFB, Texas
+
 LENGTH OF TIME OBSERVED: 1 hour plus
+
 SOUND: None
+
 SPEED: Slow
+
 ALTITUDE: High
+
 HEADING: Varied
-SOURCE: Airman and WAF
+
+SOURCE: Airmen and WAF
+
 ACTION OR COMMENTS: Very probably a weather balloon
+
 DESCRIPTION OF INCIDENT: Erratic yellow light.
 
-
 - page 7 -
+
+[stamp: handwritten scribble]
 
 UNCLASSIFIED
 
 UNCLASSIFIED
 (Secret) Transmittal of Project Grudge Reports
-ATIC-W/16                                                      16 Oct 51
-Attn: Col Willis                                               1st Incl/ws
-                                                               54261/3 263D/P 1-2
+AFOIN-4/TO                                ATTN-2e                    16 Oct 51
+Attn: Col Willis                          Lt Rumelt/Ta
+                                          54261/3 2630/? L-2
 
-1. Enclosed are three Form 112 describing three separate Project Grudge sightings.
+1. Enclosed are three Forms 112 describing three separate Project Grudge sightings.
 
 2. Action is being taken to investigate these reports.
 
-3 Incls                                SANFORD H. KIRKLAND, JR., Col, USAF
-1. Fm 112 Rpt No. IR-3-51             Chief, Technical Analysis Division
-2. Fm 112 Rpt No. IR-4-51             Air Technical Intelligence Center
+3 Incls                                    SANFORD H. KIRKLAND, JR., Col, USAF
+1. Fm 112 Rpt No. IR-3-51                 Chief, Technical Analysis Division
+2. Fm 112 Rpt No. IR-4-51                 Air Technical Intelligence Center
 3. Fm 112 Rpt No. IR-5-51
-
-DOWNGRADED AT 8 YEAR INTERVALS;
-DECLASSIFIED AFTER 12 YEARS.
-DOD DIR 5200.10
-
-UNCLASSIFIED
-
-
-- page 8 -
-
-UNCLASSIFIED
-
-1602092 Oct 51
-Routine
-
-TO: ATIC
-Wing Intelligence Officer
-Ellington Air Force Base
-Houston, Texas
-RANDOLF
-
-A/C, HQ USAF, Washington 25, D. C.
-RADIONIC
-
-ATIC-10-84. Reference is made to IN-3-51, IN-4-51, and IN-5-51, dated 7 October
-1951, from Wing Intelligence, Ellington AFB.
-
-a. In regard to IN-3-51 and IN-4-51, is the date of sighting given as
-26 August 1951 correct? If correct, when did sources first report incident to
-Wing Intelligence? Note that sighting occurred 26 August 1951 and report was made
-7 October 1951.
-
-b. Were any unidentified radar contacts made during periods covered
-in reports?
-
-c. In reference to last paragraph in IN-3-51, what did the sergeant
-at Base Operations mean when he referred to occurrences by Wright-Patterson?
-
-d. It is requested that local astronomers be contacted to determine
-whether or not any astronomical phenomena were reported on subject nights.
-
-e. Were phenomena observed by any other personnel either military
-or civilian?
-
-f. Were any radiosonde balloons released in the general area?
-
-1 2
 
 DOWNGRADED AT 3 YEAR INTERVALS;
 DECLASSIFIED AFTER 12 YEARS.
@@ -292,213 +302,275 @@ DOD DIR 5200.10
 
 UNCLASSIFIED
 
+[handwritten signature] 513-143053
+
+- page 8 -
+
+UNCLASSIFIED
+
+1620502 Oct 51
+
+20, ATIC
+
+Wing Intelligence Officer
+Ellington Air Force Base
+Houston, Texas
+RADIOTE
+
+L/I, Hq USAF, Washington 25, D. C.
+RADIOTE
+
+ATIC-10-8-2, Reference is made to ID-2-51, ID-4-51, and ID-6-51, dated 7 October 1951, from Wing Intelligence, Ellington A/B.
+
+a. In regard to ID-5-51 and ID-6-51, is the date of sighting given as 26 August 1951 correct? If correct, when did sources first report incident to Wing Intelligence? Note that sighting occurred 26 August 1951 and report was made 7 October 1951.
+
+b. Were any unidentified radar contacts made during periods covered in reports?
+
+c. In reference to last paragraph in ID-5-51, what did the sergeant at Base Operations mean when he referred to experiments by Wright-Patterson?
+
+d. It is requested that local astronomer be contacted to determine whether or not any astronomical phenomena were reported on subject nights.
+
+e. Were phenomena observed by any other personnel either military or civilian?
+
+f. Were any radiosonde balloons released in the general area?
+
+[stamp: UNCLASSIFIED DOWNGRADED AT 2 YEAR INTERVALS; DECLASSIFIED AFTER 12 YEARS. DOD DIR 5200.10]
 
 - page 9 -
 
 UNCLASSIFIED
+
+[handwritten: DECLASSIFIED]
 
 CO, ATIC
 
 Wing Intelligence Officer
 Ellington Air Force Base
 Houston, Texas
-RADOT:
+R A D N O T E
 
-D/I, Hq USAF, Washington 25, D. C.
-RADOT:
+A/I, Hq USAF, Washington 25, D. C.
+R A D N O T E
 
-It is requested that no re-interrogation of the sources be conducted at the
-present time.
+It is requested that no re-interrogation of the source be conducted at the present time.
 
-In reply cite ATIC-ATIA-2e.
+In reply cite AFOIN-ATIA-2c.
 
 DOWNGRADED AT 3 YEAR INTERVALS;
-DECLASSIFIED AFTER 12 YEARS
-DOD DIR 5200.10
-
-UNCLASSIFIED
-
-Lt E. J. Ruppelt/vs
-ATIC-2e
-
-NORMAN S. STURGIS, Capt, USAF
-Air Adjutant General
-
-54261
-
-
-- page 10 -
-
-UNCLASSIFIED
-
-2147302 Oct 51
-Routine
-
-Wing Intelligence Officer
-Ellington Air Force Base
-Houston, Texas
-RADIONIC
-
-X
-
-X
-
-D/I, HQ USAF, Washington 25, D. C.
-RADIONIC
-
-1620302 Oct 51
-
-Confidential
-
-AFOIN-ATIA-10-168. Please advise when information can be made available to
-this Center, in regard to our previous teletype 1620302 Oct 51. In reply cite
-AFOIN-ATIA-2 GRUDGE.
-
-Lt. W. Wetschky/peg
-ATIA-2a
-
-UNCLASSIFIED
-
-65376
-
-MURRAY S. STURGIS, Captain, USAF
-Air Adjutant General
-
-
-- page 11 -
-
-Here is the text from the document:
-
-PAR 32                   27 OCTOBER 51
-
-C-1     CONFIDENTIAL      ROUTINE
-
-FROM    ELLINGTON AFB HOUSTON TEXAS
-
-TO      AMCMPAIS, DAYTON OHIO
-INFO    CS USAF WASH D C
-
-                                1951 OCT 27    02:18
-
-REFERENCE AFOIN:                YOUR MESSAGE NDR AT:                ANSWERS
-
-ARE AS FOLLOWS: A. IN-4-51 REPORTED TO WING PUBLIC INFORMATION OFFICE
-27 AUG 1951. WING INTELLIGENCE WAS PRESENT FOR INTERVIEW OF INFORMANTS
-AT PUBLIC INFORMATION OFFICE. WING INTELLIGENCE INSTRUCTIONS ON THIS
-SUBJ WERE DATED 8 SEPT 1950. LOCAL OFFICE OF SPECIAL INVESTIGATION
-ADVISED WING INTELLIGENCE THEY HAD MORE RECENT INSTRUCTIONS TO NOT
-HANDLE FUTURE REPORTS OF ASTRONOMICAL PHENOMENA WING INTELLIGENCE
-RECEIVED COPY OF PUBLIC INFORMATION OFFICE REPORT OF INTERVIEWS AND
-FILED IT WITHOUT ACTION. 24 SEPT 1951 WING INTELLIGENCE RECEIVED
-22 SEPT REVISION WHICH MADE OUR THE INSTRUCTIONS FOR REPORTING THIS
-
-515-152244-A-1
-
-UNCLASSIFIED DOWNGRADED AT 3 YEAR INTERVALS;
 DECLASSIFIED AFTER 12 YEARS.
 DOD DIR 5200.10
 
-Note: There are also some handwritten notes on the document, including "PARAPHASE NOT REQUIRED, SEE CRYPTO-CENTER BEFORE DECLASSIFYING" and some other markings.
+UNCLASSIFIED
 
+[handwritten: 2  2]
+
+Lt S. J. Ruppel/vrs
+
+MURRAH S. STURGIS, Capt, USAF
+Air Adjutant General
+
+ATIA-2c                54261
+
+- page 10 -
+
+[stamp: UNCLASSIFIED]
+
+B9C
+
+29, 1951                                                2147302 Oct 51
+                                                        Routine
+Wing Intelligence Officer
+Ellington Air Force Base
+Houston, Texas
+H A D H O T E                                X                    X
+
+D/F, Hq USAF, Washington 25, D.C.          1620302 Oct 51         Confidential
+H A D H O T E
+
+AFOIN-ATTIA-10-165. Please advise when information can be made available to
+this Center, in regard to our previous teletype 1620302 Oct 51. In reply cite
+AFOIN-ATTIA-2 GRUDGE.
+
+[signature/initials: unclear]
+
+---
+
+I.G. U. Potoscher/seg              UNCLASSIFIED                    MURRAH S. STROLIS, Captain, USAF
+ATTIA-2a                           65376                           Air Adjutant General
+                                                                    [stamp: B9C]
+
+- page 11 -
+
+[stamp: CONFIDENTIAL]
+
+*SAR 32     27 OCTOBER 51          PARAPHASE NOT REQUIRED. SEE CRYPTO-CENTER
+                                    UNCLASSIFIED BEFORE DECLASSIFYING
+
+[handwritten: All DTG INTERNAL REFS CENSORED]
+C-1     CONFIDENTIAL     ROUTINE     CRYPTO PRECAUTION APPLIES
+
+*FROM ELLINGTON AFB HOUSTON TEXAS
+
+TO ATIC UPSAF DAYTON OHIO
+
+INFO CS USAF WASH D C
+1951 OCT 27     02:18
+
+[handwritten: Ste A T I - 1-1-51
+A T I - UNCLAO
+[illegible]
+Subj to A T I     ACTION COPY]
+
+REFERENCE AFOIR:          YOUR MESSAGE NMR AT               ANSWERS
+
+ARE AS FOLLOWS: A. IN-4-51 REPORTED TO WING PUBLIC INFORMATION OFFICE
+27 AUG 1951. WING INTELLIGENCE WAS PRESENT FOR INTERVIEW OF INFORMANTS
+BY PUBLIC INFORMATION OFFICE. WING INTELLIGENCE INSTRUCTIONS ON THIS
+WERE DATED 8 SEPT 1950. LOCAL OFFICE OF SPECIAL INVESTIGATION
+ADVISED WING INTELLIGENCE THEY HAD MORE RECENT INSTRUCTIONS TO NOT
+HANDLE FUTURE REPORTS OF ASTRONOMICAL PHENOMENA. WING INTELLIGENCE
+RECEIVED COPY OF PUBLIC INFORMATION OFFICE REPORT OF INTERVIEWS AND
+FILED IT WITHOUT ACTION. 24 SEPT 1951 WING INTELLIGENCE RECEIVED
+22 SCPPO REVISION WHICH MADE CUR THE INSPR CTIONS FOR REPORTING THIS
+
+[handwritten: 575 .125 2-24-4 - 4 - /]
+
+UNCLASSIFIED     DOWNGRADED AT 3 YEAR INTERVALS;
+                 DECLASSIFIED AFTER 12 YEARS.
+                 DOD DIR 5200.10
 
 - page 12 -
 
 UNCLASSIFIED
-
-DOWNGRADED AT 8 YEAR INTERVALS;
-DECLASSIFIED AFTER 12 YEARS.
-PAGE TWO NBR 32 27 OCT 51                                          DOD DIR 5200.10
-
-UFO. WITH REPORT OF 1R-5-51 CAME IN, INFORMANTS OF 1-3-51 WAS
-OBTAINED INTERROGATION OF INFORMANTS OF 1R-3-51 FOLLOWED. ...
-NEGATIVE. NO RADAR OPERATIONAL IN THIS AREA DURING THE TIME OF EITHER
-REPORT. C. CHECK WITH WING OFFICER OF THE DAY, WING HQS CHARGE OF
-QUARTERS, AIRBORNE OFFICER, BASE OPERATIONS DUTY AIR PK., 2 TOUCH
-OPERATORS, BASE TELEPHONE OPERATOR ON DUTY DURING PERIOD COVERED
-BY 1R-5-51 FAILED TO REVEAL OTHER WITNESSES OR TO ESTABLISH IDENTITY
-OF SERGEANT INFORMANT IS ALLEGED TO HAVE TALKED TO AT BASE OPERATIONS.
-NOT WERE WE ABLE TO ESTABLISH THE FACT INFORMANT HAD TALKED TO
-ANYONE OTHER THAN WING HQS CHARGE OF QUARTERS. D. NO ASTRONOMERS
-WORKING IN HOUSTON AREA DURING THE TIME OF THE REPORTS. E. NO REPORTS.
-
-F. NEGATIVE
-
-AF 56-55-152249-AT1
-UNCLASSIFIED                                 515-152249-A-1
-
-DOWNGRADED AT 8 YEAR INTERVALS;
+DOWNGRADED AT 3 YEAR INTERVALS;
 DECLASSIFIED AFTER 12 YEARS.
 DOD DIR 5200.10
 
+PAGE TWO NR 32 27 OCT 51
+
+UFO. WICH REPORT OF IR-5-51 CAME IN, INFORMANTS OF I-3-51 WAS
+RETAINED INTERROGATION OF INFORMANTS OF IR-3-51 FOLLOWED....
+NEGATIVE. NO RADAR OPERATIONAL IN THIS AREA DURING THE TIME OF EITHER
+REPORT. C. CHECK WITH WING OFFICER OF THE DAY, WING HAS CHANGE OF
+QUARTERS, AIRBORNE OFFICER, BASE OPERATIONS DUTY AIR EN, 2 TOWER
+OPERATORS, BASE TELEPHONE OPERATOR ON DUTY DURING PERIOD COVERED
+BY IR-5-51 FAILED TO REVEAL OTHER WITNESSES OR TO ESTABLISH IDENTITY
+OF SERGEANT INFORMANT IS ALLEGED TO HAVE TALKED TO AT BASE OPERATIONS.
+UCF UNIT US ABLE TO ESTABLISH THE FACT FRON AIT HAD TALKED TO
+ANYONE OTHER THAN WING HAS CHANGE OF QUARTERS. D. NO ASTRONOMERS
+WORKING IN HOUSTON AREA DURING THE TIME OF THE REPORTS. E. NO REPORTS.
+F. NEGATIVE
+
+[handwritten: AFSS-SI-51-252+9-AT1]
+[handwritten: AFSS-SI-152 249-4-1]
+
+UNCLASSIFIED
+DOWNGRADED AT 3 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+
+[handwritten stamp/mark with illegible text and "2C"]
 
 - page 13 -
 
-Here is the text from the document:
-
-AF FORM 112-PART I
+AF FORM 112—PART I
 APPROVED 1 JUNE 1948
+[CLASSIFICATION]
 
-U.S.A.
+COUNTRY: U.S.A. | REPORT NO. 1951-8-53 | LEAVE BLVD:
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-Country: U.S.A.
-Subject: Unidentified Celestial Phenomena
-Location: Ellington AFB, Houston, Texas
-Date of Observation: 7 October 1951
-Date of Information: 2 October 1951
+SUBJECT:
+Unidentified Celestial Phenomenon
 
-Informant: William J. Hunter Jr., Columbia, USAF
-Grade and Station: 1st Lt., USAF, ACIC-GC-1, Wing 50, Reporting Officer
+LOCATION OF SIGHTING:
+Ellington AFB, Houston, Texas | FROM (Agency): Wing Intelligence, Ellington AFB
 
-SUMMARY:
-Report of unidentified light, thought to be a Celestial Phenomenon, as seen by Sgt. Douglas, 1st Sgt., John M. Sims, and Pfc. Allen R. Chinn, 26 Aug 1951.
+DATE OF REPORT:
+7 October 1951 | DATE OF INFORMATION | EVALUATION:
+2 October 1951 | [blank]
+
+REPORTED BY (NAME):
+Maj. J. G. Hester Jr., Cpt. W. U.S.A.F | SOURCE: [redacted] [redacted]
+                                                    Fic. [redacted] [redacted]
+REFERENCE (Name, rank, station, present duty, etc. as applicable):
+
+SUMMARY: (Brief concise summary of report. Give significance to find associated paragraph. List holders of those info. Enclose a copy as sworn to in Form 112-C-1 C.)
+
+Report of unidentified light, thought to be a Celestial Phenomenon, as seen by Sgt. Douglas Way, Pfc. John H. Gues, and Pfc. Richard Bains at about 0115, 26 Aug 1951.
 
 COMMENTS of Reporting Officer:
 
-1. The reliability of the informants of this report can not be judged.
+1. The reliability of the information of this report can not be judged.
 
-2. The fact the sergeant on C.Q. was made a witness to this sighting would add more weight to the statements of the other two informants.
+2. The fact the agreement on C.O. was made a witness to this sighting would add more weight to the statements of the other two informants.
 
-3. For additional reports of this type for approximately same period see 1-3-51.
+3. For additional reports of this type for approximately same period see 1952-2051. Also, see 115-4-51 for similar sighting on a later date.
 
-4. The following weather recordable for 26 August 1951:
-   #1250 015 149/76/T3/995
-   #1250 012 149/76/T3/995
-   #1250 012 149/76/T3/996
+4. The following weather prevailed for 26 August 1951:
+02250 012 115/50/73/-99
+01250 012 110/48/73/-99
+00250 012 115/18/73/-96
 
 APPROVED:
-[Signature of approving officer]
-W. J. HISTORY JR.
-Captain, USAF
+
+[Signature]
+1st Lt [illegible]
 Intelligence Officer
 
-Distribution:
-(Routing and distribution details at bottom of page)
+Statement - Sgt. [redacted]
+Statement - Pfc. [redacted]
+Statement - Pfc. [redacted]
 
+DISTRIBUTION OF ORIGINALS:
+1 - Air Material Command, Wright-Patterson Air Force Base, Dayton, Ohio
+1 - Commanding General, Continental Air Command, Langley Air Force Base, Hampton, Virginia
+1 - Commander, Ellington Air Force Base, Houston, Texas. USAF Squadron, Ellington Air Force Base, Houston, Texas.
+
+[stamp: DECLASSIFIED AT 2-YEAR INTERVALS DECLASSIFIED]
 
 - page 14 -
 
-Here is the text from the document:
+[stamp: UNCLASSIFIED]
 
-AF FORM 112-PART II                                UNCLASSIFIED
+AF FORM 112—PART II
+APPROVED JUNE 1948
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-Location: Ellington, 1908th A&W Sqdn, Ellington AFB, Houston, Texas
-Date: 16 Aug 51                                    Report No. 18-4-51
-Page 1 of 1
+[Reporting office and location data - partially redacted]
+Ellington Air Force Base,
+Houston, Texas
 
-Statement of Sgt. [REDACTED] 1908th A&W Squadron, Ellington AFB, Houston, Texas
+REPORT NO.
 
-I was on duty when [REDACTED] as up telling path was over strange thing. I immediately went out and saw this thing making over-head. I noticed how bright as was (an bright as the sun). It was moving (about 5 miles). I saw no definite shape, but appeared to be on a bright light, which was moving. I was about 20 yards left by this object, at least 500 ft. I could see. I made no attempt to track it as I was making a switchable regular turn from its course but that it would always return in the same general location - north. When it disappeared it was going in interval of over the horizon. I followed until it was completely out of sight, an hour before fading from view it seemed to blink on and off.
+[illegible]-51
 
-Remarks: I heard no sound from object.
+PAGE ____ OF ____ PAGES
 
-Sgt. [REDACTED] 1908th Squadron
+Statement of [redacted]. High at 9 Squadron, Ellington
+Air Force Base, Houston, Texas
 
-[Note: Redacted sections are blacked out in the original document]
+On 06 duty when [redacted] came up talking on to open outside
+and saw this strange thing. I immediately went out and saw this thing passing over-
+head. It was circular in shape and had lights on it (white lights, about the size of
+[redacted] light). I had no definite shape, but appeared to be a perfect light structure
+across the sky. The color was not blue white as a star, but more yellow light.
+It was no small jet but a fairly large object, at least some 200, 300 feet in diameter
+[redacted] altitude of over 25,000 feet. I also noticed that it was making a distinct
+[redacted] swag. It was the engine would always veer in its general direction - north.
+When it disappeared it was going in a northen. I followed until it was completely out of sight, we just before fading
+from view I saw no blink on and off.
 
+Remark: I heard no sound from object.
+
+[redacted section with signature/name information]
+
+[At bottom of page:]
+UNCLASSIFIED - OFFICIAL USE ONLY
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10
 
 - page 15 -
 

@@ -1,92 +1,123 @@
+The document does not contain a photograph.
+
+Here is the OCR output of the text found in the document:
+
+```
 PROJECT 10073 RECORD CARD
 
 1. DATE
-7 August 1956
-
-2. LOCATION
-Catonsville, Maryland
-
+    7 August 1956
 3. DATE-TIME GROUP
-Local 09:01:22Z
-GMT
-
+    Local 
+    GMT  | 04/0112Z
 4. TYPE OF OBSERVATION
-Ground-Visual □ Ground-Radar
-□ Air-Visual □ Air-Intercept Radar
-
+   O Ground-Visual  |  O Ground-Radar
+   Air-Visual             O Air-Intercept Radar
 5. PHOTOS
-□ Yes
-□ No
-
-6. SOURCE
-Civilian (Soc)
-
+   O Yes
+   No
 7. LENGTH OF OBSERVATION
-090 seconds
-
+   one second
 8. NUMBER OF OBJECTS
-one
-
+   one
 9. COURSE
-West to east
-
+   west to east
 10. BRIEF SUMMARY OF SIGHTING
-One white object with trail. Observed for an second. Moved west to east at altitude. 400 feet and wavered.
-
+    One white object with trail. Observed for one second. Moved west to east at attitude of 300 feet and vanished.
 11. COMMENTS
-Very scanty details of sighting indicate possibility of meteor. Evaluation is probably meteor.
-
+    Very scanty details of sighting indicate possibility of meteor. Evaluation is “probably Meteor.”
+2. LOCATION
+    Catonsville, Maryland
+6. SOURCE
+    Civilian (GOC)
 12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Possibly Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-[✓] Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other
-□ Insufficient Data for Evaluation
-□ Unknown
-
-ATIC FORM 164 (REV 25 SEP 51)
-
+    -O Was Balloon
+    -O Probably Balloon
+    -Possibly Balloon
+    -Was Aircraft
+    -Possibly Aircraft
+    -Possibly Aircraft
+    -Was Astronomical Meteor
+    -Probably Astronomical
+    -Possibly Astronomical
+    -Other
+    -Insufficient Data for Evaluation
+    -Unknown
+ATIC FORM 329 (REV 25 SEP 52)
+```
 
 - page 1 -
 
-UNCL ASSIFIED ACCRG 5-471 ATM CIC PB
+This page does not appear to contain any photographs. The text on the page is as follows:
 
-A- NEGATIVE -- Shape?
+```
+IASHMI ANOTH MHAGMH SAS 
 
-B- POSITIVE -- Size?
+KtEMXWCOMD AND HH ATF COLO0AD0 SBRINGS COLORAD2
+aAMVM/OGMR DET 14 INI RAVERS AL HD
+AXRMVCOMBR AIR. CRRMICAL INTELLIGENCE CENTER WCAP HUIC
 
-C- NEGATIVE -- More 2 ways visible?
+KTFWCOMOR DIRECTOR OF INTELLIGENCE HQ USAF WASH 25 DC
+RMPFS/COMDR FLIGHT 34 4682ND AISS MCQUIRE AFD TRANSIONS
+HLMP%",/COMDR PUT 32 4G82ND AISS STEWART AFO NY
+INFO RMxERVFZ/CONDR RAMP STEWARD AFO NEUBURGH AFO NY ST
 
-D- POSITIVE -- Hale 2 ways visible?
+U N.C L A S S I F X E D  ACCHNO 5-471 ATTH CIC PD
 
-Handwritten notes at bottom right:
-"White, white!, and what not -
-- sight, towards E. side -
-Clearly picture"
+1-P NEGATIVE - Shape?
+2-P NEGATIVE - Sizi?
 
-Some text at the top of the document appears to be partially cut off or illegible, but includes references to intelligence and flight information.
+3-P EASY? 
+4P NEGATIVE 
 
+5P NBGATIV32
+6-P NEGATIVD?
+
+8 NEGATIVe
+
+9 EASYY-TOO OBSTIVE ?
+10-P FOT
+
+CLIMBS TO EAST
+PACT
+
+P NEGIVKWD 
+12-PUBXI3-@
+
+White like tail, one()s good -
+Fright, wouldn't
+_??
+
+obnormally union
+```
 
 - page 2 -
 
-Here is the text I can read from the document:
+There are no photographs on this page.
 
-Catonsville, Md (Catonsville)
+OCR Text Output:
 
-Received 9 Aug 56
+CANONSVILLE add ....26
+CATONSVILLE CO CATIONSVILL (no Catonsvll)
+241
+41/SIZET AUG 867613N
 
-IN
-CONTROL 8 AUG 1956
-07 31 1/2
+.....rwH ........ I ...............
 
-Most of the text in the middle of the document is illegible due to poor image quality or fading.
+..... .... .........................
 
+(Riches 8 Avs 56
+
+MNN ICAR
+
+Pr LAG VICAM VVOAL AND..... ... komaNINK
+
+Pr R....Vecm Aolem ......Njepk... . roepre ...kekpns....kpkinn.
+
+..d Aug 1956. 07 31 IN 
+ACTIna .......
+
+A11
 
 - page 3 -
 

@@ -6,15 +6,32 @@ PROJECT 10073 RECORD CARD
 2. LOCATION
 Denver, Colorado
 
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
 3. DATE-TIME GROUP
 Local
-GMT 01/0640Z Jan 57
+GMT. 01/0640Z Jan 57
 
 4. TYPE OF OBSERVATION
-Ground-Visual
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
 
 5. PHOTOS
-No
+[X] Yes
+[ ] No
 
 6. SOURCE
 military
@@ -29,290 +46,309 @@ two
 straight up
 
 10. BRIEF SUMMARY OF SIGHTING
-Objs round, size of pea. Color white, one bright obj, one dark obj) in upper right. Obj was thought to be an a/c. Photos were taken.
+Objs round, size of pea, Color white, one bright obj, one dark obj in upper right. Obj was thought to be an a/c. Photos were taken.
 
 11. COMMENTS
 Photos not received. Sighting probably astro. However, case listed as insufficient data due to lack of photos.
 
-12. CONCLUSIONS
-(Various checkboxes, none marked)
-
 ATIC FORM 329 (REV 26 SEP 52)
-
 
 - page 1 -
 
 (CSI)
 
-No Case (Information Only)                                   31 December 1956
-                                                        Washington Heights, N.Y.C.
+No Case (Information Only)
 
-December 31, 1956, [redacted], who lives in Washington Heights, N.Y.C., noticed an exceptionally bright light from his 8th floor window at 11:35 p.m. Busy at the moment, he paid little attention until the intense brightness made him look out the window, which faces north and commands an unobstructed view of the Hudson River. The object was spherical, with a faint tinge of green; its edge was sharply defined. At the near was a tail-like projection, including slightly upward. This "handle" was as long as the diameter of the main object, and about half as thick. The entire object, including "handle", was as large as the full moon, and far more brilliant; its brightness lit up the river beneath it. It left no trail. The "handle" definitely seemed to be part of the object.
+31 December 1956
+Washington Heights, N.Y.C.
 
-When first seen, the object appeared to be directly over the river, north of the George Washington Bridge, traveling westward at about twice the speed of an airliner as it passes over the same area at a normal altitude. Its elevation was estimated at 300 to 100, and its impression was that its altitude above the river was only about 1000 feet. When the object reached a point about 200 above the Jersey Palisades, it paused until, "like the closing of a camera diaphragm," [redacted] is sure it did not disappear at high speed into the distance, but simply shrank and went out." About 10 seconds elapsed from the moment the light was noticed through the window until the object finally disappeared.
+December 31, 1956. [redacted], who lives in Washington Heights, N.Y.C., noticed an exceptionally bright light from his 8th floor window at 11:35 p.m. Busy at the moment, he paid little attention until the intense brightness made him look out the window, which faces north and commands an unobstructed view of the Hudson River. The object was spherical, white with a faint tinge of green; its edge was sharply defined. At the rear was a tail-like projection, inclining slightly upward. This "handle" was as long as the diameter of the main object, and about half as thick. The entire object, including "handle," was as large as the full moon, and far more brilliant; its brightness lit up the river beneath it. It left no trail. The "handle" definitely seemed to be part of the object. There were no wings, "windows," or other structural features visible.
 
-The object itself was under good observation for about four seconds. No other aircraft in the area; no noise heard; as yet, no confirmatory reports.
+When first seen, the object appeared to be directly over the river, north of the George Washington Bridge, traveling westward at about twice the speed of an airplane at pass over the same area at a normal altitude. Its elevation was estimated at 300 to 400, and [redacted] had the impression that its altitude above the river was only about 1000 feet. When the object reached a point about 20° above the Jersey Palisades, it petered out, "like the closing down of a camera diaphragm." Mr. [redacted] is sure it did not disappear at high speed into the distance, but simply shrank and "went out." About 10 seconds elapsed from the moment the light was noticed through the window until the object finally disappeared; the object itself was under good observation for about four seconds. No other aircraft in the area; no noise heard; as yet, no confirmatory reports.
 
 The resemblance to the [redacted] object will be noted.
-
 
 - page 2 -
 
 JANUARY 1957 SIGHTINGS
 
-DATE    LOCATION                      OBSERVER    EVALUATION
+DATE          LOCATION                                OBSERVER              EVALUATION
 
-1957    South Bend, Indiana            [Redacted]  Insufficient Data
-1        Russell, Kansas                           Astro (METEOR)
-1        Dayton, Ohio                              Astro (SIRIUS)
-2        Boltville, California                     Aircraft
-2        Yuma, Arizona                             Aircraft
-3        REGION 63.5W (Atlantic)       Military    Other (FLARE)
-3        Boltville, California                     Insufficient Data
-4        Wadena, Minnesota                         Balloon
-5        Minneapolis, Minnesota                    Balloon
-6        Santa Maria, California                   Aircraft
-9        Dayton, Ohio                              Aircraft
-9        Miami, Florida                            Astro (STARS/PLANE)
-11       Springfield, Massachusetts                Aircraft
-12       Tempe, Arizona                            Balloon
-15       Bakersfield, California                   Insufficient Data
-16       Random Lake, Wisconsin                    Balloon
-16       NW of Ft Worth, Texas         Military Air Insufficient Data
-16       Laguna, California             Multi      Aircraft
-16       Glenwood Springs, Colorado                Astro (ANTARES)
-17       29 Palms, California                      Balloon
-18       Franconia, Virginia (WASHINGTON, DC)      Aircraft
-18       Rhinelander, Wisconsin         Name Garbled Insufficient Data
-19       Liberty, Pennsylvania (CASE MISSING) Civilian Aircraft
-19       Longmont, Colorado                        Astro (METEOR)
-22       Glenwood, Iowa                            Astro (METEOR)
-27       Hallenburg, Germany (CASE MISSING) Civilian Astro (METEOR)
-27       Glendora, California           Childers   Insufficient Data
+1957
+1             South Bend, Indiana                     [redacted]            Insufficient Data
+1             Russel, Kansas                                               Astro (METEOR)
+1             Dayton, Ohio                                                 Astro (SIRIUS)
+2             Holtville, California                                        Aircraft
+2             Yuma, Arizona                                                Aircraft
+2             462ION-63 SUI (Atlantic)               Multi                 Other (STARS)
+3             Holtville, California                   [redacted]            Insufficient Data
+4             Wadena, Minnesota                                            Balloon
+5             Minneapolis, Minnesota                                       Balloon
+6             Santa Maria, California                                      Aircraft
+6             Dayton, Ohio                                                 Aircraft
+7             Miami, Florida                                              Astro (STARS/PJAINS)
+11            Springfield, Massachusetts                                   Aircraft
+12            Tempe, Arizona                                               Balloon
+15            Bakersfield, California                                      Insufficient Data
+16            Random Lake, Wisconsin                                       Balloon
+16            NW of Ft Worth, Texas                   Military Air         Insufficient Data
+16            Laguna, California                      Multi                 Aircraft
+16            Laguna, California                      Multi                 Astro (ANTARES)
+16            Glenwood Springs, Colorado                                   Balloon
+16            29 Palms, California                                        Aircraft
+18            Franconia, Virginia (WASHINGTON, DC)   [redacted]            Astro (VENUS)
+19            Rhinelander, Wisconsin                  Name Garbled          Insufficient Data
+19            Liberty, Pennsylvania (CASE MISSING) Civilian                Aircraft
+19            Longmont, Colorado                      [redacted]            Astro (METEOR)
+22            Glenwood, Iowa                          [redacted]            Astro (METEOR)
+27            Hallenburg, Germany (CASE MISSING) Civilian                 Astro (METEOR)
+27            Glendora, California                    Childers              Insufficient Data
 
-ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
 
-DATE    LOCATION                       SOURCE      EVALUATION
+ADDITIONAL REPORTED SIGHTINGS (HOT CASES)
 
-1957    Caldwell, New Jersey            [Redacted] (Ltr)
-1957    East Lansing, Michigan          [Redacted] (Ltr)
-1957    Los Angeles, California         Newsclipping
-1957    Palm Springs, California        Newsclipping
-1957    Florida                         Newsclipping
-1957    Martinez, California            Newsclipping
-1        Brooklyn, New York              Newsclipping
-2        Warren, Connecticut             Newsclipping
-5        Sioux Falls, South Dakota       Newsclipping
-15       Middlebury, Connecticut         Newsclipping
-17       British Columbia, Canada        Newsclipping
-25       Binghamton, New York            Newsclipping
-29       North Andover, Massachusetts    Newsclipping
+DATE          LOCATION                                SOURCE                EVALUATION
 
+1957          Caldwell, New Jersey                    [redacted] (Ltr)
+1957          East Lansing, Michigan                 [redacted] (Ltr)
+1957          Los Angeles, California                Newsclipping
+1957          Palm Springs, California               Newsclipping
+1957          Florida                                Newsclipping
+1957          Martinez, California                   Newsclipping
+1             Brooklyn, New York                     Newsclipping
+2             Warren, Connecticut                    Newsclipping
+5             Sioux Falls, South Dakota               Newsclipping
+15            Middlebury, Connecticut                Newsclipping
+17            British Columbia, Canada               Newsclipping
+25            Binghamton, New York                   Newsclipping
+23            North Andover, Massachusetts            Newsclipping
 
 - page 3 -
 
-Here is the text from the document:
-
-31 DEC 56
-TWCTWAS
-WPH018WPA126 YMC01SENB064
+[handwritten: 21 Dec 56]
+[handwritten: IIkathers]
+WPH@18WPA12S YMC@1SENB264
 
 RR RJEDWP RJEPHQ RJWFKD 3 JAN 57 09 21
+
 DE RJEDEN 75
-R 021645Z
 
-FI COMDR 4642D AISS ENT AFB COLO
+R @21645Z
+
+FI COMDR 4532D AISS ENT AFB COLO
+
 TO RJWFKD/COMDR 34TH AIR DIV DEF KIRTLAND AFB NMEX
+
 RJEDWP/COMDR ATIC WPAFB OHIO
+
 RJEPHQ/DIR INTEL HEADQUARTERS USAF WASH DC
-P1
 
-The bottom half of the document appears to be a blurry black and white photograph, but the details are too indistinct to describe with certainty.
+BT
 
+[handwritten: 01 OGNCZ Jan 01015744]
+[handwritten: ATIC]
+[handwritten: 2/484]
+[handwritten: 3 4x2a]
+[handwritten: signature/initials]
+[handwritten: 05:17]
 
 - page 4 -
 
-UNCLAS/AISOC 001 PD THIS IS A UFOB MESSAGE PD
+/UNCLAS/ AISOC 001 PD THIS IA A UFOB MESSAGE PD
 
-Q. A: ROUND PD B. PEA PD C. WHITE PD D. ONE BRIGHT OBJECT; ONE DARK OBJECT IN UPPER RIGHT PD E. NONE PD F. NONE PD G. NONE PD
+Q. A: ROUND PD B. PEA PD C. WHITE PD D. ONE BRIGHT OBJECT; ONE DARK OBJECT IN UPPER RIGHT PD E. NONE PD F. NONE PD G. NONE PD H. NONE PD I. NONE PD
 
-H. NONE PD I. NONE PD
+2. A. THOUGHT OBJECT WAS AIRCRAFT PD B. 45 DEGREES ELEVATION CMM EAST PD C. VERY HIGH IN EASH NORTH EAST PD D. STRIAQHT LINE UP PD FADED OUT PD F. TWO HOURS TWENTY FIVE MINUTES PD
 
-2. A. THOUGHT OBJECT WAS AIRCRAFT PD B. 45 DEGREES ELEVATION CMM
+3. A. GROUND VISAL PD B. BINOCULAR AND TELESCOPE PD C. N/A PD
 
-EAST PD C. VERY HIGH IN EASH NORTH EAST PD D. STRAIGHT LINE UP PD FADED OUT PD F. TWO HOURS TWENTY FIVE MINUTES PD
-
-3. A. GROUND VISAL PD B. BINOCULAR AND TELESCOPE PD
-C. N/A PD
-
-4. A 01/0642 JAN 57 PD B. NIGHT 5. DENVER COLO GOC POST PD
+4. A 01/0S40Z JAN 57 PD B. NIGHT 5. DENVER COLO GOC POST PD
 
 PAGE TWO RJEDEN 75
 
-6. [REDACTED] REED CMM 18 CMM I. COMM 3421ST STUDENT SQ CMM LOWERY AFB COLO CMM AF 1653530 PF
+6. [redacted] REED CMM 18 CMM I. COMM 3421ST STUDENT SQ CMM LOWERY AFB COLO CMM AF 1653530 PF
 
-7. A. CLEAR DUSK NO WIND PD B. 10,000/290/10; 20,000/320/35;
-C. UNLIMITED PD D. FIFTEEN PLUS PD
-E. NOE F. NONE G. NONE PD 9. NONE PD 10. NONE PD 11. OPERATIONS CONTROL OFFICER BODIES PD 12. YES PD SOURCE HAS SENT NEGATIVES TO BE DEVELOPED AND PICTURES WILL BE READY 3 OR 4 JANUARY 57 PD END
+7. A. CLEAR DUSK NO WIND PD B. 10,000/290/10; 20,000/320/35; C. UNLIMITED PD D. FIFTEEN PLUS PD E. NOE F. NONE 8. NONE PD 9. NONE PD 10. NONE PD 11. OPERATIONS CONTROL OFFICER BODIES PD 12. YES PD SOURCE HAS SENT NEGATIVES TO BE DEVELOPED AND PICTURES WILL BE READY3 OR 4 JANUARY 57 PD END BT
 
-BT
-02/1747Z JAN RJEDEN
-
+02/1744Z JAN RJEDEN
 
 - page 5 -
 
-Here is the text from the document:
+UFOB INDEX CARD                           ATSS-IIFOR-1-57
 
-1. DATE
-31 Dec 56
+1. DATE: 3/Dec-56                    2. LOCATION                          12. CONCLUSIONS
+   [handwritten: 30 June 57]             Denver, Colorado                     [ ] Was Balloon
+                                                                               [ ] Probably Balloon
+3. DATE-TIME GROUP              4. TYPE OF OBSERVATION                       [ ] Possibly Balloon
+   01/0600Z Jan 57                  [X] Ground-Visual          [ ] Ground-Radar    [ ] Was Aircraft
+                                    [ ] Air-Visual             [ ] Air-Intercept Radar  [ ] Probably Aircraft
+5. PHOTOS                        6. SOURCE                                   [ ] Possibly Aircraft
+   [X]Yes                            Military (JOC)
+   [handwritten: #1144]                                                      [ ] Was Astronomical
+                                                                             [ ] Probably Astronomical
+7. LENGTH OF OBSERVATION         8. NUMBER OF OBJECTS    9. COURSE          [ ] Possibly Astronomical
+   Two hours twenty-five minutes     Two                      E to ENE        [ ] Other_______
+                                                                             [ ] Insufficient Data for Evaluation
+10. BRIEF SUMMARY OF SIGHTING                 11. COMMENTS                   [ ] Unknown
 
-2. LOCATION
-Denver, Colorado
+    One bright round object, and one dark round         Although this sighting indicates a
+    object. In upper right, both the size of a pea     Astronomical hypothesis, AITC Form 164
+    at arm's length. Objects were first seen at        was sent to Source on 9 Jan 57 to
+    45° elevation in the east and disappeared very     obtain exact course of object. Results
+    high in the East North East after having been      of analysis of returned form will be
+    seen visually and through binoculars and tele-     indicated in the Monthly UFOB Summary.
+    scope for 2 hours 25 minutes.
 
-3. DATE-TIME GROUP
-01/0640z Jan 57
-
-4. TYPE OF OBSERVATION
-Ground-Visual
-
-5. PHOTOS
-Yes
-
-6. SOURCE
-Military (COC)
-
-7. LENGTH OF OBSERVATION
-Two hours twenty-five minutes
-
-8. NUMBER OF OBJECTS
-Two
-
-9. COURSE
-E to SE
-
-10. BRIEF SUMMARY OF SIGHTING
-One bright round object, and one dark round object both of a size of a pea at arm's length. Objects were first seen at 45° elevation in the east and disappeared very high in the East North East after having been seen visually and through binoculars and telescope for 2 hours 25 minutes.
-
-11. COMMENTS
-Although this sighting indicates a astronomical hypothesis, ATIC Form 164 was sent to Source on 9 Jan 57 to obtain exact course of objects. Results of analysis of returned form will be indicated in the Monthly UFOB Summary.
 
 AISOP Form 5 (15 Oct 54)
 
-
 - page 6 -
 
-Here is the text from the document:
+No Case (Information Only)                                2 December 1956
+                                                                    San Luis Obispo, California
 
-No Case (Information Only)                                   2 December 1956
-                                                    San Luis Obispo, California
 
-Case 278, San Luis Obispo, Cal, Dec. 2, 1956—Reported the San Diego Union, "Five mysterious lights were seen in the sky. One observer said they were too bright to be stars. Three policemen and a newspaper reporter watched the lights for 45 minutes and a newspaper reporter having a pulsing red glow, then changing to blue and finally to white."
+Case 278, San Luis Obispo, Cal., Dec. 2, 1956—Reported the San Diego Union, "Five mysterious lights were seen in the sky. One observer said they were too bright to be stars. Three policemen and a newspaper reporter watched the lights for 45 minutes and described them as having a pulsating red glow, then changing to blue and finally to white."
 
-San Luis Obispo made news in November when it was selected as the site for Morr-Ka the Martian to contact earthlings from his saucer. Saucerians claim that saucers did appear over San Luis Obispo on the designated date, but authorities countenanced their claim with silence. However, the incident was so well known that never took place—and the affair was tagged a hoax by most civilian researchers. With so much emphasis put on San Luis Obispo, it seems in line that other sightings, such as the one of Dec. 2, should take place and be published.
+Ed. San Luis Obispo made note of a sighting which took place on the U.S. 101 south of the Martian in contact earthings from his association. According to that saucers did appear over the Obispo on the designated date, but authorities counterclaimed that the objects seen were balloons. However, the predicted radio contact never took place—and the affair was lagged a hoax by most civilian researchers. With so much emphasis put on San Luis Obispo, it seems in line that other sightings, such as the one of Dec. 2, should take place and be published.
 
-Credits: C. W. Bartholf, Jr., Baltimore, Md.
-         L. W. Texter, San Diego, Cal.
+1 Credit, C. W. Rathbolt, Jr., Baltimore, MD.
+2 Credit, J. W. Frazier, San Diego, Cal.
 
-(The bottom of the page contains a repeated paragraph of the first text)
 
+Case 278, San Luis Obispo, Cal., Dec. 2, 1956—Reported the San Diego Union, "Five mysterious lights were seen in the sky. One observer said they were too bright to be stars. Three policemen and a newspaper reporter watched the lights for 45 minutes and described them as having a pulsating red glow, then changing to blue and finally to white."
 
 - page 7 -
 
-Here is the OCR text from the document:
-
-1956,Dec.31-Prineville,Oregon.7:04pm-A green fireball seen near here!
-1956,Dec.26-Huntington Beach,Cal.4:49pm-Several,silver,oblong UFOs reported crossing each others paths!
-1956,Dec.26-Ada,Oklahoma-5pm-A round UFO it disappeared & reappeared!
-1956,Dec.26-Luverne,Minn.4:45am-Strange LIGHT hovering at treetop level!
-Changed from red to green as it moved away! Observed for about an hour! It made no sound was about a half-mile away!
-1956,Dec.18-Holliday,Wyo.7:7pm-A fiery UFO reported over here!
-1956,Dec.18-Near Nyack,NY-7pm-A blue-green BLOB of light seen!
+1956,Dec.31-Prineville,Oregon-7:04am-A green fireball seen near here!
+1956,Dec.26-Huntington Beach,Cal-4:40pm-Several silver,oblong UFOs reported crossing eachothers paths!
+1956,Dec.26-Ada,Oklahoma-5pm-A round UFO! It disappeared & reappeared!
+1956,Dec.20-Luverne,Minn-4:15am-Strange LIGHT hovering at treetop level!
+Changed from red to green as it moved away! Observed for about an hour;It made no sound,was about a half-mile away!
+1956,Dec.18-Hollidaysburg,Pa-7pm-A fiery UFO reported over here!
+1956,Dec.18-Near Iyack,N.Y.-7pm-A blue-green BLOB of light seen!
 1956,Dec.18-Cleveland,Ohio-7:20pm-Strange LIGHT seen by Airline Pilots!
-1956,Dec.18-Brooklyn,Pa-7:20pm-Blue-green LIGHT seen in this area!!
-1956,Dec.18-Bartlow,Fla-10:30pm-UFO stopped, climbed vertically fast!!
-1956,Dec.18-Near Winter Haven,Fla-(10:30pm)-Strange LIGHT reported!
-1956,Dec.18-Bristol,SD-5pm-Bright,red,rectangular UFO hovering low!
-1956,Dec.13-Miami,Fla-11:15pm-Hourglass-shaped "blip" observed on Radar!
-For about 20min: It was about 55 miles SW of Miami,at 75,000 Feet Altitude,Hit 14,000mph! Disappeared & reappeared several times,changed speed & hovered, traveled SW Cruised at 600mph!
-1956,Dec.11-Ceylon,Minn.-4:45pm-A round,red UFO stopped for 4 minutes!
+1956,Dec.18-Brookville,Pa-7:20pm-Blue-green LIGHT seen in white area!
+1956,Dec.18-Bartow,Fla-10:30pm-UFO stopped,climbed vertically fast!
+1956,Dec.18-Near Winter Haven,Fla-(10:30pm?)-Strange LIGHT reported!
+1956,Dec.14-Bristol,SD-5pm-Bright,red,rectangular UFO hovering low!
+1956,Dec.13-Miami,Fla-11:15pm-Hourglass-shaped "blip" observed on Radar for about 20min; It was about 65 miles SW of Miami,at 75,000 feet altitude,Hit 4,000mph! Disappeared & reappeared several times,changed speed & hovered,traveled SW! Cruised at 600mph!
+1956,Dec.11-Ceylon,minn-4:45pm-A round,red UFO stopped for 4 minutes!
 1956,Dec.11-Anoka,Minn-Strong Sky-Quake baffles Officials! No solution!
-1956,Dec.11-England-3:15pm-A green UFO over floors! Intense light! It hovered with yellow flames shooting from it,then descended!
-1956,Dec.10-Hawthorne,Cal-Zeppelin UFO hovers 1 min,then shot away!
-1956,Dec.10-Alester,Oklahoma-Early mysterious colored LIGHT in area!
-1956,Dec.9-Oniles,NY of Gary,Minn-Night-round,red UFO moves up & down!
+1956,Dec.11-England-6:15pm-Round,green UFO over floors! Intense light! It hovered with yellow flames shooting down,then descended!
+1956,Dec.10-Hawthorne,Cal-Zeppelin UFO hovers 1 min.,then shot away!
+1956,Dec.9-Ulster,Oklahoma-Early-A mysterious colored LIGHT in area!
+1956,Dec.9-Omiles N/ Of Gary,Iinn-Night-Round,red UFO moves up & down!
 1956,Dec.8-Storden,Minn-Night-Two UFOs were seen here tonight!
-1956,Dec.8-Buford,ND-light-Four,bright LIGHTS seen here!!
+1956,Dec.8-Buford,ND-Night-Four,bright LIGHTS seen here!
 1956,Dec.7-Trenton,ND-Four,bright UFOs observed over Trenton!
-1956,Dec.6-Forest Lake,Minn-about 9:45pm-UFO hovered a few blocks away at treetop-level,moving back-&-forth & up-&-down! Object was observed 2 windows: 1 green & 1 red! Made no sound! Witnesses followed it almost an hr. in car,eastward! Unable to gain-up!
-1956,Dec.5-Five miles S of Eldora,Minn-3:30am-Brilliant egg-shaped UFO!
-1956,Dec.5-Wilber,SD-6:7am-A darting,white,slithering!!(Familiar?)
-1956,Dec.5-Harrah;Oklahoma-Night-Brilliant fireball passed over here!
-1956,Dec.5-Hillier,SD-4:15pm-Brilliant,red DISC seen for 10 minutes!
-1956,Dec.4-Patterson,Ill-5:45am-A UFO reported over here this morning!
-1956,Dec.4-Reno,Nev.-1:30pm-Silver Object reported over here!
-1956,Dec.4-Vallion,Nev.-4:35pm-Several UFOs seen over Naval Base!
-1956,Dec.4-Bermillion,SD-6:45pm-24,white,cigar-shaped UFOs seen!! (24!!)
-1956,Dec.3-Boston,Mass.-1:15pm-Bright,oval UFO seen speeding away from an Airliner! Airliner gave chase,but had to give-up!!
-1956,Dec.3-Bristol,SD-6:15pm-A UFO seen over this city!!
+1956,Dec.6-Forest Lake,Minn-about 9:45pm-UFO hovered a few blocks away at treetop-level,moving back-&-forth & up-&-down! Object with ob long,had 2 windows: 1 green & 1 red! Made no sound! Witnesses followed it almost an hr. in car,eastward! Unable to gain-up!
+1956,Dec.5-Five miles S of Dresba,Minn-4:30am-Brilliant,egg-shaped UFO!
+Dogs in area barked loudly during the sighting!(Familiar?)
+1956,Dec.5-St.Louis,Minn-7am-A red LIGHT,that disappeared suddenly!
+1956,Dec.5-Harrah,Oklahoma-Night-Brilliant Fireball passed over here!
+1956,Dec.5-Miller,SD-Midnight-Brilliant,red DISC seen for 10 minutes!
+1956,Dec.4-Patterson,ND-5:45am-A UFO reported over here this morning!
+1956,Dec.4-Reno,Nev-4:30pm-Silver Object reported over here!
+1956,Dec.4-Fallon,Nev-4:35pm-Several UFOs seen over the Naval Base!
+1956,Dec.3-Bennillion,SD-6:45pm-Several,white,cigar-shaped UFOs seen!(24!!)
+1956,Dec.3-Boston,Mass-.Afternoon-Bright,oval UFO seen speeding away from an Airliner! Airliner gave chase,but had to give-up!!
+1956,Dec.3-Bristol,SD-1:15pm-A UFO seen over this city!
 1956,Dec.3-Big Springs,SD-9pm-A red,ball-like UFO over here!
 1956,Dec.3-Alliance,Ohio-9:45pm-Zig-zagging LIGHT seen over here!
-1956,Dec.2-Near San Luis Obispo,Cal-5:45am-Five UFOs hovered over an hr.!
-1956,Dec.2-W of Greenville,SD-6:11pm-Large,flat appearing & disappearing!
-1956,Dec.2-Bruce,SD-6pm-A UFO seen over here about 6pm!!
-1956,Dec.2-W of Frankfort,SD-6:15pm-An elongated UFO reported!!
-1956,Dec.2-Near Greenville,SD-6:15pm-Large,red ball seen,for 15minutes!
-1956,Dec.2-Near Ortley,SD-6:25pm-A cup-shaped UFO with rows of windows!
-1956,Dec.2-Five miles W of Salem,SD-6:45pm-Bright,orange UFO,hovered at first,then moved on! (Dec.2 was busy,too!)
-1956,Dec.2-Forest Lake,Minn-9:45pm-Luminous,oblong UFO with points of light flashing in all directions! It moved up-&-down and back-&-forth! All while hovering! (See Dec.6 report)
-1956,Dec.2-6 miles S of Pierport,SD-Evening-Pink UFO moving up-&-down!
-1956,Dec.2-5 miles W of Lynn,SD was seen over this City today!!
-1956,Dec.1-Pollock,SD-12:45am-Bright,glowing UFO,big as a house! It hovered about 200ft. above the ground with a yellow glow!
-Dogs in the area went crazy during its visit!
-1956,Dec.1-Two miles E of Webster,SD-5am-A UFO with a "bump on top" and a ring of flashing lights encircling it,reported!
-
+1956,Dec.2-Lenegin,This OMD,Sp-Dal-5:45am-Five UFOs,hovered over-an hr.!
+1956,Dec.1-ND of Zumbrota,Minn-Om-Green LIGHT appearing & disappearing!
+1956,Dec.2-Bruce,SD-Om-A UFO seen over here about 6pm!
+1956,Dec.2-N/ of frankfort,SD-6:15pm-An elongated UFO reported!!
+1956,Dec.2-Near Greenville,SD-6:15pm-Large,red 'Ball' seen,for 15minutes!
+1956,Dec.2-Near Ortley,SD-6:15pm-Cup-shaped UFO with cords of windows!
+1956,Dec.2-Five miles N/ of Salem,SD-6:45pm-Bright,orange UFO,hovered at first,then moved on! (Dec.2 was busy,too!)
+1956,Dec.2-Forest Lake,Minn-9:45pm-Luminous,oblong UFO with points of light flashing in all directions! It moved up-&-down and back-&-forth! All while hovering! (See Dec.2 & Report)
+1956,Dec.2-6 miles S'of Pierport,SD-Evening-Pink UFO moving up-&-down!
+1956,Dec.2-St.Paul,Minn-A UFO was seen over this city today!!
+1956,Dec.1-Hollock,SD-12:45pm-Big as a house! It hovered about 200ft. above the ground with a yellow glow!
+Dogs in the area went'crazy' during its' visit!
+1956,Dec.1-Two miles E of Webstep,SD-5am-A UFO with a "bump on top" and a ring of flashing lights encircling it,reported!
+1956,Dec.1-Sheridan,Wy-Small white UFO over here was inspected by an Air-
 
 - page 8 -
 
 No Case (Information Only)                                3 December 1956
-                                                                   Baltimore, Maryland
+                                                                    Baltimore, Maryland
 
-Case 277, Baltimore, MD, Dec 3, 1956—Quoting the Baltimore Sun, "Two men reported they saw a flying object streak away from a large transport plane while they were standing at Charles and Centre Streets. Curvin Bush and Robert Bryant, guards at the Walters Art Gallery, said, "We thought at first the tail or a section of a wing had broken loose. But then the plane reversed its direction from northeast to southwest to follow the thing." They said the object was "flat, oval-shaped and very bright." It appeared to be spinning counterclockwise. They said they watched it until it disappeared behind a building..."
 
-Case 277, Baltimore, Md, Dec 3, 1956—Quoting the Baltimore Sun, "Two men reported they saw a flying object streak away from a large transport plane while they were standing at Charles and Centre Streets. Curvin Bush and Robert Bryant, guards at the Walters Art Gallery, said, "We thought at first the tail or a section of a wing had broken loose. But then the plane reversed its direction from northeast to southwest to follow the thing." They said the object was "flat, oval-shaped and very bright." It appeared to be spinning counterclockwise. They said they watched it until it disappeared behind a building..."
+Case 277, Baltimore, Md. Dec. 3, 1956--Quoting the
+Baltimore Sun, "Two men reported they saw a flying
+object streak away from a large transport plane while
+they were standing at Charles and Centre Streets. Curvin
+Bush and Robert Bryant, guards at the Walters Art Gal-
+lery, said, 'We thought at first the tail or a section of a
+wing had broken loose. But then the plane reversed its
+direction from northeast to southwest to follow the thing.'
+They said the object was 'flat, oval-shaped and very
+bright' It appeared to be spinning counterclockwise.
+They said they watched it until it disappeared behind a
+building. . ."
 
+
+Case 277, Baltimore, Md. Dec. 3, 1956--Quoting the
+Baltimore Sun, "Two men reported they saw a flying
+object streak away from a large transport plane while
+they were standing at Charles and Centre Streets. Curvin
+Bush and Robert Bryant, guards at the Walters Art Gal-
+lery, said, 'We thought at first the tail or a section of a
+wing had broken loose. But then the plane reversed its
+direction from northeast to southwest to follow the thing.'
+They said the object was 'flat, oval-shaped and very
+bright' It appeared to be spinning counterclockwise.
+They said they watched it until it disappeared behind a
+building. . ."
 
 - page 9 -
 
-No. Case (Information Only)                                   4 December 1956
-                                                                        Stow, Ohio
+No Case (Information Only)                    4 December 1956
+                                                        Stow, Ohio
 
-Case 279, Stow, Ohio, Dec. 4, 1956—Investigator Herbert Clark, now residing in Akron procured the following report for CRIFO, but did not get permission to use the sighter's name. Writes Clark: "Time, 11:55 p.m. Sighter... former Marine sergeant. Sighter, looked over Slighter... saw reddish object, flying much faster than a jet—head, saw reddish object, flying NE, very high, no sound. Object appeared as a flying NE, very high, no sound. Object appeared to two second intervals, came out at 90° from first object. This would make them flying to the NNW. Disappeared quickly. Main object remained on course until it disappeared from view. Entire incident, according to sighter, occurred in approx. 6 to 8 seconds." Comments Clark, "From what I could gather in the conversation, the witness seemed reliable. However, I have to wonder about the time sequence."
 
-Case 279, Stow, Ohio, Dec. 4, 1956—Investigator Herbert Clark, now residing in Akron procured the following report for CRIFO, but did not get permission to use the sighter's name. Writes Clark: "Time, 11:55 p.m. Sighter... former Marine sergeant. Sighter, looked over Slighter... saw reddish object, flying much faster than a jet—head, saw reddish object, flying NE, very high, no sound. Object appeared as a flying NE, very high, no sound. Object appeared to two second intervals, came out at 90° from first object. This would make them flying to the NNW. Disappeared quickly. Main object remained on course until it disappeared from view. Entire incident, according to sighter, occurred in approx. 6 to 8 seconds." Comments Clark, "From what I could gather in the conversation, the witness seemed reliable. However, I have to wonder about the time sequence."
+Case 279, Stow, Ohio, Dec. 4, 1956—Investigator, Herbert Clark, now residing in Akron procured the following report for CRIFO, but did not get permission to use the sighter's name. Writes Clark: "Time, 11:55 p.m. Sighter . . . former Marine sergeant. Sighter looked over-head, saw reddish object, 'Flying much faster than a jet—flying NE, very high, no sound. Object appeared size of a star. Two objects at approx. one to two second intervals, came out at 90° from first object. This would make them flying to the NNW. Disappeared quickly. Main object remained on course until it disappeared from view. Entire incident, according to sighter, occurred in approx. 6 to 8 seconds" Comments Clark, "From what I could gather in the conversation, the witness seemed reliable. However, I have to wonder about the time sequence."
 
+
+Case 279, Stow, Ohio, Dec. 4, 1956—Investigator, Herbert Clark, now residing in Akron procured the following report for CRIFO, but did not get permission to use the sighter's name. Writes Clark: "Time, 11:55 p.m. Sighter . . . former Marine sergeant. Sighter looked over-head, saw reddish object, 'Flying much faster than a jet—flying NE, very high, no sound. Object appeared size of a star. Two objects at approx. one to two second intervals, came out at 90° from first object. This would make them flying to the NNW. Disappeared quickly. Main object remained on course until it disappeared from view. Entire incident, according to sighter, occurred in approx. 6 to 8 seconds" Comments Clark, "From what I could gather in the conversation, the witness seemed reliable. However, I have to wonder about the time sequence."
 
 - page 10 -
 
-No Case (Information Only)                                11 December 1956
-                                                                    Patrick AFB, Florida
+No Case (Information Only)     11 December 1956
+                                         Patrick AFB, Florida
 
-Case: 280, Patrick AFB, Florida, Dec. 11, 1956—
-Writes a correspondent whose name we will not use.
 
-Today . . . a rocket was fired and it went quite away
+Case 280, Patrick AFB, Florida, Dec. 11, 1956--
+Writes a correspondent whose name we will not use,
+"Today . . . a rocket was fired and it went quite away
 upstairs. On the return flight a jet was covering the
 photos, and out from behind the rear bounced two saucer
 type ships at 25,000 feet. Through 7 x 50 glasses they
-were bright and gleaming—as the sun on a bright day.
+were bright and gleaming--as the sun on a bright day.
 One was 400 feet to the rear and the other farther back
-and both traveling at 4500 or faster speeds . . .
+and both traveling at 4500 or faster speeds. . . ."
 CRIFO's correspondent goes on to tell of the objects
-making a 90° turn—and the jet trying to turn with them,
-but without luck. He commented, "The machines left him
+making a 90° turn--and the jet trying to turn with them,
+but without luck. He comments, "The machines left him
 (the jet) holding his hand."
 
-The document appears to have the same text repeated twice on the page, with one version slightly more faded than the other.
 
+Case 280, Patrick AFB, Florida, Dec. 11, 1956--
+Writes a correspondent whose name we will not use,
+"Today . . . a rocket was fired and it went quite away
+upstairs. On the return flight a jet was covering the
+photos, and out from behind the rear bounced two saucer
+type ships at 25,000 feet. Through 7 x 50 glasses they
+were bright and gleaming--as the sun on a bright day.
+One was 400 feet to the rear and the other farther back
+and both traveling at 4500 or faster speeds. . . ."
+CRIFO's correspondent goes on to tell of the objects
+making a 90° turn--and the jet trying to turn with them,
+but without luck. He comments, "The machines left him
+(the jet) holding his hand."
 
 - page 11 -
 

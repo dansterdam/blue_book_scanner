@@ -1,62 +1,36 @@
+The image does not contain a photograph. It appears to be a Project 10073 Record Card from Project Blue Book, which was a United States Air Force program to investigate unidentified flying objects (UFOs).
+
+The text output from the document is as follows:
+
 PROJECT 10073 RECORD CARD
-
-1. DATE
-7 December 1957
-
-2. LOCATION
-6 MI W of Darrington, Wash.
-
-3. DATE-TIME GROUP
-Local
-GMT08/00152
-
-4. TYPE OF OBSERVATION
-Ground-Visual
-
-5. PHOTOS
-No
-
-6. SOURCE
-Civilian
-
-7. LENGTH OF OBSERVATION
-1 hr 15 minutes
-
-8. NUMBER OF OBJECTS
-one
-
-10. BRIEF SUMMARY OF SIGHTING
-Round object, very bright white drifting to SW.
-
-11. COMMENTS
-Astro plot and astro charts show Venus to be SSW of observer & moving west. The duration would tend to point to this planet as the object observed. Venus is very bright this year.
-
-12. CONCLUSIONS
-[Checked boxes are not clearly legible]
-
-ATIC FORM 329 (REV 26 SEP 52)
-
+1. DATE: 6 December 1957
+3. DATE-TIME GROUP: Local
+4. TYPE OF OBSERVATION: Ground-Visual
+5. PHOTO: GMT 08/001512
+6. LOCATION: 6 Mi W of Darrington, Wash.
+7. LENGTH OF OBSERVATION: 1 hr 15 minutes
+10. BRIEF SUMMARY OF SIGHTING: Round objects, very bright drifting to SW
+11. COMMENTS: Astro plot and astro charts show the duration would tend to point to this planet as the object observed. Venus is very bright this year.
+12. CONCLUSIONS: Was balloon, Probable balloon, Possible balloon, Probably aircraft, Possibly aircraft, Possibly Astronomical, Other, Unknown for Evaluation
 
 - page 1 -
 
-Here is the text from the document:
+There is no photograph present in the provided image. The image appears to be a page from an old UFO report document from Project Blue Book.
 
-SQA017 TDCDB1 XYA958 XDE015DMAQ23
+Performing optical character recognition (OCR) on the text in the document:
 
-00 RJEDDN RJEDSO RJEPHO
-DE RJWPDM 07A
-O 0901452
-
-FM COG 25TH CADD
+SOAA17 Y1CUS1XT8F58 XD315DMA023
+DO RJEDNO RJEDSO RJEDNO
+DE RUJPDN 07A
+O 591452
+FM COG 23NU CADD
 TO RJEDDN/COMD NORAD DIR OF INTELLIGENCE
-RJEDSO/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB
+RJEDNO/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB
 RJEPHO/DIRECTOR OF INTELLIGENCE HEADQUARTERS USAF
-
-BT
+ET
 // U N C L A S // TAT L-37
-
 1. ROUND
-2. NCOULD NOT TELL->5/28
+2. COULD NOT TELL
 3. REAL WHITE AND BRIGHT
 4. NEG
 5. NONE
@@ -65,84 +39,61 @@ BT
 8. NONE
 9. NONE
 
-Handwritten notes include:
-7 DEC 57
-6 Mi W Darrington Wash
-LEG 9 09 DEC 57 08 07
-PROB ASTRO
-17464
-4-4X2A
-
-
 - page 2 -
 
-PAGE TWO RJWPDM
+There is no photograph present in this image. This appears to be a page from a Project Blue Book report document.
 
+PAGE TWO RJWPDN
 II 1. A NEIGHBOR
-2. NEG {ELEVATION
-3. NEG {AZIMUTH
-4. STATIONARY
-5. DRIFTED TO THE SW
-   1 HR 15 MIN.
-
+2. NEG 2 @CTION
+3. NEG 3 @CTION 
+4. STATIONARY Did it disappear?
+5. DRIFTED TO THE SE
+JAN HR 15 MIN.
 III
 1. BISUAL BY GROUND
 2. -
 3. N/A
-
 IV
-1. 08/00152 TO 08/0138Z
-   PW DUSK
-   12IN - 48W DKPD 2020 12,894 FT TO 15000 FT SW OVER WHITEHEAD MOUNTAIN
-
-VI
-1. [Redacted]
-   6 MILES WEST DARRINGTON WASH
-   [Redacted] YEARS OLD CALLED IN BY [Redacted]
-   TO P46
-2. N/A
-
-VII
+1. 08/06/52 TO 08/01/32
+V DUSK
+121N - 48W DKPD 2020 12,933 FT TO 15000 FT SW OVER WHITEHEAD MOUNTAIN
+VI.
 1. CLEAR
-2. 10,000 250 DEGREE - 49 KNOTS
-   15,00 250 DEGREE - 66 KNOTS
-3. HIGH THIN BRKN
-4. 15 PLUS
-5. -
+6 MILES WEST DARRINGTON WASH YEARS OLD CALLED IN BY
+TO PAS
+2. N/A
+VII.
+1. CLEAR
+2. 10,000 250 DEGREE - 45 KNOTS
+3. 15,00 250 DEGREE - 66 KNOTS 
+4. HIGH THIN PRKN WHITE BROKEN CLOUDS
+5. 15 PLUS
 6. NONE
-
-Handwritten notes:
-- Next to item 4 (Stationary): "Did it disappear?"
-- Next to item 3 (High Thin Brkn): "Note: Broken Clouds"
-
 
 - page 3 -
 
-PAGE THREE RJWPDM 07A
+The image does not contain any photograph. It appears to be a page from an old UFO report document from Project Blue Book.
 
-VIII WEATHER BALLOONS RELEASED ABOUT ONE HOUR EARLIER FROM SEATTLE
+VIII WEATHER BALLOONS RELEASED ABOUT ONE HOUR EARLIER FROM SEATTLE 
 AND TATOOSH. SHOULDN'T HAVE BEEN QUITE OVER THAT AREA AND WOULD BE
-ABOUT 40,000 FT HIGH.
+ABOUT 42,000 FT HIGH.
 
 IX. N/A
-X. N/A
-XI. N/A
+X . N/A
+XI. N/A 
 XII. N/A
 
-1. Rec sug. elevation or azimuth given.
+ET
+05/05202 DEC RJWPDM
+                       ATT: COMMANDA :
 
-ATL comments:
-Although the director of the object
-was not given, on rather plot and
-water charts show Venus to be
-SSW of observer and moving West.
+The elevation of the celestial object mentioned was estimated to be
+55 W of Wenatchee and moving West. 
+The duration would tend to point to
+some kind of aircraft as observed, and is as reported.
 
-The duration would tend to point to this planet as the object
-observed, and it is very bright
-this time of year.
-
-PROB ASTRO
-
+1726 D 5770
 
 - page 4 -
 

@@ -4,24 +4,40 @@ PROJECT 10073 RECORD CARD
 3 Jul 55
 
 2. LOCATION
-Myra Loma, California
+Mira Loma, California
+
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
 
 3. DATE-TIME GROUP
-09/0545z (m)
+Local
+GMT, 09/0545Z (d)
 
 4. TYPE OF OBSERVATION
-☐ Ground-Visual   ☐ Ground-Radar
-☐ Air-Visual     ☐ Air-Intercept Radar
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
+
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
 
 5. PHOTOS
-☐ Yes
-☒ No
+[ ] Yes
+[X] No
 
 6. SOURCE
 civilian
 
+[ ] Was Astronomical Meteor
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+
 7. LENGTH OF OBSERVATION
-15 seconds (approx)
+1.5 seconds (?)
 
 8. NUMBER OF OBJECTS
 1
@@ -29,206 +45,219 @@ civilian
 9. COURSE
 W
 
+[ ] Unknown
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
 10. BRIEF SUMMARY OF SIGHTING
 Round, white, looked like meteor. Appeared suddenly, then faded out.
 
 11. COMMENTS
-With exception of time element tag obj appears to be meteor. Case evaluated as Meteor.
-
-12. CONCLUSIONS
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
-☒ Was Astronomical/Meteor
-☐ Probably Astronomical
-☐ Possibly Astronomical
-☐ Other
-☐ Insufficient Date for Evaluation
-☐ Unknown
+With exception of time element has obj appears to be meteor. Case evaluated as Meteor.
 
 ATIC FORM 329 (REV 26 SEP 52)
 
-
 - page 1 -
 
-UFOB INDEX CARD                AIS8-UFOB-208-55
+1. DATE
+July 1955
 
-1. DATE                            12. LOCATION
-   8 July 1955                     Mira Loma, California
+2. LOCATION
+Mira Loma, California
 
-2. DATE-TIME GROUP                 4. TYPE OF OBSERVATION
-   Local                           ■ Ground-Visual   □ Ground-Radar
-   GMT   09/0548Z June 1955        □ Air-Visual     □ Air-Intercept Radar
+3. DATE-TIME GROUP
+Local
+GMT 09/0545Z June 1955
 
-5. PHOTOS                          6. SOURCE
-   □ Yes                           Civilian
-   ■ No
+4. TYPE OF OBSERVATION
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
 
-7. LENGTH OF OBSERVATION           8. NUMBER OF OBJECTS   9. COURSE
-   Forty-five seconds (45)         One (1)               Unknown
+5. PHOTOS
+[ ] Yes
+[X] No
+
+6. SOURCE
+Civilian
+
+7. LENGTH OF OBSERVATION
+Forty-five seconds (45)
+
+8. NUMBER OF OBJECTS
+One (1)
+
+9. COURSE
+Unknown
 
 10. BRIEF SUMMARY OF SIGHTING
-    Object: One (1) round, white, the size of a silver dollar held at arms length, appeared suddenly and then faded out. The object appeared to be very high.
+One (1) round, white, the size of a silver dollar held at arms length; appeared suddenly and then faded out. The object appeared to be very high.
 
 11. COMMENTS
-    INVESTIGATION AUTHORIZED
-    Due to the similarity of description and time of sighting with AIS8-UFOB-208
-    and AIS8-UFOB-204, an investigation was authorized by this headquarters. -Upon
-    receipt of AF Form 112 results are to be filed in on this card.
+Due to the similarity of description and time of sighting with AISS-UFOB-203 and AISS-UFOB-204, an investigation was authorized by this headquarters. Upon receipt of AF Form 112 results are to be filled in on this card.
 
-    14:763
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical [handwritten: meteor]
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-    AISOP-Form 5   (15 Oct 54)
+UFOB INDEX CARD
+AISS-UFOB-202-55
 
+AISOP-Form 5 (15 Oct 54)
+
+[handwritten: 1427703]
 
 - page 2 -
 
-Here is the text I can read from the document:
+[handwritten: Withdrawn]
 
-11 JUL 1955
+11 JUL 1955 07 05 [illegible]
 
-[Partially legible text in the middle of the document]
+[handwritten line]
 
-VISIBILITY 1 MILES. NEGATIVE. NEGATIVE. 1. NEGATIVE. 11. PROBABLY
-[Some text is obscured by black redaction marks]
+[handwritten: 24]
 
-The top right of the document has some handwritten notes:
-2 LATIN
-3 ATL
-4/PILE
-1/2k
+[handwritten: Jack]
 
-The page is numbered "24" in the top right corner.
+[handwritten: LATIN?
+SATT.
+4/29/16
+D/C]
 
-Some sections of text are obscured by black redaction marks, making those portions unreadable.
+[illegible section - typewritten text too faded to read clearly]
 
+//UNCLASSIFIED//SO NOTE MAY BE UP A.I.C. . . . . RIGHT DUR.
+
+. . WHITE . E.E. . W. . P. LORD INTELLIGENCE . F. VICINITY . . KE-
+CTIVE. I. NEGATIVE. 2. . . . NEGATIVE . . VIA RK . 5. . WEST. D. RECEIVED
+SHORTLY AFT FACED O/T. I. WX CLDSK. 45 SECONDS . . . . COULD-VISUAL
+U.I. . O 2457 JUL 55. . NIGHT. 5. . . CLOW I. 5. . . . . [blacked out]
+. . [blacked out] . MIRA LOMA, CALIF. FACTORY HGRNKS. 7. . . CLR.
+VISIBILITY ! . MILES . . NEGATIVE.9. . NEGATIVE. 1. . ITATIVE. II. OVERALL
+. . PROPERTY. LACK AT DETIL REPORTED ANY FURTHER OBSERVATION. I/T
+ORM E. ANDREWS CONTROLLER. 12. NEGATIVE
+
+/22857 JUL 55/2/SLTME
 
 - page 3 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED (DECLASSIFICATION)]
 
-AF FORM 112-PART I
-APPROVED 1 JUNE 1948
+FORM 329-PART 1
+APPROVED 1 JUNE 1954
+
+COUNTRY
+
+REPORT NO: 10-UFOB-10-55
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-COUNTRY
-United States
+SUBJECT: UFOB
 
-REPORT NO. 16-UFOIB-10-55
+DATA REPORTED OR: LOS ANGELES & RIVERSIDE COUNTIES, CALIF.
+DATE OF REPORT: 20 July 1955
 
-AREA REPORTED ON
-LOS ANGELES & RIVERSIDE COUNTIES, CALIF.
+FROM (AGENCY): Flight 1-0, L602D AFSS
 
-FROM (AGENCY)
-Flight 1-G, 4602D AISS
-
-DATE OF REPORT
-30 July 1955
-
-DATE OF INFORMATION
-9 July 1955
-
-EVALUATION
+EVALUATED BY (ORGANIZATION): 9 July 1955
 SOURCE
-See contents below
 
-PREPARED BY (SIGNATURE)
 PATRICK O. SHERE, Captain, USAF
+REFERENCES (complete data on report sources, photographs, etc., as applicable)
 
-REFERENCES (Incl numbers, date, agency, etc.)
-PT Msg, 6696h ACHRON, Port Hueneme, Calif. dtd 1021002, 1021152, & 1021302z
+TT Msgs, 6699th ACWRON, Port Hueneme, Calif. dtd 102100Z, 102115Z, & 1021.20Z
 
-SUMMARY: (Enter concise summary of report. Give significance in final mid-sentence paragraph. List incidents in lower left. Refer list of report on AF Form 112-Part I)
+SUMMARY: (Brief source summary of report. Give significance in final one-sentence paragraph. List incidents as lower left. Begin list of report on AF Form 7-8—Part II.)
 
-I. CONTENTS
-PART ONE: Description of sighting by Ernest L. Dunn, Glen Avon Ground
-Observer Post, Riverside (BJOE 2902), California.
+I. CONTENTS:
 
-PART TWO: Description of sighting by Larry C. Spears, Arlington Ground
-Observer Post, Arlington (BJCD 3055), California.
+PART ONE: Description of sighting by Ernest L. Dunn, Glen Avon Ground Observer Post, Riverside (BJOE 2901), California.
 
-PART THREE: Description of sighting by Albert Delong, Hollywood Ground
-Observer Post, Hollywood (BJBE 3806), California.
+PART TWO: Description of sighting by Larry C. Spears, Arlington Ground Observer Post, Arlington (BJOD 3055), California.
+
+PART THREE: Description of sighting by Albert Delong, Hollywood Ground Observer Post, Hollywood (BJBE 3806), California
 
 PART FOUR: Supplementary Investigative Efforts.
 
 PART FIVE: Comments of Preparing Officer.
 
-II. SUMMARY: This report contains information and possible conclusions
-about three sightings of Unidentified Flying Objects on the
-night of 9 July 1955. The information was obtained from
-the observers of the sightings and from an investigation
-conducted to determine their possible cause.
+II. SUMMARY: This report contains information and possible conclusions about three sightings of Unidentified Flying Objects on the night of 9 July 1955. The information was obtained from the observers of the sightings and from an investigation conducted to determine their possible cause.
 
-III. INVESTIGATOR: M/Sgt. RICHARD A. HOLM    AFSG: 20570    AF16046203
-[Signature of Patrick O. Shere, Captain, USAF]
-Captain, USAF
+III. INVESTIGATOR: W/Sgt. RICHARD A. HOLM     AFSC: 20570     AF1606203
+
+[signature: Patrick O. Shere]
+PATRICK O. SHERE
+Captain
+USAF
 Officer-in-Charge
-
-[Signature of John M. White Jr., Colonel, USAF]
-Colonel, USAF
-Commander
 
 NODEX
 
-DISTRIBUTION BY ORIGINATOR
-D/I, USAF; Comdr, ATIC; D/T, 27ADW; Comdr, 4602d AISS; CIG, Flight 1-G, 4602d AISS
+APPROVED:
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT 50 U.S.C.
-31 AND 32. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+[signature: John M. White Jr]
+JOHN M WHITE JR
+Colonel, USAF
+Commander
 
-UNCLASSIFIED
+D886274
 
+DISTRIBUTION BY ORIGINATOR:
+D/I, USAF; Comdr, ATIC; D/I, 2TADi; Comdr, L602D AISS; CIC, Flight 1-0, L602D AISS
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT 50 U.S.C. —31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTION OF INTELLIGENCE, USAF.
+
+[stamp: UNCLASSIFIED (DECLASSIFICATION)]
 
 - page 4 -
 
-UNCLASSIFIED
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
+
+UNCLASSIFIED
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM (agency)                                REPORT NO. 1G-UFOB-16-55    Part One    PAGE 2 OF 9    7 PAGES
-Flight 16, 4602d AISS
+FROM (Agency): Flight 1C, 4602d AIS
+REPORT NO.: 10-UPCB-10-55 Part One
+PAGE: 2 OF 9 PAGES
 
-I. SOURCE:
+I. SOURCE: [redacted]
 Address: Mira Loma, California.
 Age: 25 yrs.
 Occupation: Reliefman in a canning factory and odd shift ground observer.
-
 Education: Completed High School and a Radio-Electronics Course in a Technical School.
-
 Qualifications: Member of the Ground Observer Corps.
 
-II. RELIABILITY: Poor. In a personal interview, source displayed a lack of understanding of speed and distance. He seemed to be rather hesitant and unsure of himself although he was relaxed during the interview.
+II. RELIABILITY: Poor. In a personal interview ur. [redacted] displayed a lack of understanding of speed and distance. He seemed to be rather hesitant and unsure of himself although he was relaxed during the interview.
 
-III. SOURCE'S DESCRIPTION OF SIGHTING: Source was on duty at the Glen Avon Ground Observer Post at the time of sighting which was 0905½ July 1955. The night was dark, dry and clear, with many stars out but no moon nor wind. The single object appeared very bright like an automobile headlight a few feet away.
+III. SOURCE'S DESCRIPTION OF SIGHTING: Source was on duty at the Glen Avon Ground Observer Post at the time of sighting which was 0905:52 July 1955. The night was dark, dry and clear, with many stars out but no moon nor wind. The single object appeared very bright like an automobile headlight a few feet away.
 
 A. The object did not appear to make any erratic movements, nor change shape or flicker.
 
-B. The object appeared to be solid and did not move behind anything but source was not sure if it moved in front of anything while being observed within any visual aids.
+B. The object appeared to be solid and did not move behind anything but source was not sure if it moved in front of anything while being observed without any visual aids.
 
-C. Source insisted that he could see the earth's curvature, and described the object's flight path as a flat horizontal plane above the earth's curvature. (source did not wear glasses).
+C. Source insisted that he could see the earths curvature, and described the objects flight path as a flat horizontal plane above the earths curvature. (sources did not wear glasses).
 
-D. Source's opinion of object's size changed from his original estimated size of a half-dollar to that of a quarter held in the hand at arms length. It continued on out of observers' range of vision at approximately 40° from the horizon. This elevation was maintained during the complete sighting.
+D. Source's opinion of objects size changed from his original estimated size of a half-dollar to that of a quarter held in the hand at arms length. It continued on out of observers range of vision at approximately 40° from the horizon. This elevation was maintained during the complete sighting.
 
 E. Source stated that at one time before he had reported a star to be an unidentified flying object but was fairly certain that the object he saw on 9 July 1955 was not a star.
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
-
 UNCLASSIFIED
 
+[stamp: UNCLASSIFIED]
 
 - page 5 -
 
-Here is the text from the document:
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
 
 UNCLASSIFIED
@@ -236,81 +265,113 @@ UNCLASSIFIED
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM (Agency)                                   REPORT NO. 1G-UFOB-10-55    Part One
-Flight 1G-4602A AISS                                                       PAGE   3   OF   9   PAGES
+FROM (UMPY)                           REPORT NO. IC-UFOB-10-55          Part One
 
-Inclosure #1, Part One, Report #1G-UFOB-10-55. Statement of
+Flight IC-46024 AISS                                                    PAGE    3    OF  9    PAGE'S
+
+Inclosure B, Part One, Report /IC-UFOB-10-55. Statement of
+[redacted section]
+
+S-T-A-T-E-M-E-N-T
+
+While looking in a Southeasterly direction, I saw an object which
+appeared to be a meteor, but in the thirty-five (35) seconds of which
+it was observed, it traveled on a horizontal plain. I considered this
+to be unusual.
+
+I reported this to the Pillar Center, Pasadena, California
+(BJRS 5705) immediately. Object was brilliant white and seemed to
+have a slight tail which while traveling changed colors from white
+to red to a hazy light blue. It covered a four mile span in thirty
+(30) seconds - approximately 4,800 miles per hour. I lost sight of
+object in the extreme Southwest.
 
 S-T-A-T-E-M-E-N-T
 
-While looking in a Southeasterly direction, I saw an object which appeared to be a meteor, but in the thirty-five (35) seconds of which it was observed, I traveled a horizontal plain. I considered this to be unusual.
-
-I reported this to the Filter Center, Pasadena, California (EWB 5705) immediately. Object was brilliant with white and seemed to have a slight tail which while traveling changed colors from white to red to a hazy light blue. It covered a four mile span in thirty (30) seconds - approximately 4,800 miles per hour. I lost sight of object in the extreme Southeast.
-
-S-T-A-T-E-M-E-N-T
 
 TRUE COPY:
 
-[Signature]
-PATRICK O. SEIBE
-Captain        USAF
+[handwritten signature]
+PATRICK O. SHERE
+Captain      USAF
 
-[Bottom of document notes:]
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C...
-[rest of bottom text is partially cut off]
 
-UNCLASSIFIED
-(CLASSIFICATION)
+[stamp: UNCLASSIFIED (CLASSIFICATION)]
 
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C. -
+31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
 
 - page 6 -
 
-Here is the OCR text from the document:
+[stamp: UNCLASSIFIED (CLASSIFICATION)]
 
-UNCLASSIFIED
+AF FORM 112—PART II
+APPROVED 1 JUNE 1954
+
 AIR INTELLIGENCE INFORMATION REPORT
+
+[stamp: UNCLASSIFIED (CLASSIFICATION)]
+
+FORM (Agency): 711th L.D., USCORAD AISS | REPORT NO. 13-USCORAD-10-55 | PART FOUR
+| PAGE 8 | OF 9 | PAGES
+
+SUPPLEMENTARY INVESTIGATIVE REPORTS:
 
 1. A check with 6th Weather Group, Det 7, Norton AFB, San Bernardino, California, the Long Beach and Riverside, California, weather stations contained the following information:
 
-a. A temperature inversion of five (5) degrees Centigrade existed at this time between the altitudes of 1800 feet and 4700 feet. The temperature at 1500 feet was 15 degrees B. and the temperature at 4700 feet was 20 degrees C.
+a. A temperature inversion of five (5) degrees Centigrade existed at this time between altitudes of 1500 feet and 4700 feet. The temperature at 1300 feet was 15 degrees C. and the temperature at 4700 feet was 20 degrees C.
 
-b. Winds aloft are indicated below:
+b. Winds aloft are ire indicated below:
 
-[Wind table with columns for Altitude (in feet), Wind Direction (in degrees), and Wind Speed (in knots)]
+ALTITUDE | WIND DIRECTION | WIND SPEED
+(in feet) | (in degrees) | (in knots)
+5,000 | 270 | 10
+10,000 | 270 | 15
+15,000 | 270 | 20
+20,000 | 270 | 30
+25,000 | 210 | 40
+30,000 | 260 | 45
+35,000 | 270 | 55
+40,000 | 270 | 45
+45,000 | 240 | 40
+50,000 | 210 | 35
 
-2. Dr. BOWEN, Chief Astronomer of the Mt. Wilson Observatory was interviewed to check on the possibility of meteors in the Hollywood and Riverside areas. Dr. Bowen explained that all of their observers are inside the observatories and the field of vision of their equipment is extremely limited. Therefore, the possibility of sighting such objects would be highly improbable. There were no significant meteors at any time during the night of 9 July 1955 at Mt. Wilson or Palomar Observatories, nor could any astronomical conclusions explain the three reported sightings by Lt. DUNN.
+2. Dr. DOREM, Chief Astronomer of the Mt. Wilson Observatory was interviewed to speak on the possibility of meteors in the Hollywood and Riverside areas. Dr. Dorem explained that all of their observers are inside the observatories and the field of vision of their equipment is extremely limited. Therefore, the possibility of sighting such objects would be highly improbable. There were no sightings of meteors any time during the night of 3 July 1955 from Mt. Wilson or Palomar Observations, nor could any astronomical conclusions explain the three reported sightings in question.
 
-3. George BRATTLE, Professor of Astronomy, San Bernardine Valley College, was interviewed to determine the possible conclusions of the sightings in this report. He could offer no help as the information, in his opinion, was contradictory and unreliable in all three sightings with this exception: the moon was rising during the time period of these three sightings and a possible optical phenomenon might explain the reported sightings by Lt. DUNN.
+3. George IKMUTH, Professor of Astronomy, San Bernardino Valley College, was interviewed to determine the possible conclusions of the sightings in this report. He could offer no valid as the information, in his opinion, was contradictory and unreliable in all three sightings with this exception: the moon was rising during the time period of these three sightings and a possible optical phenomena might explain the sighting reported by Mr. DUNN.
 
-UNCLASSIFIED
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., § 31 ET SEQ. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
+[stamp: UNCLASSIFIED (CLASSIFICATION)]
 
 - page 7 -
 
-Here is the text from the document:
+AF FORM 112—PART II
+APPROVED-1 JUNE 1948
 
-AF FORM 112-PART II                                                 UNCLASSIFIED
-AIR INTELLIGENCE INFORMATION REPORT                                  14
+AIR INTELLIGENCE INFORMATION REPORT
 
-FROM (Agency)                                     REPORT NO. 10-USGB-10-55   Part Two   PAGE   9   OF   9   PAGES
-Flight 1-9, 4602d AISS
+FROM (TYPE): Flight 1-7, U6CAF ATSS
 
-COMMENTS OF THE PREPARING OFFICER:
+REPORT NO: 10-GCB-10-55 Part Two
+PAGE 9 OF 9 PAGES
 
-1. It is the opinion of the Preparing Officer that the reliability of the observers in these three sightings existed from "poor" to "fair" and that these were three separate and distinct sightings. No clear-cut conclusions can be made about any one of the three sightings because there were only single observer sightings of each of the objects in question.
+COMMENTS ON THE PREPARING OFFICER:
 
-2. The following possibilities are given: Sighting referred to in Part One is a possible optical phenomena (refer to paragraphs a and b below).
-   a. Sighting referred to in Parts Two and Three are possible meteorological sightings.
+1. It is the opinion of the Preparing Officer that the reliability of the observations in these three sightings varied from "Good" to "Fair" and that these were three separate and distinct sightings. No clear-cut conclusions can be made about any one of the three sightings because there were only single observer sightings of each of the objects in question.
 
-a. The fact that a five (5) degree temperature inversion did exist during the time of the sightings. (Refer to paragraph 1 of Part Four of this report.) can account for possible optical phenomena.
+2. The following possibilities are given: Sighting referred to in Part One is a possible optical phenomena (refer to paragraphs a and b below). All sightings referred to in Parts Two and Three are possible materials (refer to paragraph c below).
 
-b. The mean rise during this period could have caused reflections and adds to the theory of an optical phenomena.
+a. The fact that a five (5) degree temperature inversion did exist during the time of sightings, (refer to paragraph 1 of Part One of this report) can account for possible optical phenomena.
 
-c. The time span of the observations cited in Parts Two and Three can be correlated with the length of time which is normally observed, thus lending weight to the possibility that these observations were of meteors.
+b. The moon rise during this period could have caused reflections and add to the theory of an optical phenomena.
 
-[Signed]
-PATRICK O. SMITH
-Capt. USAF
+c. The time span of the observations cited in Parts Two and Three can be correlated with the length of time during which a meteor is normally observed, thus lending weight to the possibility that these observations were of meteors.
+
+[signature] Patrick O. [illegible]
+Capt
 Officer in Charge
 
 COMMENTS of Approving Officer:
@@ -323,15 +384,15 @@ b. Sighting by Larry C. Spears, Arlington Ground Observer Post, Arlington, Calif
 
 c. Sighting by Albert DeLonz, Hollywood Ground Observer Post, Hollywood, California: Possibly astronomical.
 
-[Signed]
+[signature]
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.
-31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
-IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
-INTELLIGENCE, USAF.
+[stamp: UNCLASSIFIED (DECLASSIFICATION)]
 
-UNCLASSIFIED
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C. 31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
+[stamp: UNCLASSIFIED (DECLASSIFICATION)]
+
+S4-533791 U.S. GOVERNMENT PRINTING OFFICE
 
 - page 8 -
 

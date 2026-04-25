@@ -1,235 +1,231 @@
-PROJECT 10073 RECORD CARD
+**PROJECT 10073 RECORD CARD**
 
-1. DATE
-3 February 1956
+1. DATE  
+   - 3 February 1956
 
-2. LOCATION
-Glenwood, Iowa
+2. LOCATION  
+   - Glenwood, Iowa
 
-3. DATE-TIME GROUP
-Local: 03/23077 GMT
+3. DATE-TIME GROUP  
+   - Local  
+   - GMT_03/2307Z
 
-4. PHOTOS
-NONE
+4. TYPE OF OBSERVATION  
+   - X Ground-Visual  
+   - O Air-Visual  
+   - O Ground-Radar  
+   - O Air-Intercept Radar
 
-5. LENGTH OF OBSERVATION
-3 minutes
+5. PHOTOS  
+   - No
 
-6. TYPE OF OBSERVATION
-Ground-Visual
+6. SOURCE  
+   - Civilian
 
-7. SOURCE
-Civilian
+7. LENGTH OF OBSERVATION  
+   - 3 minutes
 
-8. NUMBER OF OBJECTS
-two
+8. NUMBER OF OBJECTS  
+   - two
 
-9. COURSE
-South
+9. COURSE  
+   - SOUTH
 
-10. BRIEF SUMMARY OF SIGHTING
-Two round balls--size of dime silver stacked. A/c in vicinity.
+10. BRIEF SUMMARY OF SIGHTING  
+   - Two round balls—size of dime silver stacked. A/C in vicinity.
 
-11. COMMENTS
-Duty controller believed objects to be a/c
+11. COMMENTS  
+   - Duty controller believed objects to be a/c.
 
-12. CONCLUSIONS
-Checked boxes for:
-- Probably Aircraft
-- Possibly Aircraft
+12. CONCLUSIONS  
+   - O Was Balloon  
+   - O Possibly Balloon  
+   - O Was Aircraft  
+   - O Possibly Aircraft  
+   - O Probably Aircraft  
+   - O Was Astronomical  
+   - O Probably Astronomical  
+   - O Other  
+   - X Insufficient Data for Evaluation  
+   - O Unknown
 
+ATTC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
-FEB 14 1324'55
+The image does not contain any photographs; it is a scanned document page.
 
-UNCLAS TELEGRAM VIC 736.637
+Here is the text extracted from the document:
 
-PRES ASST JOSEPH ABSENT
+```
+C Y A -25-5p 72-1300/8
 
-DE RUEING 11
+Feb. 11 13 24 '55
+'U fahu'
+IV WPAFB YNA&$ VYC 737NG.37
+P JONLEN AJDH FRPXMRJADFJK 
+CD GREJENG AI
+P 342023 Z
+HVV COMER TOWN AGW SQ CNAJA NEER
+T U JEDI:/./COMER ADC ENT AFB CCLC
+HUDWFP/CC/NDE ATIC WPAFB OHIO
+HUP/HOJDIR OF INTELL HQ USAF WASHDC
+HUDERK/CC/NDR, CADF GRANDVIEW AFS MO
+JUSINCC/CDR 31SF ADVIV ST PAUL T MINN
 
-P 340Z3.2
-
-FM COMDR 7CTH AGM SQ OMAHA NEB
-
-TO RUEING/COMDR ADC ENT AFB COLO
-
-ADIC/PO/COMR ATIC HQ AFB OHIO
-
-ASEPH/DIR OF INTELL HQ USAF WASHDC
-
-ASEWK/COMDR CADF GRANDVIEW AFB MO
-
-ASEWNG/COMDR 31ST ADIV ST PAUL MINN
-
-UNCLASSIFIED/OPNS 74 UFOB REPORT AS FOLLOWS:
+-/./ UNCLASSIFIED/OPNS 74 UFOE REPORT AS FOLLOWS:
 
 1. ROUND BALLS
-
 2. DIME
-
 3. SILVER
-
 4. 2
-
 5. STACKED
-
-6. NO
-
+6. NC
 7. NONE
-
 8. NO
-
-9. NO
-
+9. NC
+```
 
 - page 2 -
 
-Here is the text from the document:
+There are no photographs present in the image.
 
-• RECORDING 12
+Here is the transcription of the text from the document:
 
-• SOUTH
+```
+DATA INCLUDING:1
+    A1 Survey
+    1 PLACE
 
-• ALTITUDE 22
+    45 DEGREES 27 DEGREE KM 17.0
+    
+    45 DEGREES 27 DEGREE KM 17.0
+    SOUTH
+    
+5. HEADING SOUTH
+  
+    23:27 TO 23:42
 
-• 45 DEGREES 27, DEGREES KO 17.2
+C1. GROUND VISUAL
 
-• 45 DEGREES 27, DEGREES KO 17.0
+    NONE
 
-• SOUTH
+    N/A
 
-• HEARING SOUTH
+    J. FEB 55 23372
+  
+    DAY
 
-• 29:72 TO 29:42
+    NO. 1813
 
-• GROUND VISUAL
+F. ****h****: ****** **** PRETTY RELIABLE
 
-• NONE
 
-• N/A
-
-• 9 FEB 56 29:72
-
-• DAY
-
-• AM 18:03
-
-• MRS [REDACTED] 43YRS [REDACTED] PRETTY RELIABLE
-
-• N/A
-
-• CL. COLD
-
-• N/A
-
+SIGHTINGIRECTS
+    CLEAR AND COLD
+    
+    N/A
+```
 
 - page 3 -
 
-PAGE THREE ROEDING 11
+The image does not contain any photographs. Here is the transcription of the text in the document:
 
-1. CLR
-2. N/A
-3. N/A
-4. N/A
-5. NONE
-6. NONE
-7. NONE
+```
+C. *AGE THREE HEADING II
 
-8. LT ZAR CONTROLLER ON DUTY BELIEVES IT WAS TWO AIRCRAFT
+   . CLR
 
-9/0342 PER ROEDING
+   . N/A
 
+   . N/A
+
+   . N/A
+
+   . NONE
+
+   . NONE
+
+   . NONE
+
+   L. LIT ZAN CONTROLLER ON DUTY BELIEVES IT WAS TWO AIRCRAFT 
+
+   . ET
+```
 
 - page 4 -
 
+There are no photographs present in the image.
+
+Here is the transcribed text from the document:
+
+```
 PROJECT 10073 RECORD CARD
 
-1. DATE
-3 February 1956
-
-2. LOCATION
-Glenwood, Iowa
-
-3. DATE-TIME GROUP
-Local: 
-GMT: 04/0215Z
-
-4. TYPE OF OBSERVATION
-Ground-Visual
-
-5. PHOTOS
-No
-
-6. SOURCE
-Civilian
-
-7. LENGTH OF OBSERVATION
-5 minutes
+1. DATE                  2. LOCATION                           12. CONCLUSIONS
+   3 February 1956              Glenwood, Iowa                    □ Was Balloon
+                                                                 □ Probably Balloon
+3. DATE-TIME GROUP        4. TYPE OF OBSERVATION                □ Possibly Balloon
+   Local       GMT           ▢ Ground-Visual                      □ Was Aircraft
+   --          04/0215Z          □ Ground-Radar                    □ Possibly Aircraft
+5. PHOTOS                   □ Air-Visual                         □ Probably Aircraft
+   □ Yes                    □ Air-Intercept Radar                □ Possibly Astronomical
+   x No                                                             □ Probably Astronomical
+                                                                   □ Other
+7. LENGTH OF OBSERVATION   8. NUMBER OF OBJECTS   9. COURSE        x Insufficient Data for Evaluation
+   5 minutes               one                      SOUTH          □ Unknown
 
 10. BRIEF SUMMARY OF SIGHTING
-Flashing bright white-large, size of 1/2 dollar. Drifting south also fast flashing reddish green light.
-
-8. NUMBER OF OBJECTS
-one
-
-9. COURSE
-South
-
+   Flashing bright white-large, size of 
+   1/2 dollar. Drifting south also fast 
+   flashing reddish green light.
+   
 11. COMMENTS
-Probable a/c sighting.
+   Probable a/c sighting.
 
-12. CONCLUSIONS
-Was Balloon
-Probably Balloon
-Possibly Balloon
-Was Aircraft
-Probably Aircraft
-Possibly Aircraft
-Was Astronomical
-Probably Astronomical
-Possibly Astronomical
-Other...
-Insufficient Data for Evaluation
-Unknown
+ATIC FORM 329 (REV 26 SEP 52)
+```
 
 
 - page 5 -
 
-PAGE TWO JUDGING 21
+The image contains no photographs, just text. Here is the text from the document:
 
-B. SOUTH
+---
+PAGE NUMBER: 21
+
+1. 2 BRIGHT LIGHTS
+2. SOUTH
 1. BRIGHT LIGHT
-2. 270 DEGREES KM 152
+2. 270 DEGREES KM 1502
 3. UNK
-4. FAST FLASHING REDDISH GREEN
+4. FAST FLASHING REDIS; GREEN
 5. FADED
-6. 22152 TO 2227
+6. 221252 TO 2227
 
 C.
 1. GROUND VISUAL
 2. BINOCULARS
 3. N/A
+
 D.
-1. 22152 4 FEB 56
+1. 28152 4 FEB 56
 2. NIGHT
-E. KM 1622
-
+3. KM 1602
 F.
-1. [REDACTED] 45 YRS [REDACTED] VERY RELIABLE 50%
+1. 45 YRS         VERY RELIABLE 588
 2. N/A
-3.
-
+G.
 1. CLR
 
-PAGE THREE JUDGING 21
-
+PAGE NUMBER: 21
+---
 
 - page 6 -
 
-Here is the text from the document:
+The image provided does not contain any photographs. Here is the text from the document:
 
+---
 2. NONE
 3. CLR
 4. VERY LITTLE
@@ -239,29 +235,31 @@ Here is the text from the document:
 8. NONE
 9. NONE
 10. NONE
-11. LT ZAR CONTROLLER ON DUTY BELIEVES POSSIBLE A MX BALLOON
+K. NONE
+L. LT ZAR. CONTROLLER ON DUTY BELIEVES POSSIBLE A WX BALLOON
 OR A SLOW MOVING AIRCRAFT.
 ET
-T4/0233SZ FEB RJEDING
-FM COMDR 789TH ACW SO OMAHA NEBR
-TO RJED/COMDR ADC ENT AFB COLO
-RJED WP/COMDR ATIC UP AFB OHIO
-RJEPH3/DIR OF INTELL HQ USAF WASH DC
-RJED KF/COMDR CADC GRANDVIEW AFB MO
-RJED NG/COMDR 315T ADW ST PAUL MINN
+W4/038Z FED REDENG
+
+FM COMDR 789ST AC&W SQ OMAHA NEBR
+TO REDDEN/CO/IDE: ADC ENT AFB COLO
+REDJWP/COMDR ATIC WP AFB OHIC
+REJPHQ/DIR OF INTELL HQ USAF WASH DC
+EJEDKF/COMDR CADG GRANDVIEW AFB MO
+REDJENC/COMDR 31ST ADIV ST PAUL MINN
 ET
-U N C L A S S I F I E D/OPS 72 UFOB REPORT AS FOLLOWS:
+UNCLASSIFIED/COPIS 75: UFO REPORT AS FOLLOWS:
 A. FLASHING
 1. LONG
-2. HALF DOLLAR
-3. BRIGHT WHITE
+2. "HALF DOLLAR
+3. EIGHT WHITE
 4. ONE
 5. DRIFTING SOUTH
 6. FLASHING
 7. NONE
 8. NONE
-9. QUICK FLASH
-
+9. QUICK FLAS:
+---
 
 - page 7 -
 

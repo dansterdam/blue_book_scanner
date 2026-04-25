@@ -1,265 +1,400 @@
-Here is the text from the document:
-
 PROJECT 10073 RECORD CARD
 
-1. DATE: 1 February 1955
-   DATE-TIME GROUP: Local 02/02557 GMT
+1. DATE
+1 February 1955
 
-2. LOCATION: 20 MI E of Cochise, N.M.
+2. LOCATION
+20 Mi E of Cochise, N.M.
 
-3. TYPE OF OBSERVATION: Air-Visual
+3. DATE-TIME GROUP
+Local
 
-4. GROUND-VISUAL: [Unchecked]
+4. TYPE OF OBSERVATION
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
 
-5. PHOTOS: No
+5. PHOTOS
+[ ] Yes
+[X] No
 
-6. SOURCE: Military
+6. SOURCE
+Military
 
-7. LENGTH OF OBSERVATION: 8 minutes
+7. LENGTH OF OBSERVATION
+2 minutes
 
-8. NUMBER OF OBJECTS: one
+8. NUMBER OF OBJECTS
+one
 
-9. COURSE: [No specific course marked]
+9. COURSE
+-
 
-10. BRIEF SUMMARY OF SIGHTING: Spherical, Red & White, Very bright. Object hovered off left wing of observation a/c approx 5 min, then began steady climb parallel to course of a/c at extremely high speed. Disappeared in 3 minutes.
+10. TIME GROUP
+0012/0255Z
 
-11. COMMENTS: [Appears to be blank or unreadable]
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[X] Unknown
 
-12. CONCLUSIONS:
-    [All checkboxes are unchecked, including:
-    - Was Balloon
-    - Probably Balloon
-    - Was Aircraft
-    - Probably Aircraft
-    - Was Astronomical
-    - Possibly Astronomical
-    - Other
-    - Insufficient Data for Evaluation
-    - Unknown]
+13. BRIEF SUMMARY OF SIGHTING
+Spherical, Red & White, Very bright. Object hovered off left wing of observation a/c approx 5 min, then began steady climb parallel to course of a/c at extremely high speed. Disappeared in 3 minutes.
 
-ATIC FORM 329 (REV 26 SEP 52)
+11. COMMENTS
+[handwritten: UNIDENTIFIED]
 
+ATIC FORM 329 (REV 25 SEP 52)
 
 - page 1 -
 
-Here is the text I can discern from the document:
-
-[Note: Some parts of the text are difficult to read clearly due to image quality]
-
-[Top of page appears to have some header text, but is mostly illegible]
-
-... VISUAL ... GROUND ...
-
-... PILOT ... RELIABILITY ...
-
-[Middle section text is partially legible but many words are unclear or cut off]
-
-... CLEAR ... AT POINT ...
-
-... SCATTERED ...
-
-[Bottom of page is mostly blank]
-
-The text is very faint and partially obscured, making complete OCR challenging. Large portions of the text are not clearly readable.
-
+[illegible section - document image is too faint and degraded to read with confidence]
 
 - page 2 -
 
-Here is the text I can read from the document:
+[handwritten: Matth] in [illegible] 28
 
-Hatch
+[illegible] 23 [illegible] 20 07
+242
 
-28
+REPORT VIA ST USAF PHOENIX 47
+OBJECT OBSERVED LOCI N DRAWN JUDCO [illegible]
+O DULL LIT [illegible]
+D PLUE D [illegible]
 
-[Some partially legible text at top of document]
+CODER ROGER RDR TRM
 
-JPERS/YCCMDR 37 YALISE MCLEAN 47
-JCMDR JCGR JCMDR JCMDR JCMDR JCMDR
-PG 218.2
+10 JEPSEN/CODNR ADC SRT AFB COLO
 
-TO JCMDR/ACCORD ABC BMT ATC COLO
-JCMDR/ACCORD 34 ADIV JEFF/ MIRTLAND AFB NM
-JCMDR/ACCORD ATC WING-PATTERSON AFB OHIO
-JCMDR/2/1 10 USAF MAG-DC
-JCMDR/YCCMDR ATC SCOTT AFB ILL
-JCMDR/YCCMDR FTG WACO TEX
+JNSL/CODNR 34 ADTM /OSAN MIRTLAND AFB NM
 
-[Some handwritten notes on right side of document, partially illegible]
+JNERY/CODNR ATTIC WING T-PATTERSON AFB OHIO
 
+JEPI/[illegible] TO USAF MATS DC
+
+JEEST/CODNR ATC SCOTT AFB ILL
+
+JURGO/CODNR FTAF WACO TEX
+
+[handwritten in right margin:
+2 Lts
+2 Maj 2
+4 1st Lt
+Cpt
+]
 
 - page 3 -
 
-Mail
+[handwritten: Multi]
 
-- 28 -
+[handwritten: lll]
 
-JOCMW WG 37 WDCSA JOCMSA 47
-PO JMCGM MCGST MCGM JOCMG JMCMG
-JE JMCLE 111
-P JMLE 2
+[illegible]
 
-TO JMCGM/COMDR 1ST APS GOLD
-JMCGM/COMDR 24 ADIV /COSY MTLND AFB
-JMCGM/COMDR AID WRIGHT-PATTERSON AFB OHIO
-JCM/COML 10 USAF HQ35.06
-JMCGM/COMDR AIG SCOTT AFB ILL
-JMC/COMDR FIFTH MACO TEN
+[handwritten: 28]
 
+[illegible] 25
+
+[illegible] 27 07
+[illegible] 27a
+
+WRIGHT VR 37 INSIDE ELEV A 47
+
+AT UNCER DESRT LIGHT JITEO JUMP
+
+DC NULL IIA
+
+P ELE T
+
+IN COMB ROGER AFT ILY
+
+TO USERT/COMET AND ENT AFE BELO
+
+[illegible]/COMDR 24 ADIV /DSTI MINTLAND AFE
+
+USERT/COMNR AIIC RIGHT-BAFIANCC. AFE OHIO
+
+JDP/ADI LA USAF MASBASE
+
+USERT/COMNR AIR SCOTT AFE ILL
+
+[illegible]/COMNR TWAT LAGO TEN
+
+[handwritten: 2 Elto
+3 Jht[illegible]
+4 Jht[illegible]]
 
 - page 4 -
 
-Here is the OCR text from the document:
+3. /.../ UFOR LAT APR 2 -2 FOLD INFO SUB CLM
+/.../ SPHERICAL OBJ /.../ FIREBALL OR GRAPEFRUIT OBJ /C/ N.J MO
+/.../ ROUND BRIGHT FIREBALL OBJ /.../ ONE OBJ /.../ PA OBJ /.../ NO
+/.../ /C/ ORM F OBJ /.../ ORM OBJ /.../ POINT PD
+4. /.../ BRIGHTNESS AND SIZE OBJ /.../ FINE DBG ABOVE REPORTING ACFT
+/.../ TWO VIS FRNT OF REPORTING ACFT OBJ /C/ CLIMBED OUT OF
+/.../ AT FIVE DBG ANGLE PARALLEL TO COURSE OF ACFT OBJ /.../ 
+/.../ OFF L../ WING APPROX FIVE /.../ TWO MILES STEADY CLIMB
+/.../ PARALLEL TO COURSE OF ACFT AT EXTREMELY HIGH SPEED PD OTHER PD APPEARED
+TO DBG MORE FAINTLY AS IT PULLED AWAY PD /.../ FAR C ABOVE OBJ /C/
 
-5. UFOL IAM APR 2 -2 FOLS INTO SUE CL
-/10 SPHERICAL CWI 707 GASSBALL ON GRAPEFRUIT CWI 707 RES AND
-THE VERY BRIGHT FIREBALL CWI 706 CWI 706 VA CWI 707 10
-/10 MILE CWI 710 CWI CWI 716 POINT PD
+[illegible section - right margin contains number 100317]
 
-. BRIGHTNESS AND SIZE CWI 707 FIVE DEC ABOVE REPORTING ACTS
-NEXT TO THE SORT OF REPORTS ACTS CWI 707 CLOSED OUT O
-NEXT AT FIVE DEG ANGLE PARALLEL TO COURSE OF ACTS CWI 707
-CLOSED OFF LEFT WING APPROX IVE 11 THE NEAR STEADY CLIM
-PARALLEL TO COURSE OF ACTS AT EXTREMELY HIGH SPEED PD APPEARED
-TO BE MOMENTARILY AS IT PULLED AWAY PD 707 PART C ABOVE CWI 707
+PAGE TWO JUSTLE IIA
+DISAPPEARED IN THREE WING PD
 
-JOSE TWO WORLD 11A
-DISAPPEARED IN THREE MINS PD
-
-5. /10 AIR TO AIR VISUAL CWI 707 HOME CWI/VOT TL-25 44-65634 CWI
-45,500. CWI B DEC CWI 236 MPH. GROUND SPEED CWI REESE AFB CWI TEXAS PD
-
-6. /10 2952 CWI 2 PRL 85 CWI /10 NIGHT PD
-
-7. /10 2 MI DUE EAST COCHISE CWI MI CWI CL
-                                    AIRWAY GREEN 5 PD OBJ
-
+5. /.../ AIR TO AIR VISUAL OBJ /C/ NONE OBJ/C/ T-25 44-E5594 OBJ
+/.../ OBJ C DUG OBJ 298 MPI GROUND SPEED OBJ HERSE APE OBJ TIMES PD
+6. /.../ 2552 OBJ 2 FOR 55 OBJ /.../ NIGHT PD
+7. /.../ 2 MI DUE EAST COCHISS OBJ MN OBJ OBJ
+[handwritten: AIRWAY GREEN 5 PD OKD]
 OVER MOUNTAINS TO LEFT OF COURSE PD
 
-8. /10 /A CWI 707 CAP                 CWI 35
-6. CWI 1 TRACTOR PILOT CWI GOOD RELIABILITY PD /A
-                                    35 PD CWI STU PLT CWI RELIABILITY HIGH
+8. /.../ /C/ OBJ /.../ CAF [redacted] OBJ [redacted] OBJ 35
+/.../ OBJ FI TRACTOR PILOT OBJ GOOD RELIABILITY PD /C/[redacted]
+[redacted] [redacted] 35 FT OBJ STU PLT OBJ RELIABLILITY UNK
+/.../ [redacted] OBJ [redacted] OBJ 35 FT OBJ STU
+/.../ OBJ RELIABILITY UNK PD
 
-9. CWI RELIABILITY DIFF PD
-
-10. /10 CLEAR CWI BRIGHT FOG LIGHT CWI MILE 20 DEC SL 1 B CWI
-MILE CWI ABLE CONTACT 1 MIL CWI SCATTERED AT 5 5 CWI
-
+9. /.../ CLEAR OBJ BRIGHT MOONLIT OBJ ILLUM 20 DBG FLIGHT E N OBJ
+/.../ /.../ OBJ NITE WX CLEAR OBJ 4 MI VIS AT 2 5 OOK
+/.../ 20 /.../ OBJ CONTINUED AT 5 OBJ
 
 - page 5 -
 
-The text I can discern is:
+[illegible section]
 
-[First line is mostly illegible]
-... to 100 ...
+2/1/55 FBO JOPLIN
 
-[Two sections are blacked out/redacted]
-
-At the bottom right of the page, there is a handwritten notation "2 FEB"
-
+[handwritten: 2 FEB]
 
 - page 6 -
 
-Here is the text from the document:
-
 PROJECT 10073 RECORD CARD
 
-1. DATE: Washington 1955
-3. DATE-TIME GROUP: Local
-4. TYPE OF OBSERVATION: Ground-Visual
+1. DATE
+   2 February 1955
 
-5. LENGTH OF OBSERVATION: 2-3 min.
+2. LOCATION
+   20 Mi. E of Cochise, N.M.
 
-10. BRIEF SUMMARY OF SIGHTING: Imperfect, Red & white. Very bright. Object hovered off left wing of observation a/c approx 3 min. then began steady climb parallel to course of a/c at extremely high speed. Disappeared in 3 minutes.
+3. CONCLUSIONS
+   [X] Was Balloon
+   [ ] Probably Balloon
+   [ ] Possibly Balloon
+   [ ] Was Aircraft
+   [ ] Probably Aircraft
+   [ ] Possibly Aircraft
+   [ ] Was Astronomical
+   [ ] Probably Astronomical
+   [ ] Possibly Astronomical
+
+4. DATE-TIME GROUP
+   [illegible]
+
+5. TYPE OF OBSERVATION
+   [X] Ground-Visual
+   [ ] Air-Interceptor Radar
+   [ ] Air Visual
+   [ ] Ground-Radar
+
+6. SOURCE
+   Military
+
+7. LENGTH OF OBSERVATION
+   2 hrs
+
+8. NUMBER OF OBJECTS
+   [illegible]
+
+9. COURSE
+   [illegible]
+
+10. BRIEF SUMMARY OF SIGHTING
+   Spherical, Red & white. Very bright. Object hovered off left wing of observation a/c approx 3 min. then began steady climb parallel to course of a/c at extremely high speed. Disappeared in 3 minutes.
+
+11. COMMENTS
+   UNIDENTIFIED
+
+---
 
 UFOB INDEX CARD
 
-1. DATE: 26 February 1955
-2. LOCATION: Cochise, New Mexico
-3. DATE-TIME GROUP: Local
-4. TYPE OF OBSERVATION: Ground-Visual
-5. PHOTOS: None
-7. LENGTH OF OBSERVATION: Approx. 2 minutes
+1. DATE
+   25 February 1955
 
-10. BRIEF SUMMARY OF SIGHTING: Spherical object, appears size of softball at arm's length, red and white in color. Very bright. Appeared and left wing of aircraft for approx. 2 minutes. Then climbed and disappeared from view, as very high speed. Appeared to be as big as softball.
+2. LOCATION
+   Cochise, New Mexico
 
-11. COMMENTS (Top card): UNIDENTIFIED
-11. COMMENTS (Bottom card): Further investigation not directed by the headquarters.
+3. CONCLUSIONS
+   [ ] Was Balloon
+   [ ] Probably Balloon
+   [ ] Possibly Balloon
+   [ ] Was Aircraft
+   [ ] Probably Aircraft
+   [ ] Possibly Aircraft
+   [ ] Was Astronomical
+   [ ] Probably Astronomical
+   [ ] Possibly Astronomical
 
+4. DATE-TIME GROUP
+   Local
+   GMT = 0905 Z
+
+5. TYPE OF OBSERVATION
+   [X] Ground-Visual
+   [ ] Ground-Radar
+   [ ] Air-Interceptor Radar
+
+6. SOURCE
+   Military student pilot
+
+7. LENGTH OF OBSERVATION
+   Approx. 8 minutes
+
+8. NUMBER OF OBJECTS
+   1
+
+9. COURSE
+   [illegible]
+
+10. BRIEF SUMMARY OF SIGHTING
+    Spherical object, copper size of basketball at arms length, Red and white in color and very bright. Appeared off left wing for approx five minutes; then climbed on upward slant. Climbed and disappeared from sight at very high speed. Appeared to dim as it pulled away.
+
+11. COMMENTS
+    Further investigation not desired by this Headquarters.
+
+ATIC FORM 329 (REV 24 AUG 52)
+
+AIDP Form 5 (15 Oct 54)
 
 - page 7 -
 
-Here is the OCR text from the document:
+[handwritten: 2/6
+2/Ellsworth
+4/30 by
+[illegible]]
 
-FIRST MCJADS 1138L94347
-JEST JEDNE CEPHA JNSD JNRE
-ATC
+FIRST INDORSEMENT 1135/26347
 
-ROSE PG TEN
-TELCYCODER ADC GRT ATC COLO
-SEPTEMBER 24 ADIV /DEF/ KIRTLAND AFB NM
-CMDR/CONDR ATCL LIGHT-PATTERSON AFB OHIO
-CMDR HQ USAF WAS DC
-CONDR ATC SCOTT AFB IL
-CONDR STAF WACO TEX
+FROM: AAFSI JBDI/SEPDA DATED UNFAF
 
-LSDS, LSDS, LAW AFB 2-4-2 TOLD INTO SUB CLN
-LAW SPHERICAL CMN /EV BASEBALL OR GRAPEFRUIT CMN /CV RED AND
-VERY BRIGHT/ FIREBALL CMN /CV ONE CMN /EV MVA CMN /FV NO
-CMN /CV NONE CMN /AV UNK CMN /IV NONE PD
+TO: 119
 
-LAW BRIGHTNESS AND SIZE CMN /CV FINE DEG ABOVE REPORTING ACFT
-ABOUT FIVE MI NORTH OF REPORTING ACFT CMN /CV CLIMBED OUT OF
-SIGHT AT FIVE DEG ANGLE PARALLEL TO COURSE OF ACFT CMN /IV/
-VEERED OFF LEFT WING APPROX FIVE MID THEN BEGAN STEADY CLIMB
-PARALLEL TO COURSE OF ACFT AT EXTREMELY HIGH SPEED PD APPEARED
-MOMENTARILY AS IT PULLED AWAY PD /EV PAR C RECOL CMN /IV/
+ATTN: THOSE AND TLX
 
-Note: Some text appears to be in abbreviated or coded format, typical of military communications of that era.
+REFERRED/CEDER AOC ENT AFB COLO
 
+NOVEMBER 24 ADIV/ADEV KIRTLAND AFB NM
+
+NOVEMBER ATIC HP ISDT-PATTERSON AFB OHIO
+
+NOVEMBER 11 MG USAF WASDC
+
+AUGUST/CENDER AIC SCOTT AFB ILL
+
+AUGUST/CENDER FTAF WADC TEX
+
+[illegible section]
+
+OBJS: UFOB. 24W APR 2:--2 POLE INTO SUB CLY
+
+1. /24 SPHERICAL CHM /24 BASEBALL OR GRAPEFRUIT CHM /24 RED AND
+
+RED /VERY BRIGHTLY FIREBALL CHM /24 ONE CHM /24 N/A CHM /FV NO
+
+CHM /24 NONE CHM /24 UNK CHM /24 NONE FD
+
+2. /24 BRIGHTNESS AND SIZE 4MM /24 FIVE DEG ABOVE REPORTING ACFT
+
+ABOUT FIVE NM NORTH OF REPORTING ACFT CHM /24 CLIMBED OUT OF
+
+SIGHT AT-FIVE DEG ANGLE PARALLEL TO COURSE OF ACFT CHM /24
+
+VEERED OFF LEFT WING APPROX FIVE NM THEN BEGAN STEADY CLIMB.
+
+PARALLEL TO COURSE OF ACFT AT EXTREMELY HIGH SPEED FD APPRAISED
+
+MOMENTARILY AS IT PULLED AWAY FD /24 PAR C AEOUL CHM /24
 
 - page 8 -
 
-Here is the text I can read from the document:
+UNIDENTIFIED IN THREE NAME-BD
 
-AIR TO AIR VISUAL CONF /54 HOME CHICO/ T-28 44-85504 CAP
+A/C AIR/TO AIR VISUAL OHM /EZ HOME CHM/C T-2Z 44-[illegible] DAY
 
-2352 CHK 2 PER 55 CHK /54 NIGHT PH
+[illegible] CHM 2S3 DEC CHM 2/6 APH GROUND SPEED OWA FENCE AFE CHM ITAL FR
 
-22 MI NE EAST COCHISE STA NM CHK
+N 18532 CHM 2 VLE SS CHM 4/2 NIGHT FD
 
-MOUNTAINS TO LEFT OF COURSE PD
+2, 22 MI DUE EAST COCHISE CHM FM CHM ON
 
-PTH WAS IN TRACTOR PILOT CHK GOOD RELIABILITY PD A/C
+[handwritten: BRIGHT ORE + FR OBY]
 
-RELIABILITY WAS PD
+MOUNTAINS TO LEFT OF COURSE FD
 
-NO CLEAR CHK BRIGHT MOONLIGHT CHK NOISE PER SIDE PLOT CHK
+3. A/C CHM /EZ CAPT [redacted] CHM [redacted] FR FD
 
-TUCSON CHK ARTE NOT CLEAR CHK NO MI VIS AT SCENE PD ALS
+9TH CHM IN TRACTOR PILOT CHM GOOD RELIABILITY FD A/C [redacted]
 
-12/13252 FEB JUEIE
+[redacted] [redacted] CHM 3S1M PT4 CHM STU PLT CHM RELIABILITY UNK
 
-Note: Several sections of text are blacked out/redacted, so those portions are not readable. The text appears to be a military or aviation report with various abbreviations and codes.
+FD A/C [redacted] CHM [redacted] [redacted] HPCS DTN CHM SOL
 
+LI CHM RELIABILITY UNK FJ
+
+7. A/C GLARE CHM BRIGHT MOONLIGHT CHM JUNIOR GPZ ELV SLIGHT 0/A CHM
+
+A/C ANG SUSCCA CHM ARIZ RAT GLARE CHM 40 HI VIS AT OSATH FD UNE
+
+MUCANS DOPALF CHM RE U.N. THERE CONFICG RAMOULAR, ASUN [illegible]
+
+OF W CHM /2Y 30 HI CHM /EZ NONA CHM FY U.A FD
+
+S. NONE SU NONE 11. NONE 12. CAPT [redacted]
+
+[redacted] [illegible] CHM NO COMMENT FD
+
+12/15/52 FEB JUFFLE
 
 - page 9 -
 
-Here is the text I can read from the document:
+[handwritten: illegible]
 
-206
+[handwritten: illegible]
 
-[Handwritten note in top right corner, partially illegible]
+[handwritten: illegible signature/initials]
 
-[Most of the text in the body of the document is very faint and partially illegible. The few words I can confidently make out are:]
+[illegible section - majority of page text is too faint to read with certainty]
 
-...FIVE DES /AVE REPORTED SOFT
+The following text is partially legible:
 
-...NORTH OF REPORTING POST CWI /CLIMED OUT OF
+...1330 HRS 2 -- OF OLD INFO SUB GL
 
-...FIVE DES ABLE WALL TO COURSE T WEST CWI /
+DISC'L OBJ /W/ BASEBALL OR GRAPEFRUIT ON /G/ RED AND
 
-[The rest of the text is too faint or blurry to reliably transcribe without risking introducing errors]
+...W/ 'VERY BRIGHT' PARALLEL OBJ /W/ ONE OBJ /W/ ONE DARK /EY/ TO
 
+.../ HOME OBJ /W/ LIT SIM /E/ HOME PT
+
+.../ LUMINANCE AND SIZE OBJ /W/ FIVE RED AGIVE UPRIGHT /...
+
+...OUT FIVE MI NORTH OF REPORTING ACFT OBJ /W/ CLIMBED OUT OF
+
+.../ AT TIME OBJ ANGLE PARALLEL TO SOURCE AT ACFT TIM /W/
+
+.../ LEFT WING APPROX FIVE MIN THEN BEGAN STEADY CLIMB
+
+.../ TO OBJECT OF WEST AT EXTREMELY HIGH SPEED TO UPRIGED
+
+...IGINALLY AT IRIGHT AWAY /E/ IRA C AGDN /ER/ /W/
 
 - page 10 -
 

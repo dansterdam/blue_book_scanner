@@ -1,23 +1,22 @@
-PROJECT 10073 RECORD CARD
-
 1. DATE
 5 November 1963
 
 2. LOCATION
 Kindly AFB, Bermuda
 
-3. DATE/TIME GROUP
-Local GMT 05/0855Z
+3. DATETIME GROUP
+Local
+GMT 05/0852Z
 
 4. TYPE OF OBSERVATION
-☒ Ground-Visual
-☐ Air-Visual
-☐ Ground-Radar
-☐ Air-Intercept Radar
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
 
 5. PHOTOS
-☐ Yes
-☒ No
+[ ] Yes
+[X] No
 
 6. SOURCE
 Military
@@ -25,540 +24,585 @@ Military
 7. LENGTH OF OBSERVATION
 10 Minutes
 
-10. BRIEF SUMMARY OF SIGHTING
-Round red-orange object with tail half as long as body, no sound. Observed at 25 deg elevation in to W. Faded after 10 min flight.
-
 8. NUMBER OF OBJECTS
 1
 
 9. COURSE
 W
 
-11. COMMENTS
-Initial observation at beginning of Astro twilight. Object assumed stationary. Jupiter on Horizon at 270 deg setting at time of report.
+10. BRIEF SUMMARY OF SIGHTING
+Round reddish-orange object with tail half as long as body; no sound. Observed at 15 deg elev heading to West. Faded after 10 min flight.
 
 12. CONCLUSIONS
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
-☒ Was Astronomical (JUPITER)
-☐ Probably Astronomical
-☐ Possibly Astronomical
-☐ Other:
-☐ Insufficient Data for Evaluation
-☐ Unknown
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical (JUPITER)
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-ATIC FORM 329 (REV 26 SEP 52)
+11. COMMENTS
+Initial observation at beginning of Astronomical twilight. Object assumed stationary. Jupiter on Horizon at 270 deg setting at time of report.
 
+ATIC FORM 329 (REV 24 SEP 52)
 
 - page 1 -
 
 U.S. AIR FORCE TECHNICAL INFORMATION
 
-This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Your name will not be used for any research, conclusions, or publications without your permission. We request this personal information so that if it is deemed necessary, we may contact you for further details.
+This questionnaire has been prepared so that you can give the U.S. Air Force as much information as possible concerning the unidentified aerial phenomenon that you have observed. Please try to answer as many questions as you possibly can. The information that you give will be used for research purposes. Your name will not be used in connection with any statements, conclusions, or publications without your permission. We request this personal information as best if it is deemed necessary, we may contact you for further details.
 
 1. When did you see the object?
-12   NOV.   1963
-Day   Month   Year
+
+12        NOV        1963
+Day       Month      Year
 
 2. Time of day: 4:30 AM
-(Circle One)   A.M. or P.M.
+   (Circle One):    A.M. or P.M.
 
-3. Firm Zone:
-(Circle One) a. Eastern
-            b. Central
-            c. Mountain
-            d. Pacific
-            e. Other   EASTERN
-
-(Circle One) a. Daylight Saving
-            b. Standard   STANDARD
+3. Time Zone:
+   (Circle One): a. Eastern
+                b. Control
+                c. Mountain
+                d. Pacific
+                e. Other ___EASTERN___     (Circle One): a. Daylight Saving
+                                                         b. Standard
+                                           ___STANDARD
 
 4. Where were you when you saw the object?
-Nearest Postal Address   PORT HURON   MICHIGAN
-                         City or Town   State or County
 
-5. How long was object in sight? (Total Duration)   45   Minutes   Seconds
-   a. Certain ✓   b. Fairly certain   c. Not very sure   d. Just a guess
+   ___PORD HURON___        ___MICHIGAN___
+   Nearest Postal Address   City or Town    State or County
 
-5.1 How was time in sight determined?   CHECKED ON WATCH
-5.2 Was object in sight continuously?   Yes   No ###
+5. How long was object in sight? (Total Duration)
+   ___________  1.5  __________
+   Hours        Minutes  Seconds
+
+   a. Certain
+   b. Fairly certain     c. Not very sure
+                         d. Just a guess
+
+5.1 How was time in sight determined? __CHECKED ON WATCH__
+
+5.2 Was object in sight continuously? Yes _____ No _###_
 
 6. What was the condition of the sky?
-   DAY                   NIGHT
-   a. Bright             a. Bright ###
-   b. Cloudy             b. Cloudy
+
+   DAY                        NIGHT
+   a. Bright                  a. Bright _###_
+   b. Cloudy                  b. Cloudy
 
 7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object?
-   (Circle One): a. In front of you   d. To your left
-                b. In back of you    e. Overhead
-                c. To your right     f. Don't remember
+
+   (Circle One): a. In front of you        d. To your left
+                b. In back of you         e. Overhead
+                c. To your right          f. Don't remember
 
 FORM
-FTD 62-63 164   This form supersedes FTD 164, Jul 62.
-
+FTD OCT 62 164
 
 - page 2 -
-
-Here is the text from the document:
 
 Page 2
 
 8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+
 8.1 STARS (Circle One):
 a. None
 b. A few
 c. Many
-d. Don't remember
+d. Don't remember [checkmark marked]
 
 8.2 MOON (Circle One):
 a. Bright moonlight
 b. Dull moonlight
-c. No moonlight - pitch dark
+c. No moonlight – pitch dark
 d. Don't remember
 
 9. What were the weather conditions at the time you saw the object?
+
 CLOUDS (Circle One):
-a. Clear sky
+a. Clear sky [handwritten: unclear mark]
 b. Hazy
 c. Scattered clouds
 d. Thick or heavy clouds
 
 WEATHER (Circle One):
-a. Dry
+a. Dry [handwritten: unclear mark]
 b. Fog, mist, or light rain
 c. Moderate or heavy rain
 d. Snow
 e. Don't remember
 
-10. The object appeared: (Circle One):
+10. The object appeared; (Circle One):
+
 a. Solid
 b. Transparent
 c. Vapor
-
-d. As a light
+d. As a light [handwritten: unclear mark]
 e. Don't remember
 
 11. If it appeared as a light, was it brighter than the brightest stars? (Circle One):
+
 a. Brighter
 b. Dimmer
-
 c. About the same
 d. Don't know
 
-11.1 Compare brightness to some common objects:
-SCALE OF WATTS FRAMEWORK WHITENESS
+11.1 Compare brightness to some common object:
+[handwritten: SAME AS WHITE FLASHED-LIGHT ON WATCH-ETC]
 
-12. The edges of the object were: (Circle One):
-a. Fuzzy or blurred
+12. The edges of the object were:
+
+(Circle One): a. Fuzzy or blurred
 b. Like a bright star
 c. Sharply outlined
 d. Don't remember
 
-e. Other
+e. Other _______________
 
 13. Did the object: (Circle One for each question)
-a. Appear to stand still at any time?
-b. Suddenly speed up and rush away at any time?
-c. Break up into parts or explode?
-d. Give off smoke?
-e. Change brightness?
-f. Change shape?
-g. Flash or flicker?
-h. Disappear and reappear?
 
-Yes   No   Don't know
-Yes   No   Don't know
-Yes   No   Don't know
-Yes   No   Don't know
-Yes   No   Don't know
-Yes   No   Don't know
-Yes   No   Don't know
-Yes   No   Don't know
-
+a. Appear to stand still at any time? Yes [circled] No Don't know
+b. Suddenly speed up and rush away at any time? Yes No [circled] Don't know
+c. Break up into parts or explode? Yes No [circled] Don't know
+d. Give off smoke? Yes No [circled] Don't know
+e. Change brightness? Yes No [circled] Don't know
+f. Change shape? Yes No [circled] Don't know
+g. Flush or flicker? Yes [circled] No Don't know
+h. Disappear and reappear? Yes No [circled] Don't know
 
 - page 3 -
-
-Here is the text from the document:
 
 14. Did the object disappear while you were watching it? If so, how?
 
 15. Did the object move behind something at any time, particularly a cloud?
-(Circle One): Yes (No) Don't Know. IF you answered YES, then tell what it moved behind:
+(Circle One): Yes [No] Don't Know. IF you answered YES, then tell what
+it moved behind: ___________________________________________________________________
 
 16. Did the object move in front of something at any time, particularly a cloud?
-(Circle One): Yes (No) Don't Know. IF you answered YES, then tell what in front of:
+(Circle One): Yes [No] Don't Know. IF you answered YES, then tell what
+in front of: ________________________________________________________________________
 
 17. Tell in a few words the following things about the object:
-a. Sound - LIKE A JET NOISE
-b. Color -
+a. Sound LIKE A JET NOZZLE
+b. Color ___________________________________________________________________________
 
-18. We wish to know the angular size. Hold a match stick at arm's length in line with a known object and note how much of the object is covered by the head of the match. If you had performed this experiment in the line of its sighting, how much of the object would have been covered by the match head?
+18. We wish to know the angular size. Hold a match stick at arm's length in line with a known object and note how
+much of the object is covered by the head of the match. If you had performed this experiment at the time of the
+sighting, how much of the object would have been covered by the match head?
 
-TOO DARK TO SEE OBJECT. JUST SAW FLASHING LIGHT TO EIGHT. THEN WAS TURNING ON A FIXED POINT.
-+ THEN OBJECT ALSO TURNING 2 1/4 OR 3 1/2 LIGHT
+75° DARK TO SEE OBJECT- JUST SLIM FLASHING LIGHT- THEN OBJECT ALSO TURNED ON A RED FLASHDYE & THEN OBJECT ALSO TURNED ON A RED LIGHT
 
-19. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place an arrow beside the drawing to show the direction the object was moving.
-
-[The document contains a blank space for the drawing in question 19]
-
+19. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details
+of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails.
+Place an arrow beside the drawing to show the direction the object was moving.
 
 - page 4 -
 
-Here is the text from the document:
-
 20. Do you think you can estimate the speed of the object?
-(Circle One)   Yes   No
-If you answered YES, then what speed would you estimate? BLUR FAST
+(Circle One)     Yes     [X] No
+
+If you answered YES, then what speed would you estimate? [illegible] - [illegible]
 
 21. Do you think you can estimate how far away from you the object was?
-(Circle One)   Yes   No
-IF you answered YES, then how far away would you say it was? 300 or 350 yds.
+(Circle One)     [X] Yes     No
+
+If you answered YES, then how far away would you say it was? 200 or 300 ft(?)
 
 22. Where were you located when you saw the object?
 (Circle One):
 a. Inside a building
-b. In a car
+b. In a car [crossed out]
 c. Outdoors
 d. In an airplane (type)
 e. At sea
-f. Other ____
+f. Other
 
 23. Were you (Circle One)
 a. In the business section of a city?
 b. In the residential section of a city?
-c. In open countryside?
+c. In open countryside? [crossed out]
 d. Near an airfield?
 e. Flying over a city?
 f. Flying over open country?
-g. Other ____
+g. Other
 
 24. If you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
-24.1 What direction were you moving? (Circle One)
-a. North             c. East             e. South
-b. Northeast         d. Southwest        f. Southwest        g. West
-                                          h. Northwest
 
-24.2 How fast were you moving? 35 miles per hour.
+24.1 What direction were you moving? (Circle One)
+a. North                 c. East                 e. South              g. West
+b. Northeast [crossed out]    d. Southeast          f. Southwest         h. Northwest
+
+24.2 How fast were you moving? ___[illegible]___ miles per hour.
 
 24.3 Did you stop at any time while you were looking at the object?
-(Circle One)   Yes   No
+(Circle One)     [X] Yes     No
 
 25. Did you observe the object through any of the following?
-a. Eyeglasses        Yes   No    e. Binoculars       Yes   No
-b. Sun glasses       Yes   No    f. Telescope        Yes   No
-c. Windshield        Yes   No    g. Theodolite       Yes   No
-d. Window glass      Yes   No    h. Other ____
+a. Eyeglasses         Yes     No          e. Binoculars        Yes     No
+b. Sun glasses        Yes     No          f. Telescope         Yes     No
+c. Windshield         [X] Yes     No      g. Theodolite        Yes     No
+d. Window glass       [X] Yes     No      h. Other
 
-26. In order that you can give as clear a picture as possible of what you saw, describe in your own words what object or objects which, when placed up in the sky, would give the same appearance as the object which you saw:
+26. In order that you can give us clear a picture as possible of what you saw, describe in your own words a similar object or objects which, when placed up in the sky, would give the same experience as the object which you saw:
 
-JET HELICOPTER - WITH PERHAPS WHITE LIGHT
-+ ALSO A RED LIGHT
-
+[handwritten: JUST HELICOPTER - WITH FLASHING WHITE LIGHT + ALSO A RED LIGHT]
 
 - page 5 -
 
-27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curve's line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the curve's line to show how high the object was above the horizon (skyline) when you last saw it. Place an "X" on the compass where you first saw the object.
+27. In the following sketch, imagine that you are at the point shown. Place an "A" on the curved line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it. Place a "B" on the compass when you last saw it.
 
-28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, "B" at the end of the path, and show any changes in direction during the course.
+90°     73°     80°
 
-29. IF there was MORE THAN ONE object, then how many were there? Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+55°
 
+30°
+
+15°
+0°
+
+[LEFT SIDE: Sketch of landscape/horizon with radiating lines suggesting observation point]
+
+[RIGHT SIDE: Compass rose diagram with cardinal directions marked, point A marked at top]
+
+28. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning of the path, a "B" at the end of the path, and show any changes in direction during the course.
+
+[BLANK SPACE FOR DRAWING]
+
+29. IF there was MORE THAN ONE object, then how many were there?
+Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+
+[BLANK SPACE FOR DRAWING]
 
 - page 6 -
 
-Here is the text from the document:
+30. Have you ever seen this, or a similar object before. If so give date or dates and location.
 
-39. Have you ever seen this, or a similar object before. If so give date or dates and location.
-
-31. Was anyone else with you at the time you saw the object? (Circle One)   No
-31.1 If you answered YES, did they see the object too? (Circle One)   No
+31. Was anyone else with you at the time you saw the object? (Circle One) [Yes circled] No
+31.1 IF you answered YES, did they see the object too? (Circle One) [Yes circled] No
 31.2 Please list their names and addresses:
-     Dr. Hudson
-     MICH.
+[redacted]
+Pt. HURON
+MICH.
 
 32. Please give the following information about yourself:
-NAME                                                   Pt Hudson
-ADDRESS                                                MICH.
-TELEPHONE NUMBER                                       AGE 42   SEX Male
 
-Indicate any additional information about yourself, including any special experience, which might be pertinent.
+NAME [redacted] Last Name     [redacted] First Name     [redacted] Middle Name
+
+ADDR [redacted] Street     Pt. HURON     MICH.
+                           City          Zone    State
+
+TELEPHONE NUMBER [redacted]     AGE 42     SEX MALE
+
+Indicate any additional information about yourself, including any special experience, which might be pertinent
 
 33. When and to whom did you report that you had seen the object?
-    12    Nov    63
-    Day   Month  Year    Kinldy AFB
-                         USAF
-
+12     Nov     53     [illegible]
+Day    Month   Year   [illegible]
+[illegible]
 
 - page 7 -
 
-Here is the text from the document:
-
 34. Date you completed this questionnaire:
-[Date fields are blank]
+[handwritten: 7 / 3] [handwritten: Dawn] [handwritten: 1963]
+Day          Month          Year
 
-35. Information which you feel pertinent and which is not adequately covered in the specific points of the questionnaire or a narrative explanation of your sighting:
+35. Information which you feel pertinent and which is not adequately covered in the specific points of the questionnaire or a narrative explanation of your sighting.
 
-I am a Deputy Sheriff, St. Clair Co. Mich. And my partner & I were on duty at this time, 4:30 AM Nov. 13, 1963.
+I am a Deputy Sheriff, St. Clair Co. Mich. And my partner & I were on duty at this time, 4:30 AM Nov. 12, 1963 east patroling N E on 24 th Ave. ( Cut off ) & my pardner daid do you want to see somthing odd. I pulled off onto the shoulder of the rd. & stoped. then noticed out a light in the sky to the North of us. then this light i flashing ) came closer to us, appe. 200 to 300 yds away. & app. 300 ft. high. Officers,put the spot light on & pointed it at the object my pard. said the object with the light. At this time the object took off to the N.E. Patrol want in on 24 th Ave. App. 1 & miles at lakeshore Rd. Officers lost sight of object due to street lights. it turned North on Makeshore app. 2 miles to & turned West. West appe. limited & stoped on Rd. & turned out the lights of the patrol car. Spotted object again to the North & West of us at this time. While stoped here we turned the spot light on the top of the patrol car on & 2 object in the sky with the white flashing light also turned on a red flashing light. We turned our's off & then the object turned there red light off also. But at no time did they turn the white light higher. Patrol stoped on the rd. & the object continued on its way into the North. It was just about out of sight when it turned back to the South. As it came S. it passed to theWest of us. We started up & went 1/2 mile West to North Rd. & turned South. At thistime the object was, on & too the W. of us. We went S. 1 1/2 miles to Carrigan Id. & turned West. Went one mile & stoped at the intersection of Merriman & Vincent rd's.
+This time patrol turned out the lights & also turned off the car hy. & got out of the car. The object was over the field if W corner. Its hhrs sounded like a Jet & seemed to b in a Idle. Object at a standstill. Turned the spot light on the object reval up the hhrs: & took off to the East. we gave up at this time & returned to P. Huron. time 5:15 AM.
 
-We were patrolling N E on 24 th ave. ( Cut off ) & my partner daily do you want to see something odd.
-
-We pulled off onto the shoulder of the rd. & stopped.
-
-Then pointed out a light in the sky to the North of us.
-
-Then this light (flashing) came closer to us, approx. 200 to 300 Yds. away. 300 Ft. high.
-
-Officers put the spot light on & pointed it at the object but didn't reach it with the light. At this time the object took off to the N. E.
-
-Patrol went N. on 24 th Ave. Approx. 1 miles at Lakeshore Rd. Officers Rd. Patrol went lost sight of object due to street lights.
-
-Patrol went North on Lakeshore app. 2 miles to Metcalf Rd. & turned West.
-
-We saw app. 1 mile approx. on Rd. & turned out the lights of the patrol car.
-
-Spotted object again to the North & West of us at this time. While stopped here we turned the red flasher light on the top of the patrol car on.
-
-We object in the sky with the white flashing light also turned on a red flashing light. We turned ours off & then the object turned its white flasher off.
-
-Patrol stayed stopped on the rd. & the object continued on its way into the North. It was just about off sight when it started to come back to the South. As it came 5. it passed to the West of us. We started up & went 1/2 miles to North Rd. & turned South. At this time the object was, up to top the W. of us.
-
-We went S. 1 1/2 miles to Carigan Rd. & turned West. Went one mile & stopped at the intersection of Carigan & Vincent Rd's.
-
-This time patrol turned out the lights & also turned off the car. & got out of the car. The object was over the field N W corner. Its Mtr's sounded like a Jet & seemed to be in a idle.
-
-Object at a standstill. & turned the spot light on & the object reared up the Mtr's & took off to the West.
-
-We gave up at this time & returned to P. Huron. time 5:15 AM.
-
+[black redaction mark at bottom]
 
 - page 8 -
 
-Here is the text from the document:
+REPORT REVIEW:
 
-Dear Mr. Harvey:
+This is an Air Force REPORT of UFO sighting observed in the Kindly AFB area. In
+regards Information concerning an object sighted in Bermuda on 13 Nov. 1960, forwarded
+to an unusual signal sighting by one D-3xxx Cheshire in
+Port Haven.
 
-This is in reply to your letter dated 9 Nov 63 requesting information concerning an UFO sighted near Port Haven Tinsdale on 7 Sep 63. According to an unusual aerial sighting by the Deputy Sheriffs in Port Haven.
-
-Thank you for reporting this incident to this Air Force. It is the policy since Deputy Sheriff's Walter Haines and Frank Clark apparently did not at the moment to the Air Force authorities, and we have no record of this particular unidentified flying object. Because we are interested in the report, we are sending these copies of Form 164 which is an official questionnaire in which they can detail information with respect to this sighting. In order to make an evaluation, it is necessary that we ascertain certain details such as the shape or direction of the object, the total duration of the sighting, and whatever.
-
+Thank you for reporting this sighting to the Air
+Force. It is the rather in Bible to have had of the
+sighting since Deputy Field P. Fellows inform and Darle
+Clark apparently did not report the account to the Air
+Force authorities, and in force we have no record of
+this particular unidentified flying object. Because we
+are interested in the case B, we are writing to the
+nearby Sheriff's office an F-3xB upon and pending them
+copies of Form 18A which is an official questionnaire
+in which they can detail information with respect to the
+sighting. In order to make an evaluation, it is necessary
+also we ascertain careful available data as the time and
+place of the object, the azimuth of sighting and directed
+assistance, the total duration of the sighting, and whether
 
 - page 9 -
 
-Here is the text I can discern from the image:
+[illegible section at top of page]
 
-not to faith or
-...
-upon co
-will attempt to
-of the results.
+Enclosed is the [illegible] of the officer of the Unidentified Flying Object.
 
-Enclosed is the
-of the Universities
-Your interest in
+Your interest in a Press release is appreciated.
 
 1 Attachment
-Enclosure
+Inclosure
 
-Note: Some parts of the text are partially illegible or cut off at the edges of the document, so I have only transcribed the text that is clearly visible.
-
-The page is numbered "2" at the bottom center of the document.
-
+2
 
 - page 10 -
 
 SUBJ: UFO SIGHTING (ST CLAIR COUNTY, MICHIGAN)
 
-TO: HQ USAF SAFOI-PD
-WASH 25 D C
+TO: HQ USAF SAFOI-PB
+     Wash 25 D C
 
-1. The following information is provided to assist you in a reply to Congressman Harvey regarding a UFO sighting in Saint Clair County, Michigan, on 12 Nov 63.
+[handwritten: Ought DRAFT]
 
-2. It is believed that the object sighted by Deputy Baker was a helicopter. However, efforts to identify a specific vehicle have proved negative. Reasons for belief that the object was a helicopter are as follows:
+1. The following information is provided to assist you in a reply to
+Congressman Harvey regarding a UFO sighting in Saint Clair County, Michigan,
+on 12 Nov 63.
 
-a. During telephone conversation between Doctor J Allen Hynek and Deputy Baker information received indicated that this was the most probable cause.
+2. It is believed that the object sighted by Deputy Baker was a helicopter.
+However, efforts to identify a specific vehicle have proved negative. Reasons
+for belief that the object was a helicopter are as follows:
 
-b. A helicopter was observed during the day light hours on subsequent days by other persons in the area and their stories of the observations were carried in local newspapers.
+a. During telephone conversation between Doctor J Allen Hynek and Deputy
+Baker information received indicated that this was the most probable cause.
 
-c. Efforts to identify these subsequent observations with a particular helicopter proved negative.
+b. A helicopter was observed during the day light hours on subsequent days
+by other persons in the area and their stories of the observations were carried
+in local newspapers.
 
-3. Should Congressman Harvey desire further investigative efforts to identify known helicopter activity in the area, officials from Selfridge AFB may be directed to conduct this investigation. However, we feel that additional expenditure of funds and manpower is not warranted in view of the long delay in time since the initial report. Also, we feel there is sufficient evidence to justify an evaluation of this sighting as a helicopter observation.
+c. Efforts to identify these subsequent observations with a particular
+helicopter proved negative.
 
-COL DJ's SIE
+3. Should Congressman Harvey desire further investigative efforts to identify
+known helicopter activity in the area, officials from Selfridge AFB may be
+directed to conduct this investigation. However, we feel that additional
+expenditure of funds and manpower is not warranted in view of the long delay
+in time since the initial report. Also, we feel there is sufficient evidence
+to justify an evaluation of this sighting as a helicopter observation.
 
-1 Atch
-Case File
-(12 Nov 63, St Clair County, Mich)
 
+COL DJ's SJS                           1 Atch
+                                       Case File
+[handwritten: SAC]                      (12 Nov 63, St Clair
+[handwritten: 7 Dec]                    County, Mich)
 
 - page 11 -
 
+[handwritten: JN [illegible] O/J/63 - - - - - - - - - - - - - Afroe]
+
 PRIORITY
-PSF
-Law
+[handwritten: ASF]
+[handwritten: Gale]
 
-HQLA ADRES KINDLEY AFB BERMUDA
+[illegible - CLASS]
 
-MSGS/AFSC WRIGHT PATTERSON AFB OHIO
+[handwritten: CO 2) (UFOD)]
+[handwritten: 3 KM]
 
-HQLA/USAF WASH DC
+[illegible text at top]
 
-HQLA ADRES 26-L-14. THE AFSC (FOREIGN TECHNOLOGY
-DIVISION, CAPT SAFFORD, CAPT GERALD). UFO. THE FOLLOWING
-INFORMATION IS SUBMITTED IN ACCORDANCE WITH AFR 200-2, PARAGRAPH 14A:
+Hold for normal pickup DO No [illegible]
 
-DESCRIPTION OF THE OBJECT: (1) COLOR RED AND ORANGE (2) ROUND (3) SIZE OF NICKEL AT ARMS
-LENGTH (4) RED AND ORANGE (4) ONE (5) N/A (6) NO (7) TAIL, HALF AS LONG
-AS DIAMETER OF OBJECT (8) NOT HEARD (9) NO. PARAGRAPH 14B,
+I
 
-DESCRIPTION OF COURSE OF OBJECT: (1) LIGHT (2) 15 DEGREES ABOVE
-HORIZON (3) 15 DEGREES ABOVE HORIZON (4) HEADING 250 DEGREES (MARC)
-(5) FLIGHT FADED TO WEST (6) 15 MINUTES. PARAGRAPH 14C, MANNER
-OF OBSERVATION: (1) GROUND-VISUAL (2) BINOCULARS (3) N/A. PARAGRAPH
-14D
+SOLAR COMPASS J-J-L-14, T/M AFCC (FOREIGN TECHNOLOGY
+DIVISION), COAT (MAPPING), COAT (SAPOTO), UTO. THE FOLLOWING
+INFORMATION IS SUBMITTED IN ACCORDANCE WITH AIR F. [illegible], PARAGRAPH 14A:
 
-[Several handwritten notes at bottom of document, partially illegible]
+DESCRIPTION W T/M OBJECT, (1) ROUND, (2) DULL OF NICKEL AT ARMS
+LENGTH (3) RED ORANGE (4) ONE (5) N/A (5) NO (7) TAIL, HALF AS LONG
+A DIAMETER OF OBJECT (2) NOT HEARD (2) NO. PARAGRAPH 14a,
 
+DESCRIPTION W COUNCIL O: OBJECT, (1) LIGHT (2) 15 DEGREES ABOVE
+[illegible] (2) IS DEGREES ABOVE HORIZON (4) HEADING O2: DEGREES (MAG)
+[illegible] (5) FADED TO WEST (6) 15 MINUTES. PARAGRAPH 14C, MANNER
+W OBSERVATION, (1) GROUND-VISUAL (2) BINOCULARS (3) N/A. PARAGRAPH
+
+KINAS [illegible]
+[handwritten: Affd [illegible] 8/5/66]
+[handwritten: [illegible] [illegible]]
+
+[illegible] 2 DALLAS
+[handwritten: Off Coas. + 2 NM]
+
+*, TIME AND DATE OF SIGHTING, (1) 25/10222 (2) NIGHT. PARAGRAPH
+
+* LOCATION OF OBSERVATION, (1) CONTROL TOWER, KINDLEY AF.
+
+, BERMUDA 14?, IDENTIFYING INFORMATION ON OBSERVER, (1) N/A (2) COLONEL,
+* * ?, NAME, IEAR COMM 65, MCC CO3, NEW YORK N Y., AIR TRAFFIC
+
+CONTROLLER. [illegible]
 
 - page 12 -
 
 OFFICIAL FILE COPY
 
-MEMO
+FROM
 
-"UFO Sighting (St Clair County, Michigan)"
+UFO Sighting (at Clair County, Michigan)
 
-To USAF SAFOI-23
-Attn PD C
+To USAF SAFOI-P3
+1222 25 D C
 
 1. The following information is provided to assist you in a reply
 to Congressman Harvey regarding a UFO sighting in Saint Clair County,
 Michigan, on 12 Nov 63.
 
 2. It is believed that the object sighted by Deputy Baker was a
-helicopter. However, efforts to identify a specific vehicle have
+helicopter. However, efforts to identify a specific vehicle
 proved negative. Reasons for belief that the object was a helicopter
 are as follows:
 
-a. During telephone conversation between Doctor J Allen Ryneck
+3. During telephone conversation between Doctor J Allen Hynek
 and Deputy Baker information received indicated that this was the
 most probable cause.
 
-b. A helicopter was observed during the day light hours on
-the subsequent days by other persons in the area and their stories of
+4. A helicopter was observed during the day light hours on
+subsequent days by other persons in the area and their stories of
 the observations were carried in local newspapers.
 
-c. Efforts to identify these subsequent observations with a
+5. Efforts to identify these subsequent observations with a
 particular helicopter also proved negative.
 
-3. Should Congressman Harvey desire further investigative efforts
+6. Should Congressman Harvey desire further investigative efforts
 to identify known helicopter activity in the area, officials from
-SAFOI-23 may be directed to contact the agencies from which we feel
-we can obtain additional expenditure of time and manpower to this
-investigation. However, we are not warranted in the view of the
-long delay in time since the initial report. Also, we feel that
+Selfridge AFB may be directed to conduct this investigation. However,
+we feel that additional expenditure of funds and manpower is not
+warranted in view of the long delay in time since the initial report.
+Also, we feel that there is sufficient circumstantial evidence to
 justify an evaluation of this sighting as a helicopter observation.
 
 FOR THE COMMANDER
 
-[Signature]
-FRED T de JONCKHEERE
-Colonel, USAF
-Deputy for Technology
+[handwritten signature: appears to be initials]
 
-1 Atch
-Case File
-(12 Nov 63, St Clair
-County, Michigan)
-
+BRIG M d JONCKHEERS        1 Atch
+Colonel, USAF             Case File
+Deputy for Technology      (12 Nov 63, St Clair
+and Sustainment            County, Michigan)
 
 - page 13 -
 
-SAC-OIPS/H.Galser/75630
+SAP-OI?2/H.Gaiaey/75630
 
-MEMORANDUM FOR THE DIRECTOR OF LEGISLATIVE LIAISON, SAP-OIS
-ATTENTION: Major Stewart, SAP-LL
+MEMORANDUM FOR THE DIRECTOR OF LEGISLATIVE LIAISON, SAP-OS
+ATTENTION: Major Stewart, SAP-LI
+
 SUBJECT: Proposed Reply to Congressman Harvey
 
-Attached is proposed draft reply to Congressman Jonas Harvey, on the subject of Unidentified Aerial Phenomena.
+Attached is proposed draft reply to Congressman
+James Harvey, on the subject of Unidentified Aerial
+Phenomena.
 
 CHARLES T. VAN VLIET
 Colonel, USAF
 Chief, Public Information Division
 Office of Information
 
-1 Attachment:
-Proposed Draft w/atch
-
+1 Attachment
+Proposed Draft w/Atch
 
 - page 14 -
 
-DRAFT/SAF-OIPR/H.Gaiser/75630/1079064
+DRAFT/SAR-OIR3/H.Gallaer/7530/1073954
 
 Dear Mr. Harvey:
 
-The Air Force has completed an investigation made at your request, of an unusual aerial phenomena reported in the Port Huron Times-Herald of November 12, 1963.
+The Air Force has completed an investigation made at your request, of an unusual aerial phenomena reported in the Fort Haron Times-Herald of November 12, 1963.
 
-U.S. Air Force Technical Information Forms were furnished to Deputy Sheriffs Robert Baker and Merle Clark in order that they could provide as detailed an account as possible of the sighting. Upon receipt of their report, Dr. J. Allen Hynek, Director, Dearborn Observatory, Northwestern University, and civilian scientific consultant to the Air Force on the UAP program, talked by telephone with Deputy Baker. As a result of this conversation, and of Deputy Baker's report, it is believed that the object sighted was a helicopter. While efforts to identify a specific helicopter proved negative, one had been observed during daylight hours on subsequent days by other persons in the area, and their stories of the observations were carried in local newspapers.
+U.S. Air Force Technical Information Forms were furnished to Deputy Sheriffs Robert Baker and Maria Clark in order that they could provide as detailed an account as possible of the sighting. Upon receipt of their report, Dr. J. Allen Hynek, Director, Dearborn Observatory, Northwestern University, and civilian scientific consultant to the Air Force on the UAP program, talked by telephone with Deputy Baker. As a result of this conversation, and of Deputy Baker's report, it is believed that the object sighted was a helicopter. While efforts to identify a specific helicopter proved negative, one had been observed during daylight hours on subsequent days by other persons in the area, and their stories of the observations were carried in local newspapers.
 
 Sincerely,
-
 
 - page 15 -
 
 MEMORANDUM FOR DIRECTOR OF LEGISLATIVE LIAISON, SAF-OS
-ATTENTION: SAF-LLL, MAJOR STEWART
+ATTENTION: SAF-LLI, MAJOR STEWART
 
 SUBJECT: Request of Congressman Harvey for Information
 on an Unidentified Flying Object Sighting
 
 Reference request from Congressman Harvey for an
 evaluation of a UFO sighting which was reported in the
-Port Huron, Michigan Times-Herald of November 12, 1963,
-and our information reply to him on the subject.
+Fort Huron, Michigan Times-Herald of November 12, 1953,
+and our interim reply to him on the subject.
 
 Attached is draft of proposed follow-up letter
 concerning the Air Force investigation of this sighting.
 
-G. R. CARLSON
+
+C. R. CARLSON
 Colonel, USAF
 Deputy Chief
 Public Information Division
 Office of Information
 
-1 Attachment
+1 attachment
 Draft of reply
 
 
+[handwritten: F R]
+[handwritten: SAMPLE 4/6/49]
+
 - page 16 -
 
-HQAFL-2/Col Fowler/sgj5/213/11 Dec 64
-CAFB-2-7310
+GAFID-1/COL Powell/3d/7/13/11 Feb 64
+GAFID-274310
 UFO
 
-SUPPLEMENTAL INFORMATION
+CONFIDENTIAL INFORMATION
 
-Dear Mr. Harvey:
+Dear Dr. Harvey:
 
-The Air Force has completed an investigation made at your request, of an unusual aerial phenomena reported in the Fort Chimo-Knob of November 12, 1963.
+The Air Force has completed an investigation made at your request, in the unusual aerial phenomena reported in the Fort Worth Herald of November 19, 1963.
 
-United States Air Force Technical Information forms were forwarded to Deputy District of Newfoundland in order that they could provide as detailed an account as possible of the sighting. The forms, which include a statement by A. Blain, Mgr., Director, Earban Observatory, Northwestern University, and William Loganoski, scientific consultant to the Air Force with Deputy District of Newfoundland, concerning the aerial phenomena, talked by telephone with Deputy Chief, Air Force Intelligence, and a summary made. Based on this report, it is believed that the object sighted was a helicopter. While a review to identify a specific helicopter proved negative, the fact that a Canadian Army helicopter was midway by other persons in the area, and their stories of the occurrence, are pertinent.
+United States Air Force Technical Information office were requested to Deputy Director Howard Roser and Norris Kline of Cedar Crest they could provide us detailed an account as possible regarding the sighting. We talked with Dr. Hipple Director, Dennberg Observatory, Northwestern University, and civilian scientific consultants to the Air Force on the [illegible] investigation. Further, through a subsequent interview Deputy Bauer, as a result of this conversation and of Deputy Bauer's request, it is believed that the object sighted was a helicopter. With efforts to identify a specific helicopter grounded received, one had been observed during daylight hours on subsequent days by other persons in the area, and their reports of the observations were carried in local newspapers.
 
-Your interest in this matter is appreciated. It is hoped that this information will be helpful.
+Your interest in this matter is appreciated. It is hoped these this information will be helpful.
 
 Sincerely,
-[Signature section with partially illegible text]
-Bruce Harvey
+
+D/L Prepared 11 Feb 64 based
+on info in memo fr SAFOI dtd 10
+Feb 64; A/D is Col Carlson:
+Data consists of memo and brifs
+for SAFOI.
+[illegible] James Harvey
+
 Chief of Representatives
 
+[Stamped/marked sections at bottom]
+OSI - USAF
+[illegible]
+SAC-JUN
+WHIN JUN
+
+SAFOI
+[illegible]
 
 - page 17 -
 
 Port Huron Times Herald
-907 SIXTH STREET • PORT HURON, MICHIGAN • Yukon 5-7171
+
+807 SIXTH STREET • PORT HURON, MICHIGAN • YUkon 5-7171
+
+F. Cramer Vail
+President and Editor
+
+[handwritten: illegible signature]
 
 Dec. 27, 1963
 907 Sixth St.
@@ -576,106 +620,141 @@ These sightings have occurred periodically since Nov. 12.
 
 To date there has been no explainable reason given for these mysterious objects.
 
-Our interest is just as great as yours, and if possible I would like to be informed of your studies and findings, regarding these sightings and other data that you have investigated concerning this matter.
+Our interest is just as great as yours, and if possible I would like to be informed of your studies and findings regarding these sightings and other data that you have investigated concerning this matter.
 
-The Times Herald will be glad to assist you wherever possible and for further help or assistance do not hesitate to call upon me.
+The Times Herald will be glad to assist you wherever possible and for further help or assistance do not hesitate to call upon us.
 
 Sincerely
+
+[handwritten: John F. Brown signature]
+
 John F. Brown
 Reporter
 
 JFB/rh
 
-
 - page 18 -
 
-Here is the text from the document:
+[illegible section at top of page]
 
-WINDS OBSERVED ISND, STC 45274 ST. 16/15, 162 27/16 207/25,
+(C) UFOS OBSERVED 25SEZ, SFO 2327/4 AT 14/17/z, 15Z 27/14 2M/E27/Z,
+2M E7/24 25M E27/25, 2M WA (Z) A 50Z EM; TEMP EM (K) 2 MILES
 
-FLIGHT CLOUD COVER (3) NONE (77) 95% OR 32 SOUNDING, APPROX
+(E) SLIGHT CLOUD COVER (Z) NGHT (7) 25Z/Z7 Z SOMEWHERE APPOX
 
-INDICATION THAT TN INVERSION WAS RISING AND BREAKING UP AT THE
+WC 5.5 C, 2.5M PLUS 1 C, 7.2M PLUS 5 C, 1EM PLUS 6 C, 1EM - 15 C,
+--- - 43 C, 1EM - 31 C, 42.5M - 03 C, 42M - 39 C, 53M - 3E.5 C,
 
-PK (K77) REMARKS, PARAGRAPH 141, INTERCEPTION OR IDENTIFICATION
-
-CENTRAL DIRECTION, NO AIRCRAFT OR BALLISTIC TRAFFIC IN AREA OF
-
-SIGHTING. A CWC VTL LOCAL AREA STATION INDICATED THEY WERE
-
-TRACKING NOTHING. PARAGRAPH 144, POSITION TITLE AND COMMENTS OF
-
-PLANS AND INTELLIGENCE OFFICER, PARAGRAPH 144, EXISTENCE OF
-
+INDICATION THAT M INVERSION WAS RISING AND BREAKING UP AT TIME
+Z5 AFT 3Z, PARAGRAPH 14D, ANY OTHER UNUSUAL ACTIVITY OF CONDITION,
+NEZ 5(7) WRECKAGE, PARAGRAPH 14I, INTERCEPTION OR IDENTIFICATION
+CTION TAKEN, N/A. PARAGRAPH 14J, LOCATION: APPROXIMATE ALTITUDE
+--- GENERAL DIRECTION, NO AIRCRAFT OR BALLOON TRAFFIC IN AREA OF
+SIGHTING. A CALL VTI LOCAL AERO STATION INDICATED THEY WERE
+[illegible] WORKING NORTHWEST. PARAGRAPH 14K, POSITION TITLE AND COMMENTS OF
+--- PREPARING OFFICER, MAJOR WILLIAM E. KINDLER, ISATH A3 5G
+LANE AND INTELLIGENCE OFFICER. PARAGRAPH 14L, EXISTENCE OF
 PHYSICAL EVIDENCE, NONE.
-
-Note: Some parts of the text are partially cut off or difficult to read completely, so I've transcribed what I could clearly make out.
-
 
 - page 19 -
 
-TAB
+Tab
 
-A     Ltr to Selfridge AFB dtd 7 Jan 64
-B     Deputy Baker FTD Form 164
+A     Ltr to Sailfields AFB dtd 7 Jan 64
+
+B     Dewey Baker FID Form 164
+
 C     Congressman Harvey Correspondence
-D     Fort Huron Times Herald Clippings and Correspondence
-E     Miscellaneous Data
 
+D     Port Huron Times Herald Clippings and Correspondence
+
+E     Miscellaneous Data
 
 - page 20 -
 
-OFFICIAL FILE COPY
+[stamp: OFFICIAL USE COPY]
 
-INDW/Sgt Moody/59216
+[handwritten: 12 JAN 63]
+
+AFCIR/TIGF body/59216                                [handwritten: F]     1964
+
 Request for Information on UFO Sighting
 
 Commander
-Selfridge AFB, Michigan
+Self ridge AFB, Michigan
 
-1. We have received a report of a UFO sighting, by Deputy Sheriff Robert Baker of Saint Clair County, Michigan, which took place on the night of 12 Nov 63 in Port Huron, Michigan. This sighting was not reported to USAF for investigation in accordance with AFR 200-2. However, various articles in the local newspapers contained an evaluation of this sighting. FTD Form 164 was sent to the principal witness for compilation and the form was returned to FTD on 13 Dec 63.
+1. We have received a report of a UFO sighting, by Deputy Sheriff
+Robert Baker of Saint Clair County, Michigan, which took place on
+the night of 12 Nov 63 in Port Huron, Michigan. This sighting was
+reported to the USAF for investigation in accordance with AFR
+200-2. However, various articles in the local newspapers reached
+Congressman James Harvey and he requested an evaluation of this
+sighting. FTD Form 164 was sent to the principle witness for com-
+pletion and the form was returned to FTD on 13 Dec 63.
 
-2. On 19 Dec 63 Doctor J Allan Hynek, from Northwestern University and consultant to the Air Force's project on UFO's, contacted Deputy Baker by telephone. During this conversation it was determined that the most probable cause for the sighting was a helicopter. Mr Baker also indicated that the object was sighted near the area and their observations were carried in the local newspapers. Deputy Baker indicated, as of this date, however, that they have not been received by this office.
+2. On 19 Dec 63 Doctor J Allan Hynek, from Northwestern University
+and consultant to the Air Force's project on UFO's, contacted Deputy
+Baker by telephone. During this conversation it was determined that
+the cash probably cause for the sighting was a helicopter. Deputy Baker
+also indicated that the object he sighted had been observed on
+succeeding days by various persons in area and their observations
+were reported in the local newspapers. Deputy Baker indicated that
+he would send copies of these newspaper items, however, as of this
+date they have not been received by this office.
 
-3. We are anxious to complete our evaluation of this case and report our findings to Commanding General USAF (SAFOI-PS). Although there has been a delay of more than two months we request that an effort be made to identify a specific or any possible helicopter activity in this area during the reported period of the sighting.
+3. We are anxious to complete our evaluation of this case and re-
+quest our findings to Congressman Harvey through his USAF (SAFOI-PS).
+Although there has been a delay of more than two months in request
+that an effort be made to identify a specific or any possible
+helicopter activity in this area during the reported period of the
+sighting.
 
 4. We are attaching copies of pertinent correspondence.
 
 FOR THE COMMANDER
 
-ERIC T de JONCKHEERE
-Colonel, USAF
+
+BRIG T de JONCKHIERS              1 Atch
+Colonel, USAF                      Pertinent correspondence
 Deputy for Technology
-and Subsystems
-
-1 Atch
-Pertinent correspondence
-
+and Observations
 
 - page 21 -
 
 HEADQUARTERS
 SELFRIDGE AIR FORCE BASE
+AND
 1ST COMBAT SUPPORT GROUP
 UNITED STATES AIR FORCE
 SELFRIDGE AIR FORCE BASE, MICHIGAN
 
 REPLY TO
-ATTN OFF: 1CBOT
+ATTN OF: ICBOT
+
 SUBJECT: UFO Sighting
 
-TO: FTD (TDEW/UFOB)
+JAN 2 1964
+
+TO: FTD (TDEW/UFO)
 Wright-Patterson AFB Ohio 45433
 
-1. Reference your letter, subject: Request for Information on UFO Sighting, dated 7 Jan 64, concerning a UFO sighting on 12 Nov 63 in Port Huron, Michigan.
+1. Reference your letter, subject: Request for information on UFO
+sighting, dated 7 Jan 64 concerning a UFO sighting on 12 Nov 63 in
+Port Huron, Michigan.
 
-2. Attached is a copy of the original account of the sighting from the 12 Nov 63 issue of the Port Huron Times Herald. Since Deputy Baker indicated he would send copies of these items to you, no research was made for the articles on succeeding days.
+2. Attached is a copy of the original account of the sighting from
+the 12 Nov 63 issue of the Port Huron Times Herald. Since Deputy Baker
+indicated he would send copies of these items to you, no research was
+made for the articles on succeeding days.
 
-3. A check was made with local Air Force and Army helicopter units and with the Detroit Flight Service Station concerning this sighting. The helicopter units had no flights and FAA had no flight plans in the area during the referenced period.
+3. A check was made with local Air Force and Army helicopter units
+and with the FAA Detroit Flight Service Station concerning this sighting. The helicopter units had no flights and FAA had no flight plans
+in the area during the referenced period.
 
 FOR THE COMMANDER
 
-F. L. BROKAW
+[handwritten signature]
+F. E. BROKAW
 Major, USAF
 Chief, Base Operations
 and Training Division
@@ -683,98 +762,175 @@ and Training Division
 1 Atch
 Newspaper Article
 
-
 - page 22 -
 
-'STRANGE 'LIGHT' OBSERVED
+'STRANGE LIGHT' OBSERVED
 
 Deputies See Object In Sky
+
 By JOHN F. BROWN
+Times Herald Reporter
 
-"People will say we are crazy," Deputy Sheriffs Robert Baker and Merle Clark said today. They were asked to describe what they saw last night.
+"People will say we are crazy when shortly before 5 a.m. today Sheriff Rod Baker and Merit Clark, patrol deputy were asked if he had heard about a "strange light" sighted by officers on patrol early today.
 
-THEY DIDN'T say they saw flying saucers or little green men, but they did say something very strange happened when they were out on routine patrol.
+THEY DIDN'T say they saw any green men, but they did say they saw and heard something strange.
 
-The officers were very specific in their story, and for their experience, for today a peculiar story has a place in the blare of something not of the ordinary... especially from a "pat" by his fellow man.
+"The officers were very reluctant to talk about their experiences, for many a person has been laughed at of a similar occurrence," a "trust" by his fellow man.
 
-But remember when they thought the World was flat... Even this Times Herald rep. to his companion, "There is something odd."
+But remember when they thought the World was flat—
 
-The officers pulled over to the Continued on Page 11, Col. 3
+Even this Times Herald re-to his campaignon, "There is, better was a little a logical something odd," The officers pulled over on the Continued on Page 11, Col. 3
 
-3 Others Also See 'Object'
-Three other persons have collaborated the story of a "strange light" observed in the sky early today.
+* * *
 
-Robert J. Kemp, 3063 Sylvan Drive, Lakeport, who was in the way way work at St. Charles Community Hospital, said that when he came out of his house between 5:15 and 5:20 a.m. there was a main sound that drew his attention skyward. He said there was a light that moved in the direction of Lake Huron.
+3 Others Also See Object
 
-"I thought it was very strange for the sound was very peculiar and the light was never heard before," Mr. Kemp said.
+Three other persons have collaborated the story of the Deputies who o b s e r v e d the strange object in the sky early today.
 
-Ralph E. Jordan, 15, of 4537 Keewahdin Road who was walking with his father after feeding some steers about 5:20 a.m., and his father also saw the strange light.
+Robert J. Kemp, 943 Sylvan Drive, Lakeport, who was not in his way in work at El Charro Community Hospital, said that when he came out of his house around 5:10 a.m., there was a whiz sound that drew his attention upward.
 
-"We didn't hear anything, but the light was flashing, and it was big in the sky—and it sure was a very strange feeling about you," young Ralph said.
+There was a flashing white light that moved in the direction of Lake Huron.
 
+"I thought it was very strange for the some very high-pitched and one that I had never heard before," Kemp said.
+
+Ralph E. Jordan, 18, of 4131 Keewahdin Road who was walking out of a barn with his father after feeding some steers about 5:30 p.m., said he and his father also saw the strange light.
+
+"We didn't hear anything, but the light was flashing and it moved to the north. It was very high in the sky—and it sure gives a scary feeling about you," young Ralph said.
 
 - page 23 -
 
-Here is the OCR text from the document:
-
 (Continued from Page One)
 
-shoulder of the road and stared at what they said was "a flicker" high in the sky."
+shoulder of the road and stared r
+at the sky. They said they saw a flick-
+ering light in the sky."
 
-They said it seemed to be hovering over the apple orchard near Kewaunee.
+"It said it seemed to be
+hovering over the apple orchard
+near Kewsahn.
 
-Deputy Baker, an officer with 14-years of service behind him, said they could make out no fire, or shape to the object other than it was a flashing light that could move in an direction.
+Deputy Baker, an officer with
+13-years of service behind him,
+said they could make out no size
+or shape to the object other
+than in a flashing light that
+could move in an direction.
 
-"It seemed at times that three was a big divided window in there," Baker said. "But I couldn't be sure."
+"It seemed at times that there
+was a big divided window in the
+center of the flashing light, but
+I couldn't be sure," Deputy
+Baker said.
 
-Deputy Baker and the object came low, about the height of a City block.
+He said the object came low,
+hovered at height and distance
+of a City block.
 
-"Then, as it came, the object seemed to move out toward the north east and we attempted to follow it," Baker said.
+"Then, as it came, the object
+seemed to move out toward the
+north east and we attempted
+to follow it," Baker said.
 
-THE OFFICER said they reached speed up to 15 miles an hour trying to track away from us.
+THE OFFICER said they
+reached speed up to 75 miles
+per hour, but the object just
+ran away from us."
 
-This time, the officers turned out the car lights and shined toward the object.
+"They said they lost sight
+of the object on Lake Shore
+Road because of street
+lights, but when they turned
+onto Metcalf Road and
+headed in the area of Vineyard
+Road they sighted the ob-
+ject again.
 
-The patrol car was now toward the object. They seemed much closer to the object.
+This time, the officers turned
+out the car lights and shined
+spotlights of the patrol car to-
+ward the object.
 
-The officers then turned their flashing light on top of the patrol car and in a few moments they said the object seemed only had a flashing white light, but it seemed the object was flashing a red light back.
+The blinking light in the sky
+seemed much closer to them.
+The officers then turned on
+a white light on top of the
+patrol car and in a few mo-
+ments they said the object one
+only had a flashing white light,
+but it seemed that it was flash-
+ing a red light back.
 
-Deputy Baker said the object was still in the sky and he could hear the sound of motors.
+Deputy Baker said the object
+this time seemed to be standing
+still in the sky and he could
+hear the sound of motors.
 
-The patrol car was stopped, and the ignition off when they all heard the sound of motors.
+The patrol car was stopped
+and the officers were when the of-
+ficers heard the sound of
+motors.
 
-Then, fading in noise, all of a sudden the noise be came louder and more powerful and began to move off into the north west section of the sky, he said.
+"It seemed to idle and then
+all of a sudden, the noise be-
+came louder and more power-
+ful and began to move off into
+the south west section of the
+sky," he said.
 
-THE OFFICERS were not sure themselves what they saw and heard what they did. At first they were not going to say anything about what happened, but they decided it would be best to let someone know.
+THE OFFICERS said they
+watched the mysterious object
+disappear into the heavens until
+it was just a speck lost among
+the stars.
 
-Maybe there was something to it, and maybe there wasn't. A trick of the imagination, or phenomena, but never the less Clark had something that they well knew.
+The officers were not sure
+themselves that they had seen
+anything. They didn't want to
+say anything about what
+had happened. They decided
+it would be best to let someone
+know.
 
+Maybe there was something
+and maybe there wasn't — a
+trick of the imaginations, or phe-
+nomena, but never the less, of
+something red Clark had
+something happen that they will
+not soon forget.
 
 - page 24 -
 
-Here is the text from the document:
+Gentlemen:
 
-Headquarters
-Air Force Systems Command
-Andrews Air Force Base
-Washington 25, D.C.
+With respect to your recent inquiry relative to the alleged UFO
+incident at Kindly Air Force Base on 9 November 1963, we wish to advise
+that we have completed our investigation of this matter.
 
-Enclosed are two copies of AF Form 164b, which you will find will show a complete record of the photos taken of the unusual aerial phenomena which you requested.
+Since the Air Force has no factual evidence that would support the
+hypothesis that would place other extra-terrestrial visitors in the
+skies above our country, in our view, a conclusion fully in accord with
+our findings.
 
-Upon completion of our investigation, we will advise you of the results.
+Enclosed are two copies of the "Air Force Form 112"
+U.S. Air Force Aircraft Accident and Incident Report which
+has been prepared to meet the requirements of this headquarters. In the
+event envelopes are provided for your review. Upon completion of our investigation, we will advise you of the
+results.
 
 Sincerely,
 
-HAROLD J. JACKS
+[handwritten: signature]
+
+WESLEY H. JAMES
 Major, USAF
 Public Information Division
 Office of Information
 
-Deputy Director of Systems Policy
-Attn: Chief, Clark
-Scientific Office
-Washington, Michigan
-
+Berkley Sheriffs James Baker
+Sheriffs Office
+Box 7 N.
+S.E. 7th, Michigan
 
 - page 25 -
 

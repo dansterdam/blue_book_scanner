@@ -1,53 +1,50 @@
-PROJECT 10073 RECORD CARD
+1. DATE: 6 Aug 60
 
-1. DATE
-6 Aug 60
+2. LOCATION: Sandersville, Georgia
 
-2. LOCATION
-Sandersville, Georgia
+12. CONCLUSIONS: 
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
 
-3. DATE-TIME GROUP
-Local: 2345
-GMT: 07/0445Z
+3. DATE-TIME GROUP:
+Local 2345
+GMT 07/0445Z
 
-4. TYPE OF OBSERVATION
-Ground-Visual
+4. TYPE OF OBSERVATION:
+☒ Ground-Visual
+☐ Ground-Radar
+☐ Air-Visual
+☐ Air-Intercept Radar
 
-5. SOURCE
-Civilian
+5. PHOTOS:
+☐ Yes
+☒ No
 
-6. PHOTOS
-No
+6. SOURCE: Civilian
 
-7. LENGTH OF OBSERVATION
-20 sec - 1 min
+7. LENGTH OF OBSERVATION: 20 sec - 1 min
 
-8. NUMBER OF OBJECTS
-4-6
+8. NUMBER OF OBJECTS: 4-6
 
-9. COURSE
-NW
+9. COURSE: NW
 
-10. BRIEF SUMMARY OF SIGHTING
-Dots of light about size of a grain of corn, white and greenish-blue. V-type or echelon formation with 3 or 4 lights on each side of V. Traveled at arrat speeds, alternating slow and fast. Held a straight course and did not execute any maneuvers. Disappeared instantaneously to the NW.
+10. BRIEF SUMMARY OF SIGHTING:
+Dots of light about size of a grain of corn, white and grayish-blue. V-type or echelon formation with 3 or 4 lights on each side of V. Traveled at erratic speeds, alternating slow and fast. Held a straight course and did not execute any maneuvers. Disappeared instantaneously to the NW.
 
-11. COMMENTS
+11. COMMENTS:
 Information received is vague and conflicting. No conclusion can be reached. Due to evaluation of no threat and difficult access to witnesses, no follow-up is being made. Case listed as Insufficient Data.
 
-12. CONCLUSIONS
-Boxes are unchecked for:
-- Was Balloon
-- Probably Balloon
-- Was Aircraft
-- Probably Aircraft
-- Was Astronomical
-- Probably Astronomical
-- Other
-- Insufficient Data for Evaluation
-- Unknown
-
-ATIC FORM 329 (REV 26 SEP 52)
-
+ATIC FORM 329 (REV 26 SEP 53)
 
 - page 1 -
 
@@ -58,173 +55,249 @@ OHIO
 
 UFO SIGHTING
 
-Received a call from the Command Post Duty Officer, Major J. E. Edwards, Warner-Robbins AFB, Ga. who passed on information to us relating to an UFO sighting. His was third party information since it was passed to him by the Officer of the Day who actually interviewed the individuals reporting the sighting.
+Recived a call from the Command Post Duty Officer, Major J. E.
 
-Mr. [redacted] observed the object and was corroborated by Mr. [redacted] of the same city. Observation was made at approximately 2345 EST 5 Aug 60 at Sandersville, Ga. which is 3 miles from Tennell. Object was estimated at 1000 feet altitude and observed for a period of 2 to 3 seconds. Appeared as varying pulsating white light of great intensity proceeding on a north to south course. Course was non-orbital and appeared erratic. Definitely not a rotor in the estimation of the observers. Sheed of the object was excessive however, had no definite shape.
+Edwards, Warner-Robbins AFB, Ga. who passed on information
 
-The Officer of the Day, Captain Mitchell questioned the observers resulting in the above information and can be reached Warner-Robbins, Ga.
+to us relating to an UFO sighting. His was third party information
 
-Edwards, is weather conditions at the time of the sighting, whether the observation was made while in a vehicle, etc., however he could not offer any more since he was not directly involved. Didn't think it was proper or result in much more information by calling Warner-Robbins and talking to Captain since he was not directly involved, nor the individuals concerned.
+since it was passed to him by the Officer of the Day who actually
 
+interviewed the individuals reporting the sighting.
+
+Mr. [redacted] observed the object and
+
+was corrobrated by Mr. [redacted] in the same city. Observation
+
+was made at approximately 2345 EST 5 Aug 60 at Sandersville, Ga. which
+
+is 3 miles from Tennill. Object was estimated at 1200 feet altitude
+
+and observed for a period of 2 to 3 seconds. Appeared as varying pulsating
+
+white light of great intensity proceding on a north to south course.
+
+Course was non-orbital and appears erratic. Definately not a motor
+
+in the estimation of the observers. Speed of the object was excessive
+
+however, had no definite shape.
+
+The Officer of the Day, Captain Witchal questioned the observers
+
+resulting in the above information and can be reached Warner-Robbins, Ga.
+
+[redacted] Attempted to get additional information from Major
+
+Edwards, is weather conditions at the time of the sighting, whether the
+
+observation was made while in a vehicle, etc, however he could not offer
+
+any more since he was not directly involved. Didn't think it was proper or
+
+result in much more information by calling Warner-Robbins and talking
+
+to Captain since he was not directly involved, nor the individuals concerned
 
 - page 2 -
 
 because of the late hour, 0115.
 
-GEORGE P. WENOSKI
+[handwritten: signature]
+GEORGE F. ENOVSKY
 CAPTAIN USAF
 STAFF DUTY OFFICER
 
-
 - page 3 -
-
-JOINT MESSAGEFORM
 
 SECURITY CLASSIFICATION: UNCLASSIFIED
 
-ACTION: ROUTINE
-INFO: AF
-FROM: ORIG
+JOINT MESSAGEFORM
 
-TO: ATIC, W-P AFB
-     ROBINS AFB, GA
+SPACE BELOW RESERVED FOR COMMUNICATION CENTER
 
-/UNCLASSIFIED/FROM: AFC IN-L52x 8-21(3-C
+PRECEDENCE: ACTION ROUTINE
+INFO: [blank]
+FROM: ATIC, W-P AFB
 
-ATIC RECEIVED A PHONE CALL FR MAJ J. E. EDWARDS RPTG THE SIGHTING
-OF AN UFO ON 6 AUG 60. THE SIGHTING WAS MADE BY M[ILLEGIBLE] OF
-TENNELL, GA, AND WAS CORROBORATED BY M[ILLEGIBLE] OF THE
-SAME CITY. VERY LITTLE INFO WAS RPTD; THEREFORE, IT IS REQUESTED
-THAT AN INVESTIGATION BE MADE IN ACCORDANCE WITH AFR 200-2, 14
-SEP 59.
+TYPE MSG (Check): [X] BOOK [ ] MULTI [ ] SINGLE
 
-DATE: 11   TIME: 1225
-MONTH: AUG  YEAR: 1960
+ACCOUNTING SYMBOL: AF
 
-TYPED BY: Robert J. Friend
+ORIG. OR REFERS TO: ORIG
 
-TYPED (or stamped) NAME AND TITLE:
-PHILIP G. EVANS
+CLASSIFICATION OF REFERENCE: [blank]
+
+SPECIAL INSTRUCTIONS: [blank]
+
+TO: ROBINS AFB, GA
+
+/UNCLASSIFIED/FROM: AFCIN-482x
+
+ATIC RECEIVED A PHONE CALL FR MAJ J. E. EDWARDS RPTG THE SIGHTING OF AN UFO ON 6 AUG 60. THE SIGHTING WAS MADE BY M[REDACTED] OF TENNELL, GA, AND WAS CORROBORATED BY M[REDACTED] OF THE SAME CITY. VERY LITTLE INFO WAS RPTD; THEREFORE, IT IS REQUESTED THAT AN INVESTIGATION BE MADE IN ACCORDANCE WITH AFR 200-2, 14 SEP 59.
+
+DATE: 11
+TIME: 1225
+MONTH: AUG
+YEAR: 1960
+
+SYMBOL: AFCIN-482x
+SIGNATURE: [handwritten signature]
+
+TYPED NAME AND ORGANIZATION: Robert L. Friend
+
+PHONE: 69216
+PAGE: 1 OF 1
+
+SECURITY CLASSIFICATION: UNCLASSIFIED
+
+TYPED (or stamped) NAME AND TITLE: PHILIP G. EVANS
 Colonel, USAF
 Deputy for Science and Components
 
-UNCLASSIFIED
-PAGE 1 OF 1
-
+DD FORM .173     REPLACES DD FORM 173, 1 OCT 49, WHICH WILL BE USED UNTIL EXHAUSTED
 
 - page 4 -
 
+[stamp: DECLASSIFIED]
+
 RD263
-CZCS0E943ZCVYA045
-RR RJESO
-DE RJESDN 27A
-R 162107CZ
-FM 2855D AIP BASE WING ROBINS AFB GA
-TO ATIC WPAFB OHIO
-ET
+CZCSOE943ZCVYA345
+RR RJEPSN
+DE RJEPSN 27A
+R 162106Z
+FM 2853D AIR BASE WING ROBINS AFB GA
+TO ATIC WPAFE OHIO
+BT
 UNCLAS WRBB-8-4-E RE AFCIN-4-3-2X. INVESTIGATION HAS BEEN
 CONDUCTED BY THIS OFFICE AND REPORT WILL BE SUBMITTED UPON
 COMPLETION.
-ET
-16/2307CZ AUG RJESDN
+BT
+15/2322Z AUG RJEPSN
+
+[handwritten: Schelzpe
+will call]
+
+[handwritten: 41
+7  27  19 JUL 23
+3  4X24
+1
+Mu land
+mu  J-24E
+4-E2X]
+
+[stamp: GO SEARCHROOM LOG]
 
 NNNN
-
 
 - page 5 -
 
 HEADQUARTERS
-2853D AIR BASE WING
+2830 AIR BASE WING
 United States Air Force
 Robins Air Force Base, Georgia
-Range, Forecast Archival Division
+ATTN AFOIN-4C
 
-10 Aug 60
+REPLY TO
+ATTN OPI
+
+18 Aug 60
 
 SUBJECT: Unidentified Flying Object
 
-TO: AFCIG (ATIC), Wright-Patterson AFB, Ohio
+TO: Commander (AFSS), Wright-Patterson AFB, Ohio
 
-1. Reference is made to your teletype AFCIG-L322 G-2463-, pertaining
-to MIG receiving a telephone call from Major J. S. Edwards reporting
-the sighting of an UFO on 6 Aug 60 by J. C. Cannille of Sandersville,
-Georgia, which was corroborated by J. [redacted] the same
-city.
+1. Reference is made to your teletype AFOL-4BZX U-2845-7, pertaining to UFO receiving a teletype call from Major J. E. Edwards reporting the sighting of an UFO on 6 Aug 60 by Sandersville, Georgia, which was corroborated by F. [redacted] the same day.
 
-2. An investigation was conducted by this headquarters on 17 Aug 60
-in accordance with AFR 200-2. The following report is submitted:
+2. An investigation was conducted by this headquarters on 17 Aug 60 in accordance with AFM 200-2. The following report is submitted:
 
-a. Description of the object:
+3. Description of the contact s/:
 
-(1) Shape: Pear of light.
-(2) Size: About the size of a palm of hand.
-(3) Color: Blue - reddish-blue.
-(4) Number: None as far as could tell.
+(1) Shape: One of lozenge.
 
-(5) Duration: Three or occasion four or three or four lights
-on one side of V and two or three lights on other side of V.
+(2) Size: About the size of a Twin of corn.
 
-(6) Describable features or details: Not easily sighted in
-detail.
+(3) Color: Grayish-white-blue.
 
-(7) Path, trail, or maneuver: None.
-(8) Sound: Not audible.
+(4) Brightness: Low to air as for as could tell.
 
-(9) Other pertinent features: Hovering at
-precise angles, altering slow altitude.
+(5) Duration: Across on horizon with shape or four lights on one side of V and one or three lights on other side of V.
 
-3. Description of source of object: [partially redacted]
-(1) This type sighting not unlike previous observation
+(6) Remarkable features or details: Red color object in glide. Details were not discernible.
 
-[rest of document appears to be redacted or cut off]
+(7) Tail, trail, or appendage: [illegible].
 
+(8) Sound: No audible.
+
+(9) Other remarks or unusual features: Traveling at amazing speeds, alternating slow and fast.
+
+4. Description of course of object s/:
+
+(1) First three visible and observed observation [redacted] to S by NW [redacted] direction is [illegible].
 
 - page 6 -
 
-(2) Angle or elevation upon first observed: About 50 degrees above the west northwest, bearing northwest at elevation 14 and low course.
+(b) Angle or elevation when first observed: About 50 degrees east overhead, traveling northwest at alternating high and low speeds.
 
-(3) Angle or elevation upon disappearance: Disappeared into the clouds and obscured with the sides in a northwest direction.
+(3) Angle or elevation upon disappearance: Disappeared into the clouds and climbed into the clouds in a northwest direction.
 
-(4) Description of flight path: Held a straight course and did not execute any maneuvers.
+(4) Description of flight path: Had a straight course and did not execute any maneuvers.
 
 (5) How did the object disappear: Instantaneously to the northwest.
 
-(6) How long was the object a) visible: Estimated to range from 20 seconds to 1 minute.
+(6) How long was the object s) visible: Estimated to range from 20 seconds to 1 minute.
 
-c. Manner of observation:
+C. Manner of observation:
+
 (1) Ground visual.
-(2) Radar area - no optical aide.
-(3) Sighting was not near aircraft.
 
-d. Time and date of sighting:
-(1) 0930, 6 Aug 60.
-(2) Weather conditions: Clear.
+(2) Naked eyen - no optical aide.
 
-(Page number at bottom: 2)
+(3) Sitting was in plane from airport.
 
-Note: Some sections are blacked out/redacted, so those specific details are not visible.
+4. Time and date of sighting:
 
+(1) U.S.D.T, 4 Aug 60.
+
+(2) Light conditions: Dark.
+
+[large redacted section]
+
+5. Weather and Winds:
+
+(1) Observer: Ently clear with usual winds.
+
+(2) Report from nearest weather sources:
+
+(a) Wind direction: E.N.E.
+
+(b) Velocity (at surface): Four (4) knots.
+
+(c) Ceiling: 4,000 broken and 9,000 overcast.
+
+2
 
 - page 7 -
 
-Here is the text from the document:
-
 (a) Velocity: 10 miles.
 
-(c) Cloudst 0.8; East through S.W. moving NE (occasional lightning in clouds east through southwest).
+(c) Clouds: C.B. East through U.S. owing U.E (occasional lightning in clouds east through southwest).
 
-(c) Temperature: 76°.
+(c) Temperature: 74°.
 
-h. No unusual activity or conditions which might account for the sighting.
+b. No unusual activity or conditions which might account for the sighting.
 
-1. No interception or identification taken locally.
+i. No intersection or identification taken locally.
 
 4. No local information available as to air traffic or balloon releases which could possibly have accounted for the sighting in the area.
 
-i. Due to distance from the area in question (approximately 8 miles) and the fact that no control since the initial sighting, neither vital data nor information or radar (G.C.A.) was available, nor was it possible to correlate the sighting with any known ballistic or other aerial activity, the report must be left in a suspended status.
+5. Due to distance from the area in question (approximately 35 miles from the town in which the report was confirmed since the initial sighting, neither vital data nor information of value has been obtained regarding the sighting. However, inasmuch as (a), T (b), U (c), and (d) of the status in narrative b were that civilians or others all ills observed at night and not yet reported their prior to contacting this office, it is assumed that in this case "similar lights" seen the area since the initial A & C eyes sighting.)
 
-[A signature is present at the bottom of the document]
+5. [illegible section]
 
+[handwritten signature]
+
+Maj. [illegible] Melvin
 
 - page 8 -
 

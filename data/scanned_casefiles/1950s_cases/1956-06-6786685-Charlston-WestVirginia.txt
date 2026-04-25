@@ -1,137 +1,146 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE
-28 June 1956
+1. DATE: 28 June 1956
 
-2. LOCATION
-Charleston, West Virginia
+2. LOCATION: Charleston, West Virginia
 
-3. DATE-TIME GROUP
-Local ___________
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other Poss Searchlight
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP: Local _______________
 GMT 29/0325Z
 
-4. TYPE OF OBSERVATION
-Ground-Visual
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
 
-5. PHOTOS
-Yes
-No
+5. PHOTOS:
+[ ] Yes
+[X] No
 
-6. SOURCE
-Civilian
+6. SOURCE: Civilian
 
-7. LENGTH OF OBSERVATION
-1-5 minutes
+7. LENGTH OF OBSERVATION: 4 minutes
 
-8. NUMBER OF OBJECTS
-one
+8. NUMBER OF OBJECTS: one
 
-9. COURSE
-northerly
+9. COURSE: northerly
 if at all
 
-10. BRIEF SUMMARY OF SIGHTING
-One half moon shape object the size of a nickel held at arms length, color of white and changing to bluish. Object was sighted through 7x50 power binoculars for a period of 4-5 minutes. While object was blinking it appeared white in color & while it was continuous it was bluish in color.
+10. BRIEF SUMMARY OF SIGHTING:
+One half moon shape object the size of a nickel held at arms length, color of white and changing to bluish. Object was sighted through 7x50 power binoculars for a period of 4-5 minutes. While object was blinking it appeared white in color & while it was on continuous it bluish in color.
 
-11. COMMENTS
-Since there was ground fog & breaks in the overcast, it is believed that this object was possibly caused from either a searchlight or a spotlight of some sort. Possibly searchlight.
+11. COMMENTS:
+Since there was ground for & breaks in the overcast, it is believed that this object was possibly caused from either a searchlight or a spotlight of some sort. Possibly searchlight.
 
-12. CONCLUSIONS
-Was Balloon
-Probably Balloon
-Possibly Balloon
-
-Was Aircraft
-Probably Aircraft
-Possibly Aircraft
-
-Was Astronomical
-Probably Astronomical
-Possibly Astronomical
-
-Other: Insufficient Data for Evaluation
-Unknown
-
-ATIC FORM 329 (REV 26 SEP 52)
-
+ATIC FORM 329 (REV 25 SEP 52)
 
 - page 1 -
 
-Multi
+[handwritten: Multi]
 
-DMP INTEL 223 AIR TFL 51
+[handwritten: 153.---]
 
-TO RJEBDW/COUER ADC HIT AFB COLO
+[handwritten: 3]
 
-TO RJEEDU/COUER ADC HIT AFB COLO
-MJEDFL/COMD 56TH ADI (DEF) WPAFB OHIO
-MJEDHP/COMD ATIC WPAFB OHIO
-MJEPHO/DIRECTOR OF INTELLIGENCE HQ USAF WASH DC
+[handwritten: 24E41]
 
-BT
+[handwritten: 3]
 
-UNCLASSIFIED/LTL 517-6. SUBJ: FOLLOWING REPORT IS SUBMITTED IN
-ACCORDANCE WITH AFR 200-2, PAR 7D
+[handwritten: 4xDAI]
 
-(A) HALF-MOON
+[handwritten: 153.8]
 
-(B) NICKEL
+RJDFDFL/CDL 117 UFL ST
+
+CM RUDDM JNWUP RJEEPI
+
+DE RJDEFT LJ
+
+ADDRESSED
+
+CM COLDER RUDDM ASHTON OUTRRIE AFD CHAFLESTON W.VA
+
+TO RJEDFL/COLDER ADC EHT AFD COLO
+
+RJEDFDL/CODER 5ETH ADIV (DEF) UFAFE OHIO
+
+RJEDHE/COMER ATIC UFAFE OHIO
+
+RJGFHO/DIRECTOR OF INTELLIGENCE HQ USAF WASH DC
+
+ET
+
+UNCLASSIFIED/LIMIT 517-S. UFOD: FOLLOWING REPORT IS SUBMITTED IN
+
+ACCORDANCE WITH AFR 24-2, PAR TD
+
+. (A) HALF-ION.
+
+(B) MIEHFL
 
 (C) WHITE CHANGING TO BLUISH
 
-(D) 8-
+(D) ONE
 
-(E)
+(E) [illegible]
 
-(F) CIRCULAR WHILE WHITE AND CONTINUOUS WHILE BLUSH
+(F) BRILLIANT WHITE AND CONTINUOUS WHILE BLISH
 
-(G) VA (CONTROL TO BE TOLD PROOF)
+(G) N/A
 
-(H) BLUE LIGHT SEEMED TO BE FLUTTERING
+(H) N/A CONTROL TO LET IS FOND RPOOF)
 
-(I) (A) RELATED TO DC NORTH LIGHT ON A/C AIRCRAFT
+23 JUNE 1956, 0400
 
-(J)
+FROM
 
+(1) BRIGHT LIGHT SEEMED TO BE FLUTTERING
+
+(2) ANY FLARE TO BE MOST LIGHT ON AN AIRCRAFT
+
+(3) [illegible]
 
 - page 2 -
 
-Here is the text from the document:
-
-(U) VISUAL SIGHTING
-
-(U) NOSE IN NORTHERLY DIRECTION IF AT ALL
-
-(U) AS IF LIGHT THEN OUT
-
-(U) FOUR TO FIVE MILES
-
-(U) GROUND VISUAL
-
-(U) SEVEN FIFTY POWER BINOCULARS
-
-(U) N/A
-
-(U) 20/2327
-
-(U) NIGHT
-
-KANAWHA COUNTY AIRPORT CONTROL TOWER
-
-(U) MR. [REDACTED] AND MR. [REDACTED], THIRTY SIX AND FORTY ONE YEARS
-
-[REDACTED], SOUTH CHARLESTON, WEST VIRGINIA
-CHARLESTON, WEST VIRGINIA
-
-(U) CALL (GROUND) AND OVERCAST AT THE TY FIVE THOUSAND (SIGHTED)
-
-(U) POINT SOUTH-EAST AT FIVE, 5, -12, 5, -22, -25, -34,
--35, -65
-
-(U) BROKE ONE THOUSAND, OVERCAST TWENTY FIVE THOUSAND
-
-[Bottom of page contains additional partially legible text]
-
+(2) MOVED IN NORTHWESTERLY DIRECTION IF AT ALL
+( ) AS IF LIGHT THEN OUT
+(E) FOUR TO FIVE MINUTES
+(E) GROUND VISUAL
+(E) GROUND FIFTY POWER BINOCULARS
+(C) N/A
+4. (E) 2200Z
+(C) NIGHT
+5. KANAWHA COUNTY AIRPORT CONTROL TOWER
+6. (A) MR [REDACTED] AND MR [REDACTED], THIRTY SIX AND FORTY ONE YEARS
+OLD; BROWN [REDACTED], SOUTH CHARLESTON, WEST VIRGINIA; [REDACTED]
+[REDACTED] CHARLESTON, WEST VIRGINIA; [REDACTED]
+[REDACTED] (S-1) AND [REDACTED] (S-2)
+7. (A) DARK GROUND AND OVERCAST AT FIVE THOUSAND (TOTAL)
+(B) SOUTH-SOUTHWEST AT FIVE, 5, -12, 1, -12, -3, 7, -3,
+3, -3, -35
+(C) GROUND OUR THOUGHT, OVERCAST TWENTY FIVE THOUSAND
+RARE THINGS SEEN BY
+(A) FIRST HILLY GROUND FOG
+(B) EXHALE IN SUNCOAT
+(C) N/A
+N/A
+N/A
+OBJECT REPORTED
+[illegible section]
 
 - page 3 -
 

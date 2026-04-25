@@ -3,192 +3,227 @@ PROJECT 10073 RECORD CARD
 1. DATE
 5 October 1957
 
-3. DATE-TIME GROUP
-Local 1815
-GMT 06/0015z
-
-5. PHOTOS
-□ Yes
-■ No
-
-7. LENGTH OF OBSERVATION
-4 to 5 seconds
-
-10. BRIEF SUMMARY OF SIGHTING
-A clear shaped aluminum object the 
-size of a fountain pen at arm's 
-length was sighted overhead. A jet 
-noise was heard and then spotted the 
-object.
-
 2. LOCATION
 San Antonio, Texas
 
-4. TYPE OF OBSERVATION
-□ Ground-Visual
-□ Air-Visual
-□ Air-Intercept Radar
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[X] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_____________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-6. SOURCE
+3. DATE-TIME GROUP
+Exact: 1815
+GMT
+06/0015Z
+
+4. TYPE OF OBSERVATION
+[X]D Ground-Viewed
+[ ] Ground-Radar
+[ ] Air-Viewed
+[ ] Air-Intercept Radar
+
+5. SOURCE
 Civilian
 
-8. NUMBER OF OBJECTS
+6. NUMBER OF OBJECTS
 one
 
 9. COURSE
 West
 
+7. LENGTH OF OBSERVATION
+4 to 5 seconds
+
+10. BRIEF SUMMARY OF SIGHTING
+A cigar shaped aluminum object the size of a fountain pen or arm's length was sighted overhead. A jet noise was heard and then spotted the object.
+
 11. COMMENTS
-The source probably saw an a/c, 
-As has been proven lately, many 
-of the late then wing designs (100 
-series) only the fuselage can be 
-see, and not the wings.
+The source probably saw an a/c. As has been proven lately, many of the late when wing designs (100 series) only the fuselage can be see, and not the wings.
 
-12. CONCLUSIONS
-□ Was Balloon
-■ Possibly Balloon
-□ Was Aircraft
-■ Probably Aircraft
-□ Possibly Aircraft
-□ Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other: Insufficient Data for Evaluation
-■ Unknown
-
-ATZG FORM 329 (REV 26 SEP 52)
-
+ATIC FORM 329 (REV 24 SEP 52)
 
 - page 1 -
 
-Here is the text I can read from the document:
+[handwritten: Mitchum 5/6 2015-E]
 
-5 [unclear text above this]
-JEDWP HO45WPE0 19 WYE0 10 L44A004
-HM RJEDWP
+JZJDWP HQ45HPF19 WYE9 10 LIHWPO4          5 0:57 11:37
+
+:::: RJEDUP
 ZDK
-HWAW50
-HM RJEDFN RJEDUP RJEPHW
-DE RJWFHW6E
-M 3 7684 77
+HMA0 50
+NM RJEDEN RJEDUP RJEPHO
 
-Other visible markings:
-9 OCT 57
-11:37
-2464
-3-4x2a
+DE RJWHUSB -
+N 0706472
 
-Some text appears to be handwritten and partially illegible or blurry.
+[handwritten: 2464]
+[handwritten: 3-4X2w]
+[handwritten: REO]
 
+[handwritten: File]
 
 - page 2 -
 
-Here is the text from the document:
+FW COMDR 741 ACWRON LACKLAND AFB TEX
 
-FW COMDR 741 AGWRON LACKLAND AFB TEX
-TO ZEN/RJWFHW/COMDR 33 ADIV OKTTY AF STA OKLA
+TO ZEN/RJWFHW/COMDP 33 ADIV OKCTY AF STA OKLA
+
 INFO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLO
-RJEDWP/COMDR AIR TECHNICAL CENTER WRIGHT PATTERSON AFB OHIO
-RJEPH/DIRECTOR OF INTELL HEADQUARTERS USAF WASHINGTON 25 DC
-BT
-UNCLAS FROM DO 741-10-23 SUBJECT: UFOB REPORT. ITEM ONE- A CIGAR
-FOUNTAIN PEN C ALUMINUM ONE E NONE F NONE G NONE H JET NOISE I NONE
-ITEM TWO- A JET NOISE E OVERHEAD C OVERHEAD D EAST TQREST E LOST VIEW
-DUE TO HOUSES E FOUR-TO FIVE SECONDS. ITEM THREE- A GROUND-VISUAL B NON
-C NONE ITEM FOUR- A 15 16 OCTOBER 1957 B DUSK ITEM FIVE- 3 A GQ3529
-ITEM SIX- AGE - FIFTY ONE, PLANT ENGINEER
-SAN ANTONIO TEXAS, TELEPHONE: B NONE ITEM SEVEN-
-A CLEAR B 6,000-140DEGREES-15 10,000-70DEGREES-6 16,000-80DEGREES-10
-20,000-270DEGREES-8 30,000-240DEGREES-27 57,000-280DEGREES-39 80,000-
+
+RJEDWP/CCMDR AIR TECHNICAL CENTER WRIGHT PATTERSON AFB OHIO
+
+RJEPHO/DIRECTOR OF INTELL HEADQUARTERS USAF WASHINGTON 25 DC
+
+BT [handwritten: note]
+
+UNCLAS FROM DO 741-10-23 SUBJECT: UFOB REPORT. ITEM ONE- [circled: A CIGAR] [handwritten: note]
+
+[circled: FOUNTAIN PEN] C [ALUMINUM] D ONE E NONE F NONE G NONE [circled: JET NOISE] I NONE
+
+ITEM TWO- A JET NOISE B OVERHEAD C [OVERHEAD] D [EAST TO WEST] E LOST VIEW
+
+DUE TO HOUSES [circled: FOUR TO FIVE SECONDS] ITEM THREE - A [GROUND-VISUAL] B NON
+
+C NONE ITEM FOUR- A [circled: 0815] 6 OCTOBER 1957 B [DUSK] ITEM FIVE- 5 A GQ3529
+
+ITEM SIX - [redacted], AGE - FIFTY ONE, PLANT ENGINNEER [redacted]
+
+[redacted], SAN ANTONIO TEXAS, TELEPHONE: [redacted] B NONE ITEM SEVEN-
+
+A CLEAR B 6,000-10 DEGREES-15 10,000-70 DEGREES-G 15,000-20 DEGREES-10
+
+20,000-27D DEGREES-8 30,000-240 DEGREES-27 50,000-250 DEGREES-39 80,000-
+
 N/A - N/A C UNLIMITED D FIFTEEN MILES E NONE F NONE ITEM EIGHT- NONE
 
-PAGE TWO RJWFHW 6B
-ITEM NINE- NONE ITEM TEN- NONE ITEM ELEVEN- A POSSIBLE WEATHER
-APPARATUS OR A DERIDIGIBLE (SLIMP) NOTHING UNUSUAL WAS PICKED UP BY
-RADAR ITEM TWELVE-NONE
-BT
-6/2/1597 OCT RJWFHW
+[handwritten: note. 1. Jet noise. shape like
 
+2. shape like cigar
+
+large bright object
+
+Att 3 (seemed) to be shaped more like
+(1000 yds away) estimated
+
+PAGE TWO RJWFHW GB
+
+ITEM NINE- NONE ITEM TEN- NONE ITEM ELEVEN - A POSSIBLE WEATHER
+
+[circled: APPARITION OR A DERIGIBLE (BLIMP)] NOTHING UNUSUAL WAS PICKED UP BY
+
+RADAR ITEM TWELVE-NONE
+
+BT [handwritten annotation with arrow pointing to text box]
+
+6/3/21557 CCT RJUFHW
+
+What? With jet noises
+(side time 2 A + 4 hr time)
+
+Bringing [illegible]
+[illegible] other
+[illegible] night. Raleigh, N.C
 
 - page 3 -
 
-PROJECT: 10073 RECORD CARD
+PROJECT 10073 RECORD CARD
 
 1. DATE
-   88 8 October 1957
+8 8 October 1957
 
 2. LOCATION
-   San Antonio, Texas
+San Antonio, Texas
 
-3. DATE/TIME GROUP
-   GMT 09/0131Z
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other
+☐ Insufficient Data for Evaluation
+☐ Unknown
 
-4. SOURCE
-   Military
+3. DATE-TIME GROUP
+Local ___________
+GMT 09/0131Z
 
-5. LENGTH OF OBSERVATION
-   22 to 3 minutes
+4. TYPE OF OBSERVATION
+☒R Ground-Visual     ☐ Ground-Radar
+☐ Air-Visual         ☐ Air-Intercept Radar
 
-6. SUMMARY OF SIGHTING
-   One round red object the size of a head of a pin at arm's length. Object was seen heading south, then northwest. Object was in sight for from 2½ to 3 minutes.
+5. SOURCE
+Military
 
-7. SOURCE
-   Ground-Visual
+6. NUMBER OF OBJECTS
+one
 
-8. NUMBER OF OBJECTS
-   one
+7. LENGTH OF OBSERVATION
+2½ to 3 minutes
+
+8. BRIEF SUMMARY OF SIGHTING
+One round red object the size of a head of a pin at arm's length. Obj was seen heading south then north-west. Object was in sight for from 2½ to 3 minutes.
 
 9. COURSE
-   S to NW
+S to NW
 
-10. COMMENTS
-    Description, duration, flight path indicate that this sighting was probably caused by aircraft.
+10. NUMBER OF OBJECTS
+<blank>
 
-11. CONCLUSIONS
-    □ Was Balloon
-    □ Probably Balloon
-    □ Possibly Balloon
-    □ Was Aircraft
-    □ Probably Aircraft
-    □ Possibly Aircraft
-    □ Was Astronomical
-    □ Probably Astronomical
-    □ Possibly Astronomical
-    □ Other
-    □ Insufficient Data for Evaluation
+11. COMMENTS
+Description, duration, flight path indicate that this sighting was probably caused by aircraft.
 
+ATIC FORM 329 (REV 24 SEP 53)
 
 - page 4 -
 
-Here is the text from the document:
+8 9/07/31/Z
+Waltacci                                                                                                      25
 
-8 9/0/312
-1 witness
-
-WPB816 YDB816 WYA818 MB981SHW(COPY) 0750 OCT 12 02 02 57
-
-FM CONDR 741 ACWRON LACKLAND AFB TEX
-TO ZEWCOMDR 33 ADIV OKGTY AF STA OKLA
-INFO RJEDN/COMDR ADC ENT AFB COLORADO SPRINGS COLORADO
+UPB816 YDB016 UYA016 MDP01SHWA002 0750           Oct 12 02 02'57    244f
+MM RJEDEN RJEDMP RJEPHO                                                3/44fd
+DE RJWFJM 18B
+M 1116302
+FM COMDR 741 ACVRON LACKLAND AFB TEX
+TO ZEN/COMDR 33 ADIV OKCTY AF STA OKLA
+INFO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLORADO
 RJEDWP/COMDR AIR TECHNICAL CENTER WRIGHT PATTERSON AFB OHIO
 RJEPHO/DIRECTOR OF INTELL HEADQUARTERS USAF WASHINGTON 25 DC
-
 BT
-
-UNCLAS FROM DO 741-10-38 SUBJECTS UFOB REPORT. ITEM ONE - (A) ROUND (B) HEAD OF A PIN (C) RED (D) ONE (E) NONE (F) VERY HIGH AND MOVING AT A HIGH RATE OF SPEED (G) NONE (H) NONE. APPROXIMATELY FIVE MINUTES LATER HE HEARD THE SOUND OF JETS GOING OVER BUT COULD NOT SIGHT ANY AIRCRAFT. (I) NONE ITEM TWO
-
-(A) HAPPENED
-TO LOOK UP AND SEE IT (B) UNABLE TO GIVE THIS INFORMATION BECAUSE HE COULD NOT ESTIMATE (C) UNABLE TO GIVE THIS INFORMATION BECAUSE HE COULD NOT ESTIMATE (D) WHEN FIRST OBSERVED, IT WAS HEADING SOUTH. WHEN IT DISAPPEARED, IT WAS HEADING NORTH-WEST. (E) FLEW OR MOVED OUT OF SIGHT (F) TWO AND ONE HALF TO THREE MINUTES
-
+UNCLAS FROM DO 741-10-38 SUBJECT: UFOB REPORT. ITEM ONE - (A)
+ROUND (B) HEAD OF A PIN (C) RED (D) ONE (E) NONE (F) VERY HIGH
+AND MOVING AT A HIGH RATE OF SPEED (G) NONE (H) NONE. APPROXI-
+MATELY FIVE MINUTES LATER HE HEARD THE SOUND OF JETS GOING OVER
+BUT COULD NOT SIGHT ANY AIRCRAFT. (I) NONE ITEM TWO
+                                                                                                            (A) HAPPENED
+TO LOOK UP AND SEE IT (B) UNABLE TO GIVE THIS INFORMATION BE-
+CAUSE HE COULD NOT ESTIMATE (C) UNABLE TO GIVE THIS INFORMATION
+BECAUSE HE COULD NOT ESTIMATE (D) WHEN FIRST OBSERVED, IT WAS HEAD-
+INGSOUTH. WHEN IT DISAPPEARED, IT WAS HEADING NORTH-WEST. (E) FLEW
+OR MOVED OUT OF SIGHT (F). TWO AND ONE HALF TO THREE MINUTES
 
 - page 5 -
 
-PAGE TWO RJWFHW 158
+[handwritten: Appeared brightly light to a low large at cloud]
 
-ITEM THREE- (A) GROUND-VISUAL (B) NONE (C) N/A ITEM FOUR- (A) 1312
+PAGE TWO RJWFHW 18B
 
-9 OCT. 1957 (B) DUSK ITEM FIVE - (A) OBSERVER WAS AT FORT SAM
+ITEM THREE- (A) GROUND-VISUAL (A) NONE (C) N/A ITEM FOUR- (A) @1312
+
+9 OCT. 1957 (B) DUSK ITEM FIVE- (A) OBSERVER WAS AT FORT SAM
 
 HOUSTON IN SAN ANTONIO, TEXAS ITEM SIX- (A) N/A (B) PRESTON DAVIS
 
@@ -198,15 +233,17 @@ WARD MASTER, 3RD UNIT. UNABLE TO ESTIMATE RELIABILITY CIVILIAN
 
 ADDRESS IS: 253 HARDY ROAD, VILLAGE TWO, FORT SAM HOUSTON. TELE-
 
-PHONE: TA 4-4848. ITEM SEVEN- (.) PARTLY CLOUDY (B) 6,000-618
+PHONE: TA 4-4048. ITEM SEVEN- (C) PARTLY CLOUDY (B) 6,000-810
 
-DEGREES -4 10,000-220DEGREES- 8 15,000-260DEGREES-16 20,000-280
+DEGREES-A 10,000-23DEGREES- 8 15,000-26DEGREES-10 28,000-28
 
-DEGREES 24 30,000-270DEGREES-36 50,000-NOT TAKEN 6,000-
+DEGREES 24'38,000-27DEGREES-39 50,000-NOT TAKEN 6,000-[
 
-(C) 30 SCATTERED, 128 BROKEN. (D) FIFTEEN MILES (E) 4/10 OF CIRUS
+NOT TAKEN
 
-ITEM EIGHT-(A) N/A-(B) NONE ITEM TEN- (A)
+(C) 30 SCATTERED, 120 BROKEN. (D) FIFTEEN MILES (E) 4/10 OF CIRUS
+
+[handwritten strikethrough: RED LIGHT-(Z)XING-(A)] NONE ITEM TEN- (A)
 
 NONE ITEM ELEVEN- NO POSSIBLE CAUSE FOR THE SIGHTING COULD BE
 
@@ -216,105 +253,163 @@ NONE
 
 BT
 
-11/2149Z OCT RJWFHW
+[handwritten: P 26, 1957]
 
+11/2149Z OCT RJWFHW
 
 - page 6 -
 
 PROJECT 10073 RECORD CARD
 
-1. DATE: 15 October 1957
+1. DATE: 18 October 1957
 
 2. LOCATION: San Antonio, Texas
 
-3. DATE-TIME GROUP: 16/01452
+12. CONCLUSIONS
+[X] Aircraft
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-4. TYPE OF OBSERVATION: Air-Visual
+3. DATE-TIME GROUP
+Local
+CMT 16/01452
 
-5. SOURCE: Civilian
+4. TYPE OF OBSERVATION
+[ ] Ground-Visual
+[ ] Ground-Radar
+[ ] Air-Visual
+[ ] Air-Intercept Radar
 
-6. PHOTOS: No
+5. PHOTOS
+[ ] Yes
+[X] No
 
-7. LENGTH OF OBSERVATION: 20 minutes
+6. SOURCE
+Civilian
 
-8. NUMBER OF OBJECTS: two
+7. LENGTH OF OBSERVATION
+20 minutes
 
-9. COURSE: Northwest
+8. NUMBER OF OBJECTS
+two
 
-10. BRIEF SUMMARY OF SIGHTING: Round object, size of nickel, white, two in close formation. Slowly moved northwest x faded. Stationary when first noticed.
+9. COURSE
+Northwest
 
-11. COMMENTS: Since there was nothing unusual on radar and there were 3 a/c in the vicinity, possible a/c. However, only two objects reported and during an unusually long, for a/c sighting. Winds opposite for balloon sighting. Insufficient data for evaluation.
+10. BRIEF SUMMARY OF SIGHTING
+Round object, size of nickel, white, two in close formation. Slowly moved northwest & faded. Stationary when first noticed.
 
-12. CONCLUSIONS: [All checkboxes appear unchecked]
+11. COMMENTS
+Since there was nothing unusual about the sighting there was a lot of activity in the vicinity, possible a/c. However, only two objects reported and duration unusually long for a/c sighting. Winds opposite for balloon sighting. Insufficient data for evaluation.
 
+ATIC FORM 329 (REV 28 SEP 52)
 
 - page 7 -
 
-Here is the text I can read from the document:
+[handwritten: /5  /6/3/1257
+Multi]
 
-15 16/31/52
-Recto
+[handwritten: 42]
+[handwritten: 130057 11 32]
 
-10 OCT 11 32
+[handwritten: B4E4
+3-4x2a/
+h20]
 
-42
-B 4H4
-3-4X20
-Hell
+[handwritten: cote]
 
-HQAFS WTPA 4 YDE 7 YTC 36 MDA SIGMA 37
-ADJUTANT ADJDP JOSEPH
-SAN ANTONIO TX
-1614 ST
+SGHT IS 7 UFA-4 MDE 7 UFO 3E UEA SOHEA 37
 
-CONE 724 ACTION LACKLAND AFB TEXAS
-HQ ADJUTANT/COMDR 35 ADVN OKGTY AF STA OKLA
-HQ ADJDANT/COMDR ADC HHT AFS COLORADO SPRINGS COLORADO
-ADJDP/COMDR AIR TECHNICAL CENTER WRIGHT PATTERSON AFB OHIO
-ASPTS/DIRECTOR OF INTELL HEADQUARTERS USAF WASHINGTON 25 DC
+IN HOLDER NUMBER JOSEPH
 
-DECLASSIFIED FROM DO 74-1-63
+N. AUDTIN TX
 
-SUBJECT: UFOB REPORT, ITEM ONE- (A) ROUND (B) NICKEL (C) WHITE
-(D) FIVE (E) FORMATION (F) NONE (G) NONE (H) NONE (I) NONE
-TIME: TWO (A) JUST HAPPENED TO LOOK AND SEE IT (B) 45 DEGREES
-FROM HORIZON (C) 45 DEGREES FROM HORIZON (D) STATION (E) (ILLEGIBLE)
-LOCALLY KNOWN NORTHWEST AND FADED (F) NEARLY DIRECT (G) UNKNOWN
-(H) GROUND VISUAL (I) NONE (J) NOT APPLICABLE ITEM FOUR- (A)
-WEST, 15 OCTOBER 1957 (B) DUE (C) NONE ITEM FIVE- (A) GLASS
-[Several lines are blacked out]
+1B:4 ST
 
-CMS-7 = 1345 hrs.
-(Back 6:45 pm)
-Dusk!
+N. COMER 741 ACHFORD LACKLARD AFB TX.
 
+TO ADJUTNT/COMDR 33 ADIV ONOTY AT STA OKLA
+
+INFO AUDTIN/COMDR ADC ENT AFB COLARADO SPRINGS COLARADO
+
+JUDID/COMDR AIR TECHNICAL CENTER WRIGHT PATTERSON APE OHIO
+
+WDIRT/DIRECTOR OF INTLL HEADQUARTERS USAF WASHINGTON 25 DC
+
+-T
+
+LCLASSIFIED FRM DC 74:-1-38.
+
+SUBJECT: UFOA REPORT, FROM CME (-) [circled: MEDIUM] (-) [circled: MEDIUM] (-) [circled: SMITH]
+
+(-) [circled: TINY] (-) [illegible: CONFIRMED] (-) NONE (C) NONE (H) NONE (I) NONE
+
+UL TWO (-) JUST HAPPENED TO LOOK AND SEE IT (-) 4F BECAUSE
+
+ROM HORIZON (C) 4F DEGREES FROM HORIZON (-) [circled: STATIONARY] (-)
+
+Y TELLA TO TRUMPET AND RADAR (-) [circled: VERY BRIGHT] ITEM THREE-
+
+(-) OOULD VISUAL (-) NONE (C) NOT APPLICABLE ITEM FOUR- (-)
+
+LET, S OCTOBER 1957 (-) [circled: M.C.T] (-) NONE ITEM FIVE- (-) 0 SECS
+
+IM SIX- (-)
+
+[illegible sections with redactions]
+
+SUBSTITUTE TROUGH [illegible]
+
+[redacted line]
+
+ACN: TWENTY FROM VARAT TO FLORS, INEET
+
+C145-7 = [illegible] ALS.
+[handwritten: (Cdk 6:45 PM)
+Dusk !]
+
+[handwritten: Old Sk. Ques]
 
 - page 8 -
 
-Here is the text I can read from the document:
+[stamp: DECLASSIFIED]
 
-1957, 16 OCTOBER 1957 (U) NOTE, NINE FIVE - (A) G12832
-[rest of top line is blacked out]
+[illegible], 13 OCTOBER 1957 (C[illegible])CO; HOUR ITEM FIVE- (A) G[illegible]2
+ITEM FIVE- (A)[illegible]                    NEST [illegible] AGED TWENTY
+HOUR YEARS TELEPHONE: [redacted]     SUBSTITUTE TEACHING: [redacted]
+[redacted]NORTH [redacted] AGED TWENTY FOUR YEARS C6 PHON3, SHEET
 
-Handwritten notes:
-c145 - 7 = 1845 hrs.
-(Code 6:45 pm)
+C145-7 = 1945 hrs.
+(c.e.c. 6:45pm)
 Dusk!
+Nite Sky Analysis
 
-"Nite Sky Conditions"
+PAGE TWO IATTEM TM
+_OTAL NUMBER (E) HA TRM. SEVEN- (A) PARTLY CLOUDY (C) SURFACE
+WIND: NORTH AT TM [?]ECTS. S. [circled: DEGREES-2 I, circled: illegible]
+-ZS 15, -ZS[illegible]MDES-? Z -Z3 DEGREES-72 (C) E 12,
+(C) TRM (C) [circled: illegible] (C) [circled: THUNDERSTORMS] IN AREA ITEM EIGHT-
+(A) HOME ITEM NINE- (A) HOME ITEM TEN- (A) RANDOLPH AND SAF
+_ND IGURES AIRCRAFT IN LA.D.S PATTERN ITEM ELEVEN- (A) NOTHING
+UNUSUAL PICKED UP ON RADAR. ITEM TWELVE- (A) NONE
 
-PAGE TWO ROUTING TO
-TOTAL WORKING: (D) PARTLY ACTIVE STEP - (G) PARTLY CLOUDY (C) SURFACE
-WINDS: NORTH AT TEN KNOTS. S
--25 15, -25 DEGREES-67 2 -25 DEGREES-72 (C) E 12,
+AT
+18/45:32 OCT SUTTON
 
-[Several lines in the middle are partially obscured or blacked out]
-
-Handwritten notes at bottom right:
-Prob. o/c
-(w) time volume
-[rest of bottom notes are partially illegible]
-
+@ PRC. A/C
+@ [illegible]issued unless
+@ [illegible] already in time
+@ [illegible] at all time [illegible]
+@ [illegible]
 
 - page 9 -
 

@@ -1,109 +1,103 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE
-22 Sep 63
+1. DATE: 22 Sep 63
 
-2. LOCATION
-Vernon, Texas
+2. LOCATION: Vernon, Texas
 
-3. DATE-TIME GROUP
-Local    2310 CST
-GMT      83/0632
+3. DATE-TIME GROUP: 2030 CST GMT 23/0403Z
 
-4. TYPE OF OBSERVATION
-☐ Ground-Visual    ☐ Ground-Radar
-☐ Air-Visual       ☐ Air-Intercept Radar
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
 
-5. PHOTOS
-☐ Yes
-☐ No
+5. PHOTOS:
+[ ] Yes
+[X] No
 
-6. SOURCE
-Civilian
+6. SOURCE: Civilian
 
-7. LENGTH OF OBSERVATION
-not reported
+7. LENGTH OF OBSERVATION: Not reported
 
-8. NUMBER OF OBJECTS
-one
+8. NUMBER OF OBJECTS: One
 
-9. COURSE
-vertical
+9. COURSE: Vertical
 
-10. BRIEF SUMMARY OF SIGHTING
-Witness observed either a rocket or meteor fell from the sky. Appeared South on a vertical line from observer to Jupiter. Brilliant white light 5 or 6 times larger than Jupiter. Object burst just above horizon into shower of red embers and went out.
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical[?]
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-11. COMMENTS
-Check with SPADES revealed that there was no known data for this period. Case evaluated as a meteor sighting.
+10. BRIEF SUMMARY OF SIGHTING:
+Witness observed either a rocket or meteor fall from the sky. Appeared South of a vertical line from observer to Jupiter. Brilliant white light 5 or 5 times larger than Jupiter. Object burst just above horizon into shower of red embers and went out.
 
-12. CONCLUSIONS
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
-☒ Was Astronomical-Meteor
-☐ Probably Astronomical
-☐ Possibly Astronomical
-☐ Other
-☐ Insufficient Data for Evaluation
-☐ Unknown
+11. COMMENTS:
+Check with SPARTAN revealed that there was no decays for this period. Case evaluated as a meteor sighting.
 
-ATIC FORM 329 (REV 26 SEP 52)
-
+ATIC FORM 329 (REV 24 SEP 53)
 
 - page 1 -
 
-Stella, St. Tropez
-Sept 23, 1962
+[handwritten: Hobbs, N. Mexico
+August 23 1962]
 
 National Space Agency:
-Washington DC
+Washington D.C.
 
 Dear Sir:
 
-On the night of Sept 23, Sunday at 10:03 PM C.S.T. I was driving south from Vernon, Texas on Highway 183 and I was approx. just east of Lake Kampa and I saw either a rocket or meteor fall in the east sky. It appeared to be ten to fifteen miles from the brightest star in the eastern sky which I assume is Mars.
+On the night of August 23, Sunday at 10:03 pm C.S.T. I was driving South from Vernon Texas on Highway 183 and 9 near airport just east of Lake Kemp and I saw either a rocket or meteor fall in the east sky. It appeared to be in a Vertical line. From the height it was in the eastern sky which I assume is NW.
 
-This falling object was a whitish-white light which was 5 or 6 times longer than the about rectangular star. Its path was seen from just above the line to about 1/2 to 1/2 the way down to the
-
+This falling object was a distinctive white light which was 5 or 6 times larger than the Brayed [?] standard star. its path was clear from just above to the surface to be. Where to should be to the distance to be
 
 - page 2 -
 
-Here is the OCR text from the document:
+[handwritten: Horseman at witness placed his object
+(beams)
+hoop up into a shower of red embers
+white quickly went out- with east
+dipping to fall any further.
 
-"(Hung) at white point two sides
-Drops up-unto a shower of red embers
-which quickly went out with out
-seeming to fall any further.
+Showing in Path called here been & sent
+East of a Vertical line from the Sta to earth]
 
-Possibly the path caused here seem 5 such
-extent of a vertical line from the star to earth.
+sun
+x
 
-[Handwritten diagram with labels:
-- Brilliant
-- Path of object
-- Break up point
-- South
-- my distinct tract]
+Encircled
+- pod of object
 
-This as a filled probably in a little picture
-of what I saw. I viewed the object from window and it caused have been
-a, as it rushed before at came into my view"
+- break up
+(K.O.) point
 
+---> south
+
+Mysliboi's burst ->
+
+This is a rabbit probably in a lateral fashion
+of sight? Base. I followed it a light & salt's was
+visible side window and it called heard been
+- it'd confused hole a it came into my field
 
 - page 3 -
 
-I understand this is an OCR task. Here is the text I can read from the document:
+[handwritten: Demonstrated obj type acceleration is of value to the government in Big Bend hunting type falling object.
 
-"I understand this file information is of value to the government in this filing this feeling aspect.
+Hope I have been of service to you in this respect.
 
-Hope I have been of service in this respect.
+Sincerely,]
 
-Sincerely"
-
-The signature area is blacked out with a black scribble/redaction mark.
-
+[illegible signature in black ink]
 
 - page 4 -
 
@@ -119,9 +113,12 @@ FTD
 For information upon which
 to base a reply.
 
-[Signature]
-Melba Gaiser
+[signature]
+Helen Gaiser
 
+[handwritten: multiple signatures and notations on right margin]
+
+[stamp: circular date stamp, partially legible]
 
 - page 5 -
 
@@ -133,14 +130,15 @@ WRIGHT-PATTERSON AIR FORCE BASE, OHIO
 
 REPLY TO
 ATTN OF: TDSW
-SUBJECT: Request for UFO Information
 
-TO: HQ USAF SAF-CI 3b (Mrs Gaiser)
+SUBJECT: Request for UFO Information [redacted]
+
+TO: HQ USAF SAF-OI 3b (Mrs Gaiser)
 Wash 25 D C
 
-1. Reference the attached letter from requesting information on unidentified flying objects. This letter is forwarded to your office for whatever action you deem necessary.
+1. Reference the attached letter from [redacted] requesting information on unidentified flying objects. This letter is forwarded to your office for whatever action you deem necessary.
 
-2. The sighting referred to by was in all probability a meteor. The duration of his sighting was not indicated. However, contact with SPADATS revealed that there was no satellite decay for the time specified in his letter. The characteristics of the satellite decay are essentially those of a meteor with the following exceptions:
+2. The sighting referred to by Mr. [redacted] was in all probability a meteor. The duration of his sighting was not indicated. However, contact with SPACECD revealed that there was no satellite decay for the time specified in his letter. The characteristics of the satellite decay are essentially those of a meteor with the following exceptions:
 
 a. Longer duration, up to as much as 4 minutes.
 
@@ -148,42 +146,42 @@ b. The direction of a reentry is to the NE or SE.
 
 c. Colors associated with the breaking up usually tends towards reds and oranges.
 
-3. We wish to express our gratitude to for his report. Observations of this nature are of particular value in attempting to identify and/or locate satellite decays.
+3. We wish to express our gratitude to Mr. [redacted] for his report. Observations of this nature are of particular value in attempting to identify and/or locate satellite decays.
 
 FOR THE COMMANDER
 
-[Signature]
+[handwritten signature]
 Colonel, USAF
 Deputy for Technology
 and Subsystems
 
 1 Atch
-Incl N
+Ltr: [redacted]
 23 Sep 63
-
 
 - page 6 -
 
+[stamp: redacted line at top]
+
 October 9, 1963
 
-Dear Mr.
+Dear Mr. [redacted]
 
 This is in response to your letter of September 23rd in which you reported sighting unusual aerial phenomena on September 22nd in the Lake Kemp district.
 
-What you saw was, in all probability, a meteor. Although satellite decay characteristics are essentially the same as those of a meteor, with three exceptions, there was no satellite decay reported for the time specified in your letter. The exceptions in characteristics mentioned above are (1) the satellite decay is of longer duration, up to as much as 4 minutes, (2) the direction of a country is to the northeast or southeast, and (3) colors associated with the breaking up usually tend toward reds and oranges.
+What you saw was, in all probability, a meteor. Although satellite decay characteristics are essentially the same as those of a meteor, with three exceptions, there was no satellite decay reported for the time specified in your letter. The exceptions (characteristics mentioned above are (1) the satellite decay is of longer duration, up to a minute or more, (2) the direction of a meteor is to the northeast or southeast, and (3) colors associated with the breaking up usually tend toward reds and oranges.
 
 We want to express our gratitude for your report to us. Observations of this nature are of particular value in attempting to identify and/or locate satellite decays.
 
 Sincerely,
 
-MASTON M. JACKS
+MASTCM M. JACKS
 Major, USAF
 Public Information Division
 Office of Information
 
-Mr.
-[Redacted location], New Mexico
-
+Mr. [redacted]
+Hobbs, New Mexico
 
 - page 7 -
 

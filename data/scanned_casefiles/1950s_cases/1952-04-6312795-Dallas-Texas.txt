@@ -1,5 +1,3 @@
-Here is the text from the document:
-
 PROJECT 10073 RECORD CARD
 
 1. DATE
@@ -8,16 +6,30 @@ PROJECT 10073 RECORD CARD
 2. LOCATION
 Dallas, Texas
 
+12. CONCLUSIONS
+☐ Was Balloon
+☐ Probably Balloon
+☐ Possibly Balloon
+☐ Was Aircraft
+☐ Probably Aircraft
+☐ Possibly Aircraft
+☐ Was Astronomical
+☐ Probably Astronomical
+☐ Possibly Astronomical
+☐ Other_____________________
+☒ Insufficient Data for Evaluation
+☐ Unknown
+
 3. DATE-TIME GROUP
 Local 2203
-GMT 17/0635
+GMT 7/1 [illegible]
 
 4. TYPE OF OBSERVATION
-☒ Ground-Visual □ Ground-Radar
-□ Air-Visual □ Air-Intercept Radar
+☒ Ground-Visual        ☐ Ground-Radar
+☐ Air-Visual           ☐ Air-Intercept Radar
 
 5. PHOTOS
-□ Yes
+☐ Yes
 ☒ No
 
 6. SOURCE
@@ -33,83 +45,98 @@ over 20 min period
 [illegible]
 
 10. BRIEF SUMMARY OF SIGHTING
-4- red, 4- yellow, 1 -white.
-Circular. All objects made 90 deg turn.
-May have been influenced by Life although
-reporting officer state they appeared to be
-O.K.
+4-red, 4-yellow, 1-white. Circular. All objects made 90 deg turn. May have been influenced by Life although reporting officer state they appeared to be O.K.
 
 11. COMMENTS
-Observers were sleeping outdoors
-(Boy scouts), had read Life Magazine.
+Observers were sleeping outdoors (Boy scouts), had read Life Magazine.
 
-12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Possibly Balloon
-☒ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-□ Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other
-☒ Insufficient Data for Evaluation
-□ Unknown
+[handwritten: signature/mark]
 
-[Signature/Initial at bottom right of document]
-
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
-[Most of the text is illegible due to poor image quality and heavy redaction. Only a few words and markings are partially visible.]
+[The image quality is heavily degraded with significant portions obscured by redaction marks and artifacts. Most text is illegible or partially legible. The document appears to be an official memorandum or report with [illegible section] at the top. There are multiple black redaction bars obscuring content throughout the page.]
 
-At the top of the document: "UNCLASSIFIED"
+[illegible section]
 
-At the bottom of the document: "DOWNGRADED AT 3 YEAR INTERVALS"
-"UNCLASSIFIED"
+HEADQUARTERS
+[illegible] AIR FORCE OFFICER STRENGTH CENTER
+[illegible]
 
-A document number or reference number "AT 270500" is visible on the right side of the page.
+[illegible]
 
-The rest of the text is too blurry or redacted to be read with certainty.
+[illegible section with black redaction marks]
 
+[illegible]
+
+[illegible section]
+
+[illegible]
+
+[illegible]
+
+[illegible]
+
+[illegible section]
+
+[stamp: DOWNGRADED AT 2 YEAR INTERVALS DECLASSIFIED AFTER 12 YEARS]
+
+[stamp: UNCLASSIFIED]
 
 - page 2 -
 
-The text on this page is largely illegible due to poor image quality. I can make out the word "UNCLASSIFIED" at the top of the page, and there appears to be a signature or handwritten text on the right side of the page, but the details are not clear enough to read with certainty.
+[illegible section - page quality too degraded to read the body text clearly. Visible elements include:]
 
+[stamp: DECLASSIFIED]
+
+[handwritten signature in middle-right area of page]
+
+[There appears to be a hole punch at the top of the page]
 
 - page 3 -
 
-UNCLASSIFIED
+[stamp: DECLASSIFIED]
 
-[Most of the text is too faint or blurry to be reliably OCR'd. Some words and fragments are visible, but not enough to construct a complete, accurate transcription. The document appears to be an official report with some sections blacked out/redacted.]
+LENGTH OF INTERVAL
+BETWEEN SIGHTINGS: 4 TO 15 YEARS
+DOD DIR 5200.10
 
-At the top of the page, "UNCLASSIFIED" is clearly visible.
+[BLACK REDACTION]
 
-The document appears to be an old government document with multiple blacked-out/redacted sections.
+[ILLEGIBLE SECTION - The majority of the body text is too degraded and low-contrast to read with confidence. Multiple paragraphs are visible but individual words cannot be reliably transcribed.]
 
+[BLACK REDACTION AT BOTTOM OF PAGE]
 
 - page 4 -
 
 EXTRACT FROM STATUS REPORT # 7
 
 DATE: 16 Apr 52
-TIME (Local): .2203 CST
+
+TIME (Local): 2203 CST
+
 LOCATION: Dallas, Texas
-LENGTH OF TIME OBSERVED: 20 Min.
+
+LENGTH OF TIME OBSERVED: 20 min.
+
 SOUND: Unknown
+
 SPEED: Unknown
+
 ALTITUDE: Unknown
+
 HEADING: Unknown
-SOURCE: Civilians
+
+SOURCE: Civilian
+
 ACTION OR COMMENTS: No conclusions. Very little data.
+
 DESCRIPTION OF INCIDENT: Eight separate colored balls.
 
-UNCLASSIFIED
-
+[stamp: UNCLASSIFIED]
 
 - page 5 -
 
@@ -121,19 +148,35 @@ PROJECT 10073 RECORD CARD
 2. LOCATION
 Dallas, Texas
 
+12. CONCLUSIONS
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
 3. DATE-TIME GROUP
-Local 2221
+Local ______
+GMT: 2S/1217Z
 
 4. TYPE OF OBSERVATION
-[X] Ground-Visual □ Ground-Radar
-□ Air-Visual □ Air-Intercept Radar
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
 
 5. PHOTOS
-□ Yes
-[X] No
+Yes ___
+6 No ___
 
 6. SOURCE
-Female civilian
+female civilian
 
 7. LENGTH OF OBSERVATION
 
@@ -141,88 +184,72 @@ Female civilian
 5
 
 9. COURSE
-Straight and level with
-one 90 degree turn
 
 10. BRIEF SUMMARY OF SIGHTING
-2-red, 2-white, 1-green. Small -like a star.
+2-red, 2-white, 1-green.
+Small -like a star. Straight and level with one 50 degree turn.
 
 11. COMMENTS
-Source had previously made similar
-report.
-
-12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Possibly Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-□ Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other
-[X] Insufficient Data for Evaluation
-□ Unknown
+Source had previously made similar report.
 
 ATIC FORM 329 (REV 26 SEP 52)
 
-
 - page 6 -
 
-Here is the text from the document:
-
-AF FORM 112-PART 1     UNCLASSIFIED
+UNCLASSIFIED
+AF FORM 112-PART I
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-[Most of the form fields are blank or illegible]
+[The document contains several redacted sections marked with black bars]
 
-1. In compliance with letter, headquarters, USAF, AFOIP-C/GI, subjects, [partially illegible text]
+1. On [illegible] with [illegible] headquarters, Carswell AFB, Ft. Worth, Texas, a report was made of an unidentified light. It was stated that [redacted section] in question was of unknown origin, possibly associated with some [illegible] activity and so ends investigation.
 
-[Several lines of text are heavily redacted/blacked out]
+2. [Redacted section]. It was noted, consistent to some six ball previously reported. Unidentified flying objects information was obtained and one w/c requested to forward a written report also finally. Written report from Mrs. Read was received this intelligence office.
 
-2. [Partially illegible text]
+3. [Redacted section] when she noticed a previous observation, and it was determined that one was or have normal information.
 
-3. [Partially illegible text]
+4. It is believed that reports of this nature were not of military importance as intelligence in that no observation were made by other civilians, as far tried to any board officers.
 
-4. It is believed that reports of this nature are not of much value or importance to intelligence in that no observation were made by other observers.
+49°44'W, 32°50'N
 
-[Signature section with coordinates: 99°48'W, 33°50'N]
+HOLD
+Submitted by Capt. R. B. Read.
 
-[Bottom of document notes distribution to various intelligence offices]
+DISTRIBUTION OF INFORMATION
+Director of Intelligence, AFIS, Headquarters Unites States Air Force, Wash., D.C.
+Commanding General, Continental Air Command, Mitchel AFB, L.I., N.Y.
+Commanding Officer, Carswell AFB, Ft. Worth, Texas.
 
-UNCLASSIFIED
-
+[stamp: UNCLASSIFIED]
 
 - page 7 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
 AF FORM 112-PART II
-APPROVED 1 JUNE 1948
+APPROVED 1 JUNE 1949
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM: Intelligence Officer, 3595th ARB
-Hondo Field, Dallas, Texas
+FROM (Originator): Intl 11 from OSI Officer, 2895th AISS
+Randolph Field, Dallas, Texas
 
-REPORT NO.
-42
+REPORT NO. [illegible]
 
-PAGE 2 OF 2 PAGES
+PAGE 2 OF 2 PAGE [illegible]
 
-1. Description: Spherical in shape, size undetermined, appeared to be small. Like a small star. Five objects were sighted in all; two were star ball type, two were with star type, and one was green. All appeared to be changing shape, moving erratically, with no apparent propulsion system speed, sound, etc. was reported. Objects were flying a straight course. They made one sharp right angle turn. No other maneuvers were reported. Objects disappeared out of horizon.
+1. Description: Spherical in shape; size undetermined, appeared to be small like a small star. Five objects were sighted in all; two were red, ball type, two more white star type, and one was green & elongated to be elongated. Observed singly with aerodynamic features, no trail or exhaust, propulsion system heard, sound, etc. was reported. Objects were flying a straight course. They made one sharp right angle turn. No other maneuver was reported. Objects disappeared out of the horizon.
 
-2. Time Sighted: 2200 - 2240, 24 April 1952.
+2. Time Sighted: 2221C - 2241C, 24 April 1952.
 
-3. Manner of Observation: Objects were observed from ground with no visual aid.
+3. Manor of Observation: Objects were observed from ground with no visual aid.
 
-4. Location of Observation: Long. 99°44', Lat. 32°50'. Objects were observed in vicinity of Central Texas, in the Dallas area. Sky was clear, proceeding 90° turn to the left and proceeded South.
+4. Location of Observer: W Long. 96°44', N Lat. 32°50'. Objects were observed from area with altitude in the Dallas area preceding road, made sharp 90° turn to the left and proceeded South.
 
-5. Identifiability: Unresolved. Considered to be unidentified. Observer was immediately questioned regarding possible incident and appeared to be of sound mind. Reliability could not be questioned in this case. The observer had no other witnesses.
+5. Identifying Information on Observers: Observer was [illegible] Sgt M., previously questioned regarding a similar sighting at base of Moore average intelligence. Reliability could not be ascertained in that the observer had no other nature witnesses.
 
-6. Weather: 22300 GO 015 193/850 12/000.
+6. Weather: 22300 GO [?]IS 193/60/50-C 17/10.
 
 7. Other Activity: No unusual activity was reported to this headquarters in this area by any other source.
 
@@ -230,8 +257,7 @@ PAGE 2 OF 2 PAGES
 
 9. Interception or Identification: No interception or identification action was taken.
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL UNCLASSIFIED WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., SECS. 781-788. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
-
+[stamp: This document contains information affecting the national security of the United States within the meaning of the espionage act, U.S.C., as amended. Its transmission or the revelation of its contents in any manner to an unauthorized person is prohibited by law. It may not be disseminated in whole or in part, in other than United States Air Force agencies, except by permission of the direction of Intelligence, USAF.]
 
 - page 8 -
 

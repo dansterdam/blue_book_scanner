@@ -1,144 +1,150 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE
-24 May 1957
+1. DATE: 24 May 1957
 
-2. LOCATION
-Kings Park, Long Island, NY
+2. LOCATION: Kings Park Long Island, NY
 
-3. DATE/TIME GROUP
-Local 1028
-GMT 2/1523Z
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[X] Other_Uncons i stent info
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-4. TYPE OF OBSERVATION
-Ground-Visual
+3. DATE-TIME GROUP: Local 1035
 
-5. PHOTOS
-No
+4. TYPE OF OBSERVATION:
+[X]Ground-Visual [ ]Ground-Radar
+[ ]Air-Visual [ ]Air-Intercept Radar
 
-6. SOURCE
-Civilian
+5. PHOTOS:
+[ ]Yes
+[X]No
 
-7. LENGTH OF OBSERVATION
-13 minutes
+6. SOURCE: Civilian
 
-8. NUMBER OF OBJECTS
-one
+7. LENGTH OF OBSERVATION: 11 minutes
 
-9. COURSE
-South
+8. NUMBER OF OBJECTS: one
 
-10. BRIEF SUMMARY OF SIGHTING
-Object about an inch long with diameter 1 inch, leaving no exhaust or vapor trail. Traveling slowly. Disappeared as if suddenly gaining altitude.
+9. COURSE: South
 
-11. COMMENTS
-Since info somewhat conflicting, placed in inconsistent classification.
+10. BRIEF SUMMARY OF SIGHTING:
 
-12. CONCLUSIONS
-(Various checkboxes, none marked)
+Object about an inch long with diameter 1/4 the length, leaving no exhaust or vapor trail. Traveling slowly. Disappeared/sifuation as if suddenly gaining altitude.
+
+11. COMMENTS:
+
+Since info somewhat conflicting, placed in inconsistent info class.
 
 ATIC FORM 329 (REV 25 SEP 52)
 
-
 - page 1 -
 
-INCONSISTENT INFO.
+[handwritten: INCONSISTENT INFO.]
 
-HEADQUARTERS
+HEAD QUARTERS
 52ND FIGHTER GROUP (AD)
 UNITED STATES AIR FORCE
 Suffolk County Air Force Base
 Westhampton Beach, Long Island, New York
 
-GPUO                                                                  18 JUN 1957
+GPUO                                                    13 JUN 1957
 
 SUBJECT: Unidentified Flying Objects Reporting
 
-TO:   Commander
-       Air Defense Command
-       Hq Air Force Base
-       Colorado Springs, Colorado
+TO:     Commander
+        Air Defense Command
+        Ent Air Force Base
+        Colorado Springs, Colorado
 
-In reference to letter from [illegible] dated 25 May 1957, and in accordance with Air Force Regulation 200-2, paragraph 7D, dated 12 August 1954, the following report is hereby submitted.
-Due to non availability of Air Force Forms 112 and 112A at this station, subject report is forwarded as indicated by the format of paragraph 7D, Air Force Regulation 200-2, dated 12 August 1954.
+In reference to letter from [redacted] dated 25 May 1957, and in accordance with Air Force Regulation 200-2, paragraph 7D, dated 12 August 1954, the following report is hereby submitted. Due to non availability of Air Force Forms 112 and 112A at this station, subject report is forwarded as indicated by the format of paragraph 7D, Air Force Regulation 200-2, dated 12 August 1954.
 
 1. a. Cigar shaped, ratio of length to width 4:1.
-    b. Length appeared between the size of a nickel and a quarter held at arms length.
-    c. Silvery color.
-    d. No.
-    e. N/A
-    f. None except shape which turned from cigar shape to circular during the last ten seconds of observation during which it steadily diminished.
-
-    g. None.
-    h. None noticed, however a running engine and a radio not far away would have drowned a substantial amount of noise. A jet aircraft which passed over about 40 minutes later was heard above the same background noise.
-    i. Sunlight twice glinted off the nose for short periods.
+   b. Length appeared between the size of a nickel and a quarter held at arms length.
+   c. Silvery color.
+   d. One.
+   e. N/A
+   f. None except sharp which turned from cigar shape to circular during the last ten seconds of observation during which it steadily diminished.
+   g. None.
+   h. None noticed, however a running engine and a radio not far away would have drowned a substantial amount of noise. A jet aircraft which passed over about 40 minutes later was heard above the same background noise.
+   i. Sunlight twice glinted off the nose for short periods.
 
 2. a. Casual glance by observer, object seemed to be moving so slowly that it would stall if it was an aircraft. This caused observer to continue observation.
-    b. Angle of elevation <60 (deg) approximately northeast.
-    c. Angle of elevation <75 deg. approximately south.
-    d. Object continued on a straight course until the last 10 seconds of flight when it became round and diminished.
-    e. During last ten seconds of observation the object assumed a circular shape and steadily diminished as if climbing rapidly.
-
+   b. Angle of elevation <40 dgr; approximately northeast.)
+   c. Angle of elevation <75 dgr. approximately south.
+   d. Object continued on a straight course until the last 10 seconds of flight when it became round and diminished.
+   e. During last ten seconds of observation the object assumed a circular shape and steadily diminished as if climbing rapidly.
 
 - page 2 -
 
-Unidentified Flying Objects Reporting (Cont'd)
+Unidentified Flying Objects Reporting (Contd)
 
-1. One and one half minutes.
+F. One and one half minutes.
 
-2. a. Ground-visual.
+3. a. Ground-visual.
    b. None.
    c. N/A
 
-3. a. 1538 zulu, 24 May 1957. [local]
+4. a. 1338 zulu, 24 May 1957.  /0 J 7 Local
    b. Day.
 
-4. 73° 20' W - 40° 53' N.
+5. 73° 20' W - 40° 53' N.
 
-5. a. Edmond B. McCabe, approx. 35, 11 Dick Court, Northport, N.Y.
+6. a. Edmond D. McCabe, approx. 35, 11 Diel Court, Northport, N.Y.
    b. N/A
 
-6. a. Thin cirrus clouds to the west - clear in area of sighting.
-   b. Surface - 290 deg. 17k: gusts to 23k.
-      6000 ft. - 220 deg. 45k.
-      10,000 ft. - 270 deg. 53k.
-      16,000 ft. - 270 deg. 56k.
-      20,000 ft. - 270 deg. 61k.
-      30,000 ft. - 270 deg. 63k.
+7. a. Thin cirrus clouds to the west - clear in area of sighting.
+   b. Surface - 230 deg, 17k gusts to 23k. W N W
+      6000 ft. 280 deg. 45k.          W
+      10,000 ft. - 270 deg. 52k.       W
+      16,000 ft. - 270 deg. 59k.       W
+      20,000 ft. - 270 deg. 61k.       W
+      30,000 ft. - 270 deg. 63k.       W
       60,000 ft. - information not available.
    c. None.
    d. 7 miles.
    e. 4,000 ft. scattered.
    f. None in area, front passed at 1338 zulu.
 
-7. None.
-
 8. None.
 
 9. None.
 
-10. Observer noted C-119 on same path at 1600 zulu and a jet aircraft on opposite course at 1620 zulu.
+10. Observer noted C-119 on same path at 1600 zulu and a jet
+    aircraft on opposite course at 1620 zulu.
 
-11. Asst. Operations Officer, 52nd Fighter Group (AW).
+11. Asst. Operations Officer, 52nd Fighter Group (AD).
 
-If it is assumed that Mr. [redacted] report is correct, there is no reasonable explanation for this sighting. The F-102s which operate from Suffolk County Air Force Base, often look like a flying cigar at a distance. They would have to appear about the size of a pen or smaller however as the high tail is clearly discernible at closer distances. Mr. [redacted] served in the Air Force as an aerial gunner
+If it is assumed that Mr. [REDACTED] report is correct, there is
+no reasonable explanation for this sighting. The F-102s which operate
+from Suffolk County Air Force Base nearby often look like a flying cigar
+at a distance. They would have to appear about the size of a pea or
+smaller however as the high tail is clearly discernible at close
+distances. Mr. [REDACTED] served in the Air Force as an aerial gunner
 
 2
-
 
 - page 3 -
 
 Unidentified Flying Objects Reporting (Cont'd)
 
-during World War II. His observation that the speed of the object was so
-low that if it was an aircraft it would stall out, seen to pull out the
+during world war II. His observation that the speed of the object was so
+low that if it was an aircraft it would stall out, seems to rule out the
 F-102s even if he was mistaken about the apparent size. The winds reported
 by the weather station at Suffolk were approximately 90 degrees to the
 reporting direction of the path of the object. This however does not fully
 rule out the possibility of this being a balloon. Mr. [redacted] story
 cannot be fully accurate as to the direction from him to the object. If
 the balloon traveled the course he claims, he would have had to look almost
-directly into the sun near the latter part of the object's apparent flight.
+directly into the sun near the latter part of the objects apparent flight.
 Mr. [redacted] says however that the sun was in back of him and did not inter-
 fere with his view. That being the case the object could have had an
 easterly course which would correspond with the winds reported. The cigar
@@ -146,15 +152,31 @@ shape could be accounted for as the shape of the object or the shape of
 the shadowed portion. The diminishing size and disappearance of the ob-
 ject might be accounted for by a combination of balloon climb, and out-
 bound heading, and the normal decrease in definition as an object goes
-up-sun on old sight hazy days. The weather balloon from LaGuardia might
+up-sun on slightly hazy days. The weather balloon from Laguardia might
 be in the vicinity at the time reported, or more probable 15 minutes
 later. This balloon however should have been considerably smaller in
-size than the object in [redacted].
+size than the object Mr. [redacted] reported.
 
 12. None.
 
-[The rest of the page contains handwritten notes that are partially illegible, with some words and phrases discernible but not fully transcribable.]
+1. [handwritten: a check with another scheduled shown
+   a Radarscope balloon was scheduled
+   to be utilized from New York instrument
+   airport around [illegible].]
 
+2. [handwritten: The observer spotted the sun and
+   climbed here all through the lighting. There
+   were two. The sighting was patrolling where
+   it moves over and to [illegible] over the sun (S W)
+   The next [illegible], the sighting also curved had
+   shifted out the sight making it just visible [illegible].]
+
+3. [handwritten: However, a check with balloon stations shows
+   a radiation was released WSW [illegible] description
+   at time of sighting. All coordinates match
+   with the sighting 950 4 SW.]
+
+4. [handwritten: However, this type is [illegible] inaccurate.]
 
 - page 4 -
 
@@ -164,43 +186,45 @@ N
 
 First sighted
 
-Winds reported
-by USAFS weather
-station
+W Winds reported                           E
+by SUAPP Weather
+station ────────→     o ←──Mr. McCabe
 
 Last seen 1½
 min. after
-first sighting
+first sighting          ↓    Approx. pos. of sun at
+                        ↓    1530 zulu
+                        o
+                             Mr. McCabe reported this
+                             remained behind him.
 
-Angles of elev.
-
-Mr. McCabe
-
-Approx. pos. of sun at
-1530 mdu
-
-Mr. McCabe reported this
-remained behind him.
-
-S
+        /        \
+       /          \
+      /            \
+     A°             B°
+     
+     Angles of elev.
 
 FOR THE COMMANDER:
 
-LAWRENCE M. DUDLEY, JR.
-Major, Adjutant
+[handwritten: signature] [illegible] July 6
+[illegible] R. DUDLEY, Jr.
+Major,     USAF
+Adjutant
 
 1 Incl:
 Letter, Mr. McCabe
 
+
 4
-
-USAF
-
 
 - page 5 -
 
+[stamp: DECLASSIFIED]
+
 Northport, Long Island
 New York
+
 May 25, 1957
 
 Att. Commanding Officer.
@@ -208,84 +232,96 @@ Suffolk Airforce Base
 
 Dear Sir:
 
-On May 24th at 10:38 A.M. while working on a high tension line located on Old Northport Rd.,Kings Park, I saw an object in the sky overhead which at first I thought to be a Jet Aircraft. After studying the object for a few moments I discovered that it had no wings or tail assembly.
+On May 24th at 10:38 A.M. while working on a high tension line
 
-I was also impressed by the slowness with which it traveled through the sky.
+located on Old Northport Rd., Kings Park, I saw an object in the sky over-
 
-I shouted up to the lineman on the pole to take a look at the object, after a few moments, he located it end I asked if he could see any wings or tail assembly, his reply was negative. We both watched the object for about a minute and a half, during this time it passed through an angle of 45 degrees.
+head which at first I thought to be a Jet Aircraft. After studying the
 
-During the last ten seconds of viewing it seemed to be getting smaller and finally disappeared as if it had suddenly gained altitude.
+object for a few moments I discovered that it had no wings or tail assembly.
 
-The object was about an inch long with a diameter of one fourth the length, it was going from north to south and it left no exhaust or vapor trail.
+I was also impressed by the slowness with which it traveled through the
 
-About 11 A.M. a box car flew by in the same general area and at 11:20 A.M. a jet flew almost the same course but in the opposite direction.
+sky. [handwritten: difficult to see, very slow moving, out of sight]
+
+I shouted up to the lineman on the pole to take a look at the object,
+
+after a few moments, he located it and I asked him if he could see any wings
+
+or tail assembly, his reply was negative. We both watched the object for about
+
+aminute and a half, during this time it passed through an angle of 45 degrees.
+
+During the last ten seconds of viewing it seemed to be getting smaller and
+
+finally disappeared as if it had suddenly gained altitude.
+
+The object was about an inch long with a diameter of one fourth the
+
+length, it was going from north to south and it left no exhaust or vapor trail.
+
+About 11 A.M. a box car flew by in the same general area and at 11:20 A.M.
+
+a jet flew almost the same course but in the opposite direction.
 
 The other man who saw this object is [redacted] Greenlawn.
 
-Very truly yours,
-[signature redacted]
+Very [illegible] yours
 
+[redacted]
 
 - page 6 -
 
-Here is the text from the document:
+[handwritten: WIND
+VEL
++
+DIR]
 
-N.
+[handwritten: SURFACE 28 PSA]
 
-WIND
-Vel.
-+ D.R.
+[handwritten: CCCC 45 A]
 
-Surface 17° to 28°
-Gust - 45°
+[handwritten: WIND DIRECTION
+135°-RUT 4 OP
+9 3K
+10
+6.35]
 
-Wind direction
-13,000 FT + 00
-> 5°
-TO
-6,315
+[handwritten: S BALLOON
+BASE - RELEASED
+.197 1500Z]
 
-Balloon
-Date - release
-at 15:02
+[handwritten: 160° + LV.]
 
-160° elev.
+[handwritten: GNOEHEL]
 
-SUN
+[handwritten: SUN]
 
-75° elev.
-
-Note: The path reported
-by the observer. However,
-to state the flight was
-behind clouds in this flight
-path of object cannot be
-true.
-
+[handwritten: This is the path reported
+by the observer. However, V 19° elev.
+A starts the sun was
+behind hazy in times light
+path of a fixed Comet by
+Circ.]
 
 - page 7 -
 
-Text found in the document:
+[handwritten: LAST SEEN AT 55° ELEV. S.]
 
-Top of page:
-LAST SEEN AT
-75° elev. S.
+[handwritten: L/E SEEN AT 60° ELEV. N.W.]
 
-Handwritten notes on diagram:
-• Balloon released here
-AT 1500Z +/-
+[handwritten: ⊙ balloon released here AT 1500Z + —]
 
-• Last seen at
-60° elev. N.W.
+observer                                                                W
 
-Bottom of page handwritten text:
-This is one of the observers
-tracking S.W. instead of N.W.
-A balloon was released at 12.5% helium
-around 1500Z on low of sitting
+[handwritten: SOA]
 
-The document appears to be a hand-drawn diagram with compass directions, elevation angles, and notes about a balloon release.
+[handwritten: ↑]
+[handwritten: object descended at a rate of 11 sec per 1000 ft]
 
+[handwritten: The 10 sightings of the observers over bearing S W initiated of N.W. @ objects were released at 12.41 hours utc at 1500Z on date of sighting]
+
+E
 
 - page 8 -
 

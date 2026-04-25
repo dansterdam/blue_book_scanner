@@ -1,80 +1,116 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE: [illegible]
+1. DATE
+<blank>
 
-2. LOCATION: Laredo, Texas
+2. LOCATION
+Laredo, Texas
 
-3. DATE-TIME GROUP:
-Local: [partially illegible]
-GMT: 11, 224
+3. DATE-TIME GROUP
+Local _______________
+GMT 11:30Z
 
-4. TYPE OF OBSERVATION:
-□ Ground-Visual   □ Ground-Radar
-□ Air-Visual      □ Air-Intercept Radar
+4. TYPE OF OBSERVATION
+[X] Ground-Visual          [ ] Ground-Radar
+[ ] Air-Visual            [ ] Air-Intercept Radar
 
-5. PHOTOS:
-□ Yes
-□ No
+5. PHOTOS
+[ ] Yes
+[X] No
 
-6. SOURCE: Military
+6. SOURCE
+Military
 
-7. LENGTH OF OBSERVATION: 23 seconds
+7. LENGTH OF OBSERVATION
+2 seconds
 
-8. NUMBER OF OBJECTS: TWO
+8. NUMBER OF OBJECTS
+TWO
 
-9. COURSE: Not given
+9. COURSE
+N OF DIXON
 
-10. BRIEF SUMMARY OF SIGHTING:
-A radar target was picked up at a range of 36 nautical miles & at 462 nautical miles at a height of 64 nautical miles. The targets lasted for a total of 23 seconds.
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical  Meteor
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_______________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-11. COMMENTS: Probably a meteor.
+10. BRIEF SUMMARY OF SIGHTING
+A radar target was picked up at a range of 256 nautical miles & at 462 nautical miles at a height of 64 nautical miles. The targets lasted for a total of 2 seconds.
 
-12. CONCLUSIONS:
-□ Was Balloon
-□ Probably Balloon
-□ Possibly Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
-□ Was Astronomical Meteor
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other:
-□ Insufficient Data for Evaluation
-□ Unknown
+11. COMMENTS
+Probably a meteor.
 
-ATIC FORM 129 (REV 26 SEP 52)
-
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
+
+570.04161-1731
 
 INTERIM LETTER REPORT
-CONTRACT NO. AF30(602)-1741
 
-UNIDENTIFIED TARGET OF AN/FPS-17(XN-2) RADAR MISSION 164
+CONTRACT NO: AF30(602)-1741
+
+UNIDENTIFIED TARGET OF AN/FPS-17(XW-2) RADAR MISSION 164
 
 I. INTRODUCTION
-The AN/FPS-17(XN-2) radar at the Laredo Test Site, Laredo, Texas was in operation on 11 October 1958. The expected target was 1958 Δ 2, the instrumented portion of the third Russian satellite, Sputnik III. A target was observed, but the characteristics of the intercept would make one believe that the object observed was not the one expected. Other possible explanations are discussed below.
+
+The AN/FPS-17(XW-2) radar at the Laredo Test Site, Laredo, Texas
+
+was in operation on 11 October 1958. The expected target was 1958
+
+△ 2, the instrumented portion of the third Russian astellite, Sputnik
+
+III. A target was observed, but the characteristics of the intercept
+
+would make one believe that the object observed was not the one expected.
+
+Other possible explanations are discussed below.
 
 II. CONCLUSIONS
+
 The object observed was most probably:
-(a) a meteor showing both a head echo type reflection and a specular type reflection from the trail, or
-(b) two meteors occurring in the same portion of space at very nearly the same time.
+
+(a) a meteor showing both a head echo type reflection
+and a specular type reflection from the trail, or
+
+(b) two meteors occurring in the same portion of space
+at very nearly the same time.
 
 III. ANALYSIS
+
 A. FACTS RELATED TO THE UNIDENTIFIED TARGET
-The known facts related to the intercept of this unidentified target are:
 
-[Bottom of page shows "UNCLASSIFIED" and a classification cancellation stamp]
+The known facts related to the intercept of this unidentified
 
+target are:
+
+[handwritten: Classification Cancelled
+(Or Changed to) [illegible]
+Auth:[illegible signature]
+By [illegible]
+Date [illegible]
+Basis [illegible]
+[illegible text continues]]
+
+[stamp: UNCLASSIFIED]
 
 - page 2 -
 
-Here is the text from the document:
+[stamp: UNCLASSIFIED]
 
-UNCLASSIFIED                                                                 - 2 -
+- 2 -
 
 (a) the target was observed on 11 October 1958 beginning
 at 07h 21m 44.0s Universal time and lasting until
@@ -83,30 +119,33 @@ at 07h 21m 44.0s Universal time and lasting until
 (b) the target as displayed on film recordings of the radar
 signal consisted of two unusually distinct sections.
 The first of these lasted for approximately 0.75 seconds,
-showing a range change from 454 to 473 nmi. The second
+showing a range change from 451 to 473 nmi. The second
 portion began where the first left off and lasted for
 27.3 seconds. The range of this target changed from
-462 to 467 nmi in that time. Absolute range as indicated
+162 to 467 nmi in that time. Absolute range as indicated
 here is accurate to within 5 nmi, but relative to each
 other they are accurate to within 2 nmi.
 
 (c) the target was observed in three of four beams being
 energized as follows:
-    Beam 1 Low         No target
-    Beam 2 Low         0721:44.3 to 0722:03.0
-    Beam 1 High        0721:44.* to 0721:55.5
-    Beam 2 High        0721:44.0 to 0712:12.0
+
+Beam 1 Low         No target
+
+Beam 2 Low         0721144.3 to 0722103.0
+
+Beam 1 High        0721145* to 0721155.5
+
+Beam 2 High        0721144.0 to 0722212.0
 
 * May have entered prior to this time, but beam was
-  not energized because of Beam Switching.
+not energized because of Beam Switching.
 
-(d) No doppler frequency information was available be-
-cause the range gate was set so that only targets
-between 504 and 578 nmi would alarm the Lincoln
+(d) No doppler frequency information was available because the range gate was set so that only targets
+between 504 and 1178 nmi would alarm the Lincoln
 Coded Pulse doppler system.
 
-(e) An intercept of the Russian satellite, 1958 Δ2 had
-been expected at about 0733½ at a range of 700 to 900
+(e) An intercept of the Russian satellite, 1958 L2 had
+been expected at about 0732 at a range of 700 to 900
 nmi.
 
 (f) No other targets were observed by the radar between
@@ -117,14 +156,15 @@ B. POSSIBLE TARGETS
 A signal such as that received by the radar could, at first
 glance, have been reflected from any one of the following:
 
-[Note: The text cuts off at the bottom of the page]
+[stamp: UNCLASSIFIED]
 
+58-9601
 
 - page 3 -
 
-UNCLASSIFIED
-
 - 3 -
+
+[stamp: UNCLASSIFIED]
 
 (a) A rocket launched from the vicinity of the
 White Sands Proving Grounds.
@@ -140,8 +180,7 @@ C. INTERPRETATION OF THE FACTS
 
 A knowledge of the location and path of the observed object
 is desirable if one is to distinguish between the above possibilities.
-
-The range of about 470 nmi would position the observed object somewhere
+The range of about 170 nmi would position the observed object somewhere
 in the vicinity of the White Sands Proving Grounds. The observation
 of the object simultaneously by three of the four beams energized allows
 us to estimate the angular coordinates more exactly than if reflections
@@ -157,27 +196,25 @@ space defined as follows:
 Origin: at the Air Force Missile Development Center,
 Holloman Air Force Base, New Mexico
 
-Coordinates:   West    10 nmi
-               South    2 nmi
-               Height  64 nmi
+Coordinates: West    10 nmi
+South   2 nmi
+Height  64 nmi
 
-DOWNGRADED AT 3 YEAR INTERVALS
-DECLASSIFIED
+[illegible section]
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
-58-9601
-
+58-7600
 
 - page 4 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
 - 4 -
 
-The path (direction and speed) of the target cannot be resolved to any great degree of accuracy. The sudden appearance of the signal in three beams indicates that the object suddenly appeared at this position in space and didn't gradually move into one beam and then another. The target should be considered as two separate parts, that which lasted for 0.75 seconds and the other, which had a duration of 28 seconds in Beam 2 High. The first target had a range rate of change of about + 25 nmi per second. The second target had an average range rate of change of 0.2 nmi per second.
+The path (direction and speed) of the target cannot be resolved to any great degree of accuracy. The sudden appearance of the signal in three beams indicates that the object suddenly appeared at this position in space and didn't gradually move into one beam and then another. The target should be considered as two separate parts, that which lasted for 0.75 seconds and the other, which had a duration of 28 seconds in Beam 2 High. The first target had a range rate of change of about + 25 mmi per second. The second target had an average range rate of change of 0.2 mmi per second.
 
-The accompanying photographs show that the signal died out of Beam 1 Hi before it died out of Beam 2 H. This could be explained by the passage of the target from one beam into the other, or by a decrease in the strength of the reflected signal. If the target were closer to the center of Beam 2 Hi, we would expect to get the stronger signal in that beam.
+The accompanying photographs show that the signal died out of Beam 1 H1 before it died out of Beam 2 H1. This could be explained by the passage of the target from one beam into the other, or by a decrease in the strength of the reflected signal. If the target were closer to the center of Beam 2 H1, we would expect to get the stronger signal in that beam.
 
 D. ELIMINATION OF POSSIBLE TARGETS
 
@@ -185,39 +222,75 @@ Consideration of the facts available indicates that several of those objects lis
 
 (a) A rocket launched from the White Sands Proving Ground would have been picked up in a low beam about 30 to 40 seconds before it was seen in the high beams, and it normally is seen for longer than 28 seconds. No such phenomena as that demonstrated by the early portion of the target has been observed on previous rockets launched at White Sands.
 
-DOWNGRADED AT 3 YEAR INTERVALS;
-DECLA SSIFIED AFTER 12 YEARS.
-DOD DIR 5200.10
+[stamp: UNCLASSIFIED]
 
-UNCLASSIFIED
+[downgraded/declassified marking - partially illegible]
 
+SF-7607
 
 - page 5 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
-(b) Only one satellite was known to have been in the vicinity at the time of observation. This one should have passed through the beams over 200 mi to the northwest about 12 minutes later. The prediction bulletins are subject to some error, but they are seldom far enough off in either position of the orbit or time of passage for this observed object to have been the satellite.
+(b) Only one satellite was known to have been in the
+vicinity at the time of observation. This one
+should have passed through the beams over 200 nmi
+to the northwest about 12 minutes later. The pre-
+diction bulletins are subject to some error, but
+they are seldom far enough off in either position
+of the orbit or time of passage for this observed
+object to have been the satellite.
 
-All previous observations of satellites on south-to-north passes have shown similar range rate characteristics. But they have also gradually moved into Beam 1 and then Beam 2, which is not the case here. No satellites in orbit come so close to the earth as the indicated 64 nmi. If they did, they would soon fall out of orbit or burn up in the atmosphere.
+All previous observations of satellites on south-
+to-north passes have shown similar range rate
+characteristics. But they have also gradually moved
+into Beam 1 and then Beam 2, which is not the case
+here. No satellites in orbit come so close to the
+earth as the indicated 64 nmi. If they did, they
+would soon fall out of orbit or burn up in the at-
+mosphere.
 
-One should note that there may be several pieces of satellites in orbit which nobody is keeping track of. These pieces could, at times, be observed, but the sudden appearance in three beams and a rate of change of 25 nmi per second are not characteristics of satellite intercepts.
+One should note that there may be several pieces
+of satellites in orbit which nobody is keeping
+track of. These pieces could, at times, be observed,
+but the sudden appearance in three beams and a rate
+of change of range of 25 nmi per second are not
+characteristics of satellite intercepts.
 
-(c) The observed target height, 64 nmi, is in the meteor band. A very sudden appearance of a strong signal is characteristic of meteors. The appearance of the signal suddenly in three beams is quite possible in the case of a meteor. Although there is much yet to be learned about meteors, it is known that not all meteors in a beam are detected by a radar. There are requirements regarding the orientation of the meteor trail with respect to the radar beam which must be met.
+(c) The observed target height, 64 nmi, is in the meteor
+band. A very sudden appearance of a strong signal is
+characteristic of meteors. The appearance of the signal
+suddenly in three beams is quite possible in the case
+of a meteor. Although there is much yet to be learned
+about meteors, it is known that not all meteors in a
+beam are detected by a radar. There are requirements
+regarding the orientation of the meteor trail with
+respect to the radar beam which must be met.
 
-Then, too, the exact height at which a meteor trail becomes detectable varies. Either one or both the orientation of the trail and the ionization formation could explain why the meteor was not seen until such a time as it reached a position within the beams.
+Then, too, the exact height at which a meteor trail
+becomes detectable varies. Either one or both the
+orientation of the trail and the ionization formation,
+could explain why the meteor was not seen until such
+a time as it reached a position within the beams.
 
-The first portion of the observed trail might well have been an echo from the so-called meteor head, thus giving us the very high rate of change of range (the meteor head moves with the speed of the meteor itself). Meteor velocities vary over a wide range, but they may be as high as twice that range rate as observed.
+The first portion of the observed trail might well
+have been an echo from the so-called meteor head, thus
+giving us the very high rate of change of range (the meteor
+head moves with the speed of the meteor itself). Meteor
+velocities vary over a wide range, but they may be as high
+as twice that range rate of change observed.
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
+6-5-9607
 
 - page 6 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
--6-
+- 6 -
 
-The second portion of the trail is characteristic of meteor trail echoes. Were the echo actually comes from the ionized trail itself is not known. This type of echo has a very little chance in radar. Since the trail exists its only movement is caused by expansion of the trail or movement of the air in which the trail lies.
+The second portion of the trail is characteristic of meteor trail echoes, warm the echo actually comes from the ionized trail left behind the meteor. This type of echo has a very little change in range, since once the trail exists its only movement is caused by expansion of the trail or movements of the air in which the trail lies.
 
 IV. RECOMMENDATIONS
 
@@ -227,39 +300,18 @@ The absence of any firings on 11 October 1958 should be verified by contacting t
 
 The Harvard College Observatory has two cameras recording pictures of meteors which occur in the vicinity of the White Sands Proving Ground. There is a possibility that they would have observed any meteor, or other phenomena which created visible light, at the time and location of this unidentified target.
 
-NECross/r
+EXCross/r
 3 November 1958
 
-UNCLASSIFIED
-
+[stamp: UNCLASSIFIED]
 
 - page 7 -
 
-UNIDENTIFIED TARGET
-8 OCTOBER 1958 (DAY-2)
-TIME SWINGING SMS 14-26
-(other text partially illegible)
-Range reference: Upper control
-(rest illegible)
-
-The document is marked "UNCLASSIFIED" at the bottom and appears to be a data or tracking sheet with rows and columns, though most of the detailed text is too faint to read clearly.
-
+[NON-TEXT PAGE: black-and-white photograph of a declassified document page with printed text and tabular data, too small and degraded to read legibly]
 
 - page 8 -
 
-UNIDENTIFIED TRACK
-14 OCTOBER 1958 (XW-2)
-Time Scanning: 5:20 PM to 5:49
-(9 min of track) QRO-01
-Range Reference Upper continues not
-504 nm
-Range Marks are telent open
-Lincoln G.C. #2
-
-UNCLASSIFIED
-
-(Note: Some text appears slightly blurry or faded, so there might be minor inaccuracies in the transcription)
-
+[illegible section - document quality too poor to reliably transcribe text content. The page appears to be a heavily faded or degraded photocopy of an official form or report with multiple rows of data in a table format. Visible elements include "UNCLASSIFIED" stamp at bottom, what appears to be reference numbers or dates at the top, and handwritten notations on the margins, but individual text is not legible enough for accurate transcription.]
 
 - page 9 -
 

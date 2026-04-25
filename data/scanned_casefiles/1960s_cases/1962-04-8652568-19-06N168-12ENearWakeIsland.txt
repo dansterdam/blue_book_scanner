@@ -1,64 +1,100 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE: April 1960
+1. DATE
+20 April 1956
 
-2. LOCATION: 19.05N, 168.128 Near Wake Island
+2. LOCATION
+19.06N 165.12E
+Near Wake Island
 
-3. DATE-TIME GROUP: Local GMT 20-6162
+3. DATE-TIME GROUP
+Local ________________
+GMT ___0956/1962
 
-4. TYPE OF OBSERVATION: Military
+5. PHOTOS
+[ ] Yes
 
-5. PHOTOS: □ Yes □ No
+7. LENGTH OF OBSERVATION
+5 min
 
-6. SOURCE: Military
+12. CONCLUSIONS
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_____________
+[ ] Insufficient Data for Evaluation
+[ ] Unlikely
 
-7. LENGTH OF OBSERVATION: 5 min
+4. TYPE OF OBSERVATION
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
 
-8. NUMBER OF OBJECTS: 1
+6. SOURCE
+Military
 
-9. COURSE: Observed with binoculars
+8. NUMBER OF OBJECTS
+1
 
-10. BRIEF SUMMARY OF SIGHTING: Found obj size of pen, white with short reddish tail. No sound. Observed at 160° true 01° elev below horizon. 5 min total observation time. No maneuver or change in speed.
+9. COURSE
 
-11. COMMENTS: 22 April at 1610Z Echo was heading SE crossing equator at 165.32. This would be vicinity in reported location and lat position given by witnesses.
+10. BRIEF SUMMARY OF SIGHTING
+Round object size of pea, white with short reddish tail. No sound. Observed at 165° with elev +31. Disappearing at 150° true 0° elev below horizon. 5 min total observation time. No manuevers or change in speed. Observed with binoculars at night.
 
-12. CONCLUSIONS: (Checkboxes include options like Was Balloon, Probably Balloon, Was Aircraft, Probably Aircraft, etc. - but no specific boxes are checked)
+11. COMMENTS
+On 24 April at 1610Z Reno was heading NE crossing equator at 165.39E. This would be visible fm reported location and im position given by witnessse.
 
-ATIC FORM 329 (REV 20 SEP 52)
-
+- ATIC FORM 329 (REV 28 SEP 52)
 
 - page 1 -
 
 UNCLASSIFIED
 
-AF LTR: 1437 (26 Apr 62) Z/GOC
+REF: 1457 (23 Apr 62) 3/Soo
 
-AF DIST: CIN-14, OCP-2, OCP-CP-1, SACS-2
-DIA-2     -22-
+AP DISTR: CIN-14, OCD-2, OOP-OP-1, SAPS-3
+DIA-2         -22-
 
-1. DESCRIPTION:
-   A. ROUND, FLAT, C. WHITE, D. DULL, E. NONE, F. NONE, G. SHORT REDDISH
-   H. APPROX. SAME LENGTH AS DIAMETER OF BODY, K. NO SOUNDS
+[redacted section]
 
-2. DESCRIPTION OF COURSE:
-   A. FAST, STRAIGHT STARTED BEARING @ QUARTERS
-   B. FAST, CONSTANT SPEED, C. DISAPPEARED NEAR 1 OR 2 DEGREES TRUE
-   D. HORIZON, W DEGREES, E. CIRCULAR PATH, F. GRADUALLY DISAPPEARED BELOW
+NO SIGHTING
 
-3. MANNER OF OBSERVATIONS:
-   A. NAKED EYE AND BINOCULARS
+1. DESCRIPTION
+   A. ROUND FLAT. 2. WHITE. D. ONE. E. NONE. F. NONE. G. SHORT REDDISH.
+      TRAIL. H. APPEARED SAD AND LENGTHY IN DIAMETER OF BODY. I. NO SOUNDS.
 
-4. KIND OF SIGHTING:
-   A. PRECISE, 3 WORK
+2. DESCRIPTION OF COURSE
+   A. FAST RATE OF SPEED. B. FIRST SIGHTED BEARING 45 DEGREES
+      ELEVATION 24 DEGREES. C. FIRST APPEARED BEARING 135 DEGREES TRUE
+      HORIZON. D. IN SIGHT 2 MINUTES.
+      E. MANNER OF OBSERVATIONS
+      F. UNAIDED EYE AND BINOCULARS
 
-5. POSITION: 185-220
+3. LOS OF SIGHTING
+   A. 2216 L. 3. NIGHT.
 
-6. OBSERVED BY: OCD, OGG, LOOKOUT AND QUARTERMASTER
+4. POSIT IS-ISN 188-12E
 
-[Classification Cancellation stamp and signatures partially visible]
+5. OBSERVER BY OCD.UOOG.LCMDRNI AND QUARTERMASTER.
+
+6. WEATHER
+
+[handwritten notations on right side]:
+Classification Cancelled
+[signature]
+Declassified
+Authority
+[signature/stamp] AFR 205-2 [date]
+3 June
 
 UNCLASSIFIED
-
 
 - page 2 -
 

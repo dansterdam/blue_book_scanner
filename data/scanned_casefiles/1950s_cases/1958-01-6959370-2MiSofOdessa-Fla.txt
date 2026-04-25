@@ -6,17 +6,35 @@ PROJECT 10073 RECORD CARD
 2. LOCATION
 2 Mi S of Odessa, Fla.
 
+12. CONCLUSIONS
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
 3. DATE-TIME GROUP
-Local     GMT
-27/16457
+Local ________
+CMT 27/1643Z
 
 4. TYPE OF OBSERVATION
-☐ Ground-Visual   ☐ Ground-Radar
-☒ Air-Visual     ☐ Air-Intercept Radar
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Air-Intercept Radar
+
+[ ] Ground-Radar
+[ ] [illegible]
 
 5. PHOTOS
-☐ Yes
-☒ No
+[ ] Yes
+[X] No
 
 6. SOURCE
 Civilian
@@ -25,51 +43,50 @@ Civilian
 5 mins
 
 8. NUMBER OF OBJECTS
-one
+One
 
 9. COURSE
 SE
 
 10. BRIEF SUMMARY OF SIGHTING
-Rnd. white obj., about half the size of a large airliner. Was NW bound in trail of a large A/C getting as close as about 14 miles. It then seemed to bank to the right & traveled SE at a very rapid rate of speed.
+Red, white obj. about half the size of a large airliner. Was NW bound in trail of a large A/C getting as close as about 1½ miles. It then seemed to bank to the right & traveled SE at a very rapid rate of speed.
 
 11. COMMENTS
-This description is that of an a/c probably coincidence that a/c point crossed at different alt.
+The description is that of an a/c. Probably coincidence that a/c passed crossed at different alt.
 
-12. CONCLUSIONS
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
-☒ Was Aircraft
-☒ Probably Aircraft
-☐ Possibly Aircraft
-☐ Was Astronomical
-☐ Probably Astronomical
-☐ Possibly Astronomical
-☐ Other
-☐ Insufficient Data for Evaluation
-☐ Unknown
-
-ATCG FORM 329 (REV 26 SEP 52)
-
+ATIC FORM 329 (REV 24 SEP 52)
 
 - page 1 -
 
-Here is the text from the document:
+[handwritten: unclear]
 
-SG0620T SG0107 VDB100 VYD051 VDC049KBA029
+[handwritten: D/4E4]
+[handwritten: 3 4X8x2]
+[handwritten: GY82]
+
+SAR229T SQG197 YDS120 VYD951 VDC249XBA929
+
 PP RJEDDN RJEDSQ RJEPHQ RJEPNB
-ON RJESKB 1D
-P 2315002
 
-FM COMDR 660TH ACWRON MACDILL AFB FLA
+DE RJESKB 1D
+
+P 231520Z
+
+FM COMDR 6S0TH ACW.RON MACDILL AFB FLA
+
 TO RJEDDN/COMDR ADC
-RJESKB/COMDR 35TH ADIV
-RJEDSQ/COMDR AIR TECH INT CNTR
-RJEPHQ/DIR OF INT HQ USAF
-INTO RJEPNB/COMDR EADF
 
-UNCLASSIFIED/OPS 0060 PD UFOB PD ATTN: EADF CIO PD
+RJESKB/COMDR 35TH ADIV
+
+RJEDSQ/COMDR AIR TECH INT CNTR
+
+RJEPHQ/ DIR OF INT HQ USAF
+
+INFO RJEPNB/COMDR EAEF
+
+BT
+
+UNCLASSIFIED/OPS 0053 PD UFOB PD ATTN: EADF CIO PD
 
 1. A. ROUND SPHERE
 
@@ -89,69 +106,75 @@ UNCLASSIFIED/OPS 0060 PD UFOB PD ATTN: EADF CIO PD
 
 9. NONE
 
-
 - page 2 -
 
 C. NONE
+
 D. 15 MILES
+
 E. CLEAR
+
 F. NONE
+
 G. NONE
-9. N/A
+
+S. N/A
+
 10. ONE A/C IN LEAD OF THIS OBJECT ABOUT ONE AND ONE HALF MILES
+
 11. POSSIBILITY THAT THIS WAS AN AIRCRAFT INTERCEPTING ANOTHER AT A HIGHER ALTITUDE AND THE PATH OF THE AIRLINER HAPPENED TO COINCIDE WITH THOSE OF THE FIGHTERS. SHEEPMAN HAD TWO NAVY FIGHTERS IN THAT LOCATION AT ABOUT THAT TIME PD SENIOR DIRECTOR PD
+
 12. NONE
 
-NOTE: The description is that of an a/c. It was put coincident with the path. Crossed at different altitudes.
-
 BT
-28/1555Z JAN RJESKS
 
-PROB A/C
+28/15552 JAN RJESKB
 
+[handwritten: NOTE: the description is that of a night light. it was very considerable that the right path crossed at different altitudes. PPOB A/C]
 
 - page 3 -
 
-PAGE TWO RUESKO ID
+PAGE TWO RJESKB 1D
 
-A. AN AIRLINER IN LEAD OF OBJECT WAS TRAVELING S.E. TO N.W. WITH
+1. AN AIRLINER IN LEAD OF OBJECT WAS TRAVELING S.E. TO N.W. WITH
 THE OBJECT IN TRAIL
 
-B. THE SOUND BY THE ENGINES OF THE AIRLINER
+2. THE SOUND BY THE ENGINES OF THE AIRLINER
 OVERHEAD
 
-C. DISAPPEARED IN S.E. FADING IN TO THE HORIZON
+3. DISAPPEARED IN S.E. FADING IN TO THE HORIZON
 
-D. WAS N.W. BOUND IN TRAIL OF LARGE A/C GETTING AS CLOSE
+4. WAS N.W. BOUND IN TRAIL OF LARGE A/C GETTING AS CLOSE
 AS ABOUT ONE AND ONE HALF MILES PD IT SEEMED TO BANK
 TO THE RIGHT AND TRAVEL TO S.E. AT A VERY RAPID RATE OF SPEED
-OBJECT FADED INTO THE HORIZON
 
-E. APPROXIMATELY FIVE MINUTES
+5. OBJECT FADED INTO THE HORIZON
 
-F. A. GROUND VISUAL
+6. APPROXIMATELY FIVE MINUTES
 
-G. NONE
+7. A. GROUND VISUAL
 
-H. N/A
+8. NONE
 
-I. 27 JAN 1145 EST
+9. N/A
 
-J. 27/1845Z
+10. 27 JAN 1145 EST
 
-K. DAY
+11. 27/1S45Z
 
-L. TWO MILES SOUTH OF ODESSA FLORIDA CMM 823°W 282°N
-RT. 1 RETIRED ARMY
+12. DAY
 
-M. CLEAR
+13. TWO MILES SOUTH OF ODESSA FLORIDA CMM 8230W 2820N
 
-N. 300DEGREES-35K, 300DEGREES-50K, 500 DEGREES-85K, 300DEGREES-85K,
+14. [REDACTED] RT. 1 [REDACTED] RETIRED ARMY
 
-PAGE THREE RUESKO ID
+15. CLEAR
 
-O. 28DEGREES+100K 290DEGREES-135K, 290DEGREES-102K, 280DEGREES-100K,
+16. 330DEGREES-35K, 290DEGREES-50K, 320 DEGREES-35K,390DEGREES-65K,
 
+PAGE THREE RJESKB 1D
+
+290DEGREES-120K 290DEGREES-135K, 290DEGREES-120K, 280DEGREES-120K,
 
 - page 4 -
 

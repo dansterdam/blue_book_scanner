@@ -1,59 +1,62 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE
-8 Jan 54
+1. DATE: 8 Jan 54
 
-2. LOCATION
-Berlin Germany
+2. LOCATION: Berlin Germany
 
-3. DATE-TIME GROUP
-2027
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-4. TYPE OF OBSERVATION
-Ground-Visual
+3. DATE-TIME GROUP:
+Local: 2027
+GMT: 03/1927Z
 
-5. PHOTO
-Yes
-No
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual
+[ ] Ground-Radar
+[ ] Air-Visual
+[ ] Air-Intercept Radar
 
-6. SOURCE
+5. PHOTOS:
+[ ] Yes
+[X] No
+
+6. SOURCE:
 Civilian
+[handwritten circle around "Civilian"]
 
-7. LENGTH OF OBSERVATION
-5 - 10 seconds
+8. NUMBER OF OBJECTS: One
 
-8. NUMBER
-One
+9. COURSE: SE
 
-9. COURSE
-SE
+7. LENGTH OF OBSERVATION: 5 - 10 seconds
 
-10. BRIEF SUMMARY OF SIGHTING
-Object described as about the brightness of the full moon observed in flight from the NW to the SE. Straight flight. No features, no sound or trail. Speed twice that of jet a/c jet slower than meteor.
+10. BRIEF SUMMARY OF SIGHTING:
+Object described as about the brightness of the full moon observed in flight from the NW to the SE. Straight flight. No features, no sound or trail. Speed twice that of jet a/c yet slower than meteor.
 
-11. COMMENTS
+11. COMMENTS:
 Meteor speeds consistent with the distance in degrees of arc through which the object traveled. Case evaluated as a meteor sighting.
 
-12. CONCLUSIONS
-Was Balloon
-Probably Balloon
-Possibly Balloon
-Was Aircraft
-Probably Aircraft
-Possibly Aircraft
-Was Astronomical
-Probably Astronomical
-Possibly Astronomical
-Other:
-Insufficient Data for Evaluation
-Unknown
-
-ATIC FORM 329 (REV 16 SEP 59)
-
+ATIC FORM 329 (REV 24 SEP 52)
 
 - page 1 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
+
+28/1170 BLOCKS ROAD, V[illegible]
+
+[handwritten: Multi]
 
 DEPARTMENT OF THE AIR FORCE
 HEADQUARTERS UNITED STATES AIR FORCE
@@ -63,53 +66,63 @@ THE INSPECTOR GENERAL, USAF
 5TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
 WRIGHT-PATTERSON AIR FORCE BASE, OHIO
 
-IN REPLY REFER TO: 5D-24-21-134                                                29 April 1954
+IN REPLY REFER TO:
+
+5D-22-21-134                                29 April 1954
 
 SUBJECT: Sighting of Unidentified Objects Near
-          Blackstone, Virginia
-          SPECIAL INQUIRY
+         Blackstone, Virginia
+         SPECIAL INQUIRY
 
-To:   Commander
-      Air Technical Intelligence Center
-      Wright-Patterson Air Force Base
-      Ohio
-      ATTN: ATIAC-20
+TO:      Commander
+         Air Technical Intelligence Center
+         Wright-Patterson Air Force Base
+         Ohio
+         ATTN: ATIC-2C
 
-1. Transmitted herewith for your information is material identified under enclosures which is pertinent to unidentified flying objects.
+1. Transmitted herewith for your informatica is material identified
+under inclosure which is pertinent to unidentified flying objects.
 
-2. The enclosed material was furnished this District Office by the Directorate of Special Investigations.
+2. The inclosed material was furnished this District Office by
+the Directorate of Special Investigations.
+
+[signature: Robert P. Johnson Jr]
+
+ROBERTS P. JOHNSON, JR.
+Colonel, USAF
+District Commander
 
 2 Incls
-1. Cy of ltr fr Du #21,                                  ROBERTS P. JOHNSON, JR.
-    dtd 11 Feb 54, to Comdr,                              Colonel, USAF
-    405th Fighter Bomber Wg,                             District Commander
-    Langley AFB
-2. Extract fr CSI, Hq USAFS
-    Summary of Positive Intell
-    Activities for Month of
-    Jan 54, dtd 18 Feb 54
+1. Cy of ltr fr DU #21,
+   dtd 11 Feb 54, to Comdr,
+   405th Fighter Bomber Wg,
+   Langley AFB
+2. Extract fr CSI, hq USAFB
+   Summary of Positive Intell
+   Activities for Month of
+   Jan 54, dtd 13 Feb 54
 
 cc: Dir OSI w/o incls
 
 DOWNGRADED AT 3 YEAR INTERVALS
-DECLASSIFIED AFTER 12 YEARS
-DCD DEC 20-2010
+DECLASSIFIED AT TOP 13 YEARS
+DOD DIR 5200.10
 
 UNCLASSIFIED
 
+[reference numbers at bottom: 5D-22-21-134 and 54 MO-170/442]
 
 - page 2 -
 
-UNCLASSIFIED
+[stamp: UNCLASSIFIED]
 
-The following information was extracted from the OSI, HQ USAFE Summary of Positive Intelligence Activities for the Month of January 1954, dated 18 February 1954
+The following information was extracted from the OSI, H* USAFE Summary of Positive Intelligence Activities for the Month of January 1954, dated 18 February 1954:
 
-"4. Unidentified Flying Object Reported over BERLIN"
+"4. Unidentified Flying Object Reported over BERLIN
 
-"On 8 January 1954, a German resident of the American Sector of BERLIN noted an unidentified object, similar in appearance and size to a full moon, traveling in a straight path from northwest to southeast over the American sector of BERLIN. Time of observation was 2027 hours (local time), and source observed the object for a period of approximately five (5) to seven (7) seconds, at which time it disappeared behind the surrounding buildings. Weather conditions at time of observation were clear sky, a few scattered clouds. Wind at approximately five (5) to ten (10) miles per hour, and temperature 200 to 250F. Source could give no additional aerodynamic features but stated that there was no sign of exhaust trail nor could any sound be heard from the object. The object traveled in a straight line at a constant altitude and speed. Source was unable to estimate altitude of the object but stated that speed of the object appeared to be twice that of a jet fighter aircraft but much slower than the speed of a meteor."
+"On 8 January 1954, a German resident of the American Sector reported an unidentified object, similar in appearance and size to a full moon, traveling in a straight path from northwest to southeast over the American Sector of BERLIN. Time of observation was 2027 hours (local time), and source observed the object for a period of approximately five (5) to seven (7) seconds, at which time it disappeared behind the surrounding buildings. Weather conditions at time of observation were clear sky, a new quarter moon, wind approximately five (5) to ten (10) miles per hour, and temperature 20° to 25°F. Source could give no identifying, aerodynamic features but stated that there was no sign of exhaust trail or smoke and no sound was heard from the object. The object traveled in a straight line at a constant altitude and speed. Source was unable to estimate altitude of the object but stated that speed of the object appeared to be twice that of a jet fighter aircraft but much slower than the speed of a meteor."
 
-UNCLASSIFIED
-
+[stamp: UNCLASSIFIED]
 
 - page 3 -
 

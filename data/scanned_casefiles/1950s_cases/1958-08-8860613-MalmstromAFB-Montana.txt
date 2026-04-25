@@ -1,123 +1,116 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE
-4 August 1958
+1. DATE: 4 August 1958
 
-3. DATE-TIME GROUP
-Local
+2. LOCATION: Malmstrom AFB, Montana
+
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[X] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
+
+3. DATE-TIME GROUP:
+Local _______________
 GMT 05/0515Z
 
-4. PHOTOS
-□ Yes
-■ No
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual     [X] Ground-Radar
+[ ] Air-Visual         [ ] Air-Intercept Radar
 
-7. LENGTH OF OBSERVATION
-30 secs
+5. PHOTOS:
+[ ] Yes
+[X] No
 
-10. BRIEF SUMMARY OF SIGHTING
-Flying wing or delta shaped obj, size
-of volleyball, bright silver color,
-solid shape with no openings, props
-or exhaust & no other conventional
-means of motivation visible. Had a
-varied pitch whistling sound fading &
-rising about 5 seconds in between rise
-& fall of the pitch. Had quieter
-sound than a jet.
-
-2. LOCATION
-Malmstrom AFB, Montana
-
-5. SOURCE
+6. SOURCE:
 Military
 
-8. NUMBER OF OBJECTS
-one
+7. LENGTH OF OBSERVATION: 30 secs
 
-11. COMMENTS
-The description of the obj
-is typical of an F-100 series
-type a/c.
+8. NUMBER OF OBJECTS: one
 
-6. OBSERVATIONS
-□ Ground-Visual
-□ Air-Visual
-□ Ground-Radar
-□ Air-Intercept Radar
+9. COURSE: North
 
-9. COURSE
-North
+10. BRIEF SUMMARY OF SIGHTING:
 
-12. CONCLUSIONS
-□ Was Balloon
-■ Probably Balloon
-□ Possibly Balloon
-□ Was Aircraft
-■ Probably Aircraft
-□ Possibly Aircraft
-□ Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other
-□ Insufficient Data for Evaluation
-□ Unknown
+Flying wing or delta shaped obj, size of volleyball, bright silver color, solid shape with no openings, props or exhaust & no other conventional means of motivation visible. Had a varied pitch whistling sound fading & rising about 5 seconds in between rise & fall of the pitch. Had quieter sound than a jet.
 
-AMC FORM 164 (REV 26 SEP 52)
+11. COMMENTS:
 
+The description of the obj is typical of an F-100 series type a/c.
+
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
-Here is the text from the document:
+[handwritten at top: ATIE Wuman AFC IN 4X2A → [illegible] 26239 aide A [illegible]]
+[handwritten: Witmore Delivered to Base OD]
 
-ATIC Norman
-A FC IN 4X2A
-05/0575Z
-Witness Delayed to Base OD
+CZQSQF539ZGTB144
 
-CZESQF5392CY61BA
-PP RJESQQ
-DE RJW2GU 37
-P 872608Z
-FM COMDR 29TH FTR INTCP SQ MALMSTROM AFB
-TO RJEDDV/COMDR ADC
-INFO RJEDDV/COMDR 1860TH AISS ENT AFB
-ZNY/COMDR 29TH ADIV
+FP RJEDSO
+
+DE RJWZGU 37
+
+P GT20002
+
+FM COMDR 29TH FTR INTOP SQ MALMSTROM AFB
+
+TO RJEDDN/COMDR ADC
+
+INFO RJEDDN/COMDR 1096TH AISS ENT AFB
+
+ZEN/COMDR 29TH ADIV
+
 RJEDSO/COMDR AIR TECH INTEL CENTER WRIGHT PATTERSON AFB
+
 RJEPHO/ASST CHIEF OF STAFF INTEL HQ USAF
+
 RJEPHO/COMDR OFFICE OF INFO SERVICES HQ USAF
 
 BT
-UNCLAS/ INT 661. "UFO" REF AFR 200-2 PAR 15 A.(1)
-FLYING WING OR DELTA WING SHAPE (2) SIZ COMPARABLE TO A VOLLEYBALL
+
+/UNCLASS/ INT 661. "UFO" REF AFR 200-2 PAR 15 A.(1)
+
+FLYING WING OR DELTA WING SHAPE @ SIZE COMPARABLE TO A VOLLEYBALL
 HELD AT ARMS LENGTH (3) BRIGHT SILVER COLOR (4) ONE (1) (5) N/A
-(6) SOLID SHAPE WITH NO OPENINGS, NO PROPS, OR EXHAUST AND NO TIER
+(6) SOLID SHAPE WITH NO OPENINGS, NO PROPS, OR EXHAUST AND NO THER
 CONVENTIONAL MEANS OF MOTIVATION VISIBLE (7) NO TAIL SECTION, NO
 SMOKE OR EXHAUST TRAILS (8) IT HAD A VARIED PITCH WHISTLING SOUND
 FADING AND THEN RISING IN PITCH ABOUT FIVE (5) SECONDS IN BETWEEN
 RISE AND FALL OF THE PITCH. IT HAD A SUBDUED SOUND MUCH QUIETER
 THAN A JET. (9) NONE B. (1) THE WHISTLING SOUND (2) 90 DEG.
-DIRECTLY OVERHEAD (3) 36 DEG ANGLE UPON DISAPPEARANCE (4) A
+DIRECTLY OVERHEAD (3) 30 DEG ANGLE UPON DISAPPEARANCE (4) A
 
-FLASH "UFO" RCPT
+[handwritten: FLASH "UFO" REPT]
 
+[handwritten at bottom: End #42]
 
 - page 2 -
 
-PAGE TWO RMJ2GU 37
+PAGE TWO RJWZGU 37
 
-STRAIGHT LEVEL COURSE (5) GRADUALLY TO THE NORTH (6) 30 SECONDS
+STRAIGHT LEVEL COURSE (B) GRADUALLY TO THE NORTH (C) 30 SECONDS
 
-C. (1) GROUND-VISUAL (2) NONE (3) N/A D. (1) 868192 (2) NIGHT
+C. (1) GROUND-VISUAL (2) NONE (3) N/A D. (1) @05152 (2) NIGHT
 
-E. 47 DEG 51 MIN N 111 DEG 11 MIN U AIRCRAFT PARKING AREA
+E. 47 DEC 31 MIN N 111 DEG 11 MIN W AIRCRAFT PARKING AREA
 
-MALMSTROM AFB, MONTANA F. (1) N/A (2) BERNARD G. BELL A/2C 29TH
+MALMSTROM AFB, MONTANA F. (1) N/A (2) BEJNARD G. BELL N/C 29TH
 
-FIS ROVING AIRCRAFT GUARD RELIABLE G. (1) CLEAR EXCEL VIS (2)
+FIS BOVINE AIRCRAFT GUARD RELIABLE G. (1) CLEAR EXCEL VIS (2)
 
-GN 260/19K 1M 250/19K 1GM 270/20K 2GM 270/30K 3GM 260/35K
+GM 268/19K 18M 25@/15K 16M 27@/28K 2@M 27@/30K 3@M 268/35K
 
-3GM 260/40K 5GM 270/25K EST (3) UNLTD (4) 30 MILES (5) NONE
+5@M 26@/4@K 6@M 27@/25K EST (3) UNLTD (4) 30 MILES (5) NONE
 
 (6) NONE H. NON NO TEMPERATURE INVERSION I. NO SCRAMBLE ORDERED
 
@@ -127,230 +120,267 @@ UNCONVENTIONAL OBJECT WAS SIGHTED. ADC RADAR IN CLOSE PROXIMITY
 
 TO FLIGHT PATH OF THE OBJECT DID NOT PICK UP THE OBJECT. APPROACH
 
-CONTROL RADAR DID PICK UP AN UNIDENTIFIED TARGET FOR APPROX 4
+CONTROL RADAR DID PICK UP AN UNIDENTIFIED TARGET FOR APPROX A
 
 SWEEPS. DESCRIPTION OF LIGHTS AND FLIGHT PATH WERE DIFFERENT THAN
 
-LOCALLY ASSIGNED AIRCRAFT WHICH WOULD HAVE BEEN RECOGNIZED
+LOCALLY ASSIGNED AIRCRAFT WHICH WOULD HAVE BEEN RECOGNIZED BY
 
 BY OBSERVER. THERE IS NO GOOD EXPLANATION OF WHAT THE OBJECT
 
 WAS.
 
-BT
-R-11: The only no mystique extra
-a/c after 200-??
+[handwritten: Bejt, ha why no mnstrum cctn a interest is genuine AFR 200-2 ???]
 
-The description of the
-object is of typical of
-an F-100 series type, etc.
+BT
+
+07/28/62 AUG RJWZGU
+
+[handwritten: Description of the object is f typical of what we know as F-100 series T/C]
+
+[handwritten: [illegible section]]
+
+[handwritten: 17/15]
+
+[handwritten: 7 & 9 5]
 
 NNNN
 
-
 - page 3 -
-
-Here is the text from the document:
 
 JOINT MESSAGEFORM
 
-SECURITY CLASSIFICATION: UNCLASSIFIED
+SECURITY CLASSIFICATION
+UNCLASSIFIED
 
-TO: COMDR, 29TH PTR INTCPTR SQDN
-MALMSTROM AFB, MONTANA
+SPACE BELOW RESERVED FOR COMMUNICATION CENTER [handwritten: 19 AUG 1958] [handwritten: 9/E]
 
-INFO: COMDR, 1006TH ALS, HQ, ADC, ENT AFB, COLORADO
+PRECEDENCE | TYPE MSG (Chkd) | ACCOUNTING SYMBOL | ORIG. OR REFERS TO | CLASSIFICATION OF MSG
+ACTION: ROUTINE | BOOK [ ] MULTI [X] SINGLE [ ] | AB | INT 661 | UNCL
+INFO: ROUTINE | | | | SPECIAL INSTRUCTIONS
+FROM: CMLDR, ATIC
 
-INFO: ACS/I, AFCIN-XL, HQD USAF, WASH., D.C.
+TO: COMLDR, 29TH STR INTERCPTR SQN
+MALMSTROM AFB, MONTANA [handwritten: @ 60]
 
-UNCLASSIFIED/FROM: AFCIN-4E4
+LT'O: COMLDR, 1006TH AES, H. ADO, ENT AFB, COLORADO [handwritten: 00A 3F 891/2]
 
-REF: YOUR UFO RPT, TT MSG INT 661, DTD 7 AUG 1958. THIS CENTER
+LT'O: ACS/I, ARCIN-XL, HED USAF, WASH., D.C. [handwritten: ALA VA 457] [handwritten: 890] [handwritten: 27] [handwritten: and 42/8]
+[handwritten: N 42°58'S]
+
+[UNCLASSIFIED] FROM: AFOIN-4E4
+
+RE: YOUR UFO RPT, IT MSG INT 661, DTD 7 AUG 1958. THIS CENTER
 CHARGED WITH RESPONSIBILITY OF EVALUATING AND/OR DETERMINING NATURE
-OF UFOS. CANNOT UNDERTAKE ANALYSIS ON DATA OF LIMITED DATA GIVEN
+OF UFOS. CANNOT UNDERTAKE ANALYSIS ON BASIS OF LIMITED DATA GIVEN
 AND APPARENT NON-COMPLIANCE WITH AF REG 200-2, DTD 8 AUG 1958,
 SPECIFICALLY PAR 1 (REQUIREMENT FOR RAPID IDENTIFICATION) AND PAR
-151 (INTERCEPT ACTION) AND PAR 17 (COMPLETE ON-THE-SPOT SURVEY).
+154 (INTERCEPT ACTION) AND PAR 17 (COMPLETE ON-THE-SPOT SURVEY).
 
 ALTHOUGH YOU OFFICIALLY RPT THAT UFO OBSERVED BY RELIABLE SOURCE,
-MEMBER OF YOUR UNIT, UNIDENTIFIED TARGET PICKED UP BY YOUR AIRCRAFT
-RADAR, ADMISSION THAT OBJECT UNCONVENTIONAL, AND THEN LIGHTS AND
-PATH OF OBJECT DIFFERENT THAN THOSE NORMALLY RECOGNIZED BY OBSERVER
-TO INDICATE ACTIVITY, WAS TAKEN TO DETERMINE NATURE OR IDENTITY OF
-OBJECT. IN VIL. OF FACT TIGHT-REPT ROSTER UNITS CONSIDERED IN
+MEMBER OF YOUR UNIT; UNIDENTIFIED TARGET PICKED UP BY YOUR AIRCRAFT
+RADAR; ADMISSION THAT OBJECT UNCONVENTIONAL, AND ITEM LIGHTS AND
+PATH OF OBJECT DIFFERENT THAN THOSE NORMALLY RECOGNIZED BY OBSERVER-
+[handwritten: S, INSUFFICIENT BASIS ON WHICH - TO DETERMINE NATURE OR IDENTIFY EX]
+OBJECT. I. VIZ. OF PLOT -IGT-R-7.0 TOGETHER UNITS CONSIDERED IN
 
-SYMBOL: AFCIN-4E4
+DATE | TIME
+DAY | [handwritten: 8]
+MONTH | [handwritten: AUG] [handwritten: 1300]
+YEAR | [handwritten: 58]
 
-TYPED NAME AND TITLE: CAPT. (GEORGE) F. GREGORY
-PHONE: 6-9216
+SYMBOL | SIGNATURE
+AFOIN-4E4 | [handwritten signature]
 
-SIGNATURE: [Handwritten signature]
+TYPED NAME AND TITLE (Signature, if signed) | TYPED NAME AND TITLE (if unsigned, please print)
+CAPT'AIN GEORGE T. GREGORY | WALLACE W. ELWOOD
+PHONE: 6-9216 | Captain, USAF
+| NO. 1 | NO. 2 | Assistant Administrative Officer
 
-TYPED NAME AND TITLE: WALLACE W. ELWOOD
-Captain, USAF
-Assistant Administrative Officer
+SECURITY CLASSIFICATION
 
-DD FORM 173 (MAY 49) REPLACES DD FORM 178, 1 OCT 48, WHICH WILL BE USED UNTIL EXHAUSTED
-
+FORM DD 173 | REPLACES DD FORM 173, 1 OCT 46, WHICH WILL BE USED UNTIL EXHAUSTED
+[handwritten: 9/11/44?]
 
 - page 4 -
 
-JOINT MESSAGEFORM - CONTINUATION SHEET
+JOINT MESSAGEFORM - CONTINUATION SHEET                    SECURITY CLASSIFICATION
+                                                                   UNCLASSIFIED
 
-SECURITY CLASSIFICATION: UNCLASSIFIED
+FROM:
 
-FROM: COMDR, ATIC
+CODR, ATIC
 
 BEST POSSIBLE POSITION TO CARRY OUT IDENTIFICATION - INTERCEPT
-DIRECTIVES AS OUTLINED BY AG-17 IN SUBJECT REGULATION, REQUEST
-INFO OR CLARIFICATION AS TO REASON NO INTERCEPT ATTEMPTED. JTL: CYS OF
-REPLY TO ASST CHIEF OF STAFF, INT. AFCIN-X2, HQ. USAF AND COMDR,
-1006TH AISS, ADC, EHT AEB, SWA-TS REQUIRED FOR ENTRY INTO AIR FORCE
-UFO CASE FILE. IN REPLY REFER TO MALMSTROM UFO CASE FILE, 4B46.
+
+DIRECTIVES AS OUTLINED BY ACJ/I IN SUBJECT REGULATION; REQUEST
+
+UFO OR CLARIFICATION AS TO REASON NO INTERCEPT ATTEMPTED. JTH: OYS &
+
+REPLY TO ASST CHIEF OF STAFF, INT, AFOIN-X2, HQ, USAF AND CODR,
+
+1006th AISS, ADC, ENT ARB. SWOIS REQUIRED FOR ENTRY INTO AIR FORCE
+
+UFO CASE FILE. IN REPLY REFER TO MALMSTROM UFO CASE FILE, AFLE,
 
 4 AUG 58.
 
+
 COORDINATION:
-AFCIN-4EJ, [signature] Date 13 Aug 58
-Dr. Riley
 
-AFCIN-4E, [signature] Date 21 Aug 58
-Col Gilbert
+AFOIN-4El [handwritten: Dammer] Date [handwritten: 13Aug58]
+                Dr. Wiley
 
-AFCIN-4X, [signature] Date 13 Aug 58
-Col Long
+AFOIN-4E [handwritten: ????] Date [handwritten: 2/4/10]
+             Col Gilbert
 
-AFCIN-4XJ, [signature] Date 15 Aug 58
-Mr. Ackers
+AFOIN-4JZ [handwritten: Sctllong] Date [handwritten: 15Aug58]
+             CSI Long
 
-SYMBOL: AFCIN-4EJ
-PAGE NO: 2
-NR OF PAGES: 2
-SECURITY CLASSIFICATION: UNCLASSIFIED
+AFOIN-4EA [handwritten: [illegible]] Date [handwritten: 15(Aug)58]
+             Maj Archer
 
-DD, FORM 173-1 (2ND FTD)
 
+SYMBOL                                PAGE         NR OF      SECURITY CLASSIFICATION          INITIALS
+AFOIN-4E4                             2            2          UNCLASSIFIED
+
+DD, FORM  173-1
+[handwritten: Reel 441]
+
+U.S. GOVERNMENT PRINTING OFFICE: 1885——688288
 
 - page 5 -
 
-Some of the text appears to be inverted or upside down, and parts are difficult to read clearly. I'll transcribe what I can make out:
+[This page appears to be printed/typed text that is severely inverted or reversed, making it extremely difficult to read with certainty. The document appears to be from a Project Blue Book file based on the context provided, but the text is not legible enough for accurate character-by-character transcription without substantial guessing.]
 
-Top right corner appears to have a date, but it is not fully legible.
-
-The text is mostly illegible due to the image quality, orientation, and faintness of the text. Large portions of the document are unreadable. There are some paragraphs that seem to be written in a standard format of an official document, but the specific content cannot be determined with confidence.
-
-At the bottom of the page, there are some partially visible lines that look like they might be part of a routing or filing notation, but the text is not clear enough to transcribe accurately.
-
+[illegible section - page text is inverted/reversed and unreadable]
 
 - page 6 -
 
-Here is the text from the document:
-
 JOINT MESSAGEFORM
 
-SECURITY CLASSIFICATION: UNCLASSIFIED
+[stamp: SECURITY CLASSIFICATION]
+UNCLASSIFIED
 
-PRECEDENCE: IMMEDIATE
-TYPE MSG: R
-ACCOUNTING VIEWS: AF
-ORIG. OR REFERS TO: INT 661
-CLASSIFICATION: UNCL
+SPACE BELOW RESERVED FOR COMMUNICATION CENTER
 
-FROM: LOWDRY, MATO
+PRECEDENCE | TYPE MSG (Check) | ACCOUNTING | ORIG. OR REFERS TO | CLASSIFICATION
+           |                  | SYMBOL     |                    | OF REFERENCE
+ACTION     | ROUTINE          | DOCS MULTI SINGLE | AS | INT 661 | UNCL
+INFO       | ROUTINE          |            |      |    |         |
+FROM:      |                  |            |      |    |         | SPECIAL INSTRUCTIONS
 
-TO: 
-COMDR, 29TH ATR INTCP WG JPN
-MALMSTROM AFB, MONTANA
+USAFIN ATC
 
-INFO:
-TUCOR COMDR, 1006TH AEIS, HQ ADC, ENT AFB, COLORADO
-TUCOR AC/S/I, AC/INT-21, HQ USAF, WASH., D.C.
+TO: COMDL, 29TH ATR INSNIN JAN
+    MALMSTM A F, MONTANA
 
-/UNCLASSIFIED/ STMNT: ACCIN-LEAD
+INFO: COMDL, 10006M A.F.J., 4. ADG, ENT A.F.B., COLORADO
 
-RE YOUR UFO RPT, IT MSG INT 661, DTD 7 AUG 1958. THIS CENTER CONCURS WITH RESPONSIBILITY OF EVALUATING AND/OR DETERMINING NATURE OF UFO. CANNOT UNDERTAKE ANALYSIS IN BULK OF LIMITED DATA GIVEN AND APPARENT NON-COMPLIANCE WITH AR 200-2, DTD 8 AUG 1958.
+FM: AC/I, ACHTUNG, HQ USAF, WASH., D. C.
 
-SPECIFICALLY PAR 1 (REQUIREMENT FOR RAPID IDENTIFICATION) AND PAR 154 (INCIDENT ACTION) AND PAR 17 (COMPLETE ON-THE-SPOT SURVEY).
+DECLASSIFIED/ FROM: AFOIN-444
 
-ALTHOUGH YOU OFFICIALLY HIT THAT UFO OBSERVED BY RELIABLE SOURCE, NATURE OF YOUR UNITS INVESTIGATION TAKEN PLACED BY YOUR ATTACHED SUMMARY APPEARS THAT OBJECT UNCONVENTIONAL AND THAT LIMITS AND LACK OF DETAIL PRECLUDE THAN THOSE NORMALLY RECOGNIZED BY OBSERVERS.
+RE YOUR UFO RPT, IT MSG INT 661, DTD 7 AUG 1958. THIS CENTER
+CHANGE: WITH RESPONSIBILITY OF EVALUATING A/C/OR DETERMINING NATURE
+OF UFOS. CAREFUL UNTAKEN ANALYSIS ON BASIS OF LIMITED DATA GIVEN
+AND APPARENT NON-COMPLIANCE WITH AF RED 200-2, D/D 8 AUG 1958,
+SPECIFICALLY PAR 1 (REQUIREMENT FOR RAPID IDENTIFICATION) AND PAR
+154 (INJUCET AUTH) AND PAR 17 (COMPLETE ON-THE-SPOT SURVEY).
+ALTHOUGH YOU INITIALLY RPT THAT UFO OBSERVED BY RELIABLE SOURCE,
+SUBSEQUENT UFO IDENTIFICATION TARGET PICKED UP BY YOUR A/C RADAR
+FAILED A/NALYSI THAT OUTPUT UNCALIBRATED, AND THAT LIGHTS AND
+LIGHTS AT OBJECT DIFFERENT THAN THOSE NORMALLY PRODUCED BY AIRCRAFT AS
+INDICATED ACTION WAS TO BE = IS ITTING MISSING GT IDENTITY X
+WHICH IS NOT SUFFICIENT TARGET UNTIL COMPLETE LA
 
-[Signature and date sections are partially illegible]
+DATE | TIME
+MONTH | YEAR
+AUG | 58
 
-DD, FORM 173 (REPLACES DD FORM 172, 1 OCT 49, WHICH WILL BE USED UNTIL EXHAUSTED)
+SYMBOL | SIGNATURE
+AFOIN=ACA |
+TYPED NAME AND TITLE (Signature, if required) | TYPED (or stamped) NAME AND TITLE
+ADDRESS | ADDRESS
+PHONE | PHONE
+SECURITY CLASSIFICATION |
 
+DD. FORM 173 REPLACES DD FORM 175, 1 OCT 49, WHICH WILL BE USED UNTIL EXHAUSTED
+MAY 58
 
 - page 7 -
 
 JOINT MESSAGEFORM - CONTINUATION SHEET
 
-SUBJECT: BEST POSSIBLE POSITION TO CARRY OUT IDENTIFICATION - INTRINSIT DIRECTIVES AS OUTLINED BY AG.YR IN SUBJECT REGULATION; REQUEST LEAD ON CLARIFICATION AS TO REASON NO INTELLECT ATTEMPT... JTG CWS.R REPLY TO ASST CHIEF OF STAFF, INT. AGCIN-428, HQ, USAF AND COMDR.
+SECURITY CLASSIFICATION
+[illegible]
 
-ACCESS ALT. ADC, SAT ASD. STATUS REQUIRES LOWER INTO AIR FORCE UFO GEN FILE. IN REPLY REFER TO MALMSTROM UFO CASE 812, AFCIN-4LK.
+FROM:
+
+COBOL A-120
+
+BEST PO SIBLE POSITION TO CARRY OUT LIMITATION = IMMEDIATE
+
+DIRECTIVE AS OUTLINED BY AFCIN IN SUBJECT REGULATINS REQUIRE
+
+ALSO CLARIFICATION AS TO REASON NO INTEREPT ATTEMPTED. J/G OPS IN
+
+REPLY TO A/ST CHIEF OF STAFF, LNT, AFCIN-2E, HQ, USAF AND COMLR.
+
+LOOM ALS, ADC, INT ARB. SEVEN REQUIRE FOR UDING INTO AIR FORCE
+
+UFO CLR FILE. IN REPLY REFER TO MALMSTROM UFO CASE FILE, ENCL.
 
 4 AUG 58.
 
-COORDINATION:
+COORDINATIONS:
 
-AFCIN-4LK   Hla. Miley     Date 13 Aug 58
-            Lt. Wiley
+AFCIN-44A [handwritten: R. L. Morley] Date [handwritten: 13 Aug 58]
 
-AFCIN-4LB   Signed         Date 8/24/58
-            Col Gilbert
+AFCIN-4E [handwritten: Col] Date [handwritten: 8/14/58]
+Col Gilbert
 
-AFCIN-4L2   Col Long       Date ________
+AFCIN-42 _____________ Date _____________
+Col Long
 
-AFCIN-4L3   Mr. Aeslee     Date ________
+AFCIN-41 _____________ Date _____________
+Mr. Arsier
 
-[Bottom of form shows:]
-SYMBOL: AFCIN-4LK
-PAGE NO: 2
-NO. OF PAGES: 2
-SECURITY CLASSIFICATION: UNCLASSIFIED-2878Y
+SYMBOL | PAGE NR | NR OF PAGES | SECURITY CLASSIFICATION | INITIALS
+AFCIN-ITA | 2 | 2 | UNCLASSIFIED |
 
+DD; FORM 173-1
+MAY 58
+
+* U.S. GOVERNMENT PRINTING OFFICE: 1958—589836
 
 - page 8 -
 
 13 August 1958
 
-MEMORANDUM FOR: Mr.
+MEMORANDUM FOR: Mr. [redacted]
 
 THRU: Dr. Miley
-        Col. Gilbert
-        Col. Long
+Col. Cilbert
+Col. Long
 
-SUBJECT: Fighter Interceptor Squadrons Non-Compliance With
-         UFO Directives (AFR 200-2)
+SUBJECT: Fighter Interceptor Squadrons Non-Compliance With UFO Directives (AFR 200-2)
 
-1. This reply to an UFO report submitted by a Fighter-Interceptor
-Unit is being brought to the attention of staff and other interested
-ATIC offices as another of similar instances of non-compliance. The
-undersigned recommends that it also be brought to higher authority's
-attention as an example of non-compliance and/or apparent disinterest
-on the part of certain Air Force units which are in the best possible
-position to take immediate action to solve UFO sightings, but for some
-reason refuse to do so.
+1. This reply to an UFO report submitted by a Fighter-Interceptor unit is being brought to the attention of staff and other interested ATIC offices as another of similar instances of non-compliance. The undersigned recommends that it also be brought to Head Quarters, USAF attention as an example of non-compliance and/or apparent disinterest on the part of certain Air Force units which are in the best possible position to take immediate action to solve UFO sightings, but for some reason refuse to do so.
 
-2. Briefly, here we have a fighter interceptor unit by whose own
-admission sighted an unconventional object in its area; the unidentified
-target was picked up by its own airspeed radar, reported that the object was unconventional, and states that there were no known or locally
-assigned aircraft in its area, yet took no intercept action. It is
-assumed that ATIC is now expected to provide a conclusion or answer.
+2. Briefly, here we have a fighter interceptor unit by whose own admission sighted an unconventional object in its area; the unidentified target was picked up by its own airborne radar, reported that the object was unconventional, and stated that there were no known or locally assigned aircraft in its area, yet took no intercept action. It is assumed that ATIC is now expected to provide a conclusion or answer.
 
-3. This matter of non-compliance with current UFO directives has
-been reported to and discussed with pertinent headquarters, USAF Offices
-who concur that such violations be brought to their attention. This
-action was discussed with and approved by AFCIN-xl, Major Tacker, in
-telephone conversation, 12 August 1958.
+3. This matter of non-compliance with current UFO directives has been reported to and discussed with pertinent Headquarters, USAF offices who concur that such violations be brought to their attention. This action was discussed with and approved by AFCIN-X1, Major Tacker, in telephone conversation, 12 August 1958.
 
-2 Incls:
-1. TT Msg to 20th
-   TT TLGPH 204
-2. UFO Rpt fr same
-
+[handwritten signature]
 GEORGE A. GREGORY
 Captain, USAF
 UFO Project Officer
 
+2 Incls.
+1. FI Rpt to 25th
+     FIS [illegible] ADN
+2. UFO Rpt fr same
 
 - page 9 -
 

@@ -1,177 +1,117 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE
-16 Jan 61
-
-2. LOCATION
-Southern Calif.
-
-3. DATE-TIME GROUP
-Local: 16/2100Z
-
-4. TYPE OF OBSERVATION
-[X] Ground-Visual □ Ground-Radar
-□ Air-Visual □ Air-Intercept Radar
-
-5. PHOTO
-□ Yes
-[X] No
-
-6. SOURCE
-Civilian
-
-7. LENGTH OF OBSERVATION
-2 sec
-
-8. NUMBER OF OBJECTS
-1
-
-9. COURSE
-W
-
-12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possible Aircraft
-[X] Was Astronomical
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Meteor
-□ Other
-□ Insufficient Data for Evaluation
-□ Unknown
-
-10. BRIEF SUMMARY OF SIGHTING
-Santa Barbara* egg shaped size of Football, blue iridescent color. Obj with long fiery red tail breaking up. Tail had white center.
-Descending in 60° elev in E to horizon in W.
-Duration 2 sec.
-
-11. COMMENTS
-Meteor sighting.
+1. DATE: 16 Jan 61
+2. LOCATION: Southern Calif.
+3. DATE-TIME GROUP:
+Local: <blank>
+GMT: 16/2400Z
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual [ ] Air-Visual
+[ ] Ground-Radar [ ] Air-Intercept Radar
+5. PHOTOS: [ ] Yes [X] No
+6. SOURCE: Civilian
+7. LENGTH OF OBSERVATION: 2 sec
+8. NUMBER OF OBJECTS: 1
+9. COURSE: W
+10. BRIEF SUMMARY OF SIGHTING: Fm Port Hueneme, Point Mugu, Santa Barbara - egg shaped size of football, blue irredesent color. Objt with long firey red tail breaking up. Tail had white center. Descending fm 60° elev in E to horizon in W. Duration 2 sec.
+11. COMMENTS: Meteor sighting.
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[X] Was Astronomical Meteor
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_______________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
 ATIC FORM 329 (REV 26 SEP 52)
 
-
 - page 1 -
 
-NAVAL MESSAGE                   UNCLASSIFIED                   NAVY DEPARTMENT
+NAVAL MESSAGE    UNCLASSIFIED    NAVY DEPARTMENT
 
-P 170695Z
-
+F 172622Z
 FM SOP SANTA BARBARA-VENTURA AREA
 TO COM ELEVEN DIO
-INFO CNO
-
-AF IN: 48122 (17 Jan 61) D/spe
-
-AF DISTR:
-CIN-14
-OOP-2
-SATS-S3
-(20)
+INFO CMO
 
 UNCLAS.
-
-A. COM ELEVEN INST 3820.1A
-B. SOP PORT HUENEME-POINT MUGU-SANTA BARBARA AREA INST 3820.1
-
+A. COM ELEVEN INST 3828.1A
+B. SOP PORT MUENERE-POINT MUGU-SANTA BARBARA AREA INST 3828.1
 1. A. PROBABLY EGG SHAPE
    B. FOOTBALL SIZE
-   C. BLUE IRIDESCENT COLOR
+   C. BLUE IRRIDESCENT COLOR
    D. ONE
    E. N/A
    F. NONE
    G. PARTS BRAKING OFF-LONG RED FIERY TAIL WITH WHITE CENTER
    H. NONE
    I. UNKNOWN
-
 2. A. SAW THRU WINDOW
-   B. NNW FROM CAMARILLO, CALIF. ANGLE ELEV 60 DEG
+   B. NNW FROM CAMARILLO, CALIF. ANGLE ELEV 68 DEG
 
-92 COG
-3CCNAV UNSECNAV ASTSECNAVRESDEV 00 09 098 09M 03 33 34 05 35 05 07 07D
-73 74 75 94 IP NAVAIDE FLAGPLOT BFR CMC JCS CSA 2SAD CIA NIC COGARD
+PP COG
+ODZCON UNSCSNAV ATSETCHAVRESDEV 33 89 898 394 83 03 34 85 35 86 97 3TC 31 74 75 94 IP HAVAIDE FLAGPLOT BFR CMC JOS CSA [illegible] CIA NIC COGARD
 
-CONTROL NO.                 CIRCUIT NO.    PAGE    OF PAGES    TIME OF RECEIPT    DATE TIME GROUP
-151/RE/JG/2                 160            1        5           9739/17 JAN        170595Z JAN 61
+CONTROL NO. 151/RE/JC/2    CIRCUIT NO. 160    PAGE 1 OF 3    TIME OF RECEIPT 8739/17 JAN    DATE-TIME GROUP 172432Z JAN 61
 
 UNCLASSIFIED
-
 
 - page 2 -
 
-NAVAL MESSAGE                   UNCLASSIFIED                   NAVY DEPARTMENT
+NAVAL MESSAGE    UNCLASSIFIED    NAVY DEPARTMENT
 
-PRECEDENCE                               RELEASED BY                    DRAFTED BY        EXT. NO.
-
-C. BEHIND BLDGS, ANGLE OF ELEV 20 DEG, WNW OF CAMARILLO, CALIF.
+C. BEHIND BLDGS, ANGLE OF ELEV 23 DEG, NNW OF CAMARILLO, CALIF.
 D. DESCENDING FROM EAST TO WEST AT ABOUT 60 DEG ANGLE
 E. BEHIND VISIBLE HORIZON
 F. 2 SEC.
-
-3. A. GROUND VISUAL
+1. A. GROUND VISUAL
    B. NONE
    C. N/A
-
--4. A. 162420Z
-    B. LATE DUSK
-
-5. APPROX POSIT-LATITUDE 34-12N LONGITUDE 119-92W
-
+4. A. 162430Z
+   B. LATE DUSK
+5. APPROX POSIT-LATITUDE 34-12N LONGITUDE 119-02W
 6. A. NONE-INQUIRIES REFERRED TO USAF
-   B. SUDDRETH, J. M., LCDR, USN., PILOT, VERY RELIABLE
+   B. SUDDRETH, J. M. ,LCDR, USN., PILOT, VERY RELIABLE
+7. A. SKY CLEAR, SMOKE LAYERS NW OVER MOUNTAINS UP TO 6000 FT. 1830U PT MUGU OBSERVATION.
+   B. 1630U POINT ARGUELLO OBSERVATION SURFACE 270/4 6000 FT-110/7 12000 FT-292/17 16000 FT 193/14 200000 FT-292/9 30000 FT-292/19 50000 FT-323/37 63000 FT-333/11
+   C. UNLIMITED
+   D. UNRESTRICTED
+   E. NONE
+   F. NONE
+8. NONE
 
-7. A. SKY CLEAR, SMOKE LAYERS NW OVER MOUNTAINS UP TO 6000 FT. 1830U
-   B. 1600U POINT ARGUELLO OBSERVATION SURFACE 270/4 6000 FT-110/7 10000
-      FT-280/17 16000 FT 100/14 200000 FT-090/9 30000 FT-090/10 50000 FT-323/37
-      S2000 FT-300/11
-
-C. UNLIMITED
-D. UNRESTRICTED
-E. NONE
-F. NONE
--8. NONE
-
-CONTROL NO.         CIRCUIT NO.   PAGE    OF    PAGES   TIME OF RECEIPT     DATE TIME GROUP
-            151                   2        3           170635Z JAN 61
+CONTROL NO. 191    PAGE 2 OF 3    DATE-TIME GROUP 172605Z JAN 61
 
 UNCLASSIFIED
 
-
 - page 3 -
 
-NAVAL MESSAGE     UNCLASSIFIED     NAVY DEPARTMENT
+NAVAL MESSAGE    UNCLASSIFIED    NAVY DEPARTMENT
 
 9. NONE
-
 10. 3 JET ACFT, 2 SNB ACFT LOCAL AREA VFR FROM NAS PT MUGU
-
-11. O.O.D. NAS PT MUGU-PROBABLY A METEOR. OBSERVER STATED IT
-DEFINITELY WAS NOT AN ACFT FLARE
-
+11. O.O.D. NAS PT MUGU-PROBABLY A METEOR. OBSERVER STATED IT DEFINITELY WAS NOT AN ACFT FLARE
 12. NONE
 
 NOTE: Advance copy delivered to CIN (170445L)
 
-CONTROL NO.     CIRCUIT NO.     PAGE     OF PAGES     TIME OF RECEIPT     DATE TIME GROUP
-151                                3         3                             170305Z JAN 51
+CONTROL NO. 191    PAGE 3 OF 3    DATE-TIME GROUP 172605Z JAN 61
 
 UNCLASSIFIED
 
-
 - page 4 -
-
-Here is the OCR text from the document:
 
 1961
 
-FIREBALL CAUSES NEAR-PANIC IN CALIFORNIA: In a widely-publicized incident last January 16th, a brilliant fireball was seen by thousands of people from San Diego to San Francisco, and as far as 300 miles inland in Nevada. The object was in the sky about 15 seconds, and was described in many different ways by the people who saw it. Inquiries from frightened citizens wrapped police and newspaper switchboards throughout the area. The sighting brought about a series of panicky reports that fires were raging in large portions of the state, caused by falling embers. Other reports, all later proved false, included finding of aerial debris in various places. A rising tide of panic seemed to overtake many generally reliable officials who were soon repeatedly frantically rumored. One version of the story was that the strange fireball had crashed into a densely populated section of Hollywood Hills. The truth seems to be that it either burned out or landed somewhere in the Pacific Ocean. No one is sure as to exactly what the object was, though it is assumed to have been natural in origin.
+FIREBALL CAUSES NEAR-PANIC IN CALIFORNIA: In a widely-publicized incident last January 16th, a brilliant fireball was seen by thousands of people from San Diego to San Francisco, and as far as 300 miles inland in Nevada. The object was in view about 18 seconds, and was described in many different ways by the people who saw it. Inquiries from frightened citizens swamped police and newspaper switchboards throughout the area. The sighting brought about a series of panicky reports that fires were raging in large portions of the state, caused by falling embers. Other reports, all later proven false, included findings of metal debris in various places. A rising tide of panic seemed to overtake many generally reliable officials who were seen repeating fantastic rumors. One version of the story was that the strange fireball had crashed into a densely populated section of Hollywood Hills. The truth seems to be that it either burned out in mid-air, or else fell harmlessly into the Pacific Ocean. No one is sure as to exactly what the object was, though it is assumed to have been natural in origin.
 
-On January 16, 1951, another so-called giant meteor frightened thousands in California. The giant ball of fire trailed long multicolored tail and left an eerie bluish light after glow in the same area. It alarmed thousands of residents, already edgy because of recent unexplained phenomena. It was seen for 600 miles in California and at Las Vegas, Nevada, which is 300 miles inland. Many reported that the object didn't look like a meteor and that it appeared to be climbing in the sky, instead of burning itself out.
-
+On January 16, 1961 another so-called giant meteor frightened thousands in California. The giant ball of fire trailed long multicolored tail and left an eerie bluish light-after glow in the same area. It alarmed thousands of residents, already edgy because of recent unexplained phenomena. It was seen for 600 miles in California and at Las Vegas, Nevada, which is 300 miles inland. Many reported that the object didn't look like a meteor and that it appeared to be climbing in the sky, instead of burning itself out.
 
 - page 5 -
 

@@ -1,74 +1,54 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE
-11 May 52
-
-2. LOCATION
-Seattle, Washington
-
-3. DATE-TIME GROUP
-Local    0120 PST
-GMT      11/0920z
-
-4. TYPE OF OBSERVATION
-[X] Ground-Visual   □ Ground-Radar
-[X] Air-Visual      □ Air-Intercept Radar
-
-5. PHOTOS
-□ Yes
-[X] No
-
-6. SOURCE
-Many
-
-7. LENGTH OF OBSERVATION
-
-8. NUMBER OF OBJECTS
-1
-
-9. COURSE
-
-10. BRIEF SUMMARY OF SIGHTING
-Vivid blue. Sphere w/tail. Steep dive. Two astronomers said it was a meteorite.
-
-11. COMMENTS
-See report
-
-12. CONCLUSIONS
-□ Was Balloon
-□ Probably Balloon
-□ Possibly Balloon
-□ Was Aircraft
-□ Probably Aircraft
-□ Possibly Aircraft
+1. DATE: 11 May 52
+2. LOCATION: Seattle, Washington
+3. DATE-TIME GROUP:
+Local: 0120 PST
+GMT: 11/0920Z
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual [X] Air-Visual
+[ ] Ground-Radar [ ] Air-Intercept Radar
+5. PHOTOS: [ ] Yes [X] No
+6. SOURCE: Many
+7. LENGTH OF OBSERVATION: <blank>
+8. NUMBER OF OBJECTS: 1
+9. COURSE: <blank>
+10. BRIEF SUMMARY OF SIGHTING: Vivid blue. Sphere v/tail. Steep dive. Two astronomers said it was a meteorite.
+11. COMMENTS: See report.
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
 [X] Was Astronomical METEOR
-□ Probably Astronomical
-□ Possibly Astronomical
-□ Other
-□ Insufficient Data for Evaluation
-□ Unknown
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_______________
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-ATIC FORM 329 (REV 30 SEP 52)
-
+ATIC FORM 329 (REV 26 SEP 52)
+[stamp: RETURN TO ATIC Archives Branch, Maxwell AFB, Alabama]
+RAH3,6010-1  11-31 May 52
 
 - page 1 -
 
-Here is the text from the document:
+[newspaper clipping, publication name partially cut off, appears to be Post-Intelligencer]
 
-point of the aerial object that flashed over Western Washington early Sunday. As the map shows, the object, apparently a meteor, traveled from south to north and have been identified at the point indicated on the map. Position was determined by eyewitness reports from an officer and various ground observers. After tracking, following of the object traveled to the northwest into an area not covered by the map.
+...point of the aerial object that flashed over Western Washington early Sunday. As the map shows, the object, apparently a meteor, traveled from south to north and burst into fragments at the point indicated on the map. Position was determined by eyewitness reports from an airliner and various ground observers. After bursting, fragments of the object traveled to the northwest into an area not covered by the map. Dotted lines and arrows indicate direction of sight of eyewitnesses who established approximate location of the burst. —(Post-Intelligence Map.)
 
-Dated lines and arrows indicate direction of flight of eyewitnesses who established approximate location of the head.
+...came in from every section of parts of Western Washington. Astronomers expressed the opinion that an unusually big fireball had been destroyed aloft in spectacular manner.
 
-(rest of first paragraph is illegible)
-
-Cal. T. Allen Bennett, commanding officer of the 25th Air Force Defense Division, McChord Air Force Base, also leaned toward the theory that the object which exploded at 1:26 a. m. was a meteor, but he said his office is making a thorough check of eyewitness reports and is anxious to receive them.
+Col. T. Allan Bennett, commanding officer of the 25th Air Force Defense Division, McChord Air Force Base, also leaned toward the theory that the object which exploded at 1:26 a.m. was a meteor. But he said his office is making a thorough check of eyewitness reports and is anxious to receive them.
 
 Bennett said he doubted that the object could have been an aircraft or guided missile.
 
-None of the radar installations in the Pacific Northwest network picked up the object, he said.
+None of the radar installations in the Pacific Northwest net-work picked up the object on their screens, he said.
 
 ANGLE—
-Asked if the speed of the object Bennett said that the angle, rather than speed, probably was what caused it not to show as a "blip" on the radar scopes.
+Asked if the speed of the object may have eluded the radar, Bennett said that the angle, rather than speed, probably was what caused it not to show as a "blip" on the radar scopes.
 
 "If it was a meteor, it was probably coming nearly straight down. That would make it very difficult to track. The indications might be so insignificant that radar wouldn't pick it up," he said.
 
@@ -79,496 +59,328 @@ Bennett asked that anyone finding a "strange" piece of material report it to his
 
 Bennett said that the ground observer phase of the air defense setup is not at present on a 24-hour basis, and said no ground observers had reported seeing the flash.
 
-The two-second blast, a tremendous blue-white flare, caused no ascertainable damage, but police, fire department and newspaper switchboards were jammed by hundreds of anxious calls from suddenly awakened persons.
-
-Many believed, after the blast, (continued on Page 2 Column 1)
-
+The two-second blast, a tremendous blue-white flare, caused no ascertainable damage, but police, fire department and newspaper switchboards were jammed by hundreds of anxious calls from suddenly-awakened persons.
 
 - page 2 -
 
-Here is the text from the document:
+Meteor Explodes With A Roar; Scares Thousands In Seattle
 
-ourt Meteor Explodes With A Roar;
-Scares Thousands In Seattle
 By Associated Press
 
-SEATTLE, May 11—A giant meteor swished across western Washington and exploded with a tremendous flash and roar over Seattle at 1:26 a.m. today.
+SEATTLE, May 11—A giant meteor swished across western Washington and exploded with a tremendous flash and roar over Seattle at 1:28 a.m. today.
 
 It frightened thousands of persons as it lighted the sky and rattled doors and windows.
 
 No pieces were found, however, and the greatest damage seemed to have been inflicted on the people's nerves.
 
-A 30-second rumble followed the breaking apart of the celestial visitor into an estimated four to large pieces.
+A 30-second rumble followed the flash.
 
-Altitude Estimated
+Witnesses found it difficult to estimate the object's altitude and explosion point but triangulation fixed the explosion point somewhere over or just north of Greenlake in north central Seattle.
 
-Witnesses found it difficult to estimate the object's altitude and speed, but triangulation fixed the ample power explosion point somewhere over a mile high in the central Seattle area.
+The Coast Guard estimated from early reports that it might have been as low as 2,000 feet when it burst. However, Capt. Bert Carlson, a Northwest Airlines pilot, flying a Spokane-Seattle shuttle, said the meteor flared at 1:32 a.m. by his watch and burst into flaming fragments at about 8,000 feet.
 
-The Coast Guard estimated from early reports that it might have been as low as 2,000 feet when it burst. However, Capt. Bert Carlson, a Northwest Airlines pilot, finds said it appeared to be only a little over B. Pert. below his altitude of 8,000 feet.
-
-Newspaper and police switchboard were jammed by excited callers whose fear ranged from explosion of an atom bomb to an earthquake. Very few thought of a meteor.
-
-Police and state patrolmen practiced fruitless efforts to find pieces of the meteor.
+"We were approaching Ho-[article continues]
 
 "It was a blue-white magnesium color," they reported over the police radio. "It lit up the sky like chain lightning."
 
-There were no estimates immediately available as to the size of the meteor.
+Newspaper and police switchboards were jammed by excited callers whose fear ranged from explosion of an atom bomb to an earthquake. Very few thought of a meteor.
 
-Like Chain Lightning
+Police and state patrolmen patrols made fruitless efforts to find pieces of the meteor.
 
-Reports to the Coast Guard said the object broke into eight or 10 pieces. Two other patrolmen, J. H. Davis and R. G. Carmody, witnessed the incident from the bridge across Lake Washington, five miles southwest of Greenlake.
+AN ASTROMONER at the Yerkes Observatory, Lake Geneva, Wis., said the Seattle phenomenon apparently was a "fireball" — a big meteor heavy enough to penetrate into the earth's lower atmosphere.
 
-There is also an advertisement for "Terminix" and an advertisement for an arthritis treatment that reads "Arthritis Torture 'Nearly' Locked My Joints".
+"However, anything can happen, and the reported force of the explosion suggests that it was somewhat lower than the usual height.
 
+"METEORS' surfaces burn off rapidly from friction with the air and they often explode from the tremendous heat."
+
+Fragments are seldom found, Ku[iper] said, either because they burn up before reaching ground or because they are too small to be noticed.
+
+The chances of a meteor or a large fragment from one striking the earth are "extremely rare," Kuiper said.
+
+THREE SEATTLE police prowl cars reported the object exploded over Green Lake in North Seattle at about 2,000 feet.
+
+Sidney Howick, weather observer at the Seattle-Tacoma airport weather bureau, said: "It was sort of a lights-on, lights-off thing. It lasted two seconds at most."
+
+Most observers agreed the object was travelling from southwest to northeast when it blew up.
+
+Ten hours after the explosion, there were no reports of damage or recovered fragments.
 
 - page 3 -
 
-Here is the text from the newspaper page:
-
-RAW
-[Illegible temperature listings]
-
-The Detroit Free Press
-MONDAY, MAY 12, 1952 On Guard for Over a Century 40 Pages
+The Detroit Free Press    MONDAY, MAY 12, 1952    On Guard for Over a Century    40 Pages
 
 Was Eerie Explosion a Meteor?
+SKY BLAST ROCKS SEATTLE
 
-SKY-BLAST ROCKS
+Free Press Wire Services
 
-SEATTLE -- An unidentified radio-possibly a giant meteor -- rumbled like a freight train across the sky and exploded over Seattle early Sunday.
+SEATTLE — An unidentified missile — possibly a giant meteor — "rumbled like a freight train" across the sky and exploded over Seattle early Sunday.
 
 The Air Defense Command began an immediate investigation.
 
-The explosion rattled this industrial city of 600,000 persons in a circle 300-miles wide and knocked city dwellers from their beds.
+The explosion bathed this industrial city of 500,000 persons in an eerie blue-white light and knocked city dwellers from their beds.
 
 The blast was visible from 60 miles away, and occurred at a height estimated as low as 2,000 feet.
 
 THOUSANDS of persons were awakened by the concussion, but there was no report of damage.
 
-The phenomenon was at first definitely believed to be caused by a meteor explosion within the earth's atmosphere.
+The phenomenon was at first definitely believed to be caused by a meteor exploding within the earth's atmosphere.
 
-But astronomers said it was almost impossible for a meteor within 2,000 feet of the ground before integrating.
+But astronomers said it was almost impossible for a meteor to get within 2,000 feet of the ground before disintegrating.
 
 Some pointed out, however, that it might have been higher than reported by observers.
 
-Dr. Fred L. Whipple, Harvard University meteor expert, said that if the Washington blast had been a little lower it might have wiped out all of Seattle and its inhabitants.
+Dr. Fred L. Whipple, Harvard University meteor expert, said that if the Washington blast had been a little lower than reported it might have wiped out all of Seattle and its inhabitants.
 
-AN ASTRONOMER at the Yerkes Observatory, Lake Geneva, Wis., said the Seattle Northwest Airlines Pilot Bert Carlson sighted the object as he prepared to land at Seattle-Tacoma international airport. He said it was at about 7,000 feet when it suddenly shattered into eight pieces with a bright flash.
+Northwest Airlines Pilot Bert Carlson sighted the object as he prepared to land at Seattle-Tacoma international airport.
 
-Yerkes experts were inclined to doubt that the object exploded even as low as 7,000 feet.
+He said it was at about 7,000 feet when it suddenly shattered into eight pieces which looked like chain lightning. What appeared to be fireballs trailed to the earth, he said.
+
+AN ASTRONOMER at the Yerkes Observatory, Lake Geneva, Wis., said the Seattle phenomenon apparently was a "fireball" — a big meteor heavy enough to penetrate into the earth's lower atmosphere.
+
+But the Yerkes expert, Prof. Gerard Kuiper, said he was inclined to doubt that the object exploded even as low as 7,000 feet.
 
 "Fireballs usually explode 10 to 15 miles up," he said.
 
-"However, anything can happen, and the reported form of the explosion suggests that it was somewhat lower than the usual height."
+"However, anything can happen, and the reported force of the explosion suggests that it was somewhat lower than the usual height.
 
-The familiar surfaces burn off rapidly from friction with the air and they often explode from the tremendous heat.
+"METEORS' surfaces burn off rapidly from friction with the air and they often explode from the tremendous heat."
 
-"METEORS" surfaces burn before the goal direct.
+Fragments are seldom found, Kuiper said, either because they burn up before reaching ground or because they are too small to be noticed.
 
+The chances of a meteor or a large fragment from one striking the earth are "extremely rare," Kuiper said.
 
-- page 4 -
+THREE SEATTLE police prowl cars reported the object exploded over Green Lake in North Seattle at about 2,000 feet.
 
-Detroit Free Press
-
-On Guard for Over a Century     40 Pages     Vol. 122—No. 7     Five Cents
-
-METRO FINAL
-WE VISIT ADRIAN
-Reporter Lois Cook Tells
-About Bustling City,
-with Pictures
-Doug Kennedy
-
-Headline: Explosion a Meteor?
-
-ROCKS SEATTLE
-
-[Partial text from the article, some sections are difficult to read fully:]
-
-Whipple, daily meteor expert at the Yerkes Observatory, said...
-
-AN ASTRONOMER at the Yerkes Observatory, Lake Geneva, Wis., said the Seattle phenomenon apparently was a "fireball" - a big meteor heavy enough to penetrate into the earth's lower atmosphere.
-
-But the Yerkes expert, Prof. Gerhard Kuiper, said...
-
-"METEORS surfaces burn off rapidly from friction with the air and they often explode from the tremendous heat." Fragments are seldom found. Kuiper said, either because they burn up before reaching ground or because they are too small to be noticed.
-
-"However, anything can happen, and the reported force of the explosion suggests that it was somewhat lower than the usual height."
-
-THREE SEATTLE police patrol cars reported the object exploded over Green Lake in North Seattle at about 2,000 feet.
-
-Sidney Howick, weather observer at the Seattle-Tacoma airport weather bureau, said: "It was sort of a light-green, light-thing. It lasted two seconds at most."
+Sidney Howick, weather observer at the Seattle-Tacoma airport weather bureau, said: "It was sort of a lights-on, lights-off thing. It lasted two seconds at most."
 
 Most observers agreed the object was travelling from southwest to northeast when it blew up.
 
-"Everything turned like fireworks or something were fireball or something falling straight down like fireworks. That came in another couple of seconds. Two or three minutes later I heard the rumble."
+Ten hours after the explosion, there were no reports of damage or recovered fragments.
+
+- page 4 -
+
+Detroit Free Press    On Guard for Over a Century    40 Pages    Vol. 122—No. 7    Five Cents    METRO FINAL
+
+[continuation of SKY BLAST ROCKS SEATTLE article]
+
+...7,000 feet when it suddenly shattered into eight pieces which looked like chain lightning. What appeared to be fireballs trailed to the earth, he said.
+
+AN ASTRONOMER at the Yerkes Observatory, Lake Geneva, Wis., said the Seattle phenomenon apparently was a "fireball" — a big meteor heavy enough to penetrate into the earth's lower atmosphere. But the Yerkes expert, Prof. Gerard Kuiper, said he was inclined to doubt that the object exploded even as low as 7,000 feet.
+
+"Fireballs usually explode 10 to 15 miles up," he said.
+
+"METEORS' surfaces burn off rapidly from friction with the air and they often explode from the tremendous heat."
+
+The chances of a meteor or a large fragment from one striking the earth are "extremely rare," Kuiper said.
+
+J. Hugh Pruett, Pacific regional director of the American Meteor Society, said: "Unless it was an infernal machine of some kind, it could have been a huge meteor."
+
+THREE SEATTLE police prowl cars reported the object exploded over Green Lake in North Seattle at about 2,000 feet.
+
+Sidney Howick, weather observer at the Seattle-Tacoma airport weather bureau, said: "It was sort of a lights-on, lights-off thing. It lasted two seconds at most."
+
+Most observers agreed the object was travelling from southwest to northeast when it blew up.
 
 Ten hours after the explosion, there were no reports of damage or recovered fragments.
 
+"Everything turned blue. As soon as it went out there were fireballs or something falling straight down like fireworks. That came in another couple of seconds. Two or three minutes later I heard the rumble."
 
 - page 5 -
 
-HEADQUARTERS
-25TH AIR DIVISION (DEFENSE)
+HEADQUARTERS 25TH AIR DIVISION (DEFENSE)
 McChord Air Force Base, Washington
-
-ODI 19.1                                                                                  2 0 MAY 1952
-
+ODI 319.1                    UNCLASSIFIED                    20 MAY 1952
 SUBJECT: Unidentified Flying Object Report
+TO: Chief, Air Technical Intelligence Center, Wright-Patterson Air Force Base, Dayton, Ohio
 
-TO:   Chief, Air Technical Intelligence Center
-       Wright-Patterson Air Force Base
-       Dayton, Ohio
+1. The inclosed report is submitted in accordance with ADCL 200-1, dated 11 April 1951.
 
-1. The enclosed report is submitted in accordance with ADCR 200-1, dated 11 April 1951.
-
-2. If enclosure is withdrawn or not attached, the classification of this correspondence will be lowered to "Unclassified" in accordance with paragraph 25c, AFR 205-1.
+2. If inclosure is withdrawn or not attached, the classification of this correspondence will be downgraded to "Unclassified", in accordance with paragraph 25c, ADR 205-1.
 
 FOR THE COMMANDING OFFICER:
 
-1 Incl                                                                 MARY A. ROTHER
-Info on Unconventional Acft,                                           2nd Lt
-dtd 15 May 1952 (1n dupe)                                              USAF
-                                                                       Adjutant General
+MARY A. ROTHER
+2nd Lt    USAF
+Adjutant General
+
+1 Incl
+Info on Unconventional Acft, dtd 16 May 1952 (in dup)
 
 Distribution:
-    Dir of Intell, DSC/O, Hq USAF (1cy)
-    CG, AAO, Attn: Dir of Intell (1cy)
-    CG, WADE, Attn: Dir of Intell (1cy)
+Dir of Intell, DSC/O, Hq USAF (1cy)
+CG, ADC, Attn: Dir of Intell (1cy)
+CG, MAFE, Attn: Dir of Intell (1cy)
 
 DOWNGRADED AT 3 YEAR INTERVALS;
-DECLASSIFIED PER E.O. 11652
-DOP 1 JAN 78
+DECLASSIFIED [remainder illegible]
 
 UNCLASSIFIED
-
 
 - page 6 -
 
-Here is the OCR text from the document:
-
-AF FORM 112-PART II                                        UNCLASSIFIED
+AF FORM 112—PART II    APPROVED 1 JUNE 1948    UNCLASSIFIED
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM 18th Air Division (Det)    IR-26 ADVISORY-3-52    PAGE 2 OF 2 PAGES
+FROM (Agency): Hq 25th Air Division (Def)
+REPORT NO.: IR-25 ADIVODI-3-52
+PAGE 2 OF 2 PAGES
 
-Target by approximately 9 seconds.
+b. [duration of] target approximately 9 seconds.
 
-3. Other aircraft in area unknown.
+9. Other aircraft in area unknown.
 
-4. The following is an extract from Controlleris log, United Opr Stn
-Sector, 26th Air Division (Det):
+B. The following is an extract from Controller's log, Combat Operations Center, 25th Air Division (Def):
 
-0350    Radio report of explosion over Seattle was relayed by CGC, this Bn.
+0320: Radio report of explosion over Seattle was relayed by CCO, this fn.
 
-0360    An object believed to be a meteor was sighted coming from the north and
-        going north. The object crossed over Seattle. The police at 7:20 contacted
-        by a Northwest Airlines pilot, Seattle Police, who may have other. The
-        exact description was not known but it continued to be a bright object
-        given off its speed. The airlines pilot was not available to verify.
+0520: An object believed to be a meteor was sighted coming from the south and going North. The object exploded over Seattle. The object was sighted by a Northwest Airlines pilot, Seattle Police, and many others. Its general description was a red body with trailing streaks but no estimate was given of its speed. The airlines pilot felt the altitude was about 7000 feet. There were no reports of damage to any radar trucks. This station was off the air at the time on minor [illegible]. Reports of the concussion came from as far away as North Tacoma. Explosion time 0035 PST.
 
-1125    The pilot of the Northwest Airlines was ----. Down 4:40.
-        No reports sighting the object 2 minutes before hearing the light flash.
-        However, a CGC (CG-3) and expected to a rockety, vivid blue, with
-        green or orange central portion. The object was seen to be below his A/C level (7000 ft) with 14th strike, flash which lasted
-        the sky but not the ground. He did not see a real explosion.
+1125: The pilot of the Northwest airliner was [REDACTED] - Login SMPT. He reports sighting the object 2 minutes before passing Robert Inn at 0061 or 0032 PST. He reports the object was left of his A/C (30-3) and appeared to be a rocket-type, giving off sparks or streamers coming from it. The object exploded slightly below his A/C level (7000 ft t) with a lingering flash which lighted the sky but not the ground. He did not hear or feel explosion. The A/C was loaded 8 Sea-Tac. The Sea-Tac controller [REDACTED] also saw the object and believed it exploded in the Renton area. Washington State Patrol, Seattle Patrol, Sea-point Naval Tower were among people sighting the object. First report received was from a person on the North end of Mercer Island who reported the explosion northeast of the island. He saw the flash and several seconds later felt the blast. Apparently no one kept any record of names of people sighting the object because of the volume of calls. [REDACTED] (Game Operator) reported seeing the object. Mr. [REDACTED] Summit, also reported sighting the object. MAP advised.
 
-        The A/C was landed at Sea-Tac. The Sea-Tac controller at Bremerton
-        close to the object as it landed in the Eastern
-        Washington State Patrol, Seattle wrote: "Sighting the object. Sighting was
-        from a "green" at the north end of the object. There was not precisely
-        explained. Apparent of a green or yellow island. He saw it close and
-        some 2 seconds later felt the blast. Apparently no one has ever seen
-        masses of people sighting the object because of the volume of call's.
+2035: The University of Washington professor mentioned in the reports of explosion over Seattle is [REDACTED], Phone [REDACTED] in Seattle. He now says he believes the explosion to be a meteor and is compiling all data for a report. For which he did not say.
 
-1305    The University of Washington professor mentioned in the reports of
-        Seattle. He now says he believes the explosion to be a meteor and is
-        completely at a loss for a project. The whole is to be not say.
+3. From evidence available it is the opinion of the undersigned, the unidentified object was a meteor.
 
-From evidence available it is the opinion of the undersigned, the
-unidentified object was a meteor.
-
-UNCLASSIFIED
-[Signature]
-NEIL A VOSBURGH
-Major, USAF
+NEIL A. YOSBURGH
+Major USAF
 Director of Intelligence
 
-DOWNGRADED AT 3 YEAR INTERVAL
-DECLASSIFIED AFTER 12 YEARS
-DOD DIR 5200.10
+DOWNGRADED AT 3 YEAR INTERVALS; DECLASSIFIED AFTER 12 YEARS. DOD DIR 5200.10
 
-[Bottom disclaimer text about document transmission and espionage act]
-
+UNCLASSIFIED
 
 - page 7 -
 
-Here is the OCR text from the document:
-
-AF FORM 112-PART I
-UNCLASSIFIED
-
-COUNTRY USA
-
+AF FORM 112—PART I    APPROVED 1 JUNE 1948    UNCLASSIFIED
 AIR INTELLIGENCE INFORMATION REPORT
 
-SUBJECT: Motion
+COUNTRY: USA
+REPORT NO.: IR-25ADIVODI-3-52
+SUBJECT: Meteor
+AREA REPORTED ON: Seattle, Washington
+FROM (Agency): Hq 25th Air Division (Def)
+DATE OF REPORT: 16 May 52
+DATE OF INFORMATION: 11 May 52
+EVALUATION: C-1
+PREPARED BY: NEIL A. YONSBUREE, Maj, USAF, Dir of Intell
+SOURCE: Seattle Post Intelligence; Combat Data COO; Constabularies Log; Hq 25th ADIV
 
-AREA REPORTING: Seat 16, Washington
+SUMMARY:
+1. The following report is submitted in accordance with Air Defense Command Letter 200-1, dated 11 April 51, Subject: Unidentified Objects Report.
 
-DATE OF OCCURRENCE: 16 May 52     DATE OF INFORMATION: 11 May 52
+a. A meteor type object traveling at approximately 1600 to 3000 [feet], believed to be coming from outer space, nearly straight, came from south to north direction, vivid blue in color, with flaming sparks or streamers being emitted, exploded in a brilliant flash, lighting up the sky and disappeared. No sound was heard except a brilliant explosion at the moment of impact — experienced by some of the eye-witnesses of approximately 9 seconds duration.
 
-PREPARED BY: WILLIAM L. YOSUZKWI, MAJ, USAF, DIR or INTELL
-
-SUMMARY: (Give summary, synopsis, brief description of the report)
-
-1. The following report is set forth in accordance with Air Defense Command Letter 200-1, dated 11 Apr 52, Subj: Unidentified Objects Report.
-
-2. A meteor type object traveling approximately 1500 to 200 feet, believed on day time water space near its apex, NW from south to north direction, with blue in color, with faint, amber or greenish tint, exploded in a brilliant flash 11.4 with a 2 to 3 deg dim diameter. No sound was heard, cross wind was reported by some of the co-witnesses of a probably 9 knots variation.
-
-b. Time of sighting: approximately 01:1 to 01:05 Pacific Standard Time, 11 May 52, NE of Seattle, Washington.
+b. Time of sighting: approximately 0124 to 0133 Pacific Standard Time, 11 May 1952. Period of duration: approximately 4 seconds.
 
 c. Visual observation only. Not picked up on radar.
 
-3. Northwest Airlines Pilot 2 minutes before sighting, Robert Fam (blacked out) at 9000 feet near Olm or Olm Pacific Station at Seattle-Tacoma Air Port at 7000 feet on course due west. Approximately 20 miles NW of Seattle, Washington, the object was sighted near Seattle lines, about 21 degrees, above horizon at 13 degrees sources out of north.
+d. Northwest Airlines pilot [REDACTED] sighted object at 3000 feet, 2 minutes before passing Robert Inn at 0161 or 0192 Pacific Standard Time. Object was to left of his aircraft while coming in for a landing at Seattle-Tacoma Airport at 7000 feet on course due west. Approximate position of explosion 47°21'N and 122°10'W. Mr. [REDACTED], Seattle engineer, noticed the object approximately 30 miles distance at about 21 degrees above horizon and 15 degrees east of north.
 
-f. Weather Seattle area: 6/10 overcast at 10,000 feet. 6/10 overcast at 5 to 6 thousand feet with light and variable bearing. Visibility unlimited with an area 15 miles with no restrictions.
+e. Mr. [REDACTED]: evaluation C-1. Mr. [REDACTED]: evaluation C-1.
 
-g. Prof. at the University of Washington, reported no explosion to be a meteor.
+f. Weather Seattle area: 5/10 overcast at 5 to 6 thousand feet with 10/10 overcast at 10,000 feet. Intermittent light rain in area. Winds light and variable bearing SW aloft at 20 to 50 knots at 25,000 feet.
+
+g. Mr. [REDACTED], Professor at the University of Washington, reported the explosion to be a meteor.
 
 h. No physical evidence available.
 
-1. Target was not intercepted nor picked up by radar. Duration of sighting: from Seat 16 rest Intel 4 hours.
+i. Target was not intercepted nor picked up by radar. Duration of [target approximately 9 seconds — see Part II]
 
-DOWNGRADED AT 3 YEAR INTERVALS
-DECLASSIFIED AFTER 12 YEARS
-DOD DIR 5200.10
-
-UNCLASSIFIED
-
+1 Incl: Clipping from Seattle Post Intelligence dtd 12 May 1952
 
 - page 8 -
 
-Here is the text from the document:
-
-JOINT MESSAGEFORM
-
-UNCLASSIFIED
-
+JOINT MESSAGEFORM    UNCLASSIFIED
 FROM: (Originator)
-
-TO: CG 13S CHORD AYD TACOMA WASH
-
-TELETYP
-
-INFO:
-
-PROM: AVORD-ATIA-5-72 FOR BASE INTELLIGENCE OFFICER
+DATE-TIME GROUP: 1613302 May 52
+TO: CG MC CHORD AFB TACOMA WASH
+TELETYPE
+FROM: AFOIN-ATIAA-5-7E FOR BASE INTELLIGENCE OFFICER
 
 Reference is made to meteor explosion over Seattle on 11 May 1952. Request that college or university astronomers in Seattle area be contacted to verify fact object was a meteor. Also request info as to whether or not search for fragments is anticipated. Include names of astronomers contacted.
 
-DOWNGRADED AT 3 YEAR INTERVALS;
-DECLASSIFIED AFTER 12 YEARS
-DOD DIR 5200.10
+LT R. J. RUPPALT
+SYMBOL ATIAN-7a
+OFFICIAL TITLE: ROBERT B. KENNEDY, Major, USAF, Air Adjutant General
+DD FORM 173    PAGE 1 OF 1 PAGES
+
+DOWNGRADED AT 3 YEAR INTERVALS; DECLASSIFIED AFTER 12 YEARS. DOD DIR 5200.10
 
 UNCLASSIFIED
 
-[Bottom of form includes details for LT. J. RUPPELT, with official title ROBERT E. KENNEDY, Major, USAF, Air Assistant to General]
-
-
 - page 9 -
 
-Here is the text from the document:
-
-RE236M
-WPD635
-XVA257
-JWPML 36
-WS 18
-RR JEDWP
-DE JWPDM 0026
-R 2617302
+UNCLASSIFIED
 
 FM CG 25TH AIR DIV MCCHORD AFB WASH
 TO CHIEF AIR TECH INTELL CENTER WRIGHT PATTERSON AFB OHIO
+25ADIVODI 6236 PD REF YOUR MSG AFOIN-ATIAA-5-7E PD
+FOL ASTRONOMERS CONTACTED CLN DR [REDACTED] AND DR [REDACTED] FR UNIV OF WASH CMA THEY STATE OBJECT WAS A METEOR PD A SEARCH FOR FRAGMENTS IS BEING CONDUCTED PD IF ANY ARE FOUND YOUR HQS WILL BE NOTIFIED PD
+26/1652Z MAY JWPDM
 
-29ADIVODI 6236 PD REF YOUR MSG AFOIN-AT1AA-5-7E PD
-FOL ASTRONOMERS CONTACTED CLN DR [REDACTED] AND DR [REDACTED] FR UNIV
-OF WASH CMA THEY STATE OBJECT WAS A METEOR PD A SEARCH FOR FRAGMENTS
-IS BEING CONDUCTED PD IF ANY ARE FOUND YOUR HQS WILL BE NOTIFIED PD
+DOWNGRADED AT 3 YEAR INTERVALS; DECLASSIFIED AFTER 12 YEARS. DOD DIR 5200.10
 
-26/16522 MAY JWPDM
-
-UNCLASSIFIED (appears at top and bottom of document)
-
-DOWNGRADED AT 8 YEAR INTERVALS
-DECLASSIFIED AFTER 12 YEARS
-DOD DIR 6000.10
-
+UNCLASSIFIED    Cy 1
 
 - page 10 -
 
 APPENDIX IV
-Seattle, Washington - 11 May 1952
+Seattle, Washington — 11 May 1952
 
 I. DESCRIPTION OF INCIDENT
-
-At approximately 0121 to 0132 PST, on 11 May 1952 many individuals reported sighting a vivid blue object with flaming sparks or streamers curving nearly straight down over Seattle, Washington. The object exploded in a brilliant flash. Lighting up the sky and then disappeared. After the explosion, some of the witnesses experienced a tremor or shock wave of approximately nine seconds duration.
+At approximately 0124 to 0132 PST, on 11 May 1952 many individuals reported sighting a vivid blue object with flaming sparks or streamers coming nearly straight down over Seattle, Washington. The object exploded in a brilliant flash, lighting up the sky and then disappeared. After the explosion, some of the witnesses experienced a tremor or shock wave of approximately nine seconds duration.
 
 II. STATUS OF THE INVESTIGATION
-
 Two local astronomers were contacted and they stated that the object was a meteor. At the present time the astronomers are searching for fragments to confirm their statement.
 
 III. CONCLUSIONS
-
 Object was probably a meteor but file will not be closed until confirming evidence is found.
 
-DOWNGRADED AT 3 YEAR INTERVALS:
-DECLASSIFIED AFTER 12 YEARS.
-DOD DIR 5200.10
+DOWNGRADED AT 6 YEAR INTERVALS; DECLASSIFIED AFTER 12 YEARS. DOD DIR 5200.10
 
-752-11949                                16
-
+T52-11949    16
 
 - page 11 -
 
-Here is the OCR text from the document:
+Air Force Checks Data On Presumed Meteor
+(Continued from Page 1.)
 
-Air Force Checks Data
-On Presumed Meteor
-(Continued from Page 1)
+...an earthquake had rocked the Pacific Northwest.
 
-An earthquake had rocked the
-Pacific Northwest.
+After hearing descriptions of the object, trained observers agreed the visitor was a meteor, drawn by earth's gravity from deep space, to blow itself to pieces as friction from the atmosphere heated it to extreme temperatures.
 
-After hearing descriptions
-of the object, trained ob-
-servers agreed the visitor was
-most likely a meteor that fell
-from deep space, to blow itself to
-pieces as friction from the atmosphere heated it to extreme temperatures.
+More susceptible viewers guessed the object to be a "Russian bomb," a guided missile, or a "flying saucer."
 
-Possible explanation was
-guessed the object to be a "Russian bomb."
+At least four competent observers had grandstand views of the "fireball." They were the pilot and co-pilot of an airliner, coming in for a landing at Seattle-Tacoma International Airport, a United States Weather Bureau observer there and a control tower operator.
 
-At least four competent ob-
-servers had examined view of
-the "fireball." They were the
-pilot and control tower man
-of Northwest Airlines at Tacoma International Airport.
+PILOTS SAW IT—
+Capt. B.C. Carlson and Co-Pilot Earl Perry, flying a Spokane-Seattle Northwest Airlines, said the meteor flare flared at 1:32 a.m. by his watch and burst into flaming fragments at about 8,000 feet.
 
-A United States Weather Bureau
-observer there and a control tower operator.
+"We were approaching Ho-[truncated]
 
-PILOTS SAY IT —
+From the airport control tower, Airway Operations Specialist Robert Wiley laconically noted in the Civil Aeronautics Administration logbook:
+"Observed very brilliant blue light at 1:32 a.m. (PDT). Appeared light all of airport and originate from northwest direction. Land tremor (explosion) followed about 2 minutes afterward."
 
-Capt. B. C. Carlson and Co-
-pilot Earl Perry, flying a Special Airlines plane from McChord Air Force Base, were the
-first (listed at 1:52 a. m.) by the
-watch and burst into flame
-near Chehalis, Wash., said Capt.
-Carlson said:
+The 30-second rumble followed the flash.
 
-"We were approaching the
+SAW FLASH—
+From the window of his Mercer Island home, Guy L. Bettinger, 7424 W. Mercer Way, saw what he described as a "tremendous flash in the sky." He said:
+"The light seemed to go straight up, like a huge electric arc — something like when a transformer explodes. The apex of the light seemed to be about as high as Mount Rainier."
+"I thought right away there had been a terrific explosion. I braced for a shock. It seemed like 1½ to 2 minutes before the shock wave hit."
 
-heart of a due west course at
-1,000 feet. The flash increased from south to north
-across our course, apparently
-between us and the airport."
+Engineer Reports On Meteor
 
-Perry and Carlson said no
-sound accompanied the meteor.
-
-But, from the observation roof
-at the airport, Weather Observer
-Sid Howick traced the course of
-the ragged manners of flame and
-felt a "definite shock wave" about
-2 to 2½ minutes after the first
-flash.
-
-From the airport control tower,
-Civil Air Reconnaissance Specialist Arthur Weaver astronomically noted:
-
-"Observed very brilliant blue
-light at 1:52 a. m. (PDT). Appeared to originate from northeast direction. Land tremor (explosion)
-noted about 2 minutes afterward."
-
-OVER WIDE AREA —
-
-The flare was seen and the
-tremor was felt in Seattle and
-surrounding communities. The State Patrol reported the blast was felt in
-several Tacoma and Bremerton
-areas. Hundreds of Seattle residents jarred out of sound
-sleep were Mrs. G. V. Rooney,
-5106 6th St., who said: "The
-windows rattled and we thought
-the house was coming down."
-
-S. W. Skelly, 7125 44th Ave.
-SW, who described the rumble
-that followed the flash as a
-shock wave that shook my house."
-
-SAY FLASH —
-
-From the window of his Mercer
-Island home, Guy L. Bellinger,
-7424 W. Mercer Way, saw what
-he described as a "tremendous
-flash of light."
-
-"The light seemed to go
-straight up, like a huge electronic something like when a
-transformer explodes. The
-flash was so bright it looked
-almost as high as Mount
-Rainier."
-
-Bellinger said there had
-been a terrific explosion. I
-heard for a shock. It seemed
-like 1½ to 2 minutes before the
-shock wave hit."
-
-Engineer Reports
-On Meteor
-
-No one got a better "fix" on
-Sunday's meteor than Don E. Lyman, Seattle engineer, who went down in his home, 16633-19th Ave.
-S. W., when the flash blinded
-him momentarily.
-
-Working quickly, he went to
-his watch, compass and map.
-These were his observations:
-
-1. The flash came at 1:52 a. m., by
-his watch, which was accurate in
-duration. The normal brightness
-of the flash was maintained for
-about 1/10 of a second.
-
-2. The mercury or mineral was a mercury or mineral with a trace of
-no trace of uranium.
-
-3. The flash was followed by a
-deep, shaking tremor which lasted about 2½ minutes after the flash.
-In his opinion the explosion occurred 50 to 75 miles above the horizon and
-at 2½ minutes after the flash was
-15 degrees above the horizon and
-15 degrees east of north.
-
-The tremor had a deep, long
-lasting sound apparently down
-
+No one got a better "fix" on Sunday's meteor than Don E. Lyman, Seattle engineer.
+Lyman was standing at a window in his home, 18838-19th Ave. S.W., when the flash blinded him momentarily.
+Reacting quickly, he went to work with watch and compass. These were his observations:
+"The flash came at 1:24 a.m. by his watch. It was of 9 seconds' duration. The normal brightness of the flash was maintained for 4 seconds. In color it was a mercury or magnesium blue, with no trace of a greenish tint."
+The flash was followed by a deep shaking tremor which lasted 12 seconds. The tremor started 2½ minutes after the flash. This would put the explosion 30 or 31 miles away. The flash was 21 degrees above the horizon and 18 degrees east of north.
+"The tremor had a deep, deep sound like somebody down in the furnace," Lyman said.
 
 - page 12 -
 
-Here is the text from the document:
-
-Seattle Post Intelligencer - 12 may 1952
+Seattle Post Intelligencer — 12 May 1952
 
 Air Force Checking Presumed Meteor That Shook Seattle
 
@@ -576,38 +388,30 @@ Not Seen On Radar
 
 Astronomers throughout the nation, and the United States Air Force, guardian of the skies, displayed keen interest Sunday in the fiery object that flashed across the Seattle area in the blackness of the early morning, then exploded violently.
 
-Scientists who make a study of outer space concluded the object was a large meteor which plunged through the earth's blanket of air and disintegrated into flaming meteors.
+Scientists who make a study of phenomena of outer space concluded the fiery object was a large meteor that streaked through the earth's blanket of air and disintegrated into flaming streamers.
 
-However, the Air Force has become interested in all key visitors of the area and is in the process of keeping a radar watch of all things, natural or man-made, that pass overhead.
+The Air Force has become interested in all sky visitors since it is charged with the job of keeping a radar watch of all things, natural and man-made, that pass overhead.
 
 CHECKING DATA—
+As eyewitness accounts of the strange light and following blast came in from widely scattered parts of Western Washington, astronomers expressed the opinion that an unusually big fireball had been destroyed aloft in spectacular manner.
 
-As eyewitness accounts of the strange light and following blast came in from widely scattered parts of Western Washington, astronomers were quick to point out that an unusually big fireball had been a very spectacular sight for those who saw it.
+Col. T. Allan Bennett, commanding officer of the 25th Air Force Defense Division, McChord Air Force Base, also leaned toward the theory that the object which exploded at 1:26 a.m. was a meteor. But he said his office is making a thorough check of eyewitness reports and is anxious to receive them. Bennett said he doubted that the object could have been an aircraft or guided missile. None of the radar installations in the Pacific Northwest network picked up the object on their screens, he said.
 
-Col. G. Allan Bennett, commanding officer of the 25th Air Force Defense Division, McChord Air Force Base, said he learned of the object from eyewitness reports and is anxiously trying to check them.
+ANGLE—
+Asked if the speed of the object may have eluded the radar, Bennett said that the angle, rather than speed, probably was what caused it not to show as a "blip" on the radar scopes.
 
-Bennett said he doubted that the object could have been an aircraft or guided missile.
+"If it was a meteor, it was probably coming nearly straight down. That would make it very difficult to track. The indications might be so insignificant that radar wouldn't pick it up," he said.
 
-None of the radar installations in the Pacific Northwest noticed the object on their screens, he said.
-
-ANGLE
-
-Asked if the speed of the object may have altered the radar, Bennett said that the angle, path and probably route was what caused it not to show as a "blip" on the radar scope.
-
-It was probably coming nearly straight down. That would make it very difficult to track. The indications might be significant that the radar wouldn't pick it up.
-
-"If we saw an aircraft or guided missile, we would have picked it up," he continued.
+"If it was an aircraft or a guided missile, we would have picked it up," he continued.
 
 REQUEST—
+Bennett asked that anyone finding a "strange" piece of material report it to his organization at McChord.
 
-Personnel asked that anyone finding a "strange" piece of material report it to his organization at McChord.
+Bennett said that the ground observer phase of the air defense setup is not at present on a 24-hour basis, and said no ground observers had reported seeing the flash.
 
-Bennett said that the ground tremor was not at present on a 24-hour basis, and said no ground investigation has been made of the flash.
+The two-second blast, a tremendous blue-white flare, caused no ascertainable damage, but police, fire department and newspaper switchboards were jammed by hundreds of anxious calls from suddenly-awakened persons.
 
-The two-second blast, a tremendous noise like a giant class, cut and no aftershock damage was reported. Switchboards were jammed by hundreds of anxious calls from suddenly awakened persons.
-
-LINE OF FLIGHT—Shown on this map is the path and the traveling time of the mysterious object, apparently a meteor, traveled from south to north and burst into fragments at the point indicated on the map. Positions were determined by eyewitness reports from an official Air Force triangulation observer, after being checked with United lines and arrows indicating direction of flight of eyewitnesses.
-
+[NON-TEXT PAGE: map showing line of flight from south to north over King County area, bursting point northeast of Kent/Hobart; caption "LINE OF FLIGHT—Shown on this map is the path and the bursting point of the aerial object..."]
 
 - page 13 -
 

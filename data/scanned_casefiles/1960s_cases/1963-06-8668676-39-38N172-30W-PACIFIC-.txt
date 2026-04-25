@@ -1,188 +1,266 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE
-24 June 1963
+1. DATE: 24 June 1963
 
-2. LOCATION
-39.38N 172.30W (Pacific)
+2. LOCATION: 39.39N 172.30W (PACIFIC)
 
-3. DATE-TIME GROUP
-Local ________
+3. DATE-TIME GROUP: Local ___________
 GMT 25/0829Z
 
 4. TYPE OF OBSERVATION
-[X] Ground-Visual [ ] Ground-Radar
-[X] Air-Visual [ ] Air-Intercept Radar
+[ ] Ground-Visual          [ ] Ground-Radar
+[X] Air-Visual             [ ] Air-Intercept Radar
 
 5. PHOTOS
 [ ] Yes
 [X] No
 
 6. SOURCE
-Unknown
 
-7. LENGTH OF OBSERVATION
-Not reported
+7. LENGTH OF OBSERVATION: Not reported
 
-8. NUMBER OF OBJECTS
-one
+8. NUMBER OF OBJECTS: one
 
-9. COURSE
-075 degrees
+9. COURSE: 075 degrees
 
 10. BRIEF SUMMARY OF SIGHTING
-Possible Satellite on course of 075 deg with brightness of 2d magnitude star. Speed unknown, altitude unknown.
+Visible Satellite on course of 075 deg with brightness of 2d magnitude star. Speed unknown, altitude unknown.
 
 11. COMMENTS
-On 25 June at 0602 ECHO crossed the equator heading NE at 100 deg East. This would place the Satellite at about 47 deg North Latitude 170 deg W longitude at the time reported for this observation. This position and the description conforms with the analysis of the sighting as the Satellite ECHO 1.
+On 25 June at 0601Z ECHO crossed the equator heading NE at 100 deg East. This would place the Satellite at about 47 deg North latitude 170 deg W longitude at the time reported for this observation. This position and the description conforms with the analysis of the sighting as the Satellite ECHO I.
 
 12. CONCLUSIONS
 [ ] Was Balloon
 [ ] Probably Balloon
+[X] Possibly Balloon
 [ ] Was Aircraft
 [ ] Probably Aircraft
-[ ] Was Astronomical
+[ ] Possibly Aircraft
+[X] Was Astronomical
 [ ] Probably Astronomical
-[X] Other: Satellite (ECHO 1)
+[ ] Possibly Astronomical
+[X] Other Satellite (ECHO I)
 [ ] Insufficient Data for Evaluation
 [ ] Unknown
 
-ATIC FORM 329 (REV 26 SEP 52)
-
+ATIC FORM 329 (REV 28 SEP 52)
 
 - page 1 -
 
-DEPARTMENT OF THE AIR FORCE
-STAFF MESSAGE BRANCH
+AP IN: 13259 (25 Jun 63) X/rds INCOMING                                    Page 1 of 2
 
-AF IN: 13259 (25 Jun 63) X/rsg NCOMING         Page 1 of 2
-INFO: NIN-9, XOP-1, XOPX-4, SAF-OS-3, ARMY-2, CMG-8, JCS-35, OSD-15,
-       SMB A153, DIA/CIIO-2, NSA-7            (112)
+INFO : NIN-9, XOP-1, XOFX-4, SAF-OS-3, ARMY-2, OMO-8, JCS-35, OSD-15,
+DIA-25, DIA/CITO-2, NSA-7                    (112)
+SMB A153
 
-CZCHQA15 ICZECB191
-.....
-YY RUEAHO
+CZCHOA15 IZCECB191
+
+.....  YY RUEAHQ
 DE RUHPF B033
+
 ZNR
+
 Y 250917Z
+
 FH COMBARPAC
-TO RUHPFH/C CM HAWSEAFRON
+
+TO RUHPH/C CMHAWSEAFRON
 RUHLKM/C INCPACAF
-RUAUAAHV HADD KUNIA
+RUAUAAH/HADD KUNIA
 ZEN/C INCNORAD
+
 INFO RUECW/CNO
-RUEAHY C OFS USAF
+RUEAH Q/COFS USAF
 RUHPA/C INCPAC
 RUHPB/C INCPACFLT
-RUHAFS/C INCUSARPAC
-RUHLKMP/PACAFBASECOM HICKMAN
-RUECW SECNAV
-NAVY GRNC
-BT
-NOTE: READDRESSED ELECTRICAL TRANSMISSION TO: CIA
-       ADVANCE COPY DELIVERED TO: DIA, NIN & XOPX
-UNCLAS.
+RUHAF S/C INCUSARPAC
+RUHLKMP/P ACAFBASECOM H ICKMAN
+RUECW/SECNAV
 
+NAVY GRNC
+
+BT    NOTE: READDRESSED ELECTRICAL TRANSMISSION TO; GTA
+UNCLAS.       ADVANCE COPY DELIVERED TO: DIA, NIN & XOFX
+
+[handwritten: 0 501 Z
+27
+0 8282
+
+260.4/
+83
+177.
+
+& → 49°N. 177°W]
 
 - page 2 -
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
-
 UNCLASSIFIED MESSAGE
 
-INCOMING
+NNNN                                    INCOMING
 
-AF IN: 13259 (25 Jun 63)                                Page 2 of 2
+Page 2 of 2
+
+AF IN: 13259 (25 Jun 63)
 
 A. JANAP 146D
-   1. C IRVIS RPT
-   2. N43186
-   3. POSS SATELLITE INTENSITY OF SECOND MAGNITUDE STAR.
-   4. 39-38N 172-30W
-   5. 250829Z
-   6. ALT UNK
-   7. CUS 075
-   8. SPD UNK
-   9. EVALUATION UNKNOWN
+
+1. CIRVIS RPT
+
+2. N43186
+
+3. POSS SATELLITE INTENSITY OF SECOND MAGNITUDE STAR.
+
+4. 39-38N 172-30W
+
+5. 250829Z
+
+6. ALT UNK
+
+7. CUS 075
+
+8. SPD UNK
+
+9. EVALUATION UNKNOWN
 
 BT
-25/0918Z
 
+25/0918Z
 
 - page 3 -
 
-AF IN: 13296 (25 Jun 63)
-INFO: NIN-9, XOP-1, XOPX-4, SAA-05-34, JANG-2, NAVY-2, CMC-8, JCS-35, OSD-15, NSA-7, DIA-25, DIA-CIIC-2 (114)
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
 
-SMB A162
-CZCHQA16QZGQJA602
-OO RUEAHQ
-DE RUHLKW 9
+AF IN : 13296 (25 Jun 63) HAWAII Page 1 of 2
+
+INFO : NIN-9, XOP-1, XOPX-4, [handwritten: NAFAC-3], JANRB2, NAVY-2, OMC-8,
+
+JCS-35, OSD-15, NSA-7, DIA-25, DIA-CIIO-2 (114)
+
+SMB AI62
+
+CZCHQA160ZCQJA602
+
+OO RUEAHO
+
+DE RUHLKH 9
+
 ZNR
-0 250492Z
-FM 326 AIR DIV KUNIA FACILITY HAWAII
-TO RUHLKW/PACAF HICKAM AFB HAWAII
-RUHPHK/COMHAWSEAFRON PEARL HARBOR HAWAII
-INKO RUEAHQ/CSAF USAF WASH DC
-RUECW/CNO WASH DC
-RUECW/SECNAV WASH DC
-RUWGAL6/C INCNORAD ENT AFB COLO
-RUHPA/C INCPAC CAMP K M SMITH HAWAII
-RUHAF6/CINCUSARPAC FT SHAFTER HAWAII
-RUHPB/C INCPACFLT PEARL HARBOR HAWAII
-RUAQA/C/COMUSJAPAN FUCHU AS JAPAN
-RUAMC/C/COMUSKOREA SEOUL KOREA
-RUAOGFL/COMUSTDC TAIPEI TAIWAN
-RUCSBR6/C INCSAC OFFUTT AFB NEBR
-RUHPD/COMNASWFORPAC FORD ISLAND HAWAII
-AF GRNC
-BT
 
+O 250949Z
+
+FM 326 AIR DIV KUNIA FACILITY HAWAII
+
+TO RUHLKM/PACAF HICKAM AFB HAWAII
+
+RUHPHH/COMHAWSEAFRON PEARL HARBOR HAAII
+
+INKO RUEAHO/CSAF USAF WASH DC
+
+RUECW/CNO WASH DC
+
+RUECW/SECNAV WASH DC
+
+RUMGALB/CINCNORAD ENT AFB COLO
+
+RUHPA/CINCPAC CAMP H M SMITH HAWAII
+
+RUHAFS/CINCUSARPAC FT SHAFTER HAWAII
+
+RUHPB/CINCPACFLT PEARL HARBOR HAWAII
+
+RUAUAZ/COMUSJAPAN FUCHU AS JAPAN
+
+RUAMC/COMUSKOREA SEOUL KOREA
+
+RUAGFL/COMUSTDC TAIPEI TAIWAN
+
+RUCSBRB/CINCSAC OFFUTT AFB NEBR
+
+RUHPD/COMASWFORPAC FORD ISLAND HAWAII
+
+AF GRNC
+
+BT
 
 - page 4 -
 
 DEPARTMENT OF THE AIR FORCE
 STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
 
 INCOMING
 
 NNNN
 
-AF IN: 13296 (25 Jun 63)                                Page 2 of 2
+AF IN: 13295 (25 Jun 63)                                                Page 2 of 2
 
-UNCLAS/C IRV IS
+
+UNCLAS/CIRVIS
 1. NAVY 43186
-2. POSSIBLE SATALITE
-3. 3933N 17230W
-4. 25/082SZ
-JTM COURSE 075 DEGREES
-5. SP UNK
-6. ALT UNK
-7. SECOND MAGNITUDE STAR
-8. EVALUATION UNKNOWN
+2. POSSIBLE SATELLITE
+3. 39°38N 17230W
+4. 25/0829Z
+JTM COORSE 075 DEGREES
+6. SP UNK
+7. ALT UNK
+8. SECOND MAGNITUDE STAR
+9. EVALUATION UNKNOWN
 BT
-25/095TZ J UN RUHLKH
+25/095 TZ JUN RUHLKH
 
-NOTE: Advance copy delivered to XOPX, NIN & DIA.
-Retransmitted to CIA Per #636.
-
+NOTE: Advance copy delivered to YOPX, NIN & DIA.
+      Retransmitted to CIA Per #636.
 
 - page 5 -
 
-Here is the text from the document:
+JUNE 19, 1963
 
-[PAGE 38, 1963]
+SATELLITE 1960 IOTA 1, ECHO 1
+
+These predictions are based on orbital elements issued on June 17, 1963
+t = June 19.0, times are in days, h:m
+Argument of perigee = 357°08 + 3°34S (t-t₀)
+Right ascension of ascending node = 138°08 + 37°08l (t-t₀)
 
 SATELLITE 1960 IOTA 1
-FOR GIVEN LATITUDES
+SOUTHERN LATITUDES
 
-[The document appears to be a detailed table with multiple columns showing satellite tracking data, including time, longitude, latitude, and other numerical measurements. The data is organized by date (June 22, 23, 24, 26, 27, 28, and 29, 1963) and seems to be related to satellite observations.
+EQUATOR
+TIME    LONG.   LAT.   TIM    LONG.   HT.    REAR.    TIME   LONG.   HT.    REAR.
+(UT)    (°W)           (°)    (°W)    (KM)   (KM/S)   CORR.  CORR.   (KM)   (M/S)
 
-At the top of the page, there are some header calculations and notations, but they are partially obscured and difficult to read completely.]
+JUNE 22, 1963
+1 22.7   164.57  47.5   27.4   -92.37  1003   90.08+
+[... extensive tabular data for June 22, 1963 ...]
 
-The document is a dense technical table with rows of numerical data, primarily focused on satellite tracking information for specific dates in June 1963.
+JUNE 23, 1963
+0 21.6   151.59  47.5   27.2   -91.12   939   90.0+
+[... extensive tabular data for June 23, 1963 ...]
 
+SATELLITE 1960 IOTA 1
+NORTHERN LATITUDES
+
+JUNE 26, 1963
+1 17.0   142.22  47.5   27.2   -91.90   873   72.7+
+[... extensive tabular data for June 26, 1963 ...]
+
+JUNE 27, 1963
+0 18.2   151.59  47.5   27.1   -91.12   939   90.0+
+[... extensive tabular data for June 27, 1963 ...]
+
+JUNE 28, 1963
+1 14.5   170.95  47.5   27.3   -91.95   843   75.7+
+[... extensive tabular data for June 28, 1963 ...]
+
+JUNE 29, 1963
+0 19.0   154.18  47.5   26.9   -91.18   899   90.0+
+[... extensive tabular data for June 29, 1963 ...]
+
+JUNE 30, 1963
+[... extensive tabular data for June 30, 1963 ...]
 
 - page 6 -
 

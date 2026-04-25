@@ -1,153 +1,263 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE
-20 June 1955
+1. DATE: 20 June 1955
 
-2. LOCATION
-Dallas, Texas
+2. LOCATION: Dallas, Texas
 
-3. DATE-TIME GROUP
-GMT 2210, 2117, 2230 (CST)
+12. CONCLUSIONS:
+[X] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
+[ ] Unknown
 
-4. TYPE OF OBSERVATION
-Ground-Visual
+3. DATE-TIME GROUP: 1950-2120, 2230 GMT
 
-5. PHOTOS
-Yes   No
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual
+[ ] Air-Visual
+[ ] Ground-Radar
+[ ] Air-Intercept Radar
 
-6. LENGTH OF OBSERVATION
-60-120 seconds
+5. PHOTOS:
+[ ] Yes
+[X] No
 
-7. NUMBER OF OBJECTS
-3
+6. SOURCE: Mil & City (8 pers)
 
-8. SOURCE
-Mil. & Civ (3 pers)
+7. LENGTH OF OBSERVATION: 60-120 seconds
 
-9. COURSE
+8. NUMBER OF OBJECTS: 3
 
-10. BRIEF SUMMARY OF SIGHTING
-Obj red, round with hazy extremities, then changed to yellow-white round mass. No sound or trail. Obj descended slowly and irregularly. However, then moved rapidly to right, then hovered once more, moved to right again, then faded from view.
+9. COURSE: <blank>
 
-11. COMMENTS
-4602a Investigative efforts were negative. Ref. ATIC # 223056, 2D-UFO-555 on file in ATIC repository.
+10. BRIEF SUMMARY OF SIGHTING:
+Obj red, round with hazy extremities, then changed to yellow-white round mass. No sound or trail. Obj descended slowly and irregularly. Hovered, then moved rapidly to right, then hovered once more, moved to right again, then faded from view.
+
+11. COMMENTS:
+ATIC investigative efforts were negative. Ref, ATIC # 230055, 2D-UF03-555 on file in ATIC repository.
 
 EVALUATION: Prob a/c.
 
-12. CONCLUSIONS
-Was Balloon
-Possibly Balloon
-Was Aircraft
-Probably Aircraft
-Possibly Aircraft
-Was Astronomical
-Possibly Astronomical
-Other
-Insufficient Data for Evaluation
-Unknown
+---
 
-REPORT NO.
-2D-UFO-5-55
+ATIC FORM 329 (REV 26 SEP 52)
 
-DOCUMENT DATA details include:
-Date of Doc: 7/7/55
-Date Processed: 9/22/55
-Security Class: 
-Author: JAMESON, D S
-Originating Agency: 4602d ISS
-Routing and other administrative details are visible on the form.
+REPORT NO.: 2D-UF03-5-55
 
+DATE OF DOC.: 7/7/55
+
+LANGUAGE: -
+
+A.F. NO.: 673523
+
+ACCES. NO.: 232213
+
+SECURITY CLASS: XU [H] [S] [C] [I]
+
+AUTHOR: JAMESON, D S
+
+DATE PROCESSED: 9/22/55
+
+F.T.S. NO.: -
+
+REEL NO.: -
+
+A/C TYPE: -
+
+TITLE OR DESCRIPTION: UF03
+
+COPIES REC'D: 1
+
+INCLOSURES: NONE
+
+COPIES REC'D: -
+
+ORIGINATING AGENCY: 4502D AISS
+
+FILED BY: RPD/ED/C1
+
+ROUTING:
+1. 1441
+2. <blank>
+3. <blank>
+4. <blank>
+5. <blank>
+6. <blank>
+
+SUBJ. CODE: (62)-62-13
+
+SUBJ. CODE: (0)-62-13
+
+SUBJ. CODE: (62)-62-13
+
+TECH. EVAL.: -
+
+ABSTRACTED BY NAME: -
+
+RICHARD S. BARRY
+MRS. RICHARD S. BARRY
+ALEX ELDER
+[handwritten: JOHN ALEX ELDER]
+JOHN H. STEWART
+
+RS. JOHN H. STEWART
+
+SYMBOL: -
+
+RETAIN UNTIL: -
+
+DISCARD: -
+
+ATIC FORM NO. 373 (1 MAY 52)     10     DOCUMENT DATA
 
 - page 1 -
 
-Here is the text from the document:
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
+
+(CLASSIFICATION)
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM (Agency) Flight 2-D, 4602D ATSS         REPORT NO. 2D-UF09-5-55: PART ONE         PAGE 4 OF 29 PAGES
+FROM (Agency)                          REPORT NO.                                PAGE  4      OF  29  PAGES
+
+Flight 2-D, 4602D ATSS          2D-UIRON-5-55 PART ONE
 
 Incl 1 to part one:
 Sketch of flight path of Object
 drawn by Richard S. Barry
 
-[The rest of the text is part of the diagram/sketch showing flight paths with various symbols and lines]
+[Diagram showing flight path with circled numbers 1-6 connected by solid and dashed lines with various directional symbols including arrows and crosses]
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32. A AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
+(CLASSIFICATION)                                           15-55330-1
 
 - page 2 -
 
-Here is the text from the document:
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
+
+[CLASSIFICATION]
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-Flight 2-D, 4602D AISS                     2D-5-55 PART ONE        PAGE    5   OF    29
+FROM: [illegible]
+
+REPORT NO.
+
+Flight 2-D, 4602D AISS
+
+2D-5-55 PART ONE
+
+PAGE 5 OF 29 PAGES
 
 Incl 2 to part one:
-Sketch of obj drawn by Richard S. Barry
+Sketch of obj et drawn by Richard S. Barry
 
-[Note: The document contains a warning about reproduction and transmission of information affecting national defense]
+[NON-TEXT PAGE: hand-drawn sketches showing three UFO object configurations - top sketch shows an elliptical disc-shaped object with four circular windows or ports and a small circular object to the left; middle sketch shows three circular objects in a cluster formation with a small circle to the left; bottom sketch shows a roughly spherical or egg-shaped object with multiple circular features and textured surface, with a small circle to the left]
 
-The document contains a hand-drawn sketch of an object with three different views/renderings, showing an oval or elongated shape with circular features.
+NOTE THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.
+31 540 53 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
 
+[CLASSIFICATION]
 
 - page 3 -
 
-Here is the OCR text from the document:
+AF FORM 112—PART II
+APPROVED 1 JUNE 1948
 
-AF FORM 112-PART II
+[CLASSIFICATION]
+
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM: Flight 2-D, 4602D AISS                REPORT NO. 2D-UFOB-5-55 PART TWO    PAGE 6    OF 24 PAGES
+FROM (Typist)                                    REPORT NO.
+
+Flight 2-D, 4602D AISS          2D-UFOB-5-55 PART TWO     PAGE 6     OF 49 PAGES
+
 
 I. SOURCE: Mrs. [redacted]
-    Address: [redacted], Dallas, Texas
-    Age: 29
-    Occupation: Housewife
-    Education: 2 years post graduate work in the field of education
-    Qualifications: Civil Defense worker
 
-II. RELIABILITY: SOURCE seemed to be an intelligent young woman. SOURCE had slight high school studies, and was very active in Civil Defense work. She was rather vague in answering a few questions, but preparing officer believes that SOURCE would be considered fairly reliable.
+   Address: [redacted], Dallas, Texas
 
-III. SOURCE'S DESCRIPTION OF SIGHTING:
+   Age: 29
 
-1. On the night of 20 June 1955, SOURCE was visited by a neighbor, Mr. John Stewart, who stated that he had observed an unknown object in the sky a few minutes earlier, (approximately 2200 CST). SOURCE, her husband, and Mr. Stewart went outside and within a period of five minutes sighted a round, reddish object which appeared to be in the southwestern sector of the sky. Object appeared to be as large as a bright star, however the object was red in color and round in shape. The object was travelling north at a great speed, and soon was out of sight. A few minutes later, the object appeared again in the same area vertically, from west to east. It appeared to hover over a neighbor's house and SOURCE stated that the object looked much larger in size than it did previously. The size of the object appeared comparable to that of a salad plate. The object then resumed speed and faded out of view in the north.
+   Occupation: Housewife
 
-Reference Enclosure "1 of part 2. SOURCE's sketch of the flight path of the object.
+   Education: 2 years post graduate work in the field of education
 
-Pt. 1 Vanishing point of object on 2nd sighting
-Pt. 2 Origin of object on 2nd sighting
-Pt. 3 Vanishing point of object on 1st sighting
-Pt. 4 SOURCE's location
-Pt. 5 Origin of object on 1st sighting
+   Qualifications: Civil Defense worker
 
-Reference Enclosure #2 of part 2. SOURCE's sketch of object
+II. RELIABILITY: SOURCE seemed to be an intelligent young woman. SOURCE had
+taught high school students, and was very active in Civil Defense work. She was
+rather vague in answering a few questions, but preparing officer believes that
+SOURCE would be considered fairly reliable.
 
-2. SOURCE stated she actually observed the object for a total time of one minute thirty seconds.
+III. SOURCE'S DESCRIPTION OF SIGHTINGS:
+
+1. On the night of 20 June 1955, SOURCE was visited by a neighbor, Mr.
+John Stewart, who stated that he had observed an unknown object at the sky a few
+minutes earlier, (approximately 2200 CST). SOURCE, her husband, and Mr. Stewart
+went outside and within a period of five minutes sighted a round, reddish object
+which appeared to be in the northwestern sector of the sky. Object appeared to be
+as large as a bright star, however the object was red in color round in shape.
+The object was travelling north at a great speed, and soon was out of sight. A
+few minutes later, the object appeared again in the same area traveling from west
+to east. It stopped to hover over a neighbor's house and SOURCE stated that the
+object looked much larger in size than it did previously. The size of the object
+appeared comparable to that of a salad plate. The object then resumed speed and
+faded out of view in the north.
+
+Reference inclosure "1 of part 2, SOURCE's sketch of the flight path of the object.
+
+Pt. 1  Vanishing point of object on 2nd sighting
+Pt. 2  Origin of object on 2nd sighting
+Pt. 3  Vanishing point of object on 1st sighting
+Pt. 4  SOURCE's location
+Pt. 5  Origin of object on 1st sighting
+
+Reference inclosure #2 of part 2, SOURCE's sketch of object
+
+2. SOURCE stated she actually observed the object for a total time of
+one minute thirty seconds.
 
 3. Sunset on the night of the observation was 1938 CST.
 
-4. SOURCE could not give the actual times of the sightings nor the duration of time between the sightings.
+4. SOURCE could not give the actual times of the sighting nor the
+duration of time between the sightings.
 
 5. Sighting of the object was strictly visual.
 
-[Note at bottom of document about reproduction restrictions]
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.
+31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
 
+[CLASSIFICATION]
+
+14-54554-1     U.S. GOVERNMENT PRINTING OFFICE 1957 0 - 9/37/98
 
 - page 4 -
 
-Here is the text from the document:
+AF FORM 112—PART II
+APPROVED 1 JUNE 1948
 
-AF FORM 112-PART II
+[CLASSIFICATION]
+
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM: Flight 2-D, 4602D AISS                 REPORT NO. 2D-UFO3-5-55 PART TWO    PAGE 7 OF 29
+FROM (Agency)                                REPORT NO.
+Flight 2-D, 4502D AISS             2D-UFO3-5-55 PART TWO    PAGE 7 OF 29 PAGES
 
 6. Object appeared to be the size of a half dollar when held in the hand at arm's length.
 
@@ -157,217 +267,127 @@ FROM: Flight 2-D, 4602D AISS                 REPORT NO. 2D-UFO3-5-55 PART TWO   
 
 9. The object was last sighted disappearing in the north.
 
-At the bottom of the document is a note: "THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 1917 U.S.C. 31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW."
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE LAWS, TITLE 18, U.S.C., SECS. 793 AND 794. THE TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, IN ANY FORM OR MANNER, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
+[CLASSIFICATION]
 
 - page 5 -
 
-Here is the text from the document:
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
+
+[CLASSIFICATION]
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM: Flight 2-D, 4602D AISS
-Incl 1 to art two:
+[Form Cleared]                                      REPORT NO.                                PAGE      [?]     OF     [?]     PAGES
+
+Flight 2-D, 4502D AI33                    2D-5-55 PART TWO
+
+Incl 1 to part two:
 Sketch of Flight path
-drawn by Mrs. F
+drawn by Mrs. [redacted]
 
-REPORT NO. 2D-5-55 PART TWO    PAGE 8 of 29 PAGES
+[SKETCH showing flight path diagram with the following elements:
 
-[The rest of the text is part of the diagram/map, which includes labels such as:
-- San Lucas
-- Ave.
-- 1st Sighting
-- 2nd Sighting]
+(A) ────────────────────────────────────→ [?]
+                                            |
+                                            |
+                                    2nd sighting
+(B) ────────────────────────────┐→[?].......|
+                                |          |
+(C) ──→[?]                       |          |
+      ↓                          |          |
+      |                          |          |
+      |                      3[?]          |
+      |                          |          |
+(D)   |                          |    SAN LUCAS    AVE.        [checkbox symbols]
+      |                          |
+      |                          |
+      |                    PARKER AVE.
+      |
+(E) ──→[?] 1st
+    sighting
+    [empty square]
 
-NOTE: THIS DOCUMENT CONTAINING INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.,
-SECTIONS 31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+]
 
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 13 U.S.C. _____
+51 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY EITHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+
+[CLASSIFICATION]                                    14-44370-1    U. S. GOVERNMENT PRINTING OFFICE
 
 - page 6 -
 
-Here is the text from the document:
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
+[CLASSIFICATION]
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM: Flight 2-D, 4502D ATSS
-Incl 2 to art two:
-Sketch of Object sighted by Mas.
+FORM (Agency): | REPORT NO
+Flight 2-D, 45020 AISS | 2D-UFO3-5-55 PART TWO | Page 7 of 29 Pages
 
-REPORT NO. 2D-UFO3-5-55 PART TWO    PAGE 7 OF 29    PAGES
+Incl 2 to Part Two:
+Sketch of Object sighted by Mrs. [redacted]
 
-[Note: There is a hand-drawn sketch of an oval/elliptical object with what appears to be a stitched or dotted outline in the center of the page]
+[handwritten oval sketch on page]
 
-At the bottom of the document, there is a note:
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31-32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+NOTE: THIS DOCUMENT CONTAINING INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
+[CLASSIFICATION]
 
 - page 7 -
 
-Here is the OCR text from the document:
-
-AF FORM 112-PART II
-APPROVED 1 JUNE 1950
-
-AIR INTELLIGENCE INFORMATION REPORT
-
-FROM (Agency)                                 REPORT NO.
-Flight 2-D, 4502D AISS                        2D-UFOB-5-55 PART THREE    PAGE 10 OF 24    PAGES
-
-I.   SOURCE:
-     Address:                 Dallas, Texas
-     Age: 23
-     Occupation: Civil Engineer
-     Education: One year post graduate work
-     Qualifications: Civil Engineer
-
-II.  RELIABILITY: SOURCE'S description of sighting was excellent and in great
-     detail. He was quite familiar with the latest type jet aircraft, astronomy, and
-     weather balloons. SOURCE was very familiar with vector problems, angular distances,
-     and bearing trans. The SOURCE is a present a Civil Engineer working for a Dallas
-     construction company. Preparing officer considers the SOURCE to be reliable.
-
-III. DETAILED DESCRIPTION OF MEETING:
-
-     1. On Monday 20 June 1955 at approximately 2200 hours CST, SOURCE was
-     aroused by conversation in front of his home and stepped outside. SOURCE,
-     accompanied by his neighbors sighted a rapidly moving light, brighter looking than a
-     first magnitude star. The light traveled at a speed about three times greater than
-     any aircraft he had ever seen. The light made three passes over approximately the
-     same course. The time of the observation was more than sixty seconds at each sighting.
-
-     2. SOURCE stated that there was no moon present on the night of the
-     observation, but there were many stars in the sky.
-
-     3. The lights seemed to be at an altitude of seventy-five thousand feet.
-
-     4. At no time did the SOURCE state that he had seen an object. All the
-     SOURCE saw was an incandescent light or lights.
-
-     5. The edges of the light were similar to that of a bright star.
-
-     6. Without field glasses, the light seemed to be about the size of a pin
-     head when held at arm's length. When the field glasses were used, the light appeared
-     to be about the size of a quarter when held in the hand at arm's length.
-
-     7. SOURCE estimated the length of the light to be three hundred feet.
-
-     8. Observer first sighted the light in the northwest.
-
-[Note: The bottom of the document contains a standard disclaimer about the document containing information affecting national defense]
-
-
-- page 8 -
-
-AF FORM 112-PART II
-AIR INTELLIGENCE INFORMATION REPORT
-
-REPORT NO. 20-UFOB-5-55 PART THREE    PAGE 11 OF 24 PAGES
-
-9. SOURCE stated that in his opinion, he thought the object to be a large aircraft and the origin unknown.
-
-Reference enclosure #1 of part 2. SOURCE sketch of the lights flight path.
-
-Pt. 1 First vector
-Pt. 2 Time in Quadrant IV, 10 seconds
-Pt. 3 Time in Quadrant III, 20 seconds
-Pt. 4 Time in Quadrant II, 20 seconds
-Pt. 5 SOURCE location, 3115 San Lucas Dr.
-Pt. 6 Time in Quadrant I, 10 seconds
-Pt. 7 City of Dallas
-Pt. 8 Initial vector
-
-Reference enclosure #2 of part 2. SOURCE sketch of lights (through 8 power field glasses)
-
-Pt. 1 Red light
-Pt. 2 White light
-Pt. 3 White light
-Pt. 4 White light
-Pt. 5 Arrow indicating that the entire diameter of object was the size of a quarter when held at arm's length.
-
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32...
-
-
-- page 9 -
-
-Here is the text from the document:
-
-AF FORM 112-PART II
+AF FORM 112—PART II                                    (CLASSIFICATION)
 APPROVED 1 JUNE 1948
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM (Agency): Flight 2-D, 4602D AISS                REPORT NO.: 2D-UT08-5-55 PART THREE    PAGE 12 OF 29 PAGES
-
-Incl 1 to part three:
-Sketch of flight path of object drawn by Mr. [redacted]
-
-[The rest of the text is on the diagram itself]
-
-Diagram annotations:
-- Quad I, Quad II, Quad III
-- Angle of Elevation: 45°
-- Son Lucas Ave.
-- 3115
-
-Note at bottom of page:
-THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+FROM (Agency)                                          REPORT NO.
+                                                       2D-UFO-E-5-55 PART THREE
+Flight 2-D, 4302D A193                                PAGE 10     OF 24 PAGES
 
 
-- page 10 -
+I. SOURCE: [redacted]
 
-Here is the text from the document:
+Address: [redacted] Dallas, Texas
 
-AF FORM 112-PART II
-AIR INTELLIGENCE INFORMATION REPORT
+Age: 23
 
-FROM: Flight 2-D, 4602D AISS
-Incl 2 to rpt three:
-Mr. Alex Rider's sketch of object through
-binoculars
+Occupation: Civil Engineer
 
-REPORT NO: 
-2D-UFO-5-55 PART THREE PAGE 13 of 29
+Education: One year post graduate work
 
-[The document contains a sketch with 4 oval shapes numbered 1-4 vertically, with lines extending from each oval]
+Qualifications: Civil Engineer
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.,
-31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+II. RELIABILITY: SOURCE's description of sighting was excellent and in great detail. In own quite familiar with the latest type jet aircraft, astronomy, and weather balloons. SOURCE was very familiar with vector problems, angular distance, and bearing terms. The Officer is at present a Civil Engineer working for a Dallas construction company. Preparing Officer considers the SOURCE to be reliable.
 
+III. SOURCE'S DESCRIPTION OF SIGHTING:
 
-- page 11 -
+1. On Monday 20 June 1955 at approximately 2200 hours CST, SOURCE was aroused by conversation in front of his home and he stepped outside. SOURCE was soon joined by his neighbor who sighted a rapidly moving light, brighter looking than a first magnitude star. The light traveled at a speed about three times greater than any aircraft he had ever seen. The light made three passes over approximately the same couple. The time of the observation was more than sixty seconds in each sighting with a time lag of about five minutes between sightings. Viewing the light through a light power field glasses, SOURCE stated that the light appeared a three light incandescent white lights with a small red light similar to a wing light on an airplane propeller at either end. All lights were parallel to the flight path of object. This view of the lights appeared only during the second sighting. On the third sighting, thru field glasses, the light appeared as only a single white light. On the first pass, SOURCE only observed a white light, but he was not using the field glasses.
 
-Here is the text from the UFO index card:
+2. SOURCE stated that there was no moon present on the night of the observation, but that there were many stars in the sky.
 
-1. DATE: 17 June 1955
+3. The lights seemed to be at an altitude of seventy-five thousand feet.
 
-2. LOCATION: Dallas, Texas
+4. At no time did the SOURCE state that he had seen an object. All the SOURCE saw was an incandescent light or lights.
 
-3. DATE/TIME GROUP: 20/0420/0418/0430Z
+5. The edges of the light were similar to that of a bright star.
 
-4. TYPE OF OBSERVATION: Ground-Visual
+6. Without field glasses, the light seemed to be about the size of a pin held at arm's length. When the field glasses were used, the light appeared to be about the size of a quarter when held in the hand at arm's length.
 
-5. PHOTOS: Yes (C)
+7. SOURCE estimated the length of the light to be three hundred feet.
 
-6. SOURCE: Seven (7) Civ, One (1) Military
+8. Observer first sighted the light in the northwest.
 
-7. LENGTH OF OBSERVATION: From 10 to 180 Seconds
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
-10. BRIEF SUMMARY OF SIGHTING: Three (3) different sightings at the above times were observed by eight (8) individuals at Dallas, Texas. The sightings generally consisted of red, yellow, and white objects, one (1) with a row of three (3) lights in a horizontal line across the objects. No course was noted from NW to NE. No discernible features noted.
+(CLASSIFICATION)                                      DA 568294   U.S. GOVERNMENT PRINTING OFFICE
 
-11. COMMENTS: This sighting is being investigated by Flight 2-D, A6024 A135. Investigation assigned 23 June 55. Photostat of AF Form 117 will be forwarded ASAF after receipt thereof at this hqs. Conclusions of which to be filled in on this card by your activity.
-
-The document is an UFOB (Unidentified Flying Object) Index Card with additional administrative sections at the bottom of the page.
-
-
-- page 12 -
-
-Here is the OCR text from the document:
+- page 8 -
 
 AF FORM 112—PART II
 APPROVED 1 JUNE 1948
@@ -376,29 +396,225 @@ APPROVED 1 JUNE 1948
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM (Approve) Flight 2-D, 4502D AISS                REPORT NO. 2D-UFOB-5-55 PART FOUR    PAGE 14 of 29 PAGES
+FROM (Agency)                                   REPORT NO.
+                                               2D-UFO-5-55 PART THREE
+                                               PAGE    11    OF    24    PAGES
+
+
+9. SOURCE stated that in his opinion, he thought the object to be a
+large aircraft and the origin unknown.
+
+Reference inclosure 1 of part 2. SOURCE sketched of the lights flight path.
+
+Pt. 1 Final vector
+Pt. 2 Time in Quadrant IV, 10 seconds
+Pt. 3 Time in Quadrant III, 20 seconds
+Pt. 4 Time in Quadrant II, 20 seconds
+Pt. 5 SOURCE location, 3115 San Lucas Dr.
+Pt. 6 Time in Quadrant I, 10 seconds
+Pt. 7 City of Dallas
+Pt. 8 Initial vector
+
+Reference inclosure 2 of part 2. SOURCE sketch of lights (through 8 power field glasses)
+
+Pt. 1 Red light
+Pt. 2 White light
+Pt. 3 White light
+Pt. 4 White light
+Pt. 5 Arrow indicating that the entire diameter of object was the size of a quarter when held at arms length.
+
+
+(CLASSIFICATION)
+
+NOTE: THIS IS AN OFFICIAL DOCUMENT AND IS PROTECTED BY LAW. IT CONTAINS INFORMATION AFFECTING THE NATIONAL SECURITY OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+
+- page 9 -
+
+AF FORM 112—PART II
+APPROVED 1 JUNE 1948
+
+[CLASSIFICATION]
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+FROM (Agency) | REPORT NO. | PAGE
+Flight 2-D, 4502D AI93 | 2D- UFOB-3-55 PART THREE | 1/2 of 29 PAGES
+
+Incl 1 to Part three:
+Sketch of flight path of object drawn by Mr. [blackout]
+
+[NON-TEXT PAGE: Diagram showing flight paths with numbered circular markers (0-9) connected by lines and arrows, forming triangular patterns labeled "QUAD I", "QUAD II", "QUAD III", and "QUAD IV". Additional notations include "angle of Elevation 45°", "SAW LOOPS AVE.", and "Distance 3/4 M." The diagram includes a small rectangular shape on the left side and vertical lines labeled "DISTANCE FROM [illegible]".]
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.—231 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+
+[CLASSIFICATION]
+
+- page 10 -
+
+AF FORM 112--PART II
+APPROVED 1 JUNE 1948
+
+(CLASSIFICATION)
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+FROM (SOURCE)                                    FLIGHT NO.
+
+Flight 2-D, 4502D AT39                          2D-UFO3-5-55 PART THREE    PAGE    13    OF    29    PAGES
+
+Incl 2 to part three;
+Mr. Alex Elders sketch of object through
+binoculars
+
+[Sketch showing vertical arrangement with labels:]
+- Small circle at top labeled (1)
+- Medium circle in upper-middle labeled (2)
+- Medium circle in center labeled (3)
+- Larger circle at bottom labeled (4) and (5)
+- Vertical line on left with X marks at top and bottom
+- Horizontal lines extending from circles to the right with circled numbers
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C. 31 AND 32. THE TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. THIS MATERIAL CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. UNAUTHORIZED PERSON IS PROHIBITED BY LAW, AND THE PENALTIES PRESCRIBED BY LAW FOR THE UNAUTHORIZED DISCLOSURE OF CLASSIFIED INFORMATION TO AN UNAUTHORIZED PERSON IS PUNISHABLE BY FINE OR IMPRISONMENT OR BOTH. INTELLIGENCE, USAF.
+
+(CLASSIFICATION)
+
+- page 11 -
+
+UFOB INDEX CARD                    ATIS-UFOB-183-55
+
+1. DATE
+   27 June 1968
+
+2. LOCATION
+   Dallas, Texas 8
+
+12. CONCLUSIONS
+    [ ] Was Balloon
+    [ ] Probably Balloon
+    [ ] Possibly Balloon
+    [ ] Was Aircraft
+    [ ] Probably Aircraft
+    [ ] Possibly Aircraft
+    [ ] Was Astronomical
+    [ ] Probably Astronomical
+    [ ] Possibly Astronomical
+    [X] Unidentified
+    [ ] Insufficient Data for Evaluation
+    [ ] Unknown
+
+3. DATE-TIME GROUP
+   Local
+   27/0410Z/0418Z/0430Z
+
+4. TYPE OF OBSERVATION
+   [X] Ground-Visual
+   [ ] Air-Visual
+   [ ] Ground-Radar
+   [ ] Air-Intercept Radar
+
+5. PHOTOS
+   [ ] Yes
+   [X] No
+
+6. SOURCE
+   Seven (7) Civ., One (1) Milita ry
+
+7. LENGTH OF OBSERVATION
+   From 10 to 120 Seconds
+
+8. NUMBER OF OBJECTS
+   Multiple Sighting
+
+9. COURSE
+   NW to NE
+
+10. BRIEF SUMMARY OF SIGHTING
+    Three (3) different sightings at the above times were observed by eight (8) individuals at Dallas, Texas. One sighting was garbled but sightings generally consisted of red, yellow, and white objects, one (1) with a row of three (3) lights in a horizontal line across the object. The courses were erratic but generally from NW to NE. No discernable features noted.
+
+11. COMMENTS
+    This sighting is being investigated by Flight 2-D, 4602d AISS. Investigation assigned 23 June 55. Photostat of AF Form 112 will be forwarded ASAP after receipt thereof at this hq. conclusions on this card by your activity.
+
+AISOP Form 5 (15 Oct 54)
+
+[handwritten: ATIC 11-2 00 20]
+
+[handwritten: DUE 7-55]
+
+[illegible section]
+
+1. SURFAC: CHECK
+
+[handwritten: NAME]
+
+II. SCIEMING
+
+[handwritten: SUBJECT CODED AND]
+
+[illegible]: [illegible]
+
+[handwritten: B. REMARK:]
+
+(a). GA - 12
+
+[handwritten: 11671]
+
+(b). GA - 12
+
+(c). GA - 12
+
+C. INFORMATION:
+
+[handwritten: SCRAMEUK'S DEPARTURE: 815]
+
+AUG TEST FORMS (13 JULY 55)
+
+- page 12 -
+
+AF FORM 112—PART II
+APPROVED 1 JUNE 1948
+
+[CLASSIFICATION]
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+FORM (Army)
+
+Flight 2-D, 4502D 1135
+
+REPORT NO.
+
+2D-UP02-5-55 PART FOUR
+
+PAGE
+
+19 of 49
+
+PAGES
 
 I. SOURCE: Mrs. [redacted]
-    Address: [redacted], Dallas, Texas
-    Age: 23
-    Occupation: Housewife
-    Education: 2½ years college
-    Qualifications: Civil Defense worker
 
-II. RELIABILITY: SOURCE answered all questions in an informal, conversational manner. She seemed to be very concise and emphatic in answering all questions. SOURCE was quite friendly, cordial and willing to cover every minute detail of the sighting. Details of the sighting seemed to be quite vivid in the SOURCE's mind. Pre-filing officer considers the SOURCE reliable.
+Address: [redacted], Dallas, Texas
 
-III. SOURCE'S DESCRIPTION OF THE SIGHTING:
+Age: 23
 
-1. At approximately 2200 CST 20 June 1955, SOURCE was attracted by neighbors talking. A sound in sky. SOURCE went outside and observed an object directly over neighbor's home. The object proceeded from the south and traveled in an arc to the north. SOURCE stated the object appeared to be disk in shape and very bright and silvery. The object appeared to be moving at a rate of speed faster than any jet aircraft. While watching the object, the source stated it changed from a shiny silver color to a red.
+Occupation: Housewife
 
-In view, but rather slowed down and accelerated frequently. SOURCE sighted the object for a second and third time traveling from the west and disappearing in the north. During the second and third sightings, the altitude of the object appeared to be much higher than it was in the first sighting. SOURCE stated the entire period of sighting, no smoke or sound were observed.
+Education: 2½ years college
 
-Reference Enclosure #1 of part 4. SOURCE's sketch of the flight path of the object.
+Qualifications: Civil Defense Worker
+
+II. RELIABILITY: SOURCE answered all questions in an informal, conversational manner. She seemed to be very concise and emphatic in answering all questions. SOURCE was quite friendly, congenial and willing to cover every available detail of the sighting. Details of the sighting seemed to be quite vivid in the SOURCE's mind. Reporting officer considers the SOURCE reliable.
+
+III. SOURCE'S DESCRIPTION OF THE SIGHTED:
+
+1. At approximately 2230 CST 20 June 1955, SOURCE was attracted by neighbors talking about an object flying in the sky. SOURCE came outside and observed an object directly over neighbor's home. The object proceeded from the south west traveling in an arc to the north. SOURCE stated the object seemed to be disk in shape and very bright and shiny. The object appeared to be moving at a rate of speed faster than any jet aircraft the source had ever seen. While watching the object, the source stared at it changed from a shiny silver color to a red. SOURCE stated that the object did not travel at the same speed all the time it was in view, but rather slowed down and accelerated frequently. SOURCE sighted the object for a second and third time traveling from the west and disappearing in the north. During the second and third sightings, the altitude of the object appeared to be much higher than it was in the first sighting. SOURCE stated that during the entire period of sighting, no smoke or sound were observed.
+
+Reference inclosure #1 of part 4. SOURCE's sketch of the flight path of the object.
 
 Pt. 1 Object vanished on third sighting
 Pt. 2 Object vanished on second sighting
 Pt. 3 Object vanished on initial sighting
-Pt. 4 Location of Source
+Pt. 4 Location of source, [redacted]
 Pt. 5 Object originated on third sighting
 Pt. 6 Object originated on second sighting
 Pt. 7 Object originated on first sighting
@@ -411,119 +627,117 @@ Pt. 7 Object originated on first sighting
 
 5. SOURCE did not observe the object through field glasses at any time.
 
-6. SOURCE stated that she would estimate the real size of the object to be about the size of a B-25 aircraft.
+6. SOURCE stated that she would estimate the real size of the object to be about the size of a 2-35 aircraft.
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, SO U.S.
-[rest of note is cut off]
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C. 31-32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
-(CLASSIFICATION)
+[CLASSIFICATION]
 
+14-84706-1    D-1: UNCLASSIFIED/GENERAL DISTRIBUTION Y/40/T
 
 - page 13 -
 
-Here is the text from the document:
-
-AF FORM 112-PART 11
+AF FORM 112--PART II
+[CLASSIFICATION]
 APPROVED 1 JUNE 1948
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM (Group)                                                REPORT NO.
-Flight 2-D, 4602D AISS                                     27-UFOB-5-55 PART FOUR     PAGE 15 OF 29
+FROM (Agency)                                    REPORT NO.
+                                                2D-UFOB-5-55 PART FOUR        PAGE    15    OF    24
+Flight 2-D, 460ZD AFSS                                                                    PAGES
 
-7. SOURCE stated that there was an absence of sound, and that there was no exhaust or flames.
+7. SOURCE stated that there was an absence of sound, and that there was
+no exhaust or flames.
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.,
-SECTIONS 793 AND 794. THE TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
-INTELLIGENCE, USAF.
-
-(CLASSIFICATION)
-
+[stamp: DECLASSIFIED]
 
 - page 14 -
 
-Here is the text from the document:
-
-AF FORM 112-PART-II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
+
+[CLASSIFICATION]
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM: Flight 2-D, 4602D AISS
+FROM (Origina!)                                    REPORT NO.
+
+Flight 2-D, 4602D ATSS                     2D-UFOB-5-55 PART FOUR PAGE 16 OF 29 PAGES
+
 Incl 1 of part four:
-Source's sketch of flight path
-of object
+  Source's sketch of flight path
+  of object
 
-REPORT NO. 
-2D-UFOB-5-55 PART FOUR PAGE 16 of 29 PAGES
+[The remainder of the page consists of a hand-drawn diagram showing flight paths with dashed and solid lines, directional arrows, labeled points including "3rd SIGHTING", "2nd SIGHTING", geographic reference to "San LUCAS Ave", "1ST SIGHTING", and various symbols (A, B, C, D) marking different positions. A vertical line labeled "INTERSTATF [illegible]" runs through the diagram.]
 
-[The rest of the text is part of the diagram/sketch, which includes:
-- "1st sighting"
-- "2nd sighting"
-- "3rd sighting"
-- "Jose Lucas Ave"
-- "Maple St"]
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.—
+31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
-
+[CLASSIFICATION]
 
 - page 15 -
 
-Here is the OCR text from the document:
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
+
+[CLASSIFICATION]
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-Flight 2-D, 4602D ATSS                    2D-UFOB-5-55 PART FIVE    PAGE    17    OF    24    PAGES
+FROM (Source)                          | REPORT NO.                                    | PAGE 17 OF 24 PAGES
+Flight 2-D, 4502D AT33               | 2D-UFOB-5-55 PART FIVE
 
 I. SOURCE: Mr. [redacted]
-    Address: [redacted], Dallas, Texas
-    Age: 28
-    Occupation: Salesman, Hoffman La Roche Inc.
-    Education: Post Graduate work 2 years
-    Qualifications: Bacteriologist
+   Address: [redacted], Dallas, Texas
+   Age: 23
+   Occupation: Salesman, Hoffman La Roche Inc.
+   Education: Post Graduate work 2 years
+   Qualifications: Bacteriologist
 
-II. RELIABILITY SOURCE was sincere, Friendly, and cooperative. All questions asked were answered in a straightforward manner. SOURCE was very interested in the sighting, and quite eager to find out the results of the investigation.
+II. RELIABILITY: SOURCE was sincere, friendly, and cooperative. All questions asked were answered in a straight forward manner. SOURCE was very interested in the sighting and anxious to find out the results of the investigation. Reporting officer believes the source to be reliable.
 
-III. SOURCE'S DESCRIPTION OF THE SIGHTING: On 20 June 1955, SOURCE'S attention was directed to an unknown object travelling at a tremendous rate of speed in a southwesterly direction. The object followed an erratic course in the southwest direction and changed course from 195 degrees to about two hundred and sixty degrees. The object was sighted in the Downtown Dallas area, a total of twenty five to thirty seconds. The time of the first sighting was 2150.
+III. SOURCE'S DESCRIPTION OF THE SIGHTING: On 20 June 1955, SOURCE's attention was directed to an unknown object travelling at a tremendous rate of speed in a south westerly direction. The object followed an erratic course in the southwest direction and changed course from 195 degrees to about two hundred and sixty degrees. The object held this course until it faded from view. The first sighting lasted a total of twenty-five to thirty seconds. The time of the first sighting was 2150 CST.
 
-2. On the second sighting the object was observed through binoculars. The object appeared to be silver in color and very fuzzy around the edges. SOURCE that there was no sound. The total time of the second sighting lasted twenty seconds. The object followed a course of approximately ten degrees, and travelled at a tremendous rate of speed. The second sighting occurred at 2200 CST.
+2. On the second sighting the object was observed through binoculars. The object appeared to be either in color and very fuzzy around the edges. SOURCE stated that there was no sound. The total time of the second sighting lasted twenty seconds. The object followed a course of approximately one hundred feet, and travelled at a tremendous rate of speed. The second sighting occurred at 2200 CST.
 
-3. At 2215 P.M. CST, 20 June 1955, the object was sighted a third time. The object approached SOURCE maintaining a heading of about ten degrees and then changed to a heading of about one hundred and sixty degrees. During the third sighting, the object appeared as three bright incandescent lights. The lights were arranged in a straight line and to quote SOURCE, "as one object was seen". The total time of sighting was approximately twenty five seconds.
+3. At 2215 P.M. CST, 20 June 1955, the object was sighted a third time. The object approached SOURCE maintaining a heading of about ten degrees and then changed to a heading of about one hundred and sixty degrees. During this third sighting, the object appeared as three bright incandescent lights. The lights were arranged in a straight line and the outline of an object was seen. The total time of sighting was approximately twenty-five seconds.
 
-4. At 2220 CST, 20 June 1955, the fourth sighting occurred. The object appeared on a course of two hundred degrees, and then again changed to a heading of ten degrees. On this sighting three green lights were accompanied by one white light. One of the green lights seemed to fade out, and then came back on. Total time of the last sighting was approximately twenty five to thirty seconds.
+4. At 2220 CST, 20 June 1955, the fourth sighting occurred. The object appeared on a course of two hundred eighty degrees, and then again changed to a heading of ten degrees. On this sighting there were three green lights accompanied by one white light. One of the green lights seemed to fade out, and then one back on. Total time of the last sighting was approximately twenty-five to thirty seconds.
 
-Reference Inclosure #1 of Part 5 SOURCE'S sketched of Flight path of the object.
+Reference Enclosure #1 of part 5 SOURCE's sketched of flight path of the object.
 
-Ft. 1 Vanishing point of object - 4th sighting
-Ft. 2 Vanishing point of object - 3rd sighting
-Ft. 3 Origin of object 2nd sighting
-Ft. 4 Vanishing point of object - 2nd sighting
-Ft. 5 Source location
-Ft. 6 Origin of object 3rd - sighting
-Ft. 7 Downtown Dallas, Texas - Metropolitan area
-Ft. 8 Vanishing point of object - 1st sighting
-Ft. 9 Origin of object - 2nd sighting
-Ft. 10 Origin of object - 1st sighting
+Pt. 1 Vanishing point of object - 4th sighting
+Pt. 2 Vanishing point of object - 3rd sighting
+Pt. 3 Origin of object on 4th sighting
+Pt. 4 Vanishing point of object - 2nd sighting
+Pt. 5 Sources location
+Pt. 6 Origin of object 3rd - sighting
+Pt. 7 Downtown Dallas, Texas - Metropolitan area
+Pt. 8 Vanishing point of object - 1st sighting
+Pt. 9 Origin of object - 2nd sighting
+Pt. 10 Origin of object - 1st sighting
 
-[Note: Bottom disclaimer text is partially illegible]
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. PENALTIES PRESCRIBED IN THESE SECTIONS APPLY. FURTHER DISSEMINATION IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE OFFICIALS, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
+[CLASSIFICATION]
 
 - page 16 -
 
-Here is the OCR text from the document:
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
 
+[CLASSIFICATION]
+
 AIR INTELLIGENCE INFORMATION REPORT
-(CLASSIFICATION)
 
-FROM Flight 2-D, 4602D AISS                     REPORT NO. 2d-UFOB-5-55 PART FIVE    PAGE 18    OF 29    PAGES
+FROM ( Lyncey)                                    REPORT NO.
 
-Reference enclosure #2 of part 5.  SOURCE's sketch of lights.
+Flight 2-D, 4602D ATIS                           2d-UFOB-5-55 PART FIVE     PAGE    15    OF    29    PAGES
+
+Reference Inclosure #2 of part 5.  SOURCE's sketch of lights.
 
 Pt. 1  Bright white light - 1st sighting
 Pt. 2  Dull silver color with no lights - 2nd sighting
@@ -531,92 +745,122 @@ Pt. 3  Three bright incandescent lights - 2nd sighting
 Pt. 4  Three olive green lights - 4th sighting
 Pt. 5  White light - 4th sighting
 
-5. SOURCE was certain he actually sighted the object for two and one-half minutes.
+5.  SOURCE was certain he actually sighted the object for two and one-half minutes.
 
-6. Object was much brighter than the background of the sky.
+6.  Object was much brighter than the background of the sky.
 
-7. SOURCE judged the object to be at an altitude of about five thousand (5,000) feet.
+7.  SOURCE judged the object to be at an altitude of about five thousand (5,000) feet.
 
-8. Object appeared to be round and solid.
+8.  Object appeared to be round and solid.
 
-9. SOURCE stated that there was either a single object or four objects flying a tight formation.
+9.  SOURCE stated that there was either a single object or four objects flying a tight formation.
 
-10. SOURCE was facing the southwest and the object faded out of view to the northeast.
+10.  SOURCE was facing the southwest and the object faded out of view to the northeast.
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE, OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
-(CLASSIFICATION)
-
+[CLASSIFICATION]                                 15-AAIQD4    O.T'S GevP.NMENT PRINTING OFFICE: 1956 O-682128
 
 - page 17 -
 
-Here is the text from the document:
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
+
+(CLASSIFICATION)
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM: (Agency) Flight 2-D, 4602D AISS
+FROM (Agency)                                          REPORT NO.
+
+Flight 2-D, 4502D AISS                    2D-UFOB-5-55 PART FIVE    PAGE 17    DF 29    PAGES
+
 Incl 1 of part five:
-Objects flight sketch of
+Fir. [redacted] to sketch of
+objects flight path
 
-REPORT NO. 2D-UFOB-5-55 PART FIVE PAGE 19 OF 29 PAGES
+[handwritten: O _______________→ O UE sighting]
 
-[The rest of the text is handwritten annotations on the flight path sketch, including:
-- "1st sighting"
-- "2nd sighting"
-- "3rd sighting"
-- "San Lucas"
-- "Ave"
-- "KITE 1348"]
+[handwritten: ⊕ _______________→ B3rd sighting?]
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+[handwritten: O3rd sighting?]
 
+[handwritten: ⊕ _____ ∅→ - - - - -╲]
+[handwritten: ⊕ _______________→]
+
+[handwritten: ⊕ _______________→]
+
+SAN LUCAS      AVC
+
+[handwritten: ⊕ ___→ ∅→ - - - - -]
+
+[handwritten: ⊕ FITC 1348]
+[handwritten: ⊗]
+
+[handwritten: ⊙ _______________→ U]
+                                    sighting
+
+[handwritten: ⊕ ___→ ∅← - - - - -]
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., §§ 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+
+INTELLIGENCE, USAF.
+
+(CLASSIFICATION)                                                 [GOVERNMENT PRINTING OFFICE]
 
 - page 18 -
 
-Here is the text from the document:
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
+
+(CLASSIFICATION)
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-Flight 2-D, 4602D AISS                                   2D-UFOB-5-55 PART FIVE    PAGE    20    OF    29    PAGES
+FROM (Agency)                          REPORT NO.
+Flight 2-D, 4602D ATSS                2D-UFOB-5-55 PART FIVE  PAGE 20 OF 29 PAGES
 
 Incl 2 of art five:
 Sketch of objects sighted by Mr. [redacted]
 
-[The rest of the page contains a sketch with numbered circular objects labeled 1, 2, 3, and 4, with different arrangements and configurations of circles]
+①
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C. 31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+②
 
+③
+
+④
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., § 31 AND 32. THE TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OR OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
 - page 19 -
 
-Here is the OCR text from the document:
-
-AF FORM 112-PART II
-APPROVED 1 NOV 1948
+AF FORM 112—PART II
+APPROVED 1 JUNE 1948
+[stamp: CLASSIFICATION]
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM: (Sponsor)                    REPORT NO.
-Flight 2-D, 4602D AISS            XD-UFOB-5-55 PART SIX    PAGE 21   OF   29   PAGES
+FROM (Type)                          REPORT NO.
+                                     20-UFO9-5-55 PART SIX        PAGE 21 OF 29 PAGES
+Flight 2d?, 4602D AISS
 
 I. SOURCE: Mrs. [redacted]
-    Address: [redacted], Dallas, Texas
-    Age: 24
-    Occupation: Housewife
-    Education: 4 years college
-    Qualifications: Bacteriologist
+
+Address: [redacted] Dallas, Texas
+
+Age: 24
+
+Occupation: Housewife
+
+Education: 4 years college
+
+Qualifications: Bacteriologist
 
 II. RELIABILITY: SOURCE seemed to be a very intelligent young woman. She had done a great deal of research in the field of Bacteriology. SOURCE answered all questions in a pleasing conversational manner and without hesitation. Preparing officer believes the SOURCE to be reliable.
 
 III. SOURCE'S DESCRIPTION OF THE SIGHTING:
 
-1. At about 2150 CST 20 June 1955, SOURCE first observed the object. The object was in a south westerly direction and appeared as a bright glow. SOURCE stated the object pursued a very irregular course and then turned right proceeding in a westerly direction. The object acted at a very rapid rate of speed, much faster than any jet aircraft. SOURCE had ever seen. The object seemed to slow before fading out of sight. On the third sighting, the object was again in a south westerly direction, but was slightly more westerly than it had been before. On the third and fourth sightings, the object appeared much closer to SOURCE on the west and northwest in the north. The object appeared much closer to SOURCE on the third sighting than it did on any of the other sightings. SOURCE stated that the objects appeared to be guided and were not falling objects.
+1. At about 2150 CST 20 June 1955, SOURCE first observed the object. The object was in a south to north direction and appeared as a bright glow. SOURCE stated the object pursued a very irregular course and then turned right proceeding in a westerly direction. The object moved at a very rapid rate of speed, such faster than any jet aircraft SOURCE had ever seen. The object seemed to flow before fading out of sight. On the second sighting, the object was again in a south westerly direction, but was slightly more westerly than it had been before. On the third and fourth sightings, the object appeared in the east and disappeared in the north. The object appeared much closer to SOURCE on the third sighting than it did on any of the other sightings. SOURCE stated that the objects appeared to be solid and were not from falling objects.
 
 2. SOURCE could not remember the exact times of the sightings.
 
@@ -631,179 +875,188 @@ III. SOURCE'S DESCRIPTION OF THE SIGHTING:
 Reference inclosure #1 of part 6. SOURCE'S sketch of the flight path of the object.
 
 Pt. 1 Object vanished on fourth sighting
-Pt. 2 Object vanished on third sighting
+Pt. 2 Object varied on third sighting
 Pt. 3 Origin of object on fourth sighting
 Pt. 4 Origin of object on third sighting
-Pt. 5 SOURCE location
+Pt. 5 SOURCE'S location, [redacted]
 Pt. 6 Object vanished on first sighting
 Pt. 7 Object vanished on second sighting
 Pt. 8 Origin of object on second sighting
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., SECS. 781-788. THE TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
-
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
 - page 20 -
 
-Here is the text from the document:
+AF FORM 112—PART II
+APPROVED 1 JUNE 1948
 
-AF FORM 112-PART II
+(CLASSIFICATION)
+
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM: Flight 2-D, 4602D ATSS
-Incl 1 of Part Six:
-Sketch of objects flight path
-drawn by Mrs. O.
+FROM (Uiycncy)                          REPORT NO.                                   PAGE    2.2    OF    29    PAGES
 
-REPORT NO. 2D-UFO3-5-55 PART SIX    PAGE 22 OF 29 PAGES
+Flight 2-D, 4602D AFSS              2D-UFO-5-55 PART SIX
 
-[The rest of the text is part of the diagram/sketch, which includes:
-- San Lucas Ave.
-- Various numbered sighting positions (0, 1st sighting, 2nd sighting, 3rd sighting)
-- Dashed lines showing object flight paths
+Incl 1 of part six:
+   Sketch of objects flight path
+   drawn by Mrs. [redacted]
 
-At the bottom of the page is a note:
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.]
+[Diagram showing flight path with numbered elements (1) through (9), including:]
+- Dashed lines indicating object trajectory
+- Labels for "Observer position," "Guard starting," "SAN LUCAS AVE.," "3129" (with box around it)
+- Notation "RE" with arrows
+- Text "sighting" at bottom
+- Text "0 1st sighting" at bottom
 
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., §§ 31 AND 32. TRANSMISSION OR REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+
+(CLASSIFICATION)
 
 - page 21 -
 
-Here is the OCR text from the document:
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
+
+[CLASSIFICATION]
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM (Agency)                    REPORT NO.
-Flight 2-D, 4602d ATSS           2D-UFOB-5-55 PART SEVEN   PAGE 23   OF   29   PAGES
+FROM (Source)                                    REPORT NO.
+                                                2D-UFOD-5-55 PART FIVE    PAGE 23 OF 29 PAGES
+Flight 2-D, 4602d ATSS
 
-SUPPLEMENTARY INVESTIGATIVE REPORTS:
+SUPPLEMENTARY INVESTIGATIVE EFFORTS:
 
-1. A check with the United States Weather Bureau, Love Field, Dallas Texas
-for balloons released in the area at the time of sighting. Negative results.
+1. A check with the United States Weather Bureau, Love Field, Dallas Texas for balloons released in the area at the time of sighting. Negative results.
 
-2. Contacted Civil Aeronautics Administration, Love Field, Dallas Texas for
-aircraft over the area at the time of sighting and received negative results.
+2. Contacted Civil Aeronautics Administration, Love Field, Dallas Texas for aircraft over the area at the time of sighting and received negative results.
 
-3. Duncanville Radar Station, Duncanville Texas reported no blips on the scope
-from 0400Z to 0430Z 21 Jun 55.
+3. Duncanville Radar Station, Duncanville Texas reported no blips on the scope from 0400Z to 0300Z 21 Jun 55.
 
-4. Base Operations, Naval Air Station, Hensley Field, Dallas Texas was
-contacted for aircraft over area of sighting and obtained negative results.
+4. Base Operations, Naval Air Station, Hensley Field, Dallas Texas was contacted for aircraft over area of sighting and obtained negative results.
 
-5. Base Weather Station at the Dallas Naval Air Station, Hensley Field, Dallas
-Texas stated no balloons had been released 20 Jun 55. Weather information on
-21 Jun 55 at 0400Z was clear and winds were holding out of the west up to Forty-
-thousand (40,000) feet. Wind speeds up to forty-thousand feet averaged twenty-five
-(25) miles per hour. Wind direction and speed for the following altitudes were as
-follows:
+5. Base Weather Station at the Dallas Naval Air Station, Hensley Field, Dallas Texas stated no balloons had been released 20 Jun 55. Weather information on 21 Jun 55 at 0300Z was clear and winds were holding out of the west up to forty-thousand (40,000) feet. Wind speeds up forty-thousand feet averaged twenty-five (25) miles per hour. Wind direction and speed for the following altitudes were as follows:
 
-Altitude            Wind Speed           Wind Direction
-41,000 feet         15 knots             350 degrees
-47,000 feet         40 knots             350 degrees
+Altitude                    Wind Speed              Wind Direction
+41,000 feet                15 knots                350 degrees
+47,000 feet                40 knots                350 degrees
 
-6. A check was made with Mr. [redacted], Director of the Texas Astronomical
-Association, [redacted], Dallas Texas and received negative results.
+6. A check was made with Mr. [REDACTED], Director of the Texas Astronomical Association, [REDACTED], Dallas Texas and received negative results.
 
-7. Carswell Air Force Base Weather Service stated that a rawinsonde type
-weather balloon was released at 0930Z 21 Jun 55.
+7. Carswell Air Force Base Weather Service stated that a rawinsonde type weather balloon was release at 0930Z 21 Jun 55.
 
-8. Dr. [redacted], S.M.U. University Professor of astronomy, was contacted
-and Preparing Officer received negative results.
+8. Dr. [REDACTED], S.M.U. University Professor of astronomy, was contacted and Preparing Officer received negative results.
 
-9. Carswell Rawinsonde Service revealed the following information: A
-rawinsonde type balloon was released at 0330Z 21 June 1955. Wind direction and
-speed for the following altitudes were as follows:
+9. Carswell Rawinsonde Service revealed the following information: A rawinsonde type balloon was released at 0930Z 21 June 1955. Wind direction and speed for the following altitudes were as follows:
 
-Altitude            Wind Speed           Wind Direction
-20,000 feet         25 knots             350 degrees
-25,000 feet         25 knots             300 degrees
-30,000 feet         30 knots             200 degrees
+Altitude                    Wind Speed              Wind Direction
+20,000 feet                25 knots                350 degrees
+25,000 feet                25 knots                300 degrees
+30,000 feet                30 knots                200 degrees
 
-10. Flight Operations, Convair Aircraft Corporation, tested two aircraft 20
-June 1955, but both of the flights terminated at 0800 and 0900 CST.
+10. Flight Operations, Convair Aircraft Corporation, tested two aircraft 20 June 1955, but both of the flights terminated at 0000 and 0200 CST.
 
-11. Chance Vought aircraft corporation test center tests experimental aircraft
-only during the daylight hours.
+11. Chance Vought aircraft corporation test center tests experimental aircraft only during the daylight hours.
 
-[Note: The bottom of the document contains a standard classification and transmission warning, which I have not fully transcribed.]
-
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C. 31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
 
 - page 22 -
 
-Here is the OCR text from the document:
+[stamp: INFORMATION]
 
-[Top of document]
-INFORMATION
+[handwritten: 15]
 
-[Routing/Communication Header]
-MM RBEPC RJEMP RJEDEN RJEPNB RBEPW RBEGG RBESC RJMFQB
+[handwritten: Multi]
+
+[handwritten: 20 JUN1955] [handwritten: 23] [handwritten: 23JUN55] [illegible] 17
+
+MM RBEPC RJEDMP RJEDEN RJEPNB RBEPW RBEGC RBESC RJMFQB
+
 DE RBESOM 25
+
 RBEPC T DIRINTEL HQ USAF WASHDC
-M 2217092
+
+M 2217097
+
 FM NAS DAL
-TO RBEPC/DIRINTEL HQ USAF WASHDC
-RJEDW/AIRTECHNTEL GEN WPAFB ATTN AT1AA-2C
-RJEDW/COMDR ADC ENT AFB
-RJEPNB/COMDR EADF STEWART AFB
-INFO RBEPM/DNI WASHDC
-RBEGG/COMEASTSEAFRON
-RBESC/DIO EIGHTNAVDIST
-RJMFQB/19TH AIRDIV CARSWELL AFB ATTN BMRWG INTEL
+
+TO RBEPC'/DIRINTEL HQ USAF WASHDC
+
+RJEDMP/AIRTEOCHINTEL CEN WPAFB ATTN AT1AA-2C
+
+RJEDEN/COMDR ADC ENT AFB
+
+RJEPN3/COMDR EADF STEWART AFB
+
+INFO RBEPW/DNI WASHDC
+
+RBEGC/COMEASTSEAVON
+
+RBESC/DIO EIGHTHNAVDIST
+
+RJMFQB/19TH AIRDIV CARSWELL AFS ATTN BMEWG INTEL
+
 NAVY GRNC
+
 BT
 
-[Body of Message]
-FLYOBRPT X COMEASTSEAFRON INST 382.9.2 REF X INFORMANT SIGHTED, THREE
+FLYOBRPT X COMEASTSEAVON INST 3829.2 REF X INFORMANT SIGHTED THREE
+
 INCIDENTS REF TO AS ABLE CMM BAKER AND CHARLIE X SUPP WITNESS SIGHTED
+
 ONE INCIDENT PRIOR TO ABOVE X ABLE /1/ SINGLE RED RND OBJ WITH HAZY
+
 EXTREMITIES OBSR FOR TEN SEC CHANGING THEN TO SINGLE YELLOW-WHITE
+
 RND MASS WITH HAZY EXTREMITIES X SIZE UNKNOWN X DESCRIBED AS NOT LIKE
+
 METEOR X NO OBSR AERODYNAMIC FEATURES CMM CONTRAILS CMM EXHAUST CMM
+
 SOUND OR MEANS OF PROPULSION X MANEUVERS OBSR CLN FROM 75 DEG
-ELEVATION OBJ DESCENDED SLOWLY AND IRREGULARLY TO 40 DEG ELEVATION
+
+ELEVATION OBJ DESCENDED SLOWLY AND IRREGULARLY TO 43 DEG ELEVATION
+
 HOVERED CMM THEN MOVED RAPIDLY TO RIGHT THRU 60 DEG AZIMUTH CMM HOVERED
+
 CMM CONT RIGHT ANOTHER 40 DEG AZIMUTH AND FADED FRTM VIEW X INFORMANT
-CFN 382.9.2 /1/ 75 40 60 40/
 
-[Handwritten notes on right side of document]
-1. Altra
-2.
-3. Attinga
-4. File
-5.
+CFN 3829.2 /1/ 75 40 60 40
 
+[handwritten marks and signatures]
 
 - page 23 -
 
-Here is the OCR text from the document:
-
-AF FORM 112-PART II
+AF FORM 112—PART II
 APPROVED 1 JUNE 1948
+
+(CLASSIFICATION)
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM: Flight 2-D, 4602D ATSS                REPORT NO. 2D-UFOB-5-55 PART EIGHT    PAGE 29 of 29 PAGES
+FROM (LISTING)                          REPORT NO.
+                                        2D-UFOB-5-55 PART RIGHT PAGE 29 OF 29 PAGES
+Flight 2-D, 4602D AISS
 
 COMMENTS of Preparing Officer:
 
 1. In the opinion of the Preparing Officer, this sighting was probably caused by a meteorite for the following reasons:
 
-    a. All sources stated that the lights or objects sighted were round in shape.
+a. All sources stated that the lights or objects sighted were round in shape.
 
-    b. Sources stated that the sizes of the lights or objects varied from that of a pinpoint to the size of a half dollar.
+b. Sources stated that the sizes of the lights or objects varied from that of a pinpoint to the size of a half dollar.
 
-    c. Colors of the lights or objects were yellow, red, white and olive green.
+c. Colors of the lights or objects were yellow, red, white and olive green.
 
-    d. Speeds of the lights or objects were very fast, erratic and crossed large portions of sky in a few seconds.
+d. Speeds of the lights or objects were very fast, erratic and crossed large portions of the sky in a few seconds.
 
-    e. The formation was that of a small group when viewed through field glasses and when sighted visually, only one object was sighted.
+e. The formation was that of a small group when viewed through field glasses and when sighted visually, only one object was sighted.
 
-    f. To their knowledge, no source observed a trail and no sound was present.
+f. To their knowledge, no sources observed a trail and no sound was present.
 
-    g. The time of any of the sightings did not exceed 90 seconds and the observation occurred at 2400Z 21 June 1955.
+g. The time of any of the sightings did not exceed 90 seconds and the observation occurred at 0400Z 21 June 1955.
 
-[Signature]
+[handwritten signature]
 DEAN S. JAMESON
 1st Lt., USAF
 Officer in Charge
@@ -812,237 +1065,306 @@ COMMENTS of Approving Officer:
 
 1. This headquarters does not concur with the conclusions of the Preparing Officer for the following reasons:
 
-    a. The sources' descriptions of the flight characteristics and flight path of the object do not compare with that of a meteorite.
+a. The sources' descriptions of the flight characteristics and flight path of the object do not compare with that of a meteorite.
 
-    b. The duration of sighting is too long for a meteorite.
+b. The duration of sighting is too long for a meteorite.
 
-    c. Sources stated that they believed they saw the same object three separate times rather than three separate objects, with a time lapse between sightings.
+c. Sources stated that they believed they saw the same object three separate times rather than three separate objects, with a time lapse between sightings.
 
-    d. One reliable source stated that the object was not a meteorite.
+d. One reliable source stated that the object was not a meteorite.
 
 2. This report is forwarded to ATIC as unresolved.
 
-[Signature]
+[handwritten signature]
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IF MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR, INTELLIGENCE, USAF.
 
+(CLASSIFICATION)
 
 - page 24 -
 
-PAGE TWO RBESOM 25
+PAGE TWO RRESOM 25
+
 REPT WHEN OBSR THRU BINOCULARS OBJ APPEARED YELLOW-WHITE AND RND WITH
 THREE BRIGHT WHITE LIGHTS IN HORIZ LINE LOCATED ON SURFACE CMM NOT
-AT EXTREMITIES X /2/ SIGHTING OCCURRED AT 2210 CST 20 JUN 55 AND
-LASTED FOR ABOUT 60-120 SEC X /3/ SIGHTING OCCURRED VIS FROM GND
-CMM 8X30 BINOCULARS BEING EMPL FRTM TIME OF HOVER IN HORIZ MOV UNTIL
+AT EXTREMITIES X /2/ SIGHTING OCCURRED AT 2210 CST 22 JUN 55 AND
+LASTED FOR ABOUT 60-120 SEC X /3/ SIGHTING OCCURED VIS FROM GND
+CMM 8X30 BINOCULARS BEING EMPL FRTN TIME OF HOVER IN HORIZ MOV UNTIL
 END OF INCIDENT CHARLIE X /4/ INFORMANT LOCATED IN DRIVEWAY OF
-RESIDENCE AT DAL AT TIME OF ALL SIGHTINGS X OBJ
+RESIDENCE AT [redacted] DAL AT TIME OF ALL SIGHTINGS X OBJ
 INITIALLY APPEARED ON BRG 280 DEG TRUE AND DISAPPEARED ON BRG 020
 DEG TRUE X SPD AND ALT UNKNOWN CMM EST DIS 15 MI /5/ INFORMANT CAPT
-RICHARD BARRY 048234 USMC CMM ASST CRUITOFF EIGHTH MARCRUSDIST
-X WITNESSES CLN INFORMANTS WIFE CMM MR AND MRS AT CMM
-CMM MR AND MRS CMM MR AND MRS CMM ALL DAL X INFORMANT
+RICHARD BARRY 246234 USMC CMM ASST CRUITTOFF EIGHTH MARCORESCRUITDIST
+X WITNESSES CLN INFORMANTS WIFE CMM MR AND MRS [redacted] CMM
+[redacted] CMM MR AND MRS [redacted] CMM [redacted] CMM
+CMM MR AND MRS [redacted] CMM 9[redacted] CMM ALL DAL X INFORMANT
 APPEARS STABLE AND MATURE /6/ WEA CAVU AND WINDS ALOFT NNW 10 KNOTS X
-/7/ INFORMANT OBSR METEOR AT 2250 ON 20 JUN 55 X ADVISED NO SIMILARITY
-TO INCIDENTS X /8/ NO PHYS EVIDENCE X /9/ NO INTERCEPTION OF
+/7/ INFORMANT OBSR METEOR AT 2250 ON 23 JUN 55 X ADVISED NO SIMILARITY
+TO INCIDENTS X /8/ NO PHYS EVIDENCE X /9/ NO INTERCEPTION OF -
 IDENTIFICATION ATTEMPTED X /10/ SEVERAL CASUAL ACFT IN GEN AREA BTWN
 2200 AND 2250 X BAKER X /11/ OBJ APPEARANCE SAME AS ABLE X MANEUVERS
-OBSR CLN APPEARED TO APPROACH THEN VEER TO RIGHT THRU 80 DEG
-AZIMUTH AND FADE IN VICINITY OF OBJ ABLES DESAPPEARANCE X /2/ SIGHTING
-OCCURRED AT 2217 CST 20 JUN 55 AND LASTED FOR ABOUT 60-90 SEC X /3/
-CFN /2/ 2210 60-120 /3/ 8X30 /4/ 3119 280 020 15 /5/ 048234
-3123 3125 3114 /6/ 10 /7/ 2250 20.55 /8/ /9/ /10/ 2200 2250 /11/ 80 /2/
-2217 20 55 460-90 /3/
-
+OBSR CLN APEARED TO APPROACH THEN VEER TO RIGHT THRU 80 DEG
+AZIMUTH AND FACE IN VICINITY OF OBJ ABLES DESAPPERANCE X /12/ SIGHTING
+OCCURED AT 2217 CST 22 JUN 55 AND LASTED FOR ABOUT 60-90 SEC X /13/
+CFN /2/ 2210 60-120 /3/ 8X30 /4/ 3119 280 020 15 /5/ 046234
+3123 3125 3114 /6/ 10 /7/ 2250 2.0 55 /8/ /9/ /10/ 2200 2250 /11 80 /2/
+2217 20 55 160-90 /13/
 
 - page 25 -
 
 PAGE THREE RBESOM 25
-SEE ABLE X WITNESSES ELDER AND STEWART SHARED BINOCULARS X /14 OBJ
-INITIAL BRG 300 DEG TRUE CMM VEERED RIGHT AND DISAPPEARED ON BRG 020
-DEG TRUE X SPD AND ALT UNKNOWN CMM EST DIS 12 MI X /5/ THRU /10/
-SAME AS ABLE X CHARLIE /14 ESSENTIALLY SAME AS INCIDENT ABLE EXCEPT
-OBJ DID NOT HOVER AND ANGULAR DISPLACEMENT APPEARED FASTER X /2/
-SIGHTING OCCURRED AT 2230 CST 20 JUN 55 AND LASTED ABOUT 60-80 SEC X
-/3/ THRU /10/ SAME AS ABLE X INFORMANT STATES OBJ MOST UNUSUAL ASPECTS
-WERE BRILLIANCE CMM ANGULAR VELOCITY AND NO NAV LT X BRILLIANCE
-EXCEEDED FIRST MAGNITUDE STAR X INFORMANT ADVISED NO RECURRENCE 21
-JUN 55 X ADIO /AIR/ SENDS
-BT
-CFN /14/ 300 020 12-/5/ /10/ /1/ /2/ 2230 20 55 60-80 /3/ /10/ 21 55
-C PAGE THREE LINE SEVEN GP THREE TO READ THRU RPT THRU VICE THRU
-22/1710Z JUN RBESOM
-D
 
+SEE ABLE X WITNESSES ELIER AND STEWART SHARED BINOCULARS X /4/ OBJ
+
+INITIAL BRG 300 DEG TRUE CMM VEERED RIGHT AND DISAPPEAGED ON BRG 220
+
+DEG TRUE X SPD AND ALT UNKNOWN CMM EST DIS 12 MI X /5/ THRU /12/
+
+SAME AS ABLE X CHARLIE /1/ ESSENTIALLY SAME AS INCIDENT ABLE EXCEPT
+
+OBJ DID NOT HOVER AND ANGULAR DISPLACEMENT APPARED FASTER X /2/
+
+SIGHTING OCCURRED AT 2230 CST 29 JUN 55 AND LASTED ABOUT 60-80 SEC X
+
+X /3/ THRU /10/ SAME AS ABLE X INFORMANT STATES OBJ MOST UNUSUAL ASPECTS
+
+WERE BRILLIANCE CMM ANGULAR VELOCITY AND NO NAV LT X BRILLIANCE
+
+EXCEEDED FIRST MAGNITUDE STAR X INFORMANT ADVISED NO RECURRENCE 21
+
+JUN 55 X ADIO /AIR/ SENDS
+
+BT
+
+CFN /4/ 300 220 12 /5/ /10/ /1/ /2/ 2233 20 55 62-82 /3/ /12/ 21 55
+
+C PAGE THREE LINE SEVEN GP THREE TO READ THRU RPT THRU VICE THRU
+
+22/1710Z JUN RBESOM
+
+D
 
 - page 26 -
 
-Here is the text from the document:
+AF FORM 112--PART I
+APPROVED 1 JUNE 1948
 
-AF FORM 112—PART I
+[stamp: (CLASSIFICATION)]
+
+COUNTRY
 USA
+
+REPORT NO.
+2D-UFO3-5-55
+
+[illegible handwritten marking]
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-SUBJECT: UFOS
-LOCATION: Dallas, Texas, USA
-DATE OF INFORMATION: 20 Jun 55
-PREPARED BY: DEAN S. JAMESON, 1/Lt., USAF
-SOURCE: Capt. Richard S. Barry and others
+SUBJECT
+UFO3
+
+DATA REPORTED ON
+Dallas, Texas, USA
+
+FROM (ACTIVITY)
+Flight 2-D, 46024 AISS
+
+DATE OF INFORMATION
+9 Jul 55
+
+20 Jun 55
+
+REPORTED BY
+DEAN S. JAMESON, 1/Lt., USAF
+
+SOURCE
+Capt. Richard S. Barry and others
+
+REFERENCE (Control number, director, previous report, etc., as applicable)
+
+SUMMARY: (Under control parameters of report. Give typographical or cited one sentence paragraph. List Distributed at lower left. Indicates list of copies on AF Form 5.)
 
 I. CONTENTS:
-PART ONE: Description of sighting by Richard S. Barry, 3119 San Lucas Dr., Dallas, Texas, Captain USAC (FJJC 1547).
 
-PART TWO: Description of sighting by Mrs. [redacted], Dallas, Texas, Housewife
+PART ONE: Description of sighting by Richard S. Barry, 3119 San Lucas Dr.,
+Dallas, Texas, Captain USMC, (FUJC 1547).
 
-PART THREE: Description of sighting by Mr. [redacted], Dallas, Texas, Civil Engineer (FJJC 1547).
+PART TWO: Description of sighting by Mrs. [redacted] Dr.,
+Dallas Texas, Housewife [redacted]
 
-PART FOUR: Description of sighting by Mrs. [redacted], Dallas, Texas, Housewife (FJJC 1547).
+PART THREE: Description of sighting by Mr. [redacted]
+Dallas Texas, Civil Engineer (FUJC 1547).
 
-PART FIVE: Description of sighting by Mr. [redacted], Dallas, Texas, salesman for the Hoffman La Rocke (FJJC 1547).
+PART FOUR: Description of sighting by Mrs. [redacted]
+Dallas Texas, Housewife (FUJC 1547).
 
-PART SIX: Description of sighting by Mrs. [redacted], Dallas, Texas, Housewife (FJJC 1547).
+PART FIVE: Description of sighting by Mr. [redacted]
+Dallas Texas, salesman for the Hoffman La Roche (FUJC 1547).
+
+PART SIX: Description of sighting by Mrs. [redacted]
+Dallas Texas, Housewife (FUJC 1547).
 
 PART SEVEN: Supplementary Investigative Efforts.
 
 PART EIGHT: Comments of Preparing Officer.
 
-II. SUMMARY: Unidentified flying objects were sighted over Dallas Texas, (FJJC 1547) at 040021 21 June 1955 (2200 hours CST, 20 June 55). All information contained in this report was obtained from the persons observing the objects and an investigation conducted by the preparing officer to determine the possible cause of the sighting.
+II. SUMMARY: Unidentified flying objects were sighted over Dallas Texas, (FUJC 1547)
+at 04002 21 June 1955 (2200 hours CST, 20 Jun 55). All information contained in
+this report was obtained from the persons observing the objects and an investigation
+conducted by the preparing officer to determine the possible cause of the sighting.
 
 III. INVESTIGATOR: 1/Lt DEAN S. JAMESON, AO 3012182
 
-[Signed]
+[handwritten signature: Dean S. Jameson]
 DEAN S. JAMESON
 1st Lt., USAF
 Officer in Charge
 
-DISTRIBUTION BY ORGANIZATION:
-D/I, USAF; Comdr, ATIC; D/I, 6SADiv; Comdr, 4602d AISS; OIC, Flight 2-D, 4602d AISS
+DISTRIBUTION BY ORIGINATOR:
 
+D/I, USAF; Comdr, ATIC; D/I, 33ADiv; Comdr, 46024 AISS; OIC, Flight 2-D, 46024 AISS
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT 51 U.S.C.
+31 AND 32 AS AMENDED. TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTION OF
+INTELLIGENCE, USAF.
+
+[stamp: (CLASSIFICATION)]
 
 - page 27 -
-
-Here is the text from the document:
-
-UNCLASSIFIED
 
 AF FORM 112—PART II
 APPROVED 1 JUNE 1948
 
+[stamp: UNCLASSIFIED (CLASSIFICATION)]
+
 AIR INTELLIGENCE INFORMATION REPORT
 
-FROM (Agency)                    REPORT NO.                    PAGE    1A    OF    24    PAGES
-Flight 2-D, 4602D ATSS           2D-UFOB-5-55
+FROM (Agency)                                    REPORT NO.
+Flight 2-D, 4602D AIS3                          2D-UFOB-6-55          PAGE 1A     OF 21   PAGES
 
 APPROVED:
-[Signature]
+
+[handwritten signature]
 JOHN M WHITE JR
 Colonel, USAF
 Commander
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+[stamp: UNCLASSIFIED (CLASSIFICATION)]
 
-UNCLASSIFIED
+NOTE: THIS DOCUMENT CONTAINING INFORMATION AFFECTING THE NATIONAL DEFENCE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
 
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR, AIR INTELLIGENCE.
 
 - page 28 -
 
-Here is the OCR text from the document:
-
-AF FORM 112-PART II                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                .
+AF FORM 112—PART II                    (CLASSIFICATION)
+APPROVED 1 JUNE 1948
 
 AIR INTELLIGENCE INFORMATION REPORT
 
-Flight 2-D, 4602D AISS                                   2D-UFOB-5-55 PART ONE        PAGE    2     OF    29     PAGES
+FROM (Agency)                                     REPORT NO.                PAGE  2  OF  29
+                                                                            PAGES
+Flight 2-D, 4502D AFSS              2D-UFO3-5-55 PART ONE
 
-I.  SOURCE:   RICHARD SCHWIER BARRY
-    Address:  3119 San Lucas Dr., Dallas, Texas
-    Occupation: Captain, U.S. Marine Corps
-    Education: Post Graduate work - 2 years, Duke University
-    Qualifications: Communications officer, Recruiting officer
+I. SOURCE: RICHARD SCHRIEVER BARRY
 
-II. RELIABILITY:  SOURCE was above average in intelligence and deemed very serious
-    about the sighting. His description of the object was in great detail. SOURCE was
-    quite conversant and answered all questions in a straight forward manner. He was
-    quite familiar with some of the latest type aircraft and weather balloons.
-    Preparing Officer believes the SOURCE to be reliable.
+   Address: 3119 San Lucas Dr., Dallas, Texas
+
+   Occupation: Captain, U.S. Marine Corps
+
+   Education: Post Graduate Work - 2 years, Duke University
+
+   Qualifications: Communications officer, Recruiting officer
+
+II. RELIABILITY: SOURCE was above average in intelligence and seemed very serious
+about the sighting. His description of the object was in great detail. SOURCE was
+quite credible and answered all questions in a straightforward manner. He was
+quite familiar with some of the latest type jet aircraft and weather balloons.
+Preparing officer believes the SOURCE to be reliable.
 
 III. SOURCE'S DESCRIPTION OF SIGHTING:
 
-    1. On Monday evening, 2200 CST 20 June 1955, SOURCE'S neighbor, Mr. John
-    Stewart, visited SOURCE and asked him to step outside. They did, and started
-    pointed to the heavens in a southwesterly direction (generally toward the city of
-    Dallas, Texas). The SOURCE sighted a dull red object which was changing in color to
-    a grayish-with-yellow. The object dropped from a seventy degree elevation to a
-    forty degree elevation. The SOURCE could make no estimate as to the altitude of the
-    object. This object appeared to hover momentarily, and then accelerate in speed.
+   1. On Monday evening, 2200 CST 20 June 1955, SOURCE's neighbor, Mr. John
+Stewart, came to SOURCE's house and asked him to step outside. They did, and Mr. Stewart
+pointed to the heavens in a southwesterly direction (roughly toward the city of
+Dallas, Texas). The SOURCE sighted a dull red object which was changing in color to
+a dim drab yellow. The object dropped from a seventy degree elevation to a
+forty-degree elevation. The SOURCE could make no estimate as to the altitude of the
+object. The object moved in lower momentarily, and then accelerated in speed.
+SOURCE estimated his speed to be greater than that of any jet aircraft he had ever
+observed. After this burst in speed, the object was sighted again in the western
+part of the sky, and again seemed to be hovering momentarily. SOURCE immediately
+rushed indoors to get his binoculars (eight by thirty-five in manufacture). He
+returned in time to see the object with his binoculars on a northwesterly bearing in the
+northeastern sector of the sky. Thru the binoculars, the object appeared to be rigid,
+that red in color. Three lights appeared to be in a straight line horizontal
+to the path of flight of the object. SOURCE estimated the total time of the sighting
+to be approximately six and one-half seconds. A total of ten minutes time elapsed
+before the object was sighted for the second time. It appeared from the west and
+traveled straight toward the SOURCE. The object was changing from a red to a yellow-
+white in color. The object came out of the west at an angle of sixty degrees, veering
+to the right and then disappeared in the northeast. Upon viewing the object thru
+the binoculars, the SOURCE noticed that there were three brilliant whitish-yellow
+lights in a straight line with a red light in the lead.
 
-    SOURCE related this speed to be greater than that of any jet aircraft. He had ever
-    observed. After this burst of speed, the object was sighted again in the western
-    part of the sky, and again second to no known aircraft. (SOURCE immediately
-    rushed indoors to get his binoculars (eight by thirty-five in measurement). He
-    returned in time to focus the binoculars on the object. Upon viewing the focal
-    northeastern sector of the sky. Thru the binoculars, the object appeared to be round,
-    flat and red in color. Three lights appeared to be in a straight line, horizontal
-    to the path of flight of the object. SOURCE estimated the total time of the sighting
-    to be approximately sixty to ninety seconds. SOURCE stated he was close to ground
-    before the object was sighted for the second time. It appeared from the west and
-    traveled straight toward the SOURCE. The object was a grayish-yellow-white in
-    quite in color. The object came out of the west at an angle of sixty degrees, wearing
-    to the right and left. Upon viewing the object thru the binoculars, the SOURCE saw
-    the binoculars, the SOURCE stated that there were three brilliant white-yellow
-    lights in a straight line with a red light in the lead.
+   2. The third sighting was quite similar to the first. The colors were the
+same and the object appeared and disappeared in the same areas. This time, however
+the object did not appear to hover. Reference enclosure #1 to part 1, SOURCE'S
+sketch of flight path of object.
 
-    2. The third sighting was quite similar to the first. The colors were the
-    same and the object appeared and disappeared in the same manner. This time, however
-    the object did not appear to lower. Reference inclosure #1 to part 1, SOURCE'S
-    sketch of flight of object.
+      Pt. 1  Disappearance of object
+      Pt. 2  North Star
+      Pt. 3  Object hovered
+      Pt. 4  SOURCE'S location
+      Pt. 5  Object hovered
+      Pt. 6  Origin of Object.
 
-    Pt. 1  Disappearance of object
-    Pt. 2  North Star
-    Pt. 3  Object hovered
-    Pt. 4  SOURCE'S location
-    Pt. 5  Object hovered
-    Pt. 6  Origin of object
+Reference enclosure #2 to part 1. SOURCE'S sketch.
 
-    Reference inclosure #2 to part 1. SOURCE'S sketch.
-    Ref 1 : Three white lights preceded by a red glow (with field glasses).
+   "Pt. 1  Three white lights preceded by a red glow (with field glasses)."
 
 NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.,
-31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+ET SEQ., AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
 IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
 INTELLIGENCE, USAF.
 
+(CLASSIFICATION)                          U.S. GOVERNMENT PRINTING OFFICE
 
 - page 29 -
 
-Here is the text from the document:
+AF FORM 112–PART II
+APPROVED 1 JUNE 1948
 
-AF FORM 112—PART II
+[CLASSIFICATION]
+
 AIR INTELLIGENCE INFORMATION REPORT
 
-Flight 2-D, 4602d AISS                   2D-PROB-5-55 PART ONE    PAGE    3    OF    21    PAGES
+FROM (Group) | REPORT NO.
+Flight 2-D, 4602d Ai93 | 2D-JFOB-5-55 PART ONE | DATE 3 | OF 21 | PAGES
 
-Pt. 2 Three brilliant whitish-yellow lights preceded by a red glow with no outline present (through field glasses).
+Pt. 2 Three brilliant whitish-yellow lights proceeded by a red glow with no outline present (through field glasses).
 
-Pt. 3 Three brilliant whitish-yellow lights preceded by a red light. The outline of the lights was blurry and the edges fuzzy.
+Pt. 3 Three brilliant whitish yellow lights proceeded by a red light. The outline of the lights was blurry and the edges ragged.
 
-3. SOURCE was certain that the actual time of the sighting was one minute and eight, seconds.
+3. SOURCE was certain that the actual time of the sighting was one minute and thirty seconds.
 
 4. There were a few stars in the sky and a small moon.
 
-5. SOURCE estimated this object to be about one mile away and solid in shape.
+5. SOURCE estimated the object to be about one mile away and solid in shape.
 
-6. SOURCE stated that he believed he saw the same object three separate times rather than three different objects because time was adequate time for the object to circle back because of its tremendous rate of speed.
+6. SOURCE stated that he believed he saw the same object three separate times rather than three different objects because there was adequate time for the object to circle back because of its tremendous rate of speed.
 
-7. SOURCE stated that the object was about the size of a baseball held and a clear sky.
+7. SOURCE stated that the object was about the size of a baseball held in the hand at arm's length.
 
 8. The night of the sighting was very warm, dry, with a slight breeze and a clear sky.
 
 9. SOURCE stated that he had no conception of what the object might have been but that it was not a meteorite.
 
-NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C., 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+NOTE: THIS DOCUMENT CONTAINING INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT 31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW. IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF INTELLIGENCE, USAF.
 
+[CLASSIFICATION]
 
 - page 30 -
 

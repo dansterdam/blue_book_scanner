@@ -1,358 +1,389 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE
-16 Feb 59
+1. DATE: 16 Feb 59
 
-3. DATE-TIME GROUP
-2130
-Local
-GMT: 16/1930Z
+2. LOCATION: Benghazi, Libya
 
-5. PHOTOS
-☐ Yes
-☒ No
+12. CONCLUSIONS:
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other_____
+[X] Insufficient Date for Eveluation
+[ ] Unknown
 
-7. LENGTH OF OBSERVATION
-15 min
+3. DATE-TIME GROUP:
+Local 1930
+GMT 16/10Z/02Z
 
-10. BRIEF SUMMARY OF SIGHTING
-Round obj with dome which had vents of green light. Obj was silvery blue changing to a reddish color, then back again. No sound. Obj was sharply outlined and appeared about the size of a baseball at arm's length.
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual
+[ ] Ground-Radar
+[ ] Air-Visual
+[ ] Air-Intercept Radar
 
-2. LOCATION
-Benghazi, Libya
+5. PHOTOS:
+[ ] Yes
 
-4. TYPE OF OBSERVATION
-☒ Ground-Visual
-☐ Air-Viewed
-☐ Ground-Radar
-☐ Air-Interceptor Radar
-
-6. SOURCE
+6. SOURCE:
 British Military
 
-8. NUMBER OF OBJECTS
-One
+7. LENGTH OF OBSERVATION: 15 min
 
-9. COURSE
-NNW
+8. NUMBER OF OBJECTS: One
 
-12. CONCLUSIONS
-☐ Was Balloon
-☐ Probably Balloon
-☐ Possibly Balloon
-☐ Was Aircraft
-☐ Probably Aircraft
-☐ Possibly Aircraft
-☐ Was Astronomical
-☐ Probably Astronomical
-☐ Possibly Astronomical
-☐ Other:
-☒ Insufficient Data for Evaluation
-☐ Unknown
+9. COURSE: NNW
 
-11. COMMENTS
+10. BRIEF SUMMARY OF SIGHTING:
+Round obj with dome which had vents of green light. Obj was sllway blue changing to a reddish color, than back again. No sound. Obj was sharply outlined and appeared about the size of a baseball at arm's length.
+
+11. COMMENTS:
 Report classified as insufficient data.
 
+ATIC FORM 329 (REV 28 SEP 52)
 
 - page 1 -
 
-Received 1 Oct 59
+[handwritten: Received 1 Oct 59]
 
-APPENDIX III                                                Form A
+APPENDIX III
+Form A
 
 U.S. AIR FORCE TECHNICAL INFORMATION SHEET
 
-This questionnaire has been prepared by the U.S. Air Force in much information is desired concerning the unidentified aerial phenomena cited you have observed. Please try to answer as many questions as possible. Your name will be kept in confidence and will be regarded as confidential material. Your name will not be used in connection with any conclusions, speculations, or publications. If it is deemed necessary, we may contact you for further details.
+This questionnaire has been prepared by the Air Force as much information as possible concerning the unidentified aerial phenomena that you have observed. Please try to answer as many questions as you can. The information requested will be used for research purposes, and will be regarded as confidential material. Your name will not be used in connection with any statements, conclusions, or publications without your permission. Please return this questionnaire to the Air Force address listed below. If this, if it is deemed necessary, we may contact you for further details.
 
 1. When did you see the object?
-    16    Feb    1959
-    Day    Month   Year
+   16         FEB         1959
+   Day        Month       Year
 
-2. Time of day: 8:30    (Circle One): A.M. or P.M.
+2. Time of day:    9         30
+                  Hour      Minutes
+   (Circle One): A.M. or [X]P.M.
 
-3. Time spent:    (Circle One):    (Circle One):
-    a. Seconds
-    b. Central
-    c. Mountain
-    d. Pacific
-    e. Other
+3. Time zone:
+   (Circle One): a. Eastern
+                 b. Central
+                 c. Mountain
+                 d. Pacific
+                 e. Other
+
+   (Circle One): c. Daylight Saving
+                 b. Standard
 
 4. Where were you when you saw the object?
-    Benghazi    Benghazi    Libya
-    Nearest Town    City        State or Country
+   B-W[?]H, BENGHAZI, LIBYA        BENGHAZI
+   Nearest Frield Airport or City or Town             Bench in Country
+   Additional remarks: GOLD             SOUTH LIBYA
 
-5. Estimate how long you saw the object:
-    Hours    Minutes    15    Seconds
+5. Estimate how long you saw the object.
+   [blank]        Hours        [blank] Minutes    [blank] Seconds
 
-5.1 Circle one of the following to indicate how certain you are of your answer to Question 5:
-    a. Fairly certain
-    b. Not sure
+5.1 Circle one of the following to indicate how certain you are of your answer to
+    question 5.
+    a. Not very sure
+    b.[X]Fairly certain        c. Very sure
+                              d. Just a guess
 
-6. When was the condition of the sky?    (Circle One):
-    a. Cloudless
-    b. Scattered clouds
-    c. Thick clouds
-    d. Other
+6. When was the condition of the sky?
+   (Circle One): a. Bright daylight        d. Just a trace of daylight
+                 b. Dull daylight         e. [X]Dark sky disrupted
+                 c. Bright twilight       f. Dark, I remember
 
-7. If you saw the object during DAYLIGHT, TWILIGHT, or DAWN, where was the SUN in relation to you and the object?    (Circle One):
-    a. In front of you
-    b. To your right
-    c. To your left
-    d. Overhead
-    e. Don't remember
+7. If you saw the object during DAYLIGHT, TWILIGHT, or DAWN, where was the
+   SUN located as you looked at the object?
+   
+   (Circle One): a. In front of you       d. To your left
+                 b. In back of you        e. Overhead
+                 c. To your right         f. Don't remember
 
-255
-
+455
 
 - page 2 -
 
-Here is the text from the document:
-
-256                APPENDICES                Page 1
+256                    APPENDICES                                                                    Page 2
 
 8. If you saw the object at NIGHT, TWILIGHT, or DAWN, what did you notice
-concerning the STARS and MOON?
-8.1 STARS (Circle One):                                8.2 MOON (Circle One):
-    a. None                                                a. None
-    b. A few                                              b. Bright moonlight
-    c. Many                                               c. Dim moonlight—pitch dark
-    d. Don't remember                                     d. Don't remember
+   concerning the STARS and MOON?
+
+8.1 STARS (Circle One):                           8.3 MOON (Circle One):
+   a. None                                           a. Bright moonlight
+   b. Few                                            b. Moonlight
+   c. Many                                           c. No moonlight—pitch dark
+   d. Don't remember                                 d. Don't remember
 
 9. Was the object brighter than the background of the sky?
-(Circle One):                                            a. Yes   b. No   c. Don't remember
+   (Circle One): a. Yes    b. No    c. Don't remember
 
-10. If was BRIGHTER THAN the sky background, was the brightness like that of an
-ordinary star, or brighter? (Circle One):
-    a. Several times brighter                             b. About as bright
-    c. Barely visible                                     d. Several times away
-    e. Other
+10. If it was BRIGHTER than the sky background, were the brightness like that of an
+    automobile headlight at night?
+    (Circle One): a. A mile or more away (a distant car)?
+                  b. Several blocks away?
+                  c. A block away?
+                  d. Several yards away?
+                  e. Other ________
 
-11. Did the object:                                      (Circle One for each question)
-    a. Appear to stand still at any time?                 Yes   No   Don't know
-    b. Suddenly speed up and rush away at any time?       Yes   No   Don't know
-    c. Break up into parts or explode?                    Yes   No   Don't know
-    d. Change brightness?                                 Yes   No   Don't know
-    e. Change shape?                                      Yes   No   Don't know
-    f. Flicker, direct, or pulsate?                       Yes   No   Don't know
+11. Did the object:                                (Circle One for each question)
+    a. Appear to stand still at any time?          Yes (X) No  Don't know
+    b. Suddenly speed up and rush away at any time? Yes (X) No  Don't know
+    c. Break up into parts or explode?             Yes (X) No  Don't know
+    d. Change color?                               Yes (X) No  Don't know
+    e. Change brightness?                          Yes (X) No  Don't know
+    f. Change shape?                               Yes (X) No  Don't know
+    g. Flicker, throb, or pulsate?                Yes (X) No  Don't know
 
-12. Did the object move behind something or at any time, particularly a cloud?
-(Circle One):                                            Yes   No   Don't know
-    If you answered Yes, then tell what is moved behind.
+12. Did the object move behind something at any time, particularly a cloud?
+    (Circle One): Yes  (X)  Don't know.  If you answered YES, then tell
+    what it moved behind: _________________________________________________
 
-13. Did the object move in front (of something or at any time, particularly a cloud)?
-(Circle One):                                            Yes   No   Don't know
-    If you answered Yes, then tell what is moved in front of.
+13. Did the object move in front of something at any time, particularly a cloud?
+    (Circle One): Yes  (No)  Don't know.  If you answered YES, then tell
+    what it moved in front of: ______________________________________________
 
-14. Did the object appear:                               a. Solid   b. Transparent   c. Don't know
+14. Did the object appear: (Circle One): a. Solid   b. Transparent  c. Don't know
 
-15. Did you observe the object through any of the following?:
-    a. Telescope                                          Yes   No
-    b. Sun glasses                                        Yes   No
-    c. Windshield                                         Yes   No
-    d. Other                                              Yes   No   1. Binoculars
-                                                                     2. Telescope
-                                                                     3. Camera
-                                                                     4. Other
-
+15. Did you observe the object through any of the following?
+    a. Binoculars     Yes  (X)         d. Binoculars     Yes  (X)
+    b. Sun glasses    Yes  (X)         e. Telescope      Yes  (X)
+    c. Windshield     Yes  (X)         f. Theodolite     Yes  (X)
+    d. Window glass   Yes  (X)         g. Other __________
 
 - page 3 -
 
-APPENDICES                257
+APPENDICES                                257
+                                                  Page 3
 
-16. Tell in a few words the following things about the object:
-    a. Kind:        NO TLAND         H.L.
-    b. Color:       SILVERY BLUE     FADING TO A REDDISH COLOR
+14. Tell in a few words the following things about the object.
+    Sound: NO     SOUND        M.L
+    Color: SILVERY BLUE  CHANGING TO M
+           REDDISH COLOR AT EDGE
 
-17. Draw a picture that will show the shape of the object or objects. Label and include
-    the size, position of the sun, shadows, and any other details. If possible, make a
-    tracing, and especially indicate scale or vapor trail. Place in wing, beside the
-    drawing to show the direction the object was moving.
-    [A hand-drawn sketch of an object is present, with notes about "VIEWS OF LIGHT" and "SIDE"]
+15. Draw a picture that will show the shapes of the object or objects. Label and include
+     in the drawing such things as the size in relation to a familiar object (a car, a house,
+     etc., and especially exhaust trails or vapour trails. Place an arrow beside the
+     drawing to show the direction the object was moving.
 
-18. The shape of the object was:
-    a. Fuzzy or Blurred
-    b. Like a bright one
-    c. Clearly outlined
-    [Handwritten notes on the side]
+     [Drawing shows two views: circular "TOP" view and side view of a disc-shaped object]
+     [handwritten: "RAYS OF LIGHT"]
+     [handwritten: "SIDE"]
+
+16. The edges of the object were:
+     (Circle One): a. Fuzzy or blurred
+                   b. Like a bright star
+                   c. Sharply outlined
+                   d. Don't remember
+
+     [handwritten: "SHARP LIKE A LINE"]
+     [handwritten: "SIDE DEF'T"]
+     [handwritten: "GLOWING EFFECT"]
 
 19. If there was MORE THAN ONE object, then how many were there?
-    Draw a picture of how they were arranged, and put an arrow to show the direction
-    that they were traveling.
-    [A faint line or mark is visible at the bottom of this section]
+     Draw a picture of how they were arranged, and put an arrow to show the direction
+     they were traveling.
 
+     [Simple line drawing showing a single diagonal line]
 
 - page 4 -
 
-APPENDICES
-
-258                                                                                Page 4
+258                    APPENDICES
+                                                                                Page 4
 
 20. Draw a picture that will show the motion that the object or objects made. Place
-    an "X" at the beginning of the path, "A" at the end of the path, and show any
-    turns or changes in direction.
+    an "A" at the beginning of the path, a "B" at the end of the path, and show any
+    changes in direction.
 
-21. IF POSSIBLE, try to guess or estimate what the final size of the object was in its
-    longest dimension:                ONE HUNDRED     feet
+    [handwritten: HELO]
+    [Diagram with dotted and solid lines showing directional path marked with "SLOW" and "HELO"]
+
+21. IF POSSIBLE, try to guess or estimate what the Ast size of the object was in its
+    longest dimension.     1 HUNDRED    feet
 
 22. How large did the object or objects appear as compared with one of the following
-    objects held at the hand and at about arm's length?
-    (Circle One):    a. Head of a pin     b. Silver dollar     c. Pencil
-                     d. Dime              e. Grapefruit        f. Matchstick
-                     e. Nickel            g. Beachball         h. Other
+    objects held in the hand at about arm's length?
+    (Circle One):    a. Head of a pin                    e. Silver dollar
+                     b. Pea                              f. [illegible]
+                     c. Dime                             g. Grapefruit
+                     d. Nickel                           h. Basketball
+                     [circled: e. Half-dollar]           i. Bushel basket
 
-    22.1 Circle One of the following to indicate how certain you are of your answer:
-         Guessing: a. Fairly certain     b. Not very sure     c. Uncertain
+22.1 Circle One of the following to indicate how certain you are of your answer to
+     Question 22:
+                     a. Certain                          c. Not very sure
+                     b. [circled: Fairly certain]        d. Uncertain
 
-23. How did the object or objects disappear from view?:    THEY JUST
-    DISAPPEARED LEAVING NOTHING, MY
-    WILL VERIFY
+23. How did the object or objects disappear from view?  [handwritten: THEY SPLIT]
+    [handwritten: DISAPPEARED LEAVING NOTHING BUT VISIBILITY]
 
-24. In order that you can give as clear a picture as possible of what you saw, was
-    there any unusual sounds, odors, or other aerial phenomena? If so describe
-    type material would you make it? How large would it be, and what shape would
-    it have? Describe in your own words a common object or objects which when placed
-    alongside would look similar.
+24. In order that you can give us clear a picture as possible of what you saw, we would
+    like for you to imagine that you could construct the object that you saw. Of what
+    type material would you make it? How large would it be, and what shape would it
+    have? Describe in your own words a common object or objects which when placed
+    end to end or one in front of the other, would give the same appearance.
 
-    BLOW
-    HUNDRED FEET
-    DISC SHAPED
-    NOTHING ON EARTH COULD GIVE
-    THE SAME APPEARANCE OR WHAT SAW
-
+    [handwritten: ALLOY]
+    HUNDRED FT DIAMETER
+    DISC SHAPED NO
+    NOTHING ON EARTH FOUND GIVE
+    THE SAME APPEARNCE OF WHAT SAW
 
 - page 5 -
 
-APPENDICES                259
+APPENDICES                                259
 
 Page 5
 
-25. Where were you located when you saw the object? (Circle One)
-a. Inside a building
-b. In a car
-c. In an airplane
-d. On the ground
-e. Other
+26. Where were you located when you
+    saw the object? (Circle One)
+    a. Inside a building
+    b. In a car
+    c. In open countryside
+    d. In an airplane
+    e. At sea
+    f. Other ___________
 
-26. Were you (Circle One)
-a. In the business section of a city?
-b. In the residential section of a city?
-c. In open country?
-d. Flying over a city?
-e. Flying over open country?
-f. Other
+26a. Were you (Circle One)
+     a. In the business section of a city?
+     b. In the residential section of a city?
+     c. In open countryside?
+     d. Flying over a city?
+     e. Flying over open country?
+     f. Other ___________
 
-27. What were you doing at the time you saw the object, and how did you happen to see it?
-I WAS JUST WALKING TO THE ARMY 1 HAPPENED TO LOOK INTO THE SKY
+27. What were you doing at the time you saw the object, and how did you happen to
+    notice it?
+    WAS JUST WALKING TO THE
+    BRIGHT LOOKED UP INTO THE SKY
+    RING [illegible] 1
 
-28. If you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
-28.1 When direction were you moving? (Circle One)   a. West
-b. North
-c. East
-d. South
-
-28.2 More fast were you moving?                     miles per hour
-
-28.3 Did you stop or keep going while you were looking at the object?
-(Circle One)   Yes   No
+28. If you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then
+    complete the following questions:
+    28.1 What direction were you moving? (Circle One)
+         a. North          c. East           e. Southwest
+         b. West ⊕ [circled]
+    28.2 How fast were you moving? _________ miles per hour
+    28.3 Did you stop at any time while you were looking at the object?
+         (Circle One)      Yes          No
 
 29. What direction were you looking when you first saw the object? (Circle One)
-a. North      d. South      f. Southwest      g. Northwest
-b. Northeast  e. Southeast
+    a. North           c. East           e. Southwest
+    b. Northeast       d. Southeast      f. Southwest
+    [handwritten: Northwest marked]
 
 30. What direction were you looking when you last saw the object? (Circle One)
-a. North      d. South      f. Southwest      g. Northwest
-b. Northeast  e. Southeast
+    a. [North]         c. East           e. Southwest
+    b. Northeast       d. Southeast      f. Southwest
+    [handwritten: Northwest marked]
 
-31. If you are familiar with bearing (angular direction), try to estimate the number of degrees from North or South, or from East or West that the object was located.
-31.1 When it first appeared:    25     degrees
-a. From North                   _______ degrees
-b. From horizon                 _______ degrees
-31.2 When it disappeared:       10     degrees
-a. From North                   _______ degrees
-b. From horizon                 _______ degrees
-
+31. If you are familiar with bearing terms (angular direction), try to estimate the
+    number of degrees the object was from true North and also the number of degrees
+    elevation angle:
+    31.1 When it first appeared:
+         a. From true North _________ degrees
+         b. From horizon _________ degrees
+    31.2 When it disappeared:
+         a. From true North ___10___ degrees
+         b. From horizon ___10___ degrees
 
 - page 6 -
 
-260    APPENDICES                Page 6
+260                APPENDICES
+                                                                                                Page 6
 
-22. In the following sketch, imagine you are on the point shown. Place an "A" on the point of the line to show how high the object was above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object was above the horizon (skyline) when you last saw it.
+21.  In the following sketch, imagine that you are at the point shown. Place an "A" on the curved
+line to show how high the object was above the horizon (skyline) when you first saw it. Place
+a "B" on the same curved line to show how high the object was above the horizon (skyline)
+when you last saw it.
 
-23. In the following larger sketch place an "A" at the position the object was when you first saw it, and a "B" at the position when you last saw it. Refer to similar sketch as an example of how to complete the larger sketch.
+[SKETCH: A curved line diagram showing horizon line with trees/landscape silhouette at bottom and a curved arc above, with two marked points on the arc]
 
+22.  In the following larger sketch place an "A" at the position the object was when you first saw
+it, and a "B" at the position when you last saw it. Refer to smaller sketch as an example of
+how to complete the larger sketch.
+
+[SKETCHES: Two landscape view diagrams - a larger semicircular sketch on the left showing a road/path perspective with landscape, and a smaller semicircular sketch on the right showing landscape with marked points A and B]
 
 - page 7 -
 
-APPENDICES                 261
-Page 7
+APPENDICES                                261
+                                              Page 7
 
-24. When were the weather conditions at the time you saw the object?
-24.1 CLOUDS (Circle One)             24.2 WIND (Circle One)
-    1. Clear                          1. Light breeze
-    2. Scattered clouds                2. Strong wind
-    3. Thick or heavy clouds           3. Don't remember
-    4. Don't remember
+34. What were the weather conditions at the time you saw the object?
+    34.1 CLOUDS (Circle One)          34.2 WIND (Circle One)
+    a. Clear                           a. Calm
+    b. Hazy                            b. Slight breeze
+    c. Scattered clouds                c. Strong wind
+    d. Thick or heavy clouds           d. Don't remember
+    e. Don't remember
 
-24.3 WEATHER (Circle One)             24.4 TEMPERATURE (Circle One)
-    1. Fog                             1. Cold
-    2. Fog, mist, or light rain        2. Cool
-    3. Moderate or heavy rain          3. Warm
-    4. Snow                            4. Hot
-    5. Don't remember                  5. Don't remember
+    34.3 WEATHER (Circle One)          34.4 TEMPERATURE (Circle One)
+    a. Dry                             a. Cold
+    b. Fog, mist, or light rain        b. Cool
+    c. Moderate or heavy rain          c. Warm
+    d. Snow                            d. Hot
+    e. Don't remember                  e. Don't remember
 
-25. When did you report to some official that you had seen the object?
-Day _________ Month _________ Year _________
+35. When did you report to some official that you had seen the object?
+    ________Day          ________Month          ________Year
 
-26. Were anyone else with you at the time you saw the object?
-(Circle One)   Yes   No
+36. Was anyone else with you at the time you saw the object?
+    (Circle One)   Yes    [X] No
+    36.1 If you answered YES, did they see the object too?
+    (Circle One)   Yes    [X] No
+    36.2 Please list their names and addresses:
 
-26.1 If you answered YES, did they also see the object?
-(Circle One)   Yes   No
+37. Was this the first time that you had seen an object or objects like this?
+    (Circle One)   Yes    [X] No
+    37.1 If you answered NO, then when, where, and under what circumstances did 
+    you see other one(s)?
+    [handwritten: IN ENG LAND FLY ING CLUB WAS HIT
+    AGO ROOM  WINDOW AFSCIR
+    FIFTY 9 TIMES AT LEAST]
 
-26.2 Please list their names and addresses:
-
-27. Was this the first time that you had seen an object or objects like this?
-(Circle One)   Yes   No
-
-27.1 If you answered NO, please tell when, where, and under what circumstances did
-you see another object? (Use back of sheet if necessary)
-IN ENGLAND FROM MY BEDROOM WINDOW, ABOUT
-FIFTY TIMES AT LEAST
-
-28. In your opinion what do you think the object was and what might have caused it?
-IT WAS A FLYING CLOSET.
-
+38. In your opinion what do you think the object was and what might have caused it?
+    [handwritten: IT WAS A FLYING OBJECT,]
 
 - page 8 -
 
-Here is the text from the document:
-
-262     APPENDICES
-
-[A form with several questions, partially filled out]
+262                                    APPENDICES                                                    Page 8
 
 39. Do you think you can estimate the speed of the object?
-(Circle One)     Yes     No
+    (Circle One)        Yes    No
+    IF you answered YES, then what speed would you assign? SPEED
+                                                           VARIED
+                                                           ERRATIC
+                                                           [handwritten: unclear/12 + variations]
 
 40. Do you think you can estimate how far away from you the object was?
-(Circle One)     Yes     No
-If you answered YES, then how far away would you say it was? 10,000 feet.
+    (Circle One)        Yes    No
+    IF you answered YES, then how far away would you say it was? [handwritten: 10 MILES feet]
 
 41. Please give the following information about yourself:
-[Personal details are blacked out/redacted]
+    FULL NAME ___Last Name___ First Name___ Middle Name___
+    [handwritten: LOCAL]
 
-What is your present job?    SOLDIER
-Age:    24
+    ADDRESS [illegible] [handwritten: unclear street/town information] State___
 
-Please indicate any special educational training that you have had:
-[Education sections are blank]
+    TELEPHONE NUMBER [illegible] SOLDIER
 
-42. Date you completed this questionnaire:    17    FEB    1959
+    What is your present job? [handwritten: SOLDIER]
 
-Page number at top right is 6
+    Age [handwritten: 20] Sex [handwritten: MALE]
 
-Handwritten notes on the side include "SPEED" and "VIDEO" with some additional markings.
+    Please indicate any special educational training that you have had.
+    a. Grade school ___________     e. Technical school ___________
+                                        (Type)
+    b. High school ___________      f. Other special training ___________
+    c. College ___________
+    d. Post graduate [handwritten: SECURITY W/ FOREIGN]
 
+42. Date you completed this questionnaire: [handwritten: 13 FEB 1959]
+                                            Day    Month    Year
 
 - page 9 -
 

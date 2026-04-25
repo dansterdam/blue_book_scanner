@@ -1,53 +1,62 @@
 PROJECT 10073 RECORD CARD
 
-1. DATE: Sep 29
+1. DATE: [day] Sep 52
+2. LOCATION: San Antonio, Texas
+3. DATE-TIME GROUP:
+Local: 2230
+GMT: [illegible]
+4. TYPE OF OBSERVATION:
+[X] Ground-Visual [ ] Ground-Radar
+[ ] Air-Visual [ ] Air-Intercept Radar
+5. PHOTOS: [ ] Yes [X] No
+6. SOURCE: Chemist, et al.
+7. LENGTH OF OBSERVATION: 15-20 seconds
+8. NUMBER OF OBJECTS: 1
+9. COURSE: [blank]
+10. BRIEF SUMMARY OF SIGHTING: Orange color. Bean shaped. Motionless.
+11. COMMENTS: One observer a chemist. Second thought object might be a/c exploding.
+12. CONCLUSIONS: [X] Unknown
+[ ] Was Balloon
+[ ] Probably Balloon
+[ ] Possibly Balloon
+[ ] Was Aircraft
+[ ] Probably Aircraft
+[ ] Possibly Aircraft
+[ ] Was Astronomical
+[ ] Probably Astronomical
+[ ] Possibly Astronomical
+[ ] Other
+[ ] Insufficient Data for Evaluation
 
-2. DATE-TIME GROUP: Local 2230
-
-3. PHOTOS: Yes
-
-4. TYPE OF OBSERVATION: Ground-Visual
-
-5. SOURCE: Chemists, et al.
-
-6. LENGTH OF OBSERVATION: 15-20 seconds
-
-7. NUMBER OF OBJECTS: 1
-
-8. LOCATION: San Antonio, Texas
-
-9. COURSE: (blank)
-
-10. BRIEF SUMMARY OF SIGHTING: Orange color. Bean shaped. Motionless
-
-11. COMMENTS: One observer a chemist. Second thought object might be c/o exploding.
-
-12. CONCLUSIONS: (Checkboxes appear to be blank/unmarked)
-
-ATIC FORM 329 (REV 26 SEP 52) is printed at the bottom of the form.
-
+ATIC FORM 329 (REV 26 SEP 52)
 
 - page 1 -
 
 ACTION
-PARAPHRASE NOT REQUIRED
-BEFORE DECLASSIFYING
+PARAPHRASE NOT REQUIRED BEFORE DECLASSIFYING
 
-[Most of the text is redacted/blacked out, with only a few words partially visible. The bottom of the document has "Cyl" written in handwriting.]
+[Annotations: "1. ATIN", "2. Aba[?]", "3[?]. [REDACTED]", "4. C. files"]
 
-At the top right of the document, there appear to be some handwritten notes, but they are not fully legible.
+[Heavily redacted teletype message]
 
-The document appears to be a partially redacted official report or communication, with multiple horizontal black bars covering most of the text.
+...UFOB REPORT FOR THE PERIOD [dates] AT SAN ANTONIO...
+...KELLY [AFB]...
+...OBJECT APPEARED AT 6 AND 7 MILES DISTANCE...
+...WAS OBSERVED FOR APPROXIMATELY 25 SECONDS BY HE AND THEN CLOSED AND HE REGAINED... ONLY 5 SECONDS BY TECH SGT AND THE CHAC. OBJECT DISAPPEARED BY APPARENTLY GOING OUT. ESTIMATES OF SIZE RANGED FROM A PEA TO A BASKETBALL.
 
+09/1237Z SEP
+
+Cy1
 
 - page 2 -
 
+HEADQUARTERS
 SAN ANTONIO AIR MATERIEL AREA
 KELLY AIR FORCE BASE, TEXAS
 
 10 September 1952
 
-SUBJECT: (Unclassified) FLYSHEET
+SUBJECT: (Unclassified) FLYOBRPT
 
 THRU: Commanding General
 ATTN: Intelligence Division
@@ -63,109 +72,87 @@ In compliance with AF Letter 200-5, dated 29 April 1952, the attached AF Form 11
 
 FOR THE COMMANDING GENERAL:
 
-[Signature]
 ROBERT W. FOX
 Major, USAF
 Asst Air Provost Marshal
 
-Incls:
+3 Incls:
 1. AF Form 112
-2. Statement -
-3. Statement -
+2. Statement — [REDACTED]
+3. Statement — [REDACTED]
 
-CC: ATIC
-ATTN: ATIAC-2c
+cc: ATIC
+ATTN: ATIAA-2c
 W-P AFB, Ohio
 
-WG, SARA FORM 5
-(REV 15 SEP 52)
-
-SUPERSEDES WG SARA FORM 2, REV 8 MAY 1950, WHICH WILL BE USED UNTIL EXHAUSTED.
-
+HQ SAAMA FORM 2 (REV 10 SEP 51)   SUPERSEDES HQ SAAMA FORM 2, REV 2 MAY 1949, WHICH WILL BE USED UNTIL EXHAUSTED.
 
 - page 3 -
 
-Here is the text from the document:
-
 AF FORM 112—PART I
-APPROVED 1 JUNE 1951
+APPROVED 1 JUNE 1948
 
-COUNTRY United States
+COUNTRY: United States                AIR INTELLIGENCE INFORMATION REPORT
 
-AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT: FLYOBRPT
+AREA REPORTED ON: San Antonio, Texas          FROM (Agency): [SAAMA / unit at Kelly AFB]
+DATE OF REPORT: 10 September 1952    DATE OF INFORMATION: September 1952    EVALUATION: Unknown
+PREPARED BY (Officer): Major Robert [W. Fox?]    SOURCE: Eye-Witness
+REFERENCES: AF Letter 200-5, dated 29 April, 1952
 
-REPORT NO. (LEAVE BLANK)
+SUMMARY: One bean or round shaped unidentified object, approximately the size of a [pea or a basketball], orange/flare colored, was observed outside of San Antonio, Texas.
 
-SUBJECT
-
-AREA REPORTED ON San Antonio, Texas FROM (Agency)
-
-DATE OF REPORT 10 September 1952 DATE OF INFORMATION September 1952 EVALUATION Unknown
-
-PREPARED BY (Agency) Source: Unknown, Inc. SOURCE ATIC-T-2
-
-REFERENCES (Central number, directive, previous report, etc., as applicable) AF 164-1, Ser 22, Dated 27 April, 1952
-
-SUMMARY: (Enter concise summary of report. Give significance to final conclusions paragraph. List enclosures or lines of report on AF Form 112—Part II)
-
-One hour or more around the unidentified object, approximately 15 miles west of a small town, passing there colored, was observed near methods of gen San Antonio, Texas.
-
+[INCLS]
 
 - page 4 -
-
-Here is the OCR text from the document:
 
 AF FORM 112—PART II
 APPROVED 1 JUNE 1948
 
-AIR INTELLIGENCE INFORMATION REPORT
+FROM (Agency): SAAMA
+REPORT NO.: [illegible]                PAGE 1 OF 1 PAGES
 
-REPORT NO. [Mostly illegible]                PAGE 1 OF 2 PAGES
+In compliance with AF Letter 200-5, dated 29 April 1952, the following information is submitted:
 
-In compliance with AF letter 23-5, dated 27 July, 1950, the following information is submitted:
+(1) The single, orange-colored object, when viewed from a distance, appeared to be about the size of a pea or a basketball. It had the appearance [of] explosion-like brilliance, and seemed to be bean shaped. Its color, as observed [by the chemist], could be related to a flare temperature of approximately 2000 degrees Fahrenheit; the chemist [noted] the varying modes of the spectrum of a flare [at] different temperatures. The object made no sound of engine, jet, or [prop]; no propulsion systems were observed. The object remained motionless, did not give off any sound, and disappeared in much the same way as a light going out.
 
-(1) This single, saucer-colored object, then sighted from a distance, appeared to be about the size of a basketball. It was the appearance with distinctly white brilliance, and seemed to be beam shaped. The sighting was observed from 2000 to 2030 hours at Marshall, Texas, on 15 Sept 52. The object was stationary, this was in the vicinity of the western sky from an altitude of approximately 30° above the horizon. Weather conditions were clear, winds were light, no clouds, and disappeared in much the same area as a light point out.
+(2) This object or flash was observed at approximately 2230 hours CST, and remained visible for from five to twenty seconds, the discrepancy here being due to the varying estimates of the observers.
 
-(2) This object or trail was observed at 1930 hours CST, and was first sighted for two times to be only passing, the disappearance being over the surrounding area of Marshall.
+(3) A visual surface observation without optical or electronic equipment was made.
 
-(3) A visual surface observation without optical or electronic equipment.
+(4) The object was observed from two different locations. The first observer placed the object in the Northwest sky. By measuring the angle of the object to the ground visually, and estimating the distance to be three miles, this observer figured the altitude of the object to be 9000'. The second observer spotted the object in the East sky, and estimated it to be at an altitude of 20,000' and 15 miles distant.
 
-(4) The object was observed from two to 15 west and 10 northwest, and 15 miles south of Marshall, Texas. By measuring the angle of the object to the ground generally, and estimating the distance to be three miles, this observer placed the altitude of the object to be 3000'. The ground observer saw the object in the east sky, and stated it to be an altitude of 20,000 and 15 miles distant.
+(5) This object was observed by Dr. [REDACTED] and wife, of [REDACTED]. Dr. [REDACTED], as noted above, is a chemist, and his calculations of angle, color, temperature, etc., have [been] prepared with a rather exacting thoroughness and authority. His sighting was witnessed by his wife, [REDACTED].
 
-(5) [Mostly blacked out]
+(6) [renumbered — weather] At the time of the sighting the weather was rain. There were scattered clouds, and almost no wind.
 
-(6) [Mostly blacked out]
-
-(7) In addition or confirmation, meteorological or other data to have assisted would be wanted for this sighting.
+(7) No activity or condition, meteorological or otherwise, is known to have existed which may have accounted for the sighting.
 
 (8) No physical evidence of the sighting exists.
 
 (9) No interception or identification action taken.
 
-(10) Location of the activity in the general area at the time of the sighting is unknown.
-
+(10) Location of air activity in the general area at the time of the sighting is unknown.
 
 - page 5 -
 
 STATEMENT
 
-At approximately 2230 houre, CST, 7 September 1952, my wife and I were visiting friends at [redacted]. We were just leav-ing the residence when we noticed an unusual phenomenon in the East sky. A dark orange explosive-like flash appeared and remained visible for approximately three seconds then went out. This explosion appeared to be approximately fifteen miles distance at approximately twenty thousand feet altitude and appeared to be the size of a pea held at arms length.
+At approximately 2230 hours, CST, 7 September 1952, my wife and I were visiting friends at [REDACTED]. We were just leaving the residence when we noticed an unusual phenomenon in the East sky. A dark orange explosive-like flash appeared and remained visible for approximately three seconds then went out. This explosion appeared to be approximately fifteen miles distance at approximately twenty thousand feet altitude and appeared to be the size of a pea held at arms length.
 
 I certify that the above statement is true and correct to the best of my knowledge.
 
-[Signature area is redacted]
-
+[REDACTED]
 
 - page 6 -
 
-SECRET
+STATEMENT
 
-At 10:30 on the night of September seventh, 1952, my wife and I were sitting outside our house [redacted] when suddenly we saw a cherry-orange colored object appear in the Northwest sky. This object, or light, flashed on in much the same way as a firefly, and seemed to be about the size of a small dirigible. The object was at an angle of 30 degrees from the ground, and by estimating the distance at 3 miles, I placed the object to be at an altitude of 3000 feet. The object remained motionless, and in fifteen or twenty seconds it gradually disappeared.
-
-Its particular color would be equivalent to a Munsell color number of approximately 2000 degrees Fahrenheit. The object was then changed, about twice as long as it was wide, and did not change in size, color, or brightness. Nevertheless, it did not throb, pulsate, nor do any smoke, and there was no sound. To the best of my knowledge this object could not possibly be explained by the mechanics of any conventional aircraft, but it seems to me that it could possibly be due to the ionization of air.
+At 10:30 on the night of September seventh, 1952, my wife and I were sitting outside our house [REDACTED] when suddenly we saw a cherry orange colored object appear in the Northwest sky. This object, or light, flashed on in much the same way as a firefly, and seemed to be about the size of a small dirigible. The object was at an angle of 30 degrees from the ground, and by estimating its distance at 3 miles, I figured the object to be at an altitude of 9000'. The object remained motionless, and in fifteen or twenty seconds it suddenly disappeared. Its particular color could be equivalent to a flare temperature of approximately 2000 degrees Fahrenheit. The object was bean shaped, about twice as long as it was wide, and did not change in size, color, or brightness. Furthermore, it did not throb, pulsate, or give off smoke, and there was no sound. To the best of my knowledge this object could not possibly be explained by the presence of any conventional aircraft, but it seems to me that it could possibly be due to the ionization of air.
 
 I certify that the above statement is true and correct to the best of my knowledge.
 
+[REDACTED]
 
 - page 7 -
 
