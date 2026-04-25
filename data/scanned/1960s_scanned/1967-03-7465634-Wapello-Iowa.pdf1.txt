@@ -1,14 +1,39 @@
-The image does not contain any photographs. It appears to be a page from a Project Blue Book record, specifically for an incident that occurred in Wapello, Iowa.
-
-The text extracted from the document is:
-
 PROJECT 10073 RECORD
-2. LOCATION WAPELLO, IOWA
+
+1. DATE - TIME GROUP
+22 Mar 67     23/0320Z
+
+2. LOCATION
+Wapello, Iowa     1 Witness.
+
 3. SOURCE
-4. NUMBER OF OBJECTS ONE
-5. LENGTH OF OBSERVATION 1 minutes
-6. TYPE OF OBSERVATION Ground Visual
-7. COURSE South-West-North
-8. PHOTOS No
-9. PHYSICAL EVIDENCE No
-FTD F-PR-3-329 (TDE) Previous editions of this form may be used.
+Civilian
+
+10. CONCLUSION
+UNIDENTIFIED
+
+4. NUMBER OF OBJECTS
+One
+
+5. LENGTH OF OBSERVATION
+1 minutes ✓
+
+11. BRIEF SUMMARY AND ANALYSIS
+SEE CASE FILE
+
+6. TYPE OF OBSERVATION
+Ground Visual
+
+7. COURSE
+South West-North
+
+8. PHOTOS
+[ ] Yes
+[X] No
+
+9. PHYSICAL EVIDENCE
+[ ] Yes
+[X] No
+
+FORM
+FTD SCP 63 0-329 (TDE)     Previous editions of this form may be used.
